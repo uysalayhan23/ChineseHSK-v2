@@ -3713,5 +3713,27 @@
     "actionsRun": false,
     "buildTriggered": false,
     "reasonTr": "SC020 ilk aday TV UI; ikinci aday ZhangWei signature gözlük kaybı. SC021 LiuMei kimliği HSK1_SC001 kesin eşleşme denetimini bekliyor. Eski app/runtime sürümleri değişmeden korunuyor."
+  },
+  "hsk2Sc020Sc021CandidateAuditR4": {
+    "auditDate": "2026-10-10",
+    "scope": [
+      "ZH_HSK2_SC020",
+      "ZH_HSK2_SC021"
+    ],
+    "manifestVersion": "LOCKED_V2",
+    "status": "LOCAL_CANDIDATES_READY_BINARY_UPLOAD_PENDING",
+    "candidateSha256": {
+      "ZH_HSK2_SC020": "988ec92ec9f2cfae15ccbd6933a646ac93deea0404de19f2a515a17084c5920f",
+      "ZH_HSK2_SC021": "00739a2798474f10816b12e522c5db95508bb0fb5baa2595e74dad18cb0e697d"
+    },
+    "candidatePixels": [
+      941,
+      1672
+    ],
+    "appRuntimeMirrorUpdated": false,
+    "metadataPassAssigned": false,
+    "actionsRun": false,
+    "buildTriggered": false,
+    "notesTr": "Yerel QA: SC020 film gecesinde dört konuşmacı, Zhang Wei gözlüğü, Lele erkek, TV gömülü UI yok; SC021 kütüphanede üç konuşmacı ve kart/banko/bilgisayar var. Binaries GitHub'a yüklenmeden final QA PASS olmayacak."
   }
 }

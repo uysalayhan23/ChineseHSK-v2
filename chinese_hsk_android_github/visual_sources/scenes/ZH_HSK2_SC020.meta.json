@@ -98,5 +98,30 @@
       "LiuMei_identity_continuity_not_approved"
     ],
     "conclusionTr": "Görsel adayı üretildi, ancak kilitli canonical QA PASS verilmedi. Yeni WebP GitHub'a yüklenmedi; mevcut app/runtime blobları değiştirilmedi."
+  },
+  "candidateAuditR4": {
+    "auditDate": "2026-10-10",
+    "stage": "READY_FOR_BINARY_UPLOAD",
+    "candidateWebpFilename": "ZH_HSK2_SC020.webp",
+    "candidateSha256": "988ec92ec9f2cfae15ccbd6933a646ac93deea0404de19f2a515a17084c5920f",
+    "candidateBytes": 199356,
+    "candidatePixels": [
+      941,
+      1672
+    ],
+    "manifestVersion": "LOCKED_V2",
+    "localVisualChecks": {
+      "expectedDialogueCastPresent": true,
+      "LeleBoy": true,
+      "criticalObjectsPresent": true,
+      "cinematicVerticalSingleScene": true,
+      "appUiOverlaysAbsent": true,
+      "ZhangWeiSignatureGlasses": true,
+      "LiuMeiFaceHairApproximateMatch": true
+    },
+    "canonicalFullPassAfterGitHubBinaryVerification": false,
+    "appBinaryReplaced": false,
+    "runtimeMirrorReplaced": false,
+    "noteTr": "Yeni görsel yerelde incelendi ve WebP'ye dönüştürüldü. GitHub binary henüz değiştirilmedi; SHA256, metadata ve mirror kapatılmadan resmi PASS verilemez."
   }
 }

@@ -95,5 +95,30 @@
       "final_canonical_cross_scene_review_needed"
     ],
     "conclusionTr": "Görsel adayı üretildi, ancak kilitli canonical QA PASS verilmedi. Yeni WebP GitHub'a yüklenmedi; mevcut app/runtime blobları değiştirilmedi."
+  },
+  "candidateAuditR4": {
+    "auditDate": "2026-10-10",
+    "stage": "READY_FOR_BINARY_UPLOAD",
+    "candidateWebpFilename": "ZH_HSK2_SC021.webp",
+    "candidateSha256": "00739a2798474f10816b12e522c5db95508bb0fb5baa2595e74dad18cb0e697d",
+    "candidateBytes": 201070,
+    "candidatePixels": [
+      941,
+      1672
+    ],
+    "manifestVersion": "LOCKED_V2",
+    "localVisualChecks": {
+      "expectedDialogueCastPresent": true,
+      "LeleBoy": true,
+      "criticalObjectsPresent": true,
+      "cinematicVerticalSingleScene": true,
+      "appUiOverlaysAbsent": true,
+      "ZhangWeiSignatureGlasses": false,
+      "LiuMeiFaceHairApproximateMatch": true
+    },
+    "canonicalFullPassAfterGitHubBinaryVerification": false,
+    "appBinaryReplaced": false,
+    "runtimeMirrorReplaced": false,
+    "noteTr": "Yeni görsel yerelde incelendi ve WebP'ye dönüştürüldü. GitHub binary henüz değiştirilmedi; SHA256, metadata ve mirror kapatılmadan resmi PASS verilemez."
   }
 }

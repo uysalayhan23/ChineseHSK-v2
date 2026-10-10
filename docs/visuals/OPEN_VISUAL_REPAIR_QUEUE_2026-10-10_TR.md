@@ -117,3 +117,13 @@ Not: Aday dosyalar çalışma ortamındaki `/mnt/data/` altında oluşturuldu; b
 ### 2026-10-10 R3 kapanışı
 
 SC035, SC036 ve SC048 için doğru WebP görüntüleri app assetlerine yüklendi, SHA256 yerel aday değerleriyle eşleşti, runtime mirror GitHub'da **aynı Git blob SHA** referansıyla senkronlandı. Canonical kadro/obje/9:16/metinsizlik QA PASS. Actions çalıştırılmadı; build tetiklenmedi. HSK1 bu üç düzeltme bakımından kapandı.
+
+### 2026-10-10 R4 — HSK2_SC020 / SC021 final aday yükleme bekliyor
+
+| Sahne | Hazır WebP | Bayt | Yerel SHA256 | GitHub final |
+|---|---|---:|---|---|
+| ZH_HSK2_SC020 | ZH_HSK2_SC020.webp | 199356 | `988ec92ec9f2cfae15ccbd6933a646ac93deea0404de19f2a515a17084c5920f` | **PENDING** |
+| ZH_HSK2_SC021 | ZH_HSK2_SC021.webp | 201070 | `00739a2798474f10816b12e522c5db95508bb0fb5baa2595e74dad18cb0e697d` | **PENDING** |
+
+Her iki aday 941×1672 ve yerelde açılabilir. SC020: baba Zhang Wei gözlüklü, erkek Lele ve sahne eşyaları mevcut; gömülü TV menüsü yok. SC021: erkek Lele, Liu Mei ve kütüphaneci, kart/kitap/banko/bilgisayar mevcut. **App ve runtime mirror mevcut eski binary'ler olarak korunur.** Tekrar yazılmadan QA PASS işaretlenmez. Yükleme sonrası Git blob + gerçek SHA256, cast/continuity ve mirror eşleşmesi doğrulanmalı. [skip ci]; Actions kullanma.
+

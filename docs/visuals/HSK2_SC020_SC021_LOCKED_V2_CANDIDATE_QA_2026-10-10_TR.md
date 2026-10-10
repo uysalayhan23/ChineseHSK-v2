@@ -24,3 +24,12 @@ Aday 941×1672 WebP, 188148 bayt, SHA256 `da7f2461f01dbc64c077bac532819ae464b736
 3. App source + `ci/runtime_visuals` fiziksel WebP dosyaları aynı Git blob SHA'sına sahip olmalı.
 4. Yeni binary GitHub'dan tekrar okunup SHA256, metadata ve visual_batch_status kapanışı onaylanmalı.
 5. Actions çalıştırılmadı; CI için bir PASS iddiası yok.
+
+## R4 — Gözle yeniden denetlenmiş final adaylar (2026-10-10)
+
+SC020 ve SC021 yeniden üretildi. Yeni dosyalar **GitHub'ın henüz hiçbir klasörüne aktarılmamıştır.**
+
+- SC020: `ZH_HSK2_SC020.webp`, 941×1672, 199356 bayt, SHA256 `988ec92ec9f2cfae15ccbd6933a646ac93deea0404de19f2a515a17084c5920f`. Zhang Wei'nin gözlüğü mevcut; aile 4 kişi; erkek Lele; TV'de UI/menü bulunmuyor.
+- SC021: `ZH_HSK2_SC021.webp`, 941×1672, 201070 bayt, SHA256 `00739a2798474f10816b12e522c5db95508bb0fb5baa2595e74dad18cb0e697d`. Lele erkek çocuk, Liu Mei, kütüphaneci ve kütüphane kartı/banko/bilgisayar görünür.
+- Doğrulama: Yerel dosya bütünlüğü ve görsel ön kontrol yapıldı. **GitHub yükleme, app/runtime mirror, GitHub SHA256, final canonical closure henüz yok.**
+- Eski `qaStatus: FAIL` ve `status: CORRECTION_REQUIRED` korunmuştur. Actions kullanılmadı.
