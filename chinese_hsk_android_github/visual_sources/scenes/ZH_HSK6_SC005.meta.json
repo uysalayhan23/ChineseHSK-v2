@@ -8,7 +8,7 @@
   "dialogueSha256": "597f91b4649a93838f1d66c69b212c2da62cc88ecd5e0c205856cbdc95b6b4f3",
   "titleZh": "奶奶讲自己的婚礼",
   "titleTr": "Büyükannenin Eski Düğün Hikâyesi",
-  "locationId": "LOC_ZH_NEW_HOME_001",
+  "locationId": "LOC_ZH_GRANDPARENTS_HOME_001",
   "timeOfDay": "evening",
   "scenePurposeTr": "Büyükanne kendi gençliğindeki düğünü ayrıntılı bir hikâye olarak anlatır.",
   "dialogueSpeakers": [
@@ -83,7 +83,20 @@
   "qaStatus": "PASS",
   "status": "FINAL_GENERATED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog, konuşmacı kadrosu, yaş sürekliliği ve 1080×1920 WebP kontrolleri geçti. APK build başlatılmadı.",
+  "qaNoteTr": "LOCKED_V2 SC001-SC010 kaynak veri hizalaması: mevcut doğru görsel korunuyor; yardımcı metadata konumu LOC_ZH_NEW_HOME_001 yerine gerçek scene JSON'daki LOC_ZH_GRANDPARENTS_HOME_001 ile hizalandı. Tek sahne, exact cast ve görsel QA yeniden denetlendi; yeni görsel üretilmedi.",
   "generationPrompt": "Büyükanne eski bir düğün fotoğrafını gösterip anlatırken Yutong, Liu Mei ve Zhang dikkatle dinliyor.",
-  "styleReferenceSceneId": "ZH_HSK6_SC001"
+  "styleReferenceSceneId": "ZH_HSK6_SC001",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "exactCastChecked": true,
+    "settingMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "sourceLocationId": "LOC_ZH_GRANDPARENTS_HOME_001",
+    "appRuntimeMirrorBlobMatch": true,
+    "actionsRun": false
+  }
 }

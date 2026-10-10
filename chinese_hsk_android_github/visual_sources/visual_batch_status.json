@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK5_FULL_SC001_SC050_VISUAL_QA_R1_2026-10-10",
+  "latestVisualRevision": "HSK6_SC001_SC010_VISUAL_QA_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -3405,5 +3405,64 @@
     "uniqueAssetBlobCheck": "PASS_50_DISTINCT",
     "actionsRun": false,
     "notesTr": "50 gerçek JSON ve LOCKED_V2 meta ile görsel QA tamamlandı: 45 mevcut görsel korundu, 5 Li Chen kimlik hatası içeriyor. HSK5_SC032–034, SC047, SC049'da Li Chen HSK5 SENIOR yerine genç partner gösterilmiş. Yanlış ageLock ve yönlendirici metalar düzeltilerek FAIL durumuna alındı; bozuk WebP'ler doğru yeni binary gelene kadar değiştirilmedi. Tüm 50 app/runtime SHA eşleşir, her sahnenin WebP SHA'sı ayrıdır."
+  },
+  "hsk6Sc001Sc010VisualQaR1": {
+    "auditDate": "2026-10-10",
+    "auditSourceHead": "12e1cc45f8b0926726b333018c196bd6e399a8ab",
+    "manifestVersion": "LOCKED_V2",
+    "referenceStyleSceneId": "ZH_HSK1_SC001",
+    "scope": [
+      "ZH_HSK6_SC001",
+      "ZH_HSK6_SC002",
+      "ZH_HSK6_SC003",
+      "ZH_HSK6_SC004",
+      "ZH_HSK6_SC005",
+      "ZH_HSK6_SC006",
+      "ZH_HSK6_SC007",
+      "ZH_HSK6_SC008",
+      "ZH_HSK6_SC010",
+      "ZH_HSK6_SC009"
+    ],
+    "status": "CORRECTION_REQUIRED",
+    "passSceneIds": [
+      "ZH_HSK6_SC001",
+      "ZH_HSK6_SC002",
+      "ZH_HSK6_SC003",
+      "ZH_HSK6_SC004",
+      "ZH_HSK6_SC005",
+      "ZH_HSK6_SC006",
+      "ZH_HSK6_SC007",
+      "ZH_HSK6_SC008",
+      "ZH_HSK6_SC010"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK6_SC009"
+    ],
+    "reasons": {
+      "ZH_HSK6_SC009": [
+        "LiChen_replaced_by_young_partner",
+        "LiChen_missing_signature_glasses",
+        "LiChen_maturity_lock_conflict"
+      ]
+    },
+    "metadataOnlyCorrections": [
+      "ZH_HSK6_SC002",
+      "ZH_HSK6_SC005",
+      "ZH_HSK6_SC008",
+      "ZH_HSK6_SC010"
+    ],
+    "regeneratedSceneIds": [],
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_10",
+    "actionsRun": false,
+    "noteTr": "HSK6_SC001–010 görsel ve metadata denetlendi; 4 sahne kanonik location ID hizalamasıyla korundu. SC009 Li Chen yüz/gözlük/yaş continuity hatası nedeniyle FAIL; yeni doğru binary bekliyor."
+  },
+  "hsk6VisualStructuralIntegrityR1": {
+    "auditDate": "2026-10-10",
+    "scope": "HSK6_SC001_SC050",
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_50",
+    "uniqueAssetBlobCheck": "PASS_50_DISTINCT",
+    "visualQaCoverage": "SC001_SC010_ONLY",
+    "notesTr": "Tüm HSK6 50/50 blob eşleşmesi ve 50 benzersiz görsel SHA kontrol edildi. Bu kontrol tam seviye görsel QA sonucu değildir; SC011–SC050 ayrıntılı görsel denetim bekler.",
+    "actionsRun": false
   }
 }

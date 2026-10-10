@@ -8,7 +8,7 @@
   "dialogueSha256": "ab63b2cc0396a9c28815a4668676773202be78752e2521c3161604d5a01dad0f",
   "titleZh": "两家人正式见面",
   "titleTr": "İki Ailenin İlk Resmi Buluşması",
-  "locationId": "LOC_ZH_PRIVATE_DINING_001",
+  "locationId": "LOC_ZH_RESTAURANT_001",
   "timeOfDay": "evening",
   "scenePurposeTr": "İki aile ilk kez resmî sayılabilecek bir yemekte tanışır.",
   "dialogueSpeakers": [
@@ -84,7 +84,20 @@
   "qaStatus": "PASS",
   "status": "FINAL_GENERATED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog, konuşmacı kadrosu, yaş sürekliliği ve 1080×1920 WebP kontrolleri geçti. APK build başlatılmadı.",
+  "qaNoteTr": "LOCKED_V2 SC001-SC010 kaynak veri hizalaması: mevcut doğru görsel korunuyor; yardımcı metadata konumu LOC_ZH_PRIVATE_DINING_001 yerine gerçek scene JSON'daki LOC_ZH_RESTAURANT_001 ile hizalandı. Tek sahne, exact cast ve görsel QA yeniden denetlendi; yeni görsel üretilmedi.",
   "generationPrompt": "İki aile bireylerinin resmî ilk yemeği, nazik gülümsemeler ve hafif ilk tanışma heyecanı.",
-  "styleReferenceSceneId": "ZH_HSK6_SC001"
+  "styleReferenceSceneId": "ZH_HSK6_SC001",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "exactCastChecked": true,
+    "settingMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "sourceLocationId": "LOC_ZH_RESTAURANT_001",
+    "appRuntimeMirrorBlobMatch": true,
+    "actionsRun": false
+  }
 }

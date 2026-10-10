@@ -33,7 +33,7 @@
   "characterAgeLock": {
     "张伟": "senior_male_parent",
     "刘梅": "senior_female_parent",
-    "李晨": "young_adult_male_partner",
+    "李晨": "senior_male_family_friend_canonical_thin_dark_rectangular_glasses",
     "奶奶": "senior_female_grandparent"
   },
   "criticalObjects": [
@@ -41,7 +41,7 @@
     "çerçevesiz düğün fotoğrafı",
     "çay takımı"
   ],
-  "visualDirectionTr": "Düğünden sonra evin sessizliği aileye yeni yaşam düzenini düşündürür.",
+  "visualDirectionTr": "Akşam aile evinde yalnız 张伟, 刘梅, 李晨 ve 奶奶 evin sessizliğini ve yeni yaşam evresini konuşur. 李晨 genç partner değil, HSK6 SENIOR olgun erkek aile dostu olarak ince koyu dikdörtgen gözlük, karaktere özgü olgun yüz ve düzenli saç ile görünmelidir.",
   "continuity": {
     "previousSceneId": "ZH_HSK6_SC008",
     "nextSceneId": "ZH_HSK6_SC010",
@@ -53,8 +53,8 @@
   "narrationPresentation": null,
   "manifestChecklist": {
     "dialogueChecked": true,
-    "castChecked": true,
-    "allDialogueSpeakersVisible": true,
+    "castChecked": false,
+    "allDialogueSpeakersVisible": false,
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
     "style3d25dCgi": true,
@@ -64,9 +64,9 @@
     "noMiniSkirt": true,
     "noSexyClothing": true,
     "criticalObjectsVisible": true,
-    "canonicalCharacterContinuityChecked": true,
+    "canonicalCharacterContinuityChecked": false,
     "uniqueSceneIdChecked": true,
-    "hsk6MaturityLockChecked": true
+    "hsk6MaturityLockChecked": false
   },
   "sourceGeneratedFilename": "ZH_HSK6_SC009.png",
   "finalAssetFilename": "ZH_HSK6_SC009.webp",
@@ -80,10 +80,30 @@
     "sha256": "674d03bd5dc8a2e697f199978b673f214ece5b797694e4639ab6e16e9756b8ff",
     "bytes": 409944
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog, konuşmacı kadrosu, yaş sürekliliği ve 1080×1920 WebP kontrolleri geçti. APK build başlatılmadı.",
+  "qaNoteTr": "HSK6_SC009 LOCKED_V2 visual QA FAIL: gerçek JSON 李晨 HSK6 SENIOR olgun erkek aile dostunu gerektiriyor; mevcut görsel Li Chen'in canonical yüzü ve ince dikdörtgen gözlükleri yerine gözlüksüz genç erkek içeriyor. Eski metadata young_adult_male_partner hatası düzeltildi. WebP ve mirror henüz değiştirilmedi.",
   "generationPrompt": "Düğün sonrası sakin aile salonunda Zhang, Liu, Li Chen ve büyükanne sessizce oturuyor.",
-  "styleReferenceSceneId": "ZH_HSK6_SC001"
+  "styleReferenceSceneId": "ZH_HSK6_SC001",
+  "generationPromptStatus": "REJECTED_WRONG_CHARACTER_IDENTITY_LEGACY",
+  "nextGenerationPrompt": "ZH_HSK6_SC009: LOCKED_V2 gerçek scene JSON + HSK6 maturity lock + character bible, exact cast 张伟 + 刘梅 + 李晨 + 奶奶. 李晨 HSK6 SENIOR, ince koyu dikdörtgen gözlük, olgun yaşta erkek aile dostudur, gözlüksüz genç partner veya Lele değildir. LOC_ZH_NEW_HOME_001, ev sessizleşiyor akşam sahnesi, kritik objeler düğün çiçeği, çerçevesiz düğün fotoğrafı, çay takımı. HSK1_SC001 referans sıcak 2.5D/3D CGI, tek sahne 9:16 yazısız/logosuz.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": false,
+    "speakerCountMatch": false,
+    "settingMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": false,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "rejectionReasons": [
+      "LiChen_replaced_by_young_partner",
+      "LiChen_missing_signature_glasses",
+      "LiChen_maturity_lock_conflict"
+    ],
+    "appRuntimeMirrorBlobMatch": true,
+    "actionsRun": false
+  }
 }

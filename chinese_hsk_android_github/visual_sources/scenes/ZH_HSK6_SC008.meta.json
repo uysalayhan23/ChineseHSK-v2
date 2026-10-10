@@ -8,7 +8,7 @@
   "dialogueSha256": "c261e3ea477fe0c953cab5d21b9a6b580a3af0e6f6a3c42acbec9b2e68ba2637",
   "titleZh": "张伟的婚礼致辞",
   "titleTr": "Zhang’ın Düğün Konuşması",
-  "locationId": "LOC_ZH_WEDDING_RECEPTION_001",
+  "locationId": "LOC_ZH_WEDDING_VENUE_001",
   "timeOfDay": "evening",
   "scenePurposeTr": "Zhang kızının çocukluğundan bugüne uzanan duygulu bir konuşma yapar.",
   "dialogueSpeakers": [
@@ -84,7 +84,20 @@
   "qaStatus": "PASS",
   "status": "FINAL_GENERATED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog, konuşmacı kadrosu, yaş sürekliliği ve 1080×1920 WebP kontrolleri geçti. APK build başlatılmadı.",
+  "qaNoteTr": "LOCKED_V2 SC001-SC010 kaynak veri hizalaması: mevcut doğru görsel korunuyor; yardımcı metadata konumu LOC_ZH_WEDDING_RECEPTION_001 yerine gerçek scene JSON'daki LOC_ZH_WEDDING_VENUE_001 ile hizalandı. Tek sahne, exact cast ve görsel QA yeniden denetlendi; yeni görsel üretilmedi.",
   "generationPrompt": "Zhang düğün resepsiyonunda konuşurken Yutong, Liu Mei ve tek bir konuk onu dinliyor; başka kişi görünmüyor.",
-  "styleReferenceSceneId": "ZH_HSK6_SC001"
+  "styleReferenceSceneId": "ZH_HSK6_SC001",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "exactCastChecked": true,
+    "settingMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "sourceLocationId": "LOC_ZH_WEDDING_VENUE_001",
+    "appRuntimeMirrorBlobMatch": true,
+    "actionsRun": false
+  }
 }

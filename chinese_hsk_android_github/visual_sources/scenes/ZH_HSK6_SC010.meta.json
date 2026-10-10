@@ -8,7 +8,7 @@
   "dialogueSha256": "ec160b9fb1952ffd41beed6b32d5f1e582947b01dfa92f1d340e05e87dc2d94f",
   "titleZh": "乐乐毕业了",
   "titleTr": "Lele Üniversiteden Mezun Oluyor",
-  "locationId": "LOC_ZH_UNIVERSITY_CAMPUS_001",
+  "locationId": "LOC_ZH_UNIVERSITY_001",
   "timeOfDay": "day",
   "scenePurposeTr": "Lele yaratıcı alandaki eğitimini tamamlayıp mesleğini seçer.",
   "dialogueSpeakers": [
@@ -83,7 +83,20 @@
   "qaStatus": "PASS",
   "status": "FINAL_GENERATED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog, konuşmacı kadrosu, yaş sürekliliği ve 1080×1920 WebP kontrolleri geçti. APK build başlatılmadı.",
+  "qaNoteTr": "LOCKED_V2 SC001-SC010 kaynak veri hizalaması: mevcut doğru görsel korunuyor; yardımcı metadata konumu LOC_ZH_UNIVERSITY_CAMPUS_001 yerine gerçek scene JSON'daki LOC_ZH_UNIVERSITY_001 ile hizalandı. Tek sahne, exact cast ve görsel QA yeniden denetlendi; yeni görsel üretilmedi.",
   "generationPrompt": "Üniversite avlusunda Lele mezuniyet cübbesiyle; ebeveynleri ve tek akademik danışmanı yanında, kamera meslek ipucu.",
-  "styleReferenceSceneId": "ZH_HSK6_SC001"
+  "styleReferenceSceneId": "ZH_HSK6_SC001",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "exactCastChecked": true,
+    "settingMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "sourceLocationId": "LOC_ZH_UNIVERSITY_001",
+    "appRuntimeMirrorBlobMatch": true,
+    "actionsRun": false
+  }
 }
