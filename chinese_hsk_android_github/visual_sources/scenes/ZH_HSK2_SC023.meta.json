@@ -74,5 +74,41 @@
       "extra_non_dialogue_prominent_character"
     ],
     "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+  },
+  "candidateAuditR6": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "sourceVerified": true,
+    "sceneId": "ZH_HSK2_SC023",
+    "expectedCast": [
+      "刘梅",
+      "邻居",
+      "张伟"
+    ],
+    "expectedLocationId": "LOC_ZH_NEW_HOME_001",
+    "expectedCriticalObjects": [
+      "özel pasta örnekleri",
+      "pasta tasarım çizimleri",
+      "sipariş not defteri",
+      "ev/pasta çalışma masası"
+    ],
+    "candidateFile": "ZH_HSK2_SC023_candidate.webp",
+    "candidateSha256": "3f7726c8665fa6a37e60cd55d920b567943ed4d2f149b766ac77f4c37254ad14",
+    "candidateBytes": 206380,
+    "candidatePixels": [
+      941,
+      1672
+    ],
+    "status": "REJECTED_EXACT_CAST_OR_CONTEXT",
+    "rejectionReasons": [
+      "candidate_shows_two_children_not_in_dialogue",
+      "cake_order_context_missing",
+      "cake_design_sketches_and_order_notebook_missing"
+    ],
+    "appBinaryReplaced": false,
+    "runtimeMirrorReplaced": false,
+    "correctedProductionBriefTr": "Liu Mei, yetişkin komşu ve gözlüklü Zhang Wei yalnız üç yetişkin; evde pasta siparişi masası; pasta örnekleri, tasarım çizimleri, sipariş defteri.",
+    "qaPassAssigned": false,
+    "actionsRun": false
   }
 }

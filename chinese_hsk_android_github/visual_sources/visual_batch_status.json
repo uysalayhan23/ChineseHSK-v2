@@ -3754,5 +3754,25 @@
     "actionsRun": false,
     "buildTriggered": false,
     "remainingHsk2R2Corrections": 8
+  },
+  "hsk2Sc023Sc025CandidateAuditR6": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "sceneIds": [
+      "ZH_HSK2_SC023",
+      "ZH_HSK2_SC025"
+    ],
+    "status": "REJECTED_EXACT_CAST_AND_CONTEXT",
+    "candidateSha256": {
+      "ZH_HSK2_SC023": "3f7726c8665fa6a37e60cd55d920b567943ed4d2f149b766ac77f4c37254ad14",
+      "ZH_HSK2_SC025": "0149a2f85734e6446b5943d1b7d0e60ec3c13754ecf7ff3879d8c0558a1a5cc6"
+    },
+    "oldAppAssetsPreserved": true,
+    "oldRuntimeMirrorsPreserved": true,
+    "qaPassAssigned": false,
+    "actionsRun": false,
+    "buildTriggered": false,
+    "openHsk2Corrections": 8,
+    "noteTr": "Diyalog kaynaklarıyla kadro ve lokasyon denetimi yapıldı: SC023 aile sofrası adayı yanlış, doğru sahne yalnız Liu Mei + komşu + Zhang Wei ile pasta siparişi. SC025 evde iki kişi çalışma sahnesi yanlış, doğru sahne Zhang Wei + gözlüklü Li Chen + Liu Mei ile çay evi. Hatalı binary GitHub'a yüklenmedi."
   }
 }

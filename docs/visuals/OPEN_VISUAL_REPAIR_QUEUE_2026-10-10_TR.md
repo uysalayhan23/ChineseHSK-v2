@@ -131,3 +131,12 @@ Her iki aday 941×1672 ve yerelde açılabilir. SC020: baba Zhang Wei gözlükl�
 ### 2026-10-10 R5 — HSK2_SC020 ve SC021 binary kapanışı
 
 SC020 ve SC021 için app authoritative WebP'ler GitHub'a kullanıcı tarafından yüklendi; yerel aday Git blob SHA eşleşmeleri doğrulandı. `ci/runtime_visuals` aynaları **aynı blob SHA** ile güncellendi. Her iki sahne konuşmacı/kadro ve nesne kontrollü LOCKED_V2 QA PASS; Lele erkek, SC020 Zhang Wei gözlüklü ve UI'siz. Meta/visual_batch_status kapanışı yapıldı, diğer 8 HSK2 onarım açık. Actions kullanılmadı, APK build tetiklenmedi. R4 öncesi PENDING notları tarihsel kayıt niteliğindedir; en güncel sonuç R5'tir.
+
+### 2026-10-10 R6 — HSK2_SC023 ve SC025 yeniden QA / aday reddi
+
+Kaynak diyaloglar: `ci/dialogue_final_v5/HSK2/ZH_HSK2_SC023.json` ve `...SC025.json`. Aday görselleri WebP'ye çevrildi ve SHA256 alındı, ancak LOCKED_V2 kadro/konu koşullarına uymadıkları için **ikisi de REDDEDİLDİ**. 
+
+- [ ] `ZH_HSK2_SC023`: yalnız Liu Mei (刘梅), yetişkin komşu (邻居), Zhang Wei (张伟) ve evde özel pasta siparişi — önceki aday aile yemeği + iki çocuk içeriyor, pasta tasarımları/sipariş not defteri yok. Aday SHA256 `3f7726c8665fa6a37e60cd55d920b567943ed4d2f149b766ac77f4c37254ad14` (941×1672, 206380 bayt).
+- [ ] `ZH_HSK2_SC025`: yalnız Zhang Wei (张伟), koyu dikdörtgen gözlüklü Li Chen (李晨), Liu Mei (刘梅), geleneksel çay evi, çaydanlık ve fincanlar — önceki aday ev ortamında iki kişilik ders sahnesi. Aday SHA256 `0149a2f85734e6446b5943d1b7d0e60ec3c13754ecf7ff3879d8c0558a1a5cc6` (941×1672, 146832 bayt).
+
+**App authoritative WebP ve `ci/runtime_visuals` eski eşleşen binary durumunda bırakıldı.** PASS yok, mirror yeniden üretimi yok; Actions çalıştırılmadı. Yeni görseller önce bu sahne brifleriyle üretilmeli ve kesin kadro, görsel, canonical continuity, SHA256 ve mirror testlerini geçmelidir.

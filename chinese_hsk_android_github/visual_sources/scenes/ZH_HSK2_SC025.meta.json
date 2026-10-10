@@ -74,5 +74,43 @@
       "LiChen_identity_drift_missing_signature_glasses"
     ],
     "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+  },
+  "candidateAuditR6": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "sourceVerified": true,
+    "sceneId": "ZH_HSK2_SC025",
+    "expectedCast": [
+      "张伟",
+      "李晨",
+      "刘梅"
+    ],
+    "expectedLocationId": "LOC_ZH_TEA_HOUSE_001",
+    "expectedCriticalObjects": [
+      "çaydanlık",
+      "çay fincanları",
+      "çay evi masası",
+      "geleneksel çay evi iç mekânı"
+    ],
+    "candidateFile": "ZH_HSK2_SC025_candidate.webp",
+    "candidateSha256": "0149a2f85734e6446b5943d1b7d0e60ec3c13754ecf7ff3879d8c0558a1a5cc6",
+    "candidateBytes": 146832,
+    "candidatePixels": [
+      941,
+      1672
+    ],
+    "status": "REJECTED_EXACT_CAST_OR_CONTEXT",
+    "rejectionReasons": [
+      "candidate_shows_only_two_people",
+      "LiuMei_and_LiChen_not_both_present",
+      "tea_house_context_missing",
+      "teapot_and_tea_cups_missing",
+      "LiChen_signature_rectangular_glasses_not_verified"
+    ],
+    "appBinaryReplaced": false,
+    "runtimeMirrorReplaced": false,
+    "correctedProductionBriefTr": "Zhang Wei gözlüklü, Li Chen ince koyu dikdörtgen gözlüklü, Liu Mei kadın; tam üç yetişkin; geleneksel çay evinde çaydanlık/fincanlı masada oturup yeni şehir yaşamını konuşuyor.",
+    "qaPassAssigned": false,
+    "actionsRun": false
   }
 }
