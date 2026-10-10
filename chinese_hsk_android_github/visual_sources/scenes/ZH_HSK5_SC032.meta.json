@@ -33,7 +33,7 @@
   "characterAgeLock": {
     "张伟": "senior_male_parent",
     "刘梅": "senior_female_parent",
-    "李晨": "young_adult_male_partner",
+    "李晨": "senior_male_family_friend_canonical_thin_dark_rectangular_glasses",
     "张雨桐": "adult_female"
   },
   "criticalObjects": [
@@ -41,7 +41,7 @@
     "boş not defteri",
     "meyve tabağı"
   ],
-  "visualDirectionTr": "Aynı aile evinde akşam Zhang, Liu Mei, yetişkin Yutong ve onun genç yetişkin partneri yüksek maaş ile aileye ayrılan zamanı tartışır.",
+  "visualDirectionTr": "LOC_ZH_NEW_HOME_001 akşam sahnesinde yalnız 张伟, 刘梅, 李晨 ve yetişkin 张雨桐 yüksek maaş ile aileye ayrılan zamanı tartışır. 李晨, character bible'daki yaş almış erkek aile dostu kimliğiyle, kısa siyah/kırlaşmış düzenli saç ve ince koyu dikdörtgen gözlükle görünür; Yutong'un genç partneriyle karıştırılmaz.",
   "continuity": {
     "previousSceneId": "ZH_HSK5_SC031",
     "nextSceneId": "ZH_HSK5_SC033",
@@ -51,7 +51,7 @@
   },
   "manifestChecklist": {
     "dialogueChecked": true,
-    "castChecked": true,
+    "castChecked": false,
     "allDialogueSpeakersVisible": true,
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
@@ -62,7 +62,7 @@
     "noMiniSkirt": true,
     "noSexyClothing": true,
     "criticalObjectsVisible": true,
-    "canonicalCharacterContinuityChecked": true,
+    "canonicalCharacterContinuityChecked": false,
     "uniqueSceneIdChecked": true,
     "hsk5MaturityLockChecked": true
   },
@@ -78,10 +78,34 @@
     "sha256": "b51281aa9e22e0717178ec5a3b7b55a6df36b3dcb71b95f80395ac4f1291152e",
     "bytes": 433114
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "HSK5 SC031-SC040 grubu; SC030 aile/stil referansı ve HSK5 olgunluk kilidi korundu. Kaynak kadrosu, 9:16 WebP ve hash kontrolleri geçti. APK build başlatılmadı.",
+  "qaNoteTr": "LOCKED_V2 yeniden görsel denetim FAIL: gerçek scene JSON ve dialogue 李晨'i gerektiriyor; mevcut görseldeki genç erkek partner 李晨'in 43 yaş başlangıcı/HSK5 SENIOR varyantı, yüzü ve ince koyu dikdörtgen gözlüğüyle eşleşmiyor. Eski meta visualDirectionTr, 李晨'i yanlışlıkla Yutong partneri olarak etiketlemişti; bu bilgi düzeltildi. Binary korunuyor, QA PASS değil. Yeni 9:16 exact cast görsel gelene kadar app/runtime mirror değiştirilmedi.",
   "generationPrompt": "SC021 aile referansı; Zhang, Liu, yetişkin Yutong ve aynı koyu ceketli genç erkek partner; aynı akşam evi.",
-  "styleReferenceSceneId": "ZH_HSK5_SC030"
+  "styleReferenceSceneId": "ZH_HSK5_SC030",
+  "generationPromptStatus": "REJECTED_WRONG_CHARACTER_IDENTITY_LEGACY",
+  "nextGenerationPrompt": "ZH_HSK5_SC032 için gerçek scene JSON + LOCKED_V2 + HSK5 maturity lock + character bible doğrula. Exact cast yalnız 张伟, 刘梅, 李晨, 张雨桐. Li Chen, HSK5 SENIOR erkek aile dostu; ince koyu dikdörtgen gözlük, yaşına uygun yüz/saç; genç partner olarak gösterme. LOC_ZH_NEW_HOME_001, akşam, maaş/zaman dengesi sohbeti, çay takımı, boş not defteri, meyve tabağı. HSK1_SC001 sıcak 2.5D/3D CGI, 9:16, tek sahne, yazısız/logosuz, SC031→SC032→SC033 continuity.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": false,
+    "speakerCountMatch": false,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": false,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "previousSceneId": "ZH_HSK5_SC031",
+    "nextSceneId": "ZH_HSK5_SC033",
+    "rejectionReasons": [
+      "LiChen_replaced_by_young_partner",
+      "LiChen_missing_signature_thin_rectangular_glasses",
+      "LiChen_age_and_identity_drift",
+      "legacy_meta_incorrectly_labeled_LiChen_as_partner"
+    ],
+    "appRuntimeMirrorBlobMatch": true,
+    "actionsRun": false
+  }
 }

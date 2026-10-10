@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK5_SC001_SC024_VISUAL_QA_R1_2026-10-10",
+  "latestVisualRevision": "HSK5_SC025_SC032_VISUAL_QA_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -3121,5 +3121,46 @@
     "maturityLock": "HSK5_CHARACTER_MATURITY_LOCK",
     "actionsRun": false,
     "noteTr": "HSK5 SC001-SC024 için gerçek scene JSON, LOCKED_V2 meta, exact dialogue cast, location, önceki/sonraki continuity ve görseller topluca yeniden incelendi. HSK1_SC001 sıcak 2.5D/3D CGI referans stili, yaş ilerlemesi, Zhang Wei gözlük kimliği, Liu Mei/Yutong/Lele yüz kimliği ve no-text/9:16 tek sahne şartlarında yeni düzeltme gerektiren kanıtlı ihlal saptanmadı. 24/24 app ve runtime mirror SHA eşleşti, 24 ayrı sahne benzersiz WebP blobu kullanıyor. Görseller ve mevcut metadata değiştirilmedi."
+  },
+  "hsk5Sc025Sc032VisualQaR1": {
+    "auditDate": "2026-10-10",
+    "auditSourceHead": "606ed4dd9a9d91b301278627ecff53c34b45ab48",
+    "manifestVersion": "LOCKED_V2",
+    "referenceStyleSceneId": "ZH_HSK1_SC001",
+    "scope": [
+      "ZH_HSK5_SC025",
+      "ZH_HSK5_SC026",
+      "ZH_HSK5_SC027",
+      "ZH_HSK5_SC028",
+      "ZH_HSK5_SC029",
+      "ZH_HSK5_SC030",
+      "ZH_HSK5_SC031",
+      "ZH_HSK5_SC032"
+    ],
+    "status": "CORRECTION_REQUIRED",
+    "passSceneIds": [
+      "ZH_HSK5_SC025",
+      "ZH_HSK5_SC026",
+      "ZH_HSK5_SC027",
+      "ZH_HSK5_SC028",
+      "ZH_HSK5_SC029",
+      "ZH_HSK5_SC030",
+      "ZH_HSK5_SC031"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK5_SC032"
+    ],
+    "reasons": {
+      "ZH_HSK5_SC032": [
+        "LiChen_replaced_by_young_partner",
+        "LiChen_missing_signature_glasses",
+        "LiChen_maturity_lock_conflict",
+        "legacy_meta_cast_label_contradiction"
+      ]
+    },
+    "regeneratedSceneIds": [],
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_8",
+    "actionsRun": false,
+    "noteTr": "SC025–SC032 gerçek görsel QA: 7 sahne korunuyor. SC032'de diyalogdaki yaş almış Li Chen yerine genç partner çizilmiş. Eski meta yanlış partner etiketini içeriyordu; meta karakter yönü düzeltildi, binary yeniden üretilmedi ve FAIL olarak kaldı."
   }
 }
