@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK3_FULL_VISUAL_QA_R1_2026-10-10",
+  "latestVisualRevision": "HSK4_FULL_VISUAL_QA_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -2964,5 +2964,95 @@
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
     "noteTr": "HSK3 50/50 LOCKED_V2 + character bible + HSK1_SC001 stil referansı ile toplu denetlendi. 37 sahne korunuyor, 13 sahne gerçek görsel düzeltme gerektiriyor. Metadata-only düzeltmeler SC015 ve SC018. Yanlış görseller PASS sayılmadı."
+  },
+  "hsk4FullVisualQaR1": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
+    "styleReferenceSceneId": "ZH_HSK1_SC001",
+    "totalScenes": 50,
+    "passCount": 43,
+    "correctionRequiredCount": 7,
+    "passSceneIds": [
+      "ZH_HSK4_SC001",
+      "ZH_HSK4_SC002",
+      "ZH_HSK4_SC003",
+      "ZH_HSK4_SC004",
+      "ZH_HSK4_SC005",
+      "ZH_HSK4_SC006",
+      "ZH_HSK4_SC007",
+      "ZH_HSK4_SC008",
+      "ZH_HSK4_SC009",
+      "ZH_HSK4_SC010",
+      "ZH_HSK4_SC011",
+      "ZH_HSK4_SC012",
+      "ZH_HSK4_SC013",
+      "ZH_HSK4_SC017",
+      "ZH_HSK4_SC018",
+      "ZH_HSK4_SC019",
+      "ZH_HSK4_SC020",
+      "ZH_HSK4_SC021",
+      "ZH_HSK4_SC022",
+      "ZH_HSK4_SC023",
+      "ZH_HSK4_SC024",
+      "ZH_HSK4_SC025",
+      "ZH_HSK4_SC026",
+      "ZH_HSK4_SC027",
+      "ZH_HSK4_SC028",
+      "ZH_HSK4_SC029",
+      "ZH_HSK4_SC030",
+      "ZH_HSK4_SC031",
+      "ZH_HSK4_SC032",
+      "ZH_HSK4_SC033",
+      "ZH_HSK4_SC037",
+      "ZH_HSK4_SC038",
+      "ZH_HSK4_SC039",
+      "ZH_HSK4_SC040",
+      "ZH_HSK4_SC041",
+      "ZH_HSK4_SC042",
+      "ZH_HSK4_SC043",
+      "ZH_HSK4_SC044",
+      "ZH_HSK4_SC045",
+      "ZH_HSK4_SC046",
+      "ZH_HSK4_SC048",
+      "ZH_HSK4_SC049",
+      "ZH_HSK4_SC050"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK4_SC014",
+      "ZH_HSK4_SC015",
+      "ZH_HSK4_SC016",
+      "ZH_HSK4_SC034",
+      "ZH_HSK4_SC035",
+      "ZH_HSK4_SC036",
+      "ZH_HSK4_SC047"
+    ],
+    "reasons": {
+      "ZH_HSK4_SC014": [
+        "embedded_review_ui_and_textlike_content_in_final_asset"
+      ],
+      "ZH_HSK4_SC015": [
+        "video_call_ui_icons_embedded_in_final_asset"
+      ],
+      "ZH_HSK4_SC016": [
+        "video_call_ui_icons_embedded_in_final_asset"
+      ],
+      "ZH_HSK4_SC034": [
+        "LiChen_identity_drift_missing_signature_rectangular_glasses"
+      ],
+      "ZH_HSK4_SC035": [
+        "LiChen_identity_drift_missing_signature_rectangular_glasses"
+      ],
+      "ZH_HSK4_SC036": [
+        "LiChen_identity_drift_missing_signature_rectangular_glasses"
+      ],
+      "ZH_HSK4_SC047": [
+        "LiChen_identity_drift_missing_signature_rectangular_glasses"
+      ]
+    },
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_50",
+    "status": "CORRECTION_REQUIRED",
+    "actionsRun": false,
+    "noteTr": "HSK4 SC001-SC050 gerçek görseller tek tek LOCKED_V2 + HSK4 maturity lock + character bible + HSK1_SC001 stil referansı ile görsel QA'dan geçirildi. 43 sahne korunuyor. SC014-SC016 gömülü UI/metin nedeniyle; SC034-SC036 ve SC047 Li Chen gözlük kimlik kilidi nedeniyle düzeltme gerektiriyor. Yanlış görseller PASS bırakılmadı."
   }
 }

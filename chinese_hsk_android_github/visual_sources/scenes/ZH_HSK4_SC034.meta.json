@@ -65,15 +65,34 @@
     "noMiniSkirt": true,
     "noSexyClothing": true,
     "criticalObjectsVisible": true,
-    "canonicalCharacterContinuityChecked": true,
+    "canonicalCharacterContinuityChecked": false,
     "uniqueSceneIdChecked": true,
     "hsk4MaturityLockChecked": true
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_SOURCE_OVERRIDE",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "SC020 yüz/stil referansıyla yeniden üretildi. Ebeveynlerin canonical yüzleri ve olgun yetişkin görünümü ve dört diyalog konuşmacısı doğrulandı. Sahne bağlamı/nesneler ve komşu sahne continuity kontrol edildi. APK build başlatılmadı.",
+  "qaNoteTr": "LOCKED_V2 + character bible tam görsel QA FAIL: 李晨 sahnede mevcut fakat signature identity niteliği olan ince koyu dikdörtgen gözlükleri eksik. Yüz/yaş/stil continuity korunarak yalnız doğru Li Chen kimliğiyle yeniden üretilmeli.",
   "dialogueSha256": "eea79ab3df881752fec2d0231877bcad105670401e4faf4369e2f69fbb51c73c",
-  "generationPrompt": "Use case: illustration-story. Replace canonical Chinese HSK4 scene, single 9:16 vertical warm cinematic detailed 2.5D/3D CGI, no text, logos, watermark, UI overlays, collage or panels. Image1 SC020 is canonical PARENT FACE AND STYLE reference: Zhang Wei mature adult father with short wavy dark hair, black rectangular glasses, navy knit sweater/cardigan over pale blue shirt; Liu Mei mature adult mother with warm brown hair in loose low bun, cream knit cardigan over white shirt. Match their face geometry and apparent ages exactly to image1, no age regression. Image2 is old target scene: retain its location and named secondary adult identities unless instructed to correct scene logic. Yutong ONLY if required: young adult daughter, long brown hair, mauve/purple knit top, visibly younger than mature parents, no child proportions. Every named dialogue speaker visibly identifiable; exactly four focal speakers, no extra family members. Natural expressive dialogue, correct hands, soft cinematic lighting, rich knit and wood textures. Readable letters/numbers absent from all papers, screens and signs. SC034 Second Cafe Branch Idea, LOC_ZH_FAMILY_CAFE_001, daylight warm wood cafe with green plants, big window, dark pendant lamps, espresso machine and pastries. ONLY Liu Mei, Zhang Wei, Li Chen and adult female cafe employee. Retain Li Chen from image2: adult man short wavy dark hair, no glasses, brown checked blazer over pale blue shirt; employee dark hair bun, white blouse and navy apron. Liu Mei correct SC020 brown low bun and cream cardigan, not old loose hair younger version. Li Chen enthusiastically presents second-branch floorplan sketches and photos with tablet while others assess the idea. Four faces clear. Table has unlabelled layout drawings, blank notebooks, coffee cups and tablet screen turned away. Warm engaged planning, not a posed portrait.",
-  "styleReferenceSceneId": "ZH_HSK4_SC020"
+  "generationPrompt": "Use case: illustration-story. Replace canonical Chinese HSK4 scene, single 9:16 vertical warm cinematic detailed 2.5D/3D CGI, no text, logos, watermark, UI overlays, collage or panels. Image1 SC020 is canonical PARENT FACE AND STYLE reference: Zhang Wei mature adult father with short wavy dark hair, black rectangular glasses, navy knit sweater/cardigan over pale blue shirt; Liu Mei mature adult mother with warm brown hair in loose low bun, cream knit cardigan over white shirt. Match their face geometry and apparent ages exactly to image1, no age regression. Image2 is old target scene: retain its location and named secondary adult identities unless instructed to correct scene logic. Yutong ONLY if required: young adult daughter, long brown hair, mauve/purple knit top, visibly younger than mature parents, no child proportions. Every named dialogue speaker visibly identifiable; exactly four focal speakers, no extra family members. Natural expressive dialogue, correct hands, soft cinematic lighting, rich knit and wood textures. Readable letters/numbers absent from all papers, screens and signs. SC034 Second Cafe Branch Idea, LOC_ZH_FAMILY_CAFE_001, daylight warm wood cafe with green plants, big window, dark pendant lamps, espresso machine and pastries. ONLY Liu Mei, Zhang Wei, Li Chen and adult female cafe employee. Retain Li Chen from image2: adult man short wavy dark hair, thin dark rectangular glasses, brown checked blazer over pale blue shirt; employee dark hair bun, white blouse and navy apron. Liu Mei correct SC020 brown low bun and cream cardigan, not old loose hair younger version. Li Chen enthusiastically presents second-branch floorplan sketches and photos with tablet while others assess the idea. Four faces clear. Table has unlabelled layout drawings, blank notebooks, coffee cups and tablet screen turned away. Warm engaged planning, not a posed portrait.",
+  "styleReferenceSceneId": "ZH_HSK4_SC020",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": false,
+    "exactCastChecked": true,
+    "maturityLockChecked": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_identity_drift_missing_signature_rectangular_glasses"
+    ],
+    "bulkAudit": "HSK4_FULL_VISUAL_QA_R1_2026-10-10"
+  },
+  "repairDirectiveTr": "李晨 adult male, aynı canonical yüz/saç ve mutlaka ince koyu dikdörtgen gözlük. Diğer karakterlerin yüzleri, mekan, zaman ve kritik objeler korunacak."
 }

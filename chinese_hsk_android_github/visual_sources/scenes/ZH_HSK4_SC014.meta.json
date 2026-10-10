@@ -59,7 +59,7 @@
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
     "style3d25dCgi": true,
-    "noText": true,
+    "noText": false,
     "noCollage": true,
     "safeAgeAppropriateClothing": true,
     "noMiniSkirt": true,
@@ -69,8 +69,27 @@
     "uniqueSceneIdChecked": true,
     "hsk4MaturityLockChecked": true
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_SOURCE_OVERRIDE",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK4 SC011-SC020 paket kontrolünde sahne/kadro/mekân/HSK4 maturity continuity geçti. SC012 ayrı olarak reddedildi ve bu committe entegre edilmedi."
+  "qaNoteTr": "LOCKED_V2 tam görsel QA FAIL: exact cast/mekân doğru; ancak tablet üzerinde gömülü değerlendirme arayüzü, yıldız/yorum UI'sı ve metin-benzeri öğeler final assette görünür. Aynı sahne HSK1_SC001 stilinde, ekran metinsiz/controlsuz olacak şekilde düzeltilmeli.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "maturityLockChecked": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "embedded_review_ui_and_textlike_content_in_final_asset"
+    ],
+    "bulkAudit": "HSK4_FULL_VISUAL_QA_R1_2026-10-10"
+  },
+  "repairDirectiveTr": "Exact cast 刘梅+张伟+员工+顾客 korunacak. Tablet/telefon sahne nesnesi olabilir fakat ekranda okunabilir metin, puan listesi, yıldız arayüzü veya uygulama UI'sı görünmeyecek."
 }

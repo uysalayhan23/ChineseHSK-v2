@@ -59,7 +59,7 @@
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
     "style3d25dCgi": true,
-    "noText": true,
+    "noText": false,
     "noCollage": true,
     "safeAgeAppropriateClothing": true,
     "noMiniSkirt": true,
@@ -69,8 +69,27 @@
     "uniqueSceneIdChecked": true,
     "hsk4MaturityLockChecked": true
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_SOURCE_OVERRIDE",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK4 SC011-SC020 paket kontrolünde sahne/kadro/mekân/HSK4 maturity continuity geçti. SC012 ayrı olarak reddedildi ve bu committe entegre edilmedi."
+  "qaNoteTr": "LOCKED_V2 tam görsel QA FAIL: exact cast ve ofis mekânı doğru; ancak Liu Mei'nin uzaktan görüntüsünde çağrı kontrol ikonları/UI final assette görünür. UI'sız temiz varyant gerekli.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "maturityLockChecked": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "video_call_ui_icons_embedded_in_final_asset"
+    ],
+    "bulkAudit": "HSK4_FULL_VISUAL_QA_R1_2026-10-10"
+  },
+  "repairDirectiveTr": "张伟+同事甲+同事乙 fiziksel ofiste, 刘梅 uzaktan görüntüde kalabilir; telefonda/laptopta çağrı ikonu, buton, yazı veya uygulama UI'sı olmayacak."
 }
