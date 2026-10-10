@@ -112,5 +112,33 @@
     "correctedProductionBriefTr": "Zhang Wei gözlüklü, Li Chen ince koyu dikdörtgen gözlüklü, Liu Mei kadın; tam üç yetişkin; geleneksel çay evinde çaydanlık/fincanlı masada oturup yeni şehir yaşamını konuşuyor.",
     "qaPassAssigned": false,
     "actionsRun": false
+  },
+  "candidateAuditR7": {
+    "auditDate": "2026-10-11",
+    "status": "READY_LOCAL_GITHUB_UPLOAD_PENDING",
+    "manifestVersion": "LOCKED_V2",
+    "filename": "ZH_HSK2_SC025.webp",
+    "pixels": [
+      941,
+      1672
+    ],
+    "bytes": 238846,
+    "sha256": "08db1212d5d41b73e894fd0b5f3e39731f80d5ccf57ca456f0b193b574c2e2db",
+    "gitBlobSha": "1cb4839f11de8e0b9613e4f3ab2024cecb0a9344",
+    "visualPrefight": "Tea house scene with Zhang Wei, Li Chen in rectangular glasses and Liu Mei; teapot, cups and table present",
+    "dialogueCastVerified": true,
+    "sceneObjectsVerified": true,
+    "noExtraPersons": true,
+    "canonicalFaceIdentityStatus": "PENDING_FINAL_REVIEW",
+    "recheckRequired": [
+      "app Git blob must equal local gitBlobSha",
+      "runtime mirror gitBlobSha must match app",
+      "full canonical identity and style QA check after GitHub integration"
+    ],
+    "uploadedToGitHub": false,
+    "appBinaryReplaced": false,
+    "runtimeMirrorReplaced": false,
+    "actionsRun": false,
+    "noteTr": "R6 yanlış adaydan farklı, yeniden üretilmiş WebP. Yerel dosya SHA256 ve Git blob hesaplandı; GitHub'da app asset eski sürüm. Dosya aktarılmadan metadata ana image hash'i, qaStatus ve runtime mirror değiştirilmez."
   }
 }

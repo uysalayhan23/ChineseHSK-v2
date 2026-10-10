@@ -3774,5 +3774,41 @@
     "buildTriggered": false,
     "openHsk2Corrections": 8,
     "noteTr": "Diyalog kaynaklarıyla kadro ve lokasyon denetimi yapıldı: SC023 aile sofrası adayı yanlış, doğru sahne yalnız Liu Mei + komşu + Zhang Wei ile pasta siparişi. SC025 evde iki kişi çalışma sahnesi yanlış, doğru sahne Zhang Wei + gözlüklü Li Chen + Liu Mei ile çay evi. Hatalı binary GitHub'a yüklenmedi."
+  },
+  "hsk2Sc023Sc025CandidateAuditR7": {
+    "auditDate": "2026-10-11",
+    "manifestVersion": "LOCKED_V2",
+    "status": "LOCAL_WEBP_READY_GITHUB_BINARY_PENDING",
+    "scenes": {
+      "ZH_HSK2_SC023": {
+        "filename": "ZH_HSK2_SC023.webp",
+        "sha256": "cdf7b36aa767bc4520b46a731b9afb05f738c2b9d635e9f03d6beb88593afb2b",
+        "gitBlobSha": "0d2d6b22b66b34d95d43ca07f5d1049b302ef20e",
+        "bytes": 246390,
+        "pixels": [
+          941,
+          1672
+        ],
+        "sceneCastVisualPreflight": true,
+        "canonicalFullAcceptance": false
+      },
+      "ZH_HSK2_SC025": {
+        "filename": "ZH_HSK2_SC025.webp",
+        "sha256": "08db1212d5d41b73e894fd0b5f3e39731f80d5ccf57ca456f0b193b574c2e2db",
+        "gitBlobSha": "1cb4839f11de8e0b9613e4f3ab2024cecb0a9344",
+        "bytes": 238846,
+        "pixels": [
+          941,
+          1672
+        ],
+        "sceneCastVisualPreflight": true,
+        "canonicalFullAcceptance": false
+      }
+    },
+    "actionsRun": false,
+    "qaPassedOnApp": false,
+    "appRuntimeMirrorUpdated": false,
+    "remainingHsk2Corrections": 8,
+    "reasonTr": "Yeni adaylar yerel diskte hazır. GitHub source blob'ları hâlâ eski. Canonical kimlik/stil ve SHA mirror kabulü dosyalar GitHub'a yüklendiğinde yeniden denetlenecek. Ana HSK2 kabul 42/50 PASS."
   }
 }

@@ -140,3 +140,14 @@ Kaynak diyaloglar: `ci/dialogue_final_v5/HSK2/ZH_HSK2_SC023.json` ve `...SC025.j
 - [ ] `ZH_HSK2_SC025`: yalnız Zhang Wei (张伟), koyu dikdörtgen gözlüklü Li Chen (李晨), Liu Mei (刘梅), geleneksel çay evi, çaydanlık ve fincanlar — önceki aday ev ortamında iki kişilik ders sahnesi. Aday SHA256 `0149a2f85734e6446b5943d1b7d0e60ec3c13754ecf7ff3879d8c0558a1a5cc6` (941×1672, 146832 bayt).
 
 **App authoritative WebP ve `ci/runtime_visuals` eski eşleşen binary durumunda bırakıldı.** PASS yok, mirror yeniden üretimi yok; Actions çalıştırılmadı. Yeni görseller önce bu sahne brifleriyle üretilmeli ve kesin kadro, görsel, canonical continuity, SHA256 ve mirror testlerini geçmelidir.
+
+### 2026-10-11 R7 — SC023/SC025 yeni WebP adayları hazır, binary aktarımı bekleniyor
+
+R6'da reddedilen aile yemeği/iki kişilik çalışma görselleri ile karıştırılmamalı. Yeni **gerçek dosyalar** aşağıdadır; app authoritative path henüz değiştirilmemiştir.
+
+| Sahne | Yeni hedef WebP | Bayt | SHA256 | Beklenen Git blob SHA |
+|---|---|---:|---|---|
+| ZH_HSK2_SC023 | `ZH_HSK2_SC023.webp` | 246390 | `cdf7b36aa767bc4520b46a731b9afb05f738c2b9d635e9f03d6beb88593afb2b` | `0d2d6b22b66b34d95d43ca07f5d1049b302ef20e` |
+| ZH_HSK2_SC025 | `ZH_HSK2_SC025.webp` | 238846 | `08db1212d5d41b73e894fd0b5f3e39731f80d5ccf57ca456f0b193b574c2e2db` | `1cb4839f11de8e0b9613e4f3ab2024cecb0a9344` |
+
+Her ikisi 941×1672, 3 yetişkin, doğru sahne bağlamı ve kritik objeler için görsel ön kontrolü geçti. **Final LOCKED_V2 QA ve metadata PASS yapılmadı:** fiziksel binary GitHub app kaynağına yüklendikten sonra SHA256/Git blob ve canonical yüz kimliği tekrar denetlenmeli, ancak sonra aynı blob `ci/runtime_visuals` aynasına alınmalı. Kalan HSK2 onarımları 8/10 olarak açık. GitHub Actions çalıştırılmadı; bütün commitlerde `[skip ci]`.

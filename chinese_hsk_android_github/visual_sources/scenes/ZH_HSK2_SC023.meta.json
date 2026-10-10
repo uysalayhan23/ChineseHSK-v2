@@ -110,5 +110,33 @@
     "correctedProductionBriefTr": "Liu Mei, yetişkin komşu ve gözlüklü Zhang Wei yalnız üç yetişkin; evde pasta siparişi masası; pasta örnekleri, tasarım çizimleri, sipariş defteri.",
     "qaPassAssigned": false,
     "actionsRun": false
+  },
+  "candidateAuditR7": {
+    "auditDate": "2026-10-11",
+    "status": "READY_LOCAL_GITHUB_UPLOAD_PENDING",
+    "manifestVersion": "LOCKED_V2",
+    "filename": "ZH_HSK2_SC023.webp",
+    "pixels": [
+      941,
+      1672
+    ],
+    "bytes": 246390,
+    "sha256": "cdf7b36aa767bc4520b46a731b9afb05f738c2b9d635e9f03d6beb88593afb2b",
+    "gitBlobSha": "0d2d6b22b66b34d95d43ca07f5d1049b302ef20e",
+    "visualPrefight": "Three adults Liu Mei, neighbor and Zhang Wei, cake-design sketches/cake samples/order notebook present",
+    "dialogueCastVerified": true,
+    "sceneObjectsVerified": true,
+    "noExtraPersons": true,
+    "canonicalFaceIdentityStatus": "PENDING_FINAL_REVIEW",
+    "recheckRequired": [
+      "app Git blob must equal local gitBlobSha",
+      "runtime mirror gitBlobSha must match app",
+      "full canonical identity and style QA check after GitHub integration"
+    ],
+    "uploadedToGitHub": false,
+    "appBinaryReplaced": false,
+    "runtimeMirrorReplaced": false,
+    "actionsRun": false,
+    "noteTr": "R6 yanlış adaydan farklı, yeniden üretilmiş WebP. Yerel dosya SHA256 ve Git blob hesaplandı; GitHub'da app asset eski sürüm. Dosya aktarılmadan metadata ana image hash'i, qaStatus ve runtime mirror değiştirilmez."
   }
 }
