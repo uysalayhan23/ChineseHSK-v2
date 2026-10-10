@@ -112,10 +112,27 @@
     "sha256": "089fdf73d67371312a4c0e7c65cc6af7c84afe1e56c0bfb9518cfbc6b52b6b56",
     "bytes": 282238
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog/kadro, LOCKED_V2 yaş ve yüz sürekliliği, mekân, 1080×1920 WebP ve dosya bütünlüğü kontrol edildi. APK build başlatılmadı.",
+  "qaNoteTr": "2026-10-10 LOCKED_V2 ve HSK6 character bible görsel QA: Li Chen seminer sahnesinde genç gözlüksüz kişiye dönüşmüş; olgun yaş ve ince koyu dikdörtgen gözlük kimliği korunmuyor. Binary korunuyor; yeniden üretim + final QA tamamlanmadan PASS işaretlenmeyecek.",
   "generationPrompt": "Zhang, Liu ve Li Chen genç bir katılımcıyla kariyer, hata ve denge üzerine topluluk merkezinde konuşur.",
-  "styleReferenceSceneId": "ZH_HSK6_SC030"
+  "styleReferenceSceneId": "ZH_HSK6_SC030",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_character_bible_age_or_glasses_identity_drift"
+    ],
+    "audit": "HSK6_SC031_SC040_R1_2026-10-10"
+  }
 }

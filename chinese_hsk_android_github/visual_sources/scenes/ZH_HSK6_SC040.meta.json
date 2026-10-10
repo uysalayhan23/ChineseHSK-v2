@@ -112,10 +112,27 @@
     "sha256": "ec1699e2397ab20b97f4d277c2c6ce444847c6f9edcf7757db6c14118fc56c9b",
     "bytes": 328582
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog/kadro, LOCKED_V2 yaş ve yüz sürekliliği, mekân, 1080×1920 WebP ve dosya bütünlüğü kontrol edildi. APK build başlatılmadı.",
+  "qaNoteTr": "2026-10-10 LOCKED_V2 ve HSK6 character bible görsel QA: Li Chen aile kafesi anı sahnesinde yine canonical ince koyu dikdörtgen gözlüğü olmadan gösteriliyor. Binary korunuyor; yeniden üretim + final QA tamamlanmadan PASS işaretlenmeyecek.",
   "generationPrompt": "Zhang, Liu ve emekli Li Chen kafenin kapanışında onlarca yıllık anıları Yutong ile paylaşır.",
-  "styleReferenceSceneId": "ZH_HSK6_SC039"
+  "styleReferenceSceneId": "ZH_HSK6_SC039",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_character_bible_age_or_glasses_identity_drift"
+    ],
+    "audit": "HSK6_SC031_SC040_R1_2026-10-10"
+  }
 }

@@ -112,10 +112,27 @@
     "sha256": "76da4ed978ded8f7fdbd1329ee1b77cf7cbd3e928a39162c58e043f647651914",
     "bytes": 279998
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog/kadro, LOCKED_V2 yaş ve yüz sürekliliği, mekân, 1080×1920 WebP ve dosya bütünlüğü kontrol edildi. APK build başlatılmadı.",
+  "qaNoteTr": "2026-10-10 LOCKED_V2 ve HSK6 character bible görsel QA: Li Chen sel değerlendirmesi sahnesinde genç, gözlüksüz kişi olarak görünüyor; HSK6 identity lock ihlal ediliyor. Binary korunuyor; yeniden üretim + final QA tamamlanmadan PASS işaretlenmeyecek.",
   "generationPrompt": "Zhang, Liu, topluluk sorumlusu ve Li Chen kasabanın sel sonrası dayanışmasını ve eksikleri değerlendirir.",
-  "styleReferenceSceneId": "ZH_HSK6_SC036"
+  "styleReferenceSceneId": "ZH_HSK6_SC036",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_character_bible_age_or_glasses_identity_drift"
+    ],
+    "audit": "HSK6_SC031_SC040_R1_2026-10-10"
+  }
 }

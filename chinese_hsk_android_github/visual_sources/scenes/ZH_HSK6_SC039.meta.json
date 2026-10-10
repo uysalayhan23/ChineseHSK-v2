@@ -111,10 +111,27 @@
     "sha256": "ba75be2be781916d0cada30b9956464d441960a759d8cd60232aa17bbb2a3f8c",
     "bytes": 302020
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog/kadro, LOCKED_V2 yaş ve yüz sürekliliği, mekân, 1080×1920 WebP ve dosya bütünlüğü kontrol edildi. APK build başlatılmadı.",
+  "qaNoteTr": "2026-10-10 LOCKED_V2 ve HSK6 character bible görsel QA: Li Chen çay evinde olgun yaşta fakat karakter bible'ın ayırt edici ince koyu dikdörtgen gözlüğü olmadan gösteriliyor. Binary korunuyor; yeniden üretim + final QA tamamlanmadan PASS işaretlenmeyecek.",
   "generationPrompt": "Yeni emekli Li Chen, Zhang, Liu ve aynı yaş dönemindeki bir erkek dostuyla emeklilik planını tartışır.",
-  "styleReferenceSceneId": "ZH_HSK6_SC038"
+  "styleReferenceSceneId": "ZH_HSK6_SC038",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_character_bible_age_or_glasses_identity_drift"
+    ],
+    "audit": "HSK6_SC031_SC040_R1_2026-10-10"
+  }
 }
