@@ -7,7 +7,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC015.json",
   "dialogueSha256": "4a0a83e2ed5b5284d336f54275dc659424345f4ac18e8314db1aa3fe1dceddb9",
   "titleTr": "Eski Masanın Hikâyesi",
-  "locationId": "LOC_ZH_CAFE_PREMISES_001",
+  "locationId": "LOC_ZH_SHOPPING_STREET_001",
   "scenePurposeTr": "İkinci el eski bir masa kafeye getirilir; yetişkin satıcı masanın geçmişini anlatır.",
   "dialogueSpeakers": [
     "刘梅",
@@ -69,5 +69,21 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: ZH_HSK3_SC015 final tek-sahne görseli LOCKED_V2 ve HSK3 maturity kurallarına göre doğrulandı."
+  "qaNoteTr": "LOCKED_V2 görsel QA PASS: mevcut asset exact cast ve sahne anlatımıyla uyumlu; yalnız yardımcı locationId gerçek scene JSON ile LOC_ZH_SHOPPING_STREET_001 olarak hizalandı. Yeniden üretim gereksiz.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "locationId": "LOC_ZH_SHOPPING_STREET_001",
+    "appRuntimeMirrorBlobMatch": true,
+    "bulkAudit": "HSK3_SC009_SC016_VISUAL_QA_R1_2026-10-10"
+  }
 }

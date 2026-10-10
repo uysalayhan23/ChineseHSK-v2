@@ -66,8 +66,25 @@
     "uniqueSceneIdChecked": true,
     "hsk3MaturityLockChecked": true
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_SOURCE_OVERRIDE",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: ZH_HSK3_SC016 final tek-sahne görseli LOCKED_V2 ve HSK3 maturity kurallarına göre doğrulandı."
+  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: gerçek scene JSON LOC_ZH_NEW_HOME_001 ve aile içi menü tadımını isterken mevcut final asset kafe/tadilat mekanı gösteriyor. Exact cast/stil korunarak yeni evde yeniden final asset gerekli.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": false,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "visual_location_mismatch_with_scene_JSON"
+    ],
+    "bulkAudit": "HSK3_SC009_SC016_VISUAL_QA_R1_2026-10-10"
+  }
 }

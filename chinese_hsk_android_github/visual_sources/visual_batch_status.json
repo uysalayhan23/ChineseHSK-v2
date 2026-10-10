@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK3_SC001_SC008_VISUAL_QA_R1_2026-10-10",
+  "latestVisualRevision": "HSK3_SC009_SC016_VISUAL_QA_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -2647,5 +2647,44 @@
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
     "noteTr": "İlk 8 HSK3 sahnesi gerçek görsel QA ile denetlendi. SC001 Zhang Wei gözlük kimliği, SC003 yanlış video-call karakteri, SC005 prominent ekstra Yutong nedeniyle düzeltme gerekiyor; diğer 5 sahne korunuyor."
+  },
+  "hsk3Sc009Sc016VisualQaR1": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "scope": [
+      "ZH_HSK3_SC009",
+      "ZH_HSK3_SC010",
+      "ZH_HSK3_SC011",
+      "ZH_HSK3_SC012",
+      "ZH_HSK3_SC013",
+      "ZH_HSK3_SC014",
+      "ZH_HSK3_SC015",
+      "ZH_HSK3_SC016"
+    ],
+    "passSceneIds": [
+      "ZH_HSK3_SC009",
+      "ZH_HSK3_SC010",
+      "ZH_HSK3_SC011",
+      "ZH_HSK3_SC012",
+      "ZH_HSK3_SC013",
+      "ZH_HSK3_SC014",
+      "ZH_HSK3_SC015"
+    ],
+    "metadataOnlyCorrections": [
+      "ZH_HSK3_SC015"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK3_SC016"
+    ],
+    "reasons": {
+      "ZH_HSK3_SC016": [
+        "visual_location_mismatch_with_scene_JSON"
+      ]
+    },
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_8",
+    "status": "CORRECTION_REQUIRED",
+    "actionsRun": false,
+    "noteTr": "SC009-SC016 görsel QA tamamlandı. SC015 yalnız metadata hizasıyla korundu; SC016 yeni ev yerine kafe/tadilat ortamı gösterdiğinden yeni final görsel gerektiriyor."
   }
 }
