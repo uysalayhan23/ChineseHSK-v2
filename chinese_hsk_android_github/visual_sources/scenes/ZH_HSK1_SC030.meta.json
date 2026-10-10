@@ -37,7 +37,8 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "c5f27bb6d1b872583a921c34c9691f04379ad588f239ea0dc88aa4e91b7f9339"
+    "sha256": "c5f27bb6d1b872583a921c34c9691f04379ad588f239ea0dc88aa4e91b7f9339",
+    "sourceRevision": "CONTEXTUAL_R1_REVALIDATED_2026-10-10"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -57,6 +58,22 @@
   },
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
-  "qaNoteTr": "Kullanıcının son onaylı görseli LOCKED_V2 manifestoya göre bu sceneId için final source asset olarak yeniden entegre edildi.",
-  "binaryIntegrityChecked": true
+  "qaNoteTr": "SC030 mevcut final asset korundu: HSK1_SC001 görsel tekniğiyle uyumlu sıcak 2.5D/3D CGI; exact cast yalnız 张伟 + 刘梅 + 张雨桐 + 张乐乐. Zhang Wei aynı gözlüklü HSK1 kimliğiyle, Liu Mei yetişkin anne, Yutong Lele'den büyük kız, Lele erkek çocuk olarak görünür. Telefon, ev oturma alanı ve taşınma kutuları sahneyle uyumlu; ekstra kişi yok.",
+  "binaryIntegrityChecked": true,
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "previousSceneId": "ZH_HSK1_SC029",
+    "nextSceneId": "ZH_HSK1_SC031",
+    "noteTr": "Mevcut SC030 asseti görsel olarak yeniden denetlendi ve korunmasına karar verildi. App asset ile runtime mirror aynı blob; yeniden üretim yapılmadı."
+  }
 }
