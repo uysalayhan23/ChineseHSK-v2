@@ -35,14 +35,14 @@
     "张伟": "senior_male_parent",
     "刘梅": "senior_female_parent",
     "理财顾问": "adult_financial_advisor",
-    "李晨": "young_adult_male_partner"
+    "李晨": "senior_male_family_friend_canonical_thin_dark_rectangular_glasses"
   },
   "criticalObjects": [
     "boş finans defteri",
     "işaretsiz hesap makinesi",
     "çay fincanları"
   ],
-  "visualDirectionTr": "Akşam aile evinde Zhang ve Liu Mei, yetişkin aile üyesi Li Chen ve profesyonel mali danışmanla yaklaşık emeklilik tarihi ve tasarruf planını görüşür.",
+  "visualDirectionTr": "LOC_ZH_NEW_HOME_001 akşamında 张伟, 刘梅, 理财顾问 ve 李晨 emeklilik takvimi ile tasarruf planını tartışır. 李晨, HSK5 SENIOR kimliğini ve ince koyu dikdörtgen gözlüğünü koruyan olgun erkek aile dostudur; Yutong'un genç partneri değildir.",
   "continuity": {
     "previousSceneId": "ZH_HSK5_SC033",
     "nextSceneId": "ZH_HSK5_SC035",
@@ -52,8 +52,8 @@
   },
   "manifestChecklist": {
     "dialogueChecked": true,
-    "castChecked": true,
-    "allDialogueSpeakersVisible": true,
+    "castChecked": false,
+    "allDialogueSpeakersVisible": false,
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
     "style3d25dCgi": true,
@@ -63,9 +63,9 @@
     "noMiniSkirt": true,
     "noSexyClothing": true,
     "criticalObjectsVisible": true,
-    "canonicalCharacterContinuityChecked": true,
+    "canonicalCharacterContinuityChecked": false,
     "uniqueSceneIdChecked": true,
-    "hsk5MaturityLockChecked": true
+    "hsk5MaturityLockChecked": false
   },
   "sourceGeneratedFilename": "ZH_HSK5_SC034.png",
   "finalAssetFilename": "ZH_HSK5_SC034.webp",
@@ -79,10 +79,31 @@
     "sha256": "2ed8bd382bb2d10f3e0b757ccf3351ee9df98627d43656fe4bc0baabf44b2327",
     "bytes": 410868
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "HSK5 SC031-SC040 grubu; SC030 aile/stil referansı ve HSK5 olgunluk kilidi korundu. Kaynak kadrosu, 9:16 WebP ve hash kontrolleri geçti. APK build başlatılmadı.",
+  "qaNoteTr": "ZH_HSK5_SC034 LOCKED_V2 QA FAIL: gerçek JSON konuşmacısı 李晨 yerine genç, gözlüksüz Yutong partneri görünümü var. Eski metadata karakteri 'young_adult_male_partner' olarak yanlış tarif etmiş; bible'daki yaş almış Li Chen ve karakter gözlüğü korunmamış. Metadata düzeltildi, mevcut app/runtime WebP değiştirilmedi; gerçek 9:16 doğru görsel üretilene kadar FAIL kalır.",
   "generationPrompt": "SC032 aile yüzleri ve aynı genç erkek Li Chen; kadın mali danışman; akşam ev ortamı.",
-  "styleReferenceSceneId": "ZH_HSK5_SC030"
+  "styleReferenceSceneId": "ZH_HSK5_SC030",
+  "generationPromptStatus": "REJECTED_WRONG_CHARACTER_IDENTITY_LEGACY",
+  "nextGenerationPrompt": "ZH_HSK5_SC034 gerçek scene JSON + LOCKED_V2 + HSK5 maturity + character bible kullan; exact cast 张伟 + 刘梅 + 理财顾问 + 李晨. 李晨 kesinlikle olgun, ince koyu dikdörtgen gözlüklü HSK5 SENIOR erkek aile dostu, genç partner değil. LOC_ZH_NEW_HOME_001, evening, sahne kritik objeleri: boş finans defteri, işaretsiz hesap makinesi, çay fincanları. HSK1_SC001 sıcak 2.5D/3D CGI; dikey 9:16, tek sahne, yazısız/logosuz; sahne continuity koru.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": false,
+    "speakerCountMatch": false,
+    "settingMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": false,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "rejectionReasons": [
+      "LiChen_replaced_by_young_partner",
+      "LiChen_missing_signature_glasses",
+      "LiChen_age_and_identity_drift",
+      "legacy_meta_mislabeled_LiChen_as_partner"
+    ],
+    "appRuntimeMirrorBlobMatch": true,
+    "actionsRun": false
+  }
 }

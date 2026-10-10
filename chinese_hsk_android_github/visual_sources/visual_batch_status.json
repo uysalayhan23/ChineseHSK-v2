@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK5_SC025_SC032_VISUAL_QA_R1_2026-10-10",
+  "latestVisualRevision": "HSK5_SC033_SC040_VISUAL_QA_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -3162,5 +3162,50 @@
     "appRuntimeMirrorBlobCheck": "PASS_ALL_8",
     "actionsRun": false,
     "noteTr": "SC025–SC032 gerçek görsel QA: 7 sahne korunuyor. SC032'de diyalogdaki yaş almış Li Chen yerine genç partner çizilmiş. Eski meta yanlış partner etiketini içeriyordu; meta karakter yönü düzeltildi, binary yeniden üretilmedi ve FAIL olarak kaldı."
+  },
+  "hsk5Sc033Sc040VisualQaR1": {
+    "auditDate": "2026-10-10",
+    "auditSourceHead": "54e99a16fe673f752ee7cec9f00404347ccfb008",
+    "manifestVersion": "LOCKED_V2",
+    "referenceStyleSceneId": "ZH_HSK1_SC001",
+    "scope": [
+      "ZH_HSK5_SC033",
+      "ZH_HSK5_SC034",
+      "ZH_HSK5_SC035",
+      "ZH_HSK5_SC036",
+      "ZH_HSK5_SC037",
+      "ZH_HSK5_SC038",
+      "ZH_HSK5_SC039",
+      "ZH_HSK5_SC040"
+    ],
+    "status": "CORRECTION_REQUIRED",
+    "passSceneIds": [
+      "ZH_HSK5_SC035",
+      "ZH_HSK5_SC036",
+      "ZH_HSK5_SC037",
+      "ZH_HSK5_SC038",
+      "ZH_HSK5_SC039",
+      "ZH_HSK5_SC040"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK5_SC033",
+      "ZH_HSK5_SC034"
+    ],
+    "reasons": {
+      "ZH_HSK5_SC033": [
+        "LiChen_replaced_by_young_partner",
+        "LiChen_missing_signature_glasses",
+        "legacy_meta_mislabeled_LiChen_as_partner"
+      ],
+      "ZH_HSK5_SC034": [
+        "LiChen_replaced_by_young_partner",
+        "LiChen_missing_signature_glasses",
+        "legacy_meta_mislabeled_LiChen_as_partner"
+      ]
+    },
+    "regeneratedSceneIds": [],
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_8",
+    "actionsRun": false,
+    "noteTr": "HSK5 SC033-SC040 gerçek JSON/metalar ve görsellerle denetlendi. SC033 ve SC034'te yanlış genç partner Li Chen yerine kullanılmış; metadata character age lock, sahne görsel yönü ve FAIL QA ile düzeltildi. SC035-SC040 mevcut doğru sahneler korunuyor."
   }
 }

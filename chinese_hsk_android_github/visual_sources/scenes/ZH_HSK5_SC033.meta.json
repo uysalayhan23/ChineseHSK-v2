@@ -35,14 +35,14 @@
     "张伟": "senior_male_parent",
     "经理": "adult_manager",
     "刘梅": "senior_female_parent",
-    "李晨": "young_adult_male_partner"
+    "李晨": "senior_male_family_friend_canonical_thin_dark_rectangular_glasses"
   },
   "criticalObjects": [
     "boş kapatılmış dosya",
     "toplantı masası",
     "cam ofis bölmesi"
   ],
-  "visualDirectionTr": "Aynı iş yerinde Zhang teklifi saygılı biçimde reddeder; aynı yönetici, Liu Mei ve Yutong’un partneri yanında bulunur.",
+  "visualDirectionTr": "Zhang, iş yerinde yüksek maaşlı teklifi saygılı biçimde reddeder. Görünür dört konuşmacı yalnız 张伟, 经理, 刘梅, 李晨. 李晨 43 yaş başlangıçlı, HSK5 SENIOR varyantında, ince koyu dikdörtgen gözlüklü olgun erkek aile dostudur; Yutong'un genç partneri değildir.",
   "continuity": {
     "previousSceneId": "ZH_HSK5_SC032",
     "nextSceneId": "ZH_HSK5_SC034",
@@ -52,8 +52,8 @@
   },
   "manifestChecklist": {
     "dialogueChecked": true,
-    "castChecked": true,
-    "allDialogueSpeakersVisible": true,
+    "castChecked": false,
+    "allDialogueSpeakersVisible": false,
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
     "style3d25dCgi": true,
@@ -63,9 +63,9 @@
     "noMiniSkirt": true,
     "noSexyClothing": true,
     "criticalObjectsVisible": true,
-    "canonicalCharacterContinuityChecked": true,
+    "canonicalCharacterContinuityChecked": false,
     "uniqueSceneIdChecked": true,
-    "hsk5MaturityLockChecked": true
+    "hsk5MaturityLockChecked": false
   },
   "sourceGeneratedFilename": "ZH_HSK5_SC033.png",
   "finalAssetFilename": "ZH_HSK5_SC033.webp",
@@ -79,10 +79,31 @@
     "sha256": "e9dc586f187c46aaef893728e63a0e7a65c5d3e8fe491d47c75814ac95415671",
     "bytes": 371180
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "HSK5 SC031-SC040 grubu; SC030 aile/stil referansı ve HSK5 olgunluk kilidi korundu. Kaynak kadrosu, 9:16 WebP ve hash kontrolleri geçti. APK build başlatılmadı.",
+  "qaNoteTr": "ZH_HSK5_SC033 LOCKED_V2 QA FAIL: gerçek JSON konuşmacısı 李晨 yerine genç, gözlüksüz Yutong partneri görünümü var. Eski metadata karakteri 'young_adult_male_partner' olarak yanlış tarif etmiş; bible'daki yaş almış Li Chen ve karakter gözlüğü korunmamış. Metadata düzeltildi, mevcut app/runtime WebP değiştirilmedi; gerçek 9:16 doğru görsel üretilene kadar FAIL kalır.",
   "generationPrompt": "SC031 ile aynı erkek yönetici, aynı Zhang, Liu ve SC032 partneri; yöneticinin yüzü tamamen görünür.",
-  "styleReferenceSceneId": "ZH_HSK5_SC030"
+  "styleReferenceSceneId": "ZH_HSK5_SC030",
+  "generationPromptStatus": "REJECTED_WRONG_CHARACTER_IDENTITY_LEGACY",
+  "nextGenerationPrompt": "ZH_HSK5_SC033 gerçek scene JSON + LOCKED_V2 + HSK5 maturity + character bible kullan; exact cast 张伟 + 经理 + 刘梅 + 李晨. 李晨 kesinlikle olgun, ince koyu dikdörtgen gözlüklü HSK5 SENIOR erkek aile dostu, genç partner değil. LOC_ZH_WORKPLACE_001, day, sahne kritik objeleri: boş kapatılmış dosya, toplantı masası, cam ofis bölmesi. HSK1_SC001 sıcak 2.5D/3D CGI; dikey 9:16, tek sahne, yazısız/logosuz; sahne continuity koru.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": false,
+    "speakerCountMatch": false,
+    "settingMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": false,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "rejectionReasons": [
+      "LiChen_replaced_by_young_partner",
+      "LiChen_missing_signature_glasses",
+      "LiChen_age_and_identity_drift",
+      "legacy_meta_mislabeled_LiChen_as_partner"
+    ],
+    "appRuntimeMirrorBlobMatch": true,
+    "actionsRun": false
+  }
 }
