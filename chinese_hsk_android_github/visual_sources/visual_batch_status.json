@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK6_SC041_SC050_VISUAL_QA_R1_2026-10-10",
+  "latestVisualRevision": "HSK1_SC035_SC036_SC048_R3_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -2177,29 +2177,17 @@
       "ZH_HSK1_SC047",
       "ZH_HSK1_SC050",
       "ZH_HSK1_SC045",
-      "ZH_HSK1_SC049"
-    ],
-    "correctionRequiredSceneIds": [
+      "ZH_HSK1_SC049",
       "ZH_HSK1_SC035",
       "ZH_HSK1_SC036",
       "ZH_HSK1_SC048"
     ],
-    "reasons": {
-      "ZH_HSK1_SC035": [
-        "extra_non_dialogue_character_Lele"
-      ],
-      "ZH_HSK1_SC036": [
-        "extra_non_dialogue_character_Mimi"
-      ],
-      "ZH_HSK1_SC048": [
-        "extra_non_dialogue_family_characters",
-        "meta_location_noncanonical"
-      ]
-    },
-    "status": "CORRECTION_REQUIRED",
+    "correctionRequiredSceneIds": [],
+    "reasons": {},
+    "status": "PASS",
     "appRuntimeMirrorBlobCheck": "PASS_ALL_20",
     "actionsRun": false,
-    "noteTr": "Konum uyuşmazlığı olan SC045 ve SC049 sahne JSON/meta kayıtları mevcut final görsellerle ve canonical location registry ile hizalandı. Kalan gerçek görsel düzeltme kuyruğu: ZH_HSK1_SC035, ZH_HSK1_SC036, ZH_HSK1_SC048. Actions çalıştırılmadı."
+    "noteTr": "Konum uyuşmazlığı olan SC045 ve SC049 sahne JSON/meta kayıtları mevcut final görsellerle ve canonical location registry ile hizalandı. Kalan gerçek görsel düzeltme kuyruğu: ZH_HSK1_SC035, ZH_HSK1_SC036, ZH_HSK1_SC048. Actions çalıştırılmadı. 2026-10-10 R3: SC035/SC036/SC048 yeni doğrulanmış WebP ile kapatıldı, mirror aynı blob SHA."
   },
   "hsk1Sc031Sc050CanonicalRepairR1": {
     "repairedSceneIds": [
@@ -2213,19 +2201,18 @@
       "ZH_HSK1_SC047",
       "ZH_HSK1_SC050",
       "ZH_HSK1_SC045",
-      "ZH_HSK1_SC049"
-    ],
-    "remainingSceneIds": [
+      "ZH_HSK1_SC049",
       "ZH_HSK1_SC035",
       "ZH_HSK1_SC036",
       "ZH_HSK1_SC048"
     ],
+    "remainingSceneIds": [],
     "sourceStrategy": "verified historical branch asset restore",
     "manifestVersion": "LOCKED_V2",
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
     "actionsRun": false,
-    "status": "PARTIAL_PASS"
+    "status": "PASS"
   },
   "hsk2Sc001Sc008AutomaticManifestAuditR1": {
     "auditDate": "2026-10-10",
@@ -3689,5 +3676,25 @@
     "actionsRun": false,
     "status": "CORRECTION_REQUIRED",
     "noteTr": "HSK6 50/50 görsel QA kayıtları birleştirildi; yalnız sorunlu sahneler kuyrukta, temiz sahneler korunuyor."
+  },
+  "hsk1Sc035Sc036Sc048VisualQaR3": {
+    "auditDate": "2026-10-10",
+    "sceneIds": [
+      "ZH_HSK1_SC035",
+      "ZH_HSK1_SC036",
+      "ZH_HSK1_SC048"
+    ],
+    "status": "PASS",
+    "sourceSha256": {
+      "ZH_HSK1_SC035": "16d9bcd1a802a51a3770abbbbab9e1af6d83ba3a98495aad0c6c5fe54de1f5fb",
+      "ZH_HSK1_SC036": "60a62d7343f6b629468c9a41abf040dfb8e7d64598a47c8cea6e5abb35f15139",
+      "ZH_HSK1_SC048": "9edd78a7a69b185ac72ef47d0e43016e453d4cf94b5bfda39361d4c80bd593b6"
+    },
+    "appRuntimeMirrorBlobMatch": true,
+    "manifestVersion": "LOCKED_V2",
+    "canonicalCharacterQA": "PASS_VISUAL_INSPECTION",
+    "actionsRun": false,
+    "buildTriggered": false,
+    "notesTr": "3 WebP yeni yüklemeleri local SHA256/Git blob ve canonical görsel QA doğrulandı; mirror aynı bloblardan tek committe oluşturuldu."
   }
 }

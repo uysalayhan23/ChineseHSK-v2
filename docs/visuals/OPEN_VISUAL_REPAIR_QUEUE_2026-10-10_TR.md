@@ -20,11 +20,11 @@ Kaynak: `chinese_hsk_android_github/visual_sources/visual_batch_status.json` (20
 
 ## Denetim kaydına göre açık sahneler
 
-### HSK1: 3 düzeltme
+### HSK1: 3 düzeltme — 3/3 KAPANDI
 
-- [ ] `ZH_HSK1_SC035` — extra_non_dialogue_character_Lele
-- [ ] `ZH_HSK1_SC036` — extra_non_dialogue_character_Mimi
-- [ ] `ZH_HSK1_SC048` — extra_non_dialogue_family_characters, meta_location_noncanonical
+- [x] `ZH_HSK1_SC035` — 2026-10-10 R3: correct binary + mirror SHA + LOCKED_V2 QA PASS
+- [x] `ZH_HSK1_SC036` — 2026-10-10 R3: correct binary + mirror SHA + LOCKED_V2 QA PASS
+- [x] `ZH_HSK1_SC048` — 2026-10-10 R3: correct binary + mirror SHA + LOCKED_V2 QA PASS
 
 ### HSK2: 10 düzeltme
 
@@ -107,3 +107,7 @@ Her onarım için: scene JSON + character bible + style lock → doğru görsel 
 | ZH_HSK1_SC048 | ZH_HSK1_SC048.webp | 258552 byte | `9edd78a7a69b185ac72ef47d0e43016e453d4cf94b5bfda39361d4c80bd593b6` |
 
 Not: Aday dosyalar çalışma ortamındaki `/mnt/data/` altında oluşturuldu; burada kaydedilen SHA bilgisi tek başına GitHub'a binary yüklendiğinin kanıtı değildir. Önce binary upload, sonra GitHub'da SHA + boyut + karakter QA ve metadata/visual_batch_status kapanışı gerekir. Actions tetikleme; commit `[skip ci]`.
+
+### 2026-10-10 R3 kapanışı
+
+SC035, SC036 ve SC048 için doğru WebP görüntüleri app assetlerine yüklendi, SHA256 yerel aday değerleriyle eşleşti, runtime mirror GitHub'da **aynı Git blob SHA** referansıyla senkronlandı. Canonical kadro/obje/9:16/metinsizlik QA PASS. Actions çalıştırılmadı; build tetiklenmedi. HSK1 bu üç düzeltme bakımından kapandı.

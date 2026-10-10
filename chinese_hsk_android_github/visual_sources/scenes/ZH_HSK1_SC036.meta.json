@@ -37,12 +37,13 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "27f83d50cd6f5ec6bd6b82f721e109dc2e34490806739bf590ef787e2d6a4bf2"
+    "sha256": "60a62d7343f6b629468c9a41abf040dfb8e7d64598a47c8cea6e5abb35f15139",
+    "bytes": 232590
   },
   "manifestChecklist": {
     "dialogueChecked": true,
-    "castChecked": false,
-    "allDialogueSpeakersVisible": false,
+    "castChecked": true,
+    "allDialogueSpeakersVisible": true,
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
     "style3d25dCgi": true,
@@ -52,22 +53,26 @@
     "noMiniSkirt": true,
     "noSexyClothing": true,
     "criticalObjectsVisible": true,
-    "canonicalCharacterContinuityChecked": false,
+    "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
-  "qaNoteTr": "2026-10-10 doğrudan mevcut WebP görsel incelemesi: extra_non_dialogue_character_Mimi, exact_cast_mismatch. Önceki PASS metadata geçersiz; binary değiştirilmedi. LOCKED_V2 sahne diyalogu, cast ve önceki/sonraki continuity doğrulanmış yeni görsel olmadan PASS verilemez.",
+  "qaStatus": "PASS",
+  "status": "FINAL_SOURCE_OVERRIDE",
+  "qaNoteTr": "2026-10-10 R3: yeni görsel app authoritative kaynağına yüklendi; yerel SHA256 ve Git blob SHA eşleşmesi doğrulandı; yalnız scene JSON'da gereken dört konuşmacı sahnede, fazladan Lele/Mimi/aile üyesi yok; tek sahne 9:16, metinsiz warm CGI, kritik nesneler ve canonical karakter sürekliliği gözle denetlendi. ci/runtime_visuals aynası aynı Git blobuyla güncellendi; Actions çalıştırılmadı.",
   "binaryIntegrityChecked": true,
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
-    "exactCastChecked": false,
-    "rejectionReasons": [
-      "extra_non_dialogue_character_Mimi",
-      "exact_cast_mismatch"
-    ],
-    "appRuntimeMirrorBlobMatch": "NOT_RECHECKED_THIS_TURN",
-    "audit": "HSK1_SC035_SC036_SC048_R2_2026-10-10"
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [],
+    "audit": "HSK1_SC035_SC036_SC048_R3_2026-10-10"
   }
 }
