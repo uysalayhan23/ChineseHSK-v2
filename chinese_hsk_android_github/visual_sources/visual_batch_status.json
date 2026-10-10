@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK2_SC001_SC008_AUTOMATIC_MANIFEST_AUDIT_R1_2026-10-10",
+  "latestVisualRevision": "HSK2_SC009_SC020_AUTOMATIC_MANIFEST_AUDIT_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -2265,5 +2265,54 @@
     "status": "PASS",
     "actionsRun": false,
     "noteTr": "Sekiz sahne toplu tarandı. Altı sahnede yalnız eski yardımcı locationId canonical scene JSON ile hizalandı; görseller doğru olduğundan yeniden üretilmedi."
+  },
+  "hsk2Sc009Sc020AutomaticManifestAuditR1": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "scope": [
+      "ZH_HSK2_SC009",
+      "ZH_HSK2_SC010",
+      "ZH_HSK2_SC011",
+      "ZH_HSK2_SC012",
+      "ZH_HSK2_SC013",
+      "ZH_HSK2_SC014",
+      "ZH_HSK2_SC015",
+      "ZH_HSK2_SC016",
+      "ZH_HSK2_SC017",
+      "ZH_HSK2_SC018",
+      "ZH_HSK2_SC019",
+      "ZH_HSK2_SC020"
+    ],
+    "passSceneIds": [
+      "ZH_HSK2_SC009",
+      "ZH_HSK2_SC010",
+      "ZH_HSK2_SC011",
+      "ZH_HSK2_SC012",
+      "ZH_HSK2_SC014",
+      "ZH_HSK2_SC015",
+      "ZH_HSK2_SC016",
+      "ZH_HSK2_SC017",
+      "ZH_HSK2_SC018",
+      "ZH_HSK2_SC019",
+      "ZH_HSK2_SC020"
+    ],
+    "metadataOnlyCorrections": [
+      "ZH_HSK2_SC009",
+      "ZH_HSK2_SC014",
+      "ZH_HSK2_SC015"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK2_SC013"
+    ],
+    "reasons": {
+      "ZH_HSK2_SC013": [
+        "supporting_character_identity_confused_with_canonical_LiuMei"
+      ]
+    },
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_12",
+    "status": "CORRECTION_REQUIRED",
+    "actionsRun": false,
+    "noteTr": "On iki sahne toplu denetlendi. Üç sahne yalnız metadata hizasıyla korundu; SC013 canonical Liu Mei kimliğine karışan yardımcı karakter nedeniyle yeniden görsel düzeltme gerektiriyor."
   }
 }

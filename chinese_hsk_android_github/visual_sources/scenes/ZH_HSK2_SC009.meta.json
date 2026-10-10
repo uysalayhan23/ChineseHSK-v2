@@ -6,7 +6,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK2/ZH_HSK2_SC009.json",
   "dialogueSha256": "4cf7760f7e1bea2d8b5c81ae409b646b6a81a32aa4a507d2d0ecd2d726a663a4",
   "titleTr": "Telefon Tarifesini Değiştirmek",
-  "locationId": "LOC_ZH_PHONE_STORE_001",
+  "locationId": "LOC_ZH_PHONE_SHOP_001",
   "scenePurposeTr": "Zhang Wei ve Liu Mei telefon tarifesini değiştirmek için mağaza görevlisiyle görüşür.",
   "dialogueSpeakers": [
     "张伟",
@@ -56,5 +56,21 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Kilitli görsel manifestosu ve ayrı scene ID kuralına göre doğrulandı."
+  "qaNoteTr": "Otomatik LOCKED_V2 audit: mevcut final görsel exact cast, sahne eylemi, HSK1_SC001 stil ailesi ve canonical mekan açısından PASS; yalnız locationId LOC_ZH_PHONE_SHOP_001 ile gerçek scene JSON'a hizalandı. Yeniden üretim gereksiz.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "locationId": "LOC_ZH_PHONE_SHOP_001",
+    "appRuntimeMirrorBlobMatch": true,
+    "bulkAudit": "HSK2_SC009_SC020_AUTO_AUDIT_R1_2026-10-10"
+  }
 }

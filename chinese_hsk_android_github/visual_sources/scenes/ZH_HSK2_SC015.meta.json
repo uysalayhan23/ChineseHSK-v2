@@ -6,7 +6,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK2/ZH_HSK2_SC015.json",
   "dialogueSha256": "30aff9b101f4cd6311a90582ea623153e9ac715c6b3751b068d795ded93f01e4",
   "titleTr": "Yeni Tarif",
-  "locationId": "LOC_ZH_HOME_KITCHEN_001",
+  "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Liu Mei mutfakta yeni bir tarif dener; Zhang Wei ve Yutong hazırlığa eşlik eder.",
   "dialogueSpeakers": [
     "刘梅",
@@ -57,5 +57,21 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Kilitli görsel manifestosu ve ayrı scene ID kuralına göre doğrulandı."
+  "qaNoteTr": "Otomatik LOCKED_V2 audit: mevcut final görsel exact cast, sahne eylemi, HSK1_SC001 stil ailesi ve canonical mekan açısından PASS; yalnız locationId LOC_ZH_NEW_HOME_001 ile gerçek scene JSON'a hizalandı. Yeniden üretim gereksiz.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "locationId": "LOC_ZH_NEW_HOME_001",
+    "appRuntimeMirrorBlobMatch": true,
+    "bulkAudit": "HSK2_SC009_SC020_AUTO_AUDIT_R1_2026-10-10"
+  }
 }

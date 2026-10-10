@@ -6,7 +6,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK2/ZH_HSK2_SC013.json",
   "dialogueSha256": "cf9d987724df971a26cbf8924e387c344fd96e89b9526820ebd2cbef5452f6b9",
   "titleTr": "Ekipmanda Küçük Sorun",
-  "locationId": "LOC_ZH_ZHANG_OFFICE_001",
+  "locationId": "LOC_ZH_WORKPLACE_001",
   "scenePurposeTr": "Zhang Wei iki iş arkadaşıyla ekipmandaki küçük bir sorunu inceler.",
   "dialogueSpeakers": [
     "张伟",
@@ -53,8 +53,26 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_SOURCE_OVERRIDE",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Kilitli görsel manifestosu ve ayrı scene ID kuralına göre doğrulandı."
+  "qaNoteTr": "Otomatik LOCKED_V2 görsel QA FAIL: iş yeri mekanı doğru olsa da 新同事 rolündeki kadın görsel olarak canonical 刘梅 kimliğine/yüz-kıyafet diline karışıyor. Yardımcı karakter aile kimliğiyle karıştırılamaz; yeni final asset gerekli.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "locationId": "LOC_ZH_WORKPLACE_001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "supporting_character_identity_confused_with_canonical_LiuMei"
+    ],
+    "bulkAudit": "HSK2_SC009_SC020_AUTO_AUDIT_R1_2026-10-10"
+  }
 }
