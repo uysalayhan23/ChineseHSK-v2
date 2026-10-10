@@ -5,8 +5,8 @@
   "manifestVersion": "LOCKED_V2",
   "dialogueSource": "ci/dialogue_final_v5/HSK1/ZH_HSK1_SC029.json",
   "dialogueSha256": "f26dd6b4055d3408aad6ee99658685d5d331374e7a1711ddb9d117bbe3d6387f",
-  "titleTr": "İş Görüşmesine Geliş",
-  "locationId": "LOC_ZH_COMPANY_001",
+  "titleTr": "İş Görüşmesi",
+  "locationId": "LOC_ZH_WORKPLACE_001",
   "scenePurposeTr": "Zhang Wei şirkete iş görüşmesi için gelir ve şirket çalışanı ile yönetici tarafından karşılanır.",
   "dialogueSpeakers": [
     "张伟",
@@ -35,7 +35,8 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "496c2fdb2983d980f6d41fa7b58574fbd996748acc1d2d8ffb53d40fd3d0c5bd"
+    "sha256": "496c2fdb2983d980f6d41fa7b58574fbd996748acc1d2d8ffb53d40fd3d0c5bd",
+    "sourceRevision": "CONTEXTUAL_R1_REVALIDATED_2026-10-10"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -55,6 +56,19 @@
   },
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
-  "qaNoteTr": "Kullanıcının son onaylı görseli LOCKED_V2 manifestoya göre bu sceneId için final source asset olarak yeniden entegre edildi.",
-  "binaryIntegrityChecked": true
+  "qaNoteTr": "SC029 mevcut final asset yeniden kullanıldı: HSK1_SC001 görsel tekniğiyle uyumlu sıcak 2.5D/3D CGI, exact cast yalnız 张伟 + 经理 + 公司职员, gündüz LOC_ZH_WORKPLACE_001 iş görüşmesi; iş çantası, ofis girişi ve görüşme odası görünür. Karakter drift veya ekstra kişi yok. Görsel yeniden üretilmedi.",
+  "binaryIntegrityChecked": true,
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "noteTr": "Mevcut SC029 asseti görsel olarak yeniden denetlendi ve korunmasına karar verildi; yalnız metadata ve scene cast/location tutarlılığı düzeltildi."
+  }
 }
