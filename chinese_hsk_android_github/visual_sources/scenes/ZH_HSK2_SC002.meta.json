@@ -6,7 +6,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK2/ZH_HSK2_SC002.json",
   "dialogueSha256": "7f76d584438e3742fb690e1bd82613be3cef4f6212974378e66989687cc56af4",
   "titleTr": "Otobüs Kartı Almak",
-  "locationId": "LOC_ZH_TRANSIT_SERVICE_001",
+  "locationId": "LOC_ZH_TRANSIT_OFFICE_001",
   "scenePurposeTr": "Zhang Wei, Liu Mei ile birlikte ulaşım hizmet noktasında bir otobüs kartı alır.",
   "dialogueSpeakers": [
     "张伟",
@@ -56,5 +56,21 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Kullanıcının son üretilen görseli LOCKED_V2 manifestoya göre bu sceneId için final source asset olarak yeniden entegre edildi."
+  "qaNoteTr": "Toplu LOCKED_V2 auditinde mevcut final görsel HSK1_SC001 stil ailesi, exact cast, sahne eylemi ve canonical mekan açısından PASS. Yalnız eski yardımcı locationId LOC_ZH_TRANSIT_OFFICE_001 ile scene JSON'a hizalandı; görsel yeniden üretilmedi.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "locationId": "LOC_ZH_TRANSIT_OFFICE_001",
+    "appRuntimeMirrorBlobMatch": true,
+    "bulkAudit": "HSK2_AUTOMATIC_MANIFEST_AUDIT_R1_2026-10-10"
+  }
 }

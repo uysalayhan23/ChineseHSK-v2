@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK1_SC045_SC049_LOCATION_ALIGNMENT_R1_2026-10-10",
+  "latestVisualRevision": "HSK2_SC001_SC008_AUTOMATIC_MANIFEST_AUDIT_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -2226,5 +2226,44 @@
     "appRuntimeMirrorBlobMatch": true,
     "actionsRun": false,
     "status": "PARTIAL_PASS"
+  },
+  "hsk2Sc001Sc008AutomaticManifestAuditR1": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "scope": [
+      "ZH_HSK2_SC001",
+      "ZH_HSK2_SC002",
+      "ZH_HSK2_SC003",
+      "ZH_HSK2_SC004",
+      "ZH_HSK2_SC005",
+      "ZH_HSK2_SC006",
+      "ZH_HSK2_SC007",
+      "ZH_HSK2_SC008"
+    ],
+    "passSceneIds": [
+      "ZH_HSK2_SC001",
+      "ZH_HSK2_SC002",
+      "ZH_HSK2_SC003",
+      "ZH_HSK2_SC004",
+      "ZH_HSK2_SC005",
+      "ZH_HSK2_SC006",
+      "ZH_HSK2_SC007",
+      "ZH_HSK2_SC008"
+    ],
+    "regeneratedSceneIds": [],
+    "metadataOnlyCorrections": [
+      "ZH_HSK2_SC002",
+      "ZH_HSK2_SC004",
+      "ZH_HSK2_SC005",
+      "ZH_HSK2_SC006",
+      "ZH_HSK2_SC007",
+      "ZH_HSK2_SC008"
+    ],
+    "correctionRequiredSceneIds": [],
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_8",
+    "status": "PASS",
+    "actionsRun": false,
+    "noteTr": "Sekiz sahne toplu tarandı. Altı sahnede yalnız eski yardımcı locationId canonical scene JSON ile hizalandı; görseller doğru olduğundan yeniden üretilmedi."
   }
 }

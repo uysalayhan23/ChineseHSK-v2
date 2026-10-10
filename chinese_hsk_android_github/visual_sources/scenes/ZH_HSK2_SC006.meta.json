@@ -6,7 +6,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK2/ZH_HSK2_SC006.json",
   "dialogueSha256": "fe976c96fcc586bf5477eae7e4bcea83458baabf9c40d7549d8a3957282a86a5",
   "titleTr": "Fazla Mesai",
-  "locationId": "LOC_ZH_ZHANG_OFFICE_001",
+  "locationId": "LOC_ZH_WORKPLACE_001",
   "scenePurposeTr": "Zhang Wei ofiste fazla mesai yapar; iş arkadaşı yanındadır ve Liu Mei ile görüntülü görüşme yapar.",
   "dialogueSpeakers": [
     "张伟",
@@ -57,5 +57,21 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Kullanıcının son üretilen görseli LOCKED_V2 manifestoya göre bu sceneId için final source asset olarak yeniden entegre edildi."
+  "qaNoteTr": "Toplu LOCKED_V2 auditinde mevcut final görsel HSK1_SC001 stil ailesi, exact cast, sahne eylemi ve canonical mekan açısından PASS. Yalnız eski yardımcı locationId LOC_ZH_WORKPLACE_001 ile scene JSON'a hizalandı; görsel yeniden üretilmedi.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "locationId": "LOC_ZH_WORKPLACE_001",
+    "appRuntimeMirrorBlobMatch": true,
+    "bulkAudit": "HSK2_AUTOMATIC_MANIFEST_AUDIT_R1_2026-10-10"
+  }
 }

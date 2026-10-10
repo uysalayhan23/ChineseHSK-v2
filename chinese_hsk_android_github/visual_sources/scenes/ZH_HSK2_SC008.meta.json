@@ -6,7 +6,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK2/ZH_HSK2_SC008.json",
   "dialogueSha256": "dff5efa2a0c8c7793c40bc049080951957be72e1c80e21d967c6ed7d6e8d9097",
   "titleTr": "Mimi Üst Kata Kaçtı",
-  "locationId": "LOC_ZH_HOME_STAIRS_001",
+  "locationId": "LOC_ZH_APARTMENT_001",
   "scenePurposeTr": "Mimi üst kata kaçar; Lele, Yutong, Liu Mei ve komşu evde onu arar.",
   "dialogueSpeakers": [
     "张乐乐",
@@ -58,5 +58,21 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Kilitli görsel manifestosu ve ayrı scene ID kuralına göre doğrulandı."
+  "qaNoteTr": "Toplu LOCKED_V2 auditinde mevcut final görsel HSK1_SC001 stil ailesi, exact cast, sahne eylemi ve canonical mekan açısından PASS. Yalnız eski yardımcı locationId LOC_ZH_APARTMENT_001 ile scene JSON'a hizalandı; görsel yeniden üretilmedi.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "locationId": "LOC_ZH_APARTMENT_001",
+    "appRuntimeMirrorBlobMatch": true,
+    "bulkAudit": "HSK2_AUTOMATIC_MANIFEST_AUDIT_R1_2026-10-10"
+  }
 }

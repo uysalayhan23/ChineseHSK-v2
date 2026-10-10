@@ -6,7 +6,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK2/ZH_HSK2_SC004.json",
   "dialogueSha256": "961103d992888f2d8017f2853dc6f8279f05712560da0f76237ad68a222c9c40",
   "titleTr": "Okul Servisini Kaçırmak",
-  "locationId": "LOC_ZH_SCHOOL_BUS_STOP_001",
+  "locationId": "LOC_ZH_NEIGHBORHOOD_001",
   "scenePurposeTr": "Lele okul servisini kaçırır; Liu Mei ve komşu onunla birlikte durakta durumu değerlendirir.",
   "dialogueSpeakers": [
     "张乐乐",
@@ -56,5 +56,21 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Kullanıcının son üretilen görseli LOCKED_V2 manifestoya göre bu sceneId için final source asset olarak yeniden entegre edildi."
+  "qaNoteTr": "Toplu LOCKED_V2 auditinde mevcut final görsel HSK1_SC001 stil ailesi, exact cast, sahne eylemi ve canonical mekan açısından PASS. Yalnız eski yardımcı locationId LOC_ZH_NEIGHBORHOOD_001 ile scene JSON'a hizalandı; görsel yeniden üretilmedi.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "locationId": "LOC_ZH_NEIGHBORHOOD_001",
+    "appRuntimeMirrorBlobMatch": true,
+    "bulkAudit": "HSK2_AUTOMATIC_MANIFEST_AUDIT_R1_2026-10-10"
+  }
 }
