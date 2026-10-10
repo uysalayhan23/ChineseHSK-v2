@@ -29,7 +29,7 @@
     "previousSceneId": "ZH_HSK1_SC045",
     "nextSceneId": "ZH_HSK1_SC047"
   },
-  "sourceGeneratedFilename": "komşularla_neşeli_kek_paylaşımı.png",
+  "sourceGeneratedFilename": "sıcacık_aile_çay_ve_pasta_sofrası.png",
   "finalAssetFilename": "ZH_HSK1_SC046.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK1_SC046.webp",
   "image": {
@@ -37,7 +37,8 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "018434a3fa43e4506e03a0f41e81a6c03ccbb2fae1d98162cb40504118236090"
+    "sha256": "c622c4ad33158d3e68c34da405d1eb30696a18d7167af1b719099ac255bf353e",
+    "sourceRevision": "RESTORED_CANONICAL_BRANCH_ASSET_R1_2026-10-10"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -58,5 +59,20 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-26: kilitli diyalog, oyuncu kadrosu, kritik nesneler ve 9:16 CGI kurallarına göre doğrulanan son görsel uygulama asseti olarak eşlendi."
+  "qaNoteTr": "ZH_HSK1_SC046: eski doğrulanmış branch asseti geri alındı; exact cast, HSK1_SC001 stil referansı, character bible kimlikleri ve canonical location yeniden kontrol edildi. Yanlış ana-dal varyantının üzerine yazıldı.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedVerifiedBranchAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "bulkRepair": "HSK1_SC031_SC050_R1_REPAIR_2026-10-10"
+  }
 }

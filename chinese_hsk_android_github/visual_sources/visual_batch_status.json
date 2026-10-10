@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK1_SC031_SC050_BULK_AUDIT_R1_2026-10-10",
+  "latestVisualRevision": "HSK1_SC038_SC050_CANONICAL_BRANCH_REPAIR_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -2022,6 +2022,96 @@
       "previousSceneId": "ZH_HSK1_SC029",
       "nextSceneId": "ZH_HSK1_SC031",
       "apkBuildStarted": false
+    },
+    "ZH_HSK1_SC038": {
+      "status": "INTEGRATED_MODEL_QA_PASS",
+      "imageSha256": "c2d6c9be041dabdac26ca7c70a806d6706cdbebd2aad2bd5bd5c1556e312fc91",
+      "exactCastChecked": true,
+      "locationId": "LOC_ZH_PARK_001",
+      "referenceSceneId": "ZH_HSK1_SC001",
+      "reusedVerifiedBranchAsset": true,
+      "appRuntimeMirrorBlobMatch": true,
+      "apkBuildStarted": false
+    },
+    "ZH_HSK1_SC039": {
+      "status": "INTEGRATED_MODEL_QA_PASS",
+      "imageSha256": "aa1b1c869d23b4bdd036f6db3602aefc95888ebcf2e1222193a0db7412d4ba76",
+      "exactCastChecked": true,
+      "locationId": "LOC_ZH_NEIGHBORHOOD_001",
+      "referenceSceneId": "ZH_HSK1_SC001",
+      "reusedVerifiedBranchAsset": true,
+      "appRuntimeMirrorBlobMatch": true,
+      "apkBuildStarted": false
+    },
+    "ZH_HSK1_SC040": {
+      "status": "INTEGRATED_MODEL_QA_PASS",
+      "imageSha256": "7883048d2a87e67b06103346b17e23e96243a20d0db0416542df29e55b7c6b1b",
+      "exactCastChecked": true,
+      "locationId": "LOC_ZH_NEW_HOME_001",
+      "referenceSceneId": "ZH_HSK1_SC001",
+      "reusedVerifiedBranchAsset": true,
+      "appRuntimeMirrorBlobMatch": true,
+      "apkBuildStarted": false
+    },
+    "ZH_HSK1_SC041": {
+      "status": "INTEGRATED_MODEL_QA_PASS",
+      "imageSha256": "848513a8bcf99150d5af9446d3530db72d3b2d10073e49580a10e004c2ae8f78",
+      "exactCastChecked": true,
+      "locationId": "LOC_ZH_VET_001",
+      "referenceSceneId": "ZH_HSK1_SC001",
+      "reusedVerifiedBranchAsset": true,
+      "appRuntimeMirrorBlobMatch": true,
+      "apkBuildStarted": false
+    },
+    "ZH_HSK1_SC042": {
+      "status": "INTEGRATED_MODEL_QA_PASS",
+      "imageSha256": "6a0b42ee1712cf599ad373f2c939bf41416810017c524bdb17b2bd61279cabe7",
+      "exactCastChecked": true,
+      "locationId": "LOC_ZH_PET_SHOP_001",
+      "referenceSceneId": "ZH_HSK1_SC001",
+      "reusedVerifiedBranchAsset": true,
+      "appRuntimeMirrorBlobMatch": true,
+      "apkBuildStarted": false
+    },
+    "ZH_HSK1_SC044": {
+      "status": "INTEGRATED_MODEL_QA_PASS",
+      "imageSha256": "2752ae5a100cee2d620a1a7ec9e1e5e6b366c888ea4549a3e4e9f6933a7a20be",
+      "exactCastChecked": true,
+      "locationId": "LOC_ZH_PRIMARY_SCHOOL_001",
+      "referenceSceneId": "ZH_HSK1_SC001",
+      "reusedVerifiedBranchAsset": true,
+      "appRuntimeMirrorBlobMatch": true,
+      "apkBuildStarted": false
+    },
+    "ZH_HSK1_SC046": {
+      "status": "INTEGRATED_MODEL_QA_PASS",
+      "imageSha256": "c622c4ad33158d3e68c34da405d1eb30696a18d7167af1b719099ac255bf353e",
+      "exactCastChecked": true,
+      "locationId": "LOC_ZH_NEW_HOME_001",
+      "referenceSceneId": "ZH_HSK1_SC001",
+      "reusedVerifiedBranchAsset": true,
+      "appRuntimeMirrorBlobMatch": true,
+      "apkBuildStarted": false
+    },
+    "ZH_HSK1_SC047": {
+      "status": "INTEGRATED_MODEL_QA_PASS",
+      "imageSha256": "d633ec31b6c8bac49a96de150d171993b46ceed43d8525ae168c8a7e8f175e5e",
+      "exactCastChecked": true,
+      "locationId": "LOC_ZH_NEW_HOME_001",
+      "referenceSceneId": "ZH_HSK1_SC001",
+      "reusedVerifiedBranchAsset": true,
+      "appRuntimeMirrorBlobMatch": true,
+      "apkBuildStarted": false
+    },
+    "ZH_HSK1_SC050": {
+      "status": "INTEGRATED_MODEL_QA_PASS",
+      "imageSha256": "59508a6e6ad4b64583fb6de9df557726c0b8ec9ba0adfe6e00ce6e301a1ab843",
+      "exactCastChecked": true,
+      "locationId": "LOC_ZH_NEW_HOME_001",
+      "referenceSceneId": "ZH_HSK1_SC001",
+      "reusedVerifiedBranchAsset": true,
+      "appRuntimeMirrorBlobMatch": true,
+      "apkBuildStarted": false
     }
   },
   "hsk1Sc031Sc050BulkAuditR1": {
@@ -2056,23 +2146,23 @@
       "ZH_HSK1_SC033",
       "ZH_HSK1_SC034",
       "ZH_HSK1_SC037",
-      "ZH_HSK1_SC043"
-    ],
-    "correctionRequiredSceneIds": [
-      "ZH_HSK1_SC035",
-      "ZH_HSK1_SC036",
+      "ZH_HSK1_SC043",
       "ZH_HSK1_SC038",
       "ZH_HSK1_SC039",
       "ZH_HSK1_SC040",
       "ZH_HSK1_SC041",
       "ZH_HSK1_SC042",
       "ZH_HSK1_SC044",
-      "ZH_HSK1_SC045",
       "ZH_HSK1_SC046",
       "ZH_HSK1_SC047",
-      "ZH_HSK1_SC048",
-      "ZH_HSK1_SC049",
       "ZH_HSK1_SC050"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK1_SC035",
+      "ZH_HSK1_SC036",
+      "ZH_HSK1_SC045",
+      "ZH_HSK1_SC048",
+      "ZH_HSK1_SC049"
     ],
     "reasons": {
       "ZH_HSK1_SC035": [
@@ -2081,41 +2171,9 @@
       "ZH_HSK1_SC036": [
         "extra_non_dialogue_character_Mimi"
       ],
-      "ZH_HSK1_SC038": [
-        "Lele_wrong_gender",
-        "ZhangWei_identity_drift",
-        "meta_location_noncanonical"
-      ],
-      "ZH_HSK1_SC039": [
-        "Lele_wrong_gender",
-        "ZhangWei_identity_drift"
-      ],
-      "ZH_HSK1_SC040": [
-        "ZhangWei_identity_drift"
-      ],
-      "ZH_HSK1_SC041": [
-        "Lele_wrong_gender",
-        "ZhangWei_identity_drift",
-        "meta_location_noncanonical"
-      ],
-      "ZH_HSK1_SC042": [
-        "Lele_wrong_gender",
-        "ZhangWei_identity_drift"
-      ],
-      "ZH_HSK1_SC044": [
-        "Lele_wrong_gender",
-        "meta_location_noncanonical"
-      ],
       "ZH_HSK1_SC045": [
         "visual_location_mismatch_with_scene_JSON",
         "meta_location_mismatch"
-      ],
-      "ZH_HSK1_SC046": [
-        "Lele_wrong_gender",
-        "ZhangWei_identity_drift"
-      ],
-      "ZH_HSK1_SC047": [
-        "extra_non_dialogue_family_characters"
       ],
       "ZH_HSK1_SC048": [
         "extra_non_dialogue_family_characters",
@@ -2124,14 +2182,37 @@
       "ZH_HSK1_SC049": [
         "visual_location_mismatch_with_scene_JSON",
         "meta_location_noncanonical"
-      ],
-      "ZH_HSK1_SC050": [
-        "extra_non_dialogue_family_characters"
       ]
     },
     "status": "CORRECTION_REQUIRED",
     "appRuntimeMirrorBlobCheck": "PASS_ALL_20",
     "actionsRun": false,
-    "noteTr": "Toplu denetimde 20 sahnenin 6'sı doğrudan korundu. 14 sahnede exact cast, Lele cinsiyet kilidi, Zhang Wei kimlik sürekliliği, ekstra karakter veya mekan uyumsuzluğu bulundu. Düzgün sahneler yeniden üretilmeyecek; yalnız bu 14 sahne düzeltilecek."
+    "noteTr": "Toplu audit sonrası doğrulanmış eski branch assetleriyle 9 sahne düzeltildi. Kalan düzeltme kuyruğu: ZH_HSK1_SC035, ZH_HSK1_SC036, ZH_HSK1_SC045, ZH_HSK1_SC048, ZH_HSK1_SC049. Actions çalıştırılmadı."
+  },
+  "hsk1Sc031Sc050CanonicalRepairR1": {
+    "repairedSceneIds": [
+      "ZH_HSK1_SC038",
+      "ZH_HSK1_SC039",
+      "ZH_HSK1_SC040",
+      "ZH_HSK1_SC041",
+      "ZH_HSK1_SC042",
+      "ZH_HSK1_SC044",
+      "ZH_HSK1_SC046",
+      "ZH_HSK1_SC047",
+      "ZH_HSK1_SC050"
+    ],
+    "remainingSceneIds": [
+      "ZH_HSK1_SC035",
+      "ZH_HSK1_SC036",
+      "ZH_HSK1_SC045",
+      "ZH_HSK1_SC048",
+      "ZH_HSK1_SC049"
+    ],
+    "sourceStrategy": "verified historical branch asset restore",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "actionsRun": false,
+    "status": "PARTIAL_PASS"
   }
 }

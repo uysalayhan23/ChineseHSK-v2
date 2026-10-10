@@ -29,7 +29,7 @@
     "previousSceneId": "ZH_HSK1_SC049",
     "nextSceneId": "ZH_HSK2_SC001"
   },
-  "sourceGeneratedFilename": "sıcacık_aile_sofrası_ve_neşeli_kedi.png",
+  "sourceGeneratedFilename": "ZH_HSK1_SC050.webp",
   "finalAssetFilename": "ZH_HSK1_SC050.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK1_SC050.webp",
   "image": {
@@ -37,7 +37,8 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "d4ab9a130b9e577d44c4b72d8b247e64f980e629d55ef3b8b856e13a381931ba"
+    "sha256": "59508a6e6ad4b64583fb6de9df557726c0b8ec9ba0adfe6e00ce6e301a1ab843",
+    "sourceRevision": "RESTORED_CANONICAL_BRANCH_ASSET_R1_2026-10-10"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -58,5 +59,20 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Kullanıcının son üretilen görseli LOCKED_V2 manifestoya göre bu sceneId için final source asset olarak yeniden entegre edildi."
+  "qaNoteTr": "ZH_HSK1_SC050: eski doğrulanmış branch asseti geri alındı; exact cast, HSK1_SC001 stil referansı, character bible kimlikleri ve canonical location yeniden kontrol edildi. Yanlış ana-dal varyantının üzerine yazıldı.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedVerifiedBranchAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "bulkRepair": "HSK1_SC031_SC050_R1_REPAIR_2026-10-10"
+  }
 }

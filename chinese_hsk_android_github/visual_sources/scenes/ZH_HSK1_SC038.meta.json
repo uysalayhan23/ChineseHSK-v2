@@ -6,7 +6,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK1/ZH_HSK1_SC038.json",
   "dialogueSha256": "b9c7689af7ae60adbd0822169e50ea27f9222f1899968d15845cd85321cdf7c6",
   "titleTr": "Dondurma Alışverişi",
-  "locationId": "LOC_ZH_ICE_CREAM_SHOP_001",
+  "locationId": "LOC_ZH_PARK_001",
   "scenePurposeTr": "Lele ailesiyle dondurma alır; dondurma seçimi ve isteme ifadeleri konuşulur.",
   "dialogueSpeakers": [
     "张乐乐",
@@ -37,7 +37,8 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "5c9ae8d5348a87f752f785c4797adbec059948df012f0dee601a0e3cfb894cc2"
+    "sha256": "c2d6c9be041dabdac26ca7c70a806d6706cdbebd2aad2bd5bd5c1556e312fc91",
+    "sourceRevision": "RESTORED_CANONICAL_BRANCH_ASSET_R1_2026-10-10"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -58,5 +59,20 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-26: kilitli diyalog, oyuncu kadrosu, kritik nesneler ve 9:16 CGI kurallarına göre doğrulanan son görsel uygulama asseti olarak eşlendi."
+  "qaNoteTr": "ZH_HSK1_SC038: eski doğrulanmış branch asseti geri alındı; exact cast, HSK1_SC001 stil referansı, character bible kimlikleri ve canonical location yeniden kontrol edildi. Yanlış ana-dal varyantının üzerine yazıldı.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedVerifiedBranchAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "bulkRepair": "HSK1_SC031_SC050_R1_REPAIR_2026-10-10"
+  }
 }

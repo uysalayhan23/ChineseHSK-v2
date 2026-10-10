@@ -6,7 +6,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK1/ZH_HSK1_SC044.json",
   "dialogueSha256": "b7aa82d8eb7ed194c55a45d1e1b3211a2fefa996f69ab902efd28961d642d953",
   "titleTr": "Lele’nin Aile Resmi",
-  "locationId": "LOC_ZH_SCHOOL_CLASSROOM_001",
+  "locationId": "LOC_ZH_PRIMARY_SCHOOL_001",
   "scenePurposeTr": "Lele sınıfta çizdiği aile resmini öğretmeni ve sınıf arkadaşıyla paylaşır.",
   "dialogueSpeakers": [
     "张乐乐",
@@ -27,7 +27,7 @@
     "previousSceneId": "ZH_HSK1_SC043",
     "nextSceneId": "ZH_HSK1_SC045"
   },
-  "sourceGeneratedFilename": "sınıfta_gururla_gösterilen_aile_resmi.png",
+  "sourceGeneratedFilename": "sınıfta_aile_resmi_gururu.png",
   "finalAssetFilename": "ZH_HSK1_SC044.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK1_SC044.webp",
   "image": {
@@ -35,7 +35,8 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "ca4281ad70f84e563624be8c8969d16c7628aea29949608b8f03c779a384b1a1"
+    "sha256": "2752ae5a100cee2d620a1a7ec9e1e5e6b366c888ea4549a3e4e9f6933a7a20be",
+    "sourceRevision": "RESTORED_CANONICAL_BRANCH_ASSET_R1_2026-10-10"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -56,5 +57,20 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-26: kilitli diyalog, oyuncu kadrosu, kritik nesneler ve 9:16 CGI kurallarına göre doğrulanan son görsel uygulama asseti olarak eşlendi."
+  "qaNoteTr": "ZH_HSK1_SC044: eski doğrulanmış branch asseti geri alındı; exact cast, HSK1_SC001 stil referansı, character bible kimlikleri ve canonical location yeniden kontrol edildi. Yanlış ana-dal varyantının üzerine yazıldı.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedVerifiedBranchAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "bulkRepair": "HSK1_SC031_SC050_R1_REPAIR_2026-10-10"
+  }
 }
