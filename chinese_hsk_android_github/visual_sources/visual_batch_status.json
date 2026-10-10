@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK5_SC033_SC040_VISUAL_QA_R1_2026-10-10",
+  "latestVisualRevision": "HSK5_FULL_SC001_SC050_VISUAL_QA_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -3207,5 +3207,203 @@
     "appRuntimeMirrorBlobCheck": "PASS_ALL_8",
     "actionsRun": false,
     "noteTr": "HSK5 SC033-SC040 gerçek JSON/metalar ve görsellerle denetlendi. SC033 ve SC034'te yanlış genç partner Li Chen yerine kullanılmış; metadata character age lock, sahne görsel yönü ve FAIL QA ile düzeltildi. SC035-SC040 mevcut doğru sahneler korunuyor."
+  },
+  "hsk5Sc041Sc050VisualQaR1": {
+    "auditDate": "2026-10-10",
+    "auditSourceHead": "53e19472d08dcabdaefbac0486ad2e641abf442d",
+    "manifestVersion": "LOCKED_V2",
+    "referenceStyleSceneId": "ZH_HSK1_SC001",
+    "scope": [
+      "ZH_HSK5_SC041",
+      "ZH_HSK5_SC042",
+      "ZH_HSK5_SC043",
+      "ZH_HSK5_SC044",
+      "ZH_HSK5_SC045",
+      "ZH_HSK5_SC046",
+      "ZH_HSK5_SC047",
+      "ZH_HSK5_SC048",
+      "ZH_HSK5_SC049",
+      "ZH_HSK5_SC050"
+    ],
+    "status": "CORRECTION_REQUIRED",
+    "passSceneIds": [
+      "ZH_HSK5_SC041",
+      "ZH_HSK5_SC042",
+      "ZH_HSK5_SC043",
+      "ZH_HSK5_SC044",
+      "ZH_HSK5_SC045",
+      "ZH_HSK5_SC046",
+      "ZH_HSK5_SC048",
+      "ZH_HSK5_SC050"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK5_SC047",
+      "ZH_HSK5_SC049"
+    ],
+    "reasons": {
+      "ZH_HSK5_SC047": [
+        "LiChen_replaced_by_young_partner",
+        "LiChen_missing_signature_glasses",
+        "LiChen_maturity_lock_conflict"
+      ],
+      "ZH_HSK5_SC049": [
+        "LiChen_replaced_by_young_partner",
+        "LiChen_missing_signature_glasses",
+        "LiChen_maturity_lock_conflict"
+      ]
+    },
+    "narratorVoiceoverExcludedSceneIds": [
+      "ZH_HSK5_SC049"
+    ],
+    "regeneratedSceneIds": [],
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_10",
+    "actionsRun": false,
+    "noteTr": "HSK5_SC041–SC050 scene/meta ve görselleri kontrol edildi; SC047 ve SC049 Li Chen genç partnerle karıştığı için FAIL. SC049 anlatıcısı (旁白) yalnız dış sestir. Diğer sekiz görsel korundu."
+  },
+  "hsk5FullVisualQaR1": {
+    "auditDate": "2026-10-10",
+    "auditSourceHead": "53e19472d08dcabdaefbac0486ad2e641abf442d",
+    "manifestVersion": "LOCKED_V2",
+    "referenceStyleSceneId": "ZH_HSK1_SC001",
+    "level": "HSK5",
+    "status": "CORRECTION_REQUIRED",
+    "scope": [
+      "ZH_HSK5_SC001",
+      "ZH_HSK5_SC002",
+      "ZH_HSK5_SC003",
+      "ZH_HSK5_SC004",
+      "ZH_HSK5_SC005",
+      "ZH_HSK5_SC006",
+      "ZH_HSK5_SC007",
+      "ZH_HSK5_SC008",
+      "ZH_HSK5_SC009",
+      "ZH_HSK5_SC010",
+      "ZH_HSK5_SC011",
+      "ZH_HSK5_SC012",
+      "ZH_HSK5_SC013",
+      "ZH_HSK5_SC014",
+      "ZH_HSK5_SC015",
+      "ZH_HSK5_SC016",
+      "ZH_HSK5_SC017",
+      "ZH_HSK5_SC018",
+      "ZH_HSK5_SC019",
+      "ZH_HSK5_SC020",
+      "ZH_HSK5_SC021",
+      "ZH_HSK5_SC022",
+      "ZH_HSK5_SC023",
+      "ZH_HSK5_SC024",
+      "ZH_HSK5_SC025",
+      "ZH_HSK5_SC026",
+      "ZH_HSK5_SC027",
+      "ZH_HSK5_SC028",
+      "ZH_HSK5_SC029",
+      "ZH_HSK5_SC030",
+      "ZH_HSK5_SC031",
+      "ZH_HSK5_SC032",
+      "ZH_HSK5_SC033",
+      "ZH_HSK5_SC034",
+      "ZH_HSK5_SC035",
+      "ZH_HSK5_SC036",
+      "ZH_HSK5_SC037",
+      "ZH_HSK5_SC038",
+      "ZH_HSK5_SC039",
+      "ZH_HSK5_SC040",
+      "ZH_HSK5_SC041",
+      "ZH_HSK5_SC042",
+      "ZH_HSK5_SC043",
+      "ZH_HSK5_SC044",
+      "ZH_HSK5_SC045",
+      "ZH_HSK5_SC046",
+      "ZH_HSK5_SC047",
+      "ZH_HSK5_SC048",
+      "ZH_HSK5_SC049",
+      "ZH_HSK5_SC050"
+    ],
+    "passSceneIds": [
+      "ZH_HSK5_SC001",
+      "ZH_HSK5_SC002",
+      "ZH_HSK5_SC003",
+      "ZH_HSK5_SC004",
+      "ZH_HSK5_SC005",
+      "ZH_HSK5_SC006",
+      "ZH_HSK5_SC007",
+      "ZH_HSK5_SC008",
+      "ZH_HSK5_SC009",
+      "ZH_HSK5_SC010",
+      "ZH_HSK5_SC011",
+      "ZH_HSK5_SC012",
+      "ZH_HSK5_SC013",
+      "ZH_HSK5_SC014",
+      "ZH_HSK5_SC015",
+      "ZH_HSK5_SC016",
+      "ZH_HSK5_SC017",
+      "ZH_HSK5_SC018",
+      "ZH_HSK5_SC019",
+      "ZH_HSK5_SC020",
+      "ZH_HSK5_SC021",
+      "ZH_HSK5_SC022",
+      "ZH_HSK5_SC023",
+      "ZH_HSK5_SC024",
+      "ZH_HSK5_SC025",
+      "ZH_HSK5_SC026",
+      "ZH_HSK5_SC027",
+      "ZH_HSK5_SC028",
+      "ZH_HSK5_SC029",
+      "ZH_HSK5_SC030",
+      "ZH_HSK5_SC031",
+      "ZH_HSK5_SC035",
+      "ZH_HSK5_SC036",
+      "ZH_HSK5_SC037",
+      "ZH_HSK5_SC038",
+      "ZH_HSK5_SC039",
+      "ZH_HSK5_SC040",
+      "ZH_HSK5_SC041",
+      "ZH_HSK5_SC042",
+      "ZH_HSK5_SC043",
+      "ZH_HSK5_SC044",
+      "ZH_HSK5_SC045",
+      "ZH_HSK5_SC046",
+      "ZH_HSK5_SC048",
+      "ZH_HSK5_SC050"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK5_SC032",
+      "ZH_HSK5_SC033",
+      "ZH_HSK5_SC034",
+      "ZH_HSK5_SC047",
+      "ZH_HSK5_SC049"
+    ],
+    "correctionReasons": {
+      "ZH_HSK5_SC032": [
+        "LiChen_replaced_by_young_partner",
+        "LiChen_missing_signature_glasses",
+        "LiChen_maturity_lock_conflict"
+      ],
+      "ZH_HSK5_SC033": [
+        "LiChen_replaced_by_young_partner",
+        "LiChen_missing_signature_glasses",
+        "LiChen_maturity_lock_conflict"
+      ],
+      "ZH_HSK5_SC034": [
+        "LiChen_replaced_by_young_partner",
+        "LiChen_missing_signature_glasses",
+        "LiChen_maturity_lock_conflict"
+      ],
+      "ZH_HSK5_SC047": [
+        "LiChen_replaced_by_young_partner",
+        "LiChen_missing_signature_glasses",
+        "LiChen_maturity_lock_conflict"
+      ],
+      "ZH_HSK5_SC049": [
+        "LiChen_replaced_by_young_partner",
+        "LiChen_missing_signature_glasses",
+        "LiChen_maturity_lock_conflict"
+      ]
+    },
+    "regeneratedSceneIds": [],
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_50",
+    "uniqueAssetBlobCheck": "PASS_50_DISTINCT",
+    "actionsRun": false,
+    "notesTr": "50 gerçek JSON ve LOCKED_V2 meta ile görsel QA tamamlandı: 45 mevcut görsel korundu, 5 Li Chen kimlik hatası içeriyor. HSK5_SC032–034, SC047, SC049'da Li Chen HSK5 SENIOR yerine genç partner gösterilmiş. Yanlış ageLock ve yönlendirici metalar düzeltilerek FAIL durumuna alındı; bozuk WebP'ler doğru yeni binary gelene kadar değiştirilmedi. Tüm 50 app/runtime SHA eşleşir, her sahnenin WebP SHA'sı ayrıdır."
   }
 }

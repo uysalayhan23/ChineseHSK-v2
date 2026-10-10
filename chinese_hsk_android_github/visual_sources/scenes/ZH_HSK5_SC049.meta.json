@@ -35,14 +35,14 @@
   "characterAgeLock": {
     "张伟": "senior_male_parent",
     "刘梅": "senior_female_parent",
-    "李晨": "young_adult_male_partner"
+    "李晨": "senior_male_family_friend_canonical_thin_dark_rectangular_glasses"
   },
   "criticalObjects": [
     "yürüyüş yolu fenerleri",
     "ağaçlı taş yol",
     "akşam sokak ışıkları"
   ],
-  "visualDirectionTr": "Akşam ışıklı kasaba yürüyüş yolunda Zhang ve Liu Mei yan yana yürür, Li Chen birkaç adım ötede eşlik eder; anlatıcı dış sestir.",
+  "visualDirectionTr": "Akşam ışıklı kasaba yürüyüş yolunda yalnız 张伟, 刘梅, 李晨 fiziksel olarak görünür; 旁白 dış ses anlatıcıdır ve kadrajda görünmez. 李晨 genç partner değil, HSK5 SENIOR olgun erkek aile dostudur: kendine özgü olgun yüz, düzenli kısa siyah/kırlaşmış saç ve ince koyu dikdörtgen gözlük.",
   "continuity": {
     "previousSceneId": "ZH_HSK5_SC048",
     "nextSceneId": "ZH_HSK5_SC050",
@@ -58,8 +58,8 @@
   },
   "manifestChecklist": {
     "dialogueChecked": true,
-    "castChecked": true,
-    "allDialogueSpeakersVisible": true,
+    "castChecked": false,
+    "allDialogueSpeakersVisible": false,
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
     "style3d25dCgi": true,
@@ -69,9 +69,9 @@
     "noMiniSkirt": true,
     "noSexyClothing": true,
     "criticalObjectsVisible": true,
-    "canonicalCharacterContinuityChecked": true,
+    "canonicalCharacterContinuityChecked": false,
     "uniqueSceneIdChecked": true,
-    "hsk5MaturityLockChecked": true
+    "hsk5MaturityLockChecked": false
   },
   "sourceGeneratedFilename": "ZH_HSK5_SC049.png",
   "finalAssetFilename": "ZH_HSK5_SC049.webp",
@@ -85,10 +85,35 @@
     "sha256": "ae33cd2410060847d332a888e85b45b98a9b0b97a2a4e2b7d2417424d22d20c0",
     "bytes": 531222
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "HSK5 SC041-SC050 grubu; SC030 aile/stil referansı ve HSK5 olgunluk kilidi korundu. Kaynak kadrosu, 9:16 WebP ve hash kontrolleri geçti. APK build başlatılmadı.",
+  "qaNoteTr": "ZH_HSK5_SC049 visual QA FAIL: diyalogdaki 李晨, canonical HSK5 SENIOR erkek dost yerine gözlüksüz genç partner olarak resmedilmiş. Li Chen'in character bible kimliği ile age lock düzeltildi. 旁白 (anlatıcı) yalnız dış ses olup görsel karakteri değildir. Mevcut WebP ve runtime mirror korunur; doğru yeni görsel entegrasyonuna dek FAIL kalır.",
   "generationPrompt": "SC040 Zhang/Liu/Li Chen identities; voiceover narrator is not visible, exactly three physical people.",
-  "styleReferenceSceneId": "ZH_HSK5_SC040"
+  "styleReferenceSceneId": "ZH_HSK5_SC040",
+  "generationPromptStatus": "REJECTED_WRONG_CHARACTER_IDENTITY_LEGACY",
+  "nextGenerationPrompt": "ZH_HSK5_SC049: gerçek scene JSON + LOCKED_V2 + HSK5 maturity lock + character bible esas; exact visual cast 张伟 + 刘梅 + 李晨 (旁白 dış sestir, görselde gösterme). 李晨 = 43 yaş başlangıçlı, HSK5 SENIOR, yaşına uygun olgun erkek, kısa düzenli saç, ince koyu dikdörtgen gözlük; Yutong genç partneri değil. LOC_ZH_WALKWAY_001, evening, kritik objeler yürüyüş yolu fenerleri, ağaçlı taş yol, akşam sokak ışıkları. HSK1_SC001 sıcak 2.5D/3D CGI, 9:16 tek sahne, yazısız/logosuz, SC önce/sonra continuity.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": false,
+    "speakerCountMatch": false,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": false,
+    "exactCastChecked": false,
+    "narratorVoiceoverExempt": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "previousSceneId": "ZH_HSK5_SC048",
+    "nextSceneId": "ZH_HSK5_SC050",
+    "rejectionReasons": [
+      "LiChen_replaced_by_young_partner",
+      "LiChen_missing_signature_thin_dark_rectangular_glasses",
+      "LiChen_age_and_identity_drift",
+      "legacy_meta_age_lock_mislabeled_LiChen_as_partner"
+    ],
+    "appRuntimeMirrorBlobMatch": true,
+    "actionsRun": false
+  }
 }

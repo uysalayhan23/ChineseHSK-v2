@@ -34,7 +34,7 @@
   ],
   "characterAgeLock": {
     "张伟": "senior_male_parent",
-    "李晨": "young_adult_male_partner",
+    "李晨": "senior_male_family_friend_canonical_thin_dark_rectangular_glasses",
     "刘梅": "senior_female_parent",
     "朋友": "senior_male_friend"
   },
@@ -43,7 +43,7 @@
     "çay fincanları",
     "alçak ahşap çay masası"
   ],
-  "visualDirectionTr": "Akşam geleneksel çay evinde Zhang, Liu Mei, aynı Li Chen ve yaşlı bir dost emeklilik ve sonraki yaşamı konuşur.",
+  "visualDirectionTr": "Akşam geleneksel çay evinde yalnız 张伟, 李晨, 刘梅 ve yaşlı 朋友 emeklilik üzerine konuşur. 李晨 genç partner değil, HSK5 SENIOR olgun erkek aile dostudur: kendine özgü olgun yüz, düzenli kısa siyah/kırlaşmış saç ve ince koyu dikdörtgen gözlük. Yaşlı diğer dosttan ayırt edilir.",
   "continuity": {
     "previousSceneId": "ZH_HSK5_SC046",
     "nextSceneId": "ZH_HSK5_SC048",
@@ -54,8 +54,8 @@
   "narrationPresentation": null,
   "manifestChecklist": {
     "dialogueChecked": true,
-    "castChecked": true,
-    "allDialogueSpeakersVisible": true,
+    "castChecked": false,
+    "allDialogueSpeakersVisible": false,
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
     "style3d25dCgi": true,
@@ -65,9 +65,9 @@
     "noMiniSkirt": true,
     "noSexyClothing": true,
     "criticalObjectsVisible": true,
-    "canonicalCharacterContinuityChecked": true,
+    "canonicalCharacterContinuityChecked": false,
     "uniqueSceneIdChecked": true,
-    "hsk5MaturityLockChecked": true
+    "hsk5MaturityLockChecked": false
   },
   "sourceGeneratedFilename": "ZH_HSK5_SC047.png",
   "finalAssetFilename": "ZH_HSK5_SC047.webp",
@@ -81,10 +81,35 @@
     "sha256": "8d551527725435fba2caaa2f278282eee19354905e7dfb1d0b6f67c40f77db25",
     "bytes": 417816
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "HSK5 SC041-SC050 grubu; SC030 aile/stil referansı ve HSK5 olgunluk kilidi korundu. Kaynak kadrosu, 9:16 WebP ve hash kontrolleri geçti. APK build başlatılmadı.",
+  "qaNoteTr": "ZH_HSK5_SC047 visual QA FAIL: diyalogdaki 李晨, canonical HSK5 SENIOR erkek dost yerine gözlüksüz genç partner olarak resmedilmiş. Li Chen'in character bible kimliği ile age lock düzeltildi. Mevcut WebP ve runtime mirror korunur; doğru yeni görsel entegrasyonuna dek FAIL kalır.",
   "generationPrompt": "SC032 same Zhang, Liu, young adult Li Chen; add older male friend; night teahouse.",
-  "styleReferenceSceneId": "ZH_HSK5_SC040"
+  "styleReferenceSceneId": "ZH_HSK5_SC040",
+  "generationPromptStatus": "REJECTED_WRONG_CHARACTER_IDENTITY_LEGACY",
+  "nextGenerationPrompt": "ZH_HSK5_SC047: gerçek scene JSON + LOCKED_V2 + HSK5 maturity lock + character bible esas; exact visual cast 张伟 + 李晨 + 刘梅 + 朋友. 李晨 = 43 yaş başlangıçlı, HSK5 SENIOR, yaşına uygun olgun erkek, kısa düzenli saç, ince koyu dikdörtgen gözlük; Yutong genç partneri değil. LOC_ZH_TEA_HOUSE_001, evening, kritik objeler çaydanlık, çay fincanları, alçak ahşap çay masası. HSK1_SC001 sıcak 2.5D/3D CGI, 9:16 tek sahne, yazısız/logosuz, SC önce/sonra continuity.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": false,
+    "speakerCountMatch": false,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": false,
+    "exactCastChecked": false,
+    "narratorVoiceoverExempt": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "previousSceneId": "ZH_HSK5_SC046",
+    "nextSceneId": "ZH_HSK5_SC048",
+    "rejectionReasons": [
+      "LiChen_replaced_by_young_partner",
+      "LiChen_missing_signature_thin_dark_rectangular_glasses",
+      "LiChen_age_and_identity_drift",
+      "legacy_meta_age_lock_mislabeled_LiChen_as_partner"
+    ],
+    "appRuntimeMirrorBlobMatch": true,
+    "actionsRun": false
+  }
 }
