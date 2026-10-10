@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK3_SC033_SC040_VISUAL_QA_R1_2026-10-10",
+  "latestVisualRevision": "HSK3_FULL_VISUAL_QA_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -2809,5 +2809,160 @@
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
     "noteTr": "SC033-SC040 görsel QA tamamlandı. SC037 yanlış video-call karakteri; SC038/SC039 Li Chen kimlik kilidi (ince koyu dikdörtgen gözlük) ihlali nedeniyle düzeltme gerekiyor."
+  },
+  "hsk3Sc041Sc050VisualQaR1": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "scope": [
+      "ZH_HSK3_SC041",
+      "ZH_HSK3_SC042",
+      "ZH_HSK3_SC043",
+      "ZH_HSK3_SC044",
+      "ZH_HSK3_SC045",
+      "ZH_HSK3_SC046",
+      "ZH_HSK3_SC047",
+      "ZH_HSK3_SC048",
+      "ZH_HSK3_SC049",
+      "ZH_HSK3_SC050"
+    ],
+    "passSceneIds": [
+      "ZH_HSK3_SC041",
+      "ZH_HSK3_SC043",
+      "ZH_HSK3_SC044",
+      "ZH_HSK3_SC045",
+      "ZH_HSK3_SC046",
+      "ZH_HSK3_SC048",
+      "ZH_HSK3_SC049",
+      "ZH_HSK3_SC050"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK3_SC042",
+      "ZH_HSK3_SC047"
+    ],
+    "reasons": {
+      "ZH_HSK3_SC042": [
+        "LiuMei_missing_Yutong_substituted_in_grandmother_kitchen_scene"
+      ],
+      "ZH_HSK3_SC047": [
+        "LiuMei_missing_Yutong_substituted_on_video_call"
+      ]
+    },
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_10",
+    "status": "CORRECTION_REQUIRED",
+    "actionsRun": false,
+    "noteTr": "SC041-SC050 görsel QA tamamlandı. SC042 ve SC047 exact cast ihlali nedeniyle düzeltme gerekiyor; diğer 8 sahne korunuyor."
+  },
+  "hsk3FullVisualQaR1": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "totalScenes": 50,
+    "passCount": 37,
+    "correctionRequiredCount": 13,
+    "passSceneIds": [
+      "ZH_HSK3_SC002",
+      "ZH_HSK3_SC004",
+      "ZH_HSK3_SC006",
+      "ZH_HSK3_SC007",
+      "ZH_HSK3_SC008",
+      "ZH_HSK3_SC009",
+      "ZH_HSK3_SC010",
+      "ZH_HSK3_SC011",
+      "ZH_HSK3_SC012",
+      "ZH_HSK3_SC013",
+      "ZH_HSK3_SC014",
+      "ZH_HSK3_SC015",
+      "ZH_HSK3_SC018",
+      "ZH_HSK3_SC020",
+      "ZH_HSK3_SC021",
+      "ZH_HSK3_SC022",
+      "ZH_HSK3_SC023",
+      "ZH_HSK3_SC024",
+      "ZH_HSK3_SC025",
+      "ZH_HSK3_SC026",
+      "ZH_HSK3_SC027",
+      "ZH_HSK3_SC028",
+      "ZH_HSK3_SC031",
+      "ZH_HSK3_SC032",
+      "ZH_HSK3_SC033",
+      "ZH_HSK3_SC034",
+      "ZH_HSK3_SC035",
+      "ZH_HSK3_SC036",
+      "ZH_HSK3_SC040",
+      "ZH_HSK3_SC041",
+      "ZH_HSK3_SC043",
+      "ZH_HSK3_SC044",
+      "ZH_HSK3_SC045",
+      "ZH_HSK3_SC046",
+      "ZH_HSK3_SC048",
+      "ZH_HSK3_SC049",
+      "ZH_HSK3_SC050"
+    ],
+    "metadataOnlyCorrections": [
+      "ZH_HSK3_SC015",
+      "ZH_HSK3_SC018"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK3_SC001",
+      "ZH_HSK3_SC003",
+      "ZH_HSK3_SC005",
+      "ZH_HSK3_SC016",
+      "ZH_HSK3_SC017",
+      "ZH_HSK3_SC019",
+      "ZH_HSK3_SC029",
+      "ZH_HSK3_SC030",
+      "ZH_HSK3_SC037",
+      "ZH_HSK3_SC038",
+      "ZH_HSK3_SC039",
+      "ZH_HSK3_SC042",
+      "ZH_HSK3_SC047"
+    ],
+    "reasons": {
+      "ZH_HSK3_SC001": [
+        "ZhangWei_identity_drift_missing_signature_glasses"
+      ],
+      "ZH_HSK3_SC003": [
+        "LiuMei_missing_replaced_by_Yutong_on_video_call"
+      ],
+      "ZH_HSK3_SC005": [
+        "extra_non_dialogue_prominent_character_Yutong"
+      ],
+      "ZH_HSK3_SC016": [
+        "visual_location_mismatch_with_scene_JSON"
+      ],
+      "ZH_HSK3_SC017": [
+        "visual_location_mismatch_with_scene_JSON"
+      ],
+      "ZH_HSK3_SC019": [
+        "graphic_annotation_overlay_in_final_asset"
+      ],
+      "ZH_HSK3_SC029": [
+        "exact_cast_mismatch_colleague_missing_Yutong_substituted_on_video"
+      ],
+      "ZH_HSK3_SC030": [
+        "LiuMei_missing_Yutong_substituted_on_video"
+      ],
+      "ZH_HSK3_SC037": [
+        "LiuMei_missing_Yutong_substituted_on_video"
+      ],
+      "ZH_HSK3_SC038": [
+        "LiChen_identity_drift_missing_signature_rectangular_glasses"
+      ],
+      "ZH_HSK3_SC039": [
+        "LiChen_identity_drift_missing_signature_rectangular_glasses"
+      ],
+      "ZH_HSK3_SC042": [
+        "LiuMei_missing_Yutong_substituted_in_grandmother_kitchen_scene"
+      ],
+      "ZH_HSK3_SC047": [
+        "LiuMei_missing_Yutong_substituted_on_video_call"
+      ]
+    },
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_50",
+    "styleReferenceSceneId": "ZH_HSK1_SC001",
+    "status": "CORRECTION_REQUIRED",
+    "actionsRun": false,
+    "noteTr": "HSK3 50/50 LOCKED_V2 + character bible + HSK1_SC001 stil referansı ile toplu denetlendi. 37 sahne korunuyor, 13 sahne gerçek görsel düzeltme gerektiriyor. Metadata-only düzeltmeler SC015 ve SC018. Yanlış görseller PASS sayılmadı."
   }
 }
