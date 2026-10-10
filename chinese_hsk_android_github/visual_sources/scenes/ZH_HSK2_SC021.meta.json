@@ -74,5 +74,26 @@
       "Lele_wrong_gender"
     ],
     "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+  },
+  "candidateAuditR3": {
+    "auditDate": "2026-10-10",
+    "status": "QA_PENDING_CORRECTION",
+    "candidateSha256": "da7f2461f01dbc64c077bac532819ae464b736b07e01443b76fe38fd4378de0f",
+    "candidateBytes": 188148,
+    "candidatePixels": [
+      941,
+      1672
+    ],
+    "canonicalManifest": "LOCKED_V2",
+    "dialogueSourceVerified": true,
+    "boyLeleGenderCorrect": true,
+    "exactDialogueCastPresent": true,
+    "noGitHubBinaryOverwrite": true,
+    "runtimeMirrorRemainsOriginal": true,
+    "outstandingIssues": [
+      "LiuMei_face_hair_identity_continuity_not_approved",
+      "final_canonical_cross_scene_review_needed"
+    ],
+    "conclusionTr": "Görsel adayı üretildi, ancak kilitli canonical QA PASS verilmedi. Yeni WebP GitHub'a yüklenmedi; mevcut app/runtime blobları değiştirilmedi."
   }
 }

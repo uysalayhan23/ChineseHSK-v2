@@ -3696,5 +3696,22 @@
     "actionsRun": false,
     "buildTriggered": false,
     "notesTr": "3 WebP yeni yüklemeleri local SHA256/Git blob ve canonical görsel QA doğrulandı; mirror aynı bloblardan tek committe oluşturuldu."
+  },
+  "hsk2Sc020Sc021CandidateAuditR3": {
+    "auditDate": "2026-10-10",
+    "scope": [
+      "ZH_HSK2_SC020",
+      "ZH_HSK2_SC021"
+    ],
+    "status": "CANDIDATES_REJECTED_CANONICAL_QA_PENDING",
+    "candidateSha256": {
+      "ZH_HSK2_SC020": "ba0d8a199eb6f9786b15f9239204437587e3e5c1fb2ac7e75e3f3569cb24355f",
+      "ZH_HSK2_SC021": "da7f2461f01dbc64c077bac532819ae464b736b07e01443b76fe38fd4378de0f"
+    },
+    "appRuntimeMirrorUpdated": false,
+    "metadataPassAssigned": false,
+    "actionsRun": false,
+    "buildTriggered": false,
+    "reasonTr": "SC020 ilk aday TV UI; ikinci aday ZhangWei signature gözlük kaybı. SC021 LiuMei kimliği HSK1_SC001 kesin eşleşme denetimini bekliyor. Eski app/runtime sürümleri değişmeden korunuyor."
   }
 }

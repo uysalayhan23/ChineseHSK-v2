@@ -26,6 +26,12 @@ Kaynak: `chinese_hsk_android_github/visual_sources/visual_batch_status.json` (20
 - [x] `ZH_HSK1_SC036` — 2026-10-10 R3: correct binary + mirror SHA + LOCKED_V2 QA PASS
 - [x] `ZH_HSK1_SC048` — 2026-10-10 R3: correct binary + mirror SHA + LOCKED_V2 QA PASS
 
+### HSK2 SC020–SC021 aday QA (2026-10-10 R3)
+
+- `ZH_HSK2_SC020`: ilk 941×1672 WebP adayı (SHA256 `ba0d8a199eb6f9786b15f9239204437587e3e5c1fb2ac7e75e3f3569cb24355f`) doğru dört karakteri/erkek Lele'yi ve sahne nesnelerini içerir; ancak TV üzerinde gömülü seçim arayüzü vardır. İkinci yeni görüntüde TV UI giderilse de Zhang Wei canonical gözlüğü kayboldu. Final kabul edilmedi.
+- `ZH_HSK2_SC021`: 941×1672 WebP adayı (SHA256 `da7f2461f01dbc64c077bac532819ae464b736b07e01443b76fe38fd4378de0f`) üç doğru karakter, erkek Lele, kütüphane kartı ve banko içerir. Liu Mei'nin canonical yüz/saç sürekliliği henüz onaylanmadı. Final kabul edilmedi.
+- **GitHub app/runtime binary değişmedi; QA `FAIL`, durum `CORRECTION_REQUIRED`.** Görseller geçerli LOCKED_V2 QA tamamlanana kadar kuyruğa açık kalır. Actions/CI kullanılmadı.
+
 ### HSK2: 10 düzeltme
 
 - [ ] `ZH_HSK2_SC020` — Lele_wrong_gender
