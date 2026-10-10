@@ -56,8 +56,25 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_SOURCE_OVERRIDE",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: HSK3 SC001-SC010 görseli GitHub sahne/diyalog kaynağı ve LOCKED_V2 manifestine göre kontrol edilip final override olarak entegre edildi."
+  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: extra_non_dialogue_prominent_character_Yutong. HSK1_SC001 görsel tekniği ve character bible exact cast ile düzeltilmiş final asset gerekli.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": false,
+    "speakerCountMatch": false,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "extra_non_dialogue_prominent_character_Yutong"
+    ],
+    "bulkAudit": "HSK3_SC001_SC008_VISUAL_QA_R1_2026-10-10"
+  }
 }

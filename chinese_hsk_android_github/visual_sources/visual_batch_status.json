@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK2_FULL_VISUAL_QA_R2_2026-10-10",
+  "latestVisualRevision": "HSK3_SC001_SC008_VISUAL_QA_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -2605,5 +2605,47 @@
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
     "noteTr": "HSK2 SC001-SC050 gerçek görseller tek tek görsel QA ile yeniden denetlendi. SC013 önceki false-positive'den PASS'e döndürüldü. Lele cinsiyet kilidi, exact cast ve Li Chen kimlik kilidi ihlali olan 10 sahne CORRECTION_REQUIRED; diğer sahneler korunuyor. Actions çalıştırılmadı."
+  },
+  "hsk3Sc001Sc008VisualQaR1": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "scope": [
+      "ZH_HSK3_SC001",
+      "ZH_HSK3_SC002",
+      "ZH_HSK3_SC003",
+      "ZH_HSK3_SC004",
+      "ZH_HSK3_SC005",
+      "ZH_HSK3_SC006",
+      "ZH_HSK3_SC007",
+      "ZH_HSK3_SC008"
+    ],
+    "passSceneIds": [
+      "ZH_HSK3_SC002",
+      "ZH_HSK3_SC004",
+      "ZH_HSK3_SC006",
+      "ZH_HSK3_SC007",
+      "ZH_HSK3_SC008"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK3_SC001",
+      "ZH_HSK3_SC003",
+      "ZH_HSK3_SC005"
+    ],
+    "reasons": {
+      "ZH_HSK3_SC001": [
+        "ZhangWei_identity_drift_missing_signature_glasses"
+      ],
+      "ZH_HSK3_SC003": [
+        "LiuMei_missing_replaced_by_Yutong_on_video_call"
+      ],
+      "ZH_HSK3_SC005": [
+        "extra_non_dialogue_prominent_character_Yutong"
+      ]
+    },
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_8",
+    "status": "CORRECTION_REQUIRED",
+    "actionsRun": false,
+    "noteTr": "İlk 8 HSK3 sahnesi gerçek görsel QA ile denetlendi. SC001 Zhang Wei gözlük kimliği, SC003 yanlış video-call karakteri, SC005 prominent ekstra Yutong nedeniyle düzeltme gerekiyor; diğer 5 sahne korunuyor."
   }
 }
