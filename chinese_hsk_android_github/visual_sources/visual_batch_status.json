@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK3_SC025_SC032_VISUAL_QA_R1_2026-10-10",
+  "latestVisualRevision": "HSK3_SC033_SC040_VISUAL_QA_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -2767,5 +2767,47 @@
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
     "noteTr": "SC025-SC032 görsel QA tamamlandı. SC029/SC030 video-call karakterleri exact cast'i bozduğu için düzeltme gerekiyor; diğer altı sahne korunuyor."
+  },
+  "hsk3Sc033Sc040VisualQaR1": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "scope": [
+      "ZH_HSK3_SC033",
+      "ZH_HSK3_SC034",
+      "ZH_HSK3_SC035",
+      "ZH_HSK3_SC036",
+      "ZH_HSK3_SC037",
+      "ZH_HSK3_SC038",
+      "ZH_HSK3_SC039",
+      "ZH_HSK3_SC040"
+    ],
+    "passSceneIds": [
+      "ZH_HSK3_SC033",
+      "ZH_HSK3_SC034",
+      "ZH_HSK3_SC035",
+      "ZH_HSK3_SC036",
+      "ZH_HSK3_SC040"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK3_SC037",
+      "ZH_HSK3_SC038",
+      "ZH_HSK3_SC039"
+    ],
+    "reasons": {
+      "ZH_HSK3_SC037": [
+        "LiuMei_missing_Yutong_substituted_on_video"
+      ],
+      "ZH_HSK3_SC038": [
+        "LiChen_identity_drift_missing_signature_rectangular_glasses"
+      ],
+      "ZH_HSK3_SC039": [
+        "LiChen_identity_drift_missing_signature_rectangular_glasses"
+      ]
+    },
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_8",
+    "status": "CORRECTION_REQUIRED",
+    "actionsRun": false,
+    "noteTr": "SC033-SC040 görsel QA tamamlandı. SC037 yanlış video-call karakteri; SC038/SC039 Li Chen kimlik kilidi (ince koyu dikdörtgen gözlük) ihlali nedeniyle düzeltme gerekiyor."
   }
 }

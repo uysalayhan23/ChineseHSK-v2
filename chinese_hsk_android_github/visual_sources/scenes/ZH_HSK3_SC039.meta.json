@@ -66,8 +66,25 @@
     "uniqueSceneIdChecked": true,
     "hsk3MaturityLockChecked": true
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_SOURCE_OVERRIDE",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: Erken emeklilik ve kafede birlikte çalışma fikri evde uzun vadeli plan olarak görünür. Kullanıcı, manifesto uygunsa ilerleme onayı verdi; HSK3 SC031-SC040 continuity seti final olarak entegre edildi."
+  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: LiChen_identity_drift_missing_signature_rectangular_glasses. Character bible/exact cast ve HSK1_SC001 formatında düzeltilmiş final asset gerekli.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": false,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_identity_drift_missing_signature_rectangular_glasses"
+    ],
+    "bulkAudit": "HSK3_SC033_SC040_VISUAL_QA_R1_2026-10-10"
+  }
 }
