@@ -95,3 +95,15 @@ Ek manuel inceleme: `ZH_HSK6_SC012` (otomatik PASS değildir).
 ## Kapanış kapısı
 
 Her onarım için: scene JSON + character bible + style lock → doğru görsel üretimi/geri yükleme → görsel QA → 1080×1920/9:16, tek sahne ve metinsiz politika → app/runtime WebP hash eşitliği → metadata/queue güncellemesi. Yapılmayan doğrulamayı yapılmış işaretleme.
+
+## 2026-10-10 — HSK1 SC035 / SC036 / SC048 yerel aday görseller
+
+Üç 941×1672 (9:16'e çok yakın) PNG kaynağı gözle incelendi ve yerelde WebP üretildi. Görsel kadroları ve sahne nesneleri LOCKED_V2 koşullarına uygun görünüyor; ancak app asset / runtime mirror GitHub binary push ve son SHA doğrulaması henüz yapılmadığından **bu üç sahne hâlâ CORRECTION_REQUIRED**. Sahne metaverisindeki eski FAIL kayıtlarını PASS'a dönüştürme.
+
+| Scene | Aday WebP adı | Boyut | SHA-256 (yerel) |
+|---|---|---:|---|
+| ZH_HSK1_SC035 | ZH_HSK1_SC035.webp | 195346 byte | `16d9bcd1a802a51a3770abbbbab9e1af6d83ba3a98495aad0c6c5fe54de1f5fb` |
+| ZH_HSK1_SC036 | ZH_HSK1_SC036.webp | 232590 byte | `60a62d7343f6b629468c9a41abf040dfb8e7d64598a47c8cea6e5abb35f15139` |
+| ZH_HSK1_SC048 | ZH_HSK1_SC048.webp | 258552 byte | `9edd78a7a69b185ac72ef47d0e43016e453d4cf94b5bfda39361d4c80bd593b6` |
+
+Not: Aday dosyalar çalışma ortamındaki `/mnt/data/` altında oluşturuldu; burada kaydedilen SHA bilgisi tek başına GitHub'a binary yüklendiğinin kanıtı değildir. Önce binary upload, sonra GitHub'da SHA + boyut + karakter QA ve metadata/visual_batch_status kapanışı gerekir. Actions tetikleme; commit `[skip ci]`.
