@@ -85,10 +85,27 @@
     "sha256": "5515118ac40c1a8ad2247dd0a86617aca20928d09f559343bac3cdba3ac3a22c",
     "bytes": 462798
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog/kadro, aile yaşı ve yüz sürekliliği, hikâyedeki konuşmayan yenidoğan, 1080×1920 WebP ve dosya bütünlüğü kontrol edildi. APK build başlatılmadı.",
+  "qaNoteTr": "2026-10-10 LOCKED_V2 + character bible görsel QA: Li Chen kafede genç gözlüksüz kişi olarak görünüyor; karakter bible HSK6 yüz/gözlük kilidi ihlal ediliyor. Mevcut binary güvenli olarak korunuyor, yeniden üretim ve QA bitmeden PASS kabul edilmiyor.",
   "generationPrompt": "Yıllar önce taşınmış eski müdavim kafeye geri döner ve aileyle yeniden buluşur.",
-  "styleReferenceSceneId": "ZH_HSK6_SC028"
+  "styleReferenceSceneId": "ZH_HSK6_SC028",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_character_bible_age_and_glasses_identity_drift"
+    ],
+    "audit": "HSK6_SC021_SC030_R1_2026-10-10"
+  }
 }

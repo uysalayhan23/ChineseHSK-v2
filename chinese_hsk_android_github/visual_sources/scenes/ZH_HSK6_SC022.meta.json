@@ -85,10 +85,27 @@
     "sha256": "285d0feac89d3891ccc1fafa9703d73d36703a2fbc18da272fb0b6e9a5967378",
     "bytes": 394498
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog/kadro, aile yaşı ve yüz sürekliliği, hikâyedeki konuşmayan yenidoğan, 1080×1920 WebP ve dosya bütünlüğü kontrol edildi. APK build başlatılmadı.",
+  "qaNoteTr": "2026-10-10 LOCKED_V2 + character bible görsel QA: Li Chen, kanonik HSK6 olgun yüz ve ince koyu dikdörtgen gözlük kimliği yerine genç gözlüksüz kişi olarak gösteriliyor. Mevcut binary güvenli olarak korunuyor, yeniden üretim ve QA bitmeden PASS kabul edilmiyor.",
   "generationPrompt": "Zhang, torun sahibi olma fikrini aileyle konuşup yeni rolüne hazırlanır.",
-  "styleReferenceSceneId": "ZH_HSK6_SC021"
+  "styleReferenceSceneId": "ZH_HSK6_SC021",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_character_bible_age_and_glasses_identity_drift"
+    ],
+    "audit": "HSK6_SC021_SC030_R1_2026-10-10"
+  }
 }

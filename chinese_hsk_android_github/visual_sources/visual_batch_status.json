@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK6_SC011_SC020_VISUAL_QA_R1_2026-10-10",
+  "latestVisualRevision": "HSK6_SC021_SC030_VISUAL_QA_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -3515,5 +3515,51 @@
     "actionsRun": false,
     "status": "CORRECTION_REQUIRED",
     "noteTr": "HSK6_SC011–SC020 gerçek sahne JSON + meta + WebP görsel QA. 6 sahne korundu. SC015/016/019 Li Chen yaş/gözlük/kimlik drift nedeniyle FAIL; SC012 yardımcı karakter Lele'ye fazla benzediği için REVIEW_REQUIRED. Binary değiştirilmedi; yanlış QA PASS bırakılmadı."
+  },
+  "hsk6Sc021Sc030VisualQaR1": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "scope": [
+      "ZH_HSK6_SC021",
+      "ZH_HSK6_SC022",
+      "ZH_HSK6_SC023",
+      "ZH_HSK6_SC024",
+      "ZH_HSK6_SC025",
+      "ZH_HSK6_SC026",
+      "ZH_HSK6_SC027",
+      "ZH_HSK6_SC028",
+      "ZH_HSK6_SC029",
+      "ZH_HSK6_SC030"
+    ],
+    "passSceneIds": [
+      "ZH_HSK6_SC021",
+      "ZH_HSK6_SC023",
+      "ZH_HSK6_SC024",
+      "ZH_HSK6_SC025",
+      "ZH_HSK6_SC026",
+      "ZH_HSK6_SC028",
+      "ZH_HSK6_SC030"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK6_SC022",
+      "ZH_HSK6_SC027",
+      "ZH_HSK6_SC029"
+    ],
+    "reasons": {
+      "ZH_HSK6_SC022": [
+        "LiChen_character_bible_age_and_glasses_identity_drift"
+      ],
+      "ZH_HSK6_SC027": [
+        "LiChen_character_bible_age_and_glasses_identity_drift"
+      ],
+      "ZH_HSK6_SC029": [
+        "LiChen_character_bible_age_and_glasses_identity_drift"
+      ]
+    },
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_10",
+    "actionsRun": false,
+    "status": "CORRECTION_REQUIRED",
+    "noteTr": "HSK6_SC021–SC030 görselleri scene JSON, LOCKED_V2, character bible ve HSK1_SC001 stil referansıyla denetlendi. 7 uygun görsel korundu, SC022/027/029 Li Chen gözlük ve yaş kimlik drift nedeniyle FAIL. Yeni binary üretilmedi."
   }
 }

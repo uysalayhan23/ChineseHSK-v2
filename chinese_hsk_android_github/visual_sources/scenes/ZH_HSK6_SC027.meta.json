@@ -85,10 +85,27 @@
     "sha256": "9d8bf701ff7341066379d39b72b6744d182520ce5e0f5bdee2058bb7cbd257e1",
     "bytes": 391094
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog/kadro, aile yaşı ve yüz sürekliliği, hikâyedeki konuşmayan yenidoğan, 1080×1920 WebP ve dosya bütünlüğü kontrol edildi. APK build başlatılmadı.",
+  "qaNoteTr": "2026-10-10 LOCKED_V2 + character bible görsel QA: Li Chen kasaba sahnesinde yine genç ve gözlüksüz kişiyle karıştırılmış; Zhang Wei/yaş continuity’si bozuluyor. Mevcut binary güvenli olarak korunuyor, yeniden üretim ve QA bitmeden PASS kabul edilmiyor.",
   "generationPrompt": "Zhang, Liu, Li Chen ve büyükbaba kasabanın eski ve yeni hâlini karşılaştırır.",
-  "styleReferenceSceneId": "ZH_HSK6_SC026"
+  "styleReferenceSceneId": "ZH_HSK6_SC026",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_character_bible_age_and_glasses_identity_drift"
+    ],
+    "audit": "HSK6_SC021_SC030_R1_2026-10-10"
+  }
 }
