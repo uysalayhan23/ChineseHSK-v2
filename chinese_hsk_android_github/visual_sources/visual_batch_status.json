@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK2_FULL_AUTOMATIC_MANIFEST_AUDIT_R1_2026-10-10",
+  "latestVisualRevision": "HSK2_FULL_VISUAL_QA_R2_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -2446,5 +2446,164 @@
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
     "noteTr": "HSK2 SC001-SC050 LOCKED_V2 ve HSK1_SC001 stil referansıyla otomatik tarandı. 49 sahne korunuyor; SC013 yardımcı karakterin Liu Mei kimliğine karışması nedeniyle yeni final görsel gerektiriyor. Metadata location farkları doğru mevcut görseller korunarak canonical scene JSON ile hizalandı."
+  },
+  "hsk2FullAutomaticManifestAuditR2": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "scope": [
+      "ZH_HSK2_SC001",
+      "ZH_HSK2_SC002",
+      "ZH_HSK2_SC003",
+      "ZH_HSK2_SC004",
+      "ZH_HSK2_SC005",
+      "ZH_HSK2_SC006",
+      "ZH_HSK2_SC007",
+      "ZH_HSK2_SC008",
+      "ZH_HSK2_SC009",
+      "ZH_HSK2_SC010",
+      "ZH_HSK2_SC011",
+      "ZH_HSK2_SC012",
+      "ZH_HSK2_SC013",
+      "ZH_HSK2_SC014",
+      "ZH_HSK2_SC015",
+      "ZH_HSK2_SC016",
+      "ZH_HSK2_SC017",
+      "ZH_HSK2_SC018",
+      "ZH_HSK2_SC019",
+      "ZH_HSK2_SC020",
+      "ZH_HSK2_SC021",
+      "ZH_HSK2_SC022",
+      "ZH_HSK2_SC023",
+      "ZH_HSK2_SC024",
+      "ZH_HSK2_SC025",
+      "ZH_HSK2_SC026",
+      "ZH_HSK2_SC027",
+      "ZH_HSK2_SC028",
+      "ZH_HSK2_SC029",
+      "ZH_HSK2_SC030",
+      "ZH_HSK2_SC031",
+      "ZH_HSK2_SC032",
+      "ZH_HSK2_SC033",
+      "ZH_HSK2_SC034",
+      "ZH_HSK2_SC035",
+      "ZH_HSK2_SC036",
+      "ZH_HSK2_SC037",
+      "ZH_HSK2_SC038",
+      "ZH_HSK2_SC039",
+      "ZH_HSK2_SC040",
+      "ZH_HSK2_SC041",
+      "ZH_HSK2_SC042",
+      "ZH_HSK2_SC043",
+      "ZH_HSK2_SC044",
+      "ZH_HSK2_SC045",
+      "ZH_HSK2_SC046",
+      "ZH_HSK2_SC047",
+      "ZH_HSK2_SC048",
+      "ZH_HSK2_SC049",
+      "ZH_HSK2_SC050"
+    ],
+    "passSceneIds": [
+      "ZH_HSK2_SC001",
+      "ZH_HSK2_SC002",
+      "ZH_HSK2_SC003",
+      "ZH_HSK2_SC004",
+      "ZH_HSK2_SC005",
+      "ZH_HSK2_SC006",
+      "ZH_HSK2_SC007",
+      "ZH_HSK2_SC008",
+      "ZH_HSK2_SC009",
+      "ZH_HSK2_SC010",
+      "ZH_HSK2_SC011",
+      "ZH_HSK2_SC012",
+      "ZH_HSK2_SC013",
+      "ZH_HSK2_SC014",
+      "ZH_HSK2_SC015",
+      "ZH_HSK2_SC016",
+      "ZH_HSK2_SC017",
+      "ZH_HSK2_SC018",
+      "ZH_HSK2_SC019",
+      "ZH_HSK2_SC022",
+      "ZH_HSK2_SC024",
+      "ZH_HSK2_SC028",
+      "ZH_HSK2_SC029",
+      "ZH_HSK2_SC031",
+      "ZH_HSK2_SC032",
+      "ZH_HSK2_SC036",
+      "ZH_HSK2_SC037",
+      "ZH_HSK2_SC038",
+      "ZH_HSK2_SC039",
+      "ZH_HSK2_SC040",
+      "ZH_HSK2_SC041",
+      "ZH_HSK2_SC042",
+      "ZH_HSK2_SC043",
+      "ZH_HSK2_SC044",
+      "ZH_HSK2_SC045",
+      "ZH_HSK2_SC046",
+      "ZH_HSK2_SC047",
+      "ZH_HSK2_SC048",
+      "ZH_HSK2_SC049",
+      "ZH_HSK2_SC050"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK2_SC020",
+      "ZH_HSK2_SC021",
+      "ZH_HSK2_SC023",
+      "ZH_HSK2_SC025",
+      "ZH_HSK2_SC026",
+      "ZH_HSK2_SC027",
+      "ZH_HSK2_SC030",
+      "ZH_HSK2_SC033",
+      "ZH_HSK2_SC034",
+      "ZH_HSK2_SC035"
+    ],
+    "reasons": {
+      "ZH_HSK2_SC020": [
+        "Lele_wrong_gender"
+      ],
+      "ZH_HSK2_SC021": [
+        "Lele_wrong_gender"
+      ],
+      "ZH_HSK2_SC023": [
+        "extra_non_dialogue_prominent_character"
+      ],
+      "ZH_HSK2_SC025": [
+        "LiChen_identity_drift_missing_signature_glasses"
+      ],
+      "ZH_HSK2_SC026": [
+        "Lele_wrong_gender"
+      ],
+      "ZH_HSK2_SC027": [
+        "Lele_wrong_gender"
+      ],
+      "ZH_HSK2_SC030": [
+        "Lele_wrong_gender"
+      ],
+      "ZH_HSK2_SC033": [
+        "extra_non_dialogue_children"
+      ],
+      "ZH_HSK2_SC034": [
+        "Lele_wrong_gender"
+      ],
+      "ZH_HSK2_SC035": [
+        "extra_non_dialogue_prominent_characters"
+      ]
+    },
+    "metadataOnlyCorrections": [
+      "ZH_HSK2_SC002",
+      "ZH_HSK2_SC004",
+      "ZH_HSK2_SC005",
+      "ZH_HSK2_SC006",
+      "ZH_HSK2_SC007",
+      "ZH_HSK2_SC008",
+      "ZH_HSK2_SC009",
+      "ZH_HSK2_SC014",
+      "ZH_HSK2_SC015"
+    ],
+    "regeneratedSceneIds": [],
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_50",
+    "status": "CORRECTION_REQUIRED",
+    "actionsRun": false,
+    "noteTr": "HSK2 SC001-SC050 gerçek görseller tek tek görsel QA ile yeniden denetlendi. SC013 önceki false-positive'den PASS'e döndürüldü. Lele cinsiyet kilidi, exact cast ve Li Chen kimlik kilidi ihlali olan 10 sahne CORRECTION_REQUIRED; diğer sahneler korunuyor. Actions çalıştırılmadı."
   }
 }
