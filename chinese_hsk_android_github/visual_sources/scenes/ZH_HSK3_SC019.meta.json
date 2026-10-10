@@ -66,8 +66,25 @@
     "uniqueSceneIdChecked": true,
     "hsk3MaturityLockChecked": true
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_SOURCE_OVERRIDE",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: ZH_HSK3_SC019 final tek-sahne görseli LOCKED_V2 ve HSK3 maturity kurallarına göre doğrulandı."
+  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: sahne/cast doğru ancak final görsele kırmızı daire ve ok anotasyonu gömülmüş. HSK1_SC001 formatı metinsiz/overlaysiz tek sahne ister; temiz final asset gerekli.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "graphic_annotation_overlay_in_final_asset"
+    ],
+    "bulkAudit": "HSK3_SC017_SC024_VISUAL_QA_R1_2026-10-10"
+  }
 }

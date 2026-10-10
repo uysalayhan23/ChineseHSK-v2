@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK3_SC009_SC016_VISUAL_QA_R1_2026-10-10",
+  "latestVisualRevision": "HSK3_SC017_SC024_VISUAL_QA_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -2686,5 +2686,47 @@
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
     "noteTr": "SC009-SC016 görsel QA tamamlandı. SC015 yalnız metadata hizasıyla korundu; SC016 yeni ev yerine kafe/tadilat ortamı gösterdiğinden yeni final görsel gerektiriyor."
+  },
+  "hsk3Sc017Sc024VisualQaR1": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "scope": [
+      "ZH_HSK3_SC017",
+      "ZH_HSK3_SC018",
+      "ZH_HSK3_SC019",
+      "ZH_HSK3_SC020",
+      "ZH_HSK3_SC021",
+      "ZH_HSK3_SC022",
+      "ZH_HSK3_SC023",
+      "ZH_HSK3_SC024"
+    ],
+    "passSceneIds": [
+      "ZH_HSK3_SC018",
+      "ZH_HSK3_SC020",
+      "ZH_HSK3_SC021",
+      "ZH_HSK3_SC022",
+      "ZH_HSK3_SC023",
+      "ZH_HSK3_SC024"
+    ],
+    "metadataOnlyCorrections": [
+      "ZH_HSK3_SC018"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK3_SC017",
+      "ZH_HSK3_SC019"
+    ],
+    "reasons": {
+      "ZH_HSK3_SC017": [
+        "visual_location_mismatch_with_scene_JSON"
+      ],
+      "ZH_HSK3_SC019": [
+        "graphic_annotation_overlay_in_final_asset"
+      ]
+    },
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_8",
+    "status": "CORRECTION_REQUIRED",
+    "actionsRun": false,
+    "noteTr": "SC017-SC024 görsel QA tamamlandı. SC018 metadata hizasıyla korundu; SC017 yanlış mekan, SC019 gömülü ok/daire anotasyonu nedeniyle yeni/düzeltilmiş final asset gerektiriyor."
   }
 }

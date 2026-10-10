@@ -7,7 +7,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC018.json",
   "dialogueSha256": "d85d107b5ce2addffe942be27f814db20fe7865cc39ddc6e4695d54b9b091b85",
   "titleTr": "İlk Çalışan Adayı",
-  "locationId": "LOC_ZH_CAFE_PREMISES_001",
+  "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Liu Mei ilk çalışan adayıyla kısa bir iş görüşmesi yapar.",
   "dialogueSpeakers": [
     "刘梅",
@@ -69,5 +69,21 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: ZH_HSK3_SC018 final tek-sahne görseli LOCKED_V2 ve HSK3 maturity kurallarına göre doğrulandı."
+  "qaNoteTr": "LOCKED_V2 görsel QA PASS: mevcut asset aile kafesi, exact cast ve işe alım sahnesiyle uyumlu; yalnız yardımcı locationId gerçek scene JSON ile LOC_ZH_FAMILY_CAFE_001 olarak hizalandı.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "locationId": "LOC_ZH_FAMILY_CAFE_001",
+    "appRuntimeMirrorBlobMatch": true,
+    "bulkAudit": "HSK3_SC017_SC024_VISUAL_QA_R1_2026-10-10"
+  }
 }
