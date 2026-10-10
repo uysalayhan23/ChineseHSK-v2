@@ -41,8 +41,8 @@
   },
   "manifestChecklist": {
     "dialogueChecked": true,
-    "castChecked": true,
-    "allDialogueSpeakersVisible": true,
+    "castChecked": false,
+    "allDialogueSpeakersVisible": false,
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
     "style3d25dCgi": true,
@@ -52,11 +52,22 @@
     "noMiniSkirt": true,
     "noSexyClothing": true,
     "criticalObjectsVisible": true,
-    "canonicalCharacterContinuityChecked": true,
+    "canonicalCharacterContinuityChecked": false,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_SOURCE_OVERRIDE",
-  "qaNoteTr": "Kullanıcının son onaylı görseli LOCKED_V2 manifestoya göre bu sceneId için final source asset olarak yeniden entegre edildi.",
-  "binaryIntegrityChecked": true
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
+  "qaNoteTr": "2026-10-10 doğrudan mevcut WebP görsel incelemesi: extra_non_dialogue_character_Mimi, exact_cast_mismatch. Önceki PASS metadata geçersiz; binary değiştirilmedi. LOCKED_V2 sahne diyalogu, cast ve önceki/sonraki continuity doğrulanmış yeni görsel olmadan PASS verilemez.",
+  "binaryIntegrityChecked": true,
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "exactCastChecked": false,
+    "rejectionReasons": [
+      "extra_non_dialogue_character_Mimi",
+      "exact_cast_mismatch"
+    ],
+    "appRuntimeMirrorBlobMatch": "NOT_RECHECKED_THIS_TURN",
+    "audit": "HSK1_SC035_SC036_SC048_R2_2026-10-10"
+  }
 }
