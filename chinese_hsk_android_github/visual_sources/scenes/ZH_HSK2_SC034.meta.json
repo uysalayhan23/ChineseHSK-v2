@@ -56,8 +56,25 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_SOURCE_OVERRIDE",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: SC027-SC036 final verified paketinden, diyalog/kadro/lokasyon kontrolü sonrası uygulama ve runtime override olarak entegre edildi."
+  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: Lele_wrong_gender. Yalnız gerçek diyalog/required cast ile, HSK1_SC001 görsel tekniği ve character bible'a göre düzeltilmiş final asset gerekli.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": false,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "Lele_wrong_gender"
+    ],
+    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+  }
 }
