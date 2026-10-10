@@ -88,10 +88,27 @@
     "sha256": "956e60f7fac1942cea01ff8b14eae96cc315d813b7da4eb10ce146774649978a",
     "bytes": 414584
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "REVIEW_REQUIRED",
+  "status": "REVIEW_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog ve konuşmacı kadrosu, görsel süreklilik, dikey 1080×1920 WebP ve dosya bütünlüğü denetlendi. APK build başlatılmadı.",
+  "qaNoteTr": "LOCKED_V2 + HSK1_SC001 referansıyla 2026-10-10 toplu görsel inceleme: Yardımcı erkek yüzü Lele'ye çok benziyor; kimlik ayrımı yeterince güvenli değil. Final yeniden kabul edilmeden distinct character QA gerekli. Binary korunuyor; PASS kabul edilmiyor.",
   "generationPrompt": "Lele ilk büyük işi ve ekip içi görev paylaşımını konuşur.",
-  "styleReferenceSceneId": "ZH_HSK6_SC011"
+  "styleReferenceSceneId": "ZH_HSK6_SC011",
+  "postGenerationVisualQA": {
+    "status": "REVIEW_REQUIRED",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "photo_assistant_visually_too_similar_to_Lele"
+    ],
+    "audit": "HSK6_SC011_SC020_R1_2026-10-10"
+  }
 }

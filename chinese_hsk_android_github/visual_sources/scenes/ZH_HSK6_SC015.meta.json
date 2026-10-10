@@ -89,10 +89,27 @@
     "sha256": "49906927260b29ad7f47ac88921f6e65e4d7fdd066e983c674e940693fe11143",
     "bytes": 341246
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog ve konuşmacı kadrosu, görsel süreklilik, dikey 1080×1920 WebP ve dosya bütünlüğü denetlendi. APK build başlatılmadı.",
+  "qaNoteTr": "LOCKED_V2 + HSK1_SC001 referansıyla 2026-10-10 toplu görsel inceleme: Li Chen yaşını, ince koyu dikdörtgen gözlüklerini ve HSK6 yüz kimliğini korumuyor; genç yan karaktere dönüşmüş. Binary korunuyor; PASS kabul edilmiyor.",
   "generationPrompt": "Zhang son iş haftasında yöneticisi, çalışma arkadaşı ve Li Chen ile vedalaşır.",
-  "styleReferenceSceneId": "ZH_HSK6_SC014"
+  "styleReferenceSceneId": "ZH_HSK6_SC014",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_character_bible_glasses_age_identity_drift"
+    ],
+    "audit": "HSK6_SC011_SC020_R1_2026-10-10"
+  }
 }

@@ -89,10 +89,27 @@
     "sha256": "a4518690519b6bc2323080f82e1dff261ea14174fd82a28079b29960fbc78c2a",
     "bytes": 383508
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog ve konuşmacı kadrosu, görsel süreklilik, dikey 1080×1920 WebP ve dosya bütünlüğü denetlendi. APK build başlatılmadı.",
+  "qaNoteTr": "LOCKED_V2 + HSK1_SC001 referansıyla 2026-10-10 toplu görsel inceleme: Li Chen, canonical olgun yüz/gözlük kimliğini taşımıyor; genç gözlüksüz iş arkadaşı görünümüyle karıştırılmış. Binary korunuyor; PASS kabul edilmiyor.",
   "generationPrompt": "Zhang son iş gününde eşyalarını toplar; Liu, Li Chen ve çalışma arkadaşıyla vedalaşır.",
-  "styleReferenceSceneId": "ZH_HSK6_SC015"
+  "styleReferenceSceneId": "ZH_HSK6_SC015",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_character_bible_glasses_age_identity_drift"
+    ],
+    "audit": "HSK6_SC011_SC020_R1_2026-10-10"
+  }
 }

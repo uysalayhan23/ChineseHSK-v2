@@ -88,10 +88,27 @@
     "sha256": "307ce7437f5cf71e6dda73449145b532d8554451c3a64535bbe28159ad09aa35",
     "bytes": 434000
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog ve konuşmacı kadrosu, görsel süreklilik, dikey 1080×1920 WebP ve dosya bütünlüğü denetlendi. APK build başlatılmadı.",
+  "qaNoteTr": "LOCKED_V2 + HSK1_SC001 referansıyla 2026-10-10 toplu görsel inceleme: Kafede Li Chen, HSK6 yaşındaki ve ince koyu dikdörtgen gözlüklü kanonik Li Chen yerine genç gözlüksüz kişi olarak görünüyor. Binary korunuyor; PASS kabul edilmiyor.",
   "generationPrompt": "Zhang ve Liu görevleri paylaşırken çalışan ile Li Chen dengeli iş akışına yardım eder.",
-  "styleReferenceSceneId": "ZH_HSK6_SC018"
+  "styleReferenceSceneId": "ZH_HSK6_SC018",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_character_bible_glasses_age_identity_drift"
+    ],
+    "audit": "HSK6_SC011_SC020_R1_2026-10-10"
+  }
 }
