@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK1_SC030_CONTEXTUAL_R1_REVALIDATED_2026-10-10",
+  "latestVisualRevision": "HSK1_SC031_SC050_BULK_AUDIT_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -2023,5 +2023,115 @@
       "nextSceneId": "ZH_HSK1_SC031",
       "apkBuildStarted": false
     }
+  },
+  "hsk1Sc031Sc050BulkAuditR1": {
+    "auditDate": "2026-10-10",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "manifestVersion": "LOCKED_V2",
+    "scope": [
+      "ZH_HSK1_SC031",
+      "ZH_HSK1_SC032",
+      "ZH_HSK1_SC033",
+      "ZH_HSK1_SC034",
+      "ZH_HSK1_SC035",
+      "ZH_HSK1_SC036",
+      "ZH_HSK1_SC037",
+      "ZH_HSK1_SC038",
+      "ZH_HSK1_SC039",
+      "ZH_HSK1_SC040",
+      "ZH_HSK1_SC041",
+      "ZH_HSK1_SC042",
+      "ZH_HSK1_SC043",
+      "ZH_HSK1_SC044",
+      "ZH_HSK1_SC045",
+      "ZH_HSK1_SC046",
+      "ZH_HSK1_SC047",
+      "ZH_HSK1_SC048",
+      "ZH_HSK1_SC049",
+      "ZH_HSK1_SC050"
+    ],
+    "passSceneIds": [
+      "ZH_HSK1_SC031",
+      "ZH_HSK1_SC032",
+      "ZH_HSK1_SC033",
+      "ZH_HSK1_SC034",
+      "ZH_HSK1_SC037",
+      "ZH_HSK1_SC043"
+    ],
+    "correctionRequiredSceneIds": [
+      "ZH_HSK1_SC035",
+      "ZH_HSK1_SC036",
+      "ZH_HSK1_SC038",
+      "ZH_HSK1_SC039",
+      "ZH_HSK1_SC040",
+      "ZH_HSK1_SC041",
+      "ZH_HSK1_SC042",
+      "ZH_HSK1_SC044",
+      "ZH_HSK1_SC045",
+      "ZH_HSK1_SC046",
+      "ZH_HSK1_SC047",
+      "ZH_HSK1_SC048",
+      "ZH_HSK1_SC049",
+      "ZH_HSK1_SC050"
+    ],
+    "reasons": {
+      "ZH_HSK1_SC035": [
+        "extra_non_dialogue_character_Lele"
+      ],
+      "ZH_HSK1_SC036": [
+        "extra_non_dialogue_character_Mimi"
+      ],
+      "ZH_HSK1_SC038": [
+        "Lele_wrong_gender",
+        "ZhangWei_identity_drift",
+        "meta_location_noncanonical"
+      ],
+      "ZH_HSK1_SC039": [
+        "Lele_wrong_gender",
+        "ZhangWei_identity_drift"
+      ],
+      "ZH_HSK1_SC040": [
+        "ZhangWei_identity_drift"
+      ],
+      "ZH_HSK1_SC041": [
+        "Lele_wrong_gender",
+        "ZhangWei_identity_drift",
+        "meta_location_noncanonical"
+      ],
+      "ZH_HSK1_SC042": [
+        "Lele_wrong_gender",
+        "ZhangWei_identity_drift"
+      ],
+      "ZH_HSK1_SC044": [
+        "Lele_wrong_gender",
+        "meta_location_noncanonical"
+      ],
+      "ZH_HSK1_SC045": [
+        "visual_location_mismatch_with_scene_JSON",
+        "meta_location_mismatch"
+      ],
+      "ZH_HSK1_SC046": [
+        "Lele_wrong_gender",
+        "ZhangWei_identity_drift"
+      ],
+      "ZH_HSK1_SC047": [
+        "extra_non_dialogue_family_characters"
+      ],
+      "ZH_HSK1_SC048": [
+        "extra_non_dialogue_family_characters",
+        "meta_location_noncanonical"
+      ],
+      "ZH_HSK1_SC049": [
+        "visual_location_mismatch_with_scene_JSON",
+        "meta_location_noncanonical"
+      ],
+      "ZH_HSK1_SC050": [
+        "extra_non_dialogue_family_characters"
+      ]
+    },
+    "status": "CORRECTION_REQUIRED",
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_20",
+    "actionsRun": false,
+    "noteTr": "Toplu denetimde 20 sahnenin 6'sı doğrudan korundu. 14 sahnede exact cast, Lele cinsiyet kilidi, Zhang Wei kimlik sürekliliği, ekstra karakter veya mekan uyumsuzluğu bulundu. Düzgün sahneler yeniden üretilmeyecek; yalnız bu 14 sahne düzeltilecek."
   }
 }

@@ -6,7 +6,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK1/ZH_HSK1_SC033.json",
   "dialogueSha256": "eb185423b76b7712371998cc539f3da871568b3a660ca673aaad049968de640b",
   "titleTr": "İş Arkadaşıyla Öğle Yemeği",
-  "locationId": "LOC_ZH_RESTAURANT_001",
+  "locationId": "LOC_ZH_CANTEEN_001",
   "scenePurposeTr": "Zhang Wei iş arkadaşıyla öğle yemeğine çıkar ve garsona sipariş verir.",
   "dialogueSpeakers": [
     "张伟",
@@ -56,6 +56,20 @@
   },
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
-  "qaNoteTr": "Kullanıcının son onaylı görseli LOCKED_V2 manifestoya göre bu sceneId için final source asset olarak yeniden entegre edildi.",
-  "binaryIntegrityChecked": true
+  "qaNoteTr": "SC033 mevcut asset korundu; şirket yemekhanesi scene JSON ve canonical location registry ile LOC_ZH_CANTEEN_001 olarak hizalandı. Exact cast, HSK1_SC001 stil referansı, 9:16 ve app/runtime blob eşleşmesi toplu R1 auditinde PASS.",
+  "binaryIntegrityChecked": true,
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "bulkAudit": "HSK1_SC031_SC050_R1_2026-10-10"
+  }
 }

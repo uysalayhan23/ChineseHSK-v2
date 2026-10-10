@@ -6,7 +6,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK1/ZH_HSK1_SC031.json",
   "dialogueSha256": "b29c1641c1852b7b8716027d03d076f7fe1b7f99ef1e1dffacacf4127b638736",
   "titleTr": "İlk İş Günü",
-  "locationId": "LOC_ZH_COMPANY_001",
+  "locationId": "LOC_ZH_WORKPLACE_001",
   "scenePurposeTr": "Zhang Wei yeni işindeki ilk gününde güvenlik, iş kartı, yönetici ve iş arkadaşıyla tanışır.",
   "dialogueSpeakers": [
     "张伟",
@@ -57,6 +57,20 @@
   },
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
-  "qaNoteTr": "Kullanıcının son onaylı görseli LOCKED_V2 manifestoya göre bu sceneId için final source asset olarak yeniden entegre edildi.",
-  "binaryIntegrityChecked": true
+  "qaNoteTr": "SC031 mevcut asset korundu; canonical location registry ve scene JSON ile LOC_ZH_WORKPLACE_001 olarak hizalandı. Exact cast, HSK1_SC001 stil referansı, 9:16 ve app/runtime blob eşleşmesi toplu R1 auditinde PASS.",
+  "binaryIntegrityChecked": true,
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "bulkAudit": "HSK1_SC031_SC050_R1_2026-10-10"
+  }
 }
