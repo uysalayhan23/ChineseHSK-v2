@@ -114,10 +114,27 @@
     "sha256": "1edf8b373b158fccffcac5460cd38c9d35d74fe6c10a146c0293a3efa6cd2a10",
     "bytes": 260680
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog/kadro, LOCKED_V2 saç ve yaş devamlılığı, mekân, 1080×1920 WebP ve dosya bütünlüğü doğrulandı. APK build başlatılmadı.",
+  "qaNoteTr": "2026-10-10 LOCKED_V2 ve HSK6 character bible görsel QA: Li Chen eski istasyon peronunda genç/olgun ama gözlüksüz kişi olarak görünüyor; HSK6 kanonik yüz ve gözlük continuity’si sağlanmıyor. Mevcut binary korunuyor; doğru final asset + QA olmadan PASS değil.",
   "generationPrompt": "Zhang ve Liu yıllar sonra ilk geldikleri istasyona döner; Li Chen onlara eşlik eder, anlatıcı ses olarak kalır.",
-  "styleReferenceSceneId": "ZH_HSK6_SC040"
+  "styleReferenceSceneId": "ZH_HSK6_SC040",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_character_bible_glasses_identity_drift"
+    ],
+    "audit": "HSK6_SC041_SC050_R1_2026-10-10"
+  }
 }

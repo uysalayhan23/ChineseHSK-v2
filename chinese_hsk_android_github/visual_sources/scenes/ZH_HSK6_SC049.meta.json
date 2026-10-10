@@ -114,10 +114,27 @@
     "sha256": "4206eacd05c1ee58442d3866ca74671d0cc77d890f321a19ad18a3d6d4cde77f",
     "bytes": 297300
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog/kadro, LOCKED_V2 saç ve yaş devamlılığı, mekân, 1080×1920 WebP ve dosya bütünlüğü doğrulandı. APK build başlatılmadı.",
+  "qaNoteTr": "2026-10-10 LOCKED_V2 ve HSK6 character bible görsel QA: Li Chen kafe kapanışı sahnesinde ince koyu dikdörtgen gözlüğü olmadan gösterilmiş; karakter bible kimliği korunmuyor. 旁白 yalnız dış sestir. Mevcut binary korunuyor; doğru final asset + QA olmadan PASS değil.",
   "generationPrompt": "Kafe kapandıktan sonra Zhang ve Liu içten bir konuşma yapar; Li Chen dinler, anlatıcı ses olarak kalır.",
-  "styleReferenceSceneId": "ZH_HSK6_SC040"
+  "styleReferenceSceneId": "ZH_HSK6_SC040",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_character_bible_glasses_identity_drift"
+    ],
+    "audit": "HSK6_SC041_SC050_R1_2026-10-10"
+  }
 }

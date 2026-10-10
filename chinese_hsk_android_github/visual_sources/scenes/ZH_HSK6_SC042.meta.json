@@ -111,10 +111,27 @@
     "sha256": "2a661df38b5e28f78c92e7d9c9993479c8cc1261c5d4a3ff2ba39f07f2ed6aa0",
     "bytes": 341562
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_GENERATED",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Diyalog/kadro, LOCKED_V2 saç ve yaş devamlılığı, mekân, 1080×1920 WebP ve dosya bütünlüğü doğrulandı. APK build başlatılmadı.",
+  "qaNoteTr": "2026-10-10 LOCKED_V2 ve HSK6 character bible görsel QA: Li Chen HSK6 yürüyüş sahnesinde yaş almış olsa da ince koyu dikdörtgen gözlüğü yok; character bible gözlük kimlik kilidi bozulmuş. Mevcut binary korunuyor; doğru final asset + QA olmadan PASS değil.",
   "generationPrompt": "Zhang ve Liu günlük tempoyu düşürmeyi konuşurken Li Chen ve Yutong onlara eşlik eder.",
-  "styleReferenceSceneId": "ZH_HSK6_SC040"
+  "styleReferenceSceneId": "ZH_HSK6_SC040",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "LiChen_character_bible_glasses_identity_drift"
+    ],
+    "audit": "HSK6_SC041_SC050_R1_2026-10-10"
+  }
 }
