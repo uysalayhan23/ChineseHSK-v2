@@ -33,3 +33,14 @@ SC020 ve SC021 yeniden üretildi. Yeni dosyalar **GitHub'ın henüz hiçbir klas
 - SC021: `ZH_HSK2_SC021.webp`, 941×1672, 201070 bayt, SHA256 `00739a2798474f10816b12e522c5db95508bb0fb5baa2595e74dad18cb0e697d`. Lele erkek çocuk, Liu Mei, kütüphaneci ve kütüphane kartı/banko/bilgisayar görünür.
 - Doğrulama: Yerel dosya bütünlüğü ve görsel ön kontrol yapıldı. **GitHub yükleme, app/runtime mirror, GitHub SHA256, final canonical closure henüz yok.**
 - Eski `qaStatus: FAIL` ve `status: CORRECTION_REQUIRED` korunmuştur. Actions kullanılmadı.
+
+## R5 — GitHub WebP, runtime mirror ve LOCKED_V2 kapanışı (2026-10-10)
+
+App source için kullanıcı tarafından yüklenen SC020/SC021 yeni binary'leri, yerel adayların Git blob SHA değerleriyle birebir eşleşti. Birebir içerik özdeşliğiyle doğrulanan SHA256 değerleri ve Git blob ID'leri:
+
+| Sahne | SHA256 | Git blob SHA | Boyut |
+|---|---|---|---:|
+| SC020 | `988ec92ec9f2cfae15ccbd6933a646ac93deea0404de19f2a515a17084c5920f` | `8f6b0f2e66f888bea80edff3993061f1d3c862c7` | 199356 |
+| SC021 | `00739a2798474f10816b12e522c5db95508bb0fb5baa2595e74dad18cb0e697d` | `8efa60a47beb040d3adaf1aa08ab08ddd08abe07` | 201070 |
+
+Kaynak diyalog cast SC020: 张伟/刘梅/张雨桐/张乐乐, SC021: 张乐乐/刘梅/图书管理员. HSK1_SC001 warm CGI/9:16 tek sahne kuralları gözetildi; Lele erkek, Zhang Wei gözlüklü, TV menüsü kaldırıldı; SC021 kütüphane nesneleri görünür ve Liu Mei SC020 continuity kontrol edildi. Runtime mirror GitHub tree içinde yukarıdaki **aynı blob SHA** ile güncellendi. R5 sonucu **PASS / FINAL_SOURCE_OVERRIDE**. R2 ve R3 önceki FAIL kayıtları tarihsel denetim aşamalarıdır. Kalan HSK2: 8 sahne. GitHub Actions tetiklenmedi; commit `[skip ci]`.

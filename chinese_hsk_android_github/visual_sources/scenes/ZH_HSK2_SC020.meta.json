@@ -38,7 +38,8 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "affaea2ccd59960c6582f046c56d6ec833bb5a6f01ca219c5c3d858f062963c1"
+    "sha256": "988ec92ec9f2cfae15ccbd6933a646ac93deea0404de19f2a515a17084c5920f",
+    "bytes": 199356
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -56,26 +57,24 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: Lele_wrong_gender. HSK1_SC001 görsel tekniği ve character bible exact cast ile yeni/düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-10 R5 LOCKED_V2: Yerel WebP SHA256 ve git blob ile GitHub app source dosyası eşleşti, 941×1672. Dört diyalog konuşmacısı (Zhang Wei, Liu Mei, Yutong, erkek Lele), gözlüklü Zhang Wei, film gecesi ve gerekli objeler var; gömülü TV menüsü yok. Runtime mirror aynı Git blobuyla commit içinde güncellendi. Actions çalıştırılmadı.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "Lele_wrong_gender"
-    ],
-    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+    "rejectionReasons": [],
+    "audit": "HSK2_SC020_SC021_LOCKED_V2_R5_2026-10-10"
   },
   "candidateAuditR3": {
     "auditDate": "2026-10-10",
@@ -119,9 +118,24 @@
       "ZhangWeiSignatureGlasses": true,
       "LiuMeiFaceHairApproximateMatch": true
     },
-    "canonicalFullPassAfterGitHubBinaryVerification": false,
-    "appBinaryReplaced": false,
-    "runtimeMirrorReplaced": false,
-    "noteTr": "Yeni görsel yerelde incelendi ve WebP'ye dönüştürüldü. GitHub binary henüz değiştirilmedi; SHA256, metadata ve mirror kapatılmadan resmi PASS verilemez."
+    "canonicalFullPassAfterGitHubBinaryVerification": true,
+    "appBinaryReplaced": true,
+    "runtimeMirrorReplaced": true,
+    "noteTr": "Yeni görsel yerelde incelendi ve WebP'ye dönüştürüldü. GitHub binary henüz değiştirilmedi; SHA256, metadata ve mirror kapatılmadan resmi PASS verilemez.",
+    "status": "PROMOTED_AND_VERIFIED_R5"
+  },
+  "finalAcceptanceR5": {
+    "auditDate": "2026-10-10",
+    "status": "PASS",
+    "manifestVersion": "LOCKED_V2",
+    "sha256": "988ec92ec9f2cfae15ccbd6933a646ac93deea0404de19f2a515a17084c5920f",
+    "gitBlobSha": "8f6b0f2e66f888bea80edff3993061f1d3c862c7",
+    "bytes": 199356,
+    "width": 941,
+    "height": 1672,
+    "appRuntimeMirrorBlobMatch": true,
+    "allDialogueSpeakersVisible": true,
+    "canonicalIdentityCheck": "VISUAL_REVIEW_PASS",
+    "actionsRun": false
   }
 }

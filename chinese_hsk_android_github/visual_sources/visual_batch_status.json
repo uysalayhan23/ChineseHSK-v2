@@ -2530,11 +2530,11 @@
       "ZH_HSK2_SC047",
       "ZH_HSK2_SC048",
       "ZH_HSK2_SC049",
-      "ZH_HSK2_SC050"
+      "ZH_HSK2_SC050",
+      "ZH_HSK2_SC020",
+      "ZH_HSK2_SC021"
     ],
     "correctionRequiredSceneIds": [
-      "ZH_HSK2_SC020",
-      "ZH_HSK2_SC021",
       "ZH_HSK2_SC023",
       "ZH_HSK2_SC025",
       "ZH_HSK2_SC026",
@@ -2545,12 +2545,6 @@
       "ZH_HSK2_SC035"
     ],
     "reasons": {
-      "ZH_HSK2_SC020": [
-        "Lele_wrong_gender"
-      ],
-      "ZH_HSK2_SC021": [
-        "Lele_wrong_gender"
-      ],
       "ZH_HSK2_SC023": [
         "extra_non_dialogue_prominent_character"
       ],
@@ -2587,11 +2581,14 @@
       "ZH_HSK2_SC014",
       "ZH_HSK2_SC015"
     ],
-    "regeneratedSceneIds": [],
+    "regeneratedSceneIds": [
+      "ZH_HSK2_SC020",
+      "ZH_HSK2_SC021"
+    ],
     "appRuntimeMirrorBlobCheck": "PASS_ALL_50",
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
-    "noteTr": "HSK2 SC001-SC050 gerçek görseller tek tek görsel QA ile yeniden denetlendi. SC013 önceki false-positive'den PASS'e döndürüldü. Lele cinsiyet kilidi, exact cast ve Li Chen kimlik kilidi ihlali olan 10 sahne CORRECTION_REQUIRED; diğer sahneler korunuyor. Actions çalıştırılmadı."
+    "noteTr": "HSK2 SC001-SC050 gerçek görseller tek tek görsel QA ile yeniden denetlendi. SC013 önceki false-positive'den PASS'e döndürüldü. Lele cinsiyet kilidi, exact cast ve Li Chen kimlik kilidi ihlali olan 10 sahne CORRECTION_REQUIRED; diğer sahneler korunuyor. Actions çalıştırılmadı. 2026-10-10 R5: SC020, SC021 yeni doğru WebP ile 2/10 onarım kapatıldı; kalan 8/10. App ve runtime mirror aynı Git blob. Actions yok."
   },
   "hsk3Sc001Sc008VisualQaR1": {
     "auditDate": "2026-10-10",
@@ -3721,7 +3718,7 @@
       "ZH_HSK2_SC021"
     ],
     "manifestVersion": "LOCKED_V2",
-    "status": "LOCAL_CANDIDATES_READY_BINARY_UPLOAD_PENDING",
+    "status": "CLOSED_BY_FINAL_ACCEPTANCE_R5",
     "candidateSha256": {
       "ZH_HSK2_SC020": "988ec92ec9f2cfae15ccbd6933a646ac93deea0404de19f2a515a17084c5920f",
       "ZH_HSK2_SC021": "00739a2798474f10816b12e522c5db95508bb0fb5baa2595e74dad18cb0e697d"
@@ -3730,10 +3727,32 @@
       941,
       1672
     ],
-    "appRuntimeMirrorUpdated": false,
-    "metadataPassAssigned": false,
+    "appRuntimeMirrorUpdated": true,
+    "metadataPassAssigned": true,
     "actionsRun": false,
     "buildTriggered": false,
     "notesTr": "Yerel QA: SC020 film gecesinde dört konuşmacı, Zhang Wei gözlüğü, Lele erkek, TV gömülü UI yok; SC021 kütüphanede üç konuşmacı ve kart/banko/bilgisayar var. Binaries GitHub'a yüklenmeden final QA PASS olmayacak."
+  },
+  "hsk2Sc020Sc021FinalAcceptanceR5": {
+    "auditDate": "2026-10-10",
+    "manifestVersion": "LOCKED_V2",
+    "status": "PASS",
+    "sceneIds": [
+      "ZH_HSK2_SC020",
+      "ZH_HSK2_SC021"
+    ],
+    "sha256": {
+      "ZH_HSK2_SC020": "988ec92ec9f2cfae15ccbd6933a646ac93deea0404de19f2a515a17084c5920f",
+      "ZH_HSK2_SC021": "00739a2798474f10816b12e522c5db95508bb0fb5baa2595e74dad18cb0e697d"
+    },
+    "gitBlobSha": {
+      "ZH_HSK2_SC020": "8f6b0f2e66f888bea80edff3993061f1d3c862c7",
+      "ZH_HSK2_SC021": "8efa60a47beb040d3adaf1aa08ab08ddd08abe07"
+    },
+    "appRuntimeMirrorBlobMatch": true,
+    "canonicalQA": "PASS_VISUAL_REVIEW",
+    "actionsRun": false,
+    "buildTriggered": false,
+    "remainingHsk2R2Corrections": 8
   }
 }

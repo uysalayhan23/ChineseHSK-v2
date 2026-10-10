@@ -32,10 +32,10 @@ Kaynak: `chinese_hsk_android_github/visual_sources/visual_batch_status.json` (20
 - `ZH_HSK2_SC021`: 941×1672 WebP adayı (SHA256 `da7f2461f01dbc64c077bac532819ae464b736b07e01443b76fe38fd4378de0f`) üç doğru karakter, erkek Lele, kütüphane kartı ve banko içerir. Liu Mei'nin canonical yüz/saç sürekliliği henüz onaylanmadı. Final kabul edilmedi.
 - **GitHub app/runtime binary değişmedi; QA `FAIL`, durum `CORRECTION_REQUIRED`.** Görseller geçerli LOCKED_V2 QA tamamlanana kadar kuyruğa açık kalır. Actions/CI kullanılmadı.
 
-### HSK2: 10 düzeltme
+### HSK2: 10 düzeltme — 2/10 kapandı, 8 açık
 
-- [ ] `ZH_HSK2_SC020` — Lele_wrong_gender
-- [ ] `ZH_HSK2_SC021` — Lele_wrong_gender
+- [x] `ZH_HSK2_SC020` — 2026-10-10 R5: correct WebP SHA256 + Git blob + app/runtime mirror + LOCKED_V2 QA PASS
+- [x] `ZH_HSK2_SC021` — 2026-10-10 R5: correct WebP SHA256 + Git blob + app/runtime mirror + LOCKED_V2 QA PASS
 - [ ] `ZH_HSK2_SC023` — extra_non_dialogue_prominent_character
 - [ ] `ZH_HSK2_SC025` — LiChen_identity_drift_missing_signature_glasses
 - [ ] `ZH_HSK2_SC026` — Lele_wrong_gender
@@ -127,3 +127,7 @@ SC035, SC036 ve SC048 için doğru WebP görüntüleri app assetlerine yüklendi
 
 Her iki aday 941×1672 ve yerelde açılabilir. SC020: baba Zhang Wei gözlüklü, erkek Lele ve sahne eşyaları mevcut; gömülü TV menüsü yok. SC021: erkek Lele, Liu Mei ve kütüphaneci, kart/kitap/banko/bilgisayar mevcut. **App ve runtime mirror mevcut eski binary'ler olarak korunur.** Tekrar yazılmadan QA PASS işaretlenmez. Yükleme sonrası Git blob + gerçek SHA256, cast/continuity ve mirror eşleşmesi doğrulanmalı. [skip ci]; Actions kullanma.
 
+
+### 2026-10-10 R5 — HSK2_SC020 ve SC021 binary kapanışı
+
+SC020 ve SC021 için app authoritative WebP'ler GitHub'a kullanıcı tarafından yüklendi; yerel aday Git blob SHA eşleşmeleri doğrulandı. `ci/runtime_visuals` aynaları **aynı blob SHA** ile güncellendi. Her iki sahne konuşmacı/kadro ve nesne kontrollü LOCKED_V2 QA PASS; Lele erkek, SC020 Zhang Wei gözlüklü ve UI'siz. Meta/visual_batch_status kapanışı yapıldı, diğer 8 HSK2 onarım açık. Actions kullanılmadı, APK build tetiklenmedi. R4 öncesi PENDING notları tarihsel kayıt niteliğindedir; en güncel sonuç R5'tir.
