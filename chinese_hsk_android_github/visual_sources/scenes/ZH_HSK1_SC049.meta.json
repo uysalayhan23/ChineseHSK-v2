@@ -6,7 +6,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK1/ZH_HSK1_SC049.json",
   "dialogueSha256": "542ff05d8061faa740b4b6c9200e8cd9e909706120f9815970f68f623075036b",
   "titleTr": "Yeni Kasabada Üç Ay",
-  "locationId": "LOC_ZH_CITY_VIEW_001",
+  "locationId": "LOC_ZH_WALKWAY_001",
   "scenePurposeTr": "Zhang ailesi yeni kasabadaki üçüncü aylarını birlikte değerlendirir ve yeni yaşamlarından memnun olduklarını konuşur.",
   "dialogueSpeakers": [
     "张伟",
@@ -58,5 +58,20 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Kullanıcının son üretilen görseli LOCKED_V2 manifestoya göre bu sceneId için final source asset olarak yeniden entegre edildi."
+  "qaNoteTr": "ZH_HSK1_SC049: sahne anlatımı, mevcut final asset ve canonical location registry birlikte denetlenerek locationId LOC_ZH_WALKWAY_001 olarak hizalandı. Görsel yeniden üretilmedi; exact cast ve HSK1_SC001 stil referansı korunuyor.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "reusedExistingAsset": true,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "locationId": "LOC_ZH_WALKWAY_001",
+    "bulkRepair": "HSK1_SC031_SC050_R1_REPAIR_2026-10-10"
+  }
 }

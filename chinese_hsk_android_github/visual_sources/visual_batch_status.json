@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK1_SC038_SC050_CANONICAL_BRANCH_REPAIR_R1_2026-10-10",
+  "latestVisualRevision": "HSK1_SC045_SC049_LOCATION_ALIGNMENT_R1_2026-10-10",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -2112,6 +2112,26 @@
       "reusedVerifiedBranchAsset": true,
       "appRuntimeMirrorBlobMatch": true,
       "apkBuildStarted": false
+    },
+    "ZH_HSK1_SC045": {
+      "status": "INTEGRATED_MODEL_QA_PASS",
+      "imageSha256": "c55da8bbdce80a2946bd0ac2b84729b3834485ed68c51cf669e9f04ed8bfdc7b",
+      "exactCastChecked": true,
+      "locationId": "LOC_ZH_NEW_HOME_001",
+      "referenceSceneId": "ZH_HSK1_SC001",
+      "reusedExistingAsset": true,
+      "appRuntimeMirrorBlobMatch": true,
+      "apkBuildStarted": false
+    },
+    "ZH_HSK1_SC049": {
+      "status": "INTEGRATED_MODEL_QA_PASS",
+      "imageSha256": "74c5ba5205e62bfe58f12d81485bcfffac4e22566ec2914e67ec7bc00da5bc0a",
+      "exactCastChecked": true,
+      "locationId": "LOC_ZH_WALKWAY_001",
+      "referenceSceneId": "ZH_HSK1_SC001",
+      "reusedExistingAsset": true,
+      "appRuntimeMirrorBlobMatch": true,
+      "apkBuildStarted": false
     }
   },
   "hsk1Sc031Sc050BulkAuditR1": {
@@ -2155,14 +2175,14 @@
       "ZH_HSK1_SC044",
       "ZH_HSK1_SC046",
       "ZH_HSK1_SC047",
-      "ZH_HSK1_SC050"
+      "ZH_HSK1_SC050",
+      "ZH_HSK1_SC045",
+      "ZH_HSK1_SC049"
     ],
     "correctionRequiredSceneIds": [
       "ZH_HSK1_SC035",
       "ZH_HSK1_SC036",
-      "ZH_HSK1_SC045",
-      "ZH_HSK1_SC048",
-      "ZH_HSK1_SC049"
+      "ZH_HSK1_SC048"
     ],
     "reasons": {
       "ZH_HSK1_SC035": [
@@ -2171,23 +2191,15 @@
       "ZH_HSK1_SC036": [
         "extra_non_dialogue_character_Mimi"
       ],
-      "ZH_HSK1_SC045": [
-        "visual_location_mismatch_with_scene_JSON",
-        "meta_location_mismatch"
-      ],
       "ZH_HSK1_SC048": [
         "extra_non_dialogue_family_characters",
-        "meta_location_noncanonical"
-      ],
-      "ZH_HSK1_SC049": [
-        "visual_location_mismatch_with_scene_JSON",
         "meta_location_noncanonical"
       ]
     },
     "status": "CORRECTION_REQUIRED",
     "appRuntimeMirrorBlobCheck": "PASS_ALL_20",
     "actionsRun": false,
-    "noteTr": "Toplu audit sonrası doğrulanmış eski branch assetleriyle 9 sahne düzeltildi. Kalan düzeltme kuyruğu: ZH_HSK1_SC035, ZH_HSK1_SC036, ZH_HSK1_SC045, ZH_HSK1_SC048, ZH_HSK1_SC049. Actions çalıştırılmadı."
+    "noteTr": "Konum uyuşmazlığı olan SC045 ve SC049 sahne JSON/meta kayıtları mevcut final görsellerle ve canonical location registry ile hizalandı. Kalan gerçek görsel düzeltme kuyruğu: ZH_HSK1_SC035, ZH_HSK1_SC036, ZH_HSK1_SC048. Actions çalıştırılmadı."
   },
   "hsk1Sc031Sc050CanonicalRepairR1": {
     "repairedSceneIds": [
@@ -2199,14 +2211,14 @@
       "ZH_HSK1_SC044",
       "ZH_HSK1_SC046",
       "ZH_HSK1_SC047",
-      "ZH_HSK1_SC050"
+      "ZH_HSK1_SC050",
+      "ZH_HSK1_SC045",
+      "ZH_HSK1_SC049"
     ],
     "remainingSceneIds": [
       "ZH_HSK1_SC035",
       "ZH_HSK1_SC036",
-      "ZH_HSK1_SC045",
-      "ZH_HSK1_SC048",
-      "ZH_HSK1_SC049"
+      "ZH_HSK1_SC048"
     ],
     "sourceStrategy": "verified historical branch asset restore",
     "manifestVersion": "LOCKED_V2",

@@ -421,7 +421,7 @@
       "favoritesStudyMode": true
     }
   },
-  "locationId": "LOC_ZH_NEW_HOME_001",
+  "locationId": "LOC_ZH_WALKWAY_001",
   "story": {
     "previousSceneId": "ZH_HSK1_SC048",
     "nextSceneId": "ZH_HSK1_SC050"
@@ -1138,7 +1138,7 @@
       "张雨桐",
       "张乐乐"
     ],
-    "locationId": "LOC_ZH_NEW_HOME_001",
+    "locationId": "LOC_ZH_WALKWAY_001",
     "visual": {
       "reuseLocation": true,
       "newVisualRequired": false,
