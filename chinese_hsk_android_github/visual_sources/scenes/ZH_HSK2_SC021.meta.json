@@ -54,8 +54,25 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "PASS",
-  "status": "FINAL_SOURCE_OVERRIDE",
+  "qaStatus": "FAIL",
+  "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: Lele kartını kütüphaneciye uzatıyor; Liu Mei yanında ve kitaplar/banko görünür. Final source override olarak eşlendi."
+  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: Lele_wrong_gender. HSK1_SC001 görsel tekniği ve character bible exact cast ile yeni/düzeltilmiş final asset gerekli.",
+  "postGenerationVisualQA": {
+    "status": "FAIL",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": false,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": false,
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "appRuntimeMirrorBlobMatch": true,
+    "rejectionReasons": [
+      "Lele_wrong_gender"
+    ],
+    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+  }
 }

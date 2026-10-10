@@ -53,26 +53,23 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "Otomatik LOCKED_V2 görsel QA FAIL: iş yeri mekanı doğru olsa da 新同事 rolündeki kadın görsel olarak canonical 刘梅 kimliğine/yüz-kıyafet diline karışıyor. Yardımcı karakter aile kimliğiyle karıştırılamaz; yeni final asset gerekli.",
+  "qaNoteTr": "LOCKED_V2 yeniden görsel QA: exact cast 张伟 + 同事 + 新同事, iş yeri ve ekipman doğru; önceki false-positive kaldırıldı, mevcut asset korunuyor.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
+    "reusedExistingAsset": true,
     "referenceSceneId": "ZH_HSK1_SC001",
-    "locationId": "LOC_ZH_WORKPLACE_001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "supporting_character_identity_confused_with_canonical_LiuMei"
-    ],
-    "bulkAudit": "HSK2_SC009_SC020_AUTO_AUDIT_R1_2026-10-10"
+    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
   }
 }
