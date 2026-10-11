@@ -28,7 +28,7 @@
     "previousSceneId": "ZH_HSK2_SC024",
     "nextSceneId": "ZH_HSK2_SC026"
   },
-  "sourceGeneratedFilename": "hsk2_correct_09.png",
+  "sourceGeneratedFilename": "sıcak_çay_evi_sohbeti.png",
   "finalAssetFilename": "ZH_HSK2_SC025.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK2_SC025.webp",
   "image": {
@@ -36,7 +36,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "647df53ed656f221d673ba69268fc93103c05325698c0b923588df7b1cc3dba2"
+    "sha256": "3d889c1884c03ced8b30e917edfea2c73f8165e449afe8aeee40458bfce9e383",
+    "bytes": 233444,
+    "gitBlobSha": "8f8dcf66f069a1712fbb78991c22a90186bb4b81"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -54,26 +56,27 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: LiChen_identity_drift_missing_signature_glasses. Character bible ve HSK1_SC001 referansına göre düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-11 R10: LOCKED_V2 exact-cast ve kritik nesne QA PASS; HSK1_SC001 ve HSK2_SC024 referanslarına göre sıcak, tek sahne 2.5D/3D CGI; metinsiz/logosuz/kolajsız. SC025 941×1672 WebP SHA256 3d889c1884c03ced8b30e917edfea2c73f8165e449afe8aeee40458bfce9e383; app/runtime blob 8f8dcf66f069a1712fbb78991c22a90186bb4b81. Önceki R6/R8 retleri tarihsel olarak korunur.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "LiChen_identity_drift_missing_signature_glasses"
-    ],
-    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10",
+    "additionalVisualReferenceSceneId": "ZH_HSK2_SC024",
+    "manualIdentityReview": "PASS_VISUAL_REFERENCE_BASED",
+    "finalAudit": "HSK2_SC023_SC025_R10_2026-10-11"
   },
   "candidateAuditR6": {
     "auditDate": "2026-10-10",
@@ -182,11 +185,48 @@
       1672
     ],
     "contentPreflight": "Zhang Wei, rectangular-glasses Li Chen, Liu Mei; teahouse and teaware",
-    "canonicalIdentityApproval": "PENDING",
-    "status": "LOCAL_BINARY_READY_GITHUB_TRANSFER_PENDING",
-    "appAssetUploaded": false,
-    "appRuntimeMirrorMatchedForCandidate": false,
+    "canonicalIdentityApproval": "PASS_MANUAL_VISUAL_REVIEW",
+    "status": "ACCEPTED_VERIFIED_GITHUB_BINARY",
+    "appAssetUploaded": true,
+    "appRuntimeMirrorMatchedForCandidate": true,
     "actionsRun": false,
-    "descriptionTr": "GitHub bağlantı/yazma izni mevcut. Bu yeni WebP'nin fiziksel binary içeriği GitHub blob'una henüz aktarılmadı; önceki adayların R8 FAIL sonucu tarihsel olarak korunuyor. Gerçek dosya yüklenmeden QA PASS verme."
+    "descriptionTr": "GitHub bağlantı/yazma izni mevcut. Bu yeni WebP'nin fiziksel binary içeriği GitHub blob'una henüz aktarılmadı; önceki adayların R8 FAIL sonucu tarihsel olarak korunuyor. Gerçek dosya yüklenmeden QA PASS verme.",
+    "githubBinaryTransferCompleted": true,
+    "metadataAcceptanceCompleted": true
+  },
+  "finalAcceptanceR10": {
+    "acceptedDate": "2026-10-11",
+    "manifestVersion": "LOCKED_V2",
+    "status": "PASS",
+    "sha256": "3d889c1884c03ced8b30e917edfea2c73f8165e449afe8aeee40458bfce9e383",
+    "gitBlobSha": "8f8dcf66f069a1712fbb78991c22a90186bb4b81",
+    "bytes": 233444,
+    "pixels": [
+      941,
+      1672
+    ],
+    "dialogueCast": [
+      "张伟",
+      "李晨",
+      "刘梅"
+    ],
+    "criticalObjects": [
+      "çaydanlık",
+      "çay fincanları",
+      "ahşap çay masası",
+      "geleneksel çay evi"
+    ],
+    "canonicalReferenceIds": [
+      "ZH_HSK1_SC001",
+      "ZH_HSK2_SC024"
+    ],
+    "style": "warm_cinematic_2.5D_3D_CGI",
+    "noText": true,
+    "noCollage": true,
+    "exactCast": true,
+    "canonicalQA": "PASS_VISUAL_REFERENCE_BASED",
+    "binaryIntegrity": "PASS_SHA256_AND_GIT_BLOB",
+    "appRuntimeMirror": "PASS_IDENTICAL_GIT_BLOB",
+    "actionsRun": false
   }
 }

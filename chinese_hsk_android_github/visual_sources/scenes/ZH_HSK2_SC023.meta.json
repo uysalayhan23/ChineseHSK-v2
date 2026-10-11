@@ -28,7 +28,7 @@
     "previousSceneId": "ZH_HSK2_SC022",
     "nextSceneId": "ZH_HSK2_SC024"
   },
-  "sourceGeneratedFilename": "sıcacık_pastane_beyin_fırtınası.png",
+  "sourceGeneratedFilename": "pastalı_tasarım_sohbeti.png",
   "finalAssetFilename": "ZH_HSK2_SC023.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK2_SC023.webp",
   "image": {
@@ -36,7 +36,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "51dbff583ac7e845eaf5c6a3273dca96abe51df4808829e1fce420de0edb4142"
+    "sha256": "73d4cdae2b17a0a496751c2d0d9fb4f32a3c3476cb1641e63ca31ff8ade5c5f3",
+    "bytes": 256576,
+    "gitBlobSha": "6d4534bed74f52310a9cc8f05ea92a5a97603d05"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -54,26 +56,27 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: extra_non_dialogue_prominent_character. HSK1_SC001 görsel tekniği ve character bible exact cast ile yeni/düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-11 R10: LOCKED_V2 exact-cast ve kritik nesne QA PASS; HSK1_SC001 ve HSK2_SC024 referanslarına göre sıcak, tek sahne 2.5D/3D CGI; metinsiz/logosuz/kolajsız. SC023 941×1672 WebP SHA256 73d4cdae2b17a0a496751c2d0d9fb4f32a3c3476cb1641e63ca31ff8ade5c5f3; app/runtime blob 6d4534bed74f52310a9cc8f05ea92a5a97603d05. Önceki R6/R8 retleri tarihsel olarak korunur.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
-    "speakerCountMatch": false,
+    "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "extra_non_dialogue_prominent_character"
-    ],
-    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10",
+    "additionalVisualReferenceSceneId": "ZH_HSK2_SC024",
+    "manualIdentityReview": "PASS_VISUAL_REFERENCE_BASED",
+    "finalAudit": "HSK2_SC023_SC025_R10_2026-10-11"
   },
   "candidateAuditR6": {
     "auditDate": "2026-10-10",
@@ -180,11 +183,48 @@
       1672
     ],
     "contentPreflight": "Liu Mei, adult neighbor, Zhang Wei; cake designs and order notebook",
-    "canonicalIdentityApproval": "PENDING",
-    "status": "LOCAL_BINARY_READY_GITHUB_TRANSFER_PENDING",
-    "appAssetUploaded": false,
-    "appRuntimeMirrorMatchedForCandidate": false,
+    "canonicalIdentityApproval": "PASS_MANUAL_VISUAL_REVIEW",
+    "status": "ACCEPTED_VERIFIED_GITHUB_BINARY",
+    "appAssetUploaded": true,
+    "appRuntimeMirrorMatchedForCandidate": true,
     "actionsRun": false,
-    "descriptionTr": "GitHub bağlantı/yazma izni mevcut. Bu yeni WebP'nin fiziksel binary içeriği GitHub blob'una henüz aktarılmadı; önceki adayların R8 FAIL sonucu tarihsel olarak korunuyor. Gerçek dosya yüklenmeden QA PASS verme."
+    "descriptionTr": "GitHub bağlantı/yazma izni mevcut. Bu yeni WebP'nin fiziksel binary içeriği GitHub blob'una henüz aktarılmadı; önceki adayların R8 FAIL sonucu tarihsel olarak korunuyor. Gerçek dosya yüklenmeden QA PASS verme.",
+    "githubBinaryTransferCompleted": true,
+    "metadataAcceptanceCompleted": true
+  },
+  "finalAcceptanceR10": {
+    "acceptedDate": "2026-10-11",
+    "manifestVersion": "LOCKED_V2",
+    "status": "PASS",
+    "sha256": "73d4cdae2b17a0a496751c2d0d9fb4f32a3c3476cb1641e63ca31ff8ade5c5f3",
+    "gitBlobSha": "6d4534bed74f52310a9cc8f05ea92a5a97603d05",
+    "bytes": 256576,
+    "pixels": [
+      941,
+      1672
+    ],
+    "dialogueCast": [
+      "刘梅",
+      "邻居",
+      "张伟"
+    ],
+    "criticalObjects": [
+      "pasta örnekleri",
+      "pasta tasarım çizimleri",
+      "sipariş defteri",
+      "ev çalışma masası"
+    ],
+    "canonicalReferenceIds": [
+      "ZH_HSK1_SC001",
+      "ZH_HSK2_SC024"
+    ],
+    "style": "warm_cinematic_2.5D_3D_CGI",
+    "noText": true,
+    "noCollage": true,
+    "exactCast": true,
+    "canonicalQA": "PASS_VISUAL_REFERENCE_BASED",
+    "binaryIntegrity": "PASS_SHA256_AND_GIT_BLOB",
+    "appRuntimeMirror": "PASS_IDENTICAL_GIT_BLOB",
+    "actionsRun": false
   }
 }

@@ -2532,11 +2532,11 @@
       "ZH_HSK2_SC049",
       "ZH_HSK2_SC050",
       "ZH_HSK2_SC020",
-      "ZH_HSK2_SC021"
+      "ZH_HSK2_SC021",
+      "ZH_HSK2_SC023",
+      "ZH_HSK2_SC025"
     ],
     "correctionRequiredSceneIds": [
-      "ZH_HSK2_SC023",
-      "ZH_HSK2_SC025",
       "ZH_HSK2_SC026",
       "ZH_HSK2_SC027",
       "ZH_HSK2_SC030",
@@ -2545,12 +2545,6 @@
       "ZH_HSK2_SC035"
     ],
     "reasons": {
-      "ZH_HSK2_SC023": [
-        "extra_non_dialogue_prominent_character"
-      ],
-      "ZH_HSK2_SC025": [
-        "LiChen_identity_drift_missing_signature_glasses"
-      ],
       "ZH_HSK2_SC026": [
         "Lele_wrong_gender"
       ],
@@ -2583,12 +2577,14 @@
     ],
     "regeneratedSceneIds": [
       "ZH_HSK2_SC020",
-      "ZH_HSK2_SC021"
+      "ZH_HSK2_SC021",
+      "ZH_HSK2_SC023",
+      "ZH_HSK2_SC025"
     ],
     "appRuntimeMirrorBlobCheck": "PASS_ALL_50",
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
-    "noteTr": "HSK2 SC001-SC050 gerçek görseller tek tek görsel QA ile yeniden denetlendi. SC013 önceki false-positive'den PASS'e döndürüldü. Lele cinsiyet kilidi, exact cast ve Li Chen kimlik kilidi ihlali olan 10 sahne CORRECTION_REQUIRED; diğer sahneler korunuyor. Actions çalıştırılmadı. 2026-10-10 R5: SC020, SC021 yeni doğru WebP ile 2/10 onarım kapatıldı; kalan 8/10. App ve runtime mirror aynı Git blob. Actions yok."
+    "noteTr": "HSK2 SC001-SC050 gerçek görseller tek tek görsel QA ile yeniden denetlendi. SC013 önceki false-positive'den PASS'e döndürüldü. Lele cinsiyet kilidi, exact cast ve Li Chen kimlik kilidi ihlali olan 10 sahne CORRECTION_REQUIRED; diğer sahneler korunuyor. Actions çalıştırılmadı. 2026-10-10 R5: SC020, SC021 yeni doğru WebP ile 2/10 onarım kapatıldı; kalan 8/10. App ve runtime mirror aynı Git blob. Actions yok. 2026-10-11 R10: SC023/SC025 accepted; real WebP binary Git blob transferred through temporary text transport, app/runtime mirrors matched, visual QA PASS. HSK2 now 44/50 PASS, 6 correction open. GitHub Actions not run."
   },
   "hsk3Sc001Sc008VisualQaR1": {
     "auditDate": "2026-10-10",
@@ -3842,7 +3838,7 @@
       "ZH_HSK2_SC025"
     ],
     "manifestVersion": "LOCKED_V2",
-    "status": "NEW_CANDIDATES_LOCAL_GITHUB_BINARY_PENDING",
+    "status": "ACCEPTED_GITHUB_BINARY_QA_PASS",
     "candidates": {
       "ZH_HSK2_SC023": {
         "sha256": "73d4cdae2b17a0a496751c2d0d9fb4f32a3c3476cb1641e63ca31ff8ade5c5f3",
@@ -3864,10 +3860,57 @@
       }
     },
     "githubWriteConnectorEnabled": true,
-    "binaryTransferred": false,
-    "runtimeMirrorUpdated": false,
-    "metadataAccepted": false,
+    "binaryTransferred": true,
+    "runtimeMirrorUpdated": true,
+    "metadataAccepted": true,
     "actionsRun": false,
-    "remainingHsk2Corrections": 8
+    "remainingHsk2Corrections": 6
+  },
+  "hsk2Sc023Sc025FinalAcceptanceR10": {
+    "auditDate": "2026-10-11",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneIds": [
+      "ZH_HSK1_SC001",
+      "ZH_HSK2_SC024"
+    ],
+    "status": "PASS",
+    "scenes": {
+      "ZH_HSK2_SC023": {
+        "sha256": "73d4cdae2b17a0a496751c2d0d9fb4f32a3c3476cb1641e63ca31ff8ade5c5f3",
+        "gitBlobSha": "6d4534bed74f52310a9cc8f05ea92a5a97603d05",
+        "bytes": 256576,
+        "pixels": [
+          941,
+          1672
+        ],
+        "appBinaryMatch": true,
+        "mirrorBinaryMatch": true,
+        "visualQA": "PASS_MANUAL_REFERENCE_REVIEW"
+      },
+      "ZH_HSK2_SC025": {
+        "sha256": "3d889c1884c03ced8b30e917edfea2c73f8165e449afe8aeee40458bfce9e383",
+        "gitBlobSha": "8f8dcf66f069a1712fbb78991c22a90186bb4b81",
+        "bytes": 233444,
+        "pixels": [
+          941,
+          1672
+        ],
+        "appBinaryMatch": true,
+        "mirrorBinaryMatch": true,
+        "visualQA": "PASS_MANUAL_REFERENCE_REVIEW"
+      }
+    },
+    "passedHsk2Count": 44,
+    "remainingCorrectionSceneIds": [
+      "ZH_HSK2_SC026",
+      "ZH_HSK2_SC027",
+      "ZH_HSK2_SC030",
+      "ZH_HSK2_SC033",
+      "ZH_HSK2_SC034",
+      "ZH_HSK2_SC035"
+    ],
+    "actionsRun": false,
+    "buildTriggered": false,
+    "commitMarker": "[skip ci]"
   }
 }

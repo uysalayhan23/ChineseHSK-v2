@@ -32,12 +32,12 @@ Kaynak: `chinese_hsk_android_github/visual_sources/visual_batch_status.json` (20
 - `ZH_HSK2_SC021`: 941×1672 WebP adayı (SHA256 `da7f2461f01dbc64c077bac532819ae464b736b07e01443b76fe38fd4378de0f`) üç doğru karakter, erkek Lele, kütüphane kartı ve banko içerir. Liu Mei'nin canonical yüz/saç sürekliliği henüz onaylanmadı. Final kabul edilmedi.
 - **GitHub app/runtime binary değişmedi; QA `FAIL`, durum `CORRECTION_REQUIRED`.** Görseller geçerli LOCKED_V2 QA tamamlanana kadar kuyruğa açık kalır. Actions/CI kullanılmadı.
 
-### HSK2: 10 düzeltme — 2/10 kapandı, 8 açık
+### HSK2: 10 düzeltme — 4/10 kapandı, 6 açık
 
 - [x] `ZH_HSK2_SC020` — 2026-10-10 R5: correct WebP SHA256 + Git blob + app/runtime mirror + LOCKED_V2 QA PASS
 - [x] `ZH_HSK2_SC021` — 2026-10-10 R5: correct WebP SHA256 + Git blob + app/runtime mirror + LOCKED_V2 QA PASS
-- [ ] `ZH_HSK2_SC023` — extra_non_dialogue_prominent_character
-- [ ] `ZH_HSK2_SC025` — LiChen_identity_drift_missing_signature_glasses
+- [x] `ZH_HSK2_SC023` — 2026-10-11 R10: exact cast + cake order context + canonical QA + SHA/mirror PASS
+- [x] `ZH_HSK2_SC025` — 2026-10-11 R10: exact cast + rectangular-glasses Li Chen + teahouse + SHA/mirror PASS
 - [ ] `ZH_HSK2_SC026` — Lele_wrong_gender
 - [ ] `ZH_HSK2_SC027` — Lele_wrong_gender
 - [ ] `ZH_HSK2_SC030` — Lele_wrong_gender
@@ -169,3 +169,12 @@ GitHub bağlantısında **yazma/commit izni aktif**; ancak son üretilen yerel b
 - `ZH_HSK2_SC025`: yeni 941×1672 WebP, 233444 bayt, SHA256 `3d889c1884c03ced8b30e917edfea2c73f8165e449afe8aeee40458bfce9e383`, beklenen Git blob `8f8dcf66f069a1712fbb78991c22a90186bb4b81`. Aday QA/kimlik kapısı **PENDING**.
 
 Güncel sahne durumu halen `FAIL/CORRECTION_REQUIRED`. `ci/runtime_visuals` değiştirilmedi, önceki app/runtime eşleşmesi bozulmadı. GitHub'a gerçekten aktarım yapılmadıkça PASS yazılmamalı. Actions kullanılmadı; bu yalnız doğru aday checksum'larını kaydeden `[skip ci]` metaveri commitidir.
+
+### 2026-10-11 R10 — SC023 ve SC025 binary transfer ve LOCKED_V2 QA kabulü
+
+**R9 bekleme durumu kapandı.** İki gerçek 941×1672 WebP binary GitHub Git Blob API ile yüklendi. App authoritative asset + `ci/runtime_visuals` aynı, doğrulanmış blob SHA ile eşlendi. LOCKED_V2 kadro, sahne, kritikleri ve HSK1_SC001/HSK2_SC024 stil/kimlik ön kontrolü PASS.
+
+- [x] `ZH_HSK2_SC023`: SHA256 `73d4cdae2b17a0a496751c2d0d9fb4f32a3c3476cb1641e63ca31ff8ade5c5f3` · Git blob `6d4534bed74f52310a9cc8f05ea92a5a97603d05` · 256576 bayt · qaStatus `PASS` · status `FINAL_SOURCE_OVERRIDE`.
+- [x] `ZH_HSK2_SC025`: SHA256 `3d889c1884c03ced8b30e917edfea2c73f8165e449afe8aeee40458bfce9e383` · Git blob `8f8dcf66f069a1712fbb78991c22a90186bb4b81` · 233444 bayt · qaStatus `PASS` · status `FINAL_SOURCE_OVERRIDE`.
+
+HSK2 kabul sayısı **44/50**, açık düzeltme **6**: `ZH_HSK2_SC026`, `ZH_HSK2_SC027`, `ZH_HSK2_SC030`, `ZH_HSK2_SC033`, `ZH_HSK2_SC034`, `ZH_HSK2_SC035`. Önceki R6/R8 reddedilen farklı adaylar tarihsel kayıttır; **R10 son karardır.** Actions çalıştırılmadı, committe `[skip ci]`.
