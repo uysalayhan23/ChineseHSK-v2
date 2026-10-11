@@ -2534,10 +2534,10 @@
       "ZH_HSK2_SC020",
       "ZH_HSK2_SC021",
       "ZH_HSK2_SC023",
-      "ZH_HSK2_SC025"
+      "ZH_HSK2_SC025",
+      "ZH_HSK2_SC026"
     ],
     "correctionRequiredSceneIds": [
-      "ZH_HSK2_SC026",
       "ZH_HSK2_SC027",
       "ZH_HSK2_SC030",
       "ZH_HSK2_SC033",
@@ -2545,9 +2545,6 @@
       "ZH_HSK2_SC035"
     ],
     "reasons": {
-      "ZH_HSK2_SC026": [
-        "Lele_wrong_gender"
-      ],
       "ZH_HSK2_SC027": [
         "Lele_wrong_gender"
       ],
@@ -2579,12 +2576,13 @@
       "ZH_HSK2_SC020",
       "ZH_HSK2_SC021",
       "ZH_HSK2_SC023",
-      "ZH_HSK2_SC025"
+      "ZH_HSK2_SC025",
+      "ZH_HSK2_SC026"
     ],
     "appRuntimeMirrorBlobCheck": "PASS_ALL_50",
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
-    "noteTr": "HSK2 SC001-SC050 gerçek görseller tek tek görsel QA ile yeniden denetlendi. SC013 önceki false-positive'den PASS'e döndürüldü. Lele cinsiyet kilidi, exact cast ve Li Chen kimlik kilidi ihlali olan 10 sahne CORRECTION_REQUIRED; diğer sahneler korunuyor. Actions çalıştırılmadı. 2026-10-10 R5: SC020, SC021 yeni doğru WebP ile 2/10 onarım kapatıldı; kalan 8/10. App ve runtime mirror aynı Git blob. Actions yok. 2026-10-11 R10: SC023/SC025 accepted; real WebP binary Git blob transferred through temporary text transport, app/runtime mirrors matched, visual QA PASS. HSK2 now 44/50 PASS, 6 correction open. GitHub Actions not run."
+    "noteTr": "HSK2 SC001-SC050 gerçek görseller tek tek görsel QA ile yeniden denetlendi. SC013 önceki false-positive'den PASS'e döndürüldü. Lele cinsiyet kilidi, exact cast ve Li Chen kimlik kilidi ihlali olan 10 sahne CORRECTION_REQUIRED; diğer sahneler korunuyor. Actions çalıştırılmadı. 2026-10-10 R5: SC020, SC021 yeni doğru WebP ile 2/10 onarım kapatıldı; kalan 8/10. App ve runtime mirror aynı Git blob. Actions yok. 2026-10-11 R10: SC023/SC025 accepted; real WebP binary Git blob transferred through temporary text transport, app/runtime mirrors matched, visual QA PASS. HSK2 now 44/50 PASS, 6 correction open. GitHub Actions not run. 2026-10-11 R12: SC026 gerçek WebP Git blob yüklendi; erkek Lele, Zhang Wei gözlüğü, tam dört kişi; QA PASS; app/runtime mirror eş. 45/50 PASS, 5 açık. Actions kullanılmadı."
   },
   "hsk3Sc001Sc008VisualQaR1": {
     "auditDate": "2026-10-10",
@@ -3917,7 +3915,7 @@
     "auditDate": "2026-10-11",
     "manifestVersion": "LOCKED_V2",
     "referenceSceneId": "ZH_HSK1_SC001",
-    "status": "CORRECTION_REQUIRED_GENERATION_PENDING",
+    "status": "PARTIALLY_CLOSED_R12_SUPERSEDES_SC026",
     "openScenes": {
       "ZH_HSK2_SC026": {
         "expectedCast": [
@@ -4036,6 +4034,29 @@
     "acceptedNewWebpCount": 0,
     "appMirrorChanged": false,
     "actionsRun": false,
-    "reportPath": "docs/visuals/HSK2_OPEN_SC026_SC035_EXACT_REPAIR_BRIEFS_R11_2026-10-11_TR.md"
+    "reportPath": "docs/visuals/HSK2_OPEN_SC026_SC035_EXACT_REPAIR_BRIEFS_R11_2026-10-11_TR.md",
+    "closedByR12": [
+      "ZH_HSK2_SC026"
+    ]
+  },
+  "hsk2Sc026FinalAcceptanceR12": {
+    "auditDate": "2026-10-11",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "status": "PASS",
+    "bytes": 450862,
+    "pixels": [
+      941,
+      1672
+    ],
+    "sha256": "e92b4ef511b43e0aafb14ba998d60c37570dab1c6675c7fd85a424cc313190ad",
+    "gitBlobSha": "75d089dd7f5969bd91d941ac9ea25237de775493",
+    "appAssetMirrorEqual": true,
+    "QA": "PASS_VISUAL_INSPECTION",
+    "leleGender": "BOY",
+    "zhangWeiGlasses": true,
+    "actionsRun": false,
+    "passes": 45,
+    "remaining": 5
   }
 }

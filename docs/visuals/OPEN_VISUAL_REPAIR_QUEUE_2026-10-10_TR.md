@@ -32,13 +32,13 @@ Kaynak: `chinese_hsk_android_github/visual_sources/visual_batch_status.json` (20
 - `ZH_HSK2_SC021`: 941×1672 WebP adayı (SHA256 `da7f2461f01dbc64c077bac532819ae464b736b07e01443b76fe38fd4378de0f`) üç doğru karakter, erkek Lele, kütüphane kartı ve banko içerir. Liu Mei'nin canonical yüz/saç sürekliliği henüz onaylanmadı. Final kabul edilmedi.
 - **GitHub app/runtime binary değişmedi; QA `FAIL`, durum `CORRECTION_REQUIRED`.** Görseller geçerli LOCKED_V2 QA tamamlanana kadar kuyruğa açık kalır. Actions/CI kullanılmadı.
 
-### HSK2: 10 düzeltme — 4/10 kapandı, 6 açık
+### HSK2: 10 düzeltme — 5/10 kapandı, 5 açık
 
 - [x] `ZH_HSK2_SC020` — 2026-10-10 R5: correct WebP SHA256 + Git blob + app/runtime mirror + LOCKED_V2 QA PASS
 - [x] `ZH_HSK2_SC021` — 2026-10-10 R5: correct WebP SHA256 + Git blob + app/runtime mirror + LOCKED_V2 QA PASS
 - [x] `ZH_HSK2_SC023` — 2026-10-11 R10: exact cast + cake order context + canonical QA + SHA/mirror PASS
 - [x] `ZH_HSK2_SC025` — 2026-10-11 R10: exact cast + rectangular-glasses Li Chen + teahouse + SHA/mirror PASS
-- [ ] `ZH_HSK2_SC026` — Lele_wrong_gender
+- [x] `ZH_HSK2_SC026` — 2026-10-11 R12: ERKEK Lele + gözlüklü Zhang Wei + dört kişilik yağmurlu sabah, Git blob / app-mirror / LOCKED_V2 QA PASS
 - [ ] `ZH_HSK2_SC027` — Lele_wrong_gender
 - [ ] `ZH_HSK2_SC030` — Lele_wrong_gender
 - [ ] `ZH_HSK2_SC033` — extra_non_dialogue_children
@@ -189,3 +189,9 @@ Mevcut 6 sahne görselleri tekrar tek tek görsel QA ile denetlendi. Ayrıntıl�
 - SC026 için iki yeni aday yanlış pasta dükkânı sahnesi ürettiği için reddedildi, GitHub'a eklenmedi.
 
 Görseller henüz değiştirilmedi: **44/50 PASS, 6 açık**. App/runtime korunur; Actions kullanılmadı ve `[skip ci]`.
+
+### 2026-10-11 R12 — HSK2_SC026 WebP gerçek binary kabulü
+
+`ZH_HSK2_SC026.webp` (941×1672, 450862 bayt) GitHub Git Blob API ile aktarılıp hem app authoritative hem `ci/runtime_visuals` yoluna **aynı blob** ile yazıldı. SHA256 `e92b4ef511b43e0aafb14ba998d60c37570dab1c6675c7fd85a424cc313190ad`; Git blob `75d089dd7f5969bd91d941ac9ea25237de775493`.
+
+Sahne: dört kişi yalnızca gözlüklü Zhang Wei, Liu Mei, daha büyük kız Yutong, **erkek Lele**; yağmur, ıslak yol ve okul çantaları. QA `PASS`, metadata `FINAL_SOURCE_OVERRIDE`. Önceki R11 üretim hataları tarihseldir. HSK2 **45/50 PASS**, 5 açık. Actions çalıştırılmadı; `[skip ci]`.

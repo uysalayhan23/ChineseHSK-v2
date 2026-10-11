@@ -30,7 +30,7 @@
     "previousSceneId": "ZH_HSK2_SC025",
     "nextSceneId": "ZH_HSK2_SC027"
   },
-  "sourceGeneratedFilename": "yağmurda_ailece_neşeli_koşu.png",
+  "sourceGeneratedFilename": "yağmurda_okula_koşan_aile.png",
   "finalAssetFilename": "ZH_HSK2_SC026.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK2_SC026.webp",
   "image": {
@@ -38,7 +38,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "638a71acd409e60f5c1697012eb236066babc316a6da460a3d929a023969bd90"
+    "sha256": "e92b4ef511b43e0aafb14ba998d60c37570dab1c6675c7fd85a424cc313190ad",
+    "bytes": 450862,
+    "gitBlobSha": "75d089dd7f5969bd91d941ac9ea25237de775493"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -56,25 +58,62 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: Lele_wrong_gender. Character bible ve HSK1_SC001 referansına göre düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-11 R12 LOCKED_V2: yağmurlu okul sabahında yalnız Liu Mei, ERKEK Lele, büyük kız Yutong ve gözlüklü Zhang Wei. Yoğun yağmur, ıslak yol, okul çantaları; 941×1672 gerçek WebP. SHA256/Git blob ile app/runtime eşleşti. Önceki R2 yanlış cinsiyetli görsel kabul edilmedi; R12 yeni asset kabulüdür. Canonical yüz/stil incelemesi görsel niteliklidir; otomatik biyometrik doğrulama yapılmadı.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "Lele_wrong_gender"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10",
+    "manualIdentityReview": "PASS_VISUAL_REFERENCE_BASED",
+    "finalAudit": "HSK2_SC026_R12_2026-10-11"
+  },
+  "finalAcceptanceR12": {
+    "acceptedDate": "2026-10-11",
+    "sceneId": "ZH_HSK2_SC026",
+    "manifestVersion": "LOCKED_V2",
+    "status": "PASS",
+    "sourceGeneratedFilename": "yağmurda_okula_koşan_aile.png",
+    "finalAssetFilename": "ZH_HSK2_SC026.webp",
+    "bytes": 450862,
+    "pixels": [
+      941,
+      1672
     ],
-    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+    "sha256": "e92b4ef511b43e0aafb14ba998d60c37570dab1c6675c7fd85a424cc313190ad",
+    "gitBlobSha": "75d089dd7f5969bd91d941ac9ea25237de775493",
+    "exactCast": [
+      "刘梅",
+      "张乐乐",
+      "张雨桐",
+      "张伟"
+    ],
+    "leleGender": "BOY",
+    "zhangWeiGlasses": true,
+    "objects": [
+      "yoğun yağmur",
+      "okul çantaları",
+      "ıslak yürüyüş yolu",
+      "acele eden aile"
+    ],
+    "noExtraPeople": true,
+    "noText": true,
+    "noCollage": true,
+    "vertical": "9:16",
+    "manualVisualQa": "PASS",
+    "automatedIdentityEmbeddingQa": "NOT_RUN",
+    "appRuntimeMirror": "PASS_IDENTICAL_GIT_BLOB",
+    "actionsRun": false
   }
 }
