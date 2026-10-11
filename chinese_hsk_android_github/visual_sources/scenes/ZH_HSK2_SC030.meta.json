@@ -30,7 +30,7 @@
     "previousSceneId": "ZH_HSK2_SC029",
     "nextSceneId": "ZH_HSK2_SC031"
   },
-  "sourceGeneratedFilename": "ZH_HSK2_SC030.webp",
+  "sourceGeneratedFilename": "güneşli_meydanda_neşeli_aile_yürüyüşü.png",
   "finalAssetFilename": "ZH_HSK2_SC030.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK2_SC030.webp",
   "image": {
@@ -38,7 +38,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "d573efbd7db2d34d650cefe21c28c944ad5717c5378bd189ea92cf4876997394"
+    "sha256": "e43ec115e8d511fffce1a26a48a9c2d6b35453975b23ed59972b92506d80b8c5",
+    "bytes": 359078,
+    "gitBlobSha": "7c12d74e0237f9e0a3b2ba2a6c11e7cc5cf72ea4"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -56,25 +58,61 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: Lele_wrong_gender. Character bible ve HSK1_SC001 referansına göre düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-11 R14: Kasaba meydanı ziyaretinde yalnız gözlüklü Zhang Wei, Liu Mei, büyük kız Yutong ve kısa koyu saçlı ERKEK Lele. Banka için klasik sütunlu mimari, postane için tuğla kamu binası; park/fıskiye. Metinsiz, logosuz, ekstra figürsüz tek sahne 941×1672 WebP. SHA256/Git blob ve app/runtime mirror eşleşmesi PASS. Otomatik kimlik vektörü doğrulaması yapılmadı; canonical stil manuel görsel incelemeye dayanır.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "Lele_wrong_gender"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10",
+    "manualIdentityReview": "PASS_VISUAL_REFERENCE_BASED",
+    "finalAudit": "HSK2_SC030_R14_2026-10-11"
+  },
+  "finalAcceptanceR14": {
+    "acceptedDate": "2026-10-11",
+    "sceneId": "ZH_HSK2_SC030",
+    "manifestVersion": "LOCKED_V2",
+    "status": "PASS",
+    "sourceGeneratedFilename": "güneşli_meydanda_neşeli_aile_yürüyüşü.png",
+    "finalAssetFilename": "ZH_HSK2_SC030.webp",
+    "bytes": 359078,
+    "pixels": [
+      941,
+      1672
     ],
-    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+    "sha256": "e43ec115e8d511fffce1a26a48a9c2d6b35453975b23ed59972b92506d80b8c5",
+    "gitBlobSha": "7c12d74e0237f9e0a3b2ba2a6c11e7cc5cf72ea4",
+    "exactCast": [
+      "张伟",
+      "刘梅",
+      "张乐乐",
+      "张雨桐"
+    ],
+    "leleGender": "BOY",
+    "zhangWeiGlasses": true,
+    "objects": [
+      "meydan",
+      "sütunlu banka mimarisi",
+      "tuğla postane mimarisi",
+      "park/fıskiye"
+    ],
+    "noExtraPeople": true,
+    "noText": true,
+    "noCollage": true,
+    "manualVisualQa": "PASS",
+    "automatedIdentityEmbeddingQa": "NOT_RUN",
+    "appRuntimeMirror": "PASS_IDENTICAL_GIT_BLOB",
+    "actionsRun": false
   }
 }

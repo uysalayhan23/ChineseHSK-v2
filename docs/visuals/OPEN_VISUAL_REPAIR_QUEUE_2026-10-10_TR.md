@@ -32,7 +32,7 @@ Kaynak: `chinese_hsk_android_github/visual_sources/visual_batch_status.json` (20
 - `ZH_HSK2_SC021`: 941×1672 WebP adayı (SHA256 `da7f2461f01dbc64c077bac532819ae464b736b07e01443b76fe38fd4378de0f`) üç doğru karakter, erkek Lele, kütüphane kartı ve banko içerir. Liu Mei'nin canonical yüz/saç sürekliliği henüz onaylanmadı. Final kabul edilmedi.
 - **GitHub app/runtime binary değişmedi; QA `FAIL`, durum `CORRECTION_REQUIRED`.** Görseller geçerli LOCKED_V2 QA tamamlanana kadar kuyruğa açık kalır. Actions/CI kullanılmadı.
 
-### HSK2: 10 düzeltme — 6/10 kapandı, 4 açık
+### HSK2: 10 düzeltme — 7/10 kapandı, 3 açık
 
 - [x] `ZH_HSK2_SC020` — 2026-10-10 R5: correct WebP SHA256 + Git blob + app/runtime mirror + LOCKED_V2 QA PASS
 - [x] `ZH_HSK2_SC021` — 2026-10-10 R5: correct WebP SHA256 + Git blob + app/runtime mirror + LOCKED_V2 QA PASS
@@ -40,7 +40,7 @@ Kaynak: `chinese_hsk_android_github/visual_sources/visual_batch_status.json` (20
 - [x] `ZH_HSK2_SC025` — 2026-10-11 R10: exact cast + rectangular-glasses Li Chen + teahouse + SHA/mirror PASS
 - [x] `ZH_HSK2_SC026` — 2026-10-11 R12: ERKEK Lele + gözlüklü Zhang Wei + dört kişilik yağmurlu sabah, Git blob / app-mirror / LOCKED_V2 QA PASS
 - [x] `ZH_HSK2_SC027` — 2026-10-11 R13: erkek Lele, mendilli Liu Mei, gözlüklü Zhang Wei, ev ve süt dişi; Git blob / app-mirror / LOCKED_V2 QA PASS
-- [ ] `ZH_HSK2_SC030` — Lele_wrong_gender
+- [x] `ZH_HSK2_SC030` — 2026-10-11 R14: erkek Lele + gözlüklü Zhang Wei, tam 4 kişi, banka / postane / fıskiye, Git blob / app-mirror / LOCKED_V2 QA PASS
 - [ ] `ZH_HSK2_SC033` — extra_non_dialogue_children
 - [ ] `ZH_HSK2_SC034` — Lele_wrong_gender
 - [ ] `ZH_HSK2_SC035` — extra_non_dialogue_prominent_characters
@@ -199,3 +199,7 @@ Sahne: dört kişi yalnızca gözlüklü Zhang Wei, Liu Mei, daha büyük kız Y
 ### 2026-10-11 R13 — HSK2_SC027 doğrulanmış WebP QA kabulü
 
 Gerçek `ZH_HSK2_SC027.webp` (941×1672, 247674 bayt) GitHub'a blob olarak aktarıldı. SHA256 `8867030a1d45de631624eb9a3b55c70adbc2066a9f70eeef5ce30630a0013147`, Git blob `3ddc24547fe53190f055084932211d0c39164ea3`. Aynı binary hem app authoritative hem `ci/runtime_visuals` yollarına yazıldı. Yalnız erkek Lele, Liu Mei ve gözlüklü Zhang Wei; düşen süt dişi ve mendil ev oturma alanında. Metadata `PASS / FINAL_SOURCE_OVERRIDE`. HSK2 **46/50 PASS, 4 açık**. Actions çalıştırılmadı, commit `[skip ci]`.
+
+### 2026-10-11 R14 — HSK2_SC030 kasaba gezisi doğrulanmış binary kabulü
+
+Görsel yeniden üretilmedi; daha önce hazırlanan **`güneşli_meydanda_neşeli_aile_yürüyüşü.png`** adayı seçildi. Gerçek WebP `ZH_HSK2_SC030.webp`: 941×1672, 359078 bayt, SHA256 `e43ec115e8d511fffce1a26a48a9c2d6b35453975b23ed59972b92506d80b8c5`; Git blob `7c12d74e0237f9e0a3b2ba2a6c11e7cc5cf72ea4`. App ve `ci/runtime_visuals` aynı Git blob. Dört kişilik doğru aile, erkek Lele, gözlüklü baba, iki farklı kamu binası ve çeşme; yazı/ekstra kişi yok. QA `PASS`, status `FINAL_SOURCE_OVERRIDE`. Toplam HSK2 **47/50 PASS**, 3 açık: SC033, SC034, SC035. Actions çalıştırılmadı; commit `[skip ci]`.
