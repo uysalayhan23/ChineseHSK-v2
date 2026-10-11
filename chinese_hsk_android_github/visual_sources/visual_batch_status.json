@@ -3834,5 +3834,40 @@
     "actionsRun": false,
     "buildTriggered": false,
     "notesTr": "SC023/025 yeni WebP'ler GitHub app source dalına yüklenmişti, Git blob SHA yerel dosyayla eşleşiyor. Ancak HSK1_SC001 ve SC024 canonical çizim yüz/stili yerine farklı fotogerçekçi CGI yüzler var. LOCKED_V2 QA FAIL. Yüklemeler önceki commitlerde kalır, app assetleri mirror'daki eski Git blob'a döndürüldü; mirror hiç değiştirilmedi."
+  },
+  "hsk2Sc023Sc025CandidateAuditR9": {
+    "auditDate": "2026-10-11",
+    "scope": [
+      "ZH_HSK2_SC023",
+      "ZH_HSK2_SC025"
+    ],
+    "manifestVersion": "LOCKED_V2",
+    "status": "NEW_CANDIDATES_LOCAL_GITHUB_BINARY_PENDING",
+    "candidates": {
+      "ZH_HSK2_SC023": {
+        "sha256": "73d4cdae2b17a0a496751c2d0d9fb4f32a3c3476cb1641e63ca31ff8ade5c5f3",
+        "expectedGitBlobSha": "6d4534bed74f52310a9cc8f05ea92a5a97603d05",
+        "bytes": 256576,
+        "dimensions": [
+          941,
+          1672
+        ]
+      },
+      "ZH_HSK2_SC025": {
+        "sha256": "3d889c1884c03ced8b30e917edfea2c73f8165e449afe8aeee40458bfce9e383",
+        "expectedGitBlobSha": "8f8dcf66f069a1712fbb78991c22a90186bb4b81",
+        "bytes": 233444,
+        "dimensions": [
+          941,
+          1672
+        ]
+      }
+    },
+    "githubWriteConnectorEnabled": true,
+    "binaryTransferred": false,
+    "runtimeMirrorUpdated": false,
+    "metadataAccepted": false,
+    "actionsRun": false,
+    "remainingHsk2Corrections": 8
   }
 }

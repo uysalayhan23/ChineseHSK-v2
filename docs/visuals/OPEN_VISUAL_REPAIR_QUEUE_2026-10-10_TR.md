@@ -160,3 +160,12 @@ Her ikisi 941×1672, 3 yetişkin, doğru sahne bağlamı ve kritik objeler için
 - Uygun olmayan dosyaları kullanıcının kaynak repodaki geçmiş commitinde koruyarak `app/src/main/assets/chinese_course/media/scenes` içindeki iki asset önceki mirror Git bloblarına geri döndürüldü. `ci/runtime_visuals` eski blobları korunuyor; app/runtime tekrar eşleşiyor.
 - QA `FAIL / CORRECTION_REQUIRED` kaldı; HSK2 onarım 2/10 kapanmış, **8 açık**. GitHub Actions kullanılmadı, commit `[skip ci]`.
 
+
+### 2026-10-11 R9 — Yeni SC023/SC025 adaylarının checksum kaydı
+
+GitHub bağlantısında **yazma/commit izni aktif**; ancak son üretilen yerel binary'ler GitHub'a yüklenmiş değil. Önceki R8 reddedilen adaylarla karıştırma:
+
+- `ZH_HSK2_SC023`: yeni 941×1672 WebP, 256576 bayt, SHA256 `73d4cdae2b17a0a496751c2d0d9fb4f32a3c3476cb1641e63ca31ff8ade5c5f3`, beklenen Git blob `6d4534bed74f52310a9cc8f05ea92a5a97603d05`. Aday QA/kimlik kapısı **PENDING**.
+- `ZH_HSK2_SC025`: yeni 941×1672 WebP, 233444 bayt, SHA256 `3d889c1884c03ced8b30e917edfea2c73f8165e449afe8aeee40458bfce9e383`, beklenen Git blob `8f8dcf66f069a1712fbb78991c22a90186bb4b81`. Aday QA/kimlik kapısı **PENDING**.
+
+Güncel sahne durumu halen `FAIL/CORRECTION_REQUIRED`. `ci/runtime_visuals` değiştirilmedi, önceki app/runtime eşleşmesi bozulmadı. GitHub'a gerçekten aktarım yapılmadıkça PASS yazılmamalı. Actions kullanılmadı; bu yalnız doğru aday checksum'larını kaydeden `[skip ci]` metaveri commitidir.

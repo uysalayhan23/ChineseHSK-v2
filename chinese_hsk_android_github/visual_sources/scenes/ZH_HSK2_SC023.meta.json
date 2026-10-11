@@ -166,5 +166,25 @@
     "qaPassAssigned": false,
     "actionsRun": false,
     "notesTr": "Yeni WebP GitHub'a yüklendi, yerel blob kimliğiyle eşleşti ancak canonical yüz ve HSK1_SC001 stil sürekliliği nedeniyle LOCKED_V2 QA'dan kaldı. Yanlış final asset bırakmamak için app path eski mirror Git blob'una geri alındı. Yüklenen binary önceki Git commitinde korunur."
+  },
+  "candidateAuditR9": {
+    "auditDate": "2026-10-11",
+    "manifestVersion": "LOCKED_V2",
+    "sourceName": "pastalı_tasarım_sohbeti.png",
+    "candidateFilename": "ZH_HSK2_SC023.webp",
+    "candidateSha256": "73d4cdae2b17a0a496751c2d0d9fb4f32a3c3476cb1641e63ca31ff8ade5c5f3",
+    "candidateGitBlobSha": "6d4534bed74f52310a9cc8f05ea92a5a97603d05",
+    "candidateBytes": 256576,
+    "dimensions": [
+      941,
+      1672
+    ],
+    "contentPreflight": "Liu Mei, adult neighbor, Zhang Wei; cake designs and order notebook",
+    "canonicalIdentityApproval": "PENDING",
+    "status": "LOCAL_BINARY_READY_GITHUB_TRANSFER_PENDING",
+    "appAssetUploaded": false,
+    "appRuntimeMirrorMatchedForCandidate": false,
+    "actionsRun": false,
+    "descriptionTr": "GitHub bağlantı/yazma izni mevcut. Bu yeni WebP'nin fiziksel binary içeriği GitHub blob'una henüz aktarılmadı; önceki adayların R8 FAIL sonucu tarihsel olarak korunuyor. Gerçek dosya yüklenmeden QA PASS verme."
   }
 }

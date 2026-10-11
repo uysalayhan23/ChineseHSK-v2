@@ -168,5 +168,25 @@
     "qaPassAssigned": false,
     "actionsRun": false,
     "notesTr": "Yeni WebP GitHub'a yüklendi, yerel blob kimliğiyle eşleşti ancak canonical yüz ve HSK1_SC001 stil sürekliliği nedeniyle LOCKED_V2 QA'dan kaldı. Yanlış final asset bırakmamak için app path eski mirror Git blob'una geri alındı. Yüklenen binary önceki Git commitinde korunur."
+  },
+  "candidateAuditR9": {
+    "auditDate": "2026-10-11",
+    "manifestVersion": "LOCKED_V2",
+    "sourceName": "sıcak_çay_evi_sohbeti.png",
+    "candidateFilename": "ZH_HSK2_SC025.webp",
+    "candidateSha256": "3d889c1884c03ced8b30e917edfea2c73f8165e449afe8aeee40458bfce9e383",
+    "candidateGitBlobSha": "8f8dcf66f069a1712fbb78991c22a90186bb4b81",
+    "candidateBytes": 233444,
+    "dimensions": [
+      941,
+      1672
+    ],
+    "contentPreflight": "Zhang Wei, rectangular-glasses Li Chen, Liu Mei; teahouse and teaware",
+    "canonicalIdentityApproval": "PENDING",
+    "status": "LOCAL_BINARY_READY_GITHUB_TRANSFER_PENDING",
+    "appAssetUploaded": false,
+    "appRuntimeMirrorMatchedForCandidate": false,
+    "actionsRun": false,
+    "descriptionTr": "GitHub bağlantı/yazma izni mevcut. Bu yeni WebP'nin fiziksel binary içeriği GitHub blob'una henüz aktarılmadı; önceki adayların R8 FAIL sonucu tarihsel olarak korunuyor. Gerçek dosya yüklenmeden QA PASS verme."
   }
 }
