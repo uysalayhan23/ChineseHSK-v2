@@ -2538,16 +2538,13 @@
       "ZH_HSK2_SC026",
       "ZH_HSK2_SC027",
       "ZH_HSK2_SC030",
-      "ZH_HSK2_SC033"
+      "ZH_HSK2_SC033",
+      "ZH_HSK2_SC034"
     ],
     "correctionRequiredSceneIds": [
-      "ZH_HSK2_SC034",
       "ZH_HSK2_SC035"
     ],
     "reasons": {
-      "ZH_HSK2_SC034": [
-        "Lele_wrong_gender"
-      ],
       "ZH_HSK2_SC035": [
         "extra_non_dialogue_prominent_characters"
       ]
@@ -2571,12 +2568,13 @@
       "ZH_HSK2_SC026",
       "ZH_HSK2_SC027",
       "ZH_HSK2_SC030",
-      "ZH_HSK2_SC033"
+      "ZH_HSK2_SC033",
+      "ZH_HSK2_SC034"
     ],
     "appRuntimeMirrorBlobCheck": "PASS_ALL_50",
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
-    "noteTr": "HSK2 SC001-SC050 gerçek görseller tek tek görsel QA ile yeniden denetlendi. SC013 önceki false-positive'den PASS'e döndürüldü. Lele cinsiyet kilidi, exact cast ve Li Chen kimlik kilidi ihlali olan 10 sahne CORRECTION_REQUIRED; diğer sahneler korunuyor. Actions çalıştırılmadı. 2026-10-10 R5: SC020, SC021 yeni doğru WebP ile 2/10 onarım kapatıldı; kalan 8/10. App ve runtime mirror aynı Git blob. Actions yok. 2026-10-11 R10: SC023/SC025 accepted; real WebP binary Git blob transferred through temporary text transport, app/runtime mirrors matched, visual QA PASS. HSK2 now 44/50 PASS, 6 correction open. GitHub Actions not run. 2026-10-11 R12: SC026 gerçek WebP Git blob yüklendi; erkek Lele, Zhang Wei gözlüğü, tam dört kişi; QA PASS; app/runtime mirror eş. 45/50 PASS, 5 açık. Actions kullanılmadı. 2026-10-11 R13: SC027 new boy Lele, Liu Mei and glasses Zhang Wei; real WebP Git blob, app/runtime mirror PASS. 46/50 PASS, 4 correction open. Actions not run. 2026-10-11 R14: SC030 4-person town center scene, boy Lele, glasses Zhang Wei and correct bank/post office/fountain visual cues; binary and app/runtime mirror SHA PASS. Now 47/50 accepted; 3 corrections remain. 2026-10-11 R15 SC033 passed exact four adults and no children; SHA256/Git blob app and runtime identical. HSK2 48/50 PASS, 2 remaining. Actions not run."
+    "noteTr": "HSK2 SC001-SC050 gerçek görseller tek tek görsel QA ile yeniden denetlendi. SC013 önceki false-positive'den PASS'e döndürüldü. Lele cinsiyet kilidi, exact cast ve Li Chen kimlik kilidi ihlali olan 10 sahne CORRECTION_REQUIRED; diğer sahneler korunuyor. Actions çalıştırılmadı. 2026-10-10 R5: SC020, SC021 yeni doğru WebP ile 2/10 onarım kapatıldı; kalan 8/10. App ve runtime mirror aynı Git blob. Actions yok. 2026-10-11 R10: SC023/SC025 accepted; real WebP binary Git blob transferred through temporary text transport, app/runtime mirrors matched, visual QA PASS. HSK2 now 44/50 PASS, 6 correction open. GitHub Actions not run. 2026-10-11 R12: SC026 gerçek WebP Git blob yüklendi; erkek Lele, Zhang Wei gözlüğü, tam dört kişi; QA PASS; app/runtime mirror eş. 45/50 PASS, 5 açık. Actions kullanılmadı. 2026-10-11 R13: SC027 new boy Lele, Liu Mei and glasses Zhang Wei; real WebP Git blob, app/runtime mirror PASS. 46/50 PASS, 4 correction open. Actions not run. 2026-10-11 R14: SC030 4-person town center scene, boy Lele, glasses Zhang Wei and correct bank/post office/fountain visual cues; binary and app/runtime mirror SHA PASS. Now 47/50 accepted; 3 corrections remain. 2026-10-11 R15 SC033 passed exact four adults and no children; SHA256/Git blob app and runtime identical. HSK2 48/50 PASS, 2 remaining. Actions not run. 2026-10-11 R16: SC034 four-person cleanup with boy Lele, Zhang Wei signature glasses, adult community worker; 941x1672 WebP SHA256 verified, app/runtime Git blob match. HSK2 49/50 PASS, 1 correction open. Actions not triggered."
   },
   "hsk3Sc001Sc008VisualQaR1": {
     "auditDate": "2026-10-10",
@@ -3909,7 +3907,7 @@
     "auditDate": "2026-10-11",
     "manifestVersion": "LOCKED_V2",
     "referenceSceneId": "ZH_HSK1_SC001",
-    "status": "PARTIALLY_CLOSED_R12_R15",
+    "status": "PARTIALLY_CLOSED_R12_R16",
     "openScenes": {
       "ZH_HSK2_SC026": {
         "expectedCast": [
@@ -4003,7 +4001,7 @@
         "rejectedBlob": "93ef01dafcff054eb64c9538d43a7e44506a883a",
         "observedFailure": "Lele kız; Zhang Wei gözlüksüz; arka planda figürler",
         "productionDirective": "Yalnız gözlüklü Zhang Wei, Liu Mei, bir yetişkin toplum çalışanı, erkek Lele. Toplum merkezi önünde temizlik, eldiven, toplama maşası, geri dönüşüm torbası; başka kişi yok.",
-        "status": "CORRECTION_REQUIRED"
+        "status": "ACCEPTED_R16"
       },
       "ZH_HSK2_SC035": {
         "expectedCast": [
@@ -4113,5 +4111,26 @@
     "actionsRun": false,
     "passedHsk2Count": 48,
     "remainingHsk2Corrections": 2
+  },
+  "hsk2Sc034FinalAcceptanceR16": {
+    "auditDate": "2026-10-11",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "status": "PASS",
+    "sha256": "e488222c839af824c21d1220821707bcbcb1077ec45c71d2a3c2f86ddf59186c",
+    "gitBlobSha": "c3e67f4af3132fc91accf6e42a55f981c0ccf72a",
+    "pixels": [
+      941,
+      1672
+    ],
+    "bytes": 335964,
+    "appAssetMirrorEqual": true,
+    "qa": "PASS_MANUAL_VISUAL_REVIEW",
+    "noExtras": true,
+    "leleGender": "BOY",
+    "zhangWeiGlasses": true,
+    "actionsRun": false,
+    "passedHsk2Count": 49,
+    "remainingHsk2Corrections": 1
   }
 }

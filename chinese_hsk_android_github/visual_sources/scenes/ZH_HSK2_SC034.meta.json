@@ -30,7 +30,7 @@
     "previousSceneId": "ZH_HSK2_SC033",
     "nextSceneId": "ZH_HSK2_SC035"
   },
-  "sourceGeneratedFilename": "ZH_HSK2_SC034.webp",
+  "sourceGeneratedFilename": "toplulukta_neşeli_temizlik_günü.png",
   "finalAssetFilename": "ZH_HSK2_SC034.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK2_SC034.webp",
   "image": {
@@ -38,7 +38,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "df85e0384b941364cbbbe5e796ef71768603bc385ce8beb496c0ee727ab013c9"
+    "sha256": "e488222c839af824c21d1220821707bcbcb1077ec45c71d2a3c2f86ddf59186c",
+    "bytes": 335964,
+    "gitBlobSha": "c3e67f4af3132fc91accf6e42a55f981c0ccf72a"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -56,25 +58,61 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: Lele_wrong_gender. Yalnız gerçek diyalog/required cast ile, HSK1_SC001 görsel tekniği ve character bible'a göre düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-11 R16: LOCKED_V2 dört konuşmacı ve hiçbir ekstra figür yok: gözlüklü Zhang Wei, Liu Mei, ERKEK çocuk Lele, yeşil yelekli yetişkin toplum merkezi çalışanı. Merkez bahçesinde eldivenler, toplama maşaları, geri dönüşüm işaretli şeffaf torba ve şişeler. 941×1672 tek sahne 2.5D/3D CGI, yazısız/logo yok. Görsel QA manuel canonical süreklilik incelemesine dayanır; otomatik biyometrik karşılaştırma yapılmadı. SHA256/Git blob ve app/runtime eşleşmesi PASS.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
-    "speakerCountMatch": false,
+    "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "Lele_wrong_gender"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10",
+    "manualIdentityReview": "PASS_VISUAL_REFERENCE_BASED",
+    "finalAudit": "HSK2_SC034_R16_2026-10-11"
+  },
+  "finalAcceptanceR16": {
+    "acceptedDate": "2026-10-11",
+    "sceneId": "ZH_HSK2_SC034",
+    "manifestVersion": "LOCKED_V2",
+    "status": "PASS",
+    "sourceGeneratedFilename": "toplulukta_neşeli_temizlik_günü.png",
+    "finalAssetFilename": "ZH_HSK2_SC034.webp",
+    "bytes": 335964,
+    "pixels": [
+      941,
+      1672
     ],
-    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+    "sha256": "e488222c839af824c21d1220821707bcbcb1077ec45c71d2a3c2f86ddf59186c",
+    "gitBlobSha": "c3e67f4af3132fc91accf6e42a55f981c0ccf72a",
+    "exactCast": [
+      "张伟",
+      "刘梅",
+      "社区工作人员",
+      "张乐乐"
+    ],
+    "leleGender": "BOY",
+    "zhangWeiGlasses": true,
+    "noExtraPeople": true,
+    "criticalObjects": [
+      "çöp toplama maşası",
+      "eldivenler",
+      "geri dönüşüm torbası",
+      "toplum merkezi çalışanı"
+    ],
+    "noText": true,
+    "noCollage": true,
+    "manualVisualQa": "PASS",
+    "automatedFaceIdentityQa": "NOT_RUN",
+    "appRuntimeMirror": "PASS_IDENTICAL_GIT_BLOB",
+    "actionsRun": false
   }
 }
