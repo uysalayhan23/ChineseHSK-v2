@@ -178,3 +178,14 @@ Güncel sahne durumu halen `FAIL/CORRECTION_REQUIRED`. `ci/runtime_visuals` değ
 - [x] `ZH_HSK2_SC025`: SHA256 `3d889c1884c03ced8b30e917edfea2c73f8165e449afe8aeee40458bfce9e383` · Git blob `8f8dcf66f069a1712fbb78991c22a90186bb4b81` · 233444 bayt · qaStatus `PASS` · status `FINAL_SOURCE_OVERRIDE`.
 
 HSK2 kabul sayısı **44/50**, açık düzeltme **6**: `ZH_HSK2_SC026`, `ZH_HSK2_SC027`, `ZH_HSK2_SC030`, `ZH_HSK2_SC033`, `ZH_HSK2_SC034`, `ZH_HSK2_SC035`. Önceki R6/R8 reddedilen farklı adaylar tarihsel kayıttır; **R10 son karardır.** Actions çalıştırılmadı, committe `[skip ci]`.
+
+### 2026-10-11 R11 — kalan 6 sahnenin kesin üretim brifleri
+
+Mevcut 6 sahne görselleri tekrar tek tek görsel QA ile denetlendi. Ayrıntılı kaynak/kadro/yer/nesne ve düzeltme kuralları: `docs/visuals/HSK2_OPEN_SC026_SC035_EXACT_REPAIR_BRIEFS_R11_2026-10-11_TR.md`.
+
+- SC026, SC027, SC030, SC034: erkek Lele yanlışlıkla kız çizilmiş; Zhang Wei'nin gözlüğü eksik.
+- SC033: iki diyalog dışı kız çocuğu var.
+- SC035: gereken üç kişi yerine altı kişi var.
+- SC026 için iki yeni aday yanlış pasta dükkânı sahnesi ürettiği için reddedildi, GitHub'a eklenmedi.
+
+Görseller henüz değiştirilmedi: **44/50 PASS, 6 açık**. App/runtime korunur; Actions kullanılmadı ve `[skip ci]`.
