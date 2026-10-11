@@ -28,7 +28,7 @@
     "previousSceneId": "ZH_HSK2_SC026",
     "nextSceneId": "ZH_HSK2_SC028"
   },
-  "sourceGeneratedFilename": "ZH_HSK2_SC027.webp",
+  "sourceGeneratedFilename": "i_lk_dişin_aile_sevinci.png",
   "finalAssetFilename": "ZH_HSK2_SC027.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK2_SC027.webp",
   "image": {
@@ -36,7 +36,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "29e616d545f90d0309bcffbf07306920b16f7ce1217d7bd7aaf80918551cc22c"
+    "sha256": "8867030a1d45de631624eb9a3b55c70adbc2066a9f70eeef5ce30630a0013147",
+    "bytes": 247674,
+    "gitBlobSha": "3ddc24547fe53190f055084932211d0c39164ea3"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -54,25 +56,60 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: Lele_wrong_gender. Character bible ve HSK1_SC001 referansına göre düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-11 R13: Yalnız erkek Lele, Liu Mei ve gözlüklü Zhang Wei; Lele süt dişini gösteriyor, anne mendil tutuyor, sıcak ev oturma alanında aile desteği. 941×1672 WebP; SHA256/Git blob app/runtime eşleşmesi PASS. Önceki kız-Lele adayı değiştirilmiştir. Canonical yüz/CGI incelemesi görsel niteliklidir, otomatik biyometrik test yapılmamıştır.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "Lele_wrong_gender"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10",
+    "manualIdentityReview": "PASS_VISUAL_REFERENCE_BASED",
+    "finalAudit": "HSK2_SC027_R13_2026-10-11"
+  },
+  "finalAcceptanceR13": {
+    "acceptedDate": "2026-10-11",
+    "sceneId": "ZH_HSK2_SC027",
+    "manifestVersion": "LOCKED_V2",
+    "status": "PASS",
+    "sourceGeneratedFilename": "i_lk_dişin_aile_sevinci.png",
+    "finalAssetFilename": "ZH_HSK2_SC027.webp",
+    "bytes": 247674,
+    "pixels": [
+      941,
+      1672
     ],
-    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+    "sha256": "8867030a1d45de631624eb9a3b55c70adbc2066a9f70eeef5ce30630a0013147",
+    "gitBlobSha": "3ddc24547fe53190f055084932211d0c39164ea3",
+    "exactCast": [
+      "张乐乐",
+      "刘梅",
+      "张伟"
+    ],
+    "leleGender": "BOY",
+    "zhangWeiGlasses": true,
+    "objects": [
+      "süt dişi",
+      "mendil",
+      "oturma odası",
+      "aile desteği"
+    ],
+    "noExtraPeople": true,
+    "noText": true,
+    "noCollage": true,
+    "manualVisualQa": "PASS",
+    "automatedIdentityEmbeddingQa": "NOT_RUN",
+    "appRuntimeMirror": "PASS_IDENTICAL_GIT_BLOB",
+    "actionsRun": false
   }
 }
