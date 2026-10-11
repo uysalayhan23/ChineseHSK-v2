@@ -140,5 +140,33 @@
     "runtimeMirrorReplaced": false,
     "actionsRun": false,
     "noteTr": "R6 yanlış adaydan farklı, yeniden üretilmiş WebP. Yerel dosya SHA256 ve Git blob hesaplandı; GitHub'da app asset eski sürüm. Dosya aktarılmadan metadata ana image hash'i, qaStatus ve runtime mirror değiştirilmez."
+  },
+  "candidateAuditR8": {
+    "auditDate": "2026-10-11",
+    "status": "REJECTED_POST_UPLOAD_CANONICAL_QA",
+    "sourceSceneId": "ZH_HSK2_SC025",
+    "uploadedCandidateSha256": "08db1212d5d41b73e894fd0b5f3e39731f80d5ccf57ca456f0b193b574c2e2db",
+    "uploadedCandidateGitBlob": "1cb4839f11de8e0b9613e4f3ab2024cecb0a9344",
+    "uploadedCandidateBytes": 238846,
+    "uploadedCandidateSize": [
+      941,
+      1672
+    ],
+    "inspectedAgainstReference": [
+      "ZH_HSK1_SC001",
+      "ZH_HSK2_SC024"
+    ],
+    "dialogueCastAndObjects": "PASS_VISUAL_CONTENT",
+    "canonicalStyleIdentity": "FAIL",
+    "rejectionReasons": [
+      "realistic_face_render_drift_from_canonical_3d_CGI",
+      "LiuMei_face_hair_identity_not_reference_consistent",
+      "ZhangWei_and_LiChen_identity_not_canonically_approved"
+    ],
+    "appRestoredToPriorBlob": "74e5715e452586b33d2d698bfe2f97a676eb11ed",
+    "mirrorUnchanged": "74e5715e452586b33d2d698bfe2f97a676eb11ed",
+    "qaPassAssigned": false,
+    "actionsRun": false,
+    "notesTr": "Yeni WebP GitHub'a yüklendi, yerel blob kimliğiyle eşleşti ancak canonical yüz ve HSK1_SC001 stil sürekliliği nedeniyle LOCKED_V2 QA'dan kaldı. Yanlış final asset bırakmamak için app path eski mirror Git blob'una geri alındı. Yüklenen binary önceki Git commitinde korunur."
   }
 }

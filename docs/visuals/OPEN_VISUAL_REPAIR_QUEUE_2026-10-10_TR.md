@@ -151,3 +151,12 @@ R6'da reddedilen aile yemeği/iki kişilik çalışma görselleri ile karıştı
 | ZH_HSK2_SC025 | `ZH_HSK2_SC025.webp` | 238846 | `08db1212d5d41b73e894fd0b5f3e39731f80d5ccf57ca456f0b193b574c2e2db` | `1cb4839f11de8e0b9613e4f3ab2024cecb0a9344` |
 
 Her ikisi 941×1672, 3 yetişkin, doğru sahne bağlamı ve kritik objeler için görsel ön kontrolü geçti. **Final LOCKED_V2 QA ve metadata PASS yapılmadı:** fiziksel binary GitHub app kaynağına yüklendikten sonra SHA256/Git blob ve canonical yüz kimliği tekrar denetlenmeli, ancak sonra aynı blob `ci/runtime_visuals` aynasına alınmalı. Kalan HSK2 onarımları 8/10 olarak açık. GitHub Actions çalıştırılmadı; bütün commitlerde `[skip ci]`.
+
+### 2026-10-11 R8 — SC023 / SC025 yükleme sonrası canonical QA
+
+- SC023 ve SC025 WebP dosyaları GitHub `main` dalına kullanıcı tarafından yüklendi; Git blob SHA ve yerel aday SHA256 eşleşmesi doğrulandı.
+- SC023: doğru pasta siparişi kadrosu (Liu Mei, komşu, Zhang Wei), gerekli nesneler görünür. Ancak HSK1_SC001/HSK2_SC024 referanslarına göre **canonical yüz ve CGI stil sürekliliği zayıf**; stil/yüz drift nedeniyle FAIL.
+- SC025: doğru üç yetişkin (Zhang Wei, Li Chen, Liu Mei), çay evi, ince gözlük, çaydanlık/fincanlar mevcut. Ancak yüz/saç ve photoreal CGI işçiliği canonical 3D stil referanslarıyla eşleşmiyor; FAIL.
+- Uygun olmayan dosyaları kullanıcının kaynak repodaki geçmiş commitinde koruyarak `app/src/main/assets/chinese_course/media/scenes` içindeki iki asset önceki mirror Git bloblarına geri döndürüldü. `ci/runtime_visuals` eski blobları korunuyor; app/runtime tekrar eşleşiyor.
+- QA `FAIL / CORRECTION_REQUIRED` kaldı; HSK2 onarım 2/10 kapanmış, **8 açık**. GitHub Actions kullanılmadı, commit `[skip ci]`.
+
