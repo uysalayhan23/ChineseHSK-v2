@@ -30,7 +30,7 @@
     "previousSceneId": "ZH_HSK2_SC032",
     "nextSceneId": "ZH_HSK2_SC034"
   },
-  "sourceGeneratedFilename": "ZH_HSK2_SC033.webp",
+  "sourceGeneratedFilename": "sıcak_bir_akşam_ziyareti.png",
   "finalAssetFilename": "ZH_HSK2_SC033.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK2_SC033.webp",
   "image": {
@@ -38,7 +38,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "3c47454b955899faea16a22686172346828366a3925ca0f09482a600ae257a63"
+    "sha256": "50f820f197365a68f37f5a9a63a878b5aa823c8fccb7ab0df41e5d27b4895a1a",
+    "bytes": 241656,
+    "gitBlobSha": "7fcc358499776aa51bd89047893f2127efb75361"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -56,25 +58,62 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: extra_non_dialogue_children. Yalnız gerçek diyalog/required cast ile, HSK1_SC001 görsel tekniği ve character bible'a göre düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-11 R15: Li Chen'in evinde Liu Mei ve gözlüklü Zhang Wei'nin yemek kapları ve ziyaret çantasıyla geldiği dört yetişkinli destek sahnesi. Li Chen ince koyu dikdörtgen gözlük takıyor, eşi karşılıyor; çocuk/ekstra kişi yok. LOCKED_V2 konuşmacı, mekân ve nesne görsel QA kabulü. 941×1672 WEBP gerçek Git blob, app/runtime mirror SHA eşit. Canonical stil ve yüz kimliği manuel görsel incelemedir; otomatik kimlik testi yapılmadı.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
-    "speakerCountMatch": false,
+    "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "extra_non_dialogue_children"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10",
+    "manualIdentityReview": "PASS_VISUAL_REFERENCE_BASED",
+    "finalAudit": "HSK2_SC033_R15_2026-10-11"
+  },
+  "finalAcceptanceR15": {
+    "acceptedDate": "2026-10-11",
+    "sceneId": "ZH_HSK2_SC033",
+    "manifestVersion": "LOCKED_V2",
+    "status": "PASS",
+    "sourceGeneratedFilename": "sıcak_bir_akşam_ziyareti.png",
+    "finalAssetFilename": "ZH_HSK2_SC033.webp",
+    "bytes": 241656,
+    "pixels": [
+      941,
+      1672
     ],
-    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+    "sha256": "50f820f197365a68f37f5a9a63a878b5aa823c8fccb7ab0df41e5d27b4895a1a",
+    "gitBlobSha": "7fcc358499776aa51bd89047893f2127efb75361",
+    "exactCast": [
+      "刘梅",
+      "张伟",
+      "李晨",
+      "李晨妻子"
+    ],
+    "zhangWeiGlasses": true,
+    "liChenRectangularGlasses": true,
+    "noChildren": true,
+    "noExtraPeople": true,
+    "criticalObjects": [
+      "yemek kapları",
+      "ziyaret çantası",
+      "Li Chen evi",
+      "yardım ziyareti"
+    ],
+    "noText": true,
+    "noCollage": true,
+    "manualVisualQa": "PASS",
+    "automatedFaceIdentityQa": "NOT_RUN",
+    "appRuntimeMirror": "PASS_IDENTICAL_GIT_BLOB",
+    "actionsRun": false
   }
 }

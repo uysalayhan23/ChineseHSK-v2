@@ -2537,17 +2537,14 @@
       "ZH_HSK2_SC025",
       "ZH_HSK2_SC026",
       "ZH_HSK2_SC027",
-      "ZH_HSK2_SC030"
+      "ZH_HSK2_SC030",
+      "ZH_HSK2_SC033"
     ],
     "correctionRequiredSceneIds": [
-      "ZH_HSK2_SC033",
       "ZH_HSK2_SC034",
       "ZH_HSK2_SC035"
     ],
     "reasons": {
-      "ZH_HSK2_SC033": [
-        "extra_non_dialogue_children"
-      ],
       "ZH_HSK2_SC034": [
         "Lele_wrong_gender"
       ],
@@ -2573,12 +2570,13 @@
       "ZH_HSK2_SC025",
       "ZH_HSK2_SC026",
       "ZH_HSK2_SC027",
-      "ZH_HSK2_SC030"
+      "ZH_HSK2_SC030",
+      "ZH_HSK2_SC033"
     ],
     "appRuntimeMirrorBlobCheck": "PASS_ALL_50",
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
-    "noteTr": "HSK2 SC001-SC050 gerçek görseller tek tek görsel QA ile yeniden denetlendi. SC013 önceki false-positive'den PASS'e döndürüldü. Lele cinsiyet kilidi, exact cast ve Li Chen kimlik kilidi ihlali olan 10 sahne CORRECTION_REQUIRED; diğer sahneler korunuyor. Actions çalıştırılmadı. 2026-10-10 R5: SC020, SC021 yeni doğru WebP ile 2/10 onarım kapatıldı; kalan 8/10. App ve runtime mirror aynı Git blob. Actions yok. 2026-10-11 R10: SC023/SC025 accepted; real WebP binary Git blob transferred through temporary text transport, app/runtime mirrors matched, visual QA PASS. HSK2 now 44/50 PASS, 6 correction open. GitHub Actions not run. 2026-10-11 R12: SC026 gerçek WebP Git blob yüklendi; erkek Lele, Zhang Wei gözlüğü, tam dört kişi; QA PASS; app/runtime mirror eş. 45/50 PASS, 5 açık. Actions kullanılmadı. 2026-10-11 R13: SC027 new boy Lele, Liu Mei and glasses Zhang Wei; real WebP Git blob, app/runtime mirror PASS. 46/50 PASS, 4 correction open. Actions not run. 2026-10-11 R14: SC030 4-person town center scene, boy Lele, glasses Zhang Wei and correct bank/post office/fountain visual cues; binary and app/runtime mirror SHA PASS. Now 47/50 accepted; 3 corrections remain."
+    "noteTr": "HSK2 SC001-SC050 gerçek görseller tek tek görsel QA ile yeniden denetlendi. SC013 önceki false-positive'den PASS'e döndürüldü. Lele cinsiyet kilidi, exact cast ve Li Chen kimlik kilidi ihlali olan 10 sahne CORRECTION_REQUIRED; diğer sahneler korunuyor. Actions çalıştırılmadı. 2026-10-10 R5: SC020, SC021 yeni doğru WebP ile 2/10 onarım kapatıldı; kalan 8/10. App ve runtime mirror aynı Git blob. Actions yok. 2026-10-11 R10: SC023/SC025 accepted; real WebP binary Git blob transferred through temporary text transport, app/runtime mirrors matched, visual QA PASS. HSK2 now 44/50 PASS, 6 correction open. GitHub Actions not run. 2026-10-11 R12: SC026 gerçek WebP Git blob yüklendi; erkek Lele, Zhang Wei gözlüğü, tam dört kişi; QA PASS; app/runtime mirror eş. 45/50 PASS, 5 açık. Actions kullanılmadı. 2026-10-11 R13: SC027 new boy Lele, Liu Mei and glasses Zhang Wei; real WebP Git blob, app/runtime mirror PASS. 46/50 PASS, 4 correction open. Actions not run. 2026-10-11 R14: SC030 4-person town center scene, boy Lele, glasses Zhang Wei and correct bank/post office/fountain visual cues; binary and app/runtime mirror SHA PASS. Now 47/50 accepted; 3 corrections remain. 2026-10-11 R15 SC033 passed exact four adults and no children; SHA256/Git blob app and runtime identical. HSK2 48/50 PASS, 2 remaining. Actions not run."
   },
   "hsk3Sc001Sc008VisualQaR1": {
     "auditDate": "2026-10-10",
@@ -3911,7 +3909,7 @@
     "auditDate": "2026-10-11",
     "manifestVersion": "LOCKED_V2",
     "referenceSceneId": "ZH_HSK1_SC001",
-    "status": "PARTIALLY_CLOSED_R12_R14",
+    "status": "PARTIALLY_CLOSED_R12_R15",
     "openScenes": {
       "ZH_HSK2_SC026": {
         "expectedCast": [
@@ -3986,7 +3984,7 @@
         "rejectedBlob": "e3947af4281342ff93e8c35b9ad0251bf403eae5",
         "observedFailure": "Diyalog dışı iki kız çocuğu; Zhang Wei gözlüksüz",
         "productionDirective": "Yalnız dört yetişkin: Liu Mei, gözlüklü Zhang Wei, ince koyu dikdörtgen gözlüklü Li Chen ve eşi. Li Chen'in evinde yemek kapları ve yardım ziyareti; çocuk yok.",
-        "status": "CORRECTION_REQUIRED"
+        "status": "ACCEPTED_R15"
       },
       "ZH_HSK2_SC034": {
         "expectedCast": [
@@ -4094,5 +4092,26 @@
     "actionsRun": false,
     "passedHsk2Count": 47,
     "remainingHsk2Corrections": 3
+  },
+  "hsk2Sc033FinalAcceptanceR15": {
+    "auditDate": "2026-10-11",
+    "manifestVersion": "LOCKED_V2",
+    "referenceSceneId": "ZH_HSK1_SC001",
+    "status": "PASS",
+    "sha256": "50f820f197365a68f37f5a9a63a878b5aa823c8fccb7ab0df41e5d27b4895a1a",
+    "gitBlobSha": "7fcc358499776aa51bd89047893f2127efb75361",
+    "pixels": [
+      941,
+      1672
+    ],
+    "bytes": 241656,
+    "appAssetMirrorEqual": true,
+    "qa": "PASS_MANUAL_VISUAL_REVIEW",
+    "noChildren": true,
+    "zhangWeiGlasses": true,
+    "liChenRectangularGlasses": true,
+    "actionsRun": false,
+    "passedHsk2Count": 48,
+    "remainingHsk2Corrections": 2
   }
 }
