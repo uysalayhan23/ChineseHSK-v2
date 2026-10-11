@@ -211,3 +211,11 @@ Mevcut sahne altı kişi ve iki ekstra çocuk nedeniyle FAIL idi. Yeni sahne yal
 ### 2026-10-11 R16 — HSK2_SC034 mahalle temizlik günü binary kabulü
 
 Yeni yeniden üretim yapılmadı; önceki turda üretilmiş `toplulukta_neşeli_temizlik_günü.png` adayı görsel QA ile kabul edildi. Final `ZH_HSK2_SC034.webp`: 941×1672, 335964 bayt, SHA256 `e488222c839af824c21d1220821707bcbcb1077ec45c71d2a3c2f86ddf59186c`, Git blob `c3e67f4af3132fc91accf6e42a55f981c0ccf72a`. Tek sahnede gözlüklü Zhang Wei, Liu Mei, erkek Lele ve yeşil yelekli yetişkin toplum çalışanı dışında kimse yok. Koruyucu eldiven, toplama maşaları ve geri dönüşüm torbası görünür. App ve `ci/runtime_visuals` aynı blob. QA `PASS`; metadata `FINAL_SOURCE_OVERRIDE`. HSK2 **49/50 PASS, 1 açık** (SC035). Actions çalıştırılmadı; commit `[skip ci]`.
+
+### 2026-10-11 R17 — SC035 QA engeli ve HSK2 görsel kapanış denetimi
+
+HSK2 görsel dosya denetimi: `media/scenes` **50/50 fiziksel WebP**, `ci/runtime_visuals` **50/50 mirror**, metadata **50/50**; Git blob eşleşmeyen **0**, sahneler arası aynı final WebP blobu tekrar sayısı **0**. Metadata tek tek incelendi: **49 PASS, 1 FAIL**, yalnız `ZH_HSK2_SC035` açık.
+
+SC035 LOCKED_V2 diyalog kaynak doğrulaması: tam üç kişi (Liu Mei, yetişkin komşu, gözlüklü Zhang Wei), yeni ev mutfağı, satış/sipariş defteri; `点心` ve `蛋糕` hamur işi/pasta. Eski assette fazladan çocuk/kişi bulunduğundan reddedildi. Yeni üretilen **üç adayın hiçbiri `蛋糕` pasta içermedi** (yalnız mantı/buharda pişirilen hamur işi); hepsi reddedildi ve GitHub final assetlerine yüklenmedi. Kabul edilmiş `ZH_HSK2_SC023` görseli de **LOCKED_V2 30. kilit** gereği SC035'e kopyalanamaz.
+
+Durum: **49/50 PASS, SC035 CORRECTION_REQUIRED**, 50/50 final kapanış **BLOCKED**, build/Actions çalıştırılmadı. Bu kontrolü belgelemek için `[skip ci]` commit kullanıldı. Sonraki adım: sahneye özgü gerçekten pasta/fırın hamur işi gösteren bir aday üretmek ve ayrı görsel QA yapmak.

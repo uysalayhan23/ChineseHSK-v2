@@ -57,7 +57,7 @@
   "qaStatus": "FAIL",
   "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: extra_non_dialogue_prominent_characters. Yalnız gerçek diyalog/required cast ile, HSK1_SC001 görsel tekniği ve character bible'a göre düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: extra_non_dialogue_prominent_characters. Yalnız gerçek diyalog/required cast ile, HSK1_SC001 görsel tekniği ve character bible'a göre düzeltilmiş final asset gerekli. 2026-10-11 R17: Three scene-035 candidate images lacked required cake (蛋糕) despite correct three-person kitchen setting; rejected. Accepted scene-023 art cannot be reused because LOCKED_V2 §30 forbids same final image for two scene IDs. Keep FAIL/CORRECTION_REQUIRED, authoritative app/mirror untouched.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
@@ -74,5 +74,40 @@
       "extra_non_dialogue_prominent_characters"
     ],
     "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+  },
+  "candidateAuditR17": {
+    "auditDate": "2026-10-11",
+    "manifestVersion": "LOCKED_V2",
+    "status": "FAIL_CANDIDATES_REJECTED",
+    "sourceSceneId": "ZH_HSK2_SC035",
+    "candidates": [
+      {
+        "name": "a_warm_detailed_3d_cgi_animated_scene_in_a_cozy_k.png",
+        "sha256": "b2e35fac053df7f661ae4c9cfce77835f72307047716634543958c55f172ba32",
+        "status": "REJECTED",
+        "reason": "Missing cake (蛋糕) despite explicit locked dialogue lines; only steamed dumplings/buns depicted."
+      },
+      {
+        "name": "a_warm_detailed_3d_cgi_cartoon_style_scene_in_a_c.png",
+        "sha256": "5d02a388fe59e719086256f433acb300e3c48badb3a8224e97be96e0c929a1b3",
+        "status": "REJECTED",
+        "reason": "Missing cake (蛋糕) despite explicit locked dialogue lines; only steamed dumplings/buns depicted."
+      },
+      {
+        "name": "wide_warm_detailed_3d_cgi_animated_scene_of_an_i.png",
+        "sha256": "80e0dcb07553c142dce97d9eb4cd442833aec8a90dbe7357f01106c85b8dfa06",
+        "status": "REJECTED",
+        "reason": "Missing cake (蛋糕) despite explicit locked dialogue lines; only steamed dumplings/buns depicted."
+      }
+    ],
+    "existingFinalAssetStatus": "FAIL_EXTRA_CHARACTERS",
+    "reusedAcceptedSceneCandidate": "ZH_HSK2_SC023",
+    "reusedAcceptedSceneCandidateStatus": "REJECTED_LOCKED_V2_RULE_30",
+    "reasonTr": "SC035 diyalogları pasta (蛋糕), hamur işleri (点心), sipariş (订单) içeriyor. Mevcut SC035 görseli fazladan kişiler nedeniyle FAIL. Önceden kabul edilmiş SC023 sahne görseli karakter/ortam açısından yakın olsa da LOCKED_V2 Madde 30 aynı final görselin iki sceneId için kullanımını yasaklıyor. Üç yeni adayda yalnız mantı/buharda pişmiş hamur işleri görünüyor, pasta yok; hiçbiri sahne 035 QA PASS olamaz.",
+    "newFinalBinaryUploaded": false,
+    "appMirrorUpdated": false,
+    "qaStatusUnchanged": "FAIL",
+    "statusUnchanged": "CORRECTION_REQUIRED",
+    "actionsRun": false
   }
 }

@@ -4132,5 +4132,44 @@
     "actionsRun": false,
     "passedHsk2Count": 49,
     "remainingHsk2Corrections": 1
+  },
+  "hsk2Sc035CandidateAuditR17": {
+    "auditDate": "2026-10-11",
+    "manifestVersion": "LOCKED_V2",
+    "status": "CORRECTION_REQUIRED_NO_ACCEPTABLE_UNIQUE_IMAGE",
+    "candidateCount": 3,
+    "candidatesRejected": 3,
+    "oldSourceImageHadExtras": true,
+    "newWebpAccepted": 0,
+    "appMirrorChanged": false,
+    "actionsRun": false,
+    "ruleNoDuplicateReference": "LOCKED_V2 Section 30",
+    "dialogueRequiredVisualVocabulary": [
+      "点心",
+      "蛋糕",
+      "订单"
+    ],
+    "rejectedImageIssue": "No cake or baked pastries; steamed dumplings are not a complete match."
+  },
+  "hsk2VisualClosureGateR17": {
+    "auditDate": "2026-10-11",
+    "manifestVersion": "LOCKED_V2",
+    "status": "BLOCKED_SC035",
+    "passCount": 49,
+    "failCount": 1,
+    "failedScenes": [
+      "ZH_HSK2_SC035"
+    ],
+    "sourceWebpCount": 50,
+    "runtimeMirrorWebpCount": 50,
+    "metadataFileCount": 50,
+    "appRuntimeBlobMismatches": 0,
+    "duplicateAuthoritativeBlobGroups": 0,
+    "allSceneMetadataChecked": 50,
+    "allGenerationSceneIdsMatch": true,
+    "allManifestVersionsLockedV2": true,
+    "actionsRun": false,
+    "buildTriggered": false,
+    "notesTr": "Repo physical scene/CI mirror 50/50 with no SHA discrepancy and no cross-scene blob duplicates. Scene metadata 49 PASS, SC035 FAIL due extra subjects in existing image. New candidates fail cake requirement; duplicate SC023 art prohibited. Do not claim 50/50 acceptance or READY_FOR_BUILD."
   }
 }
