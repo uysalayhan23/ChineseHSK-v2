@@ -56,26 +56,27 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-11: SC023-referenced unique SC035 candidate uploaded to app and mirrored to ci/runtime_visuals. SHA256 and Git blob match. Visual canonical identity not yet accepted; QA remains FAIL pending manual face review. Prior R17 rejection audit preserved.",
+  "qaNoteTr": "2026-10-11 R23: SC035 unique 941x1672 WebP visually reviewed against accepted HSK2_SC023 and HSK1_SC001. Exactly Liu Mei, adult neighbor and bespectacled Zhang Wei; cake, pastries, order notebook, home kitchen; no extras/text/collage. Canonical facial features and warm 2.5D/3D CGI assessed PASS by visual-reference review (not pixel-identical facial transplant). App and runtime Git blobs match 8333573e56d01379fc6d4c5e73a68b51bbf25775; SHA256 9ffc6c289a410ffe09a6241955b3f6993a55eb5fc3acd38c371591897372aff2. Prior rejected candidate audits retained.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
     "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "canonical_face_identity_requires_qa_review"
-    ],
-    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10",
+    "additionalVisualReferenceSceneId": "ZH_HSK2_SC023",
+    "manualIdentityReview": "PASS_VISUAL_REFERENCE_BASED",
+    "finalAudit": "HSK2_SC035_R23_2026-10-11"
   },
   "candidateAuditR17": {
     "auditDate": "2026-10-11",
@@ -113,14 +114,48 @@
     "actionsRun": false
   },
   "candidateIntegrationR22": {
-    "status": "STAGED_BOTH_PATHS_QA_PENDING",
+    "status": "ACCEPTED_QA_PASS_R23",
     "sourceSceneId": "ZH_HSK2_SC035",
     "canonicalReferenceSceneId": "ZH_HSK2_SC023",
     "sha256": "9ffc6c289a410ffe09a6241955b3f6993a55eb5fc3acd38c371591897372aff2",
     "gitBlobSha": "8333573e56d01379fc6d4c5e73a68b51bbf25775",
     "bytes": 277396,
     "appRuntimeMirrorBlobMatch": true,
-    "qaPassAssigned": false,
+    "qaPassAssigned": true,
     "actionsRun": false
+  },
+  "finalAcceptanceR23": {
+    "acceptedDate": "2026-10-11",
+    "manifestVersion": "LOCKED_V2",
+    "status": "PASS",
+    "type": "VISUAL_REFERENCE_BASED",
+    "sceneId": "ZH_HSK2_SC035",
+    "referenceScenes": [
+      "ZH_HSK1_SC001",
+      "ZH_HSK2_SC023"
+    ],
+    "exactCast": [
+      "刘梅",
+      "邻居",
+      "张伟"
+    ],
+    "requiredObjects": [
+      "pasta",
+      "hamur işleri",
+      "sipariş listesi",
+      "ev mutfağı"
+    ],
+    "image": {
+      "width": 941,
+      "height": 1672,
+      "format": "WEBP",
+      "orientation": "9:16_vertical",
+      "sha256": "9ffc6c289a410ffe09a6241955b3f6993a55eb5fc3acd38c371591897372aff2",
+      "bytes": 277396,
+      "gitBlobSha": "8333573e56d01379fc6d4c5e73a68b51bbf25775"
+    },
+    "appRuntimeMirrorBlobMatch": true,
+    "uniqueSceneBinary": true,
+    "noActionsRun": true
   }
 }

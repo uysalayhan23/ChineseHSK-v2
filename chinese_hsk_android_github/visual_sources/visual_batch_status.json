@@ -4154,12 +4154,10 @@
   "hsk2VisualClosureGateR17": {
     "auditDate": "2026-10-11",
     "manifestVersion": "LOCKED_V2",
-    "status": "BLOCKED_SC035_CANONICAL_QA",
-    "passCount": 49,
-    "failCount": 1,
-    "failedScenes": [
-      "ZH_HSK2_SC035"
-    ],
+    "status": "PASS_50_OF_50_READY_FOR_BUILD_APPROVAL",
+    "passCount": 50,
+    "failCount": 0,
+    "failedScenes": [],
     "sourceWebpCount": 50,
     "runtimeMirrorWebpCount": 50,
     "metadataFileCount": 50,
@@ -4170,6 +4168,19 @@
     "allManifestVersionsLockedV2": true,
     "actionsRun": false,
     "buildTriggered": false,
-    "notesTr": "2026-10-11: SC035 new candidate staged to app and runtime mirror with identical blob 8333573e56d01379fc6d4c5e73a68b51bbf25775 and SHA256 9ffc6c289a410ffe09a6241955b3f6993a55eb5fc3acd38c371591897372aff2. Canonical character QA pending; 49 PASS / 1 FAIL, not build ready."
+    "notesTr": "2026-10-11 R23: SC035 unique WebP visually accepted against SC001 and accepted SC023 canonical references; three adults, cake/pastries/order notebook, 9:16 warm CGI. 50/50 visual QA PASS; app/runtime Git blob identical and zero duplicate scenes. APK build NOT authorized or triggered; Actions not used."
+  },
+  "hsk2Sc035FinalAcceptanceR23": {
+    "auditDate": "2026-10-11",
+    "sceneId": "ZH_HSK2_SC035",
+    "status": "PASS",
+    "sha256": "9ffc6c289a410ffe09a6241955b3f6993a55eb5fc3acd38c371591897372aff2",
+    "gitBlobSha": "8333573e56d01379fc6d4c5e73a68b51bbf25775",
+    "canonicalQA": "PASS_VISUAL_REFERENCE_BASED",
+    "appRuntimeMirrorMatch": true,
+    "levelAccepted": 50,
+    "levelTotal": 50,
+    "actionsRun": false,
+    "buildTriggered": false
   }
 }
