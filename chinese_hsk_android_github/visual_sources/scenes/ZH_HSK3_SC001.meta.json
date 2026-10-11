@@ -34,11 +34,13 @@
   "finalAssetFilename": "ZH_HSK3_SC001.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC001.webp",
   "image": {
-    "width": 941,
-    "height": 1672,
+    "width": 942,
+    "height": 1670,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "76dcee9d95b401de90ad246b709f0fb4850334dad386938791c92487bebd7bbe"
+    "sha256": "dba34a21e8bacdbbae4b9d09985da60d161cb3c55a835ac4dc76e13b632aaa5e",
+    "bytes": 153926,
+    "gitBlobSha": "dc82279ba2efcd7f84899340daa1ed475b4b0bd4"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -57,9 +59,9 @@
     "uniqueSceneIdChecked": true
   },
   "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "status": "USER_APPROVED_WITH_DOCUMENTED_QA_EXCEPTION",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: ZhangWei_identity_drift_missing_signature_glasses. HSK1_SC001 görsel tekniği ve character bible exact cast ile düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-11: User approved replacement SC001 visual with known cake-handoff direction objection; app/runtime binary synced, SHA verified. Locked visual QA status kept FAIL pending reconciliation.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
@@ -76,5 +78,14 @@
       "ZhangWei_identity_drift_missing_signature_glasses"
     ],
     "bulkAudit": "HSK3_SC001_SC008_VISUAL_QA_R1_2026-10-10"
+  },
+  "userApprovedVisualR2": {
+    "date": "2026-10-11",
+    "userApproved": true,
+    "appRuntimeMirrorMatch": true,
+    "deliveryDirectionException": true,
+    "sha256": "dba34a21e8bacdbbae4b9d09985da60d161cb3c55a835ac4dc76e13b632aaa5e",
+    "gitBlobSha": "dc82279ba2efcd7f84899340daa1ed475b4b0bd4",
+    "notes": "User explicitly accepted this specific SC001 visual. Delivery-direction objection documented. Historical automated QA FAIL remains pending separate formal LOCKED_V2 reconciliation; user selection is not relabeled technical QA PASS."
   }
 }

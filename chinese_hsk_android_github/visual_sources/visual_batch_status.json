@@ -4182,5 +4182,14 @@
     "levelTotal": 50,
     "actionsRun": false,
     "buildTriggered": false
+  },
+  "hsk3Sc001UserApprovedR2": {
+    "date": "2026-10-11",
+    "status": "USER_APPROVED_QA_EXCEPTION",
+    "sceneId": "ZH_HSK3_SC001",
+    "sha256": "dba34a21e8bacdbbae4b9d09985da60d161cb3c55a835ac4dc76e13b632aaa5e",
+    "gitBlobSha": "dc82279ba2efcd7f84899340daa1ed475b4b0bd4",
+    "appRuntimeMirrorMatch": true,
+    "actionsRun": false
   }
 }
