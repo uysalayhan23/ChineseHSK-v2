@@ -36,7 +36,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "79a3b51c2393851840b8047cc85d705e15fb8c7adc1933c4edca1c85f869f2a7"
+    "sha256": "9ffc6c289a410ffe09a6241955b3f6993a55eb5fc3acd38c371591897372aff2",
+    "bytes": 277396,
+    "gitBlobSha": "8333573e56d01379fc6d4c5e73a68b51bbf25775"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -57,21 +59,21 @@
   "qaStatus": "FAIL",
   "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: extra_non_dialogue_prominent_characters. Yalnız gerçek diyalog/required cast ile, HSK1_SC001 görsel tekniği ve character bible'a göre düzeltilmiş final asset gerekli. 2026-10-11 R17: Three scene-035 candidate images lacked required cake (蛋糕) despite correct three-person kitchen setting; rejected. Accepted scene-023 art cannot be reused because LOCKED_V2 §30 forbids same final image for two scene IDs. Keep FAIL/CORRECTION_REQUIRED, authoritative app/mirror untouched.",
+  "qaNoteTr": "2026-10-11: SC023-referenced unique SC035 candidate uploaded to app and mirrored to ci/runtime_visuals. SHA256 and Git blob match. Visual canonical identity not yet accepted; QA remains FAIL pending manual face review. Prior R17 rejection audit preserved.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
-    "speakerCountMatch": false,
+    "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
     "visualPolicyMatch": false,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
     "rejectionReasons": [
-      "extra_non_dialogue_prominent_characters"
+      "canonical_face_identity_requires_qa_review"
     ],
     "bulkAudit": "HSK2_FULL_VISUAL_QA_R2_2026-10-10"
   },
@@ -108,6 +110,17 @@
     "appMirrorUpdated": false,
     "qaStatusUnchanged": "FAIL",
     "statusUnchanged": "CORRECTION_REQUIRED",
+    "actionsRun": false
+  },
+  "candidateIntegrationR22": {
+    "status": "STAGED_BOTH_PATHS_QA_PENDING",
+    "sourceSceneId": "ZH_HSK2_SC035",
+    "canonicalReferenceSceneId": "ZH_HSK2_SC023",
+    "sha256": "9ffc6c289a410ffe09a6241955b3f6993a55eb5fc3acd38c371591897372aff2",
+    "gitBlobSha": "8333573e56d01379fc6d4c5e73a68b51bbf25775",
+    "bytes": 277396,
+    "appRuntimeMirrorBlobMatch": true,
+    "qaPassAssigned": false,
     "actionsRun": false
   }
 }
