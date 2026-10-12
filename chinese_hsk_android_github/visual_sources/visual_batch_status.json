@@ -2718,25 +2718,25 @@
       "ZH_HSK3_SC026",
       "ZH_HSK3_SC027",
       "ZH_HSK3_SC028",
+      "ZH_HSK3_SC030",
       "ZH_HSK3_SC031",
       "ZH_HSK3_SC032"
     ],
     "correctionRequiredSceneIds": [
-      "ZH_HSK3_SC029",
-      "ZH_HSK3_SC030"
+      "ZH_HSK3_SC029"
     ],
     "reasons": {
       "ZH_HSK3_SC029": [
         "exact_cast_mismatch_colleague_missing_Yutong_substituted_on_video"
       ],
       "ZH_HSK3_SC030": [
-        "LiuMei_missing_Yutong_substituted_on_video"
+        "RESOLVED_R5"
       ]
     },
     "appRuntimeMirrorBlobCheck": "PASS_ALL_8",
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
-    "noteTr": "SC025-SC032 görsel QA tamamlandı. SC029/SC030 video-call karakterleri exact cast'i bozduğu için düzeltme gerekiyor; diğer altı sahne korunuyor."
+    "noteTr": "2026-10-12 R5: SC030 passed scene/cast/chart QA; SC029 still FAIL, all others in scope unchanged."
   },
   "hsk3Sc033Sc040VisualQaR1": {
     "auditDate": "2026-10-10",
@@ -2828,8 +2828,8 @@
     "manifestVersion": "LOCKED_V2",
     "referenceSceneId": "ZH_HSK1_SC001",
     "totalScenes": 50,
-    "passCount": 42,
-    "correctionRequiredCount": 8,
+    "passCount": 43,
+    "correctionRequiredCount": 7,
     "passSceneIds": [
       "ZH_HSK3_SC002",
       "ZH_HSK3_SC003",
@@ -2858,6 +2858,7 @@
       "ZH_HSK3_SC026",
       "ZH_HSK3_SC027",
       "ZH_HSK3_SC028",
+      "ZH_HSK3_SC030",
       "ZH_HSK3_SC031",
       "ZH_HSK3_SC032",
       "ZH_HSK3_SC033",
@@ -2881,7 +2882,6 @@
     "correctionRequiredSceneIds": [
       "ZH_HSK3_SC001",
       "ZH_HSK3_SC029",
-      "ZH_HSK3_SC030",
       "ZH_HSK3_SC037",
       "ZH_HSK3_SC038",
       "ZH_HSK3_SC039",
@@ -2911,7 +2911,7 @@
         "exact_cast_mismatch_colleague_missing_Yutong_substituted_on_video"
       ],
       "ZH_HSK3_SC030": [
-        "LiuMei_missing_Yutong_substituted_on_video"
+        "RESOLVED_R5_canonical_remote_LiuMei_and_wordless_presentation_charts"
       ],
       "ZH_HSK3_SC037": [
         "LiuMei_missing_Yutong_substituted_on_video"
@@ -2929,12 +2929,12 @@
         "LiuMei_missing_Yutong_substituted_on_video_call"
       ]
     },
-    "appRuntimeMirrorBlobCheck": "PASS_ALL_50_POST_R4",
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_50_AFTER_SC030_R5_EXPECT_VERIFY",
     "styleReferenceSceneId": "ZH_HSK1_SC001",
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
-    "noteTr": "2026-10-12 R4: SC005 user exception and SC016/017/019 scene corrections integrated in app/runtime mirrors with canonical cast/scene visual review. Full HSK3 QA now 42/50, still 8 correction scenes; SC001 user exception remains separate.",
-    "latestDelta": "HSK3_SC005_SC016_SC017_SC019_R4_2026-10-12"
+    "noteTr": "2026-10-12 R5: SC030 canonical office presentation fixed and binary Git blob integrated; SC029 remains FAIL awaiting mature Liu Mei on video-call. 43/50 PASS if mirror SHA post-commit matches.",
+    "latestDelta": "HSK3_SC030_R5_2026-10-12"
   },
   "hsk4FullVisualQaR1": {
     "auditDate": "2026-10-10",
@@ -4237,5 +4237,16 @@
     "qaPassCount": 42,
     "remaining": 8,
     "actionsRun": false
+  },
+  "hsk3Sc030AcceptanceR5": {
+    "date": "2026-10-12",
+    "sceneId": "ZH_HSK3_SC030",
+    "status": "PASS",
+    "gitBlobSha": "5ec728e434a0a9c08f42ad5d6cfcb57c3d2324de",
+    "sha256": "624a3f22e7dfdbca37ac9377dd094bb823a275233f2b8bd859278b2fcb4e12fa",
+    "appAndRuntimeMirrorIntegrated": true,
+    "actionsRun": false,
+    "totalPassCount": 43,
+    "remainingCount": 7
   }
 }

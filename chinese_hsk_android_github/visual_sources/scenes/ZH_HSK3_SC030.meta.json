@@ -50,7 +50,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "45c916eb7a132dc256d62e3ea13a9a8e713c8386f0772123154a34e0a2d908c0"
+    "sha256": "624a3f22e7dfdbca37ac9377dd094bb823a275233f2b8bd859278b2fcb4e12fa",
+    "bytes": 110770,
+    "gitBlobSha": "5ec728e434a0a9c08f42ad5d6cfcb57c3d2324de"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -69,26 +71,25 @@
     "uniqueSceneIdChecked": true,
     "hsk3MaturityLockChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-12 R3: R3 conference candidate depicts adult Liu Mei remotely and correct three in-person roles, but large presentation monitor is blank; critical LOCKED_V2 presentation shapes/charts missing, so full scene QA not yet complete. New candidate not accepted. Existing app/runtime assets preserved.",
+  "qaNoteTr": "2026-10-12 R5: Conference room scene has in-person Zhang Wei with black rectangular glasses, mature manager, adult colleague, canonical adult Liu Mei remotely on laptop, and wordless chart shapes on presentation screen; separate single-scene 9:16 CGI WebP staged to both app/runtime mirrors. Image identity verified by Git blob SHA.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
-    "dialogueMatch": false,
-    "speakerCountMatch": false,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "LiuMei_missing_Yutong_substituted_on_video"
-    ],
-    "bulkAudit": "HSK3_SC025_SC032_VISUAL_QA_R1_2026-10-10"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK3_SC025_SC032_VISUAL_QA_R1_2026-10-10",
+    "finalAudit": "HSK3_SC030_VISUAL_QA_R5_2026-10-12"
   },
   "candidateAuditR2": {
     "date": "2026-10-12",
@@ -112,5 +113,20 @@
       "gitObjectShaCreated": "0b61ccaf030f5ad80d227b05ea9223167886aebb",
       "note": "Git blob exists as unattached object, not in app/runtime; avoid claiming final upload."
     }
+  },
+  "sceneQaFinalR5": {
+    "date": "2026-10-12",
+    "qaStatus": "PASS",
+    "gitBlobSha": "5ec728e434a0a9c08f42ad5d6cfcb57c3d2324de",
+    "sha256": "624a3f22e7dfdbca37ac9377dd094bb823a275233f2b8bd859278b2fcb4e12fa",
+    "bytes": 110770,
+    "imageSize": [
+      941,
+      1672
+    ],
+    "visualInspection": "PASS",
+    "identityCheck": "Remote mature Liu Mei with tied-back hair and cream top, compared with accepted mature references",
+    "appRuntimeMirrorMatchExpected": true,
+    "actionsRun": false
   }
 }
