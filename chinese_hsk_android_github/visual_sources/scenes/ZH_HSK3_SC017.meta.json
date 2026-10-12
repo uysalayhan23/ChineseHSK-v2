@@ -47,7 +47,10 @@
     "width": 941,
     "height": 1672,
     "format": "WEBP",
-    "orientation": "9:16_vertical"
+    "orientation": "9:16_vertical",
+    "sha256": "fb694c3b0dc075f9d72b8055fc02031a010f6e4df6e13a7b792a931d5eee9a0a",
+    "bytes": 215206,
+    "gitBlobSha": "4843f78c9c5641a64788ef6ccfdc9f717a592d9d"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -66,26 +69,25 @@
     "uniqueSceneIdChecked": true,
     "hsk3MaturityLockChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-12: Metadata locationId aligned with locked scene JSON LOC_ZH_NEW_HOME_001. Existing WebP still depicts cafe premises and remains QA FAIL. No replacement image accepted.",
+  "qaNoteTr": "2026-10-12 R4: Home pricing scene LOC_ZH_NEW_HOME_001 with four locked adults, calculator, ingredients and menu plans accepted; 9:16 and app/runtime Git blob matching.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
-    "settingMatch": false,
+    "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
     "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "visual_location_mismatch_with_scene_JSON"
-    ],
-    "bulkAudit": "HSK3_SC017_SC024_VISUAL_QA_R1_2026-10-10"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK3_SC017_SC024_VISUAL_QA_R1_2026-10-10",
+    "finalAudit": "HSK3_VISUAL_BINARY_QA_R4_2026-10-12"
   },
   "locationAuditR2": {
     "date": "2026-10-12",
@@ -94,6 +96,17 @@
     "currentWebpLocation": "CAFE_PREMISES",
     "visualQa": "FAIL",
     "repairRequired": true,
-    "actionsRun": false
+    "actionsRun": false,
+    "status": "RESOLVED_R4"
+  },
+  "sceneQaFinalR4": {
+    "date": "2026-10-12",
+    "qaStatus": "PASS",
+    "actualGitBlobSha": "4843f78c9c5641a64788ef6ccfdc9f717a592d9d",
+    "actualSha256": "fb694c3b0dc075f9d72b8055fc02031a010f6e4df6e13a7b792a931d5eee9a0a",
+    "bytes": 215206,
+    "appRuntimeMirrorBlobMatchedInAtomicTree": true,
+    "actionsRun": false,
+    "visualNote": "Home/cast/critical objects and 9:16 CGI verified"
   }
 }

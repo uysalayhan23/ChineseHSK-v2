@@ -2828,12 +2828,13 @@
     "manifestVersion": "LOCKED_V2",
     "referenceSceneId": "ZH_HSK1_SC001",
     "totalScenes": 50,
-    "passCount": 38,
-    "correctionRequiredCount": 12,
+    "passCount": 42,
+    "correctionRequiredCount": 8,
     "passSceneIds": [
       "ZH_HSK3_SC002",
       "ZH_HSK3_SC003",
       "ZH_HSK3_SC004",
+      "ZH_HSK3_SC005",
       "ZH_HSK3_SC006",
       "ZH_HSK3_SC007",
       "ZH_HSK3_SC008",
@@ -2844,7 +2845,10 @@
       "ZH_HSK3_SC013",
       "ZH_HSK3_SC014",
       "ZH_HSK3_SC015",
+      "ZH_HSK3_SC016",
+      "ZH_HSK3_SC017",
       "ZH_HSK3_SC018",
+      "ZH_HSK3_SC019",
       "ZH_HSK3_SC020",
       "ZH_HSK3_SC021",
       "ZH_HSK3_SC022",
@@ -2876,10 +2880,6 @@
     ],
     "correctionRequiredSceneIds": [
       "ZH_HSK3_SC001",
-      "ZH_HSK3_SC005",
-      "ZH_HSK3_SC016",
-      "ZH_HSK3_SC017",
-      "ZH_HSK3_SC019",
       "ZH_HSK3_SC029",
       "ZH_HSK3_SC030",
       "ZH_HSK3_SC037",
@@ -2896,16 +2896,16 @@
         "RESOLVED_R3_remote_LiuMei_canonical_visual_QA"
       ],
       "ZH_HSK3_SC005": [
-        "extra_non_dialogue_prominent_character_Yutong"
+        "RESOLVED_R4_user_approved_chinese_classroom_board_exception"
       ],
       "ZH_HSK3_SC016": [
-        "visual_location_mismatch_with_scene_JSON"
+        "RESOLVED_R4_home_setting_cast_and_menu_tasting"
       ],
       "ZH_HSK3_SC017": [
-        "visual_location_mismatch_with_scene_JSON"
+        "RESOLVED_R4_home_setting_cast_and_pricing"
       ],
       "ZH_HSK3_SC019": [
-        "graphic_annotation_overlay_in_final_asset"
+        "RESOLVED_R4_no_red_editorial_annotations"
       ],
       "ZH_HSK3_SC029": [
         "exact_cast_mismatch_colleague_missing_Yutong_substituted_on_video"
@@ -2929,11 +2929,12 @@
         "LiuMei_missing_Yutong_substituted_on_video_call"
       ]
     },
-    "appRuntimeMirrorBlobCheck": "PASS_ALL_50",
+    "appRuntimeMirrorBlobCheck": "PASS_ALL_50_POST_R4",
     "styleReferenceSceneId": "ZH_HSK1_SC001",
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
-    "noteTr": "HSK3 50/50 LOCKED_V2 + character bible + HSK1_SC001 stil referansı ile toplu denetlendi. 37 sahne korunuyor, 13 sahne gerçek görsel düzeltme gerektiriyor. Metadata-only düzeltmeler SC015 ve SC018. Yanlış görseller PASS sayılmadı."
+    "noteTr": "2026-10-12 R4: SC005 user exception and SC016/017/019 scene corrections integrated in app/runtime mirrors with canonical cast/scene visual review. Full HSK3 QA now 42/50, still 8 correction scenes; SC001 user exception remains separate.",
+    "latestDelta": "HSK3_SC005_SC016_SC017_SC019_R4_2026-10-12"
   },
   "hsk4FullVisualQaR1": {
     "auditDate": "2026-10-10",
@@ -4206,6 +4207,35 @@
     "qaStatus": "PASS_VISUAL_REFERENCE_BASED",
     "gitBlobSha": "704b435ad606f9c62d595bf682d2cba555ee8a6d",
     "sha256": "b3656290064084ea71a61a21ec68d759b36677818bf35bed153f095f61f5acf9",
+    "actionsRun": false
+  },
+  "hsk3Sc005Sc016Sc017Sc019AcceptanceR4": {
+    "date": "2026-10-12",
+    "status": "PASS_4_INTEGRATED",
+    "scenes": [
+      {
+        "sceneId": "ZH_HSK3_SC005",
+        "gitBlobSha": "32a3bbfc5f8132eb2db828693f8a0f80ec8e3dfa",
+        "sha256": "797359b9e6b7e0e4531030a0d18595481abc765c68bcff6ae277d26a54f9ce22"
+      },
+      {
+        "sceneId": "ZH_HSK3_SC016",
+        "gitBlobSha": "013a231d016fcc2a162d4aaa4989b766c756eeb6",
+        "sha256": "8a060151b00ea649941455335d0c63a13b35551b5b71a416d931ad8e05c4aa95"
+      },
+      {
+        "sceneId": "ZH_HSK3_SC017",
+        "gitBlobSha": "4843f78c9c5641a64788ef6ccfdc9f717a592d9d",
+        "sha256": "fb694c3b0dc075f9d72b8055fc02031a010f6e4df6e13a7b792a931d5eee9a0a"
+      },
+      {
+        "sceneId": "ZH_HSK3_SC019",
+        "gitBlobSha": "f7b9f5ed0a44bd424a0ea370f2e7d492d69d4b9e",
+        "sha256": "ebd3edd2e5487d9110b2b0efb7686f994061ef6aba5731968615fe2f66ba17a4"
+      }
+    ],
+    "qaPassCount": 42,
+    "remaining": 8,
     "actionsRun": false
   }
 }

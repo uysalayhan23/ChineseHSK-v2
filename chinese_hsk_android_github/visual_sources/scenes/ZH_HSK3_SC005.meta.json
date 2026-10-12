@@ -38,7 +38,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "dc1d8e9e36c4f31ad239c03d71e9cf8e8f5cf15a5cfdb1f3bdd7185a875fc68a"
+    "sha256": "797359b9e6b7e0e4531030a0d18595481abc765c68bcff6ae277d26a54f9ce22",
+    "bytes": 182194,
+    "gitBlobSha": "32a3bbfc5f8132eb2db828693f8a0f80ec8e3dfa"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -56,30 +58,29 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-12: User explicitly approved candidate with readable Chinese classroom-rules text as scene-only exception. Awaiting upload of candidate WebP; existing older asset remains QA FAIL until verified binary integration.",
+  "qaNoteTr": "2026-10-12 R4: User-approved clean four-person classroom candidate; readable Chinese classroom rules allowed for SC005 only. 9:16 WebP and identical app/runtime Git blobs verified.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
-    "dialogueMatch": false,
-    "speakerCountMatch": false,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "extra_non_dialogue_prominent_character_Yutong"
-    ],
-    "bulkAudit": "HSK3_SC001_SC008_VISUAL_QA_R1_2026-10-10"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK3_SC001_SC008_VISUAL_QA_R1_2026-10-10",
+    "finalAudit": "HSK3_VISUAL_BINARY_QA_R4_2026-10-12"
   },
   "userApprovedCandidateR2": {
     "date": "2026-10-12",
-    "status": "USER_APPROVED_PENDING_BINARY_UPLOAD",
+    "status": "INTEGRATED_AND_VERIFIED",
     "sceneId": "ZH_HSK3_SC005",
     "expectedSha256": "797359b9e6b7e0e4531030a0d18595481abc765c68bcff6ae277d26a54f9ce22",
     "expectedGitBlobSha": "32a3bbfc5f8132eb2db828693f8a0f80ec8e3dfa",
@@ -93,7 +94,18 @@
       "张伟",
       "刘梅"
     ],
-    "qaPassAssigned": false,
-    "reason": "Pending upload of exact approved binary and app/runtime mirror check."
+    "qaPassAssigned": true,
+    "reason": "Pending upload of exact approved binary and app/runtime mirror check.",
+    "integratedGitBlobSha": "32a3bbfc5f8132eb2db828693f8a0f80ec8e3dfa"
+  },
+  "sceneQaFinalR4": {
+    "date": "2026-10-12",
+    "qaStatus": "PASS",
+    "actualGitBlobSha": "32a3bbfc5f8132eb2db828693f8a0f80ec8e3dfa",
+    "actualSha256": "797359b9e6b7e0e4531030a0d18595481abc765c68bcff6ae277d26a54f9ce22",
+    "bytes": 182194,
+    "appRuntimeMirrorBlobMatchedInAtomicTree": true,
+    "actionsRun": false,
+    "visualNote": "Text on classroom rules board accepted only for this scene by user"
   }
 }

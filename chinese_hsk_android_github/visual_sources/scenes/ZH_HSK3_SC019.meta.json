@@ -47,7 +47,10 @@
     "width": 941,
     "height": 1672,
     "format": "WEBP",
-    "orientation": "9:16_vertical"
+    "orientation": "9:16_vertical",
+    "sha256": "ebd3edd2e5487d9110b2b0efb7686f994061ef6aba5731968615fe2f66ba17a4",
+    "bytes": 186298,
+    "gitBlobSha": "f7b9f5ed0a44bd424a0ea370f2e7d492d69d4b9e"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -66,26 +69,25 @@
     "uniqueSceneIdChecked": true,
     "hsk3MaturityLockChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-12: Clean 941x1672 WebP SC019 candidate produced; overlay removed, but regenerated art is not pixel-identical to original. Candidate SHA256 recorded. Repo still points to old annotated WebP, so FAIL retained until approved candidate binary is integrated and app/runtime hashes verified.",
+  "qaNoteTr": "2026-10-12 R4: Red editorial circle/arrow removed; regenerated café sign installation with four locked adults and tools accepted; 9:16 and app/runtime Git blob matching.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
     "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "graphic_annotation_overlay_in_final_asset"
-    ],
-    "bulkAudit": "HSK3_SC017_SC024_VISUAL_QA_R1_2026-10-10"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK3_SC017_SC024_VISUAL_QA_R1_2026-10-10",
+    "finalAudit": "HSK3_VISUAL_BINARY_QA_R4_2026-10-12"
   },
   "overlayAuditR2": {
     "date": "2026-10-12",
@@ -102,13 +104,13 @@
       ]
     },
     "requiredRepair": "remove editorial overlay only; keep sign, faces, café and tools identical",
-    "status": "REPAIR_PENDING",
+    "status": "RESOLVED_R4",
     "qaPassAssigned": false,
     "actionsRun": false
   },
   "correctedCandidateR3": {
     "date": "2026-10-12",
-    "status": "CANDIDATE_STAGED_LOCALLY_NOT_IN_REPO",
+    "status": "INTEGRATED_AND_VERIFIED",
     "width": 941,
     "height": 1672,
     "format": "WEBP",
@@ -117,7 +119,17 @@
     "redArrowCircleAbsent": true,
     "sceneType": "Cafe sign installation",
     "identityNote": "Regenerated scene, not pixel-preserving edit",
-    "qaStatus": "PENDING_BINARY_INTEGRATION",
+    "qaStatus": "PASS",
     "actionsRun": false
+  },
+  "sceneQaFinalR4": {
+    "date": "2026-10-12",
+    "qaStatus": "PASS",
+    "actualGitBlobSha": "f7b9f5ed0a44bd424a0ea370f2e7d492d69d4b9e",
+    "actualSha256": "ebd3edd2e5487d9110b2b0efb7686f994061ef6aba5731968615fe2f66ba17a4",
+    "bytes": 186298,
+    "appRuntimeMirrorBlobMatchedInAtomicTree": true,
+    "actionsRun": false,
+    "visualNote": "Corrected replacement regenerated, not pixel-identical; red overlay absent"
   }
 }
