@@ -50,7 +50,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "af6032ea2dfdbef983b0536b247359465c59e102c1773594946fd3180ea3e535"
+    "sha256": "403d3d306313359625519656b01de0c88d52ece0eff65193659a0f298a40fc8f",
+    "bytes": 132366,
+    "gitBlobSha": "f80a89a4c44243e056a27949e56ebab3ed7694a4"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -69,26 +71,25 @@
     "uniqueSceneIdChecked": true,
     "hsk3MaturityLockChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-12 R3: R3 hotel candidate shows adult Liu Mei physically at reception, but metadata requires mature_adult_video_call. Follow-up attempt became two-panel collage and was rejected. New candidate not accepted. Existing app/runtime assets preserved.",
+  "qaNoteTr": "2026-10-12 R6: Single 9:16 hotel reception CGI image: physical Zhang Wei with rectangular black glasses, adult coworker and hotel staff; canonical mature Liu Mei appears only on tablet video call (tied-back hair and cream clothes). One scene, no collage. Corrected WebP integrated into app/runtime using the same verified Git blob.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
-    "dialogueMatch": false,
-    "speakerCountMatch": false,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "exact_cast_mismatch_colleague_missing_Yutong_substituted_on_video"
-    ],
-    "bulkAudit": "HSK3_SC025_SC032_VISUAL_QA_R1_2026-10-10"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK3_SC025_SC032_VISUAL_QA_R1_2026-10-10",
+    "finalAudit": "HSK3_SC029_VISUAL_QA_R6_2026-10-12"
   },
   "candidateAuditR2": {
     "date": "2026-10-12",
@@ -107,5 +108,27 @@
     "previousAcceptedAssetsUnchanged": true,
     "actionsRun": false,
     "qaPassAssigned": false
+  },
+  "sceneQaFinalR6": {
+    "date": "2026-10-12",
+    "qaStatus": "PASS",
+    "sceneId": "ZH_HSK3_SC029",
+    "gitBlobSha": "f80a89a4c44243e056a27949e56ebab3ed7694a4",
+    "sha256": "403d3d306313359625519656b01de0c88d52ece0eff65193659a0f298a40fc8f",
+    "bytes": 132366,
+    "imageSize": [
+      941,
+      1672
+    ],
+    "visualInspection": "PASS",
+    "canonicalLiuMei": "mature adult, tied-back brown hair, cream top, video call on tablet only",
+    "physicalCast": [
+      "Zhang Wei",
+      "adult colleague",
+      "hotel employee"
+    ],
+    "singleSceneNoCollage": true,
+    "appRuntimeMirrorMatchExpected": true,
+    "actionsRun": false
   }
 }

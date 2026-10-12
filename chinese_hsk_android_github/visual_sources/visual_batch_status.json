@@ -2828,8 +2828,8 @@
     "manifestVersion": "LOCKED_V2",
     "referenceSceneId": "ZH_HSK1_SC001",
     "totalScenes": 50,
-    "passCount": 43,
-    "correctionRequiredCount": 7,
+    "passCount": 44,
+    "correctionRequiredCount": 6,
     "passSceneIds": [
       "ZH_HSK3_SC002",
       "ZH_HSK3_SC003",
@@ -2858,6 +2858,7 @@
       "ZH_HSK3_SC026",
       "ZH_HSK3_SC027",
       "ZH_HSK3_SC028",
+      "ZH_HSK3_SC029",
       "ZH_HSK3_SC030",
       "ZH_HSK3_SC031",
       "ZH_HSK3_SC032",
@@ -2881,7 +2882,6 @@
     ],
     "correctionRequiredSceneIds": [
       "ZH_HSK3_SC001",
-      "ZH_HSK3_SC029",
       "ZH_HSK3_SC037",
       "ZH_HSK3_SC038",
       "ZH_HSK3_SC039",
@@ -2908,7 +2908,7 @@
         "RESOLVED_R4_no_red_editorial_annotations"
       ],
       "ZH_HSK3_SC029": [
-        "exact_cast_mismatch_colleague_missing_Yutong_substituted_on_video"
+        "RESOLVED_R6_hotel_correct_cast_remote_canonical_LiuMei_tablet"
       ],
       "ZH_HSK3_SC030": [
         "RESOLVED_R5_canonical_remote_LiuMei_and_wordless_presentation_charts"
@@ -2933,8 +2933,8 @@
     "styleReferenceSceneId": "ZH_HSK1_SC001",
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
-    "noteTr": "2026-10-12 R5: SC030 canonical office presentation fixed and binary Git blob integrated; SC029 remains FAIL awaiting mature Liu Mei on video-call. 43/50 PASS if mirror SHA post-commit matches.",
-    "latestDelta": "HSK3_SC030_R5_2026-10-12"
+    "noteTr": "2026-10-12 R6: SC029 hotel scene fixed with canonical Liu Mei only on tablet, physical Zhang Wei, colleague and staff. SC030 R5 PASS retained. App/runtime binaries attached to matching Git SHA; 44/50 PASS, six failures remain.",
+    "latestDelta": "HSK3_SC029_R6_2026-10-12"
   },
   "hsk4FullVisualQaR1": {
     "auditDate": "2026-10-10",
@@ -4248,5 +4248,16 @@
     "actionsRun": false,
     "totalPassCount": 43,
     "remainingCount": 7
+  },
+  "hsk3Sc029AcceptanceR6": {
+    "date": "2026-10-12",
+    "sceneId": "ZH_HSK3_SC029",
+    "status": "PASS",
+    "gitBlobSha": "f80a89a4c44243e056a27949e56ebab3ed7694a4",
+    "sha256": "403d3d306313359625519656b01de0c88d52ece0eff65193659a0f298a40fc8f",
+    "appAndRuntimeMirrorIntegrated": true,
+    "actionsRun": false,
+    "totalPassCount": 44,
+    "remainingCount": 6
   }
 }
