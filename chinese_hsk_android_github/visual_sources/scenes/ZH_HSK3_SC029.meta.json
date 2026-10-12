@@ -72,7 +72,7 @@
   "qaStatus": "FAIL",
   "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: exact_cast_mismatch_colleague_missing_Yutong_substituted_on_video. HSK1_SC001 görsel tekniği ve character bible exact cast ile düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-12 R3: R3 hotel candidate shows adult Liu Mei physically at reception, but metadata requires mature_adult_video_call. Follow-up attempt became two-panel collage and was rejected. New candidate not accepted. Existing app/runtime assets preserved.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
@@ -98,5 +98,14 @@
     "qaPassAssigned": false,
     "existingAssetPreserved": true,
     "actionsRun": false
+  },
+  "candidateAuditR3": {
+    "date": "2026-10-12",
+    "status": "REJECTED_FOR_FINAL_QA",
+    "reason": "R3 hotel candidate shows adult Liu Mei physically at reception, but metadata requires mature_adult_video_call. Follow-up attempt became two-panel collage and was rejected.",
+    "correctiveTarget": "Hotel reception: Zhang Wei + adult colleague + hotel clerk physically, Liu Mei on one video screen; no collage.",
+    "previousAcceptedAssetsUnchanged": true,
+    "actionsRun": false,
+    "qaPassAssigned": false
   }
 }

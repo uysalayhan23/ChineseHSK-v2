@@ -72,7 +72,7 @@
   "qaStatus": "FAIL",
   "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: LiuMei_missing_Yutong_substituted_on_video. HSK1_SC001 görsel tekniği ve character bible exact cast ile düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-12 R3: R3 conference candidate depicts adult Liu Mei remotely and correct three in-person roles, but large presentation monitor is blank; critical LOCKED_V2 presentation shapes/charts missing, so full scene QA not yet complete. New candidate not accepted. Existing app/runtime assets preserved.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
@@ -98,5 +98,19 @@
     "qaPassAssigned": false,
     "existingAssetPreserved": true,
     "actionsRun": false
+  },
+  "candidateAuditR3": {
+    "date": "2026-10-12",
+    "status": "REJECTED_FOR_FINAL_QA",
+    "reason": "R3 conference candidate depicts adult Liu Mei remotely and correct three in-person roles, but large presentation monitor is blank; critical LOCKED_V2 presentation shapes/charts missing, so full scene QA not yet complete.",
+    "correctiveTarget": "Keep seated characters and adult Liu Mei call; presentation screen must display textless charts/figures. Avoid reusing Yutong identity.",
+    "previousAcceptedAssetsUnchanged": true,
+    "actionsRun": false,
+    "qaPassAssigned": false,
+    "binaryCandidate": {
+      "localWebpSha256": "be59fed950c18073493f17947428097e60ed7b894358f01eef5f616e58cf2b83",
+      "gitObjectShaCreated": "0b61ccaf030f5ad80d227b05ea9223167886aebb",
+      "note": "Git blob exists as unattached object, not in app/runtime; avoid claiming final upload."
+    }
   }
 }
