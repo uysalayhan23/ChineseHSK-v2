@@ -4191,5 +4191,14 @@
     "gitBlobSha": "dc82279ba2efcd7f84899340daa1ed475b4b0bd4",
     "appRuntimeMirrorMatch": true,
     "actionsRun": false
+  },
+  "hsk3Sc003StagedR2": {
+    "date": "2026-10-12",
+    "status": "STAGED_CANONICAL_QA_PENDING",
+    "sceneId": "ZH_HSK3_SC003",
+    "sha256": "b3656290064084ea71a61a21ec68d759b36677818bf35bed153f095f61f5acf9",
+    "gitBlobSha": "704b435ad606f9c62d595bf682d2cba555ee8a6d",
+    "appRuntimeMirrorMatch": true,
+    "actionsRun": false
   }
 }

@@ -34,11 +34,13 @@
   "finalAssetFilename": "ZH_HSK3_SC003.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC003.webp",
   "image": {
-    "width": 941,
-    "height": 1672,
+    "width": 942,
+    "height": 1669,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "45ef7c69e54acb90180da5afec9e35e63b3d709c4681d598cb3996596c09d80f"
+    "sha256": "b3656290064084ea71a61a21ec68d759b36677818bf35bed153f095f61f5acf9",
+    "bytes": 125874,
+    "gitBlobSha": "704b435ad606f9c62d595bf682d2cba555ee8a6d"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -57,9 +59,9 @@
     "uniqueSceneIdChecked": true
   },
   "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "status": "STAGED_QA_PENDING",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: LiuMei_missing_replaced_by_Yutong_on_video_call. HSK1_SC001 görsel tekniği ve character bible exact cast ile düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-12: corrected office scene staged to app and runtime mirror with matching binary; Liu Mei face identity final QA pending, historical FAIL not yet cleared.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
@@ -76,5 +78,14 @@
       "LiuMei_missing_replaced_by_Yutong_on_video_call"
     ],
     "bulkAudit": "HSK3_SC001_SC008_VISUAL_QA_R1_2026-10-10"
+  },
+  "stagedCandidateR2": {
+    "date": "2026-10-12",
+    "sha256": "b3656290064084ea71a61a21ec68d759b36677818bf35bed153f095f61f5acf9",
+    "gitBlobSha": "704b435ad606f9c62d595bf682d2cba555ee8a6d",
+    "appRuntimeMirrorMatch": true,
+    "canonicalLiuMeiFaceReview": "PENDING",
+    "qaPassAssigned": false,
+    "actionsRun": false
   }
 }
