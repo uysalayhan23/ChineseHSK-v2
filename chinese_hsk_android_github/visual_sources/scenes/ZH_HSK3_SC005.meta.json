@@ -59,7 +59,7 @@
   "qaStatus": "FAIL",
   "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: extra_non_dialogue_prominent_character_Yutong. HSK1_SC001 görsel tekniği ve character bible exact cast ile düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-12: User explicitly approved candidate with readable Chinese classroom-rules text as scene-only exception. Awaiting upload of candidate WebP; existing older asset remains QA FAIL until verified binary integration.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
@@ -76,5 +76,24 @@
       "extra_non_dialogue_prominent_character_Yutong"
     ],
     "bulkAudit": "HSK3_SC001_SC008_VISUAL_QA_R1_2026-10-10"
+  },
+  "userApprovedCandidateR2": {
+    "date": "2026-10-12",
+    "status": "USER_APPROVED_PENDING_BINARY_UPLOAD",
+    "sceneId": "ZH_HSK3_SC005",
+    "expectedSha256": "797359b9e6b7e0e4531030a0d18595481abc765c68bcff6ae277d26a54f9ce22",
+    "expectedGitBlobSha": "32a3bbfc5f8132eb2db828693f8a0f80ec8e3dfa",
+    "width": 941,
+    "height": 1672,
+    "format": "WEBP",
+    "exception": "Readably written Chinese classroom rules board is explicitly user-approved for this scene only.",
+    "canonicalCast": [
+      "张乐乐",
+      "老师",
+      "张伟",
+      "刘梅"
+    ],
+    "qaPassAssigned": false,
+    "reason": "Pending upload of exact approved binary and app/runtime mirror check."
   }
 }
