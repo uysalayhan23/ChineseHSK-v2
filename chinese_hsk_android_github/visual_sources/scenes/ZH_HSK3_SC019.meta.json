@@ -69,7 +69,7 @@
   "qaStatus": "FAIL",
   "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: sahne/cast doğru ancak final görsele kırmızı daire ve ok anotasyonu gömülmüş. HSK1_SC001 formatı metinsiz/overlaysiz tek sahne ister; temiz final asset gerekli.",
+  "qaNoteTr": "2026-10-12 visual inspection confirms red circle and arrow physically baked into SC019 WebP near sign lower-right edge; wrong new-generation collage rejected. Existing asset kept and QA FAIL remains until clean verified WebP is available.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
@@ -86,5 +86,24 @@
       "graphic_annotation_overlay_in_final_asset"
     ],
     "bulkAudit": "HSK3_SC017_SC024_VISUAL_QA_R1_2026-10-10"
+  },
+  "overlayAuditR2": {
+    "date": "2026-10-12",
+    "currentAssetBlobSha": "65d50c604032f0edb24bea4d7169c8f37762e360",
+    "overlay": "red outlined oval and right-pointing arrow at lower-right sign border",
+    "affectedImageRegionApprox": {
+      "xRangePercent": [
+        72,
+        94
+      ],
+      "yRangePercent": [
+        24,
+        36
+      ]
+    },
+    "requiredRepair": "remove editorial overlay only; keep sign, faces, café and tools identical",
+    "status": "REPAIR_PENDING",
+    "qaPassAssigned": false,
+    "actionsRun": false
   }
 }
