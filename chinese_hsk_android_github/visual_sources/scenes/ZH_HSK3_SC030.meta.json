@@ -89,5 +89,14 @@
       "LiuMei_missing_Yutong_substituted_on_video"
     ],
     "bulkAudit": "HSK3_SC025_SC032_VISUAL_QA_R1_2026-10-10"
+  },
+  "candidateAuditR2": {
+    "date": "2026-10-12",
+    "result": "REJECTED",
+    "reason": "New candidate is conference room but remote participant canonical Liu Mei identity not reliably established; avoid incorrect Yutong substitution.",
+    "sourceOfTruth": "LOCKED_V2 scene JSON",
+    "qaPassAssigned": false,
+    "existingAssetPreserved": true,
+    "actionsRun": false
   }
 }

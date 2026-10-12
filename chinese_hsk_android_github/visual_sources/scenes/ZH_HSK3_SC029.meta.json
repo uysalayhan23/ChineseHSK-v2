@@ -89,5 +89,14 @@
       "exact_cast_mismatch_colleague_missing_Yutong_substituted_on_video"
     ],
     "bulkAudit": "HSK3_SC025_SC032_VISUAL_QA_R1_2026-10-10"
+  },
+  "candidateAuditR2": {
+    "date": "2026-10-12",
+    "result": "REJECTED",
+    "reason": "New candidate depicts office cafe design meeting, not locked hotel reservation scene LOC_ZH_HOTEL_001.",
+    "sourceOfTruth": "LOCKED_V2 scene JSON",
+    "qaPassAssigned": false,
+    "existingAssetPreserved": true,
+    "actionsRun": false
   }
 }
