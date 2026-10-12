@@ -58,34 +58,34 @@
     "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "STAGED_QA_PENDING",
+  "qaStatus": "PASS",
+  "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-12: corrected office scene staged to app and runtime mirror with matching binary; Liu Mei face identity final QA pending, historical FAIL not yet cleared.",
+  "qaNoteTr": "2026-10-12 R3: reviewed current SC003 office image: correct local Zhang Wei, manager, coworker and remote adult Liu Mei; canonical Liu Mei stylized bun/face matches accepted HSK1_SC001 and HSK2_SC023 at visual-reference level; project board and documents visible. Both app/runtime binaries matched previously. Visual-reference PASS does not imply pixel-identical face transfer.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
-    "dialogueMatch": false,
-    "speakerCountMatch": false,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
-    "referenceSceneId": "ZH_HSK1_SC001",
+    "exactCastChecked": true,
+    "referenceSceneId": "ZH_HSK2_SC023",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "LiuMei_missing_replaced_by_Yutong_on_video_call"
-    ],
-    "bulkAudit": "HSK3_SC001_SC008_VISUAL_QA_R1_2026-10-10"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK3_SC001_SC008_VISUAL_QA_R1_2026-10-10",
+    "finalAudit": "HSK3_SC003_R3_2026-10-12"
   },
   "stagedCandidateR2": {
     "date": "2026-10-12",
     "sha256": "b3656290064084ea71a61a21ec68d759b36677818bf35bed153f095f61f5acf9",
     "gitBlobSha": "704b435ad606f9c62d595bf682d2cba555ee8a6d",
     "appRuntimeMirrorMatch": true,
-    "canonicalLiuMeiFaceReview": "PENDING",
-    "qaPassAssigned": false,
-    "actionsRun": false
+    "canonicalLiuMeiFaceReview": "PASS_VISUAL_REFERENCE_BASED",
+    "qaPassAssigned": true,
+    "actionsRun": false,
+    "status": "ACCEPTED_QA_PASS_R3"
   }
 }

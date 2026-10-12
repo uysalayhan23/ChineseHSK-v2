@@ -2828,10 +2828,11 @@
     "manifestVersion": "LOCKED_V2",
     "referenceSceneId": "ZH_HSK1_SC001",
     "totalScenes": 50,
-    "passCount": 37,
-    "correctionRequiredCount": 13,
+    "passCount": 38,
+    "correctionRequiredCount": 12,
     "passSceneIds": [
       "ZH_HSK3_SC002",
+      "ZH_HSK3_SC003",
       "ZH_HSK3_SC004",
       "ZH_HSK3_SC006",
       "ZH_HSK3_SC007",
@@ -2875,7 +2876,6 @@
     ],
     "correctionRequiredSceneIds": [
       "ZH_HSK3_SC001",
-      "ZH_HSK3_SC003",
       "ZH_HSK3_SC005",
       "ZH_HSK3_SC016",
       "ZH_HSK3_SC017",
@@ -2893,7 +2893,7 @@
         "ZhangWei_identity_drift_missing_signature_glasses"
       ],
       "ZH_HSK3_SC003": [
-        "LiuMei_missing_replaced_by_Yutong_on_video_call"
+        "RESOLVED_R3_remote_LiuMei_canonical_visual_QA"
       ],
       "ZH_HSK3_SC005": [
         "extra_non_dialogue_prominent_character_Yutong"
@@ -4199,6 +4199,13 @@
     "sha256": "b3656290064084ea71a61a21ec68d759b36677818bf35bed153f095f61f5acf9",
     "gitBlobSha": "704b435ad606f9c62d595bf682d2cba555ee8a6d",
     "appRuntimeMirrorMatch": true,
+    "actionsRun": false
+  },
+  "hsk3Sc003FinalAcceptanceR3": {
+    "date": "2026-10-12",
+    "qaStatus": "PASS_VISUAL_REFERENCE_BASED",
+    "gitBlobSha": "704b435ad606f9c62d595bf682d2cba555ee8a6d",
+    "sha256": "b3656290064084ea71a61a21ec68d759b36677818bf35bed153f095f61f5acf9",
     "actionsRun": false
   }
 }
