@@ -69,7 +69,7 @@
   "qaStatus": "FAIL",
   "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-12 visual inspection confirms red circle and arrow physically baked into SC019 WebP near sign lower-right edge; wrong new-generation collage rejected. Existing asset kept and QA FAIL remains until clean verified WebP is available.",
+  "qaNoteTr": "2026-10-12: Clean 941x1672 WebP SC019 candidate produced; overlay removed, but regenerated art is not pixel-identical to original. Candidate SHA256 recorded. Repo still points to old annotated WebP, so FAIL retained until approved candidate binary is integrated and app/runtime hashes verified.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
@@ -104,6 +104,20 @@
     "requiredRepair": "remove editorial overlay only; keep sign, faces, café and tools identical",
     "status": "REPAIR_PENDING",
     "qaPassAssigned": false,
+    "actionsRun": false
+  },
+  "correctedCandidateR3": {
+    "date": "2026-10-12",
+    "status": "CANDIDATE_STAGED_LOCALLY_NOT_IN_REPO",
+    "width": 941,
+    "height": 1672,
+    "format": "WEBP",
+    "bytes": 186298,
+    "sha256": "ebd3edd2e5487d9110b2b0efb7686f994061ef6aba5731968615fe2f66ba17a4",
+    "redArrowCircleAbsent": true,
+    "sceneType": "Cafe sign installation",
+    "identityNote": "Regenerated scene, not pixel-preserving edit",
+    "qaStatus": "PENDING_BINARY_INTEGRATION",
     "actionsRun": false
   }
 }
