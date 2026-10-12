@@ -7,7 +7,7 @@
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC017.json",
   "dialogueSha256": "9172ba337f332e3954652425ab5dfb1acaeb77bdd6ce5b179c59b0247ea4a26d",
   "titleTr": "Fiyat Belirleme",
-  "locationId": "LOC_ZH_CAFE_PREMISES_001",
+  "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Malzeme maliyeti ile müşterinin ödeyebileceği fiyat arasında denge aranır.",
   "dialogueSpeakers": [
     "刘梅",
@@ -69,7 +69,7 @@
   "qaStatus": "FAIL",
   "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: gerçek scene JSON LOC_ZH_NEW_HOME_001 fiyat belirleme sahnesini isterken mevcut final asset kafe ortamı gösteriyor. HSK1_SC001 stilinde doğru ev ortamıyla yeni/düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-12: Metadata locationId aligned with locked scene JSON LOC_ZH_NEW_HOME_001. Existing WebP still depicts cafe premises and remains QA FAIL. No replacement image accepted.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
@@ -86,5 +86,14 @@
       "visual_location_mismatch_with_scene_JSON"
     ],
     "bulkAudit": "HSK3_SC017_SC024_VISUAL_QA_R1_2026-10-10"
+  },
+  "locationAuditR2": {
+    "date": "2026-10-12",
+    "sourceOfTruth": "chinese_course/levels/HSK3/scenes/ZH_HSK3_SC017.json",
+    "expectedLocationId": "LOC_ZH_NEW_HOME_001",
+    "currentWebpLocation": "CAFE_PREMISES",
+    "visualQa": "FAIL",
+    "repairRequired": true,
+    "actionsRun": false
   }
 }
