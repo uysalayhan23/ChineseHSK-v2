@@ -69,7 +69,7 @@
   "qaStatus": "FAIL",
   "status": "CORRECTION_REQUIRED",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: LiuMei_missing_Yutong_substituted_in_grandmother_kitchen_scene. Exact cast ve character bible ile düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: LiuMei_missing_Yutong_substituted_in_grandmother_kitchen_scene. Exact cast ve character bible ile düzeltilmiş final asset gerekli. 2026-10-12: Original image reviewed; precise targeted character region recorded. No WebP binary or QA PASS change; pixel-preserving repair still unperformed.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
@@ -86,5 +86,40 @@
       "LiuMei_missing_Yutong_substituted_in_grandmother_kitchen_scene"
     ],
     "bulkAudit": "HSK3_SC041_SC050_VISUAL_QA_R1_2026-10-10"
+  },
+  "targetedVisualAudit20261012": {
+    "date": "2026-10-12",
+    "review": "CURRENT_MAIN_WEBP_VISUAL",
+    "originalGitBlobSha": "3ff618939e08d4e7d7fe5e4b30878276eb5e56b1",
+    "originalDimensionsPx": [
+      941,
+      1672
+    ],
+    "confirmedIssue": "Liu Mei missing, young Zhang Yutong-like character substituted",
+    "preserveScene": true,
+    "preserveUnmaskedPixelsRequired": true,
+    "problemRegion": {
+      "approxBoundingBoxPx": [
+        735,
+        440,
+        940,
+        1040
+      ],
+      "description": "far-right standing woman including hair and upper torso; NOT an approved automatic mask"
+    },
+    "repairPlan": "Physical character replacement requires accepted full-body or upper-body canonical Liu Mei reference with matching perspective; simple face swap is insufficient.",
+    "visualFindings": "Kitchen: far-right young woman has loose dark hair and pink sweater, inconsistent with mature canonical Liu Mei. Zhang Wei (left), grandmother (front center), grandfather (back center), dumplings, dough, rolling pin and kitchen remain. Replace right character's head/hair/clothing within carefully traced silhouette; preserve everyone and all background pixels outside explicit mask.",
+    "acceptanceCriteria": [
+      "LOCKED_V2 exact speaker cast verified",
+      "canonical Liu Mei correct adult identity in repaired region",
+      "same scene composition, no split-screen or collage",
+      "lossless WebP and strict zero pixel differences outside repair mask",
+      "app/runtime blobs match after upload",
+      "manual full-image visual review"
+    ],
+    "realWebpPixelTest": "NOT_RUN",
+    "qaStatus": "FAIL_PENDING_REPAIR",
+    "imageAssetModified": false,
+    "actionsRun": false
   }
 }
