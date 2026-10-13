@@ -66,9 +66,9 @@
     "hsk3MaturityLockChecked": true
   },
   "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "status": "USER_APPROVED_WITH_DOCUMENTED_QA_EXCEPTION",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: LiChen_identity_drift_missing_signature_rectangular_glasses. Character bible/exact cast ve HSK1_SC001 formatında düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "2026-10-13: Kullanıcı Li Chen gözlük görünümünü bu hâliyle açıkça kabul etti. Güncel WebP değiştirilmedi; app/runtime Git blob eşitliği doğrulandı. LOCKED_V2 canonical gözlük sapması teknik QA FAIL olarak tarihsel/açıklamalı tutulur; kullanıcı onaylı kabul nedeniyle ek gözlük onarımı planlanmaz. Teknik PASS sayacı artırılmadı.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
@@ -84,6 +84,27 @@
     "rejectionReasons": [
       "LiChen_identity_drift_missing_signature_rectangular_glasses"
     ],
-    "bulkAudit": "HSK3_SC033_SC040_VISUAL_QA_R1_2026-10-10"
+    "bulkAudit": "HSK3_SC033_SC040_VISUAL_QA_R1_2026-10-10",
+    "userApprovedException": true,
+    "technicalFailureDocumented": "LiChen_identity_drift_missing_signature_rectangular_glasses",
+    "acceptedAsIs": true,
+    "repairRequiredByUser": false,
+    "QAReconciliationDate": "2026-10-13"
+  },
+  "userApprovedVisualException20261013": {
+    "date": "2026-10-13",
+    "scope": "current-existing-WebP-as-is",
+    "exceptionType": "LiChen_rectangular_glasses_visual_discrepancy",
+    "userRequest": "Gözlüğü bu şekilde kabul et",
+    "userApproved": true,
+    "otherSceneChangesAuthorized": false,
+    "visualRepairNotRequested": true,
+    "existingWebPKept": true,
+    "appRuntimeBlobSha": "5e3745c924c9bf21358b48c29d8236b29795a43a",
+    "appRuntimeBlobMatch": true,
+    "strictLockedV2QaStatus": "FAIL",
+    "operationalStatus": "USER_ACCEPTED_NO_FURTHER_GLASSES_REPAIR",
+    "reOpenOnlyIfUserRequests": true,
+    "actionsRun": false
   }
 }

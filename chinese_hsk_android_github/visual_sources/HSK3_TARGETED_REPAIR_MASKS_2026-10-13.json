@@ -45,7 +45,18 @@
     "acceptedPreserved": [
       "ZH_HSK3_SC029",
       "ZH_HSK3_SC030"
-    ]
+    ],
+    "userAcceptedExceptions": [
+      "ZH_HSK3_SC001",
+      "ZH_HSK3_SC038",
+      "ZH_HSK3_SC039"
+    ],
+    "actionableRepairSceneIds": [
+      "ZH_HSK3_SC037",
+      "ZH_HSK3_SC042",
+      "ZH_HSK3_SC047"
+    ],
+    "actionableRepairCount": 3
   },
   "scenes": [
     {
@@ -118,10 +129,18 @@
       ],
       "repairScript": "chinese_hsk_android_github/ci/repair_hsk3_lichen_glasses.py",
       "identityRequirement": "Li Chen dark thin rectangular glasses, no face or hair swap",
-      "maskStatus": "REVIEW_BOUNDS_ONLY_NOT_AN_APPROVED_MASK",
+      "maskStatus": "NOT_TO_APPLY_USER_ACCEPTED_AS_IS",
       "strictPixelIntegrityStatus": "NOT_RUN_ON_REAL_SOURCE",
-      "canonicalVisualQa": "NOT_PASS",
-      "outputCommitted": false
+      "canonicalVisualQa": "FAIL_WITH_USER_APPROVED_EXCEPTION",
+      "outputCommitted": false,
+      "userApproval": {
+        "date": "2026-10-13",
+        "userAcceptedExistingAppearance": true,
+        "exception": "rectangular_glasses_missing_or_noncanonical",
+        "strictTechnicalQaStatus": "FAIL",
+        "noFurtherGlassesRepairNeeded": true
+      },
+      "actionableRepair": false
     },
     {
       "sceneId": "ZH_HSK3_SC039",
@@ -154,10 +173,18 @@
       ],
       "repairScript": "chinese_hsk_android_github/ci/repair_hsk3_lichen_glasses.py",
       "identityRequirement": "Li Chen dark thin rectangular glasses, no face or hair swap",
-      "maskStatus": "REVIEW_BOUNDS_ONLY_NOT_AN_APPROVED_MASK",
+      "maskStatus": "NOT_TO_APPLY_USER_ACCEPTED_AS_IS",
       "strictPixelIntegrityStatus": "NOT_RUN_ON_REAL_SOURCE",
-      "canonicalVisualQa": "NOT_PASS",
-      "outputCommitted": false
+      "canonicalVisualQa": "FAIL_WITH_USER_APPROVED_EXCEPTION",
+      "outputCommitted": false,
+      "userApproval": {
+        "date": "2026-10-13",
+        "userAcceptedExistingAppearance": true,
+        "exception": "rectangular_glasses_missing_or_noncanonical",
+        "strictTechnicalQaStatus": "FAIL",
+        "noFurtherGlassesRepairNeeded": true
+      },
+      "actionableRepair": false
     },
     {
       "sceneId": "ZH_HSK3_SC042",
@@ -257,5 +284,6 @@
     "noRepeatedFailedAttempts": true
   },
   "imageAssetsModified": false,
-  "actionsRun": false
+  "actionsRun": false,
+  "exceptionReconciliationDate": "2026-10-13"
 }

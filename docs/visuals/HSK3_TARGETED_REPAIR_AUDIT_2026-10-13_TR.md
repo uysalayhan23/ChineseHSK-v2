@@ -36,3 +36,13 @@
 GitHub connector Base64 WebP okuma ve Git blob oluşturmayı destekliyor; ancak connector'dan yerel Pillow/OpenCV ortamına doğrudan dosya aktarım yolu **doğrulanmadı**. Önceki doğrudan ağ denemeleri başarısız olduğundan aynı yöntemi tekrarlayıp PASS iddiasında bulunmayacağız. `repair_hsk3_sc037_screen.py`, `repair_hsk3_lichen_glasses.py` ve `repair_hsk3_sc047_fetch_and_run.py` test/altyapı araçlarıdır; test PASS gerçek sahne QA PASS değildir.
 
 **Bu değişiklik yalnız onarım planı ve kaynak hash sabitlemesidir. İkili WebP değiştirilmedi; 44/50 teknik QA sabit.**
+
+
+## 13.10.2026 — SC038/SC039 kullanıcı kabulü
+
+Kullanıcı **"Gözlüğü bu şekilde kabul et"** talimatıyla SC038 ve SC039'daki Li Chen'in mevcut gözlük görünümünü aynen kabul etti. Görsel dosyaları değiştirilmez; gözlük maskesi uygulanmaz. Bu, LOCKED_V2 içindeki imza niteliğindeki dikdörtgen gözlük kuralına ilişkin **belgeli kullanıcı istisnasıdır**, otomatik teknik QA PASS değildir.
+
+- SC038 mevcut Git blob: `5e3745c924c9bf21358b48c29d8236b29795a43a`
+- SC039 mevcut Git blob: `ffbac7f7f84361e3fcfc1b53a0dd47fdd7847e32`
+- Teknik QA toplamı **44/50 PASS** değişmedi; SC001, SC038 ve SC039 kullanıcı kabulüyle korunan 3 istisna.
+- Aktif gerçek görsel onarımı gereken yalnız **SC037, SC042, SC047**; yeni görsel ve Actions yok.

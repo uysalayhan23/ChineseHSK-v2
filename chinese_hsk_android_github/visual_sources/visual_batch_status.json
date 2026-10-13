@@ -538,12 +538,23 @@
       "ZH_HSK3_SC040"
     ],
     "pendingSceneIds": [],
-    "status": "INTEGRATED_QA_PASS",
+    "status": "CORRECTION_REQUIRED",
     "manifestVersion": "LOCKED_V2",
     "maturityLock": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
     "buildApprovalRequired": true,
     "buildApproved": false,
-    "noteTr": "HSK3 SC031-SC040 10/10 final WebP; app asset + ci/runtime_visuals mirror + LOCKED_V2 metadata/scene analysis olarak entegre edildi. SC031 Yutong young_adult; SC032 Lele teen_boy erkek kimliği; SC037 Liu Mei remote/video continuity. APK build başlatılmadı; yeni açık kullanıcı onayı gerekir."
+    "noteTr": "2026-10-13 mutabakatı: SC031–SC040 10/10 fiziksel WebP mevcut, teknik LOCKED_V2 7/10 PASS; SC038/039 Li Chen gözlükleri mevcut görünümüyle kullanıcı tarafından kabul edildi (teknik QA FAIL ancak onarım beklenmiyor). SC037 görüntülü arama düzeltmesi açık. Eski 10/10 teknik QA PASS notu geçersizdir. APK build/Actions tetiklenmedi.",
+    "integratedAssetCount": 10,
+    "strictQaPassCount": 7,
+    "userApprovedExceptionCount": 2,
+    "userApprovedExceptionSceneIds": [
+      "ZH_HSK3_SC038",
+      "ZH_HSK3_SC039"
+    ],
+    "actionableRepairSceneIds": [
+      "ZH_HSK3_SC037"
+    ],
+    "actionableRepairCount": 1
   },
   "hsk3Sc041Sc050BatchProgress": {
     "batchId": "HSK3_SC041_SC050",
@@ -2925,10 +2936,12 @@
         "LiuMei_missing_Yutong_substituted_on_video"
       ],
       "ZH_HSK3_SC038": [
-        "LiChen_identity_drift_missing_signature_rectangular_glasses"
+        "user_accepted_as_is_LiChen_glasses_exception_2026-10-13",
+        "LOCKED_V2_signature_rectangular_glasses_discrepancy_remains_technical_QA_FAIL"
       ],
       "ZH_HSK3_SC039": [
-        "LiChen_identity_drift_missing_signature_rectangular_glasses"
+        "user_accepted_as_is_LiChen_glasses_exception_2026-10-13",
+        "LOCKED_V2_signature_rectangular_glasses_discrepancy_remains_technical_QA_FAIL"
       ],
       "ZH_HSK3_SC042": [
         "LiuMei_missing_Yutong_substituted_in_grandmother_kitchen_scene"
@@ -2944,10 +2957,20 @@
     "noteTr": "2026-10-12 R6: SC029 hotel scene fixed with canonical Liu Mei only on tablet, physical Zhang Wei, colleague and staff. SC030 R5 PASS retained. App/runtime binaries attached to matching Git SHA; 44/50 PASS, six failures remain.",
     "latestDelta": "HSK3_SC029_R6_2026-10-12",
     "qaExceptionSceneIds": [
-      "ZH_HSK3_SC001"
+      "ZH_HSK3_SC001",
+      "ZH_HSK3_SC038",
+      "ZH_HSK3_SC039"
     ],
-    "qaExceptionPolicyNoteTr": "SC001 güncel WebP'de Zhang Wei siyah gözlükleri mevcut; R1 gözlük hatası eski dosyaya ait. Kullanıcı pasta kutusunun teslim yönü farkını kabul etti. Teknik QA FAIL korunur; PASS sayacı değişmez.",
-    "lastExceptionReconciliationDate": "2026-10-13"
+    "qaExceptionPolicyNoteTr": "SC001 pasta teslim yönü kullanıcı kabulü; SC038/039 Li Chen gözlük görünümü kullanıcı tarafından mevcut haliyle kabul edildi. Bu 3 sahne teknik LOCKED_V2 QA PASS değildir; kullanıcı kabulü sebebiyle güncel onarım backlog'undan çıkarıldı. Teknik 44/50 PASS ve 6 FAIL korunur, aktif onarım SC037/042/047.",
+    "lastExceptionReconciliationDate": "2026-10-13",
+    "userAcceptedExceptionCount": 3,
+    "actionableRepairSceneIds": [
+      "ZH_HSK3_SC037",
+      "ZH_HSK3_SC042",
+      "ZH_HSK3_SC047"
+    ],
+    "actionableRepairCount": 3,
+    "strictQaFailureCount": 6
   },
   "hsk4FullVisualQaR1": {
     "auditDate": "2026-10-10",
@@ -4290,6 +4313,23 @@
     "firstBatchIntegratedCount": 10,
     "firstBatchStrictQaPassCount": 9,
     "hsk3FullPassCountUnchanged": 44,
+    "actionsRun": false
+  },
+  "hsk3Sc038Sc039UserApproved20261013": {
+    "date": "2026-10-13",
+    "sceneIds": [
+      "ZH_HSK3_SC038",
+      "ZH_HSK3_SC039"
+    ],
+    "status": "USER_APPROVED_WITH_DOCUMENTED_QA_EXCEPTION",
+    "currentAssetsUnchanged": true,
+    "gitBlobShas": {
+      "038": "5e3745c924c9bf21358b48c29d8236b29795a43a",
+      "039": "ffbac7f7f84361e3fcfc1b53a0dd47fdd7847e32"
+    },
+    "mirrorVerified": true,
+    "strictQaPassAssigned": false,
+    "activeRepairRequired": false,
     "actionsRun": false
   }
 }
