@@ -423,10 +423,17 @@
       "ZH_HSK3_SC010"
     ],
     "pendingSceneIds": [],
-    "status": "INTEGRATED_QA_PASS",
+    "status": "CORRECTION_REQUIRED",
     "buildApprovalRequired": true,
     "buildApproved": false,
-    "noteTr": "HSK3 SC001-SC010 görselleri ayrı scene ID ile app/runtime/meta/override olarak entegre edildi; 10/10 LOCKED_V2 QA PASS. APK build başlatılmadı; açık kullanıcı onayı gerekir."
+    "noteTr": "2026-10-13 doğrulaması: 10/10 fiziksel görsel app/runtime olarak entegre ve eşit; teknik LOCKED_V2 QA 9/10 PASS, SC001 ise kullanıcının açıkça onayladığı teslim yönü istisnası nedeniyle ayrı kayıtlı ve teknik QA FAIL. Önceki '10/10 QA PASS' ifadesi düzeltilmiştir. APK build tetiklenmedi.",
+    "integratedAssetCount": 10,
+    "strictQaPassCount": 9,
+    "userApprovedExceptionCount": 1,
+    "userApprovedExceptionSceneIds": [
+      "ZH_HSK3_SC001"
+    ],
+    "qaExceptionStatus": "SC001_USER_APPROVED_DELIVERY_DIRECTION;_TECHNICAL_QA_NOT_PASS"
   },
   "hsk3Sc011Sc020BatchProgress": {
     "batchId": "HSK3_SC011_SC020",
@@ -2890,7 +2897,8 @@
     ],
     "reasons": {
       "ZH_HSK3_SC001": [
-        "ZhangWei_identity_drift_missing_signature_glasses"
+        "SC001_current_integrated_image_glasses_PRESENT_historical_R1_reason_resolved",
+        "user_approved_cake_handoff_direction_exception_technical_QA_pending"
       ],
       "ZH_HSK3_SC003": [
         "RESOLVED_R3_remote_LiuMei_canonical_visual_QA"
@@ -2934,7 +2942,12 @@
     "status": "CORRECTION_REQUIRED",
     "actionsRun": false,
     "noteTr": "2026-10-12 R6: SC029 hotel scene fixed with canonical Liu Mei only on tablet, physical Zhang Wei, colleague and staff. SC030 R5 PASS retained. App/runtime binaries attached to matching Git SHA; 44/50 PASS, six failures remain.",
-    "latestDelta": "HSK3_SC029_R6_2026-10-12"
+    "latestDelta": "HSK3_SC029_R6_2026-10-12",
+    "qaExceptionSceneIds": [
+      "ZH_HSK3_SC001"
+    ],
+    "qaExceptionPolicyNoteTr": "SC001 güncel WebP'de Zhang Wei siyah gözlükleri mevcut; R1 gözlük hatası eski dosyaya ait. Kullanıcı pasta kutusunun teslim yönü farkını kabul etti. Teknik QA FAIL korunur; PASS sayacı değişmez.",
+    "lastExceptionReconciliationDate": "2026-10-13"
   },
   "hsk4FullVisualQaR1": {
     "auditDate": "2026-10-10",
@@ -4191,7 +4204,11 @@
     "sha256": "dba34a21e8bacdbbae4b9d09985da60d161cb3c55a835ac4dc76e13b632aaa5e",
     "gitBlobSha": "dc82279ba2efcd7f84899340daa1ed475b4b0bd4",
     "appRuntimeMirrorMatch": true,
-    "actionsRun": false
+    "actionsRun": false,
+    "technicalQaStatus": "FAIL",
+    "currentVisualGlassesPresent": true,
+    "exception": "cake_box_delivery_direction",
+    "auditReconciledDate": "2026-10-13"
   },
   "hsk3Sc003StagedR2": {
     "date": "2026-10-12",
@@ -4259,5 +4276,20 @@
     "actionsRun": false,
     "totalPassCount": 44,
     "remainingCount": 6
+  },
+  "hsk3Sc001ExceptionAudit20261013": {
+    "date": "2026-10-13",
+    "sceneId": "ZH_HSK3_SC001",
+    "sha256": "dba34a21e8bacdbbae4b9d09985da60d161cb3c55a835ac4dc76e13b632aaa5e",
+    "gitBlobSha": "dc82279ba2efcd7f84899340daa1ed475b4b0bd4",
+    "appRuntimeMirrorMatch": true,
+    "currentImageGlassesPresent": true,
+    "userApproved": true,
+    "deliveryDirectionException": true,
+    "technicalQaPass": false,
+    "firstBatchIntegratedCount": 10,
+    "firstBatchStrictQaPassCount": 9,
+    "hsk3FullPassCountUnchanged": 44,
+    "actionsRun": false
   }
 }

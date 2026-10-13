@@ -61,23 +61,25 @@
   "qaStatus": "FAIL",
   "status": "USER_APPROVED_WITH_DOCUMENTED_QA_EXCEPTION",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-11: User approved replacement SC001 visual with known cake-handoff direction objection; app/runtime binary synced, SHA verified. Locked visual QA status kept FAIL pending reconciliation.",
+  "qaNoteTr": "2026-10-13 SC001 current WebP directly inspected and SHA256 verified: Zhang Wei's black glasses are visible, so the historical missing-glasses rejection is superseded for this binary. User's 2026-10-11 cake handoff direction exception remains accepted. Physical app/runtime mirror matched, but strict LOCKED_V2 technical QA not relabelled PASS. No image or dialogue modifications.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
     "dialogueMatch": false,
-    "speakerCountMatch": false,
+    "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
     "rejectionReasons": [
-      "ZhangWei_identity_drift_missing_signature_glasses"
+      "delivery_direction_mismatch_USER_APPROVED_EXCEPTION_technical_PASS_not_assigned"
     ],
-    "bulkAudit": "HSK3_SC001_SC008_VISUAL_QA_R1_2026-10-10"
+    "bulkAudit": "HSK3_SC001_SC008_VISUAL_QA_R1_2026-10-10",
+    "currentAuditDate": "2026-10-13",
+    "historicalR1RejectionNote": "2026-10-10 initial missing-glasses finding resolved by replacement; old audit history preserved in original batch QA R1."
   },
   "userApprovedVisualR2": {
     "date": "2026-10-11",
@@ -87,5 +89,29 @@
     "sha256": "dba34a21e8bacdbbae4b9d09985da60d161cb3c55a835ac4dc76e13b632aaa5e",
     "gitBlobSha": "dc82279ba2efcd7f84899340daa1ed475b4b0bd4",
     "notes": "User explicitly accepted this specific SC001 visual. Delivery-direction objection documented. Historical automated QA FAIL remains pending separate formal LOCKED_V2 reconciliation; user selection is not relabeled technical QA PASS."
+  },
+  "currentVisualExceptionAudit20261013": {
+    "reviewDate": "2026-10-13",
+    "sourceAssetSha256": "dba34a21e8bacdbbae4b9d09985da60d161cb3c55a835ac4dc76e13b632aaa5e",
+    "sourceGitBlobSha": "dc82279ba2efcd7f84899340daa1ed475b4b0bd4",
+    "physicalAssetVerified": true,
+    "dimensionsVerified": [
+      942,
+      1670
+    ],
+    "authoritativeSceneAndSpeakerCastVerified": [
+      "刘梅",
+      "张伟",
+      "顾客",
+      "张雨桐"
+    ],
+    "currentImageObservation": "Zhang Wei's black rectangular glasses ARE visible in accepted current WebP; old 2026-10-10 missing-glasses rejection is obsolete for this replaced binary.",
+    "outstandingTechnicalObjection": "Cake gift box handoff direction/ownership differs from expected dialogue depiction; user explicitly accepted this visible discrepancy on 2026-10-11.",
+    "userApprovedExceptionPreserved": true,
+    "technicalQaStatus": "FAIL_WITH_USER_EXCEPTION",
+    "productionAssetStatus": "INTEGRATED_USER_APPROVED",
+    "actionsRun": false,
+    "apkBuildTriggered": false,
+    "scope": "Only SC001 metadata and HSK3 batch QA reconciliation; no dialogue or image edits."
   }
 }
