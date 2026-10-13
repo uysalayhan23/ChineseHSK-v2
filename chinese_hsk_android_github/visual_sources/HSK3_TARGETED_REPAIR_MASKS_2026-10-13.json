@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "auditDate": "2026-10-13",
+  "repository": "uysalayhan23/ChineseHSK-v2",
+  "branch": "main",
+  "sourceOfTruth": [
+    "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
+    "docs/visuals/CHARACTER_CAST_LOCK_TR.md",
+    "ci/core_character_canon_v1.json"
+  ],
+  "sourceReferences": {
+    "LiChenBase": {
+      "path": "ci/runtime_characters/CHR_ZH_LICHEN_001/base.webp",
+      "gitBlobSha": "9dac437ff1eb857d5aae44cb15239ac882067851",
+      "identity": "tidy dark side part, thin dark rectangular glasses, charcoal outer layer"
+    },
+    "LiuMeiBase": {
+      "path": "ci/runtime_characters/CHR_ZH_LIUMEI_001/base.webp",
+      "gitBlobSha": "e6d9790e5dca87b09938bbd496cda57c71e11e9b",
+      "identity": "mature woman, dark hair low or half-up, cream cardigan, muted green blouse"
+    },
+    "SC029AcceptedRemote": {
+      "path": "chinese_hsk_android_github/app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC029.webp",
+      "gitBlobSha": "f80a89a4c44243e056a27949e56ebab3ed7694a4",
+      "qaStatus": "PASS"
+    },
+    "SC030AcceptedRemote": {
+      "path": "chinese_hsk_android_github/app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC030.webp",
+      "gitBlobSha": "5ec728e434a0a9c08f42ad5d6cfcb57c3d2324de",
+      "qaStatus": "PASS"
+    }
+  },
+  "baseline": {
+    "strictQaPass": 44,
+    "total": 50,
+    "technicalOutstanding": [
+      "ZH_HSK3_SC001",
+      "ZH_HSK3_SC037",
+      "ZH_HSK3_SC038",
+      "ZH_HSK3_SC039",
+      "ZH_HSK3_SC042",
+      "ZH_HSK3_SC047"
+    ],
+    "exception": "SC001 USER_APPROVED_WITH_DOCUMENTED_QA_EXCEPTION; strict QA FAIL retained",
+    "acceptedPreserved": [
+      "ZH_HSK3_SC029",
+      "ZH_HSK3_SC030"
+    ]
+  },
+  "scenes": [
+    {
+      "sceneId": "ZH_HSK3_SC037",
+      "sourceAppPath": "chinese_hsk_android_github/app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC037.webp",
+      "sourceRuntimeMirrorPath": "ci/runtime_visuals/ZH_HSK3_SC037.webp",
+      "expectedSourceGitBlobSha": "a5cb9965cc996e7451055e76172e6c6e675b9f60",
+      "expectedImageDimensions": [
+        941,
+        1672
+      ],
+      "sourceQaStatus": "FAIL",
+      "method": "perspective_laptop_screen_only",
+      "problem": "Liu Mei absent; Yutong-like video participant",
+      "reference": [
+        "LiuMeiBase",
+        "SC029AcceptedRemote"
+      ],
+      "reviewBoxApproxPx": [
+        405,
+        855,
+        674,
+        1120
+      ],
+      "maskNeedsCalibration": true,
+      "prohibited": [
+        "laptop bezel",
+        "video-call controls",
+        "presenter",
+        "manager",
+        "colleague",
+        "charts",
+        "entire office"
+      ],
+      "repairScript": "chinese_hsk_android_github/ci/repair_hsk3_sc037_screen.py",
+      "identityRequirement": "Liu Mei mature adult, low/half-up dark hair, cream/beige cardigan; no Yutong substitution",
+      "maskStatus": "REVIEW_BOUNDS_ONLY_NOT_AN_APPROVED_MASK",
+      "strictPixelIntegrityStatus": "NOT_RUN_ON_REAL_SOURCE",
+      "canonicalVisualQa": "NOT_PASS",
+      "outputCommitted": false
+    },
+    {
+      "sceneId": "ZH_HSK3_SC038",
+      "sourceAppPath": "chinese_hsk_android_github/app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC038.webp",
+      "sourceRuntimeMirrorPath": "ci/runtime_visuals/ZH_HSK3_SC038.webp",
+      "expectedSourceGitBlobSha": "5e3745c924c9bf21358b48c29d8236b29795a43a",
+      "expectedImageDimensions": [
+        941,
+        1672
+      ],
+      "sourceQaStatus": "FAIL",
+      "method": "glasses_overlay_from_eye_landmarks",
+      "problem": "Li Chen at far right has no thin dark rectangular glasses",
+      "reference": [
+        "LiChenBase"
+      ],
+      "reviewBoxApproxPx": [
+        690,
+        415,
+        932,
+        660
+      ],
+      "maskNeedsCalibration": true,
+      "prohibited": [
+        "Zhang Wei's existing glasses",
+        "Liu Mei",
+        "river",
+        "lighting",
+        "clothes"
+      ],
+      "repairScript": "chinese_hsk_android_github/ci/repair_hsk3_lichen_glasses.py",
+      "identityRequirement": "Li Chen dark thin rectangular glasses, no face or hair swap",
+      "maskStatus": "REVIEW_BOUNDS_ONLY_NOT_AN_APPROVED_MASK",
+      "strictPixelIntegrityStatus": "NOT_RUN_ON_REAL_SOURCE",
+      "canonicalVisualQa": "NOT_PASS",
+      "outputCommitted": false
+    },
+    {
+      "sceneId": "ZH_HSK3_SC039",
+      "sourceAppPath": "chinese_hsk_android_github/app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC039.webp",
+      "sourceRuntimeMirrorPath": "ci/runtime_visuals/ZH_HSK3_SC039.webp",
+      "expectedSourceGitBlobSha": "ffbac7f7f84361e3fcfc1b53a0dd47fdd7847e32",
+      "expectedImageDimensions": [
+        941,
+        1672
+      ],
+      "sourceQaStatus": "FAIL",
+      "method": "glasses_overlay_from_eye_landmarks",
+      "problem": "Li Chen at far right lacks signature rectangular glasses",
+      "reference": [
+        "LiChenBase"
+      ],
+      "reviewBoxApproxPx": [
+        700,
+        412,
+        932,
+        705
+      ],
+      "maskNeedsCalibration": true,
+      "prohibited": [
+        "Zhang Wei's existing glasses",
+        "Liu Mei",
+        "table",
+        "sketches",
+        "apartment"
+      ],
+      "repairScript": "chinese_hsk_android_github/ci/repair_hsk3_lichen_glasses.py",
+      "identityRequirement": "Li Chen dark thin rectangular glasses, no face or hair swap",
+      "maskStatus": "REVIEW_BOUNDS_ONLY_NOT_AN_APPROVED_MASK",
+      "strictPixelIntegrityStatus": "NOT_RUN_ON_REAL_SOURCE",
+      "canonicalVisualQa": "NOT_PASS",
+      "outputCommitted": false
+    },
+    {
+      "sceneId": "ZH_HSK3_SC042",
+      "sourceAppPath": "chinese_hsk_android_github/app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC042.webp",
+      "sourceRuntimeMirrorPath": "ci/runtime_visuals/ZH_HSK3_SC042.webp",
+      "expectedSourceGitBlobSha": "3ff618939e08d4e7d7fe5e4b30878276eb5e56b1",
+      "expectedImageDimensions": [
+        941,
+        1672
+      ],
+      "sourceQaStatus": "FAIL",
+      "method": "manual_mature_character_silhouette_composite",
+      "problem": "Far-right Yutong-like young woman substituted for mature Liu Mei",
+      "reference": [
+        "LiuMeiBase"
+      ],
+      "reviewBoxApproxPx": [
+        735,
+        440,
+        940,
+        1040
+      ],
+      "maskNeedsCalibration": true,
+      "prohibited": [
+        "grandmother",
+        "grandfather",
+        "Zhang Wei",
+        "dumplings",
+        "rolling pin",
+        "kitchen furniture"
+      ],
+      "repairScript": null,
+      "identityRequirement": "Mature Liu Mei head, low/half-up dark hair, cream/beige upper clothing; entire head/hair/upper torso must be visually consistent",
+      "automatedWarpAllowed": false,
+      "reason": "Need pose/occlusion matched reference; face-only mask or video-call screen donor cannot fix clothing/body",
+      "maskStatus": "REVIEW_BOUNDS_ONLY_NOT_AN_APPROVED_MASK",
+      "strictPixelIntegrityStatus": "NOT_RUN_ON_REAL_SOURCE",
+      "canonicalVisualQa": "NOT_PASS",
+      "outputCommitted": false
+    },
+    {
+      "sceneId": "ZH_HSK3_SC047",
+      "sourceAppPath": "chinese_hsk_android_github/app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC047.webp",
+      "sourceRuntimeMirrorPath": "ci/runtime_visuals/ZH_HSK3_SC047.webp",
+      "expectedSourceGitBlobSha": "ba337c7c64bed0977bb5ab2942029eab08f88704",
+      "expectedImageDimensions": [
+        941,
+        1672
+      ],
+      "sourceQaStatus": "FAIL",
+      "method": "perspective_laptop_screen_only",
+      "problem": "Young Yutong-like woman substituted on video call",
+      "reference": [
+        "LiuMeiBase",
+        "SC029AcceptedRemote"
+      ],
+      "reviewBoxApproxPx": [
+        421,
+        917,
+        676,
+        1129
+      ],
+      "maskNeedsCalibration": true,
+      "prohibited": [
+        "laptop bezel",
+        "call controls",
+        "manager",
+        "colleague",
+        "Zhang Wei",
+        "graphs",
+        "table"
+      ],
+      "repairScript": "chinese_hsk_android_github/ci/repair_hsk3_sc037_screen.py",
+      "transferScript": "chinese_hsk_android_github/ci/repair_hsk3_sc047_fetch_and_run.py",
+      "identityRequirement": "Liu Mei mature adult and canonical look; laptop video feed only",
+      "maskStatus": "REVIEW_BOUNDS_ONLY_NOT_AN_APPROVED_MASK",
+      "strictPixelIntegrityStatus": "NOT_RUN_ON_REAL_SOURCE",
+      "canonicalVisualQa": "NOT_PASS",
+      "outputCommitted": false
+    }
+  ],
+  "pixelIntegrityRequirements": [
+    "Only modify an explicitly calibrated mask on an ORIGINAL WebP with pinned Git blob SHA",
+    "Do not modify entire scene or render a new one",
+    "Preserve original unchanged and produce separate candidate file",
+    "Use lossless WebP and verify RGB original and output have identical pixels at EVERY coordinate outside mask",
+    "Require some changed pixels inside mask",
+    "Visually inspect canonical identity and dialogue exact cast after change",
+    "Only PASS when authoritative app and ci/runtime_visuals binary hashes match, metadata and batch updated in one [skip ci] main commit",
+    "No GitHub Actions; do not relabel SC001 exception"
+  ],
+  "binaryBridgeStatus": {
+    "githubConnectorReadsBase64": true,
+    "githubConnectorCreatesBlobs": true,
+    "directLocalFetchPreviouslyFailed": true,
+    "newSupportedVerifiedConnectorToLocalBytes": false,
+    "noRepeatedFailedAttempts": true
+  },
+  "imageAssetsModified": false,
+  "actionsRun": false
+}
