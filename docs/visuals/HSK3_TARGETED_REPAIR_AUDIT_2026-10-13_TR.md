@@ -46,3 +46,11 @@ Kullanıcı **"Gözlüğü bu şekilde kabul et"** talimatıyla SC038 ve SC039'd
 - SC039 mevcut Git blob: `ffbac7f7f84361e3fcfc1b53a0dd47fdd7847e32`
 - Teknik QA toplamı **44/50 PASS** değişmedi; SC001, SC038 ve SC039 kullanıcı kabulüyle korunan 3 istisna.
 - Aktif gerçek görsel onarımı gereken yalnız **SC037, SC042, SC047**; yeni görsel ve Actions yok.
+
+## 13.10.2026 — Ekran maskesi kalibrasyon aracı ve SC042 poz donörü incelemesi
+
+- `chinese_hsk_android_github/ci/calibrate_hsk3_video_mask.py`: **yeni görsel üretmez**; orijinal Git blob SHA'sını doğruladıktan sonra SC037/SC047 dizüstü ekranının 4 iç köşesini ve PASS olan SC029 video alanının 4 iç köşesini masaüstü OpenCV penceresinde seçtirir. Dörtgenin boyut/sınır kontrolünü yapar, yalnız onay **taslağı** JSON'u ve tanısal maskeli PNG'ler üretir; hiçbir WebP kaydetmez, PASS atamaz.
+- Aynı dizindeki `test_calibrate_hsk3_video_mask.py` sentetik maske geometri testlerinde 6/6 PASS (yerel). Bu test **gerçek** SC037/047 piksel veya canonical QA değildir.
+- Mevcut ortamda GitHub connector Base64 dosya içeriği versede yerel Pillow/OpenCV yürütme oturumuna destekli ikili köprü doğrulanamadı; ekran köşeleri gerçek orijinal üzerinde henüz **kalibre edilmedi**. Kaba alanlar otomatik onaylı maskeye yükseltilmedi.
+- SC042 için mevcut canonical Liu Mei temel silueti ile PASS olan SC016, SC017, SC041, SC043 ve SC048 görüntüleri görsel olarak karşılaştırıldı. Hiçbiri SC042 sağda ayakta mantı hazırlayan kişinin baş/gövde/el/önlük/tezgâh örtüşmesini aynı pozda vermiyor. SC016 ve SC017 kısmi üst gövde referansları; SC041/043 oturur, SC048 elde kupa. Doğrudan siluet kompoziti güvenli değil, SC042 FAIL korunur.
+- SC001/038/039 kullanıcı kabulü, SC029/030 PASS ve HSK3 44/50 teknik QA korunur. Actions başlatılmadı.
