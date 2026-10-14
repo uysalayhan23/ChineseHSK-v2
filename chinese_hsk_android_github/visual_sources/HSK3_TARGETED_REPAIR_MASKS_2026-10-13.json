@@ -93,13 +93,40 @@
       ],
       "repairScript": "chinese_hsk_android_github/ci/repair_hsk3_sc037_screen.py",
       "identityRequirement": "Liu Mei mature adult, low/half-up dark hair, cream/beige cardigan; no Yutong substitution",
-      "maskStatus": "DRAFT_NEEDS_ORIGINAL_WEBP_MOUSE_CLICKS",
+      "maskStatus": "TARGET_ORIGINAL_REQUIRED_FOR_PIXEL_CALIBRATION",
       "strictPixelIntegrityStatus": "NOT_RUN_ON_REAL_SOURCE",
       "canonicalVisualQa": "NOT_PASS",
       "outputCommitted": false,
       "calibrationTool": "chinese_hsk_android_github/ci/calibrate_hsk3_video_mask.py",
       "calibratedTargetQuadPx": null,
-      "calibratedDonorQuadPx": null
+      "calibratedDonorQuadPx": null,
+      "donorCropPreparation": {
+        "date": "2026-10-14",
+        "sourceSceneId": "ZH_HSK3_SC029",
+        "authoritativeSourcePath": "chinese_hsk_android_github/app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC029.webp",
+        "sourceGitBlobSha": "f80a89a4c44243e056a27949e56ebab3ed7694a4",
+        "sourceSizePx": [
+          941,
+          1672
+        ],
+        "cropRectangleExclusivePx": [
+          505,
+          679,
+          676,
+          823
+        ],
+        "cropSizePx": [
+          171,
+          144
+        ],
+        "cropFormat": "lossless WEBP",
+        "cropSHA256": "e55fad7d70d263a529ed254135aa4bfba379609d226802c89fa338c2327db6e5",
+        "localSourceBlobMatched": true,
+        "losslessCropRgbExact": true,
+        "videoFeedNoControlsOrBezel": "VISUALLY_REVIEWED_CROP_2026-10-14",
+        "constraints": "Source ref only; no SC037/047 target pixel edit, calibrated target mask, or QA PASS established"
+      },
+      "binaryEditStatus": "NOT_RUN"
     },
     {
       "sceneId": "ZH_HSK3_SC038",
@@ -223,10 +250,38 @@
       "identityRequirement": "Mature Liu Mei head, low/half-up dark hair, cream/beige upper clothing; entire head/hair/upper torso must be visually consistent",
       "automatedWarpAllowed": false,
       "reason": "Need pose/occlusion matched reference; face-only mask or video-call screen donor cannot fix clothing/body",
-      "maskStatus": "REVIEW_BOUNDS_ONLY_NOT_AN_APPROVED_MASK",
+      "maskStatus": "MANUAL_SILHOUETTE_COMPOSITE_REFERENCE_STILL_MISSING",
       "strictPixelIntegrityStatus": "NOT_RUN_ON_REAL_SOURCE",
       "canonicalVisualQa": "NOT_PASS",
-      "outputCommitted": false
+      "outputCommitted": false,
+      "canonicalPositionReview20261014": {
+        "date": "2026-10-14",
+        "sourceRefs": [
+          {
+            "sceneId": "ZH_HSK3_SC041",
+            "gitBlobSha": "3c0eab271f47115d12b1584f1c78d546b1686138",
+            "suitability": "IDENTITY_FACE_AND_HAIR_REFERENCE_ONLY",
+            "limitation": "adult Liu Mei seated on couch, leaning head onto hand; cannot graft standing kitchen upper body"
+          },
+          {
+            "sceneId": "ZH_HSK3_SC043",
+            "gitBlobSha": "9a4e8c4baadad27995664607f8a3873e64e5fcaa",
+            "suitability": "IDENTITY_FACE_WARM_CGI_PALETTE_REFERENCE_ONLY",
+            "limitation": "adult Liu Mei seated at cafe, torso orientation and hands do not match kitchen dumpling-making pose"
+          },
+          {
+            "characterId": "CHR_ZH_LIUMEI_001",
+            "gitBlobSha": "e6d9790e5dca87b09938bbd496cda57c71e11e9b",
+            "suitability": "CANON_BASE_FACE_CLOTHING_LOCK_ONLY",
+            "limitation": "base cutout frontal posture and lighting do not match kitchen scene"
+          }
+        ],
+        "wholePersonPoseMatchFound": false,
+        "automaticCompositeAllowed": false,
+        "reason": "No single accepted donor offers face, hair, shoulders, clothing and hand pose consistent with SC042; must not approve a simplistic patch",
+        "originalWebpUnchanged": true,
+        "qa": "FAIL"
+      }
     },
     {
       "sceneId": "ZH_HSK3_SC047",
@@ -263,13 +318,40 @@
       "repairScript": "chinese_hsk_android_github/ci/repair_hsk3_sc037_screen.py",
       "transferScript": "chinese_hsk_android_github/ci/repair_hsk3_sc047_fetch_and_run.py",
       "identityRequirement": "Liu Mei mature adult and canonical look; laptop video feed only",
-      "maskStatus": "DRAFT_NEEDS_ORIGINAL_WEBP_MOUSE_CLICKS",
+      "maskStatus": "TARGET_ORIGINAL_REQUIRED_FOR_PIXEL_CALIBRATION",
       "strictPixelIntegrityStatus": "NOT_RUN_ON_REAL_SOURCE",
       "canonicalVisualQa": "NOT_PASS",
       "outputCommitted": false,
       "calibrationTool": "chinese_hsk_android_github/ci/calibrate_hsk3_video_mask.py",
       "calibratedTargetQuadPx": null,
-      "calibratedDonorQuadPx": null
+      "calibratedDonorQuadPx": null,
+      "donorCropPreparation": {
+        "date": "2026-10-14",
+        "sourceSceneId": "ZH_HSK3_SC029",
+        "authoritativeSourcePath": "chinese_hsk_android_github/app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC029.webp",
+        "sourceGitBlobSha": "f80a89a4c44243e056a27949e56ebab3ed7694a4",
+        "sourceSizePx": [
+          941,
+          1672
+        ],
+        "cropRectangleExclusivePx": [
+          505,
+          679,
+          676,
+          823
+        ],
+        "cropSizePx": [
+          171,
+          144
+        ],
+        "cropFormat": "lossless WEBP",
+        "cropSHA256": "e55fad7d70d263a529ed254135aa4bfba379609d226802c89fa338c2327db6e5",
+        "localSourceBlobMatched": true,
+        "losslessCropRgbExact": true,
+        "videoFeedNoControlsOrBezel": "VISUALLY_REVIEWED_CROP_2026-10-14",
+        "constraints": "Source ref only; no SC037/047 target pixel edit, calibrated target mask, or QA PASS established"
+      },
+      "binaryEditStatus": "NOT_RUN"
     }
   ],
   "pixelIntegrityRequirements": [
@@ -287,7 +369,12 @@
     "githubConnectorCreatesBlobs": true,
     "directLocalFetchPreviouslyFailed": true,
     "newSupportedVerifiedConnectorToLocalBytes": false,
-    "noRepeatedFailedAttempts": true
+    "noRepeatedFailedAttempts": true,
+    "containerDownloadAttemptedNewTool": true,
+    "containerDownloadResult": "BLOCKED_URL_NOT_VIEWABLE_IN_WEB_CACHE",
+    "validatedDirectLocalTransferOfSC037SC042SC047": false,
+    "acceptedSC029SourceAlreadyLocal": true,
+    "repeatFailedMethods": false
   },
   "imageAssetsModified": false,
   "actionsRun": false,
@@ -341,5 +428,32 @@
     "autoSilhouetteCompositeAllowed": false,
     "requiredNextInput": "pose- and occlusion-matched canonical Liu Mei image before silhouette replacement; no new image generated",
     "noSceneChanged": true
-  }
+  },
+  "localDonorCropVerification20261014": {
+    "date": "2026-10-14",
+    "sourceSceneId": "ZH_HSK3_SC029",
+    "authoritativeSourcePath": "chinese_hsk_android_github/app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC029.webp",
+    "sourceGitBlobSha": "f80a89a4c44243e056a27949e56ebab3ed7694a4",
+    "sourceSizePx": [
+      941,
+      1672
+    ],
+    "cropRectangleExclusivePx": [
+      505,
+      679,
+      676,
+      823
+    ],
+    "cropSizePx": [
+      171,
+      144
+    ],
+    "cropFormat": "lossless WEBP",
+    "cropSHA256": "e55fad7d70d263a529ed254135aa4bfba379609d226802c89fa338c2327db6e5",
+    "localSourceBlobMatched": true,
+    "losslessCropRgbExact": true,
+    "videoFeedNoControlsOrBezel": "VISUALLY_REVIEWED_CROP_2026-10-14",
+    "constraints": "Source ref only; no SC037/047 target pixel edit, calibrated target mask, or QA PASS established"
+  },
+  "revisedAt": "2026-10-14"
 }

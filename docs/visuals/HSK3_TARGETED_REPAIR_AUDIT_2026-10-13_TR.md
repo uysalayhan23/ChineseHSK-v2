@@ -54,3 +54,12 @@ Kullanıcı **"Gözlüğü bu şekilde kabul et"** talimatıyla SC038 ve SC039'd
 - Mevcut ortamda GitHub connector Base64 dosya içeriği versede yerel Pillow/OpenCV yürütme oturumuna destekli ikili köprü doğrulanamadı; ekran köşeleri gerçek orijinal üzerinde henüz **kalibre edilmedi**. Kaba alanlar otomatik onaylı maskeye yükseltilmedi.
 - SC042 için mevcut canonical Liu Mei temel silueti ile PASS olan SC016, SC017, SC041, SC043 ve SC048 görüntüleri görsel olarak karşılaştırıldı. Hiçbiri SC042 sağda ayakta mantı hazırlayan kişinin baş/gövde/el/önlük/tezgâh örtüşmesini aynı pozda vermiyor. SC016 ve SC017 kısmi üst gövde referansları; SC041/043 oturur, SC048 elde kupa. Doğrudan siluet kompoziti güvenli değil, SC042 FAIL korunur.
 - SC001/038/039 kullanıcı kabulü, SC029/030 PASS ve HSK3 44/50 teknik QA korunur. Actions başlatılmadı.
+
+
+## 14.10.2026 — Canonical kaynak ve donor kırpma denetimi
+
+- Kabul edilmiş **SC029** kaynağının 941×1672 yerel kopyası GitHub Git blob `f80a89a4c44243e056a27949e56ebab3ed7694a4` ile doğrulandı. Liu Mei'nin ekran kısmından `(x1=505,y1=679,x2=676,y2=823)` (sağ/alt hariç), 171×144 boyutlu **kayıpsız RGB-piksel-eşdeğer donor kırpması** yapıldı. Kırpma SHA256: `e55fad7d70d263a529ed254135aa4bfba379609d226802c89fa338c2327db6e5`.
+- **SC037/SC047:** Referans donor hazır; ancak ilgili hedef WebP'ler piksel düzeyinde yerel ortama aktarılmadı. Hedef ekran çokgeni henüz gerçek kaynakta doğrulanmadı; ekrana müdahale / QA PASS yapılmadı.
+- **SC042:** SC041 (blob `3c0eab271f47115d12b1584f1c78d546b1686138`) ve SC043 (blob `9a4e8c4baadad27995664607f8a3873e64e5fcaa`) yetişkin Liu Mei kimliği ve renk paleti için uygundur. Ancak ikisi de **oturur pozda**; SC042 yanlış karakteri ise mutfakta ayakta, elleri hamurda. Canonical base Liu Mei (`e6d9790e5dca87b09938bbd496cda57c71e11e9b`) de poz ve aydınlatmada uyumsuz. **Doğrudan siluet transferi reddedildi.**
+- Alternatif `container.download` denemesi yalnız web önceden görülen URL'leri kabul ettiği, GitHub ham WebP URL'si web önbelleğinde açılamadığı için engellendi. Bu **doğrulanmış GitHub→yerel SC037/042/047 ikili transferi değildir**. Aynı başarısız yöntem döngüye alınmayacak.
+- Tüm hedef WebP'ler korunur; kullanıcı onaylı SC001, SC038, SC039 istisnaları ve SC029/SC030 PASS kayıtları değişmedi. HSK3 teknik QA **44/50 PASS**, onarım gerektiren **SC037/042/047**. GitHub Actions kullanılmaz.
