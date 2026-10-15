@@ -67,9 +67,9 @@
     "hsk3MaturityLockChecked": true
   },
   "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "status": "USER_APPROVED_WITH_DOCUMENTED_QA_EXCEPTION",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: LiuMei_missing_Yutong_substituted_on_video_call. Exact cast ve character bible ile düzeltilmiş final asset gerekli. 2026-10-12: Original image reviewed; precise targeted character region recorded. No WebP binary or QA PASS change; pixel-preserving repair still unperformed.",
+  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: LiuMei_missing_Yutong_substituted_on_video_call. Exact cast ve character bible ile düzeltilmiş final asset gerekli. 2026-10-12: Original image reviewed; precise targeted character region recorded. No WebP binary or QA PASS change; pixel-preserving repair still unperformed. 2026-10-15: Kullanıcı mevcut sahneyi olduğu gibi kabul etti ve test/onarım döngüsünü durdurup sonraki görsele geçilmesini istedi. Yanlış video görüşme karakteri teknik LOCKED_V2 QA FAIL olarak kalır; bu bir teknik PASS değildir. Orijinal WebP değişmedi; kullanıcı yeniden talep edene kadar onarım planlanmaz.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
@@ -85,7 +85,12 @@
     "rejectionReasons": [
       "LiuMei_missing_Yutong_substituted_on_video_call"
     ],
-    "bulkAudit": "HSK3_SC041_SC050_VISUAL_QA_R1_2026-10-10"
+    "bulkAudit": "HSK3_SC041_SC050_VISUAL_QA_R1_2026-10-10",
+    "userApprovedException": true,
+    "technicalFailureDocumented": "LiuMei_missing_Yutong_substituted_on_video_call",
+    "acceptedAsIs": true,
+    "repairRequiredByUser": false,
+    "QAReconciliationDate": "2026-10-15"
   },
   "targetedVisualAudit20261012": {
     "date": "2026-10-12",
@@ -138,6 +143,22 @@
     "realWebpPixelTest": "NOT_RUN",
     "qaStatus": "FAIL_PENDING_REPAIR",
     "imageAssetModified": false,
+    "actionsRun": false
+  },
+  "userApprovedVisualException20261015": {
+    "date": "2026-10-15",
+    "scope": "current-existing-WebP-as-is",
+    "exceptionType": "LiuMei_missing_Yutong_substituted_on_video_call",
+    "userRequest": "Daha fazla test yapma, görseli olduğu gibi kabul et ve sonraki görsele devam et",
+    "userApproved": true,
+    "otherSceneChangesAuthorized": false,
+    "visualRepairNotRequested": true,
+    "existingWebPKept": true,
+    "sourceGitBlobSha": "ba337c7c64bed0977bb5ab2942029eab08f88704",
+    "strictLockedV2QaStatus": "FAIL",
+    "operationalStatus": "USER_ACCEPTED_NO_FURTHER_REPAIR",
+    "reOpenOnlyIfUserRequests": true,
+    "strictQaPassAssigned": false,
     "actionsRun": false
   }
 }

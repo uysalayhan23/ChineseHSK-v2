@@ -4331,5 +4331,24 @@
     "strictQaPassAssigned": false,
     "activeRepairRequired": false,
     "actionsRun": false
+  },
+  "hsk3Sc037Sc047UserApproved20261015": {
+    "date": "2026-10-15",
+    "sceneIds": [
+      "ZH_HSK3_SC037",
+      "ZH_HSK3_SC047"
+    ],
+    "status": "USER_APPROVED_WITH_DOCUMENTED_QA_EXCEPTION",
+    "currentAssetsUnchanged": true,
+    "gitBlobShas": {
+      "037": "a5cb9965cc996e7451055e76172e6c6e675b9f60",
+      "047": "ba337c7c64bed0977bb5ab2942029eab08f88704"
+    },
+    "strictQaPassAssigned": false,
+    "activeRepairRequired": false,
+    "knownFailureStillDocumented": true,
+    "nextUnresolvedVisualSceneId": "ZH_HSK4_SC014",
+    "actionsRun": false,
+    "noteTr": "Kullanıcı SC037 ve SC047 mevcut WebP görsellerini olduğu gibi kabul etti; QA FAIL teknik olarak korunur. Yeni test/onarım yapılmadan ilerlenir. SC048-SC050 ve HSK4_SC001-SC013 önceden PASS; sıradaki açık QA FAIL HSK4_SC014."
   }
 }

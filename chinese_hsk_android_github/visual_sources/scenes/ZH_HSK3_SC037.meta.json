@@ -70,9 +70,9 @@
     "hsk3MaturityLockChecked": true
   },
   "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "status": "USER_APPROVED_WITH_DOCUMENTED_QA_EXCEPTION",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: LiuMei_missing_Yutong_substituted_on_video. Character bible/exact cast ve HSK1_SC001 formatında düzeltilmiş final asset gerekli.",
+  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: LiuMei_missing_Yutong_substituted_on_video. Character bible/exact cast ve HSK1_SC001 formatında düzeltilmiş final asset gerekli. 2026-10-15: Kullanıcı mevcut sahneyi olduğu gibi kabul etti ve test/onarım döngüsünü durdurup sonraki görsele geçilmesini istedi. Yanlış video görüşme karakteri teknik LOCKED_V2 QA FAIL olarak kalır; bu bir teknik PASS değildir. Orijinal WebP değişmedi; kullanıcı yeniden talep edene kadar onarım planlanmaz.",
   "postGenerationVisualQA": {
     "status": "FAIL",
     "inspectedAfterGeneration": true,
@@ -88,6 +88,27 @@
     "rejectionReasons": [
       "LiuMei_missing_Yutong_substituted_on_video"
     ],
-    "bulkAudit": "HSK3_SC033_SC040_VISUAL_QA_R1_2026-10-10"
+    "bulkAudit": "HSK3_SC033_SC040_VISUAL_QA_R1_2026-10-10",
+    "userApprovedException": true,
+    "technicalFailureDocumented": "LiuMei_missing_Yutong_substituted_on_video",
+    "acceptedAsIs": true,
+    "repairRequiredByUser": false,
+    "QAReconciliationDate": "2026-10-15"
+  },
+  "userApprovedVisualException20261015": {
+    "date": "2026-10-15",
+    "scope": "current-existing-WebP-as-is",
+    "exceptionType": "LiuMei_missing_Yutong_substituted_on_video",
+    "userRequest": "Daha fazla test yapma, görseli olduğu gibi kabul et ve sonraki görsele devam et",
+    "userApproved": true,
+    "otherSceneChangesAuthorized": false,
+    "visualRepairNotRequested": true,
+    "existingWebPKept": true,
+    "sourceGitBlobSha": "a5cb9965cc996e7451055e76172e6c6e675b9f60",
+    "strictLockedV2QaStatus": "FAIL",
+    "operationalStatus": "USER_ACCEPTED_NO_FURTHER_REPAIR",
+    "reOpenOnlyIfUserRequests": true,
+    "strictQaPassAssigned": false,
+    "actionsRun": false
   }
 }
