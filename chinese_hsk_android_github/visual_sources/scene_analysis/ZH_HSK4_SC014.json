@@ -32,12 +32,12 @@
     "顾客": "adult_customer"
   },
   "criticalObjects": [
-    "akıllı telefon",
-    "yıldız ikonları",
+    "tablet / akıllı telefon",
+    "metinsiz kahve görseli",
     "not defteri",
     "kafe masası"
   ],
-  "visualDirectionTr": "Telefon ekranında okunabilir metin olmadan yıldız/yorum ikonları; Liu Mei, Zhang Wei, çalışan ve yetişkin müşteri yorumun nasıl ele alınacağını sakin biçimde konuşur.",
+  "visualDirectionTr": "Liu Mei, Zhang Wei, çalışan ve yetişkin müşteri internet yorumuna dair konuşur. Tablet ekranı yalnız yazısız kahve görseli gösterir; yıldızlı değerlendirme, yorum listesi, okunabilir metin veya uygulama UI'sı görünmez. Kafe kompozisyonu ve exact cast korunur.",
   "continuity": {
     "previousSceneId": "ZH_HSK4_SC013",
     "nextSceneId": "ZH_HSK4_SC015"
@@ -56,5 +56,10 @@
     "sexualizedClothingAllowed": false,
     "canonicalContinuityRequired": true,
     "hsk4MaturityLockRequired": true
+  },
+  "targetedVisualScreenException20261016": {
+    "userDecision": "Görsel uyumu >=%95 kabul edilir; tablette yıldızlar/yorum/metin benzeri UI kaldırılır.",
+    "screenOnlyRepair": true,
+    "referenceQaReport": "chinese_hsk_android_github/visual_sources/qa_reports/ZH_HSK4_SC014_TABLET_REPAIR_20261016.json"
   }
 }

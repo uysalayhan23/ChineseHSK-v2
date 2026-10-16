@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sceneId": "ZH_HSK4_SC014",
+  "date": "2026-10-16",
+  "policy": "LOCKED_V2",
+  "userAcceptanceThresholdPercent": 95,
+  "original": {
+    "source": "user-supplied chinese_course.zip",
+    "gitBlobSha": "84909d3cbaebf3f9f2b7f1ce8a8c74001ccd5c4e",
+    "sha256": "1ddac32f2fc65ac46ccb309baee50551536d53e4c0c3692d780e25492486be6a",
+    "width": 941,
+    "height": 1672
+  },
+  "corrected": {
+    "sha256": "09c2069ce67126274d27c35078e51aa126fb8c3a953f9bc65ea56716e3050edc",
+    "gitBlobSha": "9614369e3be5e4826ef61a9697a262eb171f8186",
+    "bytes": 1540790,
+    "width": 941,
+    "height": 1672,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "repair": {
+    "scope": "tablet_inner_screen_only",
+    "maskPolygon": [
+      [
+        576,
+        726
+      ],
+      [
+        711,
+        738
+      ],
+      [
+        666,
+        936
+      ],
+      [
+        518,
+        923
+      ]
+    ],
+    "maskPixelCount": 26797,
+    "outsideMaskPixelCount": 1546555,
+    "outsideMaskChangedPixelCount": 0,
+    "insideMaskChangedPixelCount": 26797,
+    "screenVisual": "text-free single latte photograph, no rating stars, no review list, no textlike content"
+  },
+  "validation": {
+    "globalSSIM": 0.985798,
+    "globalSSIMPercent": 98.5798,
+    "acceptedThresholdPercent": 95,
+    "pixelEqualityOutsideMask": true,
+    "exactCast": [
+      "刘梅",
+      "张伟",
+      "员工",
+      "顾客"
+    ],
+    "canonicalCastPreserved": true,
+    "cafeCompositionPreserved": true,
+    "manualVisualReview": "PASS",
+    "appRuntimeExpectedSameGitBlob": true,
+    "result": "PASS"
+  },
+  "actionsRun": false,
+  "commitPolicy": "[skip ci]"
+}

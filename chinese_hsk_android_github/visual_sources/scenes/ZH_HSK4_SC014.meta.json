@@ -34,7 +34,7 @@
   },
   "criticalObjects": [
     "akıllı telefon/tablet",
-    "yıldız ikonları",
+    "metinsiz kafe ürün görseli (tablet ekranında)",
     "not defteri",
     "kafe masası"
   ],
@@ -50,7 +50,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "1ddac32f2fc65ac46ccb309baee50551536d53e4c0c3692d780e25492486be6a"
+    "sha256": "09c2069ce67126274d27c35078e51aa126fb8c3a953f9bc65ea56716e3050edc",
+    "bytes": 1540790,
+    "gitBlobSha": "9614369e3be5e4826ef61a9697a262eb171f8186"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -59,7 +61,7 @@
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
     "style3d25dCgi": true,
-    "noText": false,
+    "noText": true,
     "noCollage": true,
     "safeAgeAppropriateClothing": true,
     "noMiniSkirt": true,
@@ -69,27 +71,36 @@
     "uniqueSceneIdChecked": true,
     "hsk4MaturityLockChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 tam görsel QA FAIL: exact cast/mekân doğru; ancak tablet üzerinde gömülü değerlendirme arayüzü, yıldız/yorum UI'sı ve metin-benzeri öğeler final assette görünür. Aynı sahne HSK1_SC001 stilinde, ekran metinsiz/controlsuz olacak şekilde düzeltilmeli.",
+  "qaNoteTr": "2026-10-16 SC014 yalnız tablet ekran içi hedefli onarım: yıldız puan/yorum/metin benzeri uygulama UI kaldırıldı; kahve fotoğrafı konuldu. Diğer sahne pikselleri birebir korundu. Genel SSIM %98,5798 >= kullanıcı kabul eşiği %95; 0 maske dışı piksel farkı; app/runtime aynı kayıpsız WebP Git blob'u. QA PASS, Actions çalıştırılmadı.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
     "exactCastChecked": true,
     "maturityLockChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "embedded_review_ui_and_textlike_content_in_final_asset"
-    ],
-    "bulkAudit": "HSK4_FULL_VISUAL_QA_R1_2026-10-10"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK4_FULL_VISUAL_QA_R1_2026-10-10",
+    "finalAudit": "HSK4_SC014_TABLET_REPAIR_2026-10-16"
   },
-  "repairDirectiveTr": "Exact cast 刘梅+张伟+员工+顾客 korunacak. Tablet/telefon sahne nesnesi olabilir fakat ekranda okunabilir metin, puan listesi, yıldız arayüzü veya uygulama UI'sı görünmeyecek."
+  "repairDirectiveTr": "Exact cast 刘梅+张伟+员工+顾客 korunacak. Tablet/telefon sahne nesnesi olabilir fakat ekranda okunabilir metin, puan listesi, yıldız arayüzü veya uygulama UI'sı görünmeyecek.",
+  "targetedScreenRepair20261016": {
+    "status": "PASS",
+    "qaReport": "chinese_hsk_android_github/visual_sources/qa_reports/ZH_HSK4_SC014_TABLET_REPAIR_20261016.json",
+    "originalGitBlobSha": "84909d3cbaebf3f9f2b7f1ce8a8c74001ccd5c4e",
+    "correctedGitBlobSha": "9614369e3be5e4826ef61a9697a262eb171f8186",
+    "globalSSIMPercent": 98.5798,
+    "maskOutsideChangedPixels": 0,
+    "originalScenePreserved": true,
+    "actionsRun": false
+  }
 }
