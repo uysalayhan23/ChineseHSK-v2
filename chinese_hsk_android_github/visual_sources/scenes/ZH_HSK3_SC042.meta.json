@@ -47,7 +47,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "e5136b170e74a42c06373855de05255720c1051f1b695e25c700c7548a393cda"
+    "sha256": "5acbd0a721898fc4a32e883b3d66b95817b46a2a3996676e0aa8a13115fb5d09",
+    "bytes": 1514182,
+    "gitBlobSha": "632efb76bbd50816a83761cdaddf4a5750a909e1"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -66,26 +68,30 @@
     "uniqueSceneIdChecked": true,
     "hsk3MaturityLockChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA FAIL: LiuMei_missing_Yutong_substituted_in_grandmother_kitchen_scene. Exact cast ve character bible ile düzeltilmiş final asset gerekli. 2026-10-12: Original image reviewed; precise targeted character region recorded. No WebP binary or QA PASS change; pixel-preserving repair still unperformed.",
+  "qaNoteTr": "2026-10-16: SC042 sağdaki yanlış Yutong-benzeri karakter, SC043 canonical yetişkin Liu Mei referansı ile hedefli olarak düzeltildi. Kullanıcının onayladığı en az %95 küresel görsel uyum eşiğiyle PASS: SSIM %95,9204; maske dışı 1.434.093 pikselin 0'ı değişti. 941x1672 kayıpsız WebP; app/runtime aynı doğrulanmış Git blob; görsel tek sahne, Zhang Wei, büyükbaba, büyükanne, mutfak ve mantı korunuyor. Önceki 2026-10-12 FAIL kaydı audit history'de korunmuştur.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
-    "dialogueMatch": false,
-    "speakerCountMatch": false,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "LiuMei_missing_Yutong_substituted_in_grandmother_kitchen_scene"
-    ],
-    "bulkAudit": "HSK3_SC041_SC050_VISUAL_QA_R1_2026-10-10"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK3_SC041_SC050_VISUAL_QA_R1_2026-10-10",
+    "finalAudit": "HSK3_SC042_CANONICAL_LIU_MEI_REPAIR_2026-10-16",
+    "acceptanceThreshold": "USER_95_PERCENT_VISUAL_SIMILARITY_2026-10-16",
+    "globalSsim": 0.9592039764957924,
+    "outsideMaskChangedPixels": 0,
+    "visualInspection": "PASS",
+    "actionsRun": false
   },
   "targetedVisualAudit20261012": {
     "date": "2026-10-12",
@@ -121,5 +127,32 @@
     "qaStatus": "FAIL_PENDING_REPAIR",
     "imageAssetModified": false,
     "actionsRun": false
+  },
+  "repair20261016": {
+    "date": "2026-10-16",
+    "scope": "TARGETED_RIGHT_CHARACTER_ONLY",
+    "sourceImageGitBlobSha": "3ff618939e08d4e7d7fe5e4b30878276eb5e56b1",
+    "sourceImageSha256": "e5136b170e74a42c06373855de05255720c1051f1b695e25c700c7548a393cda",
+    "canonicalReferenceSceneId": "ZH_HSK3_SC043",
+    "canonicalIdentity": "Liu Mei, mature adult, tied dark hair, cream clothing and apron",
+    "acceptedUserThresholdSsim": 0.95,
+    "actualGlobalSsim": 0.9592039764957924,
+    "imageDimensions": [
+      941,
+      1672
+    ],
+    "imageFormat": "WEBP",
+    "lossless": true,
+    "alphaMaskPixels": 139259,
+    "outsideMaskPixelCount": 1434093,
+    "changedOutsideMaskPixels": 0,
+    "changedInsideMaskPixels": 136379,
+    "gitBlobSha": "632efb76bbd50816a83761cdaddf4a5750a909e1",
+    "sha256": "5acbd0a721898fc4a32e883b3d66b95817b46a2a3996676e0aa8a13115fb5d09",
+    "bytes": 1514182,
+    "appRuntimeGitBlobMatch": true,
+    "localQA": "PASS",
+    "githubActionsRun": false,
+    "originalFailureNoteTr": "LOCKED_V2 görsel QA FAIL: LiuMei_missing_Yutong_substituted_in_grandmother_kitchen_scene. Exact cast ve character bible ile düzeltilmiş final asset gerekli. 2026-10-12: Original image reviewed; precise targeted character region recorded. No WebP binary or QA PASS change; pixel-preserving repair still unperformed."
   }
 }

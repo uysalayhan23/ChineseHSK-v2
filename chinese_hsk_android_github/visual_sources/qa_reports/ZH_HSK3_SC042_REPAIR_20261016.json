@@ -1,0 +1,25 @@
+{
+  "sceneId": "ZH_HSK3_SC042",
+  "date": "2026-10-16",
+  "policy": "LOCKED_V2 with user-approved >=95% visual similarity criterion",
+  "result": "PASS_LOCAL_VISUAL_QA",
+  "sourceGitBlobSha": "3ff618939e08d4e7d7fe5e4b30878276eb5e56b1",
+  "sourceSha256": "e5136b170e74a42c06373855de05255720c1051f1b695e25c700c7548a393cda",
+  "repairedGitBlobSha": "632efb76bbd50816a83761cdaddf4a5750a909e1",
+  "repairedSha256": "5acbd0a721898fc4a32e883b3d66b95817b46a2a3996676e0aa8a13115fb5d09",
+  "repairedBytes": 1514182,
+  "format": "WEBP",
+  "size": [
+    941,
+    1672
+  ],
+  "ssim": 0.9592039764957924,
+  "threshold": 0.95,
+  "maskPixels": 139259,
+  "outsidePixels": 1434093,
+  "outsideChangedPixels": 0,
+  "insideChangedPixels": 136379,
+  "sourceReference": "ZH_HSK3_SC043.webp",
+  "manualVisualReview": "PASS: mature adult Liu Mei, cream textured sweater and apron, tied dark hair; Zhang Wei, grandparents, kitchen and food unchanged",
+  "actionsRun": false
+}
