@@ -37,7 +37,7 @@
     "laptop",
     "video görüşme"
   ],
-  "visualDirectionTr": "Profesyonel konferans odası. Zhang lider rolünde, yönetici ve iş arkadaşı yanında. Liu Mei fiziksel olarak ofiste değil; laptop/video bağlantısında görünür.",
+  "visualDirectionTr": "Profesyonel konferans odasında Zhang Wei, yönetici ve iş arkadaşıyla birlikte. Liu Mei sadece dizüstü ekranda video bağlantısıyla görünür; okunabilir metin, mikrofon/kamera/kapat düğmeleri veya uygulama UI'sı yoktur. Orijinal 2.5D/3D CGI karakterler, kompozisyon ve ışık korunur.",
   "continuity": {
     "previousSceneId": "ZH_HSK4_SC014",
     "nextSceneId": "ZH_HSK4_SC016"
@@ -56,5 +56,11 @@
     "sexualizedClothingAllowed": false,
     "canonicalContinuityRequired": true,
     "hsk4MaturityLockRequired": true
+  },
+  "targetedVisualScreenRepair20261016": {
+    "userDecision": "Görsel uyumu >=%95 kabul edilir; 2.5D/3D CGI stili zorunludur.",
+    "screenOnlyRepair": true,
+    "uiControlsRemoved": true,
+    "referenceQaReport": "chinese_hsk_android_github/visual_sources/qa_reports/ZH_HSK4_SC015_VIDEO_CALL_UI_REPAIR_20261016.json"
   }
 }

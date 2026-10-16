@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "sceneId": "ZH_HSK4_SC015",
+  "date": "2026-10-16",
+  "policy": "LOCKED_V2",
+  "userAcceptanceThresholdPercent": 95,
+  "original": {
+    "source": "user-supplied chinese_course.zip",
+    "gitBlobSha": "96f6035a6acc94f91dff6efae644e0308869209f",
+    "sha256": "fbf9360967566a292a45e343d8a5e91014a38be2dac0072407d7ab39bc283f5d",
+    "width": 941,
+    "height": 1672
+  },
+  "corrected": {
+    "sha256": "82fbd74d247b5f33623ec90fbee36417452cc5a17f6ecca81c0847942eaadb86",
+    "gitBlobSha": "f303f5ced47b61a185908db7590cc0500f32e954",
+    "bytes": 1183366,
+    "width": 941,
+    "height": 1672,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "repair": {
+    "scope": "laptop_screen_only",
+    "maskPolygon": [
+      [
+        477,
+        939
+      ],
+      [
+        746,
+        948
+      ],
+      [
+        731,
+        1137
+      ],
+      [
+        427,
+        1139
+      ]
+    ],
+    "lowerBezelTouchup": {
+      "center": [
+        634,
+        1139
+      ],
+      "radii": [
+        14,
+        4
+      ]
+    },
+    "maskPixelCount": 55450,
+    "outsideMaskPixelCount": 1517902,
+    "outsideMaskChangedPixelCount": 0,
+    "insideMaskChangedPixelCount": 23924,
+    "screenVisual": "canonical Liu Mei in video image, without video-call controls/UI"
+  },
+  "validation": {
+    "globalSSIM": 0.9931117632664933,
+    "globalSSIMPercent": 99.31117632664933,
+    "acceptedThresholdPercent": 95,
+    "pixelEqualityOutsideMask": true,
+    "original2d5d3dCGIStylePreserved": true,
+    "screenControlsRemoved": true,
+    "exactCast": [
+      "张伟",
+      "经理",
+      "同事",
+      "刘梅"
+    ],
+    "canonicalCastPreserved": true,
+    "meetingCompositionPreserved": true,
+    "manualVisualReview": "PASS",
+    "appRuntimeExpectedSameGitBlob": true,
+    "result": "PASS"
+  },
+  "actionsRun": false,
+  "commitPolicy": "[skip ci]"
+}

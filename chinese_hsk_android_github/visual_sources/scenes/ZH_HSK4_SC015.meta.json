@@ -50,7 +50,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "fbf9360967566a292a45e343d8a5e91014a38be2dac0072407d7ab39bc283f5d"
+    "sha256": "82fbd74d247b5f33623ec90fbee36417452cc5a17f6ecca81c0847942eaadb86",
+    "bytes": 1183366,
+    "gitBlobSha": "f303f5ced47b61a185908db7590cc0500f32e954"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -59,7 +61,7 @@
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
     "style3d25dCgi": true,
-    "noText": false,
+    "noText": true,
     "noCollage": true,
     "safeAgeAppropriateClothing": true,
     "noMiniSkirt": true,
@@ -69,27 +71,29 @@
     "uniqueSceneIdChecked": true,
     "hsk4MaturityLockChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 tam görsel QA FAIL: Liu Mei'nin uzaktan katılımı sahne mantığına uygun; ancak laptop ekranında video-call kontrol ikonları/UI final görsele gömülü. UI'sız temiz varyant gerekli.",
+  "qaNoteTr": "2026-10-16: Gerçek orijinal SC015 2.5D/3D CGI korunarak yalnız dizüstü video-görüşme ekranının kontrol düğmeleri/UI katmanı kaldırıldı. Zhang Wei, yönetici, iş arkadaşı ve uzaktaki Liu Mei ile sahne ışığı/kompozisyonu korundu. Kullanıcı eşiği %95; gerçek SSIM %99,3112; maske dışında değişen piksel 0. Git blob f303f5ce... app/runtime eşleşmesi ve kayıpsız WebP doğrulandı. Görsel QA PASS; commit [skip ci].",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
     "exactCastChecked": true,
     "maturityLockChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "video_call_ui_icons_embedded_in_final_asset"
-    ],
-    "bulkAudit": "HSK4_FULL_VISUAL_QA_R1_2026-10-10"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK4_FULL_VISUAL_QA_R1_2026-10-10",
+    "style3d25dCgiPreserved": true,
+    "screenControlsRemoved": true,
+    "outsideMaskPixelEquality": true,
+    "finalAudit": "HSK4_SC015_VIDEO_CALL_UI_REPAIR_20261016"
   },
   "repairDirectiveTr": "张伟+经理+同事 fiziksel toplantıda, 刘梅 uzaktan görüntüde kalabilir; laptop ekranında çağrı düğmesi, ikon, yazı veya uygulama çerçevesi görünmeyecek."
 }
