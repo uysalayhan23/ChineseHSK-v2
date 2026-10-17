@@ -1,0 +1,109 @@
+{
+  "sceneId": "ZH_HSK5_SC047",
+  "original": {
+    "sha256": "8d551527725435fba2caaa2f278282eee19354905e7dfb1d0b6f67c40f77db25",
+    "gitBlobSha": "903d61aeb689b18937093dd3c2f85a1f18844517",
+    "bytes": 417816,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP"
+  },
+  "corrected": {
+    "sha256": "e5a1a59bd22558d999dc413398ae9d689560807115119ca213412e14ecf73a38",
+    "gitBlobSha": "1bf880e363c8d01b8562952218d01c47dbf4ca28",
+    "bytes": 1905434,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "maskPolygon": [
+    [
+      52,
+      570
+    ],
+    [
+      88,
+      545
+    ],
+    [
+      205,
+      535
+    ],
+    [
+      270,
+      557
+    ],
+    [
+      300,
+      605
+    ],
+    [
+      295,
+      675
+    ],
+    [
+      280,
+      735
+    ],
+    [
+      258,
+      780
+    ],
+    [
+      246,
+      827
+    ],
+    [
+      191,
+      855
+    ],
+    [
+      142,
+      820
+    ],
+    [
+      102,
+      775
+    ],
+    [
+      76,
+      710
+    ],
+    [
+      55,
+      640
+    ]
+  ],
+  "maskPixelCount": 58702,
+  "outsideMaskChangedPixelCount": 0,
+  "insideMaskChangedPixelCount": 58646,
+  "globalSSIM": 0.9875919261304796,
+  "ssimMethod": "RGB mean, 7x7 uniform window, sample covariance, valid support, data_range=255",
+  "result": "PASS",
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "sourceHead": "b54f02ffca8244423bc3904ed7b53f67a0bbcb4b",
+  "policy": "LOCKED_V2",
+  "manualVisualReview": "PASS",
+  "repair": "Li Chen age/identity correction in a head-only polygon mask; preserve scene, pose, composition and warm 2.5D/3D CGI.",
+  "generator": "built-in image_gen targeted head edit",
+  "acceptedThresholdPercent": 95,
+  "style3d25dCgiPreserved": true,
+  "compositionPreserved": true,
+  "canonicalMaturityAndGlassesRestored": true,
+  "originalDimensionsPreserved": true,
+  "appRuntimeSameGitBlob": true,
+  "actionsInvoked": false,
+  "commitPolicy": "[skip ci]",
+  "visualQA": {
+    "fullSceneBeforeAfterReviewed": true,
+    "closeupReviewed": true,
+    "canonicalLiChenThinDarkRectangularGlassesVisible": true,
+    "ageLockCheckedAgainstSceneMetadata": true,
+    "cgiStylePreserved": true,
+    "sceneCompositionPreserved": true,
+    "outsideMaskPixelsExactlyEqual": true,
+    "minimumSSIMMet": true
+  }
+}

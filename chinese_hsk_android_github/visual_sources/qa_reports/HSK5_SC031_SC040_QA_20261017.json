@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "level": "HSK5",
+  "sceneRange": [
+    31,
+    40
+  ],
+  "sourceHead": "b54f02ffca8244423bc3904ed7b53f67a0bbcb4b",
+  "reviewMethod": "10-scene contact-sheet inspection; target FAIL images additionally reviewed at full resolution before/after selective repair",
+  "policy": "LOCKED_V2",
+  "scenes": [
+    {
+      "sceneId": "ZH_HSK5_SC031",
+      "sourceHead": "b54f02ffca8244423bc3904ed7b53f67a0bbcb4b",
+      "sourceGitBlobSha": "9fb1c80734100aaf54db992b28be98ddbf3ec051",
+      "dialogueSourceSha256": "2301a1507a0f9fe06c1ce72743b1e6a94f177d1bbda1cb757aad5601457e4145",
+      "dialogueMetadataHashMatches": true,
+      "runtimeSha256": "0cd7076a38963cd5a644687ec8137c03a7a18b8241bc42d8dff568af2eb7af90",
+      "appSha256": "0cd7076a38963cd5a644687ec8137c03a7a18b8241bc42d8dff568af2eb7af90",
+      "appRuntimeByteIdentical": true,
+      "runtimeGitBlobSha": "9fb1c80734100aaf54db992b28be98ddbf3ec051",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadataStatus": "PASS",
+      "existingVisualQAStatusPreserved": true,
+      "repairStatus": "PRESERVED_EXISTING_STATUS",
+      "fullResolutionVisualQA": "Not re-certified in this repair batch; existing status preserved"
+    },
+    {
+      "sceneId": "ZH_HSK5_SC032",
+      "sourceHead": "b54f02ffca8244423bc3904ed7b53f67a0bbcb4b",
+      "sourceGitBlobSha": "786ce2a768eab66816a4f999f39eb829d3401253",
+      "dialogueSourceSha256": "d6d537a0fdc7412b388fc2a1bb445b4891471d058cbe2d53533eb0740c626778",
+      "dialogueMetadataHashMatches": true,
+      "runtimeSha256": "0d025372033cbe961e17ca82f8047f54bdbe35cf664d57bebad2ef5d2214a80e",
+      "appSha256": "0d025372033cbe961e17ca82f8047f54bdbe35cf664d57bebad2ef5d2214a80e",
+      "appRuntimeByteIdentical": true,
+      "runtimeGitBlobSha": "36585cea2ac54a3fb878d53fc765964121c7074b",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadataStatus": "PASS",
+      "existingVisualQAStatusPreserved": false,
+      "repairStatus": "PASS_REPAIRED",
+      "fullResolutionVisualQA": "PASS"
+    },
+    {
+      "sceneId": "ZH_HSK5_SC033",
+      "sourceHead": "b54f02ffca8244423bc3904ed7b53f67a0bbcb4b",
+      "sourceGitBlobSha": "b7a6acf298cc3ed9551dfb84d71f3181e84380b3",
+      "dialogueSourceSha256": "a6bc93aab7a45fa84ad2f3a3f5c68ec6478caf25d25bde1de6e2a4d190171097",
+      "dialogueMetadataHashMatches": true,
+      "runtimeSha256": "2ef3f6dd280789299d94c7c6f4371d6299ab48c8b1196264e4ace31fa53eebfd",
+      "appSha256": "2ef3f6dd280789299d94c7c6f4371d6299ab48c8b1196264e4ace31fa53eebfd",
+      "appRuntimeByteIdentical": true,
+      "runtimeGitBlobSha": "beec8b7563a3c1e1eacbc37d8bd5512f8da455d6",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadataStatus": "PASS",
+      "existingVisualQAStatusPreserved": false,
+      "repairStatus": "PASS_REPAIRED",
+      "fullResolutionVisualQA": "PASS"
+    },
+    {
+      "sceneId": "ZH_HSK5_SC034",
+      "sourceHead": "b54f02ffca8244423bc3904ed7b53f67a0bbcb4b",
+      "sourceGitBlobSha": "300785345b25924e88d8556aa512aec05c301698",
+      "dialogueSourceSha256": "fa9c95b348cddd256b8ef10dc9bf16fbc2d37926a0da7619da712d50f0c2ad2b",
+      "dialogueMetadataHashMatches": true,
+      "runtimeSha256": "3bbafd07e2e5b32c3dbde0827f916f1153f2e7e29c996401cfc74aa32781e08d",
+      "appSha256": "3bbafd07e2e5b32c3dbde0827f916f1153f2e7e29c996401cfc74aa32781e08d",
+      "appRuntimeByteIdentical": true,
+      "runtimeGitBlobSha": "9289a70425259afd292845a6c24db698975b45a4",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadataStatus": "PASS",
+      "existingVisualQAStatusPreserved": false,
+      "repairStatus": "PASS_REPAIRED",
+      "fullResolutionVisualQA": "PASS"
+    },
+    {
+      "sceneId": "ZH_HSK5_SC035",
+      "sourceHead": "b54f02ffca8244423bc3904ed7b53f67a0bbcb4b",
+      "sourceGitBlobSha": "9ad74dbce1a4420810feeeb9b25013cb3505627b",
+      "dialogueSourceSha256": "14fdab4c90fced37bbb17673983a2dbf3ba418d99f9cf0f2f76b2679980b081b",
+      "dialogueMetadataHashMatches": true,
+      "runtimeSha256": "a1ae2a76d7bbe67ba20a5f09c393be428a0d4e6314ea8cf714f62609918e9d31",
+      "appSha256": "a1ae2a76d7bbe67ba20a5f09c393be428a0d4e6314ea8cf714f62609918e9d31",
+      "appRuntimeByteIdentical": true,
+      "runtimeGitBlobSha": "9ad74dbce1a4420810feeeb9b25013cb3505627b",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadataStatus": "PASS",
+      "existingVisualQAStatusPreserved": true,
+      "repairStatus": "PRESERVED_EXISTING_STATUS",
+      "fullResolutionVisualQA": "Not re-certified in this repair batch; existing status preserved"
+    },
+    {
+      "sceneId": "ZH_HSK5_SC036",
+      "sourceHead": "b54f02ffca8244423bc3904ed7b53f67a0bbcb4b",
+      "sourceGitBlobSha": "64bb81ec3083c2761d95fe5f6ae5175a5ef13bd4",
+      "dialogueSourceSha256": "c41dff6d82c09342f46e1949fd85e8531bbf05eaf19501bb6f33a18b8e796f98",
+      "dialogueMetadataHashMatches": true,
+      "runtimeSha256": "d5e870e49ea86733fbea7c9836916ad32ab63d07116cbc1119114810a8deec78",
+      "appSha256": "d5e870e49ea86733fbea7c9836916ad32ab63d07116cbc1119114810a8deec78",
+      "appRuntimeByteIdentical": true,
+      "runtimeGitBlobSha": "64bb81ec3083c2761d95fe5f6ae5175a5ef13bd4",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadataStatus": "PASS",
+      "existingVisualQAStatusPreserved": true,
+      "repairStatus": "PRESERVED_EXISTING_STATUS",
+      "fullResolutionVisualQA": "Not re-certified in this repair batch; existing status preserved"
+    },
+    {
+      "sceneId": "ZH_HSK5_SC037",
+      "sourceHead": "b54f02ffca8244423bc3904ed7b53f67a0bbcb4b",
+      "sourceGitBlobSha": "eec952d5da6654eb0e0ed7d76924060c56504293",
+      "dialogueSourceSha256": "98efae5486d36badad064013936ebf63649b989f3dc44e5b65183a5dd91a5316",
+      "dialogueMetadataHashMatches": true,
+      "runtimeSha256": "3fb766527823d85b73472279a2a6ad5efad193d658ebeca84ee203b0c0e18a91",
+      "appSha256": "3fb766527823d85b73472279a2a6ad5efad193d658ebeca84ee203b0c0e18a91",
+      "appRuntimeByteIdentical": true,
+      "runtimeGitBlobSha": "eec952d5da6654eb0e0ed7d76924060c56504293",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadataStatus": "PASS",
+      "existingVisualQAStatusPreserved": true,
+      "repairStatus": "PRESERVED_EXISTING_STATUS",
+      "fullResolutionVisualQA": "Not re-certified in this repair batch; existing status preserved"
+    },
+    {
+      "sceneId": "ZH_HSK5_SC038",
+      "sourceHead": "b54f02ffca8244423bc3904ed7b53f67a0bbcb4b",
+      "sourceGitBlobSha": "b3175e0d97cd068aa614755409c81ad07f9723f9",
+      "dialogueSourceSha256": "2ae8eb4517bbc94d81a25bd1a1fb7a4290ebd9ceb8e5729320e642dbdec47f3a",
+      "dialogueMetadataHashMatches": true,
+      "runtimeSha256": "20522453d7a89151fa0142ca954812aac2937022e2198072369f5fafb26980a2",
+      "appSha256": "20522453d7a89151fa0142ca954812aac2937022e2198072369f5fafb26980a2",
+      "appRuntimeByteIdentical": true,
+      "runtimeGitBlobSha": "b3175e0d97cd068aa614755409c81ad07f9723f9",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadataStatus": "PASS",
+      "existingVisualQAStatusPreserved": true,
+      "repairStatus": "PRESERVED_EXISTING_STATUS",
+      "fullResolutionVisualQA": "Not re-certified in this repair batch; existing status preserved"
+    },
+    {
+      "sceneId": "ZH_HSK5_SC039",
+      "sourceHead": "b54f02ffca8244423bc3904ed7b53f67a0bbcb4b",
+      "sourceGitBlobSha": "e80f058145cbd210cbfb7bf1ce32655b9f21a4c8",
+      "dialogueSourceSha256": "45cc18adade3b128300a61ea0930dbe82c09b39dc207bae4c8a7c1caf812fd7f",
+      "dialogueMetadataHashMatches": true,
+      "runtimeSha256": "faab7aef8edb360bc38af534672e5f4ca43b0e2fcb5358c06bb958a43cb22d31",
+      "appSha256": "faab7aef8edb360bc38af534672e5f4ca43b0e2fcb5358c06bb958a43cb22d31",
+      "appRuntimeByteIdentical": true,
+      "runtimeGitBlobSha": "e80f058145cbd210cbfb7bf1ce32655b9f21a4c8",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadataStatus": "PASS",
+      "existingVisualQAStatusPreserved": true,
+      "repairStatus": "PRESERVED_EXISTING_STATUS",
+      "fullResolutionVisualQA": "Not re-certified in this repair batch; existing status preserved"
+    },
+    {
+      "sceneId": "ZH_HSK5_SC040",
+      "sourceHead": "b54f02ffca8244423bc3904ed7b53f67a0bbcb4b",
+      "sourceGitBlobSha": "c8cab996bec516bb54a2d1a63b97ad6480f7496b",
+      "dialogueSourceSha256": "aa4ca92dc3a71a1371894f839e1089210405c1e97028d17c7d06e688672a7f19",
+      "dialogueMetadataHashMatches": true,
+      "runtimeSha256": "e56a176b1f41d5b589626ffa7488b14332bd77f3bbedc68bc427ae5dd2ea1e92",
+      "appSha256": "e56a176b1f41d5b589626ffa7488b14332bd77f3bbedc68bc427ae5dd2ea1e92",
+      "appRuntimeByteIdentical": true,
+      "runtimeGitBlobSha": "c8cab996bec516bb54a2d1a63b97ad6480f7496b",
+      "dimensions": [
+        1080,
+        1920
+      ],
+      "metadataStatus": "PASS",
+      "existingVisualQAStatusPreserved": true,
+      "repairStatus": "PRESERVED_EXISTING_STATUS",
+      "fullResolutionVisualQA": "Not re-certified in this repair batch; existing status preserved"
+    }
+  ],
+  "summary": {
+    "strictlyRepairedAndPassed": [
+      "ZH_HSK5_SC032",
+      "ZH_HSK5_SC033",
+      "ZH_HSK5_SC034"
+    ],
+    "otherAssetsChanged": false,
+    "existingQAStatusesOverwritten": false,
+    "actionsInvoked": false,
+    "commitMessageSuffix": "[skip ci]"
+  }
+}

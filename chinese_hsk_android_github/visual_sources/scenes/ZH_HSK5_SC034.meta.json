@@ -52,7 +52,7 @@
   },
   "manifestChecklist": {
     "dialogueChecked": true,
-    "castChecked": false,
+    "castChecked": true,
     "allDialogueSpeakersVisible": false,
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
@@ -63,9 +63,9 @@
     "noMiniSkirt": true,
     "noSexyClothing": true,
     "criticalObjectsVisible": true,
-    "canonicalCharacterContinuityChecked": false,
+    "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true,
-    "hsk5MaturityLockChecked": false
+    "hsk5MaturityLockChecked": true
   },
   "sourceGeneratedFilename": "ZH_HSK5_SC034.png",
   "finalAssetFilename": "ZH_HSK5_SC034.webp",
@@ -76,34 +76,37 @@
     "format": "WEBP",
     "aspectRatio": "9:16",
     "orientation": "9:16_vertical",
-    "sha256": "2ed8bd382bb2d10f3e0b757ccf3351ee9df98627d43656fe4bc0baabf44b2327",
-    "bytes": 410868
+    "sha256": "3bbafd07e2e5b32c3dbde0827f916f1153f2e7e29c996401cfc74aa32781e08d",
+    "bytes": 1772018,
+    "gitBlobSha": "9289a70425259afd292845a6c24db698975b45a4",
+    "lossless": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "ZH_HSK5_SC034 LOCKED_V2 QA FAIL: gerçek JSON konuşmacısı 李晨 yerine genç, gözlüksüz Yutong partneri görünümü var. Eski metadata karakteri 'young_adult_male_partner' olarak yanlış tarif etmiş; bible'daki yaş almış Li Chen ve karakter gözlüğü korunmamış. Metadata düzeltildi, mevcut app/runtime WebP değiştirilmedi; gerçek 9:16 doğru görsel üretilene kadar FAIL kalır.",
+  "qaNoteTr": "2026-10-17 onarımı: sahneye özgü HSK5 maturity lock ve canonical Li Chen kimliği düzeltildi. Seçici maske dışında değişen piksel 0; SSIM %98.1640. 2.5D/3D CGI, poz ve kompozisyon tam sahne ve yakın plan görsel QA ile doğrulandı. App/runtime aynı Git blob olarak aktarılacak.",
   "generationPrompt": "SC032 aile yüzleri ve aynı genç erkek Li Chen; kadın mali danışman; akşam ev ortamı.",
   "styleReferenceSceneId": "ZH_HSK5_SC030",
-  "generationPromptStatus": "REJECTED_WRONG_CHARACTER_IDENTITY_LEGACY",
+  "generationPromptStatus": "REPAIRED_LOCKED_V2_SELECTIVE",
   "nextGenerationPrompt": "ZH_HSK5_SC034 gerçek scene JSON + LOCKED_V2 + HSK5 maturity + character bible kullan; exact cast 张伟 + 刘梅 + 理财顾问 + 李晨. 李晨 kesinlikle olgun, ince koyu dikdörtgen gözlüklü HSK5 SENIOR erkek aile dostu, genç partner değil. LOC_ZH_NEW_HOME_001, evening, sahne kritik objeleri: boş finans defteri, işaretsiz hesap makinesi, çay fincanları. HSK1_SC001 sıcak 2.5D/3D CGI; dikey 9:16, tek sahne, yazısız/logosuz; sahne continuity koru.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
-    "dialogueMatch": false,
-    "speakerCountMatch": false,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
     "settingMatch": true,
-    "visualPolicyMatch": false,
-    "canonicalCharacterContinuityChecked": false,
-    "exactCastChecked": false,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
-    "rejectionReasons": [
-      "LiChen_replaced_by_young_partner",
-      "LiChen_missing_signature_glasses",
-      "LiChen_age_and_identity_drift",
-      "legacy_meta_mislabeled_LiChen_as_partner"
-    ],
+    "rejectionReasons": [],
     "appRuntimeMirrorBlobMatch": true,
-    "actionsRun": false
+    "actionsRun": false,
+    "criticalObjectsMatch": true,
+    "maturityLockChecked": true,
+    "finalAudit": "ZH_HSK5_SC034_LI_CHEN_IDENTITY_REPAIR_20261017",
+    "outsideMaskPixelEquality": true,
+    "style3d25dCgiPreserved": true,
+    "canonicalSignatureRectangularGlassesPresent": true
   }
 }
