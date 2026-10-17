@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "sceneId": "ZH_HSK3_SC015",
+  "date": "2026-10-17",
+  "policy": "LOCKED_V2",
+  "sourceHead": "d55015c9c7fb721d223809446e48582596c9739f",
+  "source": "Authoritative original app WebP on ChineseHSK-v2 main; dialogue and LOCKED_V2 scene prompt checked.",
+  "original": {
+    "sha256": "346ccb7b0d459a27de06c275086ac5815be70de7e22674114e729514eec89b49",
+    "gitBlobSha": "95c08d2e75d854500f9bfd32b0e8062a61447208",
+    "bytes": 349510,
+    "width": 941,
+    "height": 1672,
+    "format": "WEBP"
+  },
+  "corrected": {
+    "sha256": "6bc9a6f0d844549ff39e395c3334fdb6213f5b78150a794395c3d4a65c1ff546",
+    "gitBlobSha": "51740071f279b6f1f017bc5dc52c82f45e3e42a3",
+    "bytes": 1641460,
+    "width": 941,
+    "height": 1672,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "repair": {
+    "maskPolygonPx": [
+      [
+        534,
+        868
+      ],
+      [
+        648,
+        850
+      ],
+      [
+        696,
+        918
+      ],
+      [
+        570,
+        946
+      ]
+    ],
+    "feather": "2px Gaussian blur",
+    "maskPixelCount": 12113,
+    "outsideMaskChangedPixelCount": 0,
+    "insideMaskChangedPixelCount": 11256,
+    "changedDecodedPixelCount": 11256
+  },
+  "validation": {
+    "globalSSIM": 0.9963704579504319,
+    "globalSSIMPercent": 99.63704579504319,
+    "ssimMethod": "RGB mean, 11x11 Gaussian window sigma=1.5, valid support, data_range=255",
+    "acceptedThresholdPercent": 95,
+    "pixelEqualityOutsideMask": true,
+    "requiredPhotoCardVisible": true,
+    "canonicalCastPreserved": true,
+    "leleForbiddenExtraAbsent": true,
+    "yutongYoungAdultAppearancePreserved": true,
+    "original2d5d3dCGIStylePreserved": true,
+    "compositionPreserved": true,
+    "noReadableTextAdded": true,
+    "exactCast": [
+      "刘梅",
+      "张伟",
+      "顾客",
+      "张雨桐"
+    ],
+    "manualVisualReview": "PASS",
+    "appRuntimeSameGitBlob": true,
+    "result": "PASS"
+  },
+  "actionsRun": false,
+  "commitPolicy": "[skip ci]",
+  "generator": "built-in image_gen object insertion, composited into original within polygon mask, lossless WebP"
+}

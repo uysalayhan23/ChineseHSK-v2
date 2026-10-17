@@ -47,7 +47,10 @@
     "width": 941,
     "height": 1672,
     "format": "WEBP",
-    "orientation": "9:16_vertical"
+    "orientation": "9:16_vertical",
+    "sha256": "6bc9a6f0d844549ff39e395c3334fdb6213f5b78150a794395c3d4a65c1ff546",
+    "bytes": 1641460,
+    "gitBlobSha": "51740071f279b6f1f017bc5dc52c82f45e3e42a3"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -67,9 +70,9 @@
     "hsk3MaturityLockChecked": true
   },
   "qaStatus": "PASS",
-  "status": "FINAL_SOURCE_OVERRIDE",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA PASS: mevcut asset exact cast ve sahne anlatımıyla uyumlu; yalnız yardımcı locationId gerçek scene JSON ile LOC_ZH_SHOPPING_STREET_001 olarak hizalandı. Yeniden üretim gereksiz.",
+  "qaNoteTr": "2026-10-17 R5: Eksik kritik nesne olan eski fotoğraf kartı, masaya hassas maskeyle eklendi. Aşınmış masa, taşıma kayışları, dört canonical yetişkin, 2.5D/3D CGI ve kompozisyon korundu; yazı yok. App/runtime ve gerçek RGB maske dışı eşitliği, SSIM %99,64 doğrulandı.",
   "postGenerationVisualQA": {
     "status": "PASS",
     "inspectedAfterGeneration": true,
@@ -80,10 +83,33 @@
     "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
     "exactCastChecked": true,
-    "reusedExistingAsset": true,
-    "referenceSceneId": "ZH_HSK1_SC001",
-    "locationId": "LOC_ZH_SHOPPING_STREET_001",
+    "referenceSceneId": "ZH_HSK3_SC016",
     "appRuntimeMirrorBlobMatch": true,
-    "bulkAudit": "HSK3_SC009_SC016_VISUAL_QA_R1_2026-10-10"
+    "hsk3MaturityLockChecked": true,
+    "characterAgeLock": {
+      "张乐乐": "forbidden_extra_character",
+      "张伟": "mature_adult",
+      "刘梅": "mature_adult",
+      "张雨桐": "young_adult",
+      "顾客": "adult_third_party"
+    },
+    "leleExcluded": true,
+    "youngAdultYutongPreserved": true,
+    "visualStyle": "WARM_CINEMATIC_STYLIZED_3D_CGI_V1",
+    "compositionPreserved": true,
+    "requiredOldPhotoCardVisible": true,
+    "maskOutsidePixelsExactlyEqual": true,
+    "rejectionReasons": [],
+    "finalAudit": "ZH_HSK3_SC015_OLD_TABLE_PHOTO_CARD_REPAIR_R5_2026-10-17"
+  },
+  "sceneQaFinalR5": {
+    "date": "2026-10-17",
+    "qaStatus": "PASS",
+    "actualGitBlobSha": "51740071f279b6f1f017bc5dc52c82f45e3e42a3",
+    "actualSha256": "6bc9a6f0d844549ff39e395c3334fdb6213f5b78150a794395c3d4a65c1ff546",
+    "bytes": 1641460,
+    "appRuntimeMirrorBlobMatched": true,
+    "actionsRun": false,
+    "visualNote": "Small old-photo card added inside the repair mask; all existing pixels outside mask preserved."
   }
 }

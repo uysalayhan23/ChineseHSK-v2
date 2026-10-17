@@ -4528,5 +4528,19 @@
     "actionsRun": false,
     "commitPolicy": "[skip ci]",
     "noteTr": "Lele HSK3 teen_boy canonical kilidi seçici düzeltmeyle kapatıldı. HSK3_SC001_SC010 batch durumu, kullanıcı onaylı SC001 teknik istisnası nedeniyle CORRECTION_REQUIRED olarak korunur."
+  },
+  "hsk3Sc015OldTableCardRepairR5": {
+    "date": "2026-10-17",
+    "sceneId": "ZH_HSK3_SC015",
+    "status": "PASS",
+    "qaReport": "chinese_hsk_android_github/visual_sources/qa_reports/ZH_HSK3_SC015_OLD_TABLE_PHOTO_CARD_REPAIR_R5_20261017.json",
+    "gitBlobSha": "51740071f279b6f1f017bc5dc52c82f45e3e42a3",
+    "sha256": "6bc9a6f0d844549ff39e395c3334fdb6213f5b78150a794395c3d4a65c1ff546",
+    "ssim": 0.9963704579504319,
+    "outsideMaskChangedPixelCount": 0,
+    "appRuntimeMirrorIntegrated": true,
+    "actionsRun": false,
+    "commitPolicy": "[skip ci]",
+    "noteTr": "SC015 eski fotoğraf kartı prompttaki kritik nesne olduğundan hassas maskeyle eklendi. Batch 10/10 PASS; diğer dokuz sahnenin görseli değişmedi."
   }
 }
