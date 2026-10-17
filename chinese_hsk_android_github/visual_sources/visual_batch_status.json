@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK6_SC012_ASSISTANT_DISTINCTNESS_REPAIR_20261017",
+  "latestVisualRevision": "HSK2_SC029_MANAGER_PROPORTION_REPAIR_20261017",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -329,7 +329,7 @@
     "status": "INTEGRATED_QA_PASS",
     "buildApprovalRequired": true,
     "buildApproved": false,
-    "noteTr": "HSK2 SC027-SC036 final verified görselleri ayrı scene ID ile app/runtime/meta/override olarak entegre edildi; 10/10 LOCKED_V2 QA PASS. APK build başlatılmadı; açık kullanıcı onayı gerekir."
+    "noteTr": "HSK2 SC027-SC036 10/10 LOCKED_V2 PASS. 2026-10-17 denetiminde SC029 sağ müdür yüzündeki uzama saptanıp seçici maskeyle düzeltildi; app/runtime ve piksel QA doğrulandı. Build/Actions çalıştırılmadı."
   },
   "hsk2Sc037Sc046BatchProgress": {
     "batchId": "HSK2_SC037_SC046",
@@ -4550,5 +4550,20 @@
     "actionsRun": false,
     "commitPolicy": "[skip ci]",
     "noteTr": "SC015 eski fotoğraf kartı prompttaki kritik nesne olduğundan hassas maskeyle eklendi. Batch 10/10 PASS; diğer dokuz sahnenin görseli değişmedi."
+  },
+  "hsk2Sc029Repair20261017": {
+    "sceneId": "ZH_HSK2_SC029",
+    "batchId": "HSK2_SC027_SC036",
+    "status": "PASS",
+    "qaReport": "chinese_hsk_android_github/visual_sources/qa_reports/ZH_HSK2_SC029_MANAGER_PROPORTION_REPAIR_20261017.json",
+    "originalSha256": "9dc94581e0be492859c61dff4c7c13753f281c9a46601b1eeef8b78713408dbd",
+    "originalGitBlobSha": "59be75a9bc6ee3cb6e6a42651f887a7d1aab89f7",
+    "sha256": "3a0ff4a6740376acd24737c4558a08cd7c2e58c6cdf0f0001036ccc625d7ab53",
+    "gitBlobSha": "00d3fdb60c54d352cc6ec33790d996212b300f8f",
+    "ssim": 0.9580973206314121,
+    "outsideMaskChangedPixelCount": 0,
+    "appRuntimeMirrorIntegrated": true,
+    "actionsRun": false,
+    "commitPolicy": "[skip ci]"
   }
 }

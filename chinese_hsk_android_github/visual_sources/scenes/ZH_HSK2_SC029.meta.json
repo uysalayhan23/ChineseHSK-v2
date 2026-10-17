@@ -36,7 +36,10 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "9dc94581e0be492859c61dff4c7c13753f281c9a46601b1eeef8b78713408dbd"
+    "sha256": "3a0ff4a6740376acd24737c4558a08cd7c2e58c6cdf0f0001036ccc625d7ab53",
+    "bytes": 1125700,
+    "gitBlobSha": "00d3fdb60c54d352cc6ec33790d996212b300f8f",
+    "lossless": true
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -55,7 +58,32 @@
     "uniqueSceneIdChecked": true
   },
   "qaStatus": "PASS",
-  "status": "FINAL_SOURCE_OVERRIDE",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: SC027-SC036 final verified paketinden, diyalog/kadro/lokasyon kontrolü sonrası uygulama ve runtime override olarak entegre edildi."
+  "qaNoteTr": "2026-10-17 hedefli QA düzeltmesi: bozuk biçimde uzamış müdür başı doğal yetişkin oranına getirildi. Zhang Wei ve iş arkadaşı, ofis/dosya sahnesi, kompozisyon ve 2.5D/3D CGI korundu. Maskenin dışındaki tüm gerçek RGB pikselleri eşit; SSIM 0.9581. App/runtime WebP byte/blob/hash eşleşiyor.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "appRuntimeMirrorBlobMatch": true,
+    "audit": "HSK2_SC027_SC036_REPAIR_20261017",
+    "outsideMaskPixelsExactlyEqual": true,
+    "outsideMaskChangedPixelCount": 0,
+    "changedPixelCount": 106133,
+    "ssim": 0.9580973206314121,
+    "ssimMethod": "11x11 Gaussian-window SSIM, RGB, data_range=255",
+    "managerNaturalProportionsRestored": true,
+    "ZhangWeiPreserved": true,
+    "coworkerPreserved": true,
+    "style25d3dCgiPreserved": true,
+    "compositionPreserved": true,
+    "manualFullSceneAndCloseupReview": "PASS",
+    "actionsRun": false
+  }
 }
