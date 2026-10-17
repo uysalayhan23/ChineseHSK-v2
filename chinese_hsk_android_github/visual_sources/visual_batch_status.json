@@ -1745,8 +1745,10 @@
       "ZH_HSK6_SC039",
       "ZH_HSK6_SC040"
     ],
-    "pendingSceneIds": [],
-    "status": "INTEGRATED_QA_PASS",
+    "pendingSceneIds": [
+      "ZH_HSK6_SC040"
+    ],
+    "status": "CORRECTION_REQUIRED",
     "manifestVersion": "LOCKED_V2",
     "maturityLock": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
     "analysisReadySceneIds": [
@@ -1775,7 +1777,7 @@
     ],
     "buildApprovalRequired": true,
     "buildApproved": false,
-    "noteTr": "HSK6 SC031-SC040 on görsel app asset + runtime aynası + LOCKED_V2 metadata/analiz olarak entegre edildi. SC036-SC038 aynı erkek topluluk sorumlusu, aile yüzleri ve Li Chen'in emeklilik yaş geçişi kontrol edildi. APK build başlatılmadı."
+    "noteTr": "SC031, SC038 ve SC039 canonical gozluk duzeltmeleri sikı QA PASS; SC040 adayi gozluk kilidini karsilamadigi icin reddedildi ve acik duzeltme olarak tutuldu. Actions calistirilmadi."
   },
   "hsk6Sc041Sc050BatchProgress": {
     "batchId": "HSK6_SC041_SC050",

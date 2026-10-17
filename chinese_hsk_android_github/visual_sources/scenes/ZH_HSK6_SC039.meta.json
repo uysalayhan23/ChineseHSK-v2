@@ -46,7 +46,7 @@
     "护士"
   ],
   "characterAgeLock": {
-    "李晨": "older_adult_recently_retired_male_partner",
+    "李晨": "older_adult_recently_retired_male_partner_canonical_rectangular_glasses",
     "张伟": "senior_male_parent",
     "刘梅": "senior_female_parent",
     "朋友": "older_adult_male_friend_distinct_from_李晨"
@@ -108,30 +108,31 @@
     "format": "WEBP",
     "aspectRatio": "9:16",
     "orientation": "9:16_vertical",
-    "sha256": "ba75be2be781916d0cada30b9956464d441960a759d8cd60232aa17bbb2a3f8c",
-    "bytes": 302020
+    "sha256": "4e2df55d97a71c857fe587e6ad499d57489b68316df8bb38cff5f09a318e01d9",
+    "bytes": 1781458
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-10 LOCKED_V2 ve HSK6 character bible görsel QA: Li Chen çay evinde olgun yaşta fakat karakter bible'ın ayırt edici ince koyu dikdörtgen gözlüğü olmadan gösteriliyor. Binary korunuyor; yeniden üretim + final QA tamamlanmadan PASS işaretlenmeyecek.",
+  "qaNoteTr": "LOCKED_V2 sıkı görsel QA PASS: Li Chen canonical ince koyu dikdörtgen gözlükleri eklendi; yaşı, poz, 2.5D/3D CGI, kompozisyon ve maske dışı pikseller korundu.",
   "generationPrompt": "Yeni emekli Li Chen, Zhang, Liu ve aynı yaş dönemindeki bir erkek dostuyla emeklilik planını tartışır.",
   "styleReferenceSceneId": "ZH_HSK6_SC038",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
-    "referenceSceneId": "ZH_HSK1_SC001",
+    "exactCastChecked": true,
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "LiChen_character_bible_age_or_glasses_identity_drift"
-    ],
-    "audit": "HSK6_SC031_SC040_R1_2026-10-10"
-  }
+    "outsideMaskPixelsExactlyEqual": true,
+    "canonicalGlassesVisible": true,
+    "maturityLockPreserved": true,
+    "actionsRun": false
+  },
+  "generationPromptStatus": "completed_selective_canonical_glasses_repair",
+  "nextGenerationPrompt": "No further generation required; PASS is locked."
 }

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "sceneId": "ZH_HSK6_SC039",
+  "sourceHead": "218aa5ff09be2231dd7b5c5ff327e181878b6f37",
+  "policy": "LOCKED_V2",
+  "original": {
+    "sha256": "ba75be2be781916d0cada30b9956464d441960a759d8cd60232aa17bbb2a3f8c",
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP",
+    "gitBlobSha": "01e944a9798e873220bb0749f54443c01a563cf0"
+  },
+  "corrected": {
+    "sha256": "4e2df55d97a71c857fe587e6ad499d57489b68316df8bb38cff5f09a318e01d9",
+    "gitBlobSha": "6091ed973e846abcbef547f2cf4b43fb03fa7fe4",
+    "bytes": 1781458,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "maskConstruction": {
+    "box": [
+      730,
+      470,
+      1080,
+      850
+    ],
+    "roiPolygon": [
+      [
+        110,
+        170
+      ],
+      [
+        260,
+        170
+      ],
+      [
+        275,
+        260
+      ],
+      [
+        108,
+        265
+      ]
+    ],
+    "generator": "built-in image_gen glasses edit; canonical image used only for frame shape",
+    "selection": "Within ROI retain generated pixels with mean RGB <130 and original-to-generated mean RGB decrease >18; 3x3 dilation and 0.25px Gaussian edge smoothing. Only selected frame/temple pixels composited."
+  },
+  "maskPixelCount": 3301,
+  "insideMaskChangedPixelCount": 2667,
+  "outsideMaskChangedPixelCount": 0,
+  "globalSSIM": 0.9987910071871529,
+  "ssimMethod": "RGB mean, 7x7 uniform window, sample covariance, valid support, data_range=255",
+  "result": "PASS",
+  "manualVisualReview": "PASS",
+  "acceptedThresholdPercent": 95,
+  "style3d25dCgiPreserved": true,
+  "compositionPreserved": true,
+  "canonicalMaturityAndGlassesRestored": true,
+  "originalDimensionsPreserved": true,
+  "appRuntimeSameGitBlob": true,
+  "actionsInvoked": false,
+  "commitPolicy": "[skip ci]",
+  "visualQA": {
+    "fullSceneBeforeAfterReviewed": true,
+    "closeupReviewed": true,
+    "canonicalThinDarkRectangularGlassesVisible": true,
+    "maturityLockPreserved": true,
+    "cgiStylePreserved": true,
+    "poseAndCompositionPreserved": true,
+    "outsideMaskPixelsExactlyEqual": true
+  }
+}

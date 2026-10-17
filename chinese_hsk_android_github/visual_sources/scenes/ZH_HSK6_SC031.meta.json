@@ -49,7 +49,7 @@
     "张伟": "senior_male_parent",
     "年轻人": "young_adult_career_attendee",
     "刘梅": "senior_female_parent",
-    "李晨": "adult_male_partner"
+    "李晨": "adult_male_partner_canonical_rectangular_glasses"
   },
   "criticalObjects": [
     "seminer masası",
@@ -109,30 +109,31 @@
     "format": "WEBP",
     "aspectRatio": "9:16",
     "orientation": "9:16_vertical",
-    "sha256": "089fdf73d67371312a4c0e7c65cc6af7c84afe1e56c0bfb9518cfbc6b52b6b56",
-    "bytes": 282238
+    "sha256": "3a494e174c434fd2ba89a97b135e7a4d687f7fec5e4a8c084fbaf9963fa8b6da",
+    "bytes": 1621452
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-10 LOCKED_V2 ve HSK6 character bible görsel QA: Li Chen seminer sahnesinde genç gözlüksüz kişiye dönüşmüş; olgun yaş ve ince koyu dikdörtgen gözlük kimliği korunmuyor. Binary korunuyor; yeniden üretim + final QA tamamlanmadan PASS işaretlenmeyecek.",
+  "qaNoteTr": "LOCKED_V2 sıkı görsel QA PASS: Li Chen canonical ince koyu dikdörtgen gözlükleri eklendi; yaşı, poz, 2.5D/3D CGI, kompozisyon ve maske dışı pikseller korundu.",
   "generationPrompt": "Zhang, Liu ve Li Chen genç bir katılımcıyla kariyer, hata ve denge üzerine topluluk merkezinde konuşur.",
   "styleReferenceSceneId": "ZH_HSK6_SC030",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
-    "referenceSceneId": "ZH_HSK1_SC001",
+    "exactCastChecked": true,
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "LiChen_character_bible_age_or_glasses_identity_drift"
-    ],
-    "audit": "HSK6_SC031_SC040_R1_2026-10-10"
-  }
+    "outsideMaskPixelsExactlyEqual": true,
+    "canonicalGlassesVisible": true,
+    "maturityLockPreserved": true,
+    "actionsRun": false
+  },
+  "generationPromptStatus": "completed_selective_canonical_glasses_repair",
+  "nextGenerationPrompt": "No further generation required; PASS is locked."
 }
