@@ -4514,5 +4514,19 @@
     "actionsRun": false,
     "commitPolicy": "[skip ci]",
     "noteTr": "SC015/016/019 seçici canonical gözlük onarımları PASS; SC012 karakter ayrımı REVIEW_REQUIRED kaldığından 10/10 batch PASS değildir."
+  },
+  "hsk3Sc005MaturityRepairR5": {
+    "date": "2026-10-17",
+    "sceneId": "ZH_HSK3_SC005",
+    "status": "PASS",
+    "qaReport": "chinese_hsk_android_github/visual_sources/qa_reports/ZH_HSK3_SC005_TEEN_MATURITY_REPAIR_R5_20261017.json",
+    "gitBlobSha": "8ba081754fc1e23c39e7d771a97f12ffcaf1852d",
+    "sha256": "9610b2bbc11523595e9c0a140b33069371787b1061bb172e07b664a05b745e84",
+    "ssim": 0.9527944503654924,
+    "outsideMaskChangedPixelCount": 0,
+    "appRuntimeMirrorIntegrated": true,
+    "actionsRun": false,
+    "commitPolicy": "[skip ci]",
+    "noteTr": "Lele HSK3 teen_boy canonical kilidi seçici düzeltmeyle kapatıldı. HSK3_SC001_SC010 batch durumu, kullanıcı onaylı SC001 teknik istisnası nedeniyle CORRECTION_REQUIRED olarak korunur."
   }
 }

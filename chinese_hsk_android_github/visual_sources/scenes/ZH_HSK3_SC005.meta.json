@@ -38,9 +38,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "797359b9e6b7e0e4531030a0d18595481abc765c68bcff6ae277d26a54f9ce22",
-    "bytes": 182194,
-    "gitBlobSha": "32a3bbfc5f8132eb2db828693f8a0f80ec8e3dfa"
+    "sha256": "9610b2bbc11523595e9c0a140b33069371787b1061bb172e07b664a05b745e84",
+    "bytes": 1224214,
+    "gitBlobSha": "8ba081754fc1e23c39e7d771a97f12ffcaf1852d"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -61,7 +61,7 @@
   "qaStatus": "PASS",
   "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-12 R4: User-approved clean four-person classroom candidate; readable Chinese classroom rules allowed for SC005 only. 9:16 WebP and identical app/runtime Git blobs verified.",
+  "qaNoteTr": "2026-10-17 R5: Lele teen_boy yaş kilidi için seçici sınıf sahnesi onarımı; 2.5D/3D CGI, canonical kadro ve kompozisyon korundu. Sınıf kuralları panosundaki yazı yalnız SC005 için kullanıcı onaylı istisnadır. Lossless WebP; app/runtime aynası, gerçek piksel maskesi ve SSIM doğrulandı.",
   "postGenerationVisualQA": {
     "status": "PASS",
     "inspectedAfterGeneration": true,
@@ -72,11 +72,22 @@
     "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
     "exactCastChecked": true,
-    "referenceSceneId": "ZH_HSK1_SC001",
+    "referenceSceneId": "ZH_HSK3_SC032",
     "appRuntimeMirrorBlobMatch": true,
+    "hsk3MaturityLockChecked": true,
+    "characterAgeLock": {
+      "张乐乐": "teen_boy",
+      "老师": "adult_teacher",
+      "张伟": "mature_adult",
+      "刘梅": "mature_adult"
+    },
+    "leleGenderAndAgeReadable": true,
+    "yutongRelativeAgeOrder": "not_present_in_scene",
     "rejectionReasons": [],
-    "bulkAudit": "HSK3_SC001_SC008_VISUAL_QA_R1_2026-10-10",
-    "finalAudit": "HSK3_VISUAL_BINARY_QA_R4_2026-10-12"
+    "visualStyle": "WARM_CINEMATIC_STYLIZED_3D_CGI_V1",
+    "compositionPreserved": true,
+    "exception": "Readable classroom rules board text is explicitly user-approved for SC005 only.",
+    "finalAudit": "ZH_HSK3_SC005_TEEN_MATURITY_REPAIR_R5_2026-10-17"
   },
   "userApprovedCandidateR2": {
     "date": "2026-10-12",
@@ -107,5 +118,15 @@
     "appRuntimeMirrorBlobMatchedInAtomicTree": true,
     "actionsRun": false,
     "visualNote": "Text on classroom rules board accepted only for this scene by user"
+  },
+  "sceneQaFinalR5": {
+    "date": "2026-10-17",
+    "qaStatus": "PASS",
+    "actualGitBlobSha": "8ba081754fc1e23c39e7d771a97f12ffcaf1852d",
+    "actualSha256": "9610b2bbc11523595e9c0a140b33069371787b1061bb172e07b664a05b745e84",
+    "bytes": 1224214,
+    "appRuntimeMirrorBlobMatched": true,
+    "actionsRun": false,
+    "visualNote": "Lele now reads as a teenage boy under HSK3 maturity lock; SC005 board-text exception preserved."
   }
 }

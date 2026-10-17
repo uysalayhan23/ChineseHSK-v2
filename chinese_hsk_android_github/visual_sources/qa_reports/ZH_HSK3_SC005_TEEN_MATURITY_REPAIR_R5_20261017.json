@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "sceneId": "ZH_HSK3_SC005",
+  "date": "2026-10-17",
+  "policy": "LOCKED_V2",
+  "sourceHead": "3088fd9584cb9becd579f4b8c79691851c7780d3",
+  "source": "Authoritative original WebP from aligned GitHub main app asset; ZIP attachment unavailable in this Work checkout.",
+  "original": {
+    "sha256": "797359b9e6b7e0e4531030a0d18595481abc765c68bcff6ae277d26a54f9ce22",
+    "gitBlobSha": "32a3bbfc5f8132eb2db828693f8a0f80ec8e3dfa",
+    "bytes": 182194,
+    "width": 941,
+    "height": 1672,
+    "format": "WEBP"
+  },
+  "corrected": {
+    "sha256": "9610b2bbc11523595e9c0a140b33069371787b1061bb172e07b664a05b745e84",
+    "gitBlobSha": "8ba081754fc1e23c39e7d771a97f12ffcaf1852d",
+    "bytes": 1224214,
+    "width": 941,
+    "height": 1672,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "repair": {
+    "maskRectangleExclusivePx": [
+      187,
+      609,
+      527,
+      1054
+    ],
+    "maskPixelCount": 151300,
+    "outsideMaskChangedPixelCount": 0,
+    "insideMaskChangedPixelCount": 104849,
+    "changedDecodedPixelCount": 104849,
+    "note": "Tight rectangular mask encloses all changed decoded pixels around Lele; Pillow RGB comparison confirms exact equality at every coordinate outside it."
+  },
+  "validation": {
+    "globalSSIM": 0.9527944503654924,
+    "globalSSIMPercent": 95.27944503654923,
+    "ssimMethod": "RGB mean, 11x11 Gaussian window sigma=1.5, valid support, data_range=255",
+    "acceptedThresholdPercent": 95,
+    "pixelEqualityOutsideMask": true,
+    "leleTeenBoyMaturityLockPass": true,
+    "canonicalCastPreserved": true,
+    "original2d5d3dCGIStylePreserved": true,
+    "classroomCompositionPreserved": true,
+    "classroomRulesBoardExceptionPreserved": true,
+    "exactCast": [
+      "张乐乐",
+      "老师",
+      "张伟",
+      "刘梅"
+    ],
+    "manualVisualReview": "PASS",
+    "appRuntimeSameGitBlob": true,
+    "result": "PASS"
+  },
+  "actionsRun": false,
+  "commitPolicy": "[skip ci]",
+  "generator": "built-in image_gen edit composited into original with lossless WebP encoding"
+}
