@@ -1,0 +1,112 @@
+{
+  "sceneId": "ZH_HSK6_SC009",
+  "original": {
+    "sha256": "674d03bd5dc8a2e697f199978b673f214ece5b797694e4639ab6e16e9756b8ff",
+    "gitBlobSha": "67a4a590e40ed5873aa7f0e1d1663b070048f1b2",
+    "bytes": 409944,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP"
+  },
+  "corrected": {
+    "sha256": "ab5641fb94ece8495eb80b6ef91bd5408d037fc15c2671b05794262b60e2c386",
+    "gitBlobSha": "5803565a9059b4aca50a1f6eaca9988412348d8e",
+    "bytes": 1807638,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "maskPolygon": [
+    [
+      330,
+      380
+    ],
+    [
+      345,
+      335
+    ],
+    [
+      385,
+      305
+    ],
+    [
+      450,
+      295
+    ],
+    [
+      520,
+      310
+    ],
+    [
+      565,
+      345
+    ],
+    [
+      584,
+      400
+    ],
+    [
+      578,
+      455
+    ],
+    [
+      555,
+      495
+    ],
+    [
+      535,
+      530
+    ],
+    [
+      520,
+      575
+    ],
+    [
+      430,
+      565
+    ],
+    [
+      395,
+      530
+    ],
+    [
+      365,
+      500
+    ],
+    [
+      340,
+      455
+    ]
+  ],
+  "maskPixelCount": 53678,
+  "outsideMaskChangedPixelCount": 0,
+  "insideMaskChangedPixelCount": 53652,
+  "globalSSIM": 0.9830716761212692,
+  "ssimMethod": "RGB mean, 7x7 uniform window, sample covariance, valid support, data_range=255",
+  "result": "PASS",
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "sourceHead": "b61c586c0d1bca900e40f64d9170b109e54cc2b6",
+  "policy": "LOCKED_V2",
+  "manualVisualReview": "PASS",
+  "repair": "Li Chen corrected to scene-specific senior family friend using a head-only mask; original 2.5D/3D CGI, downward pose and composition preserved.",
+  "generator": "built-in image_gen targeted head edit",
+  "acceptedThresholdPercent": 95,
+  "style3d25dCgiPreserved": true,
+  "compositionPreserved": true,
+  "canonicalMaturityAndGlassesRestored": true,
+  "originalDimensionsPreserved": true,
+  "appRuntimeSameGitBlob": true,
+  "actionsInvoked": false,
+  "commitPolicy": "[skip ci]",
+  "visualQA": {
+    "fullSceneBeforeAfterReviewed": true,
+    "closeupReviewed": true,
+    "canonicalThinDarkRectangularGlassesVisible": true,
+    "sceneSpecificSeniorAgeLockApplied": true,
+    "cgiStylePreserved": true,
+    "poseAndCompositionPreserved": true,
+    "outsideMaskPixelsExactlyEqual": true
+  }
+}

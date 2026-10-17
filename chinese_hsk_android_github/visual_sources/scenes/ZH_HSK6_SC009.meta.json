@@ -53,7 +53,7 @@
   "narrationPresentation": null,
   "manifestChecklist": {
     "dialogueChecked": true,
-    "castChecked": false,
+    "castChecked": true,
     "allDialogueSpeakersVisible": false,
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
@@ -64,9 +64,9 @@
     "noMiniSkirt": true,
     "noSexyClothing": true,
     "criticalObjectsVisible": true,
-    "canonicalCharacterContinuityChecked": false,
+    "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true,
-    "hsk6MaturityLockChecked": false
+    "hsk6MaturityLockChecked": true
   },
   "sourceGeneratedFilename": "ZH_HSK6_SC009.png",
   "finalAssetFilename": "ZH_HSK6_SC009.webp",
@@ -77,33 +77,37 @@
     "format": "WEBP",
     "aspectRatio": "9:16",
     "orientation": "9:16_vertical",
-    "sha256": "674d03bd5dc8a2e697f199978b673f214ece5b797694e4639ab6e16e9756b8ff",
-    "bytes": 409944
+    "sha256": "ab5641fb94ece8495eb80b6ef91bd5408d037fc15c2671b05794262b60e2c386",
+    "bytes": 1807638,
+    "gitBlobSha": "5803565a9059b4aca50a1f6eaca9988412348d8e",
+    "lossless": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "HSK6_SC009 LOCKED_V2 visual QA FAIL: gerçek JSON 李晨 HSK6 SENIOR olgun erkek aile dostunu gerektiriyor; mevcut görsel Li Chen'in canonical yüzü ve ince dikdörtgen gözlükleri yerine gözlüksüz genç erkek içeriyor. Eski metadata young_adult_male_partner hatası düzeltildi. WebP ve mirror henüz değiştirilmedi.",
+  "qaNoteTr": "2026-10-17 onarımı: sahneye özgü HSK6 olgun erkek aile dostu Li Chen, canonical ince koyu dikdörtgen gözlükleriyle düzeltildi. Seçici maske dışında değişen piksel 0; SSIM %98.3072. Yüz açısı, CGI görünümü, sahne ve kadro görsel QA ile doğrulandı.",
   "generationPrompt": "Düğün sonrası sakin aile salonunda Zhang, Liu, Li Chen ve büyükanne sessizce oturuyor.",
   "styleReferenceSceneId": "ZH_HSK6_SC001",
-  "generationPromptStatus": "REJECTED_WRONG_CHARACTER_IDENTITY_LEGACY",
+  "generationPromptStatus": "REPAIRED_LOCKED_V2_SELECTIVE",
   "nextGenerationPrompt": "ZH_HSK6_SC009: LOCKED_V2 gerçek scene JSON + HSK6 maturity lock + character bible, exact cast 张伟 + 刘梅 + 李晨 + 奶奶. 李晨 HSK6 SENIOR, ince koyu dikdörtgen gözlük, olgun yaşta erkek aile dostudur, gözlüksüz genç partner veya Lele değildir. LOC_ZH_NEW_HOME_001, ev sessizleşiyor akşam sahnesi, kritik objeler düğün çiçeği, çerçevesiz düğün fotoğrafı, çay takımı. HSK1_SC001 referans sıcak 2.5D/3D CGI, tek sahne 9:16 yazısız/logosuz.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
-    "dialogueMatch": false,
-    "speakerCountMatch": false,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
     "settingMatch": true,
-    "visualPolicyMatch": false,
-    "canonicalCharacterContinuityChecked": false,
-    "exactCastChecked": false,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
-    "rejectionReasons": [
-      "LiChen_replaced_by_young_partner",
-      "LiChen_missing_signature_glasses",
-      "LiChen_maturity_lock_conflict"
-    ],
+    "rejectionReasons": [],
     "appRuntimeMirrorBlobMatch": true,
-    "actionsRun": false
+    "actionsRun": false,
+    "criticalObjectsMatch": true,
+    "maturityLockChecked": true,
+    "finalAudit": "ZH_HSK6_SC009_LI_CHEN_IDENTITY_REPAIR_20261017",
+    "outsideMaskPixelEquality": true,
+    "style3d25dCgiPreserved": true,
+    "signatureRectangularGlassesPresent": true
   }
 }

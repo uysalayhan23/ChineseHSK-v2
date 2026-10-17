@@ -4450,5 +4450,18 @@
       }
     ],
     "noteTr": "Beş HSK5 sahnesindeki Li Chen maturity/canonical hatası seçici düzeltildi. Diğer sahnelerin eski QA durumları korunmuştur."
+  },
+  "hsk6Sc001Sc010LiChenRepair20261017": {
+    "sourceHead": "b61c586c0d1bca900e40f64d9170b109e54cc2b6",
+    "scope": [
+      "ZH_HSK6_SC009"
+    ],
+    "status": "PASS",
+    "actionsInvoked": false,
+    "commitPolicy": "[skip ci]",
+    "gitBlobSha": "5803565a9059b4aca50a1f6eaca9988412348d8e",
+    "sha256": "ab5641fb94ece8495eb80b6ef91bd5408d037fc15c2671b05794262b60e2c386",
+    "ssim": 0.9830716761212692,
+    "outsideMaskChangedPixelCount": 0
   }
 }
