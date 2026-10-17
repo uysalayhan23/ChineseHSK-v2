@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+  "scope": "HSK4_SC049_SC050",
+  "date": "2026-10-17",
+  "actionsInvoked": false,
+  "reviewMethod": "Metadata, original Git dialogue, app/runtime Pillow decoded pixels, SHA-256/Git blob, 4-up visual inspection; full image and close-up for repair targets.",
+  "scenes": [
+    {
+      "sceneId": "ZH_HSK4_SC049",
+      "titleTr": "Üç Kuşak Aile Fotoğrafı",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "13e94b3dc6d6a6ce2b4768c60dbd1125bb756c537d46efc7b1f5514104c8fd67",
+        "gitBlobSha": "ba2862fb20a4fc59a6453ced435848ba94a8607a",
+        "bytes": 540336
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC049.json",
+      "dialogueSHA256": "ef91a44259ff35e29058e229828bccb36d61393b539681a94c86f02234656bac",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "张伟",
+        "刘梅",
+        "爷爷",
+        "奶奶"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "park bankı",
+        "tripodlu fotoğraf makinesi"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC050",
+      "titleTr": "Yeni Nesil Uçmaya Başlıyor",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "9ffc480b7eff5575a0c440c07a1b6ab083de395c39a32124903710345fd4a014",
+        "gitBlobSha": "c0433917bf7947516055fae73e97d9886cae8dee",
+        "bytes": 453814
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC050.json",
+      "dialogueSHA256": "fd0689e3877863883329f5673ddab6ed6469b6912ec308c61fa4450f48c15e6f",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "张伟",
+        "刘梅",
+        "张雨桐",
+        "张乐乐"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "kapalı valiz",
+        "defterler",
+        "kahve masası ve kupalar"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    }
+  ],
+  "summary": {
+    "repairedAndPassed": [],
+    "otherAssetsUnchanged": true,
+    "actionsInvoked": false,
+    "noteTr": "Korunan sahnelerde yeni tam manifesto PASS iddiası yerine mevcut görselin değiştirilmediği ve inceleme bulguları raporlanır."
+  }
+}

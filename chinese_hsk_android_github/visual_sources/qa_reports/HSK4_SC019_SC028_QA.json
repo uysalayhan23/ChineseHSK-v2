@@ -1,0 +1,456 @@
+{
+  "schemaVersion": 1,
+  "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+  "scope": "HSK4_SC019_SC028",
+  "date": "2026-10-17",
+  "actionsInvoked": false,
+  "reviewMethod": "Metadata, original Git dialogue, app/runtime Pillow decoded pixels, SHA-256/Git blob, 4-up visual inspection; full image and close-up for repair targets.",
+  "scenes": [
+    {
+      "sceneId": "ZH_HSK4_SC019",
+      "titleTr": "Lele’nin Gizli Yeteneği",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "fcb556fef1403372b03f0a47de984fdc71a0868e22b8393b3f931bdf3df2dea0",
+        "gitBlobSha": "94eebd622578b8aac1bfcd478bf78c99dcbfadb9",
+        "bytes": 286476
+      },
+      "actualSize": [
+        941,
+        1672
+      ],
+      "metadataSize": [
+        941,
+        1672
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC019.json",
+      "dialogueSHA256": "81736fac528ba93b17697fa917b3b950ca93b4bc4bfb07544c5cf48eb2696ace",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "张乐乐",
+        "朋友",
+        "张伟",
+        "刘梅"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "fotoğraf makinesi",
+        "kamera askısı",
+        "park manzarası",
+        "çekilmiş fotoğraflar"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC020",
+      "titleTr": "Kasaba Fotoğraf Yarışması",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "b717eba6d34b9c9835e444c38a0fe3bd297b63b600f878affe8ef5512707ddca",
+        "gitBlobSha": "f1ad2ff610048ee4112740370d5aad29fb685c63",
+        "bytes": 253514
+      },
+      "actualSize": [
+        941,
+        1672
+      ],
+      "metadataSize": [
+        941,
+        1672
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC020.json",
+      "dialogueSHA256": "a06cf9569fdb7ac9c65a63951f1c107adb49d307c974aad1e30ea83b85f38e32",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "张乐乐",
+        "工作人员",
+        "张伟",
+        "刘梅"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "sergilenen fotoğraflar",
+        "kamera",
+        "yarışma standı",
+        "rozet/ödül simgesi"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC021",
+      "titleTr": "Büyükbabanın Pazarı",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "82e1958ab965834e5aeabf404e24e1a2a3a2b235f772e7a6d8e0bed071efa7a8",
+        "gitBlobSha": "a071e9e257fbef34399e79c5a33636b31d5a5442",
+        "bytes": 252398
+      },
+      "actualSize": [
+        941,
+        1672
+      ],
+      "metadataSize": [
+        941,
+        1672
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC021.json",
+      "dialogueSHA256": "48979076cde4596866f3b2b89e25b7171217686c9e1c127c0a73a4814fc0df76",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "爷爷",
+        "顾客",
+        "刘梅",
+        "张伟"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "sebze ve tarım ürünü tezgâhı",
+        "taze yerel ürünler",
+        "alışveriş sepeti/poşeti",
+        "pazar standı"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC022",
+      "titleTr": "Kafeye Yerel Ürünler",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "b2cbc7bc488e4175b0d5ddde3b639fec42b60cc966023511ca7c173b61771d6d",
+        "gitBlobSha": "517ff17ee0359f337c52548be4a042c7246f2c1c",
+        "bytes": 245116
+      },
+      "actualSize": [
+        941,
+        1672
+      ],
+      "metadataSize": [
+        941,
+        1672
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC022.json",
+      "dialogueSHA256": "2e1b3a9ccfcdb7a598cf7bea962303f625992022d45f7228c429fda2dea2b7f8",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "刘梅",
+        "供应商",
+        "张伟",
+        "员工"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "yerel sebze/meyve kasaları",
+        "tedarik kutuları",
+        "kafe servis tezgâhı",
+        "ürün örnekleri"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC023",
+      "titleTr": "Bir Müşteri Cüzdanını Unutuyor",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "3202f8ce840d1e4e9021b1474301c6642244a5a581fab2c818982b33a84eb9c4",
+        "gitBlobSha": "279bfdb5bc4087c9985d51b7c51b1a939d105b50",
+        "bytes": 200258
+      },
+      "actualSize": [
+        941,
+        1672
+      ],
+      "metadataSize": [
+        941,
+        1672
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC023.json",
+      "dialogueSHA256": "4199b7133bba133830921c6fe9828b4142b0742cde2a96f261caf3b49a51a99b",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "顾客",
+        "刘梅",
+        "员工",
+        "张伟"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "boş cüzdan arama hareketi",
+        "kafe kasa bölgesi",
+        "kahve fincanı",
+        "sipariş tepsisi"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC024",
+      "titleTr": "Kafe Elektrik Arızası",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "e320d75140ead2a685754c18e8f77f879dad51fc93e1fb86a8ad54076b3dbd6a",
+        "gitBlobSha": "b09861a34be779ba3ccfd1120642a69a5513412e",
+        "bytes": 194818
+      },
+      "actualSize": [
+        941,
+        1672
+      ],
+      "metadataSize": [
+        941,
+        1672
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC024.json",
+      "dialogueSHA256": "c1979ea23e4f9d5be01c57e1218f03481a4bf514eeac511eb29b36e1c1925dcd",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "刘梅",
+        "员工",
+        "顾客",
+        "张伟"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "kararmış/enerjisiz kafe ekipmanı",
+        "servis tezgâhı",
+        "elde taşınan acil ışık/fener",
+        "bekleyen müşteri"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC025",
+      "titleTr": "Zhang’ın İş-Yaşam Dengesi",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "8baea8f9f256fd24a5ea63a05067f3954a68f7465031707ede64f0af3ae76928",
+        "gitBlobSha": "e1e17094d718bad46351b24874b008964d59e0f9",
+        "bytes": 200694
+      },
+      "actualSize": [
+        941,
+        1672
+      ],
+      "metadataSize": [
+        941,
+        1672
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC025.json",
+      "dialogueSHA256": "37471ac8f7d7123f026c697a532aadd8c24e4572a2ae73348e0ea76f00ebf21e",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "张伟",
+        "刘梅",
+        "李晨",
+        "张雨桐"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "iş çantası/dosya",
+        "çay fincanları",
+        "ev oturma alanı",
+        "yorgunluk belirten beden dili"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC026",
+      "titleTr": "Aile Tatili Planı",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "818494e74327b5d87beee8523f249689b41561286fd6b730b2038021976fdd74",
+        "gitBlobSha": "f6061aa2718b9dd53cd9737889fc8bd7c3b5c234",
+        "bytes": 390174
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC026.json",
+      "dialogueSHA256": "4da2ceaec851867d76db560df10eef31f6384964bce198e0e2069966591b317e",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "张伟",
+        "刘梅",
+        "张雨桐",
+        "张乐乐"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "seyahat broşürleri/harita ama okunabilir yazısız",
+        "telefon/tablet",
+        "küçük valiz",
+        "oturma odası masası"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC027",
+      "titleTr": "Tren Gecikmesi",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "e7828893ce8350f8247d2036f07623c3ed65237b5eac0d436c718376e076884d",
+        "gitBlobSha": "5bbb42dffe389e9e019937471646c3b1e8865089",
+        "bytes": 415442
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC027.json",
+      "dialogueSHA256": "30db1eaf08ac2b8df17d874d8ebb46258d377fd47ce1bf4d0c609182127fd8a0",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "张伟",
+        "刘梅",
+        "工作人员",
+        "张乐乐"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "tren peronu",
+        "bagaj/valizler",
+        "istasyon görevlisi",
+        "uzakta tren veya raylar"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC028",
+      "titleTr": "Otelde Komşu Oda Gürültüsü",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "f523e3c1aecdebe34f4498d42244585088eb97608ac771610f2a00fc1f782493",
+        "gitBlobSha": "73cfa3c64ab017583ace99a0ecf3f771a2e87b5a",
+        "bytes": 364586
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC028.json",
+      "dialogueSHA256": "9e76f9cef99847dd1b5e69e3881bbb20c93b8c38c0218ff05763801d68d8c92a",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "张伟",
+        "刘梅",
+        "酒店工作人员",
+        "张乐乐"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "otel resepsiyon bankosu",
+        "oda anahtar kartı",
+        "küçük valiz",
+        "rahatsız ama sakin beden dili"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    }
+  ],
+  "summary": {
+    "repairedAndPassed": [],
+    "otherAssetsUnchanged": true,
+    "actionsInvoked": false,
+    "noteTr": "Korunan sahnelerde yeni tam manifesto PASS iddiası yerine mevcut görselin değiştirilmediği ve inceleme bulguları raporlanır."
+  }
+}

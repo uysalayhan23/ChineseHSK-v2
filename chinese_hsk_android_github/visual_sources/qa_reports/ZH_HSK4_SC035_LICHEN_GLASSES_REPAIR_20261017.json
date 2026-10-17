@@ -1,0 +1,76 @@
+{
+  "sceneId": "ZH_HSK4_SC035",
+  "original": {
+    "sha256": "9b9651067d3e85fdec4997ef0f72c7c85ae0d04cb98e7c2a4d4e311c77c3d96e",
+    "gitBlobSha": "7c6a39a22fa709a98212c0864f9c228741a424e9",
+    "bytes": 433728,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP"
+  },
+  "corrected": {
+    "sha256": "5ae6375185a37d95c9a43480f43093dc7c7ea4f1f7a4f44a1661b058769244fd",
+    "gitBlobSha": "9baf4018227028d7a4b8ccf785fbde9284f0cd53",
+    "bytes": 1792524,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "maskPolygon": [
+    [
+      830,
+      590
+    ],
+    [
+      875,
+      590
+    ],
+    [
+      950,
+      625
+    ],
+    [
+      1035,
+      640
+    ],
+    [
+      1040,
+      695
+    ],
+    [
+      970,
+      711
+    ],
+    [
+      890,
+      690
+    ],
+    [
+      830,
+      656
+    ]
+  ],
+  "maskPixelCount": 16561,
+  "outsideMaskChangedPixelCount": 0,
+  "insideMaskChangedPixelCount": 16516,
+  "globalSSIM": 0.9987048064996344,
+  "ssimMethod": "RGB mean 7x7 uniform window, sample covariance, valid support, data_range=255",
+  "result": "PASS",
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+  "policy": "LOCKED_V2",
+  "manualVisualReview": "PASS",
+  "repair": "Only Li Chen thin dark rectangular eyeglasses; preserve original face, expression, hair, scene and CGI style outside eye/temple mask.",
+  "generator": "built-in image_gen precise-object-edit",
+  "acceptedThresholdPercent": 95,
+  "style3d25dCgiPreserved": true,
+  "compositionPreserved": true,
+  "canonicalSignatureRectangularGlassesRestored": true,
+  "originalDimensionsPreserved": true,
+  "appRuntimeSameGitBlob": true,
+  "actionsInvoked": false,
+  "commitPolicy": "[skip ci]",
+  "prompt": "Add ONLY thin dark rectangular clear prescription eyeglasses fitted to existing eyes, nose and ears. Preserve exact facial geometry, gaze, expression, hair, lighting, clothes, scene, CGI style and image alignment. No other changes."
+}

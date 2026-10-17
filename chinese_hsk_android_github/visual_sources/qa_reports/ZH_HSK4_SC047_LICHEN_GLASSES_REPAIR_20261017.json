@@ -1,0 +1,80 @@
+{
+  "sceneId": "ZH_HSK4_SC047",
+  "original": {
+    "sha256": "0e672305bf869b791772477a98bd253ec38fd77e24b056a7858ffdf3996caf21",
+    "gitBlobSha": "4183f6f8721809e8cc0dfaf0dfed248039d3207f",
+    "bytes": 370660,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP"
+  },
+  "corrected": {
+    "sha256": "563bbe10d3d7fcb880f353fd21fb0ed19f42fcd8fcedcc8d142897a8cda5f6a2",
+    "gitBlobSha": "b539d0edabf836e8343d834b3391696724d9baa5",
+    "bytes": 1674378,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "maskPolygon": [
+    [
+      855,
+      616
+    ],
+    [
+      883,
+      616
+    ],
+    [
+      968,
+      661
+    ],
+    [
+      1048,
+      669
+    ],
+    [
+      1055,
+      693
+    ],
+    [
+      1020,
+      708
+    ],
+    [
+      969,
+      718
+    ],
+    [
+      908,
+      696
+    ],
+    [
+      858,
+      670
+    ]
+  ],
+  "maskPixelCount": 10713,
+  "outsideMaskChangedPixelCount": 0,
+  "insideMaskChangedPixelCount": 10704,
+  "globalSSIM": 0.9985649175864478,
+  "ssimMethod": "RGB mean 7x7 uniform window, sample covariance, valid support, data_range=255",
+  "result": "PASS",
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+  "policy": "LOCKED_V2",
+  "manualVisualReview": "PASS",
+  "repair": "Only Li Chen thin dark rectangular eyeglasses; preserve original face, expression, hair, scene and CGI style outside eye/temple mask.",
+  "generator": "built-in image_gen precise-object-edit",
+  "acceptedThresholdPercent": 95,
+  "style3d25dCgiPreserved": true,
+  "compositionPreserved": true,
+  "canonicalSignatureRectangularGlassesRestored": true,
+  "originalDimensionsPreserved": true,
+  "appRuntimeSameGitBlob": true,
+  "actionsInvoked": false,
+  "commitPolicy": "[skip ci]",
+  "prompt": "Add ONLY thin dark rectangular clear prescription eyeglasses fitted to existing eyes, nose and ears. Preserve exact facial geometry, gaze, expression, hair, lighting, clothes, scene, CGI style and image alignment. No other changes."
+}

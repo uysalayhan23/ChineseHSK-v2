@@ -1,0 +1,478 @@
+{
+  "schemaVersion": 1,
+  "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+  "scope": "HSK4_SC039_SC048",
+  "date": "2026-10-17",
+  "actionsInvoked": false,
+  "reviewMethod": "Metadata, original Git dialogue, app/runtime Pillow decoded pixels, SHA-256/Git blob, 4-up visual inspection; full image and close-up for repair targets.",
+  "scenes": [
+    {
+      "sceneId": "ZH_HSK4_SC039",
+      "titleTr": "Doktorun Tavsiyeleri",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "58bc1fc7504ace10bfff6f625516373b826d176c0b14f0f00d87a51dfab882b3",
+        "gitBlobSha": "9726cf8f9b126226195cded70c0d96ccb245f833",
+        "bytes": 327218
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC039.json",
+      "dialogueSHA256": "a6a09308837b938b587597296f88db16bce14cdcb05a59c4db23ca6a9b5bc703",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "医生",
+        "爷爷",
+        "张伟",
+        "刘梅"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "hastane yatağı",
+        "doktor not panosu",
+        "yaşam tarzı tavsiyesi görüşmesi",
+        "temel hastane ekipmanı"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC040",
+      "titleTr": "Büyükbaba İnat Ediyor",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "e5070247b39ab64e5e0d833951e9abb345ce8035d8416597d5ef721421c2a679",
+        "gitBlobSha": "593b0b2e6b1cb9f7f4661dbd151a3da9a9280b02",
+        "bytes": 458332
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC040.json",
+      "dialogueSHA256": "e1369ede7e659edfb7af60a0e8082594b296ab7f1914726e6092686aaf5634b8",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "爷爷",
+        "奶奶",
+        "张伟",
+        "刘梅"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "büyükanne ve büyükbabanın ev oturma alanı",
+        "koltuk/oturma grubu",
+        "çay takımı",
+        "aile içi sağlık ve dinlenme konuşması"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC041",
+      "titleTr": "Sosyal Yardım Mutfağı",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "e503c397709513ab8a9def5d4086c730234679c8cfabb934766534e7f21cf8b7",
+        "gitBlobSha": "09082489c8939cdccd7842ea1eda9181aa9cea7c",
+        "bytes": 388614
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC041.json",
+      "dialogueSHA256": "2d37426fbdf8e027a67db7b7797aa507fe54a16325cca331a15704a960fa778e",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "刘梅",
+        "志愿者",
+        "奶奶",
+        "张伟"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "yemek hazırlama tezgâhı",
+        "sebze yemeği tenceresi ve kepçe",
+        "yemek kapları ve servis tepsileri"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC042",
+      "titleTr": "Büyükannenin Organizasyonu",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "0210a873cf206e495f5d76f1aaa60c6db5c66fa0158c51f10704ef41e97145f3",
+        "gitBlobSha": "0c12cae59a43dd34f4e1f175373734e5dcfd098f",
+        "bytes": 375612
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC042.json",
+      "dialogueSHA256": "eefe732d5c593d489afaea9018b32b24da31c98f4b50b285a79ae618091eac32",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "奶奶",
+        "志愿者",
+        "刘梅",
+        "工作人员"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "düzenli yemek kapları",
+        "görev dağılımını destekleyen metinsiz pano",
+        "mutfak tezgâhı"
+      ],
+      "newReviewStatus": "PRESERVE_REVIEW_NOTE",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true,
+      "reviewNoteTr": "Kadro ve mutfak düzeni doğrulandı; metadata kritik objelerindeki görev panosu kadrajda açıkça seçilmiyor. Görsel korunmuştur; yeni tam kritik obje PASS iddiası verilmedi."
+    },
+    {
+      "sceneId": "ZH_HSK4_SC043",
+      "titleTr": "Lele Yarışmayı Kazanıyor",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "52d6461ce29c2547009f0791d566115785b5b231fa5ad3523bf8ce0995d23688",
+        "gitBlobSha": "8234772f6d7562f32f90278fbf11b819a7e197f1",
+        "bytes": 421134
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC043.json",
+      "dialogueSHA256": "1d9d79e08578a479173de9523bf0cf6715e94b7f211feaf28aef28fc13d801df",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "张乐乐",
+        "记者",
+        "张伟",
+        "刘梅"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "fotoğraf makinesi biçimli ödül kupası",
+        "Lele'nin manzara fotoğrafı",
+        "gazeteci mikrofonu",
+        "stüdyo kamerası"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC044",
+      "titleTr": "Yutong Üniversiteye Kabul Ediliyor",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "ef11cd15d1bd45d98a35808f60c5e84094680dc53940e14bd5d3e569589d2b25",
+        "gitBlobSha": "81c552cd8eb1ef32923070f4911bfc0fb12b66ca",
+        "bytes": 356370
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC044.json",
+      "dialogueSHA256": "4ad0757bd6a50ecf7f40a35ee00d1e054f078bf715ca007850a9c05723f9212c",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "张雨桐",
+        "刘梅",
+        "张伟",
+        "老师"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "metinsiz kabul mektubu ve zarf",
+        "kitaplar",
+        "evde aile masası"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC045",
+      "titleTr": "Ayrılık Hazırlığı",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "070e5ee26b259b075f6c7b155c7ccbf4613e448dc70cf05157463d2b9fc9fcfc",
+        "gitBlobSha": "13dfa52750f4e016af0cbb0f16f6797bcee3fb31",
+        "bytes": 443296
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC045.json",
+      "dialogueSHA256": "77a42884438db890973ab566d9dd4cd164850443c0f6026246c1bef2454d2ae4",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "张雨桐",
+        "刘梅",
+        "张伟",
+        "张乐乐"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "açık valiz",
+        "katlanmış kıyafet ve havlular",
+        "kişisel eşya çantası",
+        "metinsiz dosya"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC046",
+      "titleTr": "İlk Üniversite Günü",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "4143ae7c5a6126aadfa9961a00bd01c6777a16624de207f0405760b26c1ab2d2",
+        "gitBlobSha": "f7bc94c1968fda278c681864826986fa93e8cf3c",
+        "bytes": 452548
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC046.json",
+      "dialogueSHA256": "7453aafb73c1d1b61710e01582e039a64fd57a92144261fa9fd37d7b7bb73a1d",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "张雨桐",
+        "新同学",
+        "老师",
+        "刘梅"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "pembe valiz",
+        "öğrenci sırt çantaları",
+        "kayıt masası ve metinsiz dosya",
+        "kitaplar"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    },
+    {
+      "sceneId": "ZH_HSK4_SC047",
+      "titleTr": "Zhang Emeklilik Hesabı Yapıyor",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "563bbe10d3d7fcb880f353fd21fb0ed19f42fcd8fcedcc8d142897a8cda5f6a2",
+        "gitBlobSha": "b539d0edabf836e8343d834b3391696724d9baa5",
+        "bytes": 1674378,
+        "width": 1080,
+        "height": 1920,
+        "format": "WEBP",
+        "lossless": true
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": false,
+      "ssimAgainstUnchangedSource": null,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC047.json",
+      "dialogueSHA256": "30ee821e137b7fd9dc8e1f598fe527ff781c15ef2e79cc8dd8842cfb57c984a5",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "张伟",
+        "刘梅",
+        "李晨",
+        "张雨桐"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "FAIL",
+      "criticalObjects": [
+        "hesap makinesi",
+        "bütçe belgeleri ve üç zarf",
+        "not defteri ve kalem",
+        "kupalar"
+      ],
+      "newReviewStatus": "PASS_REPAIRED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true,
+      "corrected": {
+        "sha256": "563bbe10d3d7fcb880f353fd21fb0ed19f42fcd8fcedcc8d142897a8cda5f6a2",
+        "gitBlobSha": "b539d0edabf836e8343d834b3391696724d9baa5",
+        "bytes": 1674378,
+        "width": 1080,
+        "height": 1920,
+        "format": "WEBP",
+        "lossless": true
+      },
+      "repairGlobalSSIM": 0.9985649175864478,
+      "outsideMaskChangedPixelCount": 0,
+      "manualVisualReview": "PASS",
+      "repairReport": "visual_sources/qa_reports/ZH_HSK4_SC047_LICHEN_GLASSES_REPAIR_20261017.json",
+      "originalImage": {
+        "sha256": "0e672305bf869b791772477a98bd253ec38fd77e24b056a7858ffdf3996caf21",
+        "gitBlobSha": "4183f6f8721809e8cc0dfaf0dfed248039d3207f",
+        "bytes": 370660
+      }
+    },
+    {
+      "sceneId": "ZH_HSK4_SC048",
+      "titleTr": "Kafenin Toplumdaki Yeri",
+      "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+      "image": {
+        "sha256": "d6082da6e4bc42e6adc79d2493127640f51ee3c33d8f96d7c2f618f5aecab06b",
+        "gitBlobSha": "7acad3f900ad10f117515396110060a381ff6fb8",
+        "bytes": 398802
+      },
+      "actualSize": [
+        1080,
+        1920
+      ],
+      "metadataSize": [
+        1080,
+        1920
+      ],
+      "imageHashMatchesMetadata": true,
+      "appRuntimeBytesEqual": true,
+      "appRuntimeChangedPixelCount": 0,
+      "originalBytesPreserved": true,
+      "ssimAgainstUnchangedSource": 1.0,
+      "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC048.json",
+      "dialogueSHA256": "7c90833071762c6d28c53b83bff67f0ab86453e4474953d23a8886ea59e308cf",
+      "dialogueHashMatchesMetadata": true,
+      "dialogueSpeakers": [
+        "刘梅",
+        "记者",
+        "张伟",
+        "顾客"
+      ],
+      "speakerSetMatches": true,
+      "existingStatus": "PASS",
+      "criticalObjects": [
+        "gazeteci mikrofonu",
+        "kahve fincanları",
+        "kafe tezgâhı ve pasta vitrini",
+        "not defteri"
+      ],
+      "newReviewStatus": "PRESERVE_NO_REPAIR_IDENTIFIED",
+      "actionsInvoked": false,
+      "dialogueSpeakerSetMatchesMetadata": true,
+      "requiredVisualCastMatchesSpeakersAndNonSpeakers": true
+    }
+  ],
+  "summary": {
+    "repairedAndPassed": [
+      "ZH_HSK4_SC047"
+    ],
+    "otherAssetsUnchanged": true,
+    "actionsInvoked": false,
+    "noteTr": "Korunan sahnelerde yeni tam manifesto PASS iddiası yerine mevcut görselin değiştirilmediği ve inceleme bulguları raporlanır."
+  }
+}

@@ -4360,5 +4360,44 @@
     "appRuntimeGitBlobSha": "050da2427f151905250cf6395d800beda77b1aa6",
     "actionsRun": false,
     "noteTr": "Önceki toplu audit tarihsel kayıttır; SC016 için bu doğrulanmış onarım kaydı geçerlidir. Başka sahnenin durumu değiştirilmedi."
+  },
+  "hsk4Sc034Sc036Sc047Repair20261017": {
+    "sourceHead": "7af5e425480ea971c7e2951aef58c11dc0a27db8",
+    "scope": [
+      "ZH_HSK4_SC034",
+      "ZH_HSK4_SC035",
+      "ZH_HSK4_SC036",
+      "ZH_HSK4_SC047"
+    ],
+    "status": "PASS",
+    "actionsInvoked": false,
+    "commitPolicy": "[skip ci]",
+    "repairs": [
+      {
+        "sceneId": "ZH_HSK4_SC034",
+        "gitBlobSha": "a16f6b27446635d1e29c660bbeee3a9dfbbe71d0",
+        "ssim": 0.9987434121441091,
+        "outsideMaskChangedPixelCount": 0
+      },
+      {
+        "sceneId": "ZH_HSK4_SC035",
+        "gitBlobSha": "9baf4018227028d7a4b8ccf785fbde9284f0cd53",
+        "ssim": 0.9987048064996344,
+        "outsideMaskChangedPixelCount": 0
+      },
+      {
+        "sceneId": "ZH_HSK4_SC036",
+        "gitBlobSha": "6b27f9159e4a56a49682eeb5c89dc8d1e749b359",
+        "ssim": 0.998728423083714,
+        "outsideMaskChangedPixelCount": 0
+      },
+      {
+        "sceneId": "ZH_HSK4_SC047",
+        "gitBlobSha": "b539d0edabf836e8343d834b3391696724d9baa5",
+        "ssim": 0.9985649175864478,
+        "outsideMaskChangedPixelCount": 0
+      }
+    ],
+    "noteTr": "Bu sahnelerin eksik gözlük ret nedenleri giderildi. Önceki toplu QA kayıtları tarihsel olarak korundu; diğer sahneler değiştirilmedi."
   }
 }
