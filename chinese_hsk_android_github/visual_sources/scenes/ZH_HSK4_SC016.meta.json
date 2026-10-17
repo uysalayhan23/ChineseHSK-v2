@@ -50,7 +50,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "dc863be0e8339e6738fbb17a525445db8b8922d54db56edd9e81b5360fbe63b7"
+    "sha256": "c66494569386f0839a14d576809a1f29a3585737df3f327cec2b3855869efa1f",
+    "gitBlobSha": "050da2427f151905250cf6395d800beda77b1aa6",
+    "bytes": 1204656
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -59,7 +61,7 @@
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
     "style3d25dCgi": true,
-    "noText": false,
+    "noText": true,
     "noCollage": true,
     "safeAgeAppropriateClothing": true,
     "noMiniSkirt": true,
@@ -69,27 +71,29 @@
     "uniqueSceneIdChecked": true,
     "hsk4MaturityLockChecked": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 tam görsel QA FAIL: exact cast ve ofis mekânı doğru; ancak Liu Mei'nin uzaktan görüntüsünde çağrı kontrol ikonları/UI final assette görünür. UI'sız temiz varyant gerekli.",
+  "qaNoteTr": "2026-10-17: Orijinal repo WebP üzerinde yalnız telefon ekranı altındaki çağrı kontrol çubuğu temizlendi. 2.5D/3D CGI, yüzler ve ofis kompozisyonu korundu. Gerçek SSIM %99,7568; maske dışında değişen piksel 0; kayıpsız 941×1672 WebP ve app/runtime SHA eşleşmesi doğrulandı.",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
     "exactCastChecked": true,
     "maturityLockChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "video_call_ui_icons_embedded_in_final_asset"
-    ],
-    "bulkAudit": "HSK4_FULL_VISUAL_QA_R1_2026-10-10"
+    "rejectionReasons": [],
+    "bulkAudit": "HSK4_FULL_VISUAL_QA_R1_2026-10-10",
+    "style3d25dCgiPreserved": true,
+    "screenControlsRemoved": true,
+    "outsideMaskPixelEquality": true,
+    "finalAudit": "ZH_HSK4_SC016_VIDEO_CALL_UI_REPAIR_20261017"
   },
   "repairDirectiveTr": "张伟+同事甲+同事乙 fiziksel ofiste, 刘梅 uzaktan görüntüde kalabilir; telefonda/laptopta çağrı ikonu, buton, yazı veya uygulama UI'sı olmayacak."
 }

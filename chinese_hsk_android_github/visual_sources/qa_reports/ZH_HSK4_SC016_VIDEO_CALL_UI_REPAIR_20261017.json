@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "sceneId": "ZH_HSK4_SC016",
+  "date": "2026-10-17",
+  "policy": "LOCKED_V2",
+  "sourceHead": "c5b83f055d1ab8e392079e3ec87f1d0247cae7d2",
+  "source": "Pinned repository app/runtime original; prior chat attachments unavailable",
+  "original": {
+    "sha256": "dc863be0e8339e6738fbb17a525445db8b8922d54db56edd9e81b5360fbe63b7",
+    "gitBlobSha": "ee5b1b7b7035078937f60056b9ac79c9d9117c8d",
+    "bytes": 227710,
+    "width": 941,
+    "height": 1672,
+    "format": "WEBP"
+  },
+  "corrected": {
+    "sha256": "c66494569386f0839a14d576809a1f29a3585737df3f327cec2b3855869efa1f",
+    "gitBlobSha": "050da2427f151905250cf6395d800beda77b1aa6",
+    "bytes": 1204656,
+    "width": 941,
+    "height": 1672,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "repair": {
+    "maskPolygon": [
+      [
+        476,
+        1094
+      ],
+      [
+        586,
+        1098
+      ],
+      [
+        580,
+        1140
+      ],
+      [
+        469,
+        1135
+      ]
+    ],
+    "maskPixelCount": 4661,
+    "outsideMaskChangedPixelCount": 0,
+    "insideMaskChangedPixelCount": 4660
+  },
+  "validation": {
+    "globalSSIM": 0.9975679152002342,
+    "globalSSIMPercent": 99.75679152002343,
+    "ssimMethod": "RGB mean, 7x7 uniform window, sample covariance, valid support, data_range=255",
+    "acceptedThresholdPercent": 95,
+    "pixelEqualityOutsideMask": true,
+    "screenControlsRemoved": true,
+    "original2d5d3dCGIStylePreserved": true,
+    "canonicalCastPreserved": true,
+    "meetingCompositionPreserved": true,
+    "exactCast": [
+      "张伟",
+      "同事甲",
+      "同事乙",
+      "刘梅"
+    ],
+    "manualVisualReview": "PASS",
+    "appRuntimeSameGitBlob": true,
+    "result": "PASS"
+  },
+  "actionsRun": false,
+  "commitPolicy": "[skip ci]",
+  "generator": "built-in image_gen, precise-object-edit",
+  "prompt": "Remove all three call buttons and entire toolbar inside phone display; extend purple knit blouse, hair and lower hand. Preserve original portrait, perspective, 2.5D/3D CGI, lighting. No UI/text. Only lower-screen mask composited into original."
+}

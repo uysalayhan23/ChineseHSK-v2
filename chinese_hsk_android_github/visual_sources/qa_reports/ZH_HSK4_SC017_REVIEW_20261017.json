@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "sceneId": "ZH_HSK4_SC017",
+  "date": "2026-10-17",
+  "sourceHead": "c5b83f055d1ab8e392079e3ec87f1d0247cae7d2",
+  "existingMetadataStatus": "PASS",
+  "findingTr": "Metadata onarım gerekçesi içermiyor. Dört konuşmacı, sıcak oturma odası, CGI stil ve uygun kıyafet görüldü. UI görünmüyor; seçici onarım gerekmiyor. Görsel ve metadata değiştirilmedi. Metadata kritik obje listesinde telefon var, ancak görselde açıkça seçilmiyor; yeni bir tam manifesto PASS iddiası üretilmedi.",
+  "decision": "PRESERVE_EXISTING_ASSET_NO_REPAIR",
+  "image": {
+    "sha256": "e87316ca43906cd01986f6f2141faeaf9c75971fd6ef7313b90fda5a563de3ce",
+    "gitBlobSha": "0b95ce83f9af1933f06cc74f2e50c14679d4bd9d",
+    "bytes": 283348,
+    "width": 941,
+    "height": 1672,
+    "format": "WEBP"
+  },
+  "globalSSIMAgainstPinnedOriginal": 1.0,
+  "changedPixelCount": 0,
+  "appRuntimeSameGitBlob": true,
+  "actionsRun": false
+}

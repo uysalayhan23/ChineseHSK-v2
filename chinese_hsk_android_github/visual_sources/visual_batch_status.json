@@ -4350,5 +4350,15 @@
     "nextUnresolvedVisualSceneId": "ZH_HSK4_SC014",
     "actionsRun": false,
     "noteTr": "Kullanıcı SC037 ve SC047 mevcut WebP görsellerini olduğu gibi kabul etti; QA FAIL teknik olarak korunur. Yeni test/onarım yapılmadan ilerlenir. SC048-SC050 ve HSK4_SC001-SC013 önceden PASS; sıradaki açık QA FAIL HSK4_SC014."
+  },
+  "hsk4Sc016Repair20261017": {
+    "sceneId": "ZH_HSK4_SC016",
+    "status": "PASS",
+    "qaReport": "visual_sources/qa_reports/ZH_HSK4_SC016_VIDEO_CALL_UI_REPAIR_20261017.json",
+    "globalSSIMPercent": 99.75679152002343,
+    "outsideMaskChangedPixelCount": 0,
+    "appRuntimeGitBlobSha": "050da2427f151905250cf6395d800beda77b1aa6",
+    "actionsRun": false,
+    "noteTr": "Önceki toplu audit tarihsel kayıttır; SC016 için bu doğrulanmış onarım kaydı geçerlidir. Başka sahnenin durumu değiştirilmedi."
   }
 }
