@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "sceneId": "ZH_HSK6_SC012",
+  "batchId": "HSK6_SC011_SC020",
+  "audit": "HSK6_SC011_SC020_REPAIR_20261017",
+  "result": "PASS",
+  "repair": "Distinct young-adult male assistant identity using neat side-parted hair, thin round glasses and subtle chin goatee; Lele unchanged.",
+  "asset": {
+    "app": "chinese_hsk_android_github/app/src/main/assets/chinese_course/media/scenes/ZH_HSK6_SC012.webp",
+    "runtime": "ci/runtime_visuals/ZH_HSK6_SC012.webp",
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP",
+    "sha256": "9e9131b1ed353a151781bf417f307ac1031392296c2da1c07e3b9698cfd63ac9",
+    "gitBlobSha": "ad8ee8c7d1b583e0cf678bf36db6638c5287cbe3",
+    "bytes": 1761606,
+    "appRuntimeByteIdentical": true
+  },
+  "pixelQA": {
+    "ssim": 0.9864326111935514,
+    "minimumSsim": 0.95,
+    "ssimMethod": "11x11 Gaussian-window SSIM, RGB, data_range=255",
+    "maskPolygon": [
+      [
+        620,
+        268
+      ],
+      [
+        625,
+        232
+      ],
+      [
+        645,
+        205
+      ],
+      [
+        666,
+        181
+      ],
+      [
+        697,
+        166
+      ],
+      [
+        730,
+        164
+      ],
+      [
+        761,
+        179
+      ],
+      [
+        789,
+        205
+      ],
+      [
+        810,
+        235
+      ],
+      [
+        820,
+        268
+      ],
+      [
+        819,
+        302
+      ],
+      [
+        810,
+        331
+      ],
+      [
+        793,
+        352
+      ],
+      [
+        779,
+        379
+      ],
+      [
+        762,
+        402
+      ],
+      [
+        735,
+        414
+      ],
+      [
+        701,
+        415
+      ],
+      [
+        673,
+        407
+      ],
+      [
+        650,
+        391
+      ],
+      [
+        634,
+        366
+      ],
+      [
+        622,
+        340
+      ],
+      [
+        615,
+        309
+      ]
+    ],
+    "maskFeatherRadiusPixels": 7,
+    "changedPixelCount": 45791,
+    "outsideMaskChangedPixelCount": 0,
+    "outsideMaskPixelsExactlyEqual": true
+  },
+  "visualQA": {
+    "canonicalLelePreserved": true,
+    "assistantDistinctFromLele": true,
+    "allDialogueSpeakersVisible": true,
+    "criticalObjectsVisible": true,
+    "sceneCompositionPreserved": true,
+    "style25d3dCgiPreserved": true,
+    "noUnwantedTextOrUI": true,
+    "manualReview": "PASS"
+  },
+  "actionsRun": false
+}

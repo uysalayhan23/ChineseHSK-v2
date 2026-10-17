@@ -19,7 +19,7 @@
   ],
   "sceneCount": 10,
   "integratedSceneCount": 10,
-  "status": "CORRECTION_REQUIRED",
+  "status": "INTEGRATED_QA_PASS",
   "scenes": [
     {
       "sceneId": "ZH_HSK6_SC011",
@@ -56,8 +56,8 @@
       "width": 1080,
       "height": 1920,
       "format": "WEBP",
-      "imageSha256": "956e60f7fac1942cea01ff8b14eae96cc315d813b7da4eb10ce146774649978a",
-      "bytes": 414584,
+      "imageSha256": "9e9131b1ed353a151781bf417f307ac1031392296c2da1c07e3b9698cfd63ac9",
+      "bytes": 1761606,
       "titleZh": "第一个大客户",
       "titleTr": "İlk Büyük Müşteri",
       "dialogueSpeakers": [

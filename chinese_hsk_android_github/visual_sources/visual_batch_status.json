@@ -96,7 +96,7 @@
     "buildApproved": false,
     "noteTr": "HSK1 SC011-SC020 10/10 final WebP authoritative app assets olarak mevcut ve LOCKED_V2 QA PASS metadata ile doğrulanmış durumda. SC020 mevcut final aile selfie + Mimi/kedi sahnesi korunarak tamamlandı. APK build tetiklenmedi."
   },
-  "latestVisualRevision": "HSK1_SC035_SC036_SC048_R3_2026-10-10",
+  "latestVisualRevision": "HSK6_SC012_ASSISTANT_DISTINCTNESS_REPAIR_20261017",
   "uniqueSceneIdRuleLocked": true,
   "subsequentBatchProgress": {
     "batchId": "HSK1_SC021_SC030",
@@ -1624,7 +1624,7 @@
       "ZH_HSK6_SC020"
     ],
     "pendingSceneIds": [],
-    "status": "CORRECTION_REQUIRED",
+    "status": "INTEGRATED_QA_PASS",
     "manifestVersion": "LOCKED_V2",
     "maturityLock": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
     "analysisReadySceneIds": [
@@ -1653,7 +1653,7 @@
     ],
     "buildApprovalRequired": true,
     "buildApproved": false,
-    "noteTr": "2026-10-17 denetimi: SC012 REVIEW_REQUIRED (yardımcı/Lele yüz benzerliği); SC015, SC016 ve SC019 canonical Li Chen gözlük kimliği nedeniyle düzeltme bekliyor. Bu sahneler mevcut FAIL/REVIEW durumunda tutuldu; APK build başlatılmadı."
+    "noteTr": "2026-10-17 denetimi ve SC012 seçici kimlik onarımı sonrası 10/10 sahne PASS. App/runtime WebP, canonical karakterler, gerçek piksel maskesi ve QA raporları doğrulandı. Build tetiklenmedi; kullanıcı onayı olmadan Actions çalıştırılmaz."
   },
   "hsk6Sc021Sc030BatchProgress": {
     "batchId": "HSK6_SC021_SC030",
@@ -4467,9 +4467,10 @@
   "hsk6Sc011Sc020Repair20261017": {
     "sourceHead": "27af1dc9def887c753cf335c1076b66706acd373",
     "batchId": "HSK6_SC011_SC020",
-    "status": "CORRECTION_REQUIRED",
+    "status": "INTEGRATED_QA_PASS",
     "qaPassSceneIds": [
       "ZH_HSK6_SC011",
+      "ZH_HSK6_SC012",
       "ZH_HSK6_SC013",
       "ZH_HSK6_SC014",
       "ZH_HSK6_SC015",
@@ -4479,9 +4480,7 @@
       "ZH_HSK6_SC019",
       "ZH_HSK6_SC020"
     ],
-    "pendingSceneIds": [
-      "ZH_HSK6_SC012"
-    ],
+    "pendingSceneIds": [],
     "repairs": [
       {
         "sceneId": "ZH_HSK6_SC015",
@@ -4509,10 +4508,19 @@
         "ssim": 0.9985436330167411,
         "outsideMaskChangedPixelCount": 0,
         "changedPixelCount": 4170
+      },
+      {
+        "sceneId": "ZH_HSK6_SC012",
+        "qaReport": "chinese_hsk_android_github/visual_sources/qa_reports/ZH_HSK6_SC012_ASSISTANT_DISTINCTNESS_REPAIR_20261017.json",
+        "gitBlobSha": "ad8ee8c7d1b583e0cf678bf36db6638c5287cbe3",
+        "sha256": "9e9131b1ed353a151781bf417f307ac1031392296c2da1c07e3b9698cfd63ac9",
+        "ssim": 0.9864326111935514,
+        "outsideMaskChangedPixelCount": 0,
+        "changedPixelCount": 45791
       }
     ],
     "actionsRun": false,
-    "commitPolicy": "[skip ci]",
+    "commitPolicy": "single [skip ci] commit; no Actions run",
     "noteTr": "SC015/016/019 seçici canonical gözlük onarımları PASS; SC012 karakter ayrımı REVIEW_REQUIRED kaldığından 10/10 batch PASS değildir."
   },
   "hsk3Sc005MaturityRepairR5": {

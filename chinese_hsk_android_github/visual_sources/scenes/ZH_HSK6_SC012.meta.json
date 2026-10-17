@@ -85,17 +85,19 @@
     "format": "WEBP",
     "aspectRatio": "9:16",
     "orientation": "9:16_vertical",
-    "sha256": "956e60f7fac1942cea01ff8b14eae96cc315d813b7da4eb10ce146774649978a",
-    "bytes": 414584
+    "sha256": "9e9131b1ed353a151781bf417f307ac1031392296c2da1c07e3b9698cfd63ac9",
+    "bytes": 1761606,
+    "gitBlobSha": "ad8ee8c7d1b583e0cf678bf36db6638c5287cbe3",
+    "lossless": true
   },
-  "qaStatus": "REVIEW_REQUIRED",
-  "status": "REVIEW_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 + HSK1_SC001 referansıyla 2026-10-10 toplu görsel inceleme: Yardımcı erkek yüzü Lele'ye çok benziyor; kimlik ayrımı yeterince güvenli değil. Final yeniden kabul edilmeden distinct character QA gerekli. Binary korunuyor; PASS kabul edilmiyor.",
-  "generationPrompt": "Lele ilk büyük işi ve ekip içi görev paylaşımını konuşur.",
+  "qaNoteTr": "2026-10-17 hedefli görsel onarım: genç yetişkin erkek asistanın yüz/saç kimliği Lele’den belirgin ayrıldı. Lele’nin canonical yüzü ve yaşı, dört karakter, kamera stüdyosu, kompozisyon ve 2.5D/3D CGI korundu. Yumuşak maske dışında tüm Pillow RGB pikselleri birebir aynı; SSIM 0.9864. App ve runtime WebP blob/hash eşleşmesi doğrulandı. Actions çalıştırılmadı.",
+  "generationPrompt": "Selective edit of the young-adult male camera assistant only: neat side-parted hair, thin round glasses, narrow mature face and subtle chin goatee, retaining olive shirt and camera operation pose. Preserve Lele’s canonical face and age, other cast, studio, composition, 2.5D/3D CGI and all pixels outside the tight assistant-head mask.",
   "styleReferenceSceneId": "ZH_HSK6_SC011",
   "postGenerationVisualQA": {
-    "status": "REVIEW_REQUIRED",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
@@ -103,12 +105,20 @@
     "criticalObjectsMatch": true,
     "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
-    "referenceSceneId": "ZH_HSK1_SC001",
+    "exactCastChecked": true,
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "photo_assistant_visually_too_similar_to_Lele"
-    ],
-    "audit": "HSK6_SC011_SC020_R1_2026-10-10"
+    "audit": "HSK6_SC011_SC020_REPAIR_20261017",
+    "outsideMaskPixelsExactlyEqual": true,
+    "outsideMaskChangedPixelCount": 0,
+    "changedPixelCount": 45791,
+    "ssim": 0.9864326111935514,
+    "ssimMethod": "11x11 Gaussian-window SSIM, RGB, data_range=255",
+    "distinctAssistantIdentity": true,
+    "leleCanonicalAppearancePreserved": true,
+    "maturityLockPreserved": true,
+    "style25d3dCgiPreserved": true,
+    "compositionPreserved": true,
+    "manualFullSceneAndCloseupReview": "PASS",
+    "actionsRun": false
   }
 }
