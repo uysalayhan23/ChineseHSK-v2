@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "sceneId": "ZH_HSK6_SC029",
+  "sourceHead": "e8e96ca1424778548afa32fa4626ed9a4d89f9ba",
+  "policy": "LOCKED_V2",
+  "original": {
+    "sha256": "5515118ac40c1a8ad2247dd0a86617aca20928d09f559343bac3cdba3ac3a22c",
+    "gitBlobSha": "d893346485672d6e326755e51f51783c1f241490",
+    "bytes": 462798,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP"
+  },
+  "corrected": {
+    "sha256": "3810a0b937dbe3e5e2f0e020e837c53a90a7dbe454c18d8be35d7cae2ebdc63e",
+    "gitBlobSha": "c691137d9205dcf48e0bba34a0b58d22847df7fa",
+    "bytes": 1972074,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "maskConstruction": {
+    "box": [
+      0,
+      590,
+      390,
+      1020
+    ],
+    "roiPolygon": [
+      [
+        140,
+        762
+      ],
+      [
+        320,
+        755
+      ],
+      [
+        330,
+        860
+      ],
+      [
+        140,
+        874
+      ]
+    ],
+    "generator": "built-in image_gen glasses edit; canonical image used only for frame shape",
+    "selection": "Within ROI, retain generated pixels with mean RGB <130 and original-to-generated mean RGB decrease >18; 3x3 dilation and 0.25px Gaussian edge smoothing. Only selected dark frame/temple pixels were composited over the original."
+  },
+  "maskPixelCount": 4637,
+  "insideMaskChangedPixelCount": 3750,
+  "outsideMaskChangedPixelCount": 0,
+  "globalSSIM": 0.9982455389256962,
+  "ssimMethod": "RGB mean, 7x7 uniform window, sample covariance, valid support, data_range=255",
+  "result": "PASS",
+  "manualVisualReview": "PASS",
+  "acceptedThresholdPercent": 95,
+  "style3d25dCgiPreserved": true,
+  "compositionPreserved": true,
+  "canonicalMaturityAndGlassesRestored": true,
+  "originalDimensionsPreserved": true,
+  "appRuntimeSameGitBlob": true,
+  "actionsInvoked": false,
+  "commitPolicy": "[skip ci]",
+  "repair": "Li Chen’in sağa bakan genç yetişkin profiline ince dikdörtgen gözlük eklendi. Original age, face, hair, scene and non-mask pixels preserved.",
+  "visualQA": {
+    "fullSceneBeforeAfterReviewed": true,
+    "closeupReviewed": true,
+    "canonicalThinDarkRectangularGlassesVisible": true,
+    "youngAdultAgeLockPreserved": true,
+    "cgiStylePreserved": true,
+    "poseAndCompositionPreserved": true,
+    "outsideMaskPixelsExactlyEqual": true
+  }
+}

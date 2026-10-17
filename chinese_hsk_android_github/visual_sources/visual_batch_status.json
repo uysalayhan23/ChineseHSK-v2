@@ -1624,7 +1624,7 @@
       "ZH_HSK6_SC020"
     ],
     "pendingSceneIds": [],
-    "status": "INTEGRATED_QA_PASS",
+    "status": "CORRECTION_REQUIRED",
     "manifestVersion": "LOCKED_V2",
     "maturityLock": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
     "analysisReadySceneIds": [
@@ -1653,7 +1653,7 @@
     ],
     "buildApprovalRequired": true,
     "buildApproved": false,
-    "noteTr": "HSK6 SC011-SC020 on görsel LOCKED_V2 kapsamında final WebP app asset + ci/runtime_visuals aynası + sahne metadata/analizi olarak entegre edildi. Zhang/Liu yaş sürekliliği, Lele stüdyo dizisi, emeklilik ve kafe devamlılığı kontrol edildi. APK build başlatılmadı; yeni açık kullanıcı onayı gerekir."
+    "noteTr": "2026-10-17 denetimi: SC012 REVIEW_REQUIRED (yardımcı/Lele yüz benzerliği); SC015, SC016 ve SC019 canonical Li Chen gözlük kimliği nedeniyle düzeltme bekliyor. Bu sahneler mevcut FAIL/REVIEW durumunda tutuldu; APK build başlatılmadı."
   },
   "hsk6Sc021Sc030BatchProgress": {
     "batchId": "HSK6_SC021_SC030",
@@ -1685,7 +1685,7 @@
       "ZH_HSK6_SC030"
     ],
     "pendingSceneIds": [],
-    "status": "CORRECTION_REQUIRED",
+    "status": "INTEGRATED_QA_PASS",
     "manifestVersion": "LOCKED_V2",
     "maturityLock": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
     "analysisReadySceneIds": [
@@ -1714,7 +1714,7 @@
     ],
     "buildApprovalRequired": true,
     "buildApproved": false,
-    "noteTr": "2026-10-17: ZH_HSK6_SC022 için kanonik gözlük onarımı sıkı piksel/görsel QA ile PASS. ZH_HSK6_SC027 ve ZH_HSK6_SC029 canonical Li Chen yaşı/gözlük kimliği için açık düzeltme gerektiriyor; grup tamamı PASS olarak işaretlenmemiştir. APK build başlatılmadı."
+    "noteTr": "2026-10-17: SC022, SC027 ve SC029 kanonik gözlük onarımları sıkı görsel/piksel QA ile PASS; diğer sahnelerin metadata, exact cast, WebP ve app/runtime bütünlüğü doğrulandı. Dört kuşak/kafe akışı ve CGI kompozisyonu korundu. APK build başlatılmadı."
   },
   "hsk6Sc031Sc040BatchProgress": {
     "batchId": "HSK6_SC031_SC040",

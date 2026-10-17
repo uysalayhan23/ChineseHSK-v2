@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "sceneId": "ZH_HSK6_SC027",
+  "sourceHead": "e8e96ca1424778548afa32fa4626ed9a4d89f9ba",
+  "policy": "LOCKED_V2",
+  "original": {
+    "sha256": "9d8bf701ff7341066379d39b72b6744d182520ce5e0f5bdee2058bb7cbd257e1",
+    "gitBlobSha": "ee8d8b1aeddb969f40c6fdd7a4ea4b22bf2dff76",
+    "bytes": 391094,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP"
+  },
+  "corrected": {
+    "sha256": "4176e36d1667ea150f4aa53c981719850b919d654ffd1e2ec7277d3e00d71984",
+    "gitBlobSha": "08efd1966f90c2cbfc329edf0884ceaff18f3e74",
+    "bytes": 2050426,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "maskConstruction": {
+    "box": [
+      640,
+      360,
+      1000,
+      760
+    ],
+    "roiPolygon": [
+      [
+        662,
+        586
+      ],
+      [
+        796,
+        585
+      ],
+      [
+        806,
+        656
+      ],
+      [
+        660,
+        660
+      ]
+    ],
+    "generator": "built-in image_gen glasses edit; canonical image used only for frame shape",
+    "selection": "Within ROI, retain generated pixels with mean RGB <130 and original-to-generated mean RGB decrease >18; 3x3 dilation and 0.25px Gaussian edge smoothing. Only selected dark frame/temple pixels were composited over the original."
+  },
+  "maskPixelCount": 2739,
+  "insideMaskChangedPixelCount": 2216,
+  "outsideMaskChangedPixelCount": 0,
+  "globalSSIM": 0.999370903369251,
+  "ssimMethod": "RGB mean, 7x7 uniform window, sample covariance, valid support, data_range=255",
+  "result": "PASS",
+  "manualVisualReview": "PASS",
+  "acceptedThresholdPercent": 95,
+  "style3d25dCgiPreserved": true,
+  "compositionPreserved": true,
+  "canonicalMaturityAndGlassesRestored": true,
+  "originalDimensionsPreserved": true,
+  "appRuntimeSameGitBlob": true,
+  "actionsInvoked": false,
+  "commitPolicy": "[skip ci]",
+  "repair": "Li Chen’in yukarı bakan genç yetişkin profiline ince dikdörtgen gözlük eklendi. Original age, face, hair, scene and non-mask pixels preserved.",
+  "visualQA": {
+    "fullSceneBeforeAfterReviewed": true,
+    "closeupReviewed": true,
+    "canonicalThinDarkRectangularGlassesVisible": true,
+    "youngAdultAgeLockPreserved": true,
+    "cgiStylePreserved": true,
+    "poseAndCompositionPreserved": true,
+    "outsideMaskPixelsExactlyEqual": true
+  }
+}

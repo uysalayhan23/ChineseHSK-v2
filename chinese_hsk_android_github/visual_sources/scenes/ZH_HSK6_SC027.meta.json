@@ -38,7 +38,7 @@
   "characterAgeLock": {
     "张伟": "senior_male_parent",
     "刘梅": "senior_female_parent",
-    "李晨": "young_adult_male_partner",
+    "李晨": "young_adult_male_partner_canonical_rectangular_glasses",
     "爷爷": "elderly_male_grandfather"
   },
   "criticalObjects": [
@@ -82,30 +82,37 @@
     "format": "WEBP",
     "aspectRatio": "9:16",
     "orientation": "9:16_vertical",
-    "sha256": "9d8bf701ff7341066379d39b72b6744d182520ce5e0f5bdee2058bb7cbd257e1",
-    "bytes": 391094
+    "sha256": "4176e36d1667ea150f4aa53c981719850b919d654ffd1e2ec7277d3e00d71984",
+    "bytes": 2050426,
+    "gitBlobSha": "08efd1966f90c2cbfc329edf0884ceaff18f3e74",
+    "lossless": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-10 LOCKED_V2 + character bible görsel QA: Li Chen kasaba sahnesinde yine genç ve gözlüksüz kişiyle karıştırılmış; Zhang Wei/yaş continuity’si bozuluyor. Mevcut binary güvenli olarak korunuyor, yeniden üretim ve QA bitmeden PASS kabul edilmiyor.",
+  "qaNoteTr": "2026-10-17 seçici onarım: Li Chen’in yukarı bakan genç yetişkin profiline ince dikdörtgen gözlük eklendi. Yaş kilidi değişmedi; yalnız gözlük maskesi güncellendi. Maske dışı Pillow pikselleri birebir aynı; SSIM %99.9371. CGI yüz, poz ve kompozisyon görsel QA ile doğrulandı.",
   "generationPrompt": "Zhang, Liu, Li Chen ve büyükbaba kasabanın eski ve yeni hâlini karşılaştırır.",
   "styleReferenceSceneId": "ZH_HSK6_SC026",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "LiChen_character_bible_age_and_glasses_identity_drift"
-    ],
-    "audit": "HSK6_SC021_SC030_R1_2026-10-10"
-  }
+    "rejectionReasons": [],
+    "audit": "ZH_HSK6_SC027_LICHEN_GLASSES_REPAIR_20261017",
+    "outsideMaskPixelEquality": true,
+    "style3d25dCgiPreserved": true,
+    "signatureRectangularGlassesPresent": true,
+    "sceneSpecificYoungAdultAgeLockApplied": true,
+    "actionsRun": false
+  },
+  "generationPromptStatus": "REPAIRED_LOCKED_V2_SELECTIVE",
+  "nextGenerationPrompt": "ZH_HSK6_SC027: LOCKED_V2 exact cast and young-adult Li Chen partner age lock; canonical thin dark rectangular glasses. Preserve source face, hair, expression, pose, warm 2.5D/3D CGI, and all non-mask pixels."
 }
