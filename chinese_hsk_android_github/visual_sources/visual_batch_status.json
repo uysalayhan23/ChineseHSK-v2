@@ -1685,7 +1685,7 @@
       "ZH_HSK6_SC030"
     ],
     "pendingSceneIds": [],
-    "status": "INTEGRATED_QA_PASS",
+    "status": "CORRECTION_REQUIRED",
     "manifestVersion": "LOCKED_V2",
     "maturityLock": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
     "analysisReadySceneIds": [
@@ -1714,7 +1714,7 @@
     ],
     "buildApprovalRequired": true,
     "buildApproved": false,
-    "noteTr": "HSK6 SC021-SC030 on görsel app asset + runtime aynası + LOCKED_V2 metadata/analiz olarak entegre edildi. Hamilelik/doğum akışı, dört kuşak, yaşlı büyükbaba, kasaba dönüşümü ve kafe devamlılığı kontrol edildi. APK build başlatılmadı."
+    "noteTr": "2026-10-17: ZH_HSK6_SC022 için kanonik gözlük onarımı sıkı piksel/görsel QA ile PASS. ZH_HSK6_SC027 ve ZH_HSK6_SC029 canonical Li Chen yaşı/gözlük kimliği için açık düzeltme gerektiriyor; grup tamamı PASS olarak işaretlenmemiştir. APK build başlatılmadı."
   },
   "hsk6Sc031Sc040BatchProgress": {
     "batchId": "HSK6_SC031_SC040",

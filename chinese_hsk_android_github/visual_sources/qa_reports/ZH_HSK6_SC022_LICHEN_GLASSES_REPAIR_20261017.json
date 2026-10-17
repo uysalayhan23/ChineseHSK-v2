@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "sceneId": "ZH_HSK6_SC022",
+  "sourceHead": "24c24d7aa7b141dadb03015a5c7ceb38059307b9",
+  "policy": "LOCKED_V2",
+  "original": {
+    "sha256": "285d0feac89d3891ccc1fafa9703d73d36703a2fbc18da272fb0b6e9a5967378",
+    "gitBlobSha": "ce541566023f29e4f7e1144603265a1daf7cc1f0",
+    "bytes": 394498,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP"
+  },
+  "corrected": {
+    "sha256": "7886e8923809acdb445a23a5b54055334c59490bd12288394ac19d56c6e47e86",
+    "gitBlobSha": "42ba642087138e4c11ccd5d2eadc5ac2766b7684",
+    "bytes": 1782618,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "maskConstruction": {
+    "regionOfInterest": [
+      148,
+      604,
+      332,
+      672
+    ],
+    "source": "Original app/runtime WebP",
+    "generatedEdit": "Built-in image_gen; glasses style only guided by canonical reference",
+    "selection": "Within ROI polygon [(148,610),(323,604),(332,666),(150,672)], retain darkened generated pixels with mean RGB <115 and original-to-generated mean RGB decrease >18; 3x3 dilation and 0.25px Gaussian edge smoothing. Composite only selected pixels over original."
+  },
+  "changedPixelCount": 1696,
+  "maskPixelCount": 2119,
+  "outsideMaskChangedPixelCount": 0,
+  "globalSSIM": 0.999262414131751,
+  "ssimMethod": "RGB mean, 7x7 uniform window, sample covariance, valid support, data_range=255",
+  "result": "PASS",
+  "manualVisualReview": "PASS",
+  "acceptedThresholdPercent": 95,
+  "style3d25dCgiPreserved": true,
+  "compositionPreserved": true,
+  "canonicalMaturityAndGlassesRestored": true,
+  "originalDimensionsPreserved": true,
+  "appRuntimeSameGitBlob": true,
+  "actionsInvoked": false,
+  "commitPolicy": "[skip ci]",
+  "repair": "Added the canonical thin dark rectangular eyeglass lens and temple arm to Li Chen’s existing young-adult profile. All other pixels remain original.",
+  "visualQA": {
+    "fullSceneReviewed": true,
+    "closeupReviewed": true,
+    "canonicalRectangularGlassesVisible": true,
+    "youngAdultAgeLockPreserved": true,
+    "cgiStylePreserved": true,
+    "poseAndCompositionPreserved": true,
+    "outsideMaskPixelsExactlyEqual": true
+  }
+}

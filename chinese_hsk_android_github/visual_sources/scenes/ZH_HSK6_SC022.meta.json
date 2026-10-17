@@ -38,7 +38,7 @@
   "characterAgeLock": {
     "张伟": "senior_male_parent",
     "刘梅": "senior_female_parent",
-    "李晨": "young_adult_male_partner",
+    "李晨": "young_adult_male_partner_canonical_rectangular_glasses",
     "奶奶": "elderly_female_grandmother"
   },
   "criticalObjects": [
@@ -82,30 +82,37 @@
     "format": "WEBP",
     "aspectRatio": "9:16",
     "orientation": "9:16_vertical",
-    "sha256": "285d0feac89d3891ccc1fafa9703d73d36703a2fbc18da272fb0b6e9a5967378",
-    "bytes": 394498
+    "sha256": "7886e8923809acdb445a23a5b54055334c59490bd12288394ac19d56c6e47e86",
+    "bytes": 1782618,
+    "gitBlobSha": "42ba642087138e4c11ccd5d2eadc5ac2766b7684",
+    "lossless": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-10 LOCKED_V2 + character bible görsel QA: Li Chen, kanonik HSK6 olgun yüz ve ince koyu dikdörtgen gözlük kimliği yerine genç gözlüksüz kişi olarak gösteriliyor. Mevcut binary güvenli olarak korunuyor, yeniden üretim ve QA bitmeden PASS kabul edilmiyor.",
+  "qaNoteTr": "2026-10-17 seçici onarım: Li Chen’in genç yetişkin yaşı korunarak kanonik ince koyu dikdörtgen gözlükleri eklendi. Yalnız gözlük çerçevesi/sapı maskesi değişti; maske dışındaki tüm gerçek Pillow pikselleri aynı, SSIM %99.9262. CGI yüz, profil, saç ve sahne kompozisyonu görsel olarak doğrulandı.",
   "generationPrompt": "Zhang, torun sahibi olma fikrini aileyle konuşup yeni rolüne hazırlanır.",
   "styleReferenceSceneId": "ZH_HSK6_SC021",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
+    "exactCastChecked": true,
     "referenceSceneId": "ZH_HSK1_SC001",
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "LiChen_character_bible_age_and_glasses_identity_drift"
-    ],
-    "audit": "HSK6_SC021_SC030_R1_2026-10-10"
-  }
+    "rejectionReasons": [],
+    "audit": "ZH_HSK6_SC022_LICHEN_GLASSES_REPAIR_20261017",
+    "outsideMaskPixelEquality": true,
+    "style3d25dCgiPreserved": true,
+    "signatureRectangularGlassesPresent": true,
+    "sceneSpecificYoungAdultAgeLockApplied": true,
+    "actionsRun": false
+  },
+  "generationPromptStatus": "REPAIRED_LOCKED_V2_SELECTIVE",
+  "nextGenerationPrompt": "ZH_HSK6_SC022: LOCKED_V2; exact cast 张伟 + 刘梅 + 李晨 + 奶奶. Li Chen remains young-adult partner; canonical dark rectangular glasses, short textured dark hair, warm stylized 2.5D/3D CGI. Scene: family prepares for becoming grandparents; preserve original composition and all non-mask pixels."
 }
