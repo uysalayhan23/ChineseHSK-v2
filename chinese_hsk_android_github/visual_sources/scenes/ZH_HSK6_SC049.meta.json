@@ -48,7 +48,7 @@
   "characterAgeLock": {
     "张伟": "senior_male_parent_salt_pepper_wavy_hair_rectangular_glasses",
     "刘梅": "senior_female_parent_short_wavy_chestnut_bob_subtle_graying",
-    "李晨": "mature_male_partner_short_textured_hair_subtle_gray_at_temples"
+    "李晨": "mature_male_partner_short_textured_hair_subtle_gray_at_temples_canonical_rectangular_glasses"
   },
   "criticalObjects": [
     "boş kafe masaları",
@@ -111,30 +111,33 @@
     "format": "WEBP",
     "aspectRatio": "9:16",
     "orientation": "9:16_vertical",
-    "sha256": "4206eacd05c1ee58442d3866ca74671d0cc77d890f321a19ad18a3d6d4cde77f",
-    "bytes": 297300
+    "sha256": "8440041f35356f1e8afa088c71b153026602d6584c6fb0c4f07bb497114d4dc2",
+    "bytes": 1735770,
+    "gitBlobSha": "d5ea1654f12cc3c0314dfa271d116c5d5c195081",
+    "lossless": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-10 LOCKED_V2 ve HSK6 character bible görsel QA: Li Chen kafe kapanışı sahnesinde ince koyu dikdörtgen gözlüğü olmadan gösterilmiş; karakter bible kimliği korunmuyor. 旁白 yalnız dış sestir. Mevcut binary korunuyor; doğru final asset + QA olmadan PASS değil.",
+  "qaNoteTr": "2026-10-17 seçici LOCKED_V2 onarımı PASS: Li Chen’in olgun/erken emeklilik dönemindeki görünümüne ince koyu dikdörtgen gözlük eklendi; gri şakaklar, yaş, ifade, CGI, poz ve kompozisyon korundu. Maske dışı pikseller birebir aynı; SSIM %99.8668.",
   "generationPrompt": "Kafe kapandıktan sonra Zhang ve Liu içten bir konuşma yapar; Li Chen dinler, anlatıcı ses olarak kalır.",
   "styleReferenceSceneId": "ZH_HSK6_SC040",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
-    "referenceSceneId": "ZH_HSK1_SC001",
+    "exactCastChecked": true,
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "LiChen_character_bible_glasses_identity_drift"
-    ],
-    "audit": "HSK6_SC041_SC050_R1_2026-10-10"
-  }
+    "outsideMaskPixelsExactlyEqual": true,
+    "canonicalGlassesVisible": true,
+    "maturityLockPreserved": true,
+    "actionsRun": false
+  },
+  "generationPromptStatus": "completed_selective_canonical_glasses_repair",
+  "nextGenerationPrompt": "No further generation required; PASS is locked."
 }

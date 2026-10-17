@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "sceneId": "ZH_HSK6_SC042",
+  "sourceHead": "ed706bc7a64a1f3d2426b145fe4f53dda17aa348",
+  "policy": "LOCKED_V2",
+  "original": {
+    "sha256": "2a661df38b5e28f78c92e7d9c9993479c8cc1261c5d4a3ff2ba39f07f2ed6aa0",
+    "gitBlobSha": "7955dd805be75f153d730c2601425145d634379b",
+    "bytes": 341562,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP"
+  },
+  "corrected": {
+    "sha256": "98eba7bd9dc30c994f2e111e62dd2edf14cdc4ba5c034d3df3b1e39336b956c6",
+    "gitBlobSha": "61d9752005fbd0c7fac70d01d9000dcad43957cd",
+    "bytes": 1928124,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "maskConstruction": {
+    "box": [
+      760,
+      500,
+      1080,
+      900
+    ],
+    "roiPolygon": [
+      [
+        88,
+        72
+      ],
+      [
+        215,
+        72
+      ],
+      [
+        220,
+        150
+      ],
+      [
+        88,
+        150
+      ]
+    ],
+    "generator": "built-in image_gen glasses edit; source image outside final glasses mask discarded",
+    "selection": "Within ROI, retain generated pixels with mean RGB <130 and source-to-generated mean RGB decrease >18; 3x3 dilation and 0.25px Gaussian edge smoothing. Only selected glasses pixels composited over the source."
+  },
+  "maskPixelCount": 2283,
+  "insideMaskChangedPixelCount": 1889,
+  "outsideMaskChangedPixelCount": 0,
+  "globalSSIM": 0.9990347578138492,
+  "ssimMethod": "RGB mean, 7x7 uniform window, sample covariance, valid support, data_range=255",
+  "result": "PASS",
+  "manualVisualReview": "PASS",
+  "acceptedThresholdPercent": 95,
+  "style3d25dCgiPreserved": true,
+  "compositionPreserved": true,
+  "canonicalMaturityAndGlassesRestored": true,
+  "originalDimensionsPreserved": true,
+  "appRuntimeSameGitBlob": true,
+  "actionsInvoked": false,
+  "commitPolicy": "[skip ci]",
+  "visualQA": {
+    "fullSceneBeforeAfterReviewed": true,
+    "closeupReviewed": true,
+    "canonicalThinDarkRectangularGlassesVisible": true,
+    "matureAgeAndSubtleGrayTemplesPreserved": true,
+    "cgiStylePreserved": true,
+    "poseAndCompositionPreserved": true,
+    "outsideMaskPixelsExactlyEqual": true
+  }
+}

@@ -1809,7 +1809,7 @@
       "ZH_HSK6_SC050"
     ],
     "pendingSceneIds": [],
-    "status": "READY_FOR_BUILD",
+    "status": "INTEGRATED_QA_PASS",
     "manifestVersion": "LOCKED_V2",
     "maturityLock": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
     "analysisReadySceneIds": [
@@ -1838,7 +1838,7 @@
     ],
     "buildApprovalRequired": true,
     "buildApproved": true,
-    "noteTr": "HSK6 SC041-SC050 on görsel app asset + runtime aynası + LOCKED_V2 metadata/analiz olarak entegre edildi; Liu Mei, Zhang Wei, Yutong, Lele ve Li Chen görünüm kilitleri kontrol edildi. APK build başlatılmadı ve kullanıcı onayı bekliyor. Kullanıcı HSK1-HSK6 görsellerini uyumlu bulması koşuluyla build talimatı verdi; son HSK6 bloğu için bu talimat manifest onayı olarak kaydedildi."
+    "noteTr": "2026-10-17 sıkı LOCKED_V2 denetimi: SC042, SC047 ve SC049 kanonik Li Chen gözlük onarımları PASS; 10 sahnenin görüntü/metadata/runtime bütünlüğü doğrulandı. SC047 narrator 旁白 görsel kadro gerektirmiyor. Actions çalıştırılmadı."
   },
   "contextualDialogueVisualCorrectionsR1": {
     "sceneIds": [
