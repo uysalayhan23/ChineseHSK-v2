@@ -4521,7 +4521,7 @@
     ],
     "actionsRun": false,
     "commitPolicy": "single [skip ci] commit; no Actions run",
-    "noteTr": "SC015/016/019 seçici canonical gözlük onarımları PASS; SC012 karakter ayrımı REVIEW_REQUIRED kaldığından 10/10 batch PASS değildir."
+    "noteTr": "2026-10-17 onarım ve denetiminden sonra SC011-SC020 grubunun 10 sahnesi PASS. SC012 yardımcı karakter ayrımı düzeltildi; SC015, SC016 ve SC019 canonical Li Chen gözlük düzeltmeleri önceki QA raporlarıyla PASS. Actions çalıştırılmadı."
   },
   "hsk3Sc005MaturityRepairR5": {
     "date": "2026-10-17",
