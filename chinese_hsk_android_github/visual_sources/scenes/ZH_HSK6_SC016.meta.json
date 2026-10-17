@@ -42,7 +42,7 @@
   "characterAgeLock": {
     "张伟": "senior_male_parent",
     "刘梅": "senior_female_parent",
-    "李晨": "young_adult_male",
+    "李晨": "young_adult_male_canonical_thin_dark_rectangular_glasses",
     "同事": "adult_male_coworker"
   },
   "criticalObjects": [
@@ -86,30 +86,37 @@
     "format": "WEBP",
     "aspectRatio": "9:16",
     "orientation": "9:16_vertical",
-    "sha256": "a4518690519b6bc2323080f82e1dff261ea14174fd82a28079b29960fbc78c2a",
-    "bytes": 383508
+    "sha256": "2e57d4d04512dc29db55f41513b2d43b39ff43169c6ec6050678e43fdb80677e",
+    "bytes": 1633008,
+    "gitBlobSha": "2429a7cf12252ef2966c4704131a223d04996dd8",
+    "lossless": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 + HSK1_SC001 referansıyla 2026-10-10 toplu görsel inceleme: Li Chen, canonical olgun yüz/gözlük kimliğini taşımıyor; genç gözlüksüz iş arkadaşı görünümüyle karıştırılmış. Binary korunuyor; PASS kabul edilmiyor.",
+  "qaNoteTr": "2026-10-17 seçici LOCKED_V2 Li Chen gözlük onarımı PASS: genç yetişkin kimliği, yüz, poz ve CGI korunarak ince koyu dikdörtgen gözlük tamamlandı. Maske dışı pikseller birebir aynı; SSIM %99.9282.",
   "generationPrompt": "Zhang son iş gününde eşyalarını toplar; Liu, Li Chen ve çalışma arkadaşıyla vedalaşır.",
   "styleReferenceSceneId": "ZH_HSK6_SC015",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
-    "referenceSceneId": "ZH_HSK1_SC001",
+    "exactCastChecked": true,
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "LiChen_character_bible_glasses_age_identity_drift"
-    ],
-    "audit": "HSK6_SC011_SC020_R1_2026-10-10"
-  }
+    "audit": "HSK6_SC011_SC020_REPAIR_20261017",
+    "outsideMaskPixelsExactlyEqual": true,
+    "canonicalGlassesVisible": true,
+    "maturityLockPreserved": true,
+    "style25d3dCgiPreserved": true,
+    "compositionPreserved": true,
+    "manualFullSceneAndCloseupReview": "PASS",
+    "actionsRun": false
+  },
+  "generationPromptStatus": "completed_selective_canonical_glasses_repair",
+  "nextGenerationPrompt": "No further generation required; PASS is locked."
 }

@@ -42,7 +42,7 @@
     "张伟": "senior_male_parent",
     "刘梅": "senior_female_parent",
     "员工": "young_adult_female_cafe_employee",
-    "李晨": "young_adult_male"
+    "李晨": "young_adult_male_canonical_thin_dark_rectangular_glasses"
   },
   "criticalObjects": [
     "servis tepsisi",
@@ -85,30 +85,37 @@
     "format": "WEBP",
     "aspectRatio": "9:16",
     "orientation": "9:16_vertical",
-    "sha256": "307ce7437f5cf71e6dda73449145b532d8554451c3a64535bbe28159ad09aa35",
-    "bytes": 434000
+    "sha256": "3071f8e59139cc110228e5b9168d62d00c4c46e4756ce5ce4ce2f8c179382cff",
+    "bytes": 1870876,
+    "gitBlobSha": "8330a41cdf9dd363ba6df08982ee29e9691bbdf1",
+    "lossless": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 + HSK1_SC001 referansıyla 2026-10-10 toplu görsel inceleme: Kafede Li Chen, HSK6 yaşındaki ve ince koyu dikdörtgen gözlüklü kanonik Li Chen yerine genç gözlüksüz kişi olarak görünüyor. Binary korunuyor; PASS kabul edilmiyor.",
+  "qaNoteTr": "2026-10-17 seçici LOCKED_V2 Li Chen gözlük onarımı PASS: genç yetişkin kimliği, yüz, poz ve CGI korunarak ince koyu dikdörtgen gözlük tamamlandı. Maske dışı pikseller birebir aynı; SSIM %99.8544.",
   "generationPrompt": "Zhang ve Liu görevleri paylaşırken çalışan ile Li Chen dengeli iş akışına yardım eder.",
   "styleReferenceSceneId": "ZH_HSK6_SC018",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
-    "referenceSceneId": "ZH_HSK1_SC001",
+    "exactCastChecked": true,
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "LiChen_character_bible_glasses_age_identity_drift"
-    ],
-    "audit": "HSK6_SC011_SC020_R1_2026-10-10"
-  }
+    "audit": "HSK6_SC011_SC020_REPAIR_20261017",
+    "outsideMaskPixelsExactlyEqual": true,
+    "canonicalGlassesVisible": true,
+    "maturityLockPreserved": true,
+    "style25d3dCgiPreserved": true,
+    "compositionPreserved": true,
+    "manualFullSceneAndCloseupReview": "PASS",
+    "actionsRun": false
+  },
+  "generationPromptStatus": "completed_selective_canonical_glasses_repair",
+  "nextGenerationPrompt": "No further generation required; PASS is locked."
 }

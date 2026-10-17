@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "sceneId": "ZH_HSK6_SC016",
+  "sourceHead": "27af1dc9def887c753cf335c1076b66706acd373",
+  "policy": "LOCKED_V2",
+  "original": {
+    "sha256": "a4518690519b6bc2323080f82e1dff261ea14174fd82a28079b29960fbc78c2a",
+    "gitBlobSha": "f3e3fd9703a9e1f164bf6fea0461ceb7bdef2998",
+    "bytes": 383508,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP"
+  },
+  "corrected": {
+    "sha256": "2e57d4d04512dc29db55f41513b2d43b39ff43169c6ec6050678e43fdb80677e",
+    "gitBlobSha": "2429a7cf12252ef2966c4704131a223d04996dd8",
+    "bytes": 1633008,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "maskConstruction": {
+    "box": [
+      820,
+      360,
+      1080,
+      780
+    ],
+    "roiPolygon": [
+      [
+        30,
+        160
+      ],
+      [
+        165,
+        160
+      ],
+      [
+        170,
+        310
+      ],
+      [
+        30,
+        310
+      ]
+    ],
+    "excludedSpeckBoxes": [],
+    "generator": "built-in image_gen glasses edit; generated pixels outside the selected eye region discarded",
+    "selection": "Dark generated pixels selected only inside the face ROI; 3x3 maximum filter and 0.25px Gaussian edge smoothing; SC016 near-profile lower rim was added inside the same eye ROI to make the thin rectangular lens legible."
+  },
+  "maskPixelCount": 22086,
+  "insideMaskChangedPixelCount": 3887,
+  "outsideMaskChangedPixelCount": 0,
+  "globalSSIM": 0.9992817708080279,
+  "ssimMethod": "RGB mean, 7x7 uniform window, sample covariance, valid support, data_range=255",
+  "result": "PASS",
+  "manualVisualReview": "PASS",
+  "acceptedThresholdPercent": 95,
+  "style3d25dCgiPreserved": true,
+  "compositionPreserved": true,
+  "canonicalMaturityAndGlassesRestored": true,
+  "originalDimensionsPreserved": true,
+  "appRuntimeSameGitBlob": true,
+  "actionsInvoked": false,
+  "commitPolicy": "[skip ci]",
+  "visualQA": {
+    "fullSceneBeforeAfterReviewed": true,
+    "closeupReviewed": true,
+    "canonicalThinDarkRectangularGlassesVisible": true,
+    "maturityLockPreserved": true,
+    "cgiStylePreserved": true,
+    "poseAndCompositionPreserved": true,
+    "outsideMaskPixelsExactlyEqual": true
+  }
+}

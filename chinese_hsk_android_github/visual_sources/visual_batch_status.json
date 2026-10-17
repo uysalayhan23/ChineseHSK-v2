@@ -4463,5 +4463,56 @@
     "sha256": "ab5641fb94ece8495eb80b6ef91bd5408d037fc15c2671b05794262b60e2c386",
     "ssim": 0.9830716761212692,
     "outsideMaskChangedPixelCount": 0
+  },
+  "hsk6Sc011Sc020Repair20261017": {
+    "sourceHead": "27af1dc9def887c753cf335c1076b66706acd373",
+    "batchId": "HSK6_SC011_SC020",
+    "status": "CORRECTION_REQUIRED",
+    "qaPassSceneIds": [
+      "ZH_HSK6_SC011",
+      "ZH_HSK6_SC013",
+      "ZH_HSK6_SC014",
+      "ZH_HSK6_SC015",
+      "ZH_HSK6_SC016",
+      "ZH_HSK6_SC017",
+      "ZH_HSK6_SC018",
+      "ZH_HSK6_SC019",
+      "ZH_HSK6_SC020"
+    ],
+    "pendingSceneIds": [
+      "ZH_HSK6_SC012"
+    ],
+    "repairs": [
+      {
+        "sceneId": "ZH_HSK6_SC015",
+        "qaReport": "chinese_hsk_android_github/visual_sources/qa_reports/ZH_HSK6_SC015_LICHEN_GLASSES_REPAIR_20261017.json",
+        "gitBlobSha": "173d827f493d2dce26cbcaa841af4a9df296c886",
+        "sha256": "9bea96b9c7fc24a2effd7f79b13169f088f6ec433bec61599e74ef4341788332",
+        "ssim": 0.9992754352065297,
+        "outsideMaskChangedPixelCount": 0,
+        "changedPixelCount": 3035
+      },
+      {
+        "sceneId": "ZH_HSK6_SC016",
+        "qaReport": "chinese_hsk_android_github/visual_sources/qa_reports/ZH_HSK6_SC016_LICHEN_GLASSES_REPAIR_20261017.json",
+        "gitBlobSha": "2429a7cf12252ef2966c4704131a223d04996dd8",
+        "sha256": "2e57d4d04512dc29db55f41513b2d43b39ff43169c6ec6050678e43fdb80677e",
+        "ssim": 0.9992817708080279,
+        "outsideMaskChangedPixelCount": 0,
+        "changedPixelCount": 3887
+      },
+      {
+        "sceneId": "ZH_HSK6_SC019",
+        "qaReport": "chinese_hsk_android_github/visual_sources/qa_reports/ZH_HSK6_SC019_LICHEN_GLASSES_REPAIR_20261017.json",
+        "gitBlobSha": "8330a41cdf9dd363ba6df08982ee29e9691bbdf1",
+        "sha256": "3071f8e59139cc110228e5b9168d62d00c4c46e4756ce5ce4ce2f8c179382cff",
+        "ssim": 0.9985436330167411,
+        "outsideMaskChangedPixelCount": 0,
+        "changedPixelCount": 4170
+      }
+    ],
+    "actionsRun": false,
+    "commitPolicy": "[skip ci]",
+    "noteTr": "SC015/016/019 seçici canonical gözlük onarımları PASS; SC012 karakter ayrımı REVIEW_REQUIRED kaldığından 10/10 batch PASS değildir."
   }
 }

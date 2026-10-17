@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-17",
+  "sceneId": "ZH_HSK6_SC015",
+  "sourceHead": "27af1dc9def887c753cf335c1076b66706acd373",
+  "policy": "LOCKED_V2",
+  "original": {
+    "sha256": "49906927260b29ad7f47ac88921f6e65e4d7fdd066e983c674e940693fe11143",
+    "gitBlobSha": "44d566a7d4db045a8f9878fa945e7ae46eb71e4b",
+    "bytes": 341246,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP"
+  },
+  "corrected": {
+    "sha256": "9bea96b9c7fc24a2effd7f79b13169f088f6ec433bec61599e74ef4341788332",
+    "gitBlobSha": "173d827f493d2dce26cbcaa841af4a9df296c886",
+    "bytes": 1554526,
+    "width": 1080,
+    "height": 1920,
+    "format": "WEBP",
+    "lossless": true
+  },
+  "maskConstruction": {
+    "box": [
+      820,
+      570,
+      1080,
+      1000
+    ],
+    "roiPolygon": [
+      [
+        75,
+        245
+      ],
+      [
+        220,
+        245
+      ],
+      [
+        225,
+        365
+      ],
+      [
+        75,
+        365
+      ]
+    ],
+    "excludedSpeckBoxes": [
+      [
+        178,
+        273,
+        186,
+        282
+      ]
+    ],
+    "generator": "built-in image_gen glasses edit; generated pixels outside the selected eye region discarded",
+    "selection": "Dark generated pixels selected only inside the face ROI; 3x3 maximum filter and 0.25px Gaussian edge smoothing; SC016 near-profile lower rim was added inside the same eye ROI to make the thin rectangular lens legible."
+  },
+  "maskPixelCount": 19041,
+  "insideMaskChangedPixelCount": 3035,
+  "outsideMaskChangedPixelCount": 0,
+  "globalSSIM": 0.9992754352065297,
+  "ssimMethod": "RGB mean, 7x7 uniform window, sample covariance, valid support, data_range=255",
+  "result": "PASS",
+  "manualVisualReview": "PASS",
+  "acceptedThresholdPercent": 95,
+  "style3d25dCgiPreserved": true,
+  "compositionPreserved": true,
+  "canonicalMaturityAndGlassesRestored": true,
+  "originalDimensionsPreserved": true,
+  "appRuntimeSameGitBlob": true,
+  "actionsInvoked": false,
+  "commitPolicy": "[skip ci]",
+  "visualQA": {
+    "fullSceneBeforeAfterReviewed": true,
+    "closeupReviewed": true,
+    "canonicalThinDarkRectangularGlassesVisible": true,
+    "maturityLockPreserved": true,
+    "cgiStylePreserved": true,
+    "poseAndCompositionPreserved": true,
+    "outsideMaskPixelsExactlyEqual": true
+  }
+}
