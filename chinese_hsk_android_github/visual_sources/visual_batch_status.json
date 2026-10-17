@@ -1745,10 +1745,8 @@
       "ZH_HSK6_SC039",
       "ZH_HSK6_SC040"
     ],
-    "pendingSceneIds": [
-      "ZH_HSK6_SC040"
-    ],
-    "status": "CORRECTION_REQUIRED",
+    "pendingSceneIds": [],
+    "status": "INTEGRATED_QA_PASS",
     "manifestVersion": "LOCKED_V2",
     "maturityLock": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
     "analysisReadySceneIds": [
@@ -1777,7 +1775,7 @@
     ],
     "buildApprovalRequired": true,
     "buildApproved": false,
-    "noteTr": "SC031, SC038 ve SC039 canonical gozluk duzeltmeleri sikı QA PASS; SC040 adayi gozluk kilidini karsilamadigi icin reddedildi ve acik duzeltme olarak tutuldu. Actions calistirilmadi."
+    "noteTr": "2026-10-17: SC031, SC038, SC039 ve SC040 canonical Li Chen gözlük onarımları sıkı görsel/piksel QA PASS; 10/10 sahne LOCKED_V2 kapsamında doğrulandı. Actions çalıştırılmadı."
   },
   "hsk6Sc041Sc050BatchProgress": {
     "batchId": "HSK6_SC041_SC050",

@@ -48,7 +48,7 @@
   "characterAgeLock": {
     "张伟": "senior_male_parent_older_appearance",
     "刘梅": "senior_female_parent_older_appearance",
-    "李晨": "older_adult_recently_retired_male_partner",
+    "李晨": "older_adult_recently_retired_male_partner_canonical_rectangular_glasses",
     "家人": "adult_family_member_portrayed_as_张雨桐"
   },
   "criticalObjects": [
@@ -109,30 +109,33 @@
     "format": "WEBP",
     "aspectRatio": "9:16",
     "orientation": "9:16_vertical",
-    "sha256": "ec1699e2397ab20b97f4d277c2c6ce444847c6f9edcf7757db6c14118fc56c9b",
-    "bytes": 328582
+    "sha256": "432d2d2150d162020bcc0187694194e79f32c37fa2b2b3f8cbcf5c7887629de8",
+    "bytes": 1940744,
+    "gitBlobSha": "7a1672642a14eafa89860c583c6ef260eeb573ef",
+    "lossless": true
   },
-  "qaStatus": "FAIL",
-  "status": "CORRECTION_REQUIRED",
+  "qaStatus": "PASS",
+  "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-10 LOCKED_V2 ve HSK6 character bible görsel QA: Li Chen aile kafesi anı sahnesinde yine canonical ince koyu dikdörtgen gözlüğü olmadan gösteriliyor. Binary korunuyor; yeniden üretim + final QA tamamlanmadan PASS işaretlenmeyecek.",
+  "qaNoteTr": "2026-10-17 seçici LOCKED_V2 onarımı PASS: Li Chen’in yakın zamanda emekli olmuş olgun görünümüne ince koyu dikdörtgen gözlük eklendi; gri şakaklar, yaş, ifade, CGI, poz ve kompozisyon korundu. Maske dışı pikseller birebir aynı; SSIM %99.8214.",
   "generationPrompt": "Zhang, Liu ve emekli Li Chen kafenin kapanışında onlarca yıllık anıları Yutong ile paylaşır.",
   "styleReferenceSceneId": "ZH_HSK6_SC039",
   "postGenerationVisualQA": {
-    "status": "FAIL",
+    "status": "PASS",
     "inspectedAfterGeneration": true,
     "dialogueMatch": true,
     "speakerCountMatch": true,
     "settingMatch": true,
     "criticalObjectsMatch": true,
-    "visualPolicyMatch": false,
+    "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
-    "exactCastChecked": false,
-    "referenceSceneId": "ZH_HSK1_SC001",
+    "exactCastChecked": true,
     "appRuntimeMirrorBlobMatch": true,
-    "rejectionReasons": [
-      "LiChen_character_bible_age_or_glasses_identity_drift"
-    ],
-    "audit": "HSK6_SC031_SC040_R1_2026-10-10"
-  }
+    "outsideMaskPixelsExactlyEqual": true,
+    "canonicalGlassesVisible": true,
+    "maturityLockPreserved": true,
+    "actionsRun": false
+  },
+  "generationPromptStatus": "completed_selective_canonical_glasses_repair",
+  "nextGenerationPrompt": "No further generation required; PASS is locked."
 }
