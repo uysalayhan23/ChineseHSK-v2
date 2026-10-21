@@ -1,0 +1,762 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK1_SC010",
+  "level": "HSK1",
+  "sourceTitleZh": "新家的门",
+  "sourceTitleTr": "Yeni Evin Kapısı",
+  "sourceMiniAdventureTr": "Anahtar ilk denemede kapıyı açmaz; doğru anahtarı bulurlar.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK1_SC010_001",
+      "speaker": "张伟",
+      "zh": "到了，就是这扇门。",
+      "pinyin": "Dào le, jiù shì zhè shàn mén.",
+      "tr": "Geldik, kapımız bu."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_002",
+      "speaker": "刘梅",
+      "zh": "先把小包放下来吧。",
+      "pinyin": "Xiān bǎ xiǎo bāo fàng xià lái ba.",
+      "tr": "Önce küçük çantaları bırakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_003",
+      "speaker": "张乐乐",
+      "zh": "终于到家了！",
+      "pinyin": "Zhōng yú dào jiā le!",
+      "tr": "Sonunda eve geldik!",
+      "emotion": "happy",
+      "actionTr": "Yeni eve varınca sevinçle seslenir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_004",
+      "speaker": "张雨桐",
+      "zh": "还没开门呢，别跑那么快。",
+      "pinyin": "Hái méi kāi mén ne, bié pǎo nà me kuài.",
+      "tr": "Kapıyı daha açmadık, öyle hızlı koşma.",
+      "emotion": "neutral",
+      "actionTr": "Kardeşini kapının önünde durması için uyarır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_005",
+      "speaker": "张伟",
+      "zh": "钥匙在我口袋里。",
+      "pinyin": "Yào shi zài wǒ kǒu dai lǐ.",
+      "tr": "Anahtar cebimde."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_006",
+      "speaker": "刘梅",
+      "zh": "你拿出来，我扶着包。",
+      "pinyin": "Nǐ ná chū lái, wǒ fú zhe bāo.",
+      "tr": "Sen çıkar, ben çantayı tutayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_007",
+      "speaker": "张乐乐",
+      "zh": "爸爸，我能开吗？",
+      "pinyin": "Bà ba, wǒ néng kāi ma?",
+      "tr": "Baba, ben açabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_008",
+      "speaker": "张雨桐",
+      "zh": "等爸爸先找对钥匙吧。",
+      "pinyin": "Děng bà ba xiān zhǎo duì yào shi ba.",
+      "tr": "Önce babam doğru anahtarı bulsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_009",
+      "speaker": "张伟",
+      "zh": "好，先试试这把。",
+      "pinyin": "Hǎo, xiān shì shì zhè bǎ.",
+      "tr": "Peki, önce bunu deneyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_010",
+      "speaker": "刘梅",
+      "zh": "慢一点，别用太大的力气。",
+      "pinyin": "Màn yì diǎn, bié yòng tài dà de lì qì.",
+      "tr": "Yavaşça, fazla kuvvet uygulama."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_011",
+      "speaker": "张乐乐",
+      "zh": "怎么还不开呀？",
+      "pinyin": "Zěn me hái bù kāi ya?",
+      "tr": "Neden hâlâ açılmıyor?",
+      "emotion": "curious",
+      "actionTr": "Anahtarın neden dönmediğini merak eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_012",
+      "speaker": "张雨桐",
+      "zh": "是不是拿错了？",
+      "pinyin": "Shì bú shì ná cuò le?",
+      "tr": "Acaba yanlışını mı aldın?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_013",
+      "speaker": "张伟",
+      "zh": "嗯，好像不是这个。",
+      "pinyin": "Èn, hǎo xiàng bú shì zhè ge.",
+      "tr": "Evet, galiba bu değil.",
+      "emotion": "worried",
+      "actionTr": "Yanlış anahtarı tuttuğunu fark eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_014",
+      "speaker": "刘梅",
+      "zh": "别急，再看看另一把。",
+      "pinyin": "Bié jí, zài kàn kàn lìng yī bǎ.",
+      "tr": "Acele etme, diğerine de bak.",
+      "emotion": "comforting",
+      "actionTr": "Eşini sakinleştirip diğer anahtarı önerir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_015",
+      "speaker": "张乐乐",
+      "zh": "那把长一点，我看见了！",
+      "pinyin": "Nà bǎ cháng yì diǎn, wǒ kàn jiàn le!",
+      "tr": "Diğeri biraz daha uzun, gördüm!",
+      "emotion": "happy",
+      "actionTr": "Uzun anahtarı görünce heyecanla gösterir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_016",
+      "speaker": "张雨桐",
+      "zh": "对，就在你右边的口袋里。",
+      "pinyin": "Duì, jiù zài nǐ yòu biān de kǒu dai lǐ.",
+      "tr": "Evet, sağ cebinde.",
+      "emotion": "neutral",
+      "actionTr": "Babasının sağ cebini işaret eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_017",
+      "speaker": "张伟",
+      "zh": "这里还有一把，差点忘了。",
+      "pinyin": "Zhè lǐ hái yǒu yī bǎ, chà diǎn wàng le.",
+      "tr": "Burada bir tane daha var, az kalsın unutuyordum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_018",
+      "speaker": "刘梅",
+      "zh": "这两把看起来真像。",
+      "pinyin": "Zhè liǎng bǎ kàn qǐ lái zhēn xiàng.",
+      "tr": "Bu iki anahtar gerçekten birbirine benziyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_019",
+      "speaker": "张乐乐",
+      "zh": "我还以为门坏了。",
+      "pinyin": "Wǒ hái yǐ wéi mén huài le.",
+      "tr": "Ben kapı bozuldu sandım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_020",
+      "speaker": "张雨桐",
+      "zh": "门没坏，是钥匙还没找对。",
+      "pinyin": "Mén méi huài, shì yào shi hái méi zhǎo duì.",
+      "tr": "Kapı bozuk değil, doğru anahtarı henüz bulamadık."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_021",
+      "speaker": "张伟",
+      "zh": "那就试试长的这把。",
+      "pinyin": "Nà jiù shì shi cháng de zhè bǎ.",
+      "tr": "O zaman şu uzun olanı deneyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_022",
+      "speaker": "刘梅",
+      "zh": "你先把小包给我。",
+      "pinyin": "Nǐ xiān bǎ xiǎo bāo gěi wǒ.",
+      "tr": "Önce küçük çantayı bana ver."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_023",
+      "speaker": "张乐乐",
+      "zh": "我也能帮忙拿东西！",
+      "pinyin": "Wǒ yě néng bāng máng ná dōng xi!",
+      "tr": "Ben de eşya taşımaya yardım edebilirim!"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_024",
+      "speaker": "张雨桐",
+      "zh": "这个轻，你拿这个吧。",
+      "pinyin": "Zhè ge qīng, nǐ ná zhè ge ba.",
+      "tr": "Bu hafif, bunu sen al."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_025",
+      "speaker": "张伟",
+      "zh": "乐乐，站在左边，别挡着门。",
+      "pinyin": "Lè le, zhàn zài zuǒ biān, bié dǎng zhe mén.",
+      "tr": "Lele, solda dur, kapının önünü kapatma.",
+      "emotion": "neutral",
+      "actionTr": "Oğluna kapının solunda yer açmasını söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_026",
+      "speaker": "刘梅",
+      "zh": "雨桐，你也往后一点。",
+      "pinyin": "Yǔ tóng, nǐ yě wǎng hòu yì diǎn.",
+      "tr": "Yutong, sen de biraz geri çekil."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_027",
+      "speaker": "张乐乐",
+      "zh": "这样可以了吗？",
+      "pinyin": "Zhè yàng kě yǐ le ma?",
+      "tr": "Böyle olur mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_028",
+      "speaker": "张雨桐",
+      "zh": "可以，我也给爸爸让路了。",
+      "pinyin": "Kě yǐ, wǒ yě gěi bà ba ràng lù le.",
+      "tr": "Olur, ben de babama yer açtım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_029",
+      "speaker": "张伟",
+      "zh": "咦，这把能转了。",
+      "pinyin": "Yí, zhè bǎ néng zhuǎn le.",
+      "tr": "Aa, bu anahtar dönüyor.",
+      "emotion": "happy",
+      "actionTr": "Anahtar dönünce yüzü aydınlanır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_030",
+      "speaker": "刘梅",
+      "zh": "对，就是那个，不是刚才那个。",
+      "pinyin": "Duì, jiù shì nà ge, bú shì gāng cái nà ge.",
+      "tr": "Evet, işte o; az önceki değil."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_031",
+      "speaker": "张乐乐",
+      "zh": "开了没有？我听见声音了。",
+      "pinyin": "Kāi le méi yǒu? wǒ tīng jiàn shēng yīn le.",
+      "tr": "Açıldı mı? Bir ses duydum.",
+      "emotion": "curious",
+      "actionTr": "Kilidin sesine dikkat kesilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_032",
+      "speaker": "张雨桐",
+      "zh": "你看，爸爸把门打开了。",
+      "pinyin": "Nǐ kàn, bà ba bǎ mén dǎ kāi le.",
+      "tr": "Bak, babam kapıyı açtı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_033",
+      "speaker": "张伟",
+      "zh": "开了！欢迎回家。",
+      "pinyin": "Kāi le! huān yíng huí jiā.",
+      "tr": "Açıldı! Evimize hoş geldiniz.",
+      "emotion": "happy",
+      "actionTr": "Kapıyı açıp ailesini gülümseyerek karşılar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_034",
+      "speaker": "刘梅",
+      "zh": "听你这么说，我真高兴。",
+      "pinyin": "Tīng nǐ zhè me shuō, wǒ zhēn gāo xìng.",
+      "tr": "Bunu senden duymak beni çok mutlu etti.",
+      "emotion": "happy",
+      "actionTr": "Yeni evlerine duygulanarak bakar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_035",
+      "speaker": "张乐乐",
+      "zh": "可是，我们第一次来这里呀。",
+      "pinyin": "Kě shì, wǒ men dì yī cì lái zhè lǐ ya.",
+      "tr": "Ama buraya ilk kez geliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_036",
+      "speaker": "张雨桐",
+      "zh": "从今天起，这里就是我们的家。",
+      "pinyin": "Cóng jīn tiān qǐ, zhè lǐ jiù shì wǒ men de jiā.",
+      "tr": "Bugünden itibaren burası bizim evimiz.",
+      "emotion": "comforting",
+      "actionTr": "Kardeşine buranın artık evleri olduğunu açıklar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_037",
+      "speaker": "张伟",
+      "zh": "说得对，家人在一起就好。",
+      "pinyin": "Shuō dé duì, jiā rén zài yì qǐ jiù hǎo.",
+      "tr": "Doğru söyledin, ailemiz bir arada olsun yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_038",
+      "speaker": "刘梅",
+      "zh": "先看看里面，再进去吧。",
+      "pinyin": "Xiān kàn kàn lǐ miàn, zài jìn qù ba.",
+      "tr": "Önce içeriye bakalım, sonra girelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_039",
+      "speaker": "张乐乐",
+      "zh": "我站在这里就能看见窗户！",
+      "pinyin": "Wǒ zhàn zài zhè lǐ jiù néng kàn jiàn chuāng hù!",
+      "tr": "Burada durunca pencereyi görebiliyorum!"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_040",
+      "speaker": "张雨桐",
+      "zh": "我也看见了，里面很亮。",
+      "pinyin": "Wǒ yě kàn jiàn le, lǐ miàn hěn liàng.",
+      "tr": "Ben de gördüm, içerisi çok aydınlık."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_041",
+      "speaker": "张伟",
+      "zh": "先别跑，地上有东西。",
+      "pinyin": "Xiān bié pǎo, dì shàng yǒu dōng xi.",
+      "tr": "Henüz koşma, yerde eşyalar var.",
+      "emotion": "neutral",
+      "actionTr": "Yerdeki eşyaları göstererek çocukları yavaşlatır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_042",
+      "speaker": "刘梅",
+      "zh": "门边这个箱子要挪一下。",
+      "pinyin": "Mén biān zhè ge xiāng zi yào nuó yī xià.",
+      "tr": "Kapının yanındaki şu kutuyu biraz çekmek gerek."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_043",
+      "speaker": "张乐乐",
+      "zh": "这是我们的箱子吗？",
+      "pinyin": "Zhè shì wǒ men de xiāng zi ma?",
+      "tr": "Bu bizim kutumuz mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_044",
+      "speaker": "张雨桐",
+      "zh": "是，东西已经送到了。",
+      "pinyin": "Shì, dōng xi yǐ jīng sòng dào le.",
+      "tr": "Evet, eşyalar çoktan getirilmiş."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_045",
+      "speaker": "张伟",
+      "zh": "我先把它放到旁边。",
+      "pinyin": "Wǒ xiān bǎ tā fàng dào páng biān.",
+      "tr": "Önce onu kenara koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_046",
+      "speaker": "刘梅",
+      "zh": "慢慢来，里面还有东西呢。",
+      "pinyin": "Màn màn lái, lǐ miàn hái yǒu dōng xi ne.",
+      "tr": "Yavaşça, içinde eşyalar var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_047",
+      "speaker": "张乐乐",
+      "zh": "我帮你扶一下这边。",
+      "pinyin": "Wǒ bāng nǐ fú yī xià zhè biān.",
+      "tr": "Bu tarafını tutarak yardım edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_048",
+      "speaker": "张雨桐",
+      "zh": "我拿小包，大的让爸爸搬。",
+      "pinyin": "Wǒ ná xiǎo bāo, dà de ràng bà ba bān.",
+      "tr": "Ben küçük çantayı alayım, büyükleri babam taşısın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_049",
+      "speaker": "张伟",
+      "zh": "谢谢，现在门口空了。",
+      "pinyin": "Xiè xiè, xiàn zài mén kǒu kōng le.",
+      "tr": "Teşekkürler, şimdi giriş boşaldı.",
+      "emotion": "happy",
+      "actionTr": "Çocukların yardımına teşekkür eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_050",
+      "speaker": "刘梅",
+      "zh": "乐乐，跟着姐姐进去。",
+      "pinyin": "Lè le, gēn zhe jiě jie jìn qù.",
+      "tr": "Lele, ablanın peşinden gir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_051",
+      "speaker": "张乐乐",
+      "zh": "姐姐，你等一下我！",
+      "pinyin": "Jiě jie, nǐ děng yí xià wǒ!",
+      "tr": "Abla, beni bir bekle!",
+      "emotion": "curious",
+      "actionTr": "Ablasına yetişmek için seslenir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_052",
+      "speaker": "张雨桐",
+      "zh": "我就在你前面，不走远。",
+      "pinyin": "Wǒ jiù zài nǐ qián miàn, bù zǒu yuǎn.",
+      "tr": "Hemen önündeyim, uzaklaşmıyorum.",
+      "emotion": "comforting",
+      "actionTr": "Kardeşine yakınında kaldığını söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_053",
+      "speaker": "张伟",
+      "zh": "先到门里面，别往房间里跑。",
+      "pinyin": "Xiān dào mén lǐ miàn, bié wǎng fáng jiān lǐ pǎo.",
+      "tr": "Önce kapıdan girin, odalara koşmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_054",
+      "speaker": "刘梅",
+      "zh": "我们还要把包拿进来。",
+      "pinyin": "Wǒ men hái yào bǎ bāo ná jìn lái.",
+      "tr": "Çantaları da içeri almamız gerek."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_055",
+      "speaker": "张乐乐",
+      "zh": "那我把这个放哪里？",
+      "pinyin": "Nà wǒ bǎ zhè ge fàng nǎ lǐ?",
+      "tr": "Peki, bunu nereye koyayım?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_056",
+      "speaker": "张雨桐",
+      "zh": "先放门旁边，别放在路中间。",
+      "pinyin": "Xiān fàng mén páng biān, bié fàng zài lù zhōng jiān.",
+      "tr": "Şimdilik kapının yanına koy, geçiş yoluna koyma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_057",
+      "speaker": "张伟",
+      "zh": "对，这样大家都能走。",
+      "pinyin": "Duì, zhè yàng dà jiā dōu néng zǒu.",
+      "tr": "Evet, böylece herkes geçebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_058",
+      "speaker": "刘梅",
+      "zh": "放好以后，洗洗手吧。",
+      "pinyin": "Fàng hǎo yǐ hòu, xǐ xǐ shǒu ba.",
+      "tr": "Yerleştirdikten sonra ellerimizi yıkayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_059",
+      "speaker": "张乐乐",
+      "zh": "妈妈，洗手的地方在哪儿？",
+      "pinyin": "Mā ma, xǐ shǒu de dì fāng zài nǎr?",
+      "tr": "Anne, el yıkayacağımız yer nerede?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_060",
+      "speaker": "张雨桐",
+      "zh": "先一起看看，不要乱开门。",
+      "pinyin": "Xiān yì qǐ kàn kàn, bú yào luàn kāi mén.",
+      "tr": "Önce birlikte bakalım, kapıları rastgele açmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_061",
+      "speaker": "张伟",
+      "zh": "进门右边是一个房间。",
+      "pinyin": "Jìn mén yòu biān shì yí gè fáng jiān.",
+      "tr": "Girişin sağında bir oda var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_062",
+      "speaker": "刘梅",
+      "zh": "左边也有一扇门。",
+      "pinyin": "Zuǒ biān yě yǒu yī shàn mén.",
+      "tr": "Solda da bir kapı var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_063",
+      "speaker": "张乐乐",
+      "zh": "哪一个是我的房间？",
+      "pinyin": "Nǎ yí gè shì wǒ de fáng jiān?",
+      "tr": "Hangisi benim odam?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_064",
+      "speaker": "张雨桐",
+      "zh": "等东西放好了再看吧。",
+      "pinyin": "Děng dōng xi fàng hǎo le zài kàn ba.",
+      "tr": "Eşyaları yerleştirdikten sonra bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_065",
+      "speaker": "张伟",
+      "zh": "今天先把门口收好。",
+      "pinyin": "Jīn tiān xiān bǎ mén kǒu shōu hǎo.",
+      "tr": "Bugün önce girişi düzenleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_066",
+      "speaker": "刘梅",
+      "zh": "是啊，不能一来就到处跑。",
+      "pinyin": "Shì a, bù néng yī lái jiù dào chù pǎo.",
+      "tr": "Evet, gelir gelmez her yere koşamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_067",
+      "speaker": "张乐乐",
+      "zh": "好吧，我就在这里等。",
+      "pinyin": "Hǎo ba, wǒ jiù zài zhè lǐ děng.",
+      "tr": "Peki, burada bekleyeyim.",
+      "emotion": "neutral",
+      "actionTr": "Beklemeyi kabul ederek kapının içinde durur."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_068",
+      "speaker": "张雨桐",
+      "zh": "你可以帮我数数小包。",
+      "pinyin": "Nǐ kě yǐ bāng wǒ shǔ shù xiǎo bāo.",
+      "tr": "Küçük çantaları saymama yardım edebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_069",
+      "speaker": "张伟",
+      "zh": "钥匙也得放好，不能再找不到。",
+      "pinyin": "Yào shi yě děi fàng hǎo, bù néng zài zhǎo bú dào.",
+      "tr": "Anahtarı da yerine koymalı, yine kaybolmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_070",
+      "speaker": "刘梅",
+      "zh": "你先把它给我吧。",
+      "pinyin": "Nǐ xiān bǎ tā gěi wǒ ba.",
+      "tr": "Önce bana ver."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_071",
+      "speaker": "张乐乐",
+      "zh": "妈妈，你知道哪把是对的吗？",
+      "pinyin": "Mā ma, nǐ zhī dào nǎ bǎ shì duì de ma?",
+      "tr": "Anne, hangisinin doğru olduğunu biliyor musun?",
+      "emotion": "curious",
+      "actionTr": "Annesinin doğru anahtarı tanıyıp tanımadığını sorar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_072",
+      "speaker": "张雨桐",
+      "zh": "就是长的这把，我记住了。",
+      "pinyin": "Jiù shì cháng de zhè bǎ, wǒ jì zhù le.",
+      "tr": "Şu uzun olan, aklımda kaldı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_073",
+      "speaker": "张伟",
+      "zh": "短的先放到另一个口袋。",
+      "pinyin": "Duǎn de xiān fàng dào lìng yí gè kǒu dai.",
+      "tr": "Kısa olanı şimdilik başka cebe koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_074",
+      "speaker": "刘梅",
+      "zh": "这样就不会拿错了。",
+      "pinyin": "Zhè yàng jiù bú huì ná cuò le.",
+      "tr": "Böylece yanlışını almayız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_075",
+      "speaker": "张乐乐",
+      "zh": "下次我来帮你找！",
+      "pinyin": "Xià cì wǒ lái bāng nǐ zhǎo!",
+      "tr": "Bir dahakine bulmana ben yardım ederim!",
+      "emotion": "happy",
+      "actionTr": "Bir sonraki sefer yardım etmeyi hevesle teklif eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_076",
+      "speaker": "张雨桐",
+      "zh": "你先别把自己的小包忘了。",
+      "pinyin": "Nǐ xiān bié bǎ zì jǐ de xiǎo bāo wàng le.",
+      "tr": "Önce kendi küçük çantanı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_077",
+      "speaker": "张伟",
+      "zh": "雨桐提醒得对，小包还在门边。",
+      "pinyin": "Yǔ tóng tí xǐng de duì, xiǎo bāo hái zài mén biān.",
+      "tr": "Yutong doğru hatırlattı, küçük çanta hâlâ kapının yanında."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_078",
+      "speaker": "刘梅",
+      "zh": "乐乐，拿过来给我看看。",
+      "pinyin": "Lè le, ná guò lái gěi wǒ kàn kàn.",
+      "tr": "Lele, getir de bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_079",
+      "speaker": "张乐乐",
+      "zh": "给你，里面还有我的小火车。",
+      "pinyin": "Gěi nǐ, lǐ miàn hái yǒu wǒ de xiǎo huǒ chē.",
+      "tr": "Al, içinde oyuncak trenim de var.",
+      "emotion": "happy",
+      "actionTr": "Çantasını açıp oyuncak trenini gösterir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_080",
+      "speaker": "张雨桐",
+      "zh": "你在车站找回它后就一直拿着呢。",
+      "pinyin": "Nǐ zài chē zhàn zhǎo huí tā hòu jiù yì zhí ná zhe ne.",
+      "tr": "İstasyonda onu bulduğundan beri elinden bırakmıyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_081",
+      "speaker": "张伟",
+      "zh": "现在小火车也到新家了。",
+      "pinyin": "Xiàn zài xiǎo huǒ chē yě dào xīn jiā le.",
+      "tr": "Şimdi oyuncak tren de yeni eve geldi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_082",
+      "speaker": "刘梅",
+      "zh": "你可别让它挡在门口。",
+      "pinyin": "Nǐ kě bié ràng tā dǎng zài mén kǒu.",
+      "tr": "Onu kapının önüne koyup yolu kapatma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_083",
+      "speaker": "张乐乐",
+      "zh": "不会，我先放进包里。",
+      "pinyin": "Bú huì, wǒ xiān fàng jìn bāo lǐ.",
+      "tr": "Koymam, önce çantaya bırakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_084",
+      "speaker": "张雨桐",
+      "zh": "很好，等收拾好了再玩。",
+      "pinyin": "Hěn hǎo, děng shōu shí hǎo le zài wán.",
+      "tr": "Güzel, yerleştirme bitince oynarsın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_085",
+      "speaker": "张伟",
+      "zh": "大家都进来了吗？",
+      "pinyin": "Dà jiā dōu jìn lái le ma?",
+      "tr": "Herkes içeri girdi mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_086",
+      "speaker": "刘梅",
+      "zh": "都进来了，包也拿进来了。",
+      "pinyin": "Dōu jìn lái le, bāo yě ná jìn lái le.",
+      "tr": "Herkes girdi, çantalar da içeride."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_087",
+      "speaker": "张乐乐",
+      "zh": "那我把门关上？",
+      "pinyin": "Nà wǒ bǎ mén guān shang?",
+      "tr": "O zaman kapıyı kapatayım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_088",
+      "speaker": "张雨桐",
+      "zh": "等一下，先看看门外还有没有东西。",
+      "pinyin": "Děng yí xià, xiān kàn kàn mén wài hái yǒu méi yǒu dōng xi.",
+      "tr": "Bir dakika, önce dışarıda eşya kaldı mı bakalım.",
+      "emotion": "neutral",
+      "actionTr": "Dışarıdaki eşyaların kontrol edilmesini hatırlatır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_089",
+      "speaker": "张伟",
+      "zh": "我看过了，外面没有我们的东西。",
+      "pinyin": "Wǒ kàn guò le, wài miàn méi yǒu wǒ men de dōng xi.",
+      "tr": "Baktım, dışarıda bize ait eşya kalmadı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_090",
+      "speaker": "刘梅",
+      "zh": "好，现在可以关门了。",
+      "pinyin": "Hǎo, xiàn zài kě yǐ guān mén le.",
+      "tr": "Tamam, şimdi kapıyı kapatabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_091",
+      "speaker": "张乐乐",
+      "zh": "我轻轻关，不会很响。",
+      "pinyin": "Wǒ qīng qīng guān, bú huì hěn xiǎng.",
+      "tr": "Yavaşça kapatırım, çok ses çıkarmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_092",
+      "speaker": "张雨桐",
+      "zh": "小心手，别放在门边。",
+      "pinyin": "Xiǎo xīn shǒu, bié fàng zài mén biān.",
+      "tr": "Eline dikkat et, kapının kenarına koyma.",
+      "emotion": "worried",
+      "actionTr": "Kardeşinin elini kapı kenarından uzak tutmasını söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_093",
+      "speaker": "张伟",
+      "zh": "关好了，钥匙也在妈妈那里。",
+      "pinyin": "Guān hǎo le, yào shi yě zài mā ma nà lǐ.",
+      "tr": "Kapı kapandı, anahtar da annende."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_094",
+      "speaker": "刘梅",
+      "zh": "终于能歇一会儿了。",
+      "pinyin": "Zhōng yú néng xiē yí huìr le.",
+      "tr": "Sonunda biraz dinlenebiliriz.",
+      "emotion": "happy",
+      "actionTr": "Yolculuğun bitmesine rahatlayarak nefes verir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_095",
+      "speaker": "张乐乐",
+      "zh": "可是我已经想看里面了！",
+      "pinyin": "Kě shì wǒ yǐ jīng xiǎng kàn lǐ miàn le!",
+      "tr": "Ama ben şimdiden içeriye bakmak istiyorum!",
+      "emotion": "happy",
+      "actionTr": "Yeni evi keşfetmek için heyecanlanır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_096",
+      "speaker": "张雨桐",
+      "zh": "我也想看，不过先把东西放好。",
+      "pinyin": "Wǒ yě xiǎng kàn, bù guò xiān bǎ dōng xi fàng hǎo.",
+      "tr": "Ben de bakmak istiyorum, ama önce eşyaları yerleştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_097",
+      "speaker": "张伟",
+      "zh": "好，我们一起慢慢来。",
+      "pinyin": "Hǎo, wǒ men yì qǐ màn màn lái.",
+      "tr": "Peki, birlikte yavaş yavaş yapalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_098",
+      "speaker": "刘梅",
+      "zh": "先看看箱子要放哪里。",
+      "pinyin": "Xiān kàn kàn xiāng zi yào fàng nǎ lǐ.",
+      "tr": "Önce kutuları nereye koyacağımıza bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_099",
+      "speaker": "张乐乐",
+      "zh": "我搬不了大的，能拿小的吗？",
+      "pinyin": "Wǒ bān bù liǎo dà de, néng ná xiǎo de ma?",
+      "tr": "Büyükleri taşıyamam, küçükleri alabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC010_100",
+      "speaker": "张雨桐",
+      "zh": "当然，我们先从小的开始。",
+      "pinyin": "Dāng rán, wǒ men xiān cóng xiǎo de kāi shǐ.",
+      "tr": "Tabii, önce küçüklerden başlayalım.",
+      "emotion": "comforting",
+      "actionTr": "Kardeşine yapabileceği küçük bir iş önerir."
+    }
+  ]
+}

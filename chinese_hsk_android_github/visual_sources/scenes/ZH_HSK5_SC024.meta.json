@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC024.json",
-  "dialogueSha256": "f93c6fc07bf3ff0823f5e89a615823c9acc597aed74192a2b426d8fa03535487",
+  "dialogueSha256": "c3c11e25dd2c67ddb340ca2fef04b44981560e933df9f724138fbcfa3f612a00",
   "titleZh": "张伟的中年体检",
   "titleTr": "Zhang’ın Sağlık Kontrolü",
   "locationId": "LOC_ZH_CLINIC_001",

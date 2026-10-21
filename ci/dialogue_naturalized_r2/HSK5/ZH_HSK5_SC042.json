@@ -1,0 +1,710 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK5_SC042",
+  "level": "HSK5",
+  "sourceTitleZh": "全家安排照护",
+  "sourceTitleTr": "Aile Bakım Planı Yapıyor",
+  "sourceMiniAdventureTr": "Aile bakım sorumluluklarını adil biçimde paylaşmaya çalışır.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK5_SC042_001",
+      "speaker": "张伟",
+      "zh": "爷爷出院以后，家里的照护安排得重新分一下，不能都让一个人负责。",
+      "pinyin": "yé yé chū yuàn yǐ hòu ， jiā lǐ de zhào hù ān pái dé chóng xīn fēn yī xià ， bù néng dōu ràng yí gè rén fù zé 。",
+      "tr": "Büyükbaba taburcu olduktan sonra evdeki bakım görevlerini yeniden paylaşmalıyız; her şeyi tek kişiye bırakamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_002",
+      "speaker": "刘梅",
+      "zh": "我最近负责得比较多，有时连自己的事情也顾不上。",
+      "pinyin": "wǒ zuì jìn fù zé dé bǐ jiào duō ， yǒu shí lián zì jǐ de shì qíng yě gù bù shàng 。",
+      "tr": "Son zamanlarda bakım işlerinin çoğu bende; bazen kendi işlerime bile yetişemiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_003",
+      "speaker": "奶奶",
+      "zh": "我能做一些日常的事，也可以说说哪些安排让我觉得方便。",
+      "pinyin": "wǒ néng zuò yī xiē rì cháng de shì ， yě kě yǐ shuō shuō nǎ xiē ān pái ràng wǒ jué de fāng biàn 。",
+      "tr": "Günlük bazı işleri yapabilirim; hangi düzenlemelerin bana uygun olduğunu da anlatabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_004",
+      "speaker": "张雨桐",
+      "zh": "那我们先听听大家的时间，再决定怎么分工，好吗？",
+      "pinyin": "nà wǒ men xiān tīng tīng dà jiā de shí jiān ， zài jué dìng zěn me fēn gōng ， hǎo ma ？",
+      "tr": "O hâlde görevleri belirlemeden önce herkesin zamanını dinleyelim, olur mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_005",
+      "speaker": "张伟",
+      "zh": "我工作日晚上比较有空，周末也能负责买东西和跑腿。",
+      "pinyin": "wǒ gōng zuò rì wǎn shàng bǐ jiào yǒu kòng ， zhōu mò yě néng fù zé mǎi dōng xī hé pǎo tuǐ 。",
+      "tr": "Hafta içi akşamları daha müsaitim; hafta sonu alışveriş ve dışarıdaki işleri de üstlenebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_006",
+      "speaker": "刘梅",
+      "zh": "我白天要上班，但可以提前准备几顿饭，晚上再检查日程。",
+      "pinyin": "wǒ bái tiān yào shàng bān ， dàn kě yǐ tí qián zhǔn bèi jǐ dùn fàn ， wǎn shàng zài jiǎn chá rì chéng 。",
+      "tr": "Gündüz çalışıyorum ama önceden birkaç öğün hazırlayıp akşam programı kontrol edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_007",
+      "speaker": "奶奶",
+      "zh": "我不希望你们把所有事情都替我安排好，也想自己做能做的部分。",
+      "pinyin": "wǒ bù xī wàng nǐ men bǎ suǒ yǒu shì qíng dōu tì wǒ ān pái hǎo ， yě xiǎng zì jǐ zuò néng zuò de bù fèn 。",
+      "tr": "Her şeyi benim yerime düzenlemenizi istemiyorum; yapabildiğim işleri kendim yapmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_008",
+      "speaker": "张雨桐",
+      "zh": "我可以每天下课后过来一会儿，帮忙整理东西或陪爷爷聊聊天。",
+      "pinyin": "wǒ kě yǐ měi tiān xià kè hòu guò lái yī huì er ， bāng máng zhěng lǐ dōng xī huò péi yé yé liáo liáo tiān 。",
+      "tr": "Her gün dersten sonra biraz uğrayıp eşyaları düzenlemeye ya da büyükbabamla sohbet etmeye yardım edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_009",
+      "speaker": "张伟",
+      "zh": "与临时有事再互相通知相比，固定的时间表会更可靠。",
+      "pinyin": "yǔ lín shí yǒu shì zài hù xiāng tōng zhī xiāng bǐ ， gù dìng de shí jiān biǎo huì gèng kě kào 。",
+      "tr": "Bir iş çıkınca son dakika haberleşmeye kıyasla, sabit bir zaman çizelgesi daha güvenilir olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_010",
+      "speaker": "刘梅",
+      "zh": "固定安排有帮助，不过也得留出临时调整的空间。",
+      "pinyin": "gù dìng ān pái yǒu bāng zhù ， bù guò yě dé liú chū lín shí diào zhěng de kōng jiān 。",
+      "tr": "Sabit bir düzen yardımcı olur ama geçici değişiklikler için de pay bırakmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_011",
+      "speaker": "奶奶",
+      "zh": "我可以把每天的安排贴在冰箱上，谁来帮忙一看就知道。",
+      "pinyin": "wǒ kě yǐ bǎ měi tiān de ān pái tiē zài bīng xiāng shàng ， shuí lái bāng máng yī kàn jiù zhī dào 。",
+      "tr": "Günlük programı buzdolabına asabilirim; kimin yardıma geleceği hemen görülür."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_012",
+      "speaker": "张雨桐",
+      "zh": "如果哪天时间冲突，我们在群里提前说，不要等到最后一刻。",
+      "pinyin": "rú guǒ nǎ tiān shí jiān chōng tū ， wǒ men zài qún lǐ tí qián shuō ， bú yào děng dào zuì hòu yí kè 。",
+      "tr": "Bir gün saatler çakışırsa son ana bırakmadan grupta önceden haberleşelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_013",
+      "speaker": "张伟",
+      "zh": "我负责周一、周三晚上，周末买菜和取东西也由我来。",
+      "pinyin": "wǒ fù zé zhōu yī 、 zhōu sān wǎn shàng ， zhōu mò mǎi cài hé qǔ dōng xī yě yóu wǒ lái 。",
+      "tr": "Pazartesi ve çarşamba akşamları ben ilgilenirim; hafta sonu alışveriş ve alınacak işleri de üstlenirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_014",
+      "speaker": "刘梅",
+      "zh": "我负责周二、周四的晚饭，周五我们再一起看下周安排。",
+      "pinyin": "wǒ fù zé zhōu èr 、 zhōu sì de wǎn fàn ， zhōu wǔ wǒ men zài yì qǐ kàn xià zhōu ān pái 。",
+      "tr": "Salı ve perşembe akşam yemeğini ben hazırlarım; cuma günü gelecek haftanın planına birlikte bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_015",
+      "speaker": "奶奶",
+      "zh": "我会告诉你们哪些东西快用完，也会把自己的事情安排好。",
+      "pinyin": "wǒ huì gào sù nǐ men nǎ xiē dōng xī kuài yòng wán ， yě huì bǎ zì jǐ de shì qíng ān pái hǎo 。",
+      "tr": "Azalmak üzere olan ihtiyaçları size söyler, kendi işlerimi de düzenlerim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_016",
+      "speaker": "张雨桐",
+      "zh": "我周一到周四下课后都能来，考试周提前告诉你们。",
+      "pinyin": "wǒ zhōu yī dào zhōu sì xià kè hòu dōu néng lái ， kǎo shì zhōu tí qián gào sù nǐ men 。",
+      "tr": "Pazartesiden perşembeye ders sonrası gelebilirim; sınav haftası olursa önceden haber veririm."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_017",
+      "speaker": "张伟",
+      "zh": "很好，每个人都有固定任务，也知道什么时候需要商量。",
+      "pinyin": "hěn hǎo ， měi gè rén dōu yǒu gù dìng rèn wù ， yě zhī dào shén me shí hòu xū yào shāng liáng 。",
+      "tr": "Güzel; herkesin sabit bir görevi olur ve ne zaman konuşmamız gerektiğini biliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_018",
+      "speaker": "刘梅",
+      "zh": "不过，奶奶的意见要一直算进去，不能只看我们觉得方便不方便。",
+      "pinyin": "bù guò ， nǎi nǎi de yì jiàn yào yì zhí suàn jìn qù ， bù néng zhǐ kàn wǒ men jué de fāng biàn bù fāng biàn 。",
+      "tr": "Ama büyükannenin görüşünü sürekli hesaba katmalıyız; yalnızca bize uygun olup olmadığına bakamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_019",
+      "speaker": "奶奶",
+      "zh": "谢谢你们先问我。这样安排让我觉得自己也参与了决定。",
+      "pinyin": "xiè xiè nǐ men xiān wèn wǒ 。 zhè yàng ān pái ràng wǒ jué de zì jǐ yě cān yù le jué dìng 。",
+      "tr": "Bana önce danıştığınız için teşekkür ederim. Bu düzenlemede karara katıldığımı hissediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_020",
+      "speaker": "张雨桐",
+      "zh": "那先按这张表试一周，下周末再一起调整。",
+      "pinyin": "nà xiān àn zhè zhāng biǎo shì yī zhōu ， xià zhōu mò zài yì qǐ tiáo zhěng 。",
+      "tr": "O hâlde bu çizelgeyi bir hafta deneyelim, gelecek hafta sonunda birlikte ayarlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_021",
+      "speaker": "张伟",
+      "zh": "一周的安排已经列出来了，奶奶觉得哪几天最需要人陪？",
+      "pinyin": "yī zhōu de ān pái yǐ jīng liè chū lái le ， nǎi nǎi jué de nǎ jǐ tiān zuì xū yào rén péi ？",
+      "tr": "Haftalık programı hazırladık; büyükanne hangi günlerde yanında biri olmasına daha çok ihtiyaç duyuyor?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_022",
+      "speaker": "刘梅",
+      "zh": "我可以周二陪她去买东西，周四下班后再过来看看。",
+      "pinyin": "wǒ kě yǐ zhōu èr péi tā qù mǎi dōng xī ， zhōu sì xià bān hòu zài guò lái kàn kàn 。",
+      "tr": "Salı alışverişe giderken ona eşlik edebilirim; perşembe işten sonra da uğrarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_023",
+      "speaker": "奶奶",
+      "zh": "周三我妹妹能来，周末我更希望大家一起吃顿饭。",
+      "pinyin": "zhōu sān wǒ mèi mèi néng lái ， zhōu mò wǒ gèng xī wàng dà jiā yì qǐ chī dùn fàn 。",
+      "tr": "Çarşamba kız kardeşim gelebilir; hafta sonu ise hep birlikte yemek yemeyi tercih ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_024",
+      "speaker": "张雨桐",
+      "zh": "我周六可以早点来准备午饭，大家就不用临时决定吃什么。",
+      "pinyin": "wǒ zhōu liù kě yǐ zǎo diǎn lái zhǔn bèi wǔ fàn ， dà jiā jiù bù yòng lín shí jué dìng chī shén me 。",
+      "tr": "Cumartesi erken gelip öğle yemeğini hazırlayabilirim; böylece son anda ne yiyeceğimize karar vermeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_025",
+      "speaker": "张伟",
+      "zh": "买菜、做饭和陪伴都分开记，谁负责哪一项就一目了然。",
+      "pinyin": "mǎi cài 、 zuò fàn hé péi bàn dōu fēn kāi jì ， shuí fù zé nǎ yī xiàng jiù yī mù liǎo rán 。",
+      "tr": "Alışverişi, yemek hazırlamayı ve eşlik etmeyi ayrı yazalım; kimin hangi görevi üstlendiği açık olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_026",
+      "speaker": "刘梅",
+      "zh": "我还想加上每个人自己的休息时间，不能把空闲时间都排满。",
+      "pinyin": "wǒ hái xiǎng jiā shàng měi gè rén zì jǐ de xiū xī shí jiān ， bù néng bǎ kòng xián shí jiān dōu pái mǎn 。",
+      "tr": "Herkesin dinlenme zamanını da eklemek istiyorum; boş saatlerin tamamını görevlerle dolduramayız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_027",
+      "speaker": "奶奶",
+      "zh": "你们也要照顾好自己，不要因为我把工作和休息都打乱。",
+      "pinyin": "nǐ men yě yào zhào gù hǎo zì jǐ ， bú yào yīn wèi wǒ bǎ gōng zuò hé xiū xī dōu dǎ luàn 。",
+      "tr": "Siz de kendinize iyi bakın; benim için iş ve dinlenme düzeninizi bozmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_028",
+      "speaker": "张雨桐",
+      "zh": "那我们每个人先说能稳定做到的事情，不按理想情况安排。",
+      "pinyin": "nà wǒ men měi gè rén xiān shuō néng wěn dìng zuò dào de shì qíng ， bù àn lǐ xiǎng qíng kuàng ān pái 。",
+      "tr": "O hâlde herkes düzenli olarak yapabileceği işleri söylesin; planı ideal koşullara göre kurmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_029",
+      "speaker": "张伟",
+      "zh": "我周一和周三能陪爷爷，临时加班时会提前在群里说。",
+      "pinyin": "wǒ zhōu yī hé zhōu sān néng péi yé yé ， lín shí jiā bān shí huì tí qián zài qún lǐ shuō 。",
+      "tr": "Pazartesi ve çarşamba büyükbabayla ilgilenebilirim; fazla mesai çıkarsa gruba önceden yazarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_030",
+      "speaker": "刘梅",
+      "zh": "我负责周二、周四的晚饭，周五再确认下周谁需要调整时间。",
+      "pinyin": "wǒ fù zé zhōu èr 、 zhōu sì de wǎn fàn ， zhōu wǔ zài què rèn xià zhōu shuí xū yào tiáo zhěng shí jiān 。",
+      "tr": "Salı ve perşembe akşam yemeklerini ben üstlenirim; cuma günü gelecek hafta kimin saatini ayarlamak gerektiğine bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_031",
+      "speaker": "奶奶",
+      "zh": "我可以自己准备早餐，也会告诉你们哪些东西需要补充。",
+      "pinyin": "wǒ kě yǐ zì jǐ zhǔn bèi zǎo cān ， yě huì gào sù nǐ men nǎ xiē dōng xī xū yào bǔ chōng 。",
+      "tr": "Kahvaltıyı kendim hazırlayabilirim; hangi ihtiyaçların tamamlanması gerektiğini de size söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_032",
+      "speaker": "张雨桐",
+      "zh": "我负责周末午饭和陪爷爷聊天，考试周会提前找人替换。",
+      "pinyin": "wǒ fù zé zhōu mò wǔ fàn hé péi yé yé liáo tiān ， kǎo shì zhōu huì tí qián zhǎo rén tì huàn 。",
+      "tr": "Hafta sonu öğle yemeğini ve büyükbabayla sohbet etmeyi ben üstlenirim; sınav haftasında önceden yerime birini ayarlarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_033",
+      "speaker": "张伟",
+      "zh": "如果谁临时来不了，就先在群里说，再看谁有空替一下。",
+      "pinyin": "rú guǒ shuí lín shí lái bù liǎo ， jiù xiān zài qún lǐ shuō ， zài kàn shuí yǒu kòng tì yī xià 。",
+      "tr": "Birimiz son anda gelemeyecek olursa önce gruba yazalım; sonra kimin yerine geçebileceğine bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_034",
+      "speaker": "刘梅",
+      "zh": "替换只是临时帮忙，不要慢慢变成同一个人总在补位。",
+      "pinyin": "tì huàn zhǐ shì lín shí bāng máng ， bú yào màn màn biàn chéng tóng yī gè rén zǒng zài bǔ wèi 。",
+      "tr": "Bu yalnızca geçici destek olsun; zamanla sürekli aynı kişi açığı kapatmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_035",
+      "speaker": "奶奶",
+      "zh": "我会看一看表，如果觉得某项安排不合适就告诉你们。",
+      "pinyin": "wǒ huì kàn yī kàn biǎo ， rú guǒ jué de mǒu xiàng ān pái bù hé shì jiù gào sù nǐ men 。",
+      "tr": "Çizelgeye bakarım; bir düzenleme uygun gelmezse size söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_036",
+      "speaker": "张雨桐",
+      "zh": "我们周日晚上花十分钟看一遍下周安排，可以吗？",
+      "pinyin": "wǒ men zhōu rì wǎn shàng huā shí fēn zhōng kàn yī biàn xià zhōu ān pái ， kě yǐ ma ？",
+      "tr": "Pazar akşamı gelecek haftanın planını gözden geçirmek için on dakika ayıralım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_037",
+      "speaker": "张伟",
+      "zh": "可以，谁有冲突就提前提出来，不用等到当天。",
+      "pinyin": "kě yǐ ， shuí yǒu chōng tū jiù tí qián tí chū lái ， bù yòng děng dào dàng tiān 。",
+      "tr": "Olur; saat çakışması olan önceden söylesin, o günü beklemeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_038",
+      "speaker": "刘梅",
+      "zh": "如果这一周大家都觉得太忙，我们就减少一些非必要的安排。",
+      "pinyin": "rú guǒ zhè yī zhōu dà jiā dōu jué de tài máng ， wǒ men jiù jiǎn shǎo yī xiē fēi bì yào de ān pái 。",
+      "tr": "Hepimiz o hafta fazla meşgulsek gerekli olmayan bazı planları azaltırız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_039",
+      "speaker": "奶奶",
+      "zh": "我喜欢这个办法，因为大家一起商量，不是只把任务分给我。",
+      "pinyin": "wǒ xǐ huān zhè ge bàn fǎ ， yīn wèi dà jiā yì qǐ shāng liáng ， bú shì zhǐ bǎ rèn wù fēn gěi wǒ 。",
+      "tr": "Bu yöntemi sevdim; çünkü yalnızca bana görev vermek yerine hep birlikte konuşuyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_040",
+      "speaker": "张雨桐",
+      "zh": "好，我们先试一周，周日再按大家的实际感受调整。",
+      "pinyin": "hǎo ， wǒ men xiān shì yī zhōu ， zhōu rì zài àn dà jiā de shí jì gǎn shòu tiáo zhěng 。",
+      "tr": "Güzel, bir hafta deneyelim; pazar günü herkesin gerçek deneyimine göre ayarlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_041",
+      "speaker": "张伟",
+      "zh": "这一周的安排试下来，周二晚上大家都觉得有点赶。",
+      "pinyin": "zhè yī zhōu de ān pái shì xià lái ， zhōu èr wǎn shàng dà jiā dōu jué de yǒu diǎn gǎn 。",
+      "tr": "Bir haftalık denemeden sonra salı akşamı programının herkese biraz yoğun geldiğini gördük."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_042",
+      "speaker": "刘梅",
+      "zh": "是的，我下班后还要准备晚饭，时间排得太紧了。",
+      "pinyin": "shì de ， wǒ xià bān hòu hái yào zhǔn bèi wǎn fàn ， shí jiān pái dé tài jǐn le 。",
+      "tr": "Evet, işten sonra akşam yemeğini de hazırlamam gerekiyor; saatler çok sıkışık."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_043",
+      "speaker": "奶奶",
+      "zh": "我可以把晚饭提前准备一部分，你回来后就不用那么赶。",
+      "pinyin": "wǒ kě yǐ bǎ wǎn fàn tí qián zhǔn bèi yī bù fèn ， nǐ huí lái hòu jiù bù yòng nà me gǎn 。",
+      "tr": "Akşam yemeğinin bir kısmını önceden hazırlayabilirim; böylece eve gelince acele etmezsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_044",
+      "speaker": "张雨桐",
+      "zh": "如果奶奶愿意帮忙，我们也要先问她哪天方便，不能默认她有空。",
+      "pinyin": "rú guǒ nǎi nǎi yuàn yì bāng máng ， wǒ men yě yào xiān wèn tā nǎ tiān fāng biàn ， bù néng mò rèn tā yǒu kòng 。",
+      "tr": "Büyükanne yardım etmek istese bile hangi gün müsait olduğunu sormalıyız; boş olduğunu varsayamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_045",
+      "speaker": "张伟",
+      "zh": "对，照护安排是大家一起商量，不是把空出来的事都交给奶奶。",
+      "pinyin": "duì ， zhào hù ān pái shì dà jiā yì qǐ shāng liáng ， bú shì bǎ kòng chū lái de shì dōu jiāo gěi nǎi nǎi 。",
+      "tr": "Evet, bakım düzenini hep birlikte konuşmalıyız; boş kalan işleri büyükanneye yüklememeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_046",
+      "speaker": "刘梅",
+      "zh": "我星期二可以少做一道菜，简单准备也够吃。",
+      "pinyin": "wǒ xīng qī èr kě yǐ shǎo zuò yī dào cài ， jiǎn dān zhǔn bèi yě gòu chī 。",
+      "tr": "Salı günü bir yemek eksik hazırlayabilirim; daha basit bir akşam yemeği de yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_047",
+      "speaker": "奶奶",
+      "zh": "我星期二下午有空，可以先洗好菜，但不想负责全部晚饭。",
+      "pinyin": "wǒ xīng qī èr xià wǔ yǒu kòng ， kě yǐ xiān xǐ hǎo cài ， dàn bù xiǎng fù zé quán bù wǎn fàn 。",
+      "tr": "Salı öğleden sonra müsaitim; sebzeleri yıkayabilirim ama akşam yemeğinin tamamını üstlenmek istemiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_048",
+      "speaker": "张雨桐",
+      "zh": "那就把准备食材和做晚饭分成两件事，谁有空谁负责一项。",
+      "pinyin": "nà jiù bǎ zhǔn bèi shí cái hé zuò wǎn fàn fēn chéng liǎng jiàn shì ， shuí yǒu kòng shuí fù zé yī xiàng 。",
+      "tr": "O hâlde malzemeleri hazırlamakla akşam yemeğini pişirmeyi iki ayrı görev yapalım; kimin zamanı varsa birini üstlensin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_049",
+      "speaker": "张伟",
+      "zh": "这周末我可以一次多买一些耐放的东西，减少大家临时出门。",
+      "pinyin": "zhè zhōu mò wǒ kě yǐ yī cì duō mǎi yī xiē nài fàng de dōng xī ， jiǎn shǎo dà jiā lín shí chū mén 。",
+      "tr": "Bu hafta sonu daha uzun süre saklanabilen yiyeceklerden fazla alabilirim; böylece son dakika dışarı çıkmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_050",
+      "speaker": "刘梅",
+      "zh": "买多少也先问问奶奶的需要，别买了以后没人用。",
+      "pinyin": "mǎi duō shǎo yě xiān wèn wèn nǎi nǎi de xū yào ， bié mǎi le yǐ hòu méi rén yòng 。",
+      "tr": "Ne kadar alacağımızı büyükanneye de soralım; kullanılmayacak şeyler almayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_051",
+      "speaker": "奶奶",
+      "zh": "我把家里缺的东西写在纸上，大家需要时自己勾掉就行。",
+      "pinyin": "wǒ bǎ jiā lǐ quē de dōng xī xiě zài zhǐ shàng ， dà jiā xū yào shí zì jǐ gōu diào jiù xíng 。",
+      "tr": "Evde eksik olanları bir kâğıda yazarım; ihtiyacı olan aldığında işaretler."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_052",
+      "speaker": "张雨桐",
+      "zh": "我们还发现周五没人陪爷爷，谁能把那天调整一下？",
+      "pinyin": "wǒ men hái fā xiàn zhōu wǔ méi rén péi yé yé ， shuí néng bǎ nà tiān tiáo zhěng yī xià ？",
+      "tr": "Cuma günü büyükbabanın yanında kimsenin olmadığını da fark ettik; kim o günü değiştirebilir?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_053",
+      "speaker": "张伟",
+      "zh": "我周五可以早点下班，不过得提前和同事换一下时间。",
+      "pinyin": "wǒ zhōu wǔ kě yǐ zǎo diǎn xià bān ， bù guò dé tí qián hé tóng shì huàn yī xià shí jiān 。",
+      "tr": "Cuma günü erken çıkabilirim ama önce iş arkadaşımla saatimi değiştirmem gerekir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_054",
+      "speaker": "刘梅",
+      "zh": "如果临时换不了，我们可以请亲戚帮一次，但先问清楚她是否方便。",
+      "pinyin": "rú guǒ lín shí huàn bù liǎo ， wǒ men kě yǐ qǐng qīn qī bāng yī cì ， dàn xiān wèn qīng chǔ tā shì fǒu fāng biàn 。",
+      "tr": "Son anda değişiklik yapamazsak bir akrabadangünlük yardım isteyebiliriz ama önce uygun olup olmadığını soralım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_055",
+      "speaker": "奶奶",
+      "zh": "我不想每次都麻烦亲戚，能自己安排的还是先由我们商量。",
+      "pinyin": "wǒ bù xiǎng měi cì dōu má fán qīn qī ， néng zì jǐ ān pái de hái shì xiān yóu wǒ men shāng liáng 。",
+      "tr": "Her seferinde akrabaları rahatsız etmek istemiyorum; düzenleyebileceğimiz işleri önce kendi aramızda konuşalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_056",
+      "speaker": "张雨桐",
+      "zh": "我把这周改过的部分标出来，下周末再看看是否真的更轻松。",
+      "pinyin": "wǒ bǎ zhè zhōu gǎi guò de bù fèn biāo chū lái ， xià zhōu mò zài kàn kàn shì fǒu zhēn de gèng qīng sōng 。",
+      "tr": "Bu hafta değiştirdiğimiz kısımları işaretleyeyim; gelecek hafta sonunda gerçekten kolaylaşıp kolaylaşmadığına bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_057",
+      "speaker": "张伟",
+      "zh": "好，记下实际时间和大家的感受，比只凭印象调整更清楚。",
+      "pinyin": "hǎo ， jì xià shí jì shí jiān hé dà jiā de gǎn shòu ， bǐ zhǐ píng yìn xiàng tiáo zhěng gèng qīng chǔ 。",
+      "tr": "Güzel; gerçek saatleri ve herkesin deneyimini not etmek, yalnızca izlenime göre ayarlamaktan daha açıklayıcı olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_058",
+      "speaker": "刘梅",
+      "zh": "我会把自己需要休息的时间也写上，方便大家安排。",
+      "pinyin": "wǒ huì bǎ zì jǐ xū yào xiū xī de shí jiān yě xiě shàng ， fāng biàn dà jiā ān pái 。",
+      "tr": "Herkes planını yapabilsin diye dinlenmeye ihtiyaç duyduğum zamanları da yazarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_059",
+      "speaker": "奶奶",
+      "zh": "我觉得这样更公平，每个人都能说自己的需要，也能提出办法。",
+      "pinyin": "wǒ jué de zhè yàng gèng gōng píng ， měi gè rén dōu néng shuō zì jǐ de xū yào ， yě néng tí chū bàn fǎ 。",
+      "tr": "Böyle daha adil; herkes ihtiyacını söyleyip çözüm önerebiliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_060",
+      "speaker": "张雨桐",
+      "zh": "那我们按新安排再试一周，之后继续一起复盘。",
+      "pinyin": "nà wǒ men àn xīn ān pái zài shì yī zhōu ， zhī hòu jì xù yì qǐ fù pán 。",
+      "tr": "O hâlde yeni düzeni bir hafta daha deneyelim, sonra yine birlikte değerlendirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_061",
+      "speaker": "张伟",
+      "zh": "一周试下来，大家都觉得新安排比以前清楚，但周四还是有点忙。",
+      "pinyin": "yī zhōu shì xià lái ， dà jiā dōu jué de xīn ān pái bǐ yǐ qián qīng chǔ ， dàn zhōu sì hái shì yǒu diǎn máng 。",
+      "tr": "Bir haftalık denemeden sonra herkes yeni düzenin öncekinden daha açık olduğunu düşünüyor ama perşembe yine yoğun geçti."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_062",
+      "speaker": "刘梅",
+      "zh": "周四我临时加班，晚饭时间就往后推了，应该提前安排替代办法。",
+      "pinyin": "zhōu sì wǒ lín shí jiā bān ， wǎn fàn shí jiān jiù wǎng hòu tuī le ， yīng gāi tí qián ān pái tì dài bàn fǎ 。",
+      "tr": "Perşembe beklenmedik fazla mesai yaptım, akşam yemeği gecikti; yedek bir düzeni önceden belirlemeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_063",
+      "speaker": "奶奶",
+      "zh": "那天我先吃了准备好的东西，不用等到你回来才吃饭。",
+      "pinyin": "nà tiān wǒ xiān chī le zhǔn bèi hǎo de dōng xī ， bù yòng děng dào nǐ huí lái cái chī fàn 。",
+      "tr": "O gün önceden hazırlanan yemeği yedim; sen dönene kadar beklemem gerekmedi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_064",
+      "speaker": "张雨桐",
+      "zh": "说明表上写清楚可以自己处理的部分，大家就不用担心每一步。",
+      "pinyin": "shuō míng biǎo shàng xiě qīng chǔ kě yǐ zì jǐ chǔ lǐ de bù fèn ， dà jiā jiù bù yòng dān xīn měi yī bù 。",
+      "tr": "Çizelgede kişinin kendi yapabileceği işleri açıkça belirtelim; böylece herkes her adım için kaygılanmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_065",
+      "speaker": "张伟",
+      "zh": "对，既要有人帮忙，也要让奶奶保留自己安排的空间。",
+      "pinyin": "duì ， jì yào yǒu rén bāng máng ， yě yào ràng nǎi nǎi bǎo liú zì jǐ ān pái de kōng jiān 。",
+      "tr": "Evet, hem yardım olmalı hem de büyükanne kendi düzenini kurabilmeli."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_066",
+      "speaker": "刘梅",
+      "zh": "我同意。我们只需要在她希望帮忙的时间过来，不必把每天排满。",
+      "pinyin": "wǒ tóng yì 。 wǒ men zhǐ xū yào zài tā xī wàng bāng máng de shí jiān guò lái ， bù bì bǎ měi tiān pái mǎn 。",
+      "tr": "Katılıyorum. Yalnızca yardım istediği zamanlarda uğramamız yeterli; her günü doldurmamız gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_067",
+      "speaker": "奶奶",
+      "zh": "如果我想自己去附近买东西，会先告诉你们，不让大家白跑一趟。",
+      "pinyin": "rú guǒ wǒ xiǎng zì jǐ qù fù jìn mǎi dōng xī ， huì xiān gào sù nǐ men ， bù ràng dà jiā bái pǎo yī tàng 。",
+      "tr": "Yakındaki dükkâna kendim gitmek istersem önce size haber veririm; boşuna gelmenize gerek kalmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_068",
+      "speaker": "张雨桐",
+      "zh": "我可以陪你去，但先问问你需不需要，不直接替你决定。",
+      "pinyin": "wǒ kě yǐ péi nǐ qù ， dàn xiān wèn wèn nǐ xū bù xū yào ， bù zhí jiē tì nǐ jué dìng 。",
+      "tr": "Sana eşlik edebilirim ama önce isteyip istemediğini sorarım; senin yerine karar vermem."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_069",
+      "speaker": "张伟",
+      "zh": "这样说开以后，互相帮忙就不会变成谁在监督谁。",
+      "pinyin": "zhè yàng shuō kāi yǐ hòu ， hù xiāng bāng máng jiù bú huì biàn chéng shuí zài jiān dū shuí 。",
+      "tr": "Bunu açıkça konuşunca yardımlaşma birbirini denetlemeye dönüşmez."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_070",
+      "speaker": "刘梅",
+      "zh": "我们也得留意自己是不是太累，累了就说出来一起调整。",
+      "pinyin": "wǒ men yě dé liú yì zì jǐ shì bú shì tài lèi ， lèi le jiù shuō chū lái yì qǐ tiáo zhěng 。",
+      "tr": "Kendimizin fazla yorulup yorulmadığını da gözetelim; yorulursak söyleyip birlikte ayarlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_071",
+      "speaker": "奶奶",
+      "zh": "我不想你们因为照顾我吵架，大家有意见就直接说。",
+      "pinyin": "wǒ bù xiǎng nǐ men yīn wèi zhào gù wǒ chǎo jià ， dà jiā yǒu yì jiàn jiù zhí jiē shuō 。",
+      "tr": "Bana baktığınız için tartışmanızı istemiyorum; farklı düşünceniz varsa açıkça söyleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_072",
+      "speaker": "张雨桐",
+      "zh": "我们可以每周回顾一次，不满的地方说清楚，不互相责怪。",
+      "pinyin": "wǒ men kě yǐ měi zhōu huí gù yī cì ， bù mǎn de dì fāng shuō qīng chǔ ， bù hù xiāng zé guài 。",
+      "tr": "Her hafta bir kez değerlendirme yapabiliriz; memnun olmadığımız noktaları suçlamadan açıkça konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_073",
+      "speaker": "张伟",
+      "zh": "周日晚上看表最方便，我们把下周的空闲时间也一起写上。",
+      "pinyin": "zhōu rì wǎn shàng kàn biǎo zuì fāng biàn ， wǒ men bǎ xià zhōu de kòng xián shí jiān yě yì qǐ xiě shàng 。",
+      "tr": "Pazar akşamı çizelgeye bakmak en uygunu; gelecek haftaki müsait zamanlarımızı da yazarız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_074",
+      "speaker": "刘梅",
+      "zh": "如果有人要换班，至少提前一天说，别人比较好安排。",
+      "pinyin": "rú guǒ yǒu rén yào huàn bān ， zhì shǎo tí qián yī tiān shuō ， bié rén bǐ jiào hǎo ān pái 。",
+      "tr": "Birimizin görev değişmesi gerekiyorsa en az bir gün önceden haber verelim; diğerleri de plan yapabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_075",
+      "speaker": "奶奶",
+      "zh": "我也会提前说自己的安排，不会等到当天才告诉你们。",
+      "pinyin": "wǒ yě huì tí qián shuō zì jǐ de ān pái ， bú huì děng dào dàng tiān cái gào sù nǐ men 。",
+      "tr": "Kendi programımı da önceden söylerim; aynı güne bırakmam."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_076",
+      "speaker": "张雨桐",
+      "zh": "这张表上还要写紧急联系人，大家都知道该找谁。",
+      "pinyin": "zhè zhāng biǎo shàng hái yào xiě jǐn jí lián xì rén ， dà jiā dōu zhī dào gāi zhǎo shuí 。",
+      "tr": "Bu çizelgeye acil durumda aranacak kişiyi de yazalım; herkes kime başvuracağını bilsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_077",
+      "speaker": "张伟",
+      "zh": "我来整理联系方式和复查日期，奶奶确认家庭时间表。",
+      "pinyin": "wǒ lái zhěng lǐ lián xì fāng shì hé fù chá rì qī ， nǎi nǎi què rèn jiā tíng shí jiān biǎo 。",
+      "tr": "İletişim bilgilerini ve kontrol tarihlerini ben düzenleyeyim; büyükanne aile zaman çizelgesini doğrulasın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_078",
+      "speaker": "刘梅",
+      "zh": "我负责把每周变化更新到群里，避免有人看旧版本。",
+      "pinyin": "wǒ fù zé bǎ měi zhōu biàn huà gēng xīn dào qún lǐ ， bì miǎn yǒu rén kàn jiù bǎn běn 。",
+      "tr": "Haftalık değişiklikleri gruba ben yazarım; kimse eski sürüme bakmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_079",
+      "speaker": "奶奶",
+      "zh": "我觉得现在的安排比较合适，至少每个人都知道自己的部分。",
+      "pinyin": "wǒ jué de xiàn zài de ān pái bǐ jiào hé shì ， zhì shǎo měi gè rén dōu zhī dào zì jǐ de bù fèn 。",
+      "tr": "Şimdiki düzen daha uygun görünüyor; en azından herkes kendi görevini biliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_080",
+      "speaker": "张雨桐",
+      "zh": "那我们再按这个办法试一周，周日一起看要不要微调。",
+      "pinyin": "nà wǒ men zài àn zhè ge bàn fǎ shì yī zhōu ， zhōu rì yì qǐ kàn yào bù yào wēi diào 。",
+      "tr": "O hâlde bu yöntemi bir hafta daha deneyelim; pazar günü küçük bir değişiklik gerekip gerekmediğine birlikte bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_081",
+      "speaker": "张伟",
+      "zh": "这张时间表还缺什么？大家现在看一遍，免得明天才发现。",
+      "pinyin": "zhè zhāng shí jiān biǎo hái quē shén me ？ dà jiā xiàn zài kàn yī biàn ， miǎn de míng tiān cái fā xiàn 。",
+      "tr": "Bu zaman çizelgesinde eksik bir şey var mı? Yarın fark etmemek için şimdi birlikte bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_082",
+      "speaker": "刘梅",
+      "zh": "联系人、买菜和陪伴的时间都有了，还差临时换班时怎么通知。",
+      "pinyin": "lián xì rén 、 mǎi cài hé péi bàn de shí jiān dōu yǒu le ， hái chà lín shí huàn bān shí zěn me tōng zhī 。",
+      "tr": "İletişim kişileri, alışveriş ve eşlik saatleri tamam; yalnızca geçici görev değişikliğinde nasıl haber vereceğimiz eksik."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_083",
+      "speaker": "奶奶",
+      "zh": "如果当天安排变了，我会先给负责的人打电话，再在群里说一声。",
+      "pinyin": "rú guǒ dàng tiān ān pái biàn le ， wǒ huì xiān gěi fù zé de rén dǎ diàn huà ， zài zài qún lǐ shuō yī shēng 。",
+      "tr": "Program o gün değişirse önce sorumlu kişiyi arar, sonra gruba yazarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_084",
+      "speaker": "张雨桐",
+      "zh": "我把这个办法写在表格下面，大家就不用猜该怎么联系。",
+      "pinyin": "wǒ bǎ zhè ge bàn fǎ xiě zài biǎo gé xià miàn ， dà jiā jiù bù yòng cāi gāi zěn me lián xì 。",
+      "tr": "Nasıl iletişim kuracağımızı tahmin etmemek için bunu çizelgenin altına yazayım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_085",
+      "speaker": "张伟",
+      "zh": "紧急联系人的号码也放在最上面，方便大家找到。",
+      "pinyin": "jǐn jí lián xì rén de hào mǎ yě fàng zài zuì shàng miàn ， fāng biàn dà jiā zhǎo dào 。",
+      "tr": "Acil durumda aranacak kişinin numarasını da en üste yazalım ki herkes bulabilsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_086",
+      "speaker": "刘梅",
+      "zh": "我会把表格拍照放进群里，纸本就贴在厨房。",
+      "pinyin": "wǒ huì bǎ biǎo gé pāi zhào fàng jìn qún lǐ ， zhǐ běn jiù tiē zài chú fáng 。",
+      "tr": "Çizelgenin fotoğrafını gruba gönderip basılı kopyayı mutfağa asarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_087",
+      "speaker": "奶奶",
+      "zh": "我看得清楚，贴在厨房我每天都能看到。",
+      "pinyin": "wǒ kàn de qīng chǔ ， tiē zài chú fáng wǒ měi tiān dōu néng kàn dào 。",
+      "tr": "Yazılar okunaklı; mutfağa asarsak her gün görebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_088",
+      "speaker": "张雨桐",
+      "zh": "如果有一项做不到，就说出来改时间，不要勉强自己。",
+      "pinyin": "rú guǒ yǒu yī xiàng zuò bú dào ， jiù shuō chū lái gǎi shí jiān ， bú yào miǎn qiǎng zì jǐ 。",
+      "tr": "Bir görev yapılamazsa kendimizi zorlamak yerine söyleyip saatini değiştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_089",
+      "speaker": "张伟",
+      "zh": "每周日我们花十分钟核对，临时变化随时在群里说。",
+      "pinyin": "měi zhōu rì wǒ men huā shí fēn zhōng hé duì ， lín shí biàn huà suí shí zài qún lǐ shuō 。",
+      "tr": "Her pazar on dakika kontrol edelim; geçici değişiklikleri de grupta anında paylaşalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_090",
+      "speaker": "刘梅",
+      "zh": "这样既有固定安排，也不会因为情况变了就没人知道。",
+      "pinyin": "zhè yàng jì yǒu gù dìng ān pái ， yě bú huì yīn wèi qíng kuàng biàn le jiù méi rén zhī dào 。",
+      "tr": "Böylece hem sabit bir plan olur hem de koşullar değiştiğinde kimse habersiz kalmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_091",
+      "speaker": "奶奶",
+      "zh": "我愿意试这份安排，如果觉得太忙会早点告诉你们。",
+      "pinyin": "wǒ yuàn yì shì zhè fèn ān pái ， rú guǒ jué de tài máng huì zǎo diǎn gào sù nǐ men 。",
+      "tr": "Bu düzeni denemeye hazırım; fazla yoğun gelirse size erkenden söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_092",
+      "speaker": "张雨桐",
+      "zh": "好，我们听你的意见再调整，不会把表格当成不能改的规定。",
+      "pinyin": "hǎo ， wǒ men tīng nǐ de yì jiàn zài tiáo zhěng ， bú huì bǎ biǎo gé dàng chéng bù néng gǎi de guī dìng 。",
+      "tr": "Güzel, çizelgeyi değişmez bir kural saymayıp senin görüşüne göre ayarlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_093",
+      "speaker": "张伟",
+      "zh": "我负责更新联系人和周末采购，其他人按表上的时间来。",
+      "pinyin": "wǒ fù zé gēng xīn lián xì rén hé zhōu mò cǎi gòu ， qí tā rén àn biǎo shàng de shí jiān lái 。",
+      "tr": "İletişim bilgilerini ve hafta sonu alışverişini ben güncellerim; diğerleri çizelgedeki saatlere uyar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_094",
+      "speaker": "刘梅",
+      "zh": "我负责周二、周四晚饭，也提醒大家周日一起回顾。",
+      "pinyin": "wǒ fù zé zhōu èr 、 zhōu sì wǎn fàn ， yě tí xǐng dà jiā zhōu rì yì qǐ huí gù 。",
+      "tr": "Salı ve perşembe akşam yemeğini ben üstlenir, pazar günü değerlendirmeyi herkese hatırlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_095",
+      "speaker": "奶奶",
+      "zh": "我负责把家里缺的东西记下来，也告诉你们我哪天方便。",
+      "pinyin": "wǒ fù zé bǎ jiā lǐ quē de dōng xī jì xià lái ， yě gào sù nǐ men wǒ nǎ tiān fāng biàn 。",
+      "tr": "Evde eksik olanları yazar ve hangi gün uygun olduğumu size bildiririm."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_096",
+      "speaker": "张雨桐",
+      "zh": "我负责周末午饭和更新群里的安排，考试周提前协调替换。",
+      "pinyin": "wǒ fù zé zhōu mò wǔ fàn hé gēng xīn qún lǐ de ān pái ， kǎo shì zhōu tí qián xié tiáo tì huàn 。",
+      "tr": "Hafta sonu öğle yemeğini ve gruptaki planı güncellemeyi üstlenirim; sınav haftasında yerime birini önceden ayarlarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_097",
+      "speaker": "张伟",
+      "zh": "分工清楚以后，大家就能提前安排自己的工作和休息。",
+      "pinyin": "fēn gōng qīng chǔ yǐ hòu ， dà jiā jiù néng tí qián ān pái zì jǐ de gōng zuò hé xiū xī 。",
+      "tr": "Görev dağılımı net olunca herkes işini ve dinlenmesini önceden planlayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_098",
+      "speaker": "刘梅",
+      "zh": "如果哪一周特别忙，我们就先讨论怎么调整，不互相埋怨。",
+      "pinyin": "rú guǒ nǎ yī zhōu tè bié máng ， wǒ men jiù xiān tǎo lùn zěn me tiáo zhěng ， bù hù xiāng mán yuàn 。",
+      "tr": "Bir hafta çok yoğun geçerse birbirimizi suçlamadan önce nasıl ayarlayacağımızı konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_099",
+      "speaker": "奶奶",
+      "zh": "谢谢你们让我一起决定。这样我觉得是全家在互相照顾。",
+      "pinyin": "xiè xiè nǐ men ràng wǒ yì qǐ jué dìng 。 zhè yàng wǒ jué de shì quán jiā zài hù xiāng zhào gù 。",
+      "tr": "Karara birlikte katılmama izin verdiğiniz için teşekkürler. Böylece ailece birbirimize baktığımızı hissediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC042_100",
+      "speaker": "张雨桐",
+      "zh": "那就先照这张表试一周，周日晚上全家再一起看效果。",
+      "pinyin": "nà jiù xiān zhào zhè zhāng biǎo shì yī zhōu ， zhōu rì wǎn shàng quán jiā zài yì qǐ kàn xiào guǒ 。",
+      "tr": "O hâlde bu çizelgeyi bir hafta deneyelim; pazar akşamı ailece nasıl gittiğine bakalım."
+    }
+  ]
+}

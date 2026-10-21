@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC021",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC021.json",
-  "dialogueSha256": "fb4379a021676d7eac14f3db78d521a5d0cd75116e501df42e925a8feaf0fe4e",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC021.json",
+  "dialogueSha256": "93ea57ac9e1e81b229d7cfd4a4cb3f64d4a38d65259e3d6be8d7193c786278aa",
   "titleTr": "İlk Gerçek Müşteri",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "İlk gerçek müşterinin ayrıntılı siparişi karşılanır ve servis akışı gerçek koşullarda sınanır.",
@@ -49,7 +49,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "57e106b2c20ad9bd77cf573fa32527c21d128b290ec074711cbcc5d21d82af88"
+    "sha256": "da6bdb30759c3c1ec722c2bc3ba9ca2e040d6a12cf81177bf4c2ad548d037b92",
+    "gitBlobSha": "60f4a3eb1ebbd4cdfa4fcca27c3c636049daaaf3",
+    "bytes": 1396722
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -71,5 +73,21 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: Önceki HSK3 final sahnelerinin karakter yüzü, yaş olgunluğu, mekân ve sıcak ışık dili korunarak kullanıcı onayı sonrası entegre edildi."
+  "qaNoteTr": "LOCKED_V2 görsel QA PASS: öndeki müşterinin profilinde ağız yalnız baş bölgesinde hedefli düzenlemeyle görünür yapıldı. Sıcak 2.5D/3D CGI, canonical ekip ve sipariş sahnesi korundu; 941×1672, SSIM 0.97994, maske dışındaki decoded pikseller birebir aynı, app/runtime SHA eşleşti.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "appRuntimeMirrorBlobMatch": true,
+    "localizedMouthRepair": true,
+    "ssim": 0.97994,
+    "pixelsOutsideMaskExact": true,
+    "mouthVisibleForCustomer": true
+  }
 }

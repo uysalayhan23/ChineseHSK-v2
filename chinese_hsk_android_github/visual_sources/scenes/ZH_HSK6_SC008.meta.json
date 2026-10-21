@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC008.json",
-  "dialogueSha256": "c261e3ea477fe0c953cab5d21b9a6b580a3af0e6f6a3c42acbec9b2e68ba2637",
+  "dialogueSha256": "300c83f7793feabec2a845117ea6c6578b1d9b94e63a9c0eded299b1c8d3aeee",
   "titleZh": "张伟的婚礼致辞",
   "titleTr": "Zhang’ın Düğün Konuşması",
   "locationId": "LOC_ZH_WEDDING_VENUE_001",

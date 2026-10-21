@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC016.json",
-  "dialogueSha256": "e5410fb68dca6052a73ba4556cf5c5ffd6018c312789c0f76bbe9d27fc060d60",
+  "dialogueSha256": "e43e8057b8487ba061ab2ecaa086fe484a4a6d90a7a7cbc9fe8e7ddc31f184ac",
   "titleTr": "Menü Denemesi",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Aile ve yetişkin tadımcı, olası menü ürünlerini dener ve karşılaştırır.",

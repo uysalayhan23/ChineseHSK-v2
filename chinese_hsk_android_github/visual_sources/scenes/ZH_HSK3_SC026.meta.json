@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC026",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC026.json",
-  "dialogueSha256": "4b2f0d247e11c925d5475c7b7ccd028f487df1d1963c5a307b1c379d1b434cf6",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC026.json",
+  "dialogueSha256": "8fdf415304c6f4f6a3ae9c802b3da7479a060c6a9c3ba9cfebe642122058000f",
   "titleTr": "Kafenin İlk Düzenli Müşterisi",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Yaşlı bir komşu her sabah aynı saatte gelmeye başlar ve düzenli müşteri olur.",
@@ -71,5 +71,8 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: Önceki HSK3 final sahnelerinin karakter yüzü, yaş olgunluğu, mekân ve sıcak ışık dili korunarak kullanıcı onayı sonrası entegre edildi."
+  "qaNoteTr": "2026-09-27: Önceki HSK3 final sahnelerinin karakter yüzü, yaş olgunluğu, mekân ve sıcak ışık dili korunarak kullanıcı onayı sonrası entegre edildi.",
+  "postGenerationVisualQA": {
+    "dialogueTextQA": "PASS"
+  }
 }

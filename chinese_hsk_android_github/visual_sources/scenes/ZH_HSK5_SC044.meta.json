@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC044.json",
-  "dialogueSha256": "01e4e9a4e9f3457d72a75639ea183eeb15425d65c81ee74a5e30f2b3e5c3836f",
+  "dialogueSha256": "7d3c80b2bd18b853741b90e124c87f77e45ad756ed37e1743df07606f16ea3bf",
   "titleZh": "年轻志愿者来到咖啡馆",
   "titleTr": "Gönüllü Gençler Kafede",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

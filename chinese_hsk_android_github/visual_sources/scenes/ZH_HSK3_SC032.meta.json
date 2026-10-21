@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC032.json",
-  "dialogueSha256": "b977c6827c236c281a8a1db9d1cc499ae6434c4ed59ff47858266fad5ba5752e",
+  "dialogueSha256": "a570a0b43f58bebe677d73037897e43ca2bdf739b6751849289d8cc5f16e58a3",
   "titleTr": "Lele Takıma Seçilemedi",
   "locationId": "LOC_ZH_SPORTS_FIELD_001",
   "scenePurposeTr": "Lele futbol takımına giremez ve bir sonraki seçme için çalışmaya karar verir.",
@@ -71,5 +71,9 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: Lele HSK3 teen_boy ve erkek kimliği açıkça korunur. Kullanıcı, manifesto uygunsa ilerleme onayı verdi; HSK3 SC031-SC040 continuity seti final olarak entegre edildi."
+  "qaNoteTr": "2026-09-28: Lele HSK3 teen_boy ve erkek kimliği açıkça korunur. Kullanıcı, manifesto uygunsa ilerleme onayı verdi; HSK3 SC031-SC040 continuity seti final olarak entegre edildi.",
+  "postGenerationVisualQA": {
+    "dialogueTextQA": "PASS",
+    "dialogueNaturalizationTurns": 100
+  }
 }

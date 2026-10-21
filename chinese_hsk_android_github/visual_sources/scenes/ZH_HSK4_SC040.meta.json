@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC040.json",
-  "dialogueSha256": "e1369ede7e659edfb7af60a0e8082594b296ab7f1914726e6092686aaf5634b8",
+  "dialogueSha256": "7c0455c6fc5386d90b2c5ce63375cfe4fbb96096b36a12762799985508ab05be",
   "titleTr": "Büyükbaba İnat Ediyor",
   "locationId": "LOC_ZH_GRANDPARENTS_HOME_001",
   "scenePurposeTr": "Büyükbaba dinlenmek istemez; aile sağlık, dinlenme ve yaşam tarzı konusunda onunla konuşur.",

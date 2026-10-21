@@ -1,0 +1,709 @@
+{
+  "naturalizationVersion": 43,
+  "status": "FINAL_NATIVE_RELEASE_CANDIDATE_V43",
+  "sceneId": "ZH_HSK2_SC016",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC016_001",
+      "speaker": "张伟",
+      "zh": "怎么突然停电了？灯都不亮了。",
+      "pinyin": "zěn me tū rán tíng diàn le? dēng dōu bù liàng le.",
+      "tr": "Elektrik neden birden kesildi? Işıklar yanmıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_002",
+      "speaker": "刘梅",
+      "zh": "我也不知道，刚才还好好的。",
+      "pinyin": "wǒ yě bù zhī dào, gāng cái hái hǎo hǎo de.",
+      "tr": "Bilmiyorum, az önce her şey normaldi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_003",
+      "speaker": "张乐乐",
+      "zh": "家里一下子变黑了，我有点儿怕。",
+      "pinyin": "jiā lǐ yī xià zi biàn hēi le, wǒ yǒu diǎn ér pà.",
+      "tr": "Ev birden karardı, biraz korktum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_004",
+      "speaker": "张雨桐",
+      "zh": "别怕，我们先别乱走。",
+      "pinyin": "bié pà, wǒ men xiān bié luàn zǒu.",
+      "tr": "Korkma, önce etrafta dolaşmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_005",
+      "speaker": "张伟",
+      "zh": "手机还有电，我打开手电筒看看。",
+      "pinyin": "shǒu jī hái yǒu diàn, wǒ dǎ kāi shǒu diàn tǒng kàn kàn.",
+      "tr": "Telefonumun şarjı var, el fenerini açayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_006",
+      "speaker": "刘梅",
+      "zh": "我去找家里的手电筒。",
+      "pinyin": "wǒ qù zhǎo jiā lǐ de shǒu diàn tǒng.",
+      "tr": "Evin el fenerini bulmaya gideyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_007",
+      "speaker": "张乐乐",
+      "zh": "手电筒在抽屉里，我记得放在那里。",
+      "pinyin": "shǒu diàn tǒng zài chōu tì lǐ, wǒ jì de fàng zài nà lǐ.",
+      "tr": "El feneri çekmecede, oraya koyduğumu hatırlıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_008",
+      "speaker": "张雨桐",
+      "zh": "你慢慢走，我在这里等。",
+      "pinyin": "nǐ màn màn zǒu, wǒ zài zhè lǐ děng.",
+      "tr": "Yavaşça yürü, ben burada bekliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_009",
+      "speaker": "张伟",
+      "zh": "找到了，手电筒在桌子下面。",
+      "pinyin": "zhǎo dào le, shǒu diàn tǒng zài zhuō zi xià miàn.",
+      "tr": "Buldum, el feneri masanın altında."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_010",
+      "speaker": "刘梅",
+      "zh": "先看看电池还有没有电。",
+      "pinyin": "xiān kàn kàn diàn chí hái yǒu méi yǒu diàn.",
+      "tr": "Önce pili var mı kontrol et."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_011",
+      "speaker": "张乐乐",
+      "zh": "灯亮了，我们可以看清楚了。",
+      "pinyin": "dēng liàng le, wǒ men kě yǐ kàn qīng chǔ le.",
+      "tr": "Işık yandı, artık görebiliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_012",
+      "speaker": "张雨桐",
+      "zh": "太好了，我没那么害怕了。",
+      "pinyin": "tài hǎo le, wǒ méi nà me hài pà le.",
+      "tr": "Ne güzel, artık o kadar korkmuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_013",
+      "speaker": "张伟",
+      "zh": "我们先检查一下家里的电灯。",
+      "pinyin": "wǒ men xiān jiǎn chá yī xià jiā lǐ de diàn dēng.",
+      "tr": "Önce evdeki ışıkları kontrol edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_014",
+      "speaker": "刘梅",
+      "zh": "客厅和厨房的灯都不亮。",
+      "pinyin": "kè tīng hé chú fáng de dēng dōu bù liàng.",
+      "tr": "Oturma odasıyla mutfağın ışıkları da yanmıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_015",
+      "speaker": "张乐乐",
+      "zh": "这可能不是一盏灯的问题。",
+      "pinyin": "zhè kě néng bú shì yī zhǎn dēng de wèn tí.",
+      "tr": "Bu yalnızca bir lambanın sorunu olmayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_016",
+      "speaker": "张雨桐",
+      "zh": "我看看门外的走廊亮不亮。",
+      "pinyin": "wǒ kàn kàn mén wài de zǒu láng liàng bù liàng.",
+      "tr": "Koridorun ışığı yanıyor mu kapıdan bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_017",
+      "speaker": "张伟",
+      "zh": "走廊也黑了，整栋楼好像停电了。",
+      "pinyin": "zǒu láng yě hēi le, zhěng dòng lóu hǎo xiàng tíng diàn le.",
+      "tr": "Koridor da karanlık, sanki bütün binanın elektriği kesilmiş."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_018",
+      "speaker": "刘梅",
+      "zh": "那我们给邻居打个电话问问。",
+      "pinyin": "nà wǒ men gěi lín jū dǎ gè diàn huà wèn wèn.",
+      "tr": "O zaman komşuyu arayıp soralım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_019",
+      "speaker": "张乐乐",
+      "zh": "我手机快没电了，先别一直用。",
+      "pinyin": "wǒ shǒu jī kuài méi diàn le, xiān bié yì zhí yòng.",
+      "tr": "Telefonumun şarjı bitmek üzere, çok kullanmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_020",
+      "speaker": "张雨桐",
+      "zh": "家里有蜡烛吗？",
+      "pinyin": "jiā lǐ yǒu là zhú ma?",
+      "tr": "Evde mum var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_021",
+      "speaker": "张伟",
+      "zh": "有，我记得放在柜子最下面。",
+      "pinyin": "yǒu, wǒ jì de fàng zài guì zi zuì xià miàn.",
+      "tr": "Var, dolabın en altına koyduğumu hatırlıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_022",
+      "speaker": "刘梅",
+      "zh": "我拿手电筒照着，你小心开柜门。",
+      "pinyin": "wǒ ná shǒu diàn tǒng zhào zhe, nǐ xiǎo xīn kāi guì mén.",
+      "tr": "Fenerle aydınlatayım, dolabı dikkatlice aç."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_023",
+      "speaker": "张乐乐",
+      "zh": "我找到了蜡烛和火柴。",
+      "pinyin": "wǒ zhǎo dào le là zhú hé huǒ chái.",
+      "tr": "Mumla kibriti buldum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_024",
+      "speaker": "张雨桐",
+      "zh": "先把蜡烛放在桌子中间。",
+      "pinyin": "xiān bǎ là zhú fàng zài zhuō zi zhōng jiān.",
+      "tr": "Önce mumu masanın ortasına koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_025",
+      "speaker": "张伟",
+      "zh": "我来点蜡烛，大家离远一点儿。",
+      "pinyin": "wǒ lái diǎn là zhú, dà jiā lí yuǎn yì diǎn ér.",
+      "tr": "Mumu ben yakayım, herkes biraz uzak dursun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_026",
+      "speaker": "刘梅",
+      "zh": "好了，现在屋里有光了。",
+      "pinyin": "hǎo le, xiàn zài wū lǐ yǒu guāng le.",
+      "tr": "Tamam, artık oda biraz daha aydınlık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_027",
+      "speaker": "张乐乐",
+      "zh": "蜡烛不能放在窗帘旁边。",
+      "pinyin": "là zhú bù néng fàng zài chuāng lián páng biān.",
+      "tr": "Mum perde kenarında durmamalı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_028",
+      "speaker": "张雨桐",
+      "zh": "我把它放在桌子中央，周围没有东西。",
+      "pinyin": "wǒ bǎ tā fàng zài zhuō zi zhōng yāng, zhōu wéi méi yǒu dōng xī.",
+      "tr": "Masasının ortasına koydum, çevresinde eşya yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_029",
+      "speaker": "张伟",
+      "zh": "我们要不要联系物业？",
+      "pinyin": "wǒ men yào bú yào lián xì wù yè?",
+      "tr": "Apartman yönetimini arayalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_030",
+      "speaker": "刘梅",
+      "zh": "我给物业打电话，问问什么时候来电。",
+      "pinyin": "wǒ gěi wù yè dǎ diàn huà, wèn wèn shén me shí hòu lái diàn.",
+      "tr": "Yönetimi arayıp elektriğin ne zaman geleceğini sorayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_031",
+      "speaker": "张乐乐",
+      "zh": "他们说正在检查，可能要等一会儿。",
+      "pinyin": "tā men shuō zhèng zài jiǎn chá, kě néng yào děng yī huì er.",
+      "tr": "Kontrol ettiklerini, biraz beklememiz gerekebileceğini söylediler."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_032",
+      "speaker": "张雨桐",
+      "zh": "那我们先在家里等消息。",
+      "pinyin": "nà wǒ men xiān zài jiā lǐ děng xiāo xī.",
+      "tr": "O zaman evde haber bekleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_033",
+      "speaker": "张伟",
+      "zh": "这么黑，我们今晚还怎么吃饭？",
+      "pinyin": "zhè me hēi, wǒ men jīn wǎn hái zěn me chī fàn?",
+      "tr": "Bu kadar karanlıkta akşam yemeğini nasıl yiyeceğiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_034",
+      "speaker": "刘梅",
+      "zh": "晚饭已经做好了，用手电筒照着吃吧。",
+      "pinyin": "wǎn fàn yǐ jīng zuò hǎo le, yòng shǒu diàn tǒng zhào zhe chī ba.",
+      "tr": "Yemek hazır, fenerle aydınlatıp yiyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_035",
+      "speaker": "张乐乐",
+      "zh": "我可以把碗和筷子拿出来。",
+      "pinyin": "wǒ kě yǐ bǎ wǎn hé kuài zi ná chū lái.",
+      "tr": "Kaselerle çubukları çıkarabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_036",
+      "speaker": "张雨桐",
+      "zh": "慢慢走，别碰到椅子。",
+      "pinyin": "màn màn zǒu, bié pèng dào yǐ zi.",
+      "tr": "Yavaş yürü, sandalyeye çarpma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_037",
+      "speaker": "张伟",
+      "zh": "我把手电筒放在桌上，照着菜。",
+      "pinyin": "wǒ bǎ shǒu diàn tǒng fàng zài zhuō shàng, zhào zhe cài.",
+      "tr": "Feneri masaya koyup yemeği aydınlatıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_038",
+      "speaker": "刘梅",
+      "zh": "这样看得到食物了。",
+      "pinyin": "zhè yàng kàn dé dào shí wù le.",
+      "tr": "Böylece yemeği görebiliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_039",
+      "speaker": "张乐乐",
+      "zh": "蜡烛也能照亮一点儿。",
+      "pinyin": "là zhú yě néng zhào liàng yì diǎn ér.",
+      "tr": "Mum da biraz aydınlatıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_040",
+      "speaker": "张雨桐",
+      "zh": "我们先吃饭，等电来了再收拾。",
+      "pinyin": "wǒ men xiān chī fàn, děng diàn lái le zài shōu shí.",
+      "tr": "Önce yemek yiyelim, elektrik gelince toplarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_041",
+      "speaker": "张伟",
+      "zh": "停电的时候不能一直开冰箱。",
+      "pinyin": "tíng diàn de shí hòu bù néng yì zhí kāi bīng xiāng.",
+      "tr": "Elektrik kesikken buzdolabını sürekli açmamalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_042",
+      "speaker": "刘梅",
+      "zh": "对，先把门关好，里面会冷一会儿。",
+      "pinyin": "duì, xiān bǎ mén guān hǎo, lǐ miàn huì lěng yī huì er.",
+      "tr": "Evet, kapağı kapalı tutalım, içi bir süre soğuk kalır."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_043",
+      "speaker": "张乐乐",
+      "zh": "里面的食物应该没事。",
+      "pinyin": "lǐ miàn de shí wù yīng gāi méi shì.",
+      "tr": "İçindeki yiyecekler sorun olmaz sanırım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_044",
+      "speaker": "张雨桐",
+      "zh": "我们不要反复打开看。",
+      "pinyin": "wǒ men bú yào fǎn fù dǎ kāi kàn.",
+      "tr": "Tekrar tekrar açıp bakmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_045",
+      "speaker": "张伟",
+      "zh": "手机也要省着用，留一点儿电。",
+      "pinyin": "shǒu jī yě yào shěng zhe yòng, liú yì diǎn ér diàn.",
+      "tr": "Telefonu da idareli kullanalım, şarjı kalsın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_046",
+      "speaker": "刘梅",
+      "zh": "我把屏幕关掉，只等物业的消息。",
+      "pinyin": "wǒ bǎ píng mù guān diào, zhǐ děng wù yè de xiāo xī.",
+      "tr": "Ekranı kapatıp yalnızca yönetimin haberini bekleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_047",
+      "speaker": "张乐乐",
+      "zh": "要是有人需要帮忙，我们还可以打电话。",
+      "pinyin": "yào shì yǒu rén xū yào bāng máng, wǒ men hái kě yǐ dǎ diàn huà.",
+      "tr": "Birinin yardıma ihtiyacı olursa arayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_048",
+      "speaker": "张雨桐",
+      "zh": "好，先把手机放在旁边。",
+      "pinyin": "hǎo, xiān bǎ shǒu jī fàng zài páng biān.",
+      "tr": "Tamam, telefonu kenara koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_049",
+      "speaker": "张伟",
+      "zh": "你现在还害怕吗？",
+      "pinyin": "nǐ xiàn zài hái hài pà ma?",
+      "tr": "Hâlâ korkuyor musun?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_050",
+      "speaker": "刘梅",
+      "zh": "没那么怕了，有手电筒和蜡烛。",
+      "pinyin": "méi nà me pà le, yǒu shǒu diàn tǒng hé là zhú.",
+      "tr": "El feneriyle mum olunca o kadar korkmuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_051",
+      "speaker": "张乐乐",
+      "zh": "我们都在一起，不用担心。",
+      "pinyin": "wǒ men dōu zài yì qǐ, bù yòng dān xīn.",
+      "tr": "Hepimiz birlikteyiz, endişelenme."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_052",
+      "speaker": "张雨桐",
+      "zh": "等灯亮了，我们再把东西放回去。",
+      "pinyin": "děng dēng liàng le, wǒ men zài bǎ dōng xī fàng huí qù.",
+      "tr": "Işık gelince eşyaları yerine koyarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_053",
+      "speaker": "张伟",
+      "zh": "以前我没遇到过停电。",
+      "pinyin": "yǐ qián wǒ méi yù dào guò tíng diàn.",
+      "tr": "Daha önce hiç elektrik kesintisi yaşamamıştım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_054",
+      "speaker": "刘梅",
+      "zh": "现在知道手电筒和蜡烛放在哪里了。",
+      "pinyin": "xiàn zài zhī dào shǒu diàn tǒng hé là zhú fàng zài nǎ lǐ le.",
+      "tr": "Artık fenerle mumun nerede olduğunu biliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_055",
+      "speaker": "张乐乐",
+      "zh": "下次也要记得检查电池。",
+      "pinyin": "xià cì yě yào jì de jiǎn chá diàn chí.",
+      "tr": "Bir dahaki sefere pili kontrol etmeyi de hatırlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_056",
+      "speaker": "张雨桐",
+      "zh": "我明天买一节新电池备用。",
+      "pinyin": "wǒ míng tiān mǎi yī jié xīn diàn chí bèi yòng.",
+      "tr": "Yarın yedek olması için yeni pil alırım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_057",
+      "speaker": "张伟",
+      "zh": "物业刚才发消息了，说很快会来电。",
+      "pinyin": "wù yè gāng cái fā xiāo xī le, shuō hěn kuài huì lái diàn.",
+      "tr": "Yönetim az önce mesaj gönderdi, yakında elektrik gelecekmiş."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_058",
+      "speaker": "刘梅",
+      "zh": "那我们再等一会儿。",
+      "pinyin": "nà wǒ men zài děng yī huì er.",
+      "tr": "O zaman biraz daha bekleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_059",
+      "speaker": "张乐乐",
+      "zh": "蜡烛快烧完了，要不要换一根？",
+      "pinyin": "là zhú kuài shāo wán le, yào bú yào huàn yī gēn?",
+      "tr": "Mum bitmek üzere, yenisini yakalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_060",
+      "speaker": "张雨桐",
+      "zh": "先不用，电应该马上就来。",
+      "pinyin": "xiān bù yòng, diàn yīng gāi mǎ shàng jiù lái.",
+      "tr": "Gerek yok, elektrik birazdan gelir sanırım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_061",
+      "speaker": "张伟",
+      "zh": "灯亮了，电终于来了！",
+      "pinyin": "dēng liàng le, diàn zhōng yú lái le ！",
+      "tr": "Işıklar yandı, elektrik geldi sonunda!"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_062",
+      "speaker": "刘梅",
+      "zh": "太好了，我把蜡烛吹灭。",
+      "pinyin": "tài hǎo le, wǒ bǎ là zhú chuī miè.",
+      "tr": "Ne güzel, mumu söndüreyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_063",
+      "speaker": "张乐乐",
+      "zh": "等一下，先确认周围安全再吹。",
+      "pinyin": "děng yī xià, xiān què rèn zhōu wéi ān quán zài chuī.",
+      "tr": "Bir dakika, söndürmeden önce çevrenin güvenli olduğuna bak."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_064",
+      "speaker": "张雨桐",
+      "zh": "现在可以了，桌子周围没有东西。",
+      "pinyin": "xiàn zài kě yǐ le, zhuō zi zhōu wéi méi yǒu dōng xī.",
+      "tr": "Şimdi olur, masanın çevresinde eşya yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_065",
+      "speaker": "张伟",
+      "zh": "我把蜡烛收起来，放回柜子里。",
+      "pinyin": "wǒ bǎ là zhú shōu qǐ lái, fàng huí guì zi lǐ.",
+      "tr": "Mumu kaldırıp dolaba geri koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_066",
+      "speaker": "刘梅",
+      "zh": "手电筒也放回抽屉，电池明天再换。",
+      "pinyin": "shǒu diàn tǒng yě fàng huí chōu tì, diàn chí míng tiān zài huàn.",
+      "tr": "Feneri çekmeceye koy, pilini yarın değiştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_067",
+      "speaker": "张乐乐",
+      "zh": "我把手电筒放在容易找到的地方。",
+      "pinyin": "wǒ bǎ shǒu diàn tǒng fàng zài róng yì zhǎo dào de dì fāng.",
+      "tr": "El fenerini kolay bulunacak bir yere koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_068",
+      "speaker": "张雨桐",
+      "zh": "这样下次停电就不用找很久了。",
+      "pinyin": "zhè yàng xià cì tíng diàn jiù bù yòng zhǎo hěn jiǔ le.",
+      "tr": "Böylece bir dahaki kesintide uzun süre aramayız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_069",
+      "speaker": "张伟",
+      "zh": "客厅的灯现在亮了，厨房也亮了。",
+      "pinyin": "kè tīng de dēng xiàn zài liàng le, chú fáng yě liàng le.",
+      "tr": "Oturma odasıyla mutfağın ışıkları şimdi yanıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_070",
+      "speaker": "刘梅",
+      "zh": "我再看一下冰箱有没有问题。",
+      "pinyin": "wǒ zài kàn yī xià bīng xiāng yǒu méi yǒu wèn tí.",
+      "tr": "Buzdolabında sorun var mı bir bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_071",
+      "speaker": "张乐乐",
+      "zh": "冰箱还在工作，里面的食物都好好的。",
+      "pinyin": "bīng xiāng hái zài gōng zuò, lǐ miàn de shí wù dōu hǎo hǎo de.",
+      "tr": "Buzdolabı çalışıyor, yiyecekler de iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_072",
+      "speaker": "张雨桐",
+      "zh": "那我们不用担心晚饭了。",
+      "pinyin": "nà wǒ men bù yòng dān xīn wǎn fàn le.",
+      "tr": "O zaman akşam yemeği için endişelenmeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_073",
+      "speaker": "张伟",
+      "zh": "今天停电以后，我们一起找到了办法。",
+      "pinyin": "jīn tiān tíng diàn yǐ hòu, wǒ men yì qǐ zhǎo dào le bàn fǎ.",
+      "tr": "Elektrik kesilince birlikte çözüm bulduk."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_074",
+      "speaker": "刘梅",
+      "zh": "先找手电筒，再找蜡烛。",
+      "pinyin": "xiān zhǎo shǒu diàn tǒng, zài zhǎo là zhú.",
+      "tr": "Önce el fenerini, sonra mumu bulduk."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_075",
+      "speaker": "张乐乐",
+      "zh": "还联系了物业，知道要等多久。",
+      "pinyin": "hái lián xì le wù yè, zhī dào yào děng duō jiǔ.",
+      "tr": "Yönetimle konuşup ne kadar bekleyeceğimizi öğrendik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_076",
+      "speaker": "张雨桐",
+      "zh": "大家都冷静下来，事情就容易办了。",
+      "pinyin": "dà jiā dōu lěng jìng xià lái, shì qíng jiù róng yì bàn le.",
+      "tr": "Herkes sakin kalınca çözmek kolaylaştı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_077",
+      "speaker": "张伟",
+      "zh": "以后家里还要准备什么？",
+      "pinyin": "yǐ hòu jiā lǐ hái yào zhǔn bèi shén me?",
+      "tr": "Bundan sonra evde başka ne bulunduralım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_078",
+      "speaker": "刘梅",
+      "zh": "可以多放几节电池和一根蜡烛。",
+      "pinyin": "kě yǐ duō fàng jǐ jié diàn chí hé yī gēn là zhú.",
+      "tr": "Birkaç pil ve bir mum daha bulundurabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_079",
+      "speaker": "张乐乐",
+      "zh": "我也想准备一个小手电筒。",
+      "pinyin": "wǒ yě xiǎng zhǔn bèi yí gè xiǎo shǒu diàn tǒng.",
+      "tr": "Küçük bir el feneri de hazırlamak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_080",
+      "speaker": "张雨桐",
+      "zh": "我把这些东西放在同一个抽屉里。",
+      "pinyin": "wǒ bǎ zhè xiē dōng xī fàng zài tóng yī gè chōu tì lǐ.",
+      "tr": "Bunları aynı çekmeceye koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_081",
+      "speaker": "张伟",
+      "zh": "抽屉外面贴一张纸，写上“停电用品”。",
+      "pinyin": "chōu tì wài miàn tiē yī zhāng zhǐ, xiě shàng “ tíng diàn yòng pǐn ”.",
+      "tr": "Çekmecenin dışına “elektrik kesintisi malzemeleri” yazan bir not yapıştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_082",
+      "speaker": "刘梅",
+      "zh": "这样大家都知道去哪里找。",
+      "pinyin": "zhè yàng dà jiā dōu zhī dào qù nǎ lǐ zhǎo.",
+      "tr": "Böylece herkes nerede arayacağını bilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_083",
+      "speaker": "张乐乐",
+      "zh": "我来写字，也把电池放进去。",
+      "pinyin": "wǒ lái xiě zì, yě bǎ diàn chí fàng jìn qù.",
+      "tr": "Notu ben yazayım, pilleri de içine koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_084",
+      "speaker": "张雨桐",
+      "zh": "好，检查一下电池有没有电。",
+      "pinyin": "hǎo, jiǎn chá yī xià diàn chí yǒu méi yǒu diàn.",
+      "tr": "Güzel, pillerin çalıştığını kontrol edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_085",
+      "speaker": "张伟",
+      "zh": "我们现在可以继续看电视了吗？",
+      "pinyin": "wǒ men xiàn zài kě yǐ jì xù kàn diàn shì le ma?",
+      "tr": "Artık televizyon izleyebilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_086",
+      "speaker": "刘梅",
+      "zh": "可以，不过先把吃饭的桌子收拾好。",
+      "pinyin": "kě yǐ, bù guò xiān bǎ chī fàn de zhuō zi shōu shí hǎo.",
+      "tr": "Olur ama önce yemek masasını toplayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_087",
+      "speaker": "张乐乐",
+      "zh": "我来收碗，你们擦桌子。",
+      "pinyin": "wǒ lái shōu wǎn, nǐ men cā zhuō zi.",
+      "tr": "Kaseleri ben toplayayım, siz masayı silin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_088",
+      "speaker": "张雨桐",
+      "zh": "做完以后再一起看一会儿。",
+      "pinyin": "zuò wán yǐ hòu zài yì qǐ kàn yī huì er.",
+      "tr": "Bitirince birlikte biraz izleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_089",
+      "speaker": "张伟",
+      "zh": "刚才黑的时候我以为要等很久。",
+      "pinyin": "gāng cái hēi de shí hòu wǒ yǐ wéi yào děng hěn jiǔ.",
+      "tr": "Az önce karanlık olunca uzun süre bekleyeceğiz sandım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_090",
+      "speaker": "刘梅",
+      "zh": "物业及时通知了我们，所以知道情况。",
+      "pinyin": "wù yè jí shí tōng zhī le wǒ men, suǒ yǐ zhī dào qíng kuàng.",
+      "tr": "Yönetim zamanında haber verdiği için ne olduğunu öğrendik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_091",
+      "speaker": "张乐乐",
+      "zh": "以后停电我不会马上害怕了。",
+      "pinyin": "yǐ hòu tíng diàn wǒ bú huì mǎ shàng hài pà le.",
+      "tr": "Bundan sonra elektrik kesilince hemen korkmam."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_092",
+      "speaker": "张雨桐",
+      "zh": "只要手电筒和蜡烛都在，就有办法。",
+      "pinyin": "zhǐ yào shǒu diàn tǒng hé là zhú dōu zài, jiù yǒu bàn fǎ.",
+      "tr": "El feneriyle mum olunca bir yol buluruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_093",
+      "speaker": "张伟",
+      "zh": "今天晚上虽然停电了，我们还是吃了饭。",
+      "pinyin": "jīn tiān wǎn shàng suī rán tíng diàn le, wǒ men hái shì chī le fàn.",
+      "tr": "Bu akşam elektrik kesilse de yemeğimizi yedik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_094",
+      "speaker": "刘梅",
+      "zh": "还好家里有手电筒和蜡烛。",
+      "pinyin": "hái hǎo jiā lǐ yǒu shǒu diàn tǒng hé là zhú.",
+      "tr": "Neyse ki evde el feneriyle mum vardı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_095",
+      "speaker": "张乐乐",
+      "zh": "我明天会买新电池，放在抽屉里。",
+      "pinyin": "wǒ míng tiān huì mǎi xīn diàn chí, fàng zài chōu tì lǐ.",
+      "tr": "Yarın yeni pil alıp çekmeceye koyacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_096",
+      "speaker": "张雨桐",
+      "zh": "以后大家都知道东西放在哪里。",
+      "pinyin": "yǐ hòu dà jiā dōu zhī dào dōng xī fàng zài nǎ lǐ.",
+      "tr": "Bundan sonra herkes eşyaların nerede olduğunu bilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_097",
+      "speaker": "张伟",
+      "zh": "那我们早点儿休息，明天再看电视。",
+      "pinyin": "nà wǒ men zǎo diǎn ér xiū xī, míng tiān zài kàn diàn shì.",
+      "tr": "O zaman erken dinlenelim, televizyonu yarın izleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_098",
+      "speaker": "刘梅",
+      "zh": "好，我把蜡烛和手电筒都收好了。",
+      "pinyin": "hǎo, wǒ bǎ là zhú hé shǒu diàn tǒng dōu shōu hǎo le.",
+      "tr": "Peki, mumla el fenerini kaldırdım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_099",
+      "speaker": "张乐乐",
+      "zh": "抽屉上也贴了说明。",
+      "pinyin": "chōu tì shàng yě tiē le shuō míng.",
+      "tr": "Çekmeceye de not yapıştırdık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC016_100",
+      "speaker": "张雨桐",
+      "zh": "下次停电的时候就能很快找到。",
+      "pinyin": "xià cì tíng diàn de shí hòu jiù néng hěn kuài zhǎo dào.",
+      "tr": "Bir dahaki kesintide hemen bulabiliriz."
+    }
+  ],
+  "dialogueCount": 100
+}

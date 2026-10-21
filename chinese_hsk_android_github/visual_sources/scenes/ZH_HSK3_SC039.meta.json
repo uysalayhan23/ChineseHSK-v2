@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC039",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC039.json",
-  "dialogueSha256": "95843a5182cc0a3ed8bbdb3cee90936485599e6f2e0cd56831cef9323b10243a",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC039.json",
+  "dialogueSha256": "289fcb8438956fdc0516504fa0f20c2400db506d2a68767d11112586b29c20f5",
   "titleTr": "Erken Emeklilik Fikri",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Zhang bir gün işi bırakıp Liu Mei ile kafede çalışmak istediğini ilk kez açıkça söyler.",
@@ -107,5 +107,18 @@
     "operationalStatus": "USER_ACCEPTED_NO_FURTHER_GLASSES_REPAIR",
     "reOpenOnlyIfUserRequests": true,
     "actionsRun": false
-  }
+  },
+  "dialogueTextQA": {
+    "status": "PASS",
+    "turns": 100,
+    "coherenceScore": 98.0,
+    "activeVocabularyCoverage": 1.0,
+    "topicWindowCoverage": 1.0,
+    "duplicateUtterances": 0,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
+  },
+  "allDialogueSpeakersVisible": true,
+  "mouthAnchorReviewStatus": "PASS",
+  "mouthAnchorImageSha256": "53a07b47b48cdff170765ab990506ae705180d21a4b7b336dedba0f85eb470c5"
 }

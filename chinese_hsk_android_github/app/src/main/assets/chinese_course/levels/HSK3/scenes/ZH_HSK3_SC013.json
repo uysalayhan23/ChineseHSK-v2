@@ -11,702 +11,702 @@
     {
       "id": "DLG_ZH_HSK3_SC013_001",
       "speaker": "刘梅",
-      "zh": "刘梅今天要去办许可证。",
-      "pinyin": "Liú Méi jīntiān yào qù bàn xǔkězhèng.",
-      "tr": "Liu Mei bugün ruhsat işlemlerini yapacak."
+      "zh": "今天来办咖啡馆的许可证。",
+      "pinyin": "jīn tiān lái bàn kā fēi guǎn de xǔ kě zhèng 。",
+      "tr": "Bugün kafe ruhsatı için geldik."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_002",
       "speaker": "张伟",
-      "zh": "今天我们先谈谈证件。",
-      "pinyin": "Jīntiān wǒmen xiān tántan zhèngjiàn.",
-      "tr": "Bugün önce resmî belge hakkında konuşalım."
+      "zh": "请告诉我需要哪些证件和材料。",
+      "pinyin": "qǐng gào sù wǒ xū yào nǎ xiē zhèng jiàn hé cái liào 。",
+      "tr": "Hangi kimlik ve belgeler gerekiyor, söyler misiniz?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_003",
       "speaker": "顾客",
-      "zh": "情况跟我们开始想的不完全一样。",
-      "pinyin": "Qíngkuàng gēn wǒmen kāishǐ xiǎng de bù wánquán yíyàng.",
-      "tr": "Durum başta düşündüğümüzle tamamen aynı değil."
+      "zh": "我带了身份证、租房合同和申请表。",
+      "pinyin": "wǒ dài le shēn fèn zhèng 、 zū fáng hé tóng hé shēn qǐng biǎo 。",
+      "tr": "Kimliğimi, kira sözleşmesini ve başvuru formunu getirdim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_004",
       "speaker": "张雨桐",
-      "zh": "那我们先听听大家的意见。",
-      "pinyin": "Nà wǒmen xiān tīngting dàjiā de yìjiàn.",
-      "tr": "O zaman önce herkesin fikrini dinleyelim."
+      "zh": "先把材料放在这里，我们一起检查。",
+      "pinyin": "xiān bǎ cái liào fàng zài zhè lǐ ， wǒ men yì qǐ jiǎn chá 。",
+      "tr": "Belgeleri buraya koyun, birlikte kontrol edelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_005",
       "speaker": "刘梅",
-      "zh": "我觉得先把重点找出来比较好。",
-      "pinyin": "Wǒ juéde xiān bǎ zhòngdiǎn zhǎo chūlái bǐjiào hǎo.",
-      "tr": "Bence önce ana noktayı belirlemek daha iyi."
+      "zh": "申请表要在这里填写吗？",
+      "pinyin": "shēn qǐng biǎo yào zài zhè lǐ tián xiě ma ？",
+      "tr": "Başvuru formunu burada mı doldurmalıyım?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_006",
       "speaker": "张伟",
-      "zh": "好，先把最需要处理的事情解决。",
-      "pinyin": "Hǎo, xiān bǎ zuì xūyào chǔlǐ de shìqing jiějué.",
-      "tr": "Tamam, önce en çok çözülmesi gereken işi halledelim."
+      "zh": "对，先写店名、地址和负责人的电话。",
+      "pinyin": "duì ， xiān xiě diàn míng 、 dì zhǐ hé fù zé rén de diàn huà 。",
+      "tr": "Evet; önce dükkân adını, adresini ve sorumlu kişinin telefonunu yazın."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_007",
       "speaker": "顾客",
-      "zh": "刘梅今天要去办许可证。",
-      "pinyin": "Liú Méi jīntiān yào qù bàn xǔkězhèng.",
-      "tr": "Liu Mei bugün ruhsat işlemlerini yapacak."
+      "zh": "店名还没决定，可以先空着吗？",
+      "pinyin": "diàn míng hái méi jué dìng ， kě yǐ xiān kōng zhe ma ？",
+      "tr": "Dükkânın adına karar vermedik; şimdilik boş bırakabilir miyiz?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_008",
       "speaker": "张雨桐",
-      "zh": "我明白你的意思了。",
-      "pinyin": "Wǒ míngbai nǐ de yìsi le.",
-      "tr": "Ne demek istediğini anladım."
+      "zh": "可以，其他信息先填好，之后再补上。",
+      "pinyin": "kě yǐ ， qí tā xìn xī xiān tián hǎo ， zhī hòu zài bǔ shàng 。",
+      "tr": "Olur; diğer bilgileri doldurup adını sonra eklersiniz."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_009",
       "speaker": "刘梅",
-      "zh": "我已经把证件记下来了。",
-      "pinyin": "Wǒ yǐjīng bǎ zhèngjiàn jì xiàlái le.",
-      "tr": "Resmî belge notunu aldım."
+      "zh": "地址要写到门牌号吗？",
+      "pinyin": "dì zhǐ yào xiě dào mén pái hào ma ？",
+      "tr": "Adreste kapı numarasını da yazmalı mıyım?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_010",
       "speaker": "张伟",
-      "zh": "好，这一点我会注意。",
-      "pinyin": "Hǎo, zhè yìdiǎn wǒ huì zhùyì.",
-      "tr": "Tamam, bu noktaya dikkat edeceğim."
+      "zh": "街道和门牌号都要写清楚。",
+      "pinyin": "jiē dào hé mén pái hào dōu yào xiě qīng chǔ 。",
+      "tr": "Sokak ve kapı numarasını açıkça yazmalısınız."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_011",
       "speaker": "顾客",
-      "zh": "材料是这次要考虑的重点之一。",
-      "pinyin": "Cáiliào shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-      "tr": "Belge / evrak bu kez değerlendirmemiz gereken ana noktalardan biri."
+      "zh": "合同上有完整地址，我照着写。",
+      "pinyin": "hé tóng shàng yǒu wán zhěng dì zhǐ ， wǒ zhào zhe xiě 。",
+      "tr": "Sözleşmede adres tam; oradan bakıp yazayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_012",
       "speaker": "张雨桐",
-      "zh": "我明白你的意思了。",
-      "pinyin": "Wǒ míngbai nǐ de yìsi le.",
-      "tr": "Ne demek istediğini anladım."
+      "zh": "这样就不容易写错。",
+      "pinyin": "zhè yàng jiù bù róng yì xiě cuò 。",
+      "tr": "Böylece yanlış yazmanız zorlaşır."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_013",
       "speaker": "刘梅",
-      "zh": "我们最好再确认一下表格。",
-      "pinyin": "Wǒmen zuìhǎo zài quèrèn yíxià biǎogé.",
-      "tr": "Form konusunu bir kez daha teyit etsek iyi olur."
+      "zh": "还需要房东的同意书吗？",
+      "pinyin": "hái xū yào fáng dōng de tóng yì shū ma ？",
+      "tr": "Ev sahibinin izin yazısı da gerekiyor mu?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_014",
       "speaker": "张伟",
-      "zh": "好，这一点我会注意。",
-      "pinyin": "Hǎo, zhè yìdiǎn wǒ huì zhùyì.",
-      "tr": "Tamam, bu noktaya dikkat edeceğim."
+      "zh": "需要，请让房东在这一页签字。",
+      "pinyin": "xū yào ， qǐng ràng fáng dōng zài zhè yī yè qiān zì 。",
+      "tr": "Evet; ev sahibinden bu sayfayı imzalamasını isteyin."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_015",
       "speaker": "顾客",
-      "zh": "这一步需要认真签字。",
-      "pinyin": "Zhè yí bù xūyào rènzhēn qiānzì.",
-      "tr": "Bu adımda dikkatlice imza atmak gerekiyor."
+      "zh": "他今天不在，我们可以之后再交吗？",
+      "pinyin": "tā jīn tiān bù zài ， wǒ men kě yǐ zhī hòu zài jiāo ma ？",
+      "tr": "Bugün burada değil; sonra verebilir miyiz?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_016",
       "speaker": "张雨桐",
-      "zh": "我明白你的意思了。",
-      "pinyin": "Wǒ míngbai nǐ de yìsi le.",
-      "tr": "Ne demek istediğini anladım."
+      "zh": "可以，但审批前一定要交齐。",
+      "pinyin": "kě yǐ ， dàn shěn pī qián yí dìng yào jiāo qí 。",
+      "tr": "Olur ama onaydan önce tamamlamanız gerekir."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_017",
       "speaker": "刘梅",
-      "zh": "关于需要，我们还要再讨论一下。",
-      "pinyin": "Guānyú xūyào, wǒmen hái yào zài tǎolùn yíxià.",
-      "tr": "Gerekmek konusunda biraz daha konuşmalıyız."
+      "zh": "申请许可证要交多少费用？",
+      "pinyin": "shēn qǐng xǔ kě zhèng yào jiāo duō shǎo fèi yòng ？",
+      "tr": "Ruhsat başvurusu için ne kadar ücret ödemeliyiz?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_018",
       "speaker": "张伟",
-      "zh": "好，这一点我会注意。",
-      "pinyin": "Hǎo, zhè yìdiǎn wǒ huì zhùyì.",
-      "tr": "Tamam, bu noktaya dikkat edeceğim."
+      "zh": "费用按店面的尺寸计算，说明在表格后面。",
+      "pinyin": "fèi yòng àn diàn miàn de chǐ cùn jì suàn ， shuō míng zài biǎo gé hòu miàn 。",
+      "tr": "Ücret dükkânın ölçüsüne göre hesaplanıyor; açıklama formun arkasında."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_019",
       "speaker": "顾客",
-      "zh": "我们先把情况说清楚。",
-      "pinyin": "Wǒmen xiān bǎ qíngkuàng shuō qīngchu.",
-      "tr": "Önce durumu netleştirelim."
+      "zh": "店面尺寸要填在这张表上吗？",
+      "pinyin": "diàn miàn chǐ cùn yào tián zài zhè zhāng biǎo shàng ma ？",
+      "tr": "Dükkânın ölçülerini bu forma mı yazmalıyım?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_020",
       "speaker": "张雨桐",
-      "zh": "你的意思是这样，对吗？",
-      "pinyin": "Nǐ de yìsi shì zhèyàng, duì ma?",
-      "tr": "Demek istediğin bu, değil mi?"
+      "zh": "请按照合同上的面积填写。",
+      "pinyin": "qǐng àn zhào hé tóng shàng de miàn jī tián xiě 。",
+      "tr": "Sözleşmede yazan alanı doldurun."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_021",
       "speaker": "刘梅",
-      "zh": "对，我就是这个意思。",
-      "pinyin": "Duì, wǒ jiù shì zhège yìsi.",
-      "tr": "Evet, tam olarak bunu demek istiyorum."
+      "zh": "材料交上去以后，多久能有消息？",
+      "pinyin": "cái liào jiāo shàng qù yǐ hòu ， duō jiǔ néng yǒu xiāo xī ？",
+      "tr": "Belgeleri verdikten ne kadar sonra haber gelir?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_022",
       "speaker": "张伟",
-      "zh": "这件事比我想的复杂一点。",
-      "pinyin": "Zhè jiàn shì bǐ wǒ xiǎng de fùzá yìdiǎn.",
-      "tr": "Bu iş düşündüğümden biraz daha karmaşık."
+      "zh": "材料齐全的话，大约十个工作日。",
+      "pinyin": "cái liào qí quán de huà ， dà yuē shí gè gōng zuò rì 。",
+      "tr": "Belgeler tamamsa yaklaşık on iş günü."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_023",
       "speaker": "顾客",
-      "zh": "先别着急，我们一步一步来。",
-      "pinyin": "Xiān bié zháojí, wǒmen yí bù yí bù lái.",
-      "tr": "Önce telaşlanmayalım, adım adım ilerleyelim."
+      "zh": "如果还缺材料，你们会打电话吗？",
+      "pinyin": "rú guǒ hái quē cái liào ， nǐ men huì dǎ diàn huà ma ？",
+      "tr": "Belge eksik olursa bizi arar mısınız?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_024",
       "speaker": "张雨桐",
-      "zh": "我觉得这个办法比较合适。",
-      "pinyin": "Wǒ juéde zhège bànfǎ bǐjiào héshì.",
-      "tr": "Bence bu yöntem daha uygun."
+      "zh": "会，请在表格上写常用的电话号码。",
+      "pinyin": "huì ， qǐng zài biǎo gé shàng xiě cháng yòng de diàn huà hào mǎ 。",
+      "tr": "Evet; forma sık kullandığınız telefonu yazın."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_025",
       "speaker": "刘梅",
-      "zh": "为什么你这么想？",
-      "pinyin": "Wèishénme nǐ zhème xiǎng?",
-      "tr": "Neden böyle düşünüyorsun?"
+      "zh": "这张身份证复印件不太清楚。",
+      "pinyin": "zhè zhāng shēn fèn zhèng fù yìn jiàn bù tài qīng chǔ 。",
+      "tr": "Kimlik fotokopisinin görüntüsü pek net değil."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_026",
       "speaker": "张伟",
-      "zh": "因为这样更方便，也更清楚。",
-      "pinyin": "Yīnwèi zhèyàng gèng fāngbiàn, yě gèng qīngchu.",
-      "tr": "Çünkü böyle hem daha kullanışlı hem de daha net."
+      "zh": "最好再印一份，号码要看得清楚。",
+      "pinyin": "zuì hǎo zài yìn yī fèn ， hào mǎ yào kàn de qīng chǔ 。",
+      "tr": "Yenisini çekmeniz iyi olur; numara net görünmeli."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_027",
       "speaker": "顾客",
-      "zh": "如果这样做，我们就能省一点时间。",
-      "pinyin": "Rúguǒ zhèyàng zuò, wǒmen jiù néng shěng yìdiǎn shíjiān.",
-      "tr": "Böyle yaparsak biraz zaman kazanabiliriz."
+      "zh": "附近哪里可以复印？",
+      "pinyin": "fù jìn nǎ lǐ kě yǐ fù yìn ？",
+      "tr": "Yakında nerede fotokopi çekebilirim?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_028",
       "speaker": "张雨桐",
-      "zh": "虽然有点麻烦，但是可以解决。",
-      "pinyin": "Suīrán yǒudiǎn máfan, dànshì kěyǐ jiějué.",
-      "tr": "Biraz zahmetli olsa da çözülebilir."
+      "zh": "出门左转就有一家复印店。",
+      "pinyin": "chū mén zuǒ zhuǎn jiù yǒu yī jiā fù yìn diàn 。",
+      "tr": "Kapıdan çıkınca sola dönün; bir fotokopici var."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_029",
       "speaker": "刘梅",
-      "zh": "那我们先试试看。",
-      "pinyin": "Nà wǒmen xiān shìshikan.",
-      "tr": "O zaman önce deneyelim."
+      "zh": "表格这一项是问营业时间吗？",
+      "pinyin": "biǎo gé zhè yī xiàng shì wèn yíng yè shí jiān ma ？",
+      "tr": "Formdaki bu bölüm çalışma saatlerini mi soruyor?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_030",
       "speaker": "张伟",
-      "zh": "好，有问题我们再调整。",
-      "pinyin": "Hǎo, yǒu wèntí wǒmen zài tiáozhěng.",
-      "tr": "Tamam, sorun olursa yeniden ayarlarız."
+      "zh": "对，请写开门和关门的时间。",
+      "pinyin": "duì ， qǐng xiě kāi mén hé guān mén de shí jiān 。",
+      "tr": "Evet; açılış ve kapanış saatlerini yazın."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_031",
       "speaker": "顾客",
-      "zh": "我先确认一下细节。",
-      "pinyin": "Wǒ xiān quèrèn yíxià xìjié.",
-      "tr": "Önce ayrıntıları teyit edeyim."
+      "zh": "周末时间不一样，要分开填吗？",
+      "pinyin": "zhōu mò shí jiān bù yí yàng ， yào fēn kāi tián ma ？",
+      "tr": "Hafta sonu saatleri farklı; ayrı mı doldurayım?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_032",
       "speaker": "张雨桐",
-      "zh": "你说得对，这个细节很重要。",
-      "pinyin": "Nǐ shuō de duì, zhège xìjié hěn zhòngyào.",
-      "tr": "Haklısın, bu ayrıntı önemli."
+      "zh": "请分开写，信息就更清楚。",
+      "pinyin": "qǐng fēn kāi xiě ， xìn xī jiù gèng qīng chǔ 。",
+      "tr": "Ayrı yazın; böylece bilgi daha açık olur."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_033",
       "speaker": "刘梅",
-      "zh": "我们最好把时间也安排好。",
-      "pinyin": "Wǒmen zuìhǎo bǎ shíjiān yě ānpái hǎo.",
-      "tr": "Zamanı da iyi planlasak iyi olur."
+      "zh": "负责人要写谁的名字？",
+      "pinyin": "fù zé rén yào xiě shéi de míng zì ？",
+      "tr": "Sorumlu kişi olarak kimin adını yazmalıyız?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_034",
       "speaker": "张伟",
-      "zh": "我已经写下来了。",
-      "pinyin": "Wǒ yǐjīng xiě xiàlái le.",
-      "tr": "Not aldım bile."
+      "zh": "谁负责每天经营，就写谁。",
+      "pinyin": "shuí fù zé měi tiān jīng yíng ， jiù xiě shuí 。",
+      "tr": "Günlük işletmeden kim sorumluysa onun adını yazın."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_035",
       "speaker": "顾客",
-      "zh": "那就不会忘了。",
-      "pinyin": "Nà jiù bú huì wàng le.",
-      "tr": "O zaman unutmayız."
+      "zh": "我们两个人都会在店里工作。",
+      "pinyin": "wǒ men liǎng gè rén dū huì zài diàn lǐ gōng zuò 。",
+      "tr": "İkimiz de dükkânda çalışacağız."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_036",
       "speaker": "张雨桐",
-      "zh": "现在最重要的问题是什么？",
-      "pinyin": "Xiànzài zuì zhòngyào de wèntí shì shénme?",
-      "tr": "Şimdi en önemli sorun ne?"
+      "zh": "那写主要负责人，另一位放在联系人一栏。",
+      "pinyin": "nà xiě zhǔ yào fù zé rén ， lìng yī wèi fàng zài lián xì rén yī lán 。",
+      "tr": "Öyleyse asıl sorumluyu yazın; diğerini iletişim bölümüne ekleyin."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_037",
       "speaker": "刘梅",
-      "zh": "关键是先找到原因。",
-      "pinyin": "Guānjiàn shì xiān zhǎodào yuányīn.",
-      "tr": "Önemli olan önce nedeni bulmak."
+      "zh": "我填完了，在哪里签字？",
+      "pinyin": "wǒ tián wán le ， zài nǎ lǐ qiān zì ？",
+      "tr": "Formu doldurdum; nerede imza atmalıyım?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_038",
       "speaker": "张伟",
-      "zh": "我同意，不过我们还要考虑别的情况。",
-      "pinyin": "Wǒ tóngyì, búguò wǒmen hái yào kǎolǜ bié de qíngkuàng.",
-      "tr": "Katılıyorum ama başka durumları da düşünmeliyiz."
+      "zh": "请在最后一页的申请人一栏签字。",
+      "pinyin": "qǐng zài zuì hòu yī yè de shēn qǐng rén yī lán qiān zì 。",
+      "tr": "Son sayfadaki başvuru sahibi bölümünü imzalayın."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_039",
       "speaker": "顾客",
-      "zh": "这样说更有道理。",
-      "pinyin": "Zhèyàng shuō gèng yǒu dàolǐ.",
-      "tr": "Böyle söyleyince daha mantıklı."
+      "zh": "签字前，我再核对一下电话号码。",
+      "pinyin": "qiān zì qián ， wǒ zài hé duì yī xià diàn huà hào mǎ 。",
+      "tr": "İmzalamadan önce telefon numarasını tekrar kontrol edeyim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_040",
       "speaker": "张雨桐",
-      "zh": "我们需要一个更实际的办法。",
-      "pinyin": "Wǒmen xūyào yí ge gèng shíjì de bànfǎ.",
-      "tr": "Daha uygulanabilir bir çözüme ihtiyacımız var."
+      "zh": "对，签字以后再改会麻烦一些。",
+      "pinyin": "duì ， qiān zì yǐ hòu zài gǎi huì má fán yī xiē 。",
+      "tr": "Evet; imzadan sonra değiştirmek daha zor olur."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_041",
       "speaker": "刘梅",
-      "zh": "可以先做一部分，看看效果。",
-      "pinyin": "Kěyǐ xiān zuò yí bùfen, kànkan xiàoguǒ.",
-      "tr": "Önce bir kısmını yapıp sonucu görebiliriz."
+      "zh": "店面的照片也需要交吗？",
+      "pinyin": "diàn miàn de zhào piān yě xū yào jiāo ma ？",
+      "tr": "Dükkânın fotoğraflarını da vermemiz gerekiyor mu?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_042",
       "speaker": "张伟",
-      "zh": "这个主意不错。",
-      "pinyin": "Zhège zhǔyi búcuò.",
-      "tr": "Bu fikir fena değil."
+      "zh": "需要，门口和里面各一张。",
+      "pinyin": "xū yào ， mén kǒu hé lǐ miàn gè yī zhāng 。",
+      "tr": "Evet; girişten ve içeriden birer tane."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_043",
       "speaker": "顾客",
-      "zh": "那我负责这一部分。",
-      "pinyin": "Nà wǒ fùzé zhè yí bùfen.",
-      "tr": "O zaman bu kısmı ben üstleneyim."
+      "zh": "我们还在装修，里面的照片以后交可以吗？",
+      "pinyin": "wǒ men hái zài zhuāng xiū ， lǐ miàn de zhào piān yǐ hòu jiāo kě yǐ ma ？",
+      "tr": "Tadilat sürüyor; iç fotoğrafını sonra verebilir miyiz?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_044",
       "speaker": "张雨桐",
-      "zh": "剩下的我来处理。",
-      "pinyin": "Shèngxià de wǒ lái chǔlǐ.",
-      "tr": "Kalanını ben hallederim."
+      "zh": "可以，先交申请表和其他证件。",
+      "pinyin": "kě yǐ ， xiān jiāo shēn qǐng biǎo hé qí tā zhèng jiàn 。",
+      "tr": "Olur; önce formu ve diğer kimlikleri verin."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_045",
       "speaker": "刘梅",
-      "zh": "需要我帮忙的时候告诉我。",
-      "pinyin": "Xūyào wǒ bāngmáng de shíhou gàosu wǒ.",
-      "tr": "Yardıma ihtiyacın olduğunda bana söyle."
+      "zh": "经营范围是什么意思？",
+      "pinyin": "jīng yíng fàn wéi shì shén me yì si ？",
+      "tr": "Faaliyet alanı ne demek?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_046",
       "speaker": "张伟",
-      "zh": "好，我们保持联系。",
-      "pinyin": "Hǎo, wǒmen bǎochí liánxì.",
-      "tr": "Tamam, iletişimde kalalım."
+      "zh": "就是准备卖什么，比如饮料和点心。",
+      "pinyin": "jiù shì zhǔn bèi mài shén me ， bǐ rú yǐn liào hé diǎn xīn 。",
+      "tr": "Satmayı planladığınız şeyler; örneğin içecek ve atıştırmalık."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_047",
       "speaker": "顾客",
-      "zh": "事情越来越清楚了。",
-      "pinyin": "Shìqing yuèláiyuè qīngchu le.",
-      "tr": "Durum giderek netleşiyor."
+      "zh": "我们卖咖啡、茶和自己做的蛋糕。",
+      "pinyin": "wǒ men mài kā fēi 、 chá hé zì jǐ zuò de dàn gāo 。",
+      "tr": "Kahve, çay ve kendi yaptığımız kekleri satacağız."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_048",
       "speaker": "张雨桐",
-      "zh": "我也放心多了。",
-      "pinyin": "Wǒ yě fàngxīn duō le.",
-      "tr": "Ben de çok daha rahatladım."
+      "zh": "请写清楚，审批时就不用再问。",
+      "pinyin": "qǐng xiě qīng chǔ ， shěn pī shí jiù bù yòng zài wèn 。",
+      "tr": "Açıkça yazın; onay sırasında tekrar sormayız."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_049",
       "speaker": "刘梅",
-      "zh": "还有一个小问题。",
-      "pinyin": "Hái yǒu yí ge xiǎo wèntí.",
-      "tr": "Bir küçük sorun daha var."
+      "zh": "所有证件都要交原件吗？",
+      "pinyin": "suǒ yǒu zhèng jiàn dōu yào jiāo yuán jiàn ma ？",
+      "tr": "Bütün belgelerin aslını mı vermeliyiz?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_050",
       "speaker": "张伟",
-      "zh": "你说吧，我们一起想办法。",
-      "pinyin": "Nǐ shuō ba, wǒmen yìqǐ xiǎng bànfǎ.",
-      "tr": "Söyle, birlikte çözüm düşünelim."
+      "zh": "身份证给我看原件，其他的交复印件。",
+      "pinyin": "shēn fèn zhèng gěi wǒ kàn yuán jiàn ， qí tā de jiāo fù yìn jiàn 。",
+      "tr": "Kimliğin aslını gösterin; diğerlerini fotokopi verin."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_051",
       "speaker": "顾客",
-      "zh": "这个问题其实不难。",
-      "pinyin": "Zhège wèntí qíshí bù nán.",
-      "tr": "Bu sorun aslında zor değil."
+      "zh": "合同每一页都要复印吗？",
+      "pinyin": "hé tóng měi yī yè dōu yào fù yìn ma ？",
+      "tr": "Sözleşmenin her sayfasını fotokopi çekelim mi?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_052",
       "speaker": "张雨桐",
-      "zh": "只要准备好，就可以开始。",
-      "pinyin": "Zhǐyào zhǔnbèi hǎo, jiù kěyǐ kāishǐ.",
-      "tr": "Hazırlık tamam olursa başlayabiliriz."
+      "zh": "有地址和双方签字的页面要复印。",
+      "pinyin": "yǒu dì zhǐ hé shuāng fāng qiān zì de yè miàn yào fù yìn 。",
+      "tr": "Adres ve iki tarafın imzası olan sayfaları çekin."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_053",
       "speaker": "刘梅",
-      "zh": "那我们现在开始吧。",
-      "pinyin": "Nà wǒmen xiànzài kāishǐ ba.",
-      "tr": "O zaman şimdi başlayalım."
+      "zh": "如果材料不全，申请会退回来吗？",
+      "pinyin": "rú guǒ cái liào bù quán ， shēn qǐng huì tuì huí lái ma ？",
+      "tr": "Belgeler eksikse başvuru geri çevrilir mi?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_054",
       "speaker": "张伟",
-      "zh": "进行得比想象中顺利。",
-      "pinyin": "Jìnxíng de bǐ xiǎngxiàng zhōng shùnlì.",
-      "tr": "Düşündüğümüzden daha sorunsuz ilerliyor."
+      "zh": "我们会告诉你缺什么，补好以后继续办。",
+      "pinyin": "wǒ men huì gào sù nǐ quē shén me ， bǔ hǎo yǐ hòu jì xù bàn 。",
+      "tr": "Neyin eksik olduğunu söyleriz; tamamlayınca devam ederiz."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_055",
       "speaker": "顾客",
-      "zh": "中间还是出了一个小问题。",
-      "pinyin": "Zhōngjiān háishi chū le yí ge xiǎo wèntí.",
-      "tr": "Arada yine küçük bir sorun çıktı."
+      "zh": "我先按清单一项一项检查。",
+      "pinyin": "wǒ xiān àn qīng dān yī xiàng yī xiàng jiǎn chá 。",
+      "tr": "Listeye bakıp her maddeyi kontrol edeyim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_056",
       "speaker": "张雨桐",
-      "zh": "没关系，先看看能不能调整。",
-      "pinyin": "Méi guānxi, xiān kànkan néng bu néng tiáozhěng.",
-      "tr": "Sorun değil, önce ayarlayıp ayarlayamayacağımıza bakalım."
+      "zh": "很好，材料齐全以后办起来更快。",
+      "pinyin": "hěn hǎo ， cái liào qí quán yǐ hòu bàn qǐ lái gèng kuài 。",
+      "tr": "Güzel; belgeler tam olunca işlem daha hızlı yürür."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_057",
       "speaker": "刘梅",
-      "zh": "我有一个新的办法。",
-      "pinyin": "Wǒ yǒu yí ge xīn de bànfǎ.",
-      "tr": "Yeni bir çözümüm var."
+      "zh": "许可证下来以前可以先卖咖啡吗？",
+      "pinyin": "xǔ kě zhèng xià lái yǐ qián kě yǐ xiān mài kā fēi ma ？",
+      "tr": "Ruhsat çıkmadan kahve satmaya başlayabilir miyiz?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_058",
       "speaker": "张伟",
-      "zh": "说来听听。",
-      "pinyin": "Shuō lái tīngting.",
-      "tr": "Anlat bakalım."
+      "zh": "正式营业前要先拿到许可证。",
+      "pinyin": "zhèng shì yíng yè qián yào xiān ná dào xǔ kě zhèng 。",
+      "tr": "Resmî açılıştan önce ruhsatı almalısınız."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_059",
       "speaker": "顾客",
-      "zh": "我们可以一边做，一边检查。",
-      "pinyin": "Wǒmen kěyǐ yìbiān zuò, yìbiān jiǎnchá.",
-      "tr": "Yaparken aynı anda kontrol edebiliriz."
+      "zh": "我们可以先准备菜单和设备。",
+      "pinyin": "wǒ men kě yǐ xiān zhǔn bèi cài dān hé shè bèi 。",
+      "tr": "Önceden menüyü ve ekipmanı hazırlayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_060",
       "speaker": "张雨桐",
-      "zh": "这样发现问题会更早。",
-      "pinyin": "Zhèyàng fāxiàn wèntí huì gèng zǎo.",
-      "tr": "Böylece sorunları daha erken fark ederiz."
+      "zh": "可以，装修也要符合安全要求。",
+      "pinyin": "kě yǐ ， zhuāng xiū yě yào fú hé ān quán yāo qiú 。",
+      "tr": "Olur; tadilat da güvenlik kurallarına uymalı."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_061",
       "speaker": "刘梅",
-      "zh": "好，就按这个办法来。",
-      "pinyin": "Hǎo, jiù àn zhège bànfǎ lái.",
-      "tr": "Tamam, bu yönteme göre ilerleyelim."
+      "zh": "消防检查也要预约吗？",
+      "pinyin": "xiāo fáng jiǎn chá yě yào yù yuē ma ？",
+      "tr": "Yangın güvenliği denetimi için de randevu gerekir mi?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_062",
       "speaker": "张伟",
-      "zh": "你看，现在好多了。",
-      "pinyin": "Nǐ kàn, xiànzài hǎo duō le.",
-      "tr": "Bak, şimdi çok daha iyi."
+      "zh": "要，检查通过以后才能继续审批。",
+      "pinyin": "yào ， jiǎn chá tōng guò yǐ hòu cái néng jì xù shěn pī 。",
+      "tr": "Evet; denetim geçince onay süreci devam eder."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_063",
       "speaker": "顾客",
-      "zh": "确实，比刚才顺利。",
-      "pinyin": "Quèshí, bǐ gāngcái shùnlì.",
-      "tr": "Gerçekten, az öncekinden daha iyi gidiyor."
+      "zh": "需要准备灭火器吗？",
+      "pinyin": "xū yào zhǔn bèi miè huǒ qì ma ？",
+      "tr": "Yangın söndürücü hazırlamamız gerekiyor mu?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_064",
       "speaker": "张雨桐",
-      "zh": "看来我们的方向是对的。",
-      "pinyin": "Kànlái wǒmen de fāngxiàng shì duì de.",
-      "tr": "Görünüşe göre doğru yöndeyiz."
+      "zh": "需要，请放在容易找到的地方。",
+      "pinyin": "xū yào ， qǐng fàng zài róng yì zhǎo dào de dì fāng 。",
+      "tr": "Evet; kolay bulunan bir yere koyun."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_065",
       "speaker": "刘梅",
-      "zh": "最后再检查一遍吧。",
-      "pinyin": "Zuìhòu zài jiǎnchá yí biàn ba.",
-      "tr": "Son olarak bir kez daha kontrol edelim."
+      "zh": "我把申请表和复印件分开放好了。",
+      "pinyin": "wǒ bǎ shēn qǐng biǎo hé fù yìn jiàn fēn kāi fàng hǎo le 。",
+      "tr": "Formu ve fotokopileri ayrı ayrı yerleştirdim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_066",
       "speaker": "张伟",
-      "zh": "好的，我来检查第一部分。",
-      "pinyin": "Hǎo de, wǒ lái jiǎnchá dì yí bùfen.",
-      "tr": "Tamam, ilk kısmı ben kontrol edeyim."
+      "zh": "身份证、合同和照片都准备好了吗？",
+      "pinyin": "shēn fèn zhèng 、 hé tóng hé zhào piān dōu zhǔn bèi hǎo le ma ？",
+      "tr": "Kimlik, sözleşme ve fotoğraflar hazır mı?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_067",
       "speaker": "顾客",
-      "zh": "我负责后面的部分。",
-      "pinyin": "Wǒ fùzé hòumiàn de bùfen.",
-      "tr": "Ben sonraki kısmı kontrol ederim."
+      "zh": "照片还没拍，其他材料都齐了。",
+      "pinyin": "zhào piān hái méi pāi ， qí tā cái liào dōu qí le 。",
+      "tr": "Fotoğrafları çekmedik ama diğer belgeler tamam."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_068",
       "speaker": "张雨桐",
-      "zh": "现在没有发现新的问题。",
-      "pinyin": "Xiànzài méiyǒu fāxiàn xīn de wèntí.",
-      "tr": "Şu anda yeni bir sorun görünmüyor."
+      "zh": "拍好以后送来，我先收下这些。",
+      "pinyin": "pāi hǎo yǐ hòu sòng lái ， wǒ xiān shōu xià zhè xiē 。",
+      "tr": "Çekince getirin; şimdilik bunları alayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_069",
       "speaker": "刘梅",
-      "zh": "太好了，终于可以放心了。",
-      "pinyin": "Tài hǎo le, zhōngyú kěyǐ fàngxīn le.",
-      "tr": "Harika, sonunda rahatlayabiliriz."
+      "zh": "签字的地方我差点漏掉了。",
+      "pinyin": "qiān zì de dì fāng wǒ chà diǎn lòu diào le 。",
+      "tr": "İmza yerini neredeyse atlıyordum."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_070",
       "speaker": "张伟",
-      "zh": "今天我们学到不少东西。",
-      "pinyin": "Jīntiān wǒmen xuédào bù shǎo dōngxi.",
-      "tr": "Bugün epey şey öğrendik."
+      "zh": "所以交材料前最好再看一遍清单。",
+      "pinyin": "suǒ yǐ jiāo cái liào qián zuì hǎo zài kàn yī biàn qīng dān 。",
+      "tr": "Bu yüzden vermeden önce listeyi tekrar kontrol etmek iyi olur."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_071",
       "speaker": "顾客",
-      "zh": "下次处理起来会更快。",
-      "pinyin": "Xià cì chǔlǐ qǐlái huì gèng kuài.",
-      "tr": "Bir dahaki sefere daha hızlı hallederiz."
+      "zh": "现在每一项我都检查过了。",
+      "pinyin": "xiàn zài měi yī xiàng wǒ dōu jiǎn chá guò le 。",
+      "tr": "Şimdi her maddeyi kontrol ettim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_072",
       "speaker": "张雨桐",
-      "zh": "我觉得今天的结果不错。",
-      "pinyin": "Wǒ juéde jīntiān de jiéguǒ búcuò.",
-      "tr": "Bence bugünkü sonuç iyi."
+      "zh": "材料收齐后，我会给你回执。",
+      "pinyin": "cái liào shōu qí hòu ， wǒ huì gěi nǐ huí zhí 。",
+      "tr": "Belgeler tamamlanınca size alındı belgesi vereceğim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_073",
       "speaker": "刘梅",
-      "zh": "我也是这么想的。",
-      "pinyin": "Wǒ yě shì zhème xiǎng de.",
-      "tr": "Ben de öyle düşünüyorum."
+      "zh": "回执上有申请号码和查询电话吗？",
+      "pinyin": "huí zhí shàng yǒu shēn qǐng hào mǎ hé chá xún diàn huà ma ？",
+      "tr": "Alındı belgesinde başvuru numarası ve sorgu telefonu var mı?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_074",
       "speaker": "张伟",
-      "zh": "那就这么决定吧。",
-      "pinyin": "Nà jiù zhème juédìng ba.",
-      "tr": "O zaman böyle karar verelim."
+      "zh": "有，请收好，之后查询会用到。",
+      "pinyin": "yǒu ， qǐng shōu hǎo ， zhī hòu chá xún huì yòng dào 。",
+      "tr": "Var; saklayın, sonra sorgularken gerekecek."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_075",
       "speaker": "顾客",
-      "zh": "好，接下来按计划继续。",
-      "pinyin": "Hǎo, jiēxiàlái àn jìhuà jìxù.",
-      "tr": "Tamam, bundan sonra plana göre devam edelim."
+      "zh": "十天后还没消息，我们可以打电话吗？",
+      "pinyin": "shí tiān hòu hái méi xiāo xī ， wǒ men kě yǐ dǎ diàn huà ma ？",
+      "tr": "On gün sonra haber çıkmazsa arayabilir miyiz?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_076",
       "speaker": "张雨桐",
-      "zh": "我已经把许可证记下来了。",
-      "pinyin": "Wǒ yǐjīng bǎ xǔkězhèng jì xiàlái le.",
-      "tr": "Ruhsat / izin belgesi notunu aldım."
+      "zh": "可以，报上号码就能查进度。",
+      "pinyin": "kě yǐ ， bào shàng hào mǎ jiù néng chá jìn dù 。",
+      "tr": "Evet; numarayı verirseniz durumu kontrol ederiz."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_077",
       "speaker": "刘梅",
-      "zh": "这个安排比较实际。",
-      "pinyin": "Zhège ānpái bǐjiào shíjì.",
-      "tr": "Bu düzenleme oldukça uygulanabilir."
+      "zh": "今天办完以后，我知道还差店里的照片。",
+      "pinyin": "jīn tiān bàn wán yǐ hòu ， wǒ zhī dào hái chà diàn lǐ de zhào piān 。",
+      "tr": "Bugünkü işlemden sonra dükkân fotoğraflarının eksik olduğunu öğrendim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_078",
       "speaker": "张伟",
-      "zh": "证件是这次要考虑的重点之一。",
-      "pinyin": "Zhèngjiàn shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-      "tr": "Resmî belge bu kez değerlendirmemiz gereken ana noktalardan biri."
+      "zh": "我来拍照，你再检查一次表格。",
+      "pinyin": "wǒ lái pāi zhào ， nǐ zài jiǎn chá yī cì biǎo gé 。",
+      "tr": "Fotoğrafları ben çekerim, sen de formu tekrar kontrol et."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_079",
       "speaker": "顾客",
-      "zh": "我觉得可以接受。",
-      "pinyin": "Wǒ juéde kěyǐ jiēshòu.",
-      "tr": "Bence kabul edilebilir."
+      "zh": "要补交的材料我写在回执旁边了。",
+      "pinyin": "yào bǔ jiāo de cái liào wǒ xiě zài huí zhí páng biān le 。",
+      "tr": "Tamamlanacak belgeleri alındı belgesinin yanına yazdım."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_080",
       "speaker": "张雨桐",
-      "zh": "我们最好再确认一下材料。",
-      "pinyin": "Wǒmen zuìhǎo zài quèrèn yíxià cáiliào.",
-      "tr": "Belge / evrak konusunu bir kez daha teyit etsek iyi olur."
+      "zh": "这样就不容易忘记，照片好了再送来。",
+      "pinyin": "zhè yàng jiù bù róng yì wàng jì ， zhào piān hǎo le zài sòng lái 。",
+      "tr": "Böylece unutmayız; fotoğraflar hazır olunca getiririz."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_081",
       "speaker": "刘梅",
-      "zh": "这样的话就清楚多了。",
-      "pinyin": "Zhèyàng de huà jiù qīngchu duō le.",
-      "tr": "Böyle olunca çok daha net."
+      "zh": "门口和店里的照片我都拍好了。",
+      "pinyin": "mén kǒu hé diàn lǐ de zhào piān wǒ dōu pāi hǎo le 。",
+      "tr": "Girişin ve dükkânın içinin fotoğraflarını çektim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_082",
       "speaker": "张伟",
-      "zh": "如果表格没有问题，我们就继续。",
-      "pinyin": "Rúguǒ biǎogé méiyǒu wèntí, wǒmen jiù jìxù.",
-      "tr": "Form konusunda sorun yoksa devam ederiz."
+      "zh": "很好，地址和店面尺寸也写清楚了。",
+      "pinyin": "hěn hǎo ， dì zhǐ hé diàn miàn chǐ cùn yě xiě qīng chǔ le 。",
+      "tr": "Güzel; adres ve dükkân ölçüleri de açıkça yazılmış."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_083",
       "speaker": "顾客",
-      "zh": "对，我们继续看下一项。",
-      "pinyin": "Duì, wǒmen jìxù kàn xià yí xiàng.",
-      "tr": "Evet, sıradaki maddeye bakalım."
+      "zh": "我们把最后这份材料交上去吧。",
+      "pinyin": "wǒ men bǎ zuì hòu zhè fèn cái liào jiāo shàng qù ba 。",
+      "tr": "Son belgeyi de teslim edelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_084",
       "speaker": "张雨桐",
-      "zh": "我们先签字，然后再看下一步。",
-      "pinyin": "Wǒmen xiān qiānzì, ránhòu zài kàn xià yí bù.",
-      "tr": "Önce imza atmak, sonra sonraki adıma bakarız."
+      "zh": "收到了，材料齐全后就开始审批。",
+      "pinyin": "shōu dào le ， cái liào qí quán hòu jiù kāi shǐ shěn pī 。",
+      "tr": "Aldım; belgeler tamamlanınca onay süreci başlar."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_085",
       "speaker": "刘梅",
-      "zh": "这一点以后还会用到。",
-      "pinyin": "Zhè yìdiǎn yǐhòu hái huì yòngdào.",
-      "tr": "Bu nokta ileride yine işimize yarayacak."
+      "zh": "大概要等十个工作日，对吗？",
+      "pinyin": "dà gài yào děng shí gè gōng zuò rì ， duì ma ？",
+      "tr": "Yaklaşık on iş günü bekleyeceğiz, değil mi?"
     },
     {
       "id": "DLG_ZH_HSK3_SC013_086",
       "speaker": "张伟",
-      "zh": "我已经把需要记下来了。",
-      "pinyin": "Wǒ yǐjīng bǎ xūyào jì xiàlái le.",
-      "tr": "Gerekmek notunu aldım."
+      "zh": "对，如果要补材料，我们会联系你。",
+      "pinyin": "duì ， rú guǒ yào bǔ cái liào ， wǒ men huì lián xì nǐ 。",
+      "tr": "Evet; ek belge gerekirse sizinle iletişime geçeriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_087",
       "speaker": "顾客",
-      "zh": "这个安排比较实际。",
-      "pinyin": "Zhège ānpái bǐjiào shíjì.",
-      "tr": "Bu düzenleme oldukça uygulanabilir."
+      "zh": "申请号码和查询电话我都收好了。",
+      "pinyin": "shēn qǐng hào mǎ hé chá xún diàn huà wǒ dōu shōu hǎo le 。",
+      "tr": "Başvuru numarasıyla sorgu telefonunu sakladım."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_088",
       "speaker": "张雨桐",
-      "zh": "市中心是这次要考虑的重点之一。",
-      "pinyin": "Shì zhōngxīn shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-      "tr": "Şehir merkezi bu kez değerlendirmemiz gereken ana noktalardan biri."
+      "zh": "那我们回去继续准备装修和菜单。",
+      "pinyin": "nà wǒ men huí qù jì xù zhǔn bèi zhuāng xiū hé cài dān 。",
+      "tr": "O hâlde tadilat ve menü hazırlığına dönelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_089",
       "speaker": "刘梅",
-      "zh": "我觉得可以接受。",
-      "pinyin": "Wǒ juéde kěyǐ jiēshòu.",
-      "tr": "Bence kabul edilebilir."
+      "zh": "今天我知道了怎样准备许可证材料。",
+      "pinyin": "jīn tiān wǒ zhī dào le zěn yàng zhǔn bèi xǔ kě zhèng cái liào 。",
+      "tr": "Bugün ruhsat belgelerini nasıl hazırlayacağımı öğrendim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_090",
       "speaker": "张伟",
-      "zh": "我已经准备好确认了。",
-      "pinyin": "Wǒ yǐjīng zhǔnbèi hǎo quèrèn le.",
-      "tr": "Teyit etmek için hazırım."
+      "zh": "表格写得清楚，所以检查起来很快。",
+      "pinyin": "biǎo gé xiě dé qīng chǔ ， suǒ yǐ jiǎn chá qǐ lái hěn kuài 。",
+      "tr": "Form açık doldurulduğu için kontrol hızlı oldu."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_091",
       "speaker": "顾客",
-      "zh": "这样的话就清楚多了。",
-      "pinyin": "Zhèyàng de huà jiù qīngchu duō le.",
-      "tr": "Böyle olunca çok daha net."
+      "zh": "我会按清单再检查一次，不漏掉证件。",
+      "pinyin": "wǒ huì àn qīng dān zài jiǎn chá yī cì ， bù lòu diào zhèng jiàn 。",
+      "tr": "Belge atlamamak için listeyle bir kez daha kontrol ederim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_092",
       "speaker": "张雨桐",
-      "zh": "如果许可证没有问题，我们就继续。",
-      "pinyin": "Rúguǒ xǔkězhèng méiyǒu wèntí, wǒmen jiù jìxù.",
-      "tr": "Ruhsat / izin belgesi konusunda sorun yoksa devam ederiz."
+      "zh": "拿到许可证以后，我们再确定开业日期。",
+      "pinyin": "ná dào xǔ kě zhèng yǐ hòu ， wǒ men zài què dìng kāi yè rì qī 。",
+      "tr": "Ruhsat gelince açılış tarihini belirleriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_093",
       "speaker": "刘梅",
-      "zh": "对，我们继续看下一项。",
-      "pinyin": "Duì, wǒmen jìxù kàn xià yí xiàng.",
-      "tr": "Evet, sıradaki maddeye bakalım."
+      "zh": "我把回执放在文件夹最前面了。",
+      "pinyin": "wǒ bǎ huí zhí fàng zài wén jiàn jiā zuì qián miàn le 。",
+      "tr": "Alındı belgesini dosyanın en önüne koydum."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_094",
       "speaker": "张伟",
-      "zh": "关于证件，我们还要再讨论一下。",
-      "pinyin": "Guānyú zhèngjiàn, wǒmen hái yào zài tǎolùn yíxià.",
-      "tr": "Resmî belge konusunda biraz daha konuşmalıyız."
+      "zh": "其他证件和材料也按顺序收好了。",
+      "pinyin": "qí tā zhèng jiàn hé cái liào yě àn shùn xù shōu hǎo le 。",
+      "tr": "Diğer belgeleri de sırayla yerleştirdim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_095",
       "speaker": "顾客",
-      "zh": "现在主要问题已经解决了。",
-      "pinyin": "Xiànzài zhǔyào wèntí yǐjīng jiějué le.",
-      "tr": "Ana sorun artık çözüldü."
+      "zh": "如果有电话，我们就能马上找到号码。",
+      "pinyin": "rú guǒ yǒu diàn huà ， wǒ men jiù néng mǎ shàng zhǎo dào hào mǎ 。",
+      "tr": "Ararlarsa numarayı hemen bulabiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_096",
       "speaker": "张雨桐",
-      "zh": "剩下的按计划做就可以。",
-      "pinyin": "Shèngxià de àn jìhuà zuò jiù kěyǐ.",
-      "tr": "Kalanını plana göre yapmamız yeterli."
+      "zh": "准备得很仔细，接下来等审批消息。",
+      "pinyin": "zhǔn bèi dé hěn zǐ xì ， jiē xià lái děng shěn pī xiāo xī 。",
+      "tr": "Dikkatlice hazırladık; şimdi onay haberini bekleyelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_097",
       "speaker": "刘梅",
-      "zh": "今天的经验很有用。",
-      "pinyin": "Jīntiān de jīngyàn hěn yǒuyòng.",
-      "tr": "Bugünkü deneyim çok faydalı."
+      "zh": "照片交了，所有材料也都齐了。",
+      "pinyin": "zhào piān jiāo le ， suǒ yǒu cái liào yě dōu qí le 。",
+      "tr": "Fotoğrafları verdik, bütün belgeler de tamam."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_098",
       "speaker": "张伟",
-      "zh": "下次我们会准备得更好。",
-      "pinyin": "Xià cì wǒmen huì zhǔnbèi de gèng hǎo.",
-      "tr": "Bir dahaki sefere daha iyi hazırlanacağız."
+      "zh": "我把申请号码记在手机里了。",
+      "pinyin": "wǒ bǎ shēn qǐng hào mǎ jì zài shǒu jī lǐ le 。",
+      "tr": "Başvuru numarasını telefonuma kaydettim."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_099",
       "speaker": "顾客",
-      "zh": "好，今天就先到这里。",
-      "pinyin": "Hǎo, jīntiān jiù xiān dào zhèlǐ.",
-      "tr": "Tamam, bugünlük burada bitirelim."
+      "zh": "如果需要补材料，我们会尽快送来。",
+      "pinyin": "rú guǒ xū yào bǔ cái liào ， wǒ men huì jǐn kuài sòng lái 。",
+      "tr": "Ek belge gerekirse hemen getiririz."
     },
     {
       "id": "DLG_ZH_HSK3_SC013_100",
       "speaker": "张雨桐",
-      "zh": "明天继续。",
-      "pinyin": "Míngtiān jìxù.",
-      "tr": "Yarın devam ederiz."
+      "zh": "好，审批有结果后会通知你们。",
+      "pinyin": "hǎo ， shěn pī yǒu jié guǒ hòu huì tōng zhī nǐ men 。",
+      "tr": "Peki; onay sonucu çıkınca size haber vereceğiz."
     }
   ],
   "productionStatus": "complete",

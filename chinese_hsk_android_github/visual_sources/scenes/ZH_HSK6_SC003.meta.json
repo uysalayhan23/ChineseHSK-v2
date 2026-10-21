@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC003.json",
-  "dialogueSha256": "69c7388eb432d254be05c68b4468554ba4f83a086523bb29fb33d940ce3a7afc",
+  "dialogueSha256": "6a5e5fb6dcf168e405920eec858a741db2cf68fe366451ae9622420d981d282e",
   "titleZh": "婚礼计划越来越复杂",
   "titleTr": "Düğün Planında Görüş Ayrılığı",
   "locationId": "LOC_ZH_NEW_HOME_001",

@@ -22,6 +22,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.alpha
+import androidx.compose.ui.draw.blur
 import androidx.compose.ui.draw.scale
 import androidx.compose.ui.draw.drawBehind
 import androidx.compose.ui.geometry.CornerRadius
@@ -44,6 +45,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 private data class StagePalette(val sky: Color, val wall: Color, val floor: Color, val accent: Color)
+private data class SceneBubbleAnchor(val point: Pair<Float, Float>, val bubbleScale: Float = 1f)
 private data class CartoonStyle(
     val skin: Color,
     val hair: Color,
@@ -149,35 +151,57 @@ private fun rememberAssetBitmap(path: String): ImageBitmap? {
 }
 
 @Composable
-private fun rememberCalibratedMouthAnchors(sceneId: String, dialogueId: String?, speaker: String): Map<String, Pair<Float, Float>> {
+private fun rememberCalibratedMouthAnchors(sceneId: String): Map<String, Map<String, SceneBubbleAnchor>> {
     val context = LocalContext.current
-    return remember(sceneId, dialogueId, speaker) {
+    return remember(sceneId) {
         runCatching {
             val manifest = context.assets.open("chinese_course/speaker_mouth_anchors.json")
                 .bufferedReader().use { JSONObject(it.readText()) }
             val entry = manifest.getJSONObject("scenes").optJSONObject(sceneId)
-                ?: return@runCatching emptyMap<String, Pair<Float, Float>>()
+                ?: return@runCatching emptyMap<String, Map<String, SceneBubbleAnchor>>()
+            // Do not guess a mouth point from cast order or use an unreviewed
+            // model estimate. Anchors are enabled only after scene-level QA.
+            if (entry.optString("reviewStatus") != "VISUAL_QA_PASS") {
+                return@runCatching emptyMap<String, Map<String, SceneBubbleAnchor>>()
+            }
             val art = context.assets.open("chinese_course/media/scenes/$sceneId.webp").use { it.readBytes() }
             val hash = MessageDigest.getInstance("SHA-256").digest(art)
                 .joinToString("") { "%02x".format(it.toInt() and 0xff) }
-            if (hash != entry.getString("imageSha256")) return@runCatching emptyMap<String, Pair<Float, Float>>()
-            val bindings = entry.optJSONObject("dialogueAnchors")
-            if (bindings != null) {
-                val binding = dialogueId?.let { bindings.optJSONObject(it) }
-                    ?: return@runCatching emptyMap<String, Pair<Float, Float>>()
-                if (binding.optString("speaker") != speaker) return@runCatching emptyMap<String, Pair<Float, Float>>()
-                val point = entry.getJSONObject("personAnchors").getJSONArray(binding.getString("personKey"))
-                val x = point.getDouble(0).toFloat()
-                val y = point.getDouble(1).toFloat()
-                return@runCatching if (x in 0f..1f && y in 0f..1f) mapOf(speaker to (x to y)) else emptyMap<String, Pair<Float, Float>>()
+            if (hash != entry.getString("imageSha256")) return@runCatching emptyMap<String, Map<String, SceneBubbleAnchor>>()
+            val options = BitmapFactory.Options().apply { inJustDecodeBounds = true }
+            BitmapFactory.decodeByteArray(art, 0, art.size, options)
+            if (options.outWidth != entry.optInt("width") || options.outHeight != entry.optInt("height")) {
+                return@runCatching emptyMap<String, Map<String, SceneBubbleAnchor>>()
             }
-            val anchors = entry.getJSONObject("anchors")
-            buildMap {
-                for (name in anchors.keys()) {
-                    val point = anchors.getJSONArray(name)
-                    val x = point.getDouble(0).toFloat()
-                    val y = point.getDouble(1).toFloat()
-                    if (x in 0f..1f && y in 0f..1f) put(name, x to y)
+            val bindings = entry.optJSONObject("dialogueAnchors")
+            val bubbleScales = entry.optJSONObject("bubbleScales")
+            if (bindings != null) {
+                val people = entry.getJSONObject("personAnchors")
+                buildMap {
+                    for (id in bindings.keys()) {
+                        val binding = bindings.getJSONObject(id)
+                        val speaker = binding.getString("speaker")
+                        val point = people.getJSONArray(binding.getString("personKey"))
+                        val x = point.getDouble(0).toFloat()
+                        val y = point.getDouble(1).toFloat()
+                        val scale = binding.optDouble("bubbleScale", bubbleScales?.optDouble(speaker, 1.0) ?: 1.0).toFloat().coerceIn(0.3f, 1.5f)
+                        if (speaker.isNotBlank() && x in 0f..1f && y in 0f..1f) {
+                            put(id, mapOf(speaker to SceneBubbleAnchor(x to y, scale)))
+                        }
+                    }
+                }
+            } else {
+                val anchors = entry.getJSONObject("anchors")
+                buildMap {
+                    for (name in anchors.keys()) {
+                        val point = anchors.getJSONArray(name)
+                        val x = point.getDouble(0).toFloat()
+                        val y = point.getDouble(1).toFloat()
+                        val scale = (bubbleScales?.optDouble(name, 1.0) ?: 1.0).toFloat().coerceIn(0.3f, 1.5f)
+                        if (name.isNotBlank() && x in 0f..1f && y in 0f..1f) {
+                            put("", getOrDefault("", emptyMap()) + (name to SceneBubbleAnchor(x to y, scale)))
+                        }
+                    }
                 }
             }
         }.getOrDefault(emptyMap())
@@ -186,37 +210,49 @@ private fun rememberCalibratedMouthAnchors(sceneId: String, dialogueId: String?,
 
 @Composable
 private fun EmptySpeakerBubble(
-    mouthAnchor: Pair<Float, Float>,
+    mouthAnchor: SceneBubbleAnchor,
     imageWidth: Int,
     imageHeight: Int,
     modifier: Modifier = Modifier
 ) {
     Canvas(modifier.fillMaxSize()) {
-        // Image() uses centered ContentScale.Crop; apply precisely the same transform.
-        val scale = maxOf(size.width / imageWidth, size.height / imageHeight)
-        val x = mouthAnchor.first * imageWidth * scale + (size.width - imageWidth * scale) / 2f
-        val y = mouthAnchor.second * imageHeight * scale + (size.height - imageHeight * scale) / 2f
+        // Image() uses centered ContentScale.Fit so the whole source composition
+        // remains visible; apply precisely the same transform to its anchor.
+        val scale = minOf(size.width / imageWidth, size.height / imageHeight)
+        val x = mouthAnchor.point.first * imageWidth * scale + (size.width - imageWidth * scale) / 2f
+        val y = mouthAnchor.point.second * imageHeight * scale + (size.height - imageHeight * scale) / 2f
         // A cropped-out mouth must not produce a marker on another visible face.
         if (x !in 0f..size.width || y !in 0f..size.height) return@Canvas
-        val width = 28.dp.toPx()
-        val height = 18.dp.toPx()
-        val tail = 6.dp.toPx()
-        val gap = 3.dp.toPx()
+        val bubbleScale = mouthAnchor.bubbleScale.coerceIn(0.3f, 1.5f)
+        val width = 28.dp.toPx() * bubbleScale
+        val height = 18.dp.toPx() * bubbleScale
+        val tail = 6.dp.toPx() * bubbleScale
+        val gap = 3.dp.toPx() * bubbleScale
         val right = x + gap + tail + width <= size.width
         val left = if (right) x + gap + tail else x - gap - tail - width
-        val top = y - height - tail
+        val above = y - height - tail >= 0f
+        val top = if (above) y - height - tail else y + tail
+        if (top + height > size.height) return@Canvas
         if (left < 0f || left + width > size.width || top < 0f) return@Canvas
         val fill = Color.White.copy(alpha = .94f)
         val edge = Color(0xFF62576C)
         val pointer = Path().apply {
-            if (right) {
+            if (above && right) {
                 moveTo(left + 4.dp.toPx(), top + height - 5.dp.toPx())
                 lineTo(x + gap, y)
                 lineTo(left + 10.dp.toPx(), top + height - 1.dp.toPx())
-            } else {
+            } else if (above) {
                 moveTo(left + width - 4.dp.toPx(), top + height - 5.dp.toPx())
                 lineTo(x - gap, y)
                 lineTo(left + width - 10.dp.toPx(), top + height - 1.dp.toPx())
+            } else if (right) {
+                moveTo(left + 4.dp.toPx(), top + 5.dp.toPx())
+                lineTo(x + gap, y)
+                lineTo(left + 10.dp.toPx(), top + 1.dp.toPx())
+            } else {
+                moveTo(left + width - 4.dp.toPx(), top + 5.dp.toPx())
+                lineTo(x - gap, y)
+                lineTo(left + width - 10.dp.toPx(), top + 1.dp.toPx())
             }
             close()
         }
@@ -521,9 +557,15 @@ fun SceneStage(
             sceneArtBitmap != null -> {
                 Image(
                     bitmap = sceneArtBitmap,
+                    contentDescription = null,
+                    modifier = Modifier.fillMaxSize().scale(1.08f).blur(24.dp).alpha(0.42f),
+                    contentScale = ContentScale.Crop
+                )
+                Image(
+                    bitmap = sceneArtBitmap,
                     contentDescription = scene.titleTr.ifBlank { location?.nameTr ?: "Sahne görseli" },
                     modifier = Modifier.fillMaxSize(),
-                    contentScale = ContentScale.Crop
+                    contentScale = ContentScale.Fit
                 )
             }
             backgroundBitmap != null -> {
@@ -589,8 +631,9 @@ fun SceneStage(
             }
 
         }
-        val namedMouthAnchors = rememberCalibratedMouthAnchors(scene.id, activeDialogueId, activeSpeaker)
-        val activeMouthAnchor = namedMouthAnchors[activeSpeaker]
+        val namedMouthAnchors = rememberCalibratedMouthAnchors(scene.id)
+        val activeMouthAnchor = namedMouthAnchors[activeDialogueId.orEmpty()]?.get(activeSpeaker)
+            ?: namedMouthAnchors[""]?.get(activeSpeaker)
         if (
             isSpeaking && sceneArtBitmap != null &&
             activeSpeaker.isNotBlank() && activeSpeaker != "旁白" &&

@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK5_SC015",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC015.json",
-  "dialogueSha256": "8756795f7d48051f9cb41de32ba553c24771b3a00179f82a8afc97e160c76fa4",
+  "dialogueSha256": "5879e3d2a7955850650b6b7b91287bed91b046793ac03f95ac522110cba64cd1",
   "titleZh": "网上的假消息",
   "titleTr": "İnternette Yanlış Bilgi",
   "locationId": "LOC_ZH_NEW_HOME_001",

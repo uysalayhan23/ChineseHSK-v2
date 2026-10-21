@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC050.json",
-  "dialogueSha256": "b527d5e70a95a6ba6e3999e6c6aae82c45a0c83fbf3a0f25666f41cf87b8e2c9",
+  "dialogueSha256": "4863563e8374f053c6a7ee2196de41a5410c4ff7721f2dae241fce1a8e653f66",
   "titleZh": "这里就是家",
   "titleTr": "“Burası Bizim Evimiz”",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

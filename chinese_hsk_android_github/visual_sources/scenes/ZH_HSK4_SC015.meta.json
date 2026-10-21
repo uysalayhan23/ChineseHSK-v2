@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC015.json",
-  "dialogueSha256": "9b86199e1dbdf5f72e1989136fed20efa2b4f5797f01a9621d37d9103576832c",
+  "dialogueSha256": "6b247e3b90aa2ab27e58a0e2c34302780ede0a772644fe2fdc09d6650b23de6d",
   "titleTr": "Zhang Ekip Lideri Oluyor",
   "locationId": "LOC_ZH_CONFERENCE_ROOM_001",
   "scenePurposeTr": "Zhang ekip liderliği sorumluluklarını yönetici ve iş arkadaşıyla konuşur.",

@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 46,
+  "status": "FINAL_REVIEWED_V46",
+  "sceneId": "ZH_HSK2_SC034",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC034_001",
+      "speaker": "张伟",
+      "zh": "今天是社区清洁日，大家在哪儿集合？",
+      "pinyin": "Jīn tiān shì shè qū qīng jié rì ， dà jiā zài nǎ ér jí hé ？",
+      "tr": "Bugün mahalle temizlik günü; nerede buluşacağız?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_002",
+      "speaker": "刘梅",
+      "zh": "我带了手套和垃圾袋，咱们到了就能开始打扫。",
+      "pinyin": "Wǒ dài le shǒu tào hé lā jī dài ， zán men dào le jiù néng kāi shǐ dǎ sǎo 。",
+      "tr": "Eldiven ve çöp poşetlerini getirdim; varınca temizliğe başlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_003",
+      "speaker": "社区工作人员",
+      "zh": "欢迎参加活动，今天大家一起把小广场周围清理干净。",
+      "pinyin": "Huān yíng cān jiā huó dòng ， jīn tiān dà jiā yì qǐ bǎ xiǎo guǎng chǎng zhōu wéi qīng lǐ gān jìng 。",
+      "tr": "Etkinliğe hoş geldiniz. Bugün meydanın çevresini birlikte temizleyeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_004",
+      "speaker": "张乐乐",
+      "zh": "太好了！我也想帮忙，我可以和你们一起捡垃圾吗？",
+      "pinyin": "Tài hǎo le ！ wǒ yě xiǎng bāng máng ， wǒ kě yǐ hé nǐ men yì qǐ jiǎn lā jī ma ？",
+      "tr": "Harika! Ben de yardım etmek istiyorum; sizinle çöp toplayabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_005",
+      "speaker": "张伟",
+      "zh": "当然可以。先看看这里需要打扫，我们分好地方再开始。",
+      "pinyin": "Dāng rán kě yǐ 。 xiān kàn kàn zhè lǐ xū yào dǎ sǎo ， wǒ men fēn hǎo dì fāng zài kāi shǐ 。",
+      "tr": "Elbette. Önce temizlenecek yerlere bakalım, sonra alanları paylaşırız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_006",
+      "speaker": "刘梅",
+      "zh": "垃圾夹和手套在桌上，乐乐先戴好手套。",
+      "pinyin": "Lā jī jiā hé shǒu tào zài zhuō shàng ， lè lè xiān dài hǎo shǒu tào 。",
+      "tr": "Çöp maşası ve eldivenler masada; Lele önce eldivenlerini giysin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_007",
+      "speaker": "社区工作人员",
+      "zh": "这边有回收袋，塑料瓶请放进去，其他垃圾分开装。",
+      "pinyin": "Zhè biān yǒu huí shōu dài ， sù liào píng qǐng fàng jìn qù ， qí tā lā jī fēn kāi zhuāng 。",
+      "tr": "Burada geri dönüşüm poşeti var; plastik şişeleri buna, diğer çöpleri ayrı koyun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_008",
+      "speaker": "张乐乐",
+      "zh": "我看到一个塑料瓶了，用垃圾夹夹起来可以吗？",
+      "pinyin": "Wǒ kàn dào yí gè sù liào píng le ， yòng lā jī jiā jiā qǐ lái kě yǐ ma ？",
+      "tr": "Bir plastik şişe gördüm; maşayla alabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_009",
+      "speaker": "张伟",
+      "zh": "可以，用夹子捡，不要用手直接碰不认识的东西。",
+      "pinyin": "Kě yǐ ， yòng jiā zi jiǎn ， bú yào yòng shǒu zhí jiē pèng bù rèn shí de dōng xī 。",
+      "tr": "Olur; maşayla al, tanımadığın şeylere elinle dokunma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_010",
+      "speaker": "刘梅",
+      "zh": "那我把瓶子放进这个回收袋，袋口在这里。",
+      "pinyin": "Nà wǒ bǎ píng zi fàng jìn zhè ge huí shōu dài ， dài kǒu zài zhè lǐ 。",
+      "tr": "Şişeyi bu geri dönüşüm poşetine koyuyorum; ağzı burada."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_011",
+      "speaker": "社区工作人员",
+      "zh": "对，慢慢来，袋子别装得太满，不然不好拿。",
+      "pinyin": "Duì ， màn màn lái ， dài zi bié zhuāng dé tài mǎn ， bù rán bù hǎo ná 。",
+      "tr": "Evet, ağırdan al; poşeti çok doldurma, taşımak zorlaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_012",
+      "speaker": "张乐乐",
+      "zh": "我已经放好了，还看见旁边有一张纸。",
+      "pinyin": "Wǒ yǐ jīng fàng hǎo le ， hái kàn jiàn páng biān yǒu yī zhāng zhǐ 。",
+      "tr": "Şişeyi koydum; yanında bir kâğıt da gördüm."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_013",
+      "speaker": "张伟",
+      "zh": "纸也可以捡起来，不过先确认它是干净安全的。",
+      "pinyin": "Zhǐ yě kě yǐ jiǎn qǐ lái ， bù guò xiān què rèn tā shì gān jìng ān quán de 。",
+      "tr": "Kâğıdı da alabilirsin ama önce temiz ve güvenli olduğundan emin ol."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_014",
+      "speaker": "刘梅",
+      "zh": "我来看看，纸没有湿，也没有尖的东西。",
+      "pinyin": "Wǒ lái kàn kàn ， zhǐ méi yǒu shī ， yě méi yǒu jiān de dōng xī 。",
+      "tr": "Baktım, kâğıt ıslak değil ve üzerinde keskin bir şey yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_015",
+      "speaker": "社区工作人员",
+      "zh": "如果发现玻璃或其他危险的垃圾，先告诉大人。",
+      "pinyin": "Rú guǒ fā xiàn bō lí huò qí tā wēi xiǎn de lā jī ， xiān gào sù dà rén 。",
+      "tr": "Cam ya da başka tehlikeli bir çöp görürsen önce bir yetişkine söyle."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_016",
+      "speaker": "张乐乐",
+      "zh": "记住了，我不碰危险的东西，会先叫你们。",
+      "pinyin": "Jì zhù le ， wǒ bù pèng wēi xiǎn de dōng xī ， huì xiān jiào nǐ men 。",
+      "tr": "Anladım, tehlikeli şeylere dokunmam; önce size haber veririm."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_017",
+      "speaker": "张伟",
+      "zh": "做得好，我们一起打扫，地上很快就会干净。",
+      "pinyin": "Zuò dé hǎo ， wǒ men yì qǐ dǎ sǎo ， dì shàng hěn kuài jiù huì gān jìng 。",
+      "tr": "Aferin, birlikte temizlersek yerler çabucak tertemiz olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_018",
+      "speaker": "刘梅",
+      "zh": "社区里还有别的志愿者吗？",
+      "pinyin": "Shè qū lǐ hái yǒu bié de zhì yuàn zhě ma ？",
+      "tr": "Mahallede başka gönüllüler de var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_019",
+      "speaker": "社区工作人员",
+      "zh": "有的，大家在不同的地方帮忙，等会儿可以把垃圾袋放到集合点。",
+      "pinyin": "Yǒu de ， dà jiā zài bù tóng de dì fāng bāng máng ， děng huì er kě yǐ bǎ lā jī dài fàng dào jí hé diǎn 。",
+      "tr": "Var; herkes farklı yerlerde yardım ediyor. Birazdan poşetleri buluşma yerine götürebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_020",
+      "speaker": "张乐乐",
+      "zh": "那我们先把这一小块收拾好，再去帮其他人。",
+      "pinyin": "Nà wǒ men xiān bǎ zhè yī xiǎo kuài shōu shí hǎo ， zài qù bāng qí tā rén 。",
+      "tr": "Önce bu küçük alanı toparlayalım, sonra diğerlerine yardım ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_021",
+      "speaker": "张伟",
+      "zh": "社区工作人员，今天我们负责打扫哪一块？",
+      "pinyin": "Shè qū gōng zuò rén yuán ， jīn tiān wǒ men fù zé dǎ sǎo nǎ yī kuài ？",
+      "tr": "Toplum görevlisi, bugün temizliğin hangi bölümünden sorumluyuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_022",
+      "speaker": "刘梅",
+      "zh": "我们从这条小路开始，再把长椅旁边的垃圾捡干净。",
+      "pinyin": "Wǒ men cóng zhè tiáo xiǎo lù kāi shǐ ， zài bǎ zhǎng yǐ páng biān de lā jī jiǎn gān jìng 。",
+      "tr": "Bu patikadan başlayıp bankın yanındaki çöpleri de toplayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_023",
+      "speaker": "社区工作人员",
+      "zh": "好，我会留在这边，等你们把回收袋装好。",
+      "pinyin": "Hǎo ， wǒ huì liú zài zhè biān ， děng nǐ men bǎ huí shōu dài zhuāng hǎo 。",
+      "tr": "Tamam, bu tarafta kalıp geri dönüşüm poşetini doldurmanıza yardım ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_024",
+      "speaker": "张乐乐",
+      "zh": "长椅下面有几个瓶子，我用夹子来捡。",
+      "pinyin": "Zhǎng yǐ xià miàn yǒu jǐ gè píng zi ， wǒ yòng jiā zi lái jiǎn 。",
+      "tr": "Bankın altında birkaç şişe var; maşayla alayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_025",
+      "speaker": "张伟",
+      "zh": "慢一点，先看清楚是什么，再决定能不能捡。",
+      "pinyin": "Màn yì diǎn ， xiān kàn qīng chǔ shì shén me ， zài jué dìng néng bù néng jiǎn 。",
+      "tr": "Acele etme; önce ne olduğunu gör, sonra alıp alamayacağımıza karar ver."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_026",
+      "speaker": "刘梅",
+      "zh": "我拿着袋子跟在你旁边，捡到的垃圾放进这里。",
+      "pinyin": "Wǒ ná zhe dài zi gēn zài nǐ páng biān ， jiǎn dào de lā jī fàng jìn zhè lǐ 。",
+      "tr": "Poşeti tutup yanında yürüyeceğim; topladıklarını buraya koy."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_027",
+      "speaker": "社区工作人员",
+      "zh": "塑料瓶和其他垃圾分开放，回收袋不要装进纸屑。",
+      "pinyin": "Sù liào píng hé qí tā lā jī fēn kāi fàng ， huí shōu dài bú yào zhuāng jìn zhǐ xiè 。",
+      "tr": "Plastik şişelerle diğer çöpleri ayır; kâğıtları geri dönüşüm poşetine koyma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_028",
+      "speaker": "张乐乐",
+      "zh": "我看到一个空罐子，它也放进回收袋吗？",
+      "pinyin": "Wǒ kàn dào yí gè kōng guàn zi ， tā yě fàng jìn huí shōu dài ma ？",
+      "tr": "Boş bir kutu buldum, onu da geri dönüşüme mi atalım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_029",
+      "speaker": "张伟",
+      "zh": "先放到一边，我来确认社区这次怎么分类。",
+      "pinyin": "Xiān fàng dào yī biān ， wǒ lái què rèn shè qū zhè cì zěn me fēn lèi 。",
+      "tr": "Şimdilik kenara koy; bu etkinlikte nasıl ayrıştırıldığını kontrol edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_030",
+      "speaker": "刘梅",
+      "zh": "袋子上写着回收，我们先把塑料瓶放进去。",
+      "pinyin": "Dài zi shàng xiě zhe huí shōu ， wǒ men xiān bǎ sù liào píng fàng jìn qù 。",
+      "tr": "Poşetin üzerinde geri dönüşüm yazıyor; plastik şişeleri önce buna koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_031",
+      "speaker": "社区工作人员",
+      "zh": "对，纸和其他垃圾先放在另一个袋子里。",
+      "pinyin": "Duì ， zhǐ hé qí tā lā jī xiān fàng zài lìng yí gè dài zi lǐ 。",
+      "tr": "Evet, kâğıtlarla diğer çöpleri başka poşete koyun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_032",
+      "speaker": "张乐乐",
+      "zh": "我找到一张纸，还是干净的，可以回收吗？",
+      "pinyin": "Wǒ zhǎo dào yī zhāng zhǐ ， hái shì gān jìng de ， kě yǐ huí shōu ma ？",
+      "tr": "Temiz bir kâğıt buldum; geri dönüştürülebilir mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_033",
+      "speaker": "张伟",
+      "zh": "可以，放进回收袋就好，注意别把袋口撑破。",
+      "pinyin": "Kě yǐ ， fàng jìn huí shōu dài jiù hǎo ， zhù yì bié bǎ dài kǒu chēng pò 。",
+      "tr": "Olur, geri dönüşüm poşetine koy; ağzını yırtmamaya dikkat et."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_034",
+      "speaker": "刘梅",
+      "zh": "袋子已经有些重了，我们要不要换一个？",
+      "pinyin": "Dài zi yǐ jīng yǒu xiē zhòng le ， wǒ men yào bù yào huàn yí gè ？",
+      "tr": "Poşet biraz ağırlaştı; başka bir tane mi kullanalım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_035",
+      "speaker": "社区工作人员",
+      "zh": "别装太满，留一点空间，提起来才稳。",
+      "pinyin": "Bié zhuāng tài mǎn ， liú yì diǎn kōng jiān ， tí qǐ lái cái wěn 。",
+      "tr": "Çok doldurma, biraz boşluk bırak ki taşırken dengeli olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_036",
+      "speaker": "张乐乐",
+      "zh": "我和张伟一起提这个袋子，乐乐拿垃圾夹。",
+      "pinyin": "Wǒ hé zhāng wěi yì qǐ tí zhè ge dài zi ， lè lè ná lā jī jiā 。",
+      "tr": "Bu poşeti Zhang Wei’yle birlikte taşırım, Lele maşayı tutsun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_037",
+      "speaker": "张伟",
+      "zh": "可以，提之前先看看袋底有没有破。",
+      "pinyin": "Kě yǐ ， tí zhī qián xiān kàn kàn dài dǐ yǒu méi yǒu pò 。",
+      "tr": "Olur, kaldırmadan önce altı yırtık mı diye bakın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_038",
+      "speaker": "刘梅",
+      "zh": "袋底很结实，刚才捡的瓶子都在里面。",
+      "pinyin": "Dài dǐ hěn jiē shí ， gāng cái jiǎn de píng zi dōu zài lǐ miàn 。",
+      "tr": "Altı sağlam; topladığımız şişeler de içinde duruyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_039",
+      "speaker": "社区工作人员",
+      "zh": "收集好的袋子要放到哪个地方？",
+      "pinyin": "Shōu jí hǎo de dài zi yào fàng dào nǎ ge dì fāng ？",
+      "tr": "Topladığımız poşetleri nereye bırakacağız?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_040",
+      "speaker": "张乐乐",
+      "zh": "先放在路口旁边的集合点，等工作人员一起处理。",
+      "pinyin": "Xiān fàng zài lù kǒu páng biān de jí hé diǎn ， děng gōng zuò rén yuán yì qǐ chǔ lǐ 。",
+      "tr": "Önce yol ayrımındaki toplama noktasına koyun; görevliler sonra alır."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_041",
+      "speaker": "张伟",
+      "zh": "这条小路干净多了，我们接下来去长椅那边看看吧。",
+      "pinyin": "Zhè tiáo xiǎo lù gān jìng duō le ， wǒ men jiē xià lái qù zhǎng yǐ nà biān kàn kàn ba 。",
+      "tr": "Bu patika daha temiz oldu; şimdi bankların yanına bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_042",
+      "speaker": "刘梅",
+      "zh": "好，我刚才看到长椅旁边有些纸屑，我们仔细找一找。",
+      "pinyin": "Hǎo ， wǒ gāng cái kàn dào zhǎng yǐ páng biān yǒu xiē zhǐ xiè ， wǒ men zǐ xì zhǎo yī zhǎo 。",
+      "tr": "Tamam, az önce bankların yakınında kâğıt parçaları gördüm; dikkatlice arayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_043",
+      "speaker": "社区工作人员",
+      "zh": "那边靠近花坛，走的时候别踩到花，也别拉树枝。",
+      "pinyin": "Nà biān kào jìn huā tán ， zǒu de shí hòu bié cǎi dào huā ， yě bié lā shù zhī 。",
+      "tr": "Orası çiçek tarhının yanında; yürürken çiçeklere basmayın, dalları da çekmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_044",
+      "speaker": "张乐乐",
+      "zh": "我看到地上有个塑料袋，要不要也捡起来？",
+      "pinyin": "Wǒ kàn dào dì shàng yǒu gè sù liào dài ， yào bù yào yě jiǎn qǐ lái ？",
+      "tr": "Yerde plastik bir poşet var, onu da alalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_045",
+      "speaker": "张伟",
+      "zh": "可以，用夹子夹起来，先看看里面有没有东西。",
+      "pinyin": "Kě yǐ ， yòng jiā zi jiā qǐ lái ， xiān kàn kàn lǐ miàn yǒu méi yǒu dōng xī 。",
+      "tr": "Olur, maşayla al ve içinde bir şey kalmış mı bak."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_046",
+      "speaker": "刘梅",
+      "zh": "袋子是空的，我帮你把它放进普通垃圾袋。",
+      "pinyin": "Dài zi shì kōng de ， wǒ bāng nǐ bǎ tā fàng jìn pǔ tōng lā jī dài 。",
+      "tr": "Poşet boş; normal çöp poşetine koymana yardım edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_047",
+      "speaker": "社区工作人员",
+      "zh": "很好。大家记得把垃圾和回收物分开放。",
+      "pinyin": "Hěn hǎo 。 dà jiā jì de bǎ lā jī hé huí shōu wù fēn kāi fàng 。",
+      "tr": "Güzel. Çöpleri geri dönüştürülebilir şeylerden ayrı tutalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_048",
+      "speaker": "张乐乐",
+      "zh": "我找到一张纸，边上还有一个瓶盖。",
+      "pinyin": "Wǒ zhǎo dào yī zhāng zhǐ ， biān shàng hái yǒu yí gè píng gài 。",
+      "tr": "Bir kâğıt buldum, yanında da bir şişe kapağı var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_049",
+      "speaker": "张伟",
+      "zh": "纸和瓶盖先分开，我把它们放到对应的袋子里。",
+      "pinyin": "Zhǐ hé píng gài xiān fēn kāi ， wǒ bǎ tā men fàng dào duì yìng de dài zi lǐ 。",
+      "tr": "Kâğıtla kapağı ayırıp uygun poşetlere koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_050",
+      "speaker": "刘梅",
+      "zh": "这里的垃圾不多了，看来大家都很认真。",
+      "pinyin": "Zhè lǐ de lā jī bù duō le ， kàn lái dà jiā dōu hěn rèn zhēn 。",
+      "tr": "Burada pek çöp kalmadı; herkes dikkatli çalışmış."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_051",
+      "speaker": "社区工作人员",
+      "zh": "你们做得很好。长椅下面还有一个饮料瓶，注意用夹子拿。",
+      "pinyin": "Nǐ men zuò dé hěn hǎo 。 zhǎng yǐ xià miàn hái yǒu yí gè yǐn liào píng ， zhù yì yòng jiā zi ná 。",
+      "tr": "Güzel iş çıkardınız. Bankın altında bir içecek şişesi var; maşayla alın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_052",
+      "speaker": "张乐乐",
+      "zh": "我来拿。这个瓶子很轻，我能放进回收袋。",
+      "pinyin": "Wǒ lái ná 。 zhè ge píng zi hěn qīng ， wǒ néng fàng jìn huí shōu dài 。",
+      "tr": "Ben alayım. Şişe hafif, geri dönüşüm poşetine koyabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_053",
+      "speaker": "张伟",
+      "zh": "拿之前先看看瓶子有没有破，别让手碰到碎片。",
+      "pinyin": "Ná zhī qián xiān kàn kàn píng zi yǒu méi yǒu pò ， bié ràng shǒu pèng dào suì piàn 。",
+      "tr": "Almadan önce şişe kırık mı bak; elin kırıklara değmesin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_054",
+      "speaker": "刘梅",
+      "zh": "瓶子是完整的，我已经夹住了。",
+      "pinyin": "Píng zi shì wán zhěng de ， wǒ yǐ jīng jiā zhù le 。",
+      "tr": "Şişe sağlam, maşayla tuttum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_055",
+      "speaker": "社区工作人员",
+      "zh": "好，放进袋子以后，我们停下来喝点水。",
+      "pinyin": "Hǎo ， fàng jìn dài zi yǐ hòu ， wǒ men tíng xià lái hē diǎn shuǐ 。",
+      "tr": "Güzel. Poşete koyduktan sonra biraz su içelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_056",
+      "speaker": "张乐乐",
+      "zh": "我带了水，大家一人喝一点吧。",
+      "pinyin": "Wǒ dài le shuǐ ， dà jiā yī rén hē yì diǎn ba 。",
+      "tr": "Yanımda su var, herkes biraz içsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_057",
+      "speaker": "张伟",
+      "zh": "谢谢，休息一会儿再继续，做事会更有精神。",
+      "pinyin": "Xiè xiè ， xiū xī yī huì er zài jì xù ， zuò shì huì gèng yǒu jīng shén 。",
+      "tr": "Teşekkürler. Biraz dinlenip devam edersek daha dinç oluruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_058",
+      "speaker": "刘梅",
+      "zh": "我喝好了。我们现在去社区中心门口吗？",
+      "pinyin": "Wǒ hē hǎo le 。 wǒ men xiàn zài qù shè qū zhōng xīn mén kǒu ma ？",
+      "tr": "Suyumu içtim. Şimdi toplum merkezinin kapısına mı gideceğiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_059",
+      "speaker": "社区工作人员",
+      "zh": "对，那边还有一小片地方需要清理。",
+      "pinyin": "Duì ， nà biān hái yǒu yī xiǎo piàn dì fāng xū yào qīng lǐ 。",
+      "tr": "Evet, orada da temizlenecek küçük bir alan var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_060",
+      "speaker": "张乐乐",
+      "zh": "我跟着你们走，手套和垃圾夹都拿好了。",
+      "pinyin": "Wǒ gēn zhe nǐ men zǒu ， shǒu tào hé lā jī jiā dōu ná hǎo le 。",
+      "tr": "Sizi takip ediyorum; eldivenlerim ve çöp maşam hazır."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_061",
+      "speaker": "张伟",
+      "zh": "这一片也打扫好了，工作人员，我们把垃圾袋放到哪里？",
+      "pinyin": "Zhè yī piàn yě dǎ sǎo hǎo le ， gōng zuò rén yuán ， wǒ men bǎ lā jī dài fàng dào nǎ lǐ ？",
+      "tr": "Bu bölümü de temizledik. Görevli, çöp poşetlerini nereye bırakacağız?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_062",
+      "speaker": "刘梅",
+      "zh": "两个袋子都分好了，回收物和普通垃圾没有混在一起。",
+      "pinyin": "Liǎng gè dài zi dōu fēn hǎo le ， huí shōu wù hé pǔ tōng lā jī méi yǒu hùn zài yì qǐ 。",
+      "tr": "İki poşeti ayırdık; geri dönüşümle normal çöpler birbirine karışmadı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_063",
+      "speaker": "社区工作人员",
+      "zh": "请把袋子带到社区中心旁边的集合点，我会在那里接收。",
+      "pinyin": "Qǐng bǎ dài zi dài dào shè qū zhōng xīn páng biān de jí hé diǎn ， wǒ huì zài nà lǐ jiē shōu 。",
+      "tr": "Poşetleri toplum merkezinin yanındaki toplama noktasına getirin, orada teslim alacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_064",
+      "speaker": "张乐乐",
+      "zh": "回收袋有一点重，我可以和爸爸一起拿轻的那个。",
+      "pinyin": "Huí shōu dài yǒu yì diǎn zhòng ， wǒ kě yǐ hé bà bà yì qǐ ná qīng de nà ge 。",
+      "tr": "Geri dönüşüm poşeti biraz ağır; hafif olanı babamla birlikte taşıyabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_065",
+      "speaker": "张伟",
+      "zh": "谢谢你主动帮忙，不过重的袋子让大人拿比较安全。",
+      "pinyin": "Xiè xiè nǐ zhǔ dòng bāng máng ， bù guò zhòng de dài zi ràng dà rén ná bǐ jiào ān quán 。",
+      "tr": "Yardım etmek istemen çok güzel ama ağır poşetleri yetişkinler taşısın, daha güvenli olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_066",
+      "speaker": "刘梅",
+      "zh": "我来提这个小袋子，乐乐可以帮我们拿垃圾夹。",
+      "pinyin": "Wǒ lái tí zhè ge xiǎo dài zi ， lè lè kě yǐ bāng wǒ men ná lā jī jiā 。",
+      "tr": "Ben küçük poşeti taşıyayım, Lele de çöp maşasını getirmeye yardım etsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_067",
+      "speaker": "社区工作人员",
+      "zh": "好，我拿夹子跟着你们，不自己搬重东西。",
+      "pinyin": "Hǎo ， wǒ ná jiā zi gēn zhe nǐ men ， bù zì jǐ bān zhòng dōng xī 。",
+      "tr": "Tamam, maşayı alıp yanınızdan ayrılmadan geleceğim; ağır şey taşımayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_068",
+      "speaker": "张乐乐",
+      "zh": "到了集合点，把袋子靠墙放好，别挡住路。",
+      "pinyin": "Dào le jí hé diǎn ， bǎ dài zi kào qiáng fàng hǎo ， bié dǎng zhù lù 。",
+      "tr": "Toplama noktasına gelince poşetleri duvarın yanına koyun, yolu kapatmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_069",
+      "speaker": "张伟",
+      "zh": "放好了。这里的路面也清理干净了。",
+      "pinyin": "Fàng hǎo le 。 zhè lǐ de lù miàn yě qīng lǐ gān jìng le 。",
+      "tr": "Koyduk. Buradaki yol da temizlendi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_070",
+      "speaker": "刘梅",
+      "zh": "谢谢大家配合，社区周围看起来整洁多了。",
+      "pinyin": "Xiè xiè dà jiā pèi hé ， shè qū zhōu wéi kàn qǐ lái zhěng jié duō le 。",
+      "tr": "Herkesin yardımı için teşekkürler, mahalle çok daha düzenli görünüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_071",
+      "speaker": "社区工作人员",
+      "zh": "长椅旁边还有一小片纸屑，我再检查一下。",
+      "pinyin": "Zhǎng yǐ páng biān hái yǒu yī xiǎo piàn zhǐ xiè ， wǒ zài jiǎn chá yī xià 。",
+      "tr": "Bankın yanında birkaç kâğıt parçası daha var, tekrar bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_072",
+      "speaker": "张乐乐",
+      "zh": "我陪你过去，看到垃圾先用夹子，不要用手捡。",
+      "pinyin": "Wǒ péi nǐ guò qù ， kàn dào lā jī xiān yòng jiā zi ， bú yào yòng shǒu jiǎn 。",
+      "tr": "Seninle geliyorum; çöp görürsen maşayı kullan, elinle alma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_073",
+      "speaker": "张伟",
+      "zh": "工具用完以后记得放回桌上，下一组志愿者还要用。",
+      "pinyin": "Gōng jù yòng wán yǐ hòu jì de fàng huí zhuō shàng ， xià yī zǔ zhì yuàn zhě hái yào yòng 。",
+      "tr": "Aletleri bitirince masaya geri koyun; diğer gönüllüler de kullanacak."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_074",
+      "speaker": "刘梅",
+      "zh": "我数一数，垃圾夹、手套和袋子都带回来了。",
+      "pinyin": "Wǒ shù yī shù ， lā jī jiā 、 shǒu tào hé dài zi dōu dài huí lái le 。",
+      "tr": "Sayalım: çöp maşası, eldivenler ve poşetler yanımızda."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_075",
+      "speaker": "社区工作人员",
+      "zh": "手套先放进箱子，垃圾夹也放在原来的地方。",
+      "pinyin": "Shǒu tào xiān fàng jìn xiāng zi ， lā jī jiā yě fàng zài yuán lái de dì fāng 。",
+      "tr": "Eldivenleri kutuya, çöp maşasını da eski yerine bırakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_076",
+      "speaker": "张乐乐",
+      "zh": "都放好了。今天我学会了怎么把垃圾分开。",
+      "pinyin": "Dōu fàng hǎo le 。 jīn tiān wǒ xué huì le zěn me bǎ lā jī fēn kāi 。",
+      "tr": "Hepsi tamam. Bugün çöpleri nasıl ayıracağımı öğrendim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_077",
+      "speaker": "张伟",
+      "zh": "大家一起做，打扫起来比我想的快多了。",
+      "pinyin": "Dà jiā yì qǐ zuò ， dǎ sǎo qǐ lái bǐ wǒ xiǎng de kuài duō le 。",
+      "tr": "Herkes birlikte çalışınca temizlik beklediğimden hızlı bitti."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_078",
+      "speaker": "刘梅",
+      "zh": "对，一个人做会很累，社区活动让大家一起帮忙。",
+      "pinyin": "Duì ， yí gè rén zuò huì hěn lèi ， shè qū huó dòng ràng dà jiā yì qǐ bāng máng 。",
+      "tr": "Evet, tek başına yapmak yorucu; mahalle etkinliğinde herkes el birliğiyle yardım ediyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_079",
+      "speaker": "社区工作人员",
+      "zh": "谢谢你们参加，下次活动的时间会提前贴在社区公告处。",
+      "pinyin": "Xiè xiè nǐ men cān jiā ， xià cì huó dòng de shí jiān huì tí qián tiē zài shè qū gōng gào chù 。",
+      "tr": "Katıldığınız için teşekkürler. Bir sonraki etkinliğin saati mahalle panosuna önceden asılacak."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_080",
+      "speaker": "张乐乐",
+      "zh": "我下次还想来，可以和家人一起参加吗？",
+      "pinyin": "Wǒ xià cì hái xiǎng lái ， kě yǐ hé jiā rén yì qǐ cān jiā ma ？",
+      "tr": "Bir dahaki sefere yine katılmak istiyorum. Ailemle gelebilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_081",
+      "speaker": "张伟",
+      "zh": "我们把最后一袋垃圾也送到集合点，再看看附近有没有漏掉的。",
+      "pinyin": "Wǒ men bǎ zuì hòu yī dài lā jī yě sòng dào jí hé diǎn ， zài kàn kàn fù jìn yǒu méi yǒu lòu diào de 。",
+      "tr": "Son çöp poşetini de toplama noktasına götürelim, sonra çevrede eksik kalan yer var mı bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_082",
+      "speaker": "刘梅",
+      "zh": "我检查过了，长椅下面和小路上都很干净。",
+      "pinyin": "Wǒ jiǎn chá guò le ， zhǎng yǐ xià miàn hé xiǎo lù shàng dōu hěn gān jìng 。",
+      "tr": "Kontrol ettim; bankın altı da patika da temiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_083",
+      "speaker": "社区工作人员",
+      "zh": "做得好，今天这片社区环境比刚才整洁多了。",
+      "pinyin": "Zuò dé hǎo ， jīn tiān zhè piàn shè qū huán jìng bǐ gāng cái zhěng jié duō le 。",
+      "tr": "Güzel iş çıkardınız; bu mahalle bölümü az öncesine göre çok daha düzenli."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_084",
+      "speaker": "张乐乐",
+      "zh": "我也把垃圾分好了，还把夹子和手套都送回来了。",
+      "pinyin": "Wǒ yě bǎ lā jī fēn hǎo le ， hái bǎ jiā zi hé shǒu tào dōu sòng huí lái le 。",
+      "tr": "Ben de çöpleri ayırdım, maşayla eldivenleri yerlerine koydum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_085",
+      "speaker": "张伟",
+      "zh": "你做得很棒，和大家一起打扫让这次活动进展很顺利。",
+      "pinyin": "Nǐ zuò dé hěn bàng ， hé dà jiā yì qǐ dǎ sǎo ràng zhè cì huó dòng jìn zhǎn hěn shùn lì 。",
+      "tr": "Aferin, herkesle birlikte çalışman etkinliğin iyi ilerlemesini sağladı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_086",
+      "speaker": "刘梅",
+      "zh": "我喜欢这样的活动，大家一边做事一边互相帮忙。",
+      "pinyin": "Wǒ xǐ huān zhè yàng de huó dòng ， dà jiā yī biān zuò shì yī biān hù xiāng bāng máng 。",
+      "tr": "Böyle etkinlikleri seviyorum; hem iş yapıyoruz hem birbirimize yardım ediyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_087",
+      "speaker": "社区工作人员",
+      "zh": "谢谢你们认真参加，整理工具后就可以结束今天的清洁活动了。",
+      "pinyin": "Xiè xiè nǐ men rèn zhēn cān jiā ， zhěng lǐ gōng jù hòu jiù kě yǐ jié shù jīn tiān de qīng jié huó dòng le 。",
+      "tr": "Katılımınız için teşekkürler. Aletleri topladıktan sonra bugünkü temizlik etkinliğini bitirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_088",
+      "speaker": "张乐乐",
+      "zh": "我来把手套放进箱子，垃圾夹放在桌子上，对吗？",
+      "pinyin": "Wǒ lái bǎ shǒu tào fàng jìn xiāng zi ， lā jī jiā fàng zài zhuō zi shàng ， duì ma ？",
+      "tr": "Eldivenleri kutuya, çöp maşasını masaya koyayım, doğru mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_089",
+      "speaker": "张伟",
+      "zh": "对，手套放进箱子，夹子放回工具架就可以。",
+      "pinyin": "Duì ， shǒu tào fàng jìn xiāng zi ， jiā zi fàng huí gōng jù jià jiù kě yǐ 。",
+      "tr": "Evet, eldivenler kutuya, maşalar da alet rafına."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_090",
+      "speaker": "刘梅",
+      "zh": "我把工具架的位置记住了，下次来就知道放在哪里。",
+      "pinyin": "Wǒ bǎ gōng jù jià de wèi zhì jì zhù le ， xià cì lái jiù zhī dào fàng zài nǎ lǐ 。",
+      "tr": "Rafın yerini aklımda tutarım; bir dahaki sefere nereye koyacağımı bilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_091",
+      "speaker": "社区工作人员",
+      "zh": "下次活动的消息会贴在社区公告栏，大家可以留意一下。",
+      "pinyin": "Xià cì huó dòng de xiāo xī huì tiē zài shè qū gōng gào lán ， dà jiā kě yǐ liú yì yī xià 。",
+      "tr": "Bir sonraki etkinlik mahalle panosunda duyurulacak; göz atabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_092",
+      "speaker": "张乐乐",
+      "zh": "我会和爸爸妈妈一起来，还想和今天的志愿者一起做事。",
+      "pinyin": "Wǒ huì hé bà bà mā mā yì qǐ lái ， hái xiǎng hé jīn tiān de zhì yuàn zhě yì qǐ zuò shì 。",
+      "tr": "Annemle babamla geleceğim; bugünkü gönüllülerle yine çalışmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_093",
+      "speaker": "张伟",
+      "zh": "我们也会关注通知，时间合适就带你一起来。",
+      "pinyin": "Wǒ men yě huì guān zhù tōng zhī ， shí jiān hé shì jiù dài nǐ yì qǐ lái 。",
+      "tr": "Duyuruyu biz de takip ederiz; zamanımız uygunsa seni getiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_094",
+      "speaker": "刘梅",
+      "zh": "今天大家一起清理了小路和长椅，社区看起来舒服多了。",
+      "pinyin": "Jīn tiān dà jiā yì qǐ qīng lǐ le xiǎo lù hé zhǎng yǐ ， shè qū kàn qǐ lái shū fú duō le 。",
+      "tr": "Bugün patikayı ve bankların çevresini temizledik; mahalle daha güzel görünüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_095",
+      "speaker": "社区工作人员",
+      "zh": "是的，多谢大家一起帮忙。希望你们下次还来参加。",
+      "pinyin": "Shì de ， duō xiè dà jiā yì qǐ bāng máng 。 xī wàng nǐ men xià cì hái lái cān jiā 。",
+      "tr": "Evet, hep birlikte yardım ettiğiniz için teşekkürler. Umarım yine katılırsınız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_096",
+      "speaker": "张乐乐",
+      "zh": "我今天学会了分类垃圾，也认识了新的志愿者。",
+      "pinyin": "Wǒ jīn tiān xué huì le fēn lèi lā jī ， yě rèn shí le xīn de zhì yuàn zhě 。",
+      "tr": "Bugün çöpleri ayırmayı öğrendim, yeni gönüllülerle de tanıştım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_097",
+      "speaker": "张伟",
+      "zh": "回家路上我们慢一点，手套和袋子都放好了吗？",
+      "pinyin": "Huí jiā lù shàng wǒ men màn yì diǎn ， shǒu tào hé dài zi dōu fàng hǎo le ma ？",
+      "tr": "Eve dönerken yavaş yürüyelim; eldivenlerle poşetleri topladık mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_098",
+      "speaker": "刘梅",
+      "zh": "都收好了。我们把手里的东西带走，不留在社区里。",
+      "pinyin": "Dōu shōu hǎo le 。 wǒ men bǎ shǒu lǐ de dōng xī dài zǒu ， bù liú zài shè qū lǐ 。",
+      "tr": "Hepsini topladık. Eşyalarımızı götürelim, mahallede bir şey bırakmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_099",
+      "speaker": "社区工作人员",
+      "zh": "今天的清洁活动顺利结束了，谢谢你们为社区出力。",
+      "pinyin": "Jīn tiān de qīng jié huó dòng shùn lì jié shù le ， xiè xiè nǐ men wèi shè qū chū lì 。",
+      "tr": "Bugünkü temizlik etkinliği güzelce tamamlandı; mahalle için emek verdiğiniz için sağ olun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC034_100",
+      "speaker": "张乐乐",
+      "zh": "不客气！下次我们还一起打扫，让这里一直干净。",
+      "pinyin": "Bú kè qì ！ xià cì wǒ men hái yì qǐ dǎ sǎo ， ràng zhè lǐ yì zhí gān jìng 。",
+      "tr": "Rica ederiz! Bir dahaki sefere de birlikte temizleyelim, burası hep temiz kalsın."
+    }
+  ]
+}

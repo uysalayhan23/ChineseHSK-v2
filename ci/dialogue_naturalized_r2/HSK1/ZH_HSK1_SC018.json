@@ -1,0 +1,760 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK1_SC018",
+  "level": "HSK1",
+  "sourceTitleZh": "钱够不够？",
+  "sourceTitleTr": "Kasada Para Yetiyor mu?",
+  "sourceMiniAdventureTr": "Kasada ödeme sırasında Zhang bozuk para ve toplam tutarı kontrol eder.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK1_SC018_001",
+      "speaker": "张伟",
+      "zh": "到收银台了，我来付款。",
+      "pinyin": "Dào shōu yín tái le, wǒ lái fù kuǎn.",
+      "tr": "Kasaya geldik, ödemeyi ben yapayım.",
+      "emotion": "neutral",
+      "actionTr": "Kasada ödemeyi üstlenir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_002",
+      "speaker": "刘梅",
+      "zh": "好，我先把包打开。",
+      "pinyin": "Hǎo, wǒ xiān bǎ bāo dǎ kāi.",
+      "tr": "Tamam, ben önce çantayı açayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_003",
+      "speaker": "收银员",
+      "zh": "您好，请把东西放在这里。",
+      "pinyin": "Nín hǎo, qǐng bǎ dōng xi fàng zài zhè lǐ.",
+      "tr": "Merhaba, ürünleri buraya koyun lütfen."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_004",
+      "speaker": "张乐乐",
+      "zh": "爸爸，鸡蛋也放上去吗？",
+      "pinyin": "Bà ba, jī dàn yě fàng shàng qù ma?",
+      "tr": "Baba, yumurtaları da koyacak mıyız?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_005",
+      "speaker": "张伟",
+      "zh": "要放，你拿稳，我来接。",
+      "pinyin": "Yào fàng, nǐ ná wěn, wǒ lái jiē.",
+      "tr": "Evet, sen sağlam tut, ben alayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_006",
+      "speaker": "刘梅",
+      "zh": "面包放这边，别压在牛奶下面。",
+      "pinyin": "Miàn bāo fàng zhè biān, bié yā zài niú nǎi xià miàn.",
+      "tr": "Ekmeği bu tarafa koy, sütün altında ezilmesin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_007",
+      "speaker": "收银员",
+      "zh": "我先看这两瓶牛奶，再看苹果。",
+      "pinyin": "Wǒ xiān kàn zhè liǎng píng niú nǎi, zài kàn píng guǒ.",
+      "tr": "Önce bu iki şişe sütü, sonra elmaları geçireyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_008",
+      "speaker": "张乐乐",
+      "zh": "苹果有四个，姐姐的也在里面。",
+      "pinyin": "Píng guǒ yǒu sì gè, jiě jie de yě zài lǐ miàn.",
+      "tr": "Dört elma var, ablamınki de içinde.",
+      "emotion": "happy",
+      "actionTr": "Ablasının elmasını hatırlatır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_009",
+      "speaker": "张伟",
+      "zh": "你记得这么清楚，我就不用再数了。",
+      "pinyin": "Nǐ jì de zhè me qīng chǔ, wǒ jiù bù yòng zài shù le.",
+      "tr": "Böyle iyi hatırlıyorsan yeniden saymama gerek kalmadı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_010",
+      "speaker": "刘梅",
+      "zh": "他今天一直惦记着姐姐那一个。",
+      "pinyin": "Tā jīn tiān yì zhí diàn jì zhe jiě jie nà yí gè.",
+      "tr": "Bugün hep ablasının elmasını düşündü."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_011",
+      "speaker": "收银员",
+      "zh": "四个苹果我称一下，稍等。",
+      "pinyin": "Sì gè píng guǒ wǒ chēng yī xià, shāo děng.",
+      "tr": "Dört elmayı tartayım, biraz bekleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_012",
+      "speaker": "张乐乐",
+      "zh": "是一个一个称，还是一起称？",
+      "pinyin": "Shì yí gè yí gè chēng, hái shì yì qǐ chēng?",
+      "tr": "Tek tek mi tartılıyor, birlikte mi?",
+      "emotion": "curious",
+      "actionTr": "Elmaların nasıl tartılacağını sorar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_013",
+      "speaker": "张伟",
+      "zh": "一起称，看看有多重。",
+      "pinyin": "Yì qǐ chēng, kàn kàn yǒu duō zhòng.",
+      "tr": "Birlikte, ne kadar ağır olduklarına bakılıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_014",
+      "speaker": "刘梅",
+      "zh": "我们刚才问的是一斤多少钱。",
+      "pinyin": "Wǒ men gāng cái wèn de shì yī jīn duō shǎo qián.",
+      "tr": "Az önce yarım kilosunun fiyatını sormuştuk."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_015",
+      "speaker": "收银员",
+      "zh": "对，这袋一斤半，九元。",
+      "pinyin": "Duì, zhè dài yī jīn bàn, jiǔ yuán.",
+      "tr": "Evet, bu poşet yedi yüz elli gram, dokuz yuan."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_016",
+      "speaker": "张乐乐",
+      "zh": "我以为四个苹果就是四块钱呢。",
+      "pinyin": "Wǒ yǐ wéi sì gè píng guǒ jiù shì sì kuài qián ne.",
+      "tr": "Ben dört elmanın dört yuan olduğunu sanıyordum.",
+      "emotion": "curious",
+      "actionTr": "Adetle fiyatı karıştırdığını söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_017",
+      "speaker": "张伟",
+      "zh": "个数和重量不一样，不能这样算。",
+      "pinyin": "Gè shù hé zhòng liàng bù yí yàng, bù néng zhè yàng suàn.",
+      "tr": "Adetle ağırlık farklı, böyle hesaplanmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_018",
+      "speaker": "刘梅",
+      "zh": "等回家拿出来，你再看看大小。",
+      "pinyin": "Děng huí jiā ná chū lái, nǐ zài kàn kàn dà xiǎo.",
+      "tr": "Eve gidip çıkarınca büyüklüklerine yine bakarsın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_019",
+      "speaker": "收银员",
+      "zh": "这两个大，那两个小，一起算重量。",
+      "pinyin": "Zhè liǎng gè dà, nà liǎng gè xiǎo, yì qǐ suàn zhòng liàng.",
+      "tr": "Bu ikisi büyük, diğer ikisi küçük, ağırlıkları birlikte hesaplanıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_020",
+      "speaker": "张乐乐",
+      "zh": "嗯，大苹果也不会变成两个苹果。",
+      "pinyin": "Èn, dà píng guǒ yě bú huì biàn chéng liǎng gè píng guǒ.",
+      "tr": "Evet, büyük bir elma iki elmaya dönüşmez.",
+      "emotion": "playful",
+      "actionTr": "Büyük elmanın iki elmaya dönüşmeyeceğiyle şaka yapar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_021",
+      "speaker": "张伟",
+      "zh": "哈哈，你这么说也对。",
+      "pinyin": "Hā hā, nǐ zhè me shuō yě duì.",
+      "tr": "Haha, böyle söyleyince sen de haklısın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_022",
+      "speaker": "刘梅",
+      "zh": "苹果九元，牛奶是多少？",
+      "pinyin": "Píng guǒ jiǔ yuán, niú nǎi shì duō shǎo?",
+      "tr": "Elmalar dokuz yuan, süt ne kadar?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_023",
+      "speaker": "收银员",
+      "zh": "两瓶牛奶十八元，鸡蛋六元。",
+      "pinyin": "Liǎng píng niú nǎi shí bā yuán, jī dàn liù yuán.",
+      "tr": "İki şişe süt on sekiz, yumurtalar altı yuan."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_024",
+      "speaker": "张乐乐",
+      "zh": "那面包和我的黄包呢？",
+      "pinyin": "Nà miàn bāo hé wǒ de huáng bāo ne?",
+      "tr": "Peki ekmek ve benim sarı paketim?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_025",
+      "speaker": "张伟",
+      "zh": "黄包是零食，别让阿姨猜。",
+      "pinyin": "Huáng bāo shì líng shí, bié ràng ā yí cāi.",
+      "tr": "Sarı paket atıştırmalık, teyzeye tahmin ettirme."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_026",
+      "speaker": "刘梅",
+      "zh": "还好他现在只留了一包。",
+      "pinyin": "Hái hǎo tā xiàn zài zhǐ liú le yī bāo.",
+      "tr": "İyi ki artık yalnız bir paket bıraktı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_027",
+      "speaker": "收银员",
+      "zh": "面包八元，零食四元。",
+      "pinyin": "Miàn bāo bā yuán, líng shí sì yuán.",
+      "tr": "Ekmek sekiz, atıştırmalık dört yuan."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_028",
+      "speaker": "张乐乐",
+      "zh": "红包已经放回去了，不用算。",
+      "pinyin": "Hóng bāo yǐ jīng fàng huí qù le, bù yòng suàn.",
+      "tr": "Kırmızı paketi geri bıraktım, onu hesaplamayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_029",
+      "speaker": "张伟",
+      "zh": "对，车里没有了，我们也检查过。",
+      "pinyin": "Duì, chē lǐ méi yǒu le, wǒ men yě jiǎn chá guò.",
+      "tr": "Evet, arabada kalmadı, kontrol ettik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_030",
+      "speaker": "刘梅",
+      "zh": "我看看，总共是不是四十五？",
+      "pinyin": "Wǒ kàn kàn, zǒng gòng shì bú shì sì shí wǔ?",
+      "tr": "Bir bakayım, toplam kırk beş mi?",
+      "emotion": "neutral",
+      "actionTr": "Toplamı hesaplayıp doğrulatır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_031",
+      "speaker": "收银员",
+      "zh": "是的，一共四十五元。",
+      "pinyin": "Shì de, yī gòng sì shí wǔ yuán.",
+      "tr": "Evet, toplam kırk beş yuan."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_032",
+      "speaker": "张乐乐",
+      "zh": "妈妈算得比我快。",
+      "pinyin": "Mā ma suàn de bǐ wǒ kuài.",
+      "tr": "Annem benden hızlı hesapladı.",
+      "emotion": "happy",
+      "actionTr": "Annesinin hızlı hesabını fark eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_033",
+      "speaker": "张伟",
+      "zh": "你还小，先把四个苹果数清楚就好。",
+      "pinyin": "Nǐ hái xiǎo, xiān bǎ sì gè píng guǒ shù qīng chǔ jiù hǎo.",
+      "tr": "Sen daha küçüksün, önce dört elmayı doğru sayman yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_034",
+      "speaker": "刘梅",
+      "zh": "张伟，你准备怎么付？",
+      "pinyin": "Zhāng wěi, nǐ zhǔn bèi zěn me fù?",
+      "tr": "Zhang Wei, nasıl ödeyeceksin?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_035",
+      "speaker": "收银员",
+      "zh": "现金也可以，您慢慢拿。",
+      "pinyin": "Xiàn jīn yě kě yǐ, nín màn màn ná.",
+      "tr": "Nakit de olur, acele etmeden çıkarabilirsiniz.",
+      "emotion": "comforting",
+      "actionTr": "Müşterinin sakinlikle para çıkarmasını bekler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_036",
+      "speaker": "张乐乐",
+      "zh": "爸爸的钱都在那个小包里吗？",
+      "pinyin": "Bà ba de qián dōu zài nà ge xiǎo bāo lǐ ma?",
+      "tr": "Baba, bütün paran o küçük cüzdanda mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_037",
+      "speaker": "张伟",
+      "zh": "是，我看看有没有正好的钱。",
+      "pinyin": "Shì, wǒ kàn kàn yǒu méi yǒu zhèng hǎo de qián.",
+      "tr": "Evet, tam tutar var mı bir bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_038",
+      "speaker": "刘梅",
+      "zh": "不用急，先看清楚再拿。",
+      "pinyin": "Bù yòng jí, xiān kàn qīng chǔ zài ná.",
+      "tr": "Acele etme, önce dikkatlice bak, sonra çıkar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_039",
+      "speaker": "收银员",
+      "zh": "您有四十五元就不用找了。",
+      "pinyin": "Nín yǒu sì shí wǔ yuán jiù bù yòng zhǎo le.",
+      "tr": "Kırk beş yuanınız varsa para üstü gerekmeyecek."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_040",
+      "speaker": "张乐乐",
+      "zh": "我有一块，能帮爸爸吗？",
+      "pinyin": "Wǒ yǒu yī kuài, néng bāng bà ba ma?",
+      "tr": "Bende bir yuan var, babama yardım edebilir miyim?",
+      "emotion": "curious",
+      "actionTr": "Kendi bir yuanıyla yardım etmek ister."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_041",
+      "speaker": "张伟",
+      "zh": "你的钱先留着，爸爸够付。",
+      "pinyin": "Nǐ de qián xiān liú zhe, bà ba gòu fù.",
+      "tr": "Sen paranı sakla, babanın parası yeter.",
+      "emotion": "comforting",
+      "actionTr": "Oğlunun parasını saklamasını ister."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_042",
+      "speaker": "刘梅",
+      "zh": "那一块是你自己带的，别乱放。",
+      "pinyin": "Nà yī kuài shì nǐ zì jǐ dài de, bié luàn fàng.",
+      "tr": "O bir yuan senin yanında getirdiğin, gelişigüzel bırakma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_043",
+      "speaker": "收银员",
+      "zh": "小朋友想帮忙，已经很好了。",
+      "pinyin": "Xiǎo péng yǒu xiǎng bāng máng, yǐ jīng hěn hǎo le.",
+      "tr": "Yardım etmek istemen bile çok güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_044",
+      "speaker": "张乐乐",
+      "zh": "那我帮爸爸看，钱有没有掉。",
+      "pinyin": "Nà wǒ bāng bà ba kàn, qián yǒu méi yǒu diào.",
+      "tr": "O zaman babamın parasının düşüp düşmediğine bakarım.",
+      "emotion": "happy",
+      "actionTr": "Paranın düşmemesi için yardım rolü alır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_045",
+      "speaker": "张伟",
+      "zh": "好，你站在旁边看，不用到地上找。",
+      "pinyin": "Hǎo, nǐ zhàn zài páng biān kàn, bù yòng dào dì shàng zhǎo.",
+      "tr": "Tamam, yanda durup bak, yerde aramana gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_046",
+      "speaker": "刘梅",
+      "zh": "这张是五十，已经够了。",
+      "pinyin": "Zhè zhāng shì wǔ shí, yǐ jīng gòu le.",
+      "tr": "Bu banknot ellilik, zaten yeterli."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_047",
+      "speaker": "收银员",
+      "zh": "给我五十元，我找您五元。",
+      "pinyin": "Gěi wǒ wǔ shí yuán, wǒ zhǎo nín wǔ yuán.",
+      "tr": "Elli yuan verirseniz beş yuan para üstü veririm."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_048",
+      "speaker": "张乐乐",
+      "zh": "爸爸怎么还在拿小钱？",
+      "pinyin": "Bà ba zěn me hái zài ná xiǎo qián?",
+      "tr": "Baba neden hâlâ bozuk para çıkarıyor?",
+      "emotion": "curious",
+      "actionTr": "Babasının neden bozuk para aradığını sorar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_049",
+      "speaker": "张伟",
+      "zh": "我想找正好四十五的，不过小钱不够。",
+      "pinyin": "Wǒ xiǎng zhǎo zhèng hǎo sì shí wǔ de, bù guò xiǎo qián bù gòu.",
+      "tr": "Tam kırk beş vermek istedim, ama bozuk para yetmiyor.",
+      "emotion": "neutral",
+      "actionTr": "Tam tutarı bulamadığını açıklar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_050",
+      "speaker": "刘梅",
+      "zh": "那就用五十吧，小钱收好。",
+      "pinyin": "Nà jiù yòng wǔ shí ba, xiǎo qián shōu hǎo.",
+      "tr": "O zaman ellilik ver, bozuk parayı kaldır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_051",
+      "speaker": "收银员",
+      "zh": "可以，这几枚硬币您先放回去。",
+      "pinyin": "Kě yǐ, zhè jǐ méi yìng bì nín xiān fàng huí qù.",
+      "tr": "Olur, şu birkaç madeni parayı önce yerine koyun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_052",
+      "speaker": "张乐乐",
+      "zh": "一枚、两枚……爸爸别掉了。",
+      "pinyin": "Yī méi, liǎng méi…… bà ba bié diào le.",
+      "tr": "Bir, iki… baba, düşürme."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_053",
+      "speaker": "张伟",
+      "zh": "收好了，谢谢我的小帮手。",
+      "pinyin": "Shōu hǎo le, xiè xiè wǒ de xiǎo bāng shǒu.",
+      "tr": "Kaldırdım, küçük yardımcım, teşekkürler.",
+      "emotion": "happy",
+      "actionTr": "Oğluna küçük yardımcım diye teşekkür eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_054",
+      "speaker": "刘梅",
+      "zh": "五十元给您，请找五元。",
+      "pinyin": "Wǔ shí yuán gěi nín, qǐng zhǎo wǔ yuán.",
+      "tr": "Elli yuan burada, lütfen beş yuan para üstü verin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_055",
+      "speaker": "收银员",
+      "zh": "好的，钱收到了。",
+      "pinyin": "Hǎo de, qián shōu dào le.",
+      "tr": "Tamam, parayı aldım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_056",
+      "speaker": "张乐乐",
+      "zh": "现在黄包就是我的了吗？",
+      "pinyin": "Xiàn zài huáng bāo jiù shì wǒ de le ma?",
+      "tr": "Şimdi sarı paket benim oldu mu?",
+      "emotion": "curious",
+      "actionTr": "Sarı paketin artık kendisinin olup olmadığını sorar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_057",
+      "speaker": "张伟",
+      "zh": "付完款是我们买的，但现在还不打开。",
+      "pinyin": "Fù wán kuǎn shì wǒ men mǎi de, dàn xiàn zài hái bù dǎ kāi.",
+      "tr": "Ödeme bitince bizim aldığımız oluyor, ama şimdi açmıyoruz.",
+      "emotion": "neutral",
+      "actionTr": "Ödeme ve açma zamanını ayırır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_058",
+      "speaker": "刘梅",
+      "zh": "先回家，别一边走一边吃。",
+      "pinyin": "Xiān huí jiā, bié yī biān zǒu yī biān chī.",
+      "tr": "Önce eve gidelim, yürürken yemek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_059",
+      "speaker": "收银员",
+      "zh": "这是找您的五元，还有小票。",
+      "pinyin": "Zhè shì zhǎo nín de wǔ yuán, hái yǒu xiǎo piào.",
+      "tr": "Beş yuan para üstünüz ve fişiniz burada."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_060",
+      "speaker": "张乐乐",
+      "zh": "小票也要带回家吗？",
+      "pinyin": "Xiǎo piào yě yào dài huí jiā ma?",
+      "tr": "Fişi de eve götürecek miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_061",
+      "speaker": "张伟",
+      "zh": "要，我看看上面的钱对不对。",
+      "pinyin": "Yào, wǒ kàn kàn shàng miàn de qián duì bú duì.",
+      "tr": "Evet, üzerindeki tutarlar doğru mu bakayım.",
+      "emotion": "neutral",
+      "actionTr": "Fiş tutarlarını dikkatle kontrol eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_062",
+      "speaker": "刘梅",
+      "zh": "你看小票，我来装东西。",
+      "pinyin": "Nǐ kàn xiǎo piào, wǒ lái zhuāng dōng xi.",
+      "tr": "Sen fişe bak, ben ürünleri çantaya koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_063",
+      "speaker": "收银员",
+      "zh": "有问题您告诉我，我可以再查。",
+      "pinyin": "Yǒu wèn tí nín gào sù wǒ, wǒ kě yǐ zài chá.",
+      "tr": "Bir sorun varsa söyleyin, tekrar kontrol edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_064",
+      "speaker": "张乐乐",
+      "zh": "妈妈，我帮你把包撑开。",
+      "pinyin": "Mā ma, wǒ bāng nǐ bǎ bāo chēng kāi.",
+      "tr": "Anne, çantayı açık tutmana yardım edeyim.",
+      "emotion": "happy",
+      "actionTr": "Çantayı açmaya yardım eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_065",
+      "speaker": "张伟",
+      "zh": "谢谢，先别松手，我放牛奶。",
+      "pinyin": "Xiè xiè, xiān bié sōng shǒu, wǒ fàng niú nǎi.",
+      "tr": "Teşekkürler, ben sütü koyarken bırakma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_066",
+      "speaker": "刘梅",
+      "zh": "两瓶在下面，鸡蛋放上面。",
+      "pinyin": "Liǎng píng zài xià miàn, jī dàn fàng shàng miàn.",
+      "tr": "İki şişe altta, yumurtalar üstte olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_067",
+      "speaker": "收银员",
+      "zh": "面包轻，放上面就不会压坏。",
+      "pinyin": "Miàn bāo qīng, fàng shàng miàn jiù bú huì yā huài.",
+      "tr": "Ekmek hafif, üstte olursa ezilmez."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_068",
+      "speaker": "张乐乐",
+      "zh": "苹果呢？不能压在鸡蛋上吧？",
+      "pinyin": "Píng guǒ ne? bù néng yā zài jī dàn shàng ba?",
+      "tr": "Peki elmalar? Yumurtaların üstüne koymamalıyız, değil mi?",
+      "emotion": "curious",
+      "actionTr": "Elmaların yumurtaları ezmesini düşünür."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_069",
+      "speaker": "张伟",
+      "zh": "你说得对，苹果放在旁边。",
+      "pinyin": "Nǐ shuō de duì, píng guǒ fàng zài páng biān.",
+      "tr": "Doğru söylüyorsun, elmaları yana koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_070",
+      "speaker": "刘梅",
+      "zh": "这里还有点空，正好放苹果。",
+      "pinyin": "Zhè lǐ hái yǒu diǎn kōng, zhèng hǎo fàng píng guǒ.",
+      "tr": "Burada biraz boş yer var, elmaları koyabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_071",
+      "speaker": "收银员",
+      "zh": "这只包装得下，不用再买袋子。",
+      "pinyin": "Zhè zhǐ bāo zhuāng de xià, bù yòng zài mǎi dài zi.",
+      "tr": "Bu çantaya sığıyor, ayrıca poşet almanıza gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_072",
+      "speaker": "张乐乐",
+      "zh": "我的零食轻，可以放最上面。",
+      "pinyin": "Wǒ de líng shí qīng, kě yǐ fàng zuì shàng miàn.",
+      "tr": "Benim atıştırmalığım hafif, en üste konabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_073",
+      "speaker": "张伟",
+      "zh": "行，今天你也会帮着装东西了。",
+      "pinyin": "Xíng, jīn tiān nǐ yě huì bāng zhe zhuāng dōng xi le.",
+      "tr": "Olur, bugün ürünleri yerleştirmeye de yardım etmeyi öğrendin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_074",
+      "speaker": "刘梅",
+      "zh": "装好了，不过包比刚才重多了。",
+      "pinyin": "Zhuāng hǎo le, bù guò bāo bǐ gāng cái zhòng duō le.",
+      "tr": "Yerleştirdik, ama çanta az öncekinden çok ağır oldu.",
+      "emotion": "neutral",
+      "actionTr": "Çantanın ağırlaştığını fark eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_075",
+      "speaker": "收银员",
+      "zh": "牛奶和苹果都挺重，提的时候小心。",
+      "pinyin": "Niú nǎi hé píng guǒ dōu tǐng zhòng, tí de shí hòu xiǎo xīn.",
+      "tr": "Süt ve elmalar epey ağır, kaldırırken dikkat edin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_076",
+      "speaker": "张乐乐",
+      "zh": "爸爸提，我拉妈妈的手。",
+      "pinyin": "Bà ba tí, wǒ lā mā ma de shǒu.",
+      "tr": "Baba taşısın, ben annemin elini tutayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_077",
+      "speaker": "张伟",
+      "zh": "好，重的我来，你不要抢着提。",
+      "pinyin": "Hǎo, zhòng de wǒ lái, nǐ bú yào qiǎng zhe tí.",
+      "tr": "Tamam, ağır olanı ben taşırım, almak için yarışma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_078",
+      "speaker": "刘梅",
+      "zh": "小票看完了吗，有没有少算？",
+      "pinyin": "Xiǎo piào kàn wán le ma, yǒu méi yǒu shǎo suàn?",
+      "tr": "Fişe baktın mı, eksik hesaplanan var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_079",
+      "speaker": "收银员",
+      "zh": "九、十八、六、八、四，正好四十五。",
+      "pinyin": "Jiǔ, shí bā, liù, bā, sì, zhèng hǎo sì shí wǔ.",
+      "tr": "Dokuz, on sekiz, altı, sekiz ve dört, tam kırk beş."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_080",
+      "speaker": "张乐乐",
+      "zh": "没有把那包红的算进去吧？",
+      "pinyin": "Méi yǒu bǎ nà bāo hóng de suàn jìn qù ba?",
+      "tr": "Kırmızı paketi hesaba katmadınız, değil mi?",
+      "emotion": "curious",
+      "actionTr": "Geri bırakılan paketin hesaba katılmadığını doğrulatır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_081",
+      "speaker": "张伟",
+      "zh": "没有，只有你留下的黄色那包。",
+      "pinyin": "Méi yǒu, zhǐ yǒu nǐ liú xià de huáng sè nà bāo.",
+      "tr": "Hayır, yalnız seçtiğin sarı paket var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_082",
+      "speaker": "刘梅",
+      "zh": "找回来的五元，也一起收好。",
+      "pinyin": "Zhǎo huí lái de wǔ yuán, yě yì qǐ shōu hǎo.",
+      "tr": "Geri aldığımız beş yuanı da kaldır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_083",
+      "speaker": "收银员",
+      "zh": "小票和找零都给您了，没问题就好。",
+      "pinyin": "Xiǎo piào hé zhǎo líng dōu gěi nín le, méi wèn tí jiù hǎo.",
+      "tr": "Fiş ve para üstünü verdim, sorun olmamasına sevindim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_084",
+      "speaker": "张乐乐",
+      "zh": "五十减四十五，就是五，对吗？",
+      "pinyin": "Wǔ shí jiǎn sì shí wǔ, jiù shì wǔ, duì ma?",
+      "tr": "Elliden kırk beş çıkınca beş kalır, doğru mu?",
+      "emotion": "curious",
+      "actionTr": "Para üstünü çıkarma işlemiyle doğrular."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_085",
+      "speaker": "张伟",
+      "zh": "对，你刚才听得很认真。",
+      "pinyin": "Duì, nǐ gāng cái tīng de hěn rèn zhēn.",
+      "tr": "Doğru, az önce çok dikkatli dinledin.",
+      "emotion": "happy",
+      "actionTr": "Oğlunun dikkatini över."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_086",
+      "speaker": "刘梅",
+      "zh": "这回爸爸没有少拿，也没有多拿。",
+      "pinyin": "Zhè huí bà ba méi yǒu shǎo ná, yě méi yǒu duō ná.",
+      "tr": "Bu kez baban ne eksik ne de fazla aldı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_087",
+      "speaker": "收银员",
+      "zh": "付款以后看一下，是个好习惯。",
+      "pinyin": "Fù kuǎn yǐ hòu kàn yī xià, shì gè hǎo xí guàn.",
+      "tr": "Ödemeden sonra kontrol etmek iyi bir alışkanlık."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_088",
+      "speaker": "张乐乐",
+      "zh": "我以后买东西，也要看看。",
+      "pinyin": "Wǒ yǐ hòu mǎi dōng xi, yě yào kàn kàn.",
+      "tr": "İleride alışveriş yaptığımda ben de kontrol edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_089",
+      "speaker": "张伟",
+      "zh": "先学会看，再学会自己买。",
+      "pinyin": "Xiān xué huì kàn, zài xué huì zì jǐ mǎi.",
+      "tr": "Önce kontrol etmeyi öğren, sonra kendin alışveriş yapmayı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_090",
+      "speaker": "刘梅",
+      "zh": "你的一元还在口袋里吧？",
+      "pinyin": "Nǐ de yī yuán hái zài kǒu dai lǐ ba?",
+      "tr": "Bir yuanın hâlâ cebinde mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_091",
+      "speaker": "收银员",
+      "zh": "自己的钱也记得收好。",
+      "pinyin": "Zì jǐ de qián yě jì de shōu hǎo.",
+      "tr": "Kendi paranı da kaldırmayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_092",
+      "speaker": "张乐乐",
+      "zh": "在，我没有拿出来。",
+      "pinyin": "Zài, wǒ méi yǒu ná chū lái.",
+      "tr": "Burada, çıkarmadım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_093",
+      "speaker": "张伟",
+      "zh": "那就好，购物车留在哪里？",
+      "pinyin": "Nà jiù hǎo, gòu wù chē liú zài nǎ lǐ?",
+      "tr": "Güzel, alışveriş arabasını nerede bırakalım?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_094",
+      "speaker": "刘梅",
+      "zh": "我们把包拿好，你指给我们看吧。",
+      "pinyin": "Wǒ men bǎ bāo ná hǎo, nǐ zhǐ gěi wǒ men kàn ba.",
+      "tr": "Çantayı alalım, bize yerini gösterir misiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_095",
+      "speaker": "收银员",
+      "zh": "出口旁边有放车的地方，推过去就行。",
+      "pinyin": "Chū kǒu páng biān yǒu fàng chē de dì fāng, tuī guò qù jiù xíng.",
+      "tr": "Çıkışın yanında arabaların yeri var, oraya sürün yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_096",
+      "speaker": "张乐乐",
+      "zh": "我和爸爸一起推过去，不跑。",
+      "pinyin": "Wǒ hé bà ba yì qǐ tuī guò qù, bù pǎo.",
+      "tr": "Babamla birlikte oraya sürerim, koşmam."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_097",
+      "speaker": "张伟",
+      "zh": "谢谢您，第一次来这家超市，您很耐心。",
+      "pinyin": "Xiè xiè nín, dì yī cì lái zhè jiā chāo shì, nín hěn nài xīn.",
+      "tr": "Teşekkürler, bu süpermarkete ilk gelişimiz, çok sabırlıydınız.",
+      "emotion": "happy",
+      "actionTr": "Kasiyerin sabrına teşekkür eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_098",
+      "speaker": "刘梅",
+      "zh": "东西买齐了，明早可以好好吃早饭了。",
+      "pinyin": "Dōng xi mǎi qí le, míng zǎo kě yǐ hǎo hǎo chī zǎo fàn le.",
+      "tr": "Her şey alındı, yarın sabah güzelce kahvaltı yapabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_099",
+      "speaker": "收银员",
+      "zh": "不客气，欢迎下次再来。",
+      "pinyin": "Bú kè qì, huān yíng xià cì zài lái.",
+      "tr": "Rica ederim, yine bekleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC018_100",
+      "speaker": "张乐乐",
+      "zh": "阿姨再见，我回家告诉姐姐苹果买好了！",
+      "pinyin": "Ā yí zài jiàn, wǒ huí jiā gào sù jiě jie píng guǒ mǎi hǎo le!",
+      "tr": "Hoşça kal teyze, eve gidip ablama elmaların alındığını söyleyeceğim!",
+      "emotion": "happy",
+      "actionTr": "Elma haberini ablasına vermek için heyecanlanır."
+    }
+  ]
+}

@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC041",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC041.json",
-  "dialogueSha256": "2f4802e9cc7df787661e1c3e5e10a4a28f8b8eb1b1af324baed24c4aa5f5bfad",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC041.json",
+  "dialogueSha256": "d884c8eb77a9b7cace3d520a5830d478a25d9630fd54af86329e81fca7162c29",
   "titleTr": "Büyükbaba İlk Uzun Ziyarette",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Zhang’ın babası uzun süreli ziyarete gelir ve şehir hayatını çiftlikle karşılaştırır.",
@@ -68,5 +68,18 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi.",
+  "dialogueTextQA": {
+    "status": "PASS",
+    "turns": 100,
+    "coherenceScore": 98.0,
+    "activeVocabularyCoverage": 1.0,
+    "topicWindowCoverage": 1.0,
+    "duplicateUtterances": 0,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
+  },
+  "allDialogueSpeakersVisible": true,
+  "mouthAnchorReviewStatus": "PASS",
+  "mouthAnchorImageSha256": "c9c985dadd107cf179fddda8271a720f2ae459964337914a76929157d33ba4b4"
 }

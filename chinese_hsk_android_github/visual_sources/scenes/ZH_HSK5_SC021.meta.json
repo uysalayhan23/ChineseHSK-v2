@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC021.json",
-  "dialogueSha256": "b777badb310dcd927fdf7ffb59bff1cf59d494d62d7fc31fdd80fbb26b8ab208",
+  "dialogueSha256": "2df0736466ce9075c3d3206b0b91606b9315e44f91489fa38f2948d386ba2bfe",
   "titleZh": "雨桐带伴侣回家",
   "titleTr": "Yutong’un Ciddi İlişkisi",
   "locationId": "LOC_ZH_NEW_HOME_001",

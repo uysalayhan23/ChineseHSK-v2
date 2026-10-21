@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK4_SC014",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC014.json",
-  "dialogueSha256": "328867096d49f5e59ebd6a0fe47d8009fd3e185f82a590a7b04e728399fda9b3",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC014.json",
+  "dialogueSha256": "e4902b1f171d1c23bf6bb7224688958266b6f97ae50c3252b9f9606c2f01b336",
   "titleTr": "Kafede İnternet Yorumu",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Ekip çevrimiçi bir müşteri yorumunu değerlendirir ve itibar yönetimini konuşur.",
@@ -42,7 +42,7 @@
     "previousSceneId": "ZH_HSK4_SC013",
     "nextSceneId": "ZH_HSK4_SC015"
   },
-  "sourceGeneratedFilename": "kafede_yorumları_değerlendirmek.png",
+  "sourceGeneratedFilename": "ZH_HSK4_SC014_customer_facing_candidate.png",
   "finalAssetFilename": "ZH_HSK4_SC014.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK4_SC014.webp",
   "image": {
@@ -50,9 +50,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "09c2069ce67126274d27c35078e51aa126fb8c3a953f9bc65ea56716e3050edc",
-    "bytes": 1540790,
-    "gitBlobSha": "9614369e3be5e4826ef61a9697a262eb171f8186"
+    "sha256": "a3cadd64dba682c354160908e8d693c268cf8ef11514cb482fc65283ea5bb091",
+    "bytes": 1599354,
+    "gitBlobSha": "628f305b2425f467f5f1aba2d33f347322a9438d"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -74,7 +74,7 @@
   "qaStatus": "PASS",
   "status": "COMPLETE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-10-16 SC014 yalnız tablet ekran içi hedefli onarım: yıldız puan/yorum/metin benzeri uygulama UI kaldırıldı; kahve fotoğrafı konuldu. Diğer sahne pikselleri birebir korundu. Genel SSIM %98,5798 >= kullanıcı kabul eşiği %95; 0 maske dışı piksel farkı; app/runtime aynı kayıpsız WebP Git blob'u. QA PASS, Actions çalıştırılmadı.",
+  "qaNoteTr": "2026-10-16 SC014 yalnız tablet ekran içi hedefli onarım: yıldız puan/yorum/metin benzeri uygulama UI kaldırıldı; kahve fotoğrafı konuldu. Diğer sahne pikselleri birebir korundu. Genel SSIM %98,5798 >= kullanıcı kabul eşiği %95; 0 maske dışı piksel farkı; app/runtime aynı kayıpsız WebP Git blob'u. QA PASS, Actions çalıştırılmadı. 2026-10-21: Diyalogdaki tüm konuşmacıların yüzü ve ağzı görsel QA ile netleştirildi; canonical yüzler, sıcak CGI görünümü, sahne kompozisyonu ve 941x1672 formatı doğrulandı. App/runtime SHA-256 eşleşiyor.",
   "postGenerationVisualQA": {
     "status": "PASS",
     "inspectedAfterGeneration": true,
@@ -102,5 +102,15 @@
     "maskOutsideChangedPixels": 0,
     "originalScenePreserved": true,
     "actionsRun": false
+  },
+  "dialogueSpeakerMouthQA": {
+    "status": "PASS",
+    "allDialogueSpeakersVisible": true,
+    "mouthsVisuallyIdentifiable": true,
+    "canonicalFamilyCharactersPreserved": true,
+    "warmCinematic25D3DCGI": true,
+    "vertical941x1672": true,
+    "noEmbeddedBubblesOrUI": true,
+    "sourceSha256": "a3cadd64dba682c354160908e8d693c268cf8ef11514cb482fc65283ea5bb091"
   }
 }

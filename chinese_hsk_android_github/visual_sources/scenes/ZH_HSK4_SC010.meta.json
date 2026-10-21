@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC010.json",
-  "dialogueSha256": "463d75f386bc368333c7c21ea001311d475876073a6227ffa7e47d73c594b4f9",
+  "dialogueSha256": "1d49fc1ee133f9c88a2401f0a7cfea3492662b519b5dc4c118fdb56bff6cb071",
   "titleTr": "Lele Ergenlik Çağında",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Lele telefon süresinin artırılmasını ister; aile kurallar üzerinde pazarlık yapar.",

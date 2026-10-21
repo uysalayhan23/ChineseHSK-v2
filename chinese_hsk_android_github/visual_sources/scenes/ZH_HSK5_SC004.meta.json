@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC004.json",
-  "dialogueSha256": "265adec73dd843139283e855c6c1e7aae21cf4e91377e4cbea571d8f0e0b5303",
+  "dialogueSha256": "056aa93ff7763e7b2c2ffddac98042eebb528299cab77ffb3ec7280f17e5b8d0",
   "titleZh": "咖啡馆有了经理",
   "titleTr": "Kafeye Yeni Müdür",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

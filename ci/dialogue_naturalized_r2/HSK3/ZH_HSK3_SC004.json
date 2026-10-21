@@ -1,0 +1,708 @@
+{
+  "sceneId": "ZH_HSK3_SC004",
+  "level": "HSK3",
+  "naturalizationVersion": 47,
+  "status": "FINAL_REVIEWED_V47",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK3_SC004_001",
+      "speaker": "张雨桐",
+      "zh": "这次学校旅行去哪儿？我们要在学校待多久？",
+      "pinyin": "zhè cì xué xiào lǚ xíng qù nǎ ér ？ wǒ men yào zài xué xiào dài duō jiǔ ？",
+      "tr": "Bu okul gezisinde nereye gideceğiz? Okulda ne kadar kalacağız?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_002",
+      "speaker": "老师",
+      "zh": "这次去自然历史博物馆，上午出发，下午回学校。",
+      "pinyin": "zhè cì qù zì rán lì shǐ bó wù guǎn ， shàng wǔ chū fā ， xià wǔ huí xué xiào 。",
+      "tr": "Doğa tarihi müzesine gideceğiz; sabah yola çıkıp öğleden sonra okula döneceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_003",
+      "speaker": "刘梅",
+      "zh": "听起来不错。老师，家长同意书什么时候交？",
+      "pinyin": "tīng qǐ lái bù cuò 。 lǎo shī ， jiā zhǎng tóng yì shū shén me shí hòu jiāo ？",
+      "tr": "Kulağa güzel geliyor. Öğretmenim, veli izin belgesini ne zaman vermeliyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_004",
+      "speaker": "张伟",
+      "zh": "周五以前交给我就可以，别忘了签名。",
+      "pinyin": "zhōu wǔ yǐ qián jiāo gěi wǒ jiù kě yǐ ， bié wàng le qiān míng 。",
+      "tr": "Cuma gününden önce bana vermen yeterli; imzayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_005",
+      "speaker": "张雨桐",
+      "zh": "我今天就把同意书带回家。妈妈，你能帮我看看吗？",
+      "pinyin": "wǒ jīn tiān jiù bǎ tóng yì shū dài huí jiā 。 mā mā ， nǐ néng bāng wǒ kàn kàn ma ？",
+      "tr": "İzin belgesini bugün eve götüreyim. Anne, kontrol etmeme yardım eder misin?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_006",
+      "speaker": "老师",
+      "zh": "当然。先确认旅行日期，然后再填学生和家长的名字。",
+      "pinyin": "dāng rán 。 xiān què rèn lǚ xíng rì qī ， rán hòu zài tián xué shēng hé jiā zhǎng de míng zì 。",
+      "tr": "Elbette. Önce gezi tarihini, sonra öğrenci ve veli adlarını kontrol edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_007",
+      "speaker": "刘梅",
+      "zh": "我看过了，日期是下周二，家长电话也要写上。",
+      "pinyin": "wǒ kàn guò le ， rì qī shì xià zhōu èr ， jiā zhǎng diàn huà yě yào xiě shàng 。",
+      "tr": "Baktım; tarih gelecek salı. Veli telefonunu da yazmak gerekiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_008",
+      "speaker": "张伟",
+      "zh": "谢谢你们。我填完以后再检查一遍。",
+      "pinyin": "xiè xiè nǐ men 。 wǒ tián wán yǐ hòu zài jiǎn chá yī biàn 。",
+      "tr": "Teşekkürler. Doldurduktan sonra bir kez daha kontrol edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_009",
+      "speaker": "张雨桐",
+      "zh": "除了同意书，还需要准备什么？",
+      "pinyin": "chú le tóng yì shū ， hái xū yào zhǔn bèi shén me ？",
+      "tr": "İzin belgesinin dışında ne hazırlamalıyız?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_010",
+      "speaker": "老师",
+      "zh": "请带学生证、水和一支笔，其他东西不用带太多。",
+      "pinyin": "qǐng dài xué shēng zhèng 、 shuǐ hé yī zhī bǐ ， qí tā dōng xī bù yòng dài tài duō 。",
+      "tr": "Öğrenci kartını, suyu ve bir kalem getir. Başka fazla eşya getirmeye gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_011",
+      "speaker": "刘梅",
+      "zh": "那午饭怎么办？孩子需要自己带吗？",
+      "pinyin": "nà wǔ fàn zěn me bàn ？ hái zi xū yào zì jǐ dài ma ？",
+      "tr": "Peki öğle yemeği ne olacak? Kendisi mi getirmeli?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_012",
+      "speaker": "张伟",
+      "zh": "学校会准备午餐，有过敏情况的同学要先告诉我。",
+      "pinyin": "xué xiào huì zhǔn bèi wǔ cān ， yǒu guò mǐn qíng kuàng de tóng xué yào xiān gào sù wǒ 。",
+      "tr": "Okul öğle yemeğini hazırlayacak. Alerjisi olan öğrenciler önceden bana haber vermeli."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_013",
+      "speaker": "张雨桐",
+      "zh": "我对花生过敏，需要写在表格上吗？",
+      "pinyin": "wǒ duì huā shēng guò mǐn ， xū yào xiě zài biǎo gé shàng ma ？",
+      "tr": "Yer fıstığına alerjim var. Bunu forma yazmalı mıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_014",
+      "speaker": "老师",
+      "zh": "需要，请在同意书背面注明，我会提前联系食堂。",
+      "pinyin": "xū yào ， qǐng zài tóng yì shū bèi miàn zhù míng ， wǒ huì tí qián lián xì shí táng 。",
+      "tr": "Evet, lütfen izin belgesinin arkasına yaz; yemekhaneyle önceden konuşurum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_015",
+      "speaker": "刘梅",
+      "zh": "我也会给老师发一条消息，再确认一次。",
+      "pinyin": "wǒ yě huì gěi lǎo shī fā yī tiáo xiāo xī ， zài què rèn yī cì 。",
+      "tr": "Ben de öğretmene mesaj atıp bir kez daha teyit ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_016",
+      "speaker": "张伟",
+      "zh": "好，这样我就放心了。",
+      "pinyin": "hǎo ， zhè yàng wǒ jiù fàng xīn le 。",
+      "tr": "Tamam, böylece içim rahat eder."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_017",
+      "speaker": "张雨桐",
+      "zh": "我们几点在学校集合？",
+      "pinyin": "wǒ men jǐ diǎn zài xué xiào jí hé ？",
+      "tr": "Okulda saat kaçta buluşacağız?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_018",
+      "speaker": "老师",
+      "zh": "早上七点半在校门口集合，八点准时上车。",
+      "pinyin": "zǎo shàng qī diǎn bàn zài xiào mén kǒu jí hé ， bā diǎn zhǔn shí shàng chē 。",
+      "tr": "Sabah yedi buçukta okul kapısında buluşup tam sekizde otobüse bineceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_019",
+      "speaker": "刘梅",
+      "zh": "路上要坐很久吗？我想给她准备一点水。",
+      "pinyin": "lù shàng yào zuò hěn jiǔ ma ？ wǒ xiǎng gěi tā zhǔn bèi yì diǎn shuǐ 。",
+      "tr": "Yol ne kadar sürecek? Ona biraz su hazırlamak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_020",
+      "speaker": "张伟",
+      "zh": "大约四十分钟。水可以带，但不要带玻璃瓶。",
+      "pinyin": "dà yuē sì shí fēn zhōng 。 shuǐ kě yǐ dài ， dàn bú yào dài bō lí píng 。",
+      "tr": "Yaklaşık kırk dakika. Su getirebilir ama cam şişe getirmesin."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_021",
+      "speaker": "张雨桐",
+      "zh": "我可以带相机吗？想拍博物馆里的恐龙。",
+      "pinyin": "wǒ kě yǐ dài xiàng jī ma ？ xiǎng pāi bó wù guǎn lǐ de kǒng lóng 。",
+      "tr": "Fotoğraf makinesi getirebilir miyim? Müzede dinozorları çekmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_022",
+      "speaker": "老师",
+      "zh": "可以带小相机，不过参观时要听工作人员的安排。",
+      "pinyin": "kě yǐ dài xiǎo xiàng jī ， bù guò cān guān shí yào tīng gōng zuò rén yuán de ān pái 。",
+      "tr": "Küçük bir fotoğraf makinesi getirebilirsin ama gezerken görevlilerin yönlendirmelerine uy."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_023",
+      "speaker": "刘梅",
+      "zh": "如果有些展品不能拍照，老师会提醒大家吧？",
+      "pinyin": "rú guǒ yǒu xiē zhǎn pǐn bù néng pāi zhào ， lǎo shī huì tí xǐng dà jiā ba ？",
+      "tr": "Bazı eserlerin fotoğrafı çekilemiyorsa öğretmen herkesi uyarır, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_024",
+      "speaker": "张伟",
+      "zh": "会的。不能拍照的地方会有标志，我也会先说明。",
+      "pinyin": "huì de 。 bù néng pāi zhào de dì fāng huì yǒu biāo zhì ， wǒ yě huì xiān shuō míng 。",
+      "tr": "Evet. Fotoğraf çekmenin yasak olduğu yerlerde işaret olur; ben de önceden açıklarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_025",
+      "speaker": "张雨桐",
+      "zh": "我想和同学坐在一起，可以吗？",
+      "pinyin": "wǒ xiǎng hé tóng xué zuò zài yì qǐ ， kě yǐ ma ？",
+      "tr": "Arkadaşımla yan yana oturabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_026",
+      "speaker": "老师",
+      "zh": "可以。上车以后先找到自己的座位，然后系好安全带。",
+      "pinyin": "kě yǐ 。 shàng chē yǐ hòu xiān zhǎo dào zì jǐ de zuò wèi ， rán hòu jì hǎo ān quán dài 。",
+      "tr": "Olur. Otobüse binince önce yerini bul, sonra emniyet kemerini tak."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_027",
+      "speaker": "刘梅",
+      "zh": "我会提醒她不要在车上走来走去。",
+      "pinyin": "wǒ huì tí xǐng tā bú yào zài chē shàng zǒu lái zǒu qù 。",
+      "tr": "Otobüste dolaşmaması gerektiğini hatırlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_028",
+      "speaker": "张伟",
+      "zh": "谢谢。车开着的时候，大家都要坐好。",
+      "pinyin": "xiè xiè 。 chē kāi zhe de shí hòu ， dà jiā dōu yào zuò hǎo 。",
+      "tr": "Teşekkürler. Otobüs hareket ederken herkes oturmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_029",
+      "speaker": "张雨桐",
+      "zh": "如果我在博物馆里找不到小组怎么办？",
+      "pinyin": "rú guǒ wǒ zài bó wù guǎn lǐ zhǎo bú dào xiǎo zǔ zěn me bàn ？",
+      "tr": "Müzede grubumu bulamazsam ne yapmalıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_030",
+      "speaker": "老师",
+      "zh": "先留在原地，再找穿蓝色衣服的老师帮忙。",
+      "pinyin": "xiān liú zài yuán dì ， zài zhǎo chuān lán sè yī fú de lǎo shī bāng máng 。",
+      "tr": "Önce olduğun yerde kal, sonra mavi giyen öğretmenden yardım iste."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_031",
+      "speaker": "刘梅",
+      "zh": "我把老师的电话号码也写在她的卡片上。",
+      "pinyin": "wǒ bǎ lǎo shī de diàn huà hào mǎ yě xiě zài tā de kǎ piàn shàng 。",
+      "tr": "Öğretmenin telefon numarasını da kartına yazacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_032",
+      "speaker": "张伟",
+      "zh": "好主意。请她把卡片放在容易找到的地方。",
+      "pinyin": "hǎo zhǔ yì 。 qǐng tā bǎ kǎ piàn fàng zài róng yì zhǎo dào de dì fāng 。",
+      "tr": "Güzel fikir. Kartı kolayca bulabileceği bir yere koymasını söyle."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_033",
+      "speaker": "张雨桐",
+      "zh": "我们要分成几个小组？",
+      "pinyin": "wǒ men yào fēn chéng jǐ gè xiǎo zǔ ？",
+      "tr": "Kaç gruba ayrılacağız?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_034",
+      "speaker": "老师",
+      "zh": "每组五个人，我会把名单发给大家。",
+      "pinyin": "měi zǔ wǔ gè rén ， wǒ huì bǎ míng dān fā gěi dà jiā 。",
+      "tr": "Her grupta beş kişi olacak; listeyi herkese göndereceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_035",
+      "speaker": "刘梅",
+      "zh": "雨桐和谁一组？她认识的同学也去吗？",
+      "pinyin": "yǔ tóng hé shuí yī zǔ ？ tā rèn shí de tóng xué yě qù ma ？",
+      "tr": "Yutong hangi grupta? Tanıdığı arkadaşları da geliyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_036",
+      "speaker": "张伟",
+      "zh": "她和两位同学一组，我会让他们一起行动。",
+      "pinyin": "tā hé liǎng wèi tóng xué yī zǔ ， wǒ huì ràng tā men yì qǐ xíng dòng 。",
+      "tr": "İki arkadaşıyla aynı grupta olacak. Birlikte hareket etmelerini sağlayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_037",
+      "speaker": "张雨桐",
+      "zh": "我们什么时候吃午饭？",
+      "pinyin": "wǒ men shén me shí hòu chī wǔ fàn ？",
+      "tr": "Öğle yemeğini ne zaman yiyeceğiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_038",
+      "speaker": "老师",
+      "zh": "参观结束后大约十二点，在博物馆的休息区吃。",
+      "pinyin": "cān guān jié shù hòu dà yuē shí èr diǎn ， zài bó wù guǎn de xiū xī qū chī 。",
+      "tr": "Gezi bittikten sonra, yaklaşık saat on ikide müzenin dinlenme alanında yiyeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_039",
+      "speaker": "刘梅",
+      "zh": "需要自己带餐具吗？",
+      "pinyin": "xū yào zì jǐ dài cān jù ma ？",
+      "tr": "Kendi çatal kaşığımızı getirmemiz gerekiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_040",
+      "speaker": "张伟",
+      "zh": "不用，学校会准备。吃完以后把垃圾放进垃圾桶就好。",
+      "pinyin": "bù yòng ， xué xiào huì zhǔn bèi 。 chī wán yǐ hòu bǎ lā jī fàng jìn lā jī tǒng jiù hǎo 。",
+      "tr": "Gerek yok, okul hazırlayacak. Yemekten sonra çöpleri çöp kutusuna atın yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_041",
+      "speaker": "张雨桐",
+      "zh": "如果我觉得不舒服，可以先告诉同学吗？",
+      "pinyin": "rú guǒ wǒ jué de bù shū fú ， kě yǐ xiān gào sù tóng xué ma ？",
+      "tr": "Kendimi iyi hissetmezsem önce arkadaşıma söyleyebilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_042",
+      "speaker": "老师",
+      "zh": "请马上告诉组长或老师，不要一个人离开。",
+      "pinyin": "qǐng mǎ shàng gào sù zǔ zhǎng huò lǎo shī ， bú yào yí gè rén lí kāi 。",
+      "tr": "Hemen grup liderine ya da öğretmene söyle; tek başına ayrılma."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_043",
+      "speaker": "刘梅",
+      "zh": "我会把常用药放进她的包里，并写上怎么使用。",
+      "pinyin": "wǒ huì bǎ cháng yòng yào fàng jìn tā de bāo lǐ ， bìng xiě shàng zěn me shǐ yòng 。",
+      "tr": "Çantasına kullandığı ilacı koyup nasıl kullanıldığını da yazacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_044",
+      "speaker": "张伟",
+      "zh": "请把药交给我保管，我会按说明帮助她。",
+      "pinyin": "qǐng bǎ yào jiāo gěi wǒ bǎo guǎn ， wǒ huì àn shuō míng bāng zhù tā 。",
+      "tr": "İlacı saklamam için bana ver; talimatına göre yardımcı olurum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_045",
+      "speaker": "张雨桐",
+      "zh": "我的包里应该放几瓶水？",
+      "pinyin": "wǒ de bāo lǐ yīng gāi fàng jǐ píng shuǐ ？",
+      "tr": "Çantama kaç şişe su koymalıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_046",
+      "speaker": "老师",
+      "zh": "一瓶就够了，太重的话走路会不方便。",
+      "pinyin": "yī píng jiù gòu le ， tài zhòng de huà zǒu lù huì bù fāng biàn 。",
+      "tr": "Bir şişe yeter. Çok ağır olursa yürümek zorlaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_047",
+      "speaker": "刘梅",
+      "zh": "我再放一件薄外套，博物馆里面可能比较冷。",
+      "pinyin": "wǒ zài fàng yī jiàn báo wài tào ， bó wù guǎn lǐ miàn kě néng bǐ jiào lěng 。",
+      "tr": "Bir de ince bir ceket koyayım; müzenin içi serin olabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_048",
+      "speaker": "张伟",
+      "zh": "可以，但请把包收拾好，别带不需要的东西。",
+      "pinyin": "kě yǐ ， dàn qǐng bǎ bāo shōu shí hǎo ， bié dài bù xū yào de dōng xī 。",
+      "tr": "Olur ama çantanı düzenle ve gereksiz şeyleri alma."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_049",
+      "speaker": "张雨桐",
+      "zh": "参观的时候可以自己买纪念品吗？",
+      "pinyin": "cān guān de shí hòu kě yǐ zì jǐ mǎi jì niàn pǐn ma ？",
+      "tr": "Gezide kendi başıma hatıra eşyası alabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_050",
+      "speaker": "老师",
+      "zh": "先跟小组一起参观，结束后再看有没有时间购买。",
+      "pinyin": "xiān gēn xiǎo zǔ yì qǐ cān guān ， jié shù hòu zài kàn yǒu méi yǒu shí jiān gòu mǎi 。",
+      "tr": "Önce grubunla gez; zaman kalırsa sonra alışverişe bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_051",
+      "speaker": "刘梅",
+      "zh": "如果要买东西，我会给她一些零钱。",
+      "pinyin": "rú guǒ yào mǎi dōng xī ， wǒ huì gěi tā yī xiē líng qián 。",
+      "tr": "Bir şey almak isterse ona biraz harçlık veririm."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_052",
+      "speaker": "张伟",
+      "zh": "请先告诉我，我们会安排几分钟在商店停留。",
+      "pinyin": "qǐng xiān gào sù wǒ ， wǒ men huì ān pái jǐ fēn zhōng zài shāng diàn tíng liú 。",
+      "tr": "Önce bana haber versin; mağazada durmak için birkaç dakika ayırırız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_053",
+      "speaker": "张雨桐",
+      "zh": "我能不能和老师一起拍一张集体照？",
+      "pinyin": "wǒ néng bù néng hé lǎo shī yì qǐ pāi yī zhāng jí tǐ zhào ？",
+      "tr": "Öğretmenle birlikte toplu fotoğraf çektirebilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_054",
+      "speaker": "老师",
+      "zh": "当然可以，大家会在入口前集合拍照。",
+      "pinyin": "dāng rán kě yǐ ， dà jiā huì zài rù kǒu qián jí hé pāi zhào 。",
+      "tr": "Tabii. Herkes girişin önünde toplanıp fotoğraf çektirecek."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_055",
+      "speaker": "刘梅",
+      "zh": "照片拍好以后，老师能发给家长吗？",
+      "pinyin": "zhào piān pāi hǎo yǐ hòu ， lǎo shī néng fā gěi jiā zhǎng ma ？",
+      "tr": "Fotoğraf çekilince velilere gönderebilir misiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_056",
+      "speaker": "张伟",
+      "zh": "可以，我会把照片放到班级群里。",
+      "pinyin": "kě yǐ ， wǒ huì bǎ zhào piān fàng dào bān jí qún lǐ 。",
+      "tr": "Olur, fotoğrafları sınıf grubunda paylaşırım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_057",
+      "speaker": "张雨桐",
+      "zh": "下雨的话，旅行还会照常进行吗？",
+      "pinyin": "xià yǔ de huà ， lǚ xíng hái huì zhào cháng jìn xíng ma ？",
+      "tr": "Yağmur yağarsa gezi yine yapılacak mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_058",
+      "speaker": "老师",
+      "zh": "如果只是小雨，我们会带伞继续参观；大雨就改期。",
+      "pinyin": "rú guǒ zhǐ shì xiǎo yǔ ， wǒ men huì dài sǎn jì xù cān guān ； dà yǔ jiù gǎi qī 。",
+      "tr": "Hafif yağmur olursa şemsiye alıp gezmeye devam ederiz; çok yağarsa erteleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_059",
+      "speaker": "刘梅",
+      "zh": "学校会提前通知家长，对吗？",
+      "pinyin": "xué xiào huì tí qián tōng zhī jiā zhǎng ， duì ma ？",
+      "tr": "Okul velilere önceden haber verir, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_060",
+      "speaker": "张伟",
+      "zh": "对，天气有变化的话，我会在群里通知大家。",
+      "pinyin": "duì ， tiān qì yǒu biàn huà de huà ， wǒ huì zài qún lǐ tōng zhī dà jiā 。",
+      "tr": "Evet, hava değişirse gruba mesaj atarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_061",
+      "speaker": "张雨桐",
+      "zh": "我今天要把哪些东西先准备好？",
+      "pinyin": "wǒ jīn tiān yào bǎ nǎ xiē dōng xī xiān zhǔn bèi hǎo ？",
+      "tr": "Bugün hangi eşyaları önceden hazırlamalıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_062",
+      "speaker": "老师",
+      "zh": "先把同意书填好，然后再准备学生证和水。",
+      "pinyin": "xiān bǎ tóng yì shū tián hǎo ， rán hòu zài zhǔn bèi xué shēng zhèng hé shuǐ 。",
+      "tr": "Önce izin belgesini doldur, sonra öğrenci kartını ve suyunu hazırla."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_063",
+      "speaker": "刘梅",
+      "zh": "我今晚帮她检查包，明早再看一次天气。",
+      "pinyin": "wǒ jīn wǎn bāng tā jiǎn chá bāo ， míng zǎo zài kàn yī cì tiān qì 。",
+      "tr": "Bu akşam çantasını kontrol edip sabah hava durumuna yine bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_064",
+      "speaker": "张伟",
+      "zh": "这样安排很周到，出门前记得吃早饭。",
+      "pinyin": "zhè yàng ān pái hěn zhōu dào ， chū mén qián jì de chī zǎo fàn 。",
+      "tr": "Güzel düşünmüşsün. Evden çıkmadan kahvaltı etmeyi unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_065",
+      "speaker": "张雨桐",
+      "zh": "我把同意书交给老师以后，还要做什么？",
+      "pinyin": "wǒ bǎ tóng yì shū jiāo gěi lǎo shī yǐ hòu ， hái yào zuò shén me ？",
+      "tr": "İzin belgesini öğretmene verdikten sonra başka ne yapmalıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_066",
+      "speaker": "老师",
+      "zh": "再告诉我你的过敏情况和紧急联系人的电话。",
+      "pinyin": "zài gào sù wǒ nǐ de guò mǐn qíng kuàng hé jǐn jí lián xì rén de diàn huà 。",
+      "tr": "Alerjini ve acil durumda aranacak kişinin telefonunu da bana söyle."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_067",
+      "speaker": "刘梅",
+      "zh": "这些信息我已经写在表格里，也留了我的号码。",
+      "pinyin": "zhè xiē xìn xī wǒ yǐ jīng xiě zài biǎo gé lǐ ， yě liú le wǒ de hào mǎ 。",
+      "tr": "Bu bilgileri forma yazdım, kendi numaramı da ekledim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_068",
+      "speaker": "张伟",
+      "zh": "收到后我会检查一遍，有不清楚的地方再联系你。",
+      "pinyin": "shōu dào hòu wǒ huì jiǎn chá yī biàn ， yǒu bù qīng chǔ de dì fāng zài lián xì nǐ 。",
+      "tr": "Aldıktan sonra kontrol ederim; anlaşılmayan bir yer olursa sana sorarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_069",
+      "speaker": "张雨桐",
+      "zh": "参观时我们要完成什么任务？",
+      "pinyin": "cān guān shí wǒ men yào wán chéng shén me rèn wù ？",
+      "tr": "Gezide hangi görevi yapacağız?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_070",
+      "speaker": "老师",
+      "zh": "每组找三个展品，记下它们的名字和一个特点。",
+      "pinyin": "měi zǔ zhǎo sān gè zhǎn pǐn ， jì xià tā men de míng zì hé yí gè tè diǎn 。",
+      "tr": "Her grup üç eser bulup adlarını ve bir özelliklerini not edecek."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_071",
+      "speaker": "刘梅",
+      "zh": "她可以把笔记带回家，晚上再和我们分享吗？",
+      "pinyin": "tā kě yǐ bǎ bǐ jì dài huí jiā ， wǎn shàng zài hé wǒ men fēn xiǎng ma ？",
+      "tr": "Notlarını eve getirip akşam bizimle paylaşabilir mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_072",
+      "speaker": "张伟",
+      "zh": "当然可以，回家后跟家人说说你最喜欢的展品。",
+      "pinyin": "dāng rán kě yǐ ， huí jiā hòu gēn jiā rén shuō shuō nǐ zuì xǐ huān de zhǎn pǐn 。",
+      "tr": "Elbette. Eve dönünce en sevdiğin eseri ailene anlat."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_073",
+      "speaker": "张雨桐",
+      "zh": "如果同组的人走得比较慢，我们怎么办？",
+      "pinyin": "rú guǒ tóng zǔ de rén zǒu dé bǐ jiào màn ， wǒ men zěn me bàn ？",
+      "tr": "Gruptaki biri yavaş yürürse ne yapacağız?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_074",
+      "speaker": "老师",
+      "zh": "大家要一起走，不要为了赶时间把同学丢下。",
+      "pinyin": "dà jiā yào yì qǐ zǒu ， bú yào wèi le gǎn shí jiān bǎ tóng xué diū xià 。",
+      "tr": "Hep birlikte yürüyün; acele edip arkadaşınızı geride bırakmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_075",
+      "speaker": "刘梅",
+      "zh": "我会提醒雨桐照顾好同组的伙伴。",
+      "pinyin": "wǒ huì tí xǐng yǔ tóng zhào gù hǎo tóng zǔ de huǒ bàn 。",
+      "tr": "Yutong’a grubundaki arkadaşlarına göz kulak olmasını hatırlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_076",
+      "speaker": "张伟",
+      "zh": "谢谢。互相帮助，旅行才会更安全也更开心。",
+      "pinyin": "xiè xiè 。 hù xiāng bāng zhù ， lǚ xíng cái huì gèng ān quán yě gèng kāi xīn 。",
+      "tr": "Teşekkürler. Birbirimize yardım edersek gezi daha güvenli ve keyifli olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_077",
+      "speaker": "张雨桐",
+      "zh": "我需要穿运动鞋吗？",
+      "pinyin": "wǒ xū yào chuān yùn dòng xié ma ？",
+      "tr": "Spor ayakkabı giymem gerekiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_078",
+      "speaker": "老师",
+      "zh": "最好穿舒服的鞋，因为博物馆里要走不少路。",
+      "pinyin": "zuì hǎo chuān shū fú de xié ， yīn wèi bó wù guǎn lǐ yào zǒu bù shǎo lù 。",
+      "tr": "Rahat bir ayakkabı giymen iyi olur; müzede epey yürüyeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_079",
+      "speaker": "刘梅",
+      "zh": "我已经给她准备好了，鞋子大小也合适。",
+      "pinyin": "wǒ yǐ jīng gěi tā zhǔn bèi hǎo le ， xié zi dà xiǎo yě hé shì 。",
+      "tr": "Hazırladım, numarası da ayağına uygun."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_080",
+      "speaker": "张伟",
+      "zh": "那就很好。请不要穿新鞋，免得走路不舒服。",
+      "pinyin": "nà jiù hěn hǎo 。 qǐng bú yào chuān xīn xié ， miǎn de zǒu lù bù shū fú 。",
+      "tr": "Harika. Yeni ayakkabı giyme, yürürken ayağını rahatsız edebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_081",
+      "speaker": "张雨桐",
+      "zh": "旅行结束后，我们几点回到学校？",
+      "pinyin": "lǚ xíng jié shù hòu ， wǒ men jǐ diǎn huí dào xué xiào ？",
+      "tr": "Gezi bitince okula saat kaçta döneceğiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_082",
+      "speaker": "老师",
+      "zh": "预计下午三点半到校，如果路上堵车会晚一点。",
+      "pinyin": "yù jì xià wǔ sān diǎn bàn dào xiào ， rú guǒ lù shàng dǔ chē huì wǎn yì diǎn 。",
+      "tr": "Tahminen saat üç buçukta okulda oluruz. Yol tıkanırsa gecikebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_083",
+      "speaker": "刘梅",
+      "zh": "家长要到校门口接孩子吗？",
+      "pinyin": "jiā zhǎng yào dào xiào mén kǒu jiē hái zi ma ？",
+      "tr": "Velilerin çocukları okul kapısından alması mı gerekiyor?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_084",
+      "speaker": "张伟",
+      "zh": "是的，请在校门口等。到校后我会先点名再让大家离开。",
+      "pinyin": "shì de ， qǐng zài xiào mén kǒu děng 。 dào xiào hòu wǒ huì xiān diǎn míng zài ràng dà jiā lí kāi 。",
+      "tr": "Evet, okul kapısında bekleyin. Varınca önce yoklama alıp sonra çocukları bırakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_085",
+      "speaker": "张雨桐",
+      "zh": "如果我爸妈还没到，我可以自己回家吗？",
+      "pinyin": "rú guǒ wǒ bà mā hái méi dào ， wǒ kě yǐ zì jǐ huí jiā ma ？",
+      "tr": "Annemle babam henüz gelmezse eve kendim gidebilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_086",
+      "speaker": "老师",
+      "zh": "不可以，先留在学校，告诉老师你在等谁。",
+      "pinyin": "bù kě yǐ ， xiān liú zài xué xiào ， gào sù lǎo shī nǐ zài děng shuí 。",
+      "tr": "Hayır. Okulda kalıp kimi beklediğini öğretmenine söyle."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_087",
+      "speaker": "刘梅",
+      "zh": "我会准时到校门口；如果有变化，我会打电话。",
+      "pinyin": "wǒ huì zhǔn shí dào xiào mén kǒu ； rú guǒ yǒu biàn huà ， wǒ huì dǎ diàn huà 。",
+      "tr": "Okul kapısında zamanında olacağım; bir değişiklik olursa telefon ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_088",
+      "speaker": "张伟",
+      "zh": "好的，我会等家长到了再让雨桐离开。",
+      "pinyin": "hǎo de ， wǒ huì děng jiā zhǎng dào le zài ràng yǔ tóng lí kāi 。",
+      "tr": "Peki, velin gelmeden Yutong’un ayrılmasına izin vermem."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_089",
+      "speaker": "张雨桐",
+      "zh": "老师，名单和同意书都收齐了吗？",
+      "pinyin": "lǎo shī ， míng dān hé tóng yì shū dōu shōu qí le ma ？",
+      "tr": "Öğretmenim, liste ve izin belgeleri tamamlandı mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_090",
+      "speaker": "老师",
+      "zh": "还差两份同意书，我今天会再提醒那两位家长。",
+      "pinyin": "hái chà liǎng fèn tóng yì shū ， wǒ jīn tiān huì zài tí xǐng nà liǎng wèi jiā zhǎng 。",
+      "tr": "İki izin belgesi eksik. Bugün o iki veliyi tekrar uyaracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_091",
+      "speaker": "刘梅",
+      "zh": "我可以提醒雨桐问问同学有没有交吗？",
+      "pinyin": "wǒ kě yǐ tí xǐng yǔ tóng wèn wèn tóng xué yǒu méi yǒu jiāo ma ？",
+      "tr": "Yutong’dan arkadaşlarına teslim edip etmediklerini sormasını isteyeyim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_092",
+      "speaker": "张伟",
+      "zh": "可以，不过不用着急，我会和家长直接联系。",
+      "pinyin": "kě yǐ ， bù guò bù yòng zháo jí ， wǒ huì hé jiā zhǎng zhí jiē lián xì 。",
+      "tr": "Olur ama acele etmeye gerek yok; velilerle ben doğrudan konuşurum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_093",
+      "speaker": "张雨桐",
+      "zh": "我已经把需要的东西放进包里了。",
+      "pinyin": "wǒ yǐ jīng bǎ xū yào de dōng xī fàng jìn bāo lǐ le 。",
+      "tr": "Gereken her şeyi çantama koydum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_094",
+      "speaker": "老师",
+      "zh": "很好。今晚早点休息，明天按时到校集合。",
+      "pinyin": "hěn hǎo 。 jīn wǎn zǎo diǎn xiū xī ， míng tiān àn shí dào xiào jí hé 。",
+      "tr": "Güzel. Bu akşam erken uyu, yarın buluşma yerine zamanında gel."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_095",
+      "speaker": "刘梅",
+      "zh": "我再检查一次同意书和水，早上就不用匆忙了。",
+      "pinyin": "wǒ zài jiǎn chá yī cì tóng yì shū hé shuǐ ， zǎo shàng jiù bù yòng cōng máng le 。",
+      "tr": "İzin belgesini ve suyu bir kez daha kontrol ederim; sabah telaşlanmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_096",
+      "speaker": "张伟",
+      "zh": "谢谢你们帮我准备。我很期待这次旅行。",
+      "pinyin": "xiè xiè nǐ men bāng wǒ zhǔn bèi 。 wǒ hěn qī dài zhè cì lǚ xíng 。",
+      "tr": "Hazırlanmama yardım ettiğiniz için teşekkürler. Geziyi sabırsızlıkla bekliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_097",
+      "speaker": "张雨桐",
+      "zh": "我们都准备好了，明天就按计划出发吧。",
+      "pinyin": "wǒ men dōu zhǔn bèi hǎo le ， míng tiān jiù àn jì huà chū fā ba 。",
+      "tr": "Hepimiz hazırız; yarın plana göre yola çıkalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_098",
+      "speaker": "老师",
+      "zh": "好，先在校门口集合，然后一起上车。",
+      "pinyin": "hǎo ， xiān zài xiào mén kǒu jí hé ， rán hòu yì qǐ shàng chē 。",
+      "tr": "Tamam. Önce okul kapısında buluşup sonra birlikte otobüse bineceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_099",
+      "speaker": "刘梅",
+      "zh": "路上注意安全，到了以后记得给家里发消息。",
+      "pinyin": "lù shàng zhù yì ān quán ， dào le yǐ hòu jì de gěi jiā lǐ fā xiāo xī 。",
+      "tr": "Yolda dikkatli olun; varınca eve haber vermeyi unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC004_100",
+      "speaker": "张伟",
+      "zh": "我会的。明天见，老师！",
+      "pinyin": "wǒ huì de 。 míng tiān jiàn ， lǎo shī ！",
+      "tr": "Unutmam. Yarın görüşürüz öğretmenim!"
+    }
+  ]
+}

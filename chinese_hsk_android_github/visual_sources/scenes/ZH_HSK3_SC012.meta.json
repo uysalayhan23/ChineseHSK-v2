@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC012.json",
-  "dialogueSha256": "094591b132a66663bd1f00a8931e1769fbc8632bd64c6641496d90182665e49f",
+  "dialogueSha256": "de3b93e7f8b425e1ee9a8e680a9482801ac39d3da33c76c979d0697616c34d61",
   "titleTr": "Kafe İsmi Aranıyor",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Herkes farklı isim önerir; sonunda sıcak ve akılda kalıcı bir kafe kimliği üzerinde uzlaşırlar.",

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC031.json",
-  "dialogueSha256": "ececfb776e286cedc223d853400d3b0f8b81e2edbd18a8d3bc269c7c09dc25b6",
+  "dialogueSha256": "6450f9b9bd9a85ab16b5993bf0908c920a6db424a44925220c5a4359738104d1",
   "titleZh": "张伟给年轻人讲职业",
   "titleTr": "Zhang Gençlere Kariyer Konuşması Yapıyor",
   "locationId": "LOC_ZH_COMMUNITY_CENTER_001",

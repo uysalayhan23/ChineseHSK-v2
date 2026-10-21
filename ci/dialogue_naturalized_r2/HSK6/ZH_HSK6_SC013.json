@@ -1,0 +1,711 @@
+{
+  "naturalizationVersion": 2,
+  "status": "NATURALIZED_REVIEWED",
+  "sceneId": "ZH_HSK6_SC013",
+  "level": "HSK6",
+  "sourceTitleZh": "照片到底属于谁？",
+  "sourceTitleTr": "Telif ve Kullanım Anlaşmazlığı",
+  "sourceMiniAdventureTr": "Bir fotoğrafın izin dışı kullanımı telif ve etik tartışmasına dönüşür.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK6_SC013_001",
+      "speaker": "张乐乐",
+      "zh": "这组照片本来只授权客户在官网使用，为什么又出现在另一家公司的广告里？",
+      "pinyin": "zhè zǔ zhào piān běn lái zhǐ shòu quán kè hù zài guān wǎng shǐ yòng ， wèi shén me yòu chū xiàn zài lìng yī jiā gōng sī de guǎng gào lǐ ？",
+      "tr": "Fotoğraflar yalnızca müşterinin web sitesi için lisanslanmıştı; neden başka bir şirketin reklamında yer alıyor?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_002",
+      "speaker": "客户",
+      "zh": "我们发现后先保存了页面和发布时间，暂时没有联系对方。",
+      "pinyin": "wǒ men fā xiàn hòu xiān bǎo cún le yè miàn hé fā bù shí jiān ， zàn shí méi yǒu lián xì duì fāng 。",
+      "tr": "Fark ettikten sonra sayfayı ve yayın tarihini kaydettik, henüz karşı tarafla iletişime geçmedik."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_003",
+      "speaker": "律师",
+      "zh": "先不要公开指责。请把合同、授权邮件和原始照片都整理出来。",
+      "pinyin": "xiān bú yào gōng kāi zhǐ zé 。 qǐng bǎ hé tóng 、 shòu quán yóu jiàn hé yuán shǐ zhào piān dōu zhěng lǐ chū lái 。",
+      "tr": "Kamuya açık suçlamada bulunmayalım. Sözleşmeyi, izin e-postalarını ve özgün fotoğrafları derleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_004",
+      "speaker": "刘梅",
+      "zh": "我也希望先弄清事实，再决定怎样保护作品和双方关系。",
+      "pinyin": "wǒ yě xī wàng xiān nòng qīng shì shí ， zài jué dìng zěn yàng bǎo hù zuò pǐn hé shuāng fāng guān xì 。",
+      "tr": "Ben de önce gerçeği anlayıp eseri ve iki tarafın ilişkisini nasıl koruyacağımıza karar vermek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_005",
+      "speaker": "张乐乐",
+      "zh": "合同写的是官网和自有社交账号，没有提到第三方广告。",
+      "pinyin": "hé tóng xiě de shì guān wǎng hé zì yǒu shè jiāo zhàng hào ， méi yǒu tí dào dì sān fāng guǎng gào 。",
+      "tr": "Sözleşmede müşterinin sitesi ve kendi sosyal medya hesapları var, üçüncü taraf reklamı yok."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_006",
+      "speaker": "客户",
+      "zh": "那这次使用可能超出授权范围，但还要核实是否有补充协议。",
+      "pinyin": "nà zhè cì shǐ yòng kě néng chāo chū shòu quán fàn wéi ， dàn hái yào hé shí shì fǒu yǒu bǔ chōng xié yì 。",
+      "tr": "Bu kullanım izin kapsamını aşmış olabilir; yine de ek bir anlaşma olup olmadığını doğrulamalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_007",
+      "speaker": "律师",
+      "zh": "我们查过邮件，没有收到扩大用途的书面同意。",
+      "pinyin": "wǒ men chá guò yóu jiàn ， méi yǒu shōu dào kuò dà yòng tú de shū miàn tóng yì 。",
+      "tr": "E-postaları kontrol ettik; kullanım alanını genişleten yazılı bir onay yok."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_008",
+      "speaker": "刘梅",
+      "zh": "我会把邮件、合同和截图按日期排好，交给律师查看。",
+      "pinyin": "wǒ huì bǎ yóu jiàn 、 hé tóng hé jié tú àn rì qī pái hǎo ， jiāo gěi lǜ shī chá kàn 。",
+      "tr": "E-postaları, sözleşmeyi ve ekran görüntülerini tarihe göre düzenleyip avukata ileteceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_009",
+      "speaker": "张乐乐",
+      "zh": "广告上的照片还裁掉了水印，也改了色调。",
+      "pinyin": "guǎng gào shàng de zhào piān hái cái diào le shuǐ yìn ， yě gǎi le sè diào 。",
+      "tr": "Reklamdaki fotoğrafta filigran da kaldırılmış, renkler de değiştirilmiş."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_010",
+      "speaker": "客户",
+      "zh": "请保留原图和广告截图，记录网址、发现时间及页面变化。",
+      "pinyin": "qǐng bǎo liú yuán tú hé guǎng gào jié tú ， jì lù wǎng zhǐ 、 fā xiàn shí jiān jí yè miàn biàn huà 。",
+      "tr": "Özgün dosyayı ve reklam görüntüsünü saklayın; adresi, tarihi ve sayfadaki değişiklikleri kaydedin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_011",
+      "speaker": "律师",
+      "zh": "我已经做了网页存档，也下载了带时间信息的页面副本。",
+      "pinyin": "wǒ yǐ jīng zuò le wǎng yè cún dàng ， yě xià zài le dài shí jiān xìn xī de yè miàn fù běn 。",
+      "tr": "Web sayfasını arşivledim ve tarih bilgisi bulunan bir kopyasını indirdim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_012",
+      "speaker": "刘梅",
+      "zh": "很好。证据保存完整，后续沟通时就不必只凭记忆争论。",
+      "pinyin": "hěn hǎo 。 zhèng jù bǎo cún wán zhěng ， hòu xù gōu tōng shí jiù bù bì zhǐ píng jì yì zhēng lùn 。",
+      "tr": "Güzel. Kanıtlar tam olursa sonraki konuşma yalnızca hafızaya dayanmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_013",
+      "speaker": "张乐乐",
+      "zh": "我们要不要马上要求对方删除广告？",
+      "pinyin": "wǒ men yào bù yào mǎ shàng yāo qiú duì fāng shān chú guǎng gào ？",
+      "tr": "Karşı taraftan reklamı hemen kaldırmasını isteyelim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_014",
+      "speaker": "客户",
+      "zh": "可以先发正式通知，说明授权范围并要求暂停使用，同时保留协商空间。",
+      "pinyin": "kě yǐ xiān fā zhèng shì tōng zhī ， shuō míng shòu quán fàn wéi bìng yāo qiú zàn tíng shǐ yòng ， tóng shí bǎo liú xié shāng kōng jiān 。",
+      "tr": "Resmî bir bildirimle kullanım sınırını açıklayıp yayını durdurmalarını isteyebiliriz; uzlaşma olanağı da kalır."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_015",
+      "speaker": "律师",
+      "zh": "通知里要不要直接提出赔偿金额？",
+      "pinyin": "tōng zhī lǐ yào bù yào zhí jiē tí chū péi cháng jīn é ？",
+      "tr": "Bildirimde doğrudan tazminat tutarı talep edelim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_016",
+      "speaker": "刘梅",
+      "zh": "先让律师核对合同和适用规则，再决定诉求，避免报出没有依据的数字。",
+      "pinyin": "xiān ràng lǜ shī hé duì hé tóng hé shì yòng guī zé ， zài jué dìng sù qiú ， bì miǎn bào chū mò yǒu yī jù de shù zì 。",
+      "tr": "Önce avukat sözleşmeyi ve uygulanacak kuralları incelesin; dayanaksız bir tutar önermeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_017",
+      "speaker": "张乐乐",
+      "zh": "明白。我不希望把事情说得太重，但也不能默认这种使用是可以的。",
+      "pinyin": "míng bái 。 wǒ bù xī wàng bǎ shì qíng shuō dé tài zhòng ， dàn yě bù néng mò rèn zhè zhǒng shǐ yòng shì kě yǐ de 。",
+      "tr": "Anladım. Konuyu büyütmek istemiyorum ama bu kullanımın kabul edilebilir olduğunu da varsayamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_018",
+      "speaker": "客户",
+      "zh": "维护边界不等于立刻对立；表达清楚、给出期限，也可以保持专业。",
+      "pinyin": "wéi hù biān jiè bù děng yú lì kè duì lì ； biǎo dá qīng chǔ 、 gěi chū qī xiàn ， yě kě yǐ bǎo chí zhuān yè 。",
+      "tr": "Sınırları korumak hemen çatışmak demek değil; açıkça belirtip süre vermek profesyonel kalmamızı sağlar."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_019",
+      "speaker": "律师",
+      "zh": "我们能否先询问客户是否曾口头同意对方使用？",
+      "pinyin": "wǒ men néng fǒu xiān xún wèn kè hù shì fǒu céng kǒu tóu tóng yì duì fāng shǐ yòng ？",
+      "tr": "Müşteriye, karşı tarafın kullanımına sözlü olarak izin verip vermediğini sorabilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_020",
+      "speaker": "刘梅",
+      "zh": "可以核实，但口头沟通不能替代书面授权，仍要检查具体记录。",
+      "pinyin": "kě yǐ hé shí ， dàn kǒu tóu gōu tōng bù néng tì dài shū miàn shòu quán ， réng yào jiǎn chá jù tǐ jì lù 。",
+      "tr": "Sorabiliriz; ancak sözlü görüşme yazılı iznin yerini tutmaz, kayıtları da incelemeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_021",
+      "speaker": "张乐乐",
+      "zh": "客户说他只同意把照片发给合作方预览，并未授权公开投放。",
+      "pinyin": "kè hù shuō tā zhǐ tóng yì bǎ zhào piān fā gěi hé zuò fāng yù lǎn ， bìng wèi shòu quán gōng kāi tóu fàng 。",
+      "tr": "Müşteri, fotoğrafları yalnızca iş ortağına önizleme için göndermeye izin verdiğini, halka açık yayına onay vermediğini söylüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_022",
+      "speaker": "客户",
+      "zh": "我会请他把当时的沟通经过写下来，并区分亲眼所见和后来听说的内容。",
+      "pinyin": "wǒ huì qǐng tā bǎ dāng shí de gōu tōng jīng guò xiě xià lái ， bìng qū fēn qīn yǎn suǒ jiàn hé hòu lái tīng shuō de nèi róng 。",
+      "tr": "O sırada yaşananları yazmasını isteyeceğim; doğrudan gördükleriyle sonradan duyduklarını ayırsın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_023",
+      "speaker": "律师",
+      "zh": "时间线也要核对：照片何时交付，对方何时开始使用？",
+      "pinyin": "shí jiān xiàn yě yào hé duì ： zhào piān hé shí jiāo fù ， duì fāng hé shí kāi shǐ shǐ yòng ？",
+      "tr": "Zaman çizelgesini de doğrulamalıyız: Fotoğraf ne zaman teslim edildi, karşı taraf ne zaman kullanmaya başladı?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_024",
+      "speaker": "刘梅",
+      "zh": "我整理了交付邮件、首次发现广告的日期和网页存档。",
+      "pinyin": "wǒ zhěng lǐ le jiāo fù yóu jiàn 、 shǒu cì fā xiàn guǎng gào de rì qī hé wǎng yè cún dàng 。",
+      "tr": "Teslim e-postasını, reklamı ilk gördüğümüz tarihi ve web arşivini düzenledim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_025",
+      "speaker": "张乐乐",
+      "zh": "原始文件的拍摄时间和修改记录也在，这些能帮助确认作品来源。",
+      "pinyin": "yuán shǐ wén jiàn de pāi shè shí jiān hé xiū gǎi jì lù yě zài ， zhè xiē néng bāng zhù què rèn zuò pǐn lái yuán 。",
+      "tr": "Özgün dosyanın çekim tarihi ve düzenleme kayıtları da var; bunlar eserin kaynağını doğrulamaya yardım eder."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_026",
+      "speaker": "客户",
+      "zh": "请先备份一份只读副本，再把原文件交给律师检查。",
+      "pinyin": "qǐng xiān bèi fèn yī fèn zhǐ dú fù běn ， zài bǎ yuán wén jiàn jiāo gěi lǜ shī jiǎn chá 。",
+      "tr": "Önce salt okunur bir kopyasını yedekleyip asıl dosyayı incelemesi için avukata verin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_027",
+      "speaker": "律师",
+      "zh": "我已做两份备份，并记录文件校验值，避免后续版本混淆。",
+      "pinyin": "wǒ yǐ zuò liǎng fèn bèi fèn ， bìng jì lù wén jiàn jiào yàn zhí ， bì miǎn hòu xù bǎn běn hùn xiáo 。",
+      "tr": "İki yedek aldım ve sürümler karışmasın diye dosya doğrulama değerini kaydettim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_028",
+      "speaker": "刘梅",
+      "zh": "做得好。资料只分享给处理此事的人，不要发到公开群里。",
+      "pinyin": "zuò dé hǎo 。 zī liào zhǐ fēn xiǎng gěi chǔ lǐ cǐ shì de rén ， bú yào fā dào gōng kāi qún lǐ 。",
+      "tr": "Güzel. Belgeleri yalnızca bu konuyu yürüten kişilerle paylaşalım; açık bir gruba göndermeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_029",
+      "speaker": "张乐乐",
+      "zh": "我们要不要联系广告平台，请他们先隐藏这张图片？",
+      "pinyin": "wǒ men yào bù yào lián xì guǎng gào píng tái ， qǐng tā men xiān yǐn cáng zhè zhāng tú piàn ？",
+      "tr": "Reklam platformundan fotoğrafı geçici olarak gizlemesini isteyelim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_030",
+      "speaker": "客户",
+      "zh": "可以咨询平台的版权申诉流程，但先核对权利人和材料要求。",
+      "pinyin": "kě yǐ zī xún píng tái de bǎn quán shēn sù liú chéng ， dàn xiān hé duì quán lì rén hé cái liào yāo qiú 。",
+      "tr": "Telif şikâyeti sürecini sorabiliriz; önce hak sahibini ve gerekli belgeleri doğrulayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_031",
+      "speaker": "律师",
+      "zh": "平台要求提供作品原件、授权证明和侵权页面链接。",
+      "pinyin": "píng tái yāo qiú tí gōng zuò pǐn yuán jiàn 、 shòu quán zhèng míng hé qīn quán yè miàn liàn jiē 。",
+      "tr": "Platform eserin aslını, izin kanıtını ve ihlal sayfasının bağlantısını istiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_032",
+      "speaker": "刘梅",
+      "zh": "这些资料都齐全；我会让律师确认申诉内容准确无误。",
+      "pinyin": "zhè xiē zī liào dōu qí quán ； wǒ huì ràng lǜ shī què rèn shēn sù nèi róng zhǔn què wú wù 。",
+      "tr": "Belgelerimiz hazır; şikâyetin doğru olduğundan emin olmak için avukata kontrol ettireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_033",
+      "speaker": "张乐乐",
+      "zh": "平台也提醒，提交申诉前应先通知发布广告的公司。",
+      "pinyin": "píng tái yě tí xǐng ， tí jiāo shēn sù qián yīng xiān tōng zhī fā bù guǎng gào de gōng sī 。",
+      "tr": "Platform, şikâyet göndermeden önce reklamı yayımlayan şirketi bilgilendirmemizi de önerdi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_034",
+      "speaker": "客户",
+      "zh": "那就按律师建议发正式函，说明事实、依据和回复期限。",
+      "pinyin": "nà jiù àn lǜ shī jiàn yì fā zhèng shì hán ， shuō míng shì shí 、 yī jù hé huí fù qī xiàn 。",
+      "tr": "O hâlde avukatın önerisiyle resmî yazı gönderip olguları, dayanağı ve yanıt süresini açıklayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_035",
+      "speaker": "律师",
+      "zh": "语气可以坚定，但避免猜测对方动机或使用侮辱性措辞。",
+      "pinyin": "yǔ qì kě yǐ jiān dìng ， dàn bì miǎn cāi cè duì fāng dòng jī huò shǐ yòng wǔ rǔ xìng cuò cí 。",
+      "tr": "Kararlı bir dil kullanalım ama karşı tarafın niyetini tahmin edip hakaret etmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_036",
+      "speaker": "刘梅",
+      "zh": "我会让律师审稿，再由工作室和客户共同署名发送。",
+      "pinyin": "wǒ huì ràng lǜ shī shěn gǎo ， zài yóu gōng zuò shì hé kè hù gòng tóng shǔ míng fā sòng 。",
+      "tr": "Avukata metni inceleteceğim; sonra stüdyo ve müşteri birlikte imzalayıp göndersin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_037",
+      "speaker": "张乐乐",
+      "zh": "客户担心公开处理会影响双方今后的业务关系。",
+      "pinyin": "kè hù dān xīn gōng kāi chǔ lǐ huì yǐng xiǎng shuāng fāng jīn hòu de yè wù guān xì 。",
+      "tr": "Müşteri, konuyu kamuya taşımamızın gelecekteki iş ilişkilerini etkilemesinden kaygılı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_038",
+      "speaker": "客户",
+      "zh": "可以先采取私下沟通；是否公开回应，应看对方答复和后续影响。",
+      "pinyin": "kě yǐ xiān cǎi qǔ sī xià gōu tōng ； shì fǒu gōng kāi huí yìng ， yīng kàn duì fāng dá fù hé hòu xù yǐng xiǎng 。",
+      "tr": "Önce özel iletişim kurabiliriz; kamuya yanıt verip vermemeyi gelecek cevaba ve etkilerine göre değerlendiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_039",
+      "speaker": "律师",
+      "zh": "我们不必现在决定所有后续步骤，先按期限等书面回复。",
+      "pinyin": "wǒ men bù bì xiàn zài jué dìng suǒ yǒu hòu xù bù zhòu ， xiān àn qī xiàn děng shū miàn huí fù 。",
+      "tr": "Sonraki adımların tümüne şimdi karar vermemiz gerekmiyor; önce yanıt süresini bekleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_040",
+      "speaker": "刘梅",
+      "zh": "同时继续保存证据，若页面撤下也记录具体时间。",
+      "pinyin": "tóng shí jì xù bǎo cún zhèng jù ， ruò yè miàn chè xià yě jì lù jù tǐ shí jiān 。",
+      "tr": "Bu sırada kanıtları korumaya devam edip sayfa kaldırılırsa saati de kaydedelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_041",
+      "speaker": "张乐乐",
+      "zh": "对方回信说，他们以为合作方转发也属于授权范围。",
+      "pinyin": "duì fāng huí xìn shuō ， tā men yǐ wéi hé zuò fāng zhuǎn fā yě shǔ yú shòu quán fàn wéi 。",
+      "tr": "Karşı taraf, iş ortağının paylaşımını da izin kapsamında sandıklarını yazmış."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_042",
+      "speaker": "客户",
+      "zh": "合同没有这样写，所以我们最好指出具体条款，而不是只说“你们理解错了”。",
+      "pinyin": "hé tóng méi yǒu zhè yàng xiě ， suǒ yǐ wǒ men zuì hǎo zhǐ chū jù tǐ tiáo kuǎn ， ér bú shì zhǐ shuō “ nǐ men lǐ jiě cuò le ” 。",
+      "tr": "Sözleşmede böyle yazmıyor; “yanlış anlamışsınız” demek yerine ilgili maddeyi gösterelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_043",
+      "speaker": "律师",
+      "zh": "我会把授权条款和广告用途并列出来，清楚说明两者的差别。",
+      "pinyin": "wǒ huì bǎ shòu quán tiáo kuǎn hé guǎng gào yòng tú bìng liè chū lái ， qīng chǔ shuō míng liǎng zhě de chā bié 。",
+      "tr": "İzin maddesiyle reklam kullanımını yan yana koyup aralarındaki farkı açıkça belirteceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_044",
+      "speaker": "刘梅",
+      "zh": "这样对方也能准确回应，避免争论变成各说各话。",
+      "pinyin": "zhè yàng duì fāng yě néng zhǔn què huí yìng ， bì miǎn zhēng lùn biàn chéng gè shuō gè huà 。",
+      "tr": "Böylece karşı taraf da net yanıt verebilir; konuşma karşılıklı iddiaya dönüşmez."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_045",
+      "speaker": "张乐乐",
+      "zh": "对方提出愿意撤下广告，并询问能否补签新的使用许可。",
+      "pinyin": "duì fāng tí chū yuàn yì chè xià guǎng gào ， bìng xún wèn néng fǒu bǔ qiān xīn de shǐ yòng xǔ kě 。",
+      "tr": "Karşı taraf reklamı kaldırmayı ve yeni kullanım izni için ek sözleşme yapmayı önerdi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_046",
+      "speaker": "客户",
+      "zh": "撤下广告是眼前的处理；新的许可要另谈期限、平台和费用。",
+      "pinyin": "chè xià guǎng gào shì yǎn qián de chǔ lǐ ； xīn de xǔ kě yào lìng tán qī xiàn 、 píng tái hé fèi yòng 。",
+      "tr": "Reklamın kaldırılması mevcut sorunu çözer; yeni izin için süre, platform ve ücret ayrıca konuşulmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_047",
+      "speaker": "律师",
+      "zh": "客户愿意考虑有限授权，但不希望图片被长期或转卖使用。",
+      "pinyin": "kè hù yuàn yì kǎo lǜ yǒu xiàn shòu quán ， dàn bù xī wàng tú piàn bèi cháng qī huò zhuǎn mài shǐ yòng 。",
+      "tr": "Müşteri sınırlı izni değerlendirebilir ama fotoğrafın uzun süreli kullanılmasını veya satılmasını istemiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_048",
+      "speaker": "刘梅",
+      "zh": "我们可以列出期限、渠道、地域和是否允许转授权，请客户逐项决定。",
+      "pinyin": "wǒ men kě yǐ liè chū qī xiàn 、 qú dào 、 dì yù hé shì fǒu yǔn xǔ zhuǎn shòu quán ， qǐng kè hù zhú xiàng jué dìng 。",
+      "tr": "Süre, kanal, bölge ve alt lisansı ayrı ayrı sunup müşterinin karar vermesini sağlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_049",
+      "speaker": "张乐乐",
+      "zh": "另外要约定署名方式，以及裁切或调色是否需要事先批准。",
+      "pinyin": "lìng wài yāo yuē dìng shǔ míng fāng shì ， yǐ jí cái qiè huò tiáo sè shì fǒu xū yào shì xiān pī zhǔn 。",
+      "tr": "Kullanılacak atıf biçimini ve kırpma ya da renk değişikliğinin önceden onay gerektirip gerektirmediğini de belirleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_050",
+      "speaker": "客户",
+      "zh": "我会把这些许可选择整理成表格，逐项比较可能的影响。",
+      "pinyin": "Wǒ huì bǎ zhè xiē xǔ kě xuǎn zé zhěng lǐ chéng biǎo gé zhú xiàng bǐ jiào kě néng de yǐng xiǎng",
+      "tr": "İzin seçeneklerini, etkilerini madde madde karşılaştırılabilecek bir tabloda toplayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_051",
+      "speaker": "律师",
+      "zh": "客户选了三个月的官网展示，不包括付费推广或第三方转发。",
+      "pinyin": "kè hù xuǎn le sān gè yuè de guān wǎng zhǎn shì ， bù bāo kuò fù fèi tuī guǎng huò dì sān fāng zhuǎn fā 。",
+      "tr": "Müşteri üç aylık web sitesi kullanımını seçti; ücretli tanıtım ve üçüncü taraf paylaşımı hariç."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_052",
+      "speaker": "刘梅",
+      "zh": "我把范围写清楚；合同生效前，旧广告仍应保持下架。",
+      "pinyin": "wǒ bǎ fàn wéi xiě qīng chǔ ； hé tóng shēng xiào qián ， jiù guǎng gào réng yīng bǎo chí xià jià 。",
+      "tr": "Kapsamı açıkça yazacağım; yeni sözleşme yürürlüğe girene dek eski reklam yayında olmamalı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_053",
+      "speaker": "张乐乐",
+      "zh": "律师确认文字后，我们再让双方签字并保存最终版本。",
+      "pinyin": "lǜ shī què rèn wén zì hòu ， wǒ men zài ràng shuāng fāng qiān zì bìng bǎo cún zuì zhōng bǎn běn 。",
+      "tr": "Metni avukat onayladıktan sonra taraflar imzalayıp son sürümü saklasın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_054",
+      "speaker": "客户",
+      "zh": "新协议只对未来使用生效，不能当作之前行为已获许可。",
+      "pinyin": "xīn xié yì zhǐ duì wèi lái shǐ yòng shēng xiào ， bù néng dàng zuò zhī qián xíng wèi yǐ huò xǔ kě 。",
+      "tr": "Yeni anlaşma yalnızca gelecekteki kullanımı kapsar; geçmişteki kullanımı izinli hâle getirmez."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_055",
+      "speaker": "律师",
+      "zh": "明白，过去的使用和未来的新授权要分开讨论。",
+      "pinyin": "míng bái ， guò qù de shǐ yòng hé wèi lái de xīn shòu quán yào fēn kāi tǎo lùn 。",
+      "tr": "Anladım; önceki kullanım ve gelecekte verilecek yeni izin ayrı değerlendirilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_056",
+      "speaker": "刘梅",
+      "zh": "对方提出补偿，但金额还没有依据；先别急着接受或拒绝。",
+      "pinyin": "duì fāng tí chū bǔ cháng ， dàn jīn é hái méi yǒu yī jù ； xiān bié jí zhe jiē shòu huò jù jué 。",
+      "tr": "Karşı taraf telafi önermiş ama miktarın dayanağı henüz yok; hemen kabul ya da ret vermeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_057",
+      "speaker": "张乐乐",
+      "zh": "我会请律师评估可选处理方式，再让客户衡量时间、成本和关系。",
+      "pinyin": "wǒ huì qǐng lǜ shī píng gū kě xuǎn chǔ lǐ fāng shì ， zài ràng kè hù héng liáng shí jiān 、 chéng běn hé guān xì 。",
+      "tr": "Avukattan seçenekleri değerlendirmesini isteyip müşterinin süre, maliyet ve ilişkiyi tartmasına yardımcı olacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_058",
+      "speaker": "客户",
+      "zh": "如果谈不拢，我们还可以按建议的正式程序继续处理。",
+      "pinyin": "rú guǒ tán bù lǒng ， wǒ men hái kě yǐ àn jiàn yì de zhèng shì chéng xù jì xù chǔ lǐ 。",
+      "tr": "Anlaşamazsak önerilen resmî süreç üzerinden devam etme seçeneğimiz de var."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_059",
+      "speaker": "律师",
+      "zh": "客户同意先尝试书面协商，并给对方五个工作日答复。",
+      "pinyin": "kè hù tóng yì xiān cháng shì shū miàn xié shāng ， bìng gěi duì fāng wǔ gè gōng zuò rì dá fù 。",
+      "tr": "Müşteri önce yazılı uzlaşmayı denemeyi ve beş iş günü içinde yanıt istemeyi kabul etti."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_060",
+      "speaker": "刘梅",
+      "zh": "我会记录期限和负责跟进的人，到期后再向客户汇报。",
+      "pinyin": "wǒ huì jì lù qī xiàn hé fù zé gēn jìn de rén ， dào qī hòu zài xiàng kè hù huì bào 。",
+      "tr": "Son tarihi ve takip sorumlusunu kaydedip süre dolunca müşteriye bilgi vereceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_061",
+      "speaker": "张乐乐",
+      "zh": "五个工作日后仍未收到回复，我们就按约定向客户说明情况。",
+      "pinyin": "wǔ gè gōng zuò rì hòu réng wèi shōu dào huí fù ， wǒ men jiù àn yuē dìng xiàng kè hù shuō míng qíng kuàng 。",
+      "tr": "Beş iş günü geçip yanıt gelmezse kararlaştırıldığı üzere müşteriye bilgi veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_062",
+      "speaker": "客户",
+      "zh": "我想先确认广告是否已经撤下，再决定下一步。",
+      "pinyin": "Wǒ xiǎng xiān què rèn guǎng gào shì fǒu yǐ jīng chè xià zài jué dìng xià yī bù",
+      "tr": "Sonraki adıma karar vermeden önce reklamın kaldırıldığını doğrulamak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_063",
+      "speaker": "律师",
+      "zh": "我查了页面，目前显示无法访问；还需要确认是不是彻底删除。",
+      "pinyin": "wǒ chá le yè miàn ， mù qián xiǎn shì wú fǎ fǎng wèn ； hái xū yào què rèn shì bú shì chè dǐ shān chú 。",
+      "tr": "Sayfayı kontrol ettim, şu an açılmıyor; tamamen silindiğini ayrıca doğrulamalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_064",
+      "speaker": "刘梅",
+      "zh": "平台回执显示广告已停止投放，但页面副本仍留在缓存中。",
+      "pinyin": "píng tái huí zhí xiǎn shì guǎng gào yǐ tíng zhǐ tóu fàng ， dàn yè miàn fù běn réng liú zài huǎn cún zhōng 。",
+      "tr": "Platform yanıtında reklamın durdurulduğu yazıyor ama sayfanın kopyası önbellekte kalmış."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_065",
+      "speaker": "张乐乐",
+      "zh": "请把平台回复和页面状态截图归档，并记录检查时间。",
+      "pinyin": "qǐng bǎ píng tái huí fù hé yè miàn zhuàng tài jié tú guī dàng ， bìng jì lù jiǎn chá shí jiān 。",
+      "tr": "Platform yanıtını ve sayfa durumunun ekran görüntüsünü arşivleyip kontrol saatini kaydedin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_066",
+      "speaker": "客户",
+      "zh": "我还想知道对方是否会继续使用已经下载的图片。",
+      "pinyin": "Wǒ hái xiǎng zhī dào duì fāng shì fǒu huì jì xù shǐ yòng yǐ jīng xià zài de tú piàn",
+      "tr": "Karşı tarafın indirdiği fotoğrafları kullanmaya devam edip etmeyeceğini de öğrenmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_067",
+      "speaker": "律师",
+      "zh": "我们可以在回信中要求对方确认已删除副本，并停止后续使用。",
+      "pinyin": "wǒ men kě yǐ zài huí xìn zhōng yāo qiú duì fāng què rèn yǐ shān chú fù běn ， bìng tíng zhǐ hòu xù shǐ yòng 。",
+      "tr": "Yanıtta kopyaların silindiğini doğrulamalarını ve gelecekte kullanmamalarını isteyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_068",
+      "speaker": "刘梅",
+      "zh": "这个要求写得具体一些，包括员工和合作方保存的文件。",
+      "pinyin": "zhè ge yāo qiú xiě dé jù tǐ yī xiē ， bāo kuò yuán gōng hé hé zuò fāng bǎo cún de wén jiàn 。",
+      "tr": "İsteği somutlaştıralım; çalışanların ve iş ortaklarının sakladığı dosyalar da kapsansın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_069",
+      "speaker": "张乐乐",
+      "zh": "我会把确认事项列成清单，避免只收到一句含糊的“已处理”。",
+      "pinyin": "wǒ huì bǎ què rèn shì xiàng liè chéng qīng dān ， bì miǎn zhǐ shōu dào yī jù hán hú de “ yǐ chǔ lǐ ” 。",
+      "tr": "Belirsiz bir “hallettik” yanıtı gelmesin diye maddeleri listeleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_070",
+      "speaker": "客户",
+      "zh": "对方同意清理文件，并愿意提供完成时间和负责人。",
+      "pinyin": "duì fāng tóng yì qīng lǐ wén jiàn ， bìng yuàn yì tí gōng wán chéng shí jiān hé fù zé rén 。",
+      "tr": "Karşı taraf dosyaları temizlemeyi ve sorumlu kişiyle tamamlanma tarihini bildirmeyi kabul etti."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_071",
+      "speaker": "律师",
+      "zh": "客户问是否可以公开讲述这次经历，提醒其他创作者。",
+      "pinyin": "kè hù wèn shì fǒu kě yǐ gōng kāi jiǎng shù zhè cì jīng lì ， tí xǐng qí tā chuàng zuò zhě 。",
+      "tr": "Müşteri bu deneyimi diğer içerik üreticilerine açıkça anlatıp anlatamayacağını soruyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_072",
+      "speaker": "刘梅",
+      "zh": "可以分享一般经验，但先删除身份信息和未公开的商业内容。",
+      "pinyin": "kě yǐ fēn xiǎng yì bān jīng yàn ， dàn xiān shān chú shēn fèn xìn xī hé wèi gōng kāi de shāng yè nèi róng 。",
+      "tr": "Genel dersleri paylaşabilir ama kimlik bilgilerini ve yayımlanmamış ticari içeriği çıkarmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_073",
+      "speaker": "张乐乐",
+      "zh": "也应避免陈述尚未确认的指控，发布前让律师核对文字。",
+      "pinyin": "yě yīng bì miǎn chén shù shàng wèi què rèn de zhǐ kòng ， fā bù qián ràng lǜ shī hé duì wén zì 。",
+      "tr": "Henüz doğrulanmamış iddialardan kaçınmalı; yayımdan önce metni avukata göstermeli."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_074",
+      "speaker": "客户",
+      "zh": "我会提醒客户，谈经历和公开对方身份是两回事。",
+      "pinyin": "wǒ huì tí xǐng kè hù ， tán jīng lì hé gōng kāi duì fāng shēn fèn shì liǎng huí shì 。",
+      "tr": "Müşteriye yaşadıklarını anlatmakla karşı tarafın kimliğini açıklamanın farklı şeyler olduğunu hatırlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_075",
+      "speaker": "律师",
+      "zh": "客户决定暂不公开发文，等协议落实后再评估。",
+      "pinyin": "kè hù jué dìng zàn bù gōng kāi fā wén ， děng xié yì luò shí hòu zài píng gū 。",
+      "tr": "Müşteri şimdilik paylaşım yapmamaya, anlaşma uygulandıktan sonra yeniden değerlendirmeye karar verdi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_076",
+      "speaker": "刘梅",
+      "zh": "这个选择能减少不必要的冲突，也保留了日后的表达空间。",
+      "pinyin": "zhè ge xuǎn zé néng jiǎn shǎo bù bì yào de chōng tū ， yě bǎo liú le rì hòu de biǎo dá kōng jiān 。",
+      "tr": "Bu tercih gereksiz çatışmayı azaltır ve ileride konuşma olanağını da korur."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_077",
+      "speaker": "张乐乐",
+      "zh": "新许可和补充条款都已签署，我会把副本交给客户保存。",
+      "pinyin": "xīn xǔ kě hé bǔ chōng tiáo kuǎn dōu yǐ qiān shǔ ， wǒ huì bǎ fù běn jiāo gěi kè hù bǎo cún 。",
+      "tr": "Yeni izin ve ek koşullar imzalandı; kopyasını saklaması için müşteriye ileteceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_078",
+      "speaker": "客户",
+      "zh": "请同时更新项目档案，注明授权变更日期和适用范围。",
+      "pinyin": "qǐng tóng shí gēng xīn xiàng mù dàng àn ， zhù míng shòu quán biàn gēng rì qī hé shì yòng fàn wéi 。",
+      "tr": "Yetki değişikliğinin tarihini ve kapsamını belirterek proje dosyalarını da güncelleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_079",
+      "speaker": "律师",
+      "zh": "我也会把旧版标为失效，避免团队误用过期文件。",
+      "pinyin": "wǒ yě huì bǎ jiù bǎn biāo wèi shī xiào ， bì miǎn tuán duì wù yòng guò qī wén jiàn 。",
+      "tr": "Ekibin eski belgeyi kullanmaması için önceki sürümü geçersiz diye işaretleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_080",
+      "speaker": "刘梅",
+      "zh": "这样后续任何人查阅，都能分清历史记录和当前有效协议。",
+      "pinyin": "zhè yàng hòu xù rèn hé rén chá yuè ， dōu néng fēn qīng lì shǐ jì lù hé dāng qián yǒu xiào xié yì 。",
+      "tr": "Böylece dosyalara bakan herkes geçmiş kayıtla halen geçerli anlaşmayı ayırt eder."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_081",
+      "speaker": "张乐乐",
+      "zh": "客户的工作室也更新了内部规范，今后所有授权都要写明渠道和期限。",
+      "pinyin": "kè hù de gōng zuò shì yě gēng xīn le nèi bù guī fàn ， jīn hòu suǒ yǒu shòu quán dōu yào xiě míng qú dào hé qī xiàn 。",
+      "tr": "Müşterinin stüdyosu da iç kurallarını güncelledi; bundan böyle her izin kanal ve süreyi belirtecek."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_082",
+      "speaker": "客户",
+      "zh": "这是有用的改进。我们可以把本次问题当作提醒，但不必把责任推给某一个人。",
+      "pinyin": "zhè shì yǒu yòng de gǎi jìn 。 wǒ men kě yǐ bǎ běn cì wèn tí dàng zuò tí xǐng ， dàn bù bì bǎ zé rèn tuī gěi mǒu yí gè rén 。",
+      "tr": "Bu yararlı bir gelişme. Yaşananı ders olarak alabiliriz ama suçu tek bir kişiye yüklemeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_083",
+      "speaker": "律师",
+      "zh": "我会把新规范加入项目模板，签约前让双方逐项确认。",
+      "pinyin": "wǒ huì bǎ xīn guī fàn jiā rù xiàng mù mú bǎn ， qiān yuē qián ràng shuāng fāng zhú xiàng què rèn 。",
+      "tr": "Yeni kuralları proje şablonuna ekleyip sözleşme öncesi iki tarafa da madde madde onaylatacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_084",
+      "speaker": "刘梅",
+      "zh": "这样以后遇到转发、裁切或付费推广，也有明确依据可查。",
+      "pinyin": "zhè yàng yǐ hòu yù dào zhuǎn fā 、 cái qiè huò fù fèi tuī guǎng ， yě yǒu míng què yī jù kě chá 。",
+      "tr": "Böylece paylaşım, kırpma veya ücretli reklamda da başvurabileceğimiz açık kurallar olur."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_085",
+      "speaker": "张乐乐",
+      "zh": "律师提醒我们，保存资料时要限制访问权限并保护客户隐私。",
+      "pinyin": "lǜ shī tí xǐng wǒ men ， bǎo cún zī liào shí yào xiàn zhì fǎng wèn quán xiàn bìng bǎo hù kè hù yǐn sī 。",
+      "tr": "Avukat belgeleri saklarken erişimi sınırlayıp müşterinin mahremiyetini korumamızı hatırlattı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_086",
+      "speaker": "客户",
+      "zh": "我会把文件存入受限文件夹，只向负责处理的人开放。",
+      "pinyin": "wǒ huì bǎ wén jiàn cún rù shòu xiàn wén jiàn jiā ， zhǐ xiàng fù zé chǔ lǐ de rén kāi fàng 。",
+      "tr": "Dosyaları erişimi kısıtlı bir klasöre koyup yalnızca sorumlulara açacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_087",
+      "speaker": "律师",
+      "zh": "客户还希望我们保留原始照片和每次授权变更记录。",
+      "pinyin": "kè hù hái xī wàng wǒ men bǎo liú yuán shǐ zhào piān hé měi cì shòu quán biàn gēng jì lù 。",
+      "tr": "Müşteri özgün fotoğrafları ve her izin değişikliğinin kaydını da saklamamızı istiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_088",
+      "speaker": "刘梅",
+      "zh": "可以按项目编号归档，记录日期、用途、期限和批准人。",
+      "pinyin": "kě yǐ àn xiàng mù biān hào guī dàng ， jì lù rì qī 、 yòng tú 、 qī xiàn hé pī zhǔn rén 。",
+      "tr": "Proje numarasına göre arşivleyip tarihi, amacı, süreyi ve onaylayanı kaydedebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_089",
+      "speaker": "张乐乐",
+      "zh": "这次问题解决后，客户对我们的处理方式还满意吗？",
+      "pinyin": "zhè cì wèn tí jiě jué hòu ， kè hù duì wǒ men de chǔ lǐ fāng shì hái mǎn yì ma ？",
+      "tr": "Sorun çözüldükten sonra müşteri yaklaşımımızdan memnun kaldı mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_090",
+      "speaker": "客户",
+      "zh": "他感谢我们及时回应，也认可先核实事实、再分步处理的做法。",
+      "pinyin": "tā gǎn xiè wǒ men jí shí huí yìng ， yě rèn kě xiān hé shí shì shí 、 zài fēn bù chǔ lǐ de zuò fǎ 。",
+      "tr": "Zamanında yanıt verdiğimiz için teşekkür etti; önce gerçeği doğrulayıp adım adım ilerlememizi de doğru buldu."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_091",
+      "speaker": "律师",
+      "zh": "我觉得这次学到的不只是合同条款，还有遇到争议时怎样保持冷静。",
+      "pinyin": "wǒ jué de zhè cì xué dào de bù zhǐ shì hé tóng tiáo kuǎn ， hái yǒu yù dào zhēng yì shí zěn yàng bǎo chí lěng jìng 。",
+      "tr": "Bu olaydan yalnızca sözleşme maddelerini değil, anlaşmazlıkta nasıl sakin kalacağımızı da öğrendim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_092",
+      "speaker": "刘梅",
+      "zh": "先确认事实、倾听各方，再说明边界，确实比急着争辩有效。",
+      "pinyin": "xiān què rèn shì shí 、 qīng tīng gè fāng ， zài shuō míng biān jiè ， què shí bǐ jí zhe zhēng biàn yǒu xiào 。",
+      "tr": "Önce olguları doğrulayıp herkesi dinlemek, sonra sınırları açıklamak acele tartışmaktan daha etkili."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_093",
+      "speaker": "张乐乐",
+      "zh": "我们需要把这些经验分享给工作室其他摄影师吗？",
+      "pinyin": "wǒ men xū yào bǎ zhè xiē jīng yàn fēn xiǎng gěi gōng zuò shì qí tā shè yǐng shī ma ？",
+      "tr": "Bu deneyimi stüdyodaki diğer fotoğrafçılarla paylaşalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_094",
+      "speaker": "客户",
+      "zh": "可以做内部案例讨论，删去客户身份和敏感细节后再分享。",
+      "pinyin": "kě yǐ zuò nèi bù àn lì tǎo lùn ， shān qù kè hù shēn fèn hé mǐn gǎn xì jié hòu zài fēn xiǎng 。",
+      "tr": "İç eğitimde örnek olarak ele alabiliriz; önce müşteri kimliğini ve hassas ayrıntıları çıkaralım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_095",
+      "speaker": "律师",
+      "zh": "我会整理一页流程：发现问题、保存证据、联系负责人、征求专业意见。",
+      "pinyin": "wǒ huì zhěng lǐ yī yè liú chéng ： fā xiàn wèn tí 、 bǎo cún zhèng jù 、 lián xì fù zé rén 、 zhēng qiú zhuān yè yì jiàn 。",
+      "tr": "Sorunu fark etme, kanıtı koruma, sorumluya ulaşma ve uzmana danışma adımlarını tek sayfada özetleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_096",
+      "speaker": "刘梅",
+      "zh": "也写明未经确认不要公开回应，避免一句话让局面更复杂。",
+      "pinyin": "yě xiě míng wèi jīng què rèn bú yào gōng kāi huí yìng ， bì miǎn yī jù huà ràng jú miàn gèng fù zá 。",
+      "tr": "Doğrulanmamış konularda kamuya açıklama yapılmaması gerektiğini de ekleyelim; tek cümle işi zorlaştırabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_097",
+      "speaker": "张乐乐",
+      "zh": "客户已收到最终文件，也确认新协议和记录都保存妥当。",
+      "pinyin": "kè hù yǐ shōu dào zuì zhōng wén jiàn ， yě què rèn xīn xié yì hé jì lù dōu bǎo cún tuǒ dàng 。",
+      "tr": "Müşteri nihai dosyaları aldı ve yeni sözleşmeyle kayıtların saklandığını doğruladı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_098",
+      "speaker": "客户",
+      "zh": "我把项目标记为完成，同时保留后续检查授权范围的提醒。",
+      "pinyin": "wǒ bǎ xiàng mù biāo jì wèi wán chéng ， tóng shí bǎo liú hòu xù jiǎn chá shòu quán fàn wéi de tí xǐng 。",
+      "tr": "Projeyi tamamlandı olarak işaretleyip ileride izin kapsamını kontrol etme notu bırakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_099",
+      "speaker": "律师",
+      "zh": "谢谢你们专业又谨慎地处理这件事。希望今后合作时规则都更清楚。",
+      "pinyin": "xiè xiè nǐ men zhuān yè yòu jǐn shèn dì chǔ lǐ zhè jiàn shì 。 xī wàng jīn hòu hé zuò shí guī zé dōu gèng qīng chǔ 。",
+      "tr": "Bu konuyu dikkatli ve profesyonel yönettiğiniz için teşekkürler. Umarım sonraki işlerde kurallarımız daha açık olur."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC013_100",
+      "speaker": "刘梅",
+      "zh": "我们也感谢客户愿意沟通。这次经历让双方更知道如何保护作品与信任。",
+      "pinyin": "wǒ men yě gǎn xiè kè hù yuàn yì gōu tōng 。 zhè cì jīng lì ràng shuāng fāng gèng zhī dào rú hé bǎo hù zuò pǐn yǔ xìn rèn 。",
+      "tr": "İletişime açık olduğu için biz de müşteriye teşekkür ederiz. Bu deneyim eseri ve güveni korumayı öğretti."
+    }
+  ]
+}

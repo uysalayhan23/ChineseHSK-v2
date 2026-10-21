@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC025.json",
-  "dialogueSha256": "37471ac8f7d7123f026c697a532aadd8c24e4572a2ae73348e0ea76f00ebf21e",
+  "dialogueSha256": "284bf1e1381f83dbbc6ecad3d4739e3ca69597c1a03ad8500da1b1d3426639ef",
   "titleTr": "Zhang’ın İş-Yaşam Dengesi",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Zhang fazla çalışmanın aile ve sağlığı üzerindeki etkisini fark eder.",

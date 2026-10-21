@@ -1,0 +1,730 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK1_SC024",
+  "level": "HSK1",
+  "sourceTitleZh": "乐乐的第一天",
+  "sourceTitleTr": "Lele’nin İlkokulu",
+  "sourceMiniAdventureTr": "Lele annesinden ayrılmak istemez; öğretmen onu rahatlatır.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK1_SC024_001",
+      "speaker": "张乐乐",
+      "zh": "妈妈，你现在就要走吗？",
+      "pinyin": "Mā ma, nǐ xiàn zài jiù yào zǒu ma?",
+      "tr": "Anne, şimdi mi gideceksin?",
+      "emotion": "worried",
+      "actionTr": "Annesinin elini tutarak kapıda durur."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_002",
+      "speaker": "刘梅",
+      "zh": "先不急，妈妈陪你在门口站一会儿。",
+      "pinyin": "Xiān bù jí, mā ma péi nǐ zài mén kǒu zhàn yī huì er.",
+      "tr": "Acele etmeyelim, annen seninle kapıda biraz dursun.",
+      "emotion": "comforting",
+      "actionTr": "Liu Mei oğluna eğilip acele etmeden güven verir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_003",
+      "speaker": "老师",
+      "zh": "乐乐，你可以先看看教室，不用马上放开妈妈。",
+      "pinyin": "Lè le, nǐ kě yǐ xiān kàn kàn jiào shì, bù yòng mǎ shàng fàng kāi mā ma.",
+      "tr": "Lele, önce sınıfa bakabilirsin, anneni hemen bırakman gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_004",
+      "speaker": "同学",
+      "zh": "我也在这里，你想看哪里，我可以指给你。",
+      "pinyin": "Wǒ yě zài zhè lǐ, nǐ xiǎng kàn nǎ lǐ, wǒ kě yǐ zhǐ gěi nǐ.",
+      "tr": "Ben de buradayım, görmek istediğin yeri sana gösterebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_005",
+      "speaker": "张乐乐",
+      "zh": "我想看，可是我不认识里面的人。",
+      "pinyin": "Wǒ xiǎng kàn, kě shì wǒ bù rèn shí lǐ miàn de rén.",
+      "tr": "Bakmak istiyorum ama içeridekileri tanımıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_006",
+      "speaker": "刘梅",
+      "zh": "我知道，新学校里都是新面孔，会有点怕。",
+      "pinyin": "Wǒ zhī dào, xīn xué xiào lǐ dōu shì xīn miàn kǒng, huì yǒu diǎn pà.",
+      "tr": "Biliyorum, yeni okulda hep yeni yüzler var, biraz korkabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_007",
+      "speaker": "老师",
+      "zh": "没关系，我们先认识一个人就好。",
+      "pinyin": "Méi guān xì, wǒ men xiān rèn shí yí gè rén jiù hǎo.",
+      "tr": "Sorun değil, önce bir kişiyi tanıman yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_008",
+      "speaker": "同学",
+      "zh": "那先认识我吧，我也是这个班的学生。",
+      "pinyin": "Nà xiān rèn shí wǒ ba, wǒ yě shì zhè ge bān de xué shēng.",
+      "tr": "O zaman önce beni tanı, ben de bu sınıfın öğrencisiyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_009",
+      "speaker": "张乐乐",
+      "zh": "你每天都来这里吗？",
+      "pinyin": "Nǐ měi tiān dōu lái zhè lǐ ma?",
+      "tr": "Sen her gün buraya mı geliyorsun?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_010",
+      "speaker": "刘梅",
+      "zh": "你看，他愿意和你说话，你可以慢慢问。",
+      "pinyin": "Nǐ kàn, tā yuàn yì hé nǐ shuō huà, nǐ kě yǐ màn màn wèn.",
+      "tr": "Bak, seninle konuşmak istiyor, sakince sorabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_011",
+      "speaker": "老师",
+      "zh": "上学的时候他就在这里，今天可以陪你看看。",
+      "pinyin": "Shàng xué de shí hòu tā jiù zài zhè lǐ, jīn tiān kě yǐ péi nǐ kàn kàn.",
+      "tr": "Okul günlerinde burada oluyor, bugün seninle etrafa bakabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_012",
+      "speaker": "同学",
+      "zh": "对，我的座位就在里面，不用走很远。",
+      "pinyin": "Duì, wǒ de zuò wèi jiù zài lǐ miàn, bù yòng zǒu hěn yuǎn.",
+      "tr": "Evet, yerim içeride, çok uzağa gitmemiz gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_013",
+      "speaker": "张乐乐",
+      "zh": "可是妈妈走了，我找不到她怎么办？",
+      "pinyin": "Kě shì mā ma zǒu le, wǒ zhǎo bú dào tā zěn me bàn?",
+      "tr": "Ama annem giderse onu bulamazsam ne yaparım?",
+      "emotion": "worried",
+      "actionTr": "Annesi gittiğinde onu bulamamaktan endişelenir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_014",
+      "speaker": "刘梅",
+      "zh": "放学我会来接你，还是在这个门口等。",
+      "pinyin": "Fàng xué wǒ huì lái jiē nǐ, hái shì zài zhè ge mén kǒu děng.",
+      "tr": "Ders bitince seni almaya geleceğim, yine bu kapıda bekleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_015",
+      "speaker": "老师",
+      "zh": "想妈妈的时候可以告诉老师，我会听你说。",
+      "pinyin": "Xiǎng mā ma de shí hòu kě yǐ gào sù lǎo shī, wǒ huì tīng nǐ shuō.",
+      "tr": "Anneni özleyince öğretmene söyleyebilirsin, seni dinlerim.",
+      "emotion": "comforting",
+      "actionTr": "Öğretmen çocukla aynı hizaya inip dinleyeceğini söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_016",
+      "speaker": "同学",
+      "zh": "我刚来的时候也想妈妈，不是只有你这样。",
+      "pinyin": "Wǒ gāng lái de shí hòu yě xiǎng mā ma, bú shì zhǐ yǒu nǐ zhè yàng.",
+      "tr": "İlk geldiğimde ben de annemi özledim, yalnız sen böyle değilsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_017",
+      "speaker": "张乐乐",
+      "zh": "真的吗？你也不想让妈妈走？",
+      "pinyin": "Zhēn de ma? nǐ yě bù xiǎng ràng mā ma zǒu?",
+      "tr": "Gerçekten mi? Sen de annenin gitmesini istemiyor muydun?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_018",
+      "speaker": "刘梅",
+      "zh": "孩子想妈妈很正常，不用觉得不好意思。",
+      "pinyin": "Hái zi xiǎng mā ma hěn zhèng cháng, bù yòng jué de bù hǎo yì sī.",
+      "tr": "Çocukların annelerini özlemesi normal, utanmana gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_019",
+      "speaker": "老师",
+      "zh": "对，我们不会因为你想妈妈就笑你。",
+      "pinyin": "Duì, wǒ men bú huì yīn wèi nǐ xiǎng mā ma jiù xiào nǐ.",
+      "tr": "Evet, anneni özledin diye sana gülmeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_020",
+      "speaker": "同学",
+      "zh": "后来我认识了朋友，就没有一直盯着门了。",
+      "pinyin": "Hòu lái wǒ rèn shí le péng yǒu, jiù méi yǒu yì zhí dīng zhe mén le.",
+      "tr": "Sonra arkadaşlar tanıdım, sürekli kapıya bakmaz oldum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_021",
+      "speaker": "张乐乐",
+      "zh": "那我也可以先认识一个朋友吗？",
+      "pinyin": "Nà wǒ yě kě yǐ xiān rèn shí yí gè péng yǒu ma?",
+      "tr": "O zaman ben de önce bir arkadaş tanıyabilir miyim?",
+      "emotion": "curious",
+      "actionTr": "Yeni arkadaşına bakıp çekingen bir soru sorar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_022",
+      "speaker": "刘梅",
+      "zh": "当然，你刚才已经和他聊起来了。",
+      "pinyin": "Dāng rán, nǐ gāng cái yǐ jīng hé tā liáo qǐ lái le.",
+      "tr": "Elbette, onunla konuşmaya başladın bile."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_023",
+      "speaker": "老师",
+      "zh": "你们可以一起看教室里的书和桌子。",
+      "pinyin": "Nǐ men kě yǐ yì qǐ kàn jiào shì lǐ de shū hé zhuō zi.",
+      "tr": "Sınıftaki kitaplara ve masalara birlikte bakabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_024",
+      "speaker": "同学",
+      "zh": "我带你看，不过我们慢慢走，不跑。",
+      "pinyin": "Wǒ dài nǐ kàn, bù guò wǒ men màn màn zǒu, bù pǎo.",
+      "tr": "Sana gösteririm, ama sakince yürürüz, koşmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_025",
+      "speaker": "张乐乐",
+      "zh": "妈妈，你在这里看着我进去，好不好？",
+      "pinyin": "Mā ma, nǐ zài zhè lǐ kàn zhe wǒ jìn qù, hǎo bù hǎo?",
+      "tr": "Anne, buradan içeri girmemi izler misin?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_026",
+      "speaker": "刘梅",
+      "zh": "好，我看着你。你不必一下走到最里面。",
+      "pinyin": "Hǎo, wǒ kàn zhe nǐ. nǐ bù bì yī xià zǒu dào zuì lǐ miàn.",
+      "tr": "Tamam, seni izlerim. Birden en içeri gitmen gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_027",
+      "speaker": "老师",
+      "zh": "先走到门边那张桌子就可以，我就在旁边。",
+      "pinyin": "Xiān zǒu dào mén biān nà zhāng zhuō zi jiù kě yǐ, wǒ jiù zài páng biān.",
+      "tr": "Önce kapının yanındaki masaya gelsen yeter, ben hemen yanındayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_028",
+      "speaker": "同学",
+      "zh": "这张桌子上有书，你可以先看一本。",
+      "pinyin": "Zhè zhāng zhuō zi shàng yǒu shū, nǐ kě yǐ xiān kàn yī běn.",
+      "tr": "Bu masada kitaplar var, önce birine bakabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_029",
+      "speaker": "张乐乐",
+      "zh": "我手还是想拉着妈妈。",
+      "pinyin": "Wǒ shǒu hái shì xiǎng lā zhe mā ma.",
+      "tr": "Hâlâ annemin elini tutmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_030",
+      "speaker": "刘梅",
+      "zh": "那先拉着吧，等你准备好了再松开。",
+      "pinyin": "Nà xiān lā zhe ba, děng nǐ zhǔn bèi hǎo le zài sōng kāi.",
+      "tr": "O zaman önce tut, hazır olunca bırakırsın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_031",
+      "speaker": "老师",
+      "zh": "我们不催你，你可以先说说想看的东西。",
+      "pinyin": "Wǒ men bù cuī nǐ, nǐ kě yǐ xiān shuō shuō xiǎng kàn de dōng xi.",
+      "tr": "Seni acele ettirmiyoruz, önce ne görmek istediğini söyleyebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_032",
+      "speaker": "同学",
+      "zh": "我喜欢那本有小猫的书，你也喜欢猫吗？",
+      "pinyin": "Wǒ xǐ huan nà běn yǒu xiǎo māo de shū, nǐ yě xǐ huan māo ma?",
+      "tr": "Ben kedili kitabı seviyorum, sen de kedileri sever misin?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_033",
+      "speaker": "张乐乐",
+      "zh": "喜欢，我家的猫叫咪咪，现在在家里。",
+      "pinyin": "Xǐ huan, wǒ jiā de māo jiào mī mī, xiàn zài zài jiā lǐ.",
+      "tr": "Severim, kedimizin adı Mimi, şimdi evde."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_034",
+      "speaker": "刘梅",
+      "zh": "对，咪咪在家，乐乐今天来学校认识朋友。",
+      "pinyin": "Duì, mī mī zài jiā, lè le jīn tiān lái xué xiào rèn shí péng yǒu.",
+      "tr": "Evet, Mimi evde, Lele bugün okula arkadaş tanımaya geldi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_035",
+      "speaker": "老师",
+      "zh": "你愿意的话，可以把咪咪的事讲给我们听。",
+      "pinyin": "Nǐ yuàn yì de huà, kě yǐ bǎ mī mī de shì jiǎng gěi wǒ men tīng.",
+      "tr": "İstersen bize Mimi’den söz edebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_036",
+      "speaker": "同学",
+      "zh": "我想听，它是大猫还是小猫？",
+      "pinyin": "Wǒ xiǎng tīng, tā shì dà māo hái shì xiǎo māo?",
+      "tr": "Dinlemek isterim, büyük kedi mi küçük kedi mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_037",
+      "speaker": "张乐乐",
+      "zh": "不算很大，它有时候会躲起来睡觉。",
+      "pinyin": "Bù suàn hěn dà, tā yǒu shí hòu huì duǒ qǐ lái shuì jiào.",
+      "tr": "Çok büyük değil, bazen saklanıp uyur."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_038",
+      "speaker": "刘梅",
+      "zh": "你讲猫的时候，刚才怕的感觉有没有少一点？",
+      "pinyin": "Nǐ jiǎng māo de shí hòu, gāng cái pà de gǎn jué yǒu méi yǒu shǎo yì diǎn?",
+      "tr": "Kediden söz ederken az önceki korkun biraz azaldı mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_039",
+      "speaker": "老师",
+      "zh": "没有完全不怕也没关系，慢慢来。",
+      "pinyin": "Méi yǒu wán quán bù pà yě méi guān xì, màn màn lái.",
+      "tr": "Tamamen geçmemesi de sorun değil, yavaş yavaş."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_040",
+      "speaker": "同学",
+      "zh": "我刚才听你讲，都想去看咪咪了。",
+      "pinyin": "Wǒ gāng cái tīng nǐ jiǎng, dōu xiǎng qù kàn mī mī le.",
+      "tr": "Seni dinleyince Mimi’yi görmek istedim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_041",
+      "speaker": "张乐乐",
+      "zh": "少一点了，可是妈妈走的时候我还是会难过。",
+      "pinyin": "Shǎo yì diǎn le, kě shì mā ma zǒu de shí hòu wǒ hái shì huì nán guò.",
+      "tr": "Biraz azaldı ama annem giderken yine üzülürüm.",
+      "emotion": "sad",
+      "actionTr": "Annesi ayrılırken üzüleceğini söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_042",
+      "speaker": "刘梅",
+      "zh": "难过也可以告诉我们，不用自己忍着。",
+      "pinyin": "Nán guò yě kě yǐ gào sù wǒ men, bù yòng zì jǐ rěn zhe.",
+      "tr": "Üzüldüğünü bize söyleyebilirsin, içine atman gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_043",
+      "speaker": "老师",
+      "zh": "你想哭也没关系，老师会陪着你。",
+      "pinyin": "Nǐ xiǎng kū yě méi guān xì, lǎo shī huì péi zhe nǐ.",
+      "tr": "Ağlamak istersen de sorun değil, öğretmenin yanında olacak.",
+      "emotion": "comforting",
+      "actionTr": "Öğretmen ağlamanın utanılacak şey olmadığını söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_044",
+      "speaker": "同学",
+      "zh": "我不会笑你，我可以坐在你旁边。",
+      "pinyin": "Wǒ bú huì xiào nǐ, wǒ kě yǐ zuò zài nǐ páng biān.",
+      "tr": "Sana gülmem, yanında oturabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_045",
+      "speaker": "张乐乐",
+      "zh": "那你叫什么？我还不知道你的名字。",
+      "pinyin": "Nà nǐ jiào shén me? wǒ hái bù zhī dào nǐ de míng zi.",
+      "tr": "Peki adın ne? Adını henüz bilmiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_046",
+      "speaker": "刘梅",
+      "zh": "问得好，先认识名字，以后就知道叫谁了。",
+      "pinyin": "Wèn de hǎo, xiān rèn shí míng zi, yǐ hòu jiù zhī dào jiào shuí le.",
+      "tr": "Güzel sordun, önce adını öğren, sonra kime sesleneceğini bilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_047",
+      "speaker": "老师",
+      "zh": "我们让他自己说，你仔细听就好。",
+      "pinyin": "Wǒ men ràng tā zì jǐ shuō, nǐ zǐ xì tīng jiù hǎo.",
+      "tr": "Kendisi söylesin, sen dikkatle dinle yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_048",
+      "speaker": "同学",
+      "zh": "我叫小杰，你叫乐乐，对不对？",
+      "pinyin": "Wǒ jiào xiǎo jié, nǐ jiào lè le, duì bú duì?",
+      "tr": "Benim adım Xiaojie, senin adın Lele, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_049",
+      "speaker": "张乐乐",
+      "zh": "对，你已经知道我的名字了？",
+      "pinyin": "Duì, nǐ yǐ jīng zhī dào wǒ de míng zi le?",
+      "tr": "Evet, adımı öğrendin bile mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_050",
+      "speaker": "刘梅",
+      "zh": "你刚才和老师说话，他就在旁边听着呢。",
+      "pinyin": "Nǐ gāng cái hé lǎo shī shuō huà, tā jiù zài páng biān tīng zhe ne.",
+      "tr": "Az önce öğretmenle konuşurken yanımızda dinliyordu."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_051",
+      "speaker": "老师",
+      "zh": "你们记住名字，就可以互相打招呼了。",
+      "pinyin": "Nǐ men jì zhù míng zi, jiù kě yǐ hù xiāng dǎ zhāo hū le.",
+      "tr": "Adlarınızı öğrenince birbirinize seslenebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_052",
+      "speaker": "同学",
+      "zh": "乐乐，你看，我没有叫错吧。",
+      "pinyin": "Lè le, nǐ kàn, wǒ méi yǒu jiào cuò ba.",
+      "tr": "Lele, bak, yanlış söylemedim değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_053",
+      "speaker": "张乐乐",
+      "zh": "没有，小杰，我也记住了。",
+      "pinyin": "Méi yǒu, xiǎo jié, wǒ yě jì zhù le.",
+      "tr": "Yanlış değil, Xiaojie, ben de öğrendim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_054",
+      "speaker": "刘梅",
+      "zh": "那妈妈现在看见你有新朋友了。",
+      "pinyin": "Nà mā ma xiàn zài kàn jiàn nǐ yǒu xīn péng yǒu le.",
+      "tr": "Annen de yeni bir arkadaşın olduğunu gördü şimdi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_055",
+      "speaker": "老师",
+      "zh": "先不急着做别的，我们看看书放在哪里。",
+      "pinyin": "Xiān bù jí zhe zuò bié de, wǒ men kàn kàn shū fàng zài nǎ lǐ.",
+      "tr": "Başka şeylere acele etmeyelim, önce kitaplar nerede bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_056",
+      "speaker": "同学",
+      "zh": "就在桌子上，蓝色那本里面有小猫。",
+      "pinyin": "Jiù zài zhuō zi shàng, lán sè nà běn lǐ miàn yǒu xiǎo māo.",
+      "tr": "Masanın üzerinde, mavi olanın içinde küçük kedi var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_057",
+      "speaker": "张乐乐",
+      "zh": "我可以拿起来看吗？",
+      "pinyin": "Wǒ kě yǐ ná qǐ lái kàn ma?",
+      "tr": "Elime alıp bakabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_058",
+      "speaker": "刘梅",
+      "zh": "问老师就好，学校里的东西要好好爱惜。",
+      "pinyin": "Wèn lǎo shī jiù hǎo, xué xiào lǐ de dōng xi yào hǎo hǎo ài xī.",
+      "tr": "Öğretmene sor, okul eşyalarını özenle kullanmalısın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_059",
+      "speaker": "老师",
+      "zh": "可以，轻轻拿，坐下来再打开。",
+      "pinyin": "Kě yǐ, qīng qīng ná, zuò xià lái zài dǎ kāi.",
+      "tr": "Olur, yavaşça al, oturunca aç."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_060",
+      "speaker": "同学",
+      "zh": "我帮你把椅子拉出来，不过你自己坐。",
+      "pinyin": "Wǒ bāng nǐ bǎ yǐ zi lā chū lái, bù guò nǐ zì jǐ zuò.",
+      "tr": "Sandalyeyi sana çekerim ama kendin oturursun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_061",
+      "speaker": "张乐乐",
+      "zh": "妈妈，我先坐一下，你还在门口吗？",
+      "pinyin": "Mā ma, wǒ xiān zuò yī xià, nǐ hái zài mén kǒu ma?",
+      "tr": "Anne, önce biraz oturayım, hâlâ kapıda mısın?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_062",
+      "speaker": "刘梅",
+      "zh": "在，我现在还看着你，放学也会来。",
+      "pinyin": "Zài, wǒ xiàn zài hái kàn zhe nǐ, fàng xué yě huì lái.",
+      "tr": "Buradayım, şimdi seni izliyorum, ders bitince de geleceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_063",
+      "speaker": "老师",
+      "zh": "我在你们旁边，想问什么都可以说。",
+      "pinyin": "Wǒ zài nǐ men páng biān, xiǎng wèn shén me dōu kě yǐ shuō.",
+      "tr": "Ben de yanınızdayım, ne sormak isterseniz söyleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_064",
+      "speaker": "同学",
+      "zh": "这把椅子不高，我第一次坐也试了试。",
+      "pinyin": "Zhè bǎ yǐ zi bù gāo, wǒ dì yī cì zuò yě shì le shì.",
+      "tr": "Bu sandalye yüksek değil, ben de ilk otururken denedim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_065",
+      "speaker": "张乐乐",
+      "zh": "坐好了，我的脚还碰得到地上。",
+      "pinyin": "Zuò hǎo le, wǒ de jiǎo hái pèng de dào dì shàng.",
+      "tr": "Oturdum, ayaklarım da yere değiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_066",
+      "speaker": "刘梅",
+      "zh": "那很好，坐着舒服就慢慢看书。",
+      "pinyin": "Nà hěn hǎo, zuò zhe shū fú jiù màn màn kàn shū.",
+      "tr": "Güzel, rahatsan sakince kitaba bak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_067",
+      "speaker": "老师",
+      "zh": "包可以放在椅子旁边，别挡住大家走路。",
+      "pinyin": "Bāo kě yǐ fàng zài yǐ zi páng biān, bié dǎng zhù dà jiā zǒu lù.",
+      "tr": "Çantanı sandalyenin yanına koyabilirsin, geçiş yerini kapatmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_068",
+      "speaker": "同学",
+      "zh": "你把包放这边吧，走路的人不会碰到。",
+      "pinyin": "Nǐ bǎ bāo fàng zhè biān ba, zǒu lù de rén bú huì pèng dào.",
+      "tr": "Çantanı bu tarafa koy, geçenler takılmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_069",
+      "speaker": "张乐乐",
+      "zh": "我一只手拿书，另一只手还是想找妈妈。",
+      "pinyin": "Wǒ yī zhī shǒu ná shū, lìng yī zhī shǒu hái shì xiǎng zhǎo mā ma.",
+      "tr": "Bir elimle kitap tutuyorum, öbür elim hâlâ annemi arıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_070",
+      "speaker": "刘梅",
+      "zh": "妈妈握一下你的手，再给你一个抱抱，好吗？",
+      "pinyin": "Mā ma wò yī xià nǐ de shǒu, zài gěi nǐ yí gè bào bào, hǎo ma?",
+      "tr": "Annen elini bir kez tutsun, sonra sana sarılsın, olur mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_071",
+      "speaker": "老师",
+      "zh": "可以先好好说再见，不用偷偷走。",
+      "pinyin": "Kě yǐ xiān hǎo hǎo shuō zài jiàn, bù yòng tōu tōu zǒu.",
+      "tr": "Önce güzelce vedalaşabilirsiniz, gizlice gitmeye gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_072",
+      "speaker": "同学",
+      "zh": "我在这里等你，你抱完再来看书。",
+      "pinyin": "Wǒ zài zhè lǐ děng nǐ, nǐ bào wán zài lái kàn shū.",
+      "tr": "Burada beklerim, sarılınca kitabı okumaya dönersin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_073",
+      "speaker": "张乐乐",
+      "zh": "好，妈妈，你抱我一下。",
+      "pinyin": "Hǎo, mā ma, nǐ bào wǒ yī xià.",
+      "tr": "Tamam anne, bana sarıl.",
+      "emotion": "sad",
+      "actionTr": "Lele annesine sarılmak ister."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_074",
+      "speaker": "刘梅",
+      "zh": "来，妈妈抱抱。你想我的时候，我也会想你。",
+      "pinyin": "Lái, mā ma bào bào. nǐ xiǎng wǒ de shí hòu, wǒ yě huì xiǎng nǐ.",
+      "tr": "Gel, annen sarılsın. Sen beni özlerken ben de seni özlerim.",
+      "emotion": "comforting",
+      "actionTr": "Liu Mei oğlunu kucaklar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_075",
+      "speaker": "老师",
+      "zh": "我们会一起读书，也会一起休息。",
+      "pinyin": "Wǒ men huì yì qǐ dú shū, yě huì yì qǐ xiū xī.",
+      "tr": "Birlikte kitap okuyacağız, birlikte dinleneceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_076",
+      "speaker": "同学",
+      "zh": "休息的时候我带你看窗边那盆小花。",
+      "pinyin": "Xiū xī de shí hòu wǒ dài nǐ kàn chuāng biān nà pén xiǎo huā.",
+      "tr": "Dinlenirken pencerenin yanındaki küçük çiçeği gösteririm."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_077",
+      "speaker": "张乐乐",
+      "zh": "那我今天有书看，还有花看。",
+      "pinyin": "Nà wǒ jīn tiān yǒu shū kàn, hái yǒu huā kàn.",
+      "tr": "O zaman bugün kitaba da çiçeğe de bakabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_078",
+      "speaker": "刘梅",
+      "zh": "还有老师和朋友陪你，妈妈放学来接你。",
+      "pinyin": "Hái yǒu lǎo shī hé péng yǒu péi nǐ, mā ma fàng xué lái jiē nǐ.",
+      "tr": "Öğretmenin ve arkadaşın da yanında, annen ders bitince seni alacak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_079",
+      "speaker": "老师",
+      "zh": "对，先过好现在这一会儿，不用一直数时间。",
+      "pinyin": "Duì, xiān guò hǎo xiàn zài zhè yī huì er, bù yòng yì zhí shù shí jiān.",
+      "tr": "Evet, önce bu anı yaşayalım, sürekli zaman saymana gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_080",
+      "speaker": "同学",
+      "zh": "我先翻一页，你看见小猫了就告诉我。",
+      "pinyin": "Wǒ xiān fān yī yè, nǐ kàn jiàn xiǎo māo le jiù gào sù wǒ.",
+      "tr": "Önce bir sayfa açayım, kediyi görünce bana söyle."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_081",
+      "speaker": "张乐乐",
+      "zh": "看见了，它躲在桌子下面，和咪咪有点像。",
+      "pinyin": "Kàn jiàn le, tā duǒ zài zhuō zi xià miàn, hé mī mī yǒu diǎn xiàng.",
+      "tr": "Gördüm, masanın altında saklanmış, biraz Mimi’ye benziyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_082",
+      "speaker": "刘梅",
+      "zh": "那你一会儿可以告诉小杰，咪咪平时怎么睡觉。",
+      "pinyin": "Nà nǐ yī huì er kě yǐ gào sù xiǎo jié, mī mī píng shí zěn me shuì jiào.",
+      "tr": "Birazdan Xiaojie’ye Mimi’nin nasıl uyuduğunu anlatabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_083",
+      "speaker": "老师",
+      "zh": "讲自己的事很好，也听听朋友讲什么。",
+      "pinyin": "Jiǎng zì jǐ de shì hěn hǎo, yě tīng tīng péng yǒu jiǎng shén me.",
+      "tr": "Kendinden söz etmen güzel, arkadaşının anlattıklarını da dinle."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_084",
+      "speaker": "同学",
+      "zh": "我家没有猫，不过我很想听你讲。",
+      "pinyin": "Wǒ jiā méi yǒu māo, bù guò wǒ hěn xiǎng tīng nǐ jiǎng.",
+      "tr": "Bizim evde kedi yok ama seni dinlemek isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_085",
+      "speaker": "张乐乐",
+      "zh": "好，那妈妈走了以后，我先讲一点。",
+      "pinyin": "Hǎo, nà mā ma zǒu le yǐ hòu, wǒ xiān jiǎng yì diǎn.",
+      "tr": "Tamam, o zaman annem gidince biraz anlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_086",
+      "speaker": "刘梅",
+      "zh": "可以。妈妈准备走了，你想怎么跟我说再见？",
+      "pinyin": "Kě yǐ. mā ma zhǔn bèi zǒu le, nǐ xiǎng zěn me gēn wǒ shuō zài jiàn?",
+      "tr": "Olur. Annen gitmeye hazırlanıyor, nasıl veda etmek istersin?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_087",
+      "speaker": "老师",
+      "zh": "你可以挥手，也可以说一句，自己选就好。",
+      "pinyin": "Nǐ kě yǐ huī shǒu, yě kě yǐ shuō yī jù, zì jǐ xuǎn jiù hǎo.",
+      "tr": "El sallayabilir veya bir şey söyleyebilirsin, kendin seç."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_088",
+      "speaker": "同学",
+      "zh": "我把书放好，陪你一起到门边挥手。",
+      "pinyin": "Wǒ bǎ shū fàng hǎo, péi nǐ yì qǐ dào mén biān huī shǒu.",
+      "tr": "Kitabı bırakayım, seninle kapının yanında el sallarım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_089",
+      "speaker": "张乐乐",
+      "zh": "妈妈，再见。放学你会在这里，对吗？",
+      "pinyin": "Mā ma, zài jiàn. fàng xué nǐ huì zài zhè lǐ, duì ma?",
+      "tr": "Anne, hoşça kal. Ders bitince burada olacaksın, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_090",
+      "speaker": "刘梅",
+      "zh": "对，就在这个门口。再见，乐乐。",
+      "pinyin": "Duì, jiù zài zhè ge mén kǒu. zài jiàn, lè le.",
+      "tr": "Evet, tam bu kapıda. Hoşça kal Lele."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_091",
+      "speaker": "老师",
+      "zh": "我陪乐乐回座位，您放心去吧。",
+      "pinyin": "Wǒ péi lè le huí zuò wèi, nín fàng xīn qù ba.",
+      "tr": "Lele’yle yerine dönerim, içiniz rahat olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_092",
+      "speaker": "同学",
+      "zh": "乐乐，来，我们的书还在那张桌子上。",
+      "pinyin": "Lè le, lái, wǒ men de shū hái zài nà zhāng zhuō zi shàng.",
+      "tr": "Lele, gel, kitabımız hâlâ o masada."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_093",
+      "speaker": "张乐乐",
+      "zh": "我现在还是有一点想妈妈，不过可以走回去了。",
+      "pinyin": "Wǒ xiàn zài hái shì yǒu yì diǎn xiǎng mā ma, bù guò kě yǐ zǒu huí qù le.",
+      "tr": "Hâlâ annemi biraz özlüyorum ama yerime dönebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_094",
+      "speaker": "刘梅",
+      "zh": "妈妈听见了，你不用马上什么都不怕。",
+      "pinyin": "Mā ma tīng jiàn le, nǐ bù yòng mǎ shàng shén me dōu bù pà.",
+      "tr": "Annen duydu, hemen her şeyden korkmamaya başlaman gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_095",
+      "speaker": "老师",
+      "zh": "对，想妈妈和看书可以一起发生。",
+      "pinyin": "Duì, xiǎng mā ma hé kàn shū kě yǐ yì qǐ fā shēng.",
+      "tr": "Evet, anneni özlerken kitap da okuyabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_096",
+      "speaker": "同学",
+      "zh": "我也会陪你，我们先找那只小猫吧。",
+      "pinyin": "Wǒ yě huì péi nǐ, wǒ men xiān zhǎo nà zhǐ xiǎo māo ba.",
+      "tr": "Ben de yanında olurum, önce o küçük kediyi bulalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_097",
+      "speaker": "张乐乐",
+      "zh": "好，妈妈再见，我和小杰去看书了。",
+      "pinyin": "Hǎo, mā ma zài jiàn, wǒ hé xiǎo jié qù kàn shū le.",
+      "tr": "Tamam anne, hoşça kal, Xiaojie’yle kitaba bakacağım.",
+      "emotion": "happy",
+      "actionTr": "Üzüntüsü tamamen geçmese de arkadaşına dönüp el sallar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_098",
+      "speaker": "刘梅",
+      "zh": "再见，孩子，放学见。",
+      "pinyin": "Zài jiàn, hái zi, fàng xué jiàn.",
+      "tr": "Hoşça kal yavrum, ders bitince görüşürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_099",
+      "speaker": "老师",
+      "zh": "来，慢慢走，老师就在这里。",
+      "pinyin": "Lái, màn màn zǒu, lǎo shī jiù zài zhè lǐ.",
+      "tr": "Gel, yavaşça yürü, öğretmenin burada."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC024_100",
+      "speaker": "同学",
+      "zh": "我给你留了旁边的位置，我们一起坐。",
+      "pinyin": "Wǒ gěi nǐ liú le páng biān de wèi zhì, wǒ men yì qǐ zuò.",
+      "tr": "Yanımdaki yeri sana ayırdım, birlikte oturalım."
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC023.json",
-  "dialogueSha256": "4199b7133bba133830921c6fe9828b4142b0742cde2a96f261caf3b49a51a99b",
+  "dialogueSha256": "7e826c663ffd251011e0ca992747ce4b6746ba1d29db14ac78c955efedcda2e5",
   "titleTr": "Bir Müşteri Cüzdanını Unutuyor",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Düzenli bir müşteri cüzdanını unutunca güven meselesi ortaya çıkar.",

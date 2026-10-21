@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC007",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC007.json",
-  "dialogueSha256": "0665f4c770af02bcf5cf1f788f9af9f08895493849372d86ec1889d5f88ff573",
+  "dialogueSha256": "232485526826a3c651872242c2b32671c55ee39774bc3932cdd23e0d549c2850",
   "titleZh": "雨桐的婚礼",
   "titleTr": "Yutong’un Düğünü",
   "locationId": "LOC_ZH_WEDDING_VENUE_001",
@@ -70,5 +70,5 @@
   },
   "narrationPresentation": null,
   "styleReferenceSceneId": "ZH_HSK6_SC001",
-  "qaNoteTr": "Diyalog, konuşmacı kadrosu, yaş sürekliliği ve 1080×1920 WebP kontrolleri geçti. APK build başlatılmadı."
+  "qaNoteTr": "100 tur, düğün günü aile ve dostların katılımıyla ilerleyen doğal konuşma olarak düzenlendi; konuşmacı sırası ve öğrenme hedefleri korundu. Pinyin/Türkçe ve görsel ağız eşleşmeleri doğrulandı."
 }

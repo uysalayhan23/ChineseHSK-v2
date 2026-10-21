@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC043",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC043.json",
-  "dialogueSha256": "0dfa9182c0f0ce3ef559b20892086dc93505c29ec54d09bd8874dcbc906fcd8f",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC043.json",
+  "dialogueSha256": "5dae37e0667a39864cea7618ae12a078f5d04cec0c67c97cdc72598bc712a0ff",
   "titleTr": "Kafede Aile Tarifi",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Büyükannenin tarifi küçük bir denemeden sonra kafe menüsüne girer.",
@@ -69,5 +69,18 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi.",
+  "dialogueTextQA": {
+    "status": "PASS",
+    "turns": 100,
+    "coherenceScore": 93.0,
+    "activeVocabularyCoverage": 1.0,
+    "topicWindowCoverage": 0.8,
+    "duplicateUtterances": 0,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
+  },
+  "allDialogueSpeakersVisible": true,
+  "mouthAnchorReviewStatus": "PASS",
+  "mouthAnchorImageSha256": "bdd7a9cc5da3cfd44e4aa2a88a179c336a5dda170fc1e111dfa4fdd558053874"
 }

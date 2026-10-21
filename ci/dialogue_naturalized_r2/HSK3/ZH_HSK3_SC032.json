@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 1,
+  "status": "FINAL_REVIEWED_V1",
+  "sceneId": "ZH_HSK3_SC032",
+  "level": "HSK3",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK3_SC032_001",
+      "speaker": "张乐乐",
+      "zh": "老师，我看了球队的选拔结果，可是没有我的名字。",
+      "pinyin": "lǎo shī ， wǒ kàn le qiú duì de xuǎn bá jié guǒ ， kě shì méi yǒu wǒ de míng zì 。",
+      "tr": "Öğretmenim, takım seçiminin sonucuna baktım ama adım yok."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_002",
+      "speaker": "老师",
+      "zh": "我知道你很想进队，这个结果让你失望了吧？",
+      "pinyin": "wǒ zhī dào nǐ hěn xiǎng jìn duì ， zhè ge jié guǒ ràng nǐ shī wàng le ba ？",
+      "tr": "Takıma girmeyi çok istediğini biliyorum; sonuç seni hayal kırıklığına uğrattı, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_003",
+      "speaker": "张伟",
+      "zh": "他回家以后一直不说话，我想先听听他的感受。",
+      "pinyin": "tā huí jiā yǐ hòu yì zhí bù shuō huà ， wǒ xiǎng xiān tīng tīng tā de gǎn shòu 。",
+      "tr": "Eve geldiğinden beri konuşmuyor; önce ne hissettiğini dinlemek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_004",
+      "speaker": "刘梅",
+      "zh": "我有点难过，觉得自己练了这么久还是不够好。",
+      "pinyin": "wǒ yǒu diǎn nán guò ， jué de zì jǐ liàn le zhè me jiǔ hái shì bù gòu hǎo 。",
+      "tr": "Biraz üzgünüm; bu kadar çalışmama rağmen yeterince iyi olmadığımı düşünüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_005",
+      "speaker": "张乐乐",
+      "zh": "先别急着这么说，选拔只看那一天的表现。",
+      "pinyin": "xiān bié jí zhe zhè me shuō ， xuǎn bá zhǐ kàn nà yī tiān de biǎo xiàn 。",
+      "tr": "Hemen böyle düşünme; seçme yalnızca o günkü performansına bakıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_006",
+      "speaker": "老师",
+      "zh": "对，你愿意练习已经很好了，结果不代表你不能进队。",
+      "pinyin": "duì ， nǐ yuàn yì liàn xí yǐ jīng hěn hǎo le ， jié guǒ bù dài biǎo nǐ bù néng jìn duì 。",
+      "tr": "Evet, çalışmaya istekli olman güzel; sonuç takıma giremeyeceğin anlamına gelmez."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_007",
+      "speaker": "张伟",
+      "zh": "我们都知道你很喜欢踢球，也看见你每天运动。",
+      "pinyin": "wǒ men dōu zhī dào nǐ hěn xǐ huān tī qiú ， yě kàn jiàn nǐ měi tiān yùn dòng 。",
+      "tr": "Futbolu sevdiğini biliyoruz ve her gün egzersiz yaptığını görüyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_008",
+      "speaker": "刘梅",
+      "zh": "可是这次我真的很失望，不想再去球场了。",
+      "pinyin": "kě shì zhè cì wǒ zhēn de hěn shī wàng ， bù xiǎng zài qù qiú chǎng le 。",
+      "tr": "Ama bu kez gerçekten hayal kırıklığına uğradım; sahaya gitmek istemiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_009",
+      "speaker": "张乐乐",
+      "zh": "我可以告诉你这次选拔时，老师注意到哪些地方。",
+      "pinyin": "wǒ kě yǐ gào sù nǐ zhè cì xuǎn bá shí ， lǎo shī zhù yì dào nǎ xiē dì fāng 。",
+      "tr": "Bu seçmede dikkat ettiğim noktaları sana anlatabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_010",
+      "speaker": "老师",
+      "zh": "是我跑得不够快吗？还是传球错了？",
+      "pinyin": "shì wǒ pǎo dé bù gòu kuài ma ？ hái shì chuán qiú cuò le ？",
+      "tr": "Yeterince hızlı koşamadım mı? Yoksa paslarım mı yanlıştı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_011",
+      "speaker": "张伟",
+      "zh": "先听老师说明，再一起想想下一步怎么做。",
+      "pinyin": "xiān tīng lǎo shī shuō míng ， zài yì qǐ xiǎng xiǎng xià yī bù zěn me zuò 。",
+      "tr": "Önce öğretmenini dinle, sonra sonraki adımı birlikte düşünelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_012",
+      "speaker": "刘梅",
+      "zh": "你跑得很认真，不过接球以后有时没有马上看队友。",
+      "pinyin": "nǐ pǎo dé hěn rèn zhēn ， bù guò jiē qiú yǐ hòu yǒu shí méi yǒu mǎ shàng kàn duì yǒu 。",
+      "tr": "Dikkatli koştun ama topu alınca bazen takım arkadaşlarına hemen bakmadın."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_013",
+      "speaker": "张乐乐",
+      "zh": "原来我只顾着看球，没有注意旁边的人。",
+      "pinyin": "yuán lái wǒ zhǐ gù zhe kàn qiú ， méi yǒu zhù yì páng biān de rén 。",
+      "tr": "Meğer yalnızca topa bakmış, yanımdaki oyuncuları fark etmemişim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_014",
+      "speaker": "老师",
+      "zh": "这是可以练习的，下次训练时我们会做传球练习。",
+      "pinyin": "zhè shì kě yǐ liàn xí de ， xià cì xùn liàn shí wǒ men huì zuò chuán qiú liàn xí 。",
+      "tr": "Bu çalışılabilir; bir sonraki antrenmanda pas çalışması yapacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_015",
+      "speaker": "张伟",
+      "zh": "我可以陪你练习传球，咱们先从近距离开始。",
+      "pinyin": "wǒ kě yǐ péi nǐ liàn xí chuán qiú ， zán men xiān cóng jìn jù lí kāi shǐ 。",
+      "tr": "Pas çalışmasında sana eşlik ederim; önce kısa mesafeden başlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_016",
+      "speaker": "刘梅",
+      "zh": "那我愿意再去运动，但今天想先休息一下。",
+      "pinyin": "nà wǒ yuàn yì zài qù yùn dòng ， dàn jīn tiān xiǎng xiān xiū xī yī xià 。",
+      "tr": "Yeniden egzersiz yapmaya razıyım ama bugün önce dinlenmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_017",
+      "speaker": "张乐乐",
+      "zh": "当然，今天先休息，难过的时候也要照顾好自己。",
+      "pinyin": "dāng rán ， jīn tiān xiān xiū xī ， nán guò de shí hòu yě yào zhào gù hǎo zì jǐ 。",
+      "tr": "Elbette, bugün dinlen; üzgünken kendine iyi bakman da önemli."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_018",
+      "speaker": "老师",
+      "zh": "明天我们再谈学习计划，看看什么时候方便训练。",
+      "pinyin": "míng tiān wǒ men zài tán xué xí jì huà ， kàn kàn shén me shí hòu fāng biàn xùn liàn 。",
+      "tr": "Yarın çalışma planına bakıp ne zaman antrenman yapabileceğimizi konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_019",
+      "speaker": "张伟",
+      "zh": "我不想因为练球把作业拖到太晚。",
+      "pinyin": "wǒ bù xiǎng yīn wèi liàn qiú bǎ zuò yè tuō dào tài wǎn 。",
+      "tr": "Futbol çalışacağım diye ödevlerimi geç saate bırakmak istemiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_020",
+      "speaker": "刘梅",
+      "zh": "可以把训练安排在作业做完以后，每次练半小时。",
+      "pinyin": "kě yǐ bǎ xùn liàn ān pái zài zuò yè zuò wán yǐ hòu ， měi cì liàn bàn xiǎo shí 。",
+      "tr": "Antrenmanı ödevden sonra ayarlayıp her seferinde yarım saat çalışabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_021",
+      "speaker": "张乐乐",
+      "zh": "半小时听起来还可以，不会占掉整个晚上。",
+      "pinyin": "bàn xiǎo shí tīng qǐ lái hái kě yǐ ， bú huì zhàn diào zhěng gè wǎn shàng 。",
+      "tr": "Yarım saat uygun geliyor; bütün akşamımı almaz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_022",
+      "speaker": "老师",
+      "zh": "每周练三次，休息日也留出来，身体才能恢复。",
+      "pinyin": "měi zhōu liàn sān cì ， xiū xī rì yě liú chū lái ， shēn tǐ cái néng huī fù 。",
+      "tr": "Haftada üç kez çalışıp dinlenme günü bırakalım ki vücudun toparlansın."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_023",
+      "speaker": "张伟",
+      "zh": "我把时间写在日历上，做完作业再去球场。",
+      "pinyin": "wǒ bǎ shí jiān xiě zài rì lì shàng ， zuò wán zuò yè zài qù qiú chǎng 。",
+      "tr": "Saatleri takvime yazarım; ödevimi bitirince sahaya giderim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_024",
+      "speaker": "刘梅",
+      "zh": "周二、周四和周六可以吗？其他天我陪你运动。",
+      "pinyin": "zhōu èr 、 zhōu sì hé zhōu liù kě yǐ ma ？ qí tā tiān wǒ péi nǐ yùn dòng 。",
+      "tr": "Salı, perşembe ve cumartesi uygun mu? Diğer günlerde birlikte egzersiz yaparız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_025",
+      "speaker": "张乐乐",
+      "zh": "可以，我也想练跑步，但不能跑得太快。",
+      "pinyin": "kě yǐ ， wǒ yě xiǎng liàn pǎo bù ， dàn bù néng pǎo dé tài kuài 。",
+      "tr": "Olur, koşu da çalışmak istiyorum ama çok hızlı başlamamalıyım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_026",
+      "speaker": "老师",
+      "zh": "先慢跑热身，再练传球，结束以后做伸展。",
+      "pinyin": "xiān màn pǎo rè shēn ， zài liàn chuán qiú ， jié shù yǐ hòu zuò shēn zhǎn 。",
+      "tr": "Önce hafif koşuyla ısın, sonra pas çalış; bitince esneme yap."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_027",
+      "speaker": "张伟",
+      "zh": "老师说得对，运动要有安排，不能一下子练太多。",
+      "pinyin": "lǎo shī shuō dé duì ， yùn dòng yào yǒu ān pái ， bù néng yī xià zi liàn tài duō 。",
+      "tr": "Öğretmenin haklı; egzersiz planlı olmalı, bir anda çok çalışmamalısın."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_028",
+      "speaker": "刘梅",
+      "zh": "如果累了或哪里疼，要停下来告诉我们。",
+      "pinyin": "rú guǒ lèi le huò nǎ lǐ téng ， yào tíng xià lái gào sù wǒ men 。",
+      "tr": "Yorulursan veya bir yerin ağrırsa durup bize söyle."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_029",
+      "speaker": "张乐乐",
+      "zh": "我会注意身体，不舒服就先休息。",
+      "pinyin": "wǒ huì zhù yì shēn tǐ ， bù shū fú jiù xiān xiū xī 。",
+      "tr": "Vücuduma dikkat edeceğim; iyi hissetmezsem dinleneceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_030",
+      "speaker": "老师",
+      "zh": "很好，训练不是为了今天马上进队，是为了慢慢进步。",
+      "pinyin": "hěn hǎo ， xùn liàn bú shì wèi le jīn tiān mǎ shàng jìn duì ， shì wèi le màn màn jìn bù 。",
+      "tr": "Güzel; antrenman bugün hemen takıma girmek için değil, adım adım gelişmek için."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_031",
+      "speaker": "张伟",
+      "zh": "我每天可以练接球十分钟，周末再跟同学踢一会儿。",
+      "pinyin": "wǒ měi tiān kě yǐ liàn jiē qiú shí fēn zhōng ， zhōu mò zài gēn tóng xué tī yī huì er 。",
+      "tr": "Her gün on dakika top kontrolü çalışıp hafta sonu arkadaşlarımla oynayabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_032",
+      "speaker": "刘梅",
+      "zh": "你也可以请同学告诉你，传球时他最需要什么。",
+      "pinyin": "nǐ yě kě yǐ qǐng tóng xué gào sù nǐ ， chuán qiú shí tā zuì xū yào shén me 。",
+      "tr": "Pas verirken neye ihtiyaç duyduğunu arkadaşına sorabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_033",
+      "speaker": "张乐乐",
+      "zh": "我以前不敢问，怕大家觉得我踢得不好。",
+      "pinyin": "wǒ yǐ qián bù gǎn wèn ， pà dà jiā jué de wǒ tī dé bù hǎo 。",
+      "tr": "Eskiden sormaya çekiniyordum; kötü oynadığımı düşünürler diye korkuyordum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_034",
+      "speaker": "老师",
+      "zh": "认真听意见不是承认自己不好，而是找到能练习的地方。",
+      "pinyin": "rèn zhēn tīng yì jiàn bú shì chéng rèn zì jǐ bù hǎo ， ér shì zhǎo dào néng liàn xí de dì fāng 。",
+      "tr": "Görüşleri dikkatle dinlemek kötü olduğunu kabul etmek değil; çalışacağın yeri bulmaktır."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_035",
+      "speaker": "张伟",
+      "zh": "如果同学给我建议，我会先试试，再看看有没有帮助。",
+      "pinyin": "rú guǒ tóng xué gěi wǒ jiàn yì ， wǒ huì xiān shì shì ， zài kàn kàn yǒu méi yǒu bāng zhù 。",
+      "tr": "Arkadaşlarım öneri verirse önce dener, yararlı olup olmadığına bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_036",
+      "speaker": "刘梅",
+      "zh": "我们可以每周聊一次，看看运动安排有没有用。",
+      "pinyin": "wǒ men kě yǐ měi zhōu liáo yī cì ， kàn kàn yùn dòng ān pái yǒu méi yǒu yòng 。",
+      "tr": "Her hafta bir kez konuşup antrenman planının işe yarayıp yaramadığına bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_037",
+      "speaker": "张乐乐",
+      "zh": "老师，下一次球队选拔大概什么时候？",
+      "pinyin": "lǎo shī ， xià yī cì qiú duì xuǎn bá dà gài shén me shí hòu ？",
+      "tr": "Öğretmenim, takımın bir sonraki seçmesi yaklaşık ne zaman?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_038",
+      "speaker": "老师",
+      "zh": "下个月还会选一次，具体日期我确认以后告诉你。",
+      "pinyin": "xià gè yuè hái huì xuǎn yī cì ， jù tǐ rì qī wǒ què rèn yǐ hòu gào sù nǐ 。",
+      "tr": "Gelecek ay tekrar seçme olacak; tarihini netleştirince sana söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_039",
+      "speaker": "张伟",
+      "zh": "还有时间准备，但不要每天只想着选拔。",
+      "pinyin": "hái yǒu shí jiān zhǔn bèi ， dàn bú yào měi tiān zhǐ xiǎng zhe xuǎn bá 。",
+      "tr": "Hazırlanmak için zaman var ama her gün yalnızca seçmeyi düşünme."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_040",
+      "speaker": "刘梅",
+      "zh": "我会按计划练习，也会留时间给作业和休息。",
+      "pinyin": "wǒ huì àn jì huà liàn xí ， yě huì liú shí jiān gěi zuò yè hé xiū xī 。",
+      "tr": "Plana göre çalışır, ödev ve dinlenmeye de zaman bırakırım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_041",
+      "speaker": "张乐乐",
+      "zh": "今天我还很失望，不过听完以后好一点了。",
+      "pinyin": "jīn tiān wǒ hái hěn shī wàng ， bù guò tīng wán yǐ hòu hǎo yì diǎn le 。",
+      "tr": "Bugün hâlâ hayal kırıklığı yaşıyorum ama konuştuktan sonra biraz daha iyiyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_042",
+      "speaker": "老师",
+      "zh": "谢谢你告诉我们选拔时看到的情况，也给他建议。",
+      "pinyin": "xiè xiè nǐ gào sù wǒ men xuǎn bá shí kàn dào de qíng kuàng ， yě gěi tā jiàn yì 。",
+      "tr": "Seçmede gördüklerinizi anlattığınız ve öneri verdiğiniz için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_043",
+      "speaker": "张伟",
+      "zh": "我很高兴你愿意再试一次，不用急着证明什么。",
+      "pinyin": "wǒ hěn gāo xìng nǐ yuàn yì zài shì yī cì ， bù yòng jí zhe zhèng míng shén me 。",
+      "tr": "Bir kez daha denemeye razı olmana sevindim; kendini kanıtlamak için acele etme."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_044",
+      "speaker": "刘梅",
+      "zh": "我会先练传球和观察队友，下一次再试一次。",
+      "pinyin": "wǒ huì xiān liàn chuán qiú hé guān chá duì yǒu ， xià yī cì zài shì yī cì 。",
+      "tr": "Önce pas vermeyi ve takım arkadaşlarımı gözlemlemeyi çalışacağım, sonra yeniden deneyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_045",
+      "speaker": "张乐乐",
+      "zh": "这个目标很清楚，我们先把第一次训练安排好。",
+      "pinyin": "zhè ge mù biāo hěn qīng chǔ ， wǒ men xiān bǎ dì yī cì xùn liàn ān pái hǎo 。",
+      "tr": "Hedef açık; önce ilk antrenmanı planlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_046",
+      "speaker": "老师",
+      "zh": "明天下午做完作业以后，我们去附近的球场。",
+      "pinyin": "míng tiān xià wǔ zuò wán zuò yè yǐ hòu ， wǒ men qù fù jìn de qiú chǎng 。",
+      "tr": "Yarın öğleden sonra ödevini bitirince yakındaki sahaya gideriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_047",
+      "speaker": "张伟",
+      "zh": "我带球和水，你负责看一下时间。",
+      "pinyin": "wǒ dài qiú hé shuǐ ， nǐ fù zé kàn yī xià shí jiān 。",
+      "tr": "Topu ve suyu ben alırım, sen de saate bakarsın."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_048",
+      "speaker": "刘梅",
+      "zh": "好，我会把运动时间记下来，也记下今天练得怎么样。",
+      "pinyin": "hǎo ， wǒ huì bǎ yùn dòng shí jiān jì xià lái ， yě jì xià jīn tiān liàn dé zěn me yàng 。",
+      "tr": "Peki, egzersiz süresini ve bugünkü çalışmamın nasıl geçtiğini not ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_049",
+      "speaker": "张乐乐",
+      "zh": "今天练习以后，记得做伸展，不要马上坐下。",
+      "pinyin": "jīn tiān liàn xí yǐ hòu ， jì de zuò shēn zhǎn ， bú yào mǎ shàng zuò xià 。",
+      "tr": "Bugünkü çalışmadan sonra esneme yap; hemen oturma."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_050",
+      "speaker": "老师",
+      "zh": "我知道了，回家以后先洗澡，再检查作业。",
+      "pinyin": "wǒ zhī dào le ， huí jiā yǐ hòu xiān xǐ zǎo ， zài jiǎn chá zuò yè 。",
+      "tr": "Anladım; eve dönünce duş alıp ödevimi kontrol ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_051",
+      "speaker": "张伟",
+      "zh": "这样安排很好，学习和运动都照顾到了。",
+      "pinyin": "zhè yàng ān pái hěn hǎo ， xué xí hé yùn dòng dōu zhào gù dào le 。",
+      "tr": "Bu düzen iyi; hem derslerine hem egzersize zaman ayırıyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_052",
+      "speaker": "刘梅",
+      "zh": "下次如果觉得时间不够，我们再一起调整。",
+      "pinyin": "xià cì rú guǒ jué de shí jiān bù gòu ， wǒ men zài yì qǐ tiáo zhěng 。",
+      "tr": "Zaman yetmezse bir dahaki sefere birlikte yeniden ayarlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_053",
+      "speaker": "张乐乐",
+      "zh": "我想问，选拔时还会看什么？",
+      "pinyin": "wǒ xiǎng wèn ， xuǎn bá shí hái huì kàn shén me ？",
+      "tr": "Seçmede başka nelere bakılıyor, sormak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_054",
+      "speaker": "老师",
+      "zh": "除了跑步和传球，也会看合作和听从安排。",
+      "pinyin": "chú le pǎo bù hé chuán qiú ， yě huì kàn hé zuò hé tīng cóng ān pái 。",
+      "tr": "Koşu ve pasın yanında iş birliğine ve talimatları izlemeye de bakıyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_055",
+      "speaker": "张伟",
+      "zh": "那我练习时会多和队友说话，不只盯着球。",
+      "pinyin": "nà wǒ liàn xí shí huì duō hé duì yǒu shuō huà ， bù zhǐ dīng zhe qiú 。",
+      "tr": "Antrenmanda takım arkadaşlarımla daha çok konuşur, yalnızca topa bakmam."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_056",
+      "speaker": "刘梅",
+      "zh": "你也可以先观察别人怎么移动，再决定把球传给谁。",
+      "pinyin": "nǐ yě kě yǐ xiān guān chá bié rén zěn me yí dòng ， zài jué dìng bǎ qiú chuán gěi shuí 。",
+      "tr": "Başkalarının nasıl hareket ettiğini gözleyip topu kime vereceğine karar verebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_057",
+      "speaker": "张乐乐",
+      "zh": "这样我知道下一次训练要注意什么。",
+      "pinyin": "zhè yàng wǒ zhī dào xià yī cì xùn liàn yào zhù yì shén me 。",
+      "tr": "Böylece sonraki antrenmanda neye dikkat edeceğimi biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_058",
+      "speaker": "老师",
+      "zh": "如果愿意，我们下周再一起练一次。",
+      "pinyin": "rú guǒ yuàn yì ， wǒ men xià zhōu zài yì qǐ liàn yī cì 。",
+      "tr": "İstersen gelecek hafta birlikte bir kez daha çalışabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_059",
+      "speaker": "张伟",
+      "zh": "好，我先按安排运动，周末告诉你们感觉怎么样。",
+      "pinyin": "hǎo ， wǒ xiān àn ān pái yùn dòng ， zhōu mò gào sù nǐ men gǎn jué zěn me yàng 。",
+      "tr": "Olur, plana göre egzersiz yapıp hafta sonu nasıl geçtiğini anlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_060",
+      "speaker": "刘梅",
+      "zh": "我会记得鼓励你，但也会提醒你按计划休息。",
+      "pinyin": "wǒ huì jì de gǔ lì nǐ ， dàn yě huì tí xǐng nǐ àn jì huà xiū xī 。",
+      "tr": "Seni cesaretlendiririm ama plana göre dinlenmeni de hatırlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_061",
+      "speaker": "张乐乐",
+      "zh": "谢谢你们没有因为我没进队就责怪我。",
+      "pinyin": "xiè xiè nǐ men méi yǒu yīn wèi wǒ méi jìn duì jiù zé guài wǒ 。",
+      "tr": "Takıma giremedim diye beni suçlamadığınız için teşekkür ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_062",
+      "speaker": "老师",
+      "zh": "我们在乎的是你愿意学习和继续努力，不是一次选拔。",
+      "pinyin": "wǒ men zài hū de shì nǐ yuàn yì xué xí hé jì xù nǔ lì ， bú shì yī cì xuǎn bá 。",
+      "tr": "Önem verdiğimiz, bir seçme değil; öğrenmeye ve çabalamaya devam etmen."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_063",
+      "speaker": "张伟",
+      "zh": "我现在没那么难过了，也想去明天的训练。",
+      "pinyin": "wǒ xiàn zài méi nà me nán guò le ， yě xiǎng qù míng tiān de xùn liàn 。",
+      "tr": "Artık o kadar üzgün değilim; yarınki antrenmana gitmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_064",
+      "speaker": "刘梅",
+      "zh": "好，今天早点休息，明天按计划去运动，加油。",
+      "pinyin": "hǎo ， jīn tiān zǎo diǎn xiū xī ， míng tiān àn jì huà qù yùn dòng ， jiā yóu 。",
+      "tr": "Peki, bugün erken dinlen; yarın plana göre antrenmana git, başarılar."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_065",
+      "speaker": "张乐乐",
+      "zh": "我会继续努力，下一次选拔再看看自己的进步。",
+      "pinyin": "wǒ huì jì xù nǔ lì ， xià yī cì xuǎn bá zài kàn kàn zì jǐ de jìn bù 。",
+      "tr": "Çalışmaya devam edeceğim; bir sonraki seçmede ne kadar geliştiğime bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_066",
+      "speaker": "老师",
+      "zh": "无论结果怎么样，记得享受和大家一起运动。",
+      "pinyin": "wú lùn jié guǒ zěn me yàng ， jì de xiǎng shòu hé dà jiā yì qǐ yùn dòng 。",
+      "tr": "Sonuç ne olursa olsun, arkadaşlarınla egzersiz yapmanın tadını çıkar."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_067",
+      "speaker": "张伟",
+      "zh": "我会的。现在我先去整理书包和训练的东西。",
+      "pinyin": "wǒ huì de 。 xiàn zài wǒ xiān qù zhěng lǐ shū bāo hé xùn liàn de dōng xī 。",
+      "tr": "Öyle yaparım. Şimdi çantamı ve antrenman eşyalarımı hazırlayayım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_068",
+      "speaker": "刘梅",
+      "zh": "好，明天见。记得先完成作业，再去球场。",
+      "pinyin": "hǎo ， míng tiān jiàn 。 jì de xiān wán chéng zuò yè ， zài qù qiú chǎng 。",
+      "tr": "Peki, yarın görüşürüz. Sahaya gitmeden önce ödevini bitirmeyi unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_069",
+      "speaker": "张乐乐",
+      "zh": "下个月选拔前，我们先看一看这几周的练习记录。",
+      "pinyin": "xià gè yuè xuǎn bá qián ， wǒ men xiān kàn yī kàn zhè jǐ zhōu de liàn xí jì lù 。",
+      "tr": "Gelecek ayki seçmeden önce birkaç haftalık antrenman kaydına bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_070",
+      "speaker": "老师",
+      "zh": "好，我每次都记跑步和传球练习，看看哪里有进步。",
+      "pinyin": "hǎo ， wǒ měi cì dōu jì pǎo bù hé chuán qiú liàn xí ， kàn kàn nǎ lǐ yǒu jìn bù 。",
+      "tr": "Peki; her seferinde koşu ve pas çalışmalarını not edip gelişmeme bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_071",
+      "speaker": "张伟",
+      "zh": "如果发现安排太累，我们就减少一次运动。",
+      "pinyin": "rú guǒ fā xiàn ān pái tài lèi ， wǒ men jiù jiǎn shǎo yī cì yùn dòng 。",
+      "tr": "Plan çok yorucu gelirse bir antrenmanı azaltırız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_072",
+      "speaker": "刘梅",
+      "zh": "我会告诉你们，不会为了进队把自己练伤。",
+      "pinyin": "wǒ huì gào sù nǐ men ， bú huì wèi le jìn duì bǎ zì jǐ liàn shāng 。",
+      "tr": "Söylerim; takıma girmek için kendimi sakatlayana kadar çalışmam."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_073",
+      "speaker": "张乐乐",
+      "zh": "这周你觉得传球怎么样？",
+      "pinyin": "zhè zhōu nǐ jué de chuán qiú zěn me yàng ？",
+      "tr": "Bu hafta pasların nasıl olduğunu düşünüyorsun?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_074",
+      "speaker": "老师",
+      "zh": "比以前稳一点，不过接球时还要抬头看队友。",
+      "pinyin": "bǐ yǐ qián wěn yì diǎn ， bù guò jiē qiú shí hái yào tái tóu kàn duì yǒu 。",
+      "tr": "Eskisinden daha iyi ama topu alırken takım arkadaşlarıma bakmalıyım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_075",
+      "speaker": "张伟",
+      "zh": "周末训练时我站远一点，你试着把球传给我。",
+      "pinyin": "zhōu mò xùn liàn shí wǒ zhàn yuǎn yì diǎn ， nǐ shì zhe bǎ qiú chuán gěi wǒ 。",
+      "tr": "Hafta sonu antrenmanında uzağa geçerim, sen de bana pas atmayı denersin."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_076",
+      "speaker": "刘梅",
+      "zh": "好，我会先看你的位置，再决定怎么传。",
+      "pinyin": "hǎo ， wǒ huì xiān kàn nǐ de wèi zhì ， zài jué dìng zěn me chuán 。",
+      "tr": "Peki; önce nerede olduğuna bakıp nasıl pas vereceğime karar veririm."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_077",
+      "speaker": "张乐乐",
+      "zh": "我注意到你这两周都按计划运动了。",
+      "pinyin": "wǒ zhù yì dào nǐ zhè liǎng zhōu dōu àn jì huà yùn dòng le 。",
+      "tr": "Son iki haftadır plana göre çalıştığını fark ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_078",
+      "speaker": "老师",
+      "zh": "有时候我也想偷懒，不过运动以后心情会好一点。",
+      "pinyin": "yǒu shí hòu wǒ yě xiǎng tōu lǎn ， bù guò yùn dòng yǐ hòu xīn qíng huì hǎo yì diǎn 。",
+      "tr": "Bazen tembellik etmek istiyorum ama egzersizden sonra daha iyi hissediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_079",
+      "speaker": "张伟",
+      "zh": "休息和训练都要安排好，不能每天都练。",
+      "pinyin": "xiū xī hé xùn liàn dōu yào ān pái hǎo ， bù néng měi tiān dōu liàn 。",
+      "tr": "Hem dinlenmeyi hem antrenmanı planlamalıyız; her gün çalışamazsın."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_080",
+      "speaker": "刘梅",
+      "zh": "我在日历上留了休息日，也没有把作业忘掉。",
+      "pinyin": "wǒ zài rì lì shàng liú le xiū xī rì ， yě méi yǒu bǎ zuò yè wàng diào 。",
+      "tr": "Takvimde dinlenme günü bıraktım, ödevlerimi de aksatmadım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_081",
+      "speaker": "张乐乐",
+      "zh": "老师，下一次选拔的日期确定了吗？",
+      "pinyin": "lǎo shī ， xià yī cì xuǎn bá de rì qī què dìng le ma ？",
+      "tr": "Öğretmenim, bir sonraki seçmenin tarihi belli oldu mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_082",
+      "speaker": "老师",
+      "zh": "下个月二十号，先做跑步和传球，再分组比赛。",
+      "pinyin": "xià gè yuè èr shí hào ， xiān zuò pǎo bù hé chuán qiú ， zài fēn zǔ bǐ sài 。",
+      "tr": "Gelecek ayın yirmisinde; önce koşu ve pas, sonra grup maçı olacak."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_083",
+      "speaker": "张伟",
+      "zh": "谢谢，我会按这个顺序练习，不再只练跑步。",
+      "pinyin": "xiè xiè ， wǒ huì àn zhè ge shùn xù liàn xí ， bù zài zhǐ liàn pǎo bù 。",
+      "tr": "Teşekkürler; bu sıraya göre çalışıp yalnızca koşu çalışmayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_084",
+      "speaker": "刘梅",
+      "zh": "比赛时也要和队友合作，记得多沟通。",
+      "pinyin": "bǐ sài shí yě yào hé duì yǒu hé zuò ， jì de duō gōu tōng 。",
+      "tr": "Maç sırasında takım arkadaşlarınla iş birliği yapıp konuşmayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_085",
+      "speaker": "张乐乐",
+      "zh": "听起来有点紧张，不过这次我知道该准备什么。",
+      "pinyin": "tīng qǐ lái yǒu diǎn jǐn zhāng ， bù guò zhè cì wǒ zhī dào gāi zhǔn bèi shén me 。",
+      "tr": "Biraz heyecanlı geliyor ama bu kez nasıl hazırlanacağımı biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_086",
+      "speaker": "老师",
+      "zh": "你已经做了很多练习，剩下的就是一步一步来。",
+      "pinyin": "nǐ yǐ jīng zuò le hěn duō liàn xí ， shèng xià de jiù shì yí bù yí bù lái 。",
+      "tr": "Çok çalıştın; şimdi adım adım ilerlemen yeterli."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_087",
+      "speaker": "张伟",
+      "zh": "如果没选上，我也会继续踢球，不会马上放弃。",
+      "pinyin": "rú guǒ méi xuǎn shàng ， wǒ yě huì jì xù tī qiú ， bú huì mǎ shàng fàng qì 。",
+      "tr": "Seçilmezsem de futbol oynamaya devam eder, hemen vazgeçmem."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_088",
+      "speaker": "刘梅",
+      "zh": "这个想法很好，进队不是喜欢运动的唯一理由。",
+      "pinyin": "zhè ge xiǎng fǎ hěn hǎo ， jìn duì bú shì xǐ huān yùn dòng de wéi yī lǐ yóu 。",
+      "tr": "Bu iyi bir düşünce; sporu sevmenin tek nedeni takıma girmek değil."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_089",
+      "speaker": "张乐乐",
+      "zh": "现在想起上次选拔，我还是有点失望。",
+      "pinyin": "xiàn zài xiǎng qǐ shàng cì xuǎn bá ， wǒ hái shì yǒu diǎn shī wàng 。",
+      "tr": "Geçen seçmeyi hatırlayınca hâlâ biraz üzülüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_090",
+      "speaker": "老师",
+      "zh": "这种感觉会慢慢过去，你也从结果里学到了东西。",
+      "pinyin": "zhè zhǒng gǎn jué huì màn màn guò qù ， nǐ yě cóng jié guǒ lǐ xué dào le dōng xī 。",
+      "tr": "Bu duygu zamanla geçer; sonuçtan da bir şeyler öğrendin."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_091",
+      "speaker": "张伟",
+      "zh": "我知道自己要多观察队友，传球前先抬头。",
+      "pinyin": "wǒ zhī dào zì jǐ yào duō guān chá duì yǒu ， chuán qiú qián xiān tái tóu 。",
+      "tr": "Takım arkadaşlarımı daha iyi gözlemlemem ve pas vermeden başımı kaldırmam gerektiğini biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_092",
+      "speaker": "刘梅",
+      "zh": "对，继续按计划练习，记得享受运动。",
+      "pinyin": "duì ， jì xù àn jì huà liàn xí ， jì de xiǎng shòu yùn dòng 。",
+      "tr": "Evet; plana göre çalışmaya devam et ve egzersizden keyif al."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_093",
+      "speaker": "张乐乐",
+      "zh": "今天我们把训练安排和作业时间都确认好了。",
+      "pinyin": "jīn tiān wǒ men bǎ xùn liàn ān pái hé zuò yè shí jiān dōu què rèn hǎo le 。",
+      "tr": "Bugün antrenman planını ve ödev zamanını netleştirdik."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_094",
+      "speaker": "老师",
+      "zh": "需要帮忙就告诉我们，也可以来问我。",
+      "pinyin": "xū yào bāng máng jiù gào sù wǒ men ， yě kě yǐ lái wèn wǒ 。",
+      "tr": "Yardıma ihtiyaç duyarsan bize söyle, bana da sorabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_095",
+      "speaker": "张伟",
+      "zh": "谢谢老师。我会再试一次，也会好好休息。",
+      "pinyin": "xiè xiè lǎo shī 。 wǒ huì zài shì yī cì ， yě huì hǎo hǎo xiū xī 。",
+      "tr": "Teşekkürler öğretmenim. Bir kez daha deneyecek ve iyi dinleneceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_096",
+      "speaker": "刘梅",
+      "zh": "好，今天先到这里。明天按计划去运动，加油。",
+      "pinyin": "hǎo ， jīn tiān xiān dào zhè lǐ 。 míng tiān àn jì huà qù yùn dòng ， jiā yóu 。",
+      "tr": "Peki, bugünlük burada bitirelim. Yarın plana göre egzersiz yap, başarılar."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_097",
+      "speaker": "张乐乐",
+      "zh": "选拔前一天，我会把球鞋和水准备好。",
+      "pinyin": "xuǎn bá qián yī tiān ， wǒ huì bǎ qiú xié hé shuǐ zhǔn bèi hǎo 。",
+      "tr": "Seçmeden önceki gün ayakkabılarımı ve suyu hazırlarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_098",
+      "speaker": "老师",
+      "zh": "休息好就行，不用临时练很久。",
+      "pinyin": "xiū xī hǎo jiù xíng ， bù yòng lín shí liàn hěn jiǔ 。",
+      "tr": "İyi dinlenmen yeterli; son anda uzun süre çalışmana gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_099",
+      "speaker": "张伟",
+      "zh": "比赛结束以后，无论结果如何，我们一起吃晚饭。",
+      "pinyin": "bǐ sài jié shù yǐ hòu ， wú lùn jié guǒ rú hé ， wǒ men yì qǐ chī wǎn fàn 。",
+      "tr": "Seçmeden sonra sonuç ne olursa olsun birlikte akşam yemeği yeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC032_100",
+      "speaker": "刘梅",
+      "zh": "好，今晚早点休息，明天按计划去球场。",
+      "pinyin": "hǎo ， jīn wǎn zǎo diǎn xiū xī ， míng tiān àn jì huà qù qiú chǎng 。",
+      "tr": "Peki, bu akşam erken dinlen; yarın plana göre sahaya git."
+    }
+  ]
+}

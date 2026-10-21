@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK4_SC005",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC005.json",
-  "dialogueSha256": "119c5817fb7e09e579effd447bc795d5abaf5dfae3d2f38056c4a5eca411decf",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC005.json",
+  "dialogueSha256": "d1ab9e0b73acce0596d93cfdfea2909689bb9465f6095ebd5d9c968310f17be4",
   "titleTr": "Yeni Ev Arayışı",
   "locationId": "LOC_ZH_NEIGHBORHOOD_001",
   "scenePurposeTr": "Büyükler yakın ama bağımsız bir ev ister; birkaç seçeneği karşılaştırırlar.",
@@ -69,5 +69,7 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi.",
+  "dialogueQaStatus": "PASS",
+  "dialogueQaNoteTr": "Yinelenen replikler sahne bağlamına göre çeşitlendirildi; 100 tur, sıra ve pinyin/Türkçe yeniden doğrulandı."
 }

@@ -10,12 +10,12 @@ android {
     val releaseKeyPassword = System.getenv("ANDROID_KEY_PASSWORD")
     val hasReleaseSigning = listOf(releaseKeystorePath, releaseStorePassword, releaseKeyAlias, releaseKeyPassword).all { !it.isNullOrBlank() }
     namespace = "com.ayhan.chineselearning"
-    compileSdk = 37
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.ayhan.chineselearning"
         minSdk = 26
-        targetSdk = 37
+        targetSdk = 36
         versionCode = 20
         versionName = "2.0.0"
     }
@@ -59,7 +59,7 @@ android {
 }
 
 dependencies {
-    val composeBom = platform("androidx.compose:compose-bom:2026.09.00")
+    val composeBom = platform("androidx.compose:compose-bom:2026.04.01")
     implementation(composeBom)
     androidTestImplementation(composeBom)
 

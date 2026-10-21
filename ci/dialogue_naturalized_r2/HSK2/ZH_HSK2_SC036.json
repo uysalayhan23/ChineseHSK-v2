@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 46,
+  "status": "FINAL_REVIEWED_V46",
+  "sceneId": "ZH_HSK2_SC036",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC036_001",
+      "speaker": "张伟",
+      "zh": "今天我带新同事熟悉一下工作，有问题随时可以问。",
+      "pinyin": "Jīn tiān wǒ dài xīn tóng shì shú xī yī xià gōng zuò ， yǒu wèn tí suí shí kě yǐ wèn 。",
+      "tr": "Bugün yeni çalışma arkadaşımızın işe alışmasına yardım edeceğim; sorularını rahatça sorabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_002",
+      "speaker": "新同事",
+      "zh": "谢谢你，我刚来，对这里的工作步骤还不太熟。",
+      "pinyin": "Xiè xiè nǐ ， wǒ gāng lái ， duì zhè lǐ de gōng zuò bù zhòu hái bù tài shú 。",
+      "tr": "Teşekkürler, yeni başladım; buradaki iş adımlarına henüz alışamadım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_003",
+      "speaker": "经理",
+      "zh": "欢迎加入。我们先从最重要、最简单的事情开始。",
+      "pinyin": "Huān yíng jiā rù 。 wǒ men xiān cóng zuì zhòng yào 、 zuì jiǎn dān de shì qíng kāi shǐ 。",
+      "tr": "Aramıza hoş geldin. Önce en önemli ve en kolay işlerden başlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_004",
+      "speaker": "张伟",
+      "zh": "好，我先带你看一下电脑和今天要用的工作文件。",
+      "pinyin": "Hǎo ， wǒ xiān dài nǐ kàn yī xià diàn nǎo hé jīn tiān yào yòng de gōng zuò wén jiàn 。",
+      "tr": "Tamam, önce bilgisayarı ve bugün kullanacağımız iş dosyalarını göstereyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_005",
+      "speaker": "新同事",
+      "zh": "我应该先打开哪个文件？桌面上的文件有点多。",
+      "pinyin": "Wǒ yīng gāi xiān dǎ kāi nǎ ge wén jiàn ？ zhuō miàn shàng de wén jiàn yǒu diǎn duō 。",
+      "tr": "Hangi dosyayı önce açmalıyım? Masaüstünde çok fazla dosya var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_006",
+      "speaker": "经理",
+      "zh": "先看经理发的工作安排，再按顺序处理。",
+      "pinyin": "Xiān kàn jīng lǐ fà de gōng zuò ān pái ， zài àn shùn xù chǔ lǐ 。",
+      "tr": "Önce yöneticinin gönderdiği iş planına bak, sonra sırayla ilerle."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_007",
+      "speaker": "张伟",
+      "zh": "这份文件写了今天要做的事，我陪你一起看第一步。",
+      "pinyin": "Zhè fèn wén jiàn xiě le jīn tiān yào zuò de shì ， wǒ péi nǐ yì qǐ kàn dì yī bù 。",
+      "tr": "Bu belgede bugünkü işler yazıyor; ilk adıma birlikte bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_008",
+      "speaker": "新同事",
+      "zh": "第一步是查看任务清单，对吗？",
+      "pinyin": "Dì yī bù shì chá kàn rèn wù qīng dān ， duì ma ？",
+      "tr": "İlk adım görev listesini kontrol etmek, doğru mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_009",
+      "speaker": "经理",
+      "zh": "对，先检查清单，再确认今天要完成哪些工作。",
+      "pinyin": "Duì ， xiān jiǎn chá qīng dān ， zài què rèn jīn tiān yào wán chéng nǎ xiē gōng zuò 。",
+      "tr": "Evet, önce listeyi incele, sonra bugün tamamlanacak işleri teyit et."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_010",
+      "speaker": "张伟",
+      "zh": "我给你指出清单的位置，以后你可以自己找到。",
+      "pinyin": "Wǒ gěi nǐ zhǐ chū qīng dān de wèi zhì ， yǐ hòu nǐ kě yǐ zì jǐ zhǎo dào 。",
+      "tr": "Listenin yerini göstereyim; daha sonra kendin bulabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_011",
+      "speaker": "新同事",
+      "zh": "我看到了。任务清单就在这个文件夹里。",
+      "pinyin": "Wǒ kàn dào le 。 rèn wù qīng dān jiù zài zhè ge wén jiàn jiā lǐ 。",
+      "tr": "Gördüm. Görev listesi bu klasörde."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_012",
+      "speaker": "经理",
+      "zh": "对。开始工作前，先看日期和任务内容有没有更新。",
+      "pinyin": "Duì 。 kāi shǐ gōng zuò qián ， xiān kàn rì qī hé rèn wù nèi róng yǒu méi yǒu gēng xīn 。",
+      "tr": "Doğru. İşe başlamadan önce tarih ve görevlerde güncelleme var mı bak."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_013",
+      "speaker": "张伟",
+      "zh": "我记下来了：先看清单，再确认任务。",
+      "pinyin": "Wǒ jì xià lái le ： xiān kàn qīng dān ， zài què rèn rèn wù 。",
+      "tr": "Not aldım: önce listeye bak, sonra görevleri doğrula."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_014",
+      "speaker": "新同事",
+      "zh": "很好。你能说说第一步要做什么吗？",
+      "pinyin": "Hěn hǎo 。 nǐ néng shuō shuō dì yī bù yào zuò shén me ma ？",
+      "tr": "Güzel. İlk yapman gerekeni söyleyebilir misin?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_015",
+      "speaker": "经理",
+      "zh": "先打开工作安排，检查今天的任务清单。",
+      "pinyin": "Xiān dǎ kāi gōng zuò ān pái ， jiǎn chá jīn tiān de rèn wù qīng dān 。",
+      "tr": "Önce iş planını açıp bugünkü görev listesini kontrol edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_016",
+      "speaker": "张伟",
+      "zh": "说得对。遇到不明白的地方，就先问，不要着急。",
+      "pinyin": "Shuō dé duì 。 yù dào bù míng bái de dì fāng ， jiù xiān wèn ， bú yào zháo jí 。",
+      "tr": "Doğru. Anlamadığın bir şey olursa acele etmeden önce sor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_017",
+      "speaker": "新同事",
+      "zh": "如果文件打不开，我可以用你的账号试一下吗？",
+      "pinyin": "Rú guǒ wén jiàn dǎ bù kāi ， wǒ kě yǐ yòng nǐ de zhàng hào shì yī xià ma ？",
+      "tr": "Dosya açılmazsa senin hesabınla denemem uygun olur mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_018",
+      "speaker": "经理",
+      "zh": "不要共用账号或密码。遇到问题时告诉经理或同事。",
+      "pinyin": "Bú yào gòng yòng zhàng hào huò mì mǎ 。 yù dào wèn tí shí gào sù jīng lǐ huò tóng shì 。",
+      "tr": "Hesap ya da parola paylaşmayın. Sorun olursa yöneticiye veya bir çalışma arkadaşına haber verin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_019",
+      "speaker": "张伟",
+      "zh": "明白了，我会用自己的账号，也会注意保管密码。",
+      "pinyin": "Míng bái le ， wǒ huì yòng zì jǐ de zhàng hào ， yě huì zhù yì bǎo guǎn mì mǎ 。",
+      "tr": "Anladım; kendi hesabımı kullanıp parolamı dikkatli koruyacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_020",
+      "speaker": "新同事",
+      "zh": "很好，接下来我教你怎么查看文件里的具体步骤。",
+      "pinyin": "Hěn hǎo ， jiē xià lái wǒ jiào nǐ zěn me chá kàn wén jiàn lǐ de jù tǐ bù zhòu 。",
+      "tr": "Güzel, şimdi dosyadaki adımları nasıl göreceğini öğreteyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_021",
+      "speaker": "经理",
+      "zh": "这份文件是今天的工作安排，我们先看一下每项任务的时间。",
+      "pinyin": "Zhè fèn wén jiàn shì jīn tiān de gōng zuò ān pái ， wǒ men xiān kàn yī xià měi xiàng rèn wù de shí jiān 。",
+      "tr": "Bu belge bugünün iş planı; her görevin saatine birlikte bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_022",
+      "speaker": "张伟",
+      "zh": "我看到了，有些任务上午要做，有些可以下午再处理。",
+      "pinyin": "Wǒ kàn dào le ， yǒu xiē rèn wù shàng wǔ yào zuò ， yǒu xiē kě yǐ xià wǔ zài chǔ lǐ 。",
+      "tr": "Gördüm, bazı işler sabah yapılacak, bazıları öğleden sonraya kalabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_023",
+      "speaker": "新同事",
+      "zh": "对，先按时间和重要程度安排；不确定的地方先问清楚。",
+      "pinyin": "Duì ， xiān àn shí jiān hé zhòng yào chéng dù ān pái ； bù què dìng de dì fāng xiān wèn qīng chǔ 。",
+      "tr": "Evet, zamana ve önemine göre düzenleyelim; emin olmadığın yeri önce sor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_024",
+      "speaker": "经理",
+      "zh": "我把今天的工作分成几步，这样比较容易检查进度。",
+      "pinyin": "Wǒ bǎ jīn tiān de gōng zuò fēn chéng jǐ bù ， zhè yàng bǐ jiào róng yì jiǎn chá jìn dù 。",
+      "tr": "Bugünkü işleri birkaç adıma ayırdım, böylece ilerlemeyi kontrol etmek kolay olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_025",
+      "speaker": "张伟",
+      "zh": "任务完成以后，我要在哪里做记录？",
+      "pinyin": "Rèn wù wán chéng yǐ hòu ， wǒ yào zài nǎ lǐ zuò jì lù ？",
+      "tr": "Görev bitince kaydı nereye girmeliyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_026",
+      "speaker": "新同事",
+      "zh": "在清单的状态栏更新就可以，别改其他人的内容。",
+      "pinyin": "Zài qīng dān de zhuàng tài lán gēng xīn jiù kě yǐ ， bié gǎi qí tā rén de nèi róng 。",
+      "tr": "Listede durum sütununu güncellemen yeterli; başkalarının bilgilerini değiştirme."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_027",
+      "speaker": "经理",
+      "zh": "我先给你看一条已经完成的记录，照着格式填写。",
+      "pinyin": "Wǒ xiān gěi nǐ kàn yī tiáo yǐ jīng wán chéng de jì lù ， zhào zhe gé shì tián xiě 。",
+      "tr": "Önce tamamlanmış bir kaydı göstereyim, biçimini örnek al."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_028",
+      "speaker": "张伟",
+      "zh": "这条记录很清楚。我可以先练习填写另一条吗？",
+      "pinyin": "Zhè tiáo jì lù hěn qīng chǔ 。 wǒ kě yǐ xiān liàn xí tián xiě lìng yī tiáo ma ？",
+      "tr": "Bu kayıt anlaşılır. Başka bir satıra deneme amaçlı bilgi girebilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_029",
+      "speaker": "新同事",
+      "zh": "可以，先选一条简单的，填完后我们一起检查。",
+      "pinyin": "Kě yǐ ， xiān xuǎn yī tiáo jiǎn dān de ， tián wán hòu wǒ men yì qǐ jiǎn chá 。",
+      "tr": "Olur, kolay bir satır seç; bitirince birlikte kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_030",
+      "speaker": "经理",
+      "zh": "好，我试着把这项任务标成“已完成”。",
+      "pinyin": "Hǎo ， wǒ shì zhe bǎ zhè xiàng rèn wù biāo chéng “ yǐ wán chéng ”。",
+      "tr": "Tamam, bu görevi “tamamlandı” olarak işaretlemeyi deniyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_031",
+      "speaker": "张伟",
+      "zh": "你选对了栏目，日期也填上了。其他信息先不要改。",
+      "pinyin": "Nǐ xuǎn duì le lán mù ， rì qī yě tián shàng le 。 qí tā xìn xī xiān bú yào gǎi 。",
+      "tr": "Doğru bölümü seçtin, tarihi de girdin. Diğer bilgileri değiştirme."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_032",
+      "speaker": "新同事",
+      "zh": "我填好后要保存吗？还是系统会自动保存？",
+      "pinyin": "Wǒ tián hǎo hòu yào bǎo cún ma ？ hái shì xì tǒng huì zì dòng bǎo cún ？",
+      "tr": "Doldurunca kaydetmem gerekiyor mu, yoksa sistem kendiliğinden mi kaydediyor?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_033",
+      "speaker": "经理",
+      "zh": "点保存以后，再看一下有没有提示，确认改动已经保存。",
+      "pinyin": "Diǎn bǎo cún yǐ hòu ， zài kàn yī xià yǒu méi yǒu tí shì ， què rèn gǎi dòng yǐ jīng bǎo cún 。",
+      "tr": "Kaydet’e bastıktan sonra bir bildirim çıkıyor mu bak; değişiklik kaydedilmiş olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_034",
+      "speaker": "张伟",
+      "zh": "我按了保存，屏幕上出现了完成的提示。",
+      "pinyin": "Wǒ àn le bǎo cún ， píng mù shàng chū xiàn le wán chéng de tí shì 。",
+      "tr": "Kaydet’e bastım, ekranda tamamlandığını belirten bir mesaj çıktı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_035",
+      "speaker": "新同事",
+      "zh": "很好。工作文件不要随意移动，找不到时先用文件名搜索。",
+      "pinyin": "Hěn hǎo 。 gōng zuò wén jiàn bú yào suí yì yí dòng ， zhǎo bú dào shí xiān yòng wén jiàn míng sōu suǒ 。",
+      "tr": "Güzel. İş dosyalarını gelişigüzel taşımayın; bulamazsanız adını arayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_036",
+      "speaker": "经理",
+      "zh": "我记下文件名了，下次可以直接搜索，不用一个个打开。",
+      "pinyin": "Wǒ jì xià wén jiàn míng le ， xià cì kě yǐ zhí jiē sōu suǒ ， bù yòng yí gè gè dǎ kāi 。",
+      "tr": "Dosya adını not ettim; bir dahaki sefere tek tek açmak yerine ararım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_037",
+      "speaker": "张伟",
+      "zh": "这样能省时间。记得保存前看清楚文件名和日期。",
+      "pinyin": "Zhè yàng néng shěng shí jiān 。 jì de bǎo cún qián kàn qīng chǔ wén jiàn míng hé rì qī 。",
+      "tr": "Bu zaman kazandırır. Kaydetmeden önce dosya adını ve tarihi kontrol et."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_038",
+      "speaker": "新同事",
+      "zh": "我会检查两遍，避免把内容写进旧文件里。",
+      "pinyin": "Wǒ huì jiǎn chá liǎng biàn ， bì miǎn bǎ nèi róng xiě jìn jiù wén jiàn lǐ 。",
+      "tr": "Eski dosyaya yazmamak için iki kez bakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_039",
+      "speaker": "经理",
+      "zh": "第一步到这里就完成了，接下来我们看第二项任务。",
+      "pinyin": "Dì yī bù dào zhè lǐ jiù wán chéng le ， jiē xià lái wǒ men kàn dì èr xiàng rèn wù 。",
+      "tr": "İlk adım tamamlandı; şimdi ikinci göreve bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_040",
+      "speaker": "张伟",
+      "zh": "好，我先读要求，再按刚才的方法填写。",
+      "pinyin": "Hǎo ， wǒ xiān dú yāo qiú ， zài àn gāng cái de fāng fǎ tián xiě 。",
+      "tr": "Tamam, önce yönergeyi okuyup aynı şekilde dolduracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_041",
+      "speaker": "新同事",
+      "zh": "第二项是给客户回邮件，我应该先看哪一部分？",
+      "pinyin": "Dì èr xiàng shì gěi kè hù huí yóu jiàn ， wǒ yīng gāi xiān kàn nǎ yī bù fèn ？",
+      "tr": "İkinci görev müşteriye e-posta yanıtlamak. Önce hangi bölüme bakmalıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_042",
+      "speaker": "经理",
+      "zh": "先读客户的问题，再找相关的工作文件，不要急着回复。",
+      "pinyin": "Xiān dú kè hù de wèn tí ， zài zhǎo xiāng guān de gōng zuò wén jiàn ， bú yào jí zhe huí fù 。",
+      "tr": "Önce müşterinin sorusunu okuyup ilgili iş dosyasını bul; hemen yanıt verme."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_043",
+      "speaker": "张伟",
+      "zh": "回复前也要检查收件人和内容，重要信息可以请我再看一遍。",
+      "pinyin": "Huí fù qián yě yào jiǎn chá shōu jiàn rén hé nèi róng ， zhòng yào xìn xī kě yǐ qǐng wǒ zài kàn yī biàn 。",
+      "tr": "Yanıtlamadan önce alıcıyı ve içeriği de kontrol et; önemli bilgileri bana gösterebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_044",
+      "speaker": "新同事",
+      "zh": "我先打开这份邮件，里面有两个问题，我都要回答吗？",
+      "pinyin": "Wǒ xiān dǎ kāi zhè fèn yóu jiàn ， lǐ miàn yǒu liǎng gè wèn tí ， wǒ dōu yào huí dá ma ？",
+      "tr": "Bu e-postayı açtım; iki soru var, ikisini de yanıtlamam gerekiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_045",
+      "speaker": "经理",
+      "zh": "是的，先把两个问题分开记下来，再逐项确认答案。",
+      "pinyin": "Shì de ， xiān bǎ liǎng gè wèn tí fēn kāi jì xià lái ， zài zhú xiàng què rèn dá àn 。",
+      "tr": "Evet, iki soruyu ayrı ayrı not et ve yanıtları tek tek doğrula."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_046",
+      "speaker": "张伟",
+      "zh": "我可以用昨天的旧邮件当答案吗？",
+      "pinyin": "Wǒ kě yǐ yòng zuó tiān de jiù yóu jiàn dāng dá àn ma ？",
+      "tr": "Dünkü eski e-postayı yanıt olarak kullanabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_047",
+      "speaker": "新同事",
+      "zh": "先确认情况有没有变化，不能直接复制旧内容。",
+      "pinyin": "Xiān què rèn qíng kuàng yǒu méi yǒu biàn huà ， bù néng zhí jiē fù zhì jiù nèi róng 。",
+      "tr": "Önce durum değişmiş mi kontrol et; eski yanıtı doğrudan kopyalama."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_048",
+      "speaker": "经理",
+      "zh": "明白，我会查今天的文件，再写新的回复。",
+      "pinyin": "Míng bái ， wǒ huì chá jīn tiān de wén jiàn ， zài xiě xīn de huí fù 。",
+      "tr": "Anladım; bugünkü dosyaya bakıp yeni bir yanıt yazacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_049",
+      "speaker": "张伟",
+      "zh": "遇到不知道的说法，可以先标出来问我。",
+      "pinyin": "Yù dào bù zhī dào de shuō fǎ ， kě yǐ xiān biāo chū lái wèn wǒ 。",
+      "tr": "Emin olmadığın bir ifade varsa işaretleyip bana sorabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_050",
+      "speaker": "新同事",
+      "zh": "我在第二个问题上不确定，能不能一起看一下？",
+      "pinyin": "Wǒ zài dì èr gè wèn tí shàng bù què dìng ， néng bù néng yì qǐ kàn yī xià ？",
+      "tr": "İkinci sorudan emin değilim, birlikte bakabilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_051",
+      "speaker": "经理",
+      "zh": "当然。我们先读相关说明，再看有没有明确的答案。",
+      "pinyin": "Dāng rán 。 wǒ men xiān dú xiāng guān shuō míng ， zài kàn yǒu méi yǒu míng què de dá àn 。",
+      "tr": "Elbette. Önce ilgili açıklamayı okuyup net bir yanıt var mı bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_052",
+      "speaker": "张伟",
+      "zh": "说明里写得很清楚，我现在知道该怎么回了。",
+      "pinyin": "Shuō míng lǐ xiě dé hěn qīng chǔ ， wǒ xiàn zài zhī dào gāi zěn me huí le 。",
+      "tr": "Açıklama netmiş; şimdi nasıl yanıt vereceğimi biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_053",
+      "speaker": "新同事",
+      "zh": "好，你先写一版，我帮你检查语气和信息。",
+      "pinyin": "Hǎo ， nǐ xiān xiě yī bǎn ， wǒ bāng nǐ jiǎn chá yǔ qì hé xìn xī 。",
+      "tr": "Güzel, önce bir taslak yaz; üslup ve bilgileri kontrol edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_054",
+      "speaker": "经理",
+      "zh": "邮件写好了，您能看看内容是不是太长吗？",
+      "pinyin": "Yóu jiàn xiě hǎo le ， nín néng kàn kàn nèi róng shì bú shì tài zhǎng ma ？",
+      "tr": "E-postayı yazdım. İçerik fazla uzun olmuş mu bakar mısınız?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_055",
+      "speaker": "张伟",
+      "zh": "内容很清楚，可以删去重复的一句，重点会更明显。",
+      "pinyin": "Nèi róng hěn qīng chǔ ， kě yǐ shān qù chóng fù de yī jù ， zhòng diǎn huì gèng míng xiǎn 。",
+      "tr": "Anlaşılır olmuş; tekrarlanan bir cümleyi çıkarırsan ana fikir daha belirgin olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_056",
+      "speaker": "新同事",
+      "zh": "我改好了。现在要不要再检查一次收件人的名字？",
+      "pinyin": "Wǒ gǎi hǎo le 。 xiàn zài yào bù yào zài jiǎn chá yī cì shōu jiàn rén de míng zì ？",
+      "tr": "Düzelttim. Göndermeden önce alıcının adını bir daha kontrol edeyim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_057",
+      "speaker": "经理",
+      "zh": "要，发出之前检查名字、附件和日期。",
+      "pinyin": "Yào ， fā chū zhī qián jiǎn chá míng zì 、 fù jiàn hé rì qī 。",
+      "tr": "Evet, göndermeden önce adı, eki ve tarihi kontrol et."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_058",
+      "speaker": "张伟",
+      "zh": "我还没加文件，邮件里说的资料需要作为附件吗？",
+      "pinyin": "Wǒ hái méi jiā wén jiàn ， yóu jiàn lǐ shuō de zī liào xū yào zuò wéi fù jiàn ma ？",
+      "tr": "Dosya eklemedim; e-postada sözü edilen belgeyi eklemem gerekiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_059",
+      "speaker": "新同事",
+      "zh": "需要的话就加上；发送前确认文件正确并且能打开。",
+      "pinyin": "Xū yào de huà jiù jiā shàng ； fā sòng qián què rèn wén jiàn zhèng què bìng qiě néng dǎ kāi 。",
+      "tr": "Gerekiyorsa ekle; göndermeden önce dosyanın doğru ve açılabilir olduğunu doğrula."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_060",
+      "speaker": "经理",
+      "zh": "我已经附上文件，也重新检查了名字和日期。",
+      "pinyin": "Wǒ yǐ jīng fù shàng wén jiàn ， yě chóng xīn jiǎn chá le míng zì hé rì qī 。",
+      "tr": "Dosyayı ekledim, adı ve tarihi de yeniden kontrol ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_061",
+      "speaker": "张伟",
+      "zh": "现在我们一起检查一下，刚才的两个任务都按步骤做了吗？",
+      "pinyin": "Xiàn zài wǒ men yì qǐ jiǎn chá yī xià ， gāng cái de liǎng gè rèn wù dōu àn bù zhòu zuò le ma ？",
+      "tr": "Şimdi birlikte kontrol edelim; iki görevi de adımlarına uygun yaptık mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_062",
+      "speaker": "新同事",
+      "zh": "第一项我先看清单，再更新状态；第二项我先确认内容和附件。",
+      "pinyin": "Dì yī xiàng wǒ xiān kàn qīng dān ， zài gēng xīn zhuàng tài ； dì èr xiàng wǒ xiān què rèn nèi róng hé fù jiàn 。",
+      "tr": "İlkinde listeye bakıp durumu güncelledim; ikincide içerikle eki doğruladım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_063",
+      "speaker": "经理",
+      "zh": "很好，重要信息都检查过了。接下来你可以试着独立完成一项简单任务。",
+      "pinyin": "Hěn hǎo ， zhòng yào xìn xī dōu jiǎn chá guò le 。 jiē xià lái nǐ kě yǐ shì zhe dú lì wán chéng yī xiàng jiǎn dān rèn wù 。",
+      "tr": "Güzel, önemli bilgileri kontrol ettin. Şimdi kolay bir işi tek başına yapabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_064",
+      "speaker": "张伟",
+      "zh": "我会先做清单上的第三项，完成后再请你检查。",
+      "pinyin": "Wǒ huì xiān zuò qīng dān shàng de dì sān xiàng ， wán chéng hòu zài qǐng nǐ jiǎn chá 。",
+      "tr": "Listede üçüncü sıradaki işi yapıp bitince sana kontrol ettireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_065",
+      "speaker": "新同事",
+      "zh": "没问题。你做的时候我在旁边，有需要就叫我。",
+      "pinyin": "Méi wèn tí 。 nǐ zuò de shí hòu wǒ zài páng biān ， yǒu xū yào jiù jiào wǒ 。",
+      "tr": "Olur. Çalışırken yanında olacağım; gerekirse seslen."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_066",
+      "speaker": "经理",
+      "zh": "经理也会看最后的结果，按要求来就可以。",
+      "pinyin": "Jīng lǐ yě huì kàn zuì hòu de jié guǒ ， àn yāo qiú lái jiù kě yǐ 。",
+      "tr": "Yönetici de sonuca bakacak; yönergeye uyman yeterli."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_067",
+      "speaker": "张伟",
+      "zh": "如果遇到新的工作问题，我应该先问谁？",
+      "pinyin": "Rú guǒ yù dào xīn de gōng zuò wèn tí ， wǒ yīng gāi xiān wèn shuí ？",
+      "tr": "Yeni bir iş sorunu çıkarsa önce kime danışmalıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_068",
+      "speaker": "新同事",
+      "zh": "先问张伟；如果他也不确定，再一起向经理确认。",
+      "pinyin": "Xiān wèn zhāng wěi ； rú guǒ tā yě bù què dìng ， zài yì qǐ xiàng jīng lǐ què rèn 。",
+      "tr": "Önce Zhang Wei’ye sor; o da emin değilse birlikte yöneticiye danışın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_069",
+      "speaker": "经理",
+      "zh": "对，不确定时及时沟通，比猜着做更好。",
+      "pinyin": "Duì ， bù què dìng shí jí shí gōu tōng ， bǐ cāi zháo zuò gèng hǎo 。",
+      "tr": "Evet, emin olmadığında sormak tahmin ederek iş yapmaktan iyidir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_070",
+      "speaker": "张伟",
+      "zh": "我记住了，遇到问题先问，不会自己随便改文件。",
+      "pinyin": "Wǒ jì zhù le ， yù dào wèn tí xiān wèn ， bú huì zì jǐ suí biàn gǎi wén jiàn 。",
+      "tr": "Aklımda; sorun olursa önce sorarım, dosyayı kafama göre değiştirmem."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_071",
+      "speaker": "新同事",
+      "zh": "我先打开第三项任务的工作文件，确认内容和日期。",
+      "pinyin": "Wǒ xiān dǎ kāi dì sān xiàng rèn wù de gōng zuò wén jiàn ， què rèn nèi róng hé rì qī 。",
+      "tr": "Üçüncü görevin dosyasını açıp içeriğini ve tarihini kontrol ediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_072",
+      "speaker": "经理",
+      "zh": "文件已经打开，我看到里面有两份资料。",
+      "pinyin": "Wén jiàn yǐ jīng dǎ kāi ， wǒ kàn dào lǐ miàn yǒu liǎng fèn zī liào 。",
+      "tr": "Dosya açıldı, içinde iki belge görüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_073",
+      "speaker": "张伟",
+      "zh": "请先检查文件名和日期，确认是今天要用的版本。",
+      "pinyin": "Qǐng xiān jiǎn chá wén jiàn míng hé rì qī ， què rèn shì jīn tiān yào yòng de bǎn běn 。",
+      "tr": "Önce dosya adını ve tarihi kontrol et; bugünkü sürüm olduğundan emin ol."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_074",
+      "speaker": "新同事",
+      "zh": "我看到了，文件名和日期都对，再往下读要求。",
+      "pinyin": "Wǒ kàn dào le ， wén jiàn míng hé rì qī dōu duì ， zài wǎng xià dú yāo qiú 。",
+      "tr": "Baktım, ad ve tarih doğru. Şimdi yönergeyi okuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_075",
+      "speaker": "经理",
+      "zh": "很好。读完以后，说说你打算先做哪一步。",
+      "pinyin": "Hěn hǎo 。 dú wán yǐ hòu ， shuō shuō nǐ dǎ suàn xiān zuò nǎ yī bù 。",
+      "tr": "Güzel. Okuduktan sonra ilk hangi adımı atacağını anlat."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_076",
+      "speaker": "张伟",
+      "zh": "我先按任务说明整理信息，再逐条检查是否完整。",
+      "pinyin": "Wǒ xiān àn rèn wù shuō míng zhěng lǐ xìn xī ， zài zhú tiáo jiǎn chá shì fǒu wán zhěng 。",
+      "tr": "Yönergeye göre bilgileri düzenleyip eksik olup olmadığını tek tek kontrol edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_077",
+      "speaker": "新同事",
+      "zh": "这个顺序很清楚。如果发现资料不全，要怎么做？",
+      "pinyin": "Zhè ge shùn xù hěn qīng chǔ 。 rú guǒ fā xiàn zī liào bù quán ， yào zěn me zuò ？",
+      "tr": "Bu sıra anlaşılır. Bilgilerin eksik olduğunu fark edersen ne yaparsın?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_078",
+      "speaker": "经理",
+      "zh": "我会先标出缺少的内容，再问张伟或经理。",
+      "pinyin": "Wǒ huì xiān biāo chū quē shǎo de nèi róng ， zài wèn zhāng wěi huò jīng lǐ 。",
+      "tr": "Eksik kısmı işaretleyip Zhang Wei’ye ya da yöneticiye sorarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_079",
+      "speaker": "张伟",
+      "zh": "正确。整理完成后先保存，再核对一次。",
+      "pinyin": "Zhèng què 。 zhěng lǐ wán chéng hòu xiān bǎo cún ， zài hé duì yī cì 。",
+      "tr": "Doğru. Düzenledikten sonra kaydet ve bir kez daha kontrol et."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_080",
+      "speaker": "新同事",
+      "zh": "我开始做了，完成这一项后会告诉你们。",
+      "pinyin": "Wǒ kāi shǐ zuò le ， wán chéng zhè yī xiàng hòu huì gào sù nǐ men 。",
+      "tr": "Başlıyorum; bu işi bitirince size haber vereceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_081",
+      "speaker": "经理",
+      "zh": "第三项的资料整理好了，我们一起看一下有没有漏掉内容。",
+      "pinyin": "Dì sān xiàng de zī liào zhěng lǐ hǎo le ， wǒ men yì qǐ kàn yī xià yǒu méi yǒu lòu diào nèi róng 。",
+      "tr": "Üçüncü görevin belgelerini düzenledim; eksik bir şey var mı birlikte bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_082",
+      "speaker": "张伟",
+      "zh": "我按清单核对过了，日期、文件名和每一项信息都对得上。",
+      "pinyin": "Wǒ àn qīng dān hé duì guò le ， rì qī 、 wén jiàn míng hé měi yī xiàng xìn xī dōu duì dé shàng 。",
+      "tr": "Listeye göre kontrol ettim; tarih, dosya adı ve her bilgi birbiriyle uyumlu."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_083",
+      "speaker": "新同事",
+      "zh": "不错，修改后的文件已经保存，任务记录也更新了吗？",
+      "pinyin": "Bù cuò ， xiū gǎi hòu de wén jiàn yǐ jīng bǎo cún ， rèn wù jì lù yě gēng xīn le ma ？",
+      "tr": "Güzel, güncellenmiş dosya kaydedildi. Görev kaydını da güncelledin mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_084",
+      "speaker": "经理",
+      "zh": "更新好了，我还保留了原来的文件，没有覆盖它。",
+      "pinyin": "Gēng xīn hǎo le ， wǒ hái bǎo liú le yuán lái de wén jiàn ， méi yǒu fù gài tā 。",
+      "tr": "Güncelledim; eski dosyayı da korudum, üzerine yazmadım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_085",
+      "speaker": "张伟",
+      "zh": "做得很好。保存前先确认版本，这个习惯很重要。",
+      "pinyin": "Zuò dé hěn hǎo 。 bǎo cún qián xiān què rèn bǎn běn ， zhè ge xí guàn hěn zhòng yào 。",
+      "tr": "Aferin. Kaydetmeden önce sürümü doğrulamak önemli bir alışkanlık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_086",
+      "speaker": "新同事",
+      "zh": "我会记住，工作文件要检查清楚再保存。",
+      "pinyin": "Wǒ huì jì zhù ， gōng zuò wén jiàn yào jiǎn chá qīng chǔ zài bǎo cún 。",
+      "tr": "Aklımda tutacağım; iş dosyalarını kontrol ettikten sonra kaydedeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_087",
+      "speaker": "经理",
+      "zh": "今天你教了我很多，我现在知道遇到不同任务怎么开始。",
+      "pinyin": "Jīn tiān nǐ jiào le wǒ hěn duō ， wǒ xiàn zài zhī dào yù dào bù tóng rèn wù zěn me kāi shǐ 。",
+      "tr": "Bugün çok şey öğrettin; farklı işlere nasıl başlayacağımı artık biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_088",
+      "speaker": "张伟",
+      "zh": "我也学会先看安排，再按步骤做，遇到不确定的就问。",
+      "pinyin": "Wǒ yě xué huì xiān kàn ān pái ， zài àn bù zhòu zuò ， yù dào bù què dìng de jiù wèn 。",
+      "tr": "Ben de önce iş planına bakıp adımları izlemeyi ve emin olmadığımda sormayı öğrendim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_089",
+      "speaker": "新同事",
+      "zh": "你们已经配合得很好。以后新任务来了，也可以先一起确认要求。",
+      "pinyin": "Nǐ men yǐ jīng pèi hé dé hěn hǎo 。 yǐ hòu xīn rèn wù lái le ， yě kě yǐ xiān yì qǐ què rèn yāo qiú 。",
+      "tr": "İyi uyum sağladınız. Yeni görev gelince de önce koşulları birlikte doğrulayabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_090",
+      "speaker": "经理",
+      "zh": "好，我会先读清楚要求，整理好步骤后再开始。",
+      "pinyin": "Hǎo ， wǒ huì xiān dú qīng chǔ yāo qiú ， zhěng lǐ hǎo bù zhòu hòu zài kāi shǐ 。",
+      "tr": "Tamam, önce yönergeyi dikkatlice okuyup adımları düzenleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_091",
+      "speaker": "张伟",
+      "zh": "遇到特别紧急的事情时，我要先停下手里的工作吗？",
+      "pinyin": "Yù dào tè bié jǐn jí de shì qíng shí ， wǒ yào xiān tíng xià shǒu lǐ de gōng zuò ma ？",
+      "tr": "Acil bir iş çıkarsa elimdeki işi bırakmam mı gerekir?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_092",
+      "speaker": "新同事",
+      "zh": "先看经理安排的优先顺序，不清楚就马上问，不要自己猜。",
+      "pinyin": "Xiān kàn jīng lǐ ān pái de yōu xiān shùn xù ， bù qīng chǔ jiù mǎ shàng wèn ， bú yào zì jǐ cāi 。",
+      "tr": "Önce yöneticinin öncelik sırasına bak; net değilse tahmin etmek yerine hemen sor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_093",
+      "speaker": "经理",
+      "zh": "这样我就知道怎么安排时间，不会同时做错好几件事。",
+      "pinyin": "Zhè yàng wǒ jiù zhī dào zěn me ān pái shí jiān ， bú huì tóng shí zuò cuò hǎo jǐ jiàn shì 。",
+      "tr": "Böylece zamanı düzenler, aynı anda birkaç işi karıştırmam."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_094",
+      "speaker": "张伟",
+      "zh": "对，一次做好一项，再检查记录，工作会更清楚。",
+      "pinyin": "Duì ， yī cì zuò hǎo yī xiàng ， zài jiǎn chá jì lù ， gōng zuò huì gèng qīng chǔ 。",
+      "tr": "Evet, bir işi tamamlayıp kaydı kontrol etmek işleri daha anlaşılır kılar."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_095",
+      "speaker": "新同事",
+      "zh": "我把今天学到的几步写在笔记里，明天可以再看。",
+      "pinyin": "Wǒ bǎ jīn tiān xué dào de jǐ bù xiě zài bǐ jì lǐ ， míng tiān kě yǐ zài kàn 。",
+      "tr": "Bugün öğrendiğim adımları notlarıma yazıyorum; yarın tekrar bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_096",
+      "speaker": "经理",
+      "zh": "记得把工作笔记放在安全的地方，不要写账号密码。",
+      "pinyin": "Jì de bǎ gōng zuò bǐ jì fàng zài ān quán de dì fāng ， bú yào xiě zhàng hào mì mǎ 。",
+      "tr": "İş notlarını güvenli yerde tut; kullanıcı adı ya da parola yazma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_097",
+      "speaker": "张伟",
+      "zh": "我只记工作步骤，不会把个人密码写进去。",
+      "pinyin": "Wǒ zhǐ jì gōng zuò bù zhòu ， bú huì bǎ gè rén mì mǎ xiě jìn qù 。",
+      "tr": "Yalnızca iş adımlarını not edeceğim, kişisel parolamı yazmayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_098",
+      "speaker": "新同事",
+      "zh": "很好。下次遇到新情况，再把问题和解决办法记下来。",
+      "pinyin": "Hěn hǎo 。 xià cì yù dào xīn qíng kuàng ， zài bǎ wèn tí hé jiě jué bàn fǎ jì xià lái 。",
+      "tr": "Güzel. Yeni bir durum olursa sorunu ve çözümünü de not edebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_099",
+      "speaker": "经理",
+      "zh": "谢谢你们带我熟悉工作，我明天会按清单自己试试。",
+      "pinyin": "Xiè xiè nǐ men dài wǒ shú xī gōng zuò ， wǒ míng tiān huì àn qīng dān zì jǐ shì shì 。",
+      "tr": "İşe alışmama yardım ettiğiniz için teşekkürler; yarın listeye göre kendim deneyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC036_100",
+      "speaker": "张伟",
+      "zh": "不客气，有问题随时来问。我们一起把工作做好。",
+      "pinyin": "Bú kè qì ， yǒu wèn tí suí shí lái wèn 。 wǒ men yì qǐ bǎ gōng zuò zuò hǎo 。",
+      "tr": "Rica ederiz, soruların olursa her zaman sor. Birlikte iyi iş çıkarırız."
+    }
+  ]
+}

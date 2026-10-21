@@ -430,702 +430,702 @@
     {
       "id": "DLG_ZH_HSK1_SC030_001",
       "speaker": "张伟",
-      "zh": "公司打来了好消息。",
-      "pinyin": "Gōngsī dǎlái le hǎoxiāoxī.",
-      "tr": "Şirketten güzel haber geliyor."
+      "zh": "公司今天给我打了电话，有好消息。",
+      "pinyin": "gōngsī jīntiān gěi wǒ dǎ le diànhuà, yǒu hǎoxiāoxī.",
+      "tr": "Şirket bugün beni aradı; güzel bir haber var."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_002",
       "speaker": "刘梅",
-      "zh": "是吗？",
-      "pinyin": "Shì ma?",
-      "tr": "Öyle mi?"
+      "zh": "是关于工作的事吗？",
+      "pinyin": "shì guānyú gōngzuò de shì ma?",
+      "tr": "İşle ilgili bir haber mi?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_003",
       "speaker": "张雨桐",
-      "zh": "没错。",
-      "pinyin": "Méicuò.",
-      "tr": "Evet."
+      "zh": "爸爸，你拿到工作了吗？",
+      "pinyin": "bàbà, nǐ nádào gōngzuò le ma?",
+      "tr": "Baba, işi aldın mı?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_004",
       "speaker": "张乐乐",
-      "zh": "准备好了吗？",
-      "pinyin": "Zhǔnbèi hǎolema?",
-      "tr": "Hazır mısınız?"
+      "zh": "真的吗？快告诉我们！",
+      "pinyin": "zhēnde ma? kuài gàosù wǒmen!",
+      "tr": "Gerçekten mi? Hemen anlat!"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_005",
       "speaker": "张伟",
-      "zh": "嗯，准备好了。",
-      "pinyin": "En, zhǔnbèi hǎo le.",
-      "tr": "Hazırız."
+      "zh": "嗯，公司让我星期一开始上班。",
+      "pinyin": "ń, gōngsī ràng wǒ xīngqīyī kāishǐ shàngbān.",
+      "tr": "Evet, pazartesi işe başlamamı istediler."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_006",
       "speaker": "刘梅",
-      "zh": "你在找工作吗？",
-      "pinyin": "Nǐ zài zhǎo gōngzuò ma?",
-      "tr": "İş mi arıyorsun?"
+      "zh": "太好了，你等这个消息很久了。",
+      "pinyin": "tàihǎole, nǐ děng zhège xiāoxī hěnjiǔ le.",
+      "tr": "Harika, bu haberi uzun zamandır bekliyordun."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_007",
       "speaker": "张雨桐",
-      "zh": "对。",
-      "pinyin": "Duì.",
-      "tr": "Evet."
+      "zh": "今天晚上我们一起庆祝吧。",
+      "pinyin": "jīntiān wǎnshàng wǒmen yìqǐ qìngzhù ba.",
+      "tr": "Bu akşam birlikte kutlayalım."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_008",
       "speaker": "张乐乐",
-      "zh": "那准备好了吗？",
-      "pinyin": "Nà zhǔnbèi hǎolema?",
-      "tr": "Hazır mısın?"
+      "zh": "我们可以买蛋糕吗？",
+      "pinyin": "wǒmen kěyǐ mǎi dàngāo ma?",
+      "tr": "Kek alabilir miyiz?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_009",
       "speaker": "张伟",
-      "zh": "准备好了。",
-      "pinyin": "Zhǔnbèi hǎo le.",
-      "tr": "Hazırım."
+      "zh": "当然，买一个小蛋糕就好。",
+      "pinyin": "dāngrán, mǎi yígè xiǎo dàngāo jiù hǎo.",
+      "tr": "Tabii, küçük bir kek yeter."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_010",
       "speaker": "刘梅",
-      "zh": "这是我们的家人。",
-      "pinyin": "Zhèshì wǒmen de jiārén.",
-      "tr": "Bu bizim aile."
+      "zh": "家里还有水果，我去拿。",
+      "pinyin": "jiālǐ háiyǒu shuǐguǒ, wǒ qù ná.",
+      "tr": "Evde meyve de var, gidip getireyim."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_011",
       "speaker": "张雨桐",
-      "zh": "你好，来了！",
-      "pinyin": "Nǐhǎo, lái le!",
-      "tr": "Merhaba!"
+      "zh": "我来收拾桌子。",
+      "pinyin": "wǒlái shōushí zhuōzi.",
+      "tr": "Masayı ben hazırlayayım."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_012",
       "speaker": "张乐乐",
-      "zh": "认识你很高兴。",
-      "pinyin": "Rènshí nǐ hěn gāoxìng.",
-      "tr": "Tanıştığımıza memnun oldum."
+      "zh": "我把盘子放好。",
+      "pinyin": "wǒ bǎ pánzi fàng hǎo.",
+      "tr": "Tabakları ben yerleştireyim."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_013",
       "speaker": "张伟",
-      "zh": "我也是。",
-      "pinyin": "Wǒ yě shì.",
-      "tr": "Ben de."
+      "zh": "谢谢你们，我很高兴。",
+      "pinyin": "xièxiènǐmen, wǒ hěn gāoxìng.",
+      "tr": "Teşekkür ederim, çok mutluyum."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_014",
       "speaker": "刘梅",
-      "zh": "你要蛋糕吗？",
-      "pinyin": "Nǐ yào dàngāo ma?",
-      "tr": "Kek / pasta ister misin?"
+      "zh": "你为了这份工作准备了很多。",
+      "pinyin": "nǐ wèile zhèfèn gōngzuò zhǔnbèi le hěnduō.",
+      "tr": "Bu iş için çok hazırlandın."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_015",
       "speaker": "张雨桐",
-      "zh": "我要蛋糕，谢谢。",
-      "pinyin": "Wǒyào dàngāo, xièxiè.",
-      "tr": "Kek / pasta istiyorum, teşekkürler."
+      "zh": "面试的时候，你紧张吗？",
+      "pinyin": "miànshì de shíhòu, nǐ jǐnzhāng ma?",
+      "tr": "Görüşmede heyecanlandın mı?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_016",
       "speaker": "张乐乐",
-      "zh": "好。",
-      "pinyin": "Hǎo.",
-      "tr": "Olur."
+      "zh": "爸爸，你回答得好吗？",
+      "pinyin": "bàbà, nǐ huídá dé hǎo ma?",
+      "tr": "Baba, soruları iyi yanıtladın mı?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_017",
       "speaker": "张伟",
-      "zh": "谢谢。",
-      "pinyin": "Xièxiè.",
-      "tr": "Teşekkür ederim."
+      "zh": "有一点紧张，不过我都听懂了。",
+      "pinyin": "yǒu yìdiǎn jǐnzhāng, bùguò wǒ dōu tīngdǒng le.",
+      "tr": "Biraz heyecanlandım ama her şeyi anladım."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_018",
       "speaker": "刘梅",
-      "zh": "晚上有时间吗？",
-      "pinyin": "Wǎnshàng yǒu shíjiān ma?",
-      "tr": "Akşam vaktin var mı?"
+      "zh": "经理问了你什么问题？",
+      "pinyin": "jīnglǐ wèn le nǐ shénme wèntí?",
+      "tr": "Müdür sana ne sordu?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_019",
       "speaker": "张雨桐",
-      "zh": "有。",
-      "pinyin": "Yǒu.",
-      "tr": "Var."
+      "zh": "是不是问你以前做过什么工作？",
+      "pinyin": "shìbúshì wèn nǐ yǐqián zuòguò shénme gōngzuò?",
+      "tr": "Daha önce ne iş yaptığını mı sordu?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_020",
       "speaker": "张乐乐",
-      "zh": "晚上见。",
-      "pinyin": "Wǎnshàng jiàn.",
-      "tr": "Akşam görüşürüz."
+      "zh": "爸爸会用电脑吗？",
+      "pinyin": "bàbà huì yòng diànnǎo ma?",
+      "tr": "Baba, bilgisayar kullanabiliyor musun?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_021",
       "speaker": "张伟",
-      "zh": "好的。",
-      "pinyin": "Hǎo de.",
-      "tr": "Tamam."
+      "zh": "我告诉他，我以前在小店工作。",
+      "pinyin": "wǒ gàosù tā, wǒ yǐqián zài xiǎodiàn gōngzuò.",
+      "tr": "Ona daha önce küçük bir dükkânda çalıştığımı söyledim."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_022",
       "speaker": "刘梅",
-      "zh": "大家等着听结果。",
-      "pinyin": "Dàjiā děng zhe tīng jiéguǒ.",
-      "tr": "Herkes sonucu bekliyor."
+      "zh": "你也会用电脑记简单的账。",
+      "pinyin": "nǐ yě huì yòng diànnǎo jì jiǎndān de zhàng.",
+      "tr": "Bilgisayarda basit hesapları da tutabiliyorsun."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_023",
       "speaker": "张雨桐",
-      "zh": "别急。",
-      "pinyin": "Biéjí.",
-      "tr": "Panik yapma."
+      "zh": "这些工作你都做得很好。",
+      "pinyin": "zhèxiē gōngzuò nǐ dōu zuò dé hěn hǎo.",
+      "tr": "Bu işleri gayet iyi yapıyorsun."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_024",
       "speaker": "张乐乐",
-      "zh": "我来看看。",
-      "pinyin": "Wǒlái kànkàn.",
-      "tr": "Ben bir bakayım."
+      "zh": "所以公司请爸爸去工作！",
+      "pinyin": "suǒyǐ gōngsī qǐng bàbà qù gōngzuò!",
+      "tr": "Demek şirket babamı işe aldı!"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_025",
       "speaker": "张伟",
-      "zh": "我们一起吧。",
-      "pinyin": "Wǒmen yìqǐ ba.",
-      "tr": "Birlikte yapalım."
+      "zh": "对，我星期一开始新的工作。",
+      "pinyin": "duì, wǒ xīngqīyī kāishǐ xīn de gōngzuò.",
+      "tr": "Evet, pazartesi yeni işime başlayacağım."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_026",
       "speaker": "刘梅",
-      "zh": "行。",
-      "pinyin": "Xíng.",
-      "tr": "Tamam."
+      "zh": "公司离家远吗？",
+      "pinyin": "gōngsī líjiā yuǎn ma?",
+      "tr": "Şirket eve uzak mı?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_027",
       "speaker": "张雨桐",
-      "zh": "今天忙吗？",
-      "pinyin": "Jīntiān máng ma?",
-      "tr": "Bugün yoğun musun?"
+      "zh": "你每天要坐车去吗？",
+      "pinyin": "nǐ měitiān yào zuòchēqù ma?",
+      "tr": "Her gün araçla mı gideceksin?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_028",
       "speaker": "张乐乐",
-      "zh": "有一点。",
-      "pinyin": "Yǒu yìdiǎn.",
-      "tr": "Biraz."
+      "zh": "爸爸什么时候出门？",
+      "pinyin": "bàbà shénme shíhòu chūmén?",
+      "tr": "Baba, ne zaman evden çıkacaksın?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_029",
       "speaker": "张伟",
-      "zh": "没关系。",
-      "pinyin": "Méiguānxì.",
-      "tr": "Sorun değil."
+      "zh": "我坐公交车去，早上八点出门。",
+      "pinyin": "wǒ zuò gōngjiāochē qù, zǎoshàng bādiǎn chūmén.",
+      "tr": "Otobüsle gideceğim, sabah sekizde çıkarım."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_030",
       "speaker": "刘梅",
-      "zh": "我们继续。",
-      "pinyin": "Wǒmen jìxù.",
-      "tr": "Devam edelim."
+      "zh": "路上要花多长时间？",
+      "pinyin": "lùshàng yàohuā duōzhǎngshíjiān?",
+      "tr": "Yol ne kadar sürüyor?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_031",
       "speaker": "张雨桐",
-      "zh": "这是我们的朋友。",
-      "pinyin": "Zhèshì wǒmen de péngyǒu.",
-      "tr": "Bu bizim arkadaş."
+      "zh": "我可以帮你查公交车时间。",
+      "pinyin": "wǒ kěyǐ bāng nǐ chá gōngjiāochē shíjiān.",
+      "tr": "Otobüs saatlerine bakmana yardım edebilirim."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_032",
       "speaker": "张乐乐",
-      "zh": "你好！",
-      "pinyin": "Nǐhǎo!",
-      "tr": "Merhaba!"
+      "zh": "我也想和爸爸一起坐车。",
+      "pinyin": "wǒ yě xiǎng hé bàbà yìqǐ zuòchē.",
+      "tr": "Ben de babamla otobüse binmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_033",
       "speaker": "张伟",
-      "zh": "嗯，认识你很高兴。",
-      "pinyin": "En, rènshí nǐ hěn gāoxìng.",
-      "tr": "Tanıştığımıza memnun oldum."
+      "zh": "公交车很方便，我不用很早起来。",
+      "pinyin": "gōngjiāochē hěn fāngbiàn, wǒ bùyòng hěnzǎo qǐlái.",
+      "tr": "Otobüs çok kullanışlı, çok erken kalkmam gerekmiyor."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_034",
       "speaker": "刘梅",
-      "zh": "嗯，我也是。",
-      "pinyin": "En, wǒ yě shì.",
-      "tr": "Ben de."
+      "zh": "那你晚上可以早点休息。",
+      "pinyin": "nà nǐ wǎnshàng kěyǐ zǎodiǎn xiūxī.",
+      "tr": "O zaman akşam erken dinlenebilirsin."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_035",
       "speaker": "张雨桐",
-      "zh": "家在哪儿？",
-      "pinyin": "Jiā zài nǎér?",
-      "tr": "Ev nerede?"
+      "zh": "上班的衣服都准备好了吗？",
+      "pinyin": "shàngbān de yīfú dōu zhǔnbèi hǎolema?",
+      "tr": "İş kıyafetlerin hazır mı?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_036",
       "speaker": "张乐乐",
-      "zh": "你看，家在那边。",
-      "pinyin": "Nǐ kàn, jiā zài nàbiān.",
-      "tr": "Ev şu tarafta."
+      "zh": "我帮爸爸拿包！",
+      "pinyin": "wǒ bāng bàbà nábāo!",
+      "tr": "Babanın çantasını ben taşıyayım!"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_037",
       "speaker": "张伟",
-      "zh": "好，我知道了。",
-      "pinyin": "Hǎo, wǒ zhīdào le.",
-      "tr": "Anladım."
+      "zh": "谢谢，衣服和包都准备好了。",
+      "pinyin": "xièxiè, yīfú hé bāo dōu zhǔnbèi hǎo le.",
+      "tr": "Teşekkürler, kıyafetlerim ve çantam hazır."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_038",
       "speaker": "刘梅",
-      "zh": "好，谢谢。",
-      "pinyin": "Hǎo, xièxiè.",
-      "tr": "Teşekkür ederim."
+      "zh": "我再帮你看一遍。",
+      "pinyin": "wǒ zài bāng nǐ kànyībiàn.",
+      "tr": "Bir kez daha kontrol etmene yardım edeyim."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_039",
       "speaker": "张雨桐",
-      "zh": "你要饭吗？",
-      "pinyin": "Nǐ yàofàn ma?",
-      "tr": "Yemek ister misin?"
+      "zh": "桌上这张卡是工作卡吗？",
+      "pinyin": "zhuōshàng zhè zhāngkǎ shì gōngzuò kǎ ma?",
+      "tr": "Masadaki bu kart iş kartı mı?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_040",
       "speaker": "张乐乐",
-      "zh": "我要饭，谢谢。",
-      "pinyin": "Wǒ yàofàn, xièxiè.",
-      "tr": "Yemek istiyorum, teşekkürler."
+      "zh": "爸爸上班也要带卡吗？",
+      "pinyin": "bàbà shàngbān yě yào dài kǎ ma?",
+      "tr": "Baba, işe giderken kartını da götürecek misin?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_041",
       "speaker": "张伟",
-      "zh": "嗯，好。",
-      "pinyin": "En, hǎo.",
-      "tr": "Olur."
+      "zh": "对，这是我的卡，上班时要带着。",
+      "pinyin": "duì, zhè shì wǒ de kǎ, shàngbān shíyào dài zhe.",
+      "tr": "Evet, bu benim kartım; işe giderken yanımda olmalı."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_042",
       "speaker": "刘梅",
-      "zh": "嗯，谢谢。",
-      "pinyin": "En, xièxiè.",
-      "tr": "Teşekkür ederim."
+      "zh": "好，我把卡放在你的包旁边。",
+      "pinyin": "hǎo, wǒ bǎ kǎ fàngzài nǐ de bāo pángbiān.",
+      "tr": "Tamam, kartı çantanın yanına koyuyorum."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_043",
       "speaker": "张雨桐",
-      "zh": "张伟找到工作了。",
-      "pinyin": "Zhāngwěi zhǎodào gōngzuò le.",
-      "tr": "Zhang Wei iş buldu."
+      "zh": "你的办公室里有电脑吗？",
+      "pinyin": "nǐ de bàngōngshì lǐ yǒu diànnǎo ma?",
+      "tr": "Ofisinde bilgisayar olacak mı?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_044",
       "speaker": "张乐乐",
-      "zh": "太好了！",
-      "pinyin": "Tàihǎole!",
-      "tr": "Harika!"
+      "zh": "我想看看爸爸工作的地方！",
+      "pinyin": "wǒ xiǎng kànkàn bàbà gōngzuò de dìfāng!",
+      "tr": "Babanın çalıştığı yeri görmek istiyorum!"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_045",
       "speaker": "张伟",
-      "zh": "谢谢你。",
-      "pinyin": "Xièxiè nǐ.",
-      "tr": "Teşekkür ederim."
+      "zh": "有电脑，我每天会用它做表。",
+      "pinyin": "yǒu diànnǎo, wǒ měitiān huìyòng tā zuòbiǎo.",
+      "tr": "Bilgisayar var; her gün onunla tablo hazırlayacağım."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_046",
       "speaker": "刘梅",
-      "zh": "不客气。",
-      "pinyin": "Bù kèqì.",
-      "tr": "Rica ederim."
+      "zh": "那正好，你以前就会用电脑。",
+      "pinyin": "nà zhènghǎo, nǐ yǐqián jiùhuìyòng diànnǎo.",
+      "tr": "Ne güzel, zaten bilgisayar kullanmayı biliyorsun."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_047",
       "speaker": "张雨桐",
-      "zh": "现在好了。",
-      "pinyin": "Xiànzài hǎo le.",
-      "tr": "Şimdi tamam."
+      "zh": "新同事会帮你熟悉办公室吧？",
+      "pinyin": "xīn tóngshì huì bāng nǐ shúxī bàngōngshì ba?",
+      "tr": "Yeni iş arkadaşların ofise alışmana yardım eder, değil mi?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_048",
       "speaker": "张乐乐",
-      "zh": "嗯，我们继续。",
-      "pinyin": "En, wǒmen jìxù.",
-      "tr": "Devam edelim."
+      "zh": "爸爸可以和同事一起吃饭吗？",
+      "pinyin": "bàbà kěyǐ hé tóngshì yìqǐ chīfàn ma?",
+      "tr": "Baba, iş arkadaşlarınla birlikte yemek yiyecek misin?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_049",
       "speaker": "张伟",
-      "zh": "那你在找工作吗？",
-      "pinyin": "Nà nǐ zài zhǎo gōngzuò ma?",
-      "tr": "İş mi arıyorsun?"
+      "zh": "可以，大家会一起工作，也会一起吃饭。",
+      "pinyin": "kěyǐ, dàjiā huì yìqǐ gōngzuò, yě huì yìqǐ chīfàn.",
+      "tr": "Evet, birlikte çalışıp birlikte yemek yiyeceğiz."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_050",
       "speaker": "刘梅",
-      "zh": "嗯，对。",
-      "pinyin": "En, duì.",
-      "tr": "Evet."
+      "zh": "和同事好好相处很重要。",
+      "pinyin": "hé tóngshì hǎohǎo xiāngchǔ hěn zhòngyào.",
+      "tr": "İş arkadaşlarınla iyi geçinmek önemli."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_051",
       "speaker": "张雨桐",
-      "zh": "准备得怎么样了？",
-      "pinyin": "Zhǔnbèi dé zěnmeyàng le?",
-      "tr": "Hazır mısın?"
+      "zh": "我相信爸爸很快就会认识大家。",
+      "pinyin": "wǒ xiāngxìn bàbà hěnkuài jiù huì rènshí dàjiā.",
+      "tr": "Eminim yakında herkesle tanışırsın."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_052",
       "speaker": "张乐乐",
-      "zh": "嗯，准备好了。",
-      "pinyin": "En, zhǔnbèi hǎo le.",
-      "tr": "Hazırım."
+      "zh": "我也想认识爸爸的同事！",
+      "pinyin": "wǒ yě xiǎng rènshí bàbà de tóngshì!",
+      "tr": "Ben de babamın iş arkadaşlarıyla tanışmak istiyorum!"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_053",
       "speaker": "张伟",
-      "zh": "嗯，这是我们的家人。",
-      "pinyin": "En, zhèshì wǒmen de jiārén.",
-      "tr": "Bu bizim aile."
+      "zh": "以后有机会，我带你们去办公室看看。",
+      "pinyin": "yǐhòu yǒu jīhuì, wǒdài nǐmen qù bàngōngshì kànkàn.",
+      "tr": "Fırsat olursa sizi ofise götürüp gösteririm."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_054",
       "speaker": "刘梅",
-      "zh": "你好啊！",
-      "pinyin": "Nǐhǎo a!",
-      "tr": "Merhaba!"
+      "zh": "那要等你先熟悉工作。",
+      "pinyin": "nàyào děng nǐ xiān shúxī gōngzuò.",
+      "tr": "Önce işe alışmanı bekleyelim."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_055",
       "speaker": "张雨桐",
-      "zh": "太好了，认识你很高兴。",
-      "pinyin": "Tàihǎole, rènshí nǐ hěn gāoxìng.",
-      "tr": "Tanıştığımıza memnun oldum."
+      "zh": "第一天上班，你想几点到？",
+      "pinyin": "dìyītiān shàngbān, nǐ xiǎng jǐdiǎn dào?",
+      "tr": "İlk iş gününde saat kaçta orada olmak istiyorsun?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_056",
       "speaker": "张乐乐",
-      "zh": "我也一样。",
-      "pinyin": "Wǒ yě yīyàng.",
-      "tr": "Ben de."
+      "zh": "你会在办公室吃午饭吗？",
+      "pinyin": "nǐ huì zài bàngōngshì chī wǔfàn ma?",
+      "tr": "Ofiste öğle yemeği yiyecek misin?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_057",
       "speaker": "张伟",
-      "zh": "蛋糕你要吗？",
-      "pinyin": "Dàngāo nǐ yào ma?",
-      "tr": "Kek / pasta ister misin?"
+      "zh": "我会早点到，先跟经理打招呼。",
+      "pinyin": "wǒhuì zǎodiǎn dào, xiān gēn jīnglǐ dǎzhāohū.",
+      "tr": "Erken gidip önce müdürle selamlaşacağım."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_058",
       "speaker": "刘梅",
-      "zh": "那我要蛋糕，谢谢。",
-      "pinyin": "Nà wǒ yào dàngāo, xièxiè.",
-      "tr": "Kek / pasta istiyorum, teşekkürler."
+      "zh": "记得带上工作卡和水。",
+      "pinyin": "jìde dàishàng gōngzuò kǎhéshuǐ.",
+      "tr": "İş kartını ve suyunu yanına almayı unutma."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_059",
       "speaker": "张雨桐",
-      "zh": "嗯，好。",
-      "pinyin": "En, hǎo.",
-      "tr": "Olur."
+      "zh": "我把提醒写到你的手机里。",
+      "pinyin": "wǒ bǎ tíxǐng xiě dào nǐ de shǒujī lǐ.",
+      "tr": "Hatırlatmayı telefonuna yazıyorum."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_060",
       "speaker": "张乐乐",
-      "zh": "太好了，谢谢。",
-      "pinyin": "Tàihǎole, xièxiè.",
-      "tr": "Teşekkür ederim."
+      "zh": "我可以画一张画给爸爸吗？",
+      "pinyin": "wǒ kěyǐ huà yīzhāng huà gěi bàbà ma?",
+      "tr": "Babam için bir resim çizebilir miyim?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_061",
       "speaker": "张伟",
-      "zh": "那晚上有时间吗？",
-      "pinyin": "Nà wǎnshàng yǒu shíjiān ma?",
-      "tr": "Akşam vaktin var mı?"
+      "zh": "当然，我把画放在桌上。",
+      "pinyin": "dāngrán, wǒ bǎ huà fàngzài zhuōshàng.",
+      "tr": "Tabii, resmi masama koyarım."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_062",
       "speaker": "刘梅",
-      "zh": "嗯，有。",
-      "pinyin": "En, yǒu.",
-      "tr": "Var."
+      "zh": "这样你工作时看到就会想家。",
+      "pinyin": "zhèyàng nǐ gōngzuò shí kàndào jiùhuì xiǎngjiā.",
+      "tr": "İşteyken görünce aileni hatırlarsın."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_063",
       "speaker": "张雨桐",
-      "zh": "嗯，晚上见。",
-      "pinyin": "En, wǎnshàng jiàn.",
-      "tr": "Akşam görüşürüz."
+      "zh": "爸爸，你工作后还会陪我学习吗？",
+      "pinyin": "bàbà, nǐ gōngzuò hòu hái huì péi wǒ xuéxí ma?",
+      "tr": "Baba, işe başlayınca ders çalışırken bana yine eşlik edecek misin?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_064",
       "speaker": "张乐乐",
-      "zh": "可以。",
-      "pinyin": "Kěyǐ.",
-      "tr": "Tamam."
+      "zh": "晚上还会给我讲故事吗？",
+      "pinyin": "wǎnshàng háihuì gěi wǒ jiǎnggùshì ma?",
+      "tr": "Akşamları bana yine masal anlatacak mısın?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_065",
       "speaker": "张伟",
-      "zh": "那今天忙吗？",
-      "pinyin": "Nà jīntiān máng ma?",
-      "tr": "Bugün yoğun musun?"
+      "zh": "当然，工作以后我还是会陪你们。",
+      "pinyin": "dāngrán, gōngzuò yǐhòu wǒ háishì huì péi nǐmen.",
+      "tr": "Elbette, işe başlasam da sizinle vakit geçireceğim."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_066",
       "speaker": "刘梅",
-      "zh": "嗯，有一点。",
-      "pinyin": "En, yǒu yìdiǎn.",
-      "tr": "Biraz."
+      "zh": "我们也会帮你把家里的事做好。",
+      "pinyin": "wǒmen yě huì bāng nǐ bǎ jiālǐ de shì zuòhǎo.",
+      "tr": "Biz de ev işlerini halletmene yardım ederiz."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_067",
       "speaker": "张雨桐",
-      "zh": "嗯，没关系。",
-      "pinyin": "En, méiguānxì.",
-      "tr": "Sorun değil."
+      "zh": "那我们一起安排时间。",
+      "pinyin": "nà wǒmen yìqǐ ānpái shíjiān.",
+      "tr": "O zaman zamanımızı birlikte ayarlarız."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_068",
       "speaker": "张乐乐",
-      "zh": "对，我们继续。",
-      "pinyin": "Duì, wǒmen jìxù.",
-      "tr": "Devam edelim."
+      "zh": "星期一晚上我们一起吃饭！",
+      "pinyin": "xīngqīyī wǎnshàng wǒmen yìqǐ chīfàn!",
+      "tr": "Pazartesi akşamı birlikte yemek yiyelim!"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_069",
       "speaker": "张伟",
-      "zh": "嗯，这是我们的朋友。",
-      "pinyin": "En, zhèshì wǒmen de péngyǒu.",
-      "tr": "Bu bizim arkadaş."
+      "zh": "好，今天先和家人一起庆祝。",
+      "pinyin": "hǎo, jīntiān xiān hé jiārén yìqǐ qìngzhù.",
+      "tr": "Olur, bugün önce ailece kutlayalım."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_070",
       "speaker": "刘梅",
-      "zh": "你好！",
-      "pinyin": "Nǐhǎo!",
-      "tr": "Merhaba!"
+      "zh": "我把蛋糕切开，大家都吃一块。",
+      "pinyin": "wǒ bǎ dàngāo qièkāi, dàjiā dōu chī yīkuài.",
+      "tr": "Keki keseyim, herkes bir parça alsın."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_071",
       "speaker": "张雨桐",
-      "zh": "对，认识你很高兴。",
-      "pinyin": "Duì, rènshí nǐ hěn gāoxìng.",
-      "tr": "Tanıştığımıza memnun oldum."
+      "zh": "我来洗水果，再放在盘子里。",
+      "pinyin": "wǒlái xǐ shuǐguǒ, zài fàngzài pánzi lǐ.",
+      "tr": "Meyveleri yıkayıp tabağa koyayım."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_072",
       "speaker": "张乐乐",
-      "zh": "我也这么想。",
-      "pinyin": "Wǒ yě zhème xiǎng.",
-      "tr": "Ben de."
+      "zh": "我想先吃一口蛋糕！",
+      "pinyin": "wǒ xiǎng xiān chī yīkǒu dàngāo!",
+      "tr": "Önce bir lokma kek yemek istiyorum!"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_073",
       "speaker": "张伟",
-      "zh": "现在你在找工作吗？",
-      "pinyin": "Xiànzài nǐ zài zhǎo gōngzuò ma?",
-      "tr": "İş mi arıyorsun?"
+      "zh": "等大家都坐好，我们一起吃。",
+      "pinyin": "děng dàjiā dōu zuò hǎo, wǒmen yìqǐ chī.",
+      "tr": "Herkes oturunca birlikte yiyelim."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_074",
       "speaker": "刘梅",
-      "zh": "是。",
-      "pinyin": "Shì.",
-      "tr": "Evet."
+      "zh": "朋友说她晚上会来吗？",
+      "pinyin": "péngyǒu shuō tā wǎnshàng huìlái ma?",
+      "tr": "Arkadaşın bu akşam geleceğini söyledi mi?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_075",
       "speaker": "张雨桐",
-      "zh": "那准备得怎么样了？",
-      "pinyin": "Nà zhǔnbèi dé zěnmeyàng le?",
-      "tr": "Hazır mısın?"
+      "zh": "我刚给她发了消息，她说一会儿到。",
+      "pinyin": "wǒgāng gěi tā fā le xiāoxī, tā shuō yīhuìer dào.",
+      "tr": "Az önce ona mesaj attım, birazdan geleceğini söyledi."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_076",
       "speaker": "张乐乐",
-      "zh": "都准备好了。",
-      "pinyin": "Dōu zhǔnbèi hǎo le.",
-      "tr": "Hazırım."
+      "zh": "她会带礼物来吗？",
+      "pinyin": "tā huì dài lǐwù lái ma?",
+      "tr": "Hediye getirecek mi?"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_077",
       "speaker": "张伟",
-      "zh": "对，这是我们的家人。",
-      "pinyin": "Duì, zhèshì wǒmen de jiārén.",
-      "tr": "Bu bizim aile."
+      "zh": "不用带礼物，她来一起吃蛋糕就好。",
+      "pinyin": "bùyòng dài lǐwù, tā lái yìqǐ chī dàngāo jiù hǎo.",
+      "tr": "Hediye getirmesine gerek yok; gelip bizimle kek yesin yeter."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_078",
       "speaker": "刘梅",
-      "zh": "嗨，你好！",
-      "pinyin": "Hāi, nǐhǎo!",
-      "tr": "Merhaba!"
+      "zh": "我给她留了一张椅子。",
+      "pinyin": "wǒ gěi tā liú le yīzhāng yǐzi.",
+      "tr": "Ona bir sandalye ayırdım."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_079",
       "speaker": "张雨桐",
-      "zh": "很高兴认识你。",
-      "pinyin": "Hěn gāoxìng rènshí nǐ.",
-      "tr": "Tanıştığımıza memnun oldum."
+      "zh": "朋友快到了，我去看看。",
+      "pinyin": "péngyǒu kuàidào le, wǒ qù kànkàn.",
+      "tr": "Arkadaşımız gelmek üzere, bir bakayım."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_080",
       "speaker": "张乐乐",
-      "zh": "嗯，我也是。",
-      "pinyin": "En, wǒ yě shì.",
-      "tr": "Ben de."
+      "zh": "我也去门口等她！",
+      "pinyin": "wǒ yě qù ménkǒu děng tā!",
+      "tr": "Ben de kapıda onu bekleyeyim!"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_081",
       "speaker": "张伟",
-      "zh": "现在你要蛋糕吗？",
-      "pinyin": "Xiànzài nǐ yào dàngāo ma?",
-      "tr": "Kek / pasta ister misin?"
+      "zh": "慢慢走，别跑太快。",
+      "pinyin": "mànmàn zǒu, biépǎo tàikuài.",
+      "tr": "Yavaş yürüyün, çok hızlı koşmayın."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_082",
       "speaker": "刘梅",
-      "zh": "对，我要蛋糕，谢谢。",
-      "pinyin": "Duì, wǒyào dàngāo, xièxiè.",
-      "tr": "Kek / pasta istiyorum, teşekkürler."
+      "zh": "朋友来了，进来坐吧。",
+      "pinyin": "péngyǒu lái le, jìnlái zuò ba.",
+      "tr": "Arkadaşımız geldi, buyurun oturun."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_083",
       "speaker": "张雨桐",
-      "zh": "好啊。",
-      "pinyin": "Hǎo a.",
-      "tr": "Olur."
+      "zh": "你好，欢迎来我们家。",
+      "pinyin": "nǐhǎo, huānyíng lái wǒmen jiā.",
+      "tr": "Merhaba, evimize hoş geldin."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_084",
       "speaker": "张乐乐",
-      "zh": "真的谢谢你。",
-      "pinyin": "Zhēnde xièxiè nǐ.",
-      "tr": "Teşekkür ederim."
+      "zh": "快来吃蛋糕和水果！",
+      "pinyin": "kuàilái chī dàngāo hé shuǐguǒ!",
+      "tr": "Hadi gel, kek ve meyve ye!"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_085",
       "speaker": "张伟",
-      "zh": "现在晚上有时间吗？",
-      "pinyin": "Xiànzài wǎnshàng yǒu shíjiān ma?",
-      "tr": "Akşam vaktin var mı?"
+      "zh": "我告诉她，公司让我星期一开始上班。",
+      "pinyin": "wǒ gàosù tā, gōngsī ràng wǒ xīngqīyī kāishǐ shàngbān.",
+      "tr": "Ona şirketin pazartesi işe başlamamı istediğini söyledim."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_086",
       "speaker": "刘梅",
-      "zh": "对，有。",
-      "pinyin": "Duì, yǒu.",
-      "tr": "Var."
+      "zh": "她听了也很高兴。",
+      "pinyin": "tā tīng le yě hěn gāoxìng.",
+      "tr": "Bunu duyunca o da sevindi."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_087",
       "speaker": "张雨桐",
-      "zh": "对，晚上见。",
-      "pinyin": "Duì, wǎnshàng jiàn.",
-      "tr": "Akşam görüşürüz."
+      "zh": "她说祝你工作顺利。",
+      "pinyin": "tā shuō zhù nǐ gōngzuò shùnlì.",
+      "tr": "İşlerinin yolunda gitmesini dilediğini söyledi."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_088",
       "speaker": "张乐乐",
-      "zh": "那好。",
-      "pinyin": "Nàhǎo.",
-      "tr": "Tamam."
+      "zh": "谢谢她，我们一起吃蛋糕！",
+      "pinyin": "xièxiè tā, wǒmen yìqǐ chī dàngāo!",
+      "tr": "Ona teşekkürler; hadi birlikte kek yiyelim!"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_089",
       "speaker": "张伟",
-      "zh": "现在今天忙吗？",
-      "pinyin": "Xiànzài jīntiān máng ma?",
-      "tr": "Bugün yoğun musun?"
+      "zh": "这次面试以后，我更想把工作做好。",
+      "pinyin": "zhècì miànshì yǐhòu, wǒ gèng xiǎng bǎ gōngzuò zuòhǎo.",
+      "tr": "Bu görüşmeden sonra işimi iyi yapmayı daha çok istiyorum."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_090",
       "speaker": "刘梅",
-      "zh": "对，有一点。",
-      "pinyin": "Duì, yǒu yìdiǎn.",
-      "tr": "Biraz."
+      "zh": "慢慢学，你会做得越来越好。",
+      "pinyin": "mànmàn xué, nǐ huì zuò dé yuèláiyuè hǎo.",
+      "tr": "Yavaş yavaş öğrenirsin, gittikçe daha iyi olursun."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_091",
       "speaker": "张雨桐",
-      "zh": "对，没关系。",
-      "pinyin": "Duì, méiguānxì.",
-      "tr": "Sorun değil."
+      "zh": "有问题就问同事，不用担心。",
+      "pinyin": "yǒu wèntí jiù wèn tóngshì, bùyòng dānxīn.",
+      "tr": "Sorun olursa iş arkadaşlarına sor, endişelenme."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_092",
       "speaker": "张乐乐",
-      "zh": "好，我们继续。",
-      "pinyin": "Hǎo, wǒmen jìxù.",
-      "tr": "Devam edelim."
+      "zh": "我也会给爸爸加油！",
+      "pinyin": "wǒ yě huì gěi bàbà jiāyóu!",
+      "tr": "Ben de babama destek olacağım!"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_093",
       "speaker": "张伟",
-      "zh": "对，这是我们的朋友。",
-      "pinyin": "Duì, zhèshì wǒmen de péngyǒu.",
-      "tr": "Bu bizim arkadaş."
+      "zh": "谢谢你们，有家人在身边真好。",
+      "pinyin": "xièxiènǐmen, yǒu jiārén zài shēnbiān zhēn hǎo.",
+      "tr": "Teşekkürler, ailemin yanımda olması çok güzel."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_094",
       "speaker": "刘梅",
-      "zh": "嗨，你好！",
-      "pinyin": "Hāi, nǐhǎo!",
-      "tr": "Merhaba!"
+      "zh": "我们今晚一起吃蛋糕、一起聊天。",
+      "pinyin": "wǒmen jīnwǎn yìqǐ chī dàngāo、 yìqǐ liáotiān.",
+      "tr": "Bu akşam birlikte kek yiyip sohbet ederiz."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_095",
       "speaker": "张雨桐",
-      "zh": "嗯，太好了，认识你很高兴。",
-      "pinyin": "En, tàihǎole, rènshí nǐ hěn gāoxìng.",
-      "tr": "Tanıştığımıza memnun oldum."
+      "zh": "我拍一张照片，记住今天。",
+      "pinyin": "wǒ pāi yīzhāng zhàopiān, jìzhù jīntiān.",
+      "tr": "Bugünü hatırlamak için bir fotoğraf çekeyim."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_096",
       "speaker": "张乐乐",
-      "zh": "今天挺顺利的。",
-      "pinyin": "Jīntiān tǐng shùnlì de.",
-      "tr": "Bugün oldukça iyi geçti."
+      "zh": "我站在爸爸旁边！",
+      "pinyin": "wǒ zhàn zài bàbà pángbiān!",
+      "tr": "Babamın yanına geçiyorum!"
     },
     {
       "id": "DLG_ZH_HSK1_SC030_097",
       "speaker": "张伟",
-      "zh": "嗯，我也一样。",
-      "pinyin": "En, wǒ yě yīyàng.",
-      "tr": "Ben de."
+      "zh": "等照片拍好，我们再收拾桌子。",
+      "pinyin": "děng zhàopiān pāi hǎo, wǒmen zài shōushí zhuōzi.",
+      "tr": "Fotoğrafı çekince masayı toplarız."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_098",
       "speaker": "刘梅",
-      "zh": "都好了吗？",
-      "pinyin": "Dōu hǎolema?",
-      "tr": "Her şey tamam mı?"
+      "zh": "好，明天还要早起，早点休息。",
+      "pinyin": "hǎo, míngtiān háiyào zǎoqǐ, zǎodiǎn xiūxī.",
+      "tr": "Tamam, yarın erken kalkacağız; erken dinlenelim."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_099",
       "speaker": "张雨桐",
-      "zh": "都好了。",
-      "pinyin": "Dōu hǎo le.",
-      "tr": "Her şey tamam."
+      "zh": "爸爸，星期一开始上班，今晚先好好睡。",
+      "pinyin": "bàbà, xīngqīyī kāishǐ shàngbān, jīnwǎn xiān hǎohǎo shuì.",
+      "tr": "Baba, pazartesi işe başlıyorsun; bu akşam iyi dinlen."
     },
     {
       "id": "DLG_ZH_HSK1_SC030_100",
       "speaker": "张乐乐",
-      "zh": "走吧。",
-      "pinyin": "Zǒu ba.",
-      "tr": "Hadi gidelim."
+      "zh": "爸爸，加油！我们等你下班回家！",
+      "pinyin": "bàbà, jiāyóu! wǒmen děng nǐ xiàbān huíjiā!",
+      "tr": "Baba, başarabilirsin! İşten eve dönmeni bekleyeceğiz!"
     }
   ],
   "production": {
@@ -1157,6 +1157,14 @@
     },
     "continuityNoteTr": "Güzel Haber olayı ana aile kronolojisinde sahne 30 olarak kaydedilir."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 14,
+    "source": "ci/dialogue_naturalized_r2/HSK1/ZH_HSK1_SC030.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

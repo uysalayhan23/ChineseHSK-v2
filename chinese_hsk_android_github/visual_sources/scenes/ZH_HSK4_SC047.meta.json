@@ -82,7 +82,7 @@
   "status": "COMPLETE",
   "binaryIntegrityChecked": true,
   "qaNoteTr": "2026-10-17: Li Chen'in eksik ince koyu dikdörtgen gözlükleri yalnız göz/şakak maskesinde eklendi. Orijinal 2.5D/3D CGI, yüzün kalan kısmı, saç, kompozisyon ve 1080×1920 boyut korundu. SSIM %99.856492; maske dışında değişen piksel 0. Yakın plan ve tam sahne görsel QA PASS. App/runtime blob eşleşmesi doğrulandı; Actions kullanılmadı.",
-  "dialogueSha256": "30ee821e137b7fd9dc8e1f598fe527ff781c15ef2e79cc8dd8842cfb57c984a5",
+  "dialogueSha256": "051a2f0f5e502f8f0910a762a32368b18b533798503e5c3df9f34657802a4d98",
   "postGenerationVisualQA": {
     "status": "PASS",
     "inspectedAfterGeneration": true,

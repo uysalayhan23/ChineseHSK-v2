@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC035",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC035.json",
-  "dialogueSha256": "9aa1a56cac5329ae301b0ee3da37114f9094044b73302ff4487f5361d4beff8f",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC035.json",
+  "dialogueSha256": "b9f96d3e46fbd53042fd3a2a4c490bc4e470358dce0a5a66f2bf26b0bf9a3621",
   "titleTr": "İlk Büyük Sipariş",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Okul etkinliği için büyük bir toplu sipariş gelir.",
@@ -49,7 +49,7 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "07a7645117de98cd306614b2cb3aa667c74d8701117cbdfe17e073b9ef4fb5a1"
+    "sha256": "454df181779de2e1d2afa525dfbcac90fd7fbd1137016bac39a7abcce20002de"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -71,5 +71,22 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: Büyük sipariş hazırlığı ve teslimat planı görünür. Kullanıcı, manifesto uygunsa ilerleme onayı verdi; HSK3 SC031-SC040 continuity seti final olarak entegre edildi."
+  "qaNoteTr": "Ön plandaki müşterinin ağzını görünür kılmak için yalnız baş bölgesi seçici biçimde düzeltildi; dış maskede decoded pikseller aynı, SSIM 0.9716.",
+  "postGenerationVisualQA": {
+    "mouthVisibilityQA": "PASS",
+    "localEditMaskPixelRatio": 0.04915,
+    "decodedPixelsOutsideMaskExact": true,
+    "fullImageSSIM11x11": 0.9716,
+    "dialogueTextQA": "PENDING_NATURALIZATION"
+  },
+  "dialogueTextQA": {
+    "status": "PASS",
+    "turns": 100,
+    "coherenceScore": 98.0,
+    "activeVocabularyCoverage": 1.0,
+    "topicWindowCoverage": 1.0,
+    "duplicateUtterances": 0,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
+  }
 }

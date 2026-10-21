@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK4_SC001",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v13/HSK4/ZH_HSK4_SC001.json",
-  "dialogueSha256": "d92720e6392f66d1a959e51a28175f35cc0e8dc3feb72b5312414da4bbd645d9",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC001.json",
+  "dialogueSha256": "67bb2986531a1c3ef7e4e19e7490bc202185bcd24ef09a84de4ddc3f53f16acf",
   "titleTr": "Büyükler Taşınma Kararı Veriyor",
   "locationId": "LOC_ZH_GRANDPARENTS_FARM_001",
   "scenePurposeTr": "Zhang’ın anne-babası çiftlikten ayrılıp aileye yakın yaşamayı ciddi biçimde tartışır.",
@@ -72,5 +72,7 @@
   "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi.",
   "dialogueEditorialRevision": "CONTEXTUAL_SIMPLIFIED_CHINESE_R1",
   "dialogueTextQaStatus": "PASS",
-  "audioRegenerationStatus": "pending_existing_pipeline"
+  "audioRegenerationStatus": "pending_existing_pipeline",
+  "dialogueQaStatus": "PASS",
+  "dialogueQaNoteTr": "Kaynak diyalog doğal ve sahneyle tutarlı bulundu; 100 tur, ID/speaker sırası ve pinyin/Türkçe alanları korundu. Dört ağız çapası görselde kontrol edildi."
 }

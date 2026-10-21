@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK5_SC045",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC045.json",
-  "dialogueSha256": "c7e97b72530349cce3e64e30205d828515f2d4937e9884f9b38b44a1b73c203f",
+  "dialogueSha256": "9af9eca865ce72c964998c46053b7926406323b1163435121c4fd8a0cc459a0f",
   "titleZh": "大型募捐活动",
   "titleTr": "Kafede Büyük Bir Bağış Etkinliği",
   "locationId": "LOC_ZH_COMMUNITY_CENTER_001",
@@ -70,5 +70,5 @@
   },
   "narrationPresentation": null,
   "styleReferenceSceneId": "ZH_HSK5_SC040",
-  "qaNoteTr": "HSK5 SC041-SC050 grubu; SC030 aile/stil referansı ve HSK5 olgunluk kilidi korundu. Kaynak kadrosu, 9:16 WebP ve hash kontrolleri geçti. APK build başlatılmadı."
+  "qaNoteTr": "SC045 100 tur tamamlandı: kamuya açık募捐 planı, kayıtların şeffaflığı, mahremiyet, saha erişimi ve gönüllü vardiyaları. Sabit sıra ve öğrenme içeriği korundu."
 }

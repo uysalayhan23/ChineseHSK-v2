@@ -11,702 +11,702 @@
     {
       "id": "DLG_ZH_HSK4_SC044_001",
       "speaker": "张雨桐",
-      "zh": "先从录取通知书说起吧。",
-      "pinyin": "Xiān cóng lùqǔ tōngzhīshū shuōqǐ ba.",
-      "tr": "Bugün önce üniversite kabul mektubu hakkında konuşalım."
+      "zh": "录取通知书到了，我的名字真的在上面！",
+      "pinyin": "Lù qǔ tōng zhī shū dào le wǒ de míng zì zhēn de zài shàng miàn",
+      "tr": "Kabul mektubum geldi; adım gerçekten listede!"
     },
     {
       "id": "DLG_ZH_HSK4_SC044_002",
       "speaker": "刘梅",
-      "zh": "先从录取说起吧。",
-      "pinyin": "Xiān cóng lùqǔ shuōqǐ ba.",
-      "tr": "Bugün önce kabul / yerleştirme hakkında konuşalım."
+      "zh": "快打开看看，是你申请的那所大学吗？",
+      "pinyin": "Kuài dǎ kāi kàn kàn shì nǐ shēn qǐng de nà suǒ dà xué ma",
+      "tr": "Hemen açıp bakalım; başvurduğun üniversite mi?"
     },
     {
       "id": "DLG_ZH_HSK4_SC044_003",
       "speaker": "张伟",
-      "zh": "换个角度看，把目标分小一点，每完成一步都会更有信心。",
-      "pinyin": "Huàngè jiǎodùkàn, bǎ mùbiāo fēnxiǎo yìdiǎn, měi wánchéng yībù dōu huì gèng yǒu xìnxīn.",
-      "tr": "Başka bir açıdan bakarsak, hedefi küçük parçalara böl; her adımı tamamladıkça güvenin artar."
+      "zh": "先确认一下学校和专业，别只看见名字就高兴得忘了其他信息。",
+      "pinyin": "Xiān què rèn yī xià xué xiào hé zhuān yè bié zhǐ kàn jiàn míng zì jiù gāo xìng dé wàng le qí tā xìn xī",
+      "tr": "Önce okul ve bölümü kontrol et; yalnızca adını görüp diğer bilgileri atlama."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_004",
       "speaker": "老师",
-      "zh": "把责任和时间说清楚，后面执行会容易很多。",
-      "pinyin": "Bǎ zérèn hé shíjiān shuō qīngchǔ, hòumiàn zhíxíng huì róngyì hěnduō.",
-      "tr": "Sorumlulukları ve zamanı netleştirince uygulama çok daha kolay olur."
+      "zh": "雨桐，恭喜你！我刚听说你被大学录取了。",
+      "pinyin": "yǔ tóng gōng xǐ nǐ wǒ gāng tīng shuō nǐ bèi dà xué lù qǔ le",
+      "tr": "Yutong, tebrikler! Üniversiteye kabul edildiğini yeni duydum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_005",
       "speaker": "张雨桐",
-      "zh": "这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "Zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
-      "tr": "Bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "是我最想去的那所大学，我真的被录取了！",
+      "pinyin": "Shì wǒ zuì xiǎng qù de nà suǒ dà xué wǒ zhēn de bèi lù qǔ le",
+      "tr": "En çok istediğim üniversiteye kabul edildim!"
     },
     {
       "id": "DLG_ZH_HSK4_SC044_006",
       "speaker": "刘梅",
-      "zh": "如果还有不懂的，就直接问老师，不要一直拖。",
-      "pinyin": "Rúguǒ háiyǒu bù dǒng de, jiù zhíjiē wèn lǎoshī, búyào yìzhí tuō.",
-      "tr": "Hâlâ anlamadığın yer varsa doğrudan öğretmene sor; sürekli erteleme."
+      "zh": "太好了。你准备了这么久，今天终于收到消息。",
+      "pinyin": "Tài hǎo le nǐ zhǔn bèi le zhè me jiǔ jīn tiān zhōng yú shōu dào xiāo xī",
+      "tr": "Harika. Uzun zamandır hazırlanıyordun; sonunda haber geldi."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_007",
       "speaker": "张伟",
-      "zh": "说到录取通知书，大家最在意的是什么？",
-      "pinyin": "Shuō dào lùqǔ tōngzhīshū, dàjiā zuì zàiyì de shì shénme?",
-      "tr": "Üniversite kabul mektubu konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "我把通知书递给你们看，专业和入学日期也写清楚了。",
+      "pinyin": "Wǒ bǎ tōng zhī shū dì gěi nǐ men kàn zhuān yè hé rù xué rì qī yě xiě qīng chǔ le",
+      "tr": "Mektubu size göstereyim; bölüm ve kayıt tarihi de yazıyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_008",
       "speaker": "老师",
-      "zh": "嗯，这一点我赞成。",
-      "pinyin": "En, zhè yìdiǎn wǒ zànchéng.",
-      "tr": "Bu noktaya katılıyorum."
+      "zh": "我来帮你一起核对，专业名称和你申请时选的一样。",
+      "pinyin": "Wǒ lái bāng nǐ yì qǐ hé duì zhuān yè míng chēng hé nǐ shēn qǐng shí xuǎn de yī yàng",
+      "tr": "Birlikte kontrol edelim; bölüm adı başvuruda seçtiğinle aynı."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_009",
       "speaker": "张雨桐",
-      "zh": "我们还得顾到录取。",
-      "pinyin": "Wǒmen hái dé gùdào lùqǔ.",
-      "tr": "Kabul / yerleştirme göz ardı edemeyeceğimiz bir nokta."
+      "zh": "看到录取两个字时，我手都在发抖。",
+      "pinyin": "Kàn dào lù qǔ liǎng gè zì shí wǒ shǒu dōu zài fā dǒu",
+      "tr": "Kabul edildiğimi görünce ellerim titredi."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_010",
       "speaker": "刘梅",
-      "zh": "这次的经验要留下来，下次遇到类似问题就知道怎么处理。",
-      "pinyin": "Zhècì de jīngyàn yào liúxiàlái, xiàcì yùdào lèisì wèntí jiù zhīdào zěnme chǔlǐ.",
-      "tr": "Bu deneyimi akılda tut; benzer bir sorun çıkarsa nasıl davranacağını bilirsin."
+      "zh": "紧张很正常，先坐下来慢慢把通知内容读一遍。",
+      "pinyin": "Jǐn zhāng hěn zhèng cháng xiān zuò xià lái màn màn bǎ tōng zhī nèi róng dú yī biàn",
+      "tr": "Heyecanlanman normal; önce oturup mektubu sakince okuyalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_011",
       "speaker": "张伟",
-      "zh": "如果选大学，以后会有什么影响？",
-      "pinyin": "Rúguǒ xuǎn dàxué, yǐhòu huì yǒu shénme yǐngxiǎng?",
-      "tr": "Üniversite seçersek ileride ne etkisi olur?"
+      "zh": "上面写着要在八月底前确认入学，还要准备一些材料。",
+      "pinyin": "Shàng miàn xiě zhe yào zài bā yuè dǐ qián què rèn rù xué hái yào zhǔn bèi yī xiē cái liào",
+      "tr": "Ağustos sonuna kadar kabulü onaylamam ve bazı belgeleri hazırlamam gerekiyormuş."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_012",
       "speaker": "老师",
-      "zh": "我更想知道你做题的时候卡在哪一步。",
-      "pinyin": "Wǒ gèng xiǎng zhīdào nǐ zuòtí de shíhòu kǎ zài nǎ yībù.",
-      "tr": "Ben daha çok soruları çözerken hangi adımda zorlandığını bilmek istiyorum."
+      "zh": "我们把要做的事情记下来，一件一件完成就好。",
+      "pinyin": "Wǒ men bǎ yào zuò de shì qíng jì xià lái yī jiàn yī jiàn wán chéng jiù hǎo",
+      "tr": "Yapılacakları not alalım, sonra birer birer tamamlarız."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_013",
       "speaker": "张雨桐",
-      "zh": "如果家人的想法变了，我们再一起商量。",
-      "pinyin": "Rúguǒ jiārén de xiǎngfǎ biàn le, wǒmen zài yìqǐ shāngliáng.",
-      "tr": "Karşı tarafın düşüncesi değişirse yeniden birlikte konuşuruz."
+      "zh": "我担心漏交材料，错过确认时间。",
+      "pinyin": "Wǒ dān xīn lòu jiāo cái liào cuò guò què rèn shí jiān",
+      "tr": "Belgeleri eksik gönderip kayıt süresini kaçırmaktan korkuyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_014",
       "speaker": "刘梅",
-      "zh": "听起来挺合理。",
-      "pinyin": "Tīng qǐlái tǐng hélǐ.",
-      "tr": "Kulağa oldukça mantıklı geliyor."
+      "zh": "你可以把截止日期写进日历，我们也会提醒你检查。",
+      "pinyin": "Nǐ kě yǐ bǎ jié zhǐ rì qī xiě jìn rì lì wǒ men yě huì tí xǐng nǐ jiǎn chá",
+      "tr": "Son tarihi takvime yaz; biz de kontrol etmeyi hatırlatırız."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_015",
       "speaker": "张伟",
-      "zh": "关于未来计划，你们怎么看？",
-      "pinyin": "Guānyú wèilái jìhuà, nǐmen zěnme kàn?",
-      "tr": "Gelecek planı konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "老师，谢谢您一直帮我修改申请材料。",
+      "pinyin": "Lǎo shī xiè xiè nín yì zhí bāng wǒ xiū gǎi shēn qǐng cái liào",
+      "tr": "Başvuru belgelerimi düzeltmeme yardım ettiğiniz için teşekkür ederim öğretmenim."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_016",
       "speaker": "老师",
-      "zh": "我先把这一点记下来。",
-      "pinyin": "Wǒ xiān bǎ zhè yìdiǎn jìxiàlái.",
-      "tr": "Bu noktayı not edeyim."
+      "zh": "你做了最重要的准备，录取是你努力和选择的结果。",
+      "pinyin": "Nǐ zuò le zuì zhòng yào de zhǔn bèi lù qǔ shì nǐ nǔ lì hé xuǎn zé de jié guǒ",
+      "tr": "En önemli hazırlığı sen yaptın; kabul, emeğinin ve tercihlerinin sonucu."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_017",
       "speaker": "张雨桐",
-      "zh": "开心也是关键的一点。",
-      "pinyin": "Kāixīn yě shì guānjiàn de yìdiǎn.",
-      "tr": "Mutlu göz ardı edemeyeceğimiz bir nokta."
+      "zh": "我还想再确认一下，这个专业的课程和我想学的一样吗？",
+      "pinyin": "Wǒ hái xiǎng zài què rèn yī xià zhè ge zhuān yè de kè chéng hé wǒ xiǎng xué de yī yàng ma",
+      "tr": "Bölümün dersleri istediğim gibi mi, onu da yeniden kontrol etmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_018",
       "speaker": "刘梅",
-      "zh": "先把真正的问题说清楚，别急着找一个漂亮答案。",
-      "pinyin": "Xiān bǎ zhēnzhèng de wèntí shuō qīngchǔ, biéjí zhe zhǎo yígè piàoliàng dáàn.",
-      "tr": "Önce gerçek sorunu netleştirelim; kulağa güzel gelen bir cevap bulmak için acele etmeyelim."
+      "zh": "通知书上有专业介绍，我们可以一起读一读，有问题再问学校。",
+      "pinyin": "Tōng zhī shū shàng yǒu zhuān yè jiè shào wǒ men kě yǐ yì qǐ dú yī dú yǒu wèn tí zài wèn xué xiào",
+      "tr": "Mektupta bölüm bilgisi var; birlikte okuyalım, sorularımızı da üniversiteye sorarız."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_019",
       "speaker": "张伟",
-      "zh": "那再把学习这一点加上。",
-      "pinyin": "Nà zài bǎ xuéxí zhè yìdiǎn jiāshàng.",
-      "tr": "Ders çalışma konusunu da değerlendirme kapsamına alalım."
+      "zh": "我希望先把信息都弄清楚，再决定什么时候庆祝。",
+      "pinyin": "Wǒ xī wàng xiān bǎ xìn xī dōu nòng qīng chǔ zài jué dìng shén me shí hòu qìng zhù",
+      "tr": "Kutlamadan önce bütün bilgileri netleştirmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_020",
       "speaker": "老师",
-      "zh": "这一点我同意。",
-      "pinyin": "Zhè yìdiǎn wǒ tóngyì.",
-      "tr": "Bu noktaya katılıyorum."
+      "zh": "当然。先确认入学安排，等你放心了，我们再好好庆祝。",
+      "pinyin": "Dāng rán xiān què rèn rù xué ān pái děng nǐ fàng xīn le wǒ men zài hǎo hǎo qìng zhù",
+      "tr": "Tabii. Önce kayıt ayrıntılarını doğrulayalım; sonra gönlünce kutlarız."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_021",
       "speaker": "张雨桐",
-      "zh": "如果选择方面出现新情况，原来的安排就得再改。",
-      "pinyin": "Rúguǒ xuǎnzé fāngmiàn chūxiàn xīn qíngkuàng, yuánlái de ānpái jiù dé zài gǎi.",
-      "tr": "Seçim değişirse planı da ayarlamak gerekir."
+      "zh": "我选这个专业，是因为一直对环境设计感兴趣。",
+      "pinyin": "Wǒ xuǎn zhè ge zhuān yè shì yīn wèi yì zhí duì huán jìng shè jì gǎn xìng qù",
+      "tr": "Bu bölümü seçtim çünkü çevre tasarımına uzun zamandır ilgi duyuyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_022",
       "speaker": "刘梅",
-      "zh": "不过，每个人看到的角度不一样，把这些角度放在一起会更完整。",
-      "pinyin": "Bùguò, měigè rén kàndào de jiǎodù bù yīyàng, bǎ zhèxiē jiǎodù fàngzài yìqǐ huì gèng wánzhěng.",
-      "tr": "Ancak, herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+      "zh": "我记得你高中时就喜欢画校园和房间的平面图。",
+      "pinyin": "Wǒ jì de nǐ gāo zhōng shí jiù xǐ huān huà xiào yuán hé fáng jiān de píng miàn tú",
+      "tr": "Lisede okulun ve odaların planını çizmekten hoşlandığını hatırlıyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_023",
       "speaker": "张伟",
-      "zh": "先确认我们已经知道什么，再说还缺什么信息。",
-      "pinyin": "Xiān quèrèn wǒmen yǐjīng zhīdào shénme, zàishuō hái quēshénme xìnxī.",
-      "tr": "Önce ne bildiğimizi netleştirelim, sonra hangi bilginin eksik olduğunu konuşalım."
+      "zh": "你参加过设计社团，发现自己愿意花很多时间研究空间。",
+      "pinyin": "nǐ cān jiā guò shè jì shè tuán fā xiàn zì jǐ yuàn yì huā hěn duō shí jiān yán jiū kōng jiān",
+      "tr": "Tasarım kulübüne katıldığında mekânı incelemeye çok zaman ayırmayı sevdiğini fark ettin."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_024",
       "speaker": "老师",
-      "zh": "换个角度看，下周先做一个小目标，我们再看效果。",
-      "pinyin": "Huàngè jiǎodùkàn, xiàzhōu xiān zuò yígè xiǎo mùbiāo, wǒmen zài kàn xiàoguǒ.",
-      "tr": "Başka bir açıdan bakarsak, gelecek hafta için küçük bir hedef belirleyelim, sonra sonucu değerlendiririz."
+      "zh": "兴趣是一个好起点，也要了解课程和毕业后的工作方向。",
+      "pinyin": "Xìng qù shì yí gè hǎo qǐ diǎn yě yào liǎo jiě kè chéng hé bì yè hòu de gōng zuò fāng xiàng",
+      "tr": "İlgi iyi bir başlangıçtır; dersleri ve mezuniyetten sonraki iş olanaklarını da araştırmalısın."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_025",
       "speaker": "张雨桐",
-      "zh": "我现在更想知道下一步具体做什么。",
-      "pinyin": "Wǒ xiànzài gèngxiǎng zhīdào xià yībù jùtǐ zuò shénme.",
-      "tr": "Şu anda bir sonraki adımda tam olarak ne yapacağımı bilmek istiyorum."
+      "zh": "我查过课程安排，除了设计基础，还有材料和项目管理。",
+      "pinyin": "Wǒ chá guò kè chéng ān pái chú le shè jì jī chǔ hái yǒu cái liào hé xiàng mù guǎn lǐ",
+      "tr": "Ders programına baktım; temel tasarımın yanı sıra malzeme ve proje yönetimi de var."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_026",
       "speaker": "刘梅",
-      "zh": "我更关心这个选择实际会带来什么变化。",
-      "pinyin": "Wǒ gèng guānxīn zhège xuǎnzé shíjì huì dàilái shénme biànhuà.",
-      "tr": "Ben daha çok bu seçimin gerçekte neyi değiştireceğini önemsiyorum."
+      "zh": "你可以看看大学的网站，找高年级学生问问他们的学习体验。",
+      "pinyin": "Nǐ kě yǐ kàn kàn dà xué de wǎng zhàn zhǎo gāo nián jí xué shēng wèn wèn tā men de xué xí tǐ yàn",
+      "tr": "Üniversitenin sitesini inceleyip üst sınıflardaki öğrencilerden deneyimlerini öğrenebilirsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_027",
       "speaker": "张伟",
-      "zh": "先别把问题想得太抽象，回到具体情况会更容易判断。",
-      "pinyin": "Xiānbié bǎ wèntí xiǎng dé tài chōuxiàng, huídào jùtǐqíngkuàng huì gèng róngyì pànduàn.",
-      "tr": "Sorunu fazla soyutlaştırmayalım; somut duruma dönmek değerlendirmeyi kolaylaştırır."
+      "zh": "我认识一位去年入学的学生，可以请她和你聊一聊。",
+      "pinyin": "Wǒ rèn shí yī wèi qù nián rù xué de xué shēng kě yǐ qǐng tā hé nǐ liáo yī liáo",
+      "tr": "Geçen yıl başlayan bir öğrenciyi tanıyorum; seninle konuşmasını isteyebilirim."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_028",
       "speaker": "老师",
-      "zh": "等你把这几部分补起来，信心自然会回来。",
-      "pinyin": "Děng nǐ bǎ zhè jǐ bùfèn bǔ qǐlái, xìnxīn zìrán huì huílái.",
-      "tr": "Bu bölümleri tamamlayınca güvenin doğal olarak geri gelecek."
+      "zh": "这样你就能了解实际学习和网站介绍有什么不同。",
+      "pinyin": "zhè yàng nǐ jiù néng liǎo jiě shí jì xué xí hé wǎng zhàn jiè shào yǒu shén me bù tóng",
+      "tr": "Böylece gerçek eğitim deneyiminin internet sitesindeki tanıtımdan nasıl farklı olduğunu öğrenebilirsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_029",
       "speaker": "张雨桐",
-      "zh": "先别因为一次结果就否定自己，先看看具体哪里出了问题。",
-      "pinyin": "Xiān bié yīnwèi yīcì jiéguǒ jiù fǒudìng zìjǐ, xiān kànkàn jùtǐ nǎlǐ chū le wèntí.",
-      "tr": "Tek bir sonuç yüzünden kendini tamamen olumsuz değerlendirme; önce sorunun tam olarak nerede olduğunu görelim."
+      "zh": "选择专业以后，还可以转方向吗？",
+      "pinyin": "Xuǎn zé zhuān yè yǐ hòu hái kě yǐ zhuǎn fāng xiàng ma",
+      "tr": "Bölümü seçtikten sonra başka bir bölüme geçmek mümkün mü?"
     },
     {
       "id": "DLG_ZH_HSK4_SC044_030",
       "speaker": "刘梅",
-      "zh": "另外，我同意方向，不过执行的时候需要留一点余地。",
-      "pinyin": "Lìngwài, wǒ tóngyì fāngxiàng, bùguò zhíxíng de shíhòu xūyào liú yìdiǎn yúdì.",
-      "tr": "Ayrıca, yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+      "zh": "可以了解学校的转专业规定，不过先想想你现在最想尝试什么。",
+      "pinyin": "Kě yǐ liǎo jiě xué xiào de zhuǎn zhuān yè guī dìng bù guò xiān xiǎng xiǎng nǐ xiàn zài zuì xiǎng cháng shì shén me",
+      "tr": "Üniversitenin bölüm değiştirme koşullarını araştırabilirsin ama önce neyi denemek istediğini düşün."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_031",
       "speaker": "张伟",
-      "zh": "如果出现新情况，我们就根据新的事实调整。",
-      "pinyin": "Rúguǒ chūxiàn xīn qíngkuàng, wǒmen jiù gēnjù xīn de shìshí tiáozhěng.",
-      "tr": "Yeni bir durum çıkarsa yeni olgulara göre ayarlarız."
+      "zh": "我担心你只因为喜欢画画，就低估了这个专业的难度。",
+      "pinyin": "wǒ dān xīn nǐ zhǐ yīn wèi xǐ huān huà huà jiù dī gū le zhè ge zhuān yè de nán dù",
+      "tr": "Yalnızca çizim yapmayı sevdiğin için bu bölümün zorluğunu hafife almana kaygılanıyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_032",
       "speaker": "老师",
-      "zh": "其实，老师的反馈可以参考，但也要结合自己的实际情况。",
-      "pinyin": "Qíshí, lǎoshī de fǎnkuì kěyǐ cānkǎo, dàn yě yào jiéhé zìjǐ de shíjì qíngkuàng.",
-      "tr": "Aslında, öğretmenin geri bildirimi önemli ama kendi gerçek durumunla birlikte değerlendirmelisin."
+      "zh": "你愿意了解课程、也愿意投入时间，这比觉得什么都容易更重要。",
+      "pinyin": "Nǐ yuàn yì liǎo jiě kè chéng yě yuàn yì tóu rù shí jiān zhè bǐ jué de shén me dōu róng yì gèng zhòng yào",
+      "tr": "Dersleri araştırıp emek vermeye hazırsın; her şeyin kolay olacağını sanmaktan daha önemlisi bu."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_033",
       "speaker": "张雨桐",
-      "zh": "如果时间安排有问题，就先调整每天的节奏。",
-      "pinyin": "Rúguǒ shíjiān ānpái yǒu wèntí, jiù xiān tiáozhěng měitiān de jiézòu.",
-      "tr": "Zaman planında sorun varsa önce günlük ritmi düzenleyelim."
+      "zh": "我可以先把必修课和选修课分开看，了解具体要学什么。",
+      "pinyin": "Wǒ kě yǐ xiān bǎ bì xiū kè hé xuǎn xiū kè fēn kāi kàn liǎo jiě jù tǐ yào xué shén me",
+      "tr": "Zorunlu ve seçmeli dersleri ayırıp tam olarak neler öğreneceğime bakabilirim."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_034",
       "speaker": "刘梅",
-      "zh": "其实，把不会的地方找出来，比反复担心分数更有用。",
-      "pinyin": "Qíshí, bǎ búhuì de dìfāng zhǎo chūlái, bǐ fǎnfù dānxīn fēnshù gèng yǒuyòng.",
-      "tr": "Aslında, bilmediğin noktaları bulmak, puanı tekrar tekrar düşünmekten daha faydalı."
+      "zh": "看完以后列几个问题，我们再一起找老师或学校确认。",
+      "pinyin": "Kàn wán yǐ hòu liè jǐ gè wèn tí wǒ men zài yì qǐ zhǎo lǎo shī huò xué xiào què rèn",
+      "tr": "Sonra birkaç soru yazar, öğretmene ya da üniversiteye sorarız."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_035",
       "speaker": "张伟",
-      "zh": "先看看学习方法是不是适合现在这门课。",
-      "pinyin": "Xiān kànkàn xuéxí fāngfǎ shìbúshì shìhé xiànzài zhèmén kè.",
-      "tr": "Önce çalışma yönteminin bu ders için uygun olup olmadığına bakalım."
+      "zh": "听你们这样讨论，我感觉决定专业这件事没那么可怕了。",
+      "pinyin": "Tīng nǐ men zhè yàng tǎo lùn wǒ gǎn jué jué dìng zhuān yè zhè jiàn shì méi nà me kě pà le",
+      "tr": "Sizi böyle konuşurken dinleyince bölüm seçimi gözümde o kadar büyümüyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_036",
       "speaker": "老师",
-      "zh": "我更想知道的是，你自己觉得哪一步最困难。",
-      "pinyin": "Wǒ gèng xiǎng zhīdào de shì, nǐ zìjǐ juéde nǎ yībù zuì kùnnán.",
-      "tr": "Ben daha çok senin hangi adımı en zor bulduğunu merak ediyorum."
+      "zh": "大学会带来新挑战，不过你不用今天就把四年的计划全想好。",
+      "pinyin": "Dà xué huì dài lái xīn tiǎo zhàn bù guò nǐ bù yòng jīn tiān jiù bǎ sì nián de jì huà quán xiǎng hǎo",
+      "tr": "Üniversitede yeni zorluklar olacak ama dört yılın tamamını bugün planlamak zorunda değilsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_037",
       "speaker": "张雨桐",
-      "zh": "别只看成绩，也看看这段时间真正学会了什么。",
-      "pinyin": "Bié zhǐ kàn chéngjì, yě kànkàn zhè duànshíjiān zhēnzhèng xuéhuì le shénme.",
-      "tr": "Yalnızca nota bakma; bu süreçte gerçekten ne öğrendiğine de bak."
+      "zh": "我希望第一学期先适应学习方式，再参加一个设计社团。",
+      "pinyin": "Wǒ xī wàng dì yī xué qī xiān shì yìng xué xí fāng shì zài cān jiā yí gè shè jì shè tuán",
+      "tr": "İlk dönemde ders düzenine alışıp sonra bir tasarım kulübüne katılmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_038",
       "speaker": "刘梅",
-      "zh": "一家人想法不一样很正常，重要的是把原因说明白。",
-      "pinyin": "Yījiārén xiǎngfǎ bù yīyàng hěn zhèngcháng, zhòngyào de shì bǎ yuányīn shuō míngbái.",
-      "tr": "Bir ailede fikirlerin farklı olması normal; önemli olan nedenlerini açıkça anlatmak."
+      "zh": "这个目标合适，先体验课程生活，再看看自己对哪些方向更有兴趣。",
+      "pinyin": "Zhè ge mù biāo hé shì xiān tǐ yàn kè chéng shēng huó zài kàn kàn zì jǐ duì nǎ xiē fāng xiàng gèng yǒu xìng qù",
+      "tr": "Bu iyi bir hedef. Önce dersleri ve kampüsü tanı, sonra ilgi duyduğun alanları görürsün."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_039",
       "speaker": "张伟",
-      "zh": "另外，现实安排可以慢慢定，先听清楚彼此真正担心什么。",
-      "pinyin": "Lìngwài, xiànshí ānpái kěyǐ mànmàn dìng, xiān tīng qīngchǔ bǐcǐ zhēnzhèng dānxīn shénme.",
-      "tr": "Ayrıca, pratik düzenlemeler zamanla kararlaştırılabilir; önce birbirimizin gerçekten neden kaygılandığını anlayalım."
+      "zh": "你可以把未来计划分成几个阶段，给自己留出调整的空间。",
+      "pinyin": "nǐ kě yǐ bǎ wèi lái jì huà fēn chéng jǐ gè jiē duàn gěi zì jǐ liú chū tiáo zhěng de kōng jiān",
+      "tr": "Gelecek planını birkaç aşamaya ayırıp kendine değişiklik yapma alanı bırakabilirsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_040",
       "speaker": "老师",
-      "zh": "不过，同学的办法可以参考，但不一定完全适合你。",
-      "pinyin": "Bùguò, tóngxué de bànfǎ kěyǐ cānkǎo, dàn bù yídìng wánquán shìhé nǐ.",
-      "tr": "Ancak, arkadaşının yöntemi örnek alınabilir ama sana tamamen uymayabilir."
+      "zh": "很好。计划是帮助你前进的，不是限制你只能走一条路。",
+      "pinyin": "Hěn hǎo jì huà shì bāng zhù nǐ qián jìn de bú shì xiàn zhì nǐ zhǐ néng zǒu yī tiáo lù",
+      "tr": "Güzel. Plan ilerlemene yardım eder; seni tek bir yola mahkûm etmez."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_041",
       "speaker": "张雨桐",
-      "zh": "先把下周能做到的事情定下来，不用一次想完整个学期。",
-      "pinyin": "Xiān bǎ xiàzhōu néng zuòdào de shìqíng dìng xiàlái, bùyòng yīcì xiǎng wánzhěng gè xuéqī.",
-      "tr": "Önce gelecek hafta yapabileceklerini belirle; bütün dönemi bir kerede planlamak gerekmez."
+      "zh": "大学离家有点远，我得提前了解住宿和生活费用。",
+      "pinyin": "Dà xué lí jiā yǒu diǎn yuǎn wǒ dé tí qián liǎo jiě zhù sù hé shēng huó fèi yòng",
+      "tr": "Üniversite evden biraz uzak; konaklama ve yaşam masraflarını önceden öğrenmeliyim."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_042",
       "speaker": "刘梅",
-      "zh": "先把眼前能确定的事情说清楚，其他的以后再慢慢商量。",
-      "pinyin": "Xiān bǎ yǎnqián néng quèdìng de shìqíng shuō qīngchǔ, qítā de yǐhòu zài mànmàn shāngliáng.",
-      "tr": "Önce şu anda netleştirebildiklerimizi konuşalım; diğerlerini sonra yavaş yavaş değerlendiririz."
+      "zh": "我们可以先看学校宿舍的申请时间，再估算每月的生活费。",
+      "pinyin": "Wǒ men kě yǐ xiān kàn xué xiào sù shè de shēn qǐng shí jiān zài gū suàn měi yuè de shēng huó fèi",
+      "tr": "Önce yurt başvuru tarihine bakıp aylık giderleri hesaplayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_043",
       "speaker": "张伟",
-      "zh": "我更在意的是，最后的安排能不能让每个人都觉得被尊重。",
-      "pinyin": "Wǒ gèng zàiyì de shì, zuìhòu de ānpái néng bùnéng ràng měigè rén dōu juéde bèi zūnzhòng.",
-      "tr": "Benim için asıl önemli olan, son düzenlemenin herkesin kendisine saygı duyulduğunu hissettirmesi."
+      "zh": "我会和你一起列预算，交通、吃饭和学习用品都算进去。",
+      "pinyin": "Wǒ huì hé nǐ yì qǐ liè yù suàn jiāo tōng chī fàn hé xué xí yòng pǐn dōu suàn jìn qù",
+      "tr": "Birlikte bütçe çıkarırım; ulaşım, yemek ve ders malzemelerini de hesaba katarız."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_044",
       "speaker": "老师",
-      "zh": "最重要的是找到适合自己的节奏，而不是跟别人比快慢。",
-      "pinyin": "Zuì zhòngyào de shì zhǎodào shìhé zìjǐ de jiézòu, ér búshì gēn biérén bǐ kuàimàn.",
-      "tr": "En önemlisi kendi ritmini bulmak; başkalarıyla hız yarışı yapmak değil."
+      "zh": "大学官网有住宿说明，也可以问招生办公室有没有奖学金信息。",
+      "pinyin": "Dà xué guān wǎng yǒu zhù sù shuō míng yě kě yǐ wèn zhāo shēng bàn gōng shì yǒu méi yǒu jiǎng xué jīn xìn xī",
+      "tr": "Üniversitenin sitesinde yurt bilgileri var; bursları da öğrenci işleri birimine sorabilirsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_045",
       "speaker": "张雨桐",
-      "zh": "老师的反馈可以参考，但也要结合自己的实际情况。",
-      "pinyin": "Lǎoshī de fǎnkuì kěyǐ cānkǎo, dàn yě yào jiéhé zìjǐ de shíjì qíngkuàng.",
-      "tr": "Öğretmenin geri bildirimi önemli ama kendi gerçek durumunla birlikte değerlendirmelisin."
+      "zh": "我已经看到宿舍申请要在六月底前完成。",
+      "pinyin": "Wǒ yǐ jīng kàn dào sù shè shēn qǐng yào zài liù yuè dǐ qián wán chéng",
+      "tr": "Yurt başvurusunun haziran sonuna kadar yapılması gerektiğini gördüm."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_046",
       "speaker": "刘梅",
-      "zh": "只要大家愿意继续沟通，很多问题都不用一次解决。",
-      "pinyin": "Zhǐyào dàjiā yuànyì jìxù gōutōng, hěnduō wèntí dōu bùyòng yīcì jiějué.",
-      "tr": "Herkes iletişim kurmaya devam ettiği sürece bütün sorunları tek seferde çözmek gerekmiyor."
+      "zh": "那就先把日期加进日历，材料可以慢慢准备。",
+      "pinyin": "Nà jiù xiān bǎ rì qī jiā jìn rì lì cái liào kě yǐ màn màn zhǔn bèi",
+      "tr": "Tarihi hemen takvime ekleyelim; belgeleri zamanında hazırlarız."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_047",
       "speaker": "张伟",
-      "zh": "这件事不只是安排问题，也跟每个人的感受有关。",
-      "pinyin": "Zhèjiàn shì bù zhǐshì ānpái wèntí, yě gēn měigè rén de gǎnshòu yǒuguān.",
-      "tr": "Bu yalnızca bir düzenleme meselesi değil; herkesin duygularıyla da ilgili."
+      "zh": "需要带什么东西，等知道宿舍房间的情况再决定吧。",
+      "pinyin": "Xū yào dài shén me dōng xī děng zhī dào sù shè fáng jiān de qíng kuàng zài jué dìng ba",
+      "tr": "Ne götüreceğime yurt odasının durumunu öğrenince karar veririm."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_048",
       "speaker": "老师",
-      "zh": "另外，有不同意见没关系，只要理由说得清楚就能继续谈。",
-      "pinyin": "Lìngwài, yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
-      "tr": "Ayrıca, farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+      "zh": "是的，先确认床铺、桌子和储物空间，免得买了用不上。",
+      "pinyin": "Shì de xiān què rèn chuáng pù zhuō zi hé chǔ wù kōng jiān miǎn de mǎi le yòng bù shàng",
+      "tr": "Evet; yatak, masa ve dolap durumunu doğrula ki gereksiz eşya almayalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_049",
       "speaker": "张雨桐",
-      "zh": "如果现在还不能确定，就先保留一点调整空间。",
-      "pinyin": "Rúguǒ xiànzài hái bùnéng quèdìng, jiù xiān bǎoliú yìdiǎn tiáozhěng kōngjiān.",
-      "tr": "Şu anda kesinleştiremiyorsak biraz uyum payı bırakalım."
+      "zh": "我想带自己的台灯和几本常看的书。",
+      "pinyin": "Wǒ xiǎng dài zì jǐ de tái dēng hé jǐ běn cháng kàn de shū",
+      "tr": "Kendi masa lambamı ve sık okuduğum birkaç kitabı götürmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_050",
       "speaker": "刘梅",
-      "zh": "其实，有些事情听起来简单，真正落到生活里才会发现细节很多。",
-      "pinyin": "Qíshí, yǒuxiē shìqíng tīng qǐlái jiǎndān, zhēnzhèng luòdào shēnghuó lǐ cái huì fāxiàn xìjié hěnduō.",
-      "tr": "Aslında, bazı şeyler kulağa basit gelir; günlük hayata gelince pek çok ayrıntı ortaya çıkar."
+      "zh": "书先选最需要的带，宿舍空间有限，其他的以后再拿。",
+      "pinyin": "Shū xiān xuǎn zuì xū yào de dài sù shè kōng jiān yǒu xiàn qí tā de yǐ hòu zài ná",
+      "tr": "Önce en gerekli kitapları al; yurtta yer sınırlı, kalanları sonra getirirsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_051",
       "speaker": "张伟",
-      "zh": "换个角度看，大家都出于关心，只是表达关心的方式不一样。",
-      "pinyin": "Huàngè jiǎodùkàn, dàjiā dōu chūyú guānxīn, zhǐshì biǎodá guānxīn de fāngshì bù yīyàng.",
-      "tr": "Başka bir açıdan bakarsak, herkesin niyeti ilgilenmek; yalnızca bunu ifade etme biçimleri farklı."
+      "zh": "我担心你到了大学以后不熟悉环境，也担心你交不到新朋友。",
+      "pinyin": "wǒ dān xīn nǐ dào le dà xué yǐ hòu bù shú xī huán jìng yě dān xīn nǐ jiāo bú dào xīn péng yǒu",
+      "tr": "Üniversiteye gidince çevreye alışamaman ve yeni arkadaşlar edinememen konusunda kaygılanıyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_052",
       "speaker": "老师",
-      "zh": "我们先处理最关键的一点，再看其他细节。",
-      "pinyin": "Wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
-      "tr": "Önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+      "zh": "刚开始大家都在适应，你可以先参加迎新活动认识同学。",
+      "pinyin": "Gāng kāi shǐ dà jiā dōu zài shì yìng nǐ kě yǐ xiān cān jiā yíng xīn huó dòng rèn shí tóng xué",
+      "tr": "Başta herkes alışmaya çalışır; tanışmak için oryantasyon etkinliklerine katılabilirsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_053",
       "speaker": "张雨桐",
-      "zh": "还有谁想补充吗？",
-      "pinyin": "Háiyǒu shuí xiǎng bǔchōng ma?",
-      "tr": "Eklemek isteyen başka biri var mı?"
+      "zh": "如果遇到困难，我会联系辅导员或宿舍老师。",
+      "pinyin": "rú guǒ yù dào kùn nán wǒ huì lián xì fǔ dǎo yuán huò sù shè lǎo shī",
+      "tr": "Bir zorlukla karşılaşırsam danışmana ya da yurt görevlisine ulaşacağım."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_054",
       "speaker": "刘梅",
-      "zh": "一次失败不能说明能力不够，但能提醒我们哪里需要改变。",
-      "pinyin": "Yīcì shībài bùnéng shuōmíng nénglì bùgòu, dàn néng tíxǐng wǒmen nǎlǐ xūyào gǎibiàn.",
-      "tr": "Bir başarısızlık yetersiz olduğun anlamına gelmez; neyin değişmesi gerektiğini gösterebilir."
+      "zh": "我会记下学校提供的帮助渠道，真有需要时就知道找谁。",
+      "pinyin": "Wǒ huì jì xià xué xiào tí gōng de bāng zhù qú dào zhēn yǒu xū yào shí jiù zhī dào zhǎo shuí",
+      "tr": "Okulun sunduğu destek yollarını not ederim; gerekirse kime soracağımı bilirim."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_055",
       "speaker": "张伟",
-      "zh": "把不会的地方找出来，比反复担心分数更有用。",
-      "pinyin": "Bǎ búhuì de dìfāng zhǎo chūlái, bǐ fǎnfù dānxīn fēnshù gèng yǒuyòng.",
-      "tr": "Bilmediğin noktaları bulmak, puanı tekrar tekrar düşünmekten daha faydalı."
+      "zh": "你可以提前学着洗衣服、整理房间，也会更有信心。",
+      "pinyin": "Nǐ kě yǐ tí qián xué zhe xǐ yī fú zhěng lǐ fáng jiān yě huì gèng yǒu xìn xīn",
+      "tr": "Çamaşır yıkamayı ve odanı düzenlemeyi önceden öğrenmek de güvenini artırır."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_056",
       "speaker": "老师",
-      "zh": "先把最薄弱的一部分补起来，后面会轻松很多。",
-      "pinyin": "Xiān bǎ zuì bóruò de yībùfèn bǔ qǐlái, hòumiàn huì qīngsōng hěnduō.",
-      "tr": "Önce en zayıf kısmı tamamlayalım; sonrası daha kolay olur."
+      "zh": "你这学期就可以开始练习自己安排这些事情。",
+      "pinyin": "nǐ zhè xué qī jiù kě yǐ kāi shǐ liàn xí zì jǐ ān pái zhè xiē shì qíng",
+      "tr": "Bu dönemden başlayarak bu işleri kendin düzenleme pratiği yapabilirsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_057",
       "speaker": "张雨桐",
-      "zh": "不用追求一次把所有问题都解决，先把下一步走稳。",
-      "pinyin": "Bùyòng zhuīqiú yīcì bǎ suǒyǒu wèntí dōu jiějué, xiān bǎ xià yībù zǒuwěn.",
-      "tr": "Bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+      "zh": "学会照顾自己是重要的一步，我也知道家里会一直支持我。",
+      "pinyin": "xué huì zhào gù zì jǐ shì zhòng yào de yī bù wǒ yě zhī dào jiā lǐ huì yì zhí zhī chí wǒ",
+      "tr": "Kendime bakmayı öğrenmek önemli bir adım; ailemin beni hep destekleyeceğini de biliyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_058",
       "speaker": "刘梅",
-      "zh": "另外，别只看成绩，也看看这段时间真正学会了什么。",
-      "pinyin": "Lìngwài, bié zhǐ kàn chéngjì, yě kànkàn zhè duànshíjiān zhēnzhèng xuéhuì le shénme.",
-      "tr": "Ayrıca, yalnızca nota bakma; bu süreçte gerçekten ne öğrendiğine de bak."
+      "zh": "你想独立生活，也可以常常给家里打电话，我们会很高兴。",
+      "pinyin": "nǐ xiǎng dú lì shēng huó yě kě yǐ cháng cháng gěi jiā lǐ dǎ diàn huà wǒ men huì hěn gāo xìng",
+      "tr": "Bağımsız yaşamak istiyorsun; aileni sık sık arayabilirsin, buna seviniriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_059",
       "speaker": "张伟",
-      "zh": "不过，一次失败不能说明能力不够，但能提醒我们哪里需要改变。",
-      "pinyin": "Bùguò, yīcì shībài bùnéng shuōmíng nénglì bùgòu, dàn néng tíxǐng wǒmen nǎlǐ xūyào gǎibiàn.",
-      "tr": "Ancak, bir başarısızlık yetersiz olduğun anlamına gelmez; neyin değişmesi gerektiğini gösterebilir."
+      "zh": "我们会很想你，不过更期待你在大学找到喜欢的生活。",
+      "pinyin": "Wǒ men huì hěn xiǎng nǐ bù guò gèng qī dài nǐ zài dà xué zhǎo dào xǐ huān de shēng huó",
+      "tr": "Seni özleyeceğiz ama üniversitede sevdiğin bir yaşam kurmanı da istiyoruz."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_060",
       "speaker": "老师",
-      "zh": "其实，这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "Qíshí, zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
-      "tr": "Aslında, bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "这份录取通知书是新的开始，接下来我们按步骤准备就好。",
+      "pinyin": "Zhè fèn lù qǔ tōng zhī shū shì xīn de kāi shǐ jiē xià lái wǒ men àn bù zhòu zhǔn bèi jiù hǎo",
+      "tr": "Bu kabul mektubu yeni bir başlangıç; şimdi gerekenleri adım adım hazırlayalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_061",
       "speaker": "张雨桐",
-      "zh": "换个角度看，今天先把能确定的部分定下来，剩下的以后继续聊。",
-      "pinyin": "Huàngè jiǎodùkàn, jīntiān xiān bǎ néng quèdìng de bùfèn dìng xiàlái, shèngxià de yǐhòu jìxù liáo.",
-      "tr": "Başka bir açıdan bakarsak, bugün netleştirebildiğimiz kısmı kararlaştıralım; kalanını sonra konuşuruz."
+      "zh": "我现在很开心，也觉得终于可以松一口气了。",
+      "pinyin": "Wǒ xiàn zài hěn kāi xīn yě jué de zhōng yú kě yǐ sōng yì kǒu qì le",
+      "tr": "Şu an çok mutluyum; sonunda derin bir nefes alabiliyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_062",
       "speaker": "刘梅",
-      "zh": "如果方法有效，就继续；没有效果就及时换。",
-      "pinyin": "Rúguǒ fāngfǎ yǒuxiào, jiù jìxù; méiyǒu xiàoguǒ jiù jíshí huàn.",
-      "tr": "Yöntem işe yarıyorsa devam et; etkili değilse zamanında değiştir."
+      "zh": "你准备了这么久，当然值得高兴，今晚想吃什么庆祝？",
+      "pinyin": "Nǐ zhǔn bèi le zhè me jiǔ dāng rán zhí de gāo xìng jīn wǎn xiǎng chī shén me qìng zhù",
+      "tr": "Uzun zamandır hazırlanıyordun; sevinmeyi hak ettin. Bu akşam ne yemek istersin?"
     },
     {
       "id": "DLG_ZH_HSK4_SC044_063",
       "speaker": "张伟",
-      "zh": "如果方法有效，就继续；没有效果就及时换。",
-      "pinyin": "Rúguǒ fāngfǎ yǒuxiào, jiù jìxù; méiyǒu xiàoguǒ jiù jíshí huàn.",
-      "tr": "Yöntem işe yarıyorsa devam et; etkili değilse zamanında değiştir."
+      "zh": "我想请老师也一起来，感谢她帮我准备申请。",
+      "pinyin": "Wǒ xiǎng qǐng lǎo shī yě yì qǐ lái gǎn xiè tā bāng wǒ zhǔn bèi shēn qǐng",
+      "tr": "Başvuruya hazırlanırken yardım ettiği için öğretmenimi de yemeğe çağırmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_064",
       "speaker": "老师",
-      "zh": "先把最薄弱的部分找出来，再决定怎么补。",
-      "pinyin": "Xiān bǎ zuì bóruò de bùfèn zhǎo chūlái, zài juédìng zěnme bǔ.",
-      "tr": "Önce en zayıf kısmı bulalım, sonra nasıl tamamlayacağımıza karar veririz."
+      "zh": "有家人的支持，你适应大学生活时会更安心。",
+      "pinyin": "Yǒu jiā rén de zhī chí nǐ shì yìng dà xué shēng huó shí huì gèng ān xīn",
+      "tr": "Ailenin desteği, üniversite yaşamına alışırken kendini daha güvende hissetmeni sağlayacak."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_065",
       "speaker": "张雨桐",
-      "zh": "我想先把错题重新做一遍。",
-      "pinyin": "Wǒ xiǎng xiān bǎ cuòtí chóngxīn zuò yībiàn.",
-      "tr": "Önce yanlış yaptığım soruları yeniden çözmek istiyorum."
+      "zh": "我们可以在家做一顿饭，不用把庆祝弄得太复杂。",
+      "pinyin": "Wǒ men kě yǐ zài jiā zuò yī dùn fàn bù yòng bǎ qìng zhù nòng dé tài fù zá",
+      "tr": "Evde yemek yapalım; kutlamayı çok büyütmeye gerek yok."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_066",
       "speaker": "刘梅",
-      "zh": "其实，把目标分小一点，每完成一步都会更有信心。",
-      "pinyin": "Qíshí, bǎ mùbiāo fēnxiǎo yìdiǎn, měi wánchéng yībù dōu huì gèng yǒu xìnxīn.",
-      "tr": "Aslında, hedefi küçük parçalara böl; her adımı tamamladıkça güvenin artar."
+      "zh": "我来买你喜欢的菜，顺便把亲戚的消息告诉大家。",
+      "pinyin": "Wǒ lái mǎi nǐ xǐ huān de cài shùn biàn bǎ qīn qī de xiāo xī gào sù dà jiā",
+      "tr": "Sevdiğin yemekleri almak için pazara gider, akrabalarına da haber veririm."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_067",
       "speaker": "张伟",
-      "zh": "换个角度看，同学的办法可以参考，但不一定完全适合你。",
-      "pinyin": "Huàngè jiǎodùkàn, tóngxué de bànfǎ kěyǐ cānkǎo, dàn bù yídìng wánquán shìhé nǐ.",
-      "tr": "Başka bir açıdan bakarsak, arkadaşının yöntemi örnek alınabilir ama sana tamamen uymayabilir."
+      "zh": "先等我们确认了所有入学事项，再决定请多少人。",
+      "pinyin": "Xiān děng wǒ men què rèn le suǒ yǒu rù xué shì xiàng zài jué dìng qǐng duō shǎo rén",
+      "tr": "Önce kayıtla ilgili bütün bilgileri doğrulayalım, sonra kaç kişiyi çağıracağımıza karar veririz."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_068",
       "speaker": "老师",
-      "zh": "不过，有不懂的地方早点问，不要一直拖到考试前。",
-      "pinyin": "Bùguò, yǒu bù dǒng de dìfāng zǎodiǎn wèn, búyào yìzhí tuō dào kǎoshì qián.",
-      "tr": "Ancak, anlamadığın yerleri erken sor; sınava kadar erteleme."
+      "zh": "没问题。先让雨桐享受这个好消息，其他安排可以慢慢来。",
+      "pinyin": "Méi wèn tí xiān ràng yǔ tóng xiǎng shòu zhè ge hǎo xiāo xī qí tā ān pái kě yǐ màn màn lái",
+      "tr": "Olur. Önce Yutong bu güzel haberin sevincini yaşasın; diğer işleri yavaş yavaş hallederiz."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_069",
       "speaker": "张雨桐",
-      "zh": "其实，这次虽然不好受，但至少让我看清了问题。",
-      "pinyin": "Qíshí, zhècì suīrán bùhǎoshòu, dàn zhìshǎo ràng wǒ kànqīng le wèntí.",
-      "tr": "Aslında, bu kez zor geldi ama en azından sorunu görmemi sağladı."
+      "zh": "我也想把通知书扫描一份，原件放在安全的地方。",
+      "pinyin": "Wǒ yě xiǎng bǎ tōng zhī shū sǎo miáo yī fèn yuán jiàn fàng zài ān quán de dì fāng",
+      "tr": "Mektubu tarayıp dijital kopyasını saklamak, aslını da güvenli bir yere koymak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_070",
       "speaker": "刘梅",
-      "zh": "另外，把不会的地方找出来，比反复担心分数更有用。",
-      "pinyin": "Lìngwài, bǎ búhuì de dìfāng zhǎo chūlái, bǐ fǎnfù dānxīn fēnshù gèng yǒuyòng.",
-      "tr": "Ayrıca, bilmediğin noktaları bulmak, puanı tekrar tekrar düşünmekten daha faydalı."
+      "zh": "好主意。电子版备份好，原件别夹在容易弄丢的书里。",
+      "pinyin": "Hǎo zhǔ yì diàn zi bǎn bèi fèn hǎo yuán jiàn bié jiā zài róng yì nòng diū de shū lǐ",
+      "tr": "Güzel fikir. Kopyayı yedekle; aslını kolayca kaybolabilecek kitapların arasına koyma."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_071",
       "speaker": "张伟",
-      "zh": "每个人看到的角度不一样，把这些角度放在一起会更完整。",
-      "pinyin": "Měigè rén kàndào de jiǎodù bù yīyàng, bǎ zhèxiē jiǎodù fàngzài yìqǐ huì gèng wánzhěng.",
-      "tr": "Herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+      "zh": "学校还要求你回复是否接受录取，今天能完成吗？",
+      "pinyin": "xué xiào hái yāo qiú nǐ huí fù shì fǒu jiē shòu lù qǔ jīn tiān néng wán chéng ma",
+      "tr": "Okul kabulü onaylayıp onaylamayacağını bildirmeyi de istiyor. Bugün tamamlayabilir misin?"
     },
     {
       "id": "DLG_ZH_HSK4_SC044_072",
       "speaker": "老师",
-      "zh": "另外，把目标分小一点，每完成一步都会更有信心。",
-      "pinyin": "Lìngwài, bǎ mùbiāo fēnxiǎo yìdiǎn, měi wánchéng yībù dōu huì gèng yǒu xìnxīn.",
-      "tr": "Ayrıca, hedefi küçük parçalara böl; her adımı tamamladıkça güvenin artar."
+      "zh": "先仔细读确认步骤，确认信息正确以后再提交。",
+      "pinyin": "Xiān zǐ xì dú què rèn bù zhòu què rèn xìn xī zhèng què yǐ hòu zài tí jiāo",
+      "tr": "Önce adımları dikkatle oku; bilgiler doğruysa onayını gönder."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_073",
       "speaker": "张雨桐",
-      "zh": "辛苦大家了。",
-      "pinyin": "Xīnkǔ dàjiā le.",
-      "tr": "Herkesin emeğine sağlık."
+      "zh": "我可以陪你一起核对信息，确认无误后再由我自己提交。",
+      "pinyin": "wǒ kě yǐ péi nǐ yì qǐ hé duì xìn xī què rèn wú wù hòu zài yóu wǒ zì jǐ tí jiāo",
+      "tr": "Bilgileri seninle kontrol edebilirim; doğru olduklarından emin olunca kendim gönderirim."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_074",
       "speaker": "刘梅",
-      "zh": "有不同意见没关系，只要理由说得清楚就能继续谈。",
-      "pinyin": "Yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
-      "tr": "Farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+      "zh": "这正好是练习独立安排事情的机会。",
+      "pinyin": "Zhè zhèng hǎo shì liàn xí dú lì ān pái shì qíng de jī huì",
+      "tr": "Bu, işlerini bağımsızca düzenlemeyi öğrenmen için iyi bir fırsat."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_075",
       "speaker": "张伟",
-      "zh": "另外，老师的反馈可以参考，但也要结合自己的实际情况。",
-      "pinyin": "Lìngwài, lǎoshī de fǎnkuì kěyǐ cānkǎo, dàn yě yào jiéhé zìjǐ de shíjì qíngkuàng.",
-      "tr": "Ayrıca, öğretmenin geri bildirimi önemli ama kendi gerçek durumunla birlikte değerlendirmelisin."
+      "zh": "提交前再核对姓名、专业和截止日期，就不容易漏掉重要信息。",
+      "pinyin": "tí jiāo qián zài hé duì xìng míng zhuān yè hé jié zhǐ rì qī jiù bù róng yì lòu diào zhòng yào xìn xī",
+      "tr": "Göndermeden önce adı, bölümü ve son tarihi kontrol edersen önemli bir şeyi atlamazsın."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_076",
       "speaker": "老师",
-      "zh": "老师的反馈可以参考，但也要结合自己的实际情况。",
-      "pinyin": "Lǎoshī de fǎnkuì kěyǐ cānkǎo, dàn yě yào jiéhé zìjǐ de shíjì qíngkuàng.",
-      "tr": "Öğretmenin geri bildirimi önemli ama kendi gerçek durumunla birlikte değerlendirmelisin."
+      "zh": "完成以后，把回执保存下来，也记下后续需要做什么。",
+      "pinyin": "Wán chéng yǐ hòu bǎ huí zhí bǎo cún xià lái yě jì xià hòu xù xū yào zuò shén me",
+      "tr": "Bitirince onay belgesini sakla ve sonraki adımları da not et."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_077",
       "speaker": "张雨桐",
-      "zh": "好，我们保持联系。",
-      "pinyin": "Hǎo, wǒmen bǎochíliánxì.",
-      "tr": "Tamam, iletişimde kalalım."
+      "zh": "现在我已经不像刚收到信时那么紧张了。",
+      "pinyin": "Xiàn zài wǒ yǐ jīng bù xiàng gāng shōu dào xìn shí nà me jǐn zhāng le",
+      "tr": "Şimdi mektubu ilk açtığım zamanki kadar gergin değilim."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_078",
       "speaker": "刘梅",
-      "zh": "录取通知书这方面也别漏了。",
-      "pinyin": "Lùqǔ tōngzhīshū zhèfāngmiàn yě biélòu le.",
-      "tr": "Üniversite kabul mektubu konusunu da değerlendirme kapsamına alalım."
+      "zh": "因为你把大事情拆成了几步，每一步都能慢慢处理。",
+      "pinyin": "Yīn wèi nǐ bǎ dà shì qíng chāi chéng le jǐ bù měi yī bù dōu néng màn màn chǔ lǐ",
+      "tr": "Çünkü büyük işleri küçük adımlara böldün; her birini sakince halledebilirsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_079",
       "speaker": "张伟",
-      "zh": "其实，一次失败不能说明能力不够，但能提醒我们哪里需要改变。",
-      "pinyin": "Qíshí, yīcì shībài bùnéng shuōmíng nénglì bùgòu, dàn néng tíxǐng wǒmen nǎlǐ xūyào gǎibiàn.",
-      "tr": "Aslında, bir başarısızlık yetersiz olduğun anlamına gelmez; neyin değişmesi gerektiğini gösterebilir."
+      "zh": "听你这么说，我也很期待你去大学尝试新事物，也知道计划可以边走边调整。",
+      "pinyin": "tīng nǐ zhè me shuō wǒ yě hěn qī dài nǐ qù dà xué cháng shì xīn shì wù yě zhī dào jì huà kě yǐ biān zǒu biān tiáo zhěng",
+      "tr": "Böyle konuştuğunu duyunca üniversitede yeni şeyler deneyeceğin için ben de heyecanlanıyorum; planını zamanla değiştirebileceğini de biliyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_080",
       "speaker": "老师",
-      "zh": "如果录取的情况变了，我们的安排也要跟着调整。",
-      "pinyin": "Rúguǒ lùqǔ de qíngkuàng biàn le, wǒmen de ānpái yě yào gēnzhe tiáozhěng.",
-      "tr": "Kabul / yerleştirme değişirse planı da ayarlamak gerekir."
+      "zh": "我们都为你开心。今晚先好好庆祝，明天再开始准备下一件事。",
+      "pinyin": "Wǒ men dōu wèi nǐ kāi xīn jīn wǎn xiān hǎo hǎo qìng zhù míng tiān zài kāi shǐ zhǔn bèi xià yī jiàn shì",
+      "tr": "Hepimiz senin adına mutluyuz. Bu akşam kutlayalım; yarın hazırlıklara devam ederiz."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_081",
       "speaker": "张雨桐",
-      "zh": "这样更符合实际。",
-      "pinyin": "Zhèyàng gèng fúhéshíjì.",
-      "tr": "Kulağa oldukça mantıklı geliyor."
+      "zh": "等我入学以后，第一件事应该先做什么？",
+      "pinyin": "Děng wǒ rù xué yǐ hòu dì yī jiàn shì yīng gāi xiān zuò shén me",
+      "tr": "Üniversiteye başlayınca ilk olarak ne yapmalıyım?"
     },
     {
       "id": "DLG_ZH_HSK4_SC044_082",
       "speaker": "刘梅",
-      "zh": "我们得先看看大学是否真的合适。",
-      "pinyin": "Wǒmen dé xiān kànkàn dàxué shìfǒu zhēnde héshì.",
-      "tr": "Önce üniversite gerçekten uygun mu bakmalıyız."
+      "zh": "先熟悉校园和课程安排，也给自己一点时间认识新同学。",
+      "pinyin": "Xiān shú xī xiào yuán hé kè chéng ān pái yě gěi zì jǐ yì diǎn shí jiān rèn shí xīn tóng xué",
+      "tr": "Kampüsü ve ders düzenini tanı, yeni arkadaşlarla tanışmak için de kendine zaman ayır."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_083",
       "speaker": "张伟",
-      "zh": "好，这点我记一下。",
-      "pinyin": "Hǎo, zhèdiǎn wǒjì yīxià.",
-      "tr": "Bu noktayı not edeyim."
+      "zh": "你可以把重要的日期记在日历上，但别把每天都排得太满。",
+      "pinyin": "Nǐ kě yǐ bǎ zhòng yào de rì qī jì zài rì lì shàng dàn bié bǎ měi tiān dōu pái dé tài mǎn",
+      "tr": "Önemli tarihleri takvime yazabilirsin ama her gününü doldurma."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_084",
       "speaker": "老师",
-      "zh": "我们也得顾到家人的想法。",
-      "pinyin": "Wǒmen yě dé gùdào jiārén de xiǎngfǎ.",
-      "tr": "Aile göz ardı edemeyeceğimiz bir nokta."
+      "zh": "大学里有学习中心和导师，有不清楚的事情可以主动去问。",
+      "pinyin": "Dà xué lǐ yǒu xué xí zhōng xīn hé dǎo shī yǒu bù qīng chǔ de shì qíng kě yǐ zhǔ dòng qù wèn",
+      "tr": "Üniversitede öğrenme merkezi ve danışmanlar var; bilmediğin şeyleri sormaktan çekinme."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_085",
       "speaker": "张雨桐",
-      "zh": "把目标分小一点，每完成一步都会更有信心。",
-      "pinyin": "Bǎ mùbiāo fēnxiǎo yìdiǎn, měi wánchéng yībù dōu huì gèng yǒu xìnxīn.",
-      "tr": "Hedefi küçük parçalara böl; her adımı tamamladıkça güvenin artar."
+      "zh": "我想参加设计社团，也想试试学校的摄影活动。",
+      "pinyin": "Wǒ xiǎng cān jiā shè jì shè tuán yě xiǎng shì shì xué xiào de shè yǐng huó dòng",
+      "tr": "Tasarım kulübüne katılmak ve okulun fotoğraf etkinliğini denemek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_086",
       "speaker": "刘梅",
-      "zh": "未来计划这方面也别漏了。",
-      "pinyin": "Wèilái jìhuà zhèfāngmiàn yě biélòu le.",
-      "tr": "Gelecek planı konusunu da değerlendirme kapsamına alalım."
+      "zh": "可以先去了解，不必一开始就答应参加所有活动。",
+      "pinyin": "Kě yǐ xiān qù liǎo jiě bù bì yī kāi shǐ jiù dā yìng cān jiā suǒ yǒu huó dòng",
+      "tr": "Önce tanıtım toplantılarına git; daha baştan her etkinliğe katılacağına söz verme."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_087",
       "speaker": "张伟",
-      "zh": "这一点我同意。",
-      "pinyin": "Zhè yìdiǎn wǒ tóngyì.",
-      "tr": "Bu noktaya katılıyorum."
+      "zh": "学习和休息都安排好，才能长时间保持兴趣。",
+      "pinyin": "Xué xí hé xiū xī dōu ān pái hǎo cái néng zhǎng shí jiān bǎo chí xìng qù",
+      "tr": "Ders ve dinlenme zamanını dengelemek, ilgini uzun süre korumana yardım eder."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_088",
       "speaker": "老师",
-      "zh": "如果开心的情况变了，我们的安排也要跟着调整。",
-      "pinyin": "Rúguǒ kāixīn de qíngkuàng biàn le, wǒmen de ānpái yě yào gēnzhe tiáozhěng.",
-      "tr": "Mutlu değişirse planı da ayarlamak gerekir."
+      "zh": "你可以每周看一次自己的时间表，必要时再作调整。",
+      "pinyin": "nǐ kě yǐ měi zhōu kàn yī cì zì jǐ de shí jiān biǎo bì yào shí zài zuò tiáo zhěng",
+      "tr": "Gerekirse değişiklik yaparak haftada bir kez kendi programına bakabilirsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_089",
       "speaker": "张雨桐",
-      "zh": "先把最薄弱的一部分补起来，后面会轻松很多。",
-      "pinyin": "Xiān bǎ zuì bóruò de yībùfèn bǔ qǐlái, hòumiàn huì qīngsōng hěnduō.",
-      "tr": "Önce en zayıf kısmı tamamlayalım; sonrası daha kolay olur."
+      "zh": "如果课程比想象的难，我会先找老师和同学讨论。",
+      "pinyin": "Rú guǒ kè chéng bǐ xiǎng xiàng de nán wǒ huì xiān zhǎo lǎo shī hé tóng xué tǎo lùn",
+      "tr": "Dersler umduğumdan zor gelirse öğretmenlerimle ve arkadaşlarımla konuşurum."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_090",
       "speaker": "刘梅",
-      "zh": "学习这件事，大家还有什么要补充的？",
-      "pinyin": "Xuéxí zhèjiàn shì, dàjiā háiyǒu shénme yào bǔchōng de?",
-      "tr": "Ders çalışma konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "遇到困难不是失败；早点求助往往能更快找到办法。",
+      "pinyin": "Yù dào kùn nán bú shì shī bài zǎo diǎn qiú zhù wǎng wǎng néng gèng kuài zhǎo dào bàn fǎ",
+      "tr": "Zorlanmak başarısızlık değildir; erken yardım istemek çözümü bulmayı kolaylaştırır."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_091",
       "speaker": "张伟",
-      "zh": "换个角度看，我同意方向，不过执行的时候需要留一点余地。",
-      "pinyin": "Huàngè jiǎodùkàn, wǒ tóngyì fāngxiàng, bùguò zhíxíng de shíhòu xūyào liú yìdiǎn yúdì.",
-      "tr": "Başka bir açıdan bakarsak, yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+      "zh": "听你这么说，我放心多了。你先处理眼前的事，不必担心全部四年。",
+      "pinyin": "tīng nǐ zhè me shuō wǒ fàng xīn duō le nǐ xiān chǔ lǐ yǎn qián de shì bù bì dān xīn quán bù sì nián",
+      "tr": "Bunu duymak içimi rahatlattı. Önce önündeki işleri hallet; dört yılın tamamı için kaygılanma."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_092",
       "speaker": "老师",
-      "zh": "我们还得顾到选择。",
-      "pinyin": "Wǒmen hái dé gùdào xuǎnzé.",
-      "tr": "Seçim göz ardı edemeyeceğimiz bir nokta."
+      "zh": "对，未来计划是给你方向，不是要求你现在知道每个答案。",
+      "pinyin": "Duì wèi lái jì huà shì gěi nǐ fāng xiàng bú shì yāo qiú nǐ xiàn zài zhī dào měi gè dá àn",
+      "tr": "Evet, gelecek planı sana yön verir; her yanıtı bugünden bilmeni gerektirmez."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_093",
       "speaker": "张雨桐",
-      "zh": "同学的办法可以参考，但不一定完全适合你。",
-      "pinyin": "Tóngxué de bànfǎ kěyǐ cānkǎo, dàn bù yídìng wánquán shìhé nǐ.",
-      "tr": "Arkadaşının yöntemi örnek alınabilir ama sana tamamen uymayabilir."
+      "zh": "家里会帮我准备需要的东西，但也会让我自己整理和决定。",
+      "pinyin": "jiā lǐ huì bāng wǒ zhǔn bèi xū yào de dōng xī dàn yě huì ràng wǒ zì jǐ zhěng lǐ hé jué dìng",
+      "tr": "Ailem gereken eşyaları hazırlamama yardım edecek ama düzenlemeyi ve kararları kendim vermeme de izin verecek."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_094",
       "speaker": "刘梅",
-      "zh": "我们把录取通知书也算进去。",
-      "pinyin": "Wǒmen bǎ lùqǔ tōngzhīshū yě suànjìnqù.",
-      "tr": "Üniversite kabul mektubu konusunu da değerlendirme kapsamına alalım."
+      "zh": "我会列一张清单，先选必须带的物品，不需要的就不买。",
+      "pinyin": "Wǒ huì liè yī zhāng qīng dān xiān xuǎn bì xū dài de wù pǐn bù xū yào de jiù bù mǎi",
+      "tr": "Bir liste yapıp yalnızca gerekli olanları alacağım; ihtiyaç duymadıklarımı satın almayacağım."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_095",
       "speaker": "张伟",
-      "zh": "其实，这次的经验要留下来，下次遇到类似问题就知道怎么处理。",
-      "pinyin": "Qíshí, zhècì de jīngyàn yào liúxiàlái, xiàcì yùdào lèisì wèntí jiù zhīdào zěnme chǔlǐ.",
-      "tr": "Aslında, bu deneyimi akılda tut; benzer bir sorun çıkarsa nasıl davranacağını bilirsin."
+      "zh": "这样既能准备好，也不会因为紧张买一堆用不上的东西。",
+      "pinyin": "Zhè yàng jì néng zhǔn bèi hǎo yě bú huì yīn wèi jǐn zhāng mǎi yī duī yòng bù shàng de dōng xī",
+      "tr": "Böylece hazır olursun, telaşla kullanmayacağın bir sürü şey de almazsın."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_096",
       "speaker": "老师",
-      "zh": "换个角度看，最重要的是找到适合自己的节奏，而不是跟别人比快慢。",
-      "pinyin": "Huàngè jiǎodùkàn, zuì zhòngyào de shì zhǎodào shìhé zìjǐ de jiézòu, ér búshì gēn biérén bǐ kuàimàn.",
-      "tr": "Başka bir açıdan bakarsak, en önemlisi kendi ritmini bulmak; başkalarıyla hız yarışı yapmak değil."
+      "zh": "等课程表出来以后再买专业材料，会更稳妥。",
+      "pinyin": "děng kè chéng biǎo chū lái yǐ hòu zài mǎi zhuān yè cái liào huì gèng wěn tuǒ",
+      "tr": "Bölüm malzemelerini ders programı belli olduktan sonra almak daha sağlam olur."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_097",
       "speaker": "张雨桐",
-      "zh": "把目标分小一点，每完成一步都会更有信心。",
-      "pinyin": "Bǎ mùbiāo fēnxiǎo yìdiǎn, měi wánchéng yībù dōu huì gèng yǒu xìnxīn.",
-      "tr": "Hedefi küçük parçalara böl; her adımı tamamladıkça güvenin artar."
+      "zh": "好，我等课程表出来以后，再决定要买哪些专业材料。",
+      "pinyin": "hǎo wǒ děng kè chéng biǎo chū lái yǐ hòu zài jué dìng yào mǎi nǎ xiē zhuān yè cái liào",
+      "tr": "Peki, hangi bölüm malzemelerini alacağıma ders programı belli olduktan sonra karar vereceğim."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_098",
       "speaker": "刘梅",
-      "zh": "另外，一次失败不能说明能力不够，但能提醒我们哪里需要改变。",
-      "pinyin": "Lìngwài, yīcì shībài bùnéng shuōmíng nénglì bùgòu, dàn néng tíxǐng wǒmen nǎlǐ xūyào gǎibiàn.",
-      "tr": "Ayrıca, bir başarısızlık yetersiz olduğun anlamına gelmez; neyin değişmesi gerektiğini gösterebilir."
+      "zh": "录取通知书我会收好，报名确认也已经成功提交了。",
+      "pinyin": "Lù qǔ tōng zhī shū wǒ huì shōu hǎo bào míng què rèn yě yǐ jīng chéng gōng tí jiāo le",
+      "tr": "Kabul mektubumu güvenli yere koydum ve kayıt onayını da gönderdim."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_099",
       "speaker": "张伟",
-      "zh": "其实，我更想知道的是，你自己觉得哪一步最困难。",
-      "pinyin": "Qíshí, wǒ gèng xiǎng zhīdào de shì, nǐ zìjǐ juéde nǎ yībù zuì kùnnán.",
-      "tr": "Aslında, ben daha çok senin hangi adımı en zor bulduğunu merak ediyorum."
+      "zh": "太好了。今天记下的事情都做完了，我们可以安心庆祝。",
+      "pinyin": "Tài hǎo le jīn tiān jì xià de shì qíng dōu zuò wán le wǒ men kě yǐ ān xīn qìng zhù",
+      "tr": "Harika. Bugün yapman gerekenleri bitirdin; artık gönül rahatlığıyla kutlayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_100",
       "speaker": "老师",
-      "zh": "换个角度看，别只看成绩，也看看这段时间真正学会了什么。",
-      "pinyin": "Huàngè jiǎodùkàn, bié zhǐ kàn chéngjì, yě kànkàn zhè duànshíjiān zhēnzhèng xuéhuì le shénme.",
-      "tr": "Başka bir açıdan bakarsak, yalnızca nota bakma; bu süreçte gerçekten ne öğrendiğine de bak."
+      "zh": "记住今天的开心，也一步一步开始大学生活。",
+      "pinyin": "jì zhù jīn tiān de kāi xīn yě yí bù yí bù kāi shǐ dà xué shēng huó",
+      "tr": "Bugünkü sevincini hatırla ve üniversite yaşamına adım adım başla."
     }
   ],
   "productionStatus": "complete",

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC027.json",
-  "dialogueSha256": "30db1eaf08ac2b8df17d874d8ebb46258d377fd47ce1bf4d0c609182127fd8a0",
+  "dialogueSha256": "5cf6fdce04823e930c9f305c05b3614eb4a0da30828344138d857f8b45bfe486",
   "titleTr": "Tren Gecikmesi",
   "locationId": "LOC_ZH_TRAVEL_STATION_001",
   "scenePurposeTr": "Tatil yolunda tren gecikir ve rezervasyon planı değişir.",

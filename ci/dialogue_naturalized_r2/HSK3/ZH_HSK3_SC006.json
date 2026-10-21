@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 49,
+  "status": "FINAL_REVIEWED_V49",
+  "sceneId": "ZH_HSK3_SC006",
+  "level": "HSK3",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK3_SC006_001",
+      "speaker": "刘梅",
+      "zh": "今天把开咖啡馆的想法说具体吧。",
+      "pinyin": "jīn tiān bǎ kāi kā fēi guǎn de xiǎng fǎ shuō jù tǐ ba 。",
+      "tr": "Bugün kafe açma fikrini ayrıntılandıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_002",
+      "speaker": "张伟",
+      "zh": "好，我想先听听你对这条街的看法。",
+      "pinyin": "hǎo ， wǒ xiǎng xiān tīng tīng nǐ duì zhè tiáo jiē de kàn fǎ 。",
+      "tr": "Olur, önce bu sokak hakkındaki düşünceni duymak isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_003",
+      "speaker": "顾客",
+      "zh": "附近缺一家能坐下来聊天的小店。",
+      "pinyin": "fù jìn quē yī jiā néng zuò xià lái liáo tiān de xiǎo diàn 。",
+      "tr": "Yakında oturup sohbet edilebilecek küçük bir yer eksik."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_004",
+      "speaker": "张雨桐",
+      "zh": "我也喜欢，不过先看看开店要准备什么。",
+      "pinyin": "wǒ yě xǐ huān ， bù guò xiān kàn kàn kāi diàn yào zhǔn bèi shén me 。",
+      "tr": "Ben de sevdim ama önce dükkân için neler gerektiğine bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_005",
+      "speaker": "刘梅",
+      "zh": "什么样的客人会来？",
+      "pinyin": "shén me yàng de kè rén huì lái ？",
+      "tr": "Ne tür müşteriler gelir?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_006",
+      "speaker": "张伟",
+      "zh": "附近有学生、上班的人和带孩子的家庭。",
+      "pinyin": "fù jìn yǒu xué shēng 、 shàng bān de rén hé dài hái zi de jiā tíng 。",
+      "tr": "Yakında öğrenciler, çalışanlar ve çocuklu aileler var."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_007",
+      "speaker": "顾客",
+      "zh": "那环境要安静，也得让孩子舒服。",
+      "pinyin": "nà huán jìng yào ān jìng ， yě dé ràng hái zi shū fú 。",
+      "tr": "Ortam sakin olmalı, çocuklar da rahat etmeli."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_008",
+      "speaker": "张雨桐",
+      "zh": "可以一边准备咖啡，一边给孩子留个小角落。",
+      "pinyin": "kě yǐ yī biān zhǔn bèi kā fēi ， yī biān gěi hái zi liú gè xiǎo jiǎo luò 。",
+      "tr": "Kahve hazırlarken çocuklara küçük bir köşe ayırabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_009",
+      "speaker": "刘梅",
+      "zh": "我希望店里温暖一点，不用太豪华。",
+      "pinyin": "wǒ xī wàng diàn lǐ wēn nuǎn yì diǎn ， bù yòng tài háo huá 。",
+      "tr": "Dükkân sıcak görünsün istiyorum; lüks olmasına gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_010",
+      "speaker": "张伟",
+      "zh": "木桌和暖色的灯应该合适。",
+      "pinyin": "mù zhuō hé nuǎn sè de dēng yīng gāi hé shì 。",
+      "tr": "Ahşap masalarla sıcak renkli ışıklar uygun olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_011",
+      "speaker": "顾客",
+      "zh": "我认识木工，可以问问他的价格。",
+      "pinyin": "wǒ rèn shí mù gōng ， kě yǐ wèn wèn tā de jià gé 。",
+      "tr": "Bir marangoz tanıyorum, fiyatını sorabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_012",
+      "speaker": "张雨桐",
+      "zh": "先量房间，再决定桌子放在哪里。",
+      "pinyin": "xiān liàng fáng jiān ， zài jué dìng zhuō zi fàng zài nǎ lǐ 。",
+      "tr": "Önce mekânı ölçelim, sonra masaların yerini belirleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_013",
+      "speaker": "刘梅",
+      "zh": "菜单上只卖咖啡会不会太少？",
+      "pinyin": "cài dān shàng zhǐ mài kā fēi huì bú huì tài shǎo ？",
+      "tr": "Menüde yalnızca kahve satmak az mı olur?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_014",
+      "speaker": "张伟",
+      "zh": "可以加茶、果汁和几种点心。",
+      "pinyin": "kě yǐ jiā chá 、 guǒ zhī hé jǐ zhǒng diǎn xīn 。",
+      "tr": "Çay, meyve suyu ve birkaç atıştırmalık ekleyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_015",
+      "speaker": "顾客",
+      "zh": "我会做蛋糕，周末可以试卖两种。",
+      "pinyin": "wǒ huì zuò dàn gāo ， zhōu mò kě yǐ shì mài liǎng zhǒng 。",
+      "tr": "Kek yapabiliyorum; hafta sonu iki çeşidini satmayı deneyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_016",
+      "speaker": "张雨桐",
+      "zh": "先少做一点，再看客人喜欢哪一种。",
+      "pinyin": "xiān shǎo zuò yì diǎn ， zài kàn kè rén xǐ huān nǎ yī zhǒng 。",
+      "tr": "Önce az yapalım, sonra müşterilerin hangisini sevdiğine bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_017",
+      "speaker": "刘梅",
+      "zh": "大家能接受什么价格？",
+      "pinyin": "dà jiā néng jiē shòu shén me jià gé ？",
+      "tr": "İnsanlar hangi fiyatları uygun bulur?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_018",
+      "speaker": "张伟",
+      "zh": "学生预算不多，咖啡不能太贵。",
+      "pinyin": "xué shēng yù suàn bù duō ， kā fēi bù néng tài guì 。",
+      "tr": "Öğrencilerin bütçesi sınırlı, kahve çok pahalı olmamalı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_019",
+      "speaker": "顾客",
+      "zh": "饮料和点心一起买，可以便宜一点吗？",
+      "pinyin": "yǐn liào hé diǎn xīn yì qǐ mǎi ， kě yǐ pián yi yì diǎn ma ？",
+      "tr": "İçecek ve atıştırmalık birlikte alınırsa indirim yapabilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_020",
+      "speaker": "张雨桐",
+      "zh": "可以做套餐，不过先算清楚成本。",
+      "pinyin": "kě yǐ zuò tào cān ， bù guò xiān suàn qīng chǔ chéng běn 。",
+      "tr": "Paket yapabiliriz ama önce maliyeti hesaplayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_021",
+      "speaker": "刘梅",
+      "zh": "这条街的位置怎么样？",
+      "pinyin": "zhè tiáo jiē de wèi zhì zěn me yàng ？",
+      "tr": "Bu sokağın konumu nasıl?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_022",
+      "speaker": "张伟",
+      "zh": "离学校近，走几分钟就到，交通也方便。",
+      "pinyin": "lí xué xiào jìn ， zǒu jǐ fēn zhōng jiù dào ， jiāo tōng yě fāng biàn 。",
+      "tr": "Okula yakın, yürüyerek birkaç dakikada varılır ve ulaşım kolay."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_023",
+      "speaker": "顾客",
+      "zh": "可是门口不显眼，客人可能找不到。",
+      "pinyin": "kě shì mén kǒu bù xiǎn yǎn ， kè rén kě néng zhǎo bú dào 。",
+      "tr": "Ama giriş görünür değil, müşteriler bulamayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_024",
+      "speaker": "张雨桐",
+      "zh": "招牌清楚，附近的人才知道这里要做咖啡生意。",
+      "pinyin": "zhāo pái qīng chǔ ， fù jìn de rén cái zhī dào zhè lǐ yào zuò kā fēi shēng yì 。",
+      "tr": "Tabelayı belirgin yaparsak çevredekiler burada kahve işi yaptığımızı anlar."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_025",
+      "speaker": "刘梅",
+      "zh": "每天几点开门合适？",
+      "pinyin": "měi tiān jǐ diǎn kāi mén hé shì ？",
+      "tr": "Her gün kaçta açmak uygun olur?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_026",
+      "speaker": "张伟",
+      "zh": "学生来得早，七点半开门也许不错。",
+      "pinyin": "xué shēng lái de zǎo ， qī diǎn bàn kāi mén yě xǔ bù cuò 。",
+      "tr": "Öğrenciler erken geliyor; yedi buçukta açmak iyi olabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_027",
+      "speaker": "顾客",
+      "zh": "那早上准备食物要花多久？",
+      "pinyin": "nà zǎo shàng zhǔn bèi shí wù yào huā duō jiǔ ？",
+      "tr": "Sabah yiyecekleri hazırlamak ne kadar sürer?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_028",
+      "speaker": "张雨桐",
+      "zh": "我可以早点来，先试一个星期。",
+      "pinyin": "wǒ kě yǐ zǎo diǎn lái ， xiān shì yí gè xīng qī 。",
+      "tr": "Erken gelebilirim; önce bir hafta deneyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_029",
+      "speaker": "刘梅",
+      "zh": "周末要不要晚一点关门？",
+      "pinyin": "zhōu mò yào bù yào wǎn yì diǎn guān mén ？",
+      "tr": "Hafta sonu daha geç mi kapatalım?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_030",
+      "speaker": "张伟",
+      "zh": "周末客人可能多些，可以晚半小时。",
+      "pinyin": "zhōu mò kè rén kě néng duō xiē ， kě yǐ wǎn bàn xiǎo shí 。",
+      "tr": "Hafta sonu müşteri artabilir, yarım saat geç kapatabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_031",
+      "speaker": "顾客",
+      "zh": "如果太累，我们可以轮流看店。",
+      "pinyin": "rú guǒ tài lèi ， wǒ men kě yǐ lún liú kàn diàn 。",
+      "tr": "Çok yorulursak dükkâna sırayla bakabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_032",
+      "speaker": "张雨桐",
+      "zh": "好，先记下每天的客人数量再决定。",
+      "pinyin": "hǎo ， xiān jì xià měi tiān de kè rén shù liàng zài jué dìng 。",
+      "tr": "Olur, önce günlük müşteri sayısını kaydedip karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_033",
+      "speaker": "刘梅",
+      "zh": "开店前问问附近的人怎么样？",
+      "pinyin": "kāi diàn qián wèn wèn fù jìn de rén zěn me yàng ？",
+      "tr": "Açmadan önce çevredekilere sorsak nasıl olur?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_034",
+      "speaker": "张伟",
+      "zh": "好，问问他们想喝什么、什么时候会来。",
+      "pinyin": "hǎo ， wèn wèn tā men xiǎng hē shén me 、 shén me shí hòu huì lái 。",
+      "tr": "Olur, ne içmek istediklerini ve ne zaman geleceklerini sorarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_035",
+      "speaker": "顾客",
+      "zh": "我认识几位附近的家长，可以先问他们。",
+      "pinyin": "wǒ rèn shí jǐ wèi fù jìn de jiā zhǎng ， kě yǐ xiān wèn tā men 。",
+      "tr": "Yakında oturan birkaç veli tanıyorum, önce onlara sorabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_036",
+      "speaker": "张雨桐",
+      "zh": "我来记下回答，回头一起看看大家的意见。",
+      "pinyin": "wǒ lái jì xià huí dá ， huí tóu yì qǐ kàn kàn dà jiā de yì jiàn 。",
+      "tr": "Yanıtları not edeyim, sonra birlikte değerlendiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_037",
+      "speaker": "刘梅",
+      "zh": "顾客最关心的可能是味道和服务。",
+      "pinyin": "gù kè zuì guān xīn de kě néng shì wèi dào hé fú wù 。",
+      "tr": "Müşteriler en çok tat ve hizmete önem verebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_038",
+      "speaker": "张伟",
+      "zh": "那我们找几种咖啡豆，请大家试喝。",
+      "pinyin": "nà wǒ men zhǎo jǐ zhǒng kā fēi dòu ， qǐng dà jiā shì hē 。",
+      "tr": "Birkaç kahve çekirdeği bulup herkese tattıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_039",
+      "speaker": "顾客",
+      "zh": "点心也切小块，让大家试试不同口味。",
+      "pinyin": "diǎn xīn yě qiè xiǎo kuài ， ràng dà jiā shì shì bù tóng kǒu wèi 。",
+      "tr": "Tatlıları küçük kesip farklı tatları denetelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_040",
+      "speaker": "张雨桐",
+      "zh": "一边听顾客的意见，一边让开店的梦想慢慢变成计划。",
+      "pinyin": "yī biān tīng gù kè de yì jiàn ， yī biān ràng kāi diàn de mèng xiǎng màn màn biàn chéng jì huà 。",
+      "tr": "Müşterileri dinlerken dükkân açma hayalini de yavaş yavaş plana dönüştürelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_041",
+      "speaker": "刘梅",
+      "zh": "我们要买很多桌椅吗？",
+      "pinyin": "wǒ men yào mǎi hěn duō zhuō yǐ ma ？",
+      "tr": "Çok masa sandalye almamız gerekiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_042",
+      "speaker": "张伟",
+      "zh": "先买几张，留出地方以后再添。",
+      "pinyin": "xiān mǎi jǐ zhāng ， liú chū dì fāng yǐ hòu zài tiān 。",
+      "tr": "Önce birkaç tane alıp kalanını sonra tamamlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_043",
+      "speaker": "顾客",
+      "zh": "我们的计划是先买几张桌子，留出地方以后再添。",
+      "pinyin": "wǒ men de jì huà shì xiān mǎi jǐ zhāng zhuō zi ， liú chū dì fāng yǐ hòu zài tiān 。",
+      "tr": "Planımız önce birkaç masa almak, kalanları da sonra eklemek."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_044",
+      "speaker": "张雨桐",
+      "zh": "对，先画布局图，再量一量过道。",
+      "pinyin": "duì ， xiān huà bù jú tú ， zài liàng yī liàng guò dào 。",
+      "tr": "Evet, önce yerleşim çizip geçiş yolunu ölçelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_045",
+      "speaker": "刘梅",
+      "zh": "店里要准备无线网络吗？",
+      "pinyin": "diàn lǐ yào zhǔn bèi wú xiàn wǎng luò ma ？",
+      "tr": "Dükkânda kablosuz internet sunalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_046",
+      "speaker": "张伟",
+      "zh": "学生可能用电脑学习，有网络更方便。",
+      "pinyin": "xué shēng kě néng yòng diàn nǎo xué xí ， yǒu wǎng luò gèng fāng biàn 。",
+      "tr": "Öğrenciler bilgisayarda çalışabilir, internet kullanışlı olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_047",
+      "speaker": "顾客",
+      "zh": "也要给想聊天的人留舒服的座位。",
+      "pinyin": "yě yào gěi xiǎng liáo tiān de rén liú shū fú de zuò wèi 。",
+      "tr": "Sohbet etmek isteyenlere de rahat yer ayırmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_048",
+      "speaker": "张雨桐",
+      "zh": "可以分成两边，一边安静，一边适合聊天。",
+      "pinyin": "kě yǐ fēn chéng liǎng biān ， yī biān ān jìng ， yī biān shì hé liáo tiān 。",
+      "tr": "İki bölüm yaparız; biri sessiz, diğeri sohbet için olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_049",
+      "speaker": "刘梅",
+      "zh": "名字要不要加上“街角”？",
+      "pinyin": "míng zì yào bù yào jiā shàng “ jiē jiǎo ”？",
+      "tr": "İsme “köşe başı” anlamını ekleyelim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_050",
+      "speaker": "张伟",
+      "zh": "这样大家容易记住店的位置。",
+      "pinyin": "zhè yàng dà jiā róng yì jì zhù diàn de wèi zhì 。",
+      "tr": "Böylece herkes dükkânın yerini kolay hatırlar."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_051",
+      "speaker": "顾客",
+      "zh": "名字听起来也要亲切一点。",
+      "pinyin": "míng zì tīng qǐ lái yě yào qīn qiè yì diǎn 。",
+      "tr": "İsim kulağa biraz samimi de gelmeli."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_052",
+      "speaker": "张雨桐",
+      "zh": "大家先想几个名字，明天一起选。",
+      "pinyin": "dà jiā xiān xiǎng jǐ gè míng zì ， míng tiān yì qǐ xuǎn 。",
+      "tr": "Herkes birkaç isim düşünsün, yarın birlikte seçeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_053",
+      "speaker": "刘梅",
+      "zh": "谁来和供应商联系？",
+      "pinyin": "shuí lái hé gōng yìng shāng lián xì ？",
+      "tr": "Tedarikçilerle kim görüşecek?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_054",
+      "speaker": "张伟",
+      "zh": "我联系咖啡豆和牛奶的供应商。",
+      "pinyin": "wǒ lián xì kā fēi dòu hé niú nǎi de gōng yìng shāng 。",
+      "tr": "Kahve çekirdeği ve süt tedarikçileriyle ben görüşürüm."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_055",
+      "speaker": "顾客",
+      "zh": "我问甜点材料的价格，再比较几家店。",
+      "pinyin": "wǒ wèn tián diǎn cái liào de jià gé ， zài bǐ jiào jǐ jiā diàn 。",
+      "tr": "Tatlı malzemelerinin fiyatını sorup birkaç yeri karşılaştırırım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_056",
+      "speaker": "张雨桐",
+      "zh": "我把价格整理好，方便大家一起决定。",
+      "pinyin": "wǒ bǎ jià gé zhěng lǐ hǎo ， fāng biàn dà jiā yì qǐ jué dìng 。",
+      "tr": "Fiyatları düzenlerim, böylece birlikte karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_057",
+      "speaker": "刘梅",
+      "zh": "厨房用品要一次买齐吗？",
+      "pinyin": "chú fáng yòng pǐn yào yī cì mǎi qí ma ？",
+      "tr": "Mutfak eşyalarının hepsini bir kerede mi alalım?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_058",
+      "speaker": "张伟",
+      "zh": "先买咖啡机和冰箱，其他东西慢慢添。",
+      "pinyin": "xiān mǎi kā fēi jī hé bīng xiāng ， qí tā dōng xī màn màn tiān 。",
+      "tr": "Önce kahve makinesiyle buzdolabını alıp kalanları sonra tamamlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_059",
+      "speaker": "顾客",
+      "zh": "我朋友有旧烤箱，可以先借给我们。",
+      "pinyin": "wǒ péng yǒu yǒu jiù kǎo xiāng ， kě yǐ xiān jiè gěi wǒ men 。",
+      "tr": "Arkadaşımın eski fırını var, şimdilik ödünç alabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_060",
+      "speaker": "张雨桐",
+      "zh": "先确认它还能用，再看看还缺什么。",
+      "pinyin": "xiān què rèn tā hái néng yòng ， zài kàn kàn hái quē shén me 。",
+      "tr": "Önce çalıştığını teyit edip başka neyin eksik olduğuna bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_061",
+      "speaker": "刘梅",
+      "zh": "如果客人觉得咖啡太苦怎么办？",
+      "pinyin": "rú guǒ kè rén jué de kā fēi tài kǔ zěn me bàn ？",
+      "tr": "Müşteriler kahveyi çok acı bulursa ne yaparız?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_062",
+      "speaker": "张伟",
+      "zh": "问问他们喜欢浓一点还是淡一点，再调整。",
+      "pinyin": "wèn wèn tā men xǐ huān nóng yì diǎn hái shì dàn yì diǎn ， zài tiáo zhěng 。",
+      "tr": "Yoğun mu hafif mi sevdiklerini sorup ona göre ayarlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_063",
+      "speaker": "顾客",
+      "zh": "我准备牛奶和糖，让客人自己选择。",
+      "pinyin": "wǒ zhǔn bèi niú nǎi hé táng ， ràng kè rén zì jǐ xuǎn zé 。",
+      "tr": "Süt ve şeker hazırlar, müşterilerin seçmesini sağlarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_064",
+      "speaker": "张雨桐",
+      "zh": "认真听意见，不必让每个人喜欢同一种味道。",
+      "pinyin": "rèn zhēn tīng yì jiàn ， bù bì ràng měi gè rén xǐ huān tóng yī zhǒng wèi dào 。",
+      "tr": "Görüşleri dinleyelim ama herkesin aynı tadı sevmesi gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_065",
+      "speaker": "刘梅",
+      "zh": "下雨天客人少，店里会不会很冷清？",
+      "pinyin": "xià yǔ tiān kè rén shǎo ， diàn lǐ huì bú huì hěn lěng qīng ？",
+      "tr": "Yağmurlu gün müşteri az olursa dükkân boş kalır mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_066",
+      "speaker": "张伟",
+      "zh": "可能少一些，不过附近的人还是需要休息的地方。",
+      "pinyin": "kě néng shǎo yī xiē ， bù guò fù jìn de rén hái shì xū yào xiū xī de dì fāng 。",
+      "tr": "Biraz azalabilir ama yakındakiler yine dinlenecek yer ister."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_067",
+      "speaker": "顾客",
+      "zh": "我们可以放几本书，客人等人的时候能看。",
+      "pinyin": "wǒ men kě yǐ fàng jǐ běn shū ， kè rén děng rén de shí hòu néng kàn 。",
+      "tr": "Birkaç kitap koyarız, bekleyen müşteriler okur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_068",
+      "speaker": "张雨桐",
+      "zh": "再放点轻松的音乐，让大家慢慢喝咖啡。",
+      "pinyin": "zài fàng diǎn qīng sōng de yīn yuè ， ràng dà jiā màn màn hē kā fēi 。",
+      "tr": "Hafif müzik açıp müşterilerin kahvelerini keyifle içmesini sağlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_069",
+      "speaker": "刘梅",
+      "zh": "开店的预算够吗？",
+      "pinyin": "kāi diàn de yù suàn gòu ma ？",
+      "tr": "Dükkânı açmak için bütçemiz yeterli mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_070",
+      "speaker": "张伟",
+      "zh": "房租和装修也要算，不能只看设备的钱。",
+      "pinyin": "fáng zū hé zhuāng xiū yě yào suàn ， bù néng zhǐ kàn shè bèi de qián 。",
+      "tr": "Kirayı ve tadilatı da hesaplayalım; yalnızca ekipman parasına bakamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_071",
+      "speaker": "顾客",
+      "zh": "我们先列出一定要花的钱。",
+      "pinyin": "wǒ men xiān liè chū yí dìng yào huā de qián 。",
+      "tr": "Önce kesinlikle ödememiz gerekenleri listeleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_072",
+      "speaker": "张雨桐",
+      "zh": "再留一点钱，应付突然出现的问题。",
+      "pinyin": "zài liú yì diǎn qián ， yìng fù tū rán chū xiàn de wèn tí 。",
+      "tr": "Beklenmedik sorunlar için biraz para ayıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_073",
+      "speaker": "刘梅",
+      "zh": "每天由谁来做咖啡？",
+      "pinyin": "měi tiān yóu shuí lái zuò kā fēi ？",
+      "tr": "Her gün kahveyi kim yapacak?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_074",
+      "speaker": "张伟",
+      "zh": "我们先轮流，熟练以后再安排时间。",
+      "pinyin": "wǒ men xiān lún liú ， shú liàn yǐ hòu zài ān pái shí jiān 。",
+      "tr": "Önce sırayla yapalım, alışınca saatleri belirleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_075",
+      "speaker": "顾客",
+      "zh": "我愿意学，不过一开始可能比较慢。",
+      "pinyin": "wǒ yuàn yì xué ， bù guò yī kāi shǐ kě néng bǐ jiào màn 。",
+      "tr": "Öğrenmek istiyorum ama başta yavaş olabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_076",
+      "speaker": "张雨桐",
+      "zh": "一边练习，一边记下要改进的地方。",
+      "pinyin": "yī biān liàn xí ， yī biān jì xià yào gǎi jìn de dì fāng 。",
+      "tr": "Pratik yaparken geliştireceklerimizi not ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_077",
+      "speaker": "刘梅",
+      "zh": "第一次来的客人要不要给点优惠？",
+      "pinyin": "dì yī cì lái de kè rén yào bù yào gěi diǎn yōu huì ？",
+      "tr": "İlk kez gelen müşterilere indirim yapalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_078",
+      "speaker": "张伟",
+      "zh": "可以送一小块点心，请他们尝尝。",
+      "pinyin": "kě yǐ sòng yī xiǎo kuài diǎn xīn ， qǐng tā men cháng cháng 。",
+      "tr": "Küçük bir tatlı ikram edip tatmalarını sağlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_079",
+      "speaker": "顾客",
+      "zh": "他们喜欢的话，也许会带朋友再来。",
+      "pinyin": "tā men xǐ huān de huà ， yě xǔ huì dài péng yǒu zài lái 。",
+      "tr": "Beğenirlerse arkadaşlarını getirip tekrar gelebilirler."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_080",
+      "speaker": "张雨桐",
+      "zh": "先算好成本，再决定送多少。",
+      "pinyin": "xiān suàn hǎo chéng běn ， zài jué dìng sòng duō shǎo 。",
+      "tr": "Önce maliyeti hesaplayıp ne kadar ikram edeceğimize karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_081",
+      "speaker": "刘梅",
+      "zh": "开业前请朋友来试营业怎么样？",
+      "pinyin": "kāi yè qián qǐng péng yǒu lái shì yíng yè zěn me yàng ？",
+      "tr": "Açılıştan önce arkadaşları deneme açılışına çağırsak mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_082",
+      "speaker": "张伟",
+      "zh": "好，他们能告诉我们哪里不方便。",
+      "pinyin": "hǎo ， tā men néng gào sù wǒ men nǎ lǐ bù fāng biàn 。",
+      "tr": "Olur, nerelerin kullanışsız olduğunu söylerler."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_083",
+      "speaker": "顾客",
+      "zh": "我请几位同事，也请他们带孩子来。",
+      "pinyin": "wǒ qǐng jǐ wèi tóng shì ， yě qǐng tā men dài hái zi lái 。",
+      "tr": "Birkaç iş arkadaşımı ve çocuklarını çağırırım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_084",
+      "speaker": "张雨桐",
+      "zh": "先开半天，遇到问题就记下来调整。",
+      "pinyin": "xiān kāi bàn tiān ， yù dào wèn tí jiù jì xià lái tiáo zhěng 。",
+      "tr": "Önce yarım gün açalım; sorun olursa not edip düzeltiriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_085",
+      "speaker": "刘梅",
+      "zh": "如果客人等咖啡等得太久怎么办？",
+      "pinyin": "rú guǒ kè rén děng kā fēi děng dé tài jiǔ zěn me bàn ？",
+      "tr": "Müşteri kahvesini çok beklerse ne yaparız?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_086",
+      "speaker": "张伟",
+      "zh": "先告诉他要等多久，忙的时候也要礼貌解释。",
+      "pinyin": "xiān gào sù tā yào děng duō jiǔ ， máng de shí hòu yě yào lǐ mào jiě shì 。",
+      "tr": "Ne kadar bekleyeceğini söyleyip yoğunken de nazikçe açıklarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_087",
+      "speaker": "顾客",
+      "zh": "常点的饮料可以提前准备好材料。",
+      "pinyin": "cháng diǎn de yǐn liào kě yǐ tí qián zhǔn bèi hǎo cái liào 。",
+      "tr": "Sık sipariş edilen içeceklerin malzemelerini önceden hazırlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_088",
+      "speaker": "张雨桐",
+      "zh": "准备充分，服务就能更快。",
+      "pinyin": "zhǔn bèi chōng fèn ， fú wù jiù néng gèng kuài 。",
+      "tr": "İyi hazırlanırsak daha hızlı hizmet veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_089",
+      "speaker": "刘梅",
+      "zh": "开店以后怎么让附近的人知道？",
+      "pinyin": "kāi diàn yǐ hòu zěn me ràng fù jìn de rén zhī dào ？",
+      "tr": "Açıldıktan sonra çevredekilere nasıl duyururuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_090",
+      "speaker": "张伟",
+      "zh": "门口放块小黑板，写上当天的点心。",
+      "pinyin": "mén kǒu fàng kuài xiǎo hēi bǎn ， xiě shàng dàng tiān de diǎn xīn 。",
+      "tr": "Kapıya küçük bir tahta koyup günlük tatlıları yazarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_091",
+      "speaker": "顾客",
+      "zh": "我也可以在社区群里发菜单照片。",
+      "pinyin": "wǒ yě kě yǐ zài shè qū qún lǐ fà cài dān zhào piān 。",
+      "tr": "Mahalle grubunda menünün fotoğrafını da paylaşabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_092",
+      "speaker": "张雨桐",
+      "zh": "先问大家愿不愿意收消息，别一直发广告。",
+      "pinyin": "xiān wèn dà jiā yuàn bù yuàn yì shōu xiāo xī ， bié yì zhí fā guǎng gào 。",
+      "tr": "Önce mesaj almak isteyip istemediklerini soralım, sürekli reklam yapmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_093",
+      "speaker": "刘梅",
+      "zh": "我们什么时候能把店准备好？",
+      "pinyin": "wǒ men shén me shí hòu néng bǎ diàn zhǔn bèi hǎo ？",
+      "tr": "Dükkânı ne zamana kadar hazır edebiliriz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_094",
+      "speaker": "张伟",
+      "zh": "装修可能要两周，设备到货时间也得确认。",
+      "pinyin": "zhuāng xiū kě néng yào liǎng zhōu ， shè bèi dào huò shí jiān yě dé què rèn 。",
+      "tr": "Tadilat iki hafta sürebilir, ekipmanın gelişini de teyit edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_095",
+      "speaker": "顾客",
+      "zh": "那先联系工人，再定开业日期。",
+      "pinyin": "nà xiān lián xì gōng rén ， zài dìng kāi yè rì qī 。",
+      "tr": "Önce ustalarla görüşüp açılış tarihini belirleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_096",
+      "speaker": "张雨桐",
+      "zh": "时间定下来再告诉朋友和附近的客人。",
+      "pinyin": "shí jiān dìng xià lái zài gào sù péng yǒu hé fù jìn de kè rén 。",
+      "tr": "Tarih netleşince arkadaşlara ve çevredekilere haber veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_097",
+      "speaker": "刘梅",
+      "zh": "今天主要的想法都谈到了。",
+      "pinyin": "jīn tiān zhǔ yào de xiǎng fǎ dōu tán dào le 。",
+      "tr": "Bugün temel fikirleri konuştuk."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_098",
+      "speaker": "张伟",
+      "zh": "我整理菜单和营业时间的想法。",
+      "pinyin": "wǒ zhěng lǐ cài dān hé yíng yè shí jiān de xiǎng fǎ 。",
+      "tr": "Menü ve çalışma saatleriyle ilgili fikirleri düzenlerim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_099",
+      "speaker": "顾客",
+      "zh": "我去量店面，也联系供应商。",
+      "pinyin": "wǒ qù liàng diàn miàn ， yě lián xì gōng yìng shāng 。",
+      "tr": "Dükkânı ölçüp tedarikçilerle görüşürüm."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC006_100",
+      "speaker": "张雨桐",
+      "zh": "我会把这些想法记下来，下次一起讨论咖啡馆的未来计划。",
+      "pinyin": "wǒ huì bǎ zhè xiē xiǎng fǎ jì xià lái ， xià cì yì qǐ tǎo lùn kā fēi guǎn de wèi lái jì huà 。",
+      "tr": "Bu fikirleri not edeceğim; bir dahaki sefere kafenin gelecek planını birlikte konuşalım."
+    }
+  ]
+}

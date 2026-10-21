@@ -24,7 +24,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 @Composable
-fun SettingsScreen(
+fun AdvancedSettingsScreen(
     progress: ProgressStore,
     onBack: () -> Unit,
     onThemeChanged: (Int) -> Unit,

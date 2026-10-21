@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC013.json",
-  "dialogueSha256": "9662cce0ea8bc37a0a84750c671042f31720dc9ae4e72e7d5cc63f0f000243fe",
+  "dialogueSha256": "0f7805324eaada85ba66021527c19bf6dffe1c66ed3ba39c9517882fb4a00b3d",
   "titleZh": "第二次面试成功",
   "titleTr": "İkinci Görüşmede Başarı",
   "locationId": "LOC_ZH_WORKPLACE_001",

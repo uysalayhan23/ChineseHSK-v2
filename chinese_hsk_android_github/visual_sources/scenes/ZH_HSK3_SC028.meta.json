@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC028.json",
-  "dialogueSha256": "72ed38abd4713448b3789dc377ebe71fcbeac8ba68913548e7224cc58f4cc855",
+  "dialogueSha256": "775babbc447db81f122bea333b161dacaf25fe912f949117a66b31d5e258a266",
   "titleTr": "Zhang’ın İş Gezisi",
   "locationId": "LOC_ZH_TRAVEL_STATION_001",
   "scenePurposeTr": "Zhang birkaç günlük iş seyahatine çıkar; Liu Mei onu uğurlar, görevli ve iş arkadaşı yolculuk düzenini konuşur.",
@@ -50,7 +50,7 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "7793abe2772d0f40da22ad2d75fefffaf97571000aae18aefcee9d412ffb179c"
+    "sha256": "ea17c03a3eedb024076fdc2772507db9a0ed57a92c24ee7c0cd40ad094d8d501"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -72,5 +72,13 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: Önceki HSK3 final sahnelerinin karakter yüzü, yaş olgunluğu, mekân ve sıcak ışık dili korunarak kullanıcı onayı sonrası entegre edildi."
+  "qaNoteTr": "Terminal görevlisinin konuşma ağzını görünür kılmak için yalnız baş bölgesi seçici biçimde düzeltildi; dış maskede decoded pikseller aynı, SSIM 0.9845.",
+  "postGenerationVisualQA": {
+    "mouthVisibilityQA": "PASS",
+    "localEditMaskPixelRatio": 0.03245,
+    "decodedPixelsOutsideMaskExact": true,
+    "fullImageSSIM11x11": 0.9845,
+    "dialogueTextQA": "PASS",
+    "dialogueNaturalizationTurns": 100
+  }
 }

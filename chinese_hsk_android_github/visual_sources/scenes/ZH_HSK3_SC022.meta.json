@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC022",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC022.json",
-  "dialogueSha256": "230bb7280d39c742e68ab0daa5217b9f1aa929ea1c82c708ccc335673dee5225",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC022.json",
+  "dialogueSha256": "702e25cb0e5a32493c1d6018ee552205651c1b671e0305e8258b189e6070bbf1",
   "titleTr": "Kahve Makinesi Bozuluyor",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Yoğun saatte kahve makinesi durur ve ekip hızlı çözüm arar.",
@@ -49,7 +49,7 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "1bcfed28db6b532d15ee9842173a3dee91c8d146ec3d40acc92bdcafcf3770ae"
+    "sha256": "89b0957b7c33a29b497b63559988791bb2bd16a92d56d87ba429fd3c8955615d"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -71,5 +71,25 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: Önceki HSK3 final sahnelerinin karakter yüzü, yaş olgunluğu, mekân ve sıcak ışık dili korunarak kullanıcı onayı sonrası entegre edildi."
+  "qaNoteTr": "LOCKED_V2 ve konuşma balonu QA PASS: müşteri profiline yalnız ağız bölgesinde hedefli düzeltme uygulandı. 2.5D/3D CGI, ekip, kafe kompozisyonu ve espresso makinesi korundu; 941×1672, SSIM 0.99960, maske dışındaki pikseller birebir aynı, app/runtime SHA eşleşti.",
+  "postGenerationVisualQA": {
+    "dialogueTextQA": "PASS",
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "appRuntimeMirrorBlobMatch": true,
+    "localizedMouthRepair": true,
+    "ssim": 0.9996,
+    "pixelsOutsideMaskExact": true,
+    "mouthVisibleForCustomer": true
+  },
+  "finalAssetBlobSha": "739562e7ff2d14b2fdceba9b2ddca9ee78b02a97",
+  "imageGitBlobSha": "739562e7ff2d14b2fdceba9b2ddca9ee78b02a97",
+  "allDialogueSpeakersVisible": true
 }

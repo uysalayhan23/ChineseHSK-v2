@@ -1,0 +1,712 @@
+{
+  "naturalizationVersion": 25,
+  "status": "FINAL_NATIVE_RELEASE_CANDIDATE_V25",
+  "sceneId": "ZH_HSK1_SC048",
+  "level": "HSK1",
+  "sceneCategory": "community",
+  "sourceTitleZh": "社区活动",
+  "sourceTitleTr": "Mahalle Etkinliği",
+  "sourceMiniAdventureTr": "Aile yerel bir topluluk etkinliğine katılıp yeni insanlarla tanışır.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK1_SC048_001",
+      "speaker": "张伟",
+      "zh": "今天社区有活动，我们一家人都来看看。",
+      "pinyin": "Jīntiān shèqū yǒu huódòng, wǒmen yījiārén dōu lái kànkàn.",
+      "tr": "Bugün mahallede etkinlik var, ailece görmeye geldik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_002",
+      "speaker": "刘梅",
+      "zh": "这里人真多，大家看起来都很开心。",
+      "pinyin": "Zhèlǐ rénzhēnduō, dàjiā kànqǐlái dōu hěn kāixīn.",
+      "tr": "Burada çok insan var, herkes mutlu görünüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_003",
+      "speaker": "社区工作人员",
+      "zh": "欢迎你们来，这是我们每月一次的社区活动。",
+      "pinyin": "Huānyíng nǐmen lái, zhèshì wǒmen měiyuè yīcì de shèqūhuódòng.",
+      "tr": "Hoş geldiniz, bu mahallemizde her ay yapılan bir etkinlik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_004",
+      "speaker": "新朋友",
+      "zh": "你们也是刚到这里吗？我以前没见过你们。",
+      "pinyin": "Nǐmen yě shì gāng dào zhèlǐ ma? wǒ yǐqián méijiàn guò nǐmen.",
+      "tr": "Siz de yeni mi geldiniz? Daha önce sizi görmemiştim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_005",
+      "speaker": "张伟",
+      "zh": "对，我们刚搬来不久，想认识一些朋友。",
+      "pinyin": "Duì, wǒmen gāng bān lái bùjiǔ, xiǎng rènshí yīxiē péngyǒu.",
+      "tr": "Evet, kısa süre önce taşındık, biraz arkadaş edinmek istiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_006",
+      "speaker": "刘梅",
+      "zh": "以后有活动我们都会来，也想帮点儿忙。",
+      "pinyin": "Yǐhòu yǒu huódòng wǒmen dōu huì lái, yě xiǎng bāng diǎnér máng.",
+      "tr": "Bundan sonra etkinliklere gelir, yardım da ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_007",
+      "speaker": "社区工作人员",
+      "zh": "太好了，这里常常有家人一起参加的活动。",
+      "pinyin": "Tàihǎole, zhèlǐ chángcháng yǒu jiārén yìqǐ cānjiā de huódòng.",
+      "tr": "Harika, burada ailelerin katıldığı etkinlikler sık sık olur."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_008",
+      "speaker": "新朋友",
+      "zh": "我住在前面那栋楼，今天也和家人一起来。",
+      "pinyin": "Wǒ zhù zài qiánmiàn nàdòng lóu, jīntiān yě hé jiārén yī qǐlái.",
+      "tr": "Öndeki binada oturuyorum, bugün ben de ailemle geldim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_009",
+      "speaker": "张伟",
+      "zh": "那我们以后就是邻居了，见面可以打招呼。",
+      "pinyin": "Nà wǒmen yǐhòu jiùshì línjū le, jiànmiàn kěyǐ dǎzhāohū.",
+      "tr": "O zaman komşuyuz, karşılaşınca selamlaşırız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_010",
+      "speaker": "刘梅",
+      "zh": "是啊，认识新朋友真好。",
+      "pinyin": "Shì a, rènshí xīn péngyǒu zhēn hǎo.",
+      "tr": "Evet, yeni arkadaşlar edinmek güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_011",
+      "speaker": "社区工作人员",
+      "zh": "桌上有水和水果，大家可以先拿一点儿。",
+      "pinyin": "Zhuōshàng yǒushuǐ hé shuǐguǒ, dàjiā kěyǐ xiān ná yìdiǎnér.",
+      "tr": "Masada su ve meyve var, herkes biraz alabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_012",
+      "speaker": "新朋友",
+      "zh": "谢谢，我先给家人拿一杯水。",
+      "pinyin": "Xièxiè, wǒ xiān gěi jiārén ná yībēi shuǐ.",
+      "tr": "Teşekkürler, önce aileme bir bardak su alayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_013",
+      "speaker": "张伟",
+      "zh": "你们准备了很多东西，大家都在帮忙。",
+      "pinyin": "Nǐmen zhǔnbèi le hěnduō dōngxī, dàjiā dōu zài bāngmáng.",
+      "tr": "Çok şey hazırlamışsınız, herkes yardım ediyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_014",
+      "speaker": "刘梅",
+      "zh": "我们分了工作，有人摆桌子，有人准备饭。",
+      "pinyin": "Wǒmen fēn le gōngzuò, yǒurén bǎi zhuōzi, yǒurén zhǔnbèi fàn.",
+      "tr": "İşleri paylaştık; kimi masa kuruyor, kimi yemek hazırlıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_015",
+      "speaker": "社区工作人员",
+      "zh": "等一下还有一个小活动，大家可以一起参加。",
+      "pinyin": "Děng yīxià háiyǒu yígè xiǎo huódòng, dàjiā kěyǐ yìqǐ cānjiā.",
+      "tr": "Birazdan küçük bir etkinlik daha var, herkes katılabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_016",
+      "speaker": "新朋友",
+      "zh": "是什么活动？我们可以先听听吗？",
+      "pinyin": "Shì shénme huódòng? wǒmen kěyǐ xiān tīngtīng ma?",
+      "tr": "Ne etkinliği? Önce dinleyebilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_017",
+      "speaker": "张伟",
+      "zh": "社区工作人员会先说一下今天的安排。",
+      "pinyin": "Shèqū gōngzuòrényuán huìxiān shuō yīxià jīntiān de ānpái.",
+      "tr": "Mahalle çalışanı bugün neler yapılacağını anlatacak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_018",
+      "speaker": "刘梅",
+      "zh": "对，先介绍新朋友，再一起吃饭。",
+      "pinyin": "Duì, xiān jièshào xīn péngyǒu, zài yìqǐ chīfàn.",
+      "tr": "Evet, önce yeni arkadaşlarla tanışıp sonra birlikte yemek yiyeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_019",
+      "speaker": "社区工作人员",
+      "zh": "今天大家可以介绍自己，也可以说说喜欢什么活动。",
+      "pinyin": "Jīntiān dàjiā kěyǐ jièshào zìjǐ, yě kěyǐ shuō shuō xǐhuān shénme huódòng.",
+      "tr": "Bugün herkes kendini tanıtıp sevdiği etkinliklerden söz edebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_020",
+      "speaker": "新朋友",
+      "zh": "我喜欢一起做饭，也喜欢在外面散步。",
+      "pinyin": "Wǒ xǐhuān yìqǐ zuòfàn, yě xǐhuān zài wàimiàn sànbù.",
+      "tr": "Birlikte yemek yapmayı ve dışarıda yürümeyi severim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_021",
+      "speaker": "张伟",
+      "zh": "我们家人也喜欢散步，周末常去公园。",
+      "pinyin": "Wǒmen jiārén yě xǐhuān sànbù, zhōumò chángqù gōngyuán.",
+      "tr": "Ailece yürümeyi severiz, hafta sonları parka gideriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_022",
+      "speaker": "刘梅",
+      "zh": "我也常去公园，下次可以一起走走。",
+      "pinyin": "Wǒ yě chángqù gōngyuán, xiàcì kěyǐ yìqǐ zǒuzǒu.",
+      "tr": "Ben de sık sık parka giderim, bir dahaki sefere birlikte yürüyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_023",
+      "speaker": "社区工作人员",
+      "zh": "我们这里每周都有不同的社区活动。",
+      "pinyin": "Wǒmen zhèlǐ měizhōu dōu yǒu bùtóng de shèqūhuódòng.",
+      "tr": "Burada her hafta farklı mahalle etkinlikleri olur."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_024",
+      "speaker": "新朋友",
+      "zh": "下周是什么活动？我想提前安排时间。",
+      "pinyin": "Xiàzhōu shì shénme huódòng? wǒ xiǎng tíqián ānpái shíjiān.",
+      "tr": "Gelecek hafta hangi etkinlik var? Zamanımı önceden ayarlamak isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_025",
+      "speaker": "张伟",
+      "zh": "下周大家一起打扫花园，也会准备午饭。",
+      "pinyin": "Xiàzhōu dàjiā yìqǐ dǎsǎo huāyuán, yě huì zhǔnbèi wǔfàn.",
+      "tr": "Gelecek hafta bahçeyi temizleyip öğle yemeği hazırlayacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_026",
+      "speaker": "刘梅",
+      "zh": "我可以带家人来帮忙，孩子也能参加。",
+      "pinyin": "Wǒ kěyǐ dài jiārén lái bāngmáng, háizi yě néng cānjiā.",
+      "tr": "Ailemi yardıma getirebilirim, çocuklar da katılabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_027",
+      "speaker": "社区工作人员",
+      "zh": "当然可以，活动就是让大家一起做事。",
+      "pinyin": "Dāngrán kěyǐ, huódòng jiùshì ràng dàjiā yìqǐ zuòshì.",
+      "tr": "Elbette, etkinlikler herkesin birlikte çalışması için."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_028",
+      "speaker": "新朋友",
+      "zh": "听起来很好，我也愿意来。",
+      "pinyin": "Tīng qǐlái hěn hǎo, wǒ yě yuànyì lái.",
+      "tr": "Kulağa güzel geliyor, ben de gelmek isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_029",
+      "speaker": "张伟",
+      "zh": "那我们先把名字写在这里，方便联系。",
+      "pinyin": "Nà wǒmen xiān bǎ míngzì xiě zài zhèlǐ, fāngbiàn liánxì.",
+      "tr": "O zaman haberleşmek için isimlerimizi buraya yazalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_030",
+      "speaker": "刘梅",
+      "zh": "好，我写下我们一家的名字。",
+      "pinyin": "Hǎo, wǒ xiěxià wǒmen yījiā de míngzì.",
+      "tr": "Olur, ailemizin adını yazıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_031",
+      "speaker": "社区工作人员",
+      "zh": "我也记下了你们的名字，欢迎加入。",
+      "pinyin": "Wǒ yě jìxià le nǐmen de míngzì, huānyíng jiārù.",
+      "tr": "Sizin adınızı da not aldım, aramıza hoş geldiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_032",
+      "speaker": "新朋友",
+      "zh": "谢谢，以后我们会常来参加活动。",
+      "pinyin": "Xièxiè, yǐhòu wǒmen huìchánglái cānjiā huódòng.",
+      "tr": "Teşekkürler, bundan sonra etkinliklere sık sık geliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_033",
+      "speaker": "张伟",
+      "zh": "你们以前也住在别的社区吗？",
+      "pinyin": "Nǐmen yǐqián yě zhù zài biéde shèqū ma?",
+      "tr": "Daha önce başka bir mahallede de oturdunuz mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_034",
+      "speaker": "刘梅",
+      "zh": "住过，不过这里的人更容易认识。",
+      "pinyin": "Zhù guò, bùguò zhèlǐ de rén gèng róngyì rènshí.",
+      "tr": "Oturduk ama burada insanlarla tanışmak daha kolay."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_035",
+      "speaker": "社区工作人员",
+      "zh": "大家多见几次，就会慢慢熟悉。",
+      "pinyin": "Dàjiā duōjiàn jǐcì, jiù huì mànmàn shúxī.",
+      "tr": "Birkaç kez karşılaşınca yavaş yavaş tanışırsınız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_036",
+      "speaker": "新朋友",
+      "zh": "我来这里半年了，已经认识不少朋友。",
+      "pinyin": "Wǒlái zhèlǐ bànnián le, yǐjīng rènshí bùshǎo péngyǒu.",
+      "tr": "Buraya geleli altı ay oldu, birçok arkadaş edindim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_037",
+      "speaker": "张伟",
+      "zh": "你平时也参加这些活动吗？",
+      "pinyin": "Nǐ píngshí yě cānjiā zhèxiē huódòng ma?",
+      "tr": "Bu etkinliklere normalde de katılır mısın?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_038",
+      "speaker": "刘梅",
+      "zh": "有空我就来，特别喜欢大家一起吃饭。",
+      "pinyin": "Yǒukòng wǒ jiù lái, tèbié xǐhuān dàjiā yìqǐ chīfàn.",
+      "tr": "Vaktim olunca gelirim, özellikle birlikte yemek yemeyi severim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_039",
+      "speaker": "社区工作人员",
+      "zh": "今天的饭是大家一起准备的。",
+      "pinyin": "Jīntiān de fàn shì dàjiā yìqǐ zhǔnbèi de.",
+      "tr": "Bugünkü yemeği herkes birlikte hazırladı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_040",
+      "speaker": "新朋友",
+      "zh": "闻起来很香，我也想帮忙拿盘子。",
+      "pinyin": "Wén qǐlái hěnxiāng, wǒ yě xiǎng bāngmáng ná pánzi.",
+      "tr": "Çok güzel kokuyor, tabakları taşımaya yardım edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_041",
+      "speaker": "张伟",
+      "zh": "盘子在桌子下面，我和你一起拿。",
+      "pinyin": "Pánzi zài zhuōzi xiàmiàn, wǒ hé nǐ yìqǐ ná.",
+      "tr": "Tabaklar masanın altında, birlikte alalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_042",
+      "speaker": "刘梅",
+      "zh": "谢谢，大家一起做就快很多。",
+      "pinyin": "Xièxiè, dàjiā yìqǐ zuò jiù kuài hěnduō.",
+      "tr": "Teşekkürler, birlikte yapınca çok daha çabuk oluyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_043",
+      "speaker": "社区工作人员",
+      "zh": "等人都到齐，我们就开始吃饭。",
+      "pinyin": "Děng rén dōu dào qí, wǒmen jiù kāishǐ chīfàn.",
+      "tr": "Herkes gelince yemeğe başlayacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_044",
+      "speaker": "新朋友",
+      "zh": "我去叫家人过来，大家都在那边。",
+      "pinyin": "Wǒ qù jiào jiārén guòlái, dàjiā dōu zài nàbiān.",
+      "tr": "Ailemi çağırayım, hepsi şurada."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_045",
+      "speaker": "张伟",
+      "zh": "今天来了很多人，认识新朋友很开心。",
+      "pinyin": "Jīntiān lái le hěnduō rén, rènshí xīn péngyǒu hěn kāixīn.",
+      "tr": "Bugün çok insan geldi, yeni arkadaşlarla tanışmak güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_046",
+      "speaker": "刘梅",
+      "zh": "以后你们想办什么活动，也可以告诉我们。",
+      "pinyin": "Yǐhòu nǐmen xiǎngbàn shénme huódòng, yě kěyǐ gàosù wǒmen.",
+      "tr": "Bundan sonra yapmak istediğiniz etkinlikleri bize de söyleyebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_047",
+      "speaker": "社区工作人员",
+      "zh": "我想有一次大家一起做蛋糕的活动。",
+      "pinyin": "Wǒ xiǎng yǒu yīcì dàjiā yìqǐ zuò dàngāo de huódòng.",
+      "tr": "Bir gün herkesin birlikte kek yaptığı bir etkinlik istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_048",
+      "speaker": "新朋友",
+      "zh": "这个想法不错，小朋友一定会喜欢。",
+      "pinyin": "Zhège xiǎngfǎ bùcuò, xiǎopéngyǒu yídìng huì xǐhuān.",
+      "tr": "Güzel fikir, çocuklar kesin sever."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_049",
+      "speaker": "张伟",
+      "zh": "大人也可以一起做，做完大家一起吃。",
+      "pinyin": "Dàrén yě kěyǐ yìqǐ zuò, zuò wán dàjiā yìqǐ chī.",
+      "tr": "Yetişkinler de yapar, bitince hep beraber yeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_050",
+      "speaker": "刘梅",
+      "zh": "那我来问问大家，看看哪天有空。",
+      "pinyin": "Nà wǒ lái wènwèn dàjiā, kànkàn nǎ tiān yǒukòng.",
+      "tr": "O zaman herkese sorup kimlerin müsait olduğuna bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_051",
+      "speaker": "社区工作人员",
+      "zh": "如果需要帮忙，我可以带一些东西来。",
+      "pinyin": "Rúguǒ xūyào bāngmáng, wǒ kěyǐ dài yīxiē dōngxī lái.",
+      "tr": "Yardım gerekirse birkaç şey getirebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_052",
+      "speaker": "新朋友",
+      "zh": "我也能帮忙摆桌子和收拾。",
+      "pinyin": "Wǒ yě néng bāngmáng bǎi zhuōzi hé shōushí.",
+      "tr": "Masaları kurup toplamaya ben de yardım edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_053",
+      "speaker": "张伟",
+      "zh": "有你们参加，活动会更热闹。",
+      "pinyin": "Yǒu nǐmen cānjiā, huódòng huì gèng rènào.",
+      "tr": "Siz de katılınca etkinlik daha neşeli olur."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_054",
+      "speaker": "刘梅",
+      "zh": "刚搬来就认识大家，我觉得很幸运。",
+      "pinyin": "Gāng bān lái jiù rènshí dàjiā, wǒ juéde hěn xìngyùn.",
+      "tr": "Yeni taşınıp herkesle tanıştığımız için kendimizi şanslı hissediyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_055",
+      "speaker": "社区工作人员",
+      "zh": "这里的家人和朋友都很热心。",
+      "pinyin": "Zhèlǐ de jiārén hé péngyǒu dōu hěn rèxīn.",
+      "tr": "Buradaki aileler ve arkadaşlar çok yardımsever."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_056",
+      "speaker": "新朋友",
+      "zh": "我来以后也常常得到大家的帮助。",
+      "pinyin": "Wǒlái yǐhòu yě chángcháng dédào dàjiā de bāngzhù.",
+      "tr": "Ben de geldiğimden beri herkesten sık sık yardım gördüm."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_057",
+      "speaker": "张伟",
+      "zh": "我们以后也可以帮新来的朋友。",
+      "pinyin": "Wǒmen yǐhòu yě kěyǐ bāngxīnlái de péngyǒu.",
+      "tr": "Biz de bundan sonra yeni taşınanlara yardım edebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_058",
+      "speaker": "刘梅",
+      "zh": "对，先认识一个人，再认识更多人。",
+      "pinyin": "Duì, xiān rènshí yígè rén, zài rènshí gèngduōrén.",
+      "tr": "Evet, önce bir kişiyle tanışıp sonra daha fazlasıyla tanışırsınız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_059",
+      "speaker": "社区工作人员",
+      "zh": "吃完饭大家还要一起听音乐。",
+      "pinyin": "Chīwánfàn dàjiā háiyào yìqǐ tīng yīnyuè.",
+      "tr": "Yemekten sonra hep birlikte müzik dinleyeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_060",
+      "speaker": "新朋友",
+      "zh": "我很喜欢音乐，这个活动我也想参加。",
+      "pinyin": "Wǒ hěn xǐhuān yīnyuè, zhège huódòng wǒ yě xiǎng cānjiā.",
+      "tr": "Müziği çok severim, bu etkinliğe de katılmak isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_061",
+      "speaker": "张伟",
+      "zh": "那你一会儿可以坐在我们旁边。",
+      "pinyin": "Nà nǐ yīhuìer kěyǐ zuòzài wǒmen pángbiān.",
+      "tr": "O zaman birazdan yanımıza oturabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_062",
+      "speaker": "刘梅",
+      "zh": "一会儿我把家人介绍给你，大家一起聊聊。",
+      "pinyin": "Yīhuìer wǒ bǎ jiārén jièshào gěi nǐ, dàjiā yìqǐ liáoliáo.",
+      "tr": "Birazdan ailemi sana tanıtırım, hep birlikte sohbet ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_063",
+      "speaker": "社区工作人员",
+      "zh": "好，大家先坐下，活动马上就开始。",
+      "pinyin": "Hǎo, dàjiā xiān zuòxià, huódòng mǎshàng jiù kāishǐ.",
+      "tr": "Peki, herkes önce otursun, etkinlik hemen başlayacak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_064",
+      "speaker": "新朋友",
+      "zh": "我先给大家倒水，等会儿再说。",
+      "pinyin": "Wǒ xiān gěi dàjiā dàoshuǐ, děnghuìer zàishuō.",
+      "tr": "Önce herkese su koyayım, sonra konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_065",
+      "speaker": "张伟",
+      "zh": "水放在这边，桌上还有茶。",
+      "pinyin": "Shuǐ fàngzài zhèbiān, zhuōshàng háiyǒu chá.",
+      "tr": "Su burada, masada çay da var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_066",
+      "speaker": "刘梅",
+      "zh": "我喝水就好，谢谢。",
+      "pinyin": "Wǒ hēshuǐ jiù hǎo, xièxiè.",
+      "tr": "Su yeter, teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_067",
+      "speaker": "社区工作人员",
+      "zh": "饭已经准备好了，大家请坐。",
+      "pinyin": "Fàn yǐjīng zhǔnbèi hǎo le, dàjiā qǐng zuò.",
+      "tr": "Yemek hazır, lütfen oturun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_068",
+      "speaker": "新朋友",
+      "zh": "我来给新朋友留一个位置。",
+      "pinyin": "Wǒlái gěi xīn péngyǒu liú yígè wèizhì.",
+      "tr": "Yeni arkadaşımıza bir yer ayırayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_069",
+      "speaker": "张伟",
+      "zh": "大家坐在一起聊天，很快就能认识。",
+      "pinyin": "Dàjiā zuòzài yìqǐ liáotiān, hěnkuài jiù néng rènshí.",
+      "tr": "Hep birlikte oturup sohbet edersek çabucak tanışırız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_070",
+      "speaker": "刘梅",
+      "zh": "社区活动每周都在这里举行吗？",
+      "pinyin": "Shèqūhuódòng měizhōu dōu zài zhèlǐ jǔxíng ma?",
+      "tr": "Mahalle etkinliği her hafta burada mı yapılıyor?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_071",
+      "speaker": "社区工作人员",
+      "zh": "是的，附近的人走几分钟就到。",
+      "pinyin": "Shì de, fùjìn de rén zǒu jǐfēnzhōng jiù dào.",
+      "tr": "Evet, yakındaki insanlar birkaç dakikada yürüyerek geliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_072",
+      "speaker": "新朋友",
+      "zh": "我也住得很近，以后可以一起走过来。",
+      "pinyin": "Wǒ yě zhù dé hěn jìn, yǐhòu kěyǐ yìqǐ zǒu guòlái.",
+      "tr": "Ben de yakında oturuyorum, bundan sonra birlikte yürüyerek gelebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_073",
+      "speaker": "张伟",
+      "zh": "好啊，路上还能说说家里的事。",
+      "pinyin": "Hǎo a, lùshàng hái néng shuō shuō jiālǐ de shì.",
+      "tr": "Olur, yolda ailelerimizden de konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_074",
+      "speaker": "刘梅",
+      "zh": "社区活动让邻居更熟悉，真的很好。",
+      "pinyin": "Shèqūhuódòng ràng línjū gèng shúxī, zhēnde hěn hǎo.",
+      "tr": "Mahalle etkinlikleri komşuları birbirine yaklaştırıyor, çok güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_075",
+      "speaker": "社区工作人员",
+      "zh": "以后我们会提前告诉你们活动时间。",
+      "pinyin": "Yǐhòu wǒmen huì tíqián gàosù nǐmen huódòng shíjiān.",
+      "tr": "Bundan sonra etkinliklerin saatini önceden size söyleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_076",
+      "speaker": "新朋友",
+      "zh": "谢谢，这样我们就能安排好时间。",
+      "pinyin": "Xièxiè, zhèyàng wǒmen jiù néng ānpái hǎo shíjiān.",
+      "tr": "Teşekkürler, böylece zamanımızı ayarlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_077",
+      "speaker": "张伟",
+      "zh": "今天我认识了好几个人，也记住了他们的名字。",
+      "pinyin": "Jīntiān wǒ rènshí le hǎojǐgè rén, yě jìzhù le tāmen de míngzì.",
+      "tr": "Bugün birkaç kişiyle tanıştım ve isimlerini de aklımda tuttum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_078",
+      "speaker": "刘梅",
+      "zh": "我也记住你们了，下次见面再一起吃饭。",
+      "pinyin": "Wǒ yě jìzhù nǐmen le, xiàcì jiànmiàn zài yìqǐ chīfàn.",
+      "tr": "Ben de sizi hatırlayacağım, bir dahaki sefere yine birlikte yeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_079",
+      "speaker": "社区工作人员",
+      "zh": "下次可以请更多朋友和家人来。",
+      "pinyin": "Xiàcì kěyǐ qǐng gèng duō péngyǒu hé jiārén lái.",
+      "tr": "Bir dahaki sefere daha çok arkadaş ve aile üyesini davet edebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_080",
+      "speaker": "新朋友",
+      "zh": "人多一点儿，活动就更有意思。",
+      "pinyin": "Rén duōyìdiǎnér, huódòng jiù gèng yǒuyìsi.",
+      "tr": "İnsan sayısı biraz artınca etkinlik daha eğlenceli olur."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_081",
+      "speaker": "张伟",
+      "zh": "我很喜欢今天的安排，吃饭聊天都很好。",
+      "pinyin": "Wǒ hěn xǐhuān jīntiān de ānpái, chīfàn liáotiān dōu hěn hǎo.",
+      "tr": "Bugünkü etkinliği çok sevdim, yemek ve sohbet güzeldi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_082",
+      "speaker": "刘梅",
+      "zh": "谢谢大家一起帮忙，桌子很快就摆好了。",
+      "pinyin": "Xièxiè dàjiā yìqǐ bāngmáng, zhuōzi hěnkuài jiù bǎihǎo le.",
+      "tr": "Herkes yardım ettiği için sağ olun, masalar hemen kuruldu."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_083",
+      "speaker": "社区工作人员",
+      "zh": "下次我们也可以一起准备饭。",
+      "pinyin": "Xiàcì wǒmen yě kěyǐ yìqǐ zhǔnbèi fàn.",
+      "tr": "Bir dahaki sefere yemeği birlikte hazırlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_084",
+      "speaker": "新朋友",
+      "zh": "好，我家人愿意来帮忙。",
+      "pinyin": "Hǎo, wǒjiā rén yuànyì lái bāngmáng.",
+      "tr": "Olur, ailem yardıma gelmek ister."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_085",
+      "speaker": "张伟",
+      "zh": "我们也会来，还可以带一些水果。",
+      "pinyin": "Wǒmen yě huì lái, hái kěyǐ dài yīxiē shuǐguǒ.",
+      "tr": "Biz de gelir, biraz meyve getiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_086",
+      "speaker": "刘梅",
+      "zh": "太好了，大家带一点儿东西就够了。",
+      "pinyin": "Tàihǎole, dàjiā dài yìdiǎnér dōngxī jiùgòu le.",
+      "tr": "Harika, herkes biraz bir şey getirirse yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_087",
+      "speaker": "社区工作人员",
+      "zh": "活动不需要很大，大家聚在一起就好。",
+      "pinyin": "Huódòng bù xūyào hěndà, dàjiā jùzàiyìqǐ jiù hǎo.",
+      "tr": "Etkinliğin büyük olmasına gerek yok, hepimizin bir araya gelmesi yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_088",
+      "speaker": "新朋友",
+      "zh": "对，我今天认识朋友就很开心。",
+      "pinyin": "Duì, wǒ jīntiān rènshí péngyǒu jiù hěn kāixīn.",
+      "tr": "Evet, bugün arkadaş edinmek bile beni mutlu etti."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_089",
+      "speaker": "张伟",
+      "zh": "那我们先把桌子收好，再一起听音乐。",
+      "pinyin": "Nà wǒmen xiān bǎ zhuōzi shōu hǎo, zài yìqǐ tīng yīnyuè.",
+      "tr": "O zaman önce masayı toparlayıp sonra müzik dinleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_090",
+      "speaker": "刘梅",
+      "zh": "我把盘子拿去洗，谁来收水杯？",
+      "pinyin": "Wǒ bǎ pánzi ná qù xǐ, shuí lái shōu shuǐbēi?",
+      "tr": "Tabakları yıkamaya götüreyim, bardakları kim toplar?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_091",
+      "speaker": "社区工作人员",
+      "zh": "我来收杯子，大家分开做很快就好。",
+      "pinyin": "Wǒlái shōu bēizi, dàjiā fēnkāi zuò hěnkuài jiù hǎo.",
+      "tr": "Bardakları ben toplarım, paylaşınca çabuk biter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_092",
+      "speaker": "新朋友",
+      "zh": "我帮工作人员把桌子擦干净。",
+      "pinyin": "Wǒ bāng gōngzuòrényuán bǎ zhuōzi cā gānjìng.",
+      "tr": "Görevliye masaları temizlemede yardım edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_093",
+      "speaker": "张伟",
+      "zh": "谢谢大家，今天认识新朋友很开心。",
+      "pinyin": "Xièxiè dàjiā, jīntiān rènshí xīn péngyǒu hěn kāixīn.",
+      "tr": "Teşekkürler, bugün yeni arkadaşlarla tanışmak güzeldi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_094",
+      "speaker": "刘梅",
+      "zh": "我们也很高兴你们来参加活动。",
+      "pinyin": "Wǒmen yě hěn gāoxìng nǐmen lái cānjiā huódòng.",
+      "tr": "Etkinliğimize katılmanıza biz de sevindik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_095",
+      "speaker": "社区工作人员",
+      "zh": "下个月还有活动，欢迎你们全家再来。",
+      "pinyin": "Xiàgèyuè háiyǒu huódòng, huānyíng nǐmen quánjiā zài lái.",
+      "tr": "Gelecek ay yine etkinlik var, tüm ailenizle bekleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_096",
+      "speaker": "新朋友",
+      "zh": "好，下次我们会早点儿到。",
+      "pinyin": "Hǎo, xiàcì wǒmen huì zǎodiǎnér dào.",
+      "tr": "Olur, bir dahaki sefere daha erken geliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_097",
+      "speaker": "张伟",
+      "zh": "今天大家认识了，以后见面就不陌生了。",
+      "pinyin": "Jīntiān dàjiā rènshí le, yǐhòu jiànmiàn jiù bù mòshēng le.",
+      "tr": "Bugün tanıştık, bundan sonra karşılaşınca yabancı olmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_098",
+      "speaker": "刘梅",
+      "zh": "是啊，这个活动让我们交了新朋友。",
+      "pinyin": "Shì a, zhège huódòng ràng wǒmen jiāole xīn péngyǒu.",
+      "tr": "Evet, bu etkinlik sayesinde yeni arkadaşlar edindik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_099",
+      "speaker": "社区工作人员",
+      "zh": "下个月的活动时间，我会提前告诉你们。",
+      "pinyin": "Xiàgèyuè de huódòng shíjiān, wǒhuì tíqián gàosù nǐmen.",
+      "tr": "Gelecek ayki etkinlik saatini size önceden bildiririm."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC048_100",
+      "speaker": "新朋友",
+      "zh": "谢谢，我们到时候带家人一起来。",
+      "pinyin": "Xièxiè, wǒmen dàoshíhòu dài jiārén yī qǐlái.",
+      "tr": "Teşekkürler, o zaman ailemizi de getiririz."
+    }
+  ]
+}

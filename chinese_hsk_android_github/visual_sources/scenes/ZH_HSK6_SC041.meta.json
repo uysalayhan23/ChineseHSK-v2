@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC041.json",
-  "dialogueSha256": "67e1cec6321c25d62f783393fc462b6c406e98d16c3c929f5259c3e6fe0452a8",
+  "dialogueSha256": "52ca3c074d3832041e2c17cd40bde4a9bd4430e3fefe61aacd2c4ecc9b21c3f1",
   "titleZh": "张伟的健康提醒",
   "titleTr": "Zhang’ın Sağlık Uyarısı",
   "locationId": "LOC_ZH_HOSPITAL_001",

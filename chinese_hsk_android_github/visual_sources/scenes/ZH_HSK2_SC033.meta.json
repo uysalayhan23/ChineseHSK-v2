@@ -4,7 +4,7 @@
   "generationSceneId": "ZH_HSK2_SC033",
   "manifestVersion": "LOCKED_V2",
   "dialogueSource": "ci/dialogue_final_v5/HSK2/ZH_HSK2_SC033.json",
-  "dialogueSha256": "d837ba935e1c174c9c50c175abc69b33e6c9c83635af06365094cd093a0d7937",
+  "dialogueSha256": "44f6f9c14791abc238b93a71dde9f9bc7a91324e6c3953b845f2fea41be28674",
   "titleTr": "Aile Dostlarına Yardım",
   "locationId": "LOC_ZH_LICHEN_HOME_001",
   "scenePurposeTr": "Li Chen’in ailesinden biri hastalanınca yemek götürürler.",

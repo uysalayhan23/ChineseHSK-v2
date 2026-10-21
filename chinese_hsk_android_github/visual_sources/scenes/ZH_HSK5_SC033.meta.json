@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC033.json",
-  "dialogueSha256": "a6bc93aab7a45fa84ad2f3a3f5c68ec6478caf25d25bde1de6e2a4d190171097",
+  "dialogueSha256": "74aae76c222db91a9d81c312642637904e79b5b4b430e750ff949d200dc4493c",
   "titleZh": "张伟拒绝了邀请",
   "titleTr": "Zhang Teklifi Reddediyor",
   "locationId": "LOC_ZH_WORKPLACE_001",

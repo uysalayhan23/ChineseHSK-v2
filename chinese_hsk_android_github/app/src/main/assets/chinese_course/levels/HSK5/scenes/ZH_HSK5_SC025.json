@@ -11,702 +11,702 @@
     {
       "id": "DLG_ZH_HSK5_SC025_001",
       "speaker": "医生",
-      "zh": "最近我一直在想生活方式这件事。",
-      "pinyin": "Zuìjìn wǒ yìzhí zài xiǎng shēnghuó fāngshì zhèjiàn shì.",
-      "tr": "Son zamanlarda yaşam tarzı meselesini düşünüyorum."
+      "zh": "上次复查以后，您按计划每天测血压了吗？",
+      "pinyin": "shàng cì fù chá yǐ hòu ， nín àn jì huà měi tiān cè xuè yā le ma ？",
+      "tr": "Son kontrolden bu yana tansiyonunuzu plana göre her gün ölçtünüz mü?"
     },
     {
       "id": "DLG_ZH_HSK5_SC025_002",
       "speaker": "张伟",
-      "zh": "最近我一直在想预防保健这件事。",
-      "pinyin": "Zuìjìn wǒ yìzhí zài xiǎng yùfáng bǎojiàn zhèjiàn shì.",
-      "tr": "Son zamanlarda koruyucu sağlık meselesini düşünüyorum."
+      "zh": "大多数天测了，不过早上赶着上班时常常忘记。",
+      "pinyin": "dà duō shù tiān cè le ， bù guò zǎo shàng gǎn zhe shàng bān shí cháng cháng wàng jì 。",
+      "tr": "Çoğu gün ölçtüm ama sabah işe yetişmeye çalışırken sık sık unuttum."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_003",
       "speaker": "刘梅",
-      "zh": "这样说我就没那么紧张了。",
-      "pinyin": "Zhèyàng shuō wǒ jiù méi nàme jǐnzhāng le.",
-      "tr": "Böyle anlatınca artık o kadar gergin hissetmiyorum."
+      "zh": "他有记录，只是有几天空着；别一上来就怪他不配合。",
+      "pinyin": "tā yǒu jì lù ， zhǐ shì yǒu jǐ tiān kōng zhe ； bié yī shàng lái jiù guài tā bù pèi hé 。",
+      "tr": "Kayıt tuttu, yalnızca birkaç gün boş kaldı; en baştan onu iş birliği yapmamakla suçlamayın."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_004",
       "speaker": "护士",
-      "zh": "我们先把最需要注意的风险记下来。",
-      "pinyin": "Wǒmen xiān bǎ zuì xūyào zhùyì de fēngxiǎn jìxiàlái.",
-      "tr": "Önce en çok dikkat etmemiz gereken riskleri not edelim."
+      "zh": "我先把空缺的日期标出来，您还记得那几天有没有不舒服吗？",
+      "pinyin": "wǒ xiān bǎ kòng quē de rì qī biāo chū lái ， nín hái jì de nà jǐ tiān yǒu méi yǒu bù shū fú ma ？",
+      "tr": "Önce boş kalan günleri işaretleyeyim. O günlerde rahatsızlık hissedip hissetmediğinizi hatırlıyor musunuz?"
     },
     {
       "id": "DLG_ZH_HSK5_SC025_005",
       "speaker": "医生",
-      "zh": "先听医生把情况说清楚，再决定接下来怎么调整。",
-      "pinyin": "Xiān tīng yīshēng bǎ qíngkuàng shuō qīngchǔ, zài juédìng jiēxiàlái zěnme tiáozhěng.",
-      "tr": "Önce doktor durumu net anlatsın, sonra neyi değiştireceğimize karar veririz."
+      "zh": "这几天的测量情况您还记得吗？您觉得哪一部分最难坚持？",
+      "pinyin": "Zhè jǐ tiān de cè liáng qíng kuàng nín hái jì de ma nín jué de nǎ yī bù fèn zuì nán jiān chí",
+      "tr": "Bu günlerdeki ölçümlerinizi hatırlıyor musunuz? Sürdürmesi en zor olan kısım hangisi?"
     },
     {
       "id": "DLG_ZH_HSK5_SC025_006",
       "speaker": "张伟",
-      "zh": "另外，检查结果只是一个提醒，真正重要的是接下来怎么做。",
-      "pinyin": "Lìngwài, jiǎnchá jiéguǒ zhǐshì yígè tíxǐng, zhēnzhèng zhòngyào de shì jiēxiàlái zěnme zuò.",
-      "tr": "Ayrıca, muayene sonucu bir uyarıdır; asıl önemli olan bundan sonra ne yapacağımız."
+      "zh": "我不是故意不配合，只是早上赶着上班时容易忘记测量。",
+      "pinyin": "Wǒ bú shì gù yì bù pèi hé zhǐ shì zǎo shàng gǎn zhe shàng bān shí róng yì wàng jì cè liáng",
+      "tr": "Bilerek iş birliği yapmıyor değilim; yalnızca sabah işe yetişmeye çalışırken ölçümü unutabiliyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_007",
       "speaker": "刘梅",
-      "zh": "关于生活方式，医生最担心的是什么？",
-      "pinyin": "Guānyú shēnghuó fāngshì, yīshēng zuì dānxīn de shì shénme?",
-      "tr": "Yaşam tarzı konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "对，早上最容易漏。我们设了提醒，不过他忙起来还是会忘。",
+      "pinyin": "Duì zǎo shàng zuì róng yì lòu wǒ men shè le tí xǐng bù guò tā máng qǐ lái hái shì huì wàng",
+      "tr": "Evet, sabah ölçümünü en kolay atlıyor. Hatırlatıcı kurduk ama yoğunlaşınca yine unutabiliyor."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_008",
       "speaker": "护士",
-      "zh": "先把作息稳定下来，再看其他问题会不会跟着改善。",
-      "pinyin": "Xiān bǎ zuòxī wěndìngxiàlái, zài kàn qítā wèntí huì búhuì gēnzhe gǎishàn.",
-      "tr": "Önce günlük düzeni oturtalım, sonra diğer sorunlar da düzeliyor mu bakalım."
+      "zh": "可以把血压计放在固定、醒目的地方，但测量前要先安静休息几分钟。",
+      "pinyin": "kě yǐ bǎ xuè yā jì fàng zài gù dìng 、 xǐng mù dì dì fāng ， dàn cè liáng qián yào xiān ān jìng xiū xī jǐ fēn zhōng 。",
+      "tr": "Tansiyon aletini sabit ve görünür bir yere koyabilirsiniz; ancak ölçümden önce birkaç dakika sakin biçimde dinlenin."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_009",
       "speaker": "医生",
-      "zh": "预防保健不是等生病以后再做，而是平时就要注意。",
-      "pinyin": "Yùfáng bǎojiàn búshì děng shēngbìng yǐhòu zài zuò, érshì píngshí jiùyào zhùyì.",
-      "tr": "Koruyucu sağlık yalnızca hastalandıktan sonra değil, günlük hayatta da önemlidir."
+      "zh": "另外，您最近晚饭后常吃咸的零食，这也可能不利于控制血压。",
+      "pinyin": "Lìng wài nín zuì jìn wǎn fàn hòu cháng chī xián de líng shí zhè yě kě néng bù lì yú kòng zhì xuè yā",
+      "tr": "Bir de son zamanlarda akşam yemeğinden sonra sık sık tuzlu atıştırmalık yiyorsunuz; bu da tansiyon kontrolünü zorlaştırabilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_010",
       "speaker": "张伟",
-      "zh": "这样一说，你的考虑就清楚多了。",
-      "pinyin": "Zhèyàng yīshuō, nǐ de kǎolǜ jiù qīngchǔ duō le.",
-      "tr": "Böyle açıklayınca bakış açını daha iyi anladım."
+      "zh": "我没想到这一点。尽管我少放了盐，零食里的盐还是不少。",
+      "pinyin": "wǒ méi xiǎng dào zhè yì diǎn 。 jǐn guǎn wǒ shǎo fàng le yán ， líng shí lǐ de yán hái shì bù shǎo 。",
+      "tr": "Bunu düşünmemiştim. Yemeğe daha az tuz koymama rağmen atıştırmalıklarda hâlâ çok tuz var."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_011",
       "speaker": "刘梅",
-      "zh": "健康这件事不能只看今天舒服不舒服，还得看长期习惯。",
-      "pinyin": "Jiànkāng zhèjiàn shì bùnéng zhǐ kàn jīntiān shūfú bù shūfú, hái dé kàn chángqī xíguàn.",
-      "tr": "Sağlık yalnızca bugün iyi hissedip hissetmemekle ilgili değil; uzun vadeli alışkanlıklara da bakmak gerekir."
+      "zh": "对。我们不需要一下子禁掉所有东西，先看看包装上的钠含量。",
+      "pinyin": "duì 。 wǒ men bù xū yào yī xià zi jìn diào suǒ yǒu dōng xī ， xiān kàn kàn bāo zhuāng shàng de nà hán liàng 。",
+      "tr": "Evet. Her şeyi bir anda yasaklamamız gerekmiyor; önce ambalajdaki sodyum miktarına bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_012",
       "speaker": "护士",
-      "zh": "其实，家人可以提醒，但最后还是要让本人愿意配合。",
-      "pinyin": "Qíshí, jiārén kěyǐ tíxǐng, dàn zuìhòu háishì yào ràng běnrén yuànyì pèihé.",
-      "tr": "Aslında, aile hatırlatabilir ama kişinin kendisinin de istekli olması gerekir."
+      "zh": "家人可以帮您挑选低盐的零食，不过决定和记录还是由您自己来做。",
+      "pinyin": "Jiā rén kě yǐ bāng nín tiāo xuǎn dī yán de líng shí bù guò jué dìng hé jì lù hái shì yóu nín zì jǐ lái zuò",
+      "tr": "Aileniz daha az tuzlu atıştırmalık seçmenize yardım edebilir; ancak kararı ve kaydı kendiniz tutun."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_013",
       "speaker": "医生",
-      "zh": "如果医生有新的建议，我们就按新的情况调整。",
-      "pinyin": "Rúguǒ yīshēng yǒu xīn de jiànyì, wǒmen jiù àn xīn de qíngkuàng tiáozhěng.",
-      "tr": "Doktorun yeni bir önerisi olursa yeni duruma göre ayarlarız."
+      "zh": "这个办法不错。您愿意这周先换掉一种常吃的咸零食吗？",
+      "pinyin": "zhè ge bàn fǎ bù cuò 。 nín yuàn yì zhè zhōu xiān huàn diào yī zhǒng cháng chī de xián líng shí ma ？",
+      "tr": "Bu iyi bir yöntem. Bu hafta sık yediğiniz tuzlu atıştırmalıklardan birini değiştirmeyi dener misiniz?"
     },
     {
       "id": "DLG_ZH_HSK5_SC025_014",
       "speaker": "张伟",
-      "zh": "换个角度看，休息、吃饭和运动都要一起看，不能只改一项。",
-      "pinyin": "Huàngè jiǎodùkàn, xiūxī、 chīfàn hé yùndòng dōu yào yìqǐ kàn, bùnéng zhǐgǎi yīxiàng.",
-      "tr": "Başka bir açıdan bakarsak, dinlenme, beslenme ve hareketi birlikte değerlendirmek gerekir; yalnızca birini değiştirmek yetmez."
+      "zh": "可以。我也想早点睡，不过加班以后很难马上放松下来。",
+      "pinyin": "kě yǐ 。 wǒ yě xiǎng zǎo diǎn shuì ， bù guò jiā bān yǐ hòu hěn nán mǎ shàng fàng sōng xià lái 。",
+      "tr": "Olur. Daha erken yatmak da istiyorum ama fazla mesai yaptıktan sonra hemen gevşemek zor oluyor."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_015",
       "speaker": "刘梅",
-      "zh": "说到习惯，最近实际情况怎么样？",
-      "pinyin": "Shuō dào xíguàn, zuìjìn shíjì qíngkuàng zěnmeyàng?",
-      "tr": "Alışkanlık konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "那先把睡前半小时留给安静的活动，别给自己定一个做不到的时间。",
+      "pinyin": "nà xiān bǎ shuì qián bàn xiǎo shí liú gěi ān jìng de huó dòng ， bié gěi zì jǐ dìng yí gè zuò bú dào de shí jiān 。",
+      "tr": "O hâlde yatmadan önceki yarım saati sakin etkinliklere ayırın; kendinize uygulayamayacağınız bir saat koymayın."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_016",
       "speaker": "护士",
-      "zh": "健康方面宁可多确认一次，也不要因为怕麻烦而忽略。",
-      "pinyin": "Jiànkāng fāngmiàn nìngkě duō quèrèn yīcì, yě búyào yīnwèi pàmáfán ér hūlüè.",
-      "tr": "Sağlık konusunda bir kez fazla kontrol etmek, zahmet olur diye göz ardı etmekten iyidir."
+      "zh": "尽管工作很忙，仍然可以先做到每周三次饭后散步。",
+      "pinyin": "jǐn guǎn gōng zuò hěn máng ， réng rán kě yǐ xiān zuò dào měi zhōu sān cì fàn hòu sàn bù 。",
+      "tr": "İşiniz çok yoğun olsa da haftada üç kez yemekten sonra yürüyüş yapmayı yine de deneyebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_017",
       "speaker": "医生",
-      "zh": "真正的平衡不是每件事都一样多，而是身体和生活都能长期承受。",
-      "pinyin": "Zhēnzhèng de pínghéng búshì měijiànshì dōu yīyàng duō, érshì shēntǐ hé shēnghuó dōu néng chángqī chéngshòu.",
-      "tr": "Gerçek denge her şeye eşit zaman vermek değil; bedenin ve yaşamın sürdürebileceği bir düzen kurmaktır."
+      "zh": "散步我做得到。只是上次我定了每天一小时，结果三天就放弃了。",
+      "pinyin": "sàn bù wǒ zuò dé dào 。 zhǐ shì shàng cì wǒ dìng le měi tiān yī xiǎo shí ， jié guǒ sān tiān jiù fàng qì le 。",
+      "tr": "Yürüyüş yapabilirim. Ama geçen sefer her gün bir saat hedef koydum ve üç gün sonra bıraktım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_018",
       "speaker": "张伟",
-      "zh": "先从最容易做到的一件事开始，效果会更实际。",
-      "pinyin": "Xiān cóng zuì róngyì zuòdào de yījiàn shì kāishǐ, xiàoguǒ huì gèng shíjì.",
-      "tr": "Önce en kolay yapılabilecek tek bir şeyden başlamak daha gerçekçi olur."
+      "zh": "那就从二十分钟开始。能稳定做到以后，再考虑要不要增加。",
+      "pinyin": "nà jiù cóng èr shí fēn zhōng kāi shǐ 。 néng wěn dìng zuò dào yǐ hòu ， zài kǎo lǜ yào bù yào zēng jiā 。",
+      "tr": "O hâlde yirmi dakikayla başlayın. Düzenli yapabildikten sonra süreyi artırmayı düşünürüz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_019",
       "speaker": "刘梅",
-      "zh": "那把休息也一起考虑进去。",
-      "pinyin": "Nà bǎ xiūxī yě yìqǐ kǎolǜ jìnqù.",
-      "tr": "Dinlenmek konusunu da değerlendirme kapsamına alalım."
+      "zh": "我可以陪你走路，但不想每天催你；我们把时间定好就行。",
+      "pinyin": "wǒ kě yǐ péi nǐ zǒu lù ， dàn bù xiǎng měi tiān cuī nǐ ； wǒ men bǎ shí jiān dìng hǎo jiù xíng 。",
+      "tr": "Seninle yürüyebilirim ama her gün seni dürtmek istemiyorum; yürüyüş saatini belirlememiz yeterli."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_020",
       "speaker": "护士",
-      "zh": "有些指标需要时间观察，不用今天就下结论。",
-      "pinyin": "Yǒuxiē zhǐbiāo xūyào shíjiān guānchá, bùyòng jīntiān jiù xiàjiélùn.",
-      "tr": "Bazı göstergeleri zaman içinde izlemek gerekir; bugün hemen sonuç çıkarmaya gerek yok."
+      "zh": "好。血压记录、少盐零食和每周三次散步，先试两周再复查。",
+      "pinyin": "hǎo 。 xuè yā jì lù 、 shǎo yán líng shí hé měi zhōu sān cì sàn bù ， xiān shì liǎng zhōu zài fù chá 。",
+      "tr": "Peki. Tansiyon kaydı, daha az tuzlu atıştırmalık ve haftada üç yürüyüşü iki hafta deneyip sonra kontrole gelelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_021",
       "speaker": "医生",
-      "zh": "如果帮忙的情况变了，后面的计划也得重新评估。",
-      "pinyin": "Rúguǒ bāngmáng de qíngkuàng biàn le, hòumiàn de jìhuà yě dé chóngxīn pínggū.",
-      "tr": "Yardım etmek değişirse planı da ayarlamak gerekir."
+      "zh": "两周后复查前，如果您发现计划太难执行，我们可以先调整，不必硬撑。",
+      "pinyin": "liǎng zhōu hòu fù chá qián ， rú guǒ nín fā xiàn jì huà tài nán zhí xíng ， wǒ men kě yǐ xiān tiáo zhěng ， bù bì yìng chēng 。",
+      "tr": "İki hafta sonraki kontrol öncesinde planı uygulamak zor gelirse kendinizi zorlamayın; önce planı ayarlayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_022",
       "speaker": "张伟",
-      "zh": "有些指标需要时间观察，不用今天就下结论。",
-      "pinyin": "Yǒuxiē zhǐbiāo xūyào shíjiān guānchá, bùyòng jīntiān jiù xiàjiélùn.",
-      "tr": "Bazı göstergeleri zaman içinde izlemek gerekir; bugün hemen sonuç çıkarmaya gerek yok."
+      "zh": "我会记下血压和睡觉时间，也会标出哪天没能散步。",
+      "pinyin": "wǒ huì jì xià xuè yā hé shuì jiào shí jiān ， yě huì biāo chū nǎ tiān méi néng sàn bù 。",
+      "tr": "Tansiyonumu ve uyku saatimi kaydedeceğim; yürüyüş yapamadığım günleri de işaretlerim."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_023",
       "speaker": "刘梅",
-      "zh": "如果不舒服，就别为了完成计划硬撑。",
-      "pinyin": "Rúguǒ bù shūfú, jiùbié wèile wánchéng jìhuà yìngchēng.",
-      "tr": "Rahatsız hissedersen planı tamamlamak uğruna kendini zorlama."
+      "zh": "即使有一天没做到，也不要因此放弃整个计划；第二天再照常开始。",
+      "pinyin": "Jí shǐ yǒu yī tiān méi zuò dào yě bú yào yīn cǐ fàng qì zhěng gè jì huà dì èr tiān zài zhào cháng kāi shǐ",
+      "tr": "Bir gün yapamamış olsanız bile tüm planı bırakmayın; ertesi gün yeniden devam edin."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_024",
       "speaker": "护士",
-      "zh": "有不同意见没关系，只要理由说得清楚就能继续谈。",
-      "pinyin": "Yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
-      "tr": "Farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+      "zh": "我把“每天测量”和“每周散步三次”分开记录，这样更容易看清进度。",
+      "pinyin": "wǒ bǎ “ měi tiān cè liáng ” hé “ měi zhōu sàn bù sān cì ” fēn kāi jì lù ， zhè yàng gèng róng yì kàn qīng jìn dù 。",
+      "tr": "İlerlemeyi daha iyi görebilmek için günlük ölçümü ve haftada üç yürüyüşü ayrı ayrı kaydedeyim."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_025",
       "speaker": "医生",
-      "zh": "另外，医生的建议要听，也要结合每天的实际生活来安排。",
-      "pinyin": "Lìngwài, yīshēng de jiànyì yào tīng, yě yào jiéhé měitiān de shíjì shēnghuó lái ānpái.",
-      "tr": "Ayrıca, doktorun önerilerini dinlemeli ve günlük yaşama göre düzenlemeliyiz."
+      "zh": "很好。记录要简单，才能融进您的日常生活。",
+      "pinyin": "hěn hǎo 。 jì lù yào jiǎn dān ， cái néng róng jìn nín de rì cháng shēng huó 。",
+      "tr": "Güzel. Kayıt tutmak günlük düzeninize sığacak kadar basit olmalı."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_026",
       "speaker": "张伟",
-      "zh": "不过，改善一点就是进步，不需要一下做到完美。",
-      "pinyin": "Bùguò, gǎishàn yìdiǎn jiùshì jìnbù, bù xūyào yīxià zuòdào wánměi.",
-      "tr": "Ancak, biraz iyileşmek bile ilerlemedir; bir anda kusursuz olmak gerekmez."
+      "zh": "以前我总想马上看到结果；这次我会先坚持两周，再看趋势。",
+      "pinyin": "yǐ qián wǒ zǒng xiǎng mǎ shàng kàn dào jié guǒ ； zhè cì wǒ huì xiān jiān chí liǎng zhōu ， zài kàn qū shì 。",
+      "tr": "Eskiden sonucu hemen görmek isterdim; bu kez önce iki hafta sürdürecek, sonra eğilime bakacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_027",
       "speaker": "刘梅",
-      "zh": "医生的建议要听，也要结合每天的实际生活来安排。",
-      "pinyin": "Yīshēng de jiànyì yào tīng, yě yào jiéhé měitiān de shíjì shēnghuó lái ānpái.",
-      "tr": "Doktorun önerilerini dinlemeli ve günlük yaşama göre düzenlemeliyiz."
+      "zh": "如果两周后仍然很难早上测量，我们再一起找一个更合适的时间。",
+      "pinyin": "rú guǒ liǎng zhōu hòu réng rán hěn nán zǎo shàng cè liáng ， wǒ men zài yì qǐ zhǎo yí gè gèng hé shì de shí jiān 。",
+      "tr": "İki hafta sonra sabah ölçümü hâlâ zor olursa birlikte daha uygun bir saat bulalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_028",
       "speaker": "护士",
-      "zh": "换个角度看，我们先处理最关键的一点，再看其他细节。",
-      "pinyin": "Huàngè jiǎodùkàn, wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
-      "tr": "Başka bir açıdan bakarsak, önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+      "zh": "那先把这周的目标定清楚：测量时坐着休息几分钟，每周散步三次。",
+      "pinyin": "nà xiān bǎ zhè zhōu de mù biāo dìng qīng chǔ ： cè liáng shí zuò zhe xiū xī jǐ fēn zhōng ， měi zhōu sàn bù sān cì 。",
+      "tr": "O hâlde bu haftanın hedefini netleştirelim: ölçümden önce birkaç dakika oturup dinlenmek ve haftada üç kez yürümek."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_029",
       "speaker": "医生",
-      "zh": "我们先按这个方法试一段时间，再看检查结果。",
-      "pinyin": "Wǒmen xiān àn zhège fāngfǎ shì yīduànshíjiān, zài kàn jiǎnchá jiéguǒ.",
-      "tr": "Bu yöntemi bir süre deneyelim, sonra muayene sonuçlarına tekrar bakarız."
+      "zh": "对。两周后我们看实际记录，再决定要不要改变安排。",
+      "pinyin": "duì 。 liǎng zhōu hòu wǒ men kàn shí jì jì lù ， zài jué dìng yào bù yào gǎi biàn ān pái 。",
+      "tr": "Evet. İki hafta sonra gerçek kayıtlara bakıp düzenlemeyi değiştirip değiştirmeyeceğimize karar veririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_030",
       "speaker": "张伟",
-      "zh": "另外，改善一点就是进步，不需要一下做到完美。",
-      "pinyin": "Lìngwài, gǎishàn yìdiǎn jiùshì jìnbù, bù xūyào yīxià zuòdào wánměi.",
-      "tr": "Ayrıca, biraz iyileşmek bile ilerlemedir; bir anda kusursuz olmak gerekmez."
+      "zh": "如果我没完成某一项，会如实写下来，不会为了好看而补填。",
+      "pinyin": "rú guǒ wǒ méi wán chéng mǒu yī xiàng ， huì rú shí xiě xià lái ， bú huì wèi le hǎo kàn ér bǔ tián 。",
+      "tr": "Bir maddeyi tamamlayamazsam sonradan olmuş gibi göstermeden olduğu gibi kaydedeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_031",
       "speaker": "刘梅",
-      "zh": "先把真正的问题说清楚，别急着找一个漂亮答案。",
-      "pinyin": "Xiān bǎ zhēnzhèng de wèntí shuō qīngchǔ, biéjí zhe zhǎo yígè piàoliàng dáàn.",
-      "tr": "Önce gerçek sorunu netleştirelim; kulağa güzel gelen bir cevap bulmak için acele etmeyelim."
+      "zh": "这样最好。诚实的记录比一张看起来完美、却不准确的表更有用。",
+      "pinyin": "zhè yàng zuì hǎo 。 chéng shí de jì lù bǐ yī zhāng kàn qǐ lái wán měi 、 què bù zhǔn què de biǎo gèng yǒu yòng 。",
+      "tr": "En doğrusu bu. Dürüst bir kayıt, kusursuz görünen ama doğru olmayan bir çizelgeden daha yararlıdır."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_032",
       "speaker": "护士",
-      "zh": "不用追求一次把所有问题都解决，先把下一步走稳。",
-      "pinyin": "Bùyòng zhuīqiú yīcì bǎ suǒyǒu wèntí dōu jiějué, xiān bǎ xià yībù zǒuwěn.",
-      "tr": "Bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+      "zh": "那我们把今晚换低盐零食、明天开始散步这两步写进计划里。",
+      "pinyin": "Nà wǒ men bǎ jīn wǎn huàn dī yán líng shí míng tiān kāi shǐ sàn bù zhè liǎng bù xiě jìn jì huà lǐ",
+      "tr": "O hâlde bu akşam daha az tuzlu atıştırmalığa geçmeyi ve yarın yürüyüşe başlamayı plana yazalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_033",
       "speaker": "医生",
-      "zh": "先确认我们已经知道什么，再说还缺什么信息。",
-      "pinyin": "Xiān quèrèn wǒmen yǐjīng zhīdào shénme, zàishuō hái quēshénme xìnxī.",
-      "tr": "Önce ne bildiğimizi netleştirelim, sonra hangi bilginin eksik olduğunu konuşalım."
+      "zh": "我们已经知道您最难的是早上测量，最容易开始的是饭后散步。",
+      "pinyin": "wǒ men yǐ jīng zhī dào nín zuì nán de shì zǎo shàng cè liáng ， zuì róng yì kāi shǐ de shì fàn hòu sàn bù 。",
+      "tr": "Sabah ölçümünün sizin için en zor, yemek sonrası yürüyüşün ise başlaması en kolay adım olduğunu gördük."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_034",
       "speaker": "张伟",
-      "zh": "另外，有不同意见没关系，只要理由说得清楚就能继续谈。",
-      "pinyin": "Lìngwài, yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
-      "tr": "Ayrıca, farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+      "zh": "对，我也会把血压计放在固定的位置，免得早上找不到。",
+      "pinyin": "duì ， wǒ yě huì bǎ xuè yā jì fàng zài gù dìng de wèi zhì ， miǎn de zǎo shàng zhǎo bú dào 。",
+      "tr": "Evet, sabah aramak zorunda kalmamak için tansiyon aletini de sabit bir yere koyacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_035",
       "speaker": "刘梅",
-      "zh": "如果现在还不能确定，就先保留一点调整空间。",
-      "pinyin": "Rúguǒ xiànzài hái bùnéng quèdìng, jiù xiān bǎoliú yìdiǎn tiáozhěng kōngjiān.",
-      "tr": "Şu anda kesinleştiremiyorsak biraz uyum payı bırakalım."
+      "zh": "若闹钟影响家人休息，可以改成手机的轻声提醒，时间也可稍作调整。",
+      "pinyin": "ruò nào zhōng yǐng xiǎng jiā rén xiū xī ， kě yǐ gǎi chéng shǒu jī de qīng shēng tí xǐng ， shí jiān yě kě shāo zuò tiáo zhěng 。",
+      "tr": "Alarm ailenizin uykusunu bölüyorsa telefonunuza sessiz bir hatırlatma koyabilir, saatini de biraz değiştirebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_036",
       "speaker": "护士",
-      "zh": "其实，今天先把能确定的部分定下来，剩下的以后继续聊。",
-      "pinyin": "Qíshí, jīntiān xiān bǎ néng quèdìng de bùfèn dìng xiàlái, shèngxià de yǐhòu jìxù liáo.",
-      "tr": "Aslında, bugün netleştirebildiğimiz kısmı kararlaştıralım; kalanını sonra konuşuruz."
+      "zh": "我已经把复查日期设成提醒，也把每天记录的项目写在表格上了。",
+      "pinyin": "wǒ yǐ jīng bǎ fù chá rì qī shè chéng tí xǐng ， yě bǎ měi tiān jì lù de xiàng mù xiě zài biǎo gé shàng le 。",
+      "tr": "Kontrol tarihini hatırlatıcıya ekledim ve günlük kaydedeceğim maddeleri çizelgeye yazdım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_037",
       "speaker": "医生",
-      "zh": "先别把问题想得太抽象，回到具体情况会更容易判断。",
-      "pinyin": "Xiānbié bǎ wèntí xiǎng dé tài chōuxiàng, huídào jùtǐqíngkuàng huì gèng róngyì pànduàn.",
-      "tr": "Sorunu fazla soyutlaştırmayalım; somut duruma dönmek değerlendirmeyi kolaylaştırır."
+      "zh": "先试一周再看效果；如果提醒还是不合适，我们就换办法。",
+      "pinyin": "xiān shì yī zhōu zài kàn xiào guǒ ； rú guǒ tí xǐng hái shì bù hé shì ， wǒ men jiù huàn bàn fǎ 。",
+      "tr": "Önce bir hafta deneyip etkisine bakalım; hatırlatma yine uygun olmazsa başka bir yol buluruz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_038",
       "speaker": "张伟",
-      "zh": "我们先处理最关键的一点，再看其他细节。",
-      "pinyin": "Wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
-      "tr": "Önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+      "zh": "这样我觉得可行。尽管工作忙，我仍然能安排三次短时间的散步。",
+      "pinyin": "zhè yàng wǒ jué de kě xíng 。 jǐn guǎn gōng zuò máng ， wǒ réng rán néng ān pái sān cì duǎn shí jiān de sàn bù 。",
+      "tr": "Bu plan uygulanabilir görünüyor. İşim yoğun olsa da yine haftada üç kısa yürüyüş ayarlayabilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_039",
       "speaker": "刘梅",
-      "zh": "这个想法可以继续讨论，不过最好再确认一下实际条件。",
-      "pinyin": "Zhège xiǎngfǎ kěyǐ jìxù tǎolùn, bùguò zuìhǎo zài quèrèn yīxià shíjì tiáojiàn.",
-      "tr": "Bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+      "zh": "好。我们先不加更多目标，等您稳定做到以后再讨论下一步。",
+      "pinyin": "hǎo 。 wǒ men xiān bù jiā gèng duō mù biāo ， děng nín wěn dìng zuò dào yǐ hòu zài tǎo lùn xià yī bù 。",
+      "tr": "Peki. Daha fazla hedef eklemeyelim; düzenli yapmaya başladıktan sonra sonraki adımı konuşuruz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_040",
       "speaker": "护士",
-      "zh": "复查的时间我也写在这里了。",
-      "pinyin": "Fùchá de shíjiān wǒ yě xiě zài zhèlǐ le.",
-      "tr": "Kontrol tarihini de buraya yazdım."
+      "zh": "复查日期、记录项目和这周的目标我都写好了，回家可以照着做。",
+      "pinyin": "fù chá rì qī 、 jì lù xiàng mù hé zhè zhōu de mù biāo wǒ dōu xiě hǎo le ， huí jiā kě yǐ zhào zhe zuò 。",
+      "tr": "Kontrol tarihini, kayıt maddelerini ve bu haftaki hedefleri yazdım; eve gidince plana göre başlayabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_041",
       "speaker": "医生",
-      "zh": "如果出现新情况，我们就根据新的事实调整。",
-      "pinyin": "Rúguǒ chūxiàn xīn qíngkuàng, wǒmen jiù gēnjù xīn de shìshí tiáozhěng.",
-      "tr": "Yeni bir durum çıkarsa yeni olgulara göre ayarlarız."
+      "zh": "先按这两周的记录观察，复查时再根据变化决定是否调整。",
+      "pinyin": "xiān àn zhè liǎng zhōu de jì lù guān chá ， fù chá shí zài gēn jù biàn huà jué dìng shì fǒu tiáo zhěng 。",
+      "tr": "Önce iki haftalık kayıtları izleyelim; değişiklik gerekip gerekmediğine kontrolde karar veririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_042",
       "speaker": "张伟",
-      "zh": "换个角度看，我们先按这个方法试一段时间，再看检查结果。",
-      "pinyin": "Huàngè jiǎodùkàn, wǒmen xiān àn zhège fāngfǎ shì yīduànshíjiān, zài kàn jiǎnchá jiéguǒ.",
-      "tr": "Başka bir açıdan bakarsak, bu yöntemi bir süre deneyelim, sonra muayene sonuçlarına tekrar bakarız."
+      "zh": "好，我会照着这周定下的目标做，不再临时加量。",
+      "pinyin": "hǎo ， wǒ huì zhào zhe zhè zhōu dìng xià de mù biāo zuò ， bù zài lín shí jiā liàng 。",
+      "tr": "Peki, bu hafta belirlediğimiz hedeflere uyacağım; sonradan kendime fazladan yük bindirmeyeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_043",
       "speaker": "刘梅",
-      "zh": "另外，我们至少已经知道彼此最在意什么了。",
-      "pinyin": "Lìngwài, wǒmen zhìshǎo yǐjīng zhīdào bǐcǐ zuì zàiyì shénme le.",
-      "tr": "Ayrıca, en azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+      "zh": "我觉得这个安排比以前清楚：先记录，再根据结果调整。",
+      "pinyin": "wǒ jué de zhè ge ān pái bǐ yǐ qián qīng chǔ ： xiān jì lù ， zài gēn jù jié guǒ tiáo zhěng 。",
+      "tr": "Bu planın öncekilerden daha açık olduğunu düşünüyorum: önce kayıt, sonra sonuca göre düzenleme."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_044",
       "speaker": "护士",
-      "zh": "不过，有变化就记下来，复查的时候医生会更容易判断。",
-      "pinyin": "Bùguò, yǒu biànhuà jiù jìxiàlái, fùchá de shíhòu yīshēng huì gèng róngyì pànduàn.",
-      "tr": "Ancak, bir değişiklik olursa not edin; kontrolde doktorun değerlendirmesi kolaylaşır."
+      "zh": "如果漏记了一天，就如实留空；不要凭印象补数字。",
+      "pinyin": "rú guǒ lòu jì le yī tiān ， jiù rú shí liú kòng ； bú yào píng yìn xiàng bǔ shù zì 。",
+      "tr": "Bir gün kaydı atlarsanız boş bırakın; değerleri hatırladığınıza göre sonradan doldurmayın."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_045",
       "speaker": "医生",
-      "zh": "其实，这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "Qíshí, zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
-      "tr": "Aslında, bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "对，先看真实情况。若测量值持续异常，我们会进一步检查。",
+      "pinyin": "duì ， xiān kàn zhēn shí qíng kuàng 。 ruò cè liáng zhí chí xù yì cháng ， wǒ men huì jìn yí bù jiǎn chá 。",
+      "tr": "Evet, önce gerçek durumu görelim. Ölçüm değerleri sürekli anormalse ek inceleme yaparız."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_046",
       "speaker": "张伟",
-      "zh": "换个角度看，今天先把能确定的部分定下来，剩下的以后继续聊。",
-      "pinyin": "Huàngè jiǎodùkàn, jīntiān xiān bǎ néng quèdìng de bùfèn dìng xiàlái, shèngxià de yǐhòu jìxù liáo.",
-      "tr": "Başka bir açıdan bakarsak, bugün netleştirebildiğimiz kısmı kararlaştıralım; kalanını sonra konuşuruz."
+      "zh": "今天我先把提醒设好，也把低盐零食放在容易拿到的地方。",
+      "pinyin": "jīn tiān wǒ xiān bǎ tí xǐng shè hǎo ， yě bǎ dī yán líng shí fàng zài róng yì ná dào de dì fāng 。",
+      "tr": "Bugün hatırlatıcıyı kurup daha az tuzlu atıştırmalıkları kolayca ulaşabileceğim bir yere koyacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_047",
       "speaker": "刘梅",
-      "zh": "听你这么说，我确实得认真改一改了。",
-      "pinyin": "Tīng nǐ zhème shuō, wǒ quèshí dé rènzhēn gǎiyīgǎi le.",
-      "tr": "Böyle söyleyince gerçekten bazı şeyleri ciddi biçimde değiştirmem gerektiğini görüyorum."
+      "zh": "这样我也能帮上忙，但不会替他决定每天要做多少运动。",
+      "pinyin": "zhè yàng wǒ yě néng bāng shàng máng ， dàn bú huì tì tā jué dìng měi tiān yào zuò duō shǎo yùn dòng 。",
+      "tr": "Böylece ben de destek olabilirim ama her gün ne kadar hareket edeceğine onun yerine karar vermem."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_048",
       "speaker": "护士",
-      "zh": "如果身体有新的变化，要及时告诉医生。",
-      "pinyin": "Rúguǒ shēntǐ yǒu xīn de biànhuà, yào jíshí gàosù yīshēng.",
-      "tr": "Vücutta yeni bir değişiklik olursa doktora zamanında söylemeliyiz."
+      "zh": "如果您发现新症状，请记下发生时间和持续多久，再及时告诉医生。",
+      "pinyin": "Rú guǒ nín fā xiàn xīn zhèng zhuàng qǐng jì xià fā shēng shí jiān hé chí xù duō jiǔ zài jí shí gào sù yī shēng",
+      "tr": "Yeni bir belirti fark ederseniz ne zaman başladığını ve ne kadar sürdüğünü not edip doktora zamanında bildirin."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_049",
       "speaker": "医生",
-      "zh": "睡眠、饮食和活动量要放在一起看。",
-      "pinyin": "Shuìmián、 yǐnshí hé huódòngliàng yào fàngzài yìqǐ kàn.",
-      "tr": "Uyku, beslenme ve hareket miktarını birlikte değerlendirmek gerekir."
+      "zh": "您也可以记下晚饭时间和睡眠时长，我们再看它们是否与血压变化有关。",
+      "pinyin": "nín yě kě yǐ jì xià wǎn fàn shí jiān hé shuì mián shí cháng ， wǒ men zài kàn tā men shì fǒu yǔ xuè yā biàn huà yǒu guān 。",
+      "tr": "Akşam yemeği saatinizi ve uyku sürenizi de kaydedin; tansiyon değişikliğiyle ilişkileri olup olmadığına bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_050",
       "speaker": "张伟",
-      "zh": "最近确实睡得少，运动也不够。",
-      "pinyin": "Zuìjìn quèshí shuìdéshǎo, yùndòng yě bùgòu.",
-      "tr": "Son zamanlarda gerçekten az uyuyorum ve yeterince hareket etmiyorum."
+      "zh": "我常常加班后才吃晚饭，确实也睡得比较晚。",
+      "pinyin": "wǒ cháng cháng jiā bān hòu cái chī wǎn fàn ， què shí yě shuì dé bǐ jiào wǎn 。",
+      "tr": "Akşam yemeğini çoğu zaman fazla mesai sonrasında yiyorum ve gerçekten de geç yatıyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_051",
       "speaker": "刘梅",
-      "zh": "我会先把每天的时间重新安排一下。",
-      "pinyin": "Wǒhuì xiān bǎ měitiān de shíjiān chóngxīnānpái yīxià.",
-      "tr": "Önce günlük programımı yeniden düzenleyeceğim."
+      "zh": "那我先试着提前准备晚饭，忙的时候也不至于吃得太晚。",
+      "pinyin": "nà wǒ xiān shì zhe tí qián zhǔn bèi wǎn fàn ， máng de shí hòu yě bù zhì yú chī dé tài wǎn 。",
+      "tr": "O hâlde akşam yemeğini önceden hazırlamayı deneyeyim; yoğun günlerde de çok geç yememiş olurum."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_052",
       "speaker": "护士",
-      "zh": "另外，有些指标需要时间观察，不用今天就下结论。",
-      "pinyin": "Lìngwài, yǒuxiē zhǐbiāo xūyào shíjiān guānchá, bùyòng jīntiān jiù xiàjiélùn.",
-      "tr": "Ayrıca, bazı göstergeleri zaman içinde izlemek gerekir; bugün hemen sonuç çıkarmaya gerek yok."
+      "zh": "可以试试。尽管工作时间不固定，仍然能提前准备一个简单的选择。",
+      "pinyin": "kě yǐ shì shì 。 jǐn guǎn gōng zuò shí jiān bù gù dìng ， réng rán néng tí qián zhǔn bèi yí gè jiǎn dān de xuǎn zé 。",
+      "tr": "Deneyebilirsiniz. Çalışma saatleriniz sabit olmasa da önceden basit bir seçenek hazırlayabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_053",
       "speaker": "医生",
-      "zh": "只要能坚持，小的改变也比短时间做得很猛更有效。",
-      "pinyin": "Zhǐyào néng jiānchí, xiǎo de gǎibiàn yě bǐ duǎnshíjiān zuò dé hěn měng gèng yǒuxiào.",
-      "tr": "Sürdürülebilirse küçük değişiklikler bile kısa süreli aşırı çabadan daha etkilidir."
+      "zh": "与突然改变饮食相比，先把晚饭时间稳定下来更容易坚持。",
+      "pinyin": "yǔ tū rán gǎi biàn yǐn shí xiāng bǐ ， xiān bǎ wǎn fàn shí jiān wěn dìng xià lái gèng róng yì jiān chí 。",
+      "tr": "Beslenmeyi birden değiştirmekle karşılaştırınca, önce akşam yemeği saatini düzene sokmak daha sürdürülebilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_054",
       "speaker": "张伟",
-      "zh": "其实，复查以前我会把每天的情况记下来。",
-      "pinyin": "Qíshí, fùchá yǐqián wǒhuì bǎ měitiān de qíngkuàng jìxiàlái.",
-      "tr": "Aslında, kontrole kadar günlük durumumu not edeceğim."
+      "zh": "我会记下晚饭时间和睡觉时间，看看两周内有没有改善。",
+      "pinyin": "wǒ huì jì xià wǎn fàn shí jiān hé shuì jiào shí jiān ， kàn kàn liǎng zhōu nèi yǒu méi yǒu gǎi shàn 。",
+      "tr": "İki hafta içinde bir iyileşme olup olmadığını görmek için akşam yemeği ve yatma saatimi kaydedeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_055",
       "speaker": "刘梅",
-      "zh": "换个角度看，这样说我就没那么紧张了。",
-      "pinyin": "Huàngè jiǎodùkàn, zhèyàng shuō wǒ jiù méi nàme jǐnzhāng le.",
-      "tr": "Başka bir açıdan bakarsak, böyle anlatınca artık o kadar gergin hissetmiyorum."
+      "zh": "听起来目标不多，我反而觉得没那么紧张了。",
+      "pinyin": "tīng qǐ lái mù biāo bù duō ， wǒ fǎn ér jué de méi nà me jǐn zhāng le 。",
+      "tr": "Hedefler çok fazla görünmüyor; bu yüzden daha az kaygılı hissediyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_056",
       "speaker": "护士",
-      "zh": "改善一点就是进步，不需要一下做到完美。",
-      "pinyin": "Gǎishàn yìdiǎn jiùshì jìnbù, bù xūyào yīxià zuòdào wánměi.",
-      "tr": "Biraz iyileşmek bile ilerlemedir; bir anda kusursuz olmak gerekmez."
+      "zh": "这就很好。先做到稳定，再谈下一步，不必要求自己一次到位。",
+      "pinyin": "zhè jiù hěn hǎo 。 xiān zuò dào wěn dìng ， zài tán xià yī bù ， bù bì yāo qiú zì jǐ yī cì dào wèi 。",
+      "tr": "Bu çok iyi. Önce düzenli yapın, sonra sonraki adımı konuşuruz; her şeyi baştan kusursuz yapmanız gerekmez."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_057",
       "speaker": "医生",
-      "zh": "检查结果只是一个提醒，真正重要的是接下来怎么做。",
-      "pinyin": "Jiǎnchá jiéguǒ zhǐshì yígè tíxǐng, zhēnzhèng zhòngyào de shì jiēxiàlái zěnme zuò.",
-      "tr": "Muayene sonucu bir uyarıdır; asıl önemli olan bundan sonra ne yapacağımız."
+      "zh": "体检结果给了我们一个提醒，但不能单独说明所有原因。",
+      "pinyin": "tǐ jiǎn jié guǒ gěi le wǒ men yí gè tí xǐng ， dàn bù néng dān dú shuō míng suǒ yǒu yuán yīn 。",
+      "tr": "Kontrol sonucu bize bir uyarı verdi ama tek başına bütün nedenleri açıklamaz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_058",
       "speaker": "张伟",
-      "zh": "检查结果只是一个提醒，真正重要的是接下来怎么做。",
-      "pinyin": "Jiǎnchá jiéguǒ zhǐshì yígè tíxǐng, zhēnzhèng zhòngyào de shì jiēxiàlái zěnme zuò.",
-      "tr": "Muayene sonucu bir uyarıdır; asıl önemli olan bundan sonra ne yapacağımız."
+      "zh": "明白。我要把测量值、睡眠和饮食变化放在一起看。",
+      "pinyin": "míng bái 。 wǒ yào bǎ cè liáng zhí 、 shuì mián hé yǐn shí biàn huà fàng zài yì qǐ kàn 。",
+      "tr": "Anladım. Ölçüm değerlerini, uykuyu ve beslenmedeki değişiklikleri birlikte değerlendireceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_059",
       "speaker": "刘梅",
-      "zh": "别一次给自己太大压力，能长期坚持的改变更重要。",
-      "pinyin": "Bié yīcì gěi zìjǐ tài dà yālì, néng chángqī jiānchí de gǎibiàn gèng zhòngyào.",
-      "tr": "Kendimize bir anda çok yüklenmeyelim; sürdürülebilir değişiklik daha önemli."
+      "zh": "如果一周里有几天没完成目标，也可以告诉我们，我们再找更合适的安排。",
+      "pinyin": "rú guǒ yī zhōu lǐ yǒu jǐ tiān méi wán chéng mù biāo ， yě kě yǐ gào sù wǒ men ， wǒ men zài zhǎo gèng hé shì de ān pái 。",
+      "tr": "Hafta içinde birkaç gün hedefi gerçekleştiremezseniz bunu da bize söyleyin; daha uygun bir düzen buluruz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_060",
       "speaker": "护士",
-      "zh": "另外，休息、吃饭和运动都要一起看，不能只改一项。",
-      "pinyin": "Lìngwài, xiūxī、 chīfàn hé yùndòng dōu yào yìqǐ kàn, bùnéng zhǐgǎi yīxiàng.",
-      "tr": "Ayrıca, dinlenme, beslenme ve hareketi birlikte değerlendirmek gerekir; yalnızca birini değiştirmek yetmez."
+      "zh": "复查日期、记录项目和本周的目标我都写好了，您回家可以照着做。",
+      "pinyin": "Fù chá rì qī jì lù xiàng mù hé běn zhōu de mù biāo wǒ dōu xiě hǎo le nín huí jiā kě yǐ zhào zhe zuò",
+      "tr": "Kontrol tarihini, kayıt maddelerini ve bu haftanın hedeflerini yazdım; eve gidince bunları izleyebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_061",
       "speaker": "医生",
-      "zh": "另外，休息、吃饭和运动都要一起看，不能只改一项。",
-      "pinyin": "Lìngwài, xiūxī、 chīfàn hé yùndòng dōu yào yìqǐ kàn, bùnéng zhǐgǎi yīxiàng.",
-      "tr": "Ayrıca, dinlenme, beslenme ve hareketi birlikte değerlendirmek gerekir; yalnızca birini değiştirmek yetmez."
+      "zh": "对。尽管您这段时间工作忙，仍然可以先从记录和短时间散步开始。",
+      "pinyin": "duì 。 jǐn guǎn nín zhè duàn shí jiān gōng zuò máng ， réng rán kě yǐ xiān cóng jì lù hé duǎn shí jiān sàn bù kāi shǐ 。",
+      "tr": "Evet. Bu dönemde işiniz yoğun olsa da kayıt tutarak ve kısa yürüyüşlerle başlayabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_062",
       "speaker": "张伟",
-      "zh": "不过，我更关心的是，这个计划能不能真的坚持下去。",
-      "pinyin": "Bùguò, wǒ gèng guānxīn de shì, zhège jìhuà néng bùnéng zhēnde jiānchíxiàqù.",
-      "tr": "Ancak, ben daha çok bu planın gerçekten sürdürülebilir olup olmadığını önemsiyorum."
+      "zh": "我会把目标写得简单一点，这样每天看一眼就知道该做什么。",
+      "pinyin": "wǒ huì bǎ mù biāo xiě dé jiǎn dān yì diǎn ， zhè yàng měi tiān kàn yī yǎn jiù zhī dào gāi zuò shén me 。",
+      "tr": "Hedefleri daha basit yazacağım; böylece her gün bakınca ne yapmam gerektiğini bilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_063",
       "speaker": "刘梅",
-      "zh": "换个角度看，有些指标需要时间观察，不用今天就下结论。",
-      "pinyin": "Huàngè jiǎodùkàn, yǒuxiē zhǐbiāo xūyào shíjiān guānchá, bùyòng jīntiān jiù xiàjiélùn.",
-      "tr": "Başka bir açıdan bakarsak, bazı göstergeleri zaman içinde izlemek gerekir; bugün hemen sonuç çıkarmaya gerek yok."
+      "zh": "先观察两周，数据还不够时，我们再延长记录时间，不急着下结论。",
+      "pinyin": "xiān guān chá liǎng zhōu ， shù jù hái bù gòu shí ， wǒ men zài yán cháng jì lù shí jiān ， bù jí zhe xià jié lùn 。",
+      "tr": "Önce iki hafta gözlemleyelim. Veriler yetmezse kayıt süresini uzatırız; hemen sonuca varmayalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_064",
       "speaker": "护士",
-      "zh": "换个角度看，有不同意见没关系，只要理由说得清楚就能继续谈。",
-      "pinyin": "Huàngè jiǎodùkàn, yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
-      "tr": "Başka bir açıdan bakarsak, farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+      "zh": "如果某项目标不现实，请直接告诉我们，复诊时可以一起调整。",
+      "pinyin": "Rú guǒ mǒu xiàng mù biāo bù xiàn shí qǐng zhí jiē gào sù wǒ men fù zhěn shí kě yǐ yì qǐ tiáo zhěng",
+      "tr": "Bir hedef gerçekçi değilse bize açıkça söyleyin; kontrolde birlikte değiştirebiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_065",
       "speaker": "医生",
-      "zh": "另外，家人可以提醒，但最后还是要让本人愿意配合。",
-      "pinyin": "Lìngwài, jiārén kěyǐ tíxǐng, dàn zuìhòu háishì yào ràng běnrén yuànyì pèihé.",
-      "tr": "Ayrıca, aile hatırlatabilir ama kişinin kendisinin de istekli olması gerekir."
+      "zh": "家人可以陪您散步或提醒测量，但计划要由您自己认可并决定。",
+      "pinyin": "jiā rén kě yǐ péi nín sàn bù huò tí xǐng cè liáng ， dàn jì huà yào yóu nín zì jǐ rèn kě bìng jué dìng 。",
+      "tr": "Aileniz yürüyüşte size eşlik edebilir ya da ölçümü hatırlatabilir; ancak planı sizin benimseyip kararlaştırmanız gerekir."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_066",
       "speaker": "张伟",
-      "zh": "不过，我们先按这个方法试一段时间，再看检查结果。",
-      "pinyin": "Bùguò, wǒmen xiān àn zhège fāngfǎ shì yīduànshíjiān, zài kàn jiǎnchá jiéguǒ.",
-      "tr": "Ancak, bu yöntemi bir süre deneyelim, sonra muayene sonuçlarına tekrar bakarız."
+      "zh": "我就这样试两周；如果不舒服或难以坚持，我会及时联系诊所。",
+      "pinyin": "Wǒ jiù zhè yàng shì liǎng zhōu rú guǒ bù shū fú huò nán yǐ jiān chí wǒ huì jí shí lián xì zhěn suǒ",
+      "tr": "Bu planı iki hafta deneyeceğim; rahatsızlık hisseder ya da sürdürmekte zorlanırsam kliniğe zamanında ulaşacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_067",
       "speaker": "刘梅",
-      "zh": "医生的建议要听，也要结合每天的实际生活来安排。",
-      "pinyin": "Yīshēng de jiànyì yào tīng, yě yào jiéhé měitiān de shíjì shēnghuó lái ānpái.",
-      "tr": "Doktorun önerilerini dinlemeli ve günlük yaşama göre düzenlemeliyiz."
+      "zh": "我会陪他先减少夜宵，再把睡觉时间每几天提前一点，不一次改太多。",
+      "pinyin": "Wǒ huì péi tā xiān jiǎn shǎo yè xiāo zài bǎ shuì jiào shí jiān měi jǐ tiān tí qián yì diǎn bù yī cì gǎi tài duō",
+      "tr": "Önce gece atıştırmalarını azaltmasına, sonra yatma saatini birkaç günde bir erkene almasına eşlik ederim; bir anda çok şeyi değiştirmeyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_068",
       "speaker": "护士",
-      "zh": "其实，健康方面宁可多确认一次，也不要因为怕麻烦而忽略。",
-      "pinyin": "Qíshí, jiànkāng fāngmiàn nìngkě duō quèrèn yīcì, yě búyào yīnwèi pàmáfán ér hūlüè.",
-      "tr": "Aslında, sağlık konusunda bir kez fazla kontrol etmek, zahmet olur diye göz ardı etmekten iyidir."
+      "zh": "若头晕反复出现，也要记录下来；即使不严重，也值得在复诊时提起。",
+      "pinyin": "ruò tóu yūn fǎn fù chū xiàn ， yě yào jì lù xià lái ； jí shǐ bù yán zhòng ， yě zhí de zài fù zhěn shí tí qǐ 。",
+      "tr": "Baş dönmesi tekrarlarsa kaydedin; şiddetli olmasa bile kontrolde doktora söylemeye değer."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_069",
       "speaker": "医生",
-      "zh": "休息、吃饭和运动都要一起看，不能只改一项。",
-      "pinyin": "Xiūxī、 chīfàn hé yùndòng dōu yào yìqǐ kàn, bùnéng zhǐgǎi yīxiàng.",
-      "tr": "Dinlenme, beslenme ve hareketi birlikte değerlendirmek gerekir; yalnızca birini değiştirmek yetmez."
+      "zh": "我们会把睡眠、饮食、散步和血压记录放在一起看，再判断哪项最需要调整。",
+      "pinyin": "wǒ men huì bǎ shuì mián 、 yǐn shí 、 sàn bù hé xuè yā jì lù fàng zài yì qǐ kàn ， zài pàn duàn nǎ xiàng zuì xū yào tiáo zhěng 。",
+      "tr": "Uyku, beslenme, yürüyüş ve tansiyon kayıtlarını birlikte inceleyip öncelikle hangisini değiştireceğimizi belirleriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_070",
       "speaker": "张伟",
-      "zh": "另外，家人可以提醒，但最后还是要让本人愿意配合。",
-      "pinyin": "Lìngwài, jiārén kěyǐ tíxǐng, dàn zuìhòu háishì yào ràng běnrén yuànyì pèihé.",
-      "tr": "Ayrıca, aile hatırlatabilir ama kişinin kendisinin de istekli olması gerekir."
+      "zh": "我会把计划告诉家人，请他们陪我散步，但不需要每天催我。",
+      "pinyin": "wǒ huì bǎ jì huà gào sù jiā rén ， qǐng tā men péi wǒ sàn bù ， dàn bù xū yào měi tiān cuī wǒ 。",
+      "tr": "Planı aileme anlatıp yürüyüşte bana eşlik etmelerini isteyeceğim; her gün beni dürtmeleri gerekmiyor."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_071",
       "speaker": "刘梅",
-      "zh": "生活方式要是出现新变化，我们就得及时调整计划。",
-      "pinyin": "Shēnghuó fāngshì yàoshì chūxiàn xīn biànhuà, wǒmen jiù dé jíshí tiáozhěngjìhuà.",
-      "tr": "Yaşam tarzı değişirse planı da ayarlamak gerekir."
+      "zh": "如果工作时间临时改变，我会把散步挪到方便的时候，不因此取消整周目标。",
+      "pinyin": "rú guǒ gōng zuò shí jiān lín shí gǎi biàn ， wǒ huì bǎ sàn bù nuó dào fāng biàn de shí hòu ， bù yīn cǐ qǔ xiāo zhěng zhōu mù biāo 。",
+      "tr": "İş saatim değişirse yürüyüşü uygun bir zamana alırım; bu yüzden haftalık hedefin tamamını bırakmam."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_072",
       "speaker": "护士",
-      "zh": "嗯，我也觉得应该先分清轻重缓急。",
-      "pinyin": "En, wǒ yě juéde yīnggāi xiān fēnqīng qīngzhònghuǎnjí.",
-      "tr": "Bunu öncelikli konu olarak belirlemeye katılıyorum."
+      "zh": "这样安排很实际，也给临时加班留了余地。",
+      "pinyin": "zhè yàng ān pái hěn shí jì ， yě gěi lín shí jiā bān liú le yú dì 。",
+      "tr": "Bu düzen gerçekçi ve beklenmedik fazla mesai için de esneklik bırakıyor."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_073",
       "speaker": "医生",
-      "zh": "说到预防保健，最近实际情况怎么样？",
-      "pinyin": "Shuō dào yùfáng bǎojiàn, zuìjìn shíjì qíngkuàng zěnmeyàng?",
-      "tr": "Koruyucu sağlık konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "关于预防保健，我想确认：现在最重要的是坚持记录，还是先改变饮食？",
+      "pinyin": "guān yú yù fáng bǎo jiàn ， wǒ xiǎng què rèn ： xiàn zài zuì zhòng yào de shì jiān chí jì lù ， hái shì xiān gǎi biàn yǐn shí ？",
+      "tr": "Koruyucu sağlık konusunda şunu netleştirmek istiyorum: Şimdilik en önemlisi kayıt tutmak mı, beslenmeyi değiştirmek mi?"
     },
     {
       "id": "DLG_ZH_HSK5_SC025_074",
       "speaker": "张伟",
-      "zh": "嗯，这个角度确实会影响最后的决定。",
-      "pinyin": "En, zhège jiǎodù quèshí huì yǐngxiǎng zuìhòu de juédìng.",
-      "tr": "Bu açı nihai değerlendirmeyi etkiler."
+      "zh": "我觉得先把血压测量和少盐这两件事做好，再按计划散步。",
+      "pinyin": "Wǒ jué de xiān bǎ xuè yā cè liáng hé shǎo yán zhè liǎng jiàn shì zuò hǎo zài àn jì huà sàn bù",
+      "tr": "Bence önce tansiyon ölçümünü ve tuzu azaltmayı uygulayıp yürüyüşü de plana göre yapmalıyım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_075",
       "speaker": "刘梅",
-      "zh": "健康也是决定里很关键的一部分。",
-      "pinyin": "Jiànkāng yě shì juédìng lǐ hěn guānjiàn de yībùfèn.",
-      "tr": "Sağlık göz ardı edemeyeceğimiz bir nokta."
+      "zh": "明白。与过去相比，我现在知道要做哪几件具体的事了。",
+      "pinyin": "míng bái 。 yǔ guò qù xiāng bǐ ， wǒ xiàn zài zhī dào yào zuò nǎ jǐ jiàn jù tǐ de shì le 。",
+      "tr": "Anladım. Geçmişe kıyasla şimdi hangi somut adımları atacağımı biliyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_076",
       "speaker": "护士",
-      "zh": "嗯，我们也要看看有没有不同的情况。",
-      "pinyin": "En, wǒmen yě yào kànkàn yǒuméiyǒu bùtóng de qíngkuàng.",
-      "tr": "Ters yönde kanıt olup olmadığına da bakmalıyız."
+      "zh": "我把目标分成每天、每周两栏，复诊时更容易核对。",
+      "pinyin": "wǒ bǎ mù biāo fēn chéng měi tiān 、 měi zhōu liǎng lán ， fù zhěn shí gèng róng yì hé duì 。",
+      "tr": "Kontrolde daha kolay değerlendirmek için hedefleri günlük ve haftalık olarak iki sütuna ayırayım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_077",
       "speaker": "医生",
-      "zh": "那把医生也一起考虑进去。",
-      "pinyin": "Nà bǎ yīshēng yě yìqǐ kǎolǜ jìnqù.",
-      "tr": "Doktor konusunu da değerlendirme kapsamına alalım."
+      "zh": "如果哪天血压偏高但没有不舒服，您会怎么处理？",
+      "pinyin": "Rú guǒ nǎ tiān xuè yā piān gāo dàn méi yǒu bù shū fú nín huì zěn me chǔ lǐ",
+      "tr": "Bir gün tansiyonunuz yüksek çıkarsa ama rahatsızlık hissetmezseniz nasıl hareket edersiniz?"
     },
     {
       "id": "DLG_ZH_HSK5_SC025_078",
       "speaker": "张伟",
-      "zh": "也得听听医生自己的想法。",
-      "pinyin": "Yě dé tīngtīng yīshēng zìjǐ de xiǎngfǎ.",
-      "tr": "doktor tarafının kendi düşüncesini de dinlemek gerekir."
+      "zh": "我会先按刚才说的方式休息、复测并记录；如果数值特别高或有严重症状，就立即求助。",
+      "pinyin": "Wǒ huì xiān àn gāng cái shuō de fāng shì xiū xī fù cè bìng jì lù rú guǒ shù zhí tè bié gāo huò yǒu yán zhòng zhèng zhuàng jiù lì jí qiú zhù",
+      "tr": "Az önce konuştuğumuz gibi önce dinlenip yeniden ölçer ve kaydederim; değer çok yüksekse ya da ciddi belirtiler varsa hemen yardım isterim."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_079",
       "speaker": "刘梅",
-      "zh": "如果习惯的情况变了，后面的计划也得重新评估。",
-      "pinyin": "Rúguǒ xíguàn de qíngkuàng biàn le, hòumiàn de jìhuà yě dé chóngxīn pínggū.",
-      "tr": "Alışkanlık değişirse planı da ayarlamak gerekir."
+      "zh": "我们会按这个说明做，也不会只凭一次读数就判断病情。",
+      "pinyin": "Wǒ men huì àn zhè ge shuō míng zuò yě bú huì zhǐ píng yī cì dú shù jiù pàn duàn bìng qíng",
+      "tr": "Bu açıklamaya göre hareket eder, tek bir ölçüme bakarak durumu değerlendirmeyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_080",
       "speaker": "护士",
-      "zh": "我更关心的是，这个计划能不能真的坚持下去。",
-      "pinyin": "Wǒ gèng guānxīn de shì, zhège jìhuà néng bùnéng zhēnde jiānchíxiàqù.",
-      "tr": "Ben daha çok bu planın gerçekten sürdürülebilir olup olmadığını önemsiyorum."
+      "zh": "我把测量步骤和需要及时求助的症状也写在表格背面了。",
+      "pinyin": "wǒ bǎ cè liáng bù zhòu hé xū yào jí shí qiú zhù de zhèng zhuàng yě xiě zài biǎo gé bèi miàn le 。",
+      "tr": "Ölçüm adımlarını ve acil yardım gerektiren belirtileri çizelgenin arkasına da yazdım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_081",
       "speaker": "医生",
-      "zh": "关于平衡，医生最担心的是什么？",
-      "pinyin": "Guānyú pínghéng, yīshēng zuì dānxīn de shì shénme?",
-      "tr": "Denge konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "我最担心的是您为了赶进度，忽略休息或不舒服还继续运动。",
+      "pinyin": "wǒ zuì dān xīn de shì nín wèi le gǎn jìn dù ， hū lüè xiū xī huò bù shū fú hái jì xù yùn dòng 。",
+      "tr": "En çok, programa yetişmek için dinlenmeyi ihmal etmenizden ya da rahatsızken egzersize devam etmenizden endişeleniyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_082",
       "speaker": "张伟",
-      "zh": "这个信息很关键。",
-      "pinyin": "Zhège xìnxī hěn guānjiàn.",
-      "tr": "Bu bilgi çok kritik."
+      "zh": "我明白。与完成所有目标相比，身体不舒服时及时停下来更重要。",
+      "pinyin": "wǒ míng bái 。 yǔ wán chéng suǒ yǒu mù biāo xiāng bǐ ， shēn tǐ bù shū fú shí jí shí tíng xià lái gèng zhòng yào 。",
+      "tr": "Anladım. Bütün hedefleri tamamlamaya kıyasla, kendimi iyi hissetmediğimde durmak daha önemli."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_083",
       "speaker": "刘梅",
-      "zh": "该休息的时候就休息，硬撑反而容易把小问题拖大。",
-      "pinyin": "Gāi xiūxī de shíhòu jiù xiūxī, yìngchēng fǎnér róngyì bǎ xiǎo wèntí tuōdà.",
-      "tr": "Dinlenmek gerektiğinde dinlenmek gerekir; kendini zorlamak küçük sorunları büyütebilir."
+      "zh": "对。休息不是偷懒；如果持续不舒服，就及时联系医生。",
+      "pinyin": "duì 。 xiū xī bú shì tōu lǎn ； rú guǒ chí xù bù shū fú ， jiù jí shí lián xì yī shēng 。",
+      "tr": "Evet. Dinlenmek tembellik değildir; rahatsızlık sürerse doktorla zamanında iletişime geçin."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_084",
       "speaker": "护士",
-      "zh": "其实，不用追求一次把所有问题都解决，先把下一步走稳。",
-      "pinyin": "Qíshí, bùyòng zhuīqiú yīcì bǎ suǒyǒu wèntí dōu jiějué, xiān bǎ xià yībù zǒuwěn.",
-      "tr": "Aslında, bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+      "zh": "今天我们定下了三件事：规律测量、减少咸食、每周散步三次。",
+      "pinyin": "jīn tiān wǒ men dìng xià le sān jiàn shì ： guī lǜ cè liáng 、 jiǎn shǎo xián shí 、 měi zhōu sàn bù sān cì 。",
+      "tr": "Bugün üç konuda anlaştık: düzenli ölçüm, tuzlu yiyecekleri azaltmak ve haftada üç kez yürümek."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_085",
       "speaker": "医生",
-      "zh": "帮忙这方面先按医生的建议来。",
-      "pinyin": "Bāngmáng zhèfāngmiàn xiān àn yīshēng de jiànyì lái.",
-      "tr": "bu konu konusunda önce doktorun önerisine uyalım."
+      "zh": "刘梅，如果他忙起来忘了测量，你可以提醒一次，但不必替他记录。",
+      "pinyin": "liú méi ， rú guǒ tā máng qǐ lái wàng le cè liáng ， nǐ kě yǐ tí xǐng yī cì ， dàn bù bì tì tā jì lù 。",
+      "tr": "Liu Mei, yoğunluktan ölçümü unutursa bir kez hatırlatabilirsiniz ama kaydı onun yerine tutmanız gerekmez."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_086",
       "speaker": "张伟",
-      "zh": "这部分值得继续核实。",
-      "pinyin": "Zhèbùfèn zhíde jìxù héshí.",
-      "tr": "Bu nokta doğrulanmaya devam edilmeye değer."
+      "zh": "好，我会把手机提醒设好，结果也由我自己填写，不让她替我记录。",
+      "pinyin": "Hǎo wǒ huì bǎ shǒu jī tí xǐng shè hǎo jié guǒ yě yóu wǒ zì jǐ tián xiě bù ràng tā tì wǒ jì lù",
+      "tr": "Peki, telefonda hatırlatıcı kurup sonuçları kendim yazacağım; onun benim yerime kayıt tutmasına gerek yok."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_087",
       "speaker": "刘梅",
-      "zh": "不过，有些指标需要时间观察，不用今天就下结论。",
-      "pinyin": "Bùguò, yǒuxiē zhǐbiāo xūyào shíjiān guānchá, bùyòng jīntiān jiù xiàjiélùn.",
-      "tr": "Ancak, bazı göstergeleri zaman içinde izlemek gerekir; bugün hemen sonuç çıkarmaya gerek yok."
+      "zh": "如果一周后还是很难执行，我们就调整计划，而不是勉强维持。",
+      "pinyin": "rú guǒ yī zhōu hòu hái shì hěn nán zhí xíng ， wǒ men jiù tiáo zhěng jì huà ， ér bú shì miǎn qiǎng wéi chí 。",
+      "tr": "Bir hafta sonra uygulamak hâlâ zorsa planı değiştiririz; kendinizi zorlayarak sürdürmeyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_088",
       "speaker": "护士",
-      "zh": "换个角度看，我们至少已经知道彼此最在意什么了。",
-      "pinyin": "Huàngè jiǎodùkàn, wǒmen zhìshǎo yǐjīng zhīdào bǐcǐ zuì zàiyì shénme le.",
-      "tr": "Başka bir açıdan bakarsak, en azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+      "zh": "这么安排比较稳妥。您可以如实说遇到的困难，我们再一起调整。",
+      "pinyin": "Zhè me ān pái bǐ jiào wěn tuǒ nín kě yǐ rú shí shuō yù dào de kùn nán wǒ men zài yì qǐ tiáo zhěng",
+      "tr": "Bu düzen daha sağlam. Karşılaştığınız güçlükleri açıkça anlatın, birlikte ayarlayalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_089",
       "speaker": "医生",
-      "zh": "关于预防保健，医生最担心的是什么？",
-      "pinyin": "Guānyú yùfáng bǎojiàn, yīshēng zuì dānxīn de shì shénme?",
-      "tr": "Koruyucu sağlık konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "复查时请如实告诉我哪些做到了、哪些没做到，这样我才能给出合适的建议。",
+      "pinyin": "fù chá shí qǐng rú shí gào sù wǒ nǎ xiē zuò dào le 、 nǎ xiē méi zuò dào ， zhè yàng wǒ cái néng gěi chū hé shì de jiàn yì 。",
+      "tr": "Kontrolde neleri yapıp neleri yapamadığınızı açıkça söyleyin; uygun öneriyi böyle verebilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_090",
       "speaker": "张伟",
-      "zh": "每个人看到的角度不一样，把这些角度放在一起会更完整。",
-      "pinyin": "Měigè rén kàndào de jiǎodù bù yīyàng, bǎ zhèxiē jiǎodù fàngzài yìqǐ huì gèng wánzhěng.",
-      "tr": "Herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+      "zh": "我会带上记录，也会把工作时间变化写下来，方便一起判断。",
+      "pinyin": "wǒ huì dài shàng jì lù ， yě huì bǎ gōng zuò shí jiān biàn huà xiě xià lái ， fāng biàn yì qǐ pàn duàn 。",
+      "tr": "Kayıtları getirecek ve birlikte değerlendirebilmemiz için iş saatlerimdeki değişiklikleri de yazacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_091",
       "speaker": "刘梅",
-      "zh": "嗯，健康也是决定里很关键的一部分。",
-      "pinyin": "En, jiànkāng yě shì juédìng lǐ hěn guānjiàn de yībùfèn.",
-      "tr": "Sağlık göz ardı edemeyeceğimiz bir nokta."
+      "zh": "我也会尊重他的节奏；如果他觉得目标太多，我们就一起删减。",
+      "pinyin": "wǒ yě huì zūn zhòng tā de jié zòu ； rú guǒ tā jué de mù biāo tài duō ， wǒ men jiù yì qǐ shān jiǎn 。",
+      "tr": "Onun temposuna saygı göstereceğim; hedefler fazla gelirse birlikte azaltırız."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_092",
       "speaker": "护士",
-      "zh": "这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "Zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
-      "tr": "Bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "很好。习惯能长期维持，比短时间做到很多更有帮助。",
+      "pinyin": "hěn hǎo 。 xí guàn néng cháng qī wéi chí ， bǐ duǎn shí jiān zuò dào hěn duō gèng yǒu bāng zhù 。",
+      "tr": "Güzel. Alışkanlıkları uzun süre sürdürebilmek, kısa sürede çok şey yapmaktan daha faydalı."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_093",
       "speaker": "医生",
-      "zh": "医生这一项也加进去吧。",
-      "pinyin": "Yīshēng zhè yīxiàng yě jiājìnqù ba.",
-      "tr": "Doktor konusunu da değerlendirme kapsamına alalım."
+      "zh": "复诊时请把测量记录、正在使用的药物清单和新的检查结果一起带来。",
+      "pinyin": "Fù zhěn shí qǐng bǎ cè liáng jì lù zhèng zài shǐ yòng de yào wù qīng dān hé xīn de jiǎn chá jié guǒ yì qǐ dài lái",
+      "tr": "Kontrole ölçüm kayıtlarını, kullandığınız ilaçların listesini ve yeni tetkik sonuçlarını getirin."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_094",
       "speaker": "张伟",
-      "zh": "换个角度看，我们先把最需要注意的风险记下来。",
-      "pinyin": "Huàngè jiǎodùkàn, wǒmen xiān bǎ zuì xūyào zhùyì de fēngxiǎn jìxiàlái.",
-      "tr": "Başka bir açıdan bakarsak, önce en çok dikkat etmemiz gereken riskleri not edelim."
+      "zh": "好，我会准备好；如果有新的检查结果，也会一起带来。",
+      "pinyin": "Hǎo wǒ huì zhǔn bèi hǎo rú guǒ yǒu xīn de jiǎn chá jié guǒ yě huì yì qǐ dài lái",
+      "tr": "Peki, hepsini hazırlayacağım; yeni tetkik sonucu olursa onu da getireceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_095",
       "speaker": "刘梅",
-      "zh": "家人可以提醒，但最后还是要让本人愿意配合。",
-      "pinyin": "Jiārén kěyǐ tíxǐng, dàn zuìhòu háishì yào ràng běnrén yuànyì pèihé.",
-      "tr": "Aile hatırlatabilir ama kişinin kendisinin de istekli olması gerekir."
+      "zh": "我可以帮他整理药名和剂量，再让他核对，避免只凭记忆说明。",
+      "pinyin": "Wǒ kě yǐ bāng tā zhěng lǐ yào míng hé jì liàng zài ràng tā hé duì bì miǎn zhǐ píng jì yì shuō míng",
+      "tr": "İlaç adlarını ve dozlarını not etmesine yardım eder, yalnızca hafızaya güvenmemek için kendisine kontrol ettiririm."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_096",
       "speaker": "护士",
-      "zh": "回去以后如果不清楚，可以按这个记录每天的情况。",
-      "pinyin": "Huíqù yǐhòu rúguǒ bù qīngchǔ, kěyǐ àn zhège jìlù měitiān de qíngkuàng.",
-      "tr": "Eve döndükten sonra emin olmadığınızda günlük durumunuzu bu şekilde kaydedebilirsiniz."
+      "zh": "我把复查时间和需要准备的资料写在表格下面了。",
+      "pinyin": "wǒ bǎ fù chá shí jiān hé xū yào zhǔn bèi de zī liào xiě zài biǎo gé xià miàn le 。",
+      "tr": "Kontrol tarihini ve getirmeniz gereken belgeleri çizelgenin altına yazdım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_097",
       "speaker": "医生",
-      "zh": "另外，健康方面宁可多确认一次，也不要因为怕麻烦而忽略。",
-      "pinyin": "Lìngwài, jiànkāng fāngmiàn nìngkě duō quèrèn yīcì, yě búyào yīnwèi pàmáfán ér hūlüè.",
-      "tr": "Ayrıca, sağlık konusunda bir kez fazla kontrol etmek, zahmet olur diye göz ardı etmekten iyidir."
+      "zh": "如果这两周出现明显不适，不要等复查；先联系诊所或及时就医。",
+      "pinyin": "rú guǒ zhè liǎng zhōu chū xiàn míng xiǎn bù shì ， bú yào děng fù chá ； xiān lián xì zhěn suǒ huò jí shí jiù yī 。",
+      "tr": "Bu iki hafta içinde belirgin bir rahatsızlık olursa kontrol gününü beklemeyin; kliniğe ulaşın ya da tıbbi yardım alın."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_098",
       "speaker": "张伟",
-      "zh": "不过，我们先处理最关键的一点，再看其他细节。",
-      "pinyin": "Bùguò, wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
-      "tr": "Ancak, önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+      "zh": "好。我会按计划开始，遇到困难或不舒服就及时告诉你们。",
+      "pinyin": "hǎo 。 wǒ huì àn jì huà kāi shǐ ， yù dào kùn nán huò bù shū fú jiù jí shí gào sù nǐ men 。",
+      "tr": "Peki. Plana göre başlayacağım; zorlanır ya da rahatsızlık hissedersem size zamanında haber veririm."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_099",
       "speaker": "刘梅",
-      "zh": "其实，这个想法可以继续讨论，不过最好再确认一下实际条件。",
-      "pinyin": "Qíshí, zhège xiǎngfǎ kěyǐ jìxù tǎolùn, bùguò zuìhǎo zài quèrèn yīxià shíjì tiáojiàn.",
-      "tr": "Aslında, bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+      "zh": "这次我知道怎么支持他了：提醒一次，其他的让他自己安排和记录。",
+      "pinyin": "Zhè cì wǒ zhī dào zěn me zhī chí tā le tí xǐng yī cì qí tā de ràng tā zì jǐ ān pái hé jì lù",
+      "tr": "Bu kez ona nasıl destek olacağımı biliyorum: bir kez hatırlatıp gerisini kendisinin düzenlemesine ve kaydetmesine bırakacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_100",
       "speaker": "护士",
-      "zh": "换个角度看，家里人可以提醒，但也别给自己太大压力。",
-      "pinyin": "Huàngè jiǎodùkàn, jiālǐrén kěyǐ tíxǐng, dàn yě bié gěi zìjǐ tài dà yālì.",
-      "tr": "Başka bir açıdan bakarsak, aileniz hatırlatabilir ama kendinize fazla baskı yapmayın."
+      "zh": "很好。我们先按这份计划试两周，复查时再一起看记录和感受。",
+      "pinyin": "hěn hǎo 。 wǒ men xiān àn zhè fèn jì huà shì liǎng zhōu ， fù chá shí zài yì qǐ kàn jì lù hé gǎn shòu 。",
+      "tr": "Güzel. Bu planı önce iki hafta deneyelim; kontrolde kayıtları ve nasıl hissettiğinizi birlikte değerlendiririz."
     }
   ],
   "productionStatus": "complete",

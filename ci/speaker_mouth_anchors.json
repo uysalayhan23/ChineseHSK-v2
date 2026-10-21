@@ -28,7 +28,7 @@
           0.166
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC002": {
       "imageSha256": "1e22589f0cfbe543e6d5025e8bb5c48f9fc1f39b67f347ad5048d52ba5ea3982",
@@ -52,7 +52,7 @@
           0.53
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC003": {
       "imageSha256": "0ee2ecdad55b8c3a294d69e3ba5cb04fca796af9d7801a5f39c48a35144b566e",
@@ -76,7 +76,7 @@
           0.494
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC004": {
       "imageSha256": "bb3d4661faee75804672763cc3931970b5728b5d49964e846653c73d473852b4",
@@ -104,7 +104,7 @@
           0.349
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC005": {
       "imageSha256": "f0143d6b54bae0ab2f2ee8eb3c3100daf69a42685b06d96e858cbb41f10f9d1d",
@@ -128,7 +128,7 @@
           0.432
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC006": {
       "imageSha256": "22b7b5aa7d515134de5955b28ebf2e8cde0acac82e70eaffac1cbfc2625b7db1",
@@ -152,7 +152,7 @@
           0.574
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC007": {
       "imageSha256": "d2da8627d758fbdb6642d5e7bb2bd1ef36a783b79785ba40920138a57ebd82a8",
@@ -176,7 +176,7 @@
           0.495
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC008": {
       "imageSha256": "1f3eb092a56c9fc9515c2e9f4f4057c97d6f674fe016941de587f0ad4c64ed5c",
@@ -200,7 +200,7 @@
           0.505
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC009": {
       "imageSha256": "7ea5e8227910cbb4dfcd9d6841311769be8cc7cdfb723bdfec7835049e95068e",
@@ -224,7 +224,7 @@
           0.505
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC010": {
       "imageSha256": "22a28656c238e21e9db042f3c5a6b56fd233099903fabc61de905b3ce7502413",
@@ -248,7 +248,7 @@
           0.323
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC011": {
       "imageSha256": "794342630b01542561ca7fcc5dacfe2d4a08aee836e25d414b4b3c5a661b5de5",
@@ -272,7 +272,7 @@
           0.49
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC012": {
       "imageSha256": "043c2cacb04a2e162c82110a967bd27e1f5e4e3983342926eff22853fc7449d1",
@@ -296,7 +296,7 @@
           0.173
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC013": {
       "imageSha256": "3eedf31e4e5de9f4b201194628ab06da1b9a839e9b1289e912f64ad9269947a3",
@@ -320,7 +320,7 @@
           0.182
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC014": {
       "imageSha256": "abf8b69885332e2209164de7ba2bbe68fdfe4d9079f2ad5376278bd50c81bcdc",
@@ -344,7 +344,7 @@
           0.474
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC015": {
       "imageSha256": "4ea77420bb34bc424aefd83a2fca2e61547ab315f942bc5964a0aca2947a7aba",
@@ -368,7 +368,7 @@
           0.486
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC016": {
       "imageSha256": "e8f25c20141c470e8f90b75ec7a30df10a10c42103aceeed78d095da1164aae4",
@@ -392,7 +392,7 @@
           0.472
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC017": {
       "imageSha256": "cf29362dd252b86e2cbcac6afc0c44fe3c621c39b26c6db6a456fe4eb877f112",
@@ -416,7 +416,7 @@
           0.271
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC018": {
       "imageSha256": "f0a1c0f9ed2ab3ce11a0246d0a2bbcc3daf3e95ebda9eb7295e240997188fd2d",
@@ -440,7 +440,7 @@
           0.448
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC019": {
       "imageSha256": "27f29ba0114b1e4fa68e5cd4685312a90c7112a01bbbf2ef4c2a199e6266dfa3",
@@ -464,7 +464,7 @@
           0.481
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC020": {
       "imageSha256": "80985b85a86270b40b78921f8e1d0b2920386e4c8b24608c42e2e979ffece575",
@@ -488,7 +488,7 @@
           0.471
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC021": {
       "imageSha256": "89679fd83c2ed48f25c80465d0860e0da851174a3be0b40753adce6942866414",
@@ -512,7 +512,7 @@
           0.435
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC022": {
       "imageSha256": "0c1f9c06da254bd2e9608fa1a8763c1af03ccc60ed2e8eb814856e7bdac6b962",
@@ -948,7 +948,7 @@
           "personKey": "CLASSMATE_BOY"
         }
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC023": {
       "imageSha256": "55d267a019225cc4e108497d413c19c0d3bcb5fbdcefa4326c1734f9f70b9902",
@@ -1384,7 +1384,7 @@
           "personKey": "老师"
         }
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC024": {
       "imageSha256": "49334897edc2ec0843e6f7c78d1d5513a54eb013de93c69d3df456c0fab70213",
@@ -1408,7 +1408,7 @@
           0.375
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC025": {
       "imageSha256": "24c2939912f3a8e149ed3f51ccf5b85095f814544414761cc494f80cfab64c70",
@@ -1432,7 +1432,7 @@
           0.478
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC026": {
       "imageSha256": "c2319eec1838b1b8339d461d737c16f2c7c0ec234082bc7695f72b021d6b574f",
@@ -1456,7 +1456,7 @@
           0.379
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC027": {
       "imageSha256": "cf758adb4a0b23cf522b6f6ab9a9a4b9d682218c90559aa9470473bc0df82490",
@@ -1480,7 +1480,7 @@
           0.421
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
     },
     "ZH_HSK1_SC028": {
       "imageSha256": "125c3939efc4291991af7ac65c745c25b30dc54f0f09d0b3aa605c556ea81e68",
@@ -1504,7 +1504,6409 @@
           0.505
         ]
       },
-      "reviewStatus": "MODEL_VISUAL_CALIBRATION"
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC029": {
+      "imageSha256": "496c2fdb2983d980f6d41fa7b58574fbd996748acc1d2d8ffb53d40fd3d0c5bd",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.268,
+          0.217
+        ],
+        "公司职员": [
+          0.518,
+          0.275
+        ],
+        "经理": [
+          0.893,
+          0.249
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC030": {
+      "imageSha256": "c5f27bb6d1b872583a921c34c9691f04379ad588f239ea0dc88aa4e91b7f9339",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.55,
+          0.31
+        ],
+        "刘梅": [
+          0.8,
+          0.3
+        ],
+        "张雨桐": [
+          0.21,
+          0.29
+        ],
+        "张乐乐": [
+          0.09,
+          0.45
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC031": {
+      "imageSha256": "10a4acdecabe42383e1230f9bf841752bd13b14c2e787c45b00a6d3eb1e0475b",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.68,
+          0.25
+        ],
+        "同事": [
+          0.39,
+          0.28
+        ],
+        "保安": [
+          0.14,
+          0.22
+        ],
+        "经理": [
+          0.91,
+          0.22
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC032": {
+      "imageSha256": "215a5248427356d74223e8b8d9514a62012bf95ad02f93c9e8f9df7625aefb08",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.48,
+          0.26
+        ],
+        "同事": [
+          0.21,
+          0.28
+        ],
+        "经理": [
+          0.86,
+          0.3
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC033": {
+      "imageSha256": "75a930c2e8ef9a159f3d60f32a04dc0d1585da240f9a34aaa2b108a56f1c54fb",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.28,
+          0.14
+        ],
+        "同事": [
+          0.41,
+          0.18
+        ],
+        "服务员": [
+          0.85,
+          0.12
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC034": {
+      "imageSha256": "2404a372f3304afd031e0887d08f1df1219de5e2e62bc5826514e185b7206612",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.47,
+          0.3
+        ],
+        "乘客": [
+          0.1,
+          0.27
+        ],
+        "工作人员": [
+          0.85,
+          0.33
+        ],
+        "刘梅": [
+          0.67,
+          0.33
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS",
+      "bubbleScales": {
+        "刘梅": 0.38
+      }
+    },
+    "ZH_HSK1_SC035": {
+      "imageSha256": "16d9bcd1a802a51a3770abbbbab9e1af6d83ba3a98495aad0c6c5fe54de1f5fb",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.12,
+          0.27
+        ],
+        "刘梅": [
+          0.4,
+          0.29
+        ],
+        "李晨": [
+          0.64,
+          0.22
+        ],
+        "李晨妻子": [
+          0.92,
+          0.25
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC036": {
+      "imageSha256": "60a62d7343f6b629468c9a41abf040dfb8e7d64598a47c8cea6e5abb35f15139",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张乐乐": [
+          0.38,
+          0.25
+        ],
+        "小朋友": [
+          0.82,
+          0.36
+        ],
+        "张雨桐": [
+          0.7,
+          0.23
+        ],
+        "刘梅": [
+          0.19,
+          0.24
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC037": {
+      "imageSha256": "d3e1ae7c37e54989b0b51edb8de541b7f53e704e8ad0b36cd5cfac24cb2eed87",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.32,
+          0.24
+        ],
+        "刘梅": [
+          0.62,
+          0.29
+        ],
+        "张乐乐": [
+          0.13,
+          0.29
+        ],
+        "张雨桐": [
+          0.85,
+          0.29
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC038": {
+      "imageSha256": "c2d6c9be041dabdac26ca7c70a806d6706cdbebd2aad2bd5bd5c1556e312fc91",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张乐乐": [
+          0.31,
+          0.44
+        ],
+        "刘梅": [
+          0.47,
+          0.29
+        ],
+        "张伟": [
+          0.27,
+          0.21
+        ],
+        "店员": [
+          0.89,
+          0.23
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC039": {
+      "imageSha256": "aa1b1c869d23b4bdd036f6db3602aefc95888ebcf2e1222193a0db7412d4ba76",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.17,
+          0.25
+        ],
+        "刘梅": [
+          0.42,
+          0.31
+        ],
+        "张乐乐": [
+          0.34,
+          0.5
+        ],
+        "张雨桐": [
+          0.86,
+          0.31
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC040": {
+      "imageSha256": "7883048d2a87e67b06103346b17e23e96243a20d0db0416542df29e55b7c6b1b",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.578,
+          0.221
+        ],
+        "刘梅": [
+          0.388,
+          0.247
+        ],
+        "快递员": [
+          0.799,
+          0.237
+        ],
+        "邻居": [
+          0.19,
+          0.247
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC041": {
+      "imageSha256": "848513a8bcf99150d5af9446d3530db72d3b2d10073e49580a10e004c2ae8f78",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.424,
+          0.199
+        ],
+        "刘梅": [
+          0.173,
+          0.255
+        ],
+        "兽医": [
+          0.829,
+          0.269
+        ],
+        "张乐乐": [
+          0.177,
+          0.569
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC042": {
+      "imageSha256": "6a0b42ee1712cf599ad373f2c939bf41416810017c524bdb17b2bd61279cabe7",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.27,
+          0.281
+        ],
+        "张伟": [
+          0.448,
+          0.216
+        ],
+        "店员": [
+          0.798,
+          0.261
+        ],
+        "张乐乐": [
+          0.446,
+          0.468
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC043": {
+      "imageSha256": "7a350cc7839885c1cccd800a39150dfa09fffeab3ca90b4b7f2008c518a4b18e",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.276,
+          0.199
+        ],
+        "张伟": [
+          0.821,
+          0.185
+        ],
+        "张乐乐": [
+          0.167,
+          0.553
+        ],
+        "张雨桐": [
+          0.527,
+          0.42
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC044": {
+      "imageSha256": "2752ae5a100cee2d620a1a7ec9e1e5e6b366c888ea4549a3e4e9f6933a7a20be",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "老师": [
+          0.164,
+          0.143
+        ],
+        "张乐乐": [
+          0.477,
+          0.397
+        ],
+        "同学": [
+          0.866,
+          0.435
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC045": {
+      "imageSha256": "c55da8bbdce80a2946bd0ac2b84729b3834485ed68c51cf669e9f04ed8bfdc7b",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.257,
+          0.211
+        ],
+        "张伟": [
+          0.506,
+          0.321
+        ],
+        "张乐乐": [
+          0.217,
+          0.545
+        ],
+        "张雨桐": [
+          0.792,
+          0.274
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC046": {
+      "imageSha256": "c622c4ad33158d3e68c34da405d1eb30696a18d7167af1b719099ac255bf353e",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.607,
+          0.222
+        ],
+        "张伟": [
+          0.241,
+          0.203
+        ],
+        "邻居": [
+          0.892,
+          0.278
+        ],
+        "张乐乐": [
+          0.3,
+          0.468
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC047": {
+      "imageSha256": "d633ec31b6c8bac49a96de150d171993b46ceed43d8525ae168c8a7e8f175e5e",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.405,
+          0.225
+        ],
+        "张伟": [
+          0.231,
+          0.198
+        ],
+        "李晨": [
+          0.647,
+          0.246
+        ],
+        "李晨妻子": [
+          0.889,
+          0.288
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC048": {
+      "imageSha256": "9edd78a7a69b185ac72ef47d0e43016e453d4cf94b5bfda39361d4c80bd593b6",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.38,
+          0.221
+        ],
+        "张伟": [
+          0.244,
+          0.2
+        ],
+        "新朋友": [
+          0.85,
+          0.256
+        ],
+        "社区工作人员": [
+          0.566,
+          0.256
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC049": {
+      "imageSha256": "74c5ba5205e62bfe58f12d81485bcfffac4e22566ec2914e67ec7bc00da5bc0a",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.605,
+          0.281
+        ],
+        "张伟": [
+          0.237,
+          0.203
+        ],
+        "张乐乐": [
+          0.73,
+          0.444
+        ],
+        "张雨桐": [
+          0.386,
+          0.377
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK1_SC050": {
+      "imageSha256": "59508a6e6ad4b64583fb6de9df557726c0b8ec9ba0adfe6e00ce6e301a1ab843",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.383,
+          0.243
+        ],
+        "张伟": [
+          0.229,
+          0.235
+        ],
+        "李晨": [
+          0.683,
+          0.252
+        ],
+        "李晨妻子": [
+          0.902,
+          0.241
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC001": {
+      "imageSha256": "a1937c2fb8ea340902834da04e8e3dc8f4b8485763264d384586b7e96dcdbd3b",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.363,
+          0.282
+        ],
+        "张伟": [
+          0.586,
+          0.208
+        ],
+        "张雨桐": [
+          0.842,
+          0.322
+        ],
+        "张乐乐": [
+          0.675,
+          0.465
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC002": {
+      "imageSha256": "38b7a6f4fb277ff5b26db173b13ea213969848ef3c809f7ff7fb01daa638cb5a",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.564,
+          0.31
+        ],
+        "张伟": [
+          0.302,
+          0.304
+        ],
+        "工作人员": [
+          0.849,
+          0.408
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC003": {
+      "imageSha256": "ed4cf19b51089ca184639b5eddf7903f5383c15b72ed961e37714b392e0b06e8",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.519,
+          0.228
+        ],
+        "摊主": [
+          0.198,
+          0.214
+        ],
+        "邻居": [
+          0.879,
+          0.238
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC004": {
+      "imageSha256": "a3a41c6d426af0cea5b9de11655fc6ce9dda6e52b83355afdb67787550d0a20e",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.228,
+          0.329
+        ],
+        "张乐乐": [
+          0.491,
+          0.421
+        ],
+        "邻居": [
+          0.892,
+          0.262
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC005": {
+      "imageSha256": "abe6f845093b23e2cfb524890610ffc03f0a95cf5e6cb2707b953b914bf46148",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "同学": [
+          0.172,
+          0.327
+        ],
+        "张雨桐": [
+          0.504,
+          0.312
+        ],
+        "老师": [
+          0.886,
+          0.27
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC007": {
+      "imageSha256": "844c9a90c0d3ace343d0f19a2a622544108076b939032e5b79616aa0b902b6ac",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.518,
+          0.309
+        ],
+        "张伟": [
+          0.28,
+          0.273
+        ],
+        "张乐乐": [
+          0.244,
+          0.57
+        ],
+        "店员": [
+          0.86,
+          0.365
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC008": {
+      "imageSha256": "b9d229cd2439e71e5f2eafa23c5fc3c504fc446e905b0b7e96259b0799a7067c",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张乐乐": [
+          0.427,
+          0.48
+        ],
+        "张雨桐": [
+          0.144,
+          0.378
+        ],
+        "刘梅": [
+          0.47,
+          0.327
+        ],
+        "邻居": [
+          0.833,
+          0.335
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC009": {
+      "imageSha256": "da1086de900383b0232b618bedea290ea64f7eca49ba344fae2d0d24449b8e93",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.597,
+          0.32
+        ],
+        "张伟": [
+          0.267,
+          0.313
+        ],
+        "店员": [
+          0.878,
+          0.301
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC010": {
+      "imageSha256": "2b28c34349da26ac96495c8e705e24f71be965b348cc67d7c6f4d313a560b9d5",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.53,
+          0.405
+        ],
+        "张伟": [
+          0.26,
+          0.184
+        ],
+        "张雨桐": [
+          0.219,
+          0.66
+        ],
+        "张乐乐": [
+          0.878,
+          0.5
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC011": {
+      "imageSha256": "c23c3b7055b3549c892ccbdc906a0c0acc9dea16195fd8788a8382ecebf3aeb0",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.28,
+          0.32
+        ],
+        "老师": [
+          0.82,
+          0.325
+        ],
+        "张乐乐": [
+          0.51,
+          0.39
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC012": {
+      "imageSha256": "9e326d68aa1b4142bb7eccfe8a31815c5625cb77ffe5a0ed7c2ed522f7e52149",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张雨桐": [
+          0.24,
+          0.274
+        ],
+        "同学": [
+          0.458,
+          0.293
+        ],
+        "刘梅": [
+          0.693,
+          0.287
+        ],
+        "张伟": [
+          0.922,
+          0.171
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC013": {
+      "imageSha256": "1d2d56431b587ecf08782f292725ea3b735f75845f7347b25bfea44df192dfa6",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.594,
+          0.276
+        ],
+        "同事": [
+          0.223,
+          0.182
+        ],
+        "新同事": [
+          0.891,
+          0.362
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC014": {
+      "imageSha256": "ccc6563f91760a96a8d105c9463bc4b17535aed49f6c1831f51947953fc1c2d1",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.531,
+          0.405
+        ],
+        "理发师": [
+          0.831,
+          0.251
+        ],
+        "刘梅": [
+          0.255,
+          0.234
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC015": {
+      "imageSha256": "bb82d0590a514a6314e5f192818b4364136f780d2488cf0bfddf5e798f0725b3",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.544,
+          0.352
+        ],
+        "张伟": [
+          0.23,
+          0.209
+        ],
+        "张雨桐": [
+          0.842,
+          0.41
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC016": {
+      "imageSha256": "85d2d42ebe649ecdc00e52d189801095aae88ba7963ec2eefdb944b509220c77",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.835,
+          0.294
+        ],
+        "刘梅": [
+          0.51,
+          0.366
+        ],
+        "张乐乐": [
+          0.375,
+          0.497
+        ],
+        "张雨桐": [
+          0.173,
+          0.376
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC017": {
+      "imageSha256": "c8dd70847083aaff1dd30ca69e188e371038445ef5288a87a2ccb64e52562937",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.471,
+          0.268
+        ],
+        "张雨桐": [
+          0.194,
+          0.281
+        ],
+        "张乐乐": [
+          0.174,
+          0.443
+        ],
+        "店员": [
+          0.85,
+          0.242
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC018": {
+      "imageSha256": "290e7a477ee4862a899d9e3ef286806512bccd0404073d5fdf0392cb6d23db42",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张雨桐": [
+          0.252,
+          0.418
+        ],
+        "刘梅": [
+          0.556,
+          0.329
+        ],
+        "工作人员": [
+          0.9,
+          0.431
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC020": {
+      "imageSha256": "988ec92ec9f2cfae15ccbd6933a646ac93deea0404de19f2a515a17084c5920f",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.249,
+          0.391
+        ],
+        "刘梅": [
+          0.861,
+          0.431
+        ],
+        "张雨桐": [
+          0.653,
+          0.472
+        ],
+        "张乐乐": [
+          0.42,
+          0.45
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC006": {
+      "imageSha256": "acab29c1c7f6b05d45b65d889bc62104a53d210ffad341df0e5b6cba1056d5a4",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.36,
+          0.29
+        ],
+        "刘梅": [
+          0.736,
+          0.37
+        ],
+        "同事": [
+          0.925,
+          0.36
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC021": {
+      "imageSha256": "00739a2798474f10816b12e522c5db95508bb0fb5baa2595e74dad18cb0e697d",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.302,
+          0.27
+        ],
+        "张乐乐": [
+          0.39,
+          0.489
+        ],
+        "图书管理员": [
+          0.83,
+          0.346
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC022": {
+      "imageSha256": "fb67df27e2e1aa4baa8af856d7ffdf2bb820603b9227767efc281db9804e9e4e",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.136,
+          0.252
+        ],
+        "刘梅": [
+          0.32,
+          0.278
+        ],
+        "张雨桐": [
+          0.688,
+          0.279
+        ],
+        "队友": [
+          0.929,
+          0.345
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC024": {
+      "imageSha256": "b162d69749a555d08c021fcefb45a2989f7668b51ebedca7fa49176f6cd02024",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.19,
+          0.294
+        ],
+        "张雨桐": [
+          0.541,
+          0.365
+        ],
+        "刘梅": [
+          0.85,
+          0.353
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC025": {
+      "imageSha256": "3d889c1884c03ced8b30e917edfea2c73f8165e449afe8aeee40458bfce9e383",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.215,
+          0.302
+        ],
+        "李晨": [
+          0.518,
+          0.304
+        ],
+        "刘梅": [
+          0.842,
+          0.335
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC026": {
+      "imageSha256": "e92b4ef511b43e0aafb14ba998d60c37570dab1c6675c7fd85a424cc313190ad",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.819,
+          0.375
+        ],
+        "张乐乐": [
+          0.411,
+          0.456
+        ],
+        "张雨桐": [
+          0.659,
+          0.407
+        ],
+        "张伟": [
+          0.37,
+          0.284
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC027": {
+      "imageSha256": "8867030a1d45de631624eb9a3b55c70adbc2066a9f70eeef5ce30630a0013147",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.334,
+          0.279
+        ],
+        "张乐乐": [
+          0.45,
+          0.419
+        ],
+        "刘梅": [
+          0.817,
+          0.287
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC028": {
+      "imageSha256": "e75e17e7230955c7dc80bab5fbd04a070e74b401e0ec4d73a5c626e4ffe41771",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张雨桐": [
+          0.265,
+          0.359
+        ],
+        "刘梅": [
+          0.456,
+          0.469
+        ],
+        "路人": [
+          0.631,
+          0.3
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC029": {
+      "imageSha256": "3a0ff4a6740376acd24737c4558a08cd7c2e58c6cdf0f0001036ccc625d7ab53",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.245,
+          0.302
+        ],
+        "同事": [
+          0.494,
+          0.298
+        ],
+        "经理": [
+          0.782,
+          0.27
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC030": {
+      "imageSha256": "e43ec115e8d511fffce1a26a48a9c2d6b35453975b23ed59972b92506d80b8c5",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.303,
+          0.303
+        ],
+        "刘梅": [
+          0.695,
+          0.341
+        ],
+        "张乐乐": [
+          0.325,
+          0.473
+        ],
+        "张雨桐": [
+          0.603,
+          0.449
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC033": {
+      "imageSha256": "50f820f197365a68f37f5a9a63a878b5aa823c8fccb7ab0df41e5d27b4895a1a",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.227,
+          0.299
+        ],
+        "张伟": [
+          0.441,
+          0.247
+        ],
+        "李晨": [
+          0.742,
+          0.247
+        ],
+        "李晨妻子": [
+          0.889,
+          0.289
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC034": {
+      "imageSha256": "e488222c839af824c21d1220821707bcbcb1077ec45c71d2a3c2f86ddf59186c",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.266,
+          0.221
+        ],
+        "刘梅": [
+          0.621,
+          0.312
+        ],
+        "社区工作人员": [
+          0.864,
+          0.42
+        ],
+        "张乐乐": [
+          0.397,
+          0.454
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC035": {
+      "imageSha256": "9ffc6c289a410ffe09a6241955b3f6993a55eb5fc3acd38c371591897372aff2",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "邻居": [
+          0.252,
+          0.316
+        ],
+        "刘梅": [
+          0.503,
+          0.341
+        ],
+        "张伟": [
+          0.849,
+          0.334
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC036": {
+      "imageSha256": "0dca486c1a1cbb0fa692169838e623b2d7e87fed1b75dc599ea4b3843074dde0",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.79,
+          0.246
+        ],
+        "新同事": [
+          0.526,
+          0.49
+        ],
+        "经理": [
+          0.369,
+          0.26
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC037": {
+      "imageSha256": "c7f42e8aa8fc393f50665f65334742656cc65c42624bf539973d8f9a877a6b25",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张乐乐": [
+          0.432,
+          0.3
+        ],
+        "老师": [
+          0.679,
+          0.21
+        ],
+        "张伟": [
+          0.205,
+          0.621
+        ],
+        "刘梅": [
+          0.89,
+          0.67
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC038": {
+      "imageSha256": "5db74a9b766cccb5138d8bef4e531a23697c16076af28abfa0972a280cb11c99",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张雨桐": [
+          0.255,
+          0.26
+        ],
+        "同学": [
+          0.466,
+          0.397
+        ],
+        "刘梅": [
+          0.717,
+          0.379
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC040": {
+      "imageSha256": "45dde423b49cd14e2d527276a7032cecf6885a859bf8ae40cd18335c8645a6c6",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.303,
+          0.205
+        ],
+        "刘梅": [
+          0.793,
+          0.286
+        ],
+        "张乐乐": [
+          0.401,
+          0.407
+        ],
+        "张雨桐": [
+          0.585,
+          0.303
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC041": {
+      "imageSha256": "f4a8a3c6e21a61dd9fac545ed55117850e57dda78a99d3c8fc3d4847a8753084",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.292,
+          0.204
+        ],
+        "刘梅": [
+          0.798,
+          0.426
+        ],
+        "张乐乐": [
+          0.418,
+          0.427
+        ],
+        "张雨桐": [
+          0.694,
+          0.253
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC042": {
+      "imageSha256": "260705e5bcfa7948088d3acdb97febd5cec0e12cf0d1138d8b7e79ca1e66ebfe",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.354,
+          0.284
+        ],
+        "刘梅": [
+          0.628,
+          0.339
+        ],
+        "爷爷": [
+          0.589,
+          0.625
+        ],
+        "奶奶": [
+          0.794,
+          0.625
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC043": {
+      "imageSha256": "90204984415214a00da2ab8eb5df330db5dfe3fb266ae479aa2414c03d13f2d3",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.272,
+          0.205
+        ],
+        "刘梅": [
+          0.458,
+          0.247
+        ],
+        "张乐乐": [
+          0.307,
+          0.413
+        ],
+        "爷爷": [
+          0.82,
+          0.277
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC046": {
+      "imageSha256": "d23598bfb459de19a19a1e5d6043d8adf55ea92474b2f2ee79b3f65293eac97a",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张雨桐": [
+          0.574,
+          0.354
+        ],
+        "好朋友": [
+          0.298,
+          0.331
+        ],
+        "刘梅": [
+          0.832,
+          0.273
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC001": {
+      "imageSha256": "dba34a21e8bacdbbae4b9d09985da60d161cb3c55a835ac4dc76e13b632aaa5e",
+      "width": 942,
+      "height": 1670,
+      "anchors": {
+        "刘梅": [
+          0.218,
+          0.328
+        ],
+        "张伟": [
+          0.682,
+          0.282
+        ],
+        "顾客": [
+          0.916,
+          0.301
+        ],
+        "张雨桐": [
+          0.507,
+          0.374
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC002": {
+      "imageSha256": "dc39f998c807bfe624ee7633e0b96fe56c2557203037ed7c8e929c582d7630e3",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.5,
+          0.326
+        ],
+        "张伟": [
+          0.821,
+          0.158
+        ],
+        "顾客": [
+          0.237,
+          0.291
+        ],
+        "张雨桐": [
+          0.849,
+          0.405
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC003": {
+      "imageSha256": "b3656290064084ea71a61a21ec68d759b36677818bf35bed153f095f61f5acf9",
+      "width": 942,
+      "height": 1669,
+      "anchors": {
+        "张伟": [
+          0.242,
+          0.36
+        ],
+        "经理": [
+          0.518,
+          0.298
+        ],
+        "同事": [
+          0.876,
+          0.36
+        ],
+        "刘梅": [
+          0.624,
+          0.493
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC004": {
+      "imageSha256": "5c7226e0fe1cd9a476ee109ac98b0608b68345d69799cf02ebab6bd63373c339",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张雨桐": [
+          0.5,
+          0.424
+        ],
+        "刘梅": [
+          0.2,
+          0.293
+        ],
+        "张伟": [
+          0.52,
+          0.238
+        ],
+        "老师": [
+          0.835,
+          0.316
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC005": {
+      "imageSha256": "9610b2bbc11523595e9c0a140b33069371787b1061bb172e07b664a05b745e84",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张乐乐": [
+          0.408,
+          0.472
+        ],
+        "老师": [
+          0.835,
+          0.365
+        ],
+        "张伟": [
+          0.515,
+          0.35
+        ],
+        "刘梅": [
+          0.22,
+          0.36
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC006": {
+      "imageSha256": "84a03f66ba787bb36519ec8054bbb7869d900d51b637b14322ab79ed6f533e19",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.247,
+          0.343
+        ],
+        "张伟": [
+          0.421,
+          0.21
+        ],
+        "顾客": [
+          0.851,
+          0.341
+        ],
+        "张雨桐": [
+          0.558,
+          0.337
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC007": {
+      "imageSha256": "02e93d3c1e116c2ea9680477f042bb77c604eb205b892a48eb398d3405c4400f",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.151,
+          0.26
+        ],
+        "刘梅": [
+          0.378,
+          0.345
+        ],
+        "顾客": [
+          0.68,
+          0.348
+        ],
+        "张雨桐": [
+          0.202,
+          0.4
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC008": {
+      "imageSha256": "d440df82229e939cbe42e40c3cf3eb6d8982a5fd3720a3c3d3b20c9219d9396b",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张雨桐": [
+          0.16,
+          0.37
+        ],
+        "刘梅": [
+          0.29,
+          0.33
+        ],
+        "张伟": [
+          0.47,
+          0.19
+        ],
+        "顾客": [
+          0.75,
+          0.27
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC009": {
+      "imageSha256": "ed0db753edf0e753786600503fa9c380747e43b6c6d5ac9c9f0599a5a61efc9e",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.22,
+          0.34
+        ],
+        "张伟": [
+          0.433,
+          0.246
+        ],
+        "顾客": [
+          0.745,
+          0.338
+        ],
+        "张雨桐": [
+          0.325,
+          0.473
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC010": {
+      "imageSha256": "de0f98080ce21119936cfc5e2d1e4cb0360ac89dcf623f36176887541cb6a083",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.135,
+          0.262
+        ],
+        "刘梅": [
+          0.477,
+          0.296
+        ],
+        "顾客": [
+          0.91,
+          0.308
+        ],
+        "张雨桐": [
+          0.17,
+          0.46
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC011": {
+      "imageSha256": "5e8aaf6d03aa86d176644d321cc2688be2be15696119c6baaf364630d3cbf0a5",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.12,
+          0.27
+        ],
+        "刘梅": [
+          0.44,
+          0.295
+        ],
+        "顾客": [
+          0.965,
+          0.32
+        ],
+        "张雨桐": [
+          0.72,
+          0.29
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC012": {
+      "imageSha256": "8fe3d7ab3cc919ce72fe123ffa4f2fb137487a0eee0d8434ce523e70a3d10a78",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.12,
+          0.27
+        ],
+        "刘梅": [
+          0.44,
+          0.3
+        ],
+        "顾客": [
+          0.965,
+          0.325
+        ],
+        "张雨桐": [
+          0.72,
+          0.29
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC014": {
+      "imageSha256": "2951397741b0bdaad7928af103919408da3bcbf853d68b886f50fa0ffea19bd2",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.14,
+          0.35
+        ],
+        "刘梅": [
+          0.38,
+          0.36
+        ],
+        "张雨桐": [
+          0.645,
+          0.36
+        ],
+        "顾客": [
+          0.875,
+          0.362
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC015": {
+      "imageSha256": "6bc9a6f0d844549ff39e395c3334fdb6213f5b78150a794395c3d4a65c1ff546",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.13,
+          0.26
+        ],
+        "刘梅": [
+          0.38,
+          0.34
+        ],
+        "张雨桐": [
+          0.66,
+          0.36
+        ],
+        "顾客": [
+          0.89,
+          0.31
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC016": {
+      "imageSha256": "8a060151b00ea649941455335d0c63a13b35551b5b71a416d931ad8e05c4aa95",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.14,
+          0.34
+        ],
+        "张雨桐": [
+          0.46,
+          0.33
+        ],
+        "张伟": [
+          0.74,
+          0.31
+        ],
+        "顾客": [
+          0.87,
+          0.36
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC017": {
+      "imageSha256": "fb694c3b0dc075f9d72b8055fc02031a010f6e4df6e13a7b792a931d5eee9a0a",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.16,
+          0.31
+        ],
+        "刘梅": [
+          0.49,
+          0.34
+        ],
+        "张雨桐": [
+          0.7,
+          0.34
+        ],
+        "顾客": [
+          0.87,
+          0.36
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC018": {
+      "imageSha256": "d88f5225ae8a7881183486625ef75b0ff84fdbfccb83cbebf0db86ae10f95e66",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.16,
+          0.31
+        ],
+        "刘梅": [
+          0.49,
+          0.34
+        ],
+        "张雨桐": [
+          0.7,
+          0.34
+        ],
+        "顾客": [
+          0.866,
+          0.408
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC019": {
+      "imageSha256": "ebd3edd2e5487d9110b2b0efb7686f994061ef6aba5731968615fe2f66ba17a4",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.105,
+          0.405
+        ],
+        "刘梅": [
+          0.38,
+          0.414
+        ],
+        "张雨桐": [
+          0.597,
+          0.407
+        ],
+        "顾客": [
+          0.894,
+          0.39
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC020": {
+      "imageSha256": "d1b7c22b10fcfb5cbfa945ed8cc4ca0916a2b0a222f679d3afc0b5aeeb0b08ad",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.24,
+          0.175
+        ],
+        "刘梅": [
+          0.477,
+          0.251
+        ],
+        "张雨桐": [
+          0.747,
+          0.218
+        ],
+        "顾客": [
+          0.866,
+          0.512
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC021": {
+      "imageSha256": "da6bdb30759c3c1ec722c2bc3ba9ca2e040d6a12cf81177bf4c2ad548d037b92",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.21,
+          0.16
+        ],
+        "刘梅": [
+          0.49,
+          0.28
+        ],
+        "张雨桐": [
+          0.78,
+          0.25
+        ],
+        "顾客": [
+          0.266,
+          0.511
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC022": {
+      "imageSha256": "89b0957b7c33a29b497b63559988791bb2bd16a92d56d87ba429fd3c8955615d",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.216,
+          0.261
+        ],
+        "刘梅": [
+          0.459,
+          0.274
+        ],
+        "张雨桐": [
+          0.755,
+          0.27
+        ],
+        "顾客": [
+          0.826,
+          0.496
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC023": {
+      "imageSha256": "9519775f5a2b0ebc03815cce8341d218d08feefaf5b6418eaa8f420c194eebf7",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.286,
+          0.283
+        ],
+        "张伟": [
+          0.555,
+          0.382
+        ],
+        "顾客": [
+          0.136,
+          0.485
+        ],
+        "张雨桐": [
+          0.765,
+          0.259
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC024": {
+      "imageSha256": "b888851de12ad84a41b60901caff61966a13bae171fb4841a3a23a714d8578cd",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.225,
+          0.189
+        ],
+        "刘梅": [
+          0.395,
+          0.268
+        ],
+        "顾客": [
+          0.237,
+          0.536
+        ],
+        "张雨桐": [
+          0.672,
+          0.337
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC026": {
+      "imageSha256": "fe2d7cf491046fa876b6ee2abb1a6ecc31e2c74151425d437fb80cb8423028a4",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.198,
+          0.171
+        ],
+        "刘梅": [
+          0.399,
+          0.311
+        ],
+        "张雨桐": [
+          0.68,
+          0.242
+        ],
+        "顾客": [
+          0.842,
+          0.468
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC032": {
+      "imageSha256": "629ae9090637afd9c15a71451a2485a6b1c71fd2ae1e67277de5fc7cd3a99596",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.245,
+          0.278
+        ],
+        "刘梅": [
+          0.138,
+          0.345
+        ],
+        "张乐乐": [
+          0.526,
+          0.314
+        ],
+        "老师": [
+          0.86,
+          0.293
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC030": {
+      "imageSha256": "624a3f22e7dfdbca37ac9377dd094bb823a275233f2b8bd859278b2fcb4e12fa",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.366,
+          0.323
+        ],
+        "经理": [
+          0.947,
+          0.362
+        ],
+        "同事": [
+          0.104,
+          0.327
+        ],
+        "刘梅": [
+          0.687,
+          0.464
+        ]
+      },
+      "bubbleScales": {
+        "刘梅": 0.65
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC028": {
+      "imageSha256": "ea17c03a3eedb024076fdc2772507db9a0ed57a92c24ee7c0cd40ad094d8d501",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.618,
+          0.262
+        ],
+        "工作人员": [
+          0.871,
+          0.399
+        ],
+        "刘梅": [
+          0.192,
+          0.337
+        ],
+        "同事": [
+          0.915,
+          0.236
+        ]
+      },
+      "bubbleScales": {
+        "工作人员": 0.75
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC027": {
+      "imageSha256": "3b88fdb63b1aefb725cf82e64a232c92caf5dccc13b4c9d8df26c9e210196a58",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.461,
+          0.359
+        ],
+        "张伟": [
+          0.155,
+          0.328
+        ],
+        "顾客": [
+          0.85,
+          0.482
+        ],
+        "张雨桐": [
+          0.779,
+          0.364
+        ]
+      },
+      "bubbleScales": {
+        "顾客": 0.8
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC035": {
+      "imageSha256": "454df181779de2e1d2afa525dfbcac90fd7fbd1137016bac39a7abcce20002de",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.476,
+          0.349
+        ],
+        "张伟": [
+          0.232,
+          0.165
+        ],
+        "顾客": [
+          0.251,
+          0.434
+        ],
+        "张雨桐": [
+          0.834,
+          0.264
+        ]
+      },
+      "bubbleScales": {
+        "顾客": 0.8
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC031": {
+      "imageSha256": "e2924556214ef042b762122bd8dcfd261ed5f673d8a382f0358d489ad14b7287",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张雨桐": [
+          0.521,
+          0.455
+        ],
+        "老师": [
+          0.847,
+          0.464
+        ],
+        "刘梅": [
+          0.213,
+          0.443
+        ],
+        "张伟": [
+          0.395,
+          0.24
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC033": {
+      "imageSha256": "a9459acd09765a85612c43f5e0fb777a07d6a058dd802a3324f75f8252bd77b4",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.319,
+          0.24
+        ],
+        "刘梅": [
+          0.49,
+          0.39
+        ],
+        "顾客": [
+          0.3,
+          0.454
+        ],
+        "张雨桐": [
+          0.851,
+          0.289
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC034": {
+      "imageSha256": "fb5f1266683feffa8e4e3226cc7be618fd363738598b35d0d0f9a6482bdfe0b5",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.261,
+          0.303
+        ],
+        "刘梅": [
+          0.494,
+          0.382
+        ],
+        "顾客": [
+          0.205,
+          0.526
+        ],
+        "张雨桐": [
+          0.795,
+          0.378
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC036": {
+      "imageSha256": "b797a8e1e76aa5b12079b73a6568ec5b1353fd561d316bd368b50ef611250d5f",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.255,
+          0.23
+        ],
+        "刘梅": [
+          0.345,
+          0.342
+        ],
+        "顾客": [
+          0.869,
+          0.368
+        ],
+        "张雨桐": [
+          0.617,
+          0.362
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC037": {
+      "imageSha256": "24a4ee69177e872a7a77d6223c6fd618370139774d5a4f936139fe9a2108c6b8",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.454,
+          0.227
+        ],
+        "经理": [
+          0.876,
+          0.431
+        ],
+        "同事": [
+          0.195,
+          0.467
+        ],
+        "刘梅": [
+          0.602,
+          0.601
+        ]
+      },
+      "bubbleScales": {
+        "刘梅": 0.65
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC038": {
+      "imageSha256": "a773274bbdf69d8a4efb73b7fb7e36f196124b12011868ed5d7eb99399d33fcd",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.228,
+          0.347
+        ],
+        "张伟": [
+          0.505,
+          0.324
+        ],
+        "李晨": [
+          0.793,
+          0.331
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC039": {
+      "imageSha256": "53a07b47b48cdff170765ab990506ae705180d21a4b7b336dedba0f85eb470c5",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.18,
+          0.33
+        ],
+        "张伟": [
+          0.507,
+          0.33
+        ],
+        "李晨": [
+          0.882,
+          0.315
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC040": {
+      "imageSha256": "f610d7ed38e63a351bb7da22982fd4d8d88239e0c0b99f17fd970e673ef67561",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.244,
+          0.248
+        ],
+        "刘梅": [
+          0.498,
+          0.341
+        ],
+        "顾客": [
+          0.215,
+          0.405
+        ],
+        "张雨桐": [
+          0.821,
+          0.319
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC041": {
+      "imageSha256": "c9c985dadd107cf179fddda8271a720f2ae459964337914a76929157d33ba4b4",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.212,
+          0.312
+        ],
+        "刘梅": [
+          0.367,
+          0.317
+        ],
+        "爷爷": [
+          0.673,
+          0.325
+        ],
+        "奶奶": [
+          0.92,
+          0.329
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC042": {
+      "imageSha256": "5acbd0a721898fc4a32e883b3d66b95817b46a2a3996676e0aa8a13115fb5d09",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.206,
+          0.318
+        ],
+        "刘梅": [
+          0.863,
+          0.343
+        ],
+        "爷爷": [
+          0.742,
+          0.229
+        ],
+        "奶奶": [
+          0.512,
+          0.334
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC043": {
+      "imageSha256": "bdd7a9cc5da3cfd44e4aa2a88a179c336a5dda170fc1e111dfa4fdd558053874",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.199,
+          0.335
+        ],
+        "刘梅": [
+          0.895,
+          0.333
+        ],
+        "爷爷": [
+          0.717,
+          0.314
+        ],
+        "奶奶": [
+          0.916,
+          0.323
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC044": {
+      "imageSha256": "d9ff2a83e4d6a64f6d619f58ea1152082d5fa71a39eae8dade0fe1cf3c1c33e8",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张雨桐": [
+          0.518,
+          0.383
+        ],
+        "老师": [
+          0.903,
+          0.337
+        ],
+        "刘梅": [
+          0.186,
+          0.344
+        ],
+        "张伟": [
+          0.351,
+          0.257
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC045": {
+      "imageSha256": "0bfe259134f3efbdebc0a820bb5a58df57223fd4a1f5aa3d6cfbf720c4b35505",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张乐乐": [
+          0.515,
+          0.318
+        ],
+        "老师": [
+          0.861,
+          0.332
+        ],
+        "张伟": [
+          0.268,
+          0.24
+        ],
+        "刘梅": [
+          0.176,
+          0.32
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC048": {
+      "imageSha256": "7aca2a81f3c7ddf5175f288929694cdc6934a6371b65ae2299c4219c8f92a5e0",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.513,
+          0.308
+        ],
+        "张伟": [
+          0.234,
+          0.188
+        ],
+        "顾客": [
+          0.216,
+          0.416
+        ],
+        "张雨桐": [
+          0.726,
+          0.305
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC046": {
+      "imageSha256": "b41a5d188156753257af1fa13fd18fbac660cfe1e27ddc61ba3952a97c9bf3bd",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.51,
+          0.331
+        ],
+        "张伟": [
+          0.191,
+          0.199
+        ],
+        "顾客": [
+          0.149,
+          0.431
+        ],
+        "张雨桐": [
+          0.865,
+          0.301
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC049": {
+      "imageSha256": "b3ec64c281a954e9dad17e3fb4838dbf8e3f405b39e174c026c3ae3ab10fa28e",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.186,
+          0.368
+        ],
+        "张伟": [
+          0.367,
+          0.247
+        ],
+        "顾客": [
+          0.875,
+          0.349
+        ],
+        "张雨桐": [
+          0.542,
+          0.386
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC050": {
+      "imageSha256": "f164fe0f0b7602d07fe19ff9e7691296666cad867a6d225c1c6e445fe082765a",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.174,
+          0.371
+        ],
+        "刘梅": [
+          0.438,
+          0.369
+        ],
+        "爷爷": [
+          0.73,
+          0.361
+        ],
+        "奶奶": [
+          0.89,
+          0.383
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC001": {
+      "imageSha256": "60534f28d30a3752be221b248296fbbef3f15375cf9c53ac4baec6eeb7f68705",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.172,
+          0.364
+        ],
+        "刘梅": [
+          0.464,
+          0.353
+        ],
+        "爷爷": [
+          0.751,
+          0.338
+        ],
+        "奶奶": [
+          0.893,
+          0.365
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC003": {
+      "imageSha256": "736a4f7142ca7f409dfa49ff6e15e3b1812da526f3f52f3ca99dd4af76a995b1",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.188,
+          0.324
+        ],
+        "刘梅": [
+          0.433,
+          0.344
+        ],
+        "爷爷": [
+          0.745,
+          0.331
+        ],
+        "奶奶": [
+          0.906,
+          0.33
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC004": {
+      "imageSha256": "2d521d99825a19a77aaf140f9ec4116f2e86334264bfd782a13e1e6dbd47a822",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.202,
+          0.246
+        ],
+        "刘梅": [
+          0.417,
+          0.234
+        ],
+        "爷爷": [
+          0.705,
+          0.25
+        ],
+        "奶奶": [
+          0.874,
+          0.253
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC002": {
+      "imageSha256": "74102086e3763bc1f1f51bd8ca9537644421b1f38220a4ef8ce1290c2485e2ec",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.15,
+          0.338
+        ],
+        "刘梅": [
+          0.41,
+          0.344
+        ],
+        "爷爷": [
+          0.7,
+          0.353
+        ],
+        "奶奶": [
+          0.897,
+          0.373
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC005": {
+      "imageSha256": "bf8b6bea053027368985ac6674877137a497d2dfa66410c11bdc2689bf144d0b",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.295,
+          0.299
+        ],
+        "刘梅": [
+          0.444,
+          0.354
+        ],
+        "爷爷": [
+          0.726,
+          0.366
+        ],
+        "奶奶": [
+          0.885,
+          0.377
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC006": {
+      "imageSha256": "16ed378866ba8ede6bac2445564417c878e876c0bd55e9a8616ba0c323277c97",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.191,
+          0.335
+        ],
+        "刘梅": [
+          0.419,
+          0.334
+        ],
+        "爷爷": [
+          0.68,
+          0.337
+        ],
+        "奶奶": [
+          0.882,
+          0.371
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC007": {
+      "imageSha256": "25972a6d9d3986d144fb6625f9a770a3009056b7cfa07a4403abe44672839957",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "奶奶": [
+          0.693,
+          0.379
+        ],
+        "刘梅": [
+          0.414,
+          0.36
+        ],
+        "张伟": [
+          0.143,
+          0.362
+        ],
+        "员工": [
+          0.924,
+          0.392
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC008": {
+      "imageSha256": "41b3a092fbd8dc6cb716379fc321a3e4db005359efa831827017e40c94b8689c",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.179,
+          0.354
+        ],
+        "刘梅": [
+          0.414,
+          0.358
+        ],
+        "爷爷": [
+          0.691,
+          0.351
+        ],
+        "奶奶": [
+          0.887,
+          0.36
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC011": {
+      "imageSha256": "0185b3f438242111c6d9891d7161705d8f326b0f0cca201eb7d219948cddd528",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.65,
+          0.454
+        ],
+        "张伟": [
+          0.343,
+          0.41
+        ],
+        "员工": [
+          0.264,
+          0.217
+        ],
+        "顾客": [
+          0.646,
+          0.232
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC012": {
+      "imageSha256": "77fe45028adf4ae2df71b98cc042a25cd1dc1ded42f1c565934ad45b1587b841",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.839,
+          0.326
+        ],
+        "新员工": [
+          0.558,
+          0.371
+        ],
+        "员工": [
+          0.228,
+          0.32
+        ],
+        "张伟": [
+          0.428,
+          0.262
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC013": {
+      "imageSha256": "46707ed9d72126e4e87cd71fe96aca820a6f22b68f5a4cd60b0003813058c2b5",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "顾客": [
+          0.816,
+          0.448
+        ],
+        "刘梅": [
+          0.506,
+          0.412
+        ],
+        "员工": [
+          0.221,
+          0.425
+        ],
+        "张伟": [
+          0.273,
+          0.26
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC015": {
+      "imageSha256": "82fbd74d247b5f33623ec90fbee36417452cc5a17f6ecca81c0847942eaadb86",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.393,
+          0.221
+        ],
+        "经理": [
+          0.866,
+          0.213
+        ],
+        "同事": [
+          0.133,
+          0.406
+        ],
+        "刘梅": [
+          0.63,
+          0.619
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC016": {
+      "imageSha256": "c66494569386f0839a14d576809a1f29a3585737df3f327cec2b3855869efa1f",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.513,
+          0.258
+        ],
+        "同事甲": [
+          0.17,
+          0.418
+        ],
+        "同事乙": [
+          0.87,
+          0.426
+        ],
+        "刘梅": [
+          0.568,
+          0.608
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC017": {
+      "imageSha256": "e87316ca43906cd01986f6f2141faeaf9c75971fd6ef7313b90fda5a563de3ce",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张雨桐": [
+          0.605,
+          0.376
+        ],
+        "刘梅": [
+          0.228,
+          0.346
+        ],
+        "张伟": [
+          0.457,
+          0.24
+        ],
+        "朋友": [
+          0.852,
+          0.371
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC018": {
+      "imageSha256": "a30b5af0b3533ebffc3478355d03b3df3e657ed683154d0ea8248c2929ac82cb",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "奶奶": [
+          0.826,
+          0.394
+        ],
+        "张雨桐": [
+          0.463,
+          0.41
+        ],
+        "刘梅": [
+          0.243,
+          0.287
+        ],
+        "张伟": [
+          0.687,
+          0.284
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC020": {
+      "imageSha256": "b717eba6d34b9c9835e444c38a0fe3bd297b63b600f878affe8ef5512707ddca",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张乐乐": [
+          0.531,
+          0.373
+        ],
+        "工作人员": [
+          0.875,
+          0.462
+        ],
+        "张伟": [
+          0.291,
+          0.267
+        ],
+        "刘梅": [
+          0.184,
+          0.468
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC021": {
+      "imageSha256": "82e1958ab965834e5aeabf404e24e1a2a3a2b235f772e7a6d8e0bed071efa7a8",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "爷爷": [
+          0.209,
+          0.292
+        ],
+        "顾客": [
+          0.909,
+          0.303
+        ],
+        "刘梅": [
+          0.499,
+          0.298
+        ],
+        "张伟": [
+          0.714,
+          0.283
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC019": {
+      "imageSha256": "fcb556fef1403372b03f0a47de984fdc71a0868e22b8393b3f931bdf3df2dea0",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张乐乐": [
+          0.509,
+          0.378
+        ],
+        "朋友": [
+          0.803,
+          0.397
+        ],
+        "张伟": [
+          0.301,
+          0.212
+        ],
+        "刘梅": [
+          0.178,
+          0.315
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC022": {
+      "imageSha256": "b2cbc7bc488e4175b0d5ddde3b639fec42b60cc966023511ca7c173b61771d6d",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.49,
+          0.287
+        ],
+        "供应商": [
+          0.22,
+          0.26
+        ],
+        "张伟": [
+          0.738,
+          0.266
+        ],
+        "员工": [
+          0.916,
+          0.296
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC023": {
+      "imageSha256": "3202f8ce840d1e4e9021b1474301c6642244a5a581fab2c818982b33a84eb9c4",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "顾客": [
+          0.319,
+          0.276
+        ],
+        "刘梅": [
+          0.524,
+          0.316
+        ],
+        "员工": [
+          0.871,
+          0.344
+        ],
+        "张伟": [
+          0.764,
+          0.263
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC024": {
+      "imageSha256": "e320d75140ead2a685754c18e8f77f879dad51fc93e1fb86a8ad54076b3dbd6a",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.414,
+          0.32
+        ],
+        "员工": [
+          0.862,
+          0.347
+        ],
+        "顾客": [
+          0.239,
+          0.331
+        ],
+        "张伟": [
+          0.712,
+          0.288
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC025": {
+      "imageSha256": "8baea8f9f256fd24a5ea63a05067f3954a68f7465031707ede64f0af3ae76928",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.438,
+          0.344
+        ],
+        "刘梅": [
+          0.762,
+          0.338
+        ],
+        "李晨": [
+          0.969,
+          0.329
+        ],
+        "张雨桐": [
+          0.184,
+          0.339
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC026": {
+      "imageSha256": "818494e74327b5d87beee8523f249689b41561286fd6b730b2038021976fdd74",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.145,
+          0.324
+        ],
+        "刘梅": [
+          0.421,
+          0.332
+        ],
+        "张雨桐": [
+          0.705,
+          0.322
+        ],
+        "张乐乐": [
+          0.947,
+          0.373
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC027": {
+      "imageSha256": "e7828893ce8350f8247d2036f07623c3ed65237b5eac0d436c718376e076884d",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.376,
+          0.275
+        ],
+        "刘梅": [
+          0.17,
+          0.304
+        ],
+        "工作人员": [
+          0.8,
+          0.325
+        ],
+        "张乐乐": [
+          0.603,
+          0.335
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC028": {
+      "imageSha256": "f523e3c1aecdebe34f4498d42244585088eb97608ac771610f2a00fc1f782493",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.43,
+          0.279
+        ],
+        "刘梅": [
+          0.606,
+          0.311
+        ],
+        "酒店工作人员": [
+          0.866,
+          0.307
+        ],
+        "张乐乐": [
+          0.174,
+          0.333
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC029": {
+      "imageSha256": "d8e037a9edb819e43defa6c489edd168f1c5aafc1b42f2e114b5e9150de80f92",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "导游": [
+          0.233,
+          0.416
+        ],
+        "张伟": [
+          0.518,
+          0.393
+        ],
+        "刘梅": [
+          0.687,
+          0.438
+        ],
+        "张乐乐": [
+          0.892,
+          0.422
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC030": {
+      "imageSha256": "7872c7b8a36d7c1798b60cb13b6818b32cd77442b5cf3c2dc5b4b3c407bdb82e",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张乐乐": [
+          0.37,
+          0.304
+        ],
+        "张伟": [
+          0.169,
+          0.252
+        ],
+        "刘梅": [
+          0.594,
+          0.291
+        ],
+        "工作人员": [
+          0.86,
+          0.315
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC031": {
+      "imageSha256": "2b41dee1199eeddbee7d6237fcb7aff4f147ef1c234c1da939aad5b4f7116f4d",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.228,
+          0.316
+        ],
+        "张雨桐": [
+          0.456,
+          0.322
+        ],
+        "刘梅": [
+          0.692,
+          0.319
+        ],
+        "张乐乐": [
+          0.905,
+          0.323
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC032": {
+      "imageSha256": "093f797ec09b866fd7a8892a6d41cfee48548e4b11498489358a1b691307549f",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.173,
+          0.356
+        ],
+        "张雨桐": [
+          0.514,
+          0.362
+        ],
+        "张伟": [
+          0.804,
+          0.354
+        ],
+        "老师": [
+          0.878,
+          0.535
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC033": {
+      "imageSha256": "034d41e10a2f831f9b20bf4a3545e4b24f5b88e749791da2f6f1909a095691aa",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.227,
+          0.325
+        ],
+        "张雨桐": [
+          0.491,
+          0.367
+        ],
+        "刘梅": [
+          0.752,
+          0.321
+        ],
+        "老师": [
+          0.93,
+          0.482
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC034": {
+      "imageSha256": "48a1937fbfb42f9afa7ed403a6e8baeb3b86babffbdbf63fbcbbee7cb1f95f08",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.191,
+          0.343
+        ],
+        "张伟": [
+          0.417,
+          0.319
+        ],
+        "李晨": [
+          0.669,
+          0.333
+        ],
+        "员工": [
+          0.867,
+          0.337
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC035": {
+      "imageSha256": "5ae6375185a37d95c9a43480f43093dc7c7ea4f1f7a4f44a1661b058769244fd",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.3,
+          0.307
+        ],
+        "刘梅": [
+          0.567,
+          0.32
+        ],
+        "李晨": [
+          0.833,
+          0.308
+        ],
+        "张雨桐": [
+          0.11,
+          0.328
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC036": {
+      "imageSha256": "da32675c30e986907749588d9e781d30d57540d0346bce17d6125d91aea3ebd6",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.16,
+          0.315
+        ],
+        "刘梅": [
+          0.406,
+          0.362
+        ],
+        "张雨桐": [
+          0.648,
+          0.31
+        ],
+        "李晨": [
+          0.865,
+          0.325
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC037": {
+      "imageSha256": "389c6e78713d3c0ebc6d259f783cf07c8946b6639f141e9ee9f86bc81c7e9c87",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.193,
+          0.358
+        ],
+        "张伟": [
+          0.409,
+          0.324
+        ],
+        "员工": [
+          0.648,
+          0.336
+        ],
+        "顾客": [
+          0.919,
+          0.334
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC038": {
+      "imageSha256": "9baa902389130e02437deb94ea7dabbb9310b6814be7c57b71534f09fce7dc49",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "爷爷": [
+          0.38,
+          0.35
+        ],
+        "奶奶": [
+          0.14,
+          0.345
+        ],
+        "张伟": [
+          0.6,
+          0.313
+        ],
+        "医生": [
+          0.9,
+          0.333
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC039": {
+      "imageSha256": "58bc1fc7504ace10bfff6f625516373b826d176c0b14f0f00d87a51dfab882b3",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "医生": [
+          0.895,
+          0.315
+        ],
+        "爷爷": [
+          0.438,
+          0.373
+        ],
+        "张伟": [
+          0.456,
+          0.306
+        ],
+        "刘梅": [
+          0.176,
+          0.328
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC040": {
+      "imageSha256": "e5070247b39ab64e5e0d833951e9abb345ce8035d8416597d5ef721421c2a679",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "爷爷": [
+          0.769,
+          0.242
+        ],
+        "奶奶": [
+          0.444,
+          0.366
+        ],
+        "张伟": [
+          0.267,
+          0.219
+        ],
+        "刘梅": [
+          0.159,
+          0.364
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC019": {
+      "imageSha256": "a50bef7cd05a8c9663f28e68d9494213e480423792a3dc0ac50bc280df550a98",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.268,
+          0.311
+        ],
+        "刘梅": [
+          0.45,
+          0.336
+        ],
+        "同事": [
+          0.838,
+          0.383
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC047": {
+      "imageSha256": "40b52d04e6255508cf5ae56c7153f8dd7d859d6d7c28e4804753470c245a60f9",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.174,
+          0.446
+        ],
+        "经理": [
+          0.491,
+          0.236
+        ],
+        "同事": [
+          0.847,
+          0.451
+        ],
+        "刘梅": [
+          0.604,
+          0.59
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC009": {
+      "imageSha256": "66080b2e616a28387720cc10146df83be174f27d1b8f2bc392a9ceb25a279234",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.453,
+          0.214
+        ],
+        "刘梅": [
+          0.176,
+          0.353
+        ],
+        "张雨桐": [
+          0.532,
+          0.381
+        ],
+        "老师": [
+          0.835,
+          0.346
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC010": {
+      "imageSha256": "9688c22701ecceba69808eaf2f57c7e439a59ab691ca246d95e4cb45fc022890",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.345,
+          0.19
+        ],
+        "刘梅": [
+          0.186,
+          0.35
+        ],
+        "张乐乐": [
+          0.497,
+          0.366
+        ],
+        "张雨桐": [
+          0.819,
+          0.355
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC041": {
+      "imageSha256": "e503c397709513ab8a9def5d4086c730234679c8cfabb934766534e7f21cf8b7",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.205,
+          0.318
+        ],
+        "张伟": [
+          0.4,
+          0.21
+        ],
+        "奶奶": [
+          0.65,
+          0.352
+        ],
+        "志愿者": [
+          0.896,
+          0.314
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC042": {
+      "imageSha256": "0210a873cf206e495f5d76f1aaa60c6db5c66fa0158c51f10704ef41e97145f3",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "奶奶": [
+          0.445,
+          0.323
+        ],
+        "志愿者": [
+          0.694,
+          0.307
+        ],
+        "刘梅": [
+          0.226,
+          0.3
+        ],
+        "工作人员": [
+          0.894,
+          0.237
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC043": {
+      "imageSha256": "52d6461ce29c2547009f0791d566115785b5b231fa5ad3523bf8ce0995d23688",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张乐乐": [
+          0.525,
+          0.336
+        ],
+        "记者": [
+          0.894,
+          0.333
+        ],
+        "张伟": [
+          0.306,
+          0.154
+        ],
+        "刘梅": [
+          0.183,
+          0.308
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC044": {
+      "imageSha256": "ef11cd15d1bd45d98a35808f60c5e84094680dc53940e14bd5d3e569589d2b25",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.512,
+          0.366
+        ],
+        "刘梅": [
+          0.269,
+          0.294
+        ],
+        "张伟": [
+          0.62,
+          0.236
+        ],
+        "老师": [
+          0.87,
+          0.355
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC045": {
+      "imageSha256": "070e5ee26b259b075f6c7b155c7ccbf4613e448dc70cf05157463d2b9fc9fcfc",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.508,
+          0.384
+        ],
+        "刘梅": [
+          0.244,
+          0.3
+        ],
+        "张伟": [
+          0.584,
+          0.23
+        ],
+        "张乐乐": [
+          0.852,
+          0.381
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC046": {
+      "imageSha256": "4143ae7c5a6126aadfa9961a00bd01c6777a16624de207f0405760b26c1ab2d2",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.394,
+          0.282
+        ],
+        "新同学": [
+          0.616,
+          0.281
+        ],
+        "老师": [
+          0.868,
+          0.279
+        ],
+        "刘梅": [
+          0.218,
+          0.288
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC047": {
+      "imageSha256": "563bbe10d3d7fcb880f353fd21fb0ed19f42fcd8fcedcc8d142897a8cda5f6a2",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.37,
+          0.323
+        ],
+        "刘梅": [
+          0.633,
+          0.32
+        ],
+        "李晨": [
+          0.895,
+          0.301
+        ],
+        "张雨桐": [
+          0.164,
+          0.325
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC048": {
+      "imageSha256": "d6082da6e4bc42e6adc79d2493127640f51ee3c33d8f96d7c2f618f5aecab06b",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.222,
+          0.349
+        ],
+        "记者": [
+          0.878,
+          0.365
+        ],
+        "张伟": [
+          0.422,
+          0.246
+        ],
+        "顾客": [
+          0.727,
+          0.347
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC049": {
+      "imageSha256": "13e94b3dc6d6a6ce2b4768c60dbd1125bb756c537d46efc7b1f5514104c8fd67",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.51,
+          0.218
+        ],
+        "刘梅": [
+          0.222,
+          0.245
+        ],
+        "爷爷": [
+          0.667,
+          0.453
+        ],
+        "奶奶": [
+          0.361,
+          0.453
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC050": {
+      "imageSha256": "9ffc480b7eff5575a0c440c07a1b6ab083de395c39a32124903710345fd4a014",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.656,
+          0.236
+        ],
+        "刘梅": [
+          0.472,
+          0.352
+        ],
+        "张雨桐": [
+          0.24,
+          0.365
+        ],
+        "张乐乐": [
+          0.827,
+          0.37
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC001": {
+      "imageSha256": "b03531edbc6fabad3dd4ddbfd12e4fb77d49835f40f3ec0232827f2a29f358ca",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.412,
+          0.401
+        ],
+        "同学": [
+          0.132,
+          0.297
+        ],
+        "老师": [
+          0.866,
+          0.365
+        ],
+        "刘梅": [
+          0.66,
+          0.318
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC002": {
+      "imageSha256": "cbf1bcdab6573b0fbf2cb5484037c92005116d2f695cc7d040476376bdb964dc",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.657,
+          0.302
+        ],
+        "张雨桐": [
+          0.23,
+          0.365
+        ],
+        "刘梅": [
+          0.44,
+          0.354
+        ],
+        "张乐乐": [
+          0.875,
+          0.359
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC003": {
+      "imageSha256": "b33b3052e283c4a18c24effad2de2cdc0ebec85ce368b2dd012fd22433c92716",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张乐乐": [
+          0.17,
+          0.34
+        ],
+        "张伟": [
+          0.64,
+          0.265
+        ],
+        "刘梅": [
+          0.44,
+          0.336
+        ],
+        "老师": [
+          0.87,
+          0.37
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC004": {
+      "imageSha256": "42df276c927f625dcf21afc9d60f17b71b3aa4e75ba98bad5952baf9adc779bb",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.204,
+          0.344
+        ],
+        "经理": [
+          0.699,
+          0.349
+        ],
+        "员工": [
+          0.926,
+          0.365
+        ],
+        "张伟": [
+          0.417,
+          0.26
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC005": {
+      "imageSha256": "e4dedcb6b2c3512f3466e2df1932e6e88b3ee1b4925f832378c2f427fe1892d5",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "员工": [
+          0.866,
+          0.385
+        ],
+        "刘梅": [
+          0.231,
+          0.359
+        ],
+        "经理": [
+          0.63,
+          0.365
+        ],
+        "张伟": [
+          0.375,
+          0.279
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC006": {
+      "imageSha256": "c9a5dfd34f6f7093f2cefaae1ae9e625ab98a557868a92d548cff743ac5d384e",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.218,
+          0.39
+        ],
+        "经理": [
+          0.652,
+          0.371
+        ],
+        "员工": [
+          0.894,
+          0.359
+        ],
+        "张伟": [
+          0.384,
+          0.268
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC007": {
+      "imageSha256": "55c06f17b9bf597264c43959024cfdcf1535f3fcb14dfac1e764a317bcfe5e04",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.556,
+          0.265
+        ],
+        "经理": [
+          0.16,
+          0.5
+        ],
+        "同事": [
+          0.36,
+          0.5
+        ],
+        "客户": [
+          0.9,
+          0.5
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC008": {
+      "imageSha256": "2671d2cf3b6e868a8743f0c9da4a78be6dbad132c1ec8f400afd0da7cf8aac13",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.456,
+          0.29
+        ],
+        "同事": [
+          0.704,
+          0.31
+        ],
+        "经理": [
+          0.1,
+          0.46
+        ],
+        "项目成员": [
+          0.31,
+          0.45
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC009": {
+      "imageSha256": "69cd5f2fa620d0a284bb5d44f73d7cf2a0cc204446aba1509ff8eaeba975ce62",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.56,
+          0.32
+        ],
+        "客户": [
+          0.9,
+          0.48
+        ],
+        "经理": [
+          0.1,
+          0.49
+        ],
+        "同事": [
+          0.31,
+          0.48
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC010": {
+      "imageSha256": "ab5f4164748a4423bcb3ae65892999ad71571acd93c1d0ab2f68b06d021ac8bc",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.44,
+          0.28
+        ],
+        "经理": [
+          0.1,
+          0.46
+        ],
+        "同事": [
+          0.74,
+          0.43
+        ],
+        "刘梅": [
+          0.91,
+          0.43
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC011": {
+      "imageSha256": "91995aee3773a377a7d01def10c40b3322a7a0f6cc9a1781e239360a7871d37f",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.58,
+          0.38
+        ],
+        "老师": [
+          0.64,
+          0.27
+        ],
+        "同学": [
+          0.14,
+          0.42
+        ],
+        "刘梅": [
+          0.89,
+          0.42
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC012": {
+      "imageSha256": "b486a5f619a554ec5e779ba3548f78dd2b075dcedca3428e0ccf5c5bc15eca9c",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.49,
+          0.38
+        ],
+        "面试官": [
+          0.89,
+          0.42
+        ],
+        "刘梅": [
+          0.64,
+          0.29
+        ],
+        "朋友": [
+          0.15,
+          0.42
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC013": {
+      "imageSha256": "249f8df6a9c1e2a5fa906a985a6d3b2fe72ab4acfc8f543e18711965fd60a151",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.33,
+          0.4
+        ],
+        "面试官": [
+          0.16,
+          0.26
+        ],
+        "同事": [
+          0.88,
+          0.42
+        ],
+        "刘梅": [
+          0.62,
+          0.26
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC014": {
+      "imageSha256": "dcac73ed99bd7fb3e2d8d661756deb21f2544f737166b4e1303c15b6004bfbf1",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张乐乐": [
+          0.2,
+          0.35
+        ],
+        "同学": [
+          0.84,
+          0.34
+        ],
+        "老师": [
+          0.5,
+          0.31
+        ],
+        "张伟": [
+          0.8,
+          0.17
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC015": {
+      "imageSha256": "23896ce95857fc180da65eeca2803bb1cced47d9fbc5b78f4cc72c07a455d951",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张乐乐": [
+          0.17,
+          0.33
+        ],
+        "张伟": [
+          0.34,
+          0.22
+        ],
+        "刘梅": [
+          0.57,
+          0.35
+        ],
+        "老师": [
+          0.88,
+          0.34
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC016": {
+      "imageSha256": "3877d79603d8855f21e968e8ecb4adbaae994b717e46b7444399fd4bcd72d019",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "爷爷": [
+          0.28,
+          0.35
+        ],
+        "张伟": [
+          0.33,
+          0.16
+        ],
+        "张乐乐": [
+          0.81,
+          0.39
+        ],
+        "刘梅": [
+          0.68,
+          0.2
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC017": {
+      "imageSha256": "e166ec0013f11a148c39948c9cd4e57056d9a63c87d70cc3e6cfb4c01e865950",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "爷爷": [
+          0.23,
+          0.4
+        ],
+        "环保小组成员": [
+          0.85,
+          0.4
+        ],
+        "张乐乐": [
+          0.78,
+          0.2
+        ],
+        "刘梅": [
+          0.43,
+          0.25
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC018": {
+      "imageSha256": "a6bdb5d3cf4e0b842082ecd83ec1e0ae83e1c4e9975e457d985b4e0761e2f1db",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.153,
+          0.395
+        ],
+        "经理": [
+          0.432,
+          0.385
+        ],
+        "员工": [
+          0.728,
+          0.381
+        ],
+        "顾客": [
+          0.929,
+          0.393
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC019": {
+      "imageSha256": "63a8fad7cb43766fb5f4ec146c665653b4fe413fb2ed6cb06ebd2b351402b3fa",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.151,
+          0.416
+        ],
+        "张伟": [
+          0.441,
+          0.412
+        ],
+        "经理": [
+          0.699,
+          0.414
+        ],
+        "供应商": [
+          0.911,
+          0.419
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC020": {
+      "imageSha256": "1a9d13ee4deb76ecff11c15cbc5b674020b94cad2915844cb19e11e837c0f0e4",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.151,
+          0.416
+        ],
+        "张伟": [
+          0.441,
+          0.412
+        ],
+        "顾客": [
+          0.699,
+          0.414
+        ],
+        "经理": [
+          0.911,
+          0.419
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC022": {
+      "imageSha256": "018f17848801bced1756bb04fb790ab887969a9ae75ac35350208b38aea41b5d",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.177,
+          0.355
+        ],
+        "伴侣": [
+          0.376,
+          0.371
+        ],
+        "奶奶": [
+          0.651,
+          0.373
+        ],
+        "张伟": [
+          0.88,
+          0.37
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC023": {
+      "imageSha256": "187db74eb79699ea6ad4aa7b4a069ec18d203b3d322ee0b33ad86572fb26fef0",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "奶奶": [
+          0.65,
+          0.37
+        ],
+        "张雨桐": [
+          0.17,
+          0.37
+        ],
+        "伴侣": [
+          0.42,
+          0.375
+        ],
+        "刘梅": [
+          0.9,
+          0.38
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC035": {
+      "imageSha256": "a1ae2a76d7bbe67ba20a5f09c393be428a0d4e6314ea8cf714f62609918e9d31",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张乐乐": [
+          0.673,
+          0.316
+        ],
+        "老师": [
+          0.958,
+          0.344
+        ],
+        "张伟": [
+          0.388,
+          0.345
+        ],
+        "刘梅": [
+          0.214,
+          0.367
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC036": {
+      "imageSha256": "d5e870e49ea86733fbea7c9836916ad32ab63d07116cbc1119114810a8deec78",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.394,
+          0.333
+        ],
+        "导师": [
+          0.589,
+          0.326
+        ],
+        "同学": [
+          0.814,
+          0.443
+        ],
+        "刘梅": [
+          0.867,
+          0.324
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC037": {
+      "imageSha256": "3fb766527823d85b73472279a2a6ad5efad193d658ebeca84ee203b0c0e18a91",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.401,
+          0.359
+        ],
+        "张伟": [
+          0.199,
+          0.328
+        ],
+        "刘梅": [
+          0.639,
+          0.349
+        ],
+        "同学": [
+          0.917,
+          0.328
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC038": {
+      "imageSha256": "20522453d7a89151fa0142ca954812aac2937022e2198072369f5fafb26980a2",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.426,
+          0.378
+        ],
+        "经理": [
+          0.699,
+          0.305
+        ],
+        "同事": [
+          0.935,
+          0.354
+        ],
+        "刘梅": [
+          0.162,
+          0.362
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC039": {
+      "imageSha256": "faab7aef8edb360bc38af534672e5f4ca43b0e2fcb5358c06bb958a43cb22d31",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.421,
+          0.396
+        ],
+        "张伟": [
+          0.884,
+          0.375
+        ],
+        "刘梅": [
+          0.657,
+          0.383
+        ],
+        "伴侣": [
+          0.185,
+          0.383
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC040": {
+      "imageSha256": "e56a176b1f41d5b589626ffa7488b14332bd77f3bbedc68bc427ae5dd2ea1e92",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.176,
+          0.383
+        ],
+        "张伟": [
+          0.887,
+          0.354
+        ],
+        "刘梅": [
+          0.661,
+          0.385
+        ],
+        "伴侣": [
+          0.394,
+          0.354
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC034": {
+      "imageSha256": "3bbafd07e2e5b32c3dbde0827f916f1153f2e7e29c996401cfc74aa32781e08d",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.394,
+          0.377
+        ],
+        "刘梅": [
+          0.671,
+          0.38
+        ],
+        "理财顾问": [
+          0.171,
+          0.365
+        ],
+        "李晨": [
+          0.87,
+          0.365
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC041": {
+      "imageSha256": "efe919cc1ce3e817123fac2bc28c446633f984da321b2d6cb5a6d6eefb647b68",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "爷爷": [
+          0.556,
+          0.396
+        ],
+        "医生": [
+          0.81,
+          0.372
+        ],
+        "张伟": [
+          0.37,
+          0.193
+        ],
+        "奶奶": [
+          0.213,
+          0.419
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC042": {
+      "imageSha256": "edfadb61d6722895ed06237478fd7541fc3ba4b6dea4e7f683fa24124ccb3325",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.89,
+          0.354
+        ],
+        "刘梅": [
+          0.37,
+          0.36
+        ],
+        "奶奶": [
+          0.6,
+          0.383
+        ],
+        "张雨桐": [
+          0.176,
+          0.38
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC043": {
+      "imageSha256": "7c2179adbdf79bdd52189314a87b618df803ed2466f9805156a49ff0d7697748",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.37,
+          0.2
+        ],
+        "刘梅": [
+          0.9,
+          0.39
+        ],
+        "奶奶": [
+          0.25,
+          0.39
+        ],
+        "爷爷": [
+          0.59,
+          0.405
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC044": {
+      "imageSha256": "3ba0370800c11f4626ff157f2d85465dd5457ecc9acefebf6444351b5baa9829",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "青年志愿者": [
+          0.57,
+          0.21
+        ],
+        "刘梅": [
+          0.2,
+          0.205
+        ],
+        "奶奶": [
+          0.34,
+          0.48
+        ],
+        "张乐乐": [
+          0.92,
+          0.22
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC045": {
+      "imageSha256": "9a0d47ab9496973afd5e431d7c1bf6fc49f0546cd844dfa7ae23c87c2a228076",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.15,
+          0.38
+        ],
+        "志愿者": [
+          0.59,
+          0.35
+        ],
+        "张伟": [
+          0.36,
+          0.35
+        ],
+        "社区代表": [
+          0.92,
+          0.38
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC046": {
+      "imageSha256": "84a5cc1cff02975d61dc4e6196d67f3b3d04f4940948ca61a47535fc53fd292c",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.38,
+          0.36
+        ],
+        "经理": [
+          0.69,
+          0.36
+        ],
+        "同事": [
+          0.91,
+          0.36
+        ],
+        "刘梅": [
+          0.13,
+          0.38
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC047": {
+      "imageSha256": "e5a1a59bd22558d999dc413398ae9d689560807115119ca213412e14ecf73a38",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.87,
+          0.38
+        ],
+        "李晨": [
+          0.68,
+          0.35
+        ],
+        "刘梅": [
+          0.43,
+          0.39
+        ],
+        "朋友": [
+          0.17,
+          0.36
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC048": {
+      "imageSha256": "6b3762dede719c6fd6a57377f3ccbf5496a119fb48f5f6f6f8802d57800a3ffb",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.19,
+          0.37
+        ],
+        "刘梅": [
+          0.65,
+          0.38
+        ],
+        "张伟": [
+          0.9,
+          0.37
+        ],
+        "伴侣": [
+          0.39,
+          0.25
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC049": {
+      "imageSha256": "cac1e5e2c8f68118ad43ae236167f28eed9522fe0e3382905d325033de2563fc",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.27,
+          0.29
+        ],
+        "刘梅": [
+          0.52,
+          0.34
+        ],
+        "李晨": [
+          0.8,
+          0.29
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC050": {
+      "imageSha256": "d12aea4db63f76696599f23b3096c6822c2313d02ef5f1346d67fc596d1131c8",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.66,
+          0.29
+        ],
+        "刘梅": [
+          0.26,
+          0.31
+        ],
+        "张雨桐": [
+          0.25,
+          0.51
+        ],
+        "张乐乐": [
+          0.75,
+          0.5
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC001": {
+      "imageSha256": "4e25a58ae60ac855b6331dcd968620c2a05d583d025b94865fd85e844b05de8b",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.28,
+          0.5
+        ],
+        "伴侣": [
+          0.75,
+          0.5
+        ],
+        "张伟": [
+          0.75,
+          0.32
+        ],
+        "刘梅": [
+          0.28,
+          0.32
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC002": {
+      "imageSha256": "f7fb0a25028a59bf7f4d6851d38da6b29d89b1d21f3d13748898136aeac98848",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.68,
+          0.26
+        ],
+        "刘梅": [
+          0.32,
+          0.28
+        ],
+        "亲家": [
+          0.86,
+          0.31
+        ],
+        "张雨桐": [
+          0.17,
+          0.34
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC003": {
+      "imageSha256": "8a4abea492537647bbdd44c7d8b2ef73d175a5cc84905b4739dea402459ea8bf",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.29,
+          0.23
+        ],
+        "伴侣": [
+          0.71,
+          0.41
+        ],
+        "刘梅": [
+          0.31,
+          0.25
+        ],
+        "张伟": [
+          0.69,
+          0.24
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC004": {
+      "imageSha256": "10c1a4612a4c321ad25faaf29bc08c24ec5fa526a3f329f533cc0b9b7fde995d",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.67,
+          0.22
+        ],
+        "刘梅": [
+          0.31,
+          0.24
+        ],
+        "张雨桐": [
+          0.3,
+          0.4
+        ],
+        "奶奶": [
+          0.82,
+          0.4
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC005": {
+      "imageSha256": "6b86d9fa80bc30584528e01c3e77f2eb68505b57cdf6930e58f72691f60f667a",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "奶奶": [
+          0.47,
+          0.39
+        ],
+        "张雨桐": [
+          0.2,
+          0.39
+        ],
+        "刘梅": [
+          0.85,
+          0.38
+        ],
+        "张伟": [
+          0.7,
+          0.23
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC006": {
+      "imageSha256": "7c2ca4b9abaa1129605df2ee190b336565017608111ae4fc8944107de533e3f6",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.2,
+          0.35
+        ],
+        "伴侣": [
+          0.31,
+          0.25
+        ],
+        "场地方经理": [
+          0.91,
+          0.32
+        ],
+        "刘梅": [
+          0.65,
+          0.35
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC007": {
+      "imageSha256": "09327600a4cb42751438ada3f147c8c621270063c121e21745041e4a0eba93b1",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.46,
+          0.38
+        ],
+        "伴侣": [
+          0.79,
+          0.28
+        ],
+        "张伟": [
+          0.4,
+          0.17
+        ],
+        "刘梅": [
+          0.17,
+          0.26
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC008": {
+      "imageSha256": "a8bec3b373c8f189cb8ad14b8ea50ca22f514d984d05a12c85deeac5e9850847",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.26,
+          0.17
+        ],
+        "张雨桐": [
+          0.55,
+          0.41
+        ],
+        "刘梅": [
+          0.85,
+          0.4
+        ],
+        "宾客": [
+          0.1,
+          0.47
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC009": {
+      "imageSha256": "ab5641fb94ece8495eb80b6ef91bd5408d037fc15c2671b05794262b60e2c386",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.5,
+          0.28
+        ],
+        "刘梅": [
+          0.85,
+          0.37
+        ],
+        "李晨": [
+          0.61,
+          0.42
+        ],
+        "奶奶": [
+          0.19,
+          0.37
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC010": {
+      "imageSha256": "5f36f226f7a47ba82847b29bdfddaac02631788625f9c8a835bd4416fe14c687",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张乐乐": [
+          0.54,
+          0.33
+        ],
+        "张伟": [
+          0.26,
+          0.25
+        ],
+        "刘梅": [
+          0.12,
+          0.38
+        ],
+        "导师": [
+          0.86,
+          0.34
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC011": {
+      "imageSha256": "85388db10ba941c44de7b41b4dc38a6f31de5328c0d0548bac7b07db2b7906fb",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张乐乐": [
+          0.52,
+          0.31
+        ],
+        "客户": [
+          0.12,
+          0.32
+        ],
+        "刘梅": [
+          0.87,
+          0.34
+        ],
+        "张伟": [
+          0.28,
+          0.32
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC012": {
+      "imageSha256": "9e9131b1ed353a151781bf417f307ac1031392296c2da1c07e3b9698cfd63ac9",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张乐乐": [
+          0.48,
+          0.36
+        ],
+        "客户": [
+          0.15,
+          0.37
+        ],
+        "助理": [
+          0.7,
+          0.22
+        ],
+        "刘梅": [
+          0.87,
+          0.43
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC013": {
+      "imageSha256": "342a1b35a66b7c6d6b33d34f85e5e261ca7e89579ff296f31872c9d55239baa7",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张乐乐": [
+          0.44,
+          0.38
+        ],
+        "客户": [
+          0.13,
+          0.39
+        ],
+        "律师": [
+          0.62,
+          0.32
+        ],
+        "刘梅": [
+          0.87,
+          0.4
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC014": {
+      "imageSha256": "ed5e475199a39f9bef7384257ddd005a0d962ae441ffaf404745e52da2dc3ac1",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.42,
+          0.48
+        ],
+        "经理": [
+          0.66,
+          0.45
+        ],
+        "同事": [
+          0.98,
+          0.46
+        ],
+        "刘梅": [
+          0.12,
+          0.46
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC015": {
+      "imageSha256": "9bea96b9c7fc24a2effd7f79b13169f088f6ec433bec61599e74ef4341788332",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.44,
+          0.45
+        ],
+        "同事": [
+          0.16,
+          0.33
+        ],
+        "经理": [
+          0.8,
+          0.34
+        ],
+        "李晨": [
+          0.97,
+          0.47
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC016": {
+      "imageSha256": "2e57d4d04512dc29db55f41513b2d43b39ff43169c6ec6050678e43fdb80677e",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.55,
+          0.43
+        ],
+        "刘梅": [
+          0.13,
+          0.34
+        ],
+        "李晨": [
+          0.94,
+          0.39
+        ],
+        "同事": [
+          0.3,
+          0.27
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC017": {
+      "imageSha256": "b6e3c8b9b6e830765eea7cc0f35b95ee1be76d9ddda17d75031cd352bad2ca07",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.5,
+          0.33
+        ],
+        "刘梅": [
+          0.7,
+          0.36
+        ],
+        "员工": [
+          0.14,
+          0.37
+        ],
+        "顾客": [
+          0.96,
+          0.38
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC018": {
+      "imageSha256": "288903891be91bc974313689818a798eb006a7db23d7d34429739b41ecf4e4bc",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.68,
+          0.36
+        ],
+        "张伟": [
+          0.43,
+          0.37
+        ],
+        "员工": [
+          0.12,
+          0.39
+        ],
+        "顾客": [
+          0.96,
+          0.38
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC019": {
+      "imageSha256": "3071f8e59139cc110228e5b9168d62d00c4c46e4756ce5ce4ce2f8c179382cff",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.44,
+          0.37
+        ],
+        "刘梅": [
+          0.68,
+          0.38
+        ],
+        "员工": [
+          0.14,
+          0.38
+        ],
+        "李晨": [
+          0.91,
+          0.36
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC020": {
+      "imageSha256": "57ab402c299d37fe79241b8c31c6e36cfca830c9a26b7b2605f8290c43a09ba6",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.65,
+          0.4
+        ],
+        "张伟": [
+          0.41,
+          0.35
+        ],
+        "年轻顾客": [
+          0.15,
+          0.39
+        ],
+        "老顾客": [
+          0.9,
+          0.4
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC021": {
+      "imageSha256": "7e97f77705e8b2cf2745721bb7dfe464ec8610e6d0e45b7f17e4dcd73de00163",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.43,
+          0.39
+        ],
+        "伴侣": [
+          0.13,
+          0.4
+        ],
+        "张伟": [
+          0.59,
+          0.29
+        ],
+        "刘梅": [
+          0.86,
+          0.38
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC022": {
+      "imageSha256": "7886e8923809acdb445a23a5b54055334c59490bd12288394ac19d56c6e47e86",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.457,
+          0.341
+        ],
+        "刘梅": [
+          0.796,
+          0.366
+        ],
+        "李晨": [
+          0.17,
+          0.348
+        ],
+        "奶奶": [
+          0.731,
+          0.272
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC023": {
+      "imageSha256": "22ee50f36dd4715e059d486ae62f365b0bd7f59dd689abc895e0a9a17e98a289",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.43,
+          0.215
+        ],
+        "刘梅": [
+          0.59,
+          0.31
+        ],
+        "张雨桐伴侣": [
+          0.19,
+          0.29
+        ],
+        "护士": [
+          0.86,
+          0.25
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC024": {
+      "imageSha256": "86510666073b55ed69d38592621c0fe1f8630f04853c7f36dbfcd11c454a2971",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.576,
+          0.413
+        ],
+        "伴侣": [
+          0.244,
+          0.33
+        ],
+        "张伟": [
+          0.583,
+          0.219
+        ],
+        "刘梅": [
+          0.802,
+          0.377
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC025": {
+      "imageSha256": "6591cca2592ab73baf350cd661f88fa929a204411ec1c0ed68e98daf663420d0",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.768,
+          0.302
+        ],
+        "刘梅": [
+          0.248,
+          0.34
+        ],
+        "奶奶": [
+          0.546,
+          0.234
+        ],
+        "张雨桐": [
+          0.572,
+          0.396
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC026": {
+      "imageSha256": "a52160cc3a2b60912d8bde8971ba265b86994cd9ff3fb742bb92b35b61113a01",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "爷爷": [
+          0.855,
+          0.442
+        ],
+        "张伟": [
+          0.462,
+          0.219
+        ],
+        "张乐乐": [
+          0.444,
+          0.382
+        ],
+        "刘梅": [
+          0.166,
+          0.351
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC027": {
+      "imageSha256": "4176e36d1667ea150f4aa53c981719850b919d654ffd1e2ec7277d3e00d71984",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "爷爷": [
+          0.216,
+          0.421
+        ],
+        "张伟": [
+          0.439,
+          0.278
+        ],
+        "李晨": [
+          0.748,
+          0.301
+        ],
+        "刘梅": [
+          0.901,
+          0.334
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC028": {
+      "imageSha256": "7ee4d68eb511bd1b4fce4b2aac6207a29ad20a81feadd8712a8de76dff0784ba",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.643,
+          0.397
+        ],
+        "张伟": [
+          0.453,
+          0.408
+        ],
+        "老顾客": [
+          0.874,
+          0.365
+        ],
+        "员工": [
+          0.17,
+          0.379
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC029": {
+      "imageSha256": "3810a0b937dbe3e5e2f0e020e837c53a90a7dbe454c18d8be35d7cae2ebdc63e",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.625,
+          0.427
+        ],
+        "老顾客": [
+          0.87,
+          0.429
+        ],
+        "张伟": [
+          0.451,
+          0.339
+        ],
+        "李晨": [
+          0.233,
+          0.427
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC030": {
+      "imageSha256": "17abeac8c6cb42cb88150d51e3c3a1d81a7ac47fbf50161f87c2b479bb6b863f",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.66,
+          0.374
+        ],
+        "年轻创业者": [
+          0.89,
+          0.364
+        ],
+        "张伟": [
+          0.448,
+          0.333
+        ],
+        "员工": [
+          0.16,
+          0.38
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC031": {
+      "imageSha256": "3a494e174c434fd2ba89a97b135e7a4d687f7fec5e4a8c084fbaf9963fa8b6da",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.429,
+          0.346
+        ],
+        "年轻人": [
+          0.215,
+          0.424
+        ],
+        "刘梅": [
+          0.639,
+          0.376
+        ],
+        "李晨": [
+          0.866,
+          0.361
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC032": {
+      "imageSha256": "627e6769c5e5d99140fe43f943dae4fb94e5469f44429690b03cd79cc7c25eea",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.115,
+          0.418
+        ],
+        "创业者": [
+          0.83,
+          0.424
+        ],
+        "张伟": [
+          0.451,
+          0.391
+        ],
+        "主持人": [
+          0.693,
+          0.299
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC033": {
+      "imageSha256": "a49204a532758db30dd4a9442d1c5afea0f711b0ce6f5f5bfef693d6fe0aea1e",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "奶奶": [
+          0.506,
+          0.388
+        ],
+        "刘梅": [
+          0.16,
+          0.416
+        ],
+        "张雨桐": [
+          0.825,
+          0.41
+        ],
+        "张乐乐": [
+          0.425,
+          0.224
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC034": {
+      "imageSha256": "ed87ea7f35a03b2ca10efad7788dd6f6e5e4ba710b274b10e7dc53c5d6b160e8",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张乐乐": [
+          0.42,
+          0.424
+        ],
+        "刘梅": [
+          0.235,
+          0.27
+        ],
+        "奶奶": [
+          0.592,
+          0.433
+        ],
+        "技术志愿者": [
+          0.876,
+          0.282
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC035": {
+      "imageSha256": "31ab9e6573d4831eaaa3a9c4e7c77c58d47f8da2e86e9e0947187bea924d6c4e",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "爷爷": [
+          0.19,
+          0.384
+        ],
+        "社区居民": [
+          0.902,
+          0.305
+        ],
+        "张乐乐": [
+          0.414,
+          0.286
+        ],
+        "刘梅": [
+          0.63,
+          0.249
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC036": {
+      "imageSha256": "b332a0c4b0cff64e8cad46acf022bf6c4a1f66bbda9e31c9aaf6b4b36cdaef82",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.163,
+          0.415
+        ],
+        "刘梅": [
+          0.416,
+          0.289
+        ],
+        "社区负责人": [
+          0.671,
+          0.264
+        ],
+        "居民": [
+          0.834,
+          0.451
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC037": {
+      "imageSha256": "b783ac5bb2e324f90daeee96d14f0458fc05ce2b4b2e9cf972347a6c29c78bcb",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.656,
+          0.402
+        ],
+        "张伟": [
+          0.419,
+          0.35
+        ],
+        "志愿者": [
+          0.165,
+          0.421
+        ],
+        "社区负责人": [
+          0.879,
+          0.384
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC038": {
+      "imageSha256": "32bb53cfbee0f8d2d7c630598889f71218ed9642a60161033afb9573e857d8c1",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.423,
+          0.314
+        ],
+        "刘梅": [
+          0.626,
+          0.381
+        ],
+        "社区负责人": [
+          0.159,
+          0.39
+        ],
+        "李晨": [
+          0.875,
+          0.391
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC039": {
+      "imageSha256": "4e2df55d97a71c857fe587e6ad499d57489b68316df8bb38cff5f09a318e01d9",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "李晨": [
+          0.124,
+          0.372
+        ],
+        "张伟": [
+          0.382,
+          0.372
+        ],
+        "刘梅": [
+          0.611,
+          0.38
+        ],
+        "朋友": [
+          0.867,
+          0.37
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC040": {
+      "imageSha256": "432d2d2150d162020bcc0187694194e79f32c37fa2b2b3f8cbcf5c7887629de8",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "家人": [
+          0.153,
+          0.401
+        ],
+        "张伟": [
+          0.399,
+          0.376
+        ],
+        "刘梅": [
+          0.604,
+          0.398
+        ],
+        "李晨": [
+          0.848,
+          0.412
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC041": {
+      "imageSha256": "f6515068c1909805eb1e127f3e1853ff85dbe060c2b54aa740603a43ecb52a7c",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.228,
+          0.319
+        ],
+        "医生": [
+          0.855,
+          0.327
+        ],
+        "刘梅": [
+          0.523,
+          0.344
+        ],
+        "护士": [
+          0.71,
+          0.18
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC042": {
+      "imageSha256": "98eba7bd9dc30c994f2e111e62dd2edf14cdc4ba5c034d3df3b1e39336b956c6",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.405,
+          0.325
+        ],
+        "刘梅": [
+          0.624,
+          0.346
+        ],
+        "李晨": [
+          0.869,
+          0.318
+        ],
+        "张雨桐": [
+          0.157,
+          0.333
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC043": {
+      "imageSha256": "563f1f7104fc912875531b2fae02abf0f119bdff8c9d55fa7603179a819aa466",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.402,
+          0.291
+        ],
+        "孙辈": [
+          0.648,
+          0.416
+        ],
+        "刘梅": [
+          0.849,
+          0.337
+        ],
+        "张雨桐": [
+          0.16,
+          0.345
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC044": {
+      "imageSha256": "5257225ca9d91c2f94150fee0ef16119819185984e4b931e9084f4497beaad41",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.167,
+          0.301
+        ],
+        "张乐乐": [
+          0.419,
+          0.301
+        ],
+        "伴侣": [
+          0.63,
+          0.357
+        ],
+        "刘梅": [
+          0.8,
+          0.342
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC045": {
+      "imageSha256": "fe322eea7d6e45aab0ddffebd0cab16d895e36dbbba5a157ea0d5a07f35cc4b4",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.17,
+          0.34
+        ],
+        "张伟": [
+          0.38,
+          0.33
+        ],
+        "刘梅": [
+          0.64,
+          0.35
+        ],
+        "张乐乐": [
+          0.91,
+          0.36
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC046": {
+      "imageSha256": "4b0b9b6f6f7eefc8f2f1d7c4a487b7367f1a01fba43c73b4cfa84f7bd35ce1e9",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张乐乐": [
+          0.34,
+          0.25
+        ],
+        "孙辈": [
+          0.16,
+          0.5
+        ],
+        "张伟": [
+          0.54,
+          0.35
+        ],
+        "刘梅": [
+          0.75,
+          0.37
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC047": {
+      "imageSha256": "5008638211460468b077d8e3f6f77259120b54bf1653d3423f3acbfd6359621c",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.26,
+          0.35
+        ],
+        "刘梅": [
+          0.53,
+          0.38
+        ],
+        "李晨": [
+          0.76,
+          0.35
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC048": {
+      "imageSha256": "786cd628d2be870aad70344776d08f8802bb10585432bf2442e091097bf935cb",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.16,
+          0.4
+        ],
+        "张伟": [
+          0.39,
+          0.38
+        ],
+        "刘梅": [
+          0.61,
+          0.39
+        ],
+        "张乐乐": [
+          0.87,
+          0.41
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC049": {
+      "imageSha256": "8440041f35356f1e8afa088c71b153026602d6584c6fb0c4f07bb497114d4dc2",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张伟": [
+          0.24,
+          0.49
+        ],
+        "刘梅": [
+          0.57,
+          0.49
+        ],
+        "李晨": [
+          0.83,
+          0.49
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK6_SC050": {
+      "imageSha256": "75f005d97f66eb1859e112082b388a91690f6475b4b4bc03d676636b823c0f5a",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.18,
+          0.43
+        ],
+        "张伟": [
+          0.41,
+          0.39
+        ],
+        "刘梅": [
+          0.63,
+          0.39
+        ],
+        "张乐乐": [
+          0.86,
+          0.42
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC023": {
+      "imageSha256": "73d4cdae2b17a0a496751c2d0d9fb4f32a3c3476cb1641e63ca31ff8ade5c5f3",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "邻居": [
+          0.269,
+          0.285
+        ],
+        "刘梅": [
+          0.53,
+          0.299
+        ],
+        "张伟": [
+          0.818,
+          0.295
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC031": {
+      "imageSha256": "1b7c3eff64f6c41b64536d01c7bdd3abcb0c666e75c9a847f9994629cb33fe24",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.288,
+          0.269
+        ],
+        "刘梅": [
+          0.522,
+          0.297
+        ],
+        "银行工作人员": [
+          0.82,
+          0.368
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC032": {
+      "imageSha256": "cc1a11f1e63ee14bc89d49f5495793d8e87982b704cfc2dd50d5578c8d8bd15f",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.303,
+          0.355
+        ],
+        "张伟": [
+          0.575,
+          0.248
+        ],
+        "邮局工作人员": [
+          0.864,
+          0.388
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC039": {
+      "imageSha256": "80333804a34f235d7820bc156259fe59cd4f1a8822a75977f192834cf1400d47",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.224,
+          0.166
+        ],
+        "张乐乐": [
+          0.222,
+          0.525
+        ],
+        "刘梅": [
+          0.489,
+          0.286
+        ],
+        "兽医": [
+          0.836,
+          0.285
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC045": {
+      "imageSha256": "24539c73650e1098d691df023bd882d1ac3ca3025a46886b741a0830809571e3",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.22,
+          0.284
+        ],
+        "经理": [
+          0.538,
+          0.295
+        ],
+        "同事": [
+          0.879,
+          0.344
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC047": {
+      "imageSha256": "733d5ab6aa3b4a6554240d6af937e8ab83ee06bdbbf832ccd29ae75c552d690e",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.32,
+          0.206
+        ],
+        "张乐乐": [
+          0.508,
+          0.385
+        ],
+        "刘梅": [
+          0.799,
+          0.301
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC048": {
+      "imageSha256": "810c1d579d655b48d3c11c4c96782ae2557c2bccb4003861c2016a1d64abd03b",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.245,
+          0.222
+        ],
+        "张雨桐": [
+          0.511,
+          0.315
+        ],
+        "张乐乐": [
+          0.319,
+          0.408
+        ],
+        "刘梅": [
+          0.782,
+          0.278
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC049": {
+      "imageSha256": "f1e5699d7e4e61576b9f7206caa756e035494a4dcaf78b4307814a84d00ab878",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.267,
+          0.289
+        ],
+        "张乐乐": [
+          0.397,
+          0.471
+        ],
+        "张雨桐": [
+          0.59,
+          0.322
+        ],
+        "刘梅": [
+          0.833,
+          0.298
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC050": {
+      "imageSha256": "8be38703ac99d4efc92588f4dba144d50ed6d3679c05a0cb07b56269b3dd25b2",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.243,
+          0.384
+        ],
+        "李晨妻子": [
+          0.471,
+          0.377
+        ],
+        "刘梅": [
+          0.7,
+          0.372
+        ],
+        "李晨": [
+          0.865,
+          0.383
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC029": {
+      "imageSha256": "403d3d306313359625519656b01de0c88d52ece0eff65193659a0f298a40fc8f",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.16,
+          0.298
+        ],
+        "张伟": [
+          0.42,
+          0.263
+        ],
+        "工作人员": [
+          0.834,
+          0.231
+        ],
+        "同事": [
+          0.639,
+          0.461
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC021": {
+      "imageSha256": "d094f6ca657c32f1059eddf6dc4eb5be77f77a7ed1e386c1a6d3ab8f94308fda",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "张雨桐": [
+          0.194,
+          0.32
+        ],
+        "伴侣": [
+          0.44,
+          0.318
+        ],
+        "刘梅": [
+          0.679,
+          0.339
+        ],
+        "张伟": [
+          0.849,
+          0.339
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC024": {
+      "imageSha256": "b9ee622fd9ebfa4d3b3f9b6b5b4492c38020990b7d68d7eea7a0d53347c2298a",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.201,
+          0.355
+        ],
+        "张伟": [
+          0.455,
+          0.338
+        ],
+        "护士": [
+          0.498,
+          0.216
+        ],
+        "医生": [
+          0.808,
+          0.372
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC025": {
+      "imageSha256": "97dba3ba3b6d8c15361f2c4db503693459ae72ec74f1a70a6ef5abf4a436b3f9",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.201,
+          0.355
+        ],
+        "张伟": [
+          0.455,
+          0.338
+        ],
+        "护士": [
+          0.498,
+          0.216
+        ],
+        "医生": [
+          0.808,
+          0.372
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC026": {
+      "imageSha256": "56f175eb0ecc6257bb61cd21c0260a514095fe0f358e27316109036c67f413fe",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.269,
+          0.224
+        ],
+        "张伟": [
+          0.614,
+          0.221
+        ],
+        "张雨桐": [
+          0.283,
+          0.522
+        ],
+        "张乐乐": [
+          0.687,
+          0.531
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC027": {
+      "imageSha256": "25e60e298c288f4681e347ea2129d3f37f045654936b1223d399ac385979f07c",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.158,
+          0.405
+        ],
+        "张伟": [
+          0.402,
+          0.269
+        ],
+        "顾客": [
+          0.556,
+          0.348
+        ],
+        "表演者": [
+          0.884,
+          0.333
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC028": {
+      "imageSha256": "e7b51103c7934c9723f6d6e619ca30edffb13bc06e813d769e35815da299c261",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "居民": [
+          0.156,
+          0.392
+        ],
+        "张伟": [
+          0.386,
+          0.35
+        ],
+        "商户": [
+          0.622,
+          0.366
+        ],
+        "社区代表": [
+          0.858,
+          0.376
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC029": {
+      "imageSha256": "9046dec1c2344a7c4d9de1fc69da3a3fc9a301527d3fd8751bd29ba2fbd8bb2e",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.158,
+          0.396
+        ],
+        "张伟": [
+          0.382,
+          0.334
+        ],
+        "商户": [
+          0.614,
+          0.364
+        ],
+        "顾客": [
+          0.87,
+          0.392
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC030": {
+      "imageSha256": "c70db2ca45e62b981c5ad3823d101790c174f2584a7bffb226b1f3db57ff485a",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.158,
+          0.393
+        ],
+        "张伟": [
+          0.383,
+          0.35
+        ],
+        "商户": [
+          0.617,
+          0.365
+        ],
+        "社区代表": [
+          0.854,
+          0.374
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC031": {
+      "imageSha256": "0cd7076a38963cd5a644687ec8137c03a7a18b8241bc42d8dff568af2eb7af90",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.157,
+          0.384
+        ],
+        "张伟": [
+          0.386,
+          0.365
+        ],
+        "招聘者": [
+          0.624,
+          0.369
+        ],
+        "经理": [
+          0.86,
+          0.382
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC032": {
+      "imageSha256": "0d025372033cbe961e17ca82f8047f54bdbe35cf664d57bebad2ef5d2214a80e",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.159,
+          0.39
+        ],
+        "张伟": [
+          0.404,
+          0.374
+        ],
+        "张雨桐": [
+          0.633,
+          0.376
+        ],
+        "李晨": [
+          0.858,
+          0.38
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK5_SC033": {
+      "imageSha256": "2ef3f6dd280789299d94c7c6f4371d6299ab48c8b1196264e4ace31fa53eebfd",
+      "width": 1080,
+      "height": 1920,
+      "anchors": {
+        "刘梅": [
+          0.16,
+          0.388
+        ],
+        "张伟": [
+          0.383,
+          0.375
+        ],
+        "李晨": [
+          0.625,
+          0.372
+        ],
+        "经理": [
+          0.857,
+          0.376
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK2_SC044": {
+      "imageSha256": "cbdbfb4c101757dc326a44e156bcf443887cd7b0c9a67e44aed2ea86b215387a",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.24,
+          0.27
+        ],
+        "刘梅": [
+          0.467,
+          0.255
+        ],
+        "社区工作人员": [
+          0.79,
+          0.236
+        ],
+        "志愿者": [
+          0.913,
+          0.24
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC013": {
+      "imageSha256": "4c156a53b994cad83f83edc7938475f7e1ce10631c1b88b780880b923732c676",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "张伟": [
+          0.185,
+          0.266
+        ],
+        "刘梅": [
+          0.5,
+          0.312
+        ],
+        "张雨桐": [
+          0.766,
+          0.27
+        ],
+        "顾客": [
+          0.88,
+          0.482
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK3_SC025": {
+      "imageSha256": "7f96715ae4db4b61b5c977e464cf87172ea8696a09ab9de263e394e591b225ee",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.23,
+          0.333
+        ],
+        "张伟": [
+          0.442,
+          0.267
+        ],
+        "张雨桐": [
+          0.758,
+          0.312
+        ],
+        "顾客": [
+          0.89,
+          0.458
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
+    },
+    "ZH_HSK4_SC014": {
+      "imageSha256": "a3cadd64dba682c354160908e8d693c268cf8ef11514cb482fc65283ea5bb091",
+      "width": 941,
+      "height": 1672,
+      "anchors": {
+        "刘梅": [
+          0.462,
+          0.376
+        ],
+        "张伟": [
+          0.128,
+          0.352
+        ],
+        "员工": [
+          0.758,
+          0.264
+        ],
+        "顾客": [
+          0.883,
+          0.402
+        ]
+      },
+      "reviewStatus": "VISUAL_QA_PASS"
     }
   }
 }

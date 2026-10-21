@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC044",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC044.json",
-  "dialogueSha256": "49151aaf69d01800379e32e8e4f6f9f77294df40a5a1a355d23a403a655dbf1f",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC044.json",
+  "dialogueSha256": "fa6c9b4ff02b7a8d7524fcd9443311fb3ed27b8cb18c3fc1040d37ac30f31303",
   "titleTr": "Yutong’un İlk Ciddi Kararı",
   "locationId": "LOC_ZH_HIGH_SCHOOL_001",
   "scenePurposeTr": "Yutong hangi alanda okumak istediğini ilk kez ciddi biçimde düşünür.",
@@ -69,5 +69,18 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi.",
+  "dialogueTextQA": {
+    "status": "PASS",
+    "turns": 100,
+    "coherenceScore": 93.0,
+    "activeVocabularyCoverage": 1.0,
+    "topicWindowCoverage": 0.8,
+    "duplicateUtterances": 0,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
+  },
+  "allDialogueSpeakersVisible": true,
+  "mouthAnchorReviewStatus": "PASS",
+  "mouthAnchorImageSha256": "d9ff2a83e4d6a64f6d619f58ea1152082d5fa71a39eae8dade0fe1cf3c1c33e8"
 }

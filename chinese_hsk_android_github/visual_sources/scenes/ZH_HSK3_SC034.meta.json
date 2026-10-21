@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC034",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC034.json",
-  "dialogueSha256": "58912a03a1485086cd2258e9a3f863840969cb7c2eb5b1b8555b7b865cb0d8a2",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC034.json",
+  "dialogueSha256": "afec3cf58202d47c1f292d0712dc2818f1d20307294c789282b711cbe818ee6a",
   "titleTr": "Sokak Festivali",
   "locationId": "LOC_ZH_FESTIVAL_SQUARE_001",
   "scenePurposeTr": "Kafe yerel festivalde dışarıda küçük bir stant açar.",
@@ -49,7 +49,7 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "b5640eb34872b1decfdf1dbce63a3900d36e3de13627006ad8d046870f20ed14"
+    "sha256": "fb5f1266683feffa8e4e3226cc7be618fd363738598b35d0d0f9a6482bdfe0b5"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -71,5 +71,24 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: Yerel festival standı ve aile kafesi kimliği korunur. Kullanıcı, manifesto uygunsa ilerleme onayı verdi; HSK3 SC031-SC040 continuity seti final olarak entegre edildi."
+  "qaNoteTr": "Ön plandaki müşterinin ağzı görünür biçimde yalnız baş bölgesi düzenlendi; dış maskede piksel değişmedi, SSIM 0.9695.",
+  "postGenerationVisualQA": {
+    "mouthVisibilityQA": "PASS",
+    "localEditMaskPixelRatio": 0.05683,
+    "decodedPixelsOutsideMaskExact": true,
+    "fullImageSSIM11x11": 0.969527,
+    "allDialogueSpeakersVisible": true,
+    "anchorReview": "PASS",
+    "style3d25dCgi": true
+  },
+  "dialogueTextQA": {
+    "status": "PASS",
+    "turns": 100,
+    "coherenceScore": 94.0,
+    "activeVocabularyCoverage": 1.0,
+    "topicWindowCoverage": 1.0,
+    "duplicateUtterances": 0,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
+  }
 }

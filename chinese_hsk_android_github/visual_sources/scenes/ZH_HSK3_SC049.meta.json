@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC049",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC049.json",
-  "dialogueSha256": "22ec066b7c65de839e07e5e4e1461dee66f7bd757af94c1feb22f0d6f9971f42",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC049.json",
+  "dialogueSha256": "950520de1a2ac121d2b37f34ab9381dbd3a2ed16d666703ea5d79e67e70ff7c0",
   "titleTr": "Aile Geleceği Konuşuyor",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Aile kafe, iş ve çocukların hedeflerini aynı masada değerlendirir.",
@@ -69,5 +69,7 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi.",
+  "dialogueQaStatus": "PASS",
+  "dialogueQaNoteTr": "100 tur, kimlik/speaker sırası, aktif sözcükler ve pinyin/Türkçe eşleşmesi doğrulandı. Dört ağız çapası sahne görselinde kontrol edildi."
 }

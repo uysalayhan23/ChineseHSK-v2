@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC040.json",
-  "dialogueSha256": "e7a21e6ee7478c55508ddc088f36366eb482302e6c17b680d99e130e51c9c273",
+  "dialogueSha256": "0598b7ee34ccbef237ebdfdf805afd56a868a43b8b346bd02f5d6eff8a3fe062",
   "titleZh": "两个家庭的一整晚",
   "titleTr": "İki Ailenin Uzun Akşamı",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

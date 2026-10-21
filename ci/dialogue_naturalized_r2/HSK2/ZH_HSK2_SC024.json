@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 45,
+  "status": "FINAL_NATIVE_RELEASE_CANDIDATE_V45",
+  "sceneId": "ZH_HSK2_SC024",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC024_001",
+      "speaker": "张伟",
+      "zh": "这个月的收入和花费，我们一起算一算吧。",
+      "pinyin": "zhè ge yuè de shōu rù hé huā fèi ， wǒ men yì qǐ suàn yī suàn ba 。",
+      "tr": "Bu ayki gelir ve giderleri birlikte hesaplayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_002",
+      "speaker": "刘梅",
+      "zh": "好，先把房租和水电费写下来。",
+      "pinyin": "hǎo ， xiān bǎ fáng zū hé shuǐ diàn fèi xiě xià lái 。",
+      "tr": "Olur, önce kira ve faturaları yazalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_003",
+      "speaker": "张雨桐",
+      "zh": "我能看看我们家每个月的预算吗？",
+      "pinyin": "wǒ néng kàn kàn wǒ men jiā měi gè yuè de yù suàn ma ？",
+      "tr": "Aylık bütçemizi görebilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_004",
+      "speaker": "张伟",
+      "zh": "当然，家里的钱是大家一起安排的。",
+      "pinyin": "dāng rán ， jiā lǐ de qián shì dà jiā yì qǐ ān pái de 。",
+      "tr": "Elbette, evin parasını hep birlikte planlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_005",
+      "speaker": "刘梅",
+      "zh": "房租是最大的费用，不能忘。",
+      "pinyin": "fáng zū shì zuì dà de fèi yòng ， bù néng wàng 。",
+      "tr": "Kira en büyük masraf, unutmamalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_006",
+      "speaker": "张雨桐",
+      "zh": "那我们先把必要的费用算清楚。",
+      "pinyin": "nà wǒ men xiān bǎ bì yào de fèi yòng suàn qīng chǔ 。",
+      "tr": "O zaman önce gerekli giderleri hesaplayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_007",
+      "speaker": "张伟",
+      "zh": "水费和电费每个月不太一样。",
+      "pinyin": "shuǐ fèi hé diàn fèi měi gè yuè bù tài yī yàng 。",
+      "tr": "Su ve elektrik faturaları her ay aynı olmuyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_008",
+      "speaker": "刘梅",
+      "zh": "这次加起来是三百多块。",
+      "pinyin": "zhè cì jiā qǐ lái shì sān bǎi duō kuài 。",
+      "tr": "Bu ay ikisi üç yüz küsur yuan tuttu."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_009",
+      "speaker": "张雨桐",
+      "zh": "我把这两项也记在表上。",
+      "pinyin": "wǒ bǎ zhè liǎng xiàng yě jì zài biǎo shàng 。",
+      "tr": "Bu ikisini de tabloya yazıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_010",
+      "speaker": "张伟",
+      "zh": "买菜的钱也要留出来。",
+      "pinyin": "mǎi cài de qián yě yào liú chū lái 。",
+      "tr": "Market alışverişi için de para ayıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_011",
+      "speaker": "刘梅",
+      "zh": "对，每周去一次超市比较方便。",
+      "pinyin": "duì ， měi zhōu qù yī cì chāo shì bǐ jiào fāng biàn 。",
+      "tr": "Evet, haftada bir markete gitmek daha kolay."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_012",
+      "speaker": "张雨桐",
+      "zh": "我们可以先看看冰箱里还缺什么。",
+      "pinyin": "wǒ men kě yǐ xiān kàn kàn bīng xiāng lǐ hái quē shén me 。",
+      "tr": "Önce buzdolabında neyin eksik olduğuna bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_013",
+      "speaker": "张伟",
+      "zh": "这个月还要交学校的费用吗？",
+      "pinyin": "zhè ge yuè hái yào jiāo xué xiào de fèi yòng ma ？",
+      "tr": "Bu ay okul için ödeme yapmamız gerekiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_014",
+      "speaker": "刘梅",
+      "zh": "要交一笔活动费，下周以前交。",
+      "pinyin": "yào jiāo yī bǐ huó dòng fèi ， xià zhōu yǐ qián jiāo 。",
+      "tr": "Bir etkinlik ücreti var, gelecek haftaya kadar ödenmeli."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_015",
+      "speaker": "张雨桐",
+      "zh": "我会把日期写在日历上。",
+      "pinyin": "wǒ huì bǎ rì qī xiě zài rì lì shàng 。",
+      "tr": "Tarihi takvime yazacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_016",
+      "speaker": "张伟",
+      "zh": "好，先把必要的费用放在一边。",
+      "pinyin": "hǎo ， xiān bǎ bì yào de fèi yòng fàng zài yī biān 。",
+      "tr": "Peki, önce gerekli masrafları ayıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_017",
+      "speaker": "刘梅",
+      "zh": "剩下的钱再安排吃饭和交通。",
+      "pinyin": "shèng xià de qián zài ān pái chī fàn hé jiāo tōng 。",
+      "tr": "Kalan parayla yemek ve ulaşımı planlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_018",
+      "speaker": "张雨桐",
+      "zh": "这样看起来就清楚多了。",
+      "pinyin": "zhè yàng kàn qǐ lái jiù qīng chǔ duō le 。",
+      "tr": "Böyle bakınca daha anlaşılır oldu."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_019",
+      "speaker": "张伟",
+      "zh": "这个月的预算比上个月紧一点。",
+      "pinyin": "zhè ge yuè de yù suàn bǐ shàng gè yuè jǐn yì diǎn 。",
+      "tr": "Bu ay bütçe geçen aydan biraz daha dar."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_020",
+      "speaker": "刘梅",
+      "zh": "因为上个月买了新的书桌。",
+      "pinyin": "yīn wèi shàng gè yuè mǎi le xīn de shū zhuō 。",
+      "tr": "Geçen ay yeni bir çalışma masası aldık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_021",
+      "speaker": "张雨桐",
+      "zh": "那这个月就少买一些不需要的东西。",
+      "pinyin": "nà zhè ge yuè jiù shǎo mǎi yī xiē bù xū yào de dōng xī 。",
+      "tr": "O zaman bu ay gereksiz şeyleri daha az alalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_022",
+      "speaker": "张伟",
+      "zh": "我们平时花钱最多的是什么？",
+      "pinyin": "wǒ men píng shí huā qián zuì duō de shì shén me ？",
+      "tr": "En çok neye para harcıyoruz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_023",
+      "speaker": "刘梅",
+      "zh": "我觉得是买菜和坐车。",
+      "pinyin": "wǒ jué de shì mǎi cài hé zuò chē 。",
+      "tr": "Bence market ve ulaşım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_024",
+      "speaker": "张雨桐",
+      "zh": "我坐公交车上学，花得不多。",
+      "pinyin": "wǒ zuò gōng jiāo chē shàng xué ， huā dé bù duō 。",
+      "tr": "Okula otobüsle gidiyorum, çok masraf olmuyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_025",
+      "speaker": "张伟",
+      "zh": "每天带水去学校，也能省一点钱。",
+      "pinyin": "měi tiān dài shuǐ qù xué xiào ， yě néng shěng yì diǎn qián 。",
+      "tr": "Okula her gün su götürmek de biraz tasarruf sağlar."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_026",
+      "speaker": "刘梅",
+      "zh": "是啊，少买饮料就能省钱。",
+      "pinyin": "shì a ， shǎo mǎi yǐn liào jiù néng shěng qián 。",
+      "tr": "Evet, daha az içecek alırsak para biriktiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_027",
+      "speaker": "张雨桐",
+      "zh": "我明天开始带自己的水瓶。",
+      "pinyin": "wǒ míng tiān kāi shǐ dài zì jǐ de shuǐ píng 。",
+      "tr": "Yarın kendi su şişemi götürmeye başlarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_028",
+      "speaker": "张伟",
+      "zh": "我们要不要给买书留一些钱？",
+      "pinyin": "wǒ men yào bù yào gěi mǎi shū liú yī xiē qián ？",
+      "tr": "Kitap almak için biraz para ayıralım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_029",
+      "speaker": "刘梅",
+      "zh": "可以，学校下个月要读一本新书。",
+      "pinyin": "kě yǐ ， xué xiào xià gè yuè yào dú yī běn xīn shū 。",
+      "tr": "Olur, okul gelecek ay yeni bir kitap isteyecek."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_030",
+      "speaker": "张雨桐",
+      "zh": "我会先问老师书要多少钱。",
+      "pinyin": "wǒ huì xiān wèn lǎo shī shū yào duō shǎo qián 。",
+      "tr": "Önce öğretmene fiyatını sorarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_031",
+      "speaker": "张伟",
+      "zh": "如果书不贵，就从学习费用里出。",
+      "pinyin": "rú guǒ shū bù guì ， jiù cóng xué xí fèi yòng lǐ chū 。",
+      "tr": "Kitap pahalı değilse eğitim masrafından karşılarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_032",
+      "speaker": "刘梅",
+      "zh": "要是比较贵，我们可以一起找便宜的。",
+      "pinyin": "yào shì bǐ jiào guì ， wǒ men kě yǐ yì qǐ zhǎo pián yi de 。",
+      "tr": "Pahalıysa daha ucuzunu birlikte ararız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_033",
+      "speaker": "张雨桐",
+      "zh": "我也会爱护书，不把它弄坏。",
+      "pinyin": "wǒ yě huì ài hù shū ， bù bǎ tā nòng huài 。",
+      "tr": "Ben de kitabı dikkatli kullanırım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_034",
+      "speaker": "张伟",
+      "zh": "月底还要给爷爷奶奶买礼物吗？",
+      "pinyin": "yuè dǐ hái yào gěi yé yé nǎi nǎi mǎi lǐ wù ma ？",
+      "tr": "Ay sonunda büyükanneyle büyükbabaya hediye almamız gerekiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_035",
+      "speaker": "刘梅",
+      "zh": "他们生日还早，我们可以先存一点儿。",
+      "pinyin": "tā men shēng rì hái zǎo ， wǒ men kě yǐ xiān cún yì diǎn ér 。",
+      "tr": "Doğum günleri daha var, şimdiden biraz biriktirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_036",
+      "speaker": "张雨桐",
+      "zh": "我想自己做一张卡片送给他们。",
+      "pinyin": "wǒ xiǎng zì jǐ zuò yī zhāng kǎ piàn sòng gěi tā men 。",
+      "tr": "Onlara kendi yaptığım bir kartı vermek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_037",
+      "speaker": "张伟",
+      "zh": "那就把礼物的钱每个月存一点。",
+      "pinyin": "nà jiù bǎ lǐ wù de qián měi gè yuè cún yì diǎn 。",
+      "tr": "O zaman hediye parasını her ay biraz biriktirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_038",
+      "speaker": "刘梅",
+      "zh": "这样不会一下子花很多。",
+      "pinyin": "zhè yàng bú huì yī xià zi huā hěn duō 。",
+      "tr": "Böylece bir anda çok para harcamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_039",
+      "speaker": "张雨桐",
+      "zh": "我也可以从零花钱里出一部分。",
+      "pinyin": "wǒ yě kě yǐ cóng líng huā qián lǐ chū yī bù fèn 。",
+      "tr": "Ben de harçlığımdan bir kısmını verebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_040",
+      "speaker": "张伟",
+      "zh": "你不用拿出太多零花钱。",
+      "pinyin": "nǐ bù yòng ná chū tài duō líng huā qián 。",
+      "tr": "Harçlığından çok fazla vermen gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_041",
+      "speaker": "刘梅",
+      "zh": "我们会一起准备，心意最重要。",
+      "pinyin": "wǒ men huì yì qǐ zhǔn bèi ， xīn yì zuì zhòng yào 。",
+      "tr": "Hediyeyi birlikte hazırlarız, önemli olan düşünmek."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_042",
+      "speaker": "张雨桐",
+      "zh": "我知道，做卡片也很有意思。",
+      "pinyin": "wǒ zhī dào ， zuò kǎ piàn yě hěn yǒu yì si 。",
+      "tr": "Biliyorum, kart yapmak da çok güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_043",
+      "speaker": "张伟",
+      "zh": "这个月可以出去吃饭一次吗？",
+      "pinyin": "zhè ge yuè kě yǐ chū qù chī fàn yī cì ma ？",
+      "tr": "Bu ay bir kez dışarıda yemek yiyebilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_044",
+      "speaker": "刘梅",
+      "zh": "可以，不过我们先看看预算还剩多少。",
+      "pinyin": "kě yǐ ， bù guò wǒ men xiān kàn kàn yù suàn hái shèng duō shǎo 。",
+      "tr": "Olur ama önce bütçede ne kaldığına bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_045",
+      "speaker": "张雨桐",
+      "zh": "如果在家做饭，可能更省钱。",
+      "pinyin": "rú guǒ zài jiā zuò fàn ， kě néng gèng shěng qián 。",
+      "tr": "Evde yemek yaparsak daha tasarruflu olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_046",
+      "speaker": "张伟",
+      "zh": "我们可以选一家不太贵的餐馆。",
+      "pinyin": "wǒ men kě yǐ xuǎn yī jiā bù tài guì de cān guǎn 。",
+      "tr": "Çok pahalı olmayan bir restoran seçebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_047",
+      "speaker": "刘梅",
+      "zh": "我知道学校附近有一家小店。",
+      "pinyin": "wǒ zhī dào xué xiào fù jìn yǒu yī jiā xiǎo diàn 。",
+      "tr": "Okulun yakınında küçük bir yer biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_048",
+      "speaker": "张雨桐",
+      "zh": "那天我可以帮忙选菜。",
+      "pinyin": "nà tiān wǒ kě yǐ bāng máng xuǎn cài 。",
+      "tr": "O gün yemekleri seçmeye yardım edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_049",
+      "speaker": "张伟",
+      "zh": "买衣服的钱要不要也算进去？",
+      "pinyin": "mǎi yī fú de qián yào bù yào yě suàn jìn qù ？",
+      "tr": "Giysi masrafını da hesaba katalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_050",
+      "speaker": "刘梅",
+      "zh": "我最近不需要新衣服。",
+      "pinyin": "wǒ zuì jìn bù xū yào xīn yī fú 。",
+      "tr": "Şu an yeni kıyafete ihtiyacım yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_051",
+      "speaker": "张雨桐",
+      "zh": "我的运动鞋还可以穿一阵子。",
+      "pinyin": "wǒ de yùn dòng xié hái kě yǐ chuān yī zhèn zi 。",
+      "tr": "Spor ayakkabılarımı bir süre daha giyebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_052",
+      "speaker": "张伟",
+      "zh": "那就不用急着买新的。",
+      "pinyin": "nà jiù bù yòng jí zhe mǎi xīn de 。",
+      "tr": "O zaman yenisini almaya gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_053",
+      "speaker": "刘梅",
+      "zh": "如果真的需要，再从预算里安排。",
+      "pinyin": "rú guǒ zhēn de xū yào ， zài cóng yù suàn lǐ ān pái 。",
+      "tr": "Gerçekten gerekirse bütçeden ayırırız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_054",
+      "speaker": "张雨桐",
+      "zh": "我会先检查衣柜里有什么。",
+      "pinyin": "wǒ huì xiān jiǎn chá yī guì lǐ yǒu shén me 。",
+      "tr": "Önce dolabımda neler var kontrol ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_055",
+      "speaker": "张伟",
+      "zh": "爸爸，你每个月也存钱吗？",
+      "pinyin": "bà bà ， nǐ měi gè yuè yě cún qián ma ？",
+      "tr": "Baba, sen her ay para biriktiriyor musun?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_056",
+      "speaker": "刘梅",
+      "zh": "我每月会留一小部分以备不时之需。",
+      "pinyin": "wǒ měi yuè huì liú yī xiǎo bù fèn yǐ bèi bù shí zhī xū 。",
+      "tr": "Her ay beklenmedik durumlar için biraz ayırıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_057",
+      "speaker": "张雨桐",
+      "zh": "妈妈也可以把省下来的钱放进去。",
+      "pinyin": "mā mā yě kě yǐ bǎ shěng xià lái de qián fàng jìn qù 。",
+      "tr": "Annem de tasarruf ettiğimiz parayı oraya koyabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_058",
+      "speaker": "张伟",
+      "zh": "对，省下来的钱可以慢慢存起来。",
+      "pinyin": "duì ， shěng xià lái de qián kě yǐ màn màn cún qǐ lái 。",
+      "tr": "Evet, tasarruf ettiğimiz parayı yavaş yavaş biriktirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_059",
+      "speaker": "刘梅",
+      "zh": "不用存很多，养成习惯就好。",
+      "pinyin": "bù yòng cún hěn duō ， yǎng chéng xí guàn jiù hǎo 。",
+      "tr": "Çok biriktirmek gerekmez, alışkanlık edinmek yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_060",
+      "speaker": "张雨桐",
+      "zh": "那我也把一部分零花钱存起来。",
+      "pinyin": "nà wǒ yě bǎ yī bù fèn líng huā qián cún qǐ lái 。",
+      "tr": "Ben de harçlığımın bir kısmını biriktireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_061",
+      "speaker": "张伟",
+      "zh": "我们看看表上还剩多少。",
+      "pinyin": "wǒ men kàn kàn biǎo shàng hái shèng duō shǎo 。",
+      "tr": "Tabloda ne kadar kaldığına bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_062",
+      "speaker": "刘梅",
+      "zh": "扣掉费用以后，还能留一些买日用品。",
+      "pinyin": "kòu diào fèi yòng yǐ hòu ， hái néng liú yī xiē mǎi rì yòng pǐn 。",
+      "tr": "Masrafları çıkarınca temel ihtiyaçlar için biraz kalıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_063",
+      "speaker": "张雨桐",
+      "zh": "如果不够，就先买最必要的。",
+      "pinyin": "rú guǒ bù gòu ， jiù xiān mǎi zuì bì yào de 。",
+      "tr": "Yetmezse önce en gerekli şeyleri alırız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_064",
+      "speaker": "张伟",
+      "zh": "家里的灯泡坏了，要买新的。",
+      "pinyin": "jiā lǐ de dēng pào huài le ， yào mǎi xīn de 。",
+      "tr": "Evin ampulü bozuldu, yenisini almamız gerek."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_065",
+      "speaker": "刘梅",
+      "zh": "这属于必要的东西，今天就买吧。",
+      "pinyin": "zhè shǔ yú bì yào de dōng xī ， jīn tiān jiù mǎi ba 。",
+      "tr": "Bu gerekli bir şey, bugün alalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_066",
+      "speaker": "张雨桐",
+      "zh": "我可以跟爸爸一起去商店。",
+      "pinyin": "wǒ kě yǐ gēn bà bà yì qǐ qù shāng diàn 。",
+      "tr": "Babamla birlikte dükkâna gidebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_067",
+      "speaker": "张伟",
+      "zh": "我们买东西以前先比较一下价格。",
+      "pinyin": "wǒ men mǎi dōng xī yǐ qián xiān bǐ jiào yī xià jià gé 。",
+      "tr": "Bir şey almadan önce fiyatları karşılaştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_068",
+      "speaker": "刘梅",
+      "zh": "同样的东西，有的店便宜一些。",
+      "pinyin": "tóng yàng de dōng xī ， yǒu de diàn pián yi yī xiē 。",
+      "tr": "Aynı ürün bazı dükkânlarda daha ucuz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_069",
+      "speaker": "张雨桐",
+      "zh": "我会看清楚再决定买哪一个。",
+      "pinyin": "wǒ huì kàn qīng chǔ zài jué dìng mǎi nǎ yí gè 。",
+      "tr": "Hangisini alacağıma bakıp öyle karar vereceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_070",
+      "speaker": "张伟",
+      "zh": "这个月的费用都写好了吗？",
+      "pinyin": "zhè ge yuè de fèi yòng dōu xiě hǎo le ma ？",
+      "tr": "Bu ayki giderlerin hepsini yazdık mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_071",
+      "speaker": "刘梅",
+      "zh": "写好了，必要的和可以少花的分开了。",
+      "pinyin": "xiě hǎo le ， bì yào de hé kě yǐ shǎo huā de fēn kāi le 。",
+      "tr": "Evet, gerekli olanlarla azaltabileceklerimizi ayırdık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_072",
+      "speaker": "张雨桐",
+      "zh": "我看懂了，颜色也不一样。",
+      "pinyin": "wǒ kàn dǒng le ， yán sè yě bù yí yàng 。",
+      "tr": "Anladım, renkleri de farklı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_073",
+      "speaker": "张伟",
+      "zh": "我们可以少买零食，多买水果。",
+      "pinyin": "wǒ men kě yǐ shǎo mǎi líng shí ， duō mǎi shuǐ guǒ 。",
+      "tr": "Daha az atıştırmalık, daha çok meyve alabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_074",
+      "speaker": "刘梅",
+      "zh": "好，水果对身体也更好。",
+      "pinyin": "hǎo ， shuǐ guǒ duì shēn tǐ yě gèng hǎo 。",
+      "tr": "Olur, meyve sağlığa da daha iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_075",
+      "speaker": "张雨桐",
+      "zh": "我同意，这样也能省一点钱。",
+      "pinyin": "wǒ tóng yì ， zhè yàng yě néng shěng yì diǎn qián 。",
+      "tr": "Katılıyorum, biraz da tasarruf ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_076",
+      "speaker": "张伟",
+      "zh": "如果这个月有剩下的钱，怎么安排？",
+      "pinyin": "rú guǒ zhè ge yuè yǒu shèng xià de qián ， zěn me ān pái ？",
+      "tr": "Ay sonunda para kalırsa ne yapalım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_077",
+      "speaker": "刘梅",
+      "zh": "先存起来，不急着花掉。",
+      "pinyin": "xiān cún qǐ lái ， bù jí zhe huā diào 。",
+      "tr": "Önce biriktirelim, hemen harcamayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_078",
+      "speaker": "张雨桐",
+      "zh": "我也想存着以后买一本书。",
+      "pinyin": "wǒ yě xiǎng cún zhe yǐ hòu mǎi yī běn shū 。",
+      "tr": "Ben de ileride kitap almak için biriktirmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_079",
+      "speaker": "张伟",
+      "zh": "这个计划对大家都公平吗？",
+      "pinyin": "zhè ge jì huà duì dà jiā dōu gōng píng ma ？",
+      "tr": "Bu plan herkes için adil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_080",
+      "speaker": "刘梅",
+      "zh": "我觉得可以，每个人的需要都考虑到了。",
+      "pinyin": "wǒ jué de kě yǐ ， měi gè rén de xū yào dōu kǎo lǜ dào le 。",
+      "tr": "Bence uygun, herkesin ihtiyacını düşündük."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_081",
+      "speaker": "张雨桐",
+      "zh": "我们还给家里留了买菜的钱。",
+      "pinyin": "wǒ men huán gěi jiā lǐ liú le mǎi cài de qián 。",
+      "tr": "Ev alışverişi için de para ayırdık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_082",
+      "speaker": "张伟",
+      "zh": "那我们就按这个预算来花钱。",
+      "pinyin": "nà wǒ men jiù àn zhè ge yù suàn lái huā qián 。",
+      "tr": "O zaman bu bütçeye göre harcayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_083",
+      "speaker": "刘梅",
+      "zh": "如果费用变了，我们再一起商量。",
+      "pinyin": "rú guǒ fèi yòng biàn le ， wǒ men zài yì qǐ shāng liáng 。",
+      "tr": "Masraflar değişirse yeniden konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_084",
+      "speaker": "张雨桐",
+      "zh": "我会记得买东西前先看看清单。",
+      "pinyin": "wǒ huì jì de mǎi dōng xī qián xiān kàn kàn qīng dān 。",
+      "tr": "Bir şey almadan önce listeye bakmayı hatırlayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_085",
+      "speaker": "张伟",
+      "zh": "谢谢你们听我的想法。",
+      "pinyin": "xiè xiè nǐ men tīng wǒ de xiǎng fǎ 。",
+      "tr": "Fikrimi dinlediğiniz için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_086",
+      "speaker": "刘梅",
+      "zh": "当然，你也是家里的一员。",
+      "pinyin": "dāng rán ， nǐ yě shì jiā lǐ de yī yuán 。",
+      "tr": "Elbette, sen de ailenin bir parçasısın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_087",
+      "speaker": "张雨桐",
+      "zh": "一起安排预算让我学到了很多。",
+      "pinyin": "yì qǐ ān pái yù suàn ràng wǒ xué dào le hěn duō 。",
+      "tr": "Bütçeyi birlikte planlayınca çok şey öğrendim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_088",
+      "speaker": "张伟",
+      "zh": "这个月我们先把必要的费用付好。",
+      "pinyin": "zhè ge yuè wǒ men xiān bǎ bì yào de fèi yòng fù hǎo 。",
+      "tr": "Bu ay önce gerekli masrafları ödeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_089",
+      "speaker": "刘梅",
+      "zh": "剩下的部分按计划使用。",
+      "pinyin": "shèng xià de bù fèn àn jì huà shǐ yòng 。",
+      "tr": "Kalan kısmı plana göre kullanırız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_090",
+      "speaker": "张雨桐",
+      "zh": "我会把预算表贴在冰箱上。",
+      "pinyin": "wǒ huì bǎ yù suàn biǎo tiē zài bīng xiāng shàng 。",
+      "tr": "Bütçe tablosunu buzdolabına asarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_091",
+      "speaker": "张伟",
+      "zh": "下次买东西以前，我们一起看看清单。",
+      "pinyin": "xià cì mǎi dōng xī yǐ qián ， wǒ men yì qǐ kàn kàn qīng dān 。",
+      "tr": "Bir dahaki alışverişten önce listeye birlikte bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_092",
+      "speaker": "刘梅",
+      "zh": "这样就不会忘记重要的东西。",
+      "pinyin": "zhè yàng jiù bú huì wàng jì zhòng yào de dōng xī 。",
+      "tr": "Böylece önemli şeyleri unutmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_093",
+      "speaker": "张雨桐",
+      "zh": "我还可以帮忙记下每天的花费。",
+      "pinyin": "wǒ hái kě yǐ bāng máng jì xià měi tiān de huā fèi 。",
+      "tr": "Günlük harcamaları not etmeye de yardım edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_094",
+      "speaker": "张伟",
+      "zh": "好主意，这样月底更容易检查。",
+      "pinyin": "hǎo zhǔ yì ， zhè yàng yuè dǐ gèng róng yì jiǎn chá 。",
+      "tr": "Güzel fikir, ay sonunda kontrol etmek kolaylaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_095",
+      "speaker": "刘梅",
+      "zh": "我们一家人一起做，肯定能安排好。",
+      "pinyin": "wǒ men yī jiā rén yì qǐ zuò ， kěn dìng néng ān pái hǎo 。",
+      "tr": "Ailece yaparsak mutlaka iyi planlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_096",
+      "speaker": "张雨桐",
+      "zh": "那我从今天开始记账。",
+      "pinyin": "nà wǒ cóng jīn tiān kāi shǐ jì zhàng 。",
+      "tr": "O zaman bugünden başlayarak hesap tutacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_097",
+      "speaker": "张伟",
+      "zh": "本月预算已经写好了，我们按这个计划开始吧。",
+      "pinyin": "běn yuè yù suàn yǐ jīng xiě hǎo le ， wǒ men àn zhè ge jì huà kāi shǐ ba 。",
+      "tr": "Bu ayın bütçesi hazır, plana göre başlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_098",
+      "speaker": "刘梅",
+      "zh": "好，我负责买菜和缴费。",
+      "pinyin": "hǎo ， wǒ fù zé mǎi cài hé jiǎo fèi 。",
+      "tr": "Olur, market alışverişi ve faturalar bende."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_099",
+      "speaker": "张雨桐",
+      "zh": "我来记录每天的花钱情况。",
+      "pinyin": "wǒ lái jì lù měi tiān de huā qián qíng kuàng 。",
+      "tr": "Ben de günlük harcamaları kaydederim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC024_100",
+      "speaker": "张伟",
+      "zh": "我把预算表放在桌上，大家都能随时看看。",
+      "pinyin": "wǒ bǎ yù suàn biǎo fàng zài zhuō shàng ， dà jiā dōu néng suí shí kàn kàn 。",
+      "tr": "Bütçe tablosunu masaya koyarım, herkes istediği zaman bakabilir."
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC046.json",
-  "dialogueSha256": "45ef120ccb70dcc48c24ad0b7494540f714c0575cd610e6389b5103ef5b039c9",
+  "dialogueSha256": "42f10a2031ed578dda50cb08f3f7f1487252b9c8fe9517fc69cbd4d01e4d996a",
   "titleZh": "张伟最后的大项目成功了",
   "titleTr": "Zhang’ın İşte Son Büyük Başarısı",
   "locationId": "LOC_ZH_WORKPLACE_001",

@@ -4,7 +4,7 @@
   "generationSceneId": "ZH_HSK1_SC009",
   "manifestVersion": "LOCKED_V2",
   "dialogueSource": "ci/dialogue_final_v13/HSK1/ZH_HSK1_SC009.json",
-  "dialogueSha256": "6719dcef8885824d09aef50a153c3349fd9e24a24d2773db8cbc095ac0dc26c3",
+  "dialogueSha256": "64c757ed9b7bdbef58ea0cdd5452b03141ea655764e5519ae4c565d4a13ffd5c",
   "titleTr": "İlk Taksi Yolculuğu",
   "locationId": "LOC_ZH_TAXI_001",
   "scenePurposeTr": "Taksi şoförü adresi yanlış anlar; Li Chen doğru yolu açıklamaya yardım eder.",

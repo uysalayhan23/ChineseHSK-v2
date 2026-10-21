@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC023.json",
-  "dialogueSha256": "2733a41537aee99feefa57329465c993dfe6278e19d6d46d0f9ca5d80feeff99",
+  "dialogueSha256": "0489c45be4b5016b1e3be198a2df36e999d5a831c7a96ddb948b359d0992afce",
   "titleZh": "奶奶悄悄救场",
   "titleTr": "Büyükannenin Sessiz Müdahalesi",
   "locationId": "LOC_ZH_NEW_HOME_001",

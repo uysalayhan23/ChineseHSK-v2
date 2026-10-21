@@ -1,0 +1,744 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK1_SC021",
+  "level": "HSK1",
+  "sourceTitleZh": "新高中的校门",
+  "sourceTitleTr": "Yeni Lisenin Kapısı",
+  "sourceMiniAdventureTr": "Yutong yanlış binaya yönelir ve okul görevlisinden yardım ister.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK1_SC021_001",
+      "speaker": "张雨桐",
+      "zh": "您好，请问这边是去教室的路吗？",
+      "pinyin": "Nín hǎo, qǐng wèn zhè biān shì qù jiào shì de lù ma?",
+      "tr": "Merhaba, burası sınıflara giden yol mu?",
+      "emotion": "curious",
+      "actionTr": "Sınıf yolunu çekinerek sorar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_002",
+      "speaker": "老师",
+      "zh": "你是今天新来的学生吧？先别往那边走。",
+      "pinyin": "Nǐ shì jīn tiān xīn lái de xué shēng ba? xiān bié wǎng nà biān zǒu.",
+      "tr": "Bugün gelen yeni öğrenci sensin, değil mi? Önce o tarafa gitme."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_003",
+      "speaker": "工作人员",
+      "zh": "那栋楼不是教学楼，是办公室。",
+      "pinyin": "Nà dòng lóu bú shì jiào xué lóu, shì bàn gōng shì.",
+      "tr": "O bina dersliklerin olduğu bina değil, idari bina."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_004",
+      "speaker": "同学",
+      "zh": "我刚来时也走过那里，看着很像。",
+      "pinyin": "Wǒ gāng lái shí yě zǒu guò nà lǐ, kàn zhe hěn xiàng.",
+      "tr": "Ben de ilk geldiğimde oraya gitmiştim, çok benziyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_005",
+      "speaker": "张雨桐",
+      "zh": "原来走错了，我还以为自己来晚了。",
+      "pinyin": "Yuán lái zǒu cuò le, wǒ hái yǐ wéi zì jǐ lái wǎn le.",
+      "tr": "Demek yanlış geldim, bir de geç kaldığımı sanıyordum.",
+      "emotion": "worried",
+      "actionTr": "Yanlış yola sapıp geç kalmaktan korktuğunu söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_006",
+      "speaker": "老师",
+      "zh": "没晚，我们还没进班呢。",
+      "pinyin": "Méi wǎn, wǒ men hái méi jìn bān ne.",
+      "tr": "Geç kalmadın, henüz sınıfa girmedik.",
+      "emotion": "comforting",
+      "actionTr": "Henüz geç kalmadığını açıklar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_007",
+      "speaker": "工作人员",
+      "zh": "你先到这边来，门口别站着。",
+      "pinyin": "Nǐ xiān dào zhè biān lái, mén kǒu bié zhàn zhe.",
+      "tr": "Önce bu tarafa gel, kapıda durma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_008",
+      "speaker": "同学",
+      "zh": "对，这里人要进出，我们往旁边一点。",
+      "pinyin": "Duì, zhè lǐ rén yào jìn chū, wǒ men wǎng páng biān yì diǎn.",
+      "tr": "Evet, buradan insanlar geçecek, biraz yana çekilelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_009",
+      "speaker": "张雨桐",
+      "zh": "谢谢，我第一次来这所高中，路还不熟。",
+      "pinyin": "Xiè xiè, wǒ dì yī cì lái zhè suǒ gāo zhōng, lù hái bù shú.",
+      "tr": "Teşekkürler, bu liseye ilk gelişim, yolları henüz bilmiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_010",
+      "speaker": "老师",
+      "zh": "没关系，学校大，慢慢就熟了。",
+      "pinyin": "Méi guān xì, xué xiào dà, màn màn jiù shú le.",
+      "tr": "Sorun değil, okul büyük, zamanla öğrenirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_011",
+      "speaker": "工作人员",
+      "zh": "你要找哪个班？有老师的名字吗？",
+      "pinyin": "Nǐ yào zhǎo nǎ ge bān? yǒu lǎo shī de míng zi ma?",
+      "tr": "Hangi sınıfı arıyorsun? Öğretmenin adı var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_012",
+      "speaker": "同学",
+      "zh": "先看看你带的纸，上面应该有。",
+      "pinyin": "Xiān kàn kàn nǐ dài de zhǐ, shàng miàn yīng gāi yǒu.",
+      "tr": "Önce yanındaki kâğıda bak, üzerinde olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_013",
+      "speaker": "张雨桐",
+      "zh": "有的，我拿出来给您看。",
+      "pinyin": "Yǒu de, wǒ ná chū lái gěi nín kàn.",
+      "tr": "Var, çıkarıp size göstereyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_014",
+      "speaker": "老师",
+      "zh": "不用紧张，我就是你要找的老师。",
+      "pinyin": "Bù yòng jǐn zhāng, wǒ jiù shì nǐ yào zhǎo de lǎo shī.",
+      "tr": "Heyecanlanma, aradığın öğretmen benim.",
+      "emotion": "comforting",
+      "actionTr": "Aranan öğretmenin kendisi olduğunu söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_015",
+      "speaker": "工作人员",
+      "zh": "那正好，老师带你过去，就不会走错了。",
+      "pinyin": "Nà zhèng hǎo, lǎo shī dài nǐ guò qù, jiù bú huì zǒu cuò le.",
+      "tr": "Ne güzel, öğretmenin götürürse yolu karıştırmazsın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_016",
+      "speaker": "同学",
+      "zh": "我们是一个班的，我也跟你一起走。",
+      "pinyin": "Wǒ men shì yí gè bān de, wǒ yě gēn nǐ yì qǐ zǒu.",
+      "tr": "Biz aynı sınıftayız, ben de seninle geleyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_017",
+      "speaker": "张雨桐",
+      "zh": "真的？刚进学校就遇见大家，太好了。",
+      "pinyin": "Zhēn de? gāng jìn xué xiào jiù yù jiàn dà jiā, tài hǎo le.",
+      "tr": "Gerçekten mi? Okula girer girmez size rastladım, ne güzel.",
+      "emotion": "happy",
+      "actionTr": "Yeni arkadaşına rastlamaya sevinir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_018",
+      "speaker": "老师",
+      "zh": "先记一下，这边是办公室，那边才是教室。",
+      "pinyin": "Xiān jì yī xià, zhè biān shì bàn gōng shì, nà biān cái shì jiào shì.",
+      "tr": "Önce aklında tut, bu tarafta ofisler, diğer tarafta sınıflar var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_019",
+      "speaker": "工作人员",
+      "zh": "从大门进去，沿这条路往前走。",
+      "pinyin": "Cóng dà mén jìn qù, yán zhè tiáo lù wǎng qián zǒu.",
+      "tr": "Ana kapıdan girince bu yoldan ileri yürü."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_020",
+      "speaker": "同学",
+      "zh": "走到那棵树，再往左边看。",
+      "pinyin": "Zǒu dào nà kē shù, zài wǎng zuǒ biān kàn.",
+      "tr": "Şu ağaca kadar gidince sola bak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_021",
+      "speaker": "张雨桐",
+      "zh": "左边那栋楼吗？不是我刚才看的这栋？",
+      "pinyin": "Zuǒ biān nà dòng lóu ma? bú shì wǒ gāng cái kàn de zhè dòng?",
+      "tr": "Soldaki bina mı? Az önce baktığım bu bina değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_022",
+      "speaker": "老师",
+      "zh": "对，你刚才看的是右边那栋。",
+      "pinyin": "Duì, nǐ gāng cái kàn de shì yòu biān nà dòng.",
+      "tr": "Evet, az önce sağdaki binaya baktın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_023",
+      "speaker": "工作人员",
+      "zh": "两栋颜色差不多，第一天容易弄错。",
+      "pinyin": "Liǎng dòng yán sè chà bù duō, dì yī tiān róng yì nòng cuò.",
+      "tr": "İki binanın rengi benzer, ilk gün karıştırmak kolay."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_024",
+      "speaker": "同学",
+      "zh": "我当时就是一直盯着右边看。",
+      "pinyin": "Wǒ dāng shí jiù shì yì zhí dīng zhe yòu biān kàn.",
+      "tr": "Ben de o zaman sürekli sağ tarafa bakmıştım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_025",
+      "speaker": "张雨桐",
+      "zh": "听你这么说，我没那么不好意思了。",
+      "pinyin": "Tīng nǐ zhè me shuō, wǒ méi nà me bù hǎo yì sī le.",
+      "tr": "Sen böyle söyleyince artık o kadar mahcup hissetmiyorum.",
+      "emotion": "happy",
+      "actionTr": "Arkadaşının da yanıldığını duyunca rahatlar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_026",
+      "speaker": "老师",
+      "zh": "问清楚就好，不用怕问。",
+      "pinyin": "Wèn qīng chǔ jiù hǎo, bù yòng pà wèn.",
+      "tr": "Sorup öğrenmen yeter, sormaktan çekinme.",
+      "emotion": "comforting",
+      "actionTr": "Soru sormaktan çekinmemesini ister."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_027",
+      "speaker": "工作人员",
+      "zh": "我们每天都在这里，你找不到就来问。",
+      "pinyin": "Wǒ men měi tiān dōu zài zhè lǐ, nǐ zhǎo bú dào jiù lái wèn.",
+      "tr": "Biz her gün buradayız, bulamazsan gelip sor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_028",
+      "speaker": "同学",
+      "zh": "也可以问我，不过上课时要小声点。",
+      "pinyin": "Yě kě yǐ wèn wǒ, bù guò shàng kè shí yào xiǎo shēng diǎn.",
+      "tr": "Bana da sorabilirsin, ama derste biraz sessizce."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_029",
+      "speaker": "张雨桐",
+      "zh": "好，我现在先把这条路记住。",
+      "pinyin": "Hǎo, wǒ xiàn zài xiān bǎ zhè tiáo lù jì zhù.",
+      "tr": "Tamam, şimdilik bu yolu aklımda tutayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_030",
+      "speaker": "老师",
+      "zh": "路记不住也没事，先认识人。",
+      "pinyin": "Lù jì bú zhù yě méi shì, xiān rèn shí rén.",
+      "tr": "Yolu hatırlamazsan da sorun değil, önce insanları tanı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_031",
+      "speaker": "工作人员",
+      "zh": "这位是老师，我是学校的工作人员。",
+      "pinyin": "Zhè wèi shì lǎo shī, wǒ shì xué xiào de gōng zuò rén yuán.",
+      "tr": "Bu öğretmenin, ben de okul görevlisiyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_032",
+      "speaker": "同学",
+      "zh": "我是你的同学，不是老师的小助手。",
+      "pinyin": "Wǒ shì nǐ de tóng xué, bú shì lǎo shī de xiǎo zhù shǒu.",
+      "tr": "Ben senin sınıf arkadaşınım, öğretmenin küçük yardımcısı değilim.",
+      "emotion": "playful",
+      "actionTr": "Öğretmenin yardımcısı değil sınıf arkadaşı olduğuyla şaka yapar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_033",
+      "speaker": "张雨桐",
+      "zh": "哈哈，我刚才还想你怎么什么都知道。",
+      "pinyin": "Hā hā, wǒ gāng cái hái xiǎng nǐ zěn me shén me dōu zhī dào.",
+      "tr": "Haha, az önce her şeyi nasıl bildiğini düşünüyordum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_034",
+      "speaker": "老师",
+      "zh": "她比你早来一些，对学校熟一点。",
+      "pinyin": "Tā bǐ nǐ zǎo lái yī xiē, duì xué xiào shú yì diǎn.",
+      "tr": "Senden biraz önce geldi, okulu biraz daha tanıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_035",
+      "speaker": "工作人员",
+      "zh": "熟路的同学帮新同学，很好。",
+      "pinyin": "Shú lù de tóng xué bāng xīn tóng xué, hěn hǎo.",
+      "tr": "Yolu bilen öğrencinin yeni arkadaşına yardım etmesi güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_036",
+      "speaker": "同学",
+      "zh": "以后你熟了，也可以帮别人。",
+      "pinyin": "Yǐ hòu nǐ shú le, yě kě yǐ bāng bié rén.",
+      "tr": "Sen de öğrenince başkalarına yardım edebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_037",
+      "speaker": "张雨桐",
+      "zh": "希望下次我能指对路，不把别人带到办公室。",
+      "pinyin": "Xī wàng xià cì wǒ néng zhǐ duì lù, bù bǎ bié rén dài dào bàn gōng shì.",
+      "tr": "Umarım bir dahaki sefere doğru yolu gösteririm, birini ofise götürmem.",
+      "emotion": "playful",
+      "actionTr": "Başkalarını yanlış ofise götürmemeyi umar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_038",
+      "speaker": "老师",
+      "zh": "先把自己的教室找到，别急。",
+      "pinyin": "Xiān bǎ zì jǐ de jiào shì zhǎo dào, bié jí.",
+      "tr": "Önce kendi sınıfını bul, acele etme."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_039",
+      "speaker": "工作人员",
+      "zh": "门口这张图可以看，不过不用一下记完。",
+      "pinyin": "Mén kǒu zhè zhāng tú kě yǐ kàn, bù guò bù yòng yī xià jì wán.",
+      "tr": "Kapıdaki plana bakabilirsin, ama hepsini hemen ezberlemen gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_040",
+      "speaker": "同学",
+      "zh": "我只记大门、教室和回来的路。",
+      "pinyin": "Wǒ zhǐ jì dà mén, jiào shì hé huí lái de lù.",
+      "tr": "Ben yalnız ana kapıyı, sınıfı ve dönüş yolunu aklımda tutuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_041",
+      "speaker": "张雨桐",
+      "zh": "回来的路也要记，我差点忘了。",
+      "pinyin": "Huí lái de lù yě yào jì, wǒ chà diǎn wàng le.",
+      "tr": "Dönüş yolunu da öğrenmeliyim, az kalsın unutuyordum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_042",
+      "speaker": "老师",
+      "zh": "今天先跟着我，走一遍就明白了。",
+      "pinyin": "Jīn tiān xiān gēn zhe wǒ, zǒu yī biàn jiù míng bái le.",
+      "tr": "Bugün önce benimle gel, bir kez yürüyünce anlarsın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_043",
+      "speaker": "工作人员",
+      "zh": "放学从这条路出来，还是这个大门。",
+      "pinyin": "Fàng xué cóng zhè tiáo lù chū lái, hái shì zhè ge dà mén.",
+      "tr": "Ders bitince bu yoldan çıkarsın, yine bu ana kapı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_044",
+      "speaker": "同学",
+      "zh": "别像我那次一样，走到后门去了。",
+      "pinyin": "Bié xiàng wǒ nà cì yī yàng, zǒu dào hòu mén qù le.",
+      "tr": "Benim bir keresinde yaptığım gibi arka kapıya gitme."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_045",
+      "speaker": "张雨桐",
+      "zh": "你也走错过出口？",
+      "pinyin": "Nǐ yě zǒu cuò guò chū kǒu?",
+      "tr": "Sen çıkışı da mı karıştırdın?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_046",
+      "speaker": "老师",
+      "zh": "大家第一天都有不熟的地方。",
+      "pinyin": "Dà jiā dì yī tiān dōu yǒu bù shú de dì fāng.",
+      "tr": "İlk gün herkesin bilmediği bir yer olur."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_047",
+      "speaker": "工作人员",
+      "zh": "不确定就停下来问，别急着跑。",
+      "pinyin": "Bù què dìng jiù tíng xià lái wèn, bié jí zhe pǎo.",
+      "tr": "Emin değilsen durup sor, koşmak için acele etme."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_048",
+      "speaker": "同学",
+      "zh": "对，我问过以后，就没再走错。",
+      "pinyin": "Duì, wǒ wèn guò yǐ hòu, jiù méi zài zǒu cuò.",
+      "tr": "Evet, sorup öğrendikten sonra bir daha karıştırmadım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_049",
+      "speaker": "张雨桐",
+      "zh": "那我现在问清楚，心里就踏实了。",
+      "pinyin": "Nà wǒ xiàn zài wèn qīng chǔ, xīn lǐ jiù tà shí le.",
+      "tr": "O zaman şimdi sorup öğrenince içim rahatlar.",
+      "emotion": "happy",
+      "actionTr": "Yolu öğrenince rahatladığını söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_050",
+      "speaker": "老师",
+      "zh": "你刚才眉头都皱起来了，现在好多了。",
+      "pinyin": "Nǐ gāng cái méi tóu dōu zhòu qǐ lái le, xiàn zài hǎo duō le.",
+      "tr": "Az önce kaşlarını çatmıştın, şimdi çok daha iyisin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_051",
+      "speaker": "工作人员",
+      "zh": "学校是新地方，不是考试，别紧张。",
+      "pinyin": "Xué xiào shì xīn dì fāng, bú shì kǎo shì, bié jǐn zhāng.",
+      "tr": "Okul yeni bir yer, sınav değil, heyecanlanma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_052",
+      "speaker": "同学",
+      "zh": "我刚来时手都出汗，比你还紧张。",
+      "pinyin": "Wǒ gāng lái shí shǒu dōu chū hàn, bǐ nǐ hái jǐn zhāng.",
+      "tr": "Ben ilk geldiğimde ellerim terlemişti, senden de heyecanlıydım.",
+      "emotion": "comforting",
+      "actionTr": "Kendi ilk gün heyecanını paylaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_053",
+      "speaker": "张雨桐",
+      "zh": "原来不是只有我这样。",
+      "pinyin": "Yuán lái bú shì zhǐ yǒu wǒ zhè yàng.",
+      "tr": "Demek yalnız ben böyle değilim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_054",
+      "speaker": "老师",
+      "zh": "当然，你可以慢慢适应。",
+      "pinyin": "Dāng rán, nǐ kě yǐ màn màn shì yìng.",
+      "tr": "Elbette, zamanla alışabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_055",
+      "speaker": "工作人员",
+      "zh": "先认识路，再认识教室，不用一天全学会。",
+      "pinyin": "Xiān rèn shí lù, zài rèn shí jiào shì, bù yòng yī tiān quán xué huì.",
+      "tr": "Önce yolu, sonra sınıfı tanı, hepsini bir günde öğrenmen gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_056",
+      "speaker": "同学",
+      "zh": "同学的名字也不用马上全记住。",
+      "pinyin": "Tóng xué de míng zi yě bù yòng mǎ shàng quán jì zhù.",
+      "tr": "Arkadaşların bütün adlarını da hemen ezberlemen gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_057",
+      "speaker": "张雨桐",
+      "zh": "对了，我还不知道你的名字呢。",
+      "pinyin": "Duì le, wǒ hái bù zhī dào nǐ de míng zi ne.",
+      "tr": "Bu arada, adını daha bilmiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_058",
+      "speaker": "老师",
+      "zh": "等进班后我们再互相介绍，先让前面的同学过去。",
+      "pinyin": "Děng jìn bān hòu wǒ men zài hù xiāng jiè shào, xiān ràng qián miàn de tóng xué guò qù.",
+      "tr": "Sınıfa girince tanışırız; önce öndeki öğrencilerin geçmesine izin verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_059",
+      "speaker": "工作人员",
+      "zh": "老师说得对，前面的学生过来了。",
+      "pinyin": "Lǎo shī shuō de duì, qián miàn de xué shēng guò lái le.",
+      "tr": "Öğretmen haklı, ileriden öğrenciler geliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_060",
+      "speaker": "同学",
+      "zh": "我们往边上站一点，让他们过去。",
+      "pinyin": "Wǒ men wǎng biān shàng zhàn yì diǎn, ràng tā men guò qù.",
+      "tr": "Biraz kenara çekilip geçmelerine izin verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_061",
+      "speaker": "张雨桐",
+      "zh": "不好意思，我刚才又挡着了。",
+      "pinyin": "Bù hǎo yì sī, wǒ gāng cái yòu dǎng zhe le.",
+      "tr": "Kusura bakmayın, yine yolu kapattım.",
+      "emotion": "worried",
+      "actionTr": "Yolu kapattığını fark edip özür diler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_062",
+      "speaker": "老师",
+      "zh": "你已经让开了，没关系。",
+      "pinyin": "Nǐ yǐ jīng ràng kāi le, méi guān xì.",
+      "tr": "Zaten çekildin, sorun değil.",
+      "emotion": "comforting",
+      "actionTr": "Yana çekildiği için sorun olmadığını söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_063",
+      "speaker": "工作人员",
+      "zh": "门口人多，站在这里说话更安全。",
+      "pinyin": "Mén kǒu rén duō, zhàn zài zhè lǐ shuō huà gèng ān quán.",
+      "tr": "Kapı kalabalık, burada durup konuşmak daha güvenli."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_064",
+      "speaker": "同学",
+      "zh": "我拉一下背包带，就不碰到你了。",
+      "pinyin": "Wǒ lā yī xià bēi bāo dài, jiù bù pèng dào nǐ le.",
+      "tr": "Çantamın askısını çekeyim, sana değmesin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_065",
+      "speaker": "张雨桐",
+      "zh": "谢谢，我的包也往前拿一点。",
+      "pinyin": "Xiè xiè, wǒ de bāo yě wǎng qián ná yì diǎn.",
+      "tr": "Teşekkürler, ben de çantamı biraz öne alayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_066",
+      "speaker": "老师",
+      "zh": "书包都带好了，我们准备过去吧。",
+      "pinyin": "Shū bāo dōu dài hǎo le, wǒ men zhǔn bèi guò qù ba.",
+      "tr": "Çantalar tamam, gitmeye hazırlanalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_067",
+      "speaker": "工作人员",
+      "zh": "从这里直走，到树那儿左转。",
+      "pinyin": "Cóng zhè lǐ zhí zǒu, dào shù nàr zuǒ zhuǎn.",
+      "tr": "Buradan düz gidin, ağacın orada sola dönün."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_068",
+      "speaker": "同学",
+      "zh": "我带你看一次，老师跟我们一起。",
+      "pinyin": "Wǒ dài nǐ kàn yī cì, lǎo shī gēn wǒ men yì qǐ.",
+      "tr": "Sana bir kez göstereyim, öğretmen de bizimle gelir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_069",
+      "speaker": "张雨桐",
+      "zh": "好，我不往右边办公室走了。",
+      "pinyin": "Hǎo, wǒ bù wǎng yòu biān bàn gōng shì zǒu le.",
+      "tr": "Tamam, artık sağdaki ofise gitmiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_070",
+      "speaker": "老师",
+      "zh": "不过以后找办公室，也就知道在哪儿了。",
+      "pinyin": "Bù guò yǐ hòu zhǎo bàn gōng shì, yě jiù zhī dào zài nǎr le.",
+      "tr": "Ama ileride ofisi ararsan yerini de biliyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_071",
+      "speaker": "工作人员",
+      "zh": "走错这一次，也不是白走。",
+      "pinyin": "Zǒu cuò zhè yī cì, yě bú shì bái zǒu.",
+      "tr": "Bu bir kez yanlış gitmen de boşuna olmadı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_072",
+      "speaker": "同学",
+      "zh": "就是，你一下认识了两栋楼。",
+      "pinyin": "Jiù shì, nǐ yī xià rèn shí le liǎng dòng lóu.",
+      "tr": "Öyle, bir kerede iki binayı tanıdın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_073",
+      "speaker": "张雨桐",
+      "zh": "哈哈，这样想就不算太糟。",
+      "pinyin": "Hā hā, zhè yàng xiǎng jiù bù suàn tài zāo.",
+      "tr": "Haha, böyle düşününce o kadar kötü değil.",
+      "emotion": "happy",
+      "actionTr": "Yanlış dönüşü olumlu görmekle güler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_074",
+      "speaker": "老师",
+      "zh": "今天已经做得很好了，主动问了人。",
+      "pinyin": "Jīn tiān yǐ jīng zuò de hěn hǎo le, zhǔ dòng wèn le rén.",
+      "tr": "Bugün gayet iyiydin, kendin yardım istedin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_075",
+      "speaker": "工作人员",
+      "zh": "有问题开口，比一个人来回找更快。",
+      "pinyin": "Yǒu wèn tí kāi kǒu, bǐ yí gè rén lái huí zhǎo gèng kuài.",
+      "tr": "Sorunu sormak, tek başına gidip gelip aramaktan hızlıdır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_076",
+      "speaker": "同学",
+      "zh": "我以前怕问，现在也愿意问了。",
+      "pinyin": "Wǒ yǐ qián pà wèn, xiàn zài yě yuàn yì wèn le.",
+      "tr": "Eskiden sormaktan çekinirdim, şimdi ben de soruyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_077",
+      "speaker": "张雨桐",
+      "zh": "我在家也刚学会新的路，学校的还要再学。",
+      "pinyin": "Wǒ zài jiā yě gāng xué huì xīn de lù, xué xiào de hái yào zài xué.",
+      "tr": "Evde de yeni yolları öğrendim, okulunkileri ayrıca öğrenmeliyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_078",
+      "speaker": "老师",
+      "zh": "你们最近搬家了吧？",
+      "pinyin": "Nǐ men zuì jìn bān jiā le ba?",
+      "tr": "Yakın zamanda taşındınız, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_079",
+      "speaker": "工作人员",
+      "zh": "换了家又换学校，确实需要一点时间。",
+      "pinyin": "Huàn le jiā yòu huàn xué xiào, què shí xū yào yì diǎn shí jiān.",
+      "tr": "Evin de okulun da değişmesi gerçekten biraz zaman gerektirir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_080",
+      "speaker": "同学",
+      "zh": "那以后你知道好走的路，也告诉我。",
+      "pinyin": "Nà yǐ hòu nǐ zhī dào hǎo zǒu de lù, yě gào sù wǒ.",
+      "tr": "Sonra kolay bir yol öğrenirsen bana da anlat."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_081",
+      "speaker": "张雨桐",
+      "zh": "好，我们可以一起找，不用都靠你。",
+      "pinyin": "Hǎo, wǒ men kě yǐ yì qǐ zhǎo, bù yòng dōu kào nǐ.",
+      "tr": "Tamam, birlikte bulabiliriz, her şeyi sana bırakmam.",
+      "emotion": "happy",
+      "actionTr": "Arkadaşına karşılıklı yardım önerir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_082",
+      "speaker": "老师",
+      "zh": "这才像同学，互相帮忙。",
+      "pinyin": "Zhè cái xiàng tóng xué, hù xiāng bāng máng.",
+      "tr": "Arkadaşlık böyle olur, birbirinize yardım edersiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_083",
+      "speaker": "工作人员",
+      "zh": "我还在门口，有需要再回来找我。",
+      "pinyin": "Wǒ hái zài mén kǒu, yǒu xū yào zài huí lái zhǎo wǒ.",
+      "tr": "Ben yine kapıdayım, gerekirse gelip beni bul."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_084",
+      "speaker": "同学",
+      "zh": "谢谢您，今天帮了我们不少。",
+      "pinyin": "Xiè xiè nín, jīn tiān bāng le wǒ men bù shǎo.",
+      "tr": "Teşekkürler, bugün bize çok yardım ettiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_085",
+      "speaker": "张雨桐",
+      "zh": "也谢谢老师，我现在没那么慌了。",
+      "pinyin": "Yě xiè xiè lǎo shī, wǒ xiàn zài méi nà me huāng le.",
+      "tr": "Size de teşekkürler öğretmenim, artık o kadar telaşlı değilim.",
+      "emotion": "happy",
+      "actionTr": "Öğretmene teşekkür eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_086",
+      "speaker": "老师",
+      "zh": "不用谢，进班以后还有新同学认识你。",
+      "pinyin": "Bù yòng xiè, jìn bān yǐ hòu hái yǒu xīn tóng xué rèn shí nǐ.",
+      "tr": "Rica ederim, sınıfa girince seni tanıyacak başka arkadaşlar da var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_087",
+      "speaker": "工作人员",
+      "zh": "先慢慢走，别只顾着说话忘了看路。",
+      "pinyin": "Xiān màn màn zǒu, bié zhǐ gù zhe shuō huà wàng le kàn lù.",
+      "tr": "Yavaşça yürüyün, konuşmaya dalıp yola bakmayı unutmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_088",
+      "speaker": "同学",
+      "zh": "我走你旁边，碰到楼梯再告诉你。",
+      "pinyin": "Wǒ zǒu nǐ páng biān, pèng dào lóu tī zài gào sù nǐ.",
+      "tr": "Yanında yürürüm, merdivene gelince söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_089",
+      "speaker": "张雨桐",
+      "zh": "教室不在刚才那栋，左边才是。",
+      "pinyin": "Jiào shì bù zài gāng cái nà dòng, zuǒ biān cái shì.",
+      "tr": "Sınıf az önceki binada değil, soldakinde."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_090",
+      "speaker": "老师",
+      "zh": "对，你这次说清楚了。",
+      "pinyin": "Duì, nǐ zhè cì shuō qīng chǔ le.",
+      "tr": "Doğru, bu kez güzel söyledin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_091",
+      "speaker": "工作人员",
+      "zh": "大门也在身后，回来就能找到。",
+      "pinyin": "Dà mén yě zài shēn hòu, huí lái jiù néng zhǎo dào.",
+      "tr": "Ana kapı da arkanızda, dönüşte bulabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_092",
+      "speaker": "同学",
+      "zh": "你看，树是很好认的地方。",
+      "pinyin": "Nǐ kàn, shù shì hěn hǎo rèn de dì fāng.",
+      "tr": "Bak, ağacın olduğu yer kolay tanınıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_093",
+      "speaker": "张雨桐",
+      "zh": "那我记住树，不是记住每个人穿什么。",
+      "pinyin": "Nà wǒ jì zhù shù, bú shì jì zhù měi gè rén chuān shén me.",
+      "tr": "O zaman ağacı hatırlayayım, herkesin ne giydiğini değil."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_094",
+      "speaker": "老师",
+      "zh": "哈哈，人会走，树不会跟着走。",
+      "pinyin": "Hā hā, rén huì zǒu, shù bú huì gēn zhe zǒu.",
+      "tr": "Haha, insanlar yürür, ağaç peşlerinden gitmez."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_095",
+      "speaker": "工作人员",
+      "zh": "说得好，记固定的地方更方便。",
+      "pinyin": "Shuō de hǎo, jì gù dìng de dì fāng gèng fāng biàn.",
+      "tr": "Güzel söyledin, sabit yerleri hatırlamak daha kolay."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_096",
+      "speaker": "同学",
+      "zh": "这句话我也记住了。",
+      "pinyin": "Zhè jù huà wǒ yě jì zhù le.",
+      "tr": "Ben de bu söylediğini aklımda tuttum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_097",
+      "speaker": "张雨桐",
+      "zh": "我准备好了，我们过去吧。",
+      "pinyin": "Wǒ zhǔn bèi hǎo le, wǒ men guò qù ba.",
+      "tr": "Hazırım, hadi gidelim.",
+      "emotion": "happy",
+      "actionTr": "Doğru binaya gitmeye hazır olduğunu söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_098",
+      "speaker": "老师",
+      "zh": "好，到了班门口，先跟我一起等一下。",
+      "pinyin": "Hǎo, dào le bān mén kǒu, xiān gēn wǒ yì qǐ děng yí xià.",
+      "tr": "Tamam, sınıf kapısına gelince önce benimle biraz bekle."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_099",
+      "speaker": "工作人员",
+      "zh": "你们去吧，祝今天顺利。",
+      "pinyin": "Nǐ men qù ba, zhù jīn tiān shùn lì.",
+      "tr": "Siz gidin, umarım bugün güzel geçer."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC021_100",
+      "speaker": "同学",
+      "zh": "走吧，我们先找到教室，再认识大家。",
+      "pinyin": "Zǒu ba, wǒ men xiān zhǎo dào jiào shì, zài rèn shí dà jiā.",
+      "tr": "Hadi gidelim, önce sınıfı bulalım, sonra herkesi tanırız."
+    }
+  ]
+}

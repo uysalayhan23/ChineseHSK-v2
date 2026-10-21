@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC022.json",
-  "dialogueSha256": "2e1b3a9ccfcdb7a598cf7bea962303f625992022d45f7228c429fda2dea2b7f8",
+  "dialogueSha256": "baadc4fdbd0af67b3ff445f869afcfc486a78edea0d125f6382c88f754bd41b0",
   "titleTr": "Kafeye Yerel Ürünler",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Liu Mei yerel çiftçilerle daha düzenli tedarik anlaşması konuşur.",

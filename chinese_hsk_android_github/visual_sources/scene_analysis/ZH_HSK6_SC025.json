@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC025",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC025.json",
-  "dialogueSha256": "45ecef74ce385e60067bf240b98ecfdb024264fc99d8e51bc739bd693bf0d044",
+  "dialogueSha256": "9f652227c97e412068c168ea2a2731d8786b6ffddd0715b48d5e782d6316c31c",
   "titleZh": "四代同堂的照片",
   "titleTr": "Dört Kuşağın Fotoğrafı",
   "locationId": "LOC_ZH_NEW_HOME_001",

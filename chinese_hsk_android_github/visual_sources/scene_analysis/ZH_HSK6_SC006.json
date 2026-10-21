@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC006",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC006.json",
-  "dialogueSha256": "1c0cc8001a73d7e5de47271781c9b5b2b97f733513b2ace7a1acea5da1358bf2",
+  "dialogueSha256": "6db96ce526f6bc037ea606be115497b9d8a235bfbc6c8be37ce8f492901f2aae",
   "titleZh": "婚礼场地出问题了",
   "titleTr": "Düğün Mekânı Krizi",
   "locationId": "LOC_ZH_WEDDING_VENUE_001",
@@ -70,5 +70,5 @@
   },
   "narrationPresentation": null,
   "styleReferenceSceneId": "ZH_HSK6_SC001",
-  "qaNoteTr": "Diyalog, konuşmacı kadrosu, yaş sürekliliği ve 1080×1920 WebP kontrolleri geçti. APK build başlatılmadı."
+  "qaNoteTr": "100 tur, mekânın güvenlik nedeniyle kapanması ve uygun alternatifin bulunmasını anlatan doğal kriz çözme diyaloğu olarak düzenlendi; konuşmacı sırası ve öğrenme hedefleri korundu. Pinyin/Türkçe ve görsel ağız eşleşmeleri doğrulandı."
 }

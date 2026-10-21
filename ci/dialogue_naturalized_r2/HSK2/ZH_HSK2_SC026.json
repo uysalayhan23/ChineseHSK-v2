@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 45,
+  "status": "FINAL_NATIVE_RELEASE_CANDIDATE_V45",
+  "sceneId": "ZH_HSK2_SC026",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC026_001",
+      "speaker": "刘梅",
+      "zh": "外面下着大雨，大家先看看有没有带雨衣。",
+      "pinyin": "wài miàn xià zhe dà yǔ ， dà jiā xiān kàn kàn yǒu méi yǒu dài yǔ yī 。",
+      "tr": "Dışarıda yağmur yağıyor, önce yağmurluklarımızı bulalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_002",
+      "speaker": "张乐乐",
+      "zh": "我的雨衣找不到了，我已经把书包背好了。",
+      "pinyin": "wǒ de yǔ yī zhǎo bú dào le ， wǒ yǐ jīng bǎ shū bāo bèi hǎo le 。",
+      "tr": "Yağmurluğumu bulamıyorum, çantamı çoktan taktım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_003",
+      "speaker": "张雨桐",
+      "zh": "我也没看见我的，刚才明明挂在门边。",
+      "pinyin": "wǒ yě méi kàn jiàn wǒ de ， gāng cái míng míng guà zài mén biān 。",
+      "tr": "Ben de benimkini göremedim, az önce kapının yanındaydı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_004",
+      "speaker": "张伟",
+      "zh": "别着急，我们还有几分钟，分头找一下。",
+      "pinyin": "bié zháo jí ， wǒ men hái yǒu jǐ fēn zhōng ， fēn tóu zhǎo yī xià 。",
+      "tr": "Telaşlanmayın, birkaç dakikamız var, ayrı ayrı arayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_005",
+      "speaker": "刘梅",
+      "zh": "你们先看看衣柜，我去找雨伞。",
+      "pinyin": "nǐ men xiān kàn kàn yī guì ， wǒ qù zhǎo yǔ sǎn 。",
+      "tr": "Siz dolaba bakın, ben de şemsiyeleri bulayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_006",
+      "speaker": "张乐乐",
+      "zh": "我的书包旁边只有一本书，没有雨衣。",
+      "pinyin": "wǒ de shū bāo páng biān zhǐ yǒu yī běn shū ， méi yǒu yǔ yī 。",
+      "tr": "Çantamın yanında yalnızca bir kitap var, yağmurluğum yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_007",
+      "speaker": "张雨桐",
+      "zh": "我看看鞋柜附近，也许有人把它放那儿了。",
+      "pinyin": "wǒ kàn kàn xié guì fù jìn ， yě xǔ yǒu rén bǎ tā fàng nà ér le 。",
+      "tr": "Ayakkabılığın yakınına bakayım, belki biri oraya koymuştur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_008",
+      "speaker": "张伟",
+      "zh": "我去门后和客厅找找，别把雨伞也忘了。",
+      "pinyin": "wǒ qù mén hòu hé kè tīng zhǎo zhǎo ， bié bǎ yǔ sǎn yě wàng le 。",
+      "tr": "Kapının arkasına ve salona bakayım, şemsiyeyi de unutmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_009",
+      "speaker": "刘梅",
+      "zh": "昨晚谁把雨衣拿进屋里了？",
+      "pinyin": "zuó wǎn shuí bǎ yǔ yī ná jìn wū lǐ le ？",
+      "tr": "Dün akşam yağmurluğu eve kim getirdi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_010",
+      "speaker": "张乐乐",
+      "zh": "我放学回来以后先把它挂起来了。",
+      "pinyin": "wǒ fàng xué huí lái yǐ hòu xiān bǎ tā guà qǐ lái le 。",
+      "tr": "Okuldan dönünce önce onu astım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_011",
+      "speaker": "张雨桐",
+      "zh": "我记得它放在洗衣篮旁边。",
+      "pinyin": "wǒ jì de tā fàng zài xǐ yī lán páng biān 。",
+      "tr": "Çamaşır sepetinin yanında olduğunu hatırlıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_012",
+      "speaker": "张伟",
+      "zh": "那边没有，我去房间再找一次。",
+      "pinyin": "nà biān méi yǒu ， wǒ qù fáng jiān zài zhǎo yī cì 。",
+      "tr": "Orada yok, odada bir daha bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_013",
+      "speaker": "刘梅",
+      "zh": "外面雨下得更大了，我们得快走，不然就来不及了。",
+      "pinyin": "wài miàn yǔ xià dé gèng dà le ， wǒ men dé kuài zǒu ， bù rán jiù lái bù jí le 。",
+      "tr": "Yağmur daha da şiddetlendi, oyalanırsak geç kalacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_014",
+      "speaker": "张乐乐",
+      "zh": "我不想淋湿，可是还没找到外套。",
+      "pinyin": "wǒ bù xiǎng lín shī ， kě shì hái méi zhǎo dào wài tào 。",
+      "tr": "Islanmak istemiyorum ama montumu bulamadım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_015",
+      "speaker": "张雨桐",
+      "zh": "我刚才看过衣柜，里面有一把小雨伞。",
+      "pinyin": "wǒ gāng cái kàn guò yī guì ， lǐ miàn yǒu yī bǎ xiǎo yǔ sǎn 。",
+      "tr": "Dolaba baktım, içinde küçük bir şemsiye var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_016",
+      "speaker": "张伟",
+      "zh": "先把雨伞拿好，再继续找雨衣。",
+      "pinyin": "xiān bǎ yǔ sǎn ná hǎo ， zài jì xù zhǎo yǔ yī 。",
+      "tr": "Önce şemsiyeleri alıp yağmurluğu aramaya devam edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_017",
+      "speaker": "刘梅",
+      "zh": "你们今天都要带什么去学校？",
+      "pinyin": "nǐ men jīn tiān dōu yào dài shén me qù xué xiào ？",
+      "tr": "Bugün okula yanınızda ne götüreceksiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_018",
+      "speaker": "张乐乐",
+      "zh": "我要带课本、水瓶和体育鞋。",
+      "pinyin": "wǒ yào dài kè běn 、 shuǐ píng hé tǐ yù xié 。",
+      "tr": "Ders kitabımı, su şişemi ve spor ayakkabımı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_019",
+      "speaker": "张雨桐",
+      "zh": "我有作业本，还得带一把雨伞。",
+      "pinyin": "wǒ yǒu zuò yè běn ， hái dé dài yī bǎ yǔ sǎn 。",
+      "tr": "Ödev defterim ve bir şemsiye de lazım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_020",
+      "speaker": "张伟",
+      "zh": "把东西放进包里，免得出门时忘记。",
+      "pinyin": "bǎ dōng xī fàng jìn bāo lǐ ， miǎn de chū mén shí wàng jì 。",
+      "tr": "Çıkarken unutmayın diye eşyaları çantaya koyun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_021",
+      "speaker": "刘梅",
+      "zh": "弟弟，你昨天把雨衣放在哪儿了？",
+      "pinyin": "dì di ， nǐ zuó tiān bǎ yǔ yī fàng zài nǎ ér le ？",
+      "tr": "Kardeşim, yağmurluğunu dün nereye koydun?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_022",
+      "speaker": "张乐乐",
+      "zh": "我记得我把它放在自己的房间。",
+      "pinyin": "wǒ jì de wǒ bǎ tā fàng zài zì jǐ de fáng jiān 。",
+      "tr": "Kendi odama koyduğumu hatırlıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_023",
+      "speaker": "张雨桐",
+      "zh": "你先看床后面和椅子上。",
+      "pinyin": "nǐ xiān kàn chuáng hòu miàn hé yǐ zi shàng 。",
+      "tr": "Yatağın arkasına ve sandalyeye bak."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_024",
+      "speaker": "张伟",
+      "zh": "我看过了，床边只有玩具车。",
+      "pinyin": "wǒ kàn guò le ， chuáng biān zhǐ yǒu wán jù chē 。",
+      "tr": "Baktım, yatağın yanında yalnızca oyuncak araba var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_025",
+      "speaker": "刘梅",
+      "zh": "书包里也没有吗？",
+      "pinyin": "shū bāo lǐ yě méi yǒu ma ？",
+      "tr": "Çantanda da yok mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_026",
+      "speaker": "张乐乐",
+      "zh": "没有，里面只有课本和铅笔盒。",
+      "pinyin": "méi yǒu ， lǐ miàn zhǐ yǒu kè běn hé qiān bǐ hé 。",
+      "tr": "Yok, içinde yalnızca ders kitabım ve kalem kutum var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_027",
+      "speaker": "张雨桐",
+      "zh": "那你出门前把东西放回书包里。",
+      "pinyin": "nà nǐ chū mén qián bǎ dōng xī fàng huí shū bāo lǐ 。",
+      "tr": "Çıkmadan önce eşyalarını yeniden çantana koy."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_028",
+      "speaker": "张伟",
+      "zh": "我已经收好了，只差雨衣和水瓶。",
+      "pinyin": "wǒ yǐ jīng shōu hǎo le ， zhǐ chà yǔ yī hé shuǐ píng 。",
+      "tr": "Hepsini yerleştirdim, yalnızca yağmurlukla su şişem eksik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_029",
+      "speaker": "刘梅",
+      "zh": "我在阳台看到一把雨伞。",
+      "pinyin": "wǒ zài yáng tái kàn dào yī bǎ yǔ sǎn 。",
+      "tr": "Balkonda bir şemsiye gördüm."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_030",
+      "speaker": "张乐乐",
+      "zh": "那是我的，我上周带回来以后放那儿了。",
+      "pinyin": "nà shì wǒ de ， wǒ shàng zhōu dài huí lái yǐ hòu fàng nà ér le 。",
+      "tr": "O benim, geçen hafta getirince oraya koymuştum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_031",
+      "speaker": "张雨桐",
+      "zh": "可是弟弟的雨衣还是没找到。",
+      "pinyin": "kě shì dì di de yǔ yī hái shì méi zhǎo dào 。",
+      "tr": "Ama kardeşinin yağmurluğunu hâlâ bulamadık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_032",
+      "speaker": "张伟",
+      "zh": "我再看看门后，刚才那里有几件外套。",
+      "pinyin": "wǒ zài kàn kàn mén hòu ， gāng cái nà lǐ yǒu jǐ jiàn wài tào 。",
+      "tr": "Kapının arkasına bir daha bakayım, orada birkaç mont vardı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_033",
+      "speaker": "刘梅",
+      "zh": "这件蓝色的外套是谁的？",
+      "pinyin": "zhè jiàn lán sè de wài tào shì shéi de ？",
+      "tr": "Bu mavi mont kimin?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_034",
+      "speaker": "张乐乐",
+      "zh": "不是我的，我的上面有一个名字。",
+      "pinyin": "bú shì wǒ de ， wǒ de shàng miàn yǒu yí gè míng zì 。",
+      "tr": "Benim değil, benimkinin üzerinde adım yazıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_035",
+      "speaker": "张雨桐",
+      "zh": "这件太大了，可能是爸爸的。",
+      "pinyin": "zhè jiàn tài dà le ， kě néng shì bà bà de 。",
+      "tr": "Bu çok büyük, babamın olabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_036",
+      "speaker": "张伟",
+      "zh": "对，我先穿这件，你们继续找小的。",
+      "pinyin": "duì ， wǒ xiān chuān zhè jiàn ， nǐ men jì xù zhǎo xiǎo de 。",
+      "tr": "Evet, bunu ben giyeyim, siz küçük olanı arayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_037",
+      "speaker": "刘梅",
+      "zh": "我想起来了，昨天我把雨衣拿去晾了。",
+      "pinyin": "wǒ xiǎng qǐ lái le ， zuó tiān wǒ bǎ yǔ yī ná qù liàng le 。",
+      "tr": "Hatırladım, dün yağmurluğu kuruması için asmıştım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_038",
+      "speaker": "张乐乐",
+      "zh": "晾干以后你放在哪里？",
+      "pinyin": "liàng gān yǐ hòu nǐ fàng zài nǎ lǐ ？",
+      "tr": "Kuruyunca nereye koydun?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_039",
+      "speaker": "张雨桐",
+      "zh": "我放在洗衣房的门后面了。",
+      "pinyin": "wǒ fàng zài xǐ yī fáng de mén hòu miàn le 。",
+      "tr": "Çamaşır odasının kapısının arkasına astım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_040",
+      "speaker": "张伟",
+      "zh": "找到了！它就在那件外套后面。",
+      "pinyin": "zhǎo dào le ！ tā jiù zài nà jiàn wài tào hòu miàn 。",
+      "tr": "Buldum! Montun arkasındaymış."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_041",
+      "speaker": "刘梅",
+      "zh": "这就是我的雨衣，谢谢姐姐。",
+      "pinyin": "zhè jiù shì wǒ de yǔ yī ， xiè xiè jiě jiě 。",
+      "tr": "İşte yağmurluğum, teşekkürler abla."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_042",
+      "speaker": "张乐乐",
+      "zh": "穿上看看，袖子有没有弄反？",
+      "pinyin": "chuān shàng kàn kàn ， xiù zi yǒu méi yǒu nòng fǎn ？",
+      "tr": "Giy bakayım, kolları ters mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_043",
+      "speaker": "张雨桐",
+      "zh": "没有，正好合适，我现在可以出门了。",
+      "pinyin": "méi yǒu ， zhèng hǎo hé shì ， wǒ xiàn zài kě yǐ chū mén le 。",
+      "tr": "Hayır, tam oldu, şimdi çıkabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_044",
+      "speaker": "张伟",
+      "zh": "先把拉链拉好，外面风也不小。",
+      "pinyin": "xiān bǎ lā liàn lā hǎo ， wài miàn fēng yě bù xiǎo 。",
+      "tr": "Önce fermuarını çek, dışarıda rüzgâr da var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_045",
+      "speaker": "刘梅",
+      "zh": "我的雨伞也找到了，在门边。",
+      "pinyin": "wǒ de yǔ sǎn yě zhǎo dào le ， zài mén biān 。",
+      "tr": "Şemsiyemi de kapının yanında buldum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_046",
+      "speaker": "张乐乐",
+      "zh": "我把书包放在这儿，准备好了。",
+      "pinyin": "wǒ bǎ shū bāo fàng zài zhè ér ， zhǔn bèi hǎo le 。",
+      "tr": "Çantamı buraya koydum, hazırım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_047",
+      "speaker": "张雨桐",
+      "zh": "你们还要带什么？",
+      "pinyin": "nǐ men hái yào dài shén me ？",
+      "tr": "Başka ne almanız gerekiyor?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_048",
+      "speaker": "张伟",
+      "zh": "我带上钥匙，就可以走了。",
+      "pinyin": "wǒ dài shàng yào shi ， jiù kě yǐ zǒu le 。",
+      "tr": "Anahtarımı da alayım, çıkabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_049",
+      "speaker": "刘梅",
+      "zh": "现在几点了？",
+      "pinyin": "xiàn zài jǐ diǎn le ？",
+      "tr": "Saat kaç oldu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_050",
+      "speaker": "张乐乐",
+      "zh": "七点二十分，公交车快来了。",
+      "pinyin": "qī diǎn èr shí fēn ， gōng jiāo chē kuài lái le 。",
+      "tr": "Yedi yirmi, otobüs birazdan gelir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_051",
+      "speaker": "张雨桐",
+      "zh": "我们走到车站需要五分钟。",
+      "pinyin": "wǒ men zǒu dào chē zhàn xū yào wǔ fēn zhōng 。",
+      "tr": "Durağa yürümemiz beş dakika sürer."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_052",
+      "speaker": "张伟",
+      "zh": "那就现在出门，路上小心一点儿。",
+      "pinyin": "nà jiù xiàn zài chū mén ， lù shàng xiǎo xīn yì diǎn ér 。",
+      "tr": "O zaman şimdi çıkalım, yolda dikkat edin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_053",
+      "speaker": "刘梅",
+      "zh": "外面有水坑，别跑得太快。",
+      "pinyin": "wài miàn yǒu shuǐ kēng ， bié pǎo dé tài kuài 。",
+      "tr": "Dışarıda su birikintileri var, çok hızlı koşmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_054",
+      "speaker": "张乐乐",
+      "zh": "我会慢慢走，不踩到水里。",
+      "pinyin": "wǒ huì màn màn zǒu ， bù cǎi dào shuǐ lǐ 。",
+      "tr": "Yavaş yürüyeceğim, suya basmam."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_055",
+      "speaker": "张雨桐",
+      "zh": "你把雨伞拿稳，别挡住别人。",
+      "pinyin": "nǐ bǎ yǔ sǎn ná wěn ， bié dǎng zhù bié rén 。",
+      "tr": "Şemsiyeni düzgün tut, başkalarının önünü kapatma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_056",
+      "speaker": "张伟",
+      "zh": "我走在你们后面，看着路。",
+      "pinyin": "wǒ zǒu zài nǐ men hòu miàn ， kàn zhe lù 。",
+      "tr": "Arkanızdan geliyorum, yola dikkat ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_057",
+      "speaker": "刘梅",
+      "zh": "公交车站就在前面吗？",
+      "pinyin": "gōng jiāo chē zhàn jiù zài qián miàn ma ？",
+      "tr": "Otobüs durağı ileride mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_058",
+      "speaker": "张乐乐",
+      "zh": "对，过了那个红色的牌子就到了。",
+      "pinyin": "duì ， guò le nà ge hóng sè de pái zi jiù dào le 。",
+      "tr": "Evet, şu kırmızı tabelayı geçince."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_059",
+      "speaker": "张雨桐",
+      "zh": "我看到车来了，咱们快排好队。",
+      "pinyin": "wǒ kàn dào chē lái le ， zán men kuài pái hǎo duì 。",
+      "tr": "Otobüsü görüyorum, hemen sıraya girelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_060",
+      "speaker": "张伟",
+      "zh": "先等大家站稳了，再上车。",
+      "pinyin": "xiān děng dà jiā zhàn wěn le ， zài shàng chē 。",
+      "tr": "Herkes dengede durunca binelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_061",
+      "speaker": "刘梅",
+      "zh": "幸好我们没有错过这班车。",
+      "pinyin": "xìng hǎo wǒ men méi yǒu cuò guò zhè bān chē 。",
+      "tr": "Neyse ki bu otobüsü kaçırmadık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_062",
+      "speaker": "张乐乐",
+      "zh": "要是再晚一点儿，就得等下一班了。",
+      "pinyin": "yào shì zài wǎn yì diǎn ér ， jiù dé děng xià yī bān le 。",
+      "tr": "Biraz daha geç kalsaydık ötekini bekleyecektik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_063",
+      "speaker": "张雨桐",
+      "zh": "我可以坐窗边吗？",
+      "pinyin": "wǒ kě yǐ zuò chuāng biān ma ？",
+      "tr": "Pencere kenarında oturabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_064",
+      "speaker": "张伟",
+      "zh": "可以，不过先把湿雨伞收好。",
+      "pinyin": "kě yǐ ， bù guò xiān bǎ shī yǔ sǎn shōu hǎo 。",
+      "tr": "Olur ama önce ıslak şemsiyeni kapat."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_065",
+      "speaker": "刘梅",
+      "zh": "雨衣穿着还暖和吗？",
+      "pinyin": "yǔ yī chuān zhe hái nuǎn huo ma ？",
+      "tr": "Yağmurluğun sıcak tutuyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_066",
+      "speaker": "张乐乐",
+      "zh": "挺暖和的，外面没有那么冷了。",
+      "pinyin": "tǐng nuǎn huo de ， wài miàn méi yǒu nà me lěng le 。",
+      "tr": "Evet, dışarısı artık o kadar soğuk değil."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_067",
+      "speaker": "张雨桐",
+      "zh": "我也把外套拉链拉好了。",
+      "pinyin": "wǒ yě bǎ wài tào lā liàn lā hǎo le 。",
+      "tr": "Ben de montumun fermuarını çektim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_068",
+      "speaker": "张伟",
+      "zh": "很好，到学校以后记得把雨衣挂起来。",
+      "pinyin": "hěn hǎo ， dào xué xiào yǐ hòu jì de bǎ yǔ yī guà qǐ lái 。",
+      "tr": "Güzel, okula varınca yağmurluğunu asmayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_069",
+      "speaker": "刘梅",
+      "zh": "我的鞋子有一点儿湿了。",
+      "pinyin": "wǒ de xié zi yǒu yì diǎn ér shī le 。",
+      "tr": "Ayakkabılarım biraz ıslandı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_070",
+      "speaker": "张乐乐",
+      "zh": "车上有纸巾，我帮你擦一下。",
+      "pinyin": "chē shàng yǒu zhǐ jīn ， wǒ bāng nǐ cā yī xià 。",
+      "tr": "Otobüste peçete var, silmene yardım edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_071",
+      "speaker": "张雨桐",
+      "zh": "回学校以后换上备用的袜子吧。",
+      "pinyin": "huí xué xiào yǐ hòu huàn shàng bèi yòng de wà zi ba 。",
+      "tr": "Okula varınca yedek çorabını giy."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_072",
+      "speaker": "张伟",
+      "zh": "好，我书包里正好有一双。",
+      "pinyin": "hǎo ， wǒ shū bāo lǐ zhèng hǎo yǒu yī shuāng 。",
+      "tr": "Olur, çantamda bir çift var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_073",
+      "speaker": "刘梅",
+      "zh": "下车以后还要走一小段路。",
+      "pinyin": "xià chē yǐ hòu hái yào zǒu yī xiǎo duàn lù 。",
+      "tr": "İndikten sonra biraz daha yürümemiz gerekecek."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_074",
+      "speaker": "张乐乐",
+      "zh": "我看见学校门口了，已经不远了。",
+      "pinyin": "wǒ kàn jiàn xué xiào mén kǒu le ， yǐ jīng bù yuǎn le 。",
+      "tr": "Okul kapısını gördüm, artık uzak değil."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_075",
+      "speaker": "张雨桐",
+      "zh": "今天大家来得正好，没有迟到。",
+      "pinyin": "jīn tiān dà jiā lái de zhèng hǎo ， méi yǒu chí dào 。",
+      "tr": "Bugün tam zamanında geldik, geç kalmadık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_076",
+      "speaker": "张伟",
+      "zh": "进门以后先把雨衣挂起来。",
+      "pinyin": "jìn mén yǐ hòu xiān bǎ yǔ yī guà qǐ lái 。",
+      "tr": "İçeri girince önce yağmurlukları asın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_077",
+      "speaker": "刘梅",
+      "zh": "早上找雨衣的时候真着急。",
+      "pinyin": "zǎo shàng zhǎo yǔ yī de shí hòu zhēn zháo jí 。",
+      "tr": "Sabah yağmurluğu ararken çok telaşlandık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_078",
+      "speaker": "张乐乐",
+      "zh": "还好我们最后在门后找到了。",
+      "pinyin": "hái hǎo wǒ men zuì hòu zài mén hòu zhǎo dào le 。",
+      "tr": "Neyse ki sonunda kapının arkasında bulduk."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_079",
+      "speaker": "张雨桐",
+      "zh": "下次我会把雨衣放回固定的地方。",
+      "pinyin": "xià cì wǒ huì bǎ yǔ yī fàng huí gù dìng de dì fāng 。",
+      "tr": "Bir dahaki sefere yağmurluğumu hep aynı yere koyarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_080",
+      "speaker": "张伟",
+      "zh": "这样下雨时就不用到处找了。",
+      "pinyin": "zhè yàng xià yǔ shí jiù bù yòng dào chù zhǎo le 。",
+      "tr": "Böylece yağmurda her yeri aramayız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_081",
+      "speaker": "刘梅",
+      "zh": "放学以后雨还会下吗？",
+      "pinyin": "fàng xué yǐ hòu yǔ hái huì xià ma ？",
+      "tr": "Okul çıkışında yağmur devam edecek mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_082",
+      "speaker": "张乐乐",
+      "zh": "天气预报说下午雨会小一点儿。",
+      "pinyin": "tiān qì yù bào shuō xià wǔ yǔ huì xiǎo yì diǎn ér 。",
+      "tr": "Hava durumu öğleden sonra hafifleyeceğini söylüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_083",
+      "speaker": "张雨桐",
+      "zh": "我会把雨伞放进书包里。",
+      "pinyin": "wǒ huì bǎ yǔ sǎn fàng jìn shū bāo lǐ 。",
+      "tr": "Şemsiyemi çantama koyacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_084",
+      "speaker": "张伟",
+      "zh": "出门前再看看天，别忘了带上。",
+      "pinyin": "chū mén qián zài kàn kàn tiān ， bié wàng le dài shàng 。",
+      "tr": "Çıkmadan önce havaya bakıp yanına al."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_085",
+      "speaker": "刘梅",
+      "zh": "今天出门以前，我们分头找东西很快。",
+      "pinyin": "jīn tiān chū mén yǐ qián ， wǒ men fēn tóu zhǎo dōng xī hěn kuài 。",
+      "tr": "Bugün çıkmadan önce ayrı ayrı arayınca çabuk bulduk."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_086",
+      "speaker": "张乐乐",
+      "zh": "你找到雨衣以后，大家就不用担心了。",
+      "pinyin": "nǐ zhǎo dào yǔ yī yǐ hòu ， dà jiā jiù bù yòng dān xīn le 。",
+      "tr": "Yağmurluğu bulunca hepimiz rahatladık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_087",
+      "speaker": "张雨桐",
+      "zh": "我也会记住先看门后和洗衣房。",
+      "pinyin": "wǒ yě huì jì zhù xiān kān mén hòu hé xǐ yī fáng 。",
+      "tr": "Bir dahaki sefere önce kapının arkasına ve çamaşır odasına bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_088",
+      "speaker": "张伟",
+      "zh": "以后我们把雨具都放在门边的篮子里。",
+      "pinyin": "yǐ hòu wǒ men bǎ yǔ jù dōu fàng zài mén biān de lán zi lǐ 。",
+      "tr": "Bundan sonra yağmurlukları kapı yanındaki sepete koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_089",
+      "speaker": "刘梅",
+      "zh": "这个办法不错，雨伞也放在旁边。",
+      "pinyin": "zhè ge bàn fǎ bù cuò ， yǔ sǎn yě fàng zài páng biān 。",
+      "tr": "Bu iyi fikir, şemsiyeleri de yanına koyarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_090",
+      "speaker": "张乐乐",
+      "zh": "我回家以后就把东西放好。",
+      "pinyin": "wǒ huí jiā yǐ hòu jiù bǎ dōng xī fàng hǎo 。",
+      "tr": "Eve dönünce eşyalarımı yerine koyacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_091",
+      "speaker": "张雨桐",
+      "zh": "这样明天出门不会再乱。",
+      "pinyin": "zhè yàng míng tiān chū mén bú huì zài luàn 。",
+      "tr": "Böylece yarın çıkarken ortalık karışmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_092",
+      "speaker": "张伟",
+      "zh": "我来贴一张小纸条，提醒大家。",
+      "pinyin": "wǒ lái tiē yī zhāng xiǎo zhǐ tiáo ， tí xǐng dà jiā 。",
+      "tr": "Hepimize hatırlatmak için küçük bir not asayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_093",
+      "speaker": "刘梅",
+      "zh": "老师已经开始上课了吗？",
+      "pinyin": "lǎo shī yǐ jīng kāi shǐ shàng kè le ma ？",
+      "tr": "Öğretmen derse başladı mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_094",
+      "speaker": "张乐乐",
+      "zh": "刚打铃，我们还有一点儿时间。",
+      "pinyin": "gāng dǎ líng ， wǒ men hái yǒu yì diǎn ér shí jiān 。",
+      "tr": "Zil yeni çaldı, biraz vaktimiz var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_095",
+      "speaker": "张雨桐",
+      "zh": "我先把湿外套挂好，再去教室。",
+      "pinyin": "wǒ xiān bǎ shī wài tào guà hǎo ， zài qù jiào shì 。",
+      "tr": "Önce ıslak montumu asıp sınıfa gideyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_096",
+      "speaker": "张伟",
+      "zh": "好，放学后我们在门口见。",
+      "pinyin": "hǎo ， fàng xué hòu wǒ men zài mén kǒu jiàn 。",
+      "tr": "Peki, okul çıkışında kapıda buluşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_097",
+      "speaker": "刘梅",
+      "zh": "今天虽然下雨，我们还是准时到了。",
+      "pinyin": "jīn tiān suī rán xià yǔ ， wǒ men hái shì zhǔn shí dào le 。",
+      "tr": "Bugün yağmur yağsa da zamanında geldik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_098",
+      "speaker": "张乐乐",
+      "zh": "而且雨衣和雨伞都带齐了。",
+      "pinyin": "ér qiě yǔ yī hé yǔ sǎn dōu dài qí le 。",
+      "tr": "Üstelik yağmurluklarımızla şemsiyelerimiz yanımızda."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_099",
+      "speaker": "张雨桐",
+      "zh": "我也学会了把东西放回原处。",
+      "pinyin": "wǒ yě xué huì le bǎ dōng xī fàng huí yuán chù 。",
+      "tr": "Ben de eşyaları yerine koymayı öğrendim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC026_100",
+      "speaker": "张伟",
+      "zh": "下次遇到下雨的早晨，我们会准备得更快。",
+      "pinyin": "xià cì yù dào xià yǔ de zǎo chén ， wǒ men huì zhǔn bèi dé gèng kuài 。",
+      "tr": "Bir dahaki yağmurlu sabahta daha çabuk hazırlanırız."
+    }
+  ]
+}

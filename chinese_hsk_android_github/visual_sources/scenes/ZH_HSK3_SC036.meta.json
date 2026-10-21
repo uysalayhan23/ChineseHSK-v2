@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC036",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC036.json",
-  "dialogueSha256": "849cc775abc79558d9dc664aa646fde36b9a24f5e275037dcd57d05e28d0dfdd",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC036.json",
+  "dialogueSha256": "ae4f71b86fbc442d7d48772be54d22c3a085fa27da557e9f4e7b28b25469b529",
   "titleTr": "Malzeme Eksikliği",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Büyük sipariş hazırlanırken un biter ve ekip alternatif tedarik arar.",
@@ -71,5 +71,18 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: Malzeme eksikliği ve alternatif un/tedarikçi görüşmesi görsel olarak açık. Kullanıcı, manifesto uygunsa ilerleme onayı verdi; HSK3 SC031-SC040 continuity seti final olarak entegre edildi."
+  "qaNoteTr": "2026-09-28: Malzeme eksikliği ve alternatif un/tedarikçi görüşmesi görsel olarak açık. Kullanıcı, manifesto uygunsa ilerleme onayı verdi; HSK3 SC031-SC040 continuity seti final olarak entegre edildi.",
+  "dialogueTextQA": {
+    "status": "PASS",
+    "turns": 100,
+    "coherenceScore": 93.0,
+    "activeVocabularyCoverage": 1.0,
+    "topicWindowCoverage": 1.0,
+    "duplicateUtterances": 0,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
+  },
+  "allDialogueSpeakersVisible": true,
+  "mouthAnchorReviewStatus": "PASS",
+  "mouthAnchorImageSha256": "b797a8e1e76aa5b12079b73a6568ec5b1353fd561d316bd368b50ef611250d5f"
 }

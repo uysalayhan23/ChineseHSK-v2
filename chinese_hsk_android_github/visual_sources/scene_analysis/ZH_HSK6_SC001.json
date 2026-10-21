@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC001",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC001.json",
-  "dialogueSha256": "ff2c81bfb644fe58e63e114c6ad71bdb44500acfb0162b957ceb81bf2be88fe7",
+  "dialogueSha256": "4676bba6630c75f2be1900c496b871ecbfe2a2ae7e59cd5328dedbb5edc7d299",
   "titleZh": "雨桐订婚了",
   "titleTr": "Evlilik Teklifi Haberi",
   "locationId": "LOC_ZH_NEW_HOME_001",
@@ -70,5 +70,5 @@
   },
   "narrationPresentation": null,
   "styleReferenceSceneId": "ZH_HSK5_SC050",
-  "qaNoteTr": "Diyalog, konuşmacı kadrosu, yaş sürekliliği ve 1080×1920 WebP kontrolleri geçti. APK build başlatılmadı."
+  "qaNoteTr": "100 konuşma turu doğal aile diyaloğu ve anlam tutarlılığı için düzenlendi; tur sayısı ve konuşmacı sırası korundu. Pinyin yenilendi, Türkçe anlam eşlemesi denetlendi. Görseldeki dört karakter için ağız eşlemesi doğrulandı."
 }

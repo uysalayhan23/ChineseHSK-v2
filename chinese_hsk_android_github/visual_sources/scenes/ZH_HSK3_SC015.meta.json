@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC015.json",
-  "dialogueSha256": "4a0a83e2ed5b5284d336f54275dc659424345f4ac18e8314db1aa3fe1dceddb9",
+  "dialogueSha256": "e99731c547a06941d90aa97334bd2f1231e36fbd0a7c5e3990accb15749d43f0",
   "titleTr": "Eski Masanın Hikâyesi",
   "locationId": "LOC_ZH_SHOPPING_STREET_001",
   "scenePurposeTr": "İkinci el eski bir masa kafeye getirilir; yetişkin satıcı masanın geçmişini anlatır.",

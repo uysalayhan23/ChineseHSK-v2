@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC037.json",
-  "dialogueSha256": "ea32d906eef01cd515422f65533d5163726c6916af8e342e4edc8f48415e6b46",
+  "dialogueSha256": "e6cc230e88a42881e76e5f4e0c983242057997f8e5f81d0a382eeaa4613f244d",
   "titleZh": "咖啡馆变成救助点",
   "titleTr": "Kafe Yardım Merkezi Oluyor",
   "locationId": "LOC_ZH_RELIEF_CENTER_001",

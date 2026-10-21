@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 46,
+  "status": "FINAL_REVIEWED_V46",
+  "sceneId": "ZH_HSK2_SC050",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC050_001",
+      "speaker": "张伟",
+      "zh": "今天是我们搬到新城一周年，能和你们一起吃饭真好。",
+      "pinyin": "jīn tiān shì wǒ men bān dào xīn chéng yī zhōu nián ， néng hé nǐ men yì qǐ chī fàn zhēn hǎo 。",
+      "tr": "Bugün yeni şehre taşınmamızın birinci yılı; sizinle yemek yemek çok güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_002",
+      "speaker": "刘梅",
+      "zh": "时间过得真快。去年这时候，你们刚搬来不久。",
+      "pinyin": "shí jiān guò dé zhēn kuài 。 qù nián zhè shí hòu ， nǐ men gāng bān lái bù jiǔ 。",
+      "tr": "Zaman ne çabuk geçti. Geçen yıl bu zamanlar daha yeni taşınmıştınız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_003",
+      "speaker": "李晨",
+      "zh": "你们还记得第一次来我们家吃饭吗？",
+      "pinyin": "nǐ men hái jì de dì yī cì lái wǒ men jiā chī fàn ma ？",
+      "tr": "İlk kez bize yemeğe geldiğiniz günü hatırlıyor musunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_004",
+      "speaker": "李晨妻子",
+      "zh": "当然记得。那时候我们还不太熟悉这附近。",
+      "pinyin": "dāng rán jì de 。 nà shí hòu wǒ men hái bù tài shú xī zhè fù jìn 。",
+      "tr": "Elbette. O zaman çevreyi pek tanımıyorduk."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_005",
+      "speaker": "张伟",
+      "zh": "现在已经认识了很多邻居，也常常一起出去。",
+      "pinyin": "xiàn zài yǐ jīng rèn shí le hěn duō lín jū ， yě cháng cháng yì qǐ chū qù 。",
+      "tr": "Şimdi birçok komşumuzu tanıyoruz, sık sık birlikte dışarı çıkıyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_006",
+      "speaker": "刘梅",
+      "zh": "这一年我们在这里有了自己的家和朋友。",
+      "pinyin": "zhè yī nián wǒ men zài zhè lǐ yǒu le zì jǐ de jiā hé péng yǒu 。",
+      "tr": "Bu yıl burada kendi evimizi ve arkadaşlarımızı edindik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_007",
+      "speaker": "李晨",
+      "zh": "我希望以后还能常常聚在一起。",
+      "pinyin": "wǒ xī wàng yǐ hòu hái néng cháng cháng jù zài yì qǐ 。",
+      "tr": "Umarım bundan sonra da sık sık bir araya geliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_008",
+      "speaker": "李晨妻子",
+      "zh": "一定会的，大家都喜欢在这里生活。",
+      "pinyin": "yí dìng huì de ， dà jiā dōu xǐ huān zài zhè lǐ shēng huó 。",
+      "tr": "Elbette, hepimiz burada yaşamaktan mutluyuz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_009",
+      "speaker": "张伟",
+      "zh": "这一年你们最喜欢这里的什么？",
+      "pinyin": "zhè yī nián nǐ men zuì xǐ huān zhè lǐ de shén me ？",
+      "tr": "Bu yıl burada en çok neyi sevdiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_010",
+      "speaker": "刘梅",
+      "zh": "我喜欢离公园近，周末散步很方便。",
+      "pinyin": "wǒ xǐ huān lí gōng yuán jìn ， zhōu mò sàn bù hěn fāng biàn 。",
+      "tr": "Parkın yakın olmasını seviyorum; hafta sonu yürüyüş yapmak kolay."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_011",
+      "speaker": "李晨",
+      "zh": "我喜欢附近的菜市场，买东西也认识了邻居。",
+      "pinyin": "wǒ xǐ huān fù jìn de cài shì chǎng ， mǎi dōng xī yě rèn shí le lín jū 。",
+      "tr": "Yakındaki pazarı seviyorum; alışveriş yaparken komşularla da tanıştım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_012",
+      "speaker": "李晨妻子",
+      "zh": "我喜欢家里有个小阳台，早上可以在那儿喝茶。",
+      "pinyin": "wǒ xǐ huān jiā lǐ yǒu gè xiǎo yáng tái ， zǎo shàng kě yǐ zài nà ér hē chá 。",
+      "tr": "Küçük balkonumuzu seviyorum; sabahları orada çay içiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_013",
+      "speaker": "张伟",
+      "zh": "你们已经把新城的生活安排得很好了。",
+      "pinyin": "nǐ men yǐ jīng bǎ xīn chéng de shēng huó ān pái dé hěn hǎo le 。",
+      "tr": "Yeni şehirdeki yaşamınıza iyice alışmışsınız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_014",
+      "speaker": "刘梅",
+      "zh": "刚来的时候我们还担心会不会习惯。",
+      "pinyin": "gāng lái de shí hòu wǒ men hái dān xīn huì bú huì xí guàn 。",
+      "tr": "İlk geldiğimizde alışabilecek miyiz diye endişelenmiştik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_015",
+      "speaker": "李晨",
+      "zh": "慢慢熟悉以后，发现这里很适合我们。",
+      "pinyin": "màn màn shú xī yǐ hòu ， fā xiàn zhè lǐ hěn shì hé wǒ men 。",
+      "tr": "Zamanla çevreyi tanıdık ve buranın bize uygun olduğunu gördük."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_016",
+      "speaker": "李晨妻子",
+      "zh": "你们适应得很快，也认识了不少朋友。",
+      "pinyin": "nǐ men shì yìng dé hěn kuài ， yě rèn shí le bù shǎo péng yǒu 。",
+      "tr": "Çabuk alıştınız, birçok arkadaş da edindiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_017",
+      "speaker": "张伟",
+      "zh": "谢谢你们一直帮我们。遇到问题时，你们总愿意给建议。",
+      "pinyin": "xiè xiè nǐ men yì zhí bāng wǒ men 。 yù dào wèn tí shí ， nǐ men zǒng yuàn yì gěi jiàn yì 。",
+      "tr": "Bize sürekli yardım ettiğiniz için sağ olun; bir şey olunca öneri veriyorsunuz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_018",
+      "speaker": "刘梅",
+      "zh": "朋友之间互相帮忙很自然，不用客气。",
+      "pinyin": "péng yǒu zhī jiān hù xiāng bāng máng hěn zì rán ， bù yòng kè qì 。",
+      "tr": "Arkadaşların birbirine yardım etmesi doğal, rica ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_019",
+      "speaker": "李晨",
+      "zh": "今天我们一起做了这顿饭，就当作庆祝这一年。",
+      "pinyin": "jīn tiān wǒ men yì qǐ zuò le zhè dùn fàn ， jiù dàng zuò qìng zhù zhè yī nián 。",
+      "tr": "Bugünkü yemeği birlikte hazırladık; bu da bir yıllık yaşamımızın kutlaması olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_020",
+      "speaker": "李晨妻子",
+      "zh": "菜很好吃，大家一起准备也很开心。",
+      "pinyin": "cài hěn hǎo chī ， dà jiā yì qǐ zhǔn bèi yě hěn kāi xīn 。",
+      "tr": "Yemekler çok lezzetli, birlikte hazırlamak da güzeldi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_021",
+      "speaker": "张伟",
+      "zh": "你们刚来时最不习惯的是什么？",
+      "pinyin": "nǐ men gāng lái shí zuì bù xí guàn de shì shén me ？",
+      "tr": "Taşındığınızda en çok neye alışmakta zorlandınız?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_022",
+      "speaker": "刘梅",
+      "zh": "我那时候不太会坐公交车，常常要看地图。",
+      "pinyin": "wǒ nà shí hòu bù tài huì zuò gōng jiāo chē ， cháng cháng yào kàn dì tú 。",
+      "tr": "O zaman otobüse binmeyi pek bilmiyordum; sık sık haritaya bakıyordum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_023",
+      "speaker": "李晨",
+      "zh": "我们陪你走过几次以后，你就记得怎么换车了。",
+      "pinyin": "wǒ men péi nǐ zǒu guò jǐ cì yǐ hòu ， nǐ jiù jì de zěn me huàn chē le 。",
+      "tr": "Birkaç kez birlikte gidince aktarma yapmayı öğrendin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_024",
+      "speaker": "李晨妻子",
+      "zh": "现在我已经会自己去市中心，也知道哪一站下车。",
+      "pinyin": "xiàn zài wǒ yǐ jīng huì zì jǐ qù shì zhōng xīn ， yě zhī dào nǎ yī zhàn xià chē 。",
+      "tr": "Artık merkeze tek başıma gidebiliyor, hangi durakta ineceğimi biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_025",
+      "speaker": "张伟",
+      "zh": "真不错，生活上的小事也慢慢学会了。",
+      "pinyin": "zhēn bù cuò ， shēng huó shàng de xiǎo shì yě màn màn xué huì le 。",
+      "tr": "Çok güzel; günlük işleri de yavaş yavaş öğrendin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_026",
+      "speaker": "刘梅",
+      "zh": "你还记得第一次一个人去买菜吗？",
+      "pinyin": "nǐ hái jì de dì yī cì yí gè rén qù mǎi cài ma ？",
+      "tr": "Tek başına ilk kez alışverişe gittiğin günü hatırlıyor musun?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_027",
+      "speaker": "李晨",
+      "zh": "记得，我买了太多东西，回家时袋子特别重。",
+      "pinyin": "jì de ， wǒ mǎi le tài duō dōng xī ， huí jiā shí dài zi tè bié zhòng 。",
+      "tr": "Evet, fazla şey almıştım; poşetler eve dönerken çok ağırdı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_028",
+      "speaker": "李晨妻子",
+      "zh": "后来你学会先列清单，不会买得太多了。",
+      "pinyin": "hòu lái nǐ xué huì xiān liè qīng dān ， bú huì mǎi dé tài duō le 。",
+      "tr": "Sonra liste yapmayı öğrendin, böylece gereğinden fazla almıyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_029",
+      "speaker": "张伟",
+      "zh": "这些变化让我觉得自己真的熟悉这里了。",
+      "pinyin": "zhè xiē biàn huà ràng wǒ jué de zì jǐ zhēn de shú xī zhè lǐ le 。",
+      "tr": "Bu değişiklikler burayı gerçekten tanıdığımı hissettiriyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_030",
+      "speaker": "刘梅",
+      "zh": "我也希望以后能更了解这座城市。",
+      "pinyin": "wǒ yě xī wàng yǐ hòu néng gèng liǎo jiě zhè zuò chéng shì 。",
+      "tr": "Ben de bu şehri daha iyi tanımak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_031",
+      "speaker": "李晨",
+      "zh": "我们可以再去看看老城区，那里有很多小店。",
+      "pinyin": "wǒ men kě yǐ zài qù kàn kàn lǎo chéng qū ， nà lǐ yǒu hěn duō xiǎo diàn 。",
+      "tr": "Eski mahalleye yeniden gidebiliriz; orada birçok küçük dükkân var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_032",
+      "speaker": "李晨妻子",
+      "zh": "好啊，我想找一家新的茶馆坐坐。",
+      "pinyin": "hǎo a ， wǒ xiǎng zhǎo yī jiā xīn de chá guǎn zuò zuò 。",
+      "tr": "Olur, yeni bir çayevinde oturmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_033",
+      "speaker": "张伟",
+      "zh": "我听说河边最近开了一家小店，风景也很好。",
+      "pinyin": "wǒ tīng shuō hé biān zuì jìn kāi le yī jiā xiǎo diàn ， fēng jǐng yě hěn hǎo 。",
+      "tr": "Nehir kenarında yeni bir yer açılmış, manzarası da güzelmiş."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_034",
+      "speaker": "刘梅",
+      "zh": "那我们改天一起去，不用今天吃完饭就赶过去。",
+      "pinyin": "nà wǒ men gǎi tiān yì qǐ qù ， bù yòng jīn tiān chī wán fàn jiù gǎn guò qù 。",
+      "tr": "Bir gün hep beraber gideriz; bu akşam yemekten sonra acele etmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_035",
+      "speaker": "李晨",
+      "zh": "你们还记得我们第一次一起去公园吗？",
+      "pinyin": "nǐ men hái jì de wǒ men dì yī cì yì qǐ qù gōng yuán ma ？",
+      "tr": "İlk kez birlikte parka gittiğimizi hatırlıyor musunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_036",
+      "speaker": "李晨妻子",
+      "zh": "当然，那天刚好下了小雨，我们在亭子里等了一会儿。",
+      "pinyin": "dāng rán ， nà tiān gāng hǎo xià le xiǎo yǔ ， wǒ men zài tíng zi lǐ děng le yī huì er 。",
+      "tr": "Elbette; hafif yağmur yağmıştı, bir süre çardakta beklemiştik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_037",
+      "speaker": "张伟",
+      "zh": "后来雨停了，大家还在湖边走了很久。",
+      "pinyin": "hòu lái yǔ tíng le ， dà jiā hái zài hú biān zǒu le hěn jiǔ 。",
+      "tr": "Sonra yağmur durdu, göl kenarında uzun uzun yürüdük."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_038",
+      "speaker": "刘梅",
+      "zh": "那是我在这里拍的第一张全家照片。",
+      "pinyin": "nà shì wǒ zài zhè lǐ pāi de dì yī zhāng quán jiā zhào piān 。",
+      "tr": "Burada çektiğimiz ilk aile fotoğrafıydı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_039",
+      "speaker": "李晨",
+      "zh": "照片还在相册里，改天我们可以一起找出来。",
+      "pinyin": "zhào piān hái zài xiàng cè lǐ ， gǎi tiān wǒ men kě yǐ yì qǐ zhǎo chū lái 。",
+      "tr": "Fotoğraf albümde duruyor; bir ara birlikte bulup bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_040",
+      "speaker": "李晨妻子",
+      "zh": "这次周年聚餐也拍一张吧，留作纪念。",
+      "pinyin": "zhè cì zhōu nián jù cān yě pāi yī zhāng ba ， liú zuò jì niàn 。",
+      "tr": "Bu yıl dönümü yemeğinde de hatıra için bir fotoğraf çekelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_041",
+      "speaker": "张伟",
+      "zh": "今天这顿饭里有几道菜是我们第一次做的。",
+      "pinyin": "jīn tiān zhè dùn fàn lǐ yǒu jǐ dào cài shì wǒ men dì yī cì zuò de 。",
+      "tr": "Bu akşamki yemeklerden birkaçını ilk kez yaptık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_042",
+      "speaker": "刘梅",
+      "zh": "味道很不错。以后我们可以常常一起做饭。",
+      "pinyin": "wèi dào hěn bú cuò 。 yǐ hòu wǒ men kě yǐ cháng cháng yì qǐ zuò fàn 。",
+      "tr": "Çok lezzetli olmuş. Bundan sonra sık sık birlikte yemek yapabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_043",
+      "speaker": "李晨",
+      "zh": "我记得刚搬来时，我们还不知道附近哪里买菜。",
+      "pinyin": "wǒ jì de gāng bān lái shí ， wǒ men hái bù zhī dào fù jìn nǎ lǐ mǎi cài 。",
+      "tr": "Yeni taşındığımızda yakında nereden alışveriş edeceğimizi bilmiyorduk."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_044",
+      "speaker": "李晨妻子",
+      "zh": "后来李晨带我们去了市场，还介绍了几家小店。",
+      "pinyin": "hòu lái lǐ chén dài wǒ men qù le shì chǎng ， hái jiè shào le jǐ jiā xiǎo diàn 。",
+      "tr": "Sonra Li Chen bizi pazara götürüp birkaç dükkânı tanıttı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_045",
+      "speaker": "张伟",
+      "zh": "现在我们都知道怎么选新鲜的菜了。",
+      "pinyin": "xiàn zài wǒ men dōu zhī dào zěn me xuǎn xīn xiān de cài le 。",
+      "tr": "Artık taze sebzeleri nasıl seçeceğimizi biliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_046",
+      "speaker": "刘梅",
+      "zh": "是啊，生活里很多小事都变得熟悉了。",
+      "pinyin": "shì a ， shēng huó lǐ hěn duō xiǎo shì dōu biàn dé shú xī le 。",
+      "tr": "Evet, günlük hayatın birçok küçük yanı tanıdık oldu."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_047",
+      "speaker": "李晨",
+      "zh": "你们最希望接下来的一年有什么变化？",
+      "pinyin": "nǐ men zuì xī wàng jiē xià lái de yī nián yǒu shén me biàn huà ？",
+      "tr": "Gelecek yıl için en çok neyin değişmesini umuyorsunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_048",
+      "speaker": "李晨妻子",
+      "zh": "我希望能多认识一些邻居，也多参加社区活动。",
+      "pinyin": "wǒ xī wàng néng duō rèn shí yī xiē lín jū ， yě duō cān jiā shè qū huó dòng 。",
+      "tr": "Daha çok komşuyla tanışıp mahalle etkinliklerine katılmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_049",
+      "speaker": "张伟",
+      "zh": "我希望工作更顺利，周末还能有时间陪家人。",
+      "pinyin": "wǒ xī wàng gōng zuò gèng shùn lì ， zhōu mò hái néng yǒu shí jiān péi jiā rén 。",
+      "tr": "İşlerimin daha iyi gitmesini, hafta sonu aileme de vakit ayırmayı umuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_050",
+      "speaker": "刘梅",
+      "zh": "这些愿望都很好，我们可以慢慢安排。",
+      "pinyin": "zhè xiē yuàn wàng dōu hěn hǎo ， wǒ men kě yǐ màn màn ān pái 。",
+      "tr": "İstekleriniz çok güzel; yavaş yavaş planlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_051",
+      "speaker": "李晨",
+      "zh": "我希望继续和朋友一起运动，也认识更多同学。",
+      "pinyin": "wǒ xī wàng jì xù hé péng yǒu yì qǐ yùn dòng ， yě rèn shí gèng duō tóng xué 。",
+      "tr": "Arkadaşlarımla spora devam edip daha çok öğrenciyle tanışmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_052",
+      "speaker": "李晨妻子",
+      "zh": "那我们可以在日历上记下社区活动和运动的时间。",
+      "pinyin": "nà wǒ men kě yǐ zài rì lì shàng jì xià shè qū huó dòng hé yùn dòng de shí jiān 。",
+      "tr": "Mahalle etkinliklerini ve spor zamanlarını takvime yazabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_053",
+      "speaker": "张伟",
+      "zh": "这样大家就知道什么时候有空，也能提前计划。",
+      "pinyin": "zhè yàng dà jiā jiù zhī dào shén me shí hòu yǒu kòng ， yě néng tí qián jì huà 。",
+      "tr": "Böylece herkes ne zaman müsait olduğunu görüp önceden plan yapar."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_054",
+      "speaker": "刘梅",
+      "zh": "不过计划要灵活，临时有事时不用觉得抱歉。",
+      "pinyin": "bù guò jì huà yào líng huó ， lín shí yǒu shì shí bù yòng jué de bào qiàn 。",
+      "tr": "Yine de plan esnek olsun; son anda iş çıkarsa özür dilemene gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_055",
+      "speaker": "李晨",
+      "zh": "对，最重要的是大家都过得开心。",
+      "pinyin": "duì ， zuì zhòng yào de shì dà jiā dōu guò dé kāi xīn 。",
+      "tr": "Evet, en önemlisi hepimizin mutlu olması."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_056",
+      "speaker": "李晨妻子",
+      "zh": "这一年你们有没有什么事想再做一次？",
+      "pinyin": "zhè yī nián nǐ men yǒu méi yǒu shén me shì xiǎng zài zuò yī cì ？",
+      "tr": "Geçen yıl tekrar yapmak istediğiniz bir şey var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_057",
+      "speaker": "张伟",
+      "zh": "我想再去一次海边，这次可以多待一天。",
+      "pinyin": "wǒ xiǎng zài qù yī cì hǎi biān ， zhè cì kě yǐ duō dài yī tiān 。",
+      "tr": "Sahile yeniden gitmek istiyorum; bu kez bir gün daha kalalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_058",
+      "speaker": "刘梅",
+      "zh": "我想再去博物馆，慢慢看上次没看完的展览。",
+      "pinyin": "wǒ xiǎng zài qù bó wù guǎn ， màn màn kàn shàng cì méi kàn wán de zhǎn lǎn 。",
+      "tr": "Müzeye tekrar gidip önceki sefer bitiremediğim sergiyi gezmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_059",
+      "speaker": "李晨",
+      "zh": "我想再去公园骑车，不过这次要早点出门。",
+      "pinyin": "wǒ xiǎng zài qù gōng yuán qí chē ， bù guò zhè cì yào zǎo diǎn chū mén 。",
+      "tr": "Parkta yine bisiklete binmek istiyorum ama bu kez daha erken çıkalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_060",
+      "speaker": "李晨妻子",
+      "zh": "这些想法都记下来，明年我们可以看看实现了多少。",
+      "pinyin": "zhè xiē xiǎng fǎ dōu jì xià lái ， míng nián wǒ men kě yǐ kàn kàn shí xiàn le duō shǎo 。",
+      "tr": "İsteklerinizi not edelim, gelecek yıl hangilerini yaptığımıza bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_061",
+      "speaker": "张伟",
+      "zh": "你们对以后有什么希望？",
+      "pinyin": "nǐ men duì yǐ hòu yǒu shén me xī wàng ？",
+      "tr": "Gelecek için neler diliyorsunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_062",
+      "speaker": "刘梅",
+      "zh": "我希望大家身体健康，工作和生活都平平安安。",
+      "pinyin": "wǒ xī wàng dà jiā shēn tǐ jiàn kāng ， gōng zuò hé shēng huó dōu píng píng ān ān 。",
+      "tr": "Herkesin sağlıklı olmasını, iş ve yaşamının huzurlu geçmesini diliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_063",
+      "speaker": "李晨",
+      "zh": "我希望我们能常常见面，不要因为忙就忘了朋友。",
+      "pinyin": "wǒ xī wàng wǒ men néng cháng cháng jiàn miàn ， bú yào yīn wèi máng jiù wàng le péng yǒu 。",
+      "tr": "Sık sık görüşelim; yoğunluk yüzünden arkadaşlarımızı unutmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_064",
+      "speaker": "李晨妻子",
+      "zh": "那我们先约好下个月一起吃饭，之后再看时间。",
+      "pinyin": "nà wǒ men xiān yuē hǎo xià gè yuè yì qǐ chī fàn ， zhī hòu zài kàn shí jiān 。",
+      "tr": "O zaman gelecek ay birlikte yemek için şimdiden sözleşelim. Sonra saate bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_065",
+      "speaker": "张伟",
+      "zh": "好，我可以提前订一张大桌子。",
+      "pinyin": "hǎo ， wǒ kě yǐ tí qián dìng yī zhāng dà zhuō zi 。",
+      "tr": "Olur, büyük bir masa ayırtabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_066",
+      "speaker": "刘梅",
+      "zh": "我来做一道大家喜欢的菜，别的我们一起准备。",
+      "pinyin": "wǒ lái zuò yī dào dà jiā xǐ huān de cài ， bié de wǒ men yì qǐ zhǔn bèi 。",
+      "tr": "Herkesin sevdiği bir yemek yaparım, kalanını birlikte hazırlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_067",
+      "speaker": "李晨",
+      "zh": "我也可以带点水果，不用你们准备太多。",
+      "pinyin": "wǒ yě kě yǐ dài diǎn shuǐ guǒ ， bù yòng nǐ men zhǔn bèi tài duō 。",
+      "tr": "Biraz meyve de getirebilirim; her şeyi sizin hazırlamanız gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_068",
+      "speaker": "李晨妻子",
+      "zh": "谢谢，这样大家都能轻松一点。",
+      "pinyin": "xiè xiè ， zhè yàng dà jiā dōu néng qīng sōng yì diǎn 。",
+      "tr": "Teşekkürler, böylece hazırlık herkes için daha kolay olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_069",
+      "speaker": "张伟",
+      "zh": "今天这顿饭让我想起去年第一次到你们家。",
+      "pinyin": "jīn tiān zhè dùn fàn ràng wǒ xiǎng qǐ qù nián dì yī cì dào nǐ men jiā 。",
+      "tr": "Bu akşamki yemek, geçen yıl ilk kez size gelişimizi hatırlattı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_070",
+      "speaker": "刘梅",
+      "zh": "当时你们刚搬来，我们也想让你们觉得自在。",
+      "pinyin": "dāng shí nǐ men gāng bān lái ， wǒ men yě xiǎng ràng nǐ men jué de zì zài 。",
+      "tr": "O zaman yeni taşınmıştınız; kendinizi rahat hissetmenizi istemiştik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_071",
+      "speaker": "李晨",
+      "zh": "现在我们已经成了很好的朋友。",
+      "pinyin": "xiàn zài wǒ men yǐ jīng chéng le hěn hǎo de péng yǒu 。",
+      "tr": "Artık çok iyi arkadaş olduk."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_072",
+      "speaker": "李晨妻子",
+      "zh": "这一年里，我们互相帮忙，也一起分享了很多事情。",
+      "pinyin": "zhè yī nián lǐ ， wǒ men hù xiāng bāng máng ， yě yì qǐ fēn xiǎng le hěn duō shì qíng 。",
+      "tr": "Bu yıl birbirimize yardım edip pek çok şeyi paylaştık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_073",
+      "speaker": "张伟",
+      "zh": "希望以后我们还会有更多这样的回忆。",
+      "pinyin": "xī wàng yǐ hòu wǒ men hái huì yǒu gèng duō zhè yàng de huí yì 。",
+      "tr": "Umarım ileride daha çok böyle anımız olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_074",
+      "speaker": "刘梅",
+      "zh": "一定会的。新的一年也一起过得开心。",
+      "pinyin": "yí dìng huì de 。 xīn de yī nián yě yì qǐ guò dé kāi xīn 。",
+      "tr": "Kesinlikle. Yeni yılda da birlikte mutlu olalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_075",
+      "speaker": "李晨",
+      "zh": "我们给今晚的照片写上日期，放进家庭相册吧。",
+      "pinyin": "wǒ men gěi jīn wǎn de zhào piān xiě shàng rì qī ， fàng jìn jiā tíng xiàng cè ba 。",
+      "tr": "Bu akşamki fotoğrafa tarihi yazıp aile albümüne koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_076",
+      "speaker": "李晨妻子",
+      "zh": "我来写：在新城生活一周年。",
+      "pinyin": "wǒ lái xiě ： zài xīn chéng shēng huó yī zhōu nián 。",
+      "tr": "Ben yazayım: Yeni şehirde birinci yılımız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_077",
+      "speaker": "张伟",
+      "zh": "再写上今天的日期，过几年看也不会忘记。",
+      "pinyin": "zài xiě shàng jīn tiān de rì qī ， guò jǐ nián kàn yě bú huì wàng jì 。",
+      "tr": "Bugünün tarihini de ekle; yıllar sonra bakınca unutmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_078",
+      "speaker": "刘梅",
+      "zh": "我会把照片发给家里人，也给他们看看这顿饭。",
+      "pinyin": "wǒ huì bǎ zhào piān fā gěi jiā lǐ rén ， yě gěi tā men kàn kàn zhè dùn fàn 。",
+      "tr": "Fotoğrafı aileme de yollar, bu yemeği onlara gösteririm."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_079",
+      "speaker": "李晨",
+      "zh": "我们拍照时再靠近一点，大家都要看镜头。",
+      "pinyin": "wǒ men pāi zhào shí zài kào jìn yì diǎn ， dà jiā dōu yào kàn jìng tóu 。",
+      "tr": "Fotoğraf çekerken biraz yaklaşın, herkes kameraya baksın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_080",
+      "speaker": "李晨妻子",
+      "zh": "好了，笑一笑。把这一年的开心记下来。",
+      "pinyin": "hǎo le ， xiào yī xiào 。 bǎ zhè yī nián de kāi xīn jì xià lái 。",
+      "tr": "Tamam, gülümseyin. Bu yılın güzel anısını saklayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_081",
+      "speaker": "张伟",
+      "zh": "照片拍好了，我们把它放进相册里吧。",
+      "pinyin": "zhào piān pāi hǎo le ， wǒ men bǎ tā fàng jìn xiàng cè lǐ ba 。",
+      "tr": "Fotoğraf tamam, albüme koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_082",
+      "speaker": "刘梅",
+      "zh": "等一下，我先检查一下大家的眼睛有没有闭上。",
+      "pinyin": "děng yí xià ， wǒ xiān jiǎn chá yī xià dà jiā de yǎn jīng yǒu méi yǒu bì shàng 。",
+      "tr": "Bir dakika, herkesin gözleri açık mı kontrol edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_083",
+      "speaker": "李晨",
+      "zh": "很好，大家都看着镜头，照片也很清楚。",
+      "pinyin": "hěn hǎo ， dà jiā dōu kàn zhe jìng tóu ， zhào piān yě hěn qīng chǔ 。",
+      "tr": "Güzel, herkes kameraya bakıyor; fotoğraf da net."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_084",
+      "speaker": "李晨妻子",
+      "zh": "这张照片里有四个人，正好记录今晚的聚会。",
+      "pinyin": "zhè zhāng zhào piān lǐ yǒu sì gè rén ， zhèng hǎo jì lù jīn wǎn de jù huì 。",
+      "tr": "Fotoğrafta dört kişi var, bu akşamı güzelce hatırlatacak."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_085",
+      "speaker": "张伟",
+      "zh": "一年以前我们还不太认识附近，现在已经有很多朋友。",
+      "pinyin": "yī nián yǐ qián wǒ men hái bù tài rèn shí fù jìn ， xiàn zài yǐ jīng yǒu hěn duō péng yǒu 。",
+      "tr": "Bir yıl önce çevremizi pek tanımıyorduk, şimdi birçok arkadaşımız var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_086",
+      "speaker": "刘梅",
+      "zh": "我希望明年我们能继续一起吃饭、散步和聊天。",
+      "pinyin": "wǒ xī wàng míng nián wǒ men néng jì xù yì qǐ chī fàn 、 sàn bù hé liáo tiān 。",
+      "tr": "Umarım gelecek yıl da birlikte yemek yer, yürür ve sohbet ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_087",
+      "speaker": "李晨",
+      "zh": "我们也希望你们在这里生活得越来越开心。",
+      "pinyin": "wǒ men yě xī wàng nǐ men zài zhè lǐ shēng huó dé yuè lái yuè kāi xīn 。",
+      "tr": "Biz de burada yaşamınızın giderek güzelleşmesini diliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_088",
+      "speaker": "李晨妻子",
+      "zh": "谢谢。你们的关心让我们觉得这里真的像家。",
+      "pinyin": "xiè xiè 。 nǐ men de guān xīn ràng wǒ men jué de zhè lǐ zhēn de xiàng jiā 。",
+      "tr": "Teşekkürler. İlginiz sayesinde burası gerçekten evimiz gibi geliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_089",
+      "speaker": "张伟",
+      "zh": "新的一年里，遇到什么事都可以和我们说。",
+      "pinyin": "xīn de yī nián lǐ ， yù dào shén me shì dōu kě yǐ hé wǒ men shuō 。",
+      "tr": "Yeni yılda ne olursa olsun bizimle konuşabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_090",
+      "speaker": "刘梅",
+      "zh": "我们会的，也会继续常常来你们家。",
+      "pinyin": "wǒ men huì de ， yě huì jì xù cháng cháng lái nǐ men jiā 。",
+      "tr": "Konuşuruz; biz de size sık sık gelmeye devam ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_091",
+      "speaker": "李晨",
+      "zh": "今天聊了很多过去的事，也说了以后的希望。",
+      "pinyin": "jīn tiān liáo le hěn duō guò qù de shì ， yě shuō le yǐ hòu de xī wàng 。",
+      "tr": "Bugün geçmişten çok şey konuştuk, geleceğe dair dileklerimizi de paylaştık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_092",
+      "speaker": "李晨妻子",
+      "zh": "我觉得这一年过得很充实。",
+      "pinyin": "wǒ jué de zhè yī nián guò dé hěn chōng shí 。",
+      "tr": "Bence bu yıl çok dolu dolu geçti."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_093",
+      "speaker": "张伟",
+      "zh": "我也很开心，大家一起经历了这么多。",
+      "pinyin": "wǒ yě hěn kāi xīn ， dà jiā yì qǐ jīng lì le zhè me duō 。",
+      "tr": "Ben de mutluyum, birlikte pek çok şey yaşadık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_094",
+      "speaker": "刘梅",
+      "zh": "等明年周年时，我们再拿出相册看看。",
+      "pinyin": "děng míng nián zhōu nián shí ， wǒ men zài ná chū xiàng cè kàn kàn 。",
+      "tr": "Gelecek yıl dönümünde albümü tekrar çıkarıp bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_095",
+      "speaker": "李晨",
+      "zh": "到时候照片更多，能记住的事情也更多。",
+      "pinyin": "dào shí hòu zhào piān gèng duō ， néng jì zhù de shì qíng yě gèng duō 。",
+      "tr": "O zamana kadar daha çok fotoğrafımız ve hatırlayacağımız şey olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_096",
+      "speaker": "李晨妻子",
+      "zh": "我会每个月挑几张照片，慢慢整理好。",
+      "pinyin": "wǒ huì měi gè yuè tiāo jǐ zhāng zhào piān ， màn màn zhěng lǐ hǎo 。",
+      "tr": "Her ay birkaç fotoğraf seçip yavaş yavaş düzenleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_097",
+      "speaker": "张伟",
+      "zh": "这样就不用等到一年结束才开始整理。",
+      "pinyin": "zhè yàng jiù bù yòng děng dào yī nián jié shù cái kāi shǐ zhěng lǐ 。",
+      "tr": "Böylece yıl bitene kadar beklememize gerek kalmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_098",
+      "speaker": "刘梅",
+      "zh": "你们已经有了新的城市、家和朋友。",
+      "pinyin": "nǐ men yǐ jīng yǒu le xīn de chéng shì 、 jiā hé péng yǒu 。",
+      "tr": "Artık bu şehirde bir eviniz ve arkadaşlarınız var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_099",
+      "speaker": "李晨",
+      "zh": "以后还会有新的故事，我们一起记下来。",
+      "pinyin": "yǐ hòu hái huì yǒu xīn de gù shì ， wǒ men yì qǐ jì xià lái 。",
+      "tr": "Gelecekte yeni anılar da biriktirip birlikte kaydederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC050_100",
+      "speaker": "李晨妻子",
+      "zh": "这一年辛苦又开心，谢谢大家一直陪伴。",
+      "pinyin": "zhè yī nián xīn kǔ yòu kāi xīn ， xiè xiè dà jiā yì zhí péi bàn 。",
+      "tr": "Bu yıl hem yorucu hem güzeldi; hep yanımızda olduğunuz için teşekkürler."
+    }
+  ]
+}

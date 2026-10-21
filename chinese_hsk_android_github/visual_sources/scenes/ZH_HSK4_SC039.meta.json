@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC039.json",
-  "dialogueSha256": "a6a09308837b938b587597296f88db16bce14cdcb05a59c4db23ca6a9b5bc703",
+  "dialogueSha256": "9506ed5a49ec3a892218fa99f2c5102c2ed0c8bdb1d5c728303702bdccb6ba91",
   "titleTr": "Doktorun Tavsiyeleri",
   "locationId": "LOC_ZH_HOSPITAL_001",
   "scenePurposeTr": "Doktor yaşam tarzı konusunda net değişiklikler önerir.",

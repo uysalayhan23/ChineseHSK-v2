@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC032.json",
-  "dialogueSha256": "ae52d22c992bf629918843e6311273fa9aec3c270c7a5ce3b11526269a82b141",
+  "dialogueSha256": "b3d747d4ebfaa8ac7e977d952c18657fbc1f0b272b756b0bf6f743a22ec37606",
   "titleZh": "刘梅讲小生意",
   "titleTr": "Liu Mei Girişimcilik Atölyesinde",
   "locationId": "LOC_ZH_COMMUNITY_CENTER_001",

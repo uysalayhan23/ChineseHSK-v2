@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC003.json",
-  "dialogueSha256": "d819ff2183a5c162a0108d0c25ffe4dce42431e03b7c3f2eeed278ef44cab98b",
+  "dialogueSha256": "1b88ca3c4865341404028eb29aada71738c69c20ba9f019d257b465c2342a56c",
   "titleZh": "乐乐选择高中方向",
   "titleTr": "Lele Lise Seçiyor",
   "locationId": "LOC_ZH_NEW_HOME_001",

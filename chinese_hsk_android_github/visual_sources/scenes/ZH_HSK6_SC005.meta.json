@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC005.json",
-  "dialogueSha256": "597f91b4649a93838f1d66c69b212c2da62cc88ecd5e0c205856cbdc95b6b4f3",
+  "dialogueSha256": "7dcfcb51851d60a82cf33a0719264f70a04907bbe50eaef4c26f7ddcd39aa0a7",
   "titleZh": "奶奶讲自己的婚礼",
   "titleTr": "Büyükannenin Eski Düğün Hikâyesi",
   "locationId": "LOC_ZH_GRANDPARENTS_HOME_001",

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC019.json",
-  "dialogueSha256": "e327a66f34a39e328a1045c6170a7638cc273df6c087f0750a42a9eb7535ab86",
+  "dialogueSha256": "f9f69fe474fe841d9078a0da2f6c70b2e7e469fff8119752b6d2b86938c2c7f1",
   "titleZh": "成本涨得太快",
   "titleTr": "Maliyetler Yükseliyor",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

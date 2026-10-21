@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC037.json",
-  "dialogueSha256": "3183d5f3f65b49dafb8ac8a7f43a4debac66ec34a10b69be7bd81b5aa5e2fa01",
+  "dialogueSha256": "0932ec2a25623d3feff17e79682fd111b54895ba4b972102b82ab0eac755a47a",
   "titleTr": "İkinci Şube Yerine Daha İyi Kafe",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Aile büyümek yerine mevcut kafeyi geliştirmeye karar verir.",

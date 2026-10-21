@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC002.json",
-  "dialogueSha256": "753cdcc44f3a1e688036310ffb2e4ef6278fc09ce190c5a933e432e84d74dcb6",
+  "dialogueSha256": "a4f297b57d00f319fba3a2b65aade271c2b47e79122bac4375e42a064c105b36",
   "titleZh": "支持，但不替她决定",
   "titleTr": "Zhang Destek Oluyor Ama Baskı Yapmıyor",
   "locationId": "LOC_ZH_NEW_HOME_001",

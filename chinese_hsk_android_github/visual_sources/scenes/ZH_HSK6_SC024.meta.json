@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC024.json",
-  "dialogueSha256": "cf3b128b47dd0c6d218aa39c53b9e58c65526ee2f5fdca0a7a56da5bd48cc62f",
+  "dialogueSha256": "7cf7a796cf5da078c59872416f11c0daf57b8824ac19c7a93e10dc92544eee32",
   "titleZh": "孩子出生了",
   "titleTr": "Torunun Doğumu",
   "locationId": "LOC_ZH_NURSERY_001",

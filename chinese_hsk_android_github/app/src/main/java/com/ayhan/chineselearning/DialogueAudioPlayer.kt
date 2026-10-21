@@ -51,21 +51,26 @@ class DialogueAudioPlayer(private val context: Context) {
         }
     }
 
+    private fun generatedDialoguePath(dialogueId: String): String =
+        catalog[dialogueId].orEmpty().takeIf {
+            it.startsWith("chinese_course/media/audio/generated/")
+        }.orEmpty()
+
     fun hasAuthoredAudio(dialogue: DialogueLine): Boolean {
-        val path = dialogue.audioAsset.ifBlank {
-            catalog[dialogue.id].orEmpty().ifBlank { defaultDialoguePath(dialogue.id) }
-        }
-        return assetExists(path)
+        val path = generatedDialoguePath(dialogue.id)
+        return path.isNotBlank() && assetExists(path)
     }
 
     fun playDialogue(dialogue: DialogueLine, speed: Float, onDone: (() -> Unit)? = null) {
-        val path = dialogue.audioAsset.ifBlank {
-            catalog[dialogue.id].orEmpty().ifBlank { defaultDialoguePath(dialogue.id) }
-        }
-        if (!playAsset(path, speed, onDone)) {
-            val profileId = voiceResolver.profileForSpeaker(dialogue.speaker)
-            tts.playOrCache(dialogue.id, dialogue.zh, profileId, speed, onDone)
-        }
+        val path = generatedDialoguePath(dialogue.id)
+        if (path.isNotBlank() && playAsset(path, speed, onDone)) return
+
+        val profileId = voiceResolver.profileForSpeaker(dialogue.speaker)
+        // Keep the existing local TTS pipeline, while ensuring edited dialogue
+        // text cannot reuse a stale cache entry from the same dialogue ID.
+        val textRevision = dialogue.zh.hashCode().toUInt().toString(16).uppercase()
+        val stableCacheId = "VOICE_" + profileId + "_" + dialogue.id + "_" + textRevision
+        tts.playOrCache(stableCacheId, dialogue.zh, profileId, speed, onDone)
     }
 
     fun playNarrator(sceneId: String, narrator: NarratorInfo, speed: Float = 0.9f, onDone: (() -> Unit)? = null) {

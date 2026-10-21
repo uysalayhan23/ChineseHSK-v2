@@ -1,0 +1,712 @@
+{
+  "naturalizationVersion": 14,
+  "status": "FINAL_NATIVE_RELEASE_CANDIDATE_V13",
+  "sceneId": "ZH_HSK1_SC036",
+  "level": "HSK1",
+  "sceneCategory": "family",
+  "sourceTitleZh": "孩子们一起玩",
+  "sourceTitleTr": "Çocuklar Birlikte Oynuyor",
+  "sourceMiniAdventureTr": "Çocuklar aynı oyuncakla oynamak ister ve küçük bir paylaşma sorunu çıkar.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK1_SC036_001",
+      "speaker": "张乐乐",
+      "zh": "今天小朋友来我家玩，我把球找出来了。",
+      "pinyin": "Jīntiān xiǎopéngyǒu lái wǒjiā wán, wǒ bǎ qiú zhǎo chūlái le.",
+      "tr": "Bugün arkadaşım bize geliyor, topu bulup çıkardım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_002",
+      "speaker": "小朋友",
+      "zh": "太好了，我也带了一个玩具。",
+      "pinyin": "Tàihǎole, wǒ yě dài le yígè wánjù.",
+      "tr": "Harika, ben de bir oyuncak getirdim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_003",
+      "speaker": "张雨桐",
+      "zh": "欢迎你来，先把玩具放桌子上吧。",
+      "pinyin": "Huānyíng nǐ lái, xiān bǎ wánjù fàng zhuōzi shàng ba.",
+      "tr": "Hoş geldin, önce oyuncağını masaya koy."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_004",
+      "speaker": "刘梅",
+      "zh": "你们想先玩球，还是先看玩具？",
+      "pinyin": "Nǐmen xiǎngxiān wánqiú, háishì xiānkàn wánjù?",
+      "tr": "Önce topla mı oynamak, oyuncağa mı bakmak istersiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_005",
+      "speaker": "张乐乐",
+      "zh": "我们先玩球吧，外面今天有点儿冷。",
+      "pinyin": "Wǒmen xiān wánqiú ba, wàimiàn jīntiān yǒudiǎnér lěng.",
+      "tr": "Önce topla oynayalım, bugün dışarısı biraz soğuk."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_006",
+      "speaker": "小朋友",
+      "zh": "好啊，我们在家里轻轻地传球。",
+      "pinyin": "Hǎo a, wǒmen zài jiālǐ qīngqīngdì chuánqiú.",
+      "tr": "Olur, evde topu yavaşça birbirimize atalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_007",
+      "speaker": "张雨桐",
+      "zh": "我把椅子移到桌子旁边，给你们留出地方。",
+      "pinyin": "Wǒ bǎ yǐzi yí dào zhuōzi pángbiān, gěi nǐmen liúchū dìfāng.",
+      "tr": "Sandalyeyi masanın yanına çekip size yer açayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_008",
+      "speaker": "刘梅",
+      "zh": "现在地方够了，你们慢慢玩，别碰到桌子。",
+      "pinyin": "Xiànzài dìfāng gòu le, nǐmen mànmàn wán, bié pèngdào zhuōzi.",
+      "tr": "Şimdi yeterince yer var; yavaş oynayın, masaya çarpmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_009",
+      "speaker": "张乐乐",
+      "zh": "我先把球推给你，你接到了再推回来。",
+      "pinyin": "Wǒ xiān bǎ qiú tuī gěi nǐ, nǐ jiēdào le zài tuīhuílái.",
+      "tr": "Önce topu sana yuvarlayayım, yakalayınca geri gönder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_010",
+      "speaker": "小朋友",
+      "zh": "好，我准备好了，你推过来吧。",
+      "pinyin": "Hǎo, wǒ zhǔnbèi hǎo le, nǐ tuīguòlái ba.",
+      "tr": "Peki, hazırım, bana doğru yuvarla."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_011",
+      "speaker": "张雨桐",
+      "zh": "你们站得近一点儿，这样球不会滚到门外。",
+      "pinyin": "Nǐmen zhàn dé jìn yìdiǎnér, zhèyàng qiú búhuì gǔn dào ménwài.",
+      "tr": "Biraz daha yakın durun ki top kapının dışına yuvarlanmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_012",
+      "speaker": "刘梅",
+      "zh": "知道了，我们就在桌子前面玩。",
+      "pinyin": "Zhīdào le, wǒmen jiù zài zhuōzi qiánmiàn wán.",
+      "tr": "Anladık, masanın önünde oynarız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_013",
+      "speaker": "张乐乐",
+      "zh": "接住了！现在轮到你把球推回来。",
+      "pinyin": "Jiēzhù le! xiànzài lúndào nǐ bǎ qiú tuīhuílái.",
+      "tr": "Yakaladım! Şimdi topu geri yuvarlama sırası sende."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_014",
+      "speaker": "小朋友",
+      "zh": "我推得很轻，你看，球到你那边了。",
+      "pinyin": "Wǒ tuīdé hěn qīng, nǐ kàn, qiúdào nǐ nàbiān le.",
+      "tr": "Yavaşça yuvarladım, bak top sana geldi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_015",
+      "speaker": "张雨桐",
+      "zh": "你们轮流玩得很好，不用抢。",
+      "pinyin": "Nǐmen lúnliú wándé hěn hǎo, bùyòng qiǎng.",
+      "tr": "Sırayla çok güzel oynuyorsunuz, kapışmanıza gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_016",
+      "speaker": "刘梅",
+      "zh": "这样两个人都能玩到球。",
+      "pinyin": "Zhèyàng liǎnggè rén dōu néng wán dào qiú.",
+      "tr": "Böylece ikimiz de topla oynayabiliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_017",
+      "speaker": "张乐乐",
+      "zh": "我把球放在这里，你先去看看我的玩具。",
+      "pinyin": "Wǒ bǎ qiú fàngzài zhèlǐ, nǐ xiān qù kànkàn wǒ de wánjù.",
+      "tr": "Topu buraya koyuyorum, önce oyuncağıma bak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_018",
+      "speaker": "小朋友",
+      "zh": "这个小车真好看，是你的新玩具吗？",
+      "pinyin": "Zhège xiǎochē zhēn hǎokàn, shì nǐ de xīn wánjù ma?",
+      "tr": "Bu küçük araba çok güzel, yeni oyuncağın mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_019",
+      "speaker": "张雨桐",
+      "zh": "是的，他昨天在家里拿到的，很喜欢。",
+      "pinyin": "Shì de, tā zuótiān zài jiālǐ nádào de, hěn xǐhuān.",
+      "tr": "Evet, dün evde buldu, çok seviyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_020",
+      "speaker": "刘梅",
+      "zh": "我可以看一看吗？我会轻轻拿着。",
+      "pinyin": "Wǒ kěyǐ kànyīkàn ma? wǒhuì qīngqīng ná zhe.",
+      "tr": "Biraz bakabilir miyim? Dikkatlice tutarım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_021",
+      "speaker": "张乐乐",
+      "zh": "当然可以，我也想看看你带来的玩具。",
+      "pinyin": "Dāngrán kěyǐ, wǒ yě xiǎng kànkàn nǐ dàilái de wánjù.",
+      "tr": "Tabii, ben de senin getirdiğin oyuncağa bakmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_022",
+      "speaker": "小朋友",
+      "zh": "这是我家人送给我的小车，它可以往前走。",
+      "pinyin": "Zhèshì wǒjiā rén sònggěi wǒ de xiǎochē, tā kěyǐ wǎngqiánzǒu.",
+      "tr": "Bu, ailemin bana aldığı küçük araba; ileri gidebiliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_023",
+      "speaker": "张雨桐",
+      "zh": "你们可以交换着看，玩具要一起分享。",
+      "pinyin": "Nǐmen kěyǐ jiāohuàn zhe kàn, wánjù yào yìqǐ fēnxiǎng.",
+      "tr": "Oyuncaklara sırayla bakabilirsiniz, paylaşmak güzeldir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_024",
+      "speaker": "刘梅",
+      "zh": "好，我先给你看我的，再换回来。",
+      "pinyin": "Hǎo, wǒ xiān gěi nǐ kàn wǒ de, zài huànhuílái.",
+      "tr": "Peki, önce benimkine bak, sonra değiştiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_025",
+      "speaker": "张乐乐",
+      "zh": "我喜欢这辆小车，走得真快。",
+      "pinyin": "Wǒ xǐhuān zhèliàng xiǎochē, zǒudé zhēnkuài.",
+      "tr": "Bu arabayı sevdim, ne hızlı gidiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_026",
+      "speaker": "小朋友",
+      "zh": "你的球也很好玩，我们可以一起玩两个玩具。",
+      "pinyin": "Nǐ de qiú yě hěn hǎowán, wǒmen kěyǐ yìqǐ wán liǎnggè wánjù.",
+      "tr": "Senin topun da çok eğlenceli, iki oyuncakla birlikte oynayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_027",
+      "speaker": "张雨桐",
+      "zh": "家里的孩子一起玩，最重要的是互相照顾。",
+      "pinyin": "Jiālǐ de háizi yìqǐ wán, zuì zhòngyào de shì hùxiāngzhàogù.",
+      "tr": "Evde çocuklar birlikte oynarken en önemlisi birbirlerine dikkat etmeleri."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_028",
+      "speaker": "刘梅",
+      "zh": "我们会小心，也会轮流玩。",
+      "pinyin": "Wǒmen huì xiǎoxīn, yě huì lúnliú wán.",
+      "tr": "Dikkat ederiz ve sırayla oynarız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_029",
+      "speaker": "张乐乐",
+      "zh": "要不要把球放到椅子下面，当作我们的家？",
+      "pinyin": "Yào búyào bǎ qiú fàngdào yǐzi xiàmiàn, dàngzuò wǒmen de jiā?",
+      "tr": "Topu sandalyenin altına koyup evimiz gibi kullanalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_030",
+      "speaker": "小朋友",
+      "zh": "好，那小车从桌子边开到椅子那里。",
+      "pinyin": "Hǎo, nà xiǎochē cóng zhuōzi biānkāi dào yǐzi nàlǐ.",
+      "tr": "Olur, araba masanın yanından sandalyeye kadar gitsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_031",
+      "speaker": "张雨桐",
+      "zh": "注意一点儿，别把球扔得太远。",
+      "pinyin": "Zhùyì yìdiǎnér, bié bǎ qiú rēng dé tàiyuǎn.",
+      "tr": "Dikkat edin, topu çok uzağa atmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_032",
+      "speaker": "刘梅",
+      "zh": "我会慢慢推小车，不会撞到椅子。",
+      "pinyin": "Wǒhuì mànmàn tuī xiǎochē, búhuì zhuàng dào yǐzi.",
+      "tr": "Arabayı yavaşça sürerim, sandalyeye çarpmam."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_033",
+      "speaker": "张乐乐",
+      "zh": "哎呀，球滚到椅子下面了，我看不见。",
+      "pinyin": "Āiyā, qiúgǔn dào yǐzi xiàmiàn le, wǒ kànbújiàn.",
+      "tr": "Eyvah, top sandalyenin altına yuvarlandı, göremiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_034",
+      "speaker": "小朋友",
+      "zh": "我也看不到，椅子有点儿重。",
+      "pinyin": "Wǒ yě kànbúdào, yǐzi yǒudiǎnér zhòng.",
+      "tr": "Ben de göremiyorum, sandalye biraz ağır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_035",
+      "speaker": "张雨桐",
+      "zh": "别动椅子，我来帮你们拿球。",
+      "pinyin": "Biédòng yǐzi, wǒlái bāng nǐmen náqiú.",
+      "tr": "Sandalyeyi oynatmayın, topu ben çıkarayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_036",
+      "speaker": "刘梅",
+      "zh": "谢谢，球就在桌子旁边吗？",
+      "pinyin": "Xièxiè, qiú jiù zài zhuōzi pángbiān ma?",
+      "tr": "Teşekkürler, top masanın yanında mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_037",
+      "speaker": "张乐乐",
+      "zh": "找到了，在椅子后面。我们继续玩吧。",
+      "pinyin": "Zhǎodào le, zài yǐzi hòumiàn. wǒmen jìxù wánba.",
+      "tr": "Buldum, sandalyenin arkasında. Oynamaya devam edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_038",
+      "speaker": "小朋友",
+      "zh": "这次我站远一点儿，把球慢慢推过去。",
+      "pinyin": "Zhècì wǒ zhàn yuǎn yìdiǎnér, bǎ qiú mànmàn tuīguòqù.",
+      "tr": "Bu kez biraz uzağa geçip topu yavaşça göndereceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_039",
+      "speaker": "张雨桐",
+      "zh": "你们先说好怎么玩，再开始就不会撞到东西。",
+      "pinyin": "Nǐmen xiān shuōhǎo zěnme wán, zài kāishǐ jiù búhuì zhuàng dào dōngxī.",
+      "tr": "Nasıl oynayacağınıza önce karar verirseniz eşyaya çarpmazsınız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_040",
+      "speaker": "刘梅",
+      "zh": "我们每个人推一次，球回到谁那里就轮到谁。",
+      "pinyin": "Wǒmen měigè rén tuī yīcì, qiú huídào shuí nàlǐ jiù lún dào shuí.",
+      "tr": "Herkes bir kez yuvarlasın; top kime dönerse sıra onda olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_041",
+      "speaker": "张乐乐",
+      "zh": "我先推给你，然后你推给张乐乐。",
+      "pinyin": "Wǒxiān tuīgěi nǐ, ránhòu nǐ tuī gěi zhāng lèlè.",
+      "tr": "Önce sana göndereyim, sonra sen Zhang Lele’ye gönder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_042",
+      "speaker": "小朋友",
+      "zh": "明白了，最后我再把球推回给你。",
+      "pinyin": "Míngbái le, zuìhòu wǒ zài bǎ qiú tuīhuí gěi nǐ.",
+      "tr": "Anladım, en son sana geri yollarım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_043",
+      "speaker": "张雨桐",
+      "zh": "好主意，这样大家都能一起玩。",
+      "pinyin": "Hǎo zhǔyì, zhèyàng dàjiā dōu néng yìqǐ wán.",
+      "tr": "Güzel fikir, böylece herkes birlikte oynayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_044",
+      "speaker": "刘梅",
+      "zh": "开始吧，我已经准备好了。",
+      "pinyin": "Kāishǐ ba, wǒ yǐjīng zhǔnbèi hǎo le.",
+      "tr": "Başlayalım, hazırım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_045",
+      "speaker": "张乐乐",
+      "zh": "球过来了，我接住了，现在轮到张乐乐。",
+      "pinyin": "Qiú guòlái le, wǒ jiēzhù le, xiànzài lúndào zhāng lèlè.",
+      "tr": "Top geliyor, yakaladım; şimdi sıra Zhang Lele’de."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_046",
+      "speaker": "小朋友",
+      "zh": "我接到了！球没有碰到桌子。",
+      "pinyin": "Wǒ jiēdào le! qiú méiyǒu pèngdào zhuōzi.",
+      "tr": "Yakaladım! Top masaya çarpmadı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_047",
+      "speaker": "张雨桐",
+      "zh": "你们配合得真好，还知道看着朋友。",
+      "pinyin": "Nǐmen pèihé dé zhēn hǎo, hái zhīdào kànzhe péngyǒu.",
+      "tr": "Çok iyi anlaşıyorsunuz, arkadaşınıza da dikkat ediyorsunuz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_048",
+      "speaker": "刘梅",
+      "zh": "我们是朋友，一起玩当然要互相帮忙。",
+      "pinyin": "Wǒmen shì péngyǒu, yìqǐ wán dāngrán yào hùxiāng bāngmáng.",
+      "tr": "Biz arkadaşız, birlikte oynarken birbirimize yardım ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_049",
+      "speaker": "张乐乐",
+      "zh": "玩了这么久，你们要不要喝点儿水？",
+      "pinyin": "Wán le zhèmejiǔ, nǐmen yào búyào hē diǎnér shuǐ?",
+      "tr": "Uzun zamandır oynuyorsunuz, biraz su ister misiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_050",
+      "speaker": "小朋友",
+      "zh": "要，谢谢。我有一点儿渴了。",
+      "pinyin": "Yào, xièxiè. wǒ yǒu yìdiǎnér kě le.",
+      "tr": "İsterim, teşekkürler. Biraz susadım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_051",
+      "speaker": "张雨桐",
+      "zh": "我把水放在桌子上，你们坐下来喝。",
+      "pinyin": "Wǒ bǎ shuǐ fàngzài zhuōzi shàng, nǐmen zuòxià lái hē.",
+      "tr": "Suyu masaya koyuyorum, oturup için."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_052",
+      "speaker": "刘梅",
+      "zh": "好，我们先休息一会儿，再玩小车。",
+      "pinyin": "Hǎo, wǒmen xiān xiūxī yīhuìer, zài wán xiǎochē.",
+      "tr": "Peki, biraz dinlenip sonra arabayla oynarız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_053",
+      "speaker": "张乐乐",
+      "zh": "刚才的球很好玩，你带来的小车也很有意思。",
+      "pinyin": "Gāngcái de qiú hěn hǎowán, nǐ dàilái de xiǎochē yě hěn yǒuyìsi.",
+      "tr": "Az önce top çok eğlenceliydi, getirdiğin araba da çok güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_054",
+      "speaker": "小朋友",
+      "zh": "下次我还可以带别的玩具来。",
+      "pinyin": "Xiàcì wǒ hái kěyǐ dài biéde wánjù lái.",
+      "tr": "Bir dahaki sefere başka oyuncaklar da getirebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_055",
+      "speaker": "张雨桐",
+      "zh": "欢迎你常来我们家，和孩子们一起玩。",
+      "pinyin": "Huānyíng nǐchánglái wǒmen jiā, hé háizi men yìqǐ wán.",
+      "tr": "Sık sık bize gel, çocuklarla birlikte oyna."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_056",
+      "speaker": "刘梅",
+      "zh": "我也想邀请你们去我家，家里还有很多玩具。",
+      "pinyin": "Wǒ yě xiǎng yāoqǐng nǐmen qù wǒjiā, jiālǐ háiyǒu hěnduō wánjù.",
+      "tr": "Ben de sizi bize çağırmak istiyorum, evde daha çok oyuncak var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_057",
+      "speaker": "张乐乐",
+      "zh": "真的吗？那我们下次去你家玩球。",
+      "pinyin": "Zhēnde ma? nà wǒmen xiàcì qù nǐjiā wánqiú.",
+      "tr": "Gerçekten mi? Bir dahaki sefere sizde top oynayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_058",
+      "speaker": "小朋友",
+      "zh": "好啊，我家人也会在家，可以一起认识你们。",
+      "pinyin": "Hǎo a, wǒjiā rén yě huì zàijiā, kěyǐ yìqǐ rènshí nǐmen.",
+      "tr": "Olur, ailem de evde olur, sizinle tanışabilirler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_059",
+      "speaker": "张雨桐",
+      "zh": "你们先把水喝完，杯子放在桌子上。",
+      "pinyin": "Nǐmen xiān bǎ shuǐ hēwán, bēizi fàngzài zhuōzi shàng.",
+      "tr": "Önce suyunuzu bitirin, bardakları masaya koyun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_060",
+      "speaker": "刘梅",
+      "zh": "喝好了，我们再玩一小会儿就收玩具。",
+      "pinyin": "Hē hǎo le, wǒmen zài wán yīxiǎo huìer jiù shōu wánjù.",
+      "tr": "İçtik, biraz daha oynayıp oyuncakları toplarız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_061",
+      "speaker": "张乐乐",
+      "zh": "我们来比赛，看谁能把球推到椅子旁边。",
+      "pinyin": "Wǒmen lái bǐsài, kàn shuí néng bǎ qiú tuīdào yǐzi pángbiān.",
+      "tr": "Yarışalım, bakalım kim topu sandalyenin yanına gönderecek."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_062",
+      "speaker": "小朋友",
+      "zh": "好，不过我们慢慢推，不要用力扔。",
+      "pinyin": "Hǎo, bùguò wǒmen mànmàn tuī, búyào yònglì rēng.",
+      "tr": "Olur ama yavaşça yuvarlayalım, sert atmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_063",
+      "speaker": "张雨桐",
+      "zh": "规则说得很好，开始吧。",
+      "pinyin": "Guīzé shuō dé hěn hǎo, kāishǐ ba.",
+      "tr": "Kuralları güzel belirlediniz, başlayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_064",
+      "speaker": "刘梅",
+      "zh": "我先来，球马上就到椅子旁边了。",
+      "pinyin": "Wǒ xiānlái, qiú mǎshàng jiù dào yǐzi pángbiān le.",
+      "tr": "Önce ben, top sandalyenin yanına geliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_065",
+      "speaker": "张乐乐",
+      "zh": "差一点儿，我再推一次，这回应该到了。",
+      "pinyin": "Chàyìdiǎner, wǒ zài tuī yīcì, zhèhuí yīnggāi dào le.",
+      "tr": "Az kaldı, bir kez daha yuvarlayayım; bu kez ulaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_066",
+      "speaker": "小朋友",
+      "zh": "到了！你看，球刚好停在椅子旁边。",
+      "pinyin": "Dào le! nǐ kàn, qiú gānghǎo tíng zài yǐzi pángbiān.",
+      "tr": "Oldu! Bak, top tam sandalyenin yanında durdu."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_067",
+      "speaker": "张雨桐",
+      "zh": "你们都赢了，因为一起完成了游戏。",
+      "pinyin": "Nǐmen dōu yíng le, yīnwèi yìqǐ wánchéng le yóuxì.",
+      "tr": "İkiniz de kazandınız çünkü oyunu birlikte tamamladınız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_068",
+      "speaker": "刘梅",
+      "zh": "那我们再玩一次，然后把球收起来。",
+      "pinyin": "Nà wǒmen zài wán yīcì, ránhòu bǎ qiúshōu qǐlái.",
+      "tr": "O zaman bir kez daha oynayalım, sonra topu kaldıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_069",
+      "speaker": "张乐乐",
+      "zh": "下一次我来推，张乐乐你准备好接球。",
+      "pinyin": "Xià yīcì wǒlái tuī, zhāng lèlè nǐ zhǔnbèi hǎo jiēqiú.",
+      "tr": "Bir sonraki sefer ben yuvarlayacağım, Zhang Lele yakalamaya hazır ol."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_070",
+      "speaker": "小朋友",
+      "zh": "我准备好了，慢慢推过来吧。",
+      "pinyin": "Wǒ zhǔnbèi hǎo le, mànmàn tuīguòlái ba.",
+      "tr": "Hazırım, yavaşça gönder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_071",
+      "speaker": "张雨桐",
+      "zh": "很好，球停下来了，没有碰到玩具。",
+      "pinyin": "Hěn hǎo, qiú tíngxiàlái le, méiyǒu pèngdào wánjù.",
+      "tr": "Güzel, top durdu ve oyuncağa çarpmadı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_072",
+      "speaker": "刘梅",
+      "zh": "我们玩得很开心，也把东西放好了。",
+      "pinyin": "Wǒmen wándé hěn kāixīn, yě bǎ dōngxī fànghǎo le.",
+      "tr": "Çok eğlendik, eşyaları da yerli yerine koyduk."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_073",
+      "speaker": "张乐乐",
+      "zh": "还想再玩一会儿吗？还是先把玩具收起来？",
+      "pinyin": "Hái xiǎng zài wán yīhuìer ma? háishì xiān bǎ wánjù shōu qǐlái?",
+      "tr": "Biraz daha oynamak mı istersiniz, yoksa oyuncakları toplayalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_074",
+      "speaker": "小朋友",
+      "zh": "我想再玩一会儿，不过我们可以先把小车放回去。",
+      "pinyin": "Wǒ xiǎng zài wán yīhuìer, bùguò wǒmen kěyǐ xiān bǎ xiǎochē fàng huíqù.",
+      "tr": "Biraz daha oynamak istiyorum ama arabayı önce yerine koyabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_075",
+      "speaker": "张雨桐",
+      "zh": "这是个好办法，玩完一个玩具就先收好。",
+      "pinyin": "Zhè shì gè hǎo bànfǎ, wánwán yígè wánjù jiù xiānshōu hǎo.",
+      "tr": "İyi fikir, bir oyuncakla işiniz bitince yerine koyun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_076",
+      "speaker": "刘梅",
+      "zh": "我把小车放在桌子上，球放在椅子旁边。",
+      "pinyin": "Wǒ bǎ xiǎochē fàngzài zhuōzi shàng, qiú fàngzài yǐzi pángbiān.",
+      "tr": "Arabayı masaya, topu sandalyenin yanına koyuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_077",
+      "speaker": "张乐乐",
+      "zh": "谢谢你们把玩具放好，地上现在很安全。",
+      "pinyin": "Xièxiènǐmen bǎ wánjù fàng hǎo, dìshàng xiànzài hěn ānquán.",
+      "tr": "Oyuncakları topladığınız için teşekkürler, zemin artık güvenli."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_078",
+      "speaker": "小朋友",
+      "zh": "我也不想有人踩到球摔倒。",
+      "pinyin": "Wǒ yě bùxiǎng yǒurén cǎi dào qiú shuāidǎo.",
+      "tr": "Kimsenin topa basıp düşmesini istemem."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_079",
+      "speaker": "张雨桐",
+      "zh": "你们想得很周到，家里人都会放心。",
+      "pinyin": "Nǐmen xiǎng dé hěn zhōudào, jiālǐrén dōu huì fàngxīn.",
+      "tr": "Çok düşüncelisiniz, aileniz de rahat eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_080",
+      "speaker": "刘梅",
+      "zh": "我们下次来还会记得收玩具。",
+      "pinyin": "Wǒmen xiàcì lái hái huì jìde shōu wánjù.",
+      "tr": "Bir dahaki gelişimizde oyuncakları toplamayı unutmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_081",
+      "speaker": "张乐乐",
+      "zh": "我今天最喜欢和你一起传球。",
+      "pinyin": "Wǒ jīntiān zuì xǐhuān hé nǐ yìqǐ chuánqiú.",
+      "tr": "Bugün en çok seninle top oynamayı sevdim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_082",
+      "speaker": "小朋友",
+      "zh": "我也喜欢，我们下次可以再玩这个游戏。",
+      "pinyin": "Wǒ yě xǐhuān, wǒmen xiàcì kěyǐ zài wán zhège yóuxì.",
+      "tr": "Ben de sevdim, bir dahaki sefere yine oynayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_083",
+      "speaker": "张雨桐",
+      "zh": "好朋友一起玩，不需要很多玩具也很开心。",
+      "pinyin": "Hǎo péngyǒu yìqǐ wán, bù xūyào hěnduō wánjù yě hěn kāixīn.",
+      "tr": "İyi arkadaşlar çok oyuncağa ihtiyaç duymadan da eğlenir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_084",
+      "speaker": "刘梅",
+      "zh": "对，我们可以轮流玩球，也可以一起聊天。",
+      "pinyin": "Duì, wǒmen kěyǐ lúnliú wánqiú, yě kěyǐ yìqǐ liáotiān.",
+      "tr": "Evet, sırayla top oynar, birlikte sohbet ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_085",
+      "speaker": "张乐乐",
+      "zh": "时间不早了，你们还要回家吃饭吗？",
+      "pinyin": "Shíjiān bùzǎole, nǐmen háiyào huíjiā chīfàn ma?",
+      "tr": "Vakit geç oluyor, eve gidip yemek yiyecek misiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_086",
+      "speaker": "小朋友",
+      "zh": "是的，我家人等我回去，我们该走了。",
+      "pinyin": "Shì de, wǒjiā rén děng wǒ huíqù, wǒmen gāi zǒu le.",
+      "tr": "Evet, ailem eve dönmemi bekliyor, gitmeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_087",
+      "speaker": "张雨桐",
+      "zh": "那你们先拿好自己的玩具，别忘了球。",
+      "pinyin": "Nà nǐmen xiānnáhǎo zìjǐ de wánjù, biéwàngle qiú.",
+      "tr": "O zaman oyuncaklarınızı alın, topu unutmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_088",
+      "speaker": "刘梅",
+      "zh": "我把小车放进包里，球还给张乐乐。",
+      "pinyin": "Wǒ bǎ xiǎochē fàngjìn bāo lǐ, qiú huángěi zhāng lèlè.",
+      "tr": "Arabayı çantama koyuyorum, topu Zhang Lele’ye veriyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_089",
+      "speaker": "张乐乐",
+      "zh": "球是你的玩具，今天我们一起玩得很开心。",
+      "pinyin": "Qiúshì nǐ de wánjù, jīntiān wǒmen yìqǐ wándé hěn kāixīn.",
+      "tr": "Top senin oyuncağın, bugün birlikte çok eğlendik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_090",
+      "speaker": "小朋友",
+      "zh": "下次你来我家，我也给你看我的玩具。",
+      "pinyin": "Xiàcì nǐ lái wǒjiā, wǒ yě gěi nǐ kàn wǒ de wánjù.",
+      "tr": "Bir dahaki sefere bize gelince oyuncaklarımı da gösteririm."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_091",
+      "speaker": "张雨桐",
+      "zh": "我们很欢迎你的朋友来家里玩。",
+      "pinyin": "Wǒmen hěn huānyíng nǐ de péngyǒu lái jiālǐ wán.",
+      "tr": "Arkadaşlarının bize oynamaya gelmesinden memnun oluruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_092",
+      "speaker": "刘梅",
+      "zh": "谢谢，我回家以后告诉家人今天的事。",
+      "pinyin": "Xièxiè, wǒ huíjiā yǐhòu gàosù jiārén jīntiān de shì.",
+      "tr": "Teşekkürler, eve gidince aileme bugünü anlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_093",
+      "speaker": "张乐乐",
+      "zh": "我送你到门口，路上小心一点儿。",
+      "pinyin": "Wǒ sòng nǐ dào ménkǒu, lùshàng xiǎoxīn yìdiǎnér.",
+      "tr": "Seni kapıya kadar geçireyim, yolda dikkat et."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_094",
+      "speaker": "小朋友",
+      "zh": "好，谢谢你们让我来家里玩。",
+      "pinyin": "Hǎo, xièxiènǐmen ràng wǒ lái jiālǐ wán.",
+      "tr": "Peki, beni evinize çağırdığınız için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_095",
+      "speaker": "张雨桐",
+      "zh": "下次记得带上你的玩具，我们再一起玩。",
+      "pinyin": "Xiàcì jìde dàishàng nǐ de wánjù, wǒmen zài yìqǐ wán.",
+      "tr": "Bir dahaki sefere oyuncağını da getir, yine birlikte oynarız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_096",
+      "speaker": "刘梅",
+      "zh": "再见，今天和朋友一起玩真开心。",
+      "pinyin": "Zàijiàn, jīntiān hé péngyǒu yìqǐ wánzhēn kāixīn.",
+      "tr": "Hoşça kalın, bugün arkadaşlarımla oynamak çok güzeldi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_097",
+      "speaker": "张乐乐",
+      "zh": "再见，回家以后给我们打个电话。",
+      "pinyin": "Zàijiàn, huíjiā yǐhòu gěi wǒmen dǎgè diànhuà.",
+      "tr": "Hoşça kal, eve varınca bizi ara."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_098",
+      "speaker": "小朋友",
+      "zh": "好，我会告诉家人我已经到家了。",
+      "pinyin": "Hǎo, wǒhuì gàosù jiārén wǒ yǐjīng dàojiā le.",
+      "tr": "Peki, aileme eve vardığımı söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_099",
+      "speaker": "张雨桐",
+      "zh": "今天你们轮流玩得很好，大家都很高兴。",
+      "pinyin": "Jīntiān nǐmen lúnliú wándé hěn hǎo, dàjiā dōu hěn gāoxìng.",
+      "tr": "Bugün sırayla çok güzel oynadınız, herkes mutlu oldu."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC036_100",
+      "speaker": "刘梅",
+      "zh": "下次我们还一起玩球和玩具。",
+      "pinyin": "Xiàcì wǒmen hái yìqǐ wánqiú hé wánjù.",
+      "tr": "Bir dahaki sefere yine birlikte topla ve oyuncaklarla oynarız."
+    }
+  ]
+}

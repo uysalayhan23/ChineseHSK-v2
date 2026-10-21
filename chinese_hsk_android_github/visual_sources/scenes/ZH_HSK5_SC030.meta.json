@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC030.json",
-  "dialogueSha256": "5d7fe240940d36fc8bf7f1fb44bc22b9fd9bdae8e075e2da0917298f5faa0216",
+  "dialogueSha256": "b3ad9eaaeccfbbd3b6bdd919854d0dc3948afd41b8cf706afbdeeb444a8dc9e8",
   "titleZh": "商户一起想办法",
   "titleTr": "Esnaf Birlikte Çözüm Arıyor",
   "locationId": "LOC_ZH_TOWN_HALL_001",

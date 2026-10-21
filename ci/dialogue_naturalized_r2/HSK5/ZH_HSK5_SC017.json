@@ -1,0 +1,710 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK5_SC017",
+  "level": "HSK5",
+  "sourceTitleZh": "环保小组请爷爷讲话",
+  "sourceTitleTr": "Çevre Kulübü Büyükbabayı Davet Ediyor",
+  "sourceMiniAdventureTr": "Yerel çevre grubu büyükbabayı sürdürülebilir tarım üzerine konuşmaya çağırır.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK5_SC017_001",
+      "speaker": "爷爷",
+      "zh": "环保小组请我去分享种植经验，我想先知道大家最想了解哪方面。",
+      "pinyin": "huán bǎo xiǎo zǔ qǐng wǒ qù fēn xiǎng zhòng zhí jīng yàn ， wǒ xiǎng xiān zhī dào dà jiā zuì xiǎng liǎo jiě nǎ fāng miàn 。",
+      "tr": "Çevre kulübü benden yetiştirme deneyimimi paylaşmamı istedi; önce en çok hangi konuyu öğrenmek istediklerini bilmek isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_002",
+      "speaker": "环保小组成员",
+      "zh": "大家想了解怎样减少用水、改善土壤，也想知道这些做法在社区小园地能不能实行。",
+      "pinyin": "dà jiā xiǎng liǎo jiě zěn yàng jiǎn shǎo yòng shuǐ 、 gǎi shàn tǔ rǎng ， yě xiǎng zhī dào zhè xiē zuò fǎ zài shè qū xiǎo yuán dì néng bù néng shí xíng 。",
+      "tr": "Herkes su tüketimini nasıl azaltacağını ve toprağı nasıl iyileştireceğini öğrenmek; bu yöntemlerin mahalle bahçesinde uygulanıp uygulanamayacağını bilmek istiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_003",
+      "speaker": "张乐乐",
+      "zh": "我可以帮忙整理问题，但希望分享时保留实际条件，不把一种办法说成到处都适用。",
+      "pinyin": "wǒ kě yǐ bāng máng zhěng lǐ wèn tí ， dàn xī wàng fēn xiǎng shí bǎo liú shí jì tiáo jiàn ， bù bǎ yī zhǒng bàn fǎ shuō chéng dào chù dōu shì yòng 。",
+      "tr": "Soruları düzenlemeye yardım edebilirim; ancak paylaşımda gerçek koşulları koruyalım ve tek bir yöntemi her yere uygunmuş gibi göstermeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_004",
+      "speaker": "刘梅",
+      "zh": "先了解听众的经验和场地，再决定用哪些例子，大家会更容易跟上。",
+      "pinyin": "xiān liǎo jiě tīng zhòng de jīng yàn hé chǎng dì ， zài jué dìng yòng nǎ xiē lì zi ， dà jiā huì gèng róng yì gēn shàng 。",
+      "tr": "Dinleyicilerin deneyimini ve alanın koşullarını öğrenip örnekleri sonra seçersek anlatımı izlemek kolaylaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_005",
+      "speaker": "爷爷",
+      "zh": "我可以讲怎么观察土壤和天气，但每块地不一样，做法要根据现场调整。",
+      "pinyin": "wǒ kě yǐ jiǎng zěn me guān chá tǔ rǎng hé tiān qì ， dàn měi kuài dì bù yí yàng ， zuò fǎ yào gēn jù xiàn chǎng tiáo zhěng 。",
+      "tr": "Toprağı ve havayı nasıl gözlemlediğimi anlatabilirim; ancak her arazi farklıdır, yöntem yerinde uyarlanmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_006",
+      "speaker": "环保小组成员",
+      "zh": "我们有一小块公共花园，土壤有些地方偏干，想请您看看适合先观察什么。",
+      "pinyin": "wǒ men yǒu yī xiǎo kuài gōng gòng huā yuán ， tǔ rǎng yǒu xiē dì fāng piān gàn ， xiǎng qǐng nín kàn kàn shì hé xiān guān chá shén me 。",
+      "tr": "Küçük bir ortak bahçemiz var; bazı yerleri kuru. Önce nelere bakmamız gerektiğini söyleyebilir misiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_007",
+      "speaker": "张乐乐",
+      "zh": "如果方便，我们可以先去看场地，记录日照、排水和不同区域的土壤情况。",
+      "pinyin": "rú guǒ fāng biàn ， wǒ men kě yǐ xiān qù kàn chǎng dì ， jì lù rì zhào 、 pái shuǐ hé bù tóng qū yù de tǔ rǎng qíng kuàng 。",
+      "tr": "Uygunsa önce alanı görüp güneş ışığını, drenajı ve farklı bölgelerin toprak koşullarını kaydedebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_008",
+      "speaker": "刘梅",
+      "zh": "拍照或记录之前确认小组同意，也只收集准备这次分享需要的信息。",
+      "pinyin": "pāi zhào huò jì lù zhī qián què rèn xiǎo zǔ tóng yì ， yě zhǐ shōu jí zhǔn bèi zhè cì fēn xiǎng xū yào de xìn xī 。",
+      "tr": "Fotoğraf ya da kayıt almadan önce kulübün iznini alın ve yalnızca bu paylaşım için gereken bilgileri toplayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_009",
+      "speaker": "爷爷",
+      "zh": "看地时我会先问大家平时怎样浇水、雨后哪里积水，不会一进门就说该改什么。",
+      "pinyin": "kàn dì shí wǒ huì xiān wèn dà jiā píng shí zěn yàng jiāo shuǐ 、 yǔ hòu nǎ lǐ jī shuǐ ， bú huì yī jìn mén jiù shuō gāi gǎi shén me 。",
+      "tr": "Bahçeyi incelerken önce nasıl suladıklarını ve yağmurdan sonra nerede su biriktiğini sorarım; daha girer girmez neyi değiştireceklerini söylemem."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_010",
+      "speaker": "环保小组成员",
+      "zh": "平时大家轮流浇水，没有固定记录；雨后靠近墙的一边干得比较慢。",
+      "pinyin": "píng shí dà jiā lún liú jiāo shuǐ ， méi yǒu gù dìng jì lù ； yǔ hòu kào jìn qiáng de yī biān gàn dé bǐ jiào màn 。",
+      "tr": "Genellikle sırayla suluyoruz, düzenli kayıt tutmuyoruz; yağmurdan sonra duvara yakın taraf daha yavaş kuruyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_011",
+      "speaker": "张乐乐",
+      "zh": "可以先画一张简单的区域图，把墙边、阳光直射处和排水口标出来。",
+      "pinyin": "kě yǐ xiān huà yī zhāng jiǎn dān de qū yù tú ， bǎ qiáng biān 、 yáng guāng zhí shè chù hé pái shuǐ kǒu biāo chū lái 。",
+      "tr": "Önce basit bir alan krokisi çizip duvar kenarını, doğrudan güneş alan yeri ve gideri işaretleyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_012",
+      "speaker": "刘梅",
+      "zh": "图上不要写志愿者的个人信息，标注位置和观察时间就足够了。",
+      "pinyin": "tú shàng bú yào xiě zhì yuàn zhě de gè rén xìn xī ， biāo zhù wèi zhì hé guān chá shí jiān jiù zú gòu le 。",
+      "tr": "Krokide gönüllülerin kişisel bilgilerine gerek yok; konum ve gözlem zamanı yeterli."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_013",
+      "speaker": "爷爷",
+      "zh": "如果墙边一直比较湿，就先检查排水，不要因为别处干了也给那里多浇水。",
+      "pinyin": "rú guǒ qiáng biān yì zhí bǐ jiào shī ， jiù xiān jiǎn chá pái shuǐ ， bú yào yīn wèi bié chù gàn le yě gěi nà lǐ duō jiāo shuǐ 。",
+      "tr": "Duvar kenarı sürekli nemliyse önce drenajı kontrol edin; başka yerler kurudu diye oraya da fazla su vermeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_014",
+      "speaker": "环保小组成员",
+      "zh": "我们之前按同一个时间浇整块地，可能没有注意到不同区域的差别。",
+      "pinyin": "wǒ men zhī qián àn tóng yī gè shí jiān jiāo zhěng kuài dì ， kě néng méi yǒu zhù yì dào bù tóng qū yù de chā bié 。",
+      "tr": "Daha önce tüm alanı aynı saatte suluyorduk; farklı bölgelerin değişik koşullarını gözden kaçırmış olabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_015",
+      "speaker": "张乐乐",
+      "zh": "我们可以连续观察一周，记下浇水时间、天气和土壤变化，再讨论是否需要分区。",
+      "pinyin": "wǒ men kě yǐ lián xù guān chá yī zhōu ， jì xià jiāo shuǐ shí jiān 、 tiān qì hé tǔ rǎng biàn huà ， zài tǎo lùn shì fǒu xū yào fēn qū 。",
+      "tr": "Bir hafta boyunca sulama saatini, havayı ve topraktaki değişimi kaydedip alanı bölümlere ayırmanın gerekip gerekmediğini konuşabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_016",
+      "speaker": "刘梅",
+      "zh": "记录时尽量用相同的观察方法，不然前后变化可能只是记法不同。",
+      "pinyin": "jì lù shí jǐn liàng yòng xiāng tóng de guān chá fāng fǎ ， bù rán qián hòu biàn huà kě néng zhǐ shì jì fǎ bù tóng 。",
+      "tr": "Kayıt yöntemini mümkün olduğunca aynı tutun; aksi hâlde değişim gözlem biçiminden kaynaklanabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_017",
+      "speaker": "爷爷",
+      "zh": "观察时也摸一摸土，看看植物叶子，别只凭表面颜色决定要不要浇水。",
+      "pinyin": "guān chá shí yě mō yī mō tǔ ， kàn kàn zhí wù yè zi ， bié zhǐ píng biǎo miàn yán sè jué dìng yào bù yào jiāo shuǐ 。",
+      "tr": "Gözlem sırasında toprağa dokunup yapraklara da bakın; yalnızca yüzey rengine göre sulama kararı vermeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_018",
+      "speaker": "环保小组成员",
+      "zh": "这个方法志愿者都能学吗？大家的经验不一样，有人不太熟悉种植。",
+      "pinyin": "zhè ge fāng fǎ zhì yuàn zhě dōu néng xué ma ？ dà jiā de jīng yàn bù yí yàng ， yǒu rén bù tài shú xī zhòng zhí 。",
+      "tr": "Bu yöntemi tüm gönüllüler öğrenebilir mi? Deneyimleri farklı; bazıları bitki yetiştirmeye pek aşina değil."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_019",
+      "speaker": "张乐乐",
+      "zh": "我们可以做一张简短观察卡，配上例图，让新成员也知道记录什么。",
+      "pinyin": "wǒ men kě yǐ zuò yī zhāng jiǎn duǎn guān chá kǎ ， pèi shàng lì tú ， ràng xīn chéng yuán yě zhī dào jì lù shén me 。",
+      "tr": "Örnek görseller içeren kısa bir gözlem kartı hazırlayabiliriz; yeni üyeler neyi kaydedeceğini bilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_020",
+      "speaker": "刘梅",
+      "zh": "卡片要简单，也留个地方让大家写下自己不确定的情况，再请有经验的人一起看。",
+      "pinyin": "kǎ piàn yào jiǎn dān ， yě liú gè dì fāng ràng dà jiā xiě xià zì jǐ bù què dìng de qíng kuàng ， zài qǐng yǒu jīng yàn de rén yì qǐ kàn 。",
+      "tr": "Kart basit olsun ve emin olunmayan durumları yazacak yer bıraksın; sonra deneyimli biriyle birlikte incelersiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_021",
+      "speaker": "爷爷",
+      "zh": "分享时我会讲三个例子：看土、看天气和看作物，但每一步都要说明适用条件。",
+      "pinyin": "fēn xiǎng shí wǒ huì jiǎng sān gè lì zi ： kàn tǔ 、 kàn tiān qì hé kàn zuò wù ， dàn měi yī bù dōu yào shuō míng shì yòng tiáo jiàn 。",
+      "tr": "Paylaşımda toprağı, havayı ve bitkileri gözlemlemek üzerine üç örnek anlatacağım; her adımın hangi koşulda geçerli olduğunu da açıklayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_022",
+      "speaker": "环保小组成员",
+      "zh": "时间只有半小时，您觉得哪两个例子最能帮助新手开始？",
+      "pinyin": "shí jiān zhǐ yǒu bàn xiǎo shí ， nín jué de nǎ liǎng gè lì zi zuì néng bāng zhù xīn shǒu kāi shǐ ？",
+      "tr": "Yalnızca yarım saatimiz var; yeni başlayanların işine en çok hangi iki örnek yarar?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_023",
+      "speaker": "张乐乐",
+      "zh": "可以先听听大家已有的做法，再挑两个最容易马上试的步骤。",
+      "pinyin": "kě yǐ xiān tīng tīng dà jiā yǐ yǒu de zuò fǎ ， zài tiāo liǎng gè zuì róng yì mǎ shàng shì de bù zhòu 。",
+      "tr": "Önce mevcut uygulamalarını dinleyip hemen deneyebilecekleri iki adımı seçebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_024",
+      "speaker": "刘梅",
+      "zh": "先说目标和听众，再排内容；不要为了放进所有知识而讲得太快。",
+      "pinyin": "xiān shuō mù biāo hé tīng zhòng ， zài pái nèi róng ； bú yào wèi le fàng jìn suǒ yǒu zhī shí ér jiǎng dé tài kuài 。",
+      "tr": "Önce hedefi ve dinleyiciyi belirleyip içeriği sıralayın; her bilgiyi sığdırmak için acele etmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_025",
+      "speaker": "爷爷",
+      "zh": "那我先讲怎样观察土壤和排水，再用一片地的例子说明为什么不能照搬别处的做法。",
+      "pinyin": "nà wǒ xiān jiǎng zěn yàng guān chá tǔ rǎng hé pái shuǐ ， zài yòng yī piàn dì de lì zi shuō míng wèi shén me bù néng zhào bān bié chù de zuò fǎ 。",
+      "tr": "Önce toprağı ve drenajı nasıl gözlemleyeceğimi anlatıp başka bir yerin yöntemini aynen kopyalayamayacağımızı bir örnekle açıklarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_026",
+      "speaker": "环保小组成员",
+      "zh": "我们想把分享内容写进志愿者手册，您介意我们引用您的话吗？",
+      "pinyin": "wǒ men xiǎng bǎ fēn xiǎng nèi róng xiě jìn zhì yuàn zhě shǒu cè ， nín jiè yì wǒ men yǐn yòng nín de huà ma ？",
+      "tr": "Paylaşım içeriğini gönüllü el kitabına eklemek istiyoruz; sözlerinizi alıntılamamız uygun olur mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_027",
+      "speaker": "张乐乐",
+      "zh": "引用前会标明讲者和日期，也可以先把最终文字发给爷爷确认。",
+      "pinyin": "yǐn yòng qián huì biāo míng jiǎng zhě hé rì qī ， yě kě yǐ xiān bǎ zuì zhōng wén zì fā gěi yé yé què rèn 。",
+      "tr": "Alıntıdan önce konuşmacıyı ve tarihi belirtir, son metni dedenize önceden onaylatabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_028",
+      "speaker": "刘梅",
+      "zh": "还要说清楚材料只用于小组内部，若以后公开发布就重新征求同意。",
+      "pinyin": "hái yào shuō qīng chǔ cái liào zhǐ yòng yú xiǎo zǔ nèi bù ， ruò yǐ hòu gōng kāi fā bù jiù chóng xīn zhēng qiú tóng yì 。",
+      "tr": "Materyalin yalnızca kulüp içinde kullanılacağını açıklayın; ileride yayımlarsanız yeniden izin alın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_029",
+      "speaker": "爷爷",
+      "zh": "内部使用可以，但最好把原话给我看一遍，免得整理时把意思改了。",
+      "pinyin": "nèi bù shǐ yòng kě yǐ ， dàn zuì hǎo bǎ yuán huà gěi wǒ kàn yī biàn ， miǎn de zhěng lǐ shí bǎ yì si gǎi le 。",
+      "tr": "Kulüp içinde kullanabilirsiniz; ancak düzenlerken anlamı değişmesin diye alıntıları önce bana gösterin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_030",
+      "speaker": "环保小组成员",
+      "zh": "没问题。我们会保留原话，也把整理后的文字发给您确认。",
+      "pinyin": "méi wèn tí 。 wǒ men huì bǎo liú yuán huà ， yě bǎ zhěng lǐ hòu de wén zì fā gěi nín què rèn 。",
+      "tr": "Elbette. Özgün ifadeyi koruyup düzenlenmiş metni de onayınız için göndeririz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_031",
+      "speaker": "张乐乐",
+      "zh": "开场可以先问大家浇水时最难判断什么，再让爷爷用实际观察来回答。",
+      "pinyin": "kāi chǎng kě yǐ xiān wèn dà jiā jiāo shuǐ shí zuì nán pàn duàn shén me ， zài ràng yé yé yòng shí jì guān chá lái huí dá 。",
+      "tr": "Girişte sulama zamanını belirlerken en çok neyin zor olduğunu sorup dedenizin gözlemlerini yanıt olarak sunabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_032",
+      "speaker": "刘梅",
+      "zh": "这样更像交流，不像单向讲课；也给听众提问和补充经验的机会。",
+      "pinyin": "zhè yàng gèng xiàng jiāo liú ， bù xiàng dān xiàng jiǎng kè ； yě gěi tīng zhòng tí wèn hé bǔ chōng jīng yàn de jī huì 。",
+      "tr": "Bu, tek yönlü ders gibi değil karşılıklı konuşma gibi olur; dinleyicilere soru ve deneyim paylaşma fırsatı da verir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_033",
+      "speaker": "爷爷",
+      "zh": "如果有人说自己的地不一样，我可以先问清楚土质和排水，再一起判断。",
+      "pinyin": "rú guǒ yǒu rén shuō zì jǐ de dì bù yí yàng ， wǒ kě yǐ xiān wèn qīng chǔ tǔ zhì hé pái shuǐ ， zài yì qǐ pàn duàn 。",
+      "tr": "Birisi arazisinin farklı olduğunu söylerse önce toprağını ve drenajı sorup birlikte değerlendirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_034",
+      "speaker": "环保小组成员",
+      "zh": "我们会留十分钟提问，问题太多时先记下来，之后再逐个讨论。",
+      "pinyin": "wǒ men huì liú shí fēn zhōng tí wèn ， wèn tí tài duō shí xiān jì xià lái ， zhī hòu zài zhú gè tǎo lùn 。",
+      "tr": "Sorular için on dakika ayıracağız; çok soru olursa not edip sonra tek tek ele alırız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_035",
+      "speaker": "张乐乐",
+      "zh": "我可以把问题分成土壤、用水和场地条件三类，方便后续整理。",
+      "pinyin": "wǒ kě yǐ bǎ wèn tí fēn chéng tǔ rǎng 、 yòng shuǐ hé chǎng dì tiáo jiàn sān lèi ， fāng biàn hòu xù zhěng lǐ 。",
+      "tr": "Sonradan düzenlemeyi kolaylaştırmak için soruları toprak, su kullanımı ve alan koşulları diye gruplandırabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_036",
+      "speaker": "刘梅",
+      "zh": "分类只是为了整理，不要把提问者的顾虑改成他们没有说过的意思。",
+      "pinyin": "fēn lèi zhǐ shì wèi le zhěng lǐ ， bú yào bǎ tí wèn zhě de gù lǜ gǎi chéng tā men méi yǒu shuō guò de yì si 。",
+      "tr": "Gruplandırma yalnızca düzen içindir; soru soranın kaygısını hiç söylemediği bir anlama dönüştürmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_037",
+      "speaker": "爷爷",
+      "zh": "有人问到我不熟悉的技术，就直接说不知道，再请懂的人补充。",
+      "pinyin": "yǒu rén wèn dào wǒ bù shú xī de jì shù ， jiù zhí jiē shuō bù zhī dào ， zài qǐng dǒng de rén bǔ chōng 。",
+      "tr": "Bilmediğim bir teknik sorulursa bunu açıkça söyler, bilen birinden tamamlamasını isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_038",
+      "speaker": "环保小组成员",
+      "zh": "我们可以邀请一位做土壤检测的志愿者在场，回答专业设备的问题。",
+      "pinyin": "wǒ men kě yǐ yāo qǐng yī wèi zuò tǔ rǎng jiǎn cè de zhì yuàn zhě zài chǎng ， huí dá zhuān yè shè bèi de wèn tí 。",
+      "tr": "Toprak testi bilen bir gönüllüyü de çağırıp özel cihazlarla ilgili soruları yanıtlatabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_039",
+      "speaker": "张乐乐",
+      "zh": "先确认对方愿意参加，也说明他负责补充专业知识，不代表替爷爷发言。",
+      "pinyin": "xiān què rèn duì fāng yuàn yì cān jiā ， yě shuō míng tā fù zé bǔ chōng zhuān yè zhī shí ， bù dài biǎo tì yé yé fā yán 。",
+      "tr": "Önce katılmayı kabul ettiğini doğrulayıp uzmanlık bilgisi ekleyeceğini, dedenizin yerine konuşmayacağını açıklayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_040",
+      "speaker": "刘梅",
+      "zh": "这样分工清楚，听众也知道不同建议分别来自谁。",
+      "pinyin": "zhè yàng fēn gōng qīng chǔ ， tīng zhòng yě zhī dào bù tóng jiàn yì fēn bié lái zì shuí 。",
+      "tr": "Görevler böylece netleşir; dinleyiciler farklı önerilerin kimden geldiğini de bilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_041",
+      "speaker": "爷爷",
+      "zh": "我会带一块不同颜色的土样，让大家看，但不建议只凭颜色就判断肥不肥。",
+      "pinyin": "wǒ huì dài yī kuài bù tóng yán sè de tǔ yàng ， ràng dà jiā kàn ， dàn bù jiàn yì zhǐ píng yán sè jiù pàn duàn féi bù féi 。",
+      "tr": "Farklı renkte bir toprak örneği getireceğim; ancak yalnızca rengine bakıp verimli olduğuna karar vermeyi önermiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_042",
+      "speaker": "环保小组成员",
+      "zh": "那我们也介绍土壤检测的办法，让大家知道什么时候需要进一步检查。",
+      "pinyin": "nà wǒ men yě jiè shào tǔ rǎng jiǎn cè de bàn fǎ ， ràng dà jiā zhī dào shén me shí hòu xū yào jìn yí bù jiǎn chá 。",
+      "tr": "İnsanların ne zaman daha ayrıntılı inceleme gerektiğini bilmesi için toprak testi yöntemlerini de anlatalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_043",
+      "speaker": "张乐乐",
+      "zh": "展示土样时标明采集位置和日期，说明它只是一个地点的例子。",
+      "pinyin": "zhǎn shì tǔ yàng shí biāo míng cǎi jí wèi zhì hé rì qī ， shuō míng tā zhǐ shì yí gè dì diǎn de lì zi 。",
+      "tr": "Toprak örneğini gösterirken alındığı yeri ve tarihi belirtelim; bunun tek bir noktadan örnek olduğunu açıklayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_044",
+      "speaker": "刘梅",
+      "zh": "如果要保留土样，先确认保存和处置方式，不要带来安全或卫生问题。",
+      "pinyin": "rú guǒ yào bǎo liú tǔ yàng ， xiān què rèn bǎo cún hé chǔ zhì fāng shì ， bú yào dài lái ān quán huò wèi shēng wèn tí 。",
+      "tr": "Örneği saklayacaksanız güvenli ve hijyenik saklama ya da atma yöntemini önceden doğrulayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_045",
+      "speaker": "爷爷",
+      "zh": "过去我会把作物残叶堆肥，不过要先挑出病虫害严重的部分，不能什么都放进去。",
+      "pinyin": "guò qù wǒ huì bǎ zuò wù cán yè duī féi ， bù guò yào xiān tiāo chū bìng chóng hài yán zhòng de bù fèn ， bù néng shén me dōu fàng jìn qù 。",
+      "tr": "Eskiden bitki artıklarını kompost yapardım; ancak hastalık ya da zararlı bulaşmış parçaları ayırmak gerekir, her şey eklenmez."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_046",
+      "speaker": "环保小组成员",
+      "zh": "这对我们有用。社区花园也有修剪下来的叶子，但不知道怎样处理最合适。",
+      "pinyin": "zhè duì wǒ men yǒu yòng 。 shè qū huā yuán yě yǒu xiū jiǎn xià lái de yè zi ， dàn bù zhī dào zěn yàng chǔ lǐ zuì hé shì 。",
+      "tr": "Bu bizim için yararlı. Mahalle bahçesinde de budanan yapraklar var ama en uygun şekilde nasıl değerlendireceğimizi bilmiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_047",
+      "speaker": "张乐乐",
+      "zh": "我们可以先请园艺人员确认哪些材料适合堆肥，再写一个简短的分类说明。",
+      "pinyin": "wǒ men kě yǐ xiān qǐng yuán yì rén yuán què rèn nǎ xiē cái liào shì hé duī féi ， zài xiě yí gè jiǎn duǎn de fēn lèi shuō míng 。",
+      "tr": "Önce hangi malzemelerin komposta uygun olduğunu bahçe uzmanına doğrulatıp kısa bir sınıflandırma açıklaması hazırlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_048",
+      "speaker": "刘梅",
+      "zh": "说明里要提醒大家不要把不确定的材料混进去，也不要夸大堆肥效果。",
+      "pinyin": "shuō míng lǐ yào tí xǐng dà jiā bú yào bǎ bù què dìng de cái liào hùn jìn qù ， yě bú yào kuā dà duī féi xiào guǒ 。",
+      "tr": "Açıklama, emin olunmayan malzemelerin karıştırılmaması ve kompost etkisinin abartılmaması uyarısını içersin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_049",
+      "speaker": "爷爷",
+      "zh": "堆肥要有合适的湿度和时间，没腐熟的东西不能直接用在作物旁边。",
+      "pinyin": "duī féi yào yǒu hé shì de shī dù hé shí jiān ， méi fǔ shú de dōng xī bù néng zhí jiē yòng zài zuò wù páng biān 。",
+      "tr": "Kompostun uygun nem ve süreye ihtiyacı vardır; olgunlaşmamış malzemeyi doğrudan bitkilerin yanında kullanmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_050",
+      "speaker": "环保小组成员",
+      "zh": "我们可以把堆肥列为后续活动，先找一个有经验的人带大家做一次。",
+      "pinyin": "wǒ men kě yǐ bǎ duī féi liè wèi hòu xù huó dòng ， xiān zhǎo yí gè yǒu jīng yàn de rén dài dà jiā zuò yī cì 。",
+      "tr": "Kompostu sonraki etkinliğe bırakıp deneyimli birinden uygulamalı çalışma düzenlemesini isteyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_051",
+      "speaker": "张乐乐",
+      "zh": "分享会当天先谈观察方法，堆肥只作为一个需要安全指导的例子提到。",
+      "pinyin": "fēn xiǎng huì dàng tiān xiān tán guān chá fāng fǎ ， duī féi zhǐ zuò wéi yí gè xū yào ān quán zhǐ dǎo de lì zi tí dào 。",
+      "tr": "Paylaşım günü önce gözlem yöntemini anlatalım; kompostu yalnızca güvenli rehberlik gerektiren bir örnek olarak anabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_052",
+      "speaker": "刘梅",
+      "zh": "这能控制内容范围，也避免听众把一段介绍当成完整的操作培训。",
+      "pinyin": "zhè néng kòng zhì nèi róng fàn wéi ， yě bì miǎn tīng zhòng bǎ yī duàn jiè shào dàng chéng wán zhěng de cāo zuò péi xùn 。",
+      "tr": "Bu, içeriğin kapsamını korur ve dinleyicilerin kısa bir tanıtımı tam uygulama eğitimi sanmasını önler."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_053",
+      "speaker": "爷爷",
+      "zh": "听众里有新手，讲每一步时最好说明先做什么、观察什么、什么时候停下来问人。",
+      "pinyin": "tīng zhòng lǐ yǒu xīn shǒu ， jiǎng měi yī bù shí zuì hǎo shuō míng xiān zuò shén me 、 guān chá shén me 、 shén me shí hòu tíng xià lái wèn rén 。",
+      "tr": "Dinleyiciler arasında yeni başlayanlar var; her adımda önce ne yapacaklarını, neyi gözlemleyeceklerini ve ne zaman yardım isteyeceklerini söyleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_054",
+      "speaker": "环保小组成员",
+      "zh": "我们会把这些提示写在讲义边上，也在活动后提供可靠的学习资料。",
+      "pinyin": "wǒ men huì bǎ zhè xiē tí shì xiě zài jiǎng yì biān shàng ， yě zài huó dòng hòu tí gōng kě kào de xué xí zī liào 。",
+      "tr": "Bu hatırlatmaları notların kenarına yazıp etkinlikten sonra güvenilir öğrenme kaynakları da sunacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_055",
+      "speaker": "张乐乐",
+      "zh": "资料链接要能打开，也标注发布机构和查阅日期，方便以后核对。",
+      "pinyin": "zī liào liàn jiē yào néng dǎ kāi ， yě biāo zhù fā bù jī gòu hé chá yuè rì qī ， fāng biàn yǐ hòu hé duì 。",
+      "tr": "Bağlantıların açıldığını kontrol edip yayımlayan kurumu ve erişim tarihini belirtelim; sonradan doğrulamak kolay olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_056",
+      "speaker": "刘梅",
+      "zh": "别收集参与者的电话号码来发资料，放在公开页面就可以让大家自行查看。",
+      "pinyin": "bié shōu jí cān yù zhě de diàn huà hào mǎ lái fā zī liào ， fàng zài gōng kāi yè miàn jiù kě yǐ ràng dà jiā zì xíng chá kàn 。",
+      "tr": "Materyalleri göndermek için katılımcıların telefon numarasını toplamayın; açık bir sayfada paylaşmaları yeterli."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_057",
+      "speaker": "爷爷",
+      "zh": "讲义上别写得太多，留几个观察问题，让大家回到自己的花园里试着看。",
+      "pinyin": "jiǎng yì shàng bié xiě dé tài duō ， liú jǐ gè guān chá wèn tí ， ràng dà jiā huí dào zì jǐ de huā yuán lǐ shì zhe kàn 。",
+      "tr": "Notları çok uzatmayın; birkaç gözlem sorusu bırakın ki katılımcılar kendi bahçelerinde deneyebilsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_058",
+      "speaker": "环保小组成员",
+      "zh": "我们会把讲义控制在两页，最后附上观察表和后续提问的联系方式。",
+      "pinyin": "wǒ men huì bǎ jiǎng yì kòng zhì zài liǎng yè ， zuì hòu fù shàng guān chá biǎo hé hòu xù tí wèn de lián xì fāng shì 。",
+      "tr": "Notları iki sayfayla sınırlayıp sona gözlem tablosu ve sorular için iletişim bilgisi ekleyeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_059",
+      "speaker": "张乐乐",
+      "zh": "联系方式用小组的公开邮箱，不放个人账号，避免志愿者收到不必要的信息。",
+      "pinyin": "lián xì fāng shì yòng xiǎo zǔ de gōng kāi yóu xiāng ， bù fàng gè rén zhàng hào ， bì miǎn zhì yuàn zhě shōu dào bù bì yào de xìn xī 。",
+      "tr": "Gereksiz kişisel iletişim oluşmaması için bireysel hesap yerine kulübün açık e-posta adresini kullanalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_060",
+      "speaker": "刘梅",
+      "zh": "把讲义先发给爷爷核对经验内容，再请老师检查表达是否清楚。",
+      "pinyin": "bǎ jiǎng yì xiān fā gěi yé yé hé duì jīng yàn nèi róng ， zài qǐng lǎo shī jiǎn chá biǎo dá shì fǒu qīng chǔ 。",
+      "tr": "Deneyimle ilgili bölümleri dedene, anlatımın açıklığını öğretmene kontrol ettirip notları sonra yayımlayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_061",
+      "speaker": "爷爷",
+      "zh": "讲义我看过了，土壤观察那段写得对，不过“每周测一次”不是每块地都需要。",
+      "pinyin": "jiǎng yì wǒ kàn guò le ， tǔ rǎng guān chá nà duàn xiě dé duì ， bù guò “ měi zhōu cè yī cì ” bú shì měi kuài dì dōu xū yào 。",
+      "tr": "Notları inceledim; toprak gözlemi doğru anlatılmış ama “haftada bir ölçün” her arazi için gerekli değil."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_062",
+      "speaker": "环保小组成员",
+      "zh": "我们可以改成先连续观察几次，再根据变化和场地条件决定频率。",
+      "pinyin": "wǒ men kě yǐ gǎi chéng xiān lián xù guān chá jǐ cì ， zài gēn jù biàn huà hé chǎng dì tiáo jiàn jué dìng pín lǜ 。",
+      "tr": "Önce birkaç kez düzenli gözlem yapıp sıklığa değişime ve alan koşullarına göre karar verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_063",
+      "speaker": "张乐乐",
+      "zh": "我会把原来的固定频率改成建议，让小组根据记录和需要调整。",
+      "pinyin": "wǒ huì bǎ yuán lái de gù dìng pín lǜ gǎi chéng jiàn yì ， ràng xiǎo zǔ gēn jù jì lù hé xū yào tiáo zhěng 。",
+      "tr": "Sabit sıklık önerisini değiştirip kulübün kayıtlara ve ihtiyaca göre ayarlayabileceğini yazacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_064",
+      "speaker": "刘梅",
+      "zh": "这句话也让大家知道方法要跟着证据调整，不是照表做完就不再检查。",
+      "pinyin": "zhè jù huà yě ràng dà jiā zhī dào fāng fǎ yào gēn zhe zhèng jù tiáo zhěng ， bú shì zhào biǎo zuò wán jiù bù zài jiǎn chá 。",
+      "tr": "Bu ifade yöntemin kanıta göre uyarlanması gerektiğini, listeyi bir kez tamamlayıp bırakmamak gerektiğini de anlatır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_065",
+      "speaker": "爷爷",
+      "zh": "试讲时先做一个观察示范，别拿太多概念挡在大家和实际操作中间。",
+      "pinyin": "shì jiǎng shí xiān zuò yí gè guān chá shì fàn ， bié ná tài duō gài niàn dǎng zài dà jiā hé shí jì cāo zuò zhōng jiān 。",
+      "tr": "Prova sunumunda önce gözlem gösterisi yapın; dinleyicilerle gerçek uygulamanın arasına fazla kavram koymayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_066",
+      "speaker": "环保小组成员",
+      "zh": "我们准备了湿土和干土两个样本，让参与者先观察再说说区别。",
+      "pinyin": "wǒ men zhǔn bèi le shī tǔ hé gàn tǔ liǎng gè yàng běn ， ràng cān yù zhě xiān guān chá zài shuō shuō qū bié 。",
+      "tr": "Katılımcıların önce gözlemleyip farkları anlatması için nemli ve kuru iki örnek hazırladık."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_067",
+      "speaker": "张乐乐",
+      "zh": "示范前说明样本来源，也提醒大家不要用它们替代自己场地的检查。",
+      "pinyin": "shì fàn qián shuō míng yàng běn lái yuán ， yě tí xǐng dà jiā bú yào yòng tā men tì dài zì jǐ chǎng dì de jiǎn chá 。",
+      "tr": "Gösteriden önce örneklerin kaynağını açıklayıp kendi alanlarını kontrol etmenin yerine geçmediğini hatırlatalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_068",
+      "speaker": "刘梅",
+      "zh": "参与者可以先说观察到什么，再讨论不同解释，不要急着判谁对谁错。",
+      "pinyin": "cān yù zhě kě yǐ xiān shuō guān chá dào shén me ， zài tǎo lùn bù tóng jiě shì ， bú yào jí zhe pàn shuí duì shuí cuò 。",
+      "tr": "Katılımcılar önce ne gördüklerini söylesin, sonra farklı yorumları tartışsın; kimin haklı olduğuna hemen karar vermeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_069",
+      "speaker": "爷爷",
+      "zh": "如果大家说法不一样，我会问他们观察的位置和时间，再一起看条件有什么不同。",
+      "pinyin": "rú guǒ dà jiā shuō fǎ bù yí yàng ， wǒ huì wèn tā men guān chá de wèi zhì hé shí jiān ， zài yì qǐ kàn tiáo jiàn yǒu shén me bù tóng 。",
+      "tr": "Görüşler ayrılırsa gözlem yerini ve saatini sorup koşulların nasıl farklı olduğunu birlikte incelerim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_070",
+      "speaker": "环保小组成员",
+      "zh": "这种交流也能帮助新手放心提问，不会担心一开口就被说错。",
+      "pinyin": "zhè zhǒng jiāo liú yě néng bāng zhù xīn shǒu fàng xīn tí wèn ， bú huì dān xīn yī kāi kǒu jiù bèi shuō cuò 。",
+      "tr": "Bu yaklaşım yeni başlayanların hata yaptıkları söylenmeden soru sormalarını kolaylaştırır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_071",
+      "speaker": "张乐乐",
+      "zh": "排练的时候我会计时，看看示范和提问加起来能不能在半小时内完成。",
+      "pinyin": "pái liàn de shí hòu wǒ kuài jì shí ， kàn kàn shì fàn hé tí wèn jiā qǐ lái néng bù néng zài bàn xiǎo shí nèi wán chéng 。",
+      "tr": "Prova sırasında süre tutup gösteriyle soru bölümünün yarım saate sığıp sığmadığına bakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_072",
+      "speaker": "刘梅",
+      "zh": "如果超时，先删重复的背景，不要删安全提醒和适用条件。",
+      "pinyin": "rú guǒ chāo shí ， xiān shān chóng fù de bèi jǐng ， bú yào shān ān quán tí xǐng hé shì yòng tiáo jiàn 。",
+      "tr": "Süre aşılırsa tekrar eden arka planı çıkarın; güvenlik uyarılarını ve uygulama koşullarını çıkarmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_073",
+      "speaker": "爷爷",
+      "zh": "现场有人问具体病虫害怎么办，我可能不知道是哪一种，不能随口给药。",
+      "pinyin": "xiàn chǎng yǒu rén wèn jù tǐ bìng chóng hài zěn me bàn ， wǒ kě néng bù zhī dào shì nǎ yī zhǒng ， bù néng suí kǒu gěi yào 。",
+      "tr": "Katılımcı belirli bir hastalık ya da zararlı için çözüm sorarsa türünü bilmiyor olabilirim; rastgele ilaç öneremem."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_074",
+      "speaker": "环保小组成员",
+      "zh": "我们会准备当地农业服务机构的联系方式，请专业人员判断需要怎样处理。",
+      "pinyin": "wǒ men huì zhǔn bèi dāng dì nóng yè fú wù jī gòu de lián xì fāng shì ， qǐng zhuān yè rén yuán pàn duàn xū yào zěn yàng chǔ lǐ 。",
+      "tr": "Nasıl müdahale gerektiğini uzmanların belirlemesi için yerel tarım hizmetlerinin iletişim bilgisini hazırlayacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_075",
+      "speaker": "张乐乐",
+      "zh": "讲义里也加上“先确认问题，再找专业建议”，不推荐未经核实的产品。",
+      "pinyin": "jiǎng yì lǐ yě jiā shàng “ xiān què rèn wèn tí ， zài zhǎo zhuān yè jiàn yì ” ， bù tuī jiàn wèi jīng hé shí de chǎn pǐn 。",
+      "tr": "Notlara “önce sorunu doğrula, sonra uzman görüşü al” ekleyip doğrulanmamış ürün önermeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_076",
+      "speaker": "刘梅",
+      "zh": "遇到可能影响安全的情况，先暂停示范并说明为什么要请专业人员。",
+      "pinyin": "yù dào kě néng yǐng xiǎng ān quán de qíng kuàng ， xiān zàn tíng shì fàn bìng shuō míng wèi shén me yào qǐng zhuān yè rén yuán 。",
+      "tr": "Güvenliği etkileyebilecek bir durum olursa gösterimi durdurup neden uzmana başvurmak gerektiğini açıklayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_077",
+      "speaker": "爷爷",
+      "zh": "这样好。经验能帮助观察，但遇到自己不了解的情况就该请懂的人来。",
+      "pinyin": "zhè yàng hǎo 。 jīng yàn néng bāng zhù guān chá ， dàn yù dào zì jǐ bù liǎo jiě de qíng kuàng jiù gāi qǐng dǒng de rén lái 。",
+      "tr": "Bu iyi. Deneyim gözleme yardımcı olur; bilinmeyen bir durumda bilen kişiye danışmak gerekir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_078",
+      "speaker": "环保小组成员",
+      "zh": "我们把这些边界也写进活动说明，参与者知道哪些问题可以现场讨论。",
+      "pinyin": "wǒ men bǎ zhè xiē biān jiè yě xiě jìn huó dòng shuō míng ， cān yù zhě zhī dào nǎ xiē wèn tí kě yǐ xiàn chǎng tǎo lùn 。",
+      "tr": "Katılımcıların hangi konuları etkinlikte tartışabileceklerini bilmesi için sınırları açıklamaya ekleyeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_079",
+      "speaker": "张乐乐",
+      "zh": "我会准备一页问答记录表，问题没当场答出来也能记下后续负责人。",
+      "pinyin": "wǒ huì zhǔn bèi yī yè wèn dá jì lù biǎo ， wèn tí méi dāng chǎng dá chū lái yě néng jì xià hòu xù fù zé rén 。",
+      "tr": "Anında yanıtlanamayan soruları ve sonradan takip edecek kişiyi kaydetmek için bir soru-cevap formu hazırlayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_080",
+      "speaker": "刘梅",
+      "zh": "活动后把答案补给提问者，也在小组记录里写清楚信息来自哪里。",
+      "pinyin": "huó dòng hòu bǎ dá àn bǔ jǐ tí wèn zhě ， yě zài xiǎo zǔ jì lù lǐ xiě qīng chǔ xìn xī lái zì nǎ lǐ 。",
+      "tr": "Etkinlikten sonra yanıtı soran kişiye iletip bilginin kaynağını kulüp kaydında belirtin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_081",
+      "speaker": "爷爷",
+      "zh": "试讲以后我觉得半小时够用，大家听懂了观察步骤，也知道不同地点不能直接照搬。",
+      "pinyin": "shì jiǎng yǐ hòu wǒ jué de bàn xiǎo shí gòu yòng ， dà jiā tīng dǒng le guān chá bù zhòu ， yě zhī dào bù tóng dì diǎn bù néng zhí jiē zhào bān 。",
+      "tr": "Prova sunumundan sonra yarım saatin yeterli olduğunu düşünüyorum; gözlem adımları anlaşıldı ve farklı yerlere yöntemin aynen uygulanamayacağı da netleşti."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_082",
+      "speaker": "环保小组成员",
+      "zh": "我们会按这个版本安排活动，也把观察卡和专业机构的信息提前准备好。",
+      "pinyin": "wǒ men huì àn zhè ge bǎn běn ān pái huó dòng ， yě bǎ guān chá kǎ hé zhuān yè jī gòu de xìn xī tí qián zhǔn bèi hǎo 。",
+      "tr": "Etkinliği bu sürüme göre düzenleyip gözlem kartını ve uzman kurum bilgilerini önceden hazırlayacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_083",
+      "speaker": "张乐乐",
+      "zh": "活动结束后我们会收集反馈，记录哪些内容清楚、哪些还需要解释。",
+      "pinyin": "huó dòng jié shù hòu wǒ men huì shōu jí fǎn kuì ， jì lù nǎ xiē nèi róng qīng chǔ 、 nǎ xiē hái xū yào jiě shì 。",
+      "tr": "Etkinlikten sonra geri bildirim alıp hangi kısımların açık olduğunu, hangilerinin ek açıklama istediğini kaydedeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_084",
+      "speaker": "刘梅",
+      "zh": "反馈表尽量简短，也允许参与者不写姓名，避免收集不必要的信息。",
+      "pinyin": "fǎn kuì biǎo jǐn liàng jiǎn duǎn ， yě yǔn xǔ cān yù zhě bù xiě xìng míng ， bì miǎn shōu jí bù bì yào de xìn xī 。",
+      "tr": "Geri bildirim formunu kısa tutup katılımcıların isim vermemesine izin verin; gereksiz bilgi toplamayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_085",
+      "speaker": "爷爷",
+      "zh": "大家如果试了某个办法，最好过一段时间再分享结果，不要第一天就说它一定有效。",
+      "pinyin": "dà jiā rú guǒ shì le mǒu gè bàn fǎ ， zuì hǎo guò yī duàn shí jiān zài fēn xiǎng jié guǒ ， bú yào dì yī tiān jiù shuō tā yí dìng yǒu xiào 。",
+      "tr": "Katılımcılar bir yöntemi denerse sonucu bir süre sonra paylaşsın; ilk gün işe yaradığını kesinmiş gibi söylemesinler."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_086",
+      "speaker": "环保小组成员",
+      "zh": "我们可以约一个月后再聚一次，看看不同小园地观察到什么变化。",
+      "pinyin": "wǒ men kě yǐ yuē yí gè yuè hòu zài jù yī cì ， kàn kàn bù tóng xiǎo yuán dì guān chá dào shén me biàn huà 。",
+      "tr": "Bir ay sonra yeniden buluşup farklı küçük bahçelerde ne değiştiğini değerlendirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_087",
+      "speaker": "张乐乐",
+      "zh": "比较时也要记下天气、作物和场地差异，不能只把结果排在一起看。",
+      "pinyin": "bǐ jiào shí yě yào jì xià tiān qì 、 zuò wù hé chǎng dì chā yì ， bù néng zhǐ bǎ jié guǒ pái zài yì qǐ kàn 。",
+      "tr": "Karşılaştırırken hava, ürün ve alan farklarını da kaydedelim; yalnızca sonuçları yan yana koymak yetmez."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_088",
+      "speaker": "刘梅",
+      "zh": "如果条件差异太大，就说明不能直接比较，先讨论各自的情况。",
+      "pinyin": "rú guǒ tiáo jiàn chā yì tài dà ， jiù shuō míng bù néng zhí jiē bǐ jiào ， xiān tǎo lùn gè zì de qíng kuàng 。",
+      "tr": "Koşullar çok farklıysa doğrudan karşılaştırılamayacağını belirtip önce her durumu ayrı değerlendirin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_089",
+      "speaker": "爷爷",
+      "zh": "这次分享不是要大家都按我的方法做，而是学会观察，再根据自己的地来判断。",
+      "pinyin": "zhè cì fēn xiǎng bú shì yào dà jiā dōu àn wǒ de fāng fǎ zuò ， ér shì xué huì guān chá ， zài gēn jù zì jǐ de dì lái pàn duàn 。",
+      "tr": "Bu paylaşımda herkesin benim yöntemimi uygulamasını değil, gözlem yapıp kendi arazisine göre değerlendirmesini istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_090",
+      "speaker": "环保小组成员",
+      "zh": "我们会把这个目标放在开场和结尾，让参与者明白今天学到的是什么。",
+      "pinyin": "wǒ men huì bǎ zhè ge mù biāo fàng zài kāi chǎng hé jié wěi ， ràng cān yù zhě míng bái jīn tiān xué dào de shì shén me 。",
+      "tr": "Katılımcıların bugün ne öğrendiğini anlaması için bu hedefi hem girişte hem kapanışta belirteceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_091",
+      "speaker": "张乐乐",
+      "zh": "我整理好了讲义、观察卡和公开资料链接，也删掉了不必要的个人信息。",
+      "pinyin": "wǒ zhěng lǐ hǎo le jiǎng yì 、 guān chá kǎ hé gōng kāi zī liào liàn jiē ， yě shān diào le bù bì yào de gè rén xìn xī 。",
+      "tr": "Notları, gözlem kartını ve açık kaynak bağlantılarını düzenledim; gereksiz kişisel bilgileri de çıkardım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_092",
+      "speaker": "刘梅",
+      "zh": "请再核对讲义里的说法和爷爷确认过的内容，尤其是引用和适用范围。",
+      "pinyin": "qǐng zài hé duì jiǎng yì lǐ de shuō fǎ hé yé yé què rèn guò de nèi róng ， yóu qí shì yǐn yòng hé shì yòng fàn wéi 。",
+      "tr": "Özellikle alıntıları ve geçerli olduğu koşulları dedenizin onayladığı içerikle karşılaştırıp yeniden kontrol edin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_093",
+      "speaker": "爷爷",
+      "zh": "我看过最后一版了，经验说得准确，限制也没有省略，可以拿去分享。",
+      "pinyin": "wǒ kàn guò zuì hòu yī bǎn le ， jīng yàn shuō dé zhǔn què ， xiàn zhì yě méi yǒu shěng lüè ， kě yǐ ná qù fēn xiǎng 。",
+      "tr": "Son sürümü inceledim; deneyim doğru aktarılmış ve kısıtlar atlanmamış. Paylaşabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_094",
+      "speaker": "环保小组成员",
+      "zh": "谢谢您愿意来。活动后我们把问题整理好，再把还没答复的内容交给专业人员。",
+      "pinyin": "xiè xiè nín yuàn yì lái 。 huó dòng hòu wǒ men bǎ wèn tí zhěng lǐ hǎo ， zài bǎ hái méi dá fù de nèi róng jiāo gěi zhuān yè rén yuán 。",
+      "tr": "Katılmayı kabul ettiğiniz için teşekkürler. Etkinlikten sonra soruları düzenleyip yanıtlanmayanları uzmanlara ileteceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_095",
+      "speaker": "张乐乐",
+      "zh": "我也会把分享过程记下来，但拍摄前会再次确认哪些画面可以使用。",
+      "pinyin": "wǒ yě huì bǎ fēn xiǎng guò chéng jì xià lái ， dàn pāi shè qián huì zài cì què rèn nǎ xiē huà miàn kě yǐ shǐ yòng 。",
+      "tr": "Paylaşım sürecini kaydedeceğim; ancak görüntü çekmeden önce hangi karelerin kullanılabileceğini yeniden soracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_096",
+      "speaker": "刘梅",
+      "zh": "如果有人不想入镜，就把设备转开，不要让对方觉得拒绝会影响参加活动。",
+      "pinyin": "rú guǒ yǒu rén bù xiǎng rù jìng ， jiù bǎ shè bèi zhuǎn kāi ， bú yào ràng duì fāng jué de jù jué huì yǐng xiǎng cān jiā huó dòng 。",
+      "tr": "Birisi görüntüye girmek istemezse kamerayı çevirin; reddetmenin etkinliğe katılımını etkileyeceğini düşündürmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_097",
+      "speaker": "爷爷",
+      "zh": "讲完之后我也想听听大家的做法，说不定有些经验我们家里还没试过。",
+      "pinyin": "jiǎng wán zhī hòu wǒ yě xiǎng tīng tīng dà jiā de zuò fǎ ， shuō bù dìng yǒu xiē jīng yàn wǒ men jiā lǐ hái méi shì guò 。",
+      "tr": "Konuşmadan sonra başkalarının yöntemlerini de duymak isterim; belki ailece denemediğimiz deneyimler vardır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_098",
+      "speaker": "环保小组成员",
+      "zh": "我们会留时间让参与者分享，也会说明每个人的场地和做法可能不同。",
+      "pinyin": "wǒ men huì liú shí jiān ràng cān yù zhě fēn xiǎng ， yě huì shuō míng měi gè rén de chǎng dì hé zuò fǎ kě néng bù tóng 。",
+      "tr": "Katılımcıların paylaşımı için zaman bırakıp her kişinin alanının ve yönteminin farklı olabileceğini açıklayacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_099",
+      "speaker": "张乐乐",
+      "zh": "我会把一个月后的复盘日期记下来，到时再整理结果和新的问题。",
+      "pinyin": "wǒ huì bǎ yí gè yuè hòu de fù pán rì qī jì xià lái ， dào shí zài zhěng lǐ jié guǒ hé xīn de wèn tí 。",
+      "tr": "Bir ay sonraki değerlendirme tarihini kaydedeceğim; o zaman sonuçları ve yeni soruları düzenleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC017_100",
+      "speaker": "刘梅",
+      "zh": "准备已经清楚了：先分享可观察的方法，尊重现场条件，之后再根据反馈继续讨论。",
+      "pinyin": "zhǔn bèi yǐ jīng qīng chǔ le ： xiān fēn xiǎng kě guān chá de fāng fǎ ， zūn chóng xiàn chǎng tiáo jiàn ， zhī hòu zài gēn jù fǎn kuì jì xù tǎo lùn 。",
+      "tr": "Hazırlık netleşti: önce gözlemlenebilir yöntemleri paylaşın, alan koşullarına saygı gösterin ve geri bildirimle konuşmayı sürdürün."
+    }
+  ]
+}

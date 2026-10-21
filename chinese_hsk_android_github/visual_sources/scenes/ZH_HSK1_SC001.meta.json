@@ -4,7 +4,7 @@
   "manifestVersion": "LOCKED_V2",
   "batchId": "HSK1_SC001_SC010",
   "dialogueSource": "ci/dialogue_final_v13/HSK1/ZH_HSK1_SC001.json",
-  "dialogueSha256": "1d9e227988e6a4acd3fd358765338b65ffef00a54dce9ded28b7fff60f061c00",
+  "dialogueSha256": "2e08397e5cf1dc81a2fa8cdd942f1ec9ed7e6d1184e5f08663fb94f9b7bda2bd",
   "dialogueSpeakers": [
     "张伟",
     "刘梅",

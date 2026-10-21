@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC041.json",
-  "dialogueSha256": "6523566339afc8be49bc1dfe6b83d12c2c80054e74f3b2afca0fb3e01e97a3a8",
+  "dialogueSha256": "922e79f5dd94341e2f1e4d94ec1fee43e17adef235f5d8902ed72b0999269b8b",
   "titleZh": "爷爷又住院了",
   "titleTr": "Büyükbaba Yeniden Hastanede",
   "locationId": "LOC_ZH_HOSPITAL_001",

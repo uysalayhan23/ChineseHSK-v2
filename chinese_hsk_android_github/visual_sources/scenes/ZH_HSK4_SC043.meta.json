@@ -80,5 +80,5 @@
   "status": "FINAL_GENERATED",
   "binaryIntegrityChecked": true,
   "qaNoteTr": "SC020 referansıyla yeniden üretildi; diyalog kadrosu, sahne konusu, yüz/stil/yaş sürekliliği ve metinsizlik görsel olarak incelendi. App asset ve runtime mirror eşleşir. APK için yeni açık kullanıcı onayı gereklidir.",
-  "dialogueSha256": "1d9d79e08578a479173de9523bf0cf6715e94b7f211feaf28aef28fc13d801df"
+  "dialogueSha256": "5fa89084e8c6d638f72057d96e5f0dbb80fdeb246f0fa476ea94db1db74bc760"
 }

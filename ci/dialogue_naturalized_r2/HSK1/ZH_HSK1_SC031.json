@@ -1,0 +1,712 @@
+{
+  "naturalizationVersion": 14,
+  "status": "FINAL_NATIVE_RELEASE_CANDIDATE_V13",
+  "sceneId": "ZH_HSK1_SC031",
+  "level": "HSK1",
+  "sceneCategory": "work",
+  "sourceTitleZh": "上班第一天",
+  "sourceTitleTr": "İşe İlk Gün",
+  "sourceMiniAdventureTr": "Zhang iş yerine giriş kartını bulamayınca kısa süreli telaş yaşar.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK1_SC031_001",
+      "speaker": "张伟",
+      "zh": "今天是我第一天上班，我有点紧张。",
+      "pinyin": "Jīntiān shì wǒ dìyītiān shàngbān, wǒ yǒudiǎn jǐnzhāng.",
+      "tr": "Bugün işe ilk günüm; biraz heyecanlıyım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_002",
+      "speaker": "同事",
+      "zh": "别担心，我带你熟悉办公室。",
+      "pinyin": "Bié dānxīn, wǒ dài nǐ shúxī bàngōngshì.",
+      "tr": "Endişelenme, sana ofisi tanıtırım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_003",
+      "speaker": "保安",
+      "zh": "早上好，工作卡带了吗？",
+      "pinyin": "Zǎoshànghǎo, gōngzuò kǎdài le ma?",
+      "tr": "Günaydın, iş kartını getirdin mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_004",
+      "speaker": "经理",
+      "zh": "张伟今天第一天来上班，欢迎你。",
+      "pinyin": "Zhāngwěi jīntiān dìyītiān lái shàngbān, huānyíng nǐ.",
+      "tr": "Zhang Wei bugün ilk kez işe geliyor; hoş geldin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_005",
+      "speaker": "张伟",
+      "zh": "我的工作卡刚才还在手里，现在找不到了。",
+      "pinyin": "Wǒ de gōngzuò kǎ gāngcái hái zài shǒulǐ, xiànzài zhǎo búdào le.",
+      "tr": "İş kartım az önce elimdeydi, şimdi bulamıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_006",
+      "speaker": "同事",
+      "zh": "你先看看包里，刚进门时放进去了吗？",
+      "pinyin": "Nǐ xiān kànkàn bāo lǐ, gāng jìnmén shí fàngjìnqù le ma?",
+      "tr": "Önce çantana bak; kapıdan girerken içine koymuş olabilir misin?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_007",
+      "speaker": "保安",
+      "zh": "进办公室要刷工作卡，慢慢找。",
+      "pinyin": "Jìn bàngōngshì yào shuā gōngzuò kǎ, mànmàn zhǎo.",
+      "tr": "Ofise girmek için iş kartını okutmalısın; sakince ara."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_008",
+      "speaker": "经理",
+      "zh": "先别着急，我们一起看看。",
+      "pinyin": "Xiān biézháojí, wǒmen yìqǐ kànkàn.",
+      "tr": "Önce sakin ol, birlikte bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_009",
+      "speaker": "张伟",
+      "zh": "包里没有，我记得把卡放在外套口袋里。",
+      "pinyin": "Bāo lǐ méiyǒu, wǒ jìde bǎ kǎ fàngzài wàitào kǒudài lǐ.",
+      "tr": "Çantada yok; kartı ceketimin cebine koyduğumu hatırlıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_010",
+      "speaker": "同事",
+      "zh": "那你摸摸外套的右边口袋。",
+      "pinyin": "Nà nǐ mōmō wàitào de yòubiān kǒudài.",
+      "tr": "O zaman ceketinin sağ cebini yokla."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_011",
+      "speaker": "保安",
+      "zh": "门还开着，找到以后再进来。",
+      "pinyin": "Mén hái kāizhe, zhǎodào yǐhòu zài jìnlái.",
+      "tr": "Kapı hâlâ açık; bulduktan sonra içeri girersiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_012",
+      "speaker": "经理",
+      "zh": "我在这儿等你们，不用着急。",
+      "pinyin": "Wǒ zài zhèér děng nǐmen, bùyòng zháojí.",
+      "tr": "Ben burada bekliyorum, acele etmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_013",
+      "speaker": "张伟",
+      "zh": "找到了！卡就在外套口袋里。",
+      "pinyin": "Zhǎodào le! kǎ jiù zài wàitào kǒudài lǐ.",
+      "tr": "Buldum! Kart ceketimin cebindeymiş."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_014",
+      "speaker": "同事",
+      "zh": "太好了，上面写着你的名字吗？",
+      "pinyin": "Tàihǎole, shàngmiàn xiě zhe nǐ de míngzì ma?",
+      "tr": "Harika, üstünde adın yazıyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_015",
+      "speaker": "保安",
+      "zh": "我看到了，名字是张伟。",
+      "pinyin": "Wǒ kàndào le, míngzì shì zhāngwěi.",
+      "tr": "Gördüm, adı Zhang Wei."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_016",
+      "speaker": "经理",
+      "zh": "对，是你的工作卡，现在可以进办公室。",
+      "pinyin": "Duì, shì nǐ de gōngzuò kǎ, xiànzài kěyǐ jìn bàngōngshì.",
+      "tr": "Evet, senin iş kartın; şimdi ofise girebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_017",
+      "speaker": "张伟",
+      "zh": "谢谢大家，我刚才真有点担心。",
+      "pinyin": "Xièxiè dàjiā, wǒ gāngcái zhēn yǒudiǎn dānxīn.",
+      "tr": "Hepinize teşekkürler, az önce gerçekten endişelendim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_018",
+      "speaker": "同事",
+      "zh": "不客气，把卡拿好，先去刷一下。",
+      "pinyin": "Bù kèqì, bǎ kǎ ná hǎo, xiānqù shuā yīxià.",
+      "tr": "Rica ederiz, kartı sıkı tut ve önce okut."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_019",
+      "speaker": "保安",
+      "zh": "把卡靠近门边的小机器。",
+      "pinyin": "Bǎ kǎ kàojìn ménbiān de xiǎo jīqì.",
+      "tr": "Kartı kapının yanındaki küçük cihaza yaklaştır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_020",
+      "speaker": "经理",
+      "zh": "绿灯亮了，门已经开了。",
+      "pinyin": "Lǜ dēngliàngle, mén yǐjīng kāi le.",
+      "tr": "Yeşil ışık yandı, kapı açıldı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_021",
+      "speaker": "张伟",
+      "zh": "我们现在进去吗？",
+      "pinyin": "Wǒmen xiànzài jìnqù ma?",
+      "tr": "Şimdi içeri girebilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_022",
+      "speaker": "同事",
+      "zh": "对，办公室就在这扇门里面。",
+      "pinyin": "Duì, bàngōngshì jiù zài zhè shànmén lǐmiàn.",
+      "tr": "Evet, ofis bu kapının hemen içinde."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_023",
+      "speaker": "保安",
+      "zh": "进去以后记得拿回工作卡。",
+      "pinyin": "Jìnqù yǐhòu jìde ná huí gōngzuò kǎ.",
+      "tr": "İçeri girdikten sonra iş kartını geri almayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_024",
+      "speaker": "经理",
+      "zh": "你的桌子在里面靠窗的位置。",
+      "pinyin": "Nǐ de zhuōzi zài lǐmiàn kàochuāng de wèizhì.",
+      "tr": "Masan içeride pencerenin yanında."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_025",
+      "speaker": "张伟",
+      "zh": "我看见桌子了，上面有电脑。",
+      "pinyin": "Wǒ kànjiàn zhuōzi le, shàngmiàn yǒu diànnǎo.",
+      "tr": "Masayı gördüm, üstünde bir bilgisayar var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_026",
+      "speaker": "同事",
+      "zh": "对，那台电脑是给你工作的。",
+      "pinyin": "Duì, nàtái diànnǎo shì gěi nǐ gōngzuò de.",
+      "tr": "Evet, o bilgisayarı iş için kullanacaksın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_027",
+      "speaker": "保安",
+      "zh": "以后出门回来也要刷工作卡。",
+      "pinyin": "Yǐhòu chūmén huílái yě yào shuā gōngzuò kǎ.",
+      "tr": "Dışarı çıkıp döndüğünde yine iş kartını okutmalısın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_028",
+      "speaker": "经理",
+      "zh": "记住这个位置，明天就不用找了。",
+      "pinyin": "Jìzhù zhège wèizhì, míngtiān jiù bùyòng zhǎo le.",
+      "tr": "Buranın yerini aklında tut, yarın aramana gerek kalmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_029",
+      "speaker": "张伟",
+      "zh": "我叫张伟，以后请多关照。",
+      "pinyin": "Wǒ jiào zhāngwěi, yǐhòu qǐngduōguānzhào.",
+      "tr": "Benim adım Zhang Wei, bundan sonra yardımlarını beklerim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_030",
+      "speaker": "同事",
+      "zh": "我叫小林，就坐在你旁边。",
+      "pinyin": "Wǒ jiào xiǎolín, jiù zuòzài nǐ pángbiān.",
+      "tr": "Benim adım Xiaolin, hemen yanında oturuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_031",
+      "speaker": "保安",
+      "zh": "我是门口的保安，进出时可以来问我。",
+      "pinyin": "Wǒ shì ménkǒu de bǎoān, jìnchū shí kěyǐ lái wèn wǒ.",
+      "tr": "Ben girişteki güvenlik görevlisiyim; giriş çıkışta bana sorabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_032",
+      "speaker": "经理",
+      "zh": "我是经理，有不懂的就来找我。",
+      "pinyin": "Wǒ shì jīnglǐ, yǒu bù dǒng de jiù lái zhǎo wǒ.",
+      "tr": "Ben müdürüm; anlamadığın bir şey olursa bana gel."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_033",
+      "speaker": "张伟",
+      "zh": "很高兴认识你们，现在我知道该问谁了。",
+      "pinyin": "Hěn gāoxìng rènshí nǐmen, xiànzài wǒ zhīdào gāi wèn shuí le.",
+      "tr": "Sizinle tanıştığıma sevindim; artık kime soracağımı biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_034",
+      "speaker": "同事",
+      "zh": "以后有问题就问同事，我就在你旁边。",
+      "pinyin": "Yǐhòu yǒu wèntí jiù wèn tóngshì, wǒ jiù zài nǐ pángbiān.",
+      "tr": "Bundan sonra bir sorun olursa iş arkadaşına sor; ben hemen yanındayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_035",
+      "speaker": "保安",
+      "zh": "门已经开了，你们现在可以进去了。",
+      "pinyin": "Mén yǐjīng kāi le, nǐmen xiànzài kěyǐ jìnqù le.",
+      "tr": "Kapı açıldı, artık içeri girebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_036",
+      "speaker": "经理",
+      "zh": "先看今天的工作，慢慢来。",
+      "pinyin": "Xiānkàn jīntiān de gōngzuò, mànmànlái.",
+      "tr": "Önce bugünkü işe bak, acele etme."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_037",
+      "speaker": "张伟",
+      "zh": "我先看看电脑上的工作内容。",
+      "pinyin": "Wǒxiān kànkàn diànnǎo shàng de gōngzuò nèiróng.",
+      "tr": "Önce bilgisayardaki iş bilgilerine bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_038",
+      "speaker": "同事",
+      "zh": "你看，这台电脑是给你用的。",
+      "pinyin": "Nǐ kàn, zhètái diànnǎo shì gěi nǐ yòng de.",
+      "tr": "Bak, bu bilgisayar senin kullanman için."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_039",
+      "speaker": "保安",
+      "zh": "出门时记得带好工作卡。",
+      "pinyin": "Chūménshí jìde dài hǎo gōngzuò kǎ.",
+      "tr": "Dışarı çıkarken iş kartını yanına almayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_040",
+      "speaker": "经理",
+      "zh": "今天先熟悉办公室，不着急。",
+      "pinyin": "Jīntiān xiān shúxī bàngōngshì, bù zháojí.",
+      "tr": "Bugün önce ofisi tanı, acele etmene gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_041",
+      "speaker": "张伟",
+      "zh": "我知道办公室和门口在哪里了。",
+      "pinyin": "Wǒ zhīdào bàngōngshì hé ménkǒu zài nǎlǐ le.",
+      "tr": "Ofisin ve giriş kapısının nerede olduğunu artık biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_042",
+      "speaker": "同事",
+      "zh": "很好，你的桌子就在窗边。",
+      "pinyin": "Hěn hǎo, nǐ de zhuōzi jiù zài chuāngbiān.",
+      "tr": "Güzel, masan pencerenin yanında."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_043",
+      "speaker": "保安",
+      "zh": "工作卡收好，明天早上还要用。",
+      "pinyin": "Gōngzuò kǎshōu hǎo, míngtiān zǎoshàng háiyào yòng.",
+      "tr": "İş kartını sakla, yarın sabah yine kullanacaksın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_044",
+      "speaker": "经理",
+      "zh": "先看电脑，桌上的工作不多。",
+      "pinyin": "Xiānkàn diànnǎo, zhuōshàng de gōngzuò bù duō.",
+      "tr": "Önce bilgisayara bak, masandaki iş çok değil."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_045",
+      "speaker": "张伟",
+      "zh": "卡放进包里了，不会再找不到。",
+      "pinyin": "Kǎ fàngjìn bāolǐ le, búhuì zài zhǎo búdào.",
+      "tr": "Kartı çantama koydum, artık kaybolmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_046",
+      "speaker": "同事",
+      "zh": "前面的口袋比较好找。",
+      "pinyin": "Qiánmiàn de kǒudài bǐjiào hǎozhǎo.",
+      "tr": "Ön taraftaki cepte bulması daha kolay."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_047",
+      "speaker": "保安",
+      "zh": "进门前先看看包里有没有卡。",
+      "pinyin": "Jìn ménqián xiān kànkàn bāo lǐ yǒuméiyǒu kǎ.",
+      "tr": "Kapıdan girmeden önce çantanda kart var mı bak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_048",
+      "speaker": "经理",
+      "zh": "好，电脑打开了就可以开始。",
+      "pinyin": "Hǎo, diànnǎo dǎkāi le jiù kěyǐ kāishǐ.",
+      "tr": "Güzel, bilgisayar açıldı; başlayabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_049",
+      "speaker": "张伟",
+      "zh": "我先看看电脑上的工作，可以吗？",
+      "pinyin": "Wǒxiān kànkàn diànnǎo shàng de gōngzuò, kěyǐ ma?",
+      "tr": "Önce bilgisayardaki işe bakabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_050",
+      "speaker": "同事",
+      "zh": "好，我把电脑打开，你跟着我看。",
+      "pinyin": "Hǎo, wǒ bǎ diànnǎo dǎkāi, nǐ gēnzhe wǒ kàn.",
+      "tr": "Olur, bilgisayarı açayım; beraber bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_051",
+      "speaker": "保安",
+      "zh": "门口这边有我在，你们安心工作。",
+      "pinyin": "Ménkǒu zhèbiān yǒu wǒ zài, nǐmen ānxīn gōngzuò.",
+      "tr": "Girişte ben varım, siz rahatça çalışın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_052",
+      "speaker": "经理",
+      "zh": "先熟悉这个办公室，下午我们再说工作。",
+      "pinyin": "Xiān shúxī zhège bàngōngshì, xiàwǔ wǒmen zàishuō gōngzuò.",
+      "tr": "Önce bu ofise alış, öğleden sonra işi konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_053",
+      "speaker": "张伟",
+      "zh": "好的，我先熟悉自己的桌子。",
+      "pinyin": "Hǎo de, wǒxiān shúxī zìjǐ de zhuōzi.",
+      "tr": "Tamam, önce kendi masama alışayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_054",
+      "speaker": "同事",
+      "zh": "窗边的桌子就是你的，电脑也准备好了。",
+      "pinyin": "Chuāngbiān de zhuōzi jiùshì nǐ de, diànnǎo yě zhǔnbèi hǎo le.",
+      "tr": "Pencere kenarındaki masa senin, bilgisayar da hazır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_055",
+      "speaker": "保安",
+      "zh": "出门时记得带上工作卡。",
+      "pinyin": "Chūménshí jìde dàishàng gōngzuò kǎ.",
+      "tr": "Dışarı çıkarken iş kartını almayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_056",
+      "speaker": "经理",
+      "zh": "今天先认识办公室，不用着急。",
+      "pinyin": "Jīntiān xiān rènshí bàngōngshì, bùyòng zháojí.",
+      "tr": "Bugün önce ofisi tanı, acele etme."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_057",
+      "speaker": "张伟",
+      "zh": "桌上的东西不多，我先放好。",
+      "pinyin": "Zhuōshàng de dōngxī bù duō, wǒ xiānfànghǎo.",
+      "tr": "Masada çok eşya yok, önce yerleştireyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_058",
+      "speaker": "同事",
+      "zh": "可以，把包放在桌子旁边。",
+      "pinyin": "Kěyǐ, bǎ bāo fàngzài zhuōzi pángbiān.",
+      "tr": "Olur, çantanı masanın yanına koy."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_059",
+      "speaker": "保安",
+      "zh": "卡放在包里，明天来时再拿出来。",
+      "pinyin": "Kǎ fàngzài bāo lǐ, míngtiān láishí zài ná chūlái.",
+      "tr": "Kart çantanda dursun, yarın gelince çıkarırsın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_060",
+      "speaker": "经理",
+      "zh": "好，收拾完桌子就开始看电脑。",
+      "pinyin": "Hǎo, shōushí wán zhuōzi jiù kāishǐ kàn diànnǎo.",
+      "tr": "Peki, masayı düzenleyince bilgisayara bakmaya başla."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_061",
+      "speaker": "张伟",
+      "zh": "我准备好了，今天先做什么？",
+      "pinyin": "Wǒ zhǔnbèi hǎo le, jīntiān xiān zuò shénme?",
+      "tr": "Hazırım, bugün önce ne yapayım?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_062",
+      "speaker": "同事",
+      "zh": "先看桌上的东西，慢慢来。",
+      "pinyin": "Xiānkàn zhuōshàng de dōngxī, mànmànlái.",
+      "tr": "Önce masanın üstündekilere bak, acele etme."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_063",
+      "speaker": "保安",
+      "zh": "我先回门口，有事再叫我。",
+      "pinyin": "Wǒ xiānhuí ménkǒu, yǒushì zài jiào wǒ.",
+      "tr": "Ben girişe dönüyorum, bir şey olursa seslen."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_064",
+      "speaker": "经理",
+      "zh": "看完以后再来问我。",
+      "pinyin": "Kàn wán yǐhòu zàilái wèn wǒ.",
+      "tr": "Baktıktan sonra yine bana sor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_065",
+      "speaker": "张伟",
+      "zh": "好的，我把东西放在电脑旁边。",
+      "pinyin": "Hǎo de, wǒ bǎ dōngxī fàngzài diànnǎo pángbiān.",
+      "tr": "Tamam, eşyaları bilgisayarın yanına koyuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_066",
+      "speaker": "同事",
+      "zh": "这样就行，工作卡放包里。",
+      "pinyin": "Zhèyàng jiùxíng, gōngzuò kǎfàng bāolǐ.",
+      "tr": "Böyle iyi; iş kartını çantana koy."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_067",
+      "speaker": "保安",
+      "zh": "门口有人，不用担心进出。",
+      "pinyin": "Ménkǒu yǒurén, bùyòng dānxīn jìnchū.",
+      "tr": "Kapıda biri var; girip çıkma konusunda endişelenme."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_068",
+      "speaker": "经理",
+      "zh": "你今天先熟悉办公室和电脑。",
+      "pinyin": "Nǐ jīntiān xiān shúxī bàngōngshì hé diànnǎo.",
+      "tr": "Bugün önce ofisi ve bilgisayarı tanı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_069",
+      "speaker": "张伟",
+      "zh": "我现在知道自己的桌子在哪里了。",
+      "pinyin": "Wǒ xiànzài zhīdào zìjǐ de zhuōzi zài nǎlǐ le.",
+      "tr": "Artık kendi masamın nerede olduğunu biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_070",
+      "speaker": "同事",
+      "zh": "我就在你旁边，有问题问我。",
+      "pinyin": "Wǒ jiù zài nǐ pángbiān, yǒu wèntí wèn wǒ.",
+      "tr": "Ben hemen yanındayım, sorun olursa bana sor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_071",
+      "speaker": "保安",
+      "zh": "以后进门前先刷一下卡。",
+      "pinyin": "Yǐhòu jìn ménqián xiānshuā yīxià kǎ.",
+      "tr": "Bundan sonra içeri girmeden önce kartı okut."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_072",
+      "speaker": "经理",
+      "zh": "记住就可以了，不用紧张。",
+      "pinyin": "Jìzhù jiù kěyǐ le, bùyòng jǐnzhāng.",
+      "tr": "Bunu aklında tutman yeter, heyecanlanma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_073",
+      "speaker": "张伟",
+      "zh": "我把卡放在包的前面口袋里。",
+      "pinyin": "Wǒ bǎ kǎ fàngzài bāo de qiánmiàn kǒudài lǐ.",
+      "tr": "Kartı çantamın ön cebine koydum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_074",
+      "speaker": "同事",
+      "zh": "这样明天早上很好找。",
+      "pinyin": "Zhèyàng míngtiān zǎoshàng hěn hǎozhǎo.",
+      "tr": "Böylece yarın sabah kolayca bulursun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_075",
+      "speaker": "保安",
+      "zh": "到门口以后再把它拿出来。",
+      "pinyin": "Dào ménkǒu yǐhòu zài bǎ tā ná chūlái.",
+      "tr": "Kapıya gelince kartı çıkar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_076",
+      "speaker": "经理",
+      "zh": "对，卡要放好，不要忘了。",
+      "pinyin": "Duì, kǎyào fànghǎo, búyào wàng le.",
+      "tr": "Evet, kartı iyi sakla, unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_077",
+      "speaker": "张伟",
+      "zh": "我现在记住了，先找卡再进门。",
+      "pinyin": "Wǒ xiànzài jìzhù le, xiānzhǎo kǎ zài jìnmén.",
+      "tr": "Artık aklımda; önce kartı bulup sonra gireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_078",
+      "speaker": "同事",
+      "zh": "这样一来早上就不用着急。",
+      "pinyin": "Zhèyàngyīlái zǎoshàng jiù bùyòng zháojí.",
+      "tr": "Böylece sabah acele etmene gerek kalmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_079",
+      "speaker": "保安",
+      "zh": "今天门口人少，我们慢慢走。",
+      "pinyin": "Jīntiān ménkǒu rénshǎo, wǒmen mànmàn zǒu.",
+      "tr": "Bugün kapı önü sakin, yavaşça yürüyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_080",
+      "speaker": "经理",
+      "zh": "好，今天先这样，明天再继续。",
+      "pinyin": "Hǎo, jīntiān xiān zhèyàng, míngtiān zài jìxù.",
+      "tr": "Peki, bugünlük bu kadar; yarın devam ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_081",
+      "speaker": "张伟",
+      "zh": "我看完了，今天的工作就这些吗？",
+      "pinyin": "Wǒ kàn wán le, jīntiān de gōngzuò jiù zhèxiē ma?",
+      "tr": "Okudum, bugünlük iş bu kadar mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_082",
+      "speaker": "同事",
+      "zh": "对，先熟悉办公室和电脑。",
+      "pinyin": "Duì, xiān shúxī bàngōngshì hé diànnǎo.",
+      "tr": "Evet, önce ofisi ve bilgisayarı tanı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_083",
+      "speaker": "保安",
+      "zh": "你的包要不要放在桌子下面？",
+      "pinyin": "Nǐ de bāoyào búyào fàngzài zhuōzi xiàmiàn?",
+      "tr": "Çantanı masanın altına koymak ister misin?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_084",
+      "speaker": "经理",
+      "zh": "可以，桌子下面还有地方。",
+      "pinyin": "Kěyǐ, zhuōzi xiàmiàn háiyǒu dìfāng.",
+      "tr": "Olur, masanın altında yer var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_085",
+      "speaker": "张伟",
+      "zh": "包放好了，电脑也打开了。",
+      "pinyin": "Bāofàng hǎo le, diànnǎo yě dǎkāi le.",
+      "tr": "Çantayı koydum, bilgisayar da açık."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_086",
+      "speaker": "同事",
+      "zh": "做得不错，你上手很快。",
+      "pinyin": "Zuò dé bùcuò, nǐ shàng shǒu hěnkuài.",
+      "tr": "Güzel gidiyorsun, çabuk alıştın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_087",
+      "speaker": "保安",
+      "zh": "工作卡还在包里吧？",
+      "pinyin": "Gōngzuò kǎ hái zài bāolǐ ba?",
+      "tr": "İş kartın hâlâ çantanda, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_088",
+      "speaker": "经理",
+      "zh": "在前面的口袋里，明天容易拿。",
+      "pinyin": "Zài qiánmiàn de kǒudài lǐ, míngtiān róngyì ná.",
+      "tr": "Ön gözde; yarın çıkarması kolay olur."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_089",
+      "speaker": "张伟",
+      "zh": "我会记得，早上先拿卡。",
+      "pinyin": "Wǒhuì jìde, zǎoshàng xiānnákǎ.",
+      "tr": "Aklımda, sabah önce kartı alacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_090",
+      "speaker": "同事",
+      "zh": "进门以后再把卡收好。",
+      "pinyin": "Jìnmén yǐhòu zài bǎ kǎshōu hǎo.",
+      "tr": "İçeri girdikten sonra kartı yerine koy."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_091",
+      "speaker": "保安",
+      "zh": "我明白了，先刷卡再进办公室。",
+      "pinyin": "Wǒ míngbái le, xiān shuākǎ zàijìn bàngōngshì.",
+      "tr": "Anladım, önce kartı okutacağım, sonra ofise gireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_092",
+      "speaker": "经理",
+      "zh": "对，明天我也会在门口。",
+      "pinyin": "Duì, míngtiān wǒ yě huì zài ménkǒu.",
+      "tr": "Evet, yarın da kapıda olacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_093",
+      "speaker": "张伟",
+      "zh": "谢谢，我今天没那么紧张了。",
+      "pinyin": "Xièxiè, wǒ jīntiān méi nàme jǐnzhāng le.",
+      "tr": "Teşekkürler, bugün artık o kadar heyecanlı değilim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_094",
+      "speaker": "同事",
+      "zh": "第一天很顺利，有大家帮忙。",
+      "pinyin": "Dìyītiān hěn shùnlì, yǒu dàjiā bāngmáng.",
+      "tr": "İlk günün iyi geçti, hepimiz yardım ettik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_095",
+      "speaker": "保安",
+      "zh": "我先回到自己的桌子，开始看电脑。",
+      "pinyin": "Wǒ xiānhuídào zìjǐ de zhuōzi, kāishǐ kàn diànnǎo.",
+      "tr": "Masama dönüp bilgisayara bakmaya başlayayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_096",
+      "speaker": "经理",
+      "zh": "好，有问题就过来问我。",
+      "pinyin": "Hǎo, yǒu wèntí jiù guòlái wèn wǒ.",
+      "tr": "Olur, bir sorun olursa yanıma gel sor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_097",
+      "speaker": "张伟",
+      "zh": "谢谢你们帮我找到工作卡。",
+      "pinyin": "Xièxiènǐmen bāng wǒ zhǎodào gōngzuò kǎ.",
+      "tr": "İş kartımı bulmama yardım ettiğiniz için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_098",
+      "speaker": "同事",
+      "zh": "不客气，明天继续熟悉工作。",
+      "pinyin": "Bù kèqì, míngtiān jìxù shúxī gōngzuò.",
+      "tr": "Rica ederiz, yarın işe alışmaya devam edersin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_099",
+      "speaker": "保安",
+      "zh": "明天别忘了带工作卡。",
+      "pinyin": "Míngtiān biéwàngle dài gōngzuò kǎ.",
+      "tr": "Yarın iş kartını almayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC031_100",
+      "speaker": "经理",
+      "zh": "再见，明天我们办公室见。",
+      "pinyin": "Zàijiàn, míngtiān wǒmen bàngōngshì jiàn.",
+      "tr": "Hoşça kal, yarın ofiste görüşürüz。"
+    }
+  ]
+}

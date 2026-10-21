@@ -1,0 +1,710 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK4_SC029",
+  "level": "HSK4",
+  "sourceTitleZh": "当地导游",
+  "sourceTitleTr": "Yerel Rehberle Tanışma",
+  "sourceMiniAdventureTr": "Yerel rehber aileye bölgenin tarihini ve farklı bir rota önerir.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK4_SC029_001",
+      "speaker": "导游",
+      "zh": "大家早上好，欢迎参加今天的步行参观。你们想先了解当地历史，还是先看看老街？",
+      "pinyin": "dà jiā zǎo shàng hǎo huān yíng cān jiā jīn tiān de bù xíng cān guān nǐ men xiǎng xiān liǎo jiě dāng dì lì shǐ hái shì xiān kàn kàn lǎo jiē",
+      "tr": "Herkese günaydın, bugünkü yürüyüş turuna hoş geldiniz. Önce yerel tarihi mi öğrenmek, eski sokağı mı görmek istersiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_002",
+      "speaker": "张伟",
+      "zh": "我们一家第一次来这里，想听听这座城以前是什么样子。",
+      "pinyin": "wǒ men yī jiā dì yī cì lái zhè lǐ xiǎng tīng tīng zhè zuò chéng yǐ qián shì shén me yàng zi",
+      "tr": "Ailece buraya ilk gelişimiz; şehrin eskiden nasıl olduğunu dinlemek isteriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_003",
+      "speaker": "刘梅",
+      "zh": "我也想知道街边这些老房子为什么保留得这么完整。",
+      "pinyin": "wǒ yě xiǎng zhī dào jiē biān zhè xiē lǎo fáng zi wèi shén me bǎo liú dé zhè me wán zhěng",
+      "tr": "Ben de sokaktaki eski evlerin neden bu kadar iyi korunduğunu öğrenmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_004",
+      "speaker": "张乐乐",
+      "zh": "我想边听边拍照，不过会先问清楚哪些地方可以拍。",
+      "pinyin": "wǒ xiǎng biān tīng biān pāi zhào bù guò huì xiān wèn qīng chǔ nǎ xiē dì fāng kě yǐ pāi",
+      "tr": "Dinlerken fotoğraf da çekmek istiyorum ama önce nerelerde çekim yapılabildiğini sorarım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_005",
+      "speaker": "导游",
+      "zh": "当然可以。这里以前是商人往来的街区，房子的样子能看出当时的生活和生意。",
+      "pinyin": "dāng rán kě yǐ zhè lǐ yǐ qián shì shāng rén wǎng lái de jiē qū fáng zi de yàng zi néng kàn chū dāng shí de shēng huó hé shēng yì",
+      "tr": "Elbette. Burası eskiden tüccarların gelip geçtiği bir mahalleymiş; evlerin biçimi o zamanki yaşamı ve ticareti gösteriyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_006",
+      "speaker": "张伟",
+      "zh": "我平时出差常常直接去开会，难得有机会慢慢了解一座城。",
+      "pinyin": "wǒ píng shí chū chāi cháng cháng zhí jiē qù kāi huì nán dé yǒu jī huì màn màn liǎo jiě yī zuò chéng",
+      "tr": "İş seyahatlerinde genelde doğrudan toplantıya giderim; bir şehri ağır ağır tanıma fırsatım pek olmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_007",
+      "speaker": "刘梅",
+      "zh": "那我们今天别赶时间，听完讲解再决定要不要去博物馆。",
+      "pinyin": "nà wǒ men jīn tiān bié gǎn shí jiān tīng wán jiǎng jiě zài jué dìng yào bù yào qù bó wù guǎn",
+      "tr": "Öyleyse bugün acele etmeyelim; anlatımı dinledikten sonra müzeye gidip gitmemeye karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_008",
+      "speaker": "张乐乐",
+      "zh": "这条路线有多长？我想知道中间有没有地方可以休息。",
+      "pinyin": "zhè tiáo lù xiàn yǒu duō zhǎng wǒ xiǎng zhī dào zhōng jiān yǒu méi yǒu dì fāng kě yǐ xiū xī",
+      "tr": "Bu rota ne kadar uzun? Arada dinlenebileceğimiz yer var mı bilmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_009",
+      "speaker": "导游",
+      "zh": "大约两公里，中途会经过小广场和一间茶馆。大家可以按自己的速度走。",
+      "pinyin": "dà yuē liǎng gōng lǐ zhōng tú huì jīng guò xiǎo guǎng chǎng hé yī jiān chá guǎn dà jiā kě yǐ àn zì jǐ de sù dù zǒu",
+      "tr": "Yaklaşık iki kilometre; yolda küçük bir meydanla çay evi var. Herkes kendi hızında yürüyebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_010",
+      "speaker": "张伟",
+      "zh": "听起来正合适。孩子如果累了，我们就在广场坐一会儿。",
+      "pinyin": "tīng qǐ lái zhèng hé shì hái zi rú guǒ lèi le wǒ men jiù zài guǎng chǎng zuò yī huì er",
+      "tr": "Kulağa tam uygun geliyor. Çocuk yorulursa meydanda biraz otururuz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_011",
+      "speaker": "刘梅",
+      "zh": "您能先给我们看一下路线图吗？我想把几个停留点记下来。",
+      "pinyin": "nín néng xiān gěi wǒ men kàn yī xià lù xiàn tú ma wǒ xiǎng bǎ jǐ gè tíng liú diǎn jì xià lái",
+      "tr": "Bize önce rota haritasını gösterebilir misiniz? Durakları not etmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_012",
+      "speaker": "张乐乐",
+      "zh": "我可以把路线图拍下来，这样就不必一直跟着手机导航。",
+      "pinyin": "wǒ kě yǐ bǎ lù xiàn tú pāi xià lái zhè yàng jiù bù bì yì zhí gēn zhe shǒu jī dǎo háng",
+      "tr": "Haritanın fotoğrafını çekebilirim; böylece sürekli telefonla yön bulmam gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_013",
+      "speaker": "导游",
+      "zh": "可以拍路线图。进老宅以后有些展品不能拍，我会在入口提醒大家。",
+      "pinyin": "kě yǐ pāi lù xiàn tú jìn lǎo zhái yǐ hòu yǒu xiē zhǎn pǐn bù néng pāi wǒ huì zài rù kǒu tí xǐng dà jiā",
+      "tr": "Rota haritasını çekebilirsiniz. Eski eve girince bazı eserlerin fotoğrafı yasak; girişte hatırlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_014",
+      "speaker": "张伟",
+      "zh": "谢谢说明。我们会尊重当地的规定，也不影响其他游客。",
+      "pinyin": "xiè xiè shuō míng wǒ men huì zūn zhòng dāng dì de guī dìng yě bù yǐng xiǎng qí tā yóu kè",
+      "tr": "Bilgi için teşekkürler. Yerel kurallara uyar, diğer ziyaretçileri rahatsız etmeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_015",
+      "speaker": "刘梅",
+      "zh": "讲解时如果我没听清，可以随时问吗？",
+      "pinyin": "jiǎng jiě shí rú guǒ wǒ méi tīng qīng kě yǐ suí shí wèn ma",
+      "tr": "Anlatım sırasında duyamadığım bir şey olursa sorabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_016",
+      "speaker": "张乐乐",
+      "zh": "我也想问问题，不过会等您讲完一段再开口。",
+      "pinyin": "wǒ yě xiǎng wèn wèn tí bù guò huì děng nín jiǎng wán yī duàn zài kāi kǒu",
+      "tr": "Ben de soru sormak istiyorum ama bir bölüm bitince konuşurum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_017",
+      "speaker": "导游",
+      "zh": "当然，欢迎提问。与其赶着看很多景点，不如选几处慢慢了解。",
+      "pinyin": "dāng rán huān yíng tí wèn yǔ qí gǎn zhe kàn hěn duō jǐng diǎn bù rú xuǎn jǐ chù màn màn liǎo jiě",
+      "tr": "Elbette, soru sorabilirsiniz. Çok yere yetişmeye çalışmaktansa birkaç yeri ağır ağır tanımak daha iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_018",
+      "speaker": "张伟",
+      "zh": "我赞成。今天没有特别紧的安排，我们可以多留一点时间。",
+      "pinyin": "wǒ zàn chéng jīn tiān méi yǒu tè bié jǐn de ān pái wǒ men kě yǐ duō liú yì diǎn shí jiān",
+      "tr": "Katılıyorum. Bugün sıkışık bir planımız yok; biraz daha zaman ayırabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_019",
+      "speaker": "刘梅",
+      "zh": "那我们先从老街开始，走到有历史介绍的那座桥再停下来听。",
+      "pinyin": "nà wǒ men xiān cóng lǎo jiē kāi shǐ zǒu dào yǒu lì shǐ jiè shào de nà zuò qiáo zài tíng xià lái tīng",
+      "tr": "Öyleyse eski sokaktan başlayalım; tarihi anlatılan köprüye varınca durup dinleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_020",
+      "speaker": "张乐乐",
+      "zh": "好，我把相机准备好，也先把水放进背包。",
+      "pinyin": "hǎo wǒ bǎ xiàng jī zhǔn bèi hǎo yě xiān bǎ shuǐ fàng jìn bēi bāo",
+      "tr": "Olur, kameramı hazırlar, suyu da sırt çantama koyarım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_021",
+      "speaker": "导游",
+      "zh": "大家看这排房子的门面不完全一样，有些是后来修过的，细节还保留着。",
+      "pinyin": "dà jiā kàn zhè pái fáng zi de mén miàn bù wán quán yī yàng yǒu xiē shì hòu lái xiū guò de xì jié hái bǎo liú zhe",
+      "tr": "Şu evlerin cephelerinin aynı olmadığını görüyorsunuz; bazıları sonradan onarılmış ama ayrıntılar korunmuş."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_022",
+      "speaker": "张伟",
+      "zh": "门口上方那个木牌以前是店名吗？",
+      "pinyin": "mén kǒu shàng fāng nà ge mù pái yǐ qián shì diàn míng ma",
+      "tr": "Kapının üstündeki ahşap levha eskiden dükkânın adı mıydı?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_023",
+      "speaker": "刘梅",
+      "zh": "旁边的窗子也很特别，和我们现在住的房子不一样。",
+      "pinyin": "páng biān de chuāng zi yě hěn tè bié hé wǒ men xiàn zài zhù de fáng zi bù yí yàng",
+      "tr": "Yanındaki pencere de özel; bugün yaşadığımız evlerden farklı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_024",
+      "speaker": "张乐乐",
+      "zh": "我能拍这块木牌吗？上面有字，我想回去查查它的意思。",
+      "pinyin": "wǒ néng pāi zhè kuài mù pái ma shàng miàn yǒu zì wǒ xiǎng huí qù zhā zhā tā de yì si",
+      "tr": "Bu ahşap levhanın fotoğrafını çekebilir miyim? Üzerinde yazı var; anlamını sonra araştırmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_025",
+      "speaker": "导游",
+      "zh": "可以拍外面的木牌，但请不要碰它。里面的展品要先看说明牌。",
+      "pinyin": "kě yǐ pāi wài miàn de mù pái dàn qǐng bú yào pèng tā lǐ miàn de zhǎn pǐn yào xiān kàn shuō míng pái",
+      "tr": "Dışarıdaki levhayı çekebilirsiniz ama dokunmayın. İçerideki sergiler için açıklama tabelasını kontrol edin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_026",
+      "speaker": "张伟",
+      "zh": "以前这里主要卖什么？看起来每间铺子的大小差不多。",
+      "pinyin": "yǐ qián zhè lǐ zhǔ yào mài shén me kàn qǐ lái měi jiān pù zi de dà xiǎo chà bu duō",
+      "tr": "Burada eskiden en çok ne satılırmış? Dükkânların boyutu birbirine benziyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_027",
+      "speaker": "刘梅",
+      "zh": "如果是商人聚集的地方，应该也有人从远处来买东西吧？",
+      "pinyin": "rú guǒ shì shāng rén jù jí de dì fāng yīng gāi yě yǒu rén cóng yuǎn chù lái mǎi dōng xī ba",
+      "tr": "Tüccarların toplandığı bir yerse uzaktan alışverişe gelenler de olmuştur, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_028",
+      "speaker": "张乐乐",
+      "zh": "墙上的图画里有船，附近以前有河运吗？",
+      "pinyin": "qiáng shàng de tú huà lǐ yǒu chuán fù jìn yǐ qián yǒu hé yùn ma",
+      "tr": "Duvardaki resimde gemi var; eskiden yakınlarda nehir taşımacılığı mı yapılırmış?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_029",
+      "speaker": "导游",
+      "zh": "对，河道离这里不远。货物先在码头卸下，再送到街上的店铺。",
+      "pinyin": "duì hé dào lí zhè lǐ bù yuǎn huò wù xiān zài mǎ tóu xiè xià zài sòng dào jiē shàng de diàn pù",
+      "tr": "Evet, nehir buraya yakın. Mallar önce iskelede indirilip sonra sokaktaki dükkânlara taşınırmış."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_030",
+      "speaker": "张伟",
+      "zh": "这样一来，这条街的历史就和当地人的工作联系起来了。",
+      "pinyin": "zhè yàng yī lái zhè tiáo jiē de lì shǐ jiù hé dāng dì rén de gōng zuò lián xì qǐ lái le",
+      "tr": "Böylece bu sokağın tarihi yerel halkın işiyle bağlantılı oluyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_031",
+      "speaker": "刘梅",
+      "zh": "我喜欢从日常生活来了解文化，比只记年代更容易记住。",
+      "pinyin": "wǒ xǐ huān cóng rì cháng shēng huó lái liǎo jiě wén huà bǐ zhǐ jì nián dài gèng róng yì jì zhù",
+      "tr": "Kültürü günlük yaşam üzerinden öğrenmeyi seviyorum; yalnızca tarihleri ezberlemekten daha akılda kalıcı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_032",
+      "speaker": "张乐乐",
+      "zh": "导游姐姐，您刚才说的码头在哪里？现在还能看到吗？",
+      "pinyin": "dǎo yóu jiě jiě nín gāng cái shuō de mǎ tóu zài nǎ lǐ xiàn zài hái néng kàn dào ma",
+      "tr": "Rehber abla, sözünü ettiğiniz iskele nerede? Bugün hâlâ görülebiliyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_033",
+      "speaker": "导游",
+      "zh": "旧码头已经改成步道了，沿河走一小段就能到。",
+      "pinyin": "jiù mǎ tóu yǐ jīng gǎi chéng bù dào le yán hé zǒu yī xiǎo duàn jiù néng dào",
+      "tr": "Eski iskele yürüyüş yoluna dönüştürüldü; nehir boyunca kısa bir yürüyüşle ulaşılır."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_034",
+      "speaker": "张伟",
+      "zh": "我们走完这条街以后去看看吧，应该能把地图上的位置对应起来。",
+      "pinyin": "wǒ men zǒu wán zhè tiáo jiē yǐ hòu qù kàn kàn ba yīng gāi néng bǎ dì tú shàng de wèi zhì duì yìng qǐ lái",
+      "tr": "Bu sokağı bitirince oraya da bakalım; haritadaki yeri gözümüzde canlandırırız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_035",
+      "speaker": "刘梅",
+      "zh": "好，不过先听完这里的介绍，免得来回走。",
+      "pinyin": "hǎo bù guò xiān tīng wán zhè lǐ de jiè shào miǎn de lái huí zǒu",
+      "tr": "Olur, ama gereksiz yere gidip gelmemek için önce buradaki anlatımı dinleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_036",
+      "speaker": "张乐乐",
+      "zh": "这块说明牌写得很清楚，我能自己读懂大部分内容。",
+      "pinyin": "zhè kuài shuō míng pái xiě dé hěn qīng chǔ wǒ néng zì jǐ dú dǒng dà bù fèn nèi róng",
+      "tr": "Bu bilgilendirme levhası açık yazılmış; çoğunu kendim anlayabiliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_037",
+      "speaker": "导游",
+      "zh": "你们可以慢慢看。有不懂的词就问我，我也能补充一些当地人的故事。",
+      "pinyin": "nǐ men kě yǐ màn màn kàn yǒu bù dǒng de cí jiù wèn wǒ wǒ yě néng bǔ chōng yī xiē dāng dì rén de gù shì",
+      "tr": "Ağır ağır okuyabilirsiniz. Anlamadığınız kelime olursa sorun; yerel halkın hikâyelerini de ekleyebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_038",
+      "speaker": "张伟",
+      "zh": "这些故事是从当地居民那里听来的吗？",
+      "pinyin": "zhè xiē gù shì shì cóng dāng dì jū mín nà lǐ tīng lái de ma",
+      "tr": "Bu hikâyeleri yerel sakinlerden mi dinlediniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_039",
+      "speaker": "刘梅",
+      "zh": "我想知道居民现在还会不会在节日里用这些老习惯。",
+      "pinyin": "wǒ xiǎng zhī dào jū mín xiàn zài hái huì bú huì zài jié rì lǐ yòng zhè xiē lǎo xí guàn",
+      "tr": "Sakinlerin bu eski gelenekleri bugün bayramlarda hâlâ sürdürüp sürdürmediğini merak ediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_040",
+      "speaker": "张乐乐",
+      "zh": "要是能听到他们自己的讲法，可能更能感受到这里的文化。",
+      "pinyin": "yào shì néng tīng dào tā men zì jǐ de jiǎng fǎ kě néng gèng néng gǎn shòu dào zhè lǐ de wén huà",
+      "tr": "Kendi anlatımlarını duyarsak buranın kültürünü daha iyi hissedebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_041",
+      "speaker": "导游",
+      "zh": "前面的小院里有一间社区展室，展品是居民捐出来的，开放时间要看门口通知。",
+      "pinyin": "qián miàn de xiǎo yuàn lǐ yǒu yī jiān shè qū zhǎn shì zhǎn pǐn shì jū mín juān chū lái de kāi fàng shí jiān yào kān mén kǒu tōng zhī",
+      "tr": "Öndeki avluda bir mahalle sergi odası var; eserleri sakinler bağışlamış. Açılış saatini kapıdaki duyurudan kontrol edin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_042",
+      "speaker": "张伟",
+      "zh": "我们今天的时间够吗？如果赶不上，就留到下次再来。",
+      "pinyin": "wǒ men jīn tiān de shí jiān gòu ma rú guǒ gǎn bù shàng jiù liú dào xià cì zài lái",
+      "tr": "Bugün vaktimiz yeter mi? Yetişmezse sonraki gelişimize bırakırız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_043",
+      "speaker": "刘梅",
+      "zh": "我看牌子写着中午休息，我们现在过去应该来得及。",
+      "pinyin": "wǒ kàn pái zi xiě zhe zhōng wǔ xiū xī wǒ men xiàn zài guò qù yīng gāi lái de jí",
+      "tr": "Tabelada öğlen ara verildiği yazıyor; şimdi gidersek yetişebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_044",
+      "speaker": "张乐乐",
+      "zh": "里面可以拍照吗？我会先看清楚规则再拿相机。",
+      "pinyin": "lǐ miàn kě yǐ pāi zhào ma wǒ huì xiān kàn qīng chǔ guī zé zài ná xiàng jī",
+      "tr": "İçeride fotoğraf çekilebilir mi? Kamerayı çıkarmadan önce kuralları okurum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_045",
+      "speaker": "导游",
+      "zh": "有些居民捐赠的照片不能拍，其他区域可以。我进门时再指给你们看。",
+      "pinyin": "yǒu xiē jū mín juān zèng de zhào piān bù néng pāi qí tā qū yù kě yǐ wǒ jìn mén shí zài zhǐ gěi nǐ men kàn",
+      "tr": "Sakinlerin bağışladığı bazı fotoğraflar çekilemez, diğer alanlarda çekebilirsiniz. Girince göstereceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_046",
+      "speaker": "张伟",
+      "zh": "展室里如果有人正在参观，我们就先不拍，别影响游客。",
+      "pinyin": "zhǎn shì lǐ rú guǒ yǒu rén zhèng zài cān guān wǒ men jiù xiān bù pāi bié yǐng xiǎng yóu kè",
+      "tr": "Sergi odasında ziyaretçiler varsa fotoğraf çekmeyelim; onları rahatsız etmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_047",
+      "speaker": "刘梅",
+      "zh": "我更想听居民的故事，照片可以回头看介绍册。",
+      "pinyin": "wǒ gèng xiǎng tīng jū mín de gù shì zhào piān kě yǐ huí tóu kàn jiè shào cè",
+      "tr": "Ben sakinlerin hikâyelerini dinlemeyi tercih ederim; fotoğraflara broşürden sonra bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_048",
+      "speaker": "张乐乐",
+      "zh": "好，我把相机收起来，先认真听。",
+      "pinyin": "hǎo wǒ bǎ xiàng jī shōu qǐ lái xiān rèn zhēn tīng",
+      "tr": "Tamam, kamerayı kaldırıp önce dikkatle dinleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_049",
+      "speaker": "导游",
+      "zh": "这张旧照片是附近几家店的店主一起拍的，后来有人把它交给社区保存。",
+      "pinyin": "zhè zhāng jiù zhào piān shì fù jìn jǐ jiā diàn de diàn zhǔ yì qǐ pāi de hòu lái yǒu rén bǎ tā jiāo gěi shè qū bǎo cún",
+      "tr": "Bu eski fotoğraf, yakındaki birkaç dükkân sahibinin birlikte çekildiği bir kare. Sonradan biri topluluğun saklaması için vermiş."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_050",
+      "speaker": "张伟",
+      "zh": "他们当时站的地方就是我们刚走过的街口吗？",
+      "pinyin": "tā men dāng shí zhàn de dì fāng jiù shì wǒ men gāng zǒu guò de jiē kǒu ma",
+      "tr": "Durdukları yer az önce geçtiğimiz sokak girişi mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_051",
+      "speaker": "刘梅",
+      "zh": "从后面的屋顶看起来很像。以前店铺门口应该比现在热闹。",
+      "pinyin": "cóng hòu miàn de wū dǐng kàn qǐ lái hěn xiàng yǐ qián diàn pù mén kǒu yīng gāi bǐ xiàn zài rè nào",
+      "tr": "Arkadaki çatılara bakılırsa benziyor. Eskiden dükkân önleri şimdikinden daha canlı olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_052",
+      "speaker": "张乐乐",
+      "zh": "我想把这段讲解记下来，回去以后再查查照片里的年代。",
+      "pinyin": "wǒ xiǎng bǎ zhè duàn jiǎng jiě jì xià lái huí qù yǐ hòu zài zhā zhā zhào piān lǐ de nián dài",
+      "tr": "Bu anlatımı not edip dönünce fotoğrafın dönemini araştırmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_053",
+      "speaker": "导游",
+      "zh": "说明牌上有大概年代，但不确定的地方我会特别说清楚，不会把猜测当成事实。",
+      "pinyin": "shuō míng pái shàng yǒu dà gài nián dài dàn bù què dìng de dì fāng wǒ huì tè bié shuō qīng chǔ bú huì bǎ cāi cè dàng chéng shì shí",
+      "tr": "Tabelada yaklaşık dönem yazıyor; emin olmadığım yeri belirtirim, tahmini gerçekmiş gibi sunmam."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_054",
+      "speaker": "张伟",
+      "zh": "谢谢，这样我们知道哪些是有记录的，哪些只是推测。",
+      "pinyin": "xiè xiè zhè yàng wǒ men zhī dào nǎ xiē shì yǒu jì lù de nǎ xiē zhǐ shì tuī cè",
+      "tr": "Teşekkürler; böylece kayda geçmiş olanla tahmini ayırt ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_055",
+      "speaker": "刘梅",
+      "zh": "当地历史听起来很丰富。除了老街，还有什么地方能继续了解？",
+      "pinyin": "dāng dì lì shǐ tīng qǐ lái hěn fēng fù chú le lǎo jiē hái yǒu shén me dì fāng néng jì xù liǎo jiě",
+      "tr": "Yerel tarih zengin görünüyor. Eski sokak dışında nerede öğrenmeye devam edebiliriz?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_056",
+      "speaker": "张乐乐",
+      "zh": "我想去河边那条步道，看看以前的码头现在变成什么样了。",
+      "pinyin": "wǒ xiǎng qù hé biān nà tiáo bù dào kàn kàn yǐ qián de mǎ tóu xiàn zài biàn chéng shén me yàng le",
+      "tr": "Nehir kıyısındaki yürüyüş yoluna gidip eski iskelenin şimdi nasıl olduğuna bakmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_057",
+      "speaker": "导游",
+      "zh": "可以，步道就在前面。今天团队参观到这里结束，你们可以自由选择接下来去哪儿。",
+      "pinyin": "kě yǐ bù dào jiù zài qián miàn jīn tiān tuán duì cān guān dào zhè lǐ jié shù nǐ men kě yǐ zì yóu xuǎn zé jiē xià lái qù nǎ ér",
+      "tr": "Olur, yürüyüş yolu ileride. Bugünkü rehberli tur burada bitiyor; sonrasında nereye gideceğinizi seçebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_058",
+      "speaker": "张伟",
+      "zh": "我们先沿河走一段，再看要不要去展室，不用把每个地方都赶完。",
+      "pinyin": "wǒ men xiān yán hé zǒu yī duàn zài kàn yào bù yào qù zhǎn shì bù yòng bǎ měi gè dì fāng dōu gǎn wán",
+      "tr": "Önce nehir boyunca biraz yürüyüp sonra sergi odasına gidip gitmemeye bakalım; her yeri yetiştirmek zorunda değiliz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_059",
+      "speaker": "刘梅",
+      "zh": "我同意。走累了就在茶馆休息，顺便尝尝当地的点心。",
+      "pinyin": "wǒ tóng yì zǒu lèi le jiù zài chá guǎn xiū xī shùn biàn cháng cháng dāng dì de diǎn xīn",
+      "tr": "Katılıyorum. Yorulursak çay evinde dinlenip yerel atıştırmalıkları deneriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_060",
+      "speaker": "张乐乐",
+      "zh": "那我先把路线图拍下来，河边散步时再拍风景。",
+      "pinyin": "nà wǒ xiān bǎ lù xiàn tú pāi xià lái hé biān sàn bù shí zài pāi fēng jǐng",
+      "tr": "Önce haritanın fotoğrafını çekeyim; nehirde yürürken manzarayı çekerim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_061",
+      "speaker": "导游",
+      "zh": "河边步道的说明牌介绍了码头变化，想了解更多可以扫码看社区资料。",
+      "pinyin": "hé biān bù dào de shuō míng pái jiè shào le mǎ tóu biàn huà xiǎng liǎo jiě gèng duō kě yǐ sǎo mǎ kàn shè qū zī liào",
+      "tr": "Nehir yürüyüş yolundaki tabela iskelenin değişimini anlatıyor; daha fazlası için mahalle kaynaklarına bakabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_062",
+      "speaker": "张伟",
+      "zh": "我扫一下，页面里有老街和码头的时间线，回去也能慢慢读。",
+      "pinyin": "wǒ sǎo yī xià yè miàn lǐ yǒu lǎo jiē hé mǎ tóu de shí jiān xiàn huí qù yě néng màn màn dú",
+      "tr": "Kodu tarayayım; sayfada eski sokakla iskele zaman çizelgesi var, eve dönünce okurum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_063",
+      "speaker": "刘梅",
+      "zh": "这条路很安静，和刚才街上的感觉完全不同。",
+      "pinyin": "zhè tiáo lù hěn ān jìng hé gāng cái jiē shàng de gǎn jué wán quán bù tóng",
+      "tr": "Bu yol çok sakin; az önceki sokaktan tamamen farklı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_064",
+      "speaker": "张乐乐",
+      "zh": "我拍一张河面和旧桥的照片，留作今天的记录。",
+      "pinyin": "wǒ pāi yī zhāng hé miàn hé jiù qiáo de zhào piān liú zuò jīn tiān de jì lù",
+      "tr": "Nehirle eski köprünün bir fotoğrafını çekip bugünden hatıra saklayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_065",
+      "speaker": "导游",
+      "zh": "拍照时注意别挡住步道，也别把不愿入镜的游客拍进去。",
+      "pinyin": "pāi zhào shí zhù yì bié dǎng zhù bù dào yě bié bǎ bù yuàn rù jìng de yóu kè pāi jìn qù",
+      "tr": "Fotoğraf çekerken yolu kapatmayın, fotoğrafa girmek istemeyen ziyaretçileri de çekmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_066",
+      "speaker": "张伟",
+      "zh": "知道了。我站到边上拍，不影响别人走路。",
+      "pinyin": "zhī dào le wǒ zhàn dào biān shàng pāi bù yǐng xiǎng bié rén zǒu lù",
+      "tr": "Anladım. Kenara geçip çeker, başkalarının yürümesini engellemem."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_067",
+      "speaker": "刘梅",
+      "zh": "河边的介绍牌还提到当地节日。我们正好可以问问导游具体怎么庆祝。",
+      "pinyin": "hé biān de jiè shào pái hái tí dào dāng dì jié rì wǒ men zhèng hǎo kě yǐ wèn wèn dǎo yóu jù tǐ zěn me qìng zhù",
+      "tr": "Nehir kenarındaki tabela yerel bayramdan da söz ediyor. Rehbere kutlamaları sorabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_068",
+      "speaker": "张乐乐",
+      "zh": "导游姐姐，节日活动现在还在这条街举行吗？",
+      "pinyin": "dǎo yóu jiě jiě jié rì huó dòng xiàn zài hái zài zhè tiáo jiē jǔ xíng ma",
+      "tr": "Rehber abla, bayram etkinliği hâlâ bu sokakta mı düzenleniyor?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_069",
+      "speaker": "导游",
+      "zh": "有些活动还在老街办，有些已经移到广场，时间每年会提前公布。",
+      "pinyin": "yǒu xiē huó dòng hái zài lǎo jiē bàn yǒu xiē yǐ jīng yí dào guǎng chǎng shí jiān měi nián huì tí qián gōng bù",
+      "tr": "Bazı etkinlikler eski sokakta sürüyor, bazıları meydana taşındı. Tarihler her yıl önceden duyuruluyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_070",
+      "speaker": "张伟",
+      "zh": "如果以后赶上节日，我们可以再来参加，今天先把沿河路线走完。",
+      "pinyin": "rú guǒ yǐ hòu gǎn shàng jié rì wǒ men kě yǐ zài lái cān jiā jīn tiān xiān bǎ yán hé lù xiàn zǒu wán",
+      "tr": "Bir dahaki gelişimiz bayrama denk gelirse katılırız; bugün nehir rotasını tamamlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_071",
+      "speaker": "刘梅",
+      "zh": "我想买一点当地茶叶带回去，附近有没有可信的店？",
+      "pinyin": "wǒ xiǎng mǎi yì diǎn dāng dì chá yè dài huí qù fù jìn yǒu méi yǒu kě xìn de diàn",
+      "tr": "Eve götürmek için yerel çay almak istiyorum; yakında güvenilir bir dükkân var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_072",
+      "speaker": "张乐乐",
+      "zh": "我也想找些小吃尝尝，不过先问问有没有适合带走的。",
+      "pinyin": "wǒ yě xiǎng zhǎo xiē xiǎo chī cháng cháng bù guò xiān wèn wèn yǒu méi yǒu shì hé dài zǒu de",
+      "tr": "Ben de atıştırmalık denemek istiyorum; önce paket yaptırılabilecek bir şey var mı sorayım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_073",
+      "speaker": "导游",
+      "zh": "老街入口有几家经营很久的店。我可以告诉你们方向，但买不买由你们自己选择。",
+      "pinyin": "lǎo jiē rù kǒu yǒu jǐ jiā jīng yíng hěn jiǔ de diàn wǒ kě yǐ gào sù nǐ men fāng xiàng dàn mǎi bù mǎi yóu nǐ men zì jǐ xuǎn zé",
+      "tr": "Eski sokağın girişinde uzun süredir çalışan birkaç dükkân var. Yönünü tarif ederim; alıp almamak size kalmış."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_074",
+      "speaker": "张伟",
+      "zh": "谢谢，我们先走过去看看价格和种类，不急着买。",
+      "pinyin": "xiè xiè wǒ men xiān zǒu guò qù kàn kàn jià gé hé zhǒng lèi bù jí zhe mǎi",
+      "tr": "Teşekkürler; önce gidip fiyatlara ve çeşitlere bakalım, acele etmeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_075",
+      "speaker": "刘梅",
+      "zh": "今天的讲解让我更了解当地文化，也知道老建筑为什么值得保留。",
+      "pinyin": "jīn tiān de jiǎng jiě ràng wǒ gèng liǎo jiě dāng dì wén huà yě zhī dào lǎo jiàn zhù wèi shén me zhí de bǎo liú",
+      "tr": "Bugünkü anlatım yerel kültürü anlamama ve eski yapıların neden korunmaya değer olduğunu görmeme yardım etti."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_076",
+      "speaker": "张乐乐",
+      "zh": "我喜欢听居民和商人的故事，比只看照片更容易想象以前的生活。",
+      "pinyin": "wǒ xǐ huān tīng jū mín hé shāng rén de gù shì bǐ zhǐ kàn zhào piān gèng róng yì xiǎng xiàng yǐ qián de shēng huó",
+      "tr": "Sakinlerin ve tüccarların hikâyelerini dinlemek hoşuma gitti; eski yaşamı fotoğrafa bakmaktan daha iyi hayal ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_077",
+      "speaker": "导游",
+      "zh": "很高兴你们喜欢。游客愿意认真了解，也能帮助社区把这些故事继续讲下去。",
+      "pinyin": "hěn gāo xìng nǐ men xǐ huān yóu kè yuàn yì rèn zhēn liǎo jiě yě néng bāng zhù shè qū bǎ zhè xiē gù shì jì xù jiǎng xià qù",
+      "tr": "Beğenmenize sevindim. Ziyaretçiler özenle öğrenmeye istekli olunca mahalle bu hikâyeleri aktarmayı sürdürebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_078",
+      "speaker": "张伟",
+      "zh": "下次我出差经过这里，也会带同事来走一走，不只在酒店和办公室之间来回。",
+      "pinyin": "xià cì wǒ chū chāi jīng guò zhè lǐ yě huì dài tóng shì lái zǒu yī zǒu bù zhǐ zài jiǔ diàn hé bàn gōng shì zhī jiān lái huí",
+      "tr": "Bir dahaki iş seyahatimde buradan geçersem iş arkadaşlarımı da getiririm; yalnızca otelle ofis arasında gidip gelmem."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_079",
+      "speaker": "刘梅",
+      "zh": "不过今天先按自己的节奏逛完，晚上回去再整理照片和笔记。",
+      "pinyin": "bù guò jīn tiān xiān àn zì jǐ de jié zòu guàng wán wǎn shàng huí qù zài zhěng lǐ zhào piān hé bǐ jì",
+      "tr": "Ama bugün kendi hızımızda gezelim; akşam dönünce fotoğrafları ve notları düzenleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_080",
+      "speaker": "张乐乐",
+      "zh": "我把路线图和说明牌的照片分开放好了，回去找资料更方便。",
+      "pinyin": "wǒ bǎ lù xiàn tú hé shuō míng pái de zhào piān fēn kāi fàng hǎo le huí qù zhǎo zī liào gèng fāng biàn",
+      "tr": "Haritayla açıklama tabelalarının fotoğraflarını ayrı klasöre koydum; sonra kaynak bulmak kolay olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_081",
+      "speaker": "导游",
+      "zh": "前面就是茶馆和老街入口。今天的参观到这里结束，祝你们接下来玩得愉快。",
+      "pinyin": "qián miàn jiù shì chá guǎn hé lǎo jiē rù kǒu jīn tiān de cān guān dào zhè lǐ jié shù zhù nǐ men jiē xià lái wán dé yú kuài",
+      "tr": "İleride çay evi ve eski sokağın girişi var. Bugünkü tur burada bitiyor; iyi gezmeler."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_082",
+      "speaker": "张伟",
+      "zh": "谢谢你的介绍。我们一路上问了不少问题，辛苦你了。",
+      "pinyin": "xiè xiè nǐ de jiè shào wǒ men yī lù shàng wèn le bù shǎo wèn tí xīn kǔ nǐ le",
+      "tr": "Anlatımın için teşekkürler. Yol boyunca çok soru sorduk, zahmet oldu."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_083",
+      "speaker": "刘梅",
+      "zh": "谢谢你让我们按自己的兴趣选择路线，没有催着大家赶景点。",
+      "pinyin": "xiè xiè nǐ ràng wǒ men àn zì jǐ de xìng qù xuǎn zé lù xiàn méi yǒu cuī zhe dà jiā gǎn jǐng diǎn",
+      "tr": "İlgi alanımıza göre rota seçmemize izin verip bizi gezilecek yerlere yetiştirmediğin için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_084",
+      "speaker": "张乐乐",
+      "zh": "我也很开心。今天拍到的照片会提醒我以后继续了解这里的历史。",
+      "pinyin": "wǒ yě hěn kāi xīn jīn tiān pāi dào de zhào piān huì tí xǐng wǒ yǐ hòu jì xù liǎo jiě zhè lǐ de lì shǐ",
+      "tr": "Ben de çok memnun kaldım. Bugün çektiğim fotoğraflar buranın tarihini öğrenmeye devam etmemi hatırlatacak."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_085",
+      "speaker": "导游",
+      "zh": "不客气。社区展室的开放时间可能变化，出发前最好看一下门口公告。",
+      "pinyin": "bú kè qì shè qū zhǎn shì de kāi fàng shí jiān kě néng biàn huà chū fā qián zuì hǎo kàn yī xià mén kǒu gōng gào",
+      "tr": "Rica ederim. Mahalle sergi odasının saatleri değişebilir; gitmeden önce duyuruyu kontrol edin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_086",
+      "speaker": "张伟",
+      "zh": "我们把这个提醒记下来，也把路线发给家人，免得他们找不到。",
+      "pinyin": "wǒ men bǎ zhè ge tí xǐng jì xià lái yě bǎ lù xiàn fā gěi jiā rén miǎn de tā men zhǎo bú dào",
+      "tr": "Bu hatırlatmayı not edip rotayı aileye gönderelim; bizi bulamazlık etmesinler."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_087",
+      "speaker": "刘梅",
+      "zh": "我先给家里发个消息，说我们准备去茶馆休息。",
+      "pinyin": "wǒ xiān gěi jiā lǐ fā gè xiāo xī shuō wǒ men zhǔn bèi qù chá guǎn xiū xī",
+      "tr": "Önce eve mesaj atıp çay evinde dinleneceğimizi söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_088",
+      "speaker": "张乐乐",
+      "zh": "那我收好相机和水，跟你们一起去老街入口。",
+      "pinyin": "nà wǒ shōu hǎo xiàng jī hé shuǐ gēn nǐ men yì qǐ qù lǎo jiē rù kǒu",
+      "tr": "Kameramla suyu toplayıp sizinle eski sokağın girişine geliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_089",
+      "speaker": "导游",
+      "zh": "祝你们旅途愉快，有机会再来慢慢看看其他地方。",
+      "pinyin": "zhù nǐ men lǚ tú yú kuài yǒu jī huì zài lái màn màn kàn kàn qí tā dì fāng",
+      "tr": "İyi yolculuklar; fırsatınız olursa diğer yerleri de ağır ağır keşfetmek için yine gelin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_090",
+      "speaker": "张伟",
+      "zh": "我们会的。今天了解当地历史以后，这座城市对我来说更具体了。",
+      "pinyin": "wǒ men huì de jīn tiān liǎo jiě dāng dì lì shǐ yǐ hòu zhè zuò chéng shì duì wǒ lái shuō gèng jù tǐ le",
+      "tr": "Yine geliriz. Yerel tarihi öğrenince bu şehir benim için daha anlamlı oldu."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_091",
+      "speaker": "刘梅",
+      "zh": "我也会记住这次参观。回去后想把今天的故事讲给朋友听。",
+      "pinyin": "wǒ yě huì jì zhù zhè cì cān guān huí qù hòu xiǎng bǎ jīn tiān de gù shì jiǎng gěi péng yǒu tīng",
+      "tr": "Ben de bu turu hatırlayacağım. Eve dönünce bugünkü hikâyeleri arkadaşlarıma anlatmak isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_092",
+      "speaker": "张乐乐",
+      "zh": "我最喜欢河边那段，安静又能看到老桥。",
+      "pinyin": "wǒ zuì xǐ huān hé biān nà duàn ān jìng yòu néng kàn dào lǎo qiáo",
+      "tr": "En çok nehir kıyısını sevdim; sakindi ve eski köprü görünüyordu."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_093",
+      "speaker": "导游",
+      "zh": "那里平时也很适合散步。请沿着步道走，注意看路上的提示。",
+      "pinyin": "nà lǐ píng shí yě hěn shì hé sàn bù qǐng yán zhe bù dào zǒu zhù yì kàn lù shàng de tí shì",
+      "tr": "Orası normalde de yürüyüş için güzel. Yürüyüş yolunda kalıp tabelalara dikkat edin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_094",
+      "speaker": "张伟",
+      "zh": "好的，我们会留意。再见，谢谢你今天带路。",
+      "pinyin": "hǎo de wǒ men huì liú yì zài jiàn xiè xiè nǐ jīn tiān dài lù",
+      "tr": "Peki, dikkat ederiz. Hoşça kalın, bugün bize rehberlik ettiğiniz için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_095",
+      "speaker": "刘梅",
+      "zh": "再见，祝你工作顺利。",
+      "pinyin": "zài jiàn zhù nǐ gōng zuò shùn lì",
+      "tr": "Hoşça kalın, işiniz rast gitsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_096",
+      "speaker": "张乐乐",
+      "zh": "再见！我回去会把照片挑几张发给家人看。",
+      "pinyin": "zài jiàn wǒ huí qù huì bǎ zhào piān tiāo jǐ zhāng fā gěi jiā rén kàn",
+      "tr": "Hoşça kalın! Eve dönünce birkaç fotoğraf seçip aileme gösteririm."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_097",
+      "speaker": "导游",
+      "zh": "谢谢，欢迎再来。希望你们这次旅行留下了愉快的回忆。",
+      "pinyin": "xiè xiè huān yíng zài lái xī wàng nǐ men zhè cì lǚ xíng liú xià le yú kuài de huí yì",
+      "tr": "Teşekkürler, yine bekleriz. Umarım bu yolculuktan güzel anılarla dönersiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_098",
+      "speaker": "张伟",
+      "zh": "今天我们不但看了老街，而且听懂了它和当地生活的联系。",
+      "pinyin": "jīn tiān wǒ men bù dàn kàn le lǎo jiē ér qiě tīng dǒng le tā hé dāng dì shēng huó de lián xì",
+      "tr": "Bugün yalnızca eski sokağı görmekle kalmadık, yerel yaşamla bağını da öğrendik."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_099",
+      "speaker": "刘梅",
+      "zh": "而且大家都能选自己感兴趣的部分，行程一点也不赶。",
+      "pinyin": "ér qiě dà jiā dōu néng xuǎn zì jǐ gǎn xìng qù de bù fèn xíng chéng yì diǎn yě bù gǎn",
+      "tr": "Üstelik herkes ilgisini çeken kısmı seçebildi; gezi hiç aceleye gelmedi."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC029_100",
+      "speaker": "张乐乐",
+      "zh": "下次我还想来，听听其他地方的故事。",
+      "pinyin": "xià cì wǒ hái xiǎng lái tīng tīng qí tā dì fāng de gù shì",
+      "tr": "Bir dahaki sefere başka yerlerin hikâyelerini dinlemek için yine gelmek istiyorum."
+    }
+  ]
+}

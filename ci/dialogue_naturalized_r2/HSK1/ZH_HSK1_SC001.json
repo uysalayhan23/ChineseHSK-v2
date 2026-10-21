@@ -1,0 +1,752 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK1_SC001",
+  "level": "HSK1",
+  "sourceTitleZh": "搬家的最后几个箱子",
+  "sourceTitleTr": "Son Kutular",
+  "sourceMiniAdventureTr": "Nakliye ekibi erken gelir; kutular karışır ve aile son eşyaları düzenler.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK1_SC001_001",
+      "speaker": "张伟",
+      "zh": "王师傅，您来得真早。",
+      "pinyin": "Wáng shī fu, nín lái de zhēn zǎo.",
+      "tr": "Wang usta, ne erken geldiniz.",
+      "emotion": "happy",
+      "actionTr": "Nakliye yardımcısını gülümseyerek karşılar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_002",
+      "speaker": "刘梅",
+      "zh": "还有几个箱子没好。",
+      "pinyin": "Hái yǒu jǐ gè xiāng zi méi hǎo.",
+      "tr": "Birkaç kutu daha hazır değil."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_003",
+      "speaker": "张雨桐",
+      "zh": "妈妈，我来帮你。",
+      "pinyin": "Mā ma, wǒ lái bāng nǐ.",
+      "tr": "Anne, sana yardım edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_004",
+      "speaker": "张乐乐",
+      "zh": "我也来！箱子在哪儿？",
+      "pinyin": "Wǒ yě lái! xiāng zi zài nǎr?",
+      "tr": "Ben de! Kutular nerede?",
+      "emotion": "happy",
+      "actionTr": "Yardım etmek için elini kaldırır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_005",
+      "speaker": "王师傅",
+      "zh": "在这里，先看这个吧。",
+      "pinyin": "Zài zhè lǐ, xiān kàn zhè ge ba.",
+      "tr": "Burada, önce buna bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_006",
+      "speaker": "张伟",
+      "zh": "这是厨房的箱子。",
+      "pinyin": "Zhè shì chú fáng de xiāng zi.",
+      "tr": "Bu mutfağın kutusu."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_007",
+      "speaker": "刘梅",
+      "zh": "不对，里面是书。",
+      "pinyin": "Bú duì, lǐ miàn shì shū.",
+      "tr": "Hayır, içinde kitap var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_008",
+      "speaker": "张雨桐",
+      "zh": "那是我的书！",
+      "pinyin": "Nà shì wǒ de shū!",
+      "tr": "Onlar benim kitaplarım!"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_009",
+      "speaker": "张乐乐",
+      "zh": "啊，是我放的。",
+      "pinyin": "A, shì wǒ fàng de.",
+      "tr": "Aa, onları ben koydum.",
+      "emotion": "playful",
+      "actionTr": "Yanlış kutuya koyduğu kitaplara bakar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_010",
+      "speaker": "王师傅",
+      "zh": "没事，拿出来就好。",
+      "pinyin": "Méi shì, ná chū lái jiù hǎo.",
+      "tr": "Sorun değil, çıkarman yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_011",
+      "speaker": "张伟",
+      "zh": "乐乐，把书给姐姐。",
+      "pinyin": "Lè le, bǎ shū gěi jiě jie.",
+      "tr": "Lele, kitapları ablana ver."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_012",
+      "speaker": "刘梅",
+      "zh": "雨桐，你的箱子在那儿。",
+      "pinyin": "Yǔ tóng, nǐ de xiāng zi zài nàr.",
+      "tr": "Yutong, senin kutun orada."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_013",
+      "speaker": "张雨桐",
+      "zh": "看到了，在门旁边。",
+      "pinyin": "Kàn dào le, zài mén páng biān.",
+      "tr": "Gördüm, kapının yanında."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_014",
+      "speaker": "张乐乐",
+      "zh": "姐姐，这本也是你的？",
+      "pinyin": "Jiě jie, zhè běn yě shì nǐ de?",
+      "tr": "Abla, bu kitap da mı senin?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_015",
+      "speaker": "王师傅",
+      "zh": "小心，书别掉了。",
+      "pinyin": "Xiǎo xīn, shū bié diào le.",
+      "tr": "Dikkat et, kitaplar düşmesin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_016",
+      "speaker": "张伟",
+      "zh": "我帮你拿着。",
+      "pinyin": "Wǒ bāng nǐ ná zhe.",
+      "tr": "Tutmana yardım edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_017",
+      "speaker": "刘梅",
+      "zh": "这本是爸爸的。",
+      "pinyin": "Zhè běn shì bà ba de.",
+      "tr": "Bu kitap babanın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_018",
+      "speaker": "张雨桐",
+      "zh": "那爸爸的书放这边。",
+      "pinyin": "Nà bà ba de shū fàng zhè biān.",
+      "tr": "Öyleyse babamın kitaplarını bu tarafa koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_019",
+      "speaker": "张乐乐",
+      "zh": "我的书只有一本。",
+      "pinyin": "Wǒ de shū zhǐ yǒu yī běn.",
+      "tr": "Benim sadece bir kitabım var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_020",
+      "speaker": "王师傅",
+      "zh": "一本也要带上啊。",
+      "pinyin": "Yī běn yě yào dài shàng a.",
+      "tr": "Bir kitap da olsa yanımıza alalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_021",
+      "speaker": "张伟",
+      "zh": "你的那本在哪儿？",
+      "pinyin": "Nǐ de nà běn zài nǎr?",
+      "tr": "Seninki nerede?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_022",
+      "speaker": "刘梅",
+      "zh": "是不是在房间里？",
+      "pinyin": "Shì bú shì zài fáng jiān lǐ?",
+      "tr": "Odada olabilir mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_023",
+      "speaker": "张雨桐",
+      "zh": "我刚才看见了，在桌上。",
+      "pinyin": "Wǒ gāng cái kàn jiàn le, zài zhuō shàng.",
+      "tr": "Az önce gördüm, masanın üstündeydi.",
+      "emotion": "happy",
+      "actionTr": "Kitapları hatırlayıp masayı gösterir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_024",
+      "speaker": "张乐乐",
+      "zh": "对！我还没拿。",
+      "pinyin": "Duì! wǒ hái méi ná.",
+      "tr": "Doğru! Daha almadım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_025",
+      "speaker": "王师傅",
+      "zh": "去拿吧，我等你。",
+      "pinyin": "Qù ná ba, wǒ děng nǐ.",
+      "tr": "Git al, seni beklerim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_026",
+      "speaker": "张伟",
+      "zh": "这个小箱子是空的。",
+      "pinyin": "Zhè ge xiǎo xiāng zi shì kōng de.",
+      "tr": "Bu küçük kutu boş."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_027",
+      "speaker": "刘梅",
+      "zh": "厨房的杯子放里面吧。",
+      "pinyin": "Chú fáng de bēi zi fàng lǐ miàn ba.",
+      "tr": "Mutfaktaki bardakları içine koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_028",
+      "speaker": "张雨桐",
+      "zh": "妈妈，杯子在这里。",
+      "pinyin": "Mā ma, bēi zi zài zhè lǐ.",
+      "tr": "Anne, bardaklar burada."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_029",
+      "speaker": "张乐乐",
+      "zh": "我拿一个，可以吗？",
+      "pinyin": "Wǒ ná yí gè, kě yǐ ma?",
+      "tr": "Birini alabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_030",
+      "speaker": "王师傅",
+      "zh": "可以，慢一点。",
+      "pinyin": "Kě yǐ, màn yì diǎn.",
+      "tr": "Alabilirsin, yavaşça."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_031",
+      "speaker": "张伟",
+      "zh": "别拿太多，乐乐。",
+      "pinyin": "Bié ná tài duō, lè le.",
+      "tr": "Çok fazla alma, Lele.",
+      "emotion": "worried",
+      "actionTr": "Çocuğun taşıdığı bardaklara bakar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_032",
+      "speaker": "刘梅",
+      "zh": "谢谢，放这里就好。",
+      "pinyin": "Xiè xiè, fàng zhè lǐ jiù hǎo.",
+      "tr": "Teşekkürler, buraya koyman yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_033",
+      "speaker": "张雨桐",
+      "zh": "还有这个白色的杯子。",
+      "pinyin": "Hái yǒu zhè ge bái sè de bēi zi.",
+      "tr": "Bir de şu beyaz bardak var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_034",
+      "speaker": "张乐乐",
+      "zh": "这是妈妈的，我知道。",
+      "pinyin": "Zhè shì mā ma de, wǒ zhī dào.",
+      "tr": "Bu annemin, biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_035",
+      "speaker": "王师傅",
+      "zh": "好了，这个箱子可以了。",
+      "pinyin": "Hǎo le, zhè ge xiāng zi kě yǐ le.",
+      "tr": "Tamam, bu kutu hazır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_036",
+      "speaker": "张伟",
+      "zh": "王师傅，这个我来拿。",
+      "pinyin": "Wáng shī fu, zhè ge wǒ lái ná.",
+      "tr": "Wang usta, bunu ben taşıyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_037",
+      "speaker": "刘梅",
+      "zh": "等等，猫在哪儿？",
+      "pinyin": "Děng děng, māo zài nǎr?",
+      "tr": "Bir dakika, kedi nerede?",
+      "emotion": "worried",
+      "actionTr": "Kediyi aramak için etrafına bakar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_038",
+      "speaker": "张雨桐",
+      "zh": "咪咪？刚才还在这里。",
+      "pinyin": "Mī mī? gāng cái hái zài zhè lǐ.",
+      "tr": "Mimi mi? Az önce buradaydı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_039",
+      "speaker": "张乐乐",
+      "zh": "我听见了，在箱子里！",
+      "pinyin": "Wǒ tīng jiàn le, zài xiāng zi lǐ!",
+      "tr": "Sesini duydum, kutunun içinde!",
+      "emotion": "happy",
+      "actionTr": "Kutuyu heyecanla gösterir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_040",
+      "speaker": "王师傅",
+      "zh": "先别搬，我们看看。",
+      "pinyin": "Xiān bié bān, wǒ men kàn kàn.",
+      "tr": "Önce taşımayalım, bir bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_041",
+      "speaker": "张伟",
+      "zh": "咪咪，你也想搬家啊？",
+      "pinyin": "Mī mī, nǐ yě xiǎng bān jiā a?",
+      "tr": "Mimi, sen de mi taşınmak istiyorsun?",
+      "emotion": "playful",
+      "actionTr": "Kutudaki kediye gülümser."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_042",
+      "speaker": "刘梅",
+      "zh": "它喜欢这个小箱子。",
+      "pinyin": "Tā xǐ huan zhè ge xiǎo xiāng zi.",
+      "tr": "Bu küçük kutuyu seviyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_043",
+      "speaker": "张雨桐",
+      "zh": "看，它的头出来了。",
+      "pinyin": "Kàn, tā de tóu chū lái le.",
+      "tr": "Bakın, başını dışarı çıkardı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_044",
+      "speaker": "张乐乐",
+      "zh": "咪咪，来我这里！",
+      "pinyin": "Mī mī, lái wǒ zhè lǐ!",
+      "tr": "Mimi, benim yanıma gel!"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_045",
+      "speaker": "王师傅",
+      "zh": "别急，让它自己出来。",
+      "pinyin": "Bié jí, ràng tā zì jǐ chū lái.",
+      "tr": "Acele etme, kendisi çıksın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_046",
+      "speaker": "张伟",
+      "zh": "它出来了，箱子空了。",
+      "pinyin": "Tā chū lái le, xiāng zi kōng le.",
+      "tr": "Çıktı, kutu boşaldı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_047",
+      "speaker": "刘梅",
+      "zh": "雨桐，猫包拿来了吗？",
+      "pinyin": "Yǔ tóng, māo bāo ná lái le ma?",
+      "tr": "Yutong, kedi çantasını getirdin mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_048",
+      "speaker": "张雨桐",
+      "zh": "拿来了，就在我旁边。",
+      "pinyin": "Ná lái le, jiù zài wǒ páng biān.",
+      "tr": "Getirdim, hemen yanımda."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_049",
+      "speaker": "张乐乐",
+      "zh": "咪咪今天也坐火车吗？",
+      "pinyin": "Mī mī jīn tiān yě zuò huǒ chē ma?",
+      "tr": "Mimi de bugün trene mi binecek?",
+      "emotion": "curious",
+      "actionTr": "Kedi çantasına doğru eğilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_050",
+      "speaker": "王师傅",
+      "zh": "猫的事，你们问爸爸吧。",
+      "pinyin": "Māo de shì, nǐ men wèn bà ba ba.",
+      "tr": "Kediyle ilgili babanıza sorun bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_051",
+      "speaker": "张伟",
+      "zh": "我们都去新家。",
+      "pinyin": "Wǒ men dōu qù xīn jiā.",
+      "tr": "Hepimiz yeni eve gidiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_052",
+      "speaker": "刘梅",
+      "zh": "先让咪咪进猫包。",
+      "pinyin": "Xiān ràng mī mī jìn māo bāo.",
+      "tr": "Önce Mimi'yi kedi çantasına koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_053",
+      "speaker": "张雨桐",
+      "zh": "我在这边帮你看着。",
+      "pinyin": "Wǒ zài zhè biān bāng nǐ kàn zhe.",
+      "tr": "Ben bu tarafta göz kulak olayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_054",
+      "speaker": "张乐乐",
+      "zh": "进去啦！它很乖。",
+      "pinyin": "Jìn qù la! tā hěn guāi.",
+      "tr": "Girdi! Çok uslu.",
+      "emotion": "happy",
+      "actionTr": "Kedi çantasını gösterir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_055",
+      "speaker": "王师傅",
+      "zh": "这样就不会走丢了。",
+      "pinyin": "Zhè yàng jiù bú huì zǒu diū le.",
+      "tr": "Böylece kaybolmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_056",
+      "speaker": "张伟",
+      "zh": "乐乐，你的书呢？",
+      "pinyin": "Lè le, nǐ de shū ne?",
+      "tr": "Lele, kitabın nerede?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_057",
+      "speaker": "刘梅",
+      "zh": "刚才说要拿，拿了吗？",
+      "pinyin": "Gāng cái shuō yào ná, ná le ma?",
+      "tr": "Az önce alacağını söyledin, aldın mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_058",
+      "speaker": "张雨桐",
+      "zh": "他还在看猫呢。",
+      "pinyin": "Tā hái zài kàn māo ne.",
+      "tr": "O hâlâ kediye bakıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_059",
+      "speaker": "张乐乐",
+      "zh": "哎呀，我忘了！",
+      "pinyin": "Āi yā, wǒ wàng le!",
+      "tr": "Ayy, unuttum!",
+      "emotion": "playful",
+      "actionTr": "Unuttuğu kitabı hatırlayıp başını kaldırır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_060",
+      "speaker": "王师傅",
+      "zh": "书别忘，猫也别忘。",
+      "pinyin": "Shū bié wàng, māo yě bié wàng.",
+      "tr": "Kitabı da kediyi de unutmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_061",
+      "speaker": "张伟",
+      "zh": "我陪你去房间看看。",
+      "pinyin": "Wǒ péi nǐ qù fáng jiān kàn kàn.",
+      "tr": "Odaya bakmaya seninle geleyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_062",
+      "speaker": "刘梅",
+      "zh": "桌上的东西都要拿。",
+      "pinyin": "Zhuō shàng de dōng xi dōu yào ná.",
+      "tr": "Masanın üstündeki her şeyi alalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_063",
+      "speaker": "张雨桐",
+      "zh": "还有你的红色小车。",
+      "pinyin": "Hái yǒu nǐ de hóng sè xiǎo chē.",
+      "tr": "Bir de kırmızı oyuncak araban var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_064",
+      "speaker": "张乐乐",
+      "zh": "找到了，书在小车下面。",
+      "pinyin": "Zhǎo dào le, shū zài xiǎo chē xià miàn.",
+      "tr": "Buldum, kitap arabanın altındaymış."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_065",
+      "speaker": "王师傅",
+      "zh": "这回都找到了吧？",
+      "pinyin": "Zhè huí dōu zhǎo dào le ba?",
+      "tr": "Bu sefer hepsi bulundu mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_066",
+      "speaker": "张伟",
+      "zh": "都找到了，谢谢您。",
+      "pinyin": "Dōu zhǎo dào le, xiè xiè nín.",
+      "tr": "Hepsi bulundu, teşekkür ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_067",
+      "speaker": "刘梅",
+      "zh": "小车放在你的包里。",
+      "pinyin": "Xiǎo chē fàng zài nǐ de bāo lǐ.",
+      "tr": "Oyuncak arabayı çantana koy."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_068",
+      "speaker": "张雨桐",
+      "zh": "书放这个箱子里吧。",
+      "pinyin": "Shū fàng zhè ge xiāng zi lǐ ba.",
+      "tr": "Kitabı şu kutuya koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_069",
+      "speaker": "张乐乐",
+      "zh": "好了，我的东西都在这儿。",
+      "pinyin": "Hǎo le, wǒ de dōng xi dōu zài zhèr.",
+      "tr": "Tamam, bütün eşyalarım burada."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_070",
+      "speaker": "王师傅",
+      "zh": "那我先搬这个箱子。",
+      "pinyin": "Nà wǒ xiān bān zhè ge xiāng zi.",
+      "tr": "Öyleyse önce bu kutuyu taşıyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_071",
+      "speaker": "张伟",
+      "zh": "门我来开，您慢点。",
+      "pinyin": "Mén wǒ lái kāi, nín màn diǎn.",
+      "tr": "Kapıyı ben açayım, yavaşça geçin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_072",
+      "speaker": "刘梅",
+      "zh": "孩子们，别站在门口。",
+      "pinyin": "Hái zi men, bié zhàn zài mén kǒu.",
+      "tr": "Çocuklar, kapının önünde durmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_073",
+      "speaker": "张雨桐",
+      "zh": "我们站在这里就好。",
+      "pinyin": "Wǒ men zhàn zài zhè lǐ jiù hǎo.",
+      "tr": "Burada durabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_074",
+      "speaker": "张乐乐",
+      "zh": "爸爸，这个大箱子好重。",
+      "pinyin": "Bà ba, zhè ge dà xiāng zi hǎo zhòng.",
+      "tr": "Baba, şu büyük kutu çok ağır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_075",
+      "speaker": "王师傅",
+      "zh": "重的我来，你拿小的。",
+      "pinyin": "Zhòng de wǒ lái, nǐ ná xiǎo de.",
+      "tr": "Ağır olanı ben taşıyayım, sen küçüğü al."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_076",
+      "speaker": "张伟",
+      "zh": "乐乐，听王师傅的。",
+      "pinyin": "Lè le, tīng wáng shī fu de.",
+      "tr": "Lele, Wang ustanın dediğini yap."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_077",
+      "speaker": "刘梅",
+      "zh": "水在厨房，大家喝一点吧。",
+      "pinyin": "Shuǐ zài chú fáng, dà jiā hē yì diǎn ba.",
+      "tr": "Su mutfakta, herkes biraz içsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_078",
+      "speaker": "张雨桐",
+      "zh": "我去拿杯子。",
+      "pinyin": "Wǒ qù ná bēi zi.",
+      "tr": "Bardakları ben getireyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_079",
+      "speaker": "张乐乐",
+      "zh": "妈妈，我也想喝水。",
+      "pinyin": "Mā ma, wǒ yě xiǎng hē shuǐ.",
+      "tr": "Anne, ben de su içmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_080",
+      "speaker": "王师傅",
+      "zh": "谢谢，我喝一小杯就好。",
+      "pinyin": "Xiè xiè, wǒ hē yī xiǎo bēi jiù hǎo.",
+      "tr": "Teşekkürler, küçük bir bardak yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_081",
+      "speaker": "张伟",
+      "zh": "搬家还真有点累。",
+      "pinyin": "Bān jiā hái zhēn yǒu diǎn lèi.",
+      "tr": "Taşınmak gerçekten biraz yorucu.",
+      "emotion": "neutral",
+      "actionTr": "Su içerken kısa bir nefes alır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_082",
+      "speaker": "刘梅",
+      "zh": "喝了水，再看看房间。",
+      "pinyin": "Hē le shuǐ, zài kàn kàn fáng jiān.",
+      "tr": "Suyu içelim, sonra odaya bir daha bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_083",
+      "speaker": "张雨桐",
+      "zh": "我的房间都空了。",
+      "pinyin": "Wǒ de fáng jiān dōu kōng le.",
+      "tr": "Benim odam tamamen boşaldı.",
+      "emotion": "sad",
+      "actionTr": "Odayı sessizce süzer."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_084",
+      "speaker": "张乐乐",
+      "zh": "姐姐，你不开心吗？",
+      "pinyin": "Jiě jie, nǐ bù kāi xīn ma?",
+      "tr": "Abla, mutsuz musun?",
+      "emotion": "worried",
+      "actionTr": "Ablasının yüzüne bakar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_085",
+      "speaker": "王师傅",
+      "zh": "住了很久，舍不得吧。",
+      "pinyin": "Zhù le hěn jiǔ, shě bù dé ba.",
+      "tr": "Uzun zamandır burada oturdunuz, ayrılmak zor geliyordur.",
+      "emotion": "comforting",
+      "actionTr": "Aileye yumuşak bir gülümsemeyle bakar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_086",
+      "speaker": "张伟",
+      "zh": "我们以后还会来看看的。",
+      "pinyin": "Wǒ men yǐ hòu hái huì lái kàn kàn de.",
+      "tr": "Sonra yine görmeye geliriz.",
+      "emotion": "comforting",
+      "actionTr": "Kızına dönüp gülümser."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_087",
+      "speaker": "刘梅",
+      "zh": "新家也会很好的。",
+      "pinyin": "Xīn jiā yě huì hěn hǎo de.",
+      "tr": "Yeni evimiz de güzel olacak.",
+      "emotion": "comforting",
+      "actionTr": "Çocuklara yaklaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_088",
+      "speaker": "张雨桐",
+      "zh": "嗯，我想看看新房间。",
+      "pinyin": "Èn, wǒ xiǎng kàn kàn xīn fáng jiān.",
+      "tr": "Evet, yeni odamı görmek istiyorum.",
+      "emotion": "curious",
+      "actionTr": "Yeni odasını düşünerek başını kaldırır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_089",
+      "speaker": "张乐乐",
+      "zh": "我要和咪咪一起看！",
+      "pinyin": "Wǒ yào hé mī mī yì qǐ kàn!",
+      "tr": "Ben Mimi'yle birlikte görmek istiyorum!",
+      "emotion": "happy",
+      "actionTr": "Kedi çantasına bakarak gülümser."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_090",
+      "speaker": "王师傅",
+      "zh": "你们会喜欢新家的。",
+      "pinyin": "Nǐ men huì xǐ huan xīn jiā de.",
+      "tr": "Yeni evinizi seveceksiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_091",
+      "speaker": "张伟",
+      "zh": "最后再看一遍吧。",
+      "pinyin": "Zuì hòu zài kàn yī biàn ba.",
+      "tr": "Son kez bir daha bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_092",
+      "speaker": "刘梅",
+      "zh": "厨房里没有东西了。",
+      "pinyin": "Chú fáng lǐ méi yǒu dōng xi le.",
+      "tr": "Mutfakta eşya kalmadı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_093",
+      "speaker": "张雨桐",
+      "zh": "房间里也没有了。",
+      "pinyin": "Fáng jiān lǐ yě méi yǒu le.",
+      "tr": "Odada da kalmadı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_094",
+      "speaker": "张乐乐",
+      "zh": "门旁边还有一个包！",
+      "pinyin": "Mén páng biān hái yǒu yí gè bāo!",
+      "tr": "Kapının yanında bir çanta daha var!",
+      "emotion": "happy",
+      "actionTr": "Kapının yanındaki çantayı gösterir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_095",
+      "speaker": "王师傅",
+      "zh": "这个也放车上吗？",
+      "pinyin": "Zhè ge yě fàng chē shàng ma?",
+      "tr": "Bunu da araca koyalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_096",
+      "speaker": "张伟",
+      "zh": "不用，这个包我们自己拿。",
+      "pinyin": "Bù yòng, zhè ge bāo wǒ men zì jǐ ná.",
+      "tr": "Gerek yok, bu çantayı biz yanımıza alacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_097",
+      "speaker": "刘梅",
+      "zh": "火车票都在这个包里。",
+      "pinyin": "Huǒ chē piào dōu zài zhè ge bāo lǐ.",
+      "tr": "Tren biletlerinin hepsi bu çantada."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_098",
+      "speaker": "张雨桐",
+      "zh": "妈妈，那我们先看看票吧。",
+      "pinyin": "Mā ma, nà wǒ men xiān kàn kàn piào ba.",
+      "tr": "Anne, öyleyse önce biletlere bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_099",
+      "speaker": "张乐乐",
+      "zh": "我来找我的那张！",
+      "pinyin": "Wǒ lái zhǎo wǒ de nà zhāng!",
+      "tr": "Ben kendi biletimi bulayım!",
+      "emotion": "happy",
+      "actionTr": "Biletleri aramak için çantaya yönelir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC001_100",
+      "speaker": "王师傅",
+      "zh": "好，你们看，我再数数箱子。",
+      "pinyin": "Hǎo, nǐ men kàn, wǒ zài shǔ shu xiāng zi.",
+      "tr": "Tamam, siz bakın, ben de kutuları tekrar sayayım."
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC031.json",
-  "dialogueSha256": "24b8a0f048f63a8f4e217ba82badf2d2a44cc9cf5442e35d206331e0a8be9f0a",
+  "dialogueSha256": "eb9c0c32e2b3296d9a107465182c6e34f1af507d5a3000defc5257ac43a46e27",
   "titleTr": "Yutong’un Sınav Stresi",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Yutong sınavlara yetişemediğini düşünür; aile birlikte çalışma planı oluşturur.",
@@ -71,5 +71,15 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: Yutong HSK3 young_adult; sınav stresi ve çalışma planı ev ortamında görünür. Kullanıcı, manifesto uygunsa ilerleme onayı verdi; HSK3 SC031-SC040 continuity seti final olarak entegre edildi."
+  "qaNoteTr": "2026-09-28: Yutong HSK3 young_adult; sınav stresi ve çalışma planı ev ortamında görünür. Kullanıcı, manifesto uygunsa ilerleme onayı verdi; HSK3 SC031-SC040 continuity seti final olarak entegre edildi.",
+  "postGenerationVisualQA": {
+    "mouthVisibilityQA": "PASS",
+    "allDialogueSpeakersVisible": true,
+    "decodedPixelsOutsideMaskExact": true,
+    "fullImageSSIM11x11": 1.0,
+    "localEditMaskPixelRatio": 0.0,
+    "anchorReview": "VISUAL_QA_PASS",
+    "dialogueTextQA": "PASS",
+    "dialogueNaturalizationTurns": 100
+  }
 }

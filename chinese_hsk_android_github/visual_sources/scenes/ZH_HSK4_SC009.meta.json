@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC009.json",
-  "dialogueSha256": "e8f769f9bdc5983cb1d4ed342e5e4a781a8705cd0d2ca148737371c9fd9c8e42",
+  "dialogueSha256": "685b0c2f2c62d26a6352ff0f728518ada4e512044cf1e66e1c93d78222230ae9",
   "titleTr": "Yutong Üniversite Sınavına Hazırlanıyor",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Yutong önemli sınavlara hazırlanırken baskı hissetmeye başlar.",

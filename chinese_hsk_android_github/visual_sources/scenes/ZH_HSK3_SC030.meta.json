@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC030.json",
-  "dialogueSha256": "44334754bc5a71129599cb831979e9f732a7a22293242e1f885c2a91c0a0a0d5",
+  "dialogueSha256": "01c521f42baee834726244250ab5f175603cdada6772e9d2b7fb841fc300cba9",
   "titleTr": "İş Sunumu",
   "locationId": "LOC_ZH_CONFERENCE_ROOM_001",
   "scenePurposeTr": "Zhang proje sonuçlarını toplantıda yapılandırılmış biçimde sunar.",
@@ -89,7 +89,9 @@
     "appRuntimeMirrorBlobMatch": true,
     "rejectionReasons": [],
     "bulkAudit": "HSK3_SC025_SC032_VISUAL_QA_R1_2026-10-10",
-    "finalAudit": "HSK3_SC030_VISUAL_QA_R5_2026-10-12"
+    "finalAudit": "HSK3_SC030_VISUAL_QA_R5_2026-10-12",
+    "dialogueTextQA": "PASS",
+    "dialogueNaturalizationTurns": 100
   },
   "candidateAuditR2": {
     "date": "2026-10-12",

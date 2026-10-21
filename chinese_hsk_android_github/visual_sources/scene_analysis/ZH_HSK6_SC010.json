@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC010",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC010.json",
-  "dialogueSha256": "ec160b9fb1952ffd41beed6b32d5f1e582947b01dfa92f1d340e05e87dc2d94f",
+  "dialogueSha256": "97f3915883f1d71fbc9c56b294481794e6d5c5deaee59499cde9c094d5fd283b",
   "titleZh": "乐乐毕业了",
   "titleTr": "Lele Üniversiteden Mezun Oluyor",
   "locationId": "LOC_ZH_UNIVERSITY_CAMPUS_001",
@@ -69,5 +69,5 @@
   },
   "narrationPresentation": null,
   "styleReferenceSceneId": "ZH_HSK6_SC001",
-  "qaNoteTr": "Diyalog, konuşmacı kadrosu, yaş sürekliliği ve 1080×1920 WebP kontrolleri geçti. APK build başlatılmadı."
+  "qaNoteTr": "100 tur mezuniyet, yaratıcı kariyer seçimi ve aile/mentor desteği üzerine doğal diyalog olarak düzenlendi; konuşmacı sırası ve öğrenme hedefleri korundu. Pinyin/Türkçe ve görsel ağız eşleşmeleri doğrulandı."
 }

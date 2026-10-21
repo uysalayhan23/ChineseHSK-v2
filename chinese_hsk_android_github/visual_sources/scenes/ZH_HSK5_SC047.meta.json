@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC047.json",
-  "dialogueSha256": "92c2a3269d5c13d959625e4c7f32118fc0f1f528ae294f22f63de960d1b46039",
+  "dialogueSha256": "81344cf3de73214e2249155cd6fdcbcb918ce520a4ddf990477426dc8f779ca9",
   "titleZh": "和李晨谈退休",
   "titleTr": "Li Chen ile Emeklilik Sohbeti",
   "locationId": "LOC_ZH_TEA_HOUSE_001",

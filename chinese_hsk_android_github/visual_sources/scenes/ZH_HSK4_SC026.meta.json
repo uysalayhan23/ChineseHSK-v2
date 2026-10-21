@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC026.json",
-  "dialogueSha256": "4da2ceaec851867d76db560df10eef31f6384964bce198e0e2069966591b317e",
+  "dialogueSha256": "52edd05a91d1331c55e4ed0a63927fc5d8429cf400a44e71a0278160395b2dad",
   "titleTr": "Aile Tatili Planı",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Herkes farklı bir tatil yeri ister; ortak karar ararlar.",

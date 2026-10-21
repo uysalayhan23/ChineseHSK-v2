@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC015.json",
-  "dialogueSha256": "8756795f7d48051f9cb41de32ba553c24771b3a00179f82a8afc97e160c76fa4",
+  "dialogueSha256": "1f114cb31e2ae0c31c73badad36d50c1a2e306bc37ae9af882b9384913b1c4bd",
   "titleZh": "网上的假消息",
   "titleTr": "İnternette Yanlış Bilgi",
   "locationId": "LOC_ZH_NEW_HOME_001",

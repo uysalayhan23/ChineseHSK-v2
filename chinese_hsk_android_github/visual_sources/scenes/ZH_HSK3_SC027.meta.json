@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC027.json",
-  "dialogueSha256": "24a011512e18970f387d1a6627216ede8201e034ca35471a0e845a0fc68ec141",
+  "dialogueSha256": "ca1b768e1cbfca3b2f7e5be6295f21cfaf23d9625c9905ecb008e7dbe473f141",
   "titleTr": "Yağmurlu Gün Kampanyası",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Yağmurlu günde müşteri azlığına karşı küçük bir kampanya planlanır.",
@@ -49,7 +49,7 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "a70bc28085f466a4ccb8a599d83dff824d4b55fc52f3e6ce3a29509577fa9702"
+    "sha256": "3b88fdb63b1aefb725cf82e64a232c92caf5dccc13b4c9d8df26c9e210196a58"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -71,5 +71,13 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: Önceki HSK3 final sahnelerinin karakter yüzü, yaş olgunluğu, mekân ve sıcak ışık dili korunarak kullanıcı onayı sonrası entegre edildi."
+  "qaNoteTr": "Ön plandaki müşterinin ağzını görünür kılmak için yalnız baş bölgesi seçici biçimde düzeltildi; dış maskede decoded pikseller aynı, SSIM 0.9822.",
+  "postGenerationVisualQA": {
+    "mouthVisibilityQA": "PASS",
+    "localEditMaskPixelRatio": 0.02841,
+    "decodedPixelsOutsideMaskExact": true,
+    "fullImageSSIM11x11": 0.9822,
+    "dialogueTextQA": "PASS",
+    "dialogueNaturalizationTurns": 100
+  }
 }

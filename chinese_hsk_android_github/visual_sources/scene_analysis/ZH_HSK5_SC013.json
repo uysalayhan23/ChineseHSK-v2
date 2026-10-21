@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK5_SC013",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC013.json",
-  "dialogueSha256": "9662cce0ea8bc37a0a84750c671042f31720dc9ae4e72e7d5cc63f0f000243fe",
+  "dialogueSha256": "05a302e6cd1ef6b8034b689022d1b1565a51e33257fc78357565a0ce51d4227d",
   "titleZh": "第二次面试成功",
   "titleTr": "İkinci Görüşmede Başarı",
   "locationId": "LOC_ZH_WORKPLACE_001",

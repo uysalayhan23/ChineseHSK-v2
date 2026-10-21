@@ -4,7 +4,7 @@
   "generationSceneId": "ZH_HSK1_SC040",
   "manifestVersion": "LOCKED_V2",
   "dialogueSource": "ci/dialogue_final_v5/HSK1/ZH_HSK1_SC040.json",
-  "dialogueSha256": "7b11d7fdd7e5183d504ed16ff9a72288883b2d00f90af87dc90abaa69b48f839",
+  "dialogueSha256": "ae57053e985056cb07445cbcd41bc93d510e4fed493e5910a935b5592b1a530c",
   "titleTr": "Kapıda Kargo",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Kurye yeni eve paket getirir; aile ve komşu teslimat sırasında paketi konuşur.",

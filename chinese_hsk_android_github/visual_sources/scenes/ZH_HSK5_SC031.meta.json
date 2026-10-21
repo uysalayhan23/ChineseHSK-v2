@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC031.json",
-  "dialogueSha256": "2301a1507a0f9fe06c1ce72743b1e6a94f177d1bbda1cb757aad5601457e4145",
+  "dialogueSha256": "27b88d538fc5c5615da9b79ca8ed71a743b12340dd7aaab04be7c68f523e7eec",
   "titleZh": "张伟收到新工作邀请",
   "titleTr": "Zhang İş Değiştirme Teklifi Alıyor",
   "locationId": "LOC_ZH_WORKPLACE_001",

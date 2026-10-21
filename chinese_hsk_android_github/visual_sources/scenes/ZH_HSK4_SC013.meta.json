@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC013.json",
-  "dialogueSha256": "3efcfa850339a3eee469d0670200716e39da5b4e675b400bffd3700abd2f870d",
+  "dialogueSha256": "1753e0c5d3db7d860156e6d5b31a83aaa9c61c0827a6e010093373f43871fe76",
   "titleTr": "Müşteri Alerjisi",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Bir müşteri gıda alerjisini belirtir; ekip içerikleri dikkatle kontrol eder.",

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC020.json",
-  "dialogueSha256": "1a4f6434f48affb730722b59d7af08b8cb323c3389d09b10ca3443a7d91fea6a",
+  "dialogueSha256": "5598d7c807d795ec19c976b3b2b6bcaad3370b3f814b421c2449d162ecccedaa",
   "titleZh": "新一代的菜单",
   "titleTr": "Kafenin Yeni Nesil Menüsü",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

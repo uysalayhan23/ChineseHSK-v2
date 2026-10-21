@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC044.json",
-  "dialogueSha256": "40869fb663a13b4f0dd00f313bfd2ec4dd6f41206442ff76a20f5fe74e63aaff",
+  "dialogueSha256": "f149bfb2b9f43eb429a1467196fa01173be72327cc8eccdb8e6a700a20d498e6",
   "titleZh": "乐乐结婚了",
   "titleTr": "Lele’nin Evliliği",
   "locationId": "LOC_ZH_WEDDING_VENUE_001",

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC007.json",
-  "dialogueSha256": "f6aa892c864bf3eb1230ef182c0bf7f0c1b1002aa4f19ce3936cfe78ba3c10de",
+  "dialogueSha256": "9fa9ee59b7c172a664b3951c020ab2e827a57ee15903688c4ab2327b39b52fc6",
   "titleZh": "张伟负责最大的项目",
   "titleTr": "Zhang Büyük Bir Projenin Başında",
   "locationId": "LOC_ZH_WORKPLACE_001",

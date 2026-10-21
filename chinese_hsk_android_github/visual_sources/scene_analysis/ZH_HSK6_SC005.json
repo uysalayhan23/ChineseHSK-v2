@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC005",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC005.json",
-  "dialogueSha256": "597f91b4649a93838f1d66c69b212c2da62cc88ecd5e0c205856cbdc95b6b4f3",
+  "dialogueSha256": "7dcfcb51851d60a82cf33a0719264f70a04907bbe50eaef4c26f7ddcd39aa0a7",
   "titleZh": "奶奶讲自己的婚礼",
   "titleTr": "Büyükannenin Eski Düğün Hikâyesi",
   "locationId": "LOC_ZH_NEW_HOME_001",
@@ -69,5 +69,5 @@
   },
   "narrationPresentation": null,
   "styleReferenceSceneId": "ZH_HSK6_SC001",
-  "qaNoteTr": "Diyalog, konuşmacı kadrosu, yaş sürekliliği ve 1080×1920 WebP kontrolleri geçti. APK build başlatılmadı."
+  "qaNoteTr": "100 tur, büyükanne anıları ile genç çiftin iletişim ve gelecek kararlarını bağlayan doğal aile diyaloğu olarak düzenlendi; sıra ve öğrenme hedefleri korundu. Pinyin/Türkçe ve görsel ağız eşleşmeleri doğrulandı."
 }

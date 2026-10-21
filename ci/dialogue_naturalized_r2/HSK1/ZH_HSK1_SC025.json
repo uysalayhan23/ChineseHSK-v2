@@ -1,0 +1,730 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK1_SC025",
+  "level": "HSK1",
+  "sourceTitleZh": "丢失的铅笔",
+  "sourceTitleTr": "Kaybolan Kalem",
+  "sourceMiniAdventureTr": "Lele mavi kaleminin başka bir öğrencide olduğunu sanır.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK1_SC025_001",
+      "speaker": "张乐乐",
+      "zh": "等一下，小杰，你手里那支蓝色铅笔是我的吧？",
+      "pinyin": "Děng yí xià, xiǎo jié, nǐ shǒu lǐ nà zhī lán sè qiān bǐ shì wǒ de ba?",
+      "tr": "Bir dakika Xiaojie, elindeki mavi kurşun kalem benim değil mi?",
+      "emotion": "worried",
+      "actionTr": "Lele mavi kalemi görünce aceleyle sorar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_002",
+      "speaker": "同学",
+      "zh": "这支？是我从自己的包里拿出来的。",
+      "pinyin": "Zhè zhī? shì wǒ cóng zì jǐ de bāo lǐ ná chū lái de.",
+      "tr": "Bu mu? Kendi çantamdan çıkardım.",
+      "emotion": "worried",
+      "actionTr": "Xiaojie kendi kalemini gösterip açıklama yapar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_003",
+      "speaker": "老师",
+      "zh": "乐乐，先问清楚，不用急着拿。",
+      "pinyin": "Lè le, xiān wèn qīng chǔ, bù yòng jí zhe ná.",
+      "tr": "Lele, önce sorup anlayalım, almaya acele etme.",
+      "emotion": "comforting",
+      "actionTr": "Öğretmen kalemi çekiştirmeden sormalarını ister."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_004",
+      "speaker": "刘梅",
+      "zh": "我来接你，先在这里等，你们慢慢说。",
+      "pinyin": "Wǒ lái jiē nǐ, xiān zài zhè lǐ děng, nǐ men màn màn shuō.",
+      "tr": "Seni almaya geldim, burada beklerim, siz sakince konuşun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_005",
+      "speaker": "张乐乐",
+      "zh": "可是我的也是蓝色的，刚才还在桌上。",
+      "pinyin": "Kě shì wǒ de yě shì lán sè de, gāng cái hái zài zhuō shàng.",
+      "tr": "Ama benimki de mavi, az önce masamdaydı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_006",
+      "speaker": "同学",
+      "zh": "我的今天一直放在包里，刚刚才拿出来。",
+      "pinyin": "Wǒ de jīn tiān yì zhí fàng zài bāo lǐ, gāng gāng cái ná chū lái.",
+      "tr": "Benimki bugün hep çantamdaydı, daha şimdi çıkardım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_007",
+      "speaker": "老师",
+      "zh": "两支颜色一样，也可能不是同一支。",
+      "pinyin": "Liǎng zhī yán sè yī yàng, yě kě néng bú shì tóng yī zhī.",
+      "tr": "İkisinin rengi aynı olabilir ama aynı kalem olmayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_008",
+      "speaker": "刘梅",
+      "zh": "对，先找找你的，不要只看颜色。",
+      "pinyin": "Duì, xiān zhǎo zhǎo nǐ de, bú yào zhǐ kàn yán sè.",
+      "tr": "Doğru, önce seninkini arayalım, yalnız rengine bakmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_009",
+      "speaker": "张乐乐",
+      "zh": "我以为蓝色的就是我的，原来你也有。",
+      "pinyin": "Wǒ yǐ wéi lán sè de jiù shì wǒ de, yuán lái nǐ yě yǒu.",
+      "tr": "Mavi olan benim sandım, demek sende de var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_010",
+      "speaker": "同学",
+      "zh": "有啊，我也喜欢蓝色，不过你可以仔细看看。",
+      "pinyin": "Yǒu a, wǒ yě xǐ huan lán sè, bù guò nǐ kě yǐ zǐ xì kàn kàn.",
+      "tr": "Var, ben de maviyi severim ama dikkatle bakabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_011",
+      "speaker": "老师",
+      "zh": "小杰愿意给你看，我们不用争。",
+      "pinyin": "Xiǎo jié yuàn yì gěi nǐ kàn, wǒ men bù yòng zhēng.",
+      "tr": "Xiaojie bakmana izin veriyor, tartışmamız gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_012",
+      "speaker": "刘梅",
+      "zh": "乐乐，你的铅笔还有什么特别的地方？",
+      "pinyin": "Lè le, nǐ de qiān bǐ hái yǒu shén me tè bié de dì fāng?",
+      "tr": "Lele, senin kurşun kaleminin başka özel bir şeyi var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_013",
+      "speaker": "张乐乐",
+      "zh": "后面有一点红色，是我自己画的。",
+      "pinyin": "Hòu miàn yǒu yì diǎn hóng sè, shì wǒ zì jǐ huà de.",
+      "tr": "Arkasında biraz kırmızı var, kendim boyadım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_014",
+      "speaker": "同学",
+      "zh": "你看我的后面，没有红色，还是蓝的。",
+      "pinyin": "Nǐ kàn wǒ de hòu miàn, méi yǒu hóng sè, hái shì lán de.",
+      "tr": "Benim arkasına bak, kırmızı yok, yine mavi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_015",
+      "speaker": "老师",
+      "zh": "那就是一个可以分清的地方，记住了吗？",
+      "pinyin": "Nà jiù shì yí gè kě yǐ fēn qīng de dì fāng, jì zhù le ma?",
+      "tr": "İşte ayırt edebileceğiniz bir fark, öğrendin mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_016",
+      "speaker": "刘梅",
+      "zh": "我们再看看桌子和包，自己的东西也许在里面。",
+      "pinyin": "Wǒ men zài kàn kàn zhuō zi hé bāo, zì jǐ de dōng xi yě xǔ zài lǐ miàn.",
+      "tr": "Masana ve çantana da bakalım, eşyan belki içeridedir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_017",
+      "speaker": "张乐乐",
+      "zh": "桌子上只有书，铅笔不在旁边。",
+      "pinyin": "Zhuō zi shàng zhǐ yǒu shū, qiān bǐ bù zài páng biān.",
+      "tr": "Masanın üzerinde yalnız kitap var, kalem yanında değil."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_018",
+      "speaker": "同学",
+      "zh": "你的书下面看过了吗？我刚才压住过自己的笔。",
+      "pinyin": "Nǐ de shū xià miàn kàn guò le ma? wǒ gāng cái yā zhù guò zì jǐ de bǐ.",
+      "tr": "Kitabının altına baktın mı? Ben az önce kendi kalemimin üstüne kitabımı koydum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_019",
+      "speaker": "老师",
+      "zh": "先把书轻轻拿起来，不要把桌上的东西都推下去。",
+      "pinyin": "Xiān bǎ shū qīng qīng ná qǐ lái, bú yào bǎ zhuō shàng de dōng xi dōu tuī xià qù.",
+      "tr": "Önce kitabı yavaşça kaldır, masadaki eşyaları aşağı itme."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_020",
+      "speaker": "刘梅",
+      "zh": "我帮你扶着包，你自己找找看。",
+      "pinyin": "Wǒ bāng nǐ fú zhe bāo, nǐ zì jǐ zhǎo zhǎo kàn.",
+      "tr": "Ben çantanı tutayım, sen kendin bak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_021",
+      "speaker": "张乐乐",
+      "zh": "书下面也没有，我有点着急了。",
+      "pinyin": "Shū xià miàn yě méi yǒu, wǒ yǒu diǎn zháo jí le.",
+      "tr": "Kitabın altında da yok, biraz telaşlandım.",
+      "emotion": "worried",
+      "actionTr": "Lele kendi kalemini bulamayınca telaşlanır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_022",
+      "speaker": "同学",
+      "zh": "别急，我这支先放在桌上，不会收起来。",
+      "pinyin": "Bié jí, wǒ zhè zhī xiān fàng zài zhuō shàng, bú huì shōu qǐ lái.",
+      "tr": "Acele etme, benimkini masaya koyayım, kaldırmam."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_023",
+      "speaker": "老师",
+      "zh": "找不到自己的东西会着急，但我们还没找完。",
+      "pinyin": "Zhǎo bú dào zì jǐ de dōng xi huì zháo jí, dàn wǒ men hái méi zhǎo wán.",
+      "tr": "Eşyanı bulamayınca telaşlanırsın ama daha aramayı bitirmedik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_024",
+      "speaker": "刘梅",
+      "zh": "先看看包的小口袋，你早上把笔放过那里。",
+      "pinyin": "Xiān kàn kàn bāo de xiǎo kǒu dai, nǐ zǎo shàng bǎ bǐ fàng guò nà lǐ.",
+      "tr": "Önce çantanın küçük gözüne bak, sabah kalemini oraya koymuştun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_025",
+      "speaker": "张乐乐",
+      "zh": "我想起来了，好像后来拿出来用过。",
+      "pinyin": "Wǒ xiǎng qǐ lái le, hǎo xiàng hòu lái ná chū lái yòng guò.",
+      "tr": "Hatırladım, sanki sonra çıkarıp kullanmıştım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_026",
+      "speaker": "同学",
+      "zh": "那你用完以后放哪里了？慢慢想。",
+      "pinyin": "Nà nǐ yòng wán yǐ hòu fàng nǎ lǐ le? màn màn xiǎng.",
+      "tr": "Peki kullandıktan sonra nereye koydun? Sakince düşün."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_027",
+      "speaker": "老师",
+      "zh": "不用一下都想起来，先看眼前的地方。",
+      "pinyin": "Bù yòng yī xià dōu xiǎng qǐ lái, xiān kàn yǎn qián de dì fāng.",
+      "tr": "Birden her şeyi hatırlaman gerekmiyor, önce önündeki yere bak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_028",
+      "speaker": "刘梅",
+      "zh": "你自己找，我在旁边等，不会先走。",
+      "pinyin": "Nǐ zì jǐ zhǎo, wǒ zài páng biān děng, bú huì xiān zǒu.",
+      "tr": "Sen kendin ara, ben yanında beklerim, senden önce gitmem."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_029",
+      "speaker": "张乐乐",
+      "zh": "小口袋里有橡皮，没有那支笔。",
+      "pinyin": "Xiǎo kǒu dai lǐ yǒu xiàng pí, méi yǒu nà zhī bǐ.",
+      "tr": "Küçük gözünde silgi var, o kalem yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_030",
+      "speaker": "同学",
+      "zh": "我不会拿你的东西，你可以相信我。",
+      "pinyin": "Wǒ bú huì ná nǐ de dōng xi, nǐ kě yǐ xiāng xìn wǒ.",
+      "tr": "Senin eşyanı almam, bana güvenebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_031",
+      "speaker": "老师",
+      "zh": "小杰说了自己的情况，我们也听清楚了。",
+      "pinyin": "Xiǎo jié shuō le zì jǐ de qíng kuàng, wǒ men yě tīng qīng chǔ le.",
+      "tr": "Xiaojie kendi durumunu anlattı, biz de dikkatle dinledik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_032",
+      "speaker": "刘梅",
+      "zh": "乐乐，没找到也不等于别人拿了，先别下结论。",
+      "pinyin": "Lè le, méi zhǎo dào yě bù děng yú bié rén ná le, xiān bié xià jié lùn.",
+      "tr": "Lele, bulamaman başkasının aldığı anlamına gelmez, hemen karar verme."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_033",
+      "speaker": "张乐乐",
+      "zh": "嗯，刚才我太快说是我的了，对不起。",
+      "pinyin": "Èn, gāng cái wǒ tài kuài shuō shì wǒ de le, duì bù qǐ.",
+      "tr": "Evet, az önce çok çabuk benim dedim, özür dilerim.",
+      "emotion": "sad",
+      "actionTr": "Lele acele hüküm verdiğini fark edip özür diler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_034",
+      "speaker": "同学",
+      "zh": "没关系，不过你问我的时候，我也吓了一下。",
+      "pinyin": "Méi guān xì, bù guò nǐ wèn wǒ de shí hòu, wǒ yě xià le yī xià.",
+      "tr": "Sorun değil, ama bana sorunca ben de biraz ürktüm.",
+      "emotion": "sad",
+      "actionTr": "Xiaojie yanlış anlaşılınca nasıl hissettiğini söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_035",
+      "speaker": "老师",
+      "zh": "能说出自己刚才的感觉，很好。",
+      "pinyin": "Néng shuō chū zì jǐ gāng cái de gǎn jué, hěn hǎo.",
+      "tr": "Az önce nasıl hissettiğini söyleyebilmen güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_036",
+      "speaker": "刘梅",
+      "zh": "我们会继续找，也谢谢小杰愿意解释。",
+      "pinyin": "Wǒ men huì jì xù zhǎo, yě xiè xiè xiǎo jié yuàn yì jiě shì.",
+      "tr": "Aramaya devam ederiz, açıklamak istediğin için de teşekkürler Xiaojie."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_037",
+      "speaker": "张乐乐",
+      "zh": "下次我先问，这是不是你的，不直接说是我的。",
+      "pinyin": "Xià cì wǒ xiān wèn, zhè shì bú shì nǐ de, bù zhí jiē shuō shì wǒ de.",
+      "tr": "Bir dahaki sefere önce bu senin mi diye sorarım, hemen benim demem."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_038",
+      "speaker": "同学",
+      "zh": "这样我就能告诉你，是我的，或者不是我的。",
+      "pinyin": "Zhè yàng wǒ jiù néng gào sù nǐ, shì wǒ de, huò zhě bú shì wǒ de.",
+      "tr": "O zaman sana benim veya benim değil diye söyleyebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_039",
+      "speaker": "老师",
+      "zh": "对，问一句，比自己猜来猜去清楚。",
+      "pinyin": "Duì, wèn yī jù, bǐ zì jǐ cāi lái cāi qù qīng chǔ.",
+      "tr": "Doğru, bir soru sormak durmadan tahmin etmekten daha açık olur."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_040",
+      "speaker": "刘梅",
+      "zh": "现在我们一起找你的笔，先看看椅子旁边。",
+      "pinyin": "Xiàn zài wǒ men yì qǐ zhǎo nǐ de bǐ, xiān kàn kàn yǐ zi páng biān.",
+      "tr": "Şimdi kalemini birlikte arayalım, önce sandalyenin yanına bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_041",
+      "speaker": "张乐乐",
+      "zh": "椅子旁边没有，我把包放地上再看看。",
+      "pinyin": "Yǐ zi páng biān méi yǒu, wǒ bǎ bāo fàng dì shàng zài kàn kàn.",
+      "tr": "Sandalyenin yanında yok, çantamı yere koyup tekrar bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_042",
+      "speaker": "同学",
+      "zh": "先别倒出来，口袋里还有别的东西呢。",
+      "pinyin": "Xiān bié dào chū lái, kǒu dai lǐ hái yǒu bié de dōng xi ne.",
+      "tr": "Önce boşaltma, gözlerinde başka eşyalar da var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_043",
+      "speaker": "老师",
+      "zh": "小杰说得对，一个地方一个地方找就好。",
+      "pinyin": "Xiǎo jié shuō de duì, yí gè dì fāng yí gè dì fāng zhǎo jiù hǎo.",
+      "tr": "Xiaojie haklı, tek tek yerlere bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_044",
+      "speaker": "刘梅",
+      "zh": "大口袋还没看，你的书刚才也放在里面。",
+      "pinyin": "Dà kǒu dài hái méi kàn, nǐ de shū gāng cái yě fàng zài lǐ miàn.",
+      "tr": "Büyük gözüne bakmadık, kitabını da az önce oraya koydun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_045",
+      "speaker": "张乐乐",
+      "zh": "这里有本子，下面好像还有一支笔。",
+      "pinyin": "Zhè lǐ yǒu běn zi, xià miàn hǎo xiàng hái yǒu yī zhī bǐ.",
+      "tr": "Burada defter var, altında sanki bir kalem daha var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_046",
+      "speaker": "同学",
+      "zh": "拿出来看看颜色，我先不替你说是哪支。",
+      "pinyin": "Ná chū lái kàn kàn yán sè, wǒ xiān bù tì nǐ shuō shì nǎ zhī.",
+      "tr": "Çıkarıp rengine bak, hangisi olduğunu senin yerine söylemeyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_047",
+      "speaker": "老师",
+      "zh": "慢慢拿，别把笔尖碰到手。",
+      "pinyin": "Màn màn ná, bié bǎ bǐ jiān pèng dào shǒu.",
+      "tr": "Yavaşça al, kalemin ucunu eline batırma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_048",
+      "speaker": "刘梅",
+      "zh": "我把包口撑开一点，你就看得清楚了。",
+      "pinyin": "Wǒ bǎ bāo kǒu chēng kāi yì diǎn, nǐ jiù kàn de qīng chǔ le.",
+      "tr": "Çantanın ağzını biraz açayım, daha iyi görürsün."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_049",
+      "speaker": "张乐乐",
+      "zh": "找到了！蓝色的，后面有我画的红色。",
+      "pinyin": "Zhǎo dào le! lán sè de, hòu miàn yǒu wǒ huà de hóng sè.",
+      "tr": "Buldum! Mavi, arkasında benim boyadığım kırmızı var.",
+      "emotion": "happy",
+      "actionTr": "Lele kırmızı işaretli kendi kalemini bulur."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_050",
+      "speaker": "同学",
+      "zh": "那你的在包里，我桌上这支是我的。",
+      "pinyin": "Nà nǐ de zài bāo lǐ, wǒ zhuō shàng zhè zhī shì wǒ de.",
+      "tr": "Demek seninki çantanda, masamdaki de benimki."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_051",
+      "speaker": "老师",
+      "zh": "现在两支都找到了，我们可以分清楚了。",
+      "pinyin": "Xiàn zài liǎng zhī dōu zhǎo dào le, wǒ men kě yǐ fēn qīng chǔ le.",
+      "tr": "Şimdi ikisi de bulundu, ayırt edebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_052",
+      "speaker": "刘梅",
+      "zh": "乐乐，先看清楚自己的标记，再收好。",
+      "pinyin": "Lè le, xiān kàn qīng chǔ zì jǐ de biāo jì, zài shōu hǎo.",
+      "tr": "Lele, önce kendi işaretine dikkatle bak, sonra kaldır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_053",
+      "speaker": "张乐乐",
+      "zh": "对，是我的。刚才我真的误会你了，小杰。",
+      "pinyin": "Duì, shì wǒ de. gāng cái wǒ zhēn de wù huì nǐ le, xiǎo jié.",
+      "tr": "Evet, benimki. Az önce seni gerçekten yanlış anladım Xiaojie."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_054",
+      "speaker": "同学",
+      "zh": "我知道你着急，可是听见那句话还是不舒服。",
+      "pinyin": "Wǒ zhī dào nǐ zháo jí, kě shì tīng jiàn nà jù huà hái shì bù shū fú.",
+      "tr": "Telaşlandığını biliyorum ama bunu duymak yine de beni rahatsız etti."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_055",
+      "speaker": "老师",
+      "zh": "朋友也会误会，重要的是找到以后说清楚。",
+      "pinyin": "Péng yǒu yě huì wù huì, zhòng yào de shì zhǎo dào yǐ hòu shuō qīng chǔ.",
+      "tr": "Arkadaşlar da yanlış anlayabilir, önemli olan sonra açıklığa kavuşturmak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_056",
+      "speaker": "刘梅",
+      "zh": "你可以再说一次对不起，也听听小杰的感觉。",
+      "pinyin": "Nǐ kě yǐ zài shuō yī cì duì bù qǐ, yě tīng tīng xiǎo jié de gǎn jué.",
+      "tr": "Bir kez daha özür dileyebilir ve Xiaojie’nin hislerini de dinleyebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_057",
+      "speaker": "张乐乐",
+      "zh": "对不起，我没有看清楚就说是我的。",
+      "pinyin": "Duì bù qǐ, wǒ méi yǒu kàn qīng chǔ jiù shuō shì wǒ de.",
+      "tr": "Özür dilerim, dikkatle bakmadan benim dedim.",
+      "emotion": "sad",
+      "actionTr": "Lele arkadaşına açıkça özür diler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_058",
+      "speaker": "同学",
+      "zh": "谢谢你说清楚，现在我心里好多了。",
+      "pinyin": "Xiè xiè nǐ shuō qīng chǔ, xiàn zài wǒ xīn lǐ hǎo duō le.",
+      "tr": "Açıkladığın için teşekkürler, şimdi çok daha iyi hissediyorum.",
+      "emotion": "happy",
+      "actionTr": "Xiaojie açıklamayı duyunca rahatlar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_059",
+      "speaker": "老师",
+      "zh": "好，不用一直责怪自己，记住下次先问。",
+      "pinyin": "Hǎo, bù yòng yì zhí zé guài zì jǐ, jì zhù xià cì xiān wèn.",
+      "tr": "Güzel, sürekli kendini suçlamana gerek yok, bir dahaki sefere önce sor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_060",
+      "speaker": "刘梅",
+      "zh": "妈妈也会找错东西，所以我们都要慢一点。",
+      "pinyin": "Mā ma yě huì zhǎo cuò dōng xi, suǒ yǐ wǒ men dōu yào màn yì diǎn.",
+      "tr": "Annen de eşyaları yanlış yerde arayabilir, o yüzden hepimiz biraz yavaşlamalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_061",
+      "speaker": "张乐乐",
+      "zh": "我想给这支笔找一个固定的地方。",
+      "pinyin": "Wǒ xiǎng gěi zhè zhī bǐ zhǎo yí gè gù dìng de dì fāng.",
+      "tr": "Bu kalem için sabit bir yer bulmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_062",
+      "speaker": "同学",
+      "zh": "放在小口袋里怎么样？拿的时候也容易。",
+      "pinyin": "Fàng zài xiǎo kǒu dai lǐ zěn me yàng? ná de shí hòu yě róng yì.",
+      "tr": "Küçük gözüne koysan nasıl olur? Çıkarması da kolay."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_063",
+      "speaker": "老师",
+      "zh": "可以，用完放回去，比每次重新找好。",
+      "pinyin": "Kě yǐ, yòng wán fàng huí qù, bǐ měi cì chóng xīn zhǎo hǎo.",
+      "tr": "Olur, kullandıktan sonra yerine koymak her seferinde aramaktan iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_064",
+      "speaker": "刘梅",
+      "zh": "回家我们也给书和笔分开找个地方。",
+      "pinyin": "Huí jiā wǒ men yě gěi shū hé bǐ fēn kāi zhǎo gè dì fāng.",
+      "tr": "Evde de kitaplara ve kalemlere ayrı yer ayıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_065",
+      "speaker": "张乐乐",
+      "zh": "那这支蓝色铅笔放这里，红色的放旁边。",
+      "pinyin": "Nà zhè zhī lán sè qiān bǐ fàng zhè lǐ, hóng sè de fàng páng biān.",
+      "tr": "O zaman mavi kurşun kalemi buraya, kırmızıyı yanına koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_066",
+      "speaker": "同学",
+      "zh": "两支都带好了，明天还可以用。",
+      "pinyin": "Liǎng zhī dōu dài hǎo le, míng tiān hái kě yǐ yòng.",
+      "tr": "İkisi de hazır, yarın da kullanabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_067",
+      "speaker": "老师",
+      "zh": "你们两个小学生自己收东西，老师就放心了。",
+      "pinyin": "Nǐ men liǎng gè xiǎo xué shēng zì jǐ shōu dōng xi, lǎo shī jiù fàng xīn le.",
+      "tr": "İkiniz de küçük öğrenciler olarak eşyalarınızı kendiniz topladınız, öğretmeniniz de rahatladı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_068",
+      "speaker": "刘梅",
+      "zh": "我把小口袋打开，你轻轻放。",
+      "pinyin": "Wǒ bǎ xiǎo kǒu dai dǎ kāi, nǐ qīng qīng fàng.",
+      "tr": "Küçük gözü açayım, yavaşça koy."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_069",
+      "speaker": "张乐乐",
+      "zh": "好了，这次我知道它在哪儿了。",
+      "pinyin": "Hǎo le, zhè cì wǒ zhī dào tā zài nǎr le.",
+      "tr": "Tamam, bu sefer nerede olduğunu biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_070",
+      "speaker": "同学",
+      "zh": "我的也收好了，我们的笔不会混在一起。",
+      "pinyin": "Wǒ de yě shōu hǎo le, wǒ men de bǐ bú huì hùn zài yì qǐ.",
+      "tr": "Benimki de yerine kondu, kalemlerimiz karışmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_071",
+      "speaker": "老师",
+      "zh": "两个人自己收东西，老师就放心了。",
+      "pinyin": "Liǎng gè rén zì jǐ shōu dōng xi, lǎo shī jiù fàng xīn le.",
+      "tr": "İkiniz de eşyalarınızı topladınız, öğretmeniniz de rahatladı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_072",
+      "speaker": "刘梅",
+      "zh": "乐乐，你的书还在桌上，要不要一起带回去？",
+      "pinyin": "Lè le, nǐ de shū hái zài zhuō shàng, yào bù yào yì qǐ dài huí qù?",
+      "tr": "Lele, kitabın hâlâ masada, onu da eve götürecek misin?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_073",
+      "speaker": "张乐乐",
+      "zh": "要带，那本是我自己的，不是教室里的。",
+      "pinyin": "Yào dài, nà běn shì wǒ zì jǐ de, bú shì jiào shì lǐ de.",
+      "tr": "Götüreceğim, o benim kitabım, sınıfın kitabı değil."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_074",
+      "speaker": "同学",
+      "zh": "那本有小猫的留在教室，明天我们再看。",
+      "pinyin": "Nà běn yǒu xiǎo māo de liú zài jiào shì, míng tiān wǒ men zài kàn.",
+      "tr": "Kedili kitap sınıfta kalsın, yarın tekrar bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_075",
+      "speaker": "老师",
+      "zh": "对，学校的书留给大家，自己的书带走。",
+      "pinyin": "Duì, xué xiào de shū liú gěi dà jiā, zì jǐ de shū dài zǒu.",
+      "tr": "Evet, okulun kitabı herkes için kalsın, kendinizinkini alın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_076",
+      "speaker": "刘梅",
+      "zh": "包里东西多了，妈妈帮你看看有没有装好。",
+      "pinyin": "Bāo lǐ dōng xi duō le, mā ma bāng nǐ kàn kàn yǒu méi yǒu zhuāng hǎo.",
+      "tr": "Çantan doldu, annen her şey yerinde mi baksın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_077",
+      "speaker": "张乐乐",
+      "zh": "书也放好了，今天差点把朋友的笔带走。",
+      "pinyin": "Shū yě fàng hǎo le, jīn tiān chà diǎn bǎ péng yǒu de bǐ dài zǒu.",
+      "tr": "Kitap da yerinde, bugün az kalsın arkadaşımın kalemini götürüyordum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_078",
+      "speaker": "同学",
+      "zh": "没有带走，我们已经说清楚了。",
+      "pinyin": "Méi yǒu dài zǒu, wǒ men yǐ jīng shuō qīng chǔ le.",
+      "tr": "Götürmedin, açıklığa kavuşturduk bile."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_079",
+      "speaker": "老师",
+      "zh": "知道以后改就好，不用一直回头责怪自己。",
+      "pinyin": "Zhī dào yǐ hòu gǎi jiù hǎo, bù yòng yì zhí huí tóu zé guài zì jǐ.",
+      "tr": "Öğrenip düzeltmen yeter, sürekli kendini suçlamana gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_080",
+      "speaker": "刘梅",
+      "zh": "你今天遇到小问题，也学会了怎么问。",
+      "pinyin": "Nǐ jīn tiān yù dào xiǎo wèn tí, yě xué huì le zěn me wèn.",
+      "tr": "Bugün küçük bir sorun yaşadın, nasıl soracağını da öğrendin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_081",
+      "speaker": "张乐乐",
+      "zh": "小杰，明天你还坐我旁边吗？",
+      "pinyin": "Xiǎo jié, míng tiān nǐ hái zuò wǒ páng biān ma?",
+      "tr": "Xiaojie, yarın da yanımda oturacak mısın?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_082",
+      "speaker": "同学",
+      "zh": "坐啊，不过你的笔还是自己收好哦。",
+      "pinyin": "Zuò a, bù guò nǐ de bǐ hái shì zì jǐ shōu hǎo ó.",
+      "tr": "Otururum, ama kalemini yine kendin topla."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_083",
+      "speaker": "老师",
+      "zh": "哈哈，朋友可以提醒，不用替你保管所有东西。",
+      "pinyin": "Hā hā, péng yǒu kě yǐ tí xǐng, bù yòng tì nǐ bǎo guǎn suǒ yǒu dōng xi.",
+      "tr": "Haha, arkadaşın seni uyarabilir, bütün eşyalarını koruması gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_084",
+      "speaker": "刘梅",
+      "zh": "自己的东西自己管，需要帮助再说。",
+      "pinyin": "Zì jǐ de dōng xi zì jǐ guǎn, xū yào bāng zhù zài shuō.",
+      "tr": "Eşyalarına kendin bak, yardıma ihtiyacın olursa söyle."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_085",
+      "speaker": "张乐乐",
+      "zh": "我记住了。谢谢你没有生我的气。",
+      "pinyin": "Wǒ jì zhù le. xiè xiè nǐ méi yǒu shēng wǒ de qì.",
+      "tr": "Öğrendim. Bana kızmadığın için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_086",
+      "speaker": "同学",
+      "zh": "刚才有一点不开心，现在没有了。",
+      "pinyin": "Gāng cái yǒu yì diǎn bù kāi xīn, xiàn zài méi yǒu le.",
+      "tr": "Az önce biraz mutsuzdum, şimdi geçti."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_087",
+      "speaker": "老师",
+      "zh": "说出来别人才能知道，你们都做得很好。",
+      "pinyin": "Shuō chū lái bié rén cái néng zhī dào, nǐ men dōu zuò de hěn hǎo.",
+      "tr": "Söylersen diğerleri anlayabilir, ikiniz de iyi yaptınız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_088",
+      "speaker": "刘梅",
+      "zh": "妈妈也谢谢小杰，让乐乐慢慢学会和朋友相处。",
+      "pinyin": "Mā ma yě xiè xiè xiǎo jié, ràng lè le màn màn xué huì hé péng yǒu xiāng chǔ.",
+      "tr": "Annen de Xiaojie’ye teşekkür eder, Lele arkadaşlarıyla anlaşmayı zamanla öğreniyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_089",
+      "speaker": "张乐乐",
+      "zh": "那明天我们接着看那本书，好不好？",
+      "pinyin": "Nà míng tiān wǒ men jiē zhe kàn nà běn shū, hǎo bù hǎo?",
+      "tr": "O zaman yarın o kitaba bakmaya devam edelim, olur mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_090",
+      "speaker": "同学",
+      "zh": "好，今天看到的小猫还没找到它的家呢。",
+      "pinyin": "Hǎo, jīn tiān kàn dào de xiǎo māo hái méi zhǎo dào tā de jiā ne.",
+      "tr": "Olur, bugün baktığımız kitaptaki küçük kedi evini bulmadı daha."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_091",
+      "speaker": "老师",
+      "zh": "明天继续看，现在已经到放学时间了。",
+      "pinyin": "Míng tiān jì xù kàn, xiàn zài yǐ jīng dào fàng xué shí jiān le.",
+      "tr": "Yarın devam edersiniz, şimdi okul bitme zamanı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_092",
+      "speaker": "刘梅",
+      "zh": "我们要回家了，你先跟老师和小杰说再见。",
+      "pinyin": "Wǒ men yào huí jiā le, nǐ xiān gēn lǎo shī hé xiǎo jié shuō zài jiàn.",
+      "tr": "Eve gideceğiz, önce öğretmene ve Xiaojie’ye veda et."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_093",
+      "speaker": "张乐乐",
+      "zh": "老师再见，小杰，明天见。",
+      "pinyin": "Lǎo shī zài jiàn, xiǎo jié, míng tiān jiàn.",
+      "tr": "Hoşça kal öğretmenim, Xiaojie, yarın görüşürüz.",
+      "emotion": "happy",
+      "actionTr": "Lele öğretmene ve arkadaşına el sallar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_094",
+      "speaker": "同学",
+      "zh": "明天见，乐乐。蓝色铅笔别忘在桌上啊。",
+      "pinyin": "Míng tiān jiàn, lè le. lán sè qiān bǐ bié wàng zài zhuō shàng a.",
+      "tr": "Yarın görüşürüz Lele. Mavi kalemini masada unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_095",
+      "speaker": "老师",
+      "zh": "哈哈，已经在包里了，回去慢慢走。",
+      "pinyin": "Hā hā, yǐ jīng zài bāo lǐ le, huí qù màn màn zǒu.",
+      "tr": "Haha, çantasında zaten, eve sakince gidin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_096",
+      "speaker": "刘梅",
+      "zh": "走吧，妈妈牵着你，路上听你讲今天的事。",
+      "pinyin": "Zǒu ba, mā ma qiān zhe nǐ, lù shàng tīng nǐ jiǎng jīn tiān de shì.",
+      "tr": "Hadi, annen elinden tutsun, yolda bugünü anlatmanı dinlesin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_097",
+      "speaker": "张乐乐",
+      "zh": "我想先讲找铅笔的事，不过要从头说。",
+      "pinyin": "Wǒ xiǎng xiān jiǎng zhǎo qiān bǐ de shì, bù guò yào cóng tóu shuō.",
+      "tr": "Önce kalemi aramayı anlatmak istiyorum, ama baştan."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_098",
+      "speaker": "同学",
+      "zh": "别只说找到笔，也说我们没有吵架。",
+      "pinyin": "Bié zhǐ shuō zhǎo dào bǐ, yě shuō wǒ men méi yǒu chǎo jià.",
+      "tr": "Yalnız kalemi bulduğunu söyleme, tartışmadığımızı da söyle."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_099",
+      "speaker": "老师",
+      "zh": "对，问题解决了，朋友还可以一起玩。",
+      "pinyin": "Duì, wèn tí jiě jué le, péng yǒu hái kě yǐ yì qǐ wán.",
+      "tr": "Evet, sorun çözüldü, arkadaşlar yine birlikte oynayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC025_100",
+      "speaker": "刘梅",
+      "zh": "妈妈听着呢，我们回家慢慢说。",
+      "pinyin": "Mā ma tīng zhe ne, wǒ men huí jiā màn màn shuō.",
+      "tr": "Annen dinliyor, eve giderken rahatça anlatırsın."
+    }
+  ]
+}

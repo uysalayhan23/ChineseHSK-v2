@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK4_SC002",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC002.json",
-  "dialogueSha256": "a206c3ee523defbfc6dc0599acba0677846d8bdf888e773d10dcc32e4bc838a1",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC002.json",
+  "dialogueSha256": "e7c68c702c7e61a726ca15d9cba662074951427e89054a1e90a7676ae5ceada2",
   "titleTr": "Çiftlikte Son Hasat",
   "locationId": "LOC_ZH_GRANDPARENTS_FARM_001",
   "scenePurposeTr": "Aile son hasada yardım eder; büyükbaba toprağa veda eder.",
@@ -69,5 +69,7 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi.",
+  "dialogueQaStatus": "PASS",
+  "dialogueQaNoteTr": "Yinelenen replikler sahne bağlamına göre çeşitlendirildi; 100 tur, sıra ve pinyin/Türkçe yeniden doğrulandı."
 }

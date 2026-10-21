@@ -1,0 +1,711 @@
+{
+  "naturalizationVersion": 2,
+  "status": "NATURALIZED_REVIEWED",
+  "sceneId": "ZH_HSK6_SC036",
+  "level": "HSK6",
+  "sourceTitleZh": "洪水预警",
+  "sourceTitleTr": "Kasabada Sel Tehdidi",
+  "sourceMiniAdventureTr": "Kasabada şiddetli yağış ve sel uyarısı yapılınca aile, mahalle sorumluları ve sakinler resmî bilgiyi doğrular; yardıma ihtiyaç duyan kişilerin güvenli biçimde tahliyesini koordine eder.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK6_SC036_001",
+      "speaker": "张伟",
+      "zh": "手机收到暴雨和洪水预警了。我们先确认发布单位和具体范围。",
+      "pinyin": "shǒu jī shōu dào bào yǔ hé hóng shuǐ yù jǐng le。 wǒ men xiān què rèn fā bù dān wèi hé jù tǐ fàn wéi。",
+      "tr": "Telefonuma şiddetli yağış ve sel uyarısı geldi. Önce uyarıyı yayımlayan kurumu ve kapsadığı alanı doğrulayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_002",
+      "speaker": "刘梅",
+      "zh": "我看到群里也有人转发，但版本不太一样。应该以哪一条为准？",
+      "pinyin": "wǒ kàn dào qún lǐ yě yǒu rén zhuǎn fā， dàn bǎn běn bù tài yī yàng。 yīng gāi yǐ nǎ yī tiáo wèi zhǔn？",
+      "tr": "Grupta başkalarının paylaştığı mesajları da gördüm ama içerikleri farklı. Hangisini esas almalıyız?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_003",
+      "speaker": "社区负责人",
+      "zh": "我刚从应急部门的官方渠道核对过，低洼街区需要做好转移准备。",
+      "pinyin": "wǒ gāng cóng yìng jí bù mén de guān fāng qú dào hé duì guò， dī wā jiē qū xū yào zuò hǎo zhuǎn yí zhǔn bèi。",
+      "tr": "Acil durum biriminin resmî kanalından doğruladım; alçak bölgelerdeki mahalleler taşınmaya hazırlanmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_004",
+      "speaker": "居民",
+      "zh": "我家住在河边那条巷子。现在水还没到门口，我们需要立刻走吗？",
+      "pinyin": "wǒ jiā zhù zài hé biān nà tiáo xiàng zi。 xiàn zài shuǐ hái méi dào mén kǒu， wǒ men xū yào lì kè zǒu ma？",
+      "tr": "Evimiz nehir kıyısındaki sokakta. Su henüz kapıya ulaşmadı; hemen çıkmamız gerekiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_005",
+      "speaker": "张伟",
+      "zh": "先按官方通知里的时间和路线行动，不要等到看见积水才开始准备。",
+      "pinyin": "xiān àn guān fāng tōng zhī lǐ de shí jiān hé lù xiàn xíng dòng， bú yào děng dào kàn jiàn jī shuǐ cái kāi shǐ zhǔn bèi。",
+      "tr": "Resmî duyurudaki zaman ve güzergâhı izleyelim; suyu görene kadar hazırlığı ertelemeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_006",
+      "speaker": "刘梅",
+      "zh": "通知上写了集合点，但我不确定行动不方便的人怎么过去。",
+      "pinyin": "tōng zhī shàng xiě le jí hé diǎn， dàn wǒ bù què dìng xíng dòng bù fāng biàn de rén zěn me guò qù。",
+      "tr": "Duyuruda toplanma noktası yazıyor ama hareket etmekte zorlananların oraya nasıl gideceği belli değil."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_007",
+      "speaker": "社区负责人",
+      "zh": "我们正在联系社区车辆和志愿者，名单要先核实，避免漏掉独居居民。",
+      "pinyin": "wǒ men zhèng zài lián xì shè qū chē liàng hé zhì yuàn zhě， míng dān yào xiān hé shí， bì miǎn lòu diào dú jū jū mín。",
+      "tr": "Mahalle araçlarıyla gönüllüleri ayarlıyoruz. Yalnız yaşayan sakinleri atlamamak için önce listeyi doğrulamalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_008",
+      "speaker": "居民",
+      "zh": "我认识几位住在一楼的老人，他们可能没看到手机上的提醒。",
+      "pinyin": "wǒ rèn shí jǐ wèi zhù zài yī lóu de lǎo rén， tā men kě néng méi kàn dào shǒu jī shàng de tí xǐng。",
+      "tr": "Zemin katta oturan birkaç yaşlı tanıyorum; telefon uyarısını görmemiş olabilirler."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_009",
+      "speaker": "张伟",
+      "zh": "我和你逐户敲门确认，先问他们有没有收到通知、是否需要陪同。",
+      "pinyin": "wǒ hé nǐ zhú hù qiāo mén què rèn， xiān wèn tā men yǒu méi yǒu shōu dào tōng zhī、 shì fǒu xū yào péi tóng。",
+      "tr": "Birlikte kapı kapı dolaşıp duyuruyu alıp almadıklarını ve eşlik gerekip gerekmediğini soralım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_010",
+      "speaker": "刘梅",
+      "zh": "我来记下已经联系的人，但不把他们的住址发到公开群里。",
+      "pinyin": "wǒ lái jì xià yǐ jīng lián xì de rén， dàn bù bǎ tā men de zhù zhǐ fā dào gōng kāi qún lǐ。",
+      "tr": "Ulaştığımız kişileri not ederim ama adreslerini herkese açık gruba yazmam."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_011",
+      "speaker": "社区负责人",
+      "zh": "名单只供这次协调使用，谁负责哪一段也要标清楚。",
+      "pinyin": "míng dān zhǐ gōng zhè cì xié tiáo shǐ yòng， shuí fù zé nǎ yī duàn yě yào biāo qīng chǔ。",
+      "tr": "Liste yalnızca bu koordinasyon için kullanılacak; kimin hangi bölgeden sorumlu olduğunu da açıkça yazalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_012",
+      "speaker": "居民",
+      "zh": "如果有人没开门，我们怎么知道他是出去了，还是没听见？",
+      "pinyin": "rú guǒ yǒu rén méi kāi mén， wǒ men zěn me zhī dào tā shì chū qù le， hái shì méi tīng jiàn？",
+      "tr": "Biri kapıyı açmazsa dışarıda mı, yoksa bizi mi duymadı nasıl anlayacağız?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_013",
+      "speaker": "张伟",
+      "zh": "先联系他留下的电话，再请熟悉情况的邻居协助确认，不要自行猜测。",
+      "pinyin": "xiān lián xì tā liú xià de diàn huà， zài qǐng shú xī qíng kuàng de lín jū xié zhù què rèn， bú yào zì xíng cāi cè。",
+      "tr": "Önce bıraktığı telefonu arayalım; sonra durumu bilen komşudan doğrulamasını isteyelim, tahmin yürütmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_014",
+      "speaker": "刘梅",
+      "zh": "消息里要写清楚“尚未联系上”，不要直接说成“已经安全”。",
+      "pinyin": "xiāo xī lǐ yào xiě qīng chǔ “ shàng wèi lián xì shàng ”， bú yào zhí jiē shuō chéng “ yǐ jīng ān quán ”。",
+      "tr": "Mesajda “henüz ulaşılamadı” diyelim; doğrudan “güvende” diye yazmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_015",
+      "speaker": "社区负责人",
+      "zh": "对，信息状态要准确。我会把已确认、待确认和需要帮助的情况分开记录。",
+      "pinyin": "duì， xìn xī zhuàng tài yào zhǔn què。 wǒ huì bǎ yǐ què rèn、 dài què rèn hé xū yào bāng zhù de qíng kuàng fēn kāi jì lù。",
+      "tr": "Doğru, bilginin durumunu doğru belirtmeliyiz. Doğrulanan, bekleyen ve yardım gereken durumları ayrı kaydedeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_016",
+      "speaker": "居民",
+      "zh": "我刚才听说桥那边已经封了，可另一个群又说还能通行。",
+      "pinyin": "wǒ gāng cái tīng shuō qiáo nà biān yǐ jīng fēng le， kě lìng yí gè qún yòu shuō hái néng tōng xíng。",
+      "tr": "Az önce köprünün kapatıldığını duydum ama başka bir grup hâlâ geçilebildiğini söylüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_017",
+      "speaker": "张伟",
+      "zh": "先别转发未经确认的说法。我们查官方路况，再把核实后的信息发出来。",
+      "pinyin": "xiān bié zhuǎn fā wèi jīng què rèn de shuō fǎ。 wǒ men chá guān fāng lù kuàng， zài bǎ hé shí hòu de xìn xī fā chū lái。",
+      "tr": "Doğrulanmamış bilgiyi paylaşmayalım. Resmî yol durumunu kontrol edip doğrulananı duyuralım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_018",
+      "speaker": "刘梅",
+      "zh": "最好把发布时间也写上，旧消息过一会儿就可能不适用了。",
+      "pinyin": "zuì hǎo bǎ fā bù shí jiān yě xiě shàng， jiù xiāo xī guò yī huì er jiù kě néng bù shì yòng le。",
+      "tr": "Yayımlanma saatini de yazalım; eski bir bilgi kısa süre sonra geçersiz kalabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_019",
+      "speaker": "社区负责人",
+      "zh": "我会注明来源和时间；如果路线有变化，也会在原通知下更新。",
+      "pinyin": "wǒ huì zhù míng lái yuán hé shí jiān； rú guǒ lù xiàn yǒu biàn huà， yě huì zài yuán tōng zhī xià gēng xīn。",
+      "tr": "Kaynağı ve saati belirteceğim; güzergâh değişirse aynı duyuruyu güncelleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_020",
+      "speaker": "居民",
+      "zh": "有些老人不看群消息，能不能让人把通知读给他们听？",
+      "pinyin": "yǒu xiē lǎo rén bù kàn qún xiāo xī， néng bù néng ràng rén bǎ tōng zhī dú gěi tā men tīng？",
+      "tr": "Bazı yaşlılar grup mesajlarını takip etmiyor. Birisi duyuruyu onlara okuyabilir mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_021",
+      "speaker": "张伟",
+      "zh": "可以，但要逐字说明官方要求，不要为了让人安心而省略风险。",
+      "pinyin": "kě yǐ， dàn yào zhú zì shuō míng guān fāng yāo qiú， bú yào wèi le ràng rén ān xīn ér shěng lüè fēng xiǎn。",
+      "tr": "Olur; ancak resmî talimatı doğru aktaralım, insanları rahatlatmak için riskleri atlamayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_022",
+      "speaker": "刘梅",
+      "zh": "语气也尽量平稳。说得太轻，他们可能不当回事；说得太吓人，又容易引起慌乱。",
+      "pinyin": "yǔ qì yě jǐn liàng píng wěn。 shuō dé tài qīng， tā men kě néng bù dàng huí shì； shuō dé tài xià rén， yòu róng yì yǐn qǐ huāng luàn。",
+      "tr": "Sakin bir ton kullanalım. Fazla hafif anlatırsak önemsemeyebilirler; çok korkutursak panik doğabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_023",
+      "speaker": "社区负责人",
+      "zh": "我来准备一段简短的话，说明风险、官方安排和可以求助的方式。",
+      "pinyin": "wǒ lái zhǔn bèi yī duàn jiǎn duǎn de huà， shuō míng fēng xiǎn、 guān fāng ān pái hé kě yǐ qiú zhù de fāng shì。",
+      "tr": "Riskleri, resmî düzenlemeyi ve yardım istenecek yolu açıklayan kısa bir metin hazırlayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_024",
+      "speaker": "居民",
+      "zh": "如果有人坚持留下来看房子，我们该怎么劝？",
+      "pinyin": "rú guǒ yǒu rén jiān chí liú xià lái kàn fáng zi， wǒ men gāi zěn me quàn？",
+      "tr": "Biri evini gözetlemek için kalmakta ısrar ederse nasıl ikna edelim?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_025",
+      "speaker": "张伟",
+      "zh": "先听听他最担心什么，再解释撤离安排和财物保护的办法。",
+      "pinyin": "xiān tīng tīng tā zuì dān xīn shén me， zài jiě shì chè lí ān pái hé cái wù bǎo hù de bàn fǎ。",
+      "tr": "Önce en çok neden kaygılandığını dinleyelim; sonra tahliye düzenini ve eşyaları koruma yollarını anlatalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_026",
+      "speaker": "刘梅",
+      "zh": "不要责备他胆小。对家有牵挂很正常，我们可以帮他把重要物品带上。",
+      "pinyin": "bú yào zé bèi tā dǎn xiǎo。 duì jiā yǒu qiān guà hěn zhèng cháng， wǒ men kě yǐ bāng tā bǎ zhòng yào wù pǐn dài shàng。",
+      "tr": "Onu korkak diye suçlamayalım. Evini düşünmesi normal; önemli eşyalarını almasına yardım edebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_027",
+      "speaker": "社区负责人",
+      "zh": "如果官方要求立即转移，就要清楚说明，不能把个人建议说成强制规定。",
+      "pinyin": "rú guǒ guān fāng yāo qiú lì jí zhuǎn yí， jiù yào qīng chǔ shuō míng， bù néng bǎ gè rén jiàn yì shuō chéng qiáng zhì guī dìng。",
+      "tr": "Resmî talimat hemen taşınmayı gerektiriyorsa bunu açıkça belirtmeliyiz; kişisel öneriyi zorunlu kural gibi sunmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_028",
+      "speaker": "居民",
+      "zh": "我可以帮隔壁王阿姨收拾药和证件，她走路慢，需要多一点时间。",
+      "pinyin": "wǒ kě yǐ bāng gé bì wáng ā yí shōu shí yào hé zhèng jiàn， tā zǒu lù màn， xū yào duō yì diǎn shí jiān。",
+      "tr": "Komşum Wang teyzeye ilaçlarını ve belgelerini alması için yardım edebilirim; yavaş yürüdüğünden daha çok zamana ihtiyacı var."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_029",
+      "speaker": "张伟",
+      "zh": "我陪她走到接送点，你确认她带齐常用药和联系方式。",
+      "pinyin": "wǒ péi tā zǒu dào jiē sòng diǎn， nǐ què rèn tā dài qí cháng yòng yào hé lián xì fāng shì。",
+      "tr": "Onunla araç noktasına kadar giderim; sen de düzenli kullandığı ilaçları ve iletişim bilgilerini aldığını kontrol et."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_030",
+      "speaker": "刘梅",
+      "zh": "她的健康信息不要写在公开名单上，交接时只告诉负责接应的人。",
+      "pinyin": "tā de jiàn kāng xìn xī bú yào xiě zài gōng kāi míng dān shàng， jiāo jiē shí zhǐ gào sù fù zé jiē yīng de rén。",
+      "tr": "Sağlık bilgisini herkese açık listeye yazmayalım; yalnızca teslim alacak sorumluya iletelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_031",
+      "speaker": "社区负责人",
+      "zh": "车辆会按需要安排上车顺序，先照顾行动不便的人，再按通知分批转移。",
+      "pinyin": "chē liàng huì àn xū yào ān pái shàng chē shùn xù， xiān zhào gù xíng dòng bù biàn de rén， zài àn tōng zhī fēn pī zhuǎn yí。",
+      "tr": "Araçlara biniş sırasını ihtiyaca göre düzenleyeceğiz; önce hareket kısıtlılığı olanlara yardım edip sonra duyuruya göre gruplar hâlinde geçeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_032",
+      "speaker": "居民",
+      "zh": "我家有只猫，临时安置点能不能带宠物进去？",
+      "pinyin": "wǒ jiā yǒu zhǐ māo， lín shí ān zhì diǎn néng bù néng dài chǒng wù jìn qù？",
+      "tr": "Evde bir kedim var. Geçici barınağa evcil hayvan götürebilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_033",
+      "speaker": "张伟",
+      "zh": "先问清安置点的规定，别到门口才发现不能带。宠物用品也提前准备好。",
+      "pinyin": "xiān wèn qīng ān zhì diǎn de guī dìng， bié dào mén kǒu cái fā xiàn bù néng dài。 chǒng wù yòng pǐn yě tí qián zhǔn bèi hǎo。",
+      "tr": "Önce barınağın kurallarını öğrenelim; kapıya gelince kabul edilmediğini görmeyelim. Hayvanın eşyalarını da hazırla."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_034",
+      "speaker": "刘梅",
+      "zh": "如果不允许带进去，社区有没有指定的临时照看安排？",
+      "pinyin": "rú guǒ bù yǔn xǔ dài jìn qù， shè qū yǒu méi yǒu zhǐ dìng de lín shí zhào kàn ān pái？",
+      "tr": "İçeri alınmıyorsa mahallede belirlenmiş geçici bakım düzeni var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_035",
+      "speaker": "社区负责人",
+      "zh": "我正在确认这件事，得到答复前先不要把未经核实的安排告诉居民。",
+      "pinyin": "wǒ zhèng zài què rèn zhè jiàn shì， dé dào dá fù qián xiān bú yào bǎ wèi jīng hé shí de ān pái gào sù jū mín。",
+      "tr": "Bunu doğruluyorum; yanıt gelmeden teyit edilmemiş bir düzenlemeyi sakinlere bildirmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_036",
+      "speaker": "居民",
+      "zh": "家里的老人听不懂普通话，通知能不能说得简单一点？",
+      "pinyin": "jiā lǐ de lǎo rén tīng bù dǒng pǔ tōng huà， tōng zhī néng bù néng shuō dé jiǎn dān yì diǎn？",
+      "tr": "Evdeki yaşlılar standart Mandarin’i anlamıyor. Duyuruyu daha basit anlatabilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_037",
+      "speaker": "张伟",
+      "zh": "可以换成他们熟悉的说法，但时间、地点和要求不能改变。",
+      "pinyin": "kě yǐ huàn chéng tā men shú xī de shuō fǎ， dàn shí jiān、 dì diǎn hé yāo qiú bù néng gǎi biàn。",
+      "tr": "Alışık oldukları ifadelerle anlatabiliriz ama zaman, yer ve talimatı değiştiremeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_038",
+      "speaker": "刘梅",
+      "zh": "我可以帮忙口头转述，再请他们复述一遍，确认没有听错。",
+      "pinyin": "wǒ kě yǐ bāng máng kǒu tóu zhuǎn shù， zài qǐng tā men fù shù yī biàn， què rèn méi yǒu tīng cuò。",
+      "tr": "Sözlü olarak aktarmaya yardım eder, yanlış anlamadıklarından emin olmak için onlardan tekrar etmelerini isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_039",
+      "speaker": "社区负责人",
+      "zh": "谢谢。翻译时如果遇到不确定的词，先来问我，不要自己补充解释。",
+      "pinyin": "xiè xiè。 fān yì shí rú guǒ yù dào bù què dìng de cí， xiān lái wèn wǒ， bú yào zì jǐ bǔ chōng jiě shì。",
+      "tr": "Teşekkürler. Çevirirken emin olmadığınız bir kelime olursa bana sorun; kendiniz açıklama eklemeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_040",
+      "speaker": "居民",
+      "zh": "我家附近的路已经开始积水了，要拍照片发群里吗？",
+      "pinyin": "wǒ jiā fù jìn de lù yǐ jīng kāi shǐ jī shuǐ le， yào pāi zhào piān fā qún lǐ ma？",
+      "tr": "Evin yakındaki yolda su birikmeye başladı. Fotoğraf çekip gruba göndereyim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_041",
+      "speaker": "张伟",
+      "zh": "先保证自己安全，别为了拍照靠近水边或封锁区域。",
+      "pinyin": "xiān bǎo zhèng zì jǐ ān quán， bié wèi le pāi zhào kào jìn shuǐ biān huò fēng suǒ qū yù。",
+      "tr": "Önce kendi güvenliğini sağla; fotoğraf çekmek için suya ya da kapatılmış alana yaklaşma."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_042",
+      "speaker": "刘梅",
+      "zh": "如果从安全位置能拍到，就带上时间和大概地点，发给负责核实的人。",
+      "pinyin": "rú guǒ cóng ān quán wèi zhì néng pāi dào， jiù dài shàng shí jiān hé dà gài dì diǎn， fā gěi fù zé hé shí de rén。",
+      "tr": "Güvenli bir yerden çekilebiliyorsa saate ve yaklaşık konuma ekleyip doğrulamadan sorumlu kişiye gönder."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_043",
+      "speaker": "社区负责人",
+      "zh": "我会把信息交给应急人员判断，不会直接把照片当成道路已经中断的证明。",
+      "pinyin": "wǒ huì bǎ xìn xī jiāo gěi yìng jí rén yuán pàn duàn， bú huì zhí jiē bǎ zhào piān dàng chéng dào lù yǐ jīng zhōng duàn de zhèng míng。",
+      "tr": "Bilgiyi acil durum görevlilerine iletip değerlendirmelerini isterim; fotoğrafı yolun kapandığının kesin kanıtı saymam."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_044",
+      "speaker": "居民",
+      "zh": "停电的话，手机没电了怎么办？",
+      "pinyin": "tíng diàn de huà， shǒu jī méi diàn le zěn me bàn？",
+      "tr": "Elektrik kesilirse telefonun şarjı biterse ne yapacağız?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_045",
+      "speaker": "张伟",
+      "zh": "先把手机留给必要联系，备好充电宝，也记下重要电话和集合信息。",
+      "pinyin": "xiān bǎ shǒu jī liú gěi bì yào lián xì， bèi hǎo chōng diàn bǎo， yě jì xià zhòng yào diàn huà hé jí hé xìn xī。",
+      "tr": "Telefonu gerekli iletişim için saklayalım; taşınabilir şarj cihazı hazırlayıp önemli numaraları ve buluşma bilgisini not edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_046",
+      "speaker": "刘梅",
+      "zh": "纸上也写一份，但别在上面留下不该公开的个人资料。",
+      "pinyin": "zhǐ shàng yě xiě yī fèn， dàn bié zài shàng miàn liú xià bù gāi gōng kāi de gè rén zī liào。",
+      "tr": "Kâğıda da bir kopya yazalım ama gereksiz kişisel bilgileri eklemeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_047",
+      "speaker": "社区负责人",
+      "zh": "安置点和联络方式以最新官方通知为准，纸上的内容也要及时更新。",
+      "pinyin": "ān zhì diǎn hé lián luò fāng shì yǐ zuì xīn guān fāng tōng zhī wèi zhǔn， zhǐ shàng de nèi róng yě yào jí shí gēng xīn。",
+      "tr": "Barınma yeri ve iletişim bilgileri için en güncel resmî duyuruya uyalım; kâğıttaki bilgileri de güncelleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_048",
+      "speaker": "居民",
+      "zh": "我想把一条消息发给所有亲戚，提醒他们别往这边开车。",
+      "pinyin": "wǒ xiǎng bǎ yī tiáo xiāo xī fā gěi suǒ yǒu qīn qī， tí xǐng tā men bié wǎng zhè biān kāi chē。",
+      "tr": "Bütün akrabalarıma buraya araçla gelmemeleri için mesaj göndermek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_049",
+      "speaker": "张伟",
+      "zh": "提醒他们注意官方路况就好，不必把未经确认的封路消息说成事实。",
+      "pinyin": "tí xǐng tā men zhù yì guān fāng lù kuàng jiù hǎo， bù bì bǎ wèi jīng què rèn de fēng lù xiāo xī shuō chéng shì shí。",
+      "tr": "Resmî yol durumunu izlemelerini söyle; doğrulanmamış kapanma bilgisini gerçekmiş gibi aktarma."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_050",
+      "speaker": "刘梅",
+      "zh": "我帮你把文字检查一遍，确保语气明确，也没有夸大危险。",
+      "pinyin": "wǒ bāng nǐ bǎ wén zì jiǎn chá yī biàn， què bǎo yǔ qì míng què， yě méi yǒu kuā dà wēi xiǎn。",
+      "tr": "Mesajını gözden geçirip açık olduğundan ve tehlikeyi abartmadığından emin olayım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_051",
+      "speaker": "社区负责人",
+      "zh": "如果有人要来接家人，让他先联系负责协调的电话，避免车辆堵在狭窄路口。",
+      "pinyin": "rú guǒ yǒu rén yào lái jiē jiā rén， ràng tā xiān lián xì fù zé xié tiáo de diàn huà， bì miǎn chē liàng dǔ zài xiá zhǎi lù kǒu。",
+      "tr": "Ailesini almaya gelecek biri varsa dar sokakta araç trafiği oluşmaması için önce koordinasyon numarasını arasın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_052",
+      "speaker": "居民",
+      "zh": "雨衣和水都准备好了，大家还需要带什么？",
+      "pinyin": "yǔ yī hé shuǐ dōu zhǔn bèi hǎo le， dà jiā hái xū yào dài shén me？",
+      "tr": "Yağmurlukları ve suyu hazırladık. Başka ne almalıyız?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_053",
+      "speaker": "张伟",
+      "zh": "按官方清单准备必需品，重要证件和常用药放在容易拿到的地方。",
+      "pinyin": "àn guān fāng qīng dān zhǔn bèi bì xū pǐn， zhòng yào zhèng jiàn hé cháng yòng yào fàng zài róng yì ná dào de dì fāng。",
+      "tr": "Gerekli eşyaları resmî listeye göre hazırlayın; önemli belgeleri ve düzenli ilaçları kolay erişilecek yere koyun."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_054",
+      "speaker": "刘梅",
+      "zh": "别因为收拾太多而耽误出发，拿不走的东西就先留在家里。",
+      "pinyin": "bié yīn wèi shōu shí tài duō ér dān wù chū fā， ná bù zǒu de dōng xī jiù xiān liú zài jiā lǐ。",
+      "tr": "Fazla eşya toplamak çıkışı geciktirmesin; taşınamayacak şeyleri evde bırakın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_055",
+      "speaker": "社区负责人",
+      "zh": "集合点有工作人员登记，到了以后先报到，再按指引进入安置区域。",
+      "pinyin": "jí hé diǎn yǒu gōng zuò rén yuán dēng jì， dào le yǐ hòu xiān bào dào， zài àn zhǐ yǐn jìn rù ān zhì qū yù。",
+      "tr": "Toplanma noktasında görevliler kayıt alacak. Varınca önce kayıt yaptırıp sonra yönlendirmeyi izleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_056",
+      "speaker": "居民",
+      "zh": "如果我和家人走散了，应该去哪里找他们？",
+      "pinyin": "rú guǒ wǒ hé jiā rén zǒu sàn le， yīng gāi qù nǎ lǐ zhǎo tā men？",
+      "tr": "Ailemden ayrı düşersem onları nerede aramalıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_057",
+      "speaker": "张伟",
+      "zh": "先约好一个固定联络方式和备用集合点，别临时各自往危险区域找。",
+      "pinyin": "xiān yuē hǎo yí gè gù dìng lián luò fāng shì hé bèi yòng jí hé diǎn， bié lín shí gè zì wǎng wēi xiǎn qū yù zhǎo。",
+      "tr": "Önceden bir iletişim yöntemi ve yedek buluşma noktası belirleyin; tehlikeli bölgelerde birbirinizi aramayın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_058",
+      "speaker": "刘梅",
+      "zh": "也告诉家里人，谁负责联系哪位亲属，避免同一个人被反复打电话。",
+      "pinyin": "yě gào sù jiā lǐ rén， shuí fù zé lián xì nǎ wèi qīn shǔ， bì miǎn tóng yī gè rén bèi fǎn fù dǎ diàn huà。",
+      "tr": "Aileye hangi kişinin hangi akrabayı arayacağını da söyleyelim; aynı kişi tekrar tekrar aranmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_059",
+      "speaker": "社区负责人",
+      "zh": "安置点会有信息登记处，具体位置到场后看工作人员的指引。",
+      "pinyin": "ān zhì diǎn huì yǒu xìn xī dēng jì chù， jù tǐ wèi zhì dào chǎng hòu kàn gōng zuò rén yuán de zhǐ yǐn。",
+      "tr": "Barınma noktasında bir bilgi kayıt masası olacak; yerini varınca görevlilerin yönlendirmesinden öğrenin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_060",
+      "speaker": "居民",
+      "zh": "我有邻居说这次预警肯定是夸大了，往年也没淹到这里。",
+      "pinyin": "wǒ yǒu lín jū shuō zhè cì yù jǐng kěn dìng shì kuā dà le， wǎng nián yě méi yān dào zhè lǐ。",
+      "tr": "Bir komşu bu uyarının kesinlikle abartılı olduğunu söylüyor; önceki yıllarda burayı su basmamış."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_061",
+      "speaker": "张伟",
+      "zh": "过去没发生，不代表这次不会发生。我们还是按当前的雨量和官方判断准备。",
+      "pinyin": "guò qù méi fā shēng， bù dài biǎo zhè cì bú huì fā shēng。 wǒ men hái shì àn dāng qián de yǔ liàng hé guān fāng pàn duàn zhǔn bèi。",
+      "tr": "Daha önce olmamış olması bu kez olmayacağı anlamına gelmez. Mevcut yağış ve resmî değerlendirmeye göre hazırlanalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_062",
+      "speaker": "刘梅",
+      "zh": "可以理解他为什么怀疑，但别因此耽误需要帮助的人先转移。",
+      "pinyin": "kě yǐ lǐ jiě tā wèi shén me huái yí， dàn bié yīn cǐ dān wù xū yào bāng zhù de rén xiān zhuǎn yí。",
+      "tr": "Neden kuşkulandığını anlayabiliriz ama bu, yardıma ihtiyacı olanların taşınmasını geciktirmesin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_063",
+      "speaker": "社区负责人",
+      "zh": "我会把预警依据和最新情况说明白，有变化也会及时更新，不做无法保证的承诺。",
+      "pinyin": "wǒ huì bǎ yù jǐng yī jù hé zuì xīn qíng kuàng shuō míng bái， yǒu biàn huà yě huì jí shí gēng xīn， bù zuò wú fǎ bǎo zhèng de chéng nuò。",
+      "tr": "Uyarının dayanağını ve son durumu açıklar, değişiklik olursa güncellerim; garanti edemeyeceğim sözler vermem."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_064",
+      "speaker": "居民",
+      "zh": "要是雨停了，是不是大家就可以马上回家？",
+      "pinyin": "yào shì yǔ tíng le， shì bú shì dà jiā jiù kě yǐ mǎ shàng huí jiā？",
+      "tr": "Yağmur durursa herkes hemen eve dönebilir mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_065",
+      "speaker": "张伟",
+      "zh": "不能只凭雨停来判断。要等官方确认道路和住处安全，再按通知返回。",
+      "pinyin": "bù néng zhǐ píng yǔ tíng lái pàn duàn。 yào děng guān fāng què rèn dào lù hé zhù chù ān quán， zài àn tōng zhī fǎn huí。",
+      "tr": "Yalnızca yağmurun durmasına bakarak karar veremeyiz. Yolların ve evlerin güvenli olduğu resmen doğrulandıktan sonra duyuruya göre dönelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_066",
+      "speaker": "刘梅",
+      "zh": "有人着急回去拿东西，我们先告诉他目前有哪些信息，还没确认的就说明白。",
+      "pinyin": "yǒu rén zháo jí huí qù ná dōng xī， wǒ men xiān gào sù tā mù qián yǒu nǎ xiē xìn xī， hái méi què rèn de jiù shuō míng bái。",
+      "tr": "Eşyalarını almaya dönmek isteyenlere mevcut bilgiyi anlatalım; doğrulanmamış noktaları da açıkça belirtelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_067",
+      "speaker": "社区负责人",
+      "zh": "回迁安排会另行通知。没有得到许可前，工作人员也不会让大家自行进入危险区域。",
+      "pinyin": "huí qiān ān pái huì lìng xíng tōng zhī。 méi yǒu dé dào xǔ kě qián， gōng zuò rén yuán yě bú huì ràng dà jiā zì xíng jìn rù wēi xiǎn qū yù。",
+      "tr": "Eve dönüş düzeni ayrıca duyurulacak. İzin verilmeden görevliler de insanların tehlikeli bölgeye girmesine izin vermeyecek."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_068",
+      "speaker": "居民",
+      "zh": "我愿意帮忙送水，不过不知道哪个安置点最缺。",
+      "pinyin": "wǒ yuàn yì bāng máng sòng shuǐ， bù guò bù zhī dào nǎ ge ān zhì diǎn zuì quē。",
+      "tr": "Su dağıtımına yardım edebilirim ama hangi barınma noktasında en çok ihtiyaç olduğunu bilmiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_069",
+      "speaker": "张伟",
+      "zh": "先别自己开车去各处。联系物资协调人，按清单送到指定地点。",
+      "pinyin": "xiān bié zì jǐ kāi chē qù gè chù。 lián xì wù zī xié tiáo rén， àn qīng dān sòng dào zhǐ dìng dì diǎn。",
+      "tr": "Kendi başına araçla her yere gitme. Malzeme koordinatörüne ulaşıp listedeki ihtiyacı belirlenen yere götür."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_070",
+      "speaker": "刘梅",
+      "zh": "捐来的东西也要登记数量和接收人，分配时才不会重复或漏掉。",
+      "pinyin": "juān lái de dōng xī yě yào dēng jì shù liàng hé jiē shōu rén， fēn pèi shí cái bú huì chóng fù huò lòu diào。",
+      "tr": "Bağışlanan malzemeleri miktarı ve teslim alan kişiyle kaydedelim; dağıtırken tekrar ya da eksik olmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_071",
+      "speaker": "社区负责人",
+      "zh": "目前优先需要饮用水、照明和常用药品，其他物资先等我们确认。",
+      "pinyin": "mù qián yōu xiān xū yào yǐn yòng shuǐ、 zhào míng hé cháng yòng yào pǐn， qí tā wù zī xiān děng wǒ men què rèn。",
+      "tr": "Şu an öncelik içme suyu, aydınlatma ve sık kullanılan ilaçlar; diğer malzemeler için doğrulamamızı bekleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_072",
+      "speaker": "居民",
+      "zh": "有志愿者想直接进低洼街区帮人搬东西，这样是不是更快？",
+      "pinyin": "yǒu zhì yuàn zhě xiǎng zhí jiē jìn dī wā jiē qū bāng rén bān dōng xī， zhè yàng shì bú shì gèng kuài？",
+      "tr": "Gönüllüler alçak sokaklara girip eşya taşımak istiyor; bu daha hızlı olmaz mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_073",
+      "speaker": "张伟",
+      "zh": "没有专业人员确认安全之前不要进去，热心不能代替安全安排。",
+      "pinyin": "méi yǒu zhuān yè rén yuán què rèn ān quán zhī qián bú yào jìn qù， rè xīn bù néng dài tì ān quán ān pái。",
+      "tr": "Uzman görevliler güvenliği doğrulamadan içeri girmeyin; iyi niyet güvenlik düzeninin yerini tutmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_074",
+      "speaker": "刘梅",
+      "zh": "我们可以把他们登记下来，等有明确任务和安全路线再安排。",
+      "pinyin": "wǒ men kě yǐ bǎ tā men dēng jì xià lái， děng yǒu míng què rèn wù hé ān quán lù xiàn zài ān pái。",
+      "tr": "Gönüllüleri kaydedip görev ve güvenli güzergâh netleşince görevlendirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_075",
+      "speaker": "社区负责人",
+      "zh": "我会把名单交给现场协调人员，由他们根据需要和能力分配工作。",
+      "pinyin": "wǒ huì bǎ míng dān jiāo gěi xiàn chǎng xié tiáo rén yuán， yóu tā men gēn jù xū yào hé néng lì fēn pèi gōng zuò。",
+      "tr": "Listeyi saha koordinatörlerine iletirim; ihtiyaca ve kişilerin becerisine göre işi onlar dağıtır."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_076",
+      "speaker": "居民",
+      "zh": "有个人一直问为什么先安排老人，不先安排离河最近的房子。",
+      "pinyin": "yǒu gè rén yì zhí wèn wèi shén me xiān ān pái lǎo rén， bù xiān ān pái lí hé zuì jìn de fáng zi。",
+      "tr": "Biri neden önce yaşlıların değil, nehre en yakın evlerin tahliye edildiğini sürekli soruyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_077",
+      "speaker": "张伟",
+      "zh": "两类风险都要看，具体顺序应由应急人员按现场情况决定。",
+      "pinyin": "liǎng lèi fēng xiǎn dōu yào kàn， jù tǐ shùn xù yīng yóu yìng jí rén yuán àn xiàn chǎng qíng kuàng jué dìng。",
+      "tr": "Her iki risk türü de değerlendirilmeli; kesin sırayı acil durum görevlileri sahadaki duruma göre belirlemeli."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_078",
+      "speaker": "刘梅",
+      "zh": "我们可以把理由解释清楚，同时避免比较谁更值得帮助。",
+      "pinyin": "wǒ men kě yǐ bǎ lǐ yóu jiě shì qīng chǔ， tóng shí bì miǎn bǐ jiào shuí gèng zhí de bāng zhù。",
+      "tr": "Gerekçeyi açıklarız ama kimin daha çok yardımı hak ettiğini karşılaştırmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_079",
+      "speaker": "社区负责人",
+      "zh": "我会核实各片区的情况，再说明安排依据；如果风险变化，顺序也可能调整。",
+      "pinyin": "wǒ huì hé shí gè piàn qū de qíng kuàng， zài shuō míng ān pái yī jù； rú guǒ fēng xiǎn biàn huà， shùn xù yě kě néng tiáo zhěng。",
+      "tr": "Bölgelerin durumunu doğrulayıp düzenlemenin dayanağını açıklarım; risk değişirse sıra da değişebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_080",
+      "speaker": "居民",
+      "zh": "刚才那位老人已经上车了，另外两户也说准备好了。",
+      "pinyin": "gāng cái nà wèi lǎo rén yǐ jīng shàng chē le， lìng wài liǎng hù yě shuō zhǔn bèi hǎo le。",
+      "tr": "Az önceki yaşlı araca bindi; diğer iki hane de hazır olduklarını söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_081",
+      "speaker": "张伟",
+      "zh": "很好，请把已完成的转移和仍需协助的住户分开报给负责人。",
+      "pinyin": "hěn hǎo， qǐng bǎ yǐ wán chéng de zhuǎn yí hé réng xū xié zhù de zhù hù fēn kāi bào gěi fù zé rén。",
+      "tr": "Güzel. Tahliyesi tamamlananlarla hâlâ yardıma ihtiyacı olan haneleri sorumluya ayrı bildirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_082",
+      "speaker": "刘梅",
+      "zh": "我会更新联系表，只保留协调需要的信息，并确认家属知道他们去了哪里。",
+      "pinyin": "wǒ huì gēng xīn lián xì biǎo， zhǐ bǎo liú xié tiáo xū yào de xìn xī， bìng què rèn jiā shǔ zhī dào tā men qù le nǎ lǐ。",
+      "tr": "İletişim listesini günceller, yalnızca koordinasyon için gerekli bilgileri tutar ve ailelerinin nereye gittiklerini bildiğini doğrularım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_083",
+      "speaker": "社区负责人",
+      "zh": "收到。下一步先核对车辆和安置点的接收情况，再决定是否需要补充人员。",
+      "pinyin": "shōu dào。 xià yī bù xiān hé duì chē liàng hé ān zhì diǎn de jiē shōu qíng kuàng， zài jué dìng shì fǒu xū yào bǔ chōng rén yuán。",
+      "tr": "Aldım. Sonraki adımda araçları ve barınma yerinin kabul durumunu kontrol edip ek personele gerek olup olmadığına karar verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_084",
+      "speaker": "居民",
+      "zh": "现在雨下得更大了，我有点担心路上会不会突然封闭。",
+      "pinyin": "xiàn zài yǔ xià dé gèng dà le， wǒ yǒu diǎn dān xīn lù shàng huì bú huì tū rán fēng bì。",
+      "tr": "Şimdi yağmur daha da şiddetlendi; yolun aniden kapanmasından endişeleniyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_085",
+      "speaker": "张伟",
+      "zh": "保持关注最新通知，按工作人员指引走，不要为了赶时间自行换路。",
+      "pinyin": "bǎo chí guān zhù zuì xīn tōng zhī， àn gōng zuò rén yuán zhǐ yǐn zǒu， bú yào wèi le gǎn shí jiān zì xíng huàn lù。",
+      "tr": "Güncel duyuruları izleyip görevlilerin yönlendirmesine uyun; acele etmek için güzergâhı kendiniz değiştirmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_086",
+      "speaker": "刘梅",
+      "zh": "我会把最新消息发给家人，并标明更新时间，旧消息就不再继续转发。",
+      "pinyin": "wǒ huì bǎ zuì xīn xiāo xī fā gěi jiā rén， bìng biāo míng gēng xīn shí jiān， jiù xiāo xī jiù bù zài jì xù zhuǎn fā。",
+      "tr": "Son bilgiyi aileme gönderip güncelleme saatini yazarım; eski mesajı yeniden dolaşıma sokmam."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_087",
+      "speaker": "社区负责人",
+      "zh": "现场路线如有变化，我们会通过官方渠道和社区联络人同时通知。",
+      "pinyin": "xiàn chǎng lù xiàn rú yǒu biàn huà， wǒ men huì tōng guò guān fāng qú dào hé shè qū lián luò rén tóng shí tōng zhī。",
+      "tr": "Saha güzergâhı değişirse resmî kanaldan ve mahalle irtibat kişileri aracılığıyla aynı anda haber vereceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_088",
+      "speaker": "居民",
+      "zh": "大家都到集合点了吗？我不想因为名单没更新而重复找人。",
+      "pinyin": "dà jiā dōu dào jí hé diǎn le ma？ wǒ bù xiǎng yīn wèi míng dān méi gēng xīn ér chóng fù zhǎo rén。",
+      "tr": "Herkes toplanma noktasına ulaştı mı? Liste güncel değil diye aynı kişileri tekrar aramak istemiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_089",
+      "speaker": "张伟",
+      "zh": "先核对登记记录，再联系状态不明的人；不要把“没看到”当成“没到”。",
+      "pinyin": "xiān hé duì dēng jì jì lù， zài lián xì zhuàng tài bù míng de rén； bú yào bǎ “ méi kàn dào ” dàng chéng “ méi dào ”。",
+      "tr": "Önce kayıtları kontrol edip durumu belirsiz olanları arayalım; görememeyi gelmemiş olmakla karıştırmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_090",
+      "speaker": "刘梅",
+      "zh": "我已经把确认到场、途中和待核实分成三栏，大家更新时用同一套说法。",
+      "pinyin": "wǒ yǐ jīng bǎ què rèn dào chǎng、 tú zhōng hé dài hé shí fēn chéng sān lán， dà jiā gēng xīn shí yòng tóng yī tào shuō fǎ。",
+      "tr": "Ulaştığı doğrulananları, yolda olanları ve teyit bekleyenleri üç sütuna ayırdım; herkes aynı ifadeleri kullansın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_091",
+      "speaker": "社区负责人",
+      "zh": "很好。等现场人员确认完，我们再向居民说明目前还有哪些安排。",
+      "pinyin": "hěn hǎo。 děng xiàn chǎng rén yuán què rèn wán， wǒ men zài xiàng jū mín shuō míng mù qián hái yǒu nǎ xiē ān pái。",
+      "tr": "Güzel. Saha görevlileri doğrulamayı bitirince kalan düzenlemeleri sakinlere bildiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_092",
+      "speaker": "居民",
+      "zh": "我刚收到官方消息，说我们这条街也要按通知转移。",
+      "pinyin": "wǒ gāng shōu dào guān fāng xiāo xī， shuō wǒ men zhè tiáo jiē yě yào àn tōng zhī zhuǎn yí。",
+      "tr": "Az önce resmî mesaj geldi; bizim sokak da duyuruya göre tahliye edilecekmiş."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_093",
+      "speaker": "张伟",
+      "zh": "那就按新的通知行动。刚才的安排如果不同，以最新的官方指示为准。",
+      "pinyin": "nà jiù àn xīn de tōng zhī xíng dòng。 gāng cái de ān pái rú guǒ bù tóng， yǐ zuì xīn de guān fāng zhǐ shì wèi zhǔn。",
+      "tr": "Öyleyse yeni duyuruya göre hareket edelim. Önceki düzen farklıysa en güncel resmî talimat geçerli."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_094",
+      "speaker": "刘梅",
+      "zh": "我把时间和集合点再重复一遍，大家听完互相确认，避免传错。",
+      "pinyin": "wǒ bǎ shí jiān hé jí hé diǎn zài chóng fù yī biàn， dà jiā tīng wán hù xiāng què rèn， bì miǎn chuán cuò。",
+      "tr": "Saati ve toplanma noktasını tekrar edeyim; yanlış aktarılmasın diye birbirimizle doğrulayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_095",
+      "speaker": "社区负责人",
+      "zh": "我会继续和应急人员保持联系。出现变化时先核实，再发布，不让猜测代替消息。",
+      "pinyin": "wǒ huì jì xù hé yìng jí rén yuán bǎo chí lián xì。 chū xiàn biàn huà shí xiān hé shí， zài fā bù， bù ràng cāi cè dài tì xiāo xī。",
+      "tr": "Acil durum görevlileriyle bağlantıda kalacağım. Değişiklik olursa önce doğrular, sonra duyururum; tahminler bilginin yerini almasın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_096",
+      "speaker": "居民",
+      "zh": "我知道该带什么、去哪里，也联系上了需要陪同的邻居。",
+      "pinyin": "wǒ zhī dào gāi dài shén me、 qù nǎ lǐ， yě lián xì shàng le xū yào péi tóng de lín jū。",
+      "tr": "Ne alacağımı ve nereye gideceğimi biliyorum; eşlik etmem gereken komşuya da ulaştım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_097",
+      "speaker": "张伟",
+      "zh": "很好。先照顾好自己和家人，到了安全地点再告诉负责人已经到达。",
+      "pinyin": "hěn hǎo。 xiān zhào gù hǎo zì jǐ hé jiā rén， dào le ān quán dì diǎn zài gào sù fù zé rén yǐ jīng dào dá。",
+      "tr": "Güzel. Önce kendinizin ve ailenizin güvenliğini sağlayın; güvenli yere varınca sorumluya haber verin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_098",
+      "speaker": "刘梅",
+      "zh": "大家按确认过的信息互相帮助，不转发旧消息，也不让任何人独自承担协调。",
+      "pinyin": "dà jiā àn què rèn guò de xìn xī hù xiāng bāng zhù， bù zhuǎn fā jiù xiāo xī， yě bù ràng rèn hé rén dú zì chéng dān xié tiáo。",
+      "tr": "Herkes doğrulanmış bilgiyle birbirine yardım etsin; eski mesajları paylaşmasın, koordinasyon yükünü de kimse tek başına üstlenmesin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_099",
+      "speaker": "社区负责人",
+      "zh": "收到。我们继续按最新指示协调，等安全状况确认后再通知大家下一步。",
+      "pinyin": "shōu dào。 wǒ men jì xù àn zuì xīn zhǐ shì xié tiáo， děng ān quán zhuàng kuàng què rèn hòu zài tōng zhī dà jiā xià yī bù。",
+      "tr": "Aldım. Güncel talimatlara göre koordinasyonu sürdürelim; güvenlik durumu doğrulanınca sonraki adımı duyururuz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC036_100",
+      "speaker": "居民",
+      "zh": "收到。我们按最新通知行动，也等负责人确认下一步安排。",
+      "pinyin": "shōu dào。 wǒ men àn zuì xīn tōng zhī xíng dòng， yě děng fù zé rén què rèn xià yī bù ān pái。",
+      "tr": "Anladım. En güncel duyuruya göre hareket eder, sonraki düzenlemeyi sorumlunun doğrulamasını bekleriz."
+    }
+  ]
+}

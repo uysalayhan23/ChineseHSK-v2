@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC011.json",
-  "dialogueSha256": "212da8787d25ff0cca469a46e362dccd24e9621a30d65c2e3b02f87098722799",
+  "dialogueSha256": "eef40de7d6f4b06ec63a68212fc2859648fe41fc119d24fa3d589a9f0c572d88",
   "titleTr": "Ailece Karar Toplantısı",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Aile akşam masasında kafe açmanın risklerini, faydalarını ve bütçeyi tartışır.",

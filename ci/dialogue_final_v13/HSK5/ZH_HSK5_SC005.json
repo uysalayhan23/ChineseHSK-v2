@@ -11,702 +11,702 @@
     {
       "id": "DLG_ZH_HSK5_SC005_001",
       "speaker": "员工",
-      "zh": "最近我一直在想公平这件事。",
-      "pinyin": "Zuìjìn wǒ yìzhí zài xiǎng gōngpíng zhèjiàn shì.",
-      "tr": "Son zamanlarda adalet / hakkaniyet meselesini düşünüyorum."
+      "zh": "我想谈谈最近的排班，我觉得有些不公平。",
+      "pinyin": "Wǒ xiǎng tán tán zuì jìn de pái bān wǒ jué de yǒu xiē bù gōng píng",
+      "tr": "Son vardiyalar hakkında konuşmak istiyorum; bazıları bana adil gelmiyor."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_002",
       "speaker": "刘梅",
-      "zh": "最近我一直在想排班这件事。",
-      "pinyin": "Zuìjìn wǒ yìzhí zài xiǎng páibān zhèjiàn shì.",
-      "tr": "Son zamanlarda vardiya planı meselesini düşünüyorum."
+      "zh": "谢谢你直接告诉我。你能举个具体例子吗？",
+      "pinyin": "Xiè xiè nǐ zhí jiē gào sù wǒ nǐ néng jǔ gè jù tǐ lì zi ma",
+      "tr": "Bunu doğrudan söylediğin için sağ ol. Somut bir örnek verebilir misin?"
     },
     {
       "id": "DLG_ZH_HSK5_SC005_003",
       "speaker": "经理",
-      "zh": "这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "Zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
-      "tr": "Bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "过去三周我有两个周末都上晚班，其他人少一些。",
+      "pinyin": "Guò qù sān zhōu wǒ yǒu liǎng gè zhōu mò dōu shàng wǎn bān qí tā rén shǎo yī xiē",
+      "tr": "Son üç haftada iki hafta sonu akşam vardiyasına girdim; diğerleri daha az çalıştı."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_004",
       "speaker": "张伟",
-      "zh": "今天先把能确定的部分定下来，剩下的以后继续聊。",
-      "pinyin": "Jīntiān xiān bǎ néng quèdìng de bùfèn dìng xiàlái, shèngxià de yǐhòu jìxù liáo.",
-      "tr": "Bugün netleştirebildiğimiz kısmı kararlaştıralım; kalanını sonra konuşuruz."
+      "zh": "这个情况值得查清楚，我们先看看排班记录。",
+      "pinyin": "Zhè ge qíng kuàng zhí de chá qīng chǔ wǒ men xiān kàn kàn pái bān jì lù",
+      "tr": "Bu durum incelenmeli; önce vardiya kayıtlarına bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_005",
       "speaker": "员工",
-      "zh": "先把事实和责任分开说清楚，再讨论下一步会公平一些。",
-      "pinyin": "Xiān bǎ shìshí hé zérèn fēnkāi shuō qīngchǔ, zài tǎolùn xià yībù huì gōngpíng yīxiē.",
-      "tr": "Önce olguları ve sorumlulukları ayrı ayrı netleştirirsek sonraki adımı konuşmak daha adil olur."
+      "zh": "我不是不愿意上晚班，只希望安排有个公平的制度。",
+      "pinyin": "Wǒ bú shì bù yuàn yì shàng wǎn bān zhǐ xī wàng ān pái yǒu gè gōng píng de zhì dù",
+      "tr": "Akşam vardiyasına karşı değilim; yalnızca adil bir düzen olmasını istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_006",
       "speaker": "刘梅",
-      "zh": "这个决定会影响到谁，最好现在就弄清楚。",
-      "pinyin": "Zhège juédìng huì yǐngxiǎng dào shuí, zuìhǎo xiànzài jiù nòngqīngchǔ.",
-      "tr": "Bu kararın kimi etkileyeceğini şimdiden netleştirmek iyi olur."
+      "zh": "你提出的是安排方式，不是在拒绝工作。",
+      "pinyin": "Nǐ tí chū de shì ān pái fāng shì bú shì zài jù jué gōng zuò",
+      "tr": "İtirazın çalışma düzenine; iş yapmayı reddetmiyorsun."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_007",
       "speaker": "经理",
-      "zh": "公平会对接下来的工作造成什么影响？",
-      "pinyin": "Gōngpíng huì duì jiēxiàlái de gōngzuò zàochéng shénme yǐngxiǎng?",
-      "tr": "Adalet / hakkaniyet konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "我先核对大家的工时、休息日和个人要求。",
+      "pinyin": "Wǒ xiān hé duì dà jiā de gōng shí xiū xī rì hé gè rén yāo qiú",
+      "tr": "Herkesin çalışma saatlerini, izin günlerini ve kişisel taleplerini kontrol edeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_008",
       "speaker": "张伟",
-      "zh": "这条信息很重要。",
-      "pinyin": "Zhè tiáo xìnxī hěn zhòngyào.",
-      "tr": "Bu bilgi çok kritik."
+      "zh": "也要看看临时换班有没有记录，不只看最后的表。",
+      "pinyin": "Yě yào kàn kàn lín shí huàn bān yǒu méi yǒu jì lù bù zhǐ kàn zuì hòu de biǎo",
+      "tr": "Yalnızca son programa değil, geçici vardiya değişikliklerinin kaydına da bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_009",
       "speaker": "员工",
-      "zh": "说到排班，先把具体情况弄清楚会更好。",
-      "pinyin": "Shuō dào páibān, xiān bǎ jùtǐqíngkuàng nòngqīngchǔ huì gènghǎo.",
-      "tr": "vardiya planı konusunda önce somut durumu netleştirmek daha iyi olur."
+      "zh": "我上周和同事换过一次班，可能记录没更新。",
+      "pinyin": "Wǒ shàng zhōu hé tóng shì huàn guò yī cì bān kě néng jì lù méi gēng xīn",
+      "tr": "Geçen hafta bir çalışma arkadaşımla vardiyayı değiştirdim; kayıt güncellenmemiş olabilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_010",
       "speaker": "刘梅",
-      "zh": "先别急着找责任人，先看看问题到底出在哪个环节。",
-      "pinyin": "Xiān biéjí zhe zhǎo zérènrén, xiān kànkàn wèntí dàodǐ chū zài nǎge huánjié.",
-      "tr": "Hemen sorumlu aramayalım; önce sorunun hangi aşamada çıktığını görelim."
+      "zh": "谢谢你补充这一点。换班是双方同意的吗？",
+      "pinyin": "Xiè xiè nǐ bǔ chōng zhè yì diǎn huàn bān shì shuāng fāng tóng yì de ma",
+      "tr": "Bunu açıkladığın için sağ ol. Değişiklik ikinizin de onayıyla mı oldu?"
     },
     {
       "id": "DLG_ZH_HSK5_SC005_011",
       "speaker": "经理",
-      "zh": "关于制度，我们还是结合实际情况来看。",
-      "pinyin": "Guānyú zhìdù, wǒmen háishì jiéhéshíjì qíngkuàng láikàn.",
-      "tr": "kural / sistem / politika konusunda yine gerçek duruma bakmak gerekir."
+      "zh": "是的，我们都同意，我也告诉了当班负责人。",
+      "pinyin": "Shì de wǒ men dōu tóng yì wǒ yě gào sù liǎo dàng bān fù zé rén",
+      "tr": "Evet, ikimiz de kabul ettik; o vardiyanın sorumlusuna da söyledim."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_012",
       "speaker": "张伟",
-      "zh": "如果目标不变，执行方法其实可以调整。",
-      "pinyin": "Rúguǒ mùbiāo bùbiàn, zhíxíng fāngfǎ qíshí kěyǐ tiáozhěng.",
-      "tr": "Hedef değişmiyorsa uygulama yöntemi ayarlanabilir."
+      "zh": "那我们要把口头同意后的记录流程也说清楚。",
+      "pinyin": "Nà wǒ men yào bǎ kǒu tóu tóng yì hòu de jì lù liú chéng yě shuō qīng chǔ",
+      "tr": "Öyleyse sözlü anlaşmadan sonra kayıt sürecini de netleştirmeliyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_013",
       "speaker": "员工",
-      "zh": "申诉要是出现新变化，我们就得及时调整计划。",
-      "pinyin": "Shēnsù yàoshì chūxiàn xīn biànhuà, wǒmen jiù dé jíshí tiáozhěngjìhuà.",
-      "tr": "Itiraz / başvuru değişirse planı da ayarlamak gerekir."
+      "zh": "我担心如果现在提出来，会被当成不配合。",
+      "pinyin": "Wǒ dān xīn rú guǒ xiàn zài tí chū lái huì bèi dàng chéng bù pèi hé",
+      "tr": "Şimdi gündeme getirirsem işbirliği yapmıyor diye görülmekten korkuyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_014",
       "speaker": "刘梅",
-      "zh": "其实，时间、资源和人的负担都要算进去，不然方案落不了地。",
-      "pinyin": "Qíshí, shíjiān、 zīyuán hé rén de fùdān dōu yào suànjìnqù, bùrán fāngàn luò bùliǎo dì.",
-      "tr": "Aslında, zamanı, kaynakları ve insanların yükünü birlikte hesaba katmalıyız; yoksa plan uygulanamaz."
+      "zh": "提出问题是正常的申诉，不代表你不配合。",
+      "pinyin": "Tí chū wèn tí shì zhèng cháng de shēn sù bù dài biǎo nǐ bù pèi hé",
+      "tr": "Sorunu dile getirmek normal bir itirazdır; işbirliğine kapalı olduğun anlamına gelmez."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_015",
       "speaker": "经理",
-      "zh": "关于管理，你觉得先处理哪一部分？",
-      "pinyin": "Guānyú guǎnlǐ, nǐ juéde xiān chǔlǐ nǎ yībùfèn?",
-      "tr": "Yönetim konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "我们会按同一套标准检查，不因为是谁提出就改变结论。",
+      "pinyin": "Wǒ men huì àn tóng yī tào biāo zhǔn jiǎn chá bù yīn wèi shì shuí tí chū jiù gǎi biàn jié lùn",
+      "tr": "Aynı ölçütleri uygulayacağız; kimin dile getirdiğine göre sonucu değiştirmeyeceğiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_016",
       "speaker": "张伟",
-      "zh": "从管理这个角度看，结论可能会不一样。",
-      "pinyin": "Cóng guǎnlǐ zhège jiǎodùkàn, jiélùn kěnéng huì bù yīyàng.",
-      "tr": "Bu açı nihai değerlendirmeyi etkiler."
+      "zh": "这正是我希望的，大家都该知道标准是什么。",
+      "pinyin": "Zhè zhèng shì wǒ xī wàng de dà jiā dōu gāi zhī dào biāo zhǔn shì shén me",
+      "tr": "Ben de bunu istiyorum; herkes ölçütlerin ne olduğunu bilsin."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_017",
       "speaker": "员工",
-      "zh": "关于责任感，我们还是结合实际情况来看。",
-      "pinyin": "Guānyú zérèngǎn, wǒmen háishì jiéhéshíjì qíngkuàng láikàn.",
-      "tr": "sorumluluk duygusu konusunda yine gerçek duruma bakmak gerekir."
+      "zh": "你觉得排班里最该先改的是哪一点？",
+      "pinyin": "Nǐ jué de pái bān lǐ zuì gāi xiān gǎi de shì nǎ yì diǎn",
+      "tr": "Vardiya düzeninde önce neyi değiştirmeliyiz sence?"
     },
     {
       "id": "DLG_ZH_HSK5_SC005_018",
       "speaker": "刘梅",
-      "zh": "换个角度看，这个方案能不能执行，比听起来漂亮更重要。",
-      "pinyin": "Huàngè jiǎodùkàn, zhège fāngàn néng bùnéng zhíxíng, bǐ tīng qǐlái piàoliàng gèng zhòngyào.",
-      "tr": "Başka bir açıdan bakarsak, bu planın uygulanabilir olması, kulağa güzel gelmesinden daha önemli."
+      "zh": "先让周末晚班轮换，再提前公布下个月的安排。",
+      "pinyin": "Xiān ràng zhōu mò wǎn bān lún huàn zài tí qián gōng bù xià gè yuè de ān pái",
+      "tr": "Önce hafta sonu akşam vardiyasını dönüşümlü yapalım, gelecek ayın programını da erkenden duyuralım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_019",
       "speaker": "经理",
-      "zh": "如果能提前沟通，后面会顺利很多。",
-      "pinyin": "Rúguǒ néng tíqián gōutōng, hòumiàn huì shùnlì hěnduō.",
-      "tr": "Önceden iletişim kurmak mümkün olursa sonrası çok daha rahat ilerler."
+      "zh": "我可以整理近一个月的排班，找出轮换情况。",
+      "pinyin": "Wǒ kě yǐ zhěng lǐ jìn yí gè yuè de pái bān zhǎo chū lún huàn qíng kuàng",
+      "tr": "Son bir ayın vardiyalarını düzenleyip dönüşümlü dağılımı çıkarabilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_020",
       "speaker": "张伟",
-      "zh": "有不同意见没关系，关键是把依据说出来。",
-      "pinyin": "Yǒu bùtóng yìjiàn méiguānxì, guānjiàn shì bǎ yījù shuō chūlái.",
-      "tr": "Farklı görüşlerin olması sorun değil; önemli olan dayanağını açıklamak."
+      "zh": "好，我们先核对事实，再决定制度怎么调整。",
+      "pinyin": "Hǎo wǒ men xiān hé duì shì shí zài jué dìng zhì dù zěn me tiáo zhěng",
+      "tr": "Güzel; önce gerçekleri kontrol edip sonra düzenlemeyi nasıl değiştireceğimize karar verelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_021",
       "speaker": "员工",
-      "zh": "如果依据的情况变了，后面的计划也得重新评估。",
-      "pinyin": "Rúguǒ yījù de qíngkuàng biàn le, hòumiàn de jìhuà yě dé chóngxīn pínggū.",
-      "tr": "Dayanak / kanıt değişirse planı da ayarlamak gerekir."
+      "zh": "我会把每个人的周末晚班次数列出来。",
+      "pinyin": "Wǒ huì bǎ měi gè rén de zhōu mò wǎn bān cì shù liè chū lái",
+      "tr": "Herkesin hafta sonu akşam vardiyası sayısını listeleyeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_022",
       "speaker": "刘梅",
-      "zh": "先定一个可以检查的标准，之后看结果再调整。",
-      "pinyin": "Xiāndìng yígè kěyǐ jiǎnchá de biāozhǔn, zhīhòu kàn jiéguǒ zài tiáozhěng.",
-      "tr": "Önce kontrol edilebilir bir ölçüt belirleyelim; sonra sonuca göre ayarlarız."
+      "zh": "也要标出请假和换班，不然比较不完整。",
+      "pinyin": "Yě yào biāo chū qǐng jià hé huàn bān bù rán bǐ jiào bù wán zhěng",
+      "tr": "İzinleri ve vardiya değişimlerini de yaz; yoksa karşılaştırma eksik kalır."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_023",
       "speaker": "经理",
-      "zh": "如果出现新情况，要尽快同步，不要等问题变大。",
-      "pinyin": "Rúguǒ chūxiàn xīn qíngkuàng, yào jǐnkuài tóngbù, búyào děng wèntí biàn dà.",
-      "tr": "Yeni bir durum çıkarsa hızla paylaşalım; sorunun büyümesini beklemeyelim."
+      "zh": "我这里有换班的消息，可以给你看。",
+      "pinyin": "Wǒ zhè lǐ yǒu huàn bān de xiāo xī kě yǐ gěi nǐ kàn",
+      "tr": "Vardiya değişikliği mesajı bende; sana gösterebilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_024",
       "speaker": "张伟",
-      "zh": "这个风险可以接受，但前提是我们知道怎么应对。",
-      "pinyin": "Zhège fēngxiǎn kěyǐ jiēshòu, dàn qiántí shì wǒmen zhīdào zěnme yìngduì.",
-      "tr": "Bu risk kabul edilebilir; ama nasıl karşılık vereceğimizi bilmemiz şart."
+      "zh": "谢谢，这些记录能帮助我们还原当时的情况。",
+      "pinyin": "Xiè xiè zhè xiē jì lù néng bāng zhù wǒ men huán yuán dāng shí de qíng kuàng",
+      "tr": "Teşekkürler; bu kayıtlar o zamanki durumu anlamamıza yardım eder."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_025",
       "speaker": "员工",
-      "zh": "别只看眼前的效率，长期的合作也很重要。",
-      "pinyin": "Bié zhǐ kàn yǎnqián de xiàolǜ, chángqī de hézuò yě hěn zhòngyào.",
-      "tr": "Yalnızca kısa vadeli verimliliğe bakmayalım; uzun vadeli iş birliği de önemli."
+      "zh": "排班表上确实有两处没有更新。",
+      "pinyin": "Pái bān biǎo shàng què shí yǒu liǎng chù méi yǒu gēng xīn",
+      "tr": "Vardiya çizelgesinde gerçekten güncellenmemiş iki yer var."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_026",
       "speaker": "刘梅",
-      "zh": "另外，我赞成先试，但要提前约好什么时候复盘。",
-      "pinyin": "Lìngwài, wǒ zànchéng xiānshì, dàn yào tíqián yuē hǎo shénme shíhòu fùpán.",
-      "tr": "Ayrıca, önce denemeye katılıyorum ama ne zaman değerlendirme yapacağımızı baştan belirleyelim."
+      "zh": "这也解释了为什么我觉得安排不公平。",
+      "pinyin": "Zhè yě jiě shì le wèi shén me wǒ jué de ān pái bù gōng píng",
+      "tr": "Bu, düzenin neden bana adaletsiz geldiğini de açıklıyor."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_027",
       "speaker": "经理",
-      "zh": "不过，把分工说清楚以后，执行起来会顺很多。",
-      "pinyin": "Bùguò, bǎ fēngōng shuō qīngchǔ yǐhòu, zhíxíng qǐlái huìshùn hěnduō.",
-      "tr": "Ancak, görev dağılımını netleştirince uygulama çok daha sorunsuz ilerler."
+      "zh": "我们先修正记录，再比较每个人承担的晚班。",
+      "pinyin": "Wǒ men xiān xiū zhèng jì lù zài bǐ jiào měi gè rén chéng dān de wǎn bān",
+      "tr": "Önce kayıtları düzeltip herkesin kaç akşam vardiyası yaptığını karşılaştıralım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_028",
       "speaker": "张伟",
-      "zh": "如果结果跟预期不一样，就根据事实改，不必硬撑原来的方案。",
-      "pinyin": "Rúguǒ jiéguǒ gēn yùqī bù yīyàng, jiù gēnjù shìshí gǎi, bùbì yìngchēng yuánlái de fāngàn.",
-      "tr": "Sonuç beklediğimiz gibi olmazsa olgulara göre değiştiririz; eski planda ısrar etmek gerekmez."
+      "zh": "如果结果还有差别，再看是否有合理原因。",
+      "pinyin": "Rú guǒ jié guǒ hái yǒu chā bié zài kàn shì fǒu yǒu hé lǐ yuán yīn",
+      "tr": "Sonuçta fark kalırsa makul bir nedeni olup olmadığına bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_029",
       "speaker": "员工",
-      "zh": "换个角度看，这件事既有业务影响，也会影响团队里的信任。",
-      "pinyin": "Huàngè jiǎodùkàn, zhèjiàn shì jìyǒu yèwù yǐngxiǎng, yě huì yǐngxiǎng tuánduì lǐ de xìnrèn.",
-      "tr": "Başka bir açıdan bakarsak, bu konu hem iş sonuçlarını hem de ekip içindeki güveni etkiler."
+      "zh": "有同事固定上早班，是因为他要接孩子。",
+      "pinyin": "Yǒu tóng shì gù dìng shàng zǎo bān shì yīn wèi tā yào jiē hái zi",
+      "tr": "Bir çalışma arkadaşımız çocuğunu alması gerektiği için hep gündüz vardiyasında."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_030",
       "speaker": "刘梅",
-      "zh": "我们先解决最紧急的，再处理可以等一等的部分。",
-      "pinyin": "Wǒmen xiān jiějué zuì jǐnjí de, zài chǔlǐ kěyǐ děngyīděng de bùfèn.",
-      "tr": "Önce en acil kısmı çözelim; bekleyebilecek konuları sonra ele alırız."
+      "zh": "这种情况可以考虑，但也要让团队知道调整依据。",
+      "pinyin": "Zhè zhǒng qíng kuàng kě yǐ kǎo lǜ dàn yě yào ràng tuán duì zhī dào tiáo zhěng yī jù",
+      "tr": "Bu durum dikkate alınabilir ama ekip düzenlemenin gerekçesini de bilmeli."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_031",
       "speaker": "经理",
-      "zh": "先把真正的问题说清楚，别急着找一个漂亮答案。",
-      "pinyin": "Xiān bǎ zhēnzhèng de wèntí shuō qīngchǔ, biéjí zhe zhǎo yígè piàoliàng dáàn.",
-      "tr": "Önce gerçek sorunu netleştirelim; kulağa güzel gelen bir cevap bulmak için acele etmeyelim."
+      "zh": "我会先征求相关同事同意，不公开私人细节。",
+      "pinyin": "Wǒ huì xiān zhēng qiú xiāng guān tóng shì tóng yì bù gōng kāi sī rén xì jié",
+      "tr": "İlgili çalışma arkadaşının onayını alırım, özel ayrıntıları paylaşmam."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_032",
       "speaker": "张伟",
-      "zh": "每个人看到的角度不一样，把这些角度放在一起会更完整。",
-      "pinyin": "Měigè rén kàndào de jiǎodù bù yīyàng, bǎ zhèxiē jiǎodù fàngzài yìqǐ huì gèng wánzhěng.",
-      "tr": "Herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+      "zh": "很好，公平不等于每个人的时间完全一样。",
+      "pinyin": "Hěn hǎo gōng píng bù děng yú měi gè rén de shí jiān wán quán yī yàng",
+      "tr": "Güzel; adalet herkesin saatlerinin tamamen aynı olması demek değil."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_033",
       "speaker": "员工",
-      "zh": "先确认我们已经知道什么，再说还缺什么信息。",
-      "pinyin": "Xiān quèrèn wǒmen yǐjīng zhīdào shénme, zàishuō hái quēshénme xìnxī.",
-      "tr": "Önce ne bildiğimizi netleştirelim, sonra hangi bilginin eksik olduğunu konuşalım."
+      "zh": "那我们可以按可上班时间和轮换次数一起排。",
+      "pinyin": "Nà wǒ men kě yǐ àn kě shàng bān shí jiān hé lún huàn cì shù yì qǐ pái",
+      "tr": "O zaman uygun çalışma saatlerine ve vardiya dönüşüm sayısına birlikte bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_034",
       "speaker": "刘梅",
-      "zh": "有不同意见没关系，只要理由说得清楚就能继续谈。",
-      "pinyin": "Yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
-      "tr": "Farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+      "zh": "对，再给大家一个提交要求的截止时间。",
+      "pinyin": "Duì zài gěi dà jiā yí gè tí jiāo yāo qiú de jié zhǐ shí jiān",
+      "tr": "Evet, herkesin isteklerini bildirmesi için bir son tarih de koyalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_035",
       "speaker": "经理",
-      "zh": "如果现在还不能确定，就先保留一点调整空间。",
-      "pinyin": "Rúguǒ xiànzài hái bùnéng quèdìng, jiù xiān bǎoliú yìdiǎn tiáozhěng kōngjiān.",
-      "tr": "Şu anda kesinleştiremiyorsak biraz uyum payı bırakalım."
+      "zh": "我把制度写清楚，员工就知道怎么提出申诉。",
+      "pinyin": "Wǒ bǎ zhì dù xiě qīng chǔ yuán gōng jiù zhī dào zěn me tí chū shēn sù",
+      "tr": "Kuralları açıkça yazarsak çalışanlar nasıl itiraz edeceklerini bilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_036",
       "speaker": "张伟",
-      "zh": "不过，我更关心这个选择实际会带来什么变化。",
-      "pinyin": "Bùguò, wǒ gèng guānxīn zhège xuǎnzé shíjì huì dàilái shénme biànhuà.",
-      "tr": "Ancak, ben daha çok bu seçimin gerçekte neyi değiştireceğini önemsiyorum."
+      "zh": "申诉后也要说明何时会得到回复。",
+      "pinyin": "Shēn sù hòu yě yào shuō míng hé shí huì dé dào huí fù",
+      "tr": "İtirazdan sonra ne zaman yanıt alacaklarını da açıklayalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_037",
       "speaker": "员工",
-      "zh": "先别把问题想得太抽象，回到具体情况会更容易判断。",
-      "pinyin": "Xiānbié bǎ wèntí xiǎng dé tài chōuxiàng, huídào jùtǐqíngkuàng huì gèng róngyì pànduàn.",
-      "tr": "Sorunu fazla soyutlaştırmayalım; somut duruma dönmek değerlendirmeyi kolaylaştırır."
+      "zh": "我担心提出申诉的人会被同事看成麻烦。",
+      "pinyin": "Wǒ dān xīn tí chū shēn sù de rén huì bèi tóng shì kàn chéng má fán",
+      "tr": "İtiraz eden çalışanın ekip tarafından sorun çıkarıyor gibi görülmesinden endişeleniyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_038",
       "speaker": "刘梅",
-      "zh": "换个角度看，我们先处理最关键的一点，再看其他细节。",
-      "pinyin": "Huàngè jiǎodùkàn, wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
-      "tr": "Başka bir açıdan bakarsak, önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+      "zh": "我们可以说明申诉是正常流程，不针对个人。",
+      "pinyin": "Wǒ men kě yǐ shuō míng shēn sù shì zhèng cháng liú chéng bù zhēn duì gè rén",
+      "tr": "İtirazın kişiye karşı değil, olağan bir süreç olduğunu açıklayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_039",
       "speaker": "经理",
-      "zh": "这个想法可以继续讨论，不过最好再确认一下实际条件。",
-      "pinyin": "Zhège xiǎngfǎ kěyǐ jìxù tǎolùn, bùguò zuìhǎo zài quèrèn yīxià shíjì tiáojiàn.",
-      "tr": "Bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+      "zh": "我愿意按制度提出，也愿意听调查结果。",
+      "pinyin": "Wǒ yuàn yì àn zhì dù tí chū yě yuàn yì tīng diào chá jié guǒ",
+      "tr": "Kurala uygun biçimde itiraz etmeye ve inceleme sonucunu dinlemeye hazırım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_040",
       "speaker": "张伟",
-      "zh": "我同意方向，不过执行的时候需要留一点余地。",
-      "pinyin": "Wǒ tóngyì fāngxiàng, bùguò zhíxíng de shíhòu xūyào liú yìdiǎn yúdì.",
-      "tr": "Yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+      "zh": "谢谢你把问题说清楚，这对改进管理很重要。",
+      "pinyin": "Xiè xiè nǐ bǎ wèn tí shuō qīng chǔ zhè duì gǎi jìn guǎn lǐ hěn zhòng yào",
+      "tr": "Sorunu açıkça dile getirdiğin için sağ ol; bu, yönetimi iyileştirmemiz için önemli."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_041",
       "speaker": "员工",
-      "zh": "如果出现新情况，我们就根据新的事实调整。",
-      "pinyin": "Rúguǒ chūxiàn xīn qíngkuàng, wǒmen jiù gēnjù xīn de shìshí tiáozhěng.",
-      "tr": "Yeni bir durum çıkarsa yeni olgulara göre ayarlarız."
+      "zh": "谢谢你们愿意查记录，我刚才有点怕说出来会被误会。",
+      "pinyin": "Xiè xiè nǐ men yuàn yì chá jì lù wǒ gāng cái yǒu diǎn pà shuō chū lái huì bèi wù huì",
+      "tr": "Kayıtları incelemeye açık olduğunuz için sağ olun; dile getirince yanlış anlaşılmaktan çekinmiştim."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_042",
       "speaker": "刘梅",
-      "zh": "不用追求一次把所有问题都解决，先把下一步走稳。",
-      "pinyin": "Bùyòng zhuīqiú yīcì bǎ suǒyǒu wèntí dōu jiějué, xiān bǎ xià yībù zǒuwěn.",
-      "tr": "Bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+      "zh": "你把事实说清楚，我们就能一起找到原因。",
+      "pinyin": "Nǐ bǎ shì shí shuō qīng chǔ wǒ men jiù néng yì qǐ zhǎo dào yuán yīn",
+      "tr": "Gerçekleri açıkça anlatırsan nedeni birlikte bulabiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_043",
       "speaker": "经理",
-      "zh": "我们至少已经知道彼此最在意什么了。",
-      "pinyin": "Wǒmen zhìshǎo yǐjīng zhīdào bǐcǐ zuì zàiyì shénme le.",
-      "tr": "En azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+      "zh": "我会先整理出排班规则草案，大家都可以提意见。",
+      "pinyin": "Wǒ huì xiān zhěng lǐ chū pái bān guī zé cǎo àn dà jiā dōu kě yǐ tí yì jiàn",
+      "tr": "Önce vardiya kuralı taslağı hazırlayıp herkesin görüşünü alacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_044",
       "speaker": "张伟",
-      "zh": "另外，把责任和时间说清楚，后面执行会容易很多。",
-      "pinyin": "Lìngwài, bǎ zérèn hé shíjiān shuō qīngchǔ, hòumiàn zhíxíng huì róngyì hěnduō.",
-      "tr": "Ayrıca, sorumlulukları ve zamanı netleştirince uygulama çok daha kolay olur."
+      "zh": "也要让员工知道规则从哪一天开始执行。",
+      "pinyin": "Yě yào ràng yuán gōng zhī dào guī zé cóng nǎ yī tiān kāi shǐ zhí xíng",
+      "tr": "Kuralın hangi tarihten itibaren geçerli olacağını da çalışanlara duyurmalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_045",
       "speaker": "员工",
-      "zh": "不过，这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "Bùguò, zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
-      "tr": "Ancak, bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "新制度会先试行一个月吗？",
+      "pinyin": "Xīn zhì dù huì xiān shì xíng yí gè yuè ma",
+      "tr": "Yeni kuralı önce bir ay deneyecek miyiz?"
     },
     {
       "id": "DLG_ZH_HSK5_SC005_046",
       "speaker": "刘梅",
-      "zh": "其实，今天先把能确定的部分定下来，剩下的以后继续聊。",
-      "pinyin": "Qíshí, jīntiān xiān bǎ néng quèdìng de bùfèn dìng xiàlái, shèngxià de yǐhòu jìxù liáo.",
-      "tr": "Aslında, bugün netleştirebildiğimiz kısmı kararlaştıralım; kalanını sonra konuşuruz."
+      "zh": "可以，一个月后看实际排班和员工反馈。",
+      "pinyin": "Kě yǐ yí gè yuè hòu kàn shí jì pái bān hé yuán gōng fǎn kuì",
+      "tr": "Olur; bir ay sonra gerçek vardiyalara ve çalışan geri bildirimlerine bakarız."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_047",
       "speaker": "经理",
-      "zh": "换个角度看，时间、资源和人的负担都要算进去，不然方案落不了地。",
-      "pinyin": "Huàngè jiǎodùkàn, shíjiān、 zīyuán hé rén de fùdān dōu yào suànjìnqù, bùrán fāngàn luò bùliǎo dì.",
-      "tr": "Başka bir açıdan bakarsak, zamanı, kaynakları ve insanların yükünü birlikte hesaba katmalıyız; yoksa plan uygulanamaz."
+      "zh": "试行期间如果有问题，我可以随时提出来吗？",
+      "pinyin": "Shì xíng qī jiān rú guǒ yǒu wèn tí wǒ kě yǐ suí shí tí chū lái ma",
+      "tr": "Deneme süresinde sorun çıkarsa istediğim zaman dile getirebilir miyim?"
     },
     {
       "id": "DLG_ZH_HSK5_SC005_048",
       "speaker": "张伟",
-      "zh": "这个方案能不能执行，比听起来漂亮更重要。",
-      "pinyin": "Zhège fāngàn néng bùnéng zhíxíng, bǐ tīng qǐlái piàoliàng gèng zhòngyào.",
-      "tr": "Bu planın uygulanabilir olması, kulağa güzel gelmesinden daha önemli."
+      "zh": "当然，记录下来再说清楚发生的时间和影响。",
+      "pinyin": "Dāng rán jì lù xià lái zài shuō qīng chǔ fā shēng de shí jiān hé yǐng xiǎng",
+      "tr": "Elbette; ne zaman olduğunu ve etkisini not edip açıkça anlat."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_049",
       "speaker": "员工",
-      "zh": "另外，别只看眼前的效率，长期的合作也很重要。",
-      "pinyin": "Lìngwài, bié zhǐ kàn yǎnqián de xiàolǜ, chángqī de hézuò yě hěn zhòngyào.",
-      "tr": "Ayrıca, yalnızca kısa vadeli verimliliğe bakmayalım; uzun vadeli iş birliği de önemli."
+      "zh": "如果两个人都想休同一个周末，怎么处理？",
+      "pinyin": "Rú guǒ liǎng gè rén dōu xiǎng xiū tóng yī gè zhōu mò zěn me chǔ lǐ",
+      "tr": "İki kişi aynı hafta sonu izin isterse nasıl karar veririz?"
     },
     {
       "id": "DLG_ZH_HSK5_SC005_050",
       "speaker": "刘梅",
-      "zh": "不过，我赞成先试，但要提前约好什么时候复盘。",
-      "pinyin": "Bùguò, wǒ zànchéng xiānshì, dàn yào tíqián yuē hǎo shénme shíhòu fùpán.",
-      "tr": "Ancak, önce denemeye katılıyorum ama ne zaman değerlendirme yapacağımızı baştan belirleyelim."
+      "zh": "先按轮换记录，再看店里的人员需要。",
+      "pinyin": "Xiān àn lún huàn jì lù zài kàn diàn lǐ de rén yuán xū yào",
+      "tr": "Önce izin sırasına, sonra işletmenin personel ihtiyacına bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_051",
       "speaker": "经理",
-      "zh": "时间、资源和人的负担都要算进去，不然方案落不了地。",
-      "pinyin": "Shíjiān、 zīyuán hé rén de fùdān dōu yào suànjìnqù, bùrán fāngàn luò bùliǎo dì.",
-      "tr": "Zamanı, kaynakları ve insanların yükünü birlikte hesaba katmalıyız; yoksa plan uygulanamaz."
+      "zh": "还可以问他们能不能交换，不强迫任何一方。",
+      "pinyin": "Hái kě yǐ wèn tā men néng bù néng jiāo huàn bù qiǎng pò rèn hé yī fāng",
+      "tr": "Birbirleriyle değişip değişemeyeceklerini de sorabiliriz; kimseyi zorlamadan."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_052",
       "speaker": "张伟",
-      "zh": "这个方案能不能执行，比听起来漂亮更重要。",
-      "pinyin": "Zhège fāngàn néng bùnéng zhíxíng, bǐ tīng qǐlái piàoliàng gèng zhòngyào.",
-      "tr": "Bu planın uygulanabilir olması, kulağa güzel gelmesinden daha önemli."
+      "zh": "最后的决定和理由都要写下来，避免下次重复争论。",
+      "pinyin": "Zuì hòu de jué dìng hé lǐ yóu dōu yào xiě xià lái bì miǎn xià cì chóng fù zhēng lùn",
+      "tr": "Tekrar tartışma çıkmaması için kararı ve gerekçesini yazmalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_053",
       "speaker": "员工",
-      "zh": "另外，有不同意见没关系，关键是把依据说出来。",
-      "pinyin": "Lìngwài, yǒu bùtóng yìjiàn méiguānxì, guānjiàn shì bǎ yījù shuō chūlái.",
-      "tr": "Ayrıca, farklı görüşlerin olması sorun değil; önemli olan dayanağını açıklamak."
+      "zh": "我建议每月公布一次轮换统计，不写私人原因。",
+      "pinyin": "Wǒ jiàn yì měi yuè gōng bù yī cì lún huàn tǒng jì bù xiě sī rén yuán yīn",
+      "tr": "Kişisel nedenleri yazmadan her ay vardiya dönüşüm özetini duyurmayı öneriyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_054",
       "speaker": "刘梅",
-      "zh": "其实，把分工说清楚以后，执行起来会顺很多。",
-      "pinyin": "Qíshí, bǎ fēngōng shuō qīngchǔ yǐhòu, zhíxíng qǐlái huìshùn hěnduō.",
-      "tr": "Aslında, görev dağılımını netleştirince uygulama çok daha sorunsuz ilerler."
+      "zh": "这样员工能看出安排有没有长期偏向某个人。",
+      "pinyin": "Zhè yàng yuán gōng néng kàn chū ān pái yǒu méi yǒu cháng qī piān xiàng mǒu gè rén",
+      "tr": "Böylece düzenin uzun süre birine kayıp kaymadığı anlaşılır."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_055",
       "speaker": "经理",
-      "zh": "这件事既有业务影响，也会影响团队里的信任。",
-      "pinyin": "Zhèjiàn shì jìyǒu yèwù yǐngxiǎng, yě huì yǐngxiǎng tuánduì lǐ de xìnrèn.",
-      "tr": "Bu konu hem iş sonuçlarını hem de ekip içindeki güveni etkiler."
+      "zh": "统计谁来核对？",
+      "pinyin": "Tǒng jì shuí lái hé duì",
+      "tr": "Bu özeti kim kontrol edecek?"
     },
     {
       "id": "DLG_ZH_HSK5_SC005_056",
       "speaker": "张伟",
-      "zh": "换个角度看，这个风险可以接受，但前提是我们知道怎么应对。",
-      "pinyin": "Huàngè jiǎodùkàn, zhège fēngxiǎn kěyǐ jiēshòu, dàn qiántí shì wǒmen zhīdào zěnme yìngduì.",
-      "tr": "Başka bir açıdan bakarsak, bu risk kabul edilebilir; ama nasıl karşılık vereceğimizi bilmemiz şart."
+      "zh": "我和经理一起看，员工发现问题也能申请复核。",
+      "pinyin": "Wǒ hé jīng lǐ yì qǐ kàn yuán gōng fā xiàn wèn tí yě néng shēn qǐng fù hé",
+      "tr": "Müdürle birlikte inceleriz; çalışanlar da sorun görürse yeniden inceleme isteyebilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_057",
       "speaker": "员工",
-      "zh": "不过，时间、资源和人的负担都要算进去，不然方案落不了地。",
-      "pinyin": "Bùguò, shíjiān、 zīyuán hé rén de fùdān dōu yào suànjìnqù, bùrán fāngàn luò bùliǎo dì.",
-      "tr": "Ancak, zamanı, kaynakları ve insanların yükünü birlikte hesaba katmalıyız; yoksa plan uygulanamaz."
+      "zh": "这套制度要是没达到公平的效果呢？",
+      "pinyin": "Zhè tào zhì dù yào shì méi dá dào gōng píng de xiào guǒ ne",
+      "tr": "Bu düzen adaleti sağlamazsa ne yapacağız?"
     },
     {
       "id": "DLG_ZH_HSK5_SC005_058",
       "speaker": "刘梅",
-      "zh": "我赞成先试，但要提前约好什么时候复盘。",
-      "pinyin": "Wǒ zànchéng xiānshì, dàn yào tíqián yuē hǎo shénme shíhòu fùpán.",
-      "tr": "Önce denemeye katılıyorum ama ne zaman değerlendirme yapacağımızı baştan belirleyelim."
+      "zh": "我们就根据记录和意见再调整，不把草案当成永远不变。",
+      "pinyin": "Wǒ men jiù gēn jù jì lù hé yì jiàn zài tiáo zhěng bù bǎ cǎo àn dàng chéng yǒng yuǎn bù biàn",
+      "tr": "Kayıtlarla görüşlere göre değiştiririz; taslağı değişmez kural saymayız."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_059",
       "speaker": "经理",
-      "zh": "把分工说清楚以后，执行起来会顺很多。",
-      "pinyin": "Bǎ fēngōng shuō qīngchǔ yǐhòu, zhíxíng qǐlái huìshùn hěnduō.",
-      "tr": "Görev dağılımını netleştirince uygulama çok daha sorunsuz ilerler."
+      "zh": "我愿意配合，只希望每个人都能按同一标准发言。",
+      "pinyin": "Wǒ yuàn yì pèi hé zhǐ xī wàng měi gè rén dōu néng àn tóng yī biāo zhǔn fā yán",
+      "tr": "İşbirliği yaparım; yalnızca herkesin aynı ölçütle konuşabilmesini isterim."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_060",
       "speaker": "张伟",
-      "zh": "其实，这个方案能不能执行，比听起来漂亮更重要。",
-      "pinyin": "Qíshí, zhège fāngàn néng bùnéng zhíxíng, bǐ tīng qǐlái piàoliàng gèng zhòngyào.",
-      "tr": "Aslında, bu planın uygulanabilir olması, kulağa güzel gelmesinden daha önemli."
+      "zh": "会的。申诉由事实决定，不看职位高低。",
+      "pinyin": "Huì de shēn sù yóu shì shí jué dìng bù kàn zhí wèi gāo dī",
+      "tr": "Öyle olacak. İtirazlar kimin görevde olduğuna göre değil, gerçeklere göre değerlendirilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_061",
       "speaker": "员工",
-      "zh": "这件事既有业务影响，也会影响团队里的信任。",
-      "pinyin": "Zhèjiàn shì jìyǒu yèwù yǐngxiǎng, yě huì yǐngxiǎng tuánduì lǐ de xìnrèn.",
-      "tr": "Bu konu hem iş sonuçlarını hem de ekip içindeki güveni etkiler."
+      "zh": "我来整理这个月的数据，周五之前发给你们。",
+      "pinyin": "Wǒ lái zhěng lǐ zhè ge yuè de shù jù zhōu wǔ zhī qián fā gěi nǐ men",
+      "tr": "Bu ayın verilerini düzenleyip cuma gününe kadar size gönderirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_062",
       "speaker": "刘梅",
-      "zh": "另外，我们先解决最紧急的，再处理可以等一等的部分。",
-      "pinyin": "Lìngwài, wǒmen xiān jiějué zuì jǐnjí de, zài chǔlǐ kěyǐ děngyīděng de bùfèn.",
-      "tr": "Ayrıca, önce en acil kısmı çözelim; bekleyebilecek konuları sonra ele alırız."
+      "zh": "先检查姓名和换班记录，确保统计准确。",
+      "pinyin": "Xiān jiǎn chá xìng míng hé huàn bān jì lù què bǎo tǒng jì zhǔn què",
+      "tr": "Özetin doğruluğu için isimleri ve vardiya değişikliklerini kontrol et."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_063",
       "speaker": "经理",
-      "zh": "换个角度看，有不同意见没关系，关键是把依据说出来。",
-      "pinyin": "Huàngè jiǎodùkàn, yǒu bùtóng yìjiàn méiguānxì, guānjiàn shì bǎ yījù shuō chūlái.",
-      "tr": "Başka bir açıdan bakarsak, farklı görüşlerin olması sorun değil; önemli olan dayanağını açıklamak."
+      "zh": "如果发现漏记，我会问当事人确认，不自己猜。",
+      "pinyin": "Rú guǒ fā xiàn lòu jì wǒ huì wèn dāng shì rén què rèn bù zì jǐ cāi",
+      "tr": "Eksik kayıt görürsem tahmin yürütmek yerine ilgili kişiye sorarım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_064",
       "speaker": "张伟",
-      "zh": "其实，每个人看到的角度不一样，把这些角度放在一起会更完整。",
-      "pinyin": "Qíshí, měigè rén kàndào de jiǎodù bù yīyàng, bǎ zhèxiē jiǎodù fàngzài yìqǐ huì gèng wánzhěng.",
-      "tr": "Aslında, herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+      "zh": "很好，这样管理决定才有可靠依据。",
+      "pinyin": "Hěn hǎo zhè yàng guǎn lǐ jué dìng cái yǒu kě kào yī jù",
+      "tr": "Güzel; böylece yönetim kararlarının sağlam dayanağı olur."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_065",
       "speaker": "员工",
-      "zh": "另外，把分工说清楚以后，执行起来会顺很多。",
-      "pinyin": "Lìngwài, bǎ fēngōng shuō qīngchǔ yǐhòu, zhíxíng qǐlái huìshùn hěnduō.",
-      "tr": "Ayrıca, görev dağılımını netleştirince uygulama çok daha sorunsuz ilerler."
+      "zh": "我看了统计，晚班次数差别比我想的少。",
+      "pinyin": "Wǒ kàn le tǒng jì wǎn bān cì shù chā bié bǐ wǒ xiǎng de shǎo",
+      "tr": "Özete baktım; akşam vardiyası farkı beklediğimden azmış."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_066",
       "speaker": "刘梅",
-      "zh": "其实，这件事既有业务影响，也会影响团队里的信任。",
-      "pinyin": "Qíshí, zhèjiàn shì jìyǒu yèwù yǐngxiǎng, yě huì yǐngxiǎng tuánduì lǐ de xìnrèn.",
-      "tr": "Aslında, bu konu hem iş sonuçlarını hem de ekip içindeki güveni etkiler."
+      "zh": "有一部分差别来自临时换班没有写进原表。",
+      "pinyin": "Yǒu yī bù fèn chā bié lái zì lín shí huàn bān méi yǒu xiě jìn yuán biǎo",
+      "tr": "Farkın bir kısmı geçici vardiya değişikliklerinin çizelgeye yazılmamasından kaynaklanıyor."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_067",
       "speaker": "经理",
-      "zh": "换个角度看，我们先解决最紧急的，再处理可以等一等的部分。",
-      "pinyin": "Huàngè jiǎodùkàn, wǒmen xiān jiějué zuì jǐnjí de, zài chǔlǐ kěyǐ děngyīděng de bùfèn.",
-      "tr": "Başka bir açıdan bakarsak, önce en acil kısmı çözelim; bekleyebilecek konuları sonra ele alırız."
+      "zh": "我以后换班会请负责人当场更新记录。",
+      "pinyin": "Wǒ yǐ hòu huàn bān huì qǐng fù zé rén dāng chǎng gēng xīn jì lù",
+      "tr": "Bundan sonra vardiya değiştirdiğimde sorumlu kişiden kaydı hemen güncellemesini isteyeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_068",
       "speaker": "张伟",
-      "zh": "我更关心这个选择实际会带来什么变化。",
-      "pinyin": "Wǒ gèng guānxīn zhège xuǎnzé shíjì huì dàilái shénme biànhuà.",
-      "tr": "Ben daha çok bu seçimin gerçekte neyi değiştireceğini önemsiyorum."
+      "zh": "我们也会把更新步骤加到制度里。",
+      "pinyin": "Wǒ men yě huì bǎ gēng xīn bù zhòu jiā dào zhì dù lǐ",
+      "tr": "Güncelleme adımını kurala biz de ekleyeceğiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_069",
       "speaker": "员工",
-      "zh": "另外，这个方案能不能执行，比听起来漂亮更重要。",
-      "pinyin": "Lìngwài, zhège fāngàn néng bùnéng zhíxíng, bǐ tīng qǐlái piàoliàng gèng zhòngyào.",
-      "tr": "Ayrıca, bu planın uygulanabilir olması, kulağa güzel gelmesinden daha önemli."
+      "zh": "新表上可以让双方都签名确认吗？",
+      "pinyin": "Xīn biǎo shàng kě yǐ ràng shuāng fāng dōu qiān míng què rèn ma",
+      "tr": "Yeni çizelgede iki tarafın da onay vermesi mümkün mü?"
     },
     {
       "id": "DLG_ZH_HSK5_SC005_070",
       "speaker": "刘梅",
-      "zh": "我们先处理最关键的一点，再看其他细节。",
-      "pinyin": "Wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
-      "tr": "Önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+      "zh": "可以，确认后经理再更新最终安排。",
+      "pinyin": "Kě yǐ què rèn hòu jīng lǐ zài gēng xīn zuì zhōng ān pái",
+      "tr": "Olur; iki taraf onayladıktan sonra müdür son programı günceller."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_071",
       "speaker": "经理",
-      "zh": "如果公平方面出现新情况，我们原来的安排也要重新评估。",
-      "pinyin": "Rúguǒ gōngpíng fāngmiàn chūxiàn xīn qíngkuàng, wǒmen yuánlái de ānpái yě yào chóngxīn pínggū.",
-      "tr": "Adalet / hakkaniyet değişirse planı da ayarlamak gerekir."
+      "zh": "这样就不容易出现有人不知道改动的情况。",
+      "pinyin": "Zhè yàng jiù bù róng yì chū xiàn yǒu rén bù zhī dào gǎi dòng de qíng kuàng",
+      "tr": "Böylece birinin değişikliği bilmemesi daha az olası olur."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_072",
       "speaker": "张伟",
-      "zh": "我同意，先把公平放在前面处理。",
-      "pinyin": "Wǒ tóngyì, xiān bǎ gōngpíng fàngzài qiánmiàn chǔlǐ.",
-      "tr": "Bunu öncelikli konu olarak belirlemeye katılıyorum."
+      "zh": "也能看出谁负责了每一步。",
+      "pinyin": "Yě néng kàn chū shuí fù zé le měi yī bù",
+      "tr": "Her adımın kimin sorumluluğunda olduğu da belli olur."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_073",
       "speaker": "员工",
-      "zh": "关于排班，你觉得先处理哪一部分？",
-      "pinyin": "Guānyú páibān, nǐ juéde xiān chǔlǐ nǎ yībùfèn?",
-      "tr": "Vardiya planı konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "我想问，公平的排班是不是每个人都一样？",
+      "pinyin": "Wǒ xiǎng wèn gōng píng de pái bān shì bú shì měi gè rén dōu yī yàng",
+      "tr": "Adil vardiya herkes için aynı demek mi, sormak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_074",
       "speaker": "刘梅",
-      "zh": "另外，这个想法可以继续讨论，不过最好再确认一下实际条件。",
-      "pinyin": "Lìngwài, zhège xiǎngfǎ kěyǐ jìxù tǎolùn, bùguò zuìhǎo zài quèrèn yīxià shíjì tiáojiàn.",
-      "tr": "Ayrıca, bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+      "zh": "不一定，要看可工作时间、轮换和业务需要。",
+      "pinyin": "Bù yí dìng yào kàn kě gōng zuò shí jiān lún huàn hé yè wù xū yào",
+      "tr": "Şart değil; uygun çalışma saatlerine, dönüşüme ve işletme ihtiyacına bakılır."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_075",
       "speaker": "经理",
-      "zh": "说到制度，先把具体情况弄清楚会更好。",
-      "pinyin": "Shuō dào zhìdù, xiān bǎ jùtǐqíngkuàng nòngqīngchǔ huì gènghǎo.",
-      "tr": "kural / sistem / politika konusunda önce somut durumu netleştirmek daha iyi olur."
+      "zh": "但这些条件要公开，不能只凭经理的感觉。",
+      "pinyin": "Dàn zhè xiē tiáo jiàn yào gōng kāi bù néng zhǐ píng jīng lǐ de gǎn jué",
+      "tr": "Ama koşullar açık olmalı; yalnızca müdürün hissine dayanmamalı."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_076",
       "speaker": "张伟",
-      "zh": "不过，我同意方向，不过执行的时候需要留一点余地。",
-      "pinyin": "Bùguò, wǒ tóngyì fāngxiàng, bùguò zhíxíng de shíhòu xūyào liú yìdiǎn yúdì.",
-      "tr": "Ancak, yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+      "zh": "同意，管理者要解释决定，也要接受复核。",
+      "pinyin": "Tóng yì guǎn lǐ zhě yào jiě shì jué dìng yě yào jiē shòu fù hé",
+      "tr": "Katılıyorum; yönetici kararını açıklamalı ve yeniden incelemeye açık olmalı."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_077",
       "speaker": "员工",
-      "zh": "那把申诉也一起考虑进去。",
-      "pinyin": "Nà bǎ shēnsù yě yìqǐ kǎolǜ jìnqù.",
-      "tr": "Itiraz / başvuru konusunu da değerlendirme kapsamına alalım."
+      "zh": "我现在知道怎么申诉了，不必憋着不说。",
+      "pinyin": "Wǒ xiàn zài zhī dào zěn me shēn sù le bù bì biē zhe bù shuō",
+      "tr": "Artık nasıl itiraz edeceğimi biliyorum; içime atmam gerekmiyor."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_078",
       "speaker": "刘梅",
-      "zh": "嗯，这点先保留，等信息齐一点再判断。",
-      "pinyin": "En, zhèdiǎn xiān bǎoliú, děng xìnxī qí yìdiǎn zài pànduàn.",
-      "tr": "Şimdilik not edelim, bilgiler biraz daha tamamlanınca karar veririz."
+      "zh": "你愿意按流程反馈，我们也会认真回应。",
+      "pinyin": "Nǐ yuàn yì àn liú chéng fǎn kuì wǒ men yě huì rèn zhēn huí yìng",
+      "tr": "Süreç içinde geri bildirim vermen değerli; biz de dikkatle yanıtlarız."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_079",
       "speaker": "经理",
-      "zh": "如果管理的情况变了，后面的计划也得重新评估。",
-      "pinyin": "Rúguǒ guǎnlǐ de qíngkuàng biàn le, hòumiàn de jìhuà yě dé chóngxīn pínggū.",
-      "tr": "Yönetim değişirse planı da ayarlamak gerekir."
+      "zh": "我也会先了解完整情况，再判断安排是否合理。",
+      "pinyin": "Wǒ yě huì xiān liǎo jiě wán zhěng qíng kuàng zài pàn duàn ān pái shì fǒu hé lǐ",
+      "tr": "Düzenin makul olup olmadığına karar vermeden önce durumu bütünüyle öğrenirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_080",
       "speaker": "张伟",
-      "zh": "不过，有不同意见没关系，关键是把依据说出来。",
-      "pinyin": "Bùguò, yǒu bùtóng yìjiàn méiguānxì, guānjiàn shì bǎ yījù shuō chūlái.",
-      "tr": "Ancak, farklı görüşlerin olması sorun değil; önemli olan dayanağını açıklamak."
+      "zh": "这就是责任感：提出问题，也愿意一起核实事实。",
+      "pinyin": "Zhè jiù shì zé rèn gǎn tí chū wèn tí yě yuàn yì yì qǐ hé shí shì shí",
+      "tr": "Sorumluluk budur: sorunu dile getirmek ve gerçekleri birlikte doğrulamaya istekli olmak."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_081",
       "speaker": "员工",
-      "zh": "责任感会对接下来的工作造成什么影响？",
-      "pinyin": "Zérèngǎn huì duì jiēxiàlái de gōngzuò zàochéng shénme yǐngxiǎng?",
-      "tr": "Sorumluluk duygusu konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "新的排班表已经按轮换顺序排好了。",
+      "pinyin": "Xīn de pái bān biǎo yǐ jīng àn lún huàn shùn xù pái hǎo le",
+      "tr": "Yeni vardiya çizelgesi dönüşümlü sıraya göre hazır."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_082",
       "speaker": "刘梅",
-      "zh": "嗯，这条信息很重要。",
-      "pinyin": "En, zhè tiáo xìnxī hěn zhòngyào.",
-      "tr": "Bu bilgi çok kritik."
+      "zh": "我看到了，周末的晚班分配比之前均匀。",
+      "pinyin": "Wǒ kàn dào le zhōu mò de wǎn bān fēn pèi bǐ zhī qián jūn yún",
+      "tr": "Gördüm; hafta sonu akşam vardiyaları önceye göre daha dengeli."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_083",
       "speaker": "经理",
-      "zh": "换个角度看，不用追求一次把所有问题都解决，先把下一步走稳。",
-      "pinyin": "Huàngè jiǎodùkàn, bùyòng zhuīqiú yīcì bǎ suǒyǒu wèntí dōu jiějué, xiān bǎ xià yībù zǒuwěn.",
-      "tr": "Başka bir açıdan bakarsak, bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+      "zh": "你觉得还有需要改的地方吗？",
+      "pinyin": "Nǐ jué de hái yǒu xū yào gǎi de dì fāng ma",
+      "tr": "Sence değiştirmemiz gereken başka bir şey var mı?"
     },
     {
       "id": "DLG_ZH_HSK5_SC005_084",
       "speaker": "张伟",
-      "zh": "嗯，你这么解释以后，我更理解你的想法了。",
-      "pinyin": "En, nǐ zhème jiěshì yǐhòu, wǒ gèng lǐjiě nǐ de xiǎngfǎ le.",
-      "tr": "Böyle açıklayınca bakış açını daha iyi anladım."
+      "zh": "目前没有，我会先按新安排工作，再看实际情况。",
+      "pinyin": "Mù qián méi yǒu wǒ huì xiān àn xīn ān pái gōng zuò zài kàn shí jì qíng kuàng",
+      "tr": "Şimdilik yok; yeni düzene göre çalışıp gerçek duruma bakacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_085",
       "speaker": "员工",
-      "zh": "那把依据也一起考虑进去。",
-      "pinyin": "Nà bǎ yījù yě yìqǐ kǎolǜ jìnqù.",
-      "tr": "Dayanak / kanıt konusunu da değerlendirme kapsamına alalım."
+      "zh": "我把申诉流程贴在员工休息区，方便大家查看。",
+      "pinyin": "Wǒ bǎ shēn sù liú chéng tiē zài yuán gōng xiū xī qū fāng biàn dà jiā chá kàn",
+      "tr": "İtiraz sürecini çalışanların dinlenme alanına astım; herkes görebilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_086",
       "speaker": "刘梅",
-      "zh": "嗯，这点先别定死，还要再看看。",
-      "pinyin": "En, zhèdiǎn xiānbiédìng sǐ, háiyào zài kànkàn.",
-      "tr": "Bu nokta doğrulanmaya devam edilmeye değer."
+      "zh": "请确认上面没有写任何人的私人原因。",
+      "pinyin": "Qǐng què rèn shàng miàn méi yǒu xiě rèn hé rén de sī rén yuán yīn",
+      "tr": "Üzerinde kimsenin özel nedeninin yazmadığını kontrol et."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_087",
       "speaker": "经理",
-      "zh": "另外，这件事既有业务影响，也会影响团队里的信任。",
-      "pinyin": "Lìngwài, zhèjiàn shì jìyǒu yèwù yǐngxiǎng, yě huì yǐngxiǎng tuánduì lǐ de xìnrèn.",
-      "tr": "Ayrıca, bu konu hem iş sonuçlarını hem de ekip içindeki güveni etkiler."
+      "zh": "确认过了，只写申请方式、回复时间和复核办法。",
+      "pinyin": "Què rèn guò le zhǐ xiě shēn qǐng fāng shì huí fù shí jiān hé fù hé bàn fǎ",
+      "tr": "Kontrol ettim; yalnızca başvuru yolu, yanıt süresi ve yeniden inceleme var."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_088",
       "speaker": "张伟",
-      "zh": "嗯，我赞成先解决最紧要的部分。",
-      "pinyin": "En, wǒ zànchéng xiān jiějué zuì jǐnyào de bùfèn.",
-      "tr": "Bunu öncelikli konu olarak belirlemeye katılıyorum."
+      "zh": "很好，透明的制度能减少误会。",
+      "pinyin": "Hěn hǎo tòu míng de zhì dù néng jiǎn shǎo wù huì",
+      "tr": "Güzel; açık bir düzen yanlış anlaşılmaları azaltır."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_089",
       "speaker": "员工",
-      "zh": "那关于排班，你觉得先处理哪一部分？",
-      "pinyin": "Nà guānyú páibān, nǐ juéde xiān chǔlǐ nǎ yībùfèn?",
-      "tr": "Vardiya planı konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "我还想给员工留一个私下反馈的渠道。",
+      "pinyin": "Wǒ hái xiǎng gěi yuán gōng liú yí gè sī xià fǎn kuì de qú dào",
+      "tr": "Çalışanlara özel olarak geri bildirim verebilecekleri bir yol da bırakmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_090",
       "speaker": "刘梅",
-      "zh": "不过，我们先解决最紧急的，再处理可以等一等的部分。",
-      "pinyin": "Bùguò, wǒmen xiān jiějué zuì jǐnjí de, zài chǔlǐ kěyǐ děngyīděng de bùfèn.",
-      "tr": "Ancak, önce en acil kısmı çözelim; bekleyebilecek konuları sonra ele alırız."
+      "zh": "可以，但要告诉他们谁会看到意见、多久会处理。",
+      "pinyin": "Kě yǐ dàn yào gào sù tā men shuí huì kàn dào yì jiàn duō jiǔ huì chǔ lǐ",
+      "tr": "Olur; görüşleri kimin göreceğini ve ne zaman işleneceğini açıkla."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_091",
       "speaker": "经理",
-      "zh": "换个角度看，这个决定会影响到谁，最好现在就弄清楚。",
-      "pinyin": "Huàngè jiǎodùkàn, zhège juédìng huì yǐngxiǎng dào shuí, zuìhǎo xiànzài jiù nòngqīngchǔ.",
-      "tr": "Başka bir açıdan bakarsak, bu kararın kimi etkileyeceğini şimdiden netleştirmek iyi olur."
+      "zh": "我每周整理一次，不公开姓名，只汇报改进事项。",
+      "pinyin": "Wǒ měi zhōu zhěng lǐ yī cì bù gōng kāi xìng míng zhǐ huì bào gǎi jìn shì xiàng",
+      "tr": "Haftada bir düzenler, isimleri açıklamadan iyileştirme konularını aktarırım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_092",
       "speaker": "张伟",
-      "zh": "嗯，我们也要看看有没有不同的情况。",
-      "pinyin": "En, wǒmen yě yào kànkàn yǒuméiyǒu bùtóng de qíngkuàng.",
-      "tr": "Ters yönde kanıt olup olmadığına da bakmalıyız."
+      "zh": "如果需要了解细节，再征求当事人同意。",
+      "pinyin": "Rú guǒ xū yào liǎo jiě xì jié zài zhēng qiú dāng shì rén tóng yì",
+      "tr": "Ayrıntı gerekirse ilgili kişiden önce izin alırız."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_093",
       "speaker": "员工",
-      "zh": "申诉这一点也值得认真考虑。",
-      "pinyin": "Shēnsù zhè yìdiǎn yě zhíde rènzhēn kǎolǜ.",
-      "tr": "itiraz / başvuru noktası da ciddi biçimde değerlendirmeye değer."
+      "zh": "这样员工更敢说问题，也不会担心被针对。",
+      "pinyin": "Zhè yàng yuán gōng gèng gǎn shuō wèn tí yě bú huì dān xīn bèi zhēn duì",
+      "tr": "Böylece çalışanlar sorunu dile getirmekten çekinmez ve hedef alınmaktan korkmaz."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_094",
       "speaker": "刘梅",
-      "zh": "把责任和时间说清楚，后面执行会容易很多。",
-      "pinyin": "Bǎ zérèn hé shíjiān shuō qīngchǔ, hòumiàn zhíxíng huì róngyì hěnduō.",
-      "tr": "Sorumlulukları ve zamanı netleştirince uygulama çok daha kolay olur."
+      "zh": "管理不是避免所有冲突，而是用公平的方式处理。",
+      "pinyin": "Guǎn lǐ bú shì bì miǎn suǒ yǒu chōng tū ér shì yòng gōng píng de fāng shì chǔ lǐ",
+      "tr": "Yönetim bütün anlaşmazlıkları önlemek değil, adil biçimde ele almaktır."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_095",
       "speaker": "经理",
-      "zh": "其实，这个风险可以接受，但前提是我们知道怎么应对。",
-      "pinyin": "Qíshí, zhège fēngxiǎn kěyǐ jiēshòu, dàn qiántí shì wǒmen zhīdào zěnme yìngduì.",
-      "tr": "Aslında, bu risk kabul edilebilir; ama nasıl karşılık vereceğimizi bilmemiz şart."
+      "zh": "我会负责执行制度，也会承认安排有不合适时需要改。",
+      "pinyin": "Wǒ huì fù zé zhí xíng zhì dù yě huì chéng rèn ān pái yǒu bù hé shì shí xū yào gǎi",
+      "tr": "Kuralları uygulayıp düzen uygun değilse değiştirmek gerektiğini de kabul ederim."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_096",
       "speaker": "张伟",
-      "zh": "换个角度看，别只看眼前的效率，长期的合作也很重要。",
-      "pinyin": "Huàngè jiǎodùkàn, bié zhǐ kàn yǎnqián de xiàolǜ, chángqī de hézuò yě hěn zhòngyào.",
-      "tr": "Başka bir açıdan bakarsak, yalnızca kısa vadeli verimliliğe bakmayalım; uzun vadeli iş birliği de önemli."
+      "zh": "愿意根据事实调整，才是真正的责任感。",
+      "pinyin": "Yuàn yì gēn jù shì shí tiáo zhěng cái shì zhēn zhèng de zé rèn gǎn",
+      "tr": "Gerçeklere göre düzenlemeye açık olmak gerçek sorumluluktur."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_097",
       "speaker": "员工",
-      "zh": "不过，这个决定会影响到谁，最好现在就弄清楚。",
-      "pinyin": "Bùguò, zhège juédìng huì yǐngxiǎng dào shuí, zuìhǎo xiànzài jiù nòngqīngchǔ.",
-      "tr": "Ancak, bu kararın kimi etkileyeceğini şimdiden netleştirmek iyi olur."
+      "zh": "一个月后我们再看轮换记录和员工反馈。",
+      "pinyin": "Yí gè yuè hòu wǒ men zài kàn lún huàn jì lù hé yuán gōng fǎn kuì",
+      "tr": "Bir ay sonra vardiya kayıtlarına ve çalışan geri bildirimlerine yeniden bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_098",
       "speaker": "刘梅",
-      "zh": "另外，这个决定会影响到谁，最好现在就弄清楚。",
-      "pinyin": "Lìngwài, zhège juédìng huì yǐngxiǎng dào shuí, zuìhǎo xiànzài jiù nòngqīngchǔ.",
-      "tr": "Ayrıca, bu kararın kimi etkileyeceğini şimdiden netleştirmek iyi olur."
+      "zh": "如果制度有效，就继续；如果有问题，就一起修订。",
+      "pinyin": "Rú guǒ zhì dù yǒu xiào jiù jì xù rú guǒ yǒu wèn tí jiù yì qǐ xiū dìng",
+      "tr": "Düzen işe yararsa sürdürür, sorun varsa birlikte gözden geçiririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_099",
       "speaker": "经理",
-      "zh": "另外，这个风险可以接受，但前提是我们知道怎么应对。",
-      "pinyin": "Lìngwài, zhège fēngxiǎn kěyǐ jiēshòu, dàn qiántí shì wǒmen zhīdào zěnme yìngduì.",
-      "tr": "Ayrıca, bu risk kabul edilebilir; ama nasıl karşılık vereceğimizi bilmemiz şart."
+      "zh": "谢谢你们认真对待这次申诉。",
+      "pinyin": "Xiè xiè nǐ men rèn zhēn duì dài zhè cì shēn sù",
+      "tr": "İtirazımı ciddiye aldığınız için teşekkür ederim."
     },
     {
       "id": "DLG_ZH_HSK5_SC005_100",
       "speaker": "张伟",
-      "zh": "不过，别只看眼前的效率，长期的合作也很重要。",
-      "pinyin": "Bùguò, bié zhǐ kàn yǎnqián de xiàolǜ, chángqī de hézuò yě hěn zhòngyào.",
-      "tr": "Ancak, yalnızca kısa vadeli verimliliğe bakmayalım; uzun vadeli iş birliği de önemli."
+      "zh": "谢谢你愿意提出问题，让团队有机会把管理做得更公平。",
+      "pinyin": "Xiè xiè nǐ yuàn yì tí chū wèn tí ràng tuán duì yǒu jī huì bǎ guǎn lǐ zuò dé gèng gōng píng",
+      "tr": "Sorunu dile getirdiğin için sağ ol; ekibe yönetimi daha adil hale getirme fırsatı verdin."
     }
   ]
 }

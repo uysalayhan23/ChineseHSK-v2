@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC009.json",
-  "dialogueSha256": "a95e6c25557e14ddaa3b2eed073e30848f2df8c2ce904446d516389f5b054948",
+  "dialogueSha256": "3f712be3ee6d07a083266758e0b9741d6663cecaa1d96358693817456ce48cb9",
   "titleZh": "家里突然安静了",
   "titleTr": "Ev Sessizleşiyor",
   "locationId": "LOC_ZH_NEW_HOME_001",

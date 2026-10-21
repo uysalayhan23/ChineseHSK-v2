@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC040",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC040.json",
-  "dialogueSha256": "df9c7aaf782afcb8e0580e6e0aeb7184fed6289011557825d127b4488326ab53",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC040.json",
+  "dialogueSha256": "cff40d8d626378da1fa5e73030a773eef657a5e2ae65c36f5d3e0796cb8086a1",
   "titleTr": "Liu Mei’nin Kafe Defteri",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Liu Mei ilk kez aylık gelir ve giderleri ayrıntılı olarak düzenler.",
@@ -72,5 +72,18 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: Kafe gelir-gider hesabı ve aylık bütçe değerlendirmesi görünür. Kullanıcı, manifesto uygunsa ilerleme onayı verdi; HSK3 SC031-SC040 continuity seti final olarak entegre edildi."
+  "qaNoteTr": "2026-09-28: Kafe gelir-gider hesabı ve aylık bütçe değerlendirmesi görünür. Kullanıcı, manifesto uygunsa ilerleme onayı verdi; HSK3 SC031-SC040 continuity seti final olarak entegre edildi.",
+  "dialogueTextQA": {
+    "status": "PASS",
+    "turns": 100,
+    "coherenceScore": 93.0,
+    "activeVocabularyCoverage": 1.0,
+    "topicWindowCoverage": 0.8,
+    "duplicateUtterances": 0,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
+  },
+  "allDialogueSpeakersVisible": true,
+  "mouthAnchorReviewStatus": "PASS",
+  "mouthAnchorImageSha256": "f610d7ed38e63a351bb7da22982fd4d8d88239e0c0b99f17fd970e673ef67561"
 }

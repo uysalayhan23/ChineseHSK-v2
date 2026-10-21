@@ -107,9 +107,9 @@
     {
       "id": "DLG_ZH_HSK3_SC040_015",
       "speaker": "顾客",
-      "zh": "说到预算，你怎么看？",
-      "pinyin": "Shuō dào yù suàn, nǐ zěn me kàn?",
-      "tr": "bütçe konusunda ne düşünüyorsun?"
+      "zh": "咖啡馆每月固定要付哪些费用？",
+      "pinyin": "kā fēi guǎn měi yuè gù dìng yào fù nǎ xiē fèi yòng",
+      "tr": "Kafenin her ay düzenli olarak hangi giderleri oluyor?"
     },
     {
       "id": "DLG_ZH_HSK3_SC040_016",
@@ -289,142 +289,142 @@
     {
       "id": "DLG_ZH_HSK3_SC040_041",
       "speaker": "刘梅",
-      "zh": "可以先做一部分，看看效果。",
-      "pinyin": "Kěyǐ xiān zuò yí bùfen, kànkan xiàoguǒ.",
-      "tr": "Önce bir kısmını yapıp sonucu görebiliriz."
+      "zh": "大家先看这个月的账本，收入和支出我分开记了。",
+      "pinyin": "dà jiā xiān kàn zhè ge yuè de zhàng běn shōu rù hé zhī chū wǒ fēn kāi jì le",
+      "tr": "Herkes bu ayın hesap defterine baksın; gelir ve giderleri ayrı yazdım."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_042",
       "speaker": "张伟",
-      "zh": "这个主意不错。",
-      "pinyin": "Zhège zhǔyi búcuò.",
-      "tr": "Bu fikir fena değil."
+      "zh": "这几天的收入比上个月多，是因为周末客人多吗？",
+      "pinyin": "zhè jǐ tiān de shōu rù bǐ shàng gè yuè duō shì yīn wèi zhōu mò kè rén duō ma",
+      "tr": "Son günlerde gelir geçen aydan yüksek; hafta sonu müşteri sayısı mı arttı?"
     },
     {
       "id": "DLG_ZH_HSK3_SC040_043",
       "speaker": "顾客",
-      "zh": "那我负责这一部分。",
-      "pinyin": "Nà wǒ fùzé zhè yí bùfen.",
-      "tr": "O zaman bu kısmı ben üstleneyim."
+      "zh": "对，周末卖得好，但原料成本也高了一些。",
+      "pinyin": "duì zhōu mò mài dé hǎo dàn yuán liào chéng běn yě gāo le yī xiē",
+      "tr": "Evet, hafta sonları satış iyi ama malzeme maliyeti de biraz yükseldi."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_044",
       "speaker": "张雨桐",
-      "zh": "剩下的我来处理。",
-      "pinyin": "Shèngxià de wǒ lái chǔlǐ.",
-      "tr": "Kalanını ben hallederim."
+      "zh": "我把每天的销售写在平板上，可以和账本对照。",
+      "pinyin": "wǒ bǎ měi tiān de xiāo shòu xiě zài píng bǎn shàng kě yǐ hé zhàng běn duì zhào",
+      "tr": "Günlük satışları tablete yazdım; hesap defteriyle karşılaştırabiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_045",
       "speaker": "刘梅",
-      "zh": "需要我帮忙的时候告诉我。",
-      "pinyin": "Xūyào wǒ bāngmáng de shíhou gàosu wǒ.",
-      "tr": "Yardıma ihtiyacın olduğunda bana söyle."
+      "zh": "房租和工资是固定支出，咖啡豆和牛奶的成本会变。",
+      "pinyin": "fáng zū hé gōng zī shì gù dìng zhī chū kā fēi dòu hé niú nǎi de chéng běn huì biàn",
+      "tr": "Kira ve maaşlar sabit gider; kahve çekirdeğiyle sütün maliyeti değişebilir."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_046",
       "speaker": "张伟",
-      "zh": "好，我们保持联系。",
-      "pinyin": "Hǎo, wǒmen bǎochí liánxì.",
-      "tr": "Tamam, iletişimde kalalım."
+      "zh": "那我们每月先留出固定支出，再看剩下的钱怎么安排。",
+      "pinyin": "nà wǒ men měi yuè xiān liú chū gù dìng zhī chū zài kàn shèng xià de qián zěn me ān pái",
+      "tr": "Her ay önce sabit giderleri ayıralım; kalan parayı sonra planlarız."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_047",
       "speaker": "顾客",
-      "zh": "事情越来越清楚了。",
-      "pinyin": "Shìqing yuèláiyuè qīngchu le.",
-      "tr": "Durum giderek netleşiyor."
+      "zh": "我注意到外带杯最近涨价了，得把这个成本也算进去。",
+      "pinyin": "wǒ zhù yì dào wài dài bēi zuì jìn zhǎng jià le dé bǎ zhè ge chéng běn yě suàn jìn qù",
+      "tr": "Paket bardaklarının fiyatı yükselmiş; bu maliyeti de hesaba katmalıyız."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_048",
       "speaker": "张雨桐",
-      "zh": "我也放心多了。",
-      "pinyin": "Wǒ yě fàngxīn duō le.",
-      "tr": "Ben de çok daha rahatladım."
+      "zh": "我会把杯子、咖啡豆和牛奶分别记下来，月底比较。",
+      "pinyin": "wǒ huì bǎ bēi zi kā fēi dòu hé niú nǎi fēn bié jì xià lái yuè dǐ bǐ jiào",
+      "tr": "Bardakları, kahve çekirdeklerini ve sütü ayrı kaydedip ay sonunda karşılaştırırım."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_049",
       "speaker": "刘梅",
-      "zh": "还有一个小问题。",
-      "pinyin": "Hái yǒu yí ge xiǎo wèntí.",
-      "tr": "Bir küçük sorun daha var."
+      "zh": "我们还要做一个简单的预算，别让支出超过收入。",
+      "pinyin": "wǒ men hái yào zuò yí gè jiǎn dān de yù suàn bié ràng zhī chū chāo guò shōu rù",
+      "tr": "Basit bir bütçe de yapmalıyız; giderlerin geliri aşmasına izin vermeyelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_050",
       "speaker": "张伟",
-      "zh": "你说吧，我们一起想办法。",
-      "pinyin": "Nǐ shuō ba, wǒmen yìqǐ xiǎng bànfǎ.",
-      "tr": "Söyle, birlikte çözüm düşünelim."
+      "zh": "每月给原料、房租和其他费用各留一部分，可以吗？",
+      "pinyin": "měi yuè gěi yuán liào fáng zū hé qí tā fèi yòng gè liú yī bù fèn kě yǐ ma",
+      "tr": "Her ay malzemeye, kiraya ve diğer giderlere ayrı pay ayırsak olur mu?"
     },
     {
       "id": "DLG_ZH_HSK3_SC040_051",
       "speaker": "顾客",
-      "zh": "这个问题其实不难。",
-      "pinyin": "Zhège wèntí qíshí bù nán.",
-      "tr": "Bu sorun aslında zor değil."
+      "zh": "可以，不过最好也留一点钱，应付设备突然需要修理。",
+      "pinyin": "kě yǐ bù guò zuì hǎo yě liú yì diǎn qián yìng fù shè bèi tū rán xū yào xiū lǐ",
+      "tr": "Olur ama ekipman aniden bozulursa diye biraz para da ayırmak iyi olur."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_052",
       "speaker": "张雨桐",
-      "zh": "只要准备好，就可以开始。",
-      "pinyin": "Zhǐyào zhǔnbèi hǎo, jiù kěyǐ kāishǐ.",
-      "tr": "Hazırlık tamam olursa başlayabiliriz."
+      "zh": "我在预算里加一项“维修”，以后有支出就从这里记。",
+      "pinyin": "wǒ zài yù suàn lǐ jiā yī xiàng wéi xiū yǐ hòu yǒu zhī chū jiù cóng zhè lǐ jì",
+      "tr": "Bütçeye “onarım” diye bir kalem ekleyeyim; masraf çıkarsa buraya kaydederim."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_053",
       "speaker": "刘梅",
-      "zh": "那我们现在开始吧。",
-      "pinyin": "Nà wǒmen xiànzài kāishǐ ba.",
-      "tr": "O zaman şimdi başlayalım."
+      "zh": "收入不能只看总数，我们还要知道每种东西的成本。",
+      "pinyin": "shōu rù bù néng zhǐ kàn zǒng shù wǒ men hái yào zhī dào měi zhǒng dōng xī de chéng běn",
+      "tr": "Yalnızca toplam gelire bakamayız; her ürünün maliyetini de bilmeliyiz."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_054",
       "speaker": "张伟",
-      "zh": "进行得比想象中顺利。",
-      "pinyin": "Jìnxíng de bǐ xiǎngxiàng zhōng shùnlì.",
-      "tr": "Düşündüğümüzden daha sorunsuz ilerliyor."
+      "zh": "一杯拿铁用的牛奶比较多，成本比美式咖啡高。",
+      "pinyin": "yī bēi ná tiě yòng de niú nǎi bǐ jiào duō chéng běn bǐ měi shì kā fēi gāo",
+      "tr": "Bir latte daha fazla süt kullanıyor; maliyeti Americano’dan yüksek."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_055",
       "speaker": "顾客",
-      "zh": "中间还是出了一个小问题。",
-      "pinyin": "Zhōngjiān háishi chū le yí ge xiǎo wèntí.",
-      "tr": "Arada yine küçük bir sorun çıktı."
+      "zh": "那菜单价格也要看成本，但别一下子涨得太多。",
+      "pinyin": "nà cài dān jià gé yě yào kàn chéng běn dàn bié yī xià zi zhǎng dé tài duō",
+      "tr": "Menü fiyatlarını maliyete göre değerlendirelim ama bir anda çok artırmayalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_056",
       "speaker": "张雨桐",
-      "zh": "没关系，先看看能不能调整。",
-      "pinyin": "Méi guānxi, xiān kànkan néng bu néng tiáozhěng.",
-      "tr": "Sorun değil, önce ayarlayıp ayarlayamayacağımıza bakalım."
+      "zh": "我可以先把每种饮料的成本算出来，再给大家看。",
+      "pinyin": "wǒ kě yǐ xiān bǎ měi zhǒng yǐn liào de chéng běn suàn chū lái zài gěi dà jiā kàn",
+      "tr": "Önce her içeceğin maliyetini hesaplayıp size gösterebilirim."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_057",
       "speaker": "刘梅",
-      "zh": "我有一个新的办法。",
-      "pinyin": "Wǒ yǒu yí ge xīn de bànfǎ.",
-      "tr": "Yeni bir çözümüm var."
+      "zh": "好，等数据齐了，我们再决定哪些价格需要调整。",
+      "pinyin": "hǎo děng shù jù qí le wǒ men zài jué dìng nǎ xiē jià gé xū yào tiáo zhěng",
+      "tr": "Güzel, veriler tamamlanınca hangi fiyatları değiştireceğimize karar veririz."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_058",
       "speaker": "张伟",
-      "zh": "说来听听。",
-      "pinyin": "Shuō lái tīngting.",
-      "tr": "Anlat bakalım."
+      "zh": "账本里的收入、支出和成本清楚了，预算也更容易做。",
+      "pinyin": "zhàng běn lǐ de shōu rù zhī chū hé chéng běn qīng chǔ le yù suàn yě gèng róng yì zuò",
+      "tr": "Defterde gelir, gider ve maliyetler açık olursa bütçe yapmak kolaylaşır."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_059",
       "speaker": "顾客",
-      "zh": "我们可以一边做，一边检查。",
-      "pinyin": "Wǒmen kěyǐ yìbiān zuò, yìbiān jiǎnchá.",
-      "tr": "Yaparken aynı anda kontrol edebiliriz."
+      "zh": "这样月底就能看出钱花在哪里，也知道生意有没有进步。",
+      "pinyin": "zhè yàng yuè dǐ jiù néng kàn chū qián huā zài nǎ lǐ yě zhī dào shēng yì yǒu méi yǒu jìn bù",
+      "tr": "Ay sonunda paranın nereye gittiğini ve işlerin gelişip gelişmediğini görürüz."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_060",
       "speaker": "张雨桐",
-      "zh": "这样发现问题会更早。",
-      "pinyin": "Zhèyàng fāxiàn wèntí huì gèng zǎo.",
-      "tr": "Böylece sorunları daha erken fark ederiz."
+      "zh": "我今晚把平板上的记录整理好，明天和账本一起核对。",
+      "pinyin": "wǒ jīn wǎn bǎ píng bǎn shàng de jì lù zhěng lǐ hǎo míng tiān hé zhàng běn yì qǐ hé duì",
+      "tr": "Bu akşam tabletteki kayıtları düzenleyip yarın hesap defteriyle karşılaştırırım."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_061",
@@ -639,72 +639,72 @@
     {
       "id": "DLG_ZH_HSK3_SC040_091",
       "speaker": "顾客",
-      "zh": "对，剩下的就是按计划做。",
-      "pinyin": "Duì, shèng xià de jiù shì àn jì huà zuò.",
-      "tr": "Evet, geriye plana göre uygulamak kalıyor."
+      "zh": "我们也可以每周看一次收入，不必等到月底才发现问题。",
+      "pinyin": "wǒ men yě kě yǐ měi zhōu kàn yī cì shōu rù bù bì děng dào yuè dǐ cái fā xiàn wèn tí",
+      "tr": "Geliri her hafta da kontrol edebiliriz; sorunları görmek için ay sonunu beklemeyiz."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_092",
       "speaker": "张雨桐",
-      "zh": "最后再确认一遍吧。",
-      "pinyin": "Zuì hòu zài què rèn yī biàn ba.",
-      "tr": "Son kez bir daha teyit edelim."
+      "zh": "我会把销售记录和账本放在一起，查起来更方便。",
+      "pinyin": "wǒ huì bǎ xiāo shòu jì lù hé zhàng běn fàng zài yì qǐ chá qǐ lái gèng fāng biàn",
+      "tr": "Satış kayıtlarıyla hesap defterini birlikte tutacağım; kontrol etmek kolaylaşır."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_093",
       "speaker": "刘梅",
-      "zh": "说到预算，你怎么看？",
-      "pinyin": "Shuō dào yù suàn, nǐ zěn me kàn?",
-      "tr": "bütçe konusunda ne düşünüyorsun?"
+      "zh": "先按这个预算做一个月，如果不合适再调整。",
+      "pinyin": "xiān àn zhè ge yù suàn zuò yí gè yuè rú guǒ bù hé shì zài tiáo zhěng",
+      "tr": "Bu bütçeyi bir ay uygulayalım; uygun olmazsa yeniden düzenleriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_094",
       "speaker": "张伟",
-      "zh": "好，这一点确认以后我们就可以收尾了。",
-      "pinyin": "Hǎo, zhè yì diǎn què rèn yǐ hòu wǒ men jiù kě yǐ shōu wěi le.",
-      "tr": "Tamam, bu noktayı da teyit edince konuşmayı tamamlayabiliriz."
+      "zh": "我同意，固定支出先记好，原料成本每周更新。",
+      "pinyin": "wǒ tóng yì gù dìng zhī chū xiān jì hǎo yuán liào chéng běn měi zhōu gēng xīn",
+      "tr": "Katılıyorum; sabit giderleri kaydedip malzeme maliyetini her hafta güncelleyelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_095",
       "speaker": "顾客",
-      "zh": "现在主要问题已经解决了。",
-      "pinyin": "Xiànzài zhǔyào wèntí yǐjīng jiějué le.",
-      "tr": "Ana sorun artık çözüldü."
+      "zh": "这样既能看清收入，也不会漏掉小支出。",
+      "pinyin": "zhè yàng jì néng kàn qīng shōu rù yě bú huì lòu diào xiǎo zhī chū",
+      "tr": "Böylece geliri net görür, küçük giderleri de atlamayız."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_096",
       "speaker": "张雨桐",
-      "zh": "剩下的按计划做就可以。",
-      "pinyin": "Shèngxià de àn jìhuà zuò jiù kěyǐ.",
-      "tr": "Kalanını plana göre yapmamız yeterli."
+      "zh": "维修费和杯子的价格我也会写进预算。",
+      "pinyin": "wéi xiū fèi hé bēi zi de jià gé wǒ yě huì xiě jìn yù suàn",
+      "tr": "Onarım giderini ve bardak fiyatlarını da bütçeye ekleyeceğim."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_097",
       "speaker": "刘梅",
-      "zh": "今天的经验很有用。",
-      "pinyin": "Jīntiān de jīngyàn hěn yǒuyòng.",
-      "tr": "Bugünkü deneyim çok faydalı."
+      "zh": "等这个月的记录完整了，我们再决定下个月的安排。",
+      "pinyin": "děng zhè ge yuè de jì lù wán zhěng le wǒ men zài jué dìng xià gè yuè de ān pái",
+      "tr": "Bu ayın kayıtları tamamlanınca gelecek ayın planına karar veririz."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_098",
       "speaker": "张伟",
-      "zh": "下次我们会准备得更好。",
-      "pinyin": "Xià cì wǒmen huì zhǔnbèi de gèng hǎo.",
-      "tr": "Bir dahaki sefere daha iyi hazırlanacağız."
+      "zh": "有了账本以后，我知道钱去了哪里，心里踏实多了。",
+      "pinyin": "yǒu liǎo zhàng běn yǐ hòu wǒ zhī dào qián qù le nǎ lǐ xīn lǐ tà shí duō le",
+      "tr": "Hesap defteri sayesinde paranın nereye gittiğini biliyorum; içim daha rahat."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_099",
       "speaker": "顾客",
-      "zh": "好，今天就先到这里。",
-      "pinyin": "Hǎo, jīntiān jiù xiān dào zhèlǐ.",
-      "tr": "Tamam, bugünlük burada bitirelim."
+      "zh": "我下次来时也可以帮你们看看菜单价格合不合理。",
+      "pinyin": "wǒ xià cì lái shí yě kě yǐ bāng nǐ men kàn kàn cài dān jià gé hé bù hé lǐ",
+      "tr": "Bir dahaki gelişimde menü fiyatlarının uygun olup olmadığına bakabilirim."
     },
     {
       "id": "DLG_ZH_HSK3_SC040_100",
       "speaker": "张雨桐",
-      "zh": "明天继续。",
-      "pinyin": "Míngtiān jìxù.",
-      "tr": "Yarın devam ederiz."
+      "zh": "谢谢，等成本和预算整理好，我们再一起讨论。",
+      "pinyin": "xiè xiè děng chéng běn hé yù suàn zhěng lǐ hǎo wǒ men zài yì qǐ tǎo lùn",
+      "tr": "Teşekkürler. Maliyetleri ve bütçeyi düzenleyince birlikte konuşuruz."
     }
   ]
 }

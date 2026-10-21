@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC005.json",
-  "dialogueSha256": "23f51d5dcb7cdd42ce1a31441d327841dc29690b7384b30bac8e28c9ad8fa291",
+  "dialogueSha256": "c1b9a1998a503b9f51776a49465526eea53389d5ad3bd4b489e4e744c2cef77c",
   "titleZh": "员工说不公平",
   "titleTr": "Personel Arasında Haksızlık İddiası",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

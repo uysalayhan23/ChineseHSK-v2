@@ -8,6 +8,8 @@ import androidx.core.content.ContextCompat
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.items
@@ -383,7 +385,7 @@ fun ComprehensionScreen(scene: SceneInfo, dialogueWords: List<VocabularyCard> = 
             return@StudyShell
         }
         val q = questions[index]
-        Column(Modifier.fillMaxSize().padding(18.dp)) {
+        Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).navigationBarsPadding().padding(start = 18.dp, end = 18.dp, top = 18.dp, bottom = 112.dp)) {
             Text("${index + 1} / ${questions.size}", color = Color.White.copy(alpha = 0.75f))
             Spacer(Modifier.height(7.dp))
             
@@ -439,25 +441,75 @@ fun PronunciationPracticeScreen(scene: SceneInfo, progress: ProgressStore, onBac
     var recognized by remember(index) { mutableStateOf("") }
     var score by remember(index) { mutableStateOf<Int?>(null) }
     var status by remember(index) { mutableStateOf("") }
+    var hasRecording by remember(scene.id) { mutableStateOf(false) }
+    var isRecording by remember(scene.id) { mutableStateOf(false) }
+    var isPlayingRecording by remember(scene.id) { mutableStateOf(false) }
     val tts = remember { MandarinTtsPlayer(context) }
     val recognizer = remember { OfflineMandarinRecognizer(context) }
-    DisposableEffect(Unit) { onDispose { tts.shutdown(); recognizer.destroy() } }
+    val voiceRecorder = remember(scene.id) { UserVoiceRecorder(context) }
+    DisposableEffect(Unit) {
+        onDispose {
+            tts.shutdown()
+            recognizer.destroy()
+            voiceRecorder.clear()
+        }
+    }
 
     fun startRecognition() {
         val item = items.getOrNull(index) ?: return
+        tts.stop()
+        recognizer.stop()
+        voiceRecorder.clear()
+        hasRecording = false
+        isRecording = false
+        isPlayingRecording = false
+        status = "Dinliyorum ve kaydediyorum…"
         recognized = ""
         score = null
-        recognizer.start(
-            onListening = { status = "Dinliyorum…" },
-            onResult = { text ->
-                recognized = text
-                val value = chineseTextSimilarity(item.zh, text)
-                score = value
-                progress.savePronunciationBest(item.id, value)
-                status = ""
-            },
-            onError = { message -> status = message }
-        )
+
+        val recordingStarted = voiceRecorder.start { heardSpeech ->
+            isRecording = false
+            hasRecording = voiceRecorder.hasRecording()
+            isPlayingRecording = false
+
+            val source = voiceRecorder.openRecognitionSource()
+            if (source == null) {
+                status = if (hasRecording) {
+                    "Kayıt tamamlandı ancak PCM kaynak dosyası açılamadı. Tekrar deneyin."
+                } else {
+                    "Ses kaydı oluşturulamadı. Tekrar deneyin."
+                }
+                return@start
+            }
+
+            status = if (heardSpeech) "Kayıt tamamlandı, telaffuz analiz ediliyor…" else "Kayıt tamamlandı, ses analiz ediliyor…"
+            recognizer.start(
+                source = source,
+                onListening = { status = "Telaffuz analiz ediliyor…" },
+                onResult = { text ->
+                    recognized = text
+                    val value = chineseTextSimilarity(item.zh, text)
+                    score = value
+                    progress.savePronunciationBest(item.id, value)
+                    status = "Kayıt hazır. ▶ Kaydımı Dinle ile kendi sesini kontrol edebilirsin."
+                },
+                onError = { message ->
+                    status = if (hasRecording) {
+                        message + " Kayıt yine de dinlenebilir."
+                    } else {
+                        message
+                    }
+                }
+            )
+        }
+
+        if (recordingStarted) {
+            isRecording = true
+            status = "Dinliyorum… Konuşun. Bitince otomatik durur veya Kaydı Bitir'e basın."
+        } else {
+            isRecording = false
+            status = "Ses kaydı başlatılamadı. Mikrofonu kullanan başka bir uygulama olmadığını kontrol edin."
+        }
     }
 
     val permissionLauncher = rememberLauncherForActivityResult(ActivityResultContracts.RequestPermission()) { granted ->
@@ -479,19 +531,50 @@ fun PronunciationPracticeScreen(scene: SceneInfo, progress: ProgressStore, onBac
                 colors = CardDefaults.cardColors(containerColor = Color.White),
                 shape = RoundedCornerShape(26.dp)
             ) {
-                Column(Modifier.fillMaxSize().padding(22.dp), horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.Center) {
+                Column(Modifier.fillMaxSize().padding(18.dp).verticalScroll(rememberScrollState()), horizontalAlignment = Alignment.CenterHorizontally) {
                     Text(item.zh, color = StudyTop, fontSize = 30.sp, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center)
                     Text(item.pinyin, color = Color(0xFF65566C), fontSize = 17.sp, textAlign = TextAlign.Center, modifier = Modifier.padding(top = 7.dp))
                     Text(item.tr, color = Color.DarkGray, fontSize = 15.sp, textAlign = TextAlign.Center, modifier = Modifier.padding(top = 6.dp))
                     Spacer(Modifier.height(14.dp))
-                    Button(onClick = { tts.speak(item.zh, "PRONUNCIATION", 0.78f) }, colors = ButtonDefaults.buttonColors(containerColor = StudyAccent)) {
+                    Button(onClick = { tts.speak(item.zh, "PRONUNCIATION", 0.78f) }, modifier = Modifier.fillMaxWidth(), colors = ButtonDefaults.buttonColors(containerColor = StudyAccent)) {
                         Text("🔊 Dinle", color = StudyTop, fontWeight = FontWeight.Bold)
                     }
                     Spacer(Modifier.height(8.dp))
-                    OutlinedButton(onClick = {
-                        if (ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED) startRecognition()
-                        else permissionLauncher.launch(Manifest.permission.RECORD_AUDIO)
-                    }) { Text("🎙 Söyle ve Karşılaştır") }
+                    OutlinedButton(
+                        onClick = {
+                            if (isRecording) {
+                                voiceRecorder.stop()
+                                status = "Kayıt tamamlanıyor…"
+                            } else if (ContextCompat.checkSelfPermission(context, Manifest.permission.RECORD_AUDIO) == PackageManager.PERMISSION_GRANTED) {
+                                startRecognition()
+                            } else {
+                                permissionLauncher.launch(Manifest.permission.RECORD_AUDIO)
+                            }
+                        },
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        Text(if (isRecording) "⏹ Kaydı Bitir" else "🎙 Söyle ve Karşılaştır")
+                    }
+                    if (hasRecording) {
+                        Spacer(Modifier.height(8.dp))
+                        OutlinedButton(
+                            onClick = {
+                                if (isPlayingRecording) {
+                                    voiceRecorder.stopPlayback()
+                                    isPlayingRecording = false
+                                } else {
+                                    val started = voiceRecorder.play {
+                                        isPlayingRecording = false
+                                    }
+                                    isPlayingRecording = started
+                                    if (!started) status = "Ses kaydı oynatılamadı."
+                                }
+                            },
+                            modifier = Modifier.fillMaxWidth()
+                        ) {
+                            Text(if (isPlayingRecording) "⏹ Dinlemeyi Durdur" else "▶ Kaydımı Dinle")
+                        }
+                    }
                     if (status.isNotBlank()) Text(status, color = Danger, textAlign = TextAlign.Center, modifier = Modifier.padding(top = 12.dp))
                     if (recognized.isNotBlank()) {
                         Text("Algılanan: $recognized", color = Color.DarkGray, textAlign = TextAlign.Center, modifier = Modifier.padding(top = 14.dp))
@@ -508,8 +591,35 @@ fun PronunciationPracticeScreen(scene: SceneInfo, progress: ProgressStore, onBac
                 }
             }
             Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(12.dp)) {
-                OutlinedButton(onClick = { if (index > 0) index-- }, enabled = index > 0, modifier = Modifier.weight(1f)) { Text("← Önceki") }
-                Button(onClick = { if (index < items.lastIndex) index++ }, enabled = index < items.lastIndex, modifier = Modifier.weight(1f), colors = ButtonDefaults.buttonColors(containerColor = StudyAccent)) { Text("Sonraki →", color = StudyTop) }
+                OutlinedButton(
+                    onClick = {
+                        if (index > 0) {
+                            recognizer.stop()
+                            voiceRecorder.clear()
+                            hasRecording = false
+                            isRecording = false
+                            isPlayingRecording = false
+                            index--
+                        }
+                    },
+                    enabled = index > 0,
+                    modifier = Modifier.weight(1f)
+                ) { Text("← Önceki") }
+                Button(
+                    onClick = {
+                        if (index < items.lastIndex) {
+                            recognizer.stop()
+                            voiceRecorder.clear()
+                            hasRecording = false
+                            isRecording = false
+                            isPlayingRecording = false
+                            index++
+                        }
+                    },
+                    enabled = index < items.lastIndex,
+                    modifier = Modifier.weight(1f),
+                    colors = ButtonDefaults.buttonColors(containerColor = StudyAccent)
+                ) { Text("Sonraki →", color = StudyTop) }
             }
         }
     }
@@ -533,7 +643,7 @@ fun InteractiveDialogueScreen(scene: SceneInfo, dialogueWords: List<VocabularyCa
         if (index >= items.size) index = items.lastIndex
         val item = items[index]
         val correctIndex = item.options.indexOfFirst { it.correct }
-        Column(Modifier.fillMaxSize().padding(18.dp)) {
+        Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState()).navigationBarsPadding().padding(start = 18.dp, end = 18.dp, top = 18.dp, bottom = 112.dp)) {
             Text("${index + 1} / ${items.size} · Doğru: $correctCount", color = Color.White.copy(alpha = 0.8f))
             Spacer(Modifier.height(7.dp))
             
@@ -896,19 +1006,34 @@ fun ExamHubScreen(
     val rules = scene.learning.examRules
     val vocabScore = progress.vocabularyExamScore(scene.id)
     val sentenceScore = progress.sentenceExamScore(scene.id)
-    val vocabPassed = vocabScore >= rules.vocabularyPassPercent
-    val sentencePassed = sentenceScore >= rules.sentencePassPercent
-    val mastered = vocabPassed && sentencePassed
+    val adminMode = AdminSession.active
+    val vocabPassedNormally = vocabScore >= rules.vocabularyPassPercent
+    val sentencePassedNormally = sentenceScore >= rules.sentencePassPercent
+    val vocabPassed = adminMode || vocabPassedNormally
+    val sentencePassed = adminMode || sentencePassedNormally
+    val mastered = vocabPassedNormally && sentencePassedNormally
 
     StudyShell("Sahne Sınavı", scene.titleTr, onBack) {
         LazyColumn(contentPadding = PaddingValues(18.dp), verticalArrangement = Arrangement.spacedBy(14.dp)) {
+            if (adminMode) {
+                item {
+                    Surface(color = Color(0xFFE6F4EA), shape = RoundedCornerShape(18.dp)) {
+                        Text(
+                            "🔓 Admin modu: sınav aşaması kilitleri bu oturum için devre dışı.",
+                            modifier = Modifier.padding(16.dp),
+                            color = Color(0xFF176B43),
+                            fontWeight = FontWeight.Bold
+                        )
+                    }
+                }
+            }
             item {
                 Card(colors = CardDefaults.cardColors(containerColor = Color.White), shape = RoundedCornerShape(20.dp)) {
                     Column(Modifier.padding(18.dp)) {
                         Text("1. Seviye · Kelime", fontSize = 21.sp, fontWeight = FontWeight.Bold, color = StudyTop)
                         Text("Başarı şartı: %${rules.vocabularyPassPercent}", color = Color.DarkGray)
-                        Text("En iyi sonuç: %$vocabScore", color = if (vocabPassed) Success else Color.DarkGray, modifier = Modifier.padding(top = 6.dp))
-                        Button(onClick = onVocabularyExam, modifier = Modifier.fillMaxWidth().padding(top = 12.dp)) { Text(if (vocabPassed) "Tekrar çöz" else "Kelime sınavını başlat") }
+                        Text("En iyi sonuç: %$vocabScore", color = if (vocabPassedNormally) Success else Color.DarkGray, modifier = Modifier.padding(top = 6.dp))
+                        Button(onClick = onVocabularyExam, modifier = Modifier.fillMaxWidth().padding(top = 12.dp)) { Text(if (adminMode && !vocabPassedNormally) "Admin · Kelime sınavını aç" else if (vocabPassedNormally) "Tekrar çöz" else "Kelime sınavını başlat") }
                     }
                 }
             }
@@ -918,9 +1043,9 @@ fun ExamHubScreen(
                         Text("2. Seviye · Cümle", fontSize = 21.sp, fontWeight = FontWeight.Bold, color = StudyTop)
                         Text("Kelime sıralama · boşluk doldurma · yanlış sırayı düzeltme", color = Color.DarkGray)
                         Text("Başarı şartı: %${rules.sentencePassPercent}", color = Color.DarkGray)
-                        Text("En iyi sonuç: %$sentenceScore", color = if (sentencePassed) Success else Color.DarkGray, modifier = Modifier.padding(top = 6.dp))
+                        Text("En iyi sonuç: %$sentenceScore", color = if (sentencePassedNormally) Success else Color.DarkGray, modifier = Modifier.padding(top = 6.dp))
                         Button(onClick = onSentenceExam, enabled = vocabPassed, modifier = Modifier.fillMaxWidth().padding(top = 12.dp)) {
-                            Text(if (!vocabPassed) "Önce 1. sınavı geç" else if (sentencePassed) "Tekrar çöz" else "Cümle sınavını başlat")
+                            Text(if (adminMode && !vocabPassedNormally) "Admin · Cümle sınavını aç" else if (!vocabPassedNormally) "Önce 1. sınavı geç" else if (sentencePassedNormally) "Tekrar çöz" else "Cümle sınavını başlat")
                         }
                     }
                 }
@@ -928,7 +1053,7 @@ fun ExamHubScreen(
             item {
                 Surface(color = if (mastered) Color(0xFFE6F4EA) else Color.White.copy(alpha = 0.92f), shape = RoundedCornerShape(18.dp)) {
                     Text(
-                        if (mastered) "✓ Sahne başarıyla tamamlandı. Sonraki sahne açıldı." else "🔒 Sonraki sahne, iki sınav da başarıyla tamamlandığında açılır.",
+                        if (mastered) "✓ Sahne başarıyla tamamlandı. Sonraki sahne açıldı." else if (adminMode) "🔓 Admin modu açık; sonraki sahnelere test amaçlı erişebilirsin. Normal ilerleme değişmedi." else "🔒 Sonraki sahne, iki sınav da başarıyla tamamlandığında açılır.",
                         modifier = Modifier.padding(18.dp),
                         color = if (mastered) Success else StudyTop,
                         fontWeight = FontWeight.Bold

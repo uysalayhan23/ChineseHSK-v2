@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK4_SC003",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC003.json",
-  "dialogueSha256": "306fb9873ad2eab7841151f180b5fd65d207d9f47078622a13198c066d63894c",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC003.json",
+  "dialogueSha256": "c7aefbbe9939071315444ef3bfdbe0aa08179bab2c8269e0f05f1d09dc560833",
   "titleTr": "Eski Eşyalar Arasında",
   "locationId": "LOC_ZH_GRANDPARENTS_FARM_001",
   "scenePurposeTr": "Taşınma sırasında eski mektuplar ve aile fotoğrafları bulunur.",
@@ -69,5 +69,7 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi.",
+  "dialogueQaStatus": "PASS",
+  "dialogueQaNoteTr": "Tekrarlanan tam replikler sahne bağlamına göre çeşitlendirildi; ID/speaker sırası, hedefler ve pinyin/Türkçe yeniden kontrol edildi."
 }

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC019.json",
-  "dialogueSha256": "81736fac528ba93b17697fa917b3b950ca93b4bc4bfb07544c5cf48eb2696ace",
+  "dialogueSha256": "f8ab88eba30bed5ce6ead20d6eee41cfa5c508d444aa61226d389343540afdd9",
   "titleTr": "Lele’nin Gizli Yeteneği",
   "locationId": "LOC_ZH_PARK_001",
   "scenePurposeTr": "Lele fotoğrafçılığa yeteneğini gösterir; arkadaşı ve ailesi onu destekler.",

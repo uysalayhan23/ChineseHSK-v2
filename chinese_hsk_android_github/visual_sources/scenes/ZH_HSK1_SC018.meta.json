@@ -4,7 +4,7 @@
   "generationSceneId": "ZH_HSK1_SC018",
   "manifestVersion": "LOCKED_V2",
   "dialogueSource": "ci/dialogue_final_v13/HSK1/ZH_HSK1_SC018.json",
-  "dialogueSha256": "7dcca9b5f8a558bf796d86fb90fdb4713df075c21ad73ee8326cac4398e97439",
+  "dialogueSha256": "60c6808ea13efd16b155c78447d931e7ca16b6fd29244ee5170a5d420e4b77c9",
   "titleTr": "Kasada Para Yetiyor mu?",
   "locationId": "LOC_ZH_SUPERMARKET_001",
   "scenePurposeTr": "Kasada ödeme sırasında Zhang bozuk para ve toplam tutarı kontrol eder.",

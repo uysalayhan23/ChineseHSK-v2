@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC047.json",
-  "dialogueSha256": "e2b4efcf0a3016c4a4b747af6eaaf14348f1908ab095062678b59a7b19de9a31",
+  "dialogueSha256": "97d0def708635f85c7cd9dff01df16f6a22b9051d6953144772b8f309944ce37",
   "titleZh": "重新回到火车站",
   "titleTr": "İstasyona Yeniden Ziyaret",
   "locationId": "LOC_ZH_TRAIN_STATION_MEMORY_001",

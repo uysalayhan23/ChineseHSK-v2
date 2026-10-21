@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC034.json",
-  "dialogueSha256": "fa9c95b348cddd256b8ef10dc9bf16fbc2d37926a0da7619da712d50f0c2ad2b",
+  "dialogueSha256": "a8462fb025496d71f88d3c5ab1a5b35eff4f0e7f85a541523a78f18141a697ad",
   "titleZh": "退休日期第一次变具体",
   "titleTr": "Erken Emeklilik Tarihi Beliriyor",
   "locationId": "LOC_ZH_NEW_HOME_001",

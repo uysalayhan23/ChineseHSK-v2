@@ -1,0 +1,711 @@
+{
+  "naturalizationVersion": 2,
+  "status": "NATURALIZED_REVIEWED",
+  "sceneId": "ZH_HSK6_SC020",
+  "level": "HSK6",
+  "sourceTitleZh": "新一代的菜单",
+  "sourceTitleTr": "Kafenin Yeni Nesil Menüsü",
+  "sourceMiniAdventureTr": "Genç müşteriler için yenilik düşünülürken eski tariflerin kimliği korunur.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK6_SC020_001",
+      "speaker": "刘梅",
+      "zh": "我们准备给菜单加几款清爽的水果饮品，年轻顾客可以先尝尝这杯。",
+      "pinyin": "wǒ men zhǔn bèi gěi cài dān jiā jǐ kuǎn qīng shuǎng de shuǐ guǒ yǐn pǐn ， nián qīng gù kè kě yǐ xiān cháng cháng zhè bēi 。",
+      "tr": "Menüye ferah meyveli içecekler eklemeyi düşünüyoruz; genç müşteriler bu bardağı deneyebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_002",
+      "speaker": "张伟",
+      "zh": "颜色很好看，酸甜也合适。如果能在菜单上标明主要水果，我就更容易选择。",
+      "pinyin": "yán sè hěn hǎo kàn ， suān tián yě hé shì 。 rú guǒ néng zài cài dān shàng biāo míng zhǔ yào shuǐ guǒ ， wǒ jiù gèng róng yì xuǎn zé 。",
+      "tr": "Rengi güzel, tadı da dengeli. Menünün içinde hangi meyveler olduğunu yazarsanız seçmem kolaylaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_003",
+      "speaker": "年轻顾客",
+      "zh": "这是个好建议。顾客想知道原料，我们就把信息写清楚。",
+      "pinyin": "zhè shì gè hǎo jiàn yì 。 gù kè xiǎng zhī dào yuán liào ， wǒ men jiù bǎ xìn xī xiě qīng chǔ 。",
+      "tr": "Güzel öneri. Müşteri içeriği merak ediyorsa bilgiyi açıkça yazalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_004",
+      "speaker": "老顾客",
+      "zh": "我更希望菜单里也保留原来的酥饼，很多老客人每次都会点。",
+      "pinyin": "wǒ gèng xī wàng cài dān lǐ yě bǎo liú yuán lái de sū bǐng ， hěn duō lǎo kè rén měi cì dū huì diǎn 。",
+      "tr": "Ben menüde eski çöreğin de kalmasını istiyorum; müdavimler her gelişinde onu alıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_005",
+      "speaker": "刘梅",
+      "zh": "当然要留着。新饮品是增加选择，不是要把老味道换掉。",
+      "pinyin": "dāng rán yào liú zhe 。 xīn yǐn pǐn shì zēng jiā xuǎn zé ， bú shì yào bǎ lǎo wèi dào huàn diào 。",
+      "tr": "Elbette kalacak. Yeni içecek seçeneği artırıyor; eski tadın yerini almıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_006",
+      "speaker": "张伟",
+      "zh": "我们可以把新旧产品放在同一页，让人看见店里的变化和传统。",
+      "pinyin": "wǒ men kě yǐ bǎ xīn jiù chǎn pǐn fàng zài tóng yī yè ， ràng rén kàn jiàn diàn lǐ de biàn huà hé chuán tǒng 。",
+      "tr": "Yeni ve eski ürünleri aynı sayfada sunup değişimi ve geleneği birlikte gösterebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_007",
+      "speaker": "年轻顾客",
+      "zh": "既然是新菜单，我建议用一两句话介绍配方，别列太多宣传词。",
+      "pinyin": "jì rán shì xīn cài dān ， wǒ jiàn yì yòng yī liǎng jù huà jiè shào pèi fāng ， bié liè tài duō xuān chuán cí 。",
+      "tr": "Yeni menüde tarifleri bir iki cümleyle anlatalım; fazla reklam sözü yazmaya gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_008",
+      "speaker": "老顾客",
+      "zh": "短说明比较实在，也能让顾客知道这杯饮料和普通果汁有什么不同。",
+      "pinyin": "duǎn shuō míng bǐ jiào shí zài ， yě néng ràng gù kè zhī dào zhè bēi yǐn liào hé pǔ tōng guǒ zhī yǒu shén me bù tóng 。",
+      "tr": "Kısa açıklama daha samimi olur; bu içeceğin sıradan meyve suyundan farkını da anlatır."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_009",
+      "speaker": "刘梅",
+      "zh": "我常来的原因之一就是这里的酥饼，换了菜单后它还会用原来的配方吗？",
+      "pinyin": "wǒ cháng lái de yuán yīn zhī yī jiù shì zhè lǐ de sū bǐng ， huàn le cài dān hòu tā hái huì yòng yuán lái de pèi fāng ma ？",
+      "tr": "Buraya sık gelme nedenlerimden biri çörek. Menü değişince tarifi de aynı kalacak mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_010",
+      "speaker": "张伟",
+      "zh": "会保留主要做法。如果原料供应变化，我们会先说明，不会悄悄换掉。",
+      "pinyin": "huì bǎo liú zhǔ yào zuò fǎ 。 rú guǒ yuán liào gōng yìng biàn huà ， wǒ men huì xiān shuō míng ， bú huì qiāo qiāo huàn diào 。",
+      "tr": "Temel tarif korunacak. Malzeme tedariki değişirse gizlice değiştirmeyip önce açıklarız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_011",
+      "speaker": "年轻顾客",
+      "zh": "很好。菜单设计也许能提醒客人，哪款是经典，哪款是新尝试。",
+      "pinyin": "hěn hǎo 。 cài dān shè jì yě xǔ néng tí xǐng kè rén ， nǎ kuǎn shì jīng diǎn ， nǎ kuǎn shì xīn cháng shì 。",
+      "tr": "Güzel. Menü tasarımı hangisinin klasik, hangisinin yeni bir deneme olduğunu gösterebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_012",
+      "speaker": "老顾客",
+      "zh": "可以用简单的标记区分，不必写“必点”或“限时爆款”这种话。",
+      "pinyin": "kě yǐ yòng jiǎn dān de biāo jì qū fēn ， bù bì xiě “ bì diǎn ” huò “ xiàn shí bào kuǎn ” zhè zhǒng huà 。",
+      "tr": "Basit bir işaret kullanırız; “mutlaka deneyin” ya da “sınırlı süre” gibi ifadeler şart değil."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_013",
+      "speaker": "刘梅",
+      "zh": "年轻顾客想尝新，老顾客也能一眼找到熟悉的点心。",
+      "pinyin": "nián qīng gù kè xiǎng cháng xīn ， lǎo gù kè yě néng yī yǎn zhǎo dào shú xī de diǎn xīn 。",
+      "tr": "Genç müşteriler yeniliği denerken müdavimler de tanıdık tatlıyı kolayca bulur."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_014",
+      "speaker": "张伟",
+      "zh": "我支持。菜单不是为了追热点，而是帮大家更快找到合适的东西。",
+      "pinyin": "wǒ zhī chí 。 cài dān bú shì wèi le zhuī rè diǎn ， ér shì bāng dà jiā gèng kuài zhǎo dào hé shì de dōng xī 。",
+      "tr": "Katılıyorum. Menü trend peşinde koşmak için değil, uygun ürünü bulmayı kolaylaştırmak için var."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_015",
+      "speaker": "年轻顾客",
+      "zh": "这杯水果饮品用了当季原料，过季后要不要从菜单上撤掉？",
+      "pinyin": "zhè bēi shuǐ guǒ yǐn pǐn yòng liǎo dàng jì yuán liào ， guò jì hòu yào bù yào cóng cài dān shàng chè diào ？",
+      "tr": "Meyveli içecek mevsim ürünüyle hazırlanıyor; sezon bitince menüden çıkaralım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_016",
+      "speaker": "老顾客",
+      "zh": "我们先按季节供应，换原料时更新说明，口味不合适就暂停。",
+      "pinyin": "wǒ men xiān àn jì jié gōng yìng ， huàn yuán liào shí gēng xīn shuō míng ， kǒu wèi bù hé shì jiù zàn tíng 。",
+      "tr": "Mevsiminde sunalım; malzeme değişirse açıklamayı yeniler, tadı uygun değilse ara veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_017",
+      "speaker": "刘梅",
+      "zh": "我也希望不要为了全年供应而用味道差很多的替代品。",
+      "pinyin": "wǒ yě xī wàng bú yào wèi le quán nián gōng yìng ér yòng wèi dào chà hěn duō de tì dài pǐn 。",
+      "tr": "Yıl boyunca satmak için tadı çok farklı ikameler kullanmamayı ben de tercih ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_018",
+      "speaker": "张伟",
+      "zh": "那就写清供应季节，并在售罄时及时告知顾客。",
+      "pinyin": "nà jiù xiě qīng gōng yìng jì jié ， bìng zài shòu qìng shí jí shí gào zhī gù kè 。",
+      "tr": "O zaman sunulduğu mevsimi belirtir, kalmadığında müşterilere zamanında söyleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_019",
+      "speaker": "年轻顾客",
+      "zh": "我们可以先试卖两周，听听不同顾客的反馈再决定是否长期保留。",
+      "pinyin": "wǒ men kě yǐ xiān shì mài liǎng zhōu ， tīng tīng bù tóng gù kè de fǎn kuì zài jué dìng shì fǒu cháng qī bǎo liú 。",
+      "tr": "Önce iki hafta deneyip uzun süre kalıp kalmayacağına farklı müşterilerin görüşüyle karar verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_020",
+      "speaker": "老顾客",
+      "zh": "好。我会记录销量和意见，但也会看大家是否愿意再次点它。",
+      "pinyin": "hǎo 。 wǒ huì jì lù xiāo liàng hé yì jiàn ， dàn yě huì kàn dà jiā shì fǒu yuàn yì zài cì diǎn tā 。",
+      "tr": "Olur. Satışları ve yorumları kaydederim; insanların yeniden sipariş verip vermediğine de bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_021",
+      "speaker": "刘梅",
+      "zh": "我也想试试新饮料，不过希望菜单注明甜度，方便我选择。",
+      "pinyin": "wǒ yě xiǎng shì shì xīn yǐn liào ， bù guò xī wàng cài dān zhù míng tián dù ， fāng biàn wǒ xuǎn zé 。",
+      "tr": "Yeni içeceği denemek isterim; seçim yapabilmem için menüde şeker oranı yazsın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_022",
+      "speaker": "张伟",
+      "zh": "可以标出主要水果和是否加糖，但不用把配方全部公开。",
+      "pinyin": "kě yǐ biāo chū zhǔ yào shuǐ guǒ hé shì fǒu jiā táng ， dàn bù yòng bǎ pèi fāng quán bù gōng kāi 。",
+      "tr": "Başlıca meyveleri ve şeker eklenip eklenmediğini belirtebiliriz; tüm tarifi açıklamaya gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_023",
+      "speaker": "年轻顾客",
+      "zh": "信息够清楚，顾客就能判断适不适合自己。",
+      "pinyin": "xìn xī gòu qīng chǔ ， gù kè jiù néng pàn duàn shì bú shì hé zì jǐ 。",
+      "tr": "Bu kadar bilgi yeter; müşteri kendisine uygun olup olmadığını anlayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_024",
+      "speaker": "老顾客",
+      "zh": "我们还可以提供少糖选项，不过制作方法要先和员工确认。",
+      "pinyin": "wǒ men hái kě yǐ tí gōng shǎo táng xuǎn xiàng ， bù guò zhì zuò fāng fǎ yào xiān hé yuán gōng què rèn 。",
+      "tr": "Az şekerli seçenek de sunabiliriz ama önce çalışanlarla hazırlama yöntemini netleştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_025",
+      "speaker": "刘梅",
+      "zh": "我来问咖啡师能不能调整糖浆量，同时保持饮品的味道平衡。",
+      "pinyin": "wǒ lái wèn kā fēi shī néng bù néng tiáo zhěng táng jiāng liàng ， tóng shí bǎo chí yǐn pǐn de wèi dào píng héng 。",
+      "tr": "Baristaya şurup miktarını değiştirip tadı dengede tutmanın mümkün olup olmadığını sorayım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_026",
+      "speaker": "张伟",
+      "zh": "如果配方变化太大，我们先做小杯测试，别直接换到正式菜单。",
+      "pinyin": "rú guǒ pèi fāng biàn huà tài dà ， wǒ men xiān zuò xiǎo bēi cè shì ， bié zhí jiē huàn dào zhèng shì cài dān 。",
+      "tr": "Tarif çok değişecekse resmî menüye eklemeden önce küçük porsiyonla deneyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_027",
+      "speaker": "年轻顾客",
+      "zh": "我刚试了半糖版本，果味更明显，也没有失去原来的层次。",
+      "pinyin": "wǒ gāng shì le bàn táng bǎn běn ， guǒ wèi gèng míng xiǎn ， yě méi yǒu shī qù yuán lái de céng cì 。",
+      "tr": "Yarım şekerlisini denedim; meyve tadı daha belirgin ve içeceğin dengesi de bozulmadı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_028",
+      "speaker": "老顾客",
+      "zh": "那我会把两种版本都记下来，等大家比较后再确定。",
+      "pinyin": "nà wǒ huì bǎ liǎng zhǒng bǎn běn dōu jì xià lái ， děng dà jiā bǐ jiào hòu zài què dìng 。",
+      "tr": "İki sürümü de not edeyim; karşılaştırdıktan sonra karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_029",
+      "speaker": "刘梅",
+      "zh": "老顾客想知道传统酥饼会不会缩小分量。",
+      "pinyin": "lǎo gù kè xiǎng zhī dào chuán tǒng sū bǐng huì bú huì suō xiǎo fèn liàng 。",
+      "tr": "Müdavimlerden biri geleneksel çöreğin porsiyonunun küçülüp küçülmeyeceğini sordu."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_030",
+      "speaker": "张伟",
+      "zh": "目前没有改分量的计划；若成本变化需要调整，会提前说明。",
+      "pinyin": "mù qián méi yǒu gǎi fèn liàng de jì huà ； ruò chéng běn biàn huà xū yào tiáo zhěng ， huì tí qián shuō míng 。",
+      "tr": "Şimdilik porsiyon değişikliği planlamıyoruz; maliyet değişirse önceden açıklarız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_031",
+      "speaker": "年轻顾客",
+      "zh": "我建议菜单写清单份大小，免得大家以为份量变了。",
+      "pinyin": "wǒ jiàn yì cài dān xiě qīng dān fèn dà xiǎo ， miǎn de dà jiā yǐ wéi fèn liàng biàn le 。",
+      "tr": "Porsiyon büyüklüğünü menüde belirtelim, insanlar miktar değişti sanmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_032",
+      "speaker": "老顾客",
+      "zh": "好。我们量一下现在的标准份量，再把准确描述加上去。",
+      "pinyin": "hǎo 。 wǒ men liàng yī xià xiàn zài de biāo zhǔn fèn liàng ， zài bǎ zhǔn què miáo shù jiā shàng qù 。",
+      "tr": "Olur. Standart porsiyonu ölçüp doğru açıklamayı menüye ekleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_033",
+      "speaker": "刘梅",
+      "zh": "新菜单也许可以给经典点心加一个小故事，介绍它的来历。",
+      "pinyin": "xīn cài dān yě xǔ kě yǐ gěi jīng diǎn diǎn xīn jiā yí gè xiǎo gù shì ， jiè shào tā de lái lì 。",
+      "tr": "Yeni menüde klasik tatlının yanına kökenini anlatan kısa bir hikâye ekleyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_034",
+      "speaker": "张伟",
+      "zh": "可以，但只写我们确定的事实，不要为了吸引人编造历史。",
+      "pinyin": "kě yǐ ， dàn zhǐ xiě wǒ men què dìng de shì shí ， bú yào wèi le xī yǐn rén biān zào lì shǐ 。",
+      "tr": "Ekleyebiliriz ama yalnızca doğruladığımız bilgileri yazalım; ilgi çeksin diye geçmiş uydurmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_035",
+      "speaker": "年轻顾客",
+      "zh": "我知道这款酥饼的配方来自家里，可以提到是家庭传统吗？",
+      "pinyin": "wǒ zhī dào zhè kuǎn sū bǐng de pèi fāng lái zì jiā lǐ ， kě yǐ tí dào shì jiā tíng chuán tǒng ma ？",
+      "tr": "Bu çöreğin tarifinin ailemden geldiğini biliyorum; aile geleneği diyebilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_036",
+      "speaker": "老顾客",
+      "zh": "可以说它由家人多年传下来的做法启发，但不要称作很久以前的店铺传统。",
+      "pinyin": "kě yǐ shuō tā yóu jiā rén duō nián chuán xià lái de zuò fǎ qǐ fā ， dàn bú yào chēng zuò hěn jiǔ yǐ qián de diàn pù chuán tǒng 。",
+      "tr": "Aileden yıllardır aktarılan bir tariften ilham aldığını söyleyebiliriz; dükkânın çok eski geleneği demeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_037",
+      "speaker": "刘梅",
+      "zh": "这样讲比较准确，也让顾客知道它对我们有什么意义。",
+      "pinyin": "zhè yàng jiǎng bǐ jiào zhǔn què ， yě ràng gù kè zhī dào tā duì wǒ men yǒu shén me yì yì 。",
+      "tr": "Böyle anlatmak daha doğru, müşteriye bizim için ne ifade ettiğini de gösteriyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_038",
+      "speaker": "张伟",
+      "zh": "我会先写一版短介绍，请刘梅和家人确认后再印。",
+      "pinyin": "wǒ huì xiān xiě yī bǎn duǎn jiè shào ， qǐng liú méi hé jiā rén què rèn hòu zài yìn 。",
+      "tr": "Kısa bir metin yazar, basmadan önce Liu Mei ve ailemle teyit ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_039",
+      "speaker": "年轻顾客",
+      "zh": "太好了。新饮料讲当季水果，酥饼讲熟悉的味道，菜单就有层次了。",
+      "pinyin": "tài hǎo le 。 xīn yǐn liào jiǎng dāng jì shuǐ guǒ ， sū bǐng jiǎng shú xī de wèi dào ， cài dān jiù yǒu céng cì le 。",
+      "tr": "Harika. Yeni içecek mevsim meyvesini, çörekse tanıdık tadı anlatır; menü zenginleşir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_040",
+      "speaker": "老顾客",
+      "zh": "我们不必让每道产品都讲同一个故事，真实表达各自特点就好。",
+      "pinyin": "wǒ men bù bì ràng měi dào chǎn pǐn dōu jiǎng tóng yī gè gù shì ， zhēn shí biǎo dá gè zì tè diǎn jiù hǎo 。",
+      "tr": "Her ürün için aynı hikâyeyi kurmamıza gerek yok; her birinin özelliğini dürüstçe anlatalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_041",
+      "speaker": "刘梅",
+      "zh": "试菜单时要不要请一些常客来？他们比较了解原来的味道。",
+      "pinyin": "shì cài dān shí yào bù yào qǐng yī xiē cháng kè lái ？ tā men bǐ jiào liǎo jiě yuán lái de wèi dào 。",
+      "tr": "Menüyü denerken birkaç müdavimi çağırsak mı? Eski tadı iyi biliyorlar."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_042",
+      "speaker": "张伟",
+      "zh": "可以邀请几位，也请第一次来的客人尝尝，别只听一种意见。",
+      "pinyin": "kě yǐ yāo qǐng jǐ wèi ， yě qǐng dì yī cì lái de kè rén cháng cháng ， bié zhǐ tīng yī zhǒng yì jiàn 。",
+      "tr": "Birkaç müdavimi çağırabiliriz, yeni müşteriler de tatsın; tek bir görüşe bağlı kalmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_043",
+      "speaker": "年轻顾客",
+      "zh": "我愿意参加。最好不要先告诉我哪杯是新品，免得影响判断。",
+      "pinyin": "wǒ yuàn yì cān jiā 。 zuì hǎo bù yào xiān gào sù wǒ nǎ bēi shì xīn pǐn ， miǎn de yǐng xiǎng pàn duàn 。",
+      "tr": "Memnuniyetle katılırım. Önyargılı olmamak için hangi bardağın yeni olduğunu başta söylemeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_044",
+      "speaker": "老顾客",
+      "zh": "好。我们会让大家先盲尝，再问整体口感和甜度。",
+      "pinyin": "hǎo 。 wǒ men huì ràng dà jiā xiān máng cháng ， zài wèn zhěng tǐ kǒu gǎn hé tián dù 。",
+      "tr": "Peki. Önce kör tadım yapıp genel tat ve şeker oranını sorarız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_045",
+      "speaker": "刘梅",
+      "zh": "年轻顾客喜欢果味，不过有人觉得饮品颜色太鲜艳像加了色素。",
+      "pinyin": "nián qīng gù kè xǐ huān guǒ wèi ， bù guò yǒu rén jué de yǐn pǐn yán sè tài xiān yàn xiàng jiā le sè sù 。",
+      "tr": "Genç müşteriler meyveli tatları seviyor ama bazıları rengi çok canlı bulup boya kullanıldığını sanıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_046",
+      "speaker": "张伟",
+      "zh": "我们用的是水果和茶，不加人工色素；可以把原料写在菜单上。",
+      "pinyin": "wǒ men yòng de shì shuǐ guǒ hé chá ， bù jiā rén gōng sè sù ； kě yǐ bǎ yuán liào xiě zài cài dān shàng 。",
+      "tr": "İçecek meyve ve çayla hazırlanıyor, yapay boya yok; malzemeleri menüde gösterebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_047",
+      "speaker": "年轻顾客",
+      "zh": "说明原料很有帮助，也能回答对天然成分有疑问的客人。",
+      "pinyin": "shuō míng yuán liào hěn yǒu bāng zhù ， yě néng huí dá duì tiān rán chéng fèn yǒu yí wèn de kè rén 。",
+      "tr": "İçeriği belirtmek güzel; doğal malzemelerle ilgili soruları olanlara da yardımcı olur."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_048",
+      "speaker": "老顾客",
+      "zh": "我会核对供应商资料，确认每种原料的信息准确。",
+      "pinyin": "wǒ huì hé duì gōng yìng shāng zī liào ， què rèn měi zhǒng yuán liào de xìn xī zhǔn què 。",
+      "tr": "Malzeme açıklamasının doğru olduğundan emin olmak için tedarikçi bilgilerini kontrol ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_049",
+      "speaker": "刘梅",
+      "zh": "盲尝的反馈出来了，大家普遍喜欢半糖版本。",
+      "pinyin": "máng cháng de fǎn kuì chū lái le ， dà jiā pǔ biàn xǐ huān bàn táng bǎn běn 。",
+      "tr": "Tadım sonuçları geldi; çoğunluk yarım şekerli sürümü beğendi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_050",
+      "speaker": "张伟",
+      "zh": "也有人喜欢全糖，可以保留调整甜度的选项。",
+      "pinyin": "yě yǒu rén xǐ huān quán táng ， kě yǐ bǎo liú tiáo zhěng tián dù de xuǎn xiàng 。",
+      "tr": "Tam şekerli sevenler de var; iki şeker seçeneğini koruyabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_051",
+      "speaker": "年轻顾客",
+      "zh": "选择多一些会不会让制作更复杂？",
+      "pinyin": "xuǎn zé duō yī xiē huì bú huì ràng zhì zuò gèng fù zá ？",
+      "tr": "Seçenekleri artırmak hazırlığı zorlaştırır mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_052",
+      "speaker": "老顾客",
+      "zh": "我们只提供两种甜度，并把比例预先定好，员工就容易掌握。",
+      "pinyin": "wǒ men zhǐ tí gōng liǎng zhǒng tián dù ， bìng bǎ bǐ lì yù xiān dìng hǎo ， yuán gōng jiù róng yì zhǎng wò 。",
+      "tr": "İki oranla sınırlayıp miktarları önceden belirlersek çalışanlar kolayca uygular."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_053",
+      "speaker": "刘梅",
+      "zh": "厨房同事说两种比例都能稳定制作，不会拖慢出杯。",
+      "pinyin": "chú fáng tóng shì shuō liǎng zhǒng bǐ lì dōu néng wěn dìng zhì zuò ， bú huì tuō màn chū bēi 。",
+      "tr": "Mutfak iki oranı da düzenli hazırlayabileceğini, servisin yavaşlamayacağını söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_054",
+      "speaker": "张伟",
+      "zh": "那先在周末试卖，观察实际点单和等待时间。",
+      "pinyin": "nà xiān zài zhōu mò shì mài ， guān chá shí jì diǎn dān hé děng dài shí jiān 。",
+      "tr": "O zaman hafta sonu satışa sunup gerçek sipariş ve bekleme sürelerini gözleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_055",
+      "speaker": "年轻顾客",
+      "zh": "如果客人不常点，就没必要一直放在菜单上。",
+      "pinyin": "rú guǒ kè rén bù cháng diǎn ， jiù méi bì yào yì zhí fàng zài cài dān shàng 。",
+      "tr": "Müşteriler nadiren alırsa menüde tutmamız gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_056",
+      "speaker": "老顾客",
+      "zh": "对。菜单位置有限，要保留受欢迎也适合店里节奏的产品。",
+      "pinyin": "duì 。 cài dān wèi zhì yǒu xiàn ， yào bǎo liú shòu huān yíng yě shì hé diàn lǐ jié zòu de chǎn pǐn 。",
+      "tr": "Evet. Menünün yeri sınırlı; burada rağbet gören ve iş akışımıza uyan ürünleri tutalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_057",
+      "speaker": "刘梅",
+      "zh": "老客人建议酥饼配方别变，但原料价格最近涨了。",
+      "pinyin": "lǎo kè rén jiàn yì sū bǐng pèi fāng bié biàn ， dàn yuán liào jià gé zuì jìn zhǎng le 。",
+      "tr": "Müdavimler çöreğin tarifi değişmesin diyor ama malzemeler son zamanlarda pahalandı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_058",
+      "speaker": "张伟",
+      "zh": "我们先核算成本，看看能否调整采购或售价，而不是马上改配方。",
+      "pinyin": "wǒ men xiān hé suàn chéng běn ， kàn kàn néng fǒu tiáo zhěng cǎi gòu huò shòu jià ， ér bú shì mǎ shàng gǎi pèi fāng 。",
+      "tr": "Tarifi hemen değiştirmek yerine önce maliyeti hesaplayıp tedarik veya fiyat seçeneklerine bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_059",
+      "speaker": "年轻顾客",
+      "zh": "若价格要变，就提前告知顾客，解释原因并给出选择。",
+      "pinyin": "ruò jià gé yào biàn ， jiù tí qián gào zhī gù kè ， jiě shì yuán yīn bìng gěi chū xuǎn zé 。",
+      "tr": "Fiyat değişecekse müşteriye önceden haber verip sebebini ve seçenekleri açıklayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_060",
+      "speaker": "老顾客",
+      "zh": "我同意。味道和成本都需要考虑，决定前先把数字弄清楚。",
+      "pinyin": "wǒ tóng yì 。 wèi dào hé chéng běn dōu xū yào kǎo lǜ ， jué dìng qián xiān bǎ shù zì nòng qīng chǔ 。",
+      "tr": "Katılıyorum. Tadın ve maliyetin ikisi de önemli; karar vermeden önce rakamları netleştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_061",
+      "speaker": "刘梅",
+      "zh": "我们可以在菜单上说明涨价原因吗？还是只需要更新价格？",
+      "pinyin": "wǒ men kě yǐ zài cài dān shàng shuō míng zhǎng jià yuán yīn ma ？ hái shì zhǐ xū yào gēng xīn jià gé ？",
+      "tr": "Fiyat artışının nedenini menüde açıklayalım mı, yoksa yalnızca fiyatı güncellemek yeterli mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_062",
+      "speaker": "张伟",
+      "zh": "简短说明就好，避免让顾客觉得我们在为调整找借口。",
+      "pinyin": "jiǎn duǎn shuō míng jiù hǎo ， bì miǎn ràng gù kè jué de wǒ men zài wèi tiáo zhěng zhǎo jiè kǒu 。",
+      "tr": "Kısa bir açıklama yeter; müşteriye artışı bahane ediyormuşuz gibi gelmesin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_063",
+      "speaker": "年轻顾客",
+      "zh": "我会标出原料和制作方式的变化，也写明新价格何时生效。",
+      "pinyin": "wǒ huì biāo chū yuán liào hé zhì zuò fāng shì de biàn huà ， yě xiě míng xīn jià gé hé shí shēng xiào 。",
+      "tr": "Malzeme veya yapım yöntemi değiştiyse belirtip yeni fiyatın başlangıç tarihini yazarım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_064",
+      "speaker": "老顾客",
+      "zh": "先把信息给老顾客看一遍，确认表达清楚，再更新菜单。",
+      "pinyin": "xiān bǎ xìn xī gěi lǎo gù kè kàn yī biàn ， què rèn biǎo dá qīng chǔ ， zài gēng xīn cài dān 。",
+      "tr": "Önce müdavimlere gösterip açıklamanın anlaşılır olduğunu teyit edelim, sonra menüyü değiştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_065",
+      "speaker": "刘梅",
+      "zh": "两周试卖后，新饮料卖得不错，复购的人也不少。",
+      "pinyin": "liǎng zhōu shì mài hòu ， xīn yǐn liào mài dé bù cuò ， fù gòu de rén yě bù shǎo 。",
+      "tr": "İki haftalık deneme satışında yeni içecek iyi gitti, tekrar sipariş veren de çok oldu."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_066",
+      "speaker": "张伟",
+      "zh": "我注意到回头客大多选半糖，第一次来的更常选全糖。",
+      "pinyin": "wǒ zhù yì dào huí tóu kè dà duō xuǎn bàn táng ， dì yī cì lái de gèng cháng xuǎn quán táng 。",
+      "tr": "Müdavimlerin çoğu yarım şekerli, ilk kez gelenler ise tam şekerli seçti."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_067",
+      "speaker": "年轻顾客",
+      "zh": "这说明两种选择都有需要，比例也可以按现在的方式保留。",
+      "pinyin": "zhè shuō míng liǎng zhǒng xuǎn zé dōu yǒu xū yào ， bǐ lì yě kě yǐ àn xiàn zài de fāng shì bǎo liú 。",
+      "tr": "Demek iki seçenek de gerekli; oranları bu şekilde koruyabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_068",
+      "speaker": "老顾客",
+      "zh": "员工觉得制作顺手，顾客也没有因为多一个选项而等更久。",
+      "pinyin": "yuán gōng jué de zhì zuò shùn shǒu ， gù kè yě méi yǒu yīn wèi duō yí gè xuǎn xiàng ér děng gèng jiǔ 。",
+      "tr": "Çalışanlara hazırlaması kolay geldi, müşteri de ek seçenek için daha uzun beklemedi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_069",
+      "speaker": "刘梅",
+      "zh": "那我们可以正式留下这杯饮料，季节结束后再评估是否继续。",
+      "pinyin": "nà wǒ men kě yǐ zhèng shì liú xià zhè bēi yǐn liào ， jì jié jié shù hòu zài píng gū shì fǒu jì xù 。",
+      "tr": "O hâlde içeceği menüde tutalım, mevsim bitince devam edip etmeyeceğini değerlendirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_070",
+      "speaker": "张伟",
+      "zh": "我建议在菜单注明季节供应，原料变化时重新确认口味。",
+      "pinyin": "wǒ jiàn yì zài cài dān zhù míng jì jié gōng yìng ， yuán liào biàn huà shí chóng xīn què rèn kǒu wèi 。",
+      "tr": "Mevsimlik olduğunu menüde belirtelim; malzemeler değişirse tadı yeniden kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_071",
+      "speaker": "年轻顾客",
+      "zh": "经典酥饼的价格也调整好了，老顾客看过后能接受。",
+      "pinyin": "jīng diǎn sū bǐng de jià gé yě tiáo zhěng hǎo le ， lǎo gù kè kàn guò hòu néng jiē shòu 。",
+      "tr": "Klasik çöreğin fiyatı da değişti, müdavimler açıklamayı okuyup kabul etti."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_072",
+      "speaker": "老顾客",
+      "zh": "谢谢你们提前说明。他们说只要味道和大小稳定，价格变化可以理解。",
+      "pinyin": "xiè xiè nǐ men tí qián shuō míng 。 tā men shuō zhǐ yào wèi dào hé dà xiǎo wěn dìng ， jià gé biàn huà kě yǐ lǐ jiě 。",
+      "tr": "Önceden haber verdiğiniz için teşekkür ettiler. Tadı ve porsiyonu korunursa fiyat değişikliğini anlıyorlar."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_073",
+      "speaker": "刘梅",
+      "zh": "有顾客对坚果过敏，酥饼的配料信息是不是也要写清楚？",
+      "pinyin": "yǒu gù kè duì jiān guǒ guò mǐn ， sū bǐng de pèi liào xìn xī shì bú shì yě yào xiě qīng chǔ ？",
+      "tr": "Bir müşterinin kuruyemiş alerjisi var; çöreğin içerik bilgisini de yazmalı mıyız?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_074",
+      "speaker": "张伟",
+      "zh": "是的。我会再和厨房核实，确认有没有交叉接触的风险。",
+      "pinyin": "shì de 。 wǒ huì zài hé chú fáng hé shí ， què rèn yǒu méi yǒu jiāo chā jiē chù de fēng xiǎn 。",
+      "tr": "Evet. Mutfaktan malzemeleri teyit edip çapraz bulaşma ihtimalini de soracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_075",
+      "speaker": "年轻顾客",
+      "zh": "信息确认前先告诉顾客我们正在检查，不要保证绝对安全。",
+      "pinyin": "xìn xī què rèn qián xiān gào sù gù kè wǒ men zhèng zài jiǎn chá ， bú yào bǎo zhèng jué duì ān quán 。",
+      "tr": "Bilgi netleşene kadar müşteriye kontrol ettiğimizi söyleyelim, tamamen güvenlidir diye söz vermeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_076",
+      "speaker": "老顾客",
+      "zh": "我们可以提供没有坚果的其他点心，但也要按厨房确认的信息推荐。",
+      "pinyin": "wǒ men kě yǐ tí gōng méi yǒu jiān guǒ de qí tā diǎn xīn ， dàn yě yào àn chú fáng què rèn de xìn xī tuī jiàn 。",
+      "tr": "Kuruyemişsiz başka tatlı önerebiliriz ama mutfaktan doğrulanmış bilgiye dayanmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_077",
+      "speaker": "刘梅",
+      "zh": "这样诚实又负责，不会为了成交隐瞒不确定的部分。",
+      "pinyin": "zhè yàng chéng shí yòu fù zé ， bú huì wèi le chéng jiāo yǐn mán bù què dìng de bù fèn 。",
+      "tr": "Bu dürüst ve sorumlu bir yaklaşım; satış uğruna emin olmadığımız şeyi saklamayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_078",
+      "speaker": "张伟",
+      "zh": "年轻顾客还建议加一款无咖啡因的水果茶。",
+      "pinyin": "nián qīng gù kè hái jiàn yì jiā yī kuǎn wú kā fēi yīn de shuǐ guǒ chá 。",
+      "tr": "Genç bir müşteri kafeinsiz meyve çayı da eklememizi önerdi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_079",
+      "speaker": "年轻顾客",
+      "zh": "菜单可以先试一个季节版本，之后看需求再决定是否长期供应。",
+      "pinyin": "cài dān kě yǐ xiān shì yí gè jì jié bǎn běn ， zhī hòu kàn xū qiú zài jué dìng shì fǒu cháng qī gōng yìng 。",
+      "tr": "Önce mevsimlik bir sürüm deneyelim, uzun vadeli kararı gerçek talebe göre veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_080",
+      "speaker": "老顾客",
+      "zh": "好。新品的数量控制好，才能留时间把每款产品都做稳定。",
+      "pinyin": "hǎo 。 xīn pǐn de shù liàng kòng zhì hǎo ， cái néng liú shí jiān bǎ měi kuǎn chǎn pǐn dōu zuò wěn dìng 。",
+      "tr": "Güzel. Yeni ürün sayısını sınırlarsak her birini tutarlı hazırlamaya vakit kalır."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_081",
+      "speaker": "刘梅",
+      "zh": "我们还可以让顾客投票，但不要只按票数决定产品去留。",
+      "pinyin": "wǒ men hái kě yǐ ràng gù kè tóu piào ， dàn bú yào zhǐ àn piào shù jué dìng chǎn pǐn qù liú 。",
+      "tr": "Müşterilere oylama yaptırabiliriz ama ürünleri yalnızca oy sayısına göre menüden çıkarmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_082",
+      "speaker": "张伟",
+      "zh": "对，也要结合复购、制作难度和原料供应情况。",
+      "pinyin": "duì ， yě yào jié hé fù gòu 、 zhì zuò nán dù hé yuán liào gōng yìng qíng kuàng 。",
+      "tr": "Evet; tekrar sipariş, hazırlama zorluğu ve malzeme bulunabilirliği de önemli."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_083",
+      "speaker": "年轻顾客",
+      "zh": "我会把这些因素整理成简单记录，不给员工增加太多工作。",
+      "pinyin": "wǒ huì bǎ zhè xiē yīn sù zhěng lǐ chéng jiǎn dān jì lù ， bù gěi yuán gōng zēng jiā tài duō gōng zuò 。",
+      "tr": "Bu etkenleri basitçe kaydederim; çalışanlara fazla iş çıkarmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_084",
+      "speaker": "老顾客",
+      "zh": "顾客留言里有人说想要不那么甜的点心。",
+      "pinyin": "gù kè liú yán lǐ yǒu rén shuō xiǎng yào bù nà me tián de diǎn xīn 。",
+      "tr": "Müşteri notlarından biri daha az tatlı bir hamur işi istedi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_085",
+      "speaker": "刘梅",
+      "zh": "我们可以问厨房是否能调整甜度，先用小批量试做。",
+      "pinyin": "wǒ men kě yǐ wèn chú fáng shì fǒu néng tiáo zhěng tián dù ， xiān yòng xiǎo pī liàng shì zuò 。",
+      "tr": "Mutfakla şeker oranını ayarlamayı konuşup küçük bir deneme yapabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_086",
+      "speaker": "张伟",
+      "zh": "试做后请常客和新顾客都尝一尝，看反馈有没有差别。",
+      "pinyin": "shì zuò hòu qǐng cháng kè hé xīn gù kè dōu cháng yī cháng ， kàn fǎn kuì yǒu méi yǒu chā bié 。",
+      "tr": "Deneme ürününü hem müdavimlere hem yeni müşterilere tattırıp görüşlerini karşılaştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_087",
+      "speaker": "年轻顾客",
+      "zh": "如果口感变差，就不必为了迎合意见强行推出。",
+      "pinyin": "rú guǒ kǒu gǎn biàn chà ， jiù bù bì wèi le yíng hé yì jiàn qiáng xíng tuī chū 。",
+      "tr": "Tadı kötüleşirse sırf istek geldi diye menüye eklememize gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_088",
+      "speaker": "老顾客",
+      "zh": "同意。听取建议不代表每个想法都要照做。",
+      "pinyin": "tóng yì 。 tīng qǔ jiàn yì bù dài biǎo měi gè xiǎng fǎ dōu yào zhào zuò 。",
+      "tr": "Katılıyorum. Önerileri dinlemek, her fikri uygulamak zorunda olduğumuz anlamına gelmez."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_089",
+      "speaker": "刘梅",
+      "zh": "经典点心保持原样，新品则通过试卖慢慢改进。",
+      "pinyin": "jīng diǎn diǎn xīn bǎo chí yuán yàng ， xīn pǐn zé tōng guò shì mài màn màn gǎi jìn 。",
+      "tr": "Klasik tatlıyı değiştirmeyip yeni ürünleri deneme satışıyla geliştirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_090",
+      "speaker": "张伟",
+      "zh": "这样熟悉这里的人不会失望，喜欢新选择的人也有机会尝鲜。",
+      "pinyin": "zhè yàng shú xī zhè lǐ de rén bú huì shī wàng ， xǐ huān xīn xuǎn zé de rén yě yǒu jī huì cháng xiān 。",
+      "tr": "Böylece müdavimler hayal kırıklığına uğramaz, yenilik arayanlar da farklı seçenek dener."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_091",
+      "speaker": "年轻顾客",
+      "zh": "我们把菜单的图和说明更新后，最好再让员工一起过目。",
+      "pinyin": "wǒ men bǎ cài dān de tú hé shuō míng gēng xīn hòu ， zuì hǎo zài ràng yuán gōng yì qǐ guò mù 。",
+      "tr": "Menü görselleri ve açıklamaları yenilenince çalışanlara da son sürümü gösterelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_092",
+      "speaker": "老顾客",
+      "zh": "我会在开店前简单说明变化，回答大家关于原料和价格的问题。",
+      "pinyin": "wǒ huì zài kāi diàn qián jiǎn dān shuō míng biàn huà ， huí dá dà jiā guān yú yuán liào hé jià gé de wèn tí 。",
+      "tr": "Açılıştan önce değişiklikleri kısaca anlatıp malzeme ve fiyat sorularını yanıtlarım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_093",
+      "speaker": "刘梅",
+      "zh": "遇到自己不确定的内容，就告诉顾客我去确认，不要随口回答。",
+      "pinyin": "yù dào zì jǐ bù què dìng de nèi róng ， jiù gào sù gù kè wǒ qù què rèn ， bú yào suí kǒu huí dá 。",
+      "tr": "Emin olmadığım bir konu olursa rastgele yanıtlamak yerine kontrol edeceğimi söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_094",
+      "speaker": "张伟",
+      "zh": "这样做既保护信任，也让顾客知道我们重视准确的信息。",
+      "pinyin": "zhè yàng zuò jì bǎo hù xìn rèn ， yě ràng gù kè zhī dào wǒ men zhòng shì zhǔn què de xìn xī 。",
+      "tr": "Bu hem güveni korur hem de müşteriye doğru bilgiye önem verdiğimizi gösterir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_095",
+      "speaker": "年轻顾客",
+      "zh": "新菜单今天正式开始使用了，刚才没人因为找不到熟悉的点心而困惑。",
+      "pinyin": "xīn cài dān jīn tiān zhèng shì kāi shǐ shǐ yòng le ， gāng cái méi rén yīn wèi zhǎo bú dào shú xī de diǎn xīn ér kùn huò 。",
+      "tr": "Yeni menü bugün kullanılmaya başladı; kimse tanıdık tatlısını bulamadığı için şaşırmadı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_096",
+      "speaker": "老顾客",
+      "zh": "新饮品也卖得不错，员工说制作顺序很容易记。",
+      "pinyin": "xīn yǐn pǐn yě mài dé bù cuò ， yuán gōng shuō zhì zuò shùn xù hěn róng yì jì 。",
+      "tr": "Yeni içecek de iyi satıyor, çalışanlar hazırlama sırasının kolay olduğunu söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_097",
+      "speaker": "刘梅",
+      "zh": "我们观察一周后再看销量，不急着宣布菜单已经定型。",
+      "pinyin": "wǒ men guān chá yī zhōu hòu zài kàn xiāo liàng ， bù jí zhe xuān bù cài dān yǐ jīng dìng xíng 。",
+      "tr": "Satışlara bir hafta baktıktan sonra karar verelim; menü kesinleşti diye acele etmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_098",
+      "speaker": "张伟",
+      "zh": "我会把顾客意见、退单情况和备料损耗一起记录下来。",
+      "pinyin": "wǒ huì bǎ gù kè yì jiàn 、 tuì dān qíng kuàng hé bèi liào sǔn hào yì qǐ jì lù xià lái 。",
+      "tr": "Müşteri yorumlarını, iptalleri ve hazırlık firesini birlikte kaydederim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_099",
+      "speaker": "年轻顾客",
+      "zh": "旧配方得到保留，新产品也找到了合适的位置。",
+      "pinyin": "jiù pèi fāng dé dào bǎo liú ， xīn chǎn pǐn yě zhǎo dào le hé shì de wèi zhì 。",
+      "tr": "Eski tarif korundu, yeni ürünler de menüde kendine yer buldu."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC020_100",
+      "speaker": "老顾客",
+      "zh": "这正是我们想要的菜单：既尊重熟悉的味道，也给变化留出空间。",
+      "pinyin": "zhè zhèng shì wǒ men xiǎng yào de cài dān ： jì zūn zhòng shú xī de wèi dào ， yě gěi biàn huà liú chū kōng jiān 。",
+      "tr": "İstediğimiz menü böyle: tanıdık tatlara saygı duyuyor ve yeniliğe de alan açıyor."
+    }
+  ]
+}

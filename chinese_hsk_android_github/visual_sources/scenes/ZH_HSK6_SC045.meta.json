@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC045.json",
-  "dialogueSha256": "7b54c2a9e893e128a6ad959973f1951fb0138c65c0d3dda21c05ac088e8512a7",
+  "dialogueSha256": "a863bcd5313666af5a48db8dd57cbe0a32a8e9c16c7b7e2c39cec49378919198",
   "titleZh": "我们留下些什么？",
   "titleTr": "Aile Mirası Üzerine Konuşma",
   "locationId": "LOC_ZH_NEW_HOME_001",

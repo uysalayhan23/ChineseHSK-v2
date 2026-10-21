@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC046.json",
-  "dialogueSha256": "636a6e85bd04831b95c7171a7c436f466fb42cef9056d9a2d672cbfce254b33a",
+  "dialogueSha256": "9f0e84317ff9bcfcd181506793ef84a2ee4f9b97f5a9cd8782a0c8754bf418d2",
   "titleZh": "旧火车票",
   "titleTr": "Eski Tren Biletleri Bulunuyor",
   "locationId": "LOC_ZH_NEW_HOME_001",

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC048.json",
-  "dialogueSha256": "972fb43ee1063aa5b84054a5292ce0e962539e0dbbb76ae6fe5eb327eae20d6b",
+  "dialogueSha256": "0c5d7d63b05c036ced043a94a5d10b358c3d234a5c7877522792feae8a3aff9e",
   "titleZh": "咖啡馆里的大家庭",
   "titleTr": "Kafede Büyük Aile Buluşması",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

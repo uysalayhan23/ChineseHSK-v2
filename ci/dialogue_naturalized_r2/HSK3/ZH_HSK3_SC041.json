@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 1,
+  "status": "FINAL_REVIEWED_V1",
+  "sceneId": "ZH_HSK3_SC041",
+  "level": "HSK3",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK3_SC041_001",
+      "speaker": "张伟",
+      "zh": "今天正好有时间，我们聊聊农村这件事吧。",
+      "pinyin": "Jīn tiān zhèng hǎo yǒu shí jiān, wǒ men liáo liáo nóng cūn zhè jiàn shì ba.",
+      "tr": "Bugün vaktimiz varken kırsal bölge konusunu konuşalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_002",
+      "speaker": "刘梅",
+      "zh": "好，先听听大家怎么想。",
+      "pinyin": "Hǎo, xiān tīng tīng dà jiā zěn me xiǎng.",
+      "tr": "Tamam, önce herkesin ne düşündüğünü dinleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_003",
+      "speaker": "爷爷",
+      "zh": "说到城市生活，你怎么看？",
+      "pinyin": "Shuō dào chéng shì shēng huó, nǐ zěn me kàn?",
+      "tr": "şehir hayatı konusunda ne düşünüyorsun?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_004",
+      "speaker": "奶奶",
+      "zh": "我先说吧，我最担心的是实际情况会不会跟我们想的一样。",
+      "pinyin": "Wǒ xiān shuō ba, wǒ zuì dān xīn de shì shí jì qíng kuàng huì bú huì gēn wǒ men xiǎng de yī yàng.",
+      "tr": "Önce ben söyleyeyim; en çok gerçek durumun düşündüğümüz gibi olup olmayacağını merak ediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_005",
+      "speaker": "张伟",
+      "zh": "对，所以先把重点找出来。",
+      "pinyin": "Duì, suǒ yǐ xiān bǎ zhòng diǎn zhǎo chū lái.",
+      "tr": "Evet, bu yüzden önce ana noktayı bulalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_006",
+      "speaker": "刘梅",
+      "zh": "那就一项一项看。",
+      "pinyin": "Nà jiù yī xiàng yī xiàng kàn.",
+      "tr": "O zaman maddeleri tek tek ele alalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_007",
+      "speaker": "爷爷",
+      "zh": "我觉得爷爷奶奶这一点也不能忽略。",
+      "pinyin": "Wǒ jué de yé yé nǎi nǎi zhè yì diǎn yě bù néng hū lüè.",
+      "tr": "Bence büyükanne ve büyükbaba konusunu da göz ardı etmemeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_008",
+      "speaker": "奶奶",
+      "zh": "这点我同意，先记下来。",
+      "pinyin": "Zhè diǎn wǒ tóng yì, xiān jì xià lái.",
+      "tr": "Bu noktaya katılıyorum, önce not edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_009",
+      "speaker": "张伟",
+      "zh": "那要不要先比较一下？",
+      "pinyin": "Nà yào bù yào xiān bǐ jiào yī xià?",
+      "tr": "O zaman önce “karşılaştırmak” kısmını ele alalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_010",
+      "speaker": "刘梅",
+      "zh": "我觉得先把这一点说清楚比较好。",
+      "pinyin": "Wǒ jué de xiān bǎ zhè yì diǎn shuō qīng chǔ bǐ jiào hǎo.",
+      "tr": "Bence önce bu noktayı netleştirmek daha iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_011",
+      "speaker": "爷爷",
+      "zh": "对，不然等会儿容易混在一起。",
+      "pinyin": "Duì, bù rán děng huì er róng yì hùn zài yì qǐ.",
+      "tr": "Evet, yoksa birazdan konular birbirine karışabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_012",
+      "speaker": "奶奶",
+      "zh": "那就先确认大家的想法。",
+      "pinyin": "Nà jiù xiān què rèn dà jiā de xiǎng fǎ.",
+      "tr": "O zaman önce herkesin fikrini netleştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_013",
+      "speaker": "张伟",
+      "zh": "我觉得农场这一点也不能忽略。",
+      "pinyin": "Wǒ jué de nóng chǎng zhè yì diǎn yě bù néng hū lüè.",
+      "tr": "Bence çiftlik konusunu da göz ardı etmemeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_014",
+      "speaker": "刘梅",
+      "zh": "好，这一项先放在这里。",
+      "pinyin": "Hǎo, zhè yī xiàng xiān fàng zài zhè lǐ.",
+      "tr": "Tamam, bu maddeyi şimdilik burada bırakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_015",
+      "speaker": "爷爷",
+      "zh": "说到生活，你怎么看？",
+      "pinyin": "Shuō dào shēng huó, nǐ zěn me kàn?",
+      "tr": "hayat konusunda ne düşünüyorsun?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_016",
+      "speaker": "奶奶",
+      "zh": "我觉得这部分也需要认真考虑。",
+      "pinyin": "Wǒ jué de zhè bù fèn yě xū yào rèn zhēn kǎo lǜ.",
+      "tr": "Bence bu kısmı da ciddi biçimde değerlendirmek gerekiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_017",
+      "speaker": "张伟",
+      "zh": "嗯，先别急着决定。",
+      "pinyin": "Èn, xiān bié jí zhe jué dìng.",
+      "tr": "Evet, karar vermek için acele etmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_018",
+      "speaker": "刘梅",
+      "zh": "好，我们把这些都说清楚以后再看下一步。",
+      "pinyin": "Hǎo, wǒ men bǎ zhè xiē dōu shuō qīng chǔ yǐ hòu zài kàn xià yī bù.",
+      "tr": "Tamam, bunları netleştirdikten sonra sonraki adıma bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_019",
+      "speaker": "爷爷",
+      "zh": "我们先把情况说清楚。",
+      "pinyin": "Wǒmen xiān bǎ qíngkuàng shuō qīngchu.",
+      "tr": "Önce durumu netleştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_020",
+      "speaker": "奶奶",
+      "zh": "你的意思是这样，对吗？",
+      "pinyin": "Nǐ de yìsi shì zhèyàng, duì ma?",
+      "tr": "Demek istediğin bu, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_021",
+      "speaker": "张伟",
+      "zh": "对，我就是这个意思。",
+      "pinyin": "Duì, wǒ jiù shì zhège yìsi.",
+      "tr": "Evet, tam olarak bunu demek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_022",
+      "speaker": "刘梅",
+      "zh": "这件事比我想的复杂一点。",
+      "pinyin": "Zhè jiàn shì bǐ wǒ xiǎng de fùzá yìdiǎn.",
+      "tr": "Bu iş düşündüğümden biraz daha karmaşık."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_023",
+      "speaker": "爷爷",
+      "zh": "先别着急，我们一步一步来。",
+      "pinyin": "Xiān bié zháojí, wǒmen yí bù yí bù lái.",
+      "tr": "Önce telaşlanmayalım, adım adım ilerleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_024",
+      "speaker": "奶奶",
+      "zh": "我觉得这个办法比较合适。",
+      "pinyin": "Wǒ juéde zhège bànfǎ bǐjiào héshì.",
+      "tr": "Bence bu yöntem daha uygun."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_025",
+      "speaker": "张伟",
+      "zh": "为什么你这么想？",
+      "pinyin": "Wèishénme nǐ zhème xiǎng?",
+      "tr": "Neden böyle düşünüyorsun?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_026",
+      "speaker": "刘梅",
+      "zh": "因为这样更方便，也更清楚。",
+      "pinyin": "Yīnwèi zhèyàng gèng fāngbiàn, yě gèng qīngchu.",
+      "tr": "Çünkü böyle hem daha kullanışlı hem de daha net."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_027",
+      "speaker": "爷爷",
+      "zh": "如果这样做，我们就能省一点时间。",
+      "pinyin": "Rúguǒ zhèyàng zuò, wǒmen jiù néng shěng yìdiǎn shíjiān.",
+      "tr": "Böyle yaparsak biraz zaman kazanabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_028",
+      "speaker": "奶奶",
+      "zh": "虽然有点麻烦，但是可以解决。",
+      "pinyin": "Suīrán yǒudiǎn máfan, dànshì kěyǐ jiějué.",
+      "tr": "Biraz zahmetli olsa da çözülebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_029",
+      "speaker": "张伟",
+      "zh": "那我们先试试看。",
+      "pinyin": "Nà wǒmen xiān shìshikan.",
+      "tr": "O zaman önce deneyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_030",
+      "speaker": "刘梅",
+      "zh": "好，有问题我们再调整。",
+      "pinyin": "Hǎo, yǒu wèntí wǒmen zài tiáozhěng.",
+      "tr": "Tamam, sorun olursa yeniden ayarlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_031",
+      "speaker": "爷爷",
+      "zh": "我先确认一下细节。",
+      "pinyin": "Wǒ xiān quèrèn yíxià xìjié.",
+      "tr": "Önce ayrıntıları teyit edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_032",
+      "speaker": "奶奶",
+      "zh": "你说得对，这个细节很重要。",
+      "pinyin": "Nǐ shuō de duì, zhège xìjié hěn zhòngyào.",
+      "tr": "Haklısın, bu ayrıntı önemli."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_033",
+      "speaker": "张伟",
+      "zh": "我们最好把时间也安排好。",
+      "pinyin": "Wǒmen zuìhǎo bǎ shíjiān yě ānpái hǎo.",
+      "tr": "Zamanı da iyi planlasak iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_034",
+      "speaker": "刘梅",
+      "zh": "我已经写下来了。",
+      "pinyin": "Wǒ yǐjīng xiě xiàlái le.",
+      "tr": "Not aldım bile."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_035",
+      "speaker": "爷爷",
+      "zh": "那就不会忘了。",
+      "pinyin": "Nà jiù bú huì wàng le.",
+      "tr": "O zaman unutmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_036",
+      "speaker": "奶奶",
+      "zh": "现在最重要的问题是什么？",
+      "pinyin": "Xiànzài zuì zhòngyào de wèntí shì shénme?",
+      "tr": "Şimdi en önemli sorun ne?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_037",
+      "speaker": "张伟",
+      "zh": "关键是先找到原因。",
+      "pinyin": "Guānjiàn shì xiān zhǎodào yuányīn.",
+      "tr": "Önemli olan önce nedeni bulmak."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_038",
+      "speaker": "刘梅",
+      "zh": "我同意，不过我们还要考虑别的情况。",
+      "pinyin": "Wǒ tóngyì, búguò wǒmen hái yào kǎolǜ bié de qíngkuàng.",
+      "tr": "Katılıyorum ama başka durumları da düşünmeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_039",
+      "speaker": "爷爷",
+      "zh": "这样说更有道理。",
+      "pinyin": "Zhèyàng shuō gèng yǒu dàolǐ.",
+      "tr": "Böyle söyleyince daha mantıklı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_040",
+      "speaker": "奶奶",
+      "zh": "我们需要一个更实际的办法。",
+      "pinyin": "Wǒmen xūyào yí ge gèng shíjì de bànfǎ.",
+      "tr": "Daha uygulanabilir bir çözüme ihtiyacımız var."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_041",
+      "speaker": "张伟",
+      "zh": "爷爷，您这次来城市住两个月，最想先适应什么？",
+      "pinyin": "yé yé nín zhè cì lái chéng shì zhù liǎng gè yuè zuì xiǎng xiān shì yìng shén me",
+      "tr": "Dede, bu kez iki ay şehirde kalacaksınız; önce neye alışmak istersiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_042",
+      "speaker": "刘梅",
+      "zh": "家里房间已经准备好了，您和奶奶也可以慢慢安排每天的生活。",
+      "pinyin": "jiā lǐ fáng jiān yǐ jīng zhǔn bèi hǎo le nín hé nǎi nǎi yě kě yǐ màn màn ān pái měi tiān de shēng huó",
+      "tr": "Oda hazır; siz ve nine günlük düzeninizi yavaş yavaş kurabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_043",
+      "speaker": "爷爷",
+      "zh": "我在农村习惯早起，想知道附近有没有地方可以散步。",
+      "pinyin": "wǒ zài nóng cūn xí guàn zǎo qǐ xiǎng zhī dào fù jìn yǒu méi yǒu dì fāng kě yǐ sàn bù",
+      "tr": "Kırsalda erken kalkmaya alışığım; yakında yürüyüş yapacak bir yer var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_044",
+      "speaker": "奶奶",
+      "zh": "我也想找个菜市场，买菜还是自己挑比较放心。",
+      "pinyin": "wǒ yě xiǎng zhǎo gè cài shì chǎng mǎi cài hái shì zì jǐ tiāo bǐ jiào fàng xīn",
+      "tr": "Ben de bir pazar bulmak istiyorum; sebzeyi kendim seçersem içim rahat eder."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_045",
+      "speaker": "张伟",
+      "zh": "小区旁边有公园，走路十分钟就到，我明天带您去看看。",
+      "pinyin": "xiǎo qū páng biān yǒu gōng yuán zǒu lù shí fēn zhōng jiù dào wǒ míng tiān dài nín qù kàn kàn",
+      "tr": "Sitenin yanında park var, yürüyerek on dakika; yarın sizi götüreyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_046",
+      "speaker": "刘梅",
+      "zh": "菜市场也在那条路上，早上人少，逛起来比较方便。",
+      "pinyin": "cài shì chǎng yě zài nà tiáo lù shàng zǎo shàng rén shǎo guàng qǐ lái bǐ jiào fāng biàn",
+      "tr": "Pazar da aynı yolda; sabahları daha sakin oluyor, gezmek kolay."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_047",
+      "speaker": "爷爷",
+      "zh": "那很好。农村空气新鲜，城市买东西方便，各有各的好处。",
+      "pinyin": "nà hěn hǎo nóng cūn kōng qì xīn xiān chéng shì mǎi dōng xī fāng biàn gè yǒu gè de hǎo chù",
+      "tr": "Güzel. Kırsalın havası temiz, şehirde alışveriş kolay; ikisinin de iyi yanı var."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_048",
+      "speaker": "奶奶",
+      "zh": "我还不太习惯楼房，晚上听不到院子里的虫子声。",
+      "pinyin": "wǒ hái bù tài xí guàn lóu fáng wǎn shàng tīng bú dào yuàn zi lǐ de chóng zi shēng",
+      "tr": "Apartman yaşamına henüz alışamadım; geceleri avludaki böcek seslerini duymuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_049",
+      "speaker": "张伟",
+      "zh": "要是想家了，我们可以打视频电话，也能常回去看看。",
+      "pinyin": "yào shì xiǎng jiā le wǒ men kě yǐ dǎ shì pín diàn huà yě néng cháng huí qù kàn kàn",
+      "tr": "Evinizi özlerseniz görüntülü konuşabilir, sık sık ziyarete gidebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_050",
+      "speaker": "刘梅",
+      "zh": "奶奶，您想做饭的话，厨房的东西都放在原来的位置。",
+      "pinyin": "nǎi nǎi nín xiǎng zuò fàn de huà chú fáng de dōng xī dōu fàng zài yuán lái de wèi zhì",
+      "tr": "Nine, yemek yapmak isterseniz mutfaktaki eşyalar yerli yerinde duruyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_051",
+      "speaker": "爷爷",
+      "zh": "我带了农场的照片，等吃完饭给你们讲讲那边的变化。",
+      "pinyin": "wǒ dài le nóng chǎng de zhào piān děng chī wán fàn gěi nǐ men jiǎng jiǎng nà biān de biàn huà",
+      "tr": "Çiftlikten fotoğraflar getirdim; yemekten sonra oradaki değişiklikleri anlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_052",
+      "speaker": "奶奶",
+      "zh": "我也带了茶叶，城市里有好茶，但家乡的味道不一样。",
+      "pinyin": "wǒ yě dài le chá yè chéng shì lǐ yǒu hǎo chá dàn jiā xiāng de wèi dào bù yí yàng",
+      "tr": "Ben de çay getirdim. Şehirde güzel çay var ama memleketin tadı farklı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_053",
+      "speaker": "张伟",
+      "zh": "您们住久一点，我们就能多听些农场的故事。",
+      "pinyin": "nín men zhù jiǔ yì diǎn wǒ men jiù néng duō tīng xiē nóng chǎng de gù shì",
+      "tr": "Biraz uzun kalırsanız çiftlik hikâyelerinizi daha çok dinleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_054",
+      "speaker": "刘梅",
+      "zh": "不过要是住得不习惯，也不用勉强，我们一起商量。",
+      "pinyin": "bù guò yào shì zhù dé bù xí guàn yě bù yòng miǎn qiǎng wǒ men yì qǐ shāng liáng",
+      "tr": "Burada rahat edemezseniz kendinizi zorlamayın; birlikte konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_055",
+      "speaker": "爷爷",
+      "zh": "先住两个月看看吧，到了秋天我还想回农场收果子。",
+      "pinyin": "xiān zhù liǎng gè yuè kàn kàn ba dào le qiū tiān wǒ hái xiǎng huí nóng chǎng shōu guǒ zi",
+      "tr": "Önce iki ay kalalım; sonbaharda meyve toplamak için çiftliğe dönmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_056",
+      "speaker": "奶奶",
+      "zh": "我也想回去，不过在城里住一阵子，看看你们的生活也很好。",
+      "pinyin": "wǒ yě xiǎng huí qù bù guò zài chéng lǐ zhù yī zhèn zi kàn kàn nǐ men de shēng huó yě hěn hǎo",
+      "tr": "Ben de dönmek isterim ama şehirde biraz kalıp sizin yaşamınızı görmek güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_057",
+      "speaker": "张伟",
+      "zh": "那我们先按两个月安排，不把每天排得太满。",
+      "pinyin": "nà wǒ men xiān àn liǎng gè yuè ān pái bù bǎ měi tiān pái dé tài mǎn",
+      "tr": "O zaman iki aya göre plan yapalım; her günü fazla doldurmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_058",
+      "speaker": "刘梅",
+      "zh": "早上去公园，买完菜回来休息，下午再一起喝茶。",
+      "pinyin": "zǎo shàng qù gōng yuán mǎi wán cài huí lái xiū xī xià wǔ zài yì qǐ hē chá",
+      "tr": "Sabah parka gidip alışverişten sonra dinlenirsiniz; öğleden sonra birlikte çay içeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_059",
+      "speaker": "爷爷",
+      "zh": "这样的城市生活听起来不错，也留得出时间想念农村。",
+      "pinyin": "zhè yàng de chéng shì shēng huó tīng qǐ lái bù cuò yě liú dé chū shí jiān xiǎng niàn nóng cūn",
+      "tr": "Bu şehir düzeni kulağa iyi geliyor; kırsalı özlemek için de zaman kalır."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_060",
+      "speaker": "奶奶",
+      "zh": "好，那我们先试一试，住得舒服的话再商量下一步。",
+      "pinyin": "hǎo nà wǒ men xiān shì yī shì zhù dé shū fú de huà zài shāng liáng xià yī bù",
+      "tr": "Peki, önce deneyelim; rahat edersek sonrasını birlikte konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_061",
+      "speaker": "张伟",
+      "zh": "好，就按这个办法来。",
+      "pinyin": "Hǎo, jiù àn zhège bànfǎ lái.",
+      "tr": "Tamam, bu yönteme göre ilerleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_062",
+      "speaker": "刘梅",
+      "zh": "你看，现在好多了。",
+      "pinyin": "Nǐ kàn, xiànzài hǎo duō le.",
+      "tr": "Bak, şimdi çok daha iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_063",
+      "speaker": "爷爷",
+      "zh": "确实，比刚才顺利。",
+      "pinyin": "Quèshí, bǐ gāngcái shùnlì.",
+      "tr": "Gerçekten, az öncekinden daha iyi gidiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_064",
+      "speaker": "奶奶",
+      "zh": "看来我们的方向是对的。",
+      "pinyin": "Kànlái wǒmen de fāngxiàng shì duì de.",
+      "tr": "Görünüşe göre doğru yöndeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_065",
+      "speaker": "张伟",
+      "zh": "最后再检查一遍吧。",
+      "pinyin": "Zuìhòu zài jiǎnchá yí biàn ba.",
+      "tr": "Son olarak bir kez daha kontrol edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_066",
+      "speaker": "刘梅",
+      "zh": "好的，我来检查第一部分。",
+      "pinyin": "Hǎo de, wǒ lái jiǎnchá dì yí bùfen.",
+      "tr": "Tamam, ilk kısmı ben kontrol edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_067",
+      "speaker": "爷爷",
+      "zh": "我负责后面的部分。",
+      "pinyin": "Wǒ fùzé hòumiàn de bùfen.",
+      "tr": "Ben sonraki kısmı kontrol ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_068",
+      "speaker": "奶奶",
+      "zh": "现在没有发现新的问题。",
+      "pinyin": "Xiànzài méiyǒu fāxiàn xīn de wèntí.",
+      "tr": "Şu anda yeni bir sorun görünmüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_069",
+      "speaker": "张伟",
+      "zh": "太好了，终于可以放心了。",
+      "pinyin": "Tài hǎo le, zhōngyú kěyǐ fàngxīn le.",
+      "tr": "Harika, sonunda rahatlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_070",
+      "speaker": "刘梅",
+      "zh": "今天我们学到不少东西。",
+      "pinyin": "Jīntiān wǒmen xuédào bù shǎo dōngxi.",
+      "tr": "Bugün epey şey öğrendik."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_071",
+      "speaker": "爷爷",
+      "zh": "下次处理起来会更快。",
+      "pinyin": "Xià cì chǔlǐ qǐlái huì gèng kuài.",
+      "tr": "Bir dahaki sefere daha hızlı hallederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_072",
+      "speaker": "奶奶",
+      "zh": "我觉得今天的结果不错。",
+      "pinyin": "Wǒ juéde jīntiān de jiéguǒ búcuò.",
+      "tr": "Bence bugünkü sonuç iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_073",
+      "speaker": "张伟",
+      "zh": "嗯，我也是这么想的。",
+      "pinyin": "Èn, wǒ yě shì zhè me xiǎng de.",
+      "tr": "Ben de öyle düşünüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_074",
+      "speaker": "刘梅",
+      "zh": "那就这么决定吧。",
+      "pinyin": "Nà jiù zhème juédìng ba.",
+      "tr": "O zaman böyle karar verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_075",
+      "speaker": "爷爷",
+      "zh": "好，接下来按计划继续。",
+      "pinyin": "Hǎo, jiēxiàlái àn jìhuà jìxù.",
+      "tr": "Tamam, bundan sonra plana göre devam edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_076",
+      "speaker": "奶奶",
+      "zh": "刚才的办法基本可行，不过最后还要把几件事确认清楚。",
+      "pinyin": "Gāng cái de bàn fǎ jī běn kě xíng, bù guò zuì hòu hái yào bǎ jǐ jiàn shì què rèn qīng chǔ.",
+      "tr": "Az önceki yöntem genel olarak uygulanabilir; ama son olarak birkaç noktayı netleştirmeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_077",
+      "speaker": "张伟",
+      "zh": "说到农村，你怎么看？",
+      "pinyin": "Shuō dào nóng cūn, nǐ zěn me kàn?",
+      "tr": "kırsal bölge konusunda ne düşünüyorsun?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_078",
+      "speaker": "刘梅",
+      "zh": "我觉得这一点现在已经比刚开始清楚多了。",
+      "pinyin": "Wǒ jué de zhè yì diǎn xiàn zài yǐ jīng bǐ gāng kāi shǐ qīng chǔ duō le.",
+      "tr": "Bence bu nokta başlangıca göre artık çok daha net."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_079",
+      "speaker": "爷爷",
+      "zh": "对，先把需要做的事情分一下。",
+      "pinyin": "Duì, xiān bǎ xū yào zuò de shì qíng fēn yī xià.",
+      "tr": "Evet, önce yapılacak işleri paylaştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_080",
+      "speaker": "奶奶",
+      "zh": "好，有变化就及时说。",
+      "pinyin": "Hǎo, yǒu biàn huà jiù jí shí shuō.",
+      "tr": "Tamam, değişiklik olursa hemen söyleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_081",
+      "speaker": "张伟",
+      "zh": "我觉得城市生活这一点也不能忽略。",
+      "pinyin": "Wǒ jué de chéng shì shēng huó zhè yì diǎn yě bù néng hū lüè.",
+      "tr": "Bence şehir hayatı konusunu da göz ardı etmemeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_082",
+      "speaker": "刘梅",
+      "zh": "这样安排以后，后面会顺利很多。",
+      "pinyin": "Zhè yàng ān pái yǐ hòu, hòu miàn huì shùn lì hěn duō.",
+      "tr": "Böyle düzenleyince sonrası çok daha sorunsuz ilerler."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_083",
+      "speaker": "爷爷",
+      "zh": "我同意，不过还得留一点调整空间。",
+      "pinyin": "Wǒ tóng yì, bù guò hái dé liú yì diǎn tiáo zhěng kōng jiān.",
+      "tr": "Katılıyorum, ama biraz ayarlama payı bırakmak gerekiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_084",
+      "speaker": "奶奶",
+      "zh": "没问题，遇到情况再改。",
+      "pinyin": "Méi wèn tí, yù dào qíng kuàng zài gǎi.",
+      "tr": "Sorun değil, durum çıkarsa yeniden değiştiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_085",
+      "speaker": "张伟",
+      "zh": "说到爷爷奶奶，你怎么看？",
+      "pinyin": "Shuō dào yé yé nǎi nǎi, nǐ zěn me kàn?",
+      "tr": "büyükanne ve büyükbaba konusunda ne düşünüyorsun?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_086",
+      "speaker": "刘梅",
+      "zh": "我觉得这部分可以先按现在的想法来。",
+      "pinyin": "Wǒ jué de zhè bù fèn kě yǐ xiān àn xiàn zài de xiǎng fǎ lái.",
+      "tr": "Bence bu kısmı şimdilik mevcut fikrimize göre yapabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_087",
+      "speaker": "爷爷",
+      "zh": "那就先试，效果不好再调整。",
+      "pinyin": "Nà jiù xiān shì, xiào guǒ bù hǎo zài tiáo zhěng.",
+      "tr": "O zaman önce deneyelim; sonuç iyi olmazsa yeniden ayarlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_088",
+      "speaker": "奶奶",
+      "zh": "好，我把这个也记下来。",
+      "pinyin": "Hǎo, wǒ bǎ zhè ge yě jì xià lái.",
+      "tr": "Tamam, bunu da not ediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_089",
+      "speaker": "张伟",
+      "zh": "我觉得先比较一下比较好。",
+      "pinyin": "Wǒ jué de xiān bǐ jiào yī xià bǐ jiào hǎo.",
+      "tr": "Bence önce “karşılaştırmak” kısmını ele almak daha iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_090",
+      "speaker": "刘梅",
+      "zh": "现在主要问题已经基本说清楚了。",
+      "pinyin": "Xiàn zài zhǔ yào wèn tí yǐ jīng jī běn shuō qīng chǔ le.",
+      "tr": "Ana sorun artık büyük ölçüde netleşti."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_091",
+      "speaker": "爷爷",
+      "zh": "明天先去公园和菜市场，路上我也认一认附近的街道。",
+      "pinyin": "míng tiān xiān qù gōng yuán hé cài shì chǎng lù shàng wǒ yě rèn yī rèn fù jìn de jiē dào",
+      "tr": "Yarın önce parka ve pazara gidelim; yolda çevredeki sokakları da öğrenirim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_092",
+      "speaker": "奶奶",
+      "zh": "我把带来的茶叶放在厨房，下午泡给大家喝。",
+      "pinyin": "wǒ bǎ dài lái de chá yè fàng zài chú fáng xià wǔ pào gěi dà jiā hē",
+      "tr": "Getirdiğim çayı mutfağa koyayım; öğleden sonra hepimize demlerim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_093",
+      "speaker": "张伟",
+      "zh": "我把公园和菜市场的位置发到您的手机上，出门也方便。",
+      "pinyin": "wǒ bǎ gōng yuán hé cài shì chǎng de wèi zhì fā dào nín de shǒu jī shàng chū mén yě fāng biàn",
+      "tr": "Parkın ve pazarın konumunu telefonunuza göndereyim; dışarı çıkmak kolay olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_094",
+      "speaker": "刘梅",
+      "zh": "家里缺什么就告诉我，我们一起去买，不用着急。",
+      "pinyin": "jiā lǐ quē shén me jiù gào sù wǒ wǒ men yì qǐ qù mǎi bù yòng zháo jí",
+      "tr": "Evde bir şey eksikse söyleyin; birlikte alırız, acele etmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_095",
+      "speaker": "爷爷",
+      "zh": "谢谢你们照顾我们，住在这里比我想的自在。",
+      "pinyin": "xiè xiè nǐ men zhào gù wǒ men zhù zài zhè lǐ bǐ wǒ xiǎng de zì zài",
+      "tr": "Bize baktığınız için teşekkürler; burada kalmak düşündüğümden daha rahat."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_096",
+      "speaker": "奶奶",
+      "zh": "有家人在身边，城市生活也慢慢熟悉起来了。",
+      "pinyin": "yǒu jiā rén zài shēn biān chéng shì shēng huó yě màn màn shú xī qǐ lái le",
+      "tr": "Aile yanımda olunca şehir yaşamına da yavaş yavaş alışıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_097",
+      "speaker": "张伟",
+      "zh": "等您们想回农场时，我们再一起安排车和时间。",
+      "pinyin": "děng nín men xiǎng huí nóng chǎng shí wǒ men zài yì qǐ ān pái chē hé shí jiān",
+      "tr": "Çiftliğe dönmek istediğinizde araçla zamanı birlikte ayarlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_098",
+      "speaker": "刘梅",
+      "zh": "先好好休息，明天散步回来我们再聊农场的照片。",
+      "pinyin": "xiān hǎo hǎo xiū xī míng tiān sàn bù huí lái wǒ men zài liáo nóng chǎng de zhào piān",
+      "tr": "Önce güzelce dinlenin; yarın yürüyüşten dönünce çiftlik fotoğraflarını konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_099",
+      "speaker": "爷爷",
+      "zh": "好，我很想给你们看看农场今年种的果树。",
+      "pinyin": "hǎo wǒ hěn xiǎng gěi nǐ men kàn kàn nóng chǎng jīn nián zhǒng de guǒ shù",
+      "tr": "Olur, bu yıl çiftlikte yetiştirdiğimiz meyve ağaçlarını size göstermek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC041_100",
+      "speaker": "奶奶",
+      "zh": "那就这么说定了，今天先在城市的新家好好住下。",
+      "pinyin": "nà jiù zhè me shuō dìng le jīn tiān xiān zài chéng shì de xīn jiā hǎo hǎo zhù xià",
+      "tr": "Öyleyse anlaştık; bugün şehirdeki yeni evimizde güzelce yerleşelim."
+    }
+  ]
+}

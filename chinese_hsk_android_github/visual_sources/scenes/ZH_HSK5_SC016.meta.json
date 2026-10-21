@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC016.json",
-  "dialogueSha256": "b67781d20d33f132af6d7fceca2642aeeb6e10ba9ad2754f0578250139ec0dd4",
+  "dialogueSha256": "10d342cdb6885d8858fb0f0c0b83bc958f8f3ddb154ecd7fbf2f01a555c8d073",
   "titleZh": "爷爷的老办法",
   "titleTr": "Büyükbabanın Eski Tarım Yöntemleri",
   "locationId": "LOC_ZH_GARDEN_001",

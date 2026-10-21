@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC011.json",
-  "dialogueSha256": "0f928fcc19c05d44399d6bfbd062acb28519b41b7ee87022520568a4e8b94dec",
+  "dialogueSha256": "5aed2ef4299261be61b84e3a59d8a3ab130a85b338282ef7d1326d7c8fefe5a0",
   "titleZh": "乐乐成为摄影师",
   "titleTr": "Lele Fotoğrafçılığı Mesleğe Dönüştürüyor",
   "locationId": "LOC_ZH_PHOTO_STUDIO_001",

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC033.json",
-  "dialogueSha256": "a2b918fff587b0ae5ee02262a753cf3e269b0c7d03fa73af550a54e785896c89",
+  "dialogueSha256": "bfb4944e8f8bea1be64fa92000f1d179d19a87f486854b0a6966a8371f28d302",
   "titleZh": "奶奶的食谱本",
   "titleTr": "Büyükannenin Tarif Defteri",
   "locationId": "LOC_ZH_GRANDPARENTS_HOME_001",

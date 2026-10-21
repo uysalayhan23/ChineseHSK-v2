@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC012.json",
-  "dialogueSha256": "378039e75f8fc041dd061a626c129b1cac63b51b899d87aa12ac69a8394f94ea",
+  "dialogueSha256": "a943e3b0b6f880c680b8132b57daf37a6643f90ea0e0e2fff3c33c1a4b23955a",
   "titleZh": "第一个大客户",
   "titleTr": "İlk Büyük Müşteri",
   "locationId": "LOC_ZH_PHOTO_STUDIO_001",

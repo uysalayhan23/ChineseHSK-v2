@@ -168,6 +168,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
             val utteranceId = "SPEAK_${System.nanoTime()}"
             if (onDone != null) callbacks[utteranceId] = onDone
             tts.speak(text, TextToSpeech.QUEUE_FLUSH, Bundle(), utteranceId)
+            Unit
         }
         if (ready) action() else pending = action
     }

@@ -1,0 +1,760 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK1_SC016",
+  "level": "HSK1",
+  "sourceTitleZh": "超市在哪儿？",
+  "sourceTitleTr": "Market Nerede?",
+  "sourceMiniAdventureTr": "Aile mahalledeki marketi bulmak için komşuya yol sorar.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK1_SC016_001",
+      "speaker": "张伟",
+      "zh": "昨天说要买东西，今天真得出门了。",
+      "pinyin": "Zuó tiān shuō yào mǎi dōng xi, jīn tiān zhēn děi chū mén le.",
+      "tr": "Dün alışverişten söz ettik, bugün gerçekten çıkmamız gerekiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_002",
+      "speaker": "刘梅",
+      "zh": "嗯，牛奶和鸡蛋都没有了。",
+      "pinyin": "Èn, niú nǎi hé jī dàn dōu méi yǒu le.",
+      "tr": "Evet, süt de yumurta da kalmadı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_003",
+      "speaker": "邻居",
+      "zh": "早上好，你们要去超市吗？",
+      "pinyin": "Zǎo shàng hǎo, nǐ men yào qù chāo shì ma?",
+      "tr": "Günaydın, süpermarkete mi gidiyorsunuz?",
+      "emotion": "happy",
+      "actionTr": "Aileyi sabah selamlar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_004",
+      "speaker": "张乐乐",
+      "zh": "阿姨好！我们还不知道路呢。",
+      "pinyin": "Ā yí hǎo! wǒ men hái bù zhī dào lù ne.",
+      "tr": "Merhaba teyze! Yolu henüz bilmiyoruz.",
+      "emotion": "happy",
+      "actionTr": "Komşuyu selamlayıp yolu bilmediğini söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_005",
+      "speaker": "张伟",
+      "zh": "正好遇见您，想问问超市在哪儿。",
+      "pinyin": "Zhèng hǎo yù jiàn nín, xiǎng wèn wèn chāo shì zài nǎr.",
+      "tr": "Tam size rastladık, süpermarketin nerede olduğunu soracaktık."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_006",
+      "speaker": "刘梅",
+      "zh": "昨天光顾着喝茶，忘了问清楚。",
+      "pinyin": "Zuó tiān guāng gù zhe hē chá, wàng le wèn qīng chǔ.",
+      "tr": "Dün çay sohbetine daldık, ayrıntılı sormayı unuttuk."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_007",
+      "speaker": "邻居",
+      "zh": "没关系，离你们家很近。",
+      "pinyin": "Méi guān xì, lí nǐ men jiā hěn jìn.",
+      "tr": "Sorun değil, evinize çok yakın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_008",
+      "speaker": "张乐乐",
+      "zh": "很近的话，我可以走过去吧？",
+      "pinyin": "Hěn jìn de huà, wǒ kě yǐ zǒu guò qù ba?",
+      "tr": "Çok yakınsa yürüyerek gidebilirim, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_009",
+      "speaker": "张伟",
+      "zh": "可以，我们一起走。",
+      "pinyin": "Kě yǐ, wǒ men yì qǐ zǒu.",
+      "tr": "Olur, birlikte yürürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_010",
+      "speaker": "刘梅",
+      "zh": "从家门口出去，先往哪边走？",
+      "pinyin": "Cóng jiā mén kǒu chū qù, xiān wǎng nǎ biān zǒu?",
+      "tr": "Evin kapısından çıkınca önce hangi yöne gidelim?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_011",
+      "speaker": "邻居",
+      "zh": "先往右边走，到前面的路口。",
+      "pinyin": "Xiān wǎng yòu biān zǒu, dào qián miàn de lù kǒu.",
+      "tr": "Önce sağa gidin, ilerideki yol ayrımına kadar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_012",
+      "speaker": "张乐乐",
+      "zh": "是我这只手的右边吗？",
+      "pinyin": "Shì wǒ zhè zhǐ shǒu de yòu biān ma?",
+      "tr": "Bu elimin olduğu sağ taraf mı?",
+      "emotion": "curious",
+      "actionTr": "Sağ elini göstererek yönü sorar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_013",
+      "speaker": "张伟",
+      "zh": "对，你伸出来的是右手。",
+      "pinyin": "Duì, nǐ shēn chū lái de shì yòu shǒu.",
+      "tr": "Evet, uzattığın sağ elin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_014",
+      "speaker": "刘梅",
+      "zh": "别急着跑，先听阿姨说完。",
+      "pinyin": "Bié jí zhe pǎo, xiān tīng ā yí shuō wán.",
+      "tr": "Koşmak için acele etme, önce teyzenin sözünü bitirmesini bekle."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_015",
+      "speaker": "邻居",
+      "zh": "到了路口，再往左边走。",
+      "pinyin": "Dào le lù kǒu, zài wǎng zuǒ biān zǒu.",
+      "tr": "Yol ayrımına gelince sola gidin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_016",
+      "speaker": "张乐乐",
+      "zh": "啊，先右边，再左边！",
+      "pinyin": "A, xiān yòu biān, zài zuǒ biān!",
+      "tr": "Aa, önce sağa, sonra sola!",
+      "emotion": "happy",
+      "actionTr": "İki dönüşü heyecanla tekrar eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_017",
+      "speaker": "张伟",
+      "zh": "这次听清楚了，我也记住了。",
+      "pinyin": "Zhè cì tīng qīng chǔ le, wǒ yě jì zhù le.",
+      "tr": "Bu kez anladım, ben de aklımda tuttum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_018",
+      "speaker": "刘梅",
+      "zh": "往左走以后，还要过马路吗？",
+      "pinyin": "Wǎng zuǒ zǒu yǐ hòu, hái yào guò mǎ lù ma?",
+      "tr": "Sola gittikten sonra caddeyi geçmemiz gerekiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_019",
+      "speaker": "邻居",
+      "zh": "要过一次，那里有红绿灯。",
+      "pinyin": "Yào guò yī cì, nà lǐ yǒu hóng lǜ dēng.",
+      "tr": "Bir kez geçmeniz gerekiyor, orada trafik ışıkları var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_020",
+      "speaker": "张乐乐",
+      "zh": "绿灯亮了，我们才能走，对不对？",
+      "pinyin": "Lǜ dēng liàng le, wǒ men cái néng zǒu, duì bú duì?",
+      "tr": "Yeşil ışık yanınca geçebiliriz, doğru mu?",
+      "emotion": "curious",
+      "actionTr": "Trafik ışığı kuralını doğrulatır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_021",
+      "speaker": "张伟",
+      "zh": "对，还要看看车，不能只看灯。",
+      "pinyin": "Duì, hái yào kàn kàn chē, bù néng zhǐ kàn dēng.",
+      "tr": "Doğru, yalnız ışığa değil, arabalara da bakmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_022",
+      "speaker": "刘梅",
+      "zh": "过马路的时候，跟着我们走。",
+      "pinyin": "Guò mǎ lù de shí hòu, gēn zhe wǒ men zǒu.",
+      "tr": "Caddeyi geçerken bizimle yürü."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_023",
+      "speaker": "邻居",
+      "zh": "你们这样教孩子，我就放心了。",
+      "pinyin": "Nǐ men zhè yàng jiào hái zi, wǒ jiù fàng xīn le.",
+      "tr": "Çocuğa böyle öğrettiğinizi görünce içim rahatladı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_024",
+      "speaker": "张乐乐",
+      "zh": "我拉妈妈的手，不一个人跑。",
+      "pinyin": "Wǒ lā mā ma de shǒu, bù yī gè rén pǎo.",
+      "tr": "Annemin elini tutarım, tek başıma koşmam.",
+      "emotion": "neutral",
+      "actionTr": "Annesinin elini tutacağını söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_025",
+      "speaker": "张伟",
+      "zh": "好，这句话我可记住了。",
+      "pinyin": "Hǎo, zhè jù huà wǒ kě jì zhù le.",
+      "tr": "Güzel, bu söylediğini unutmayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_026",
+      "speaker": "刘梅",
+      "zh": "过了马路，超市就在那儿吗？",
+      "pinyin": "Guò le mǎ lù, chāo shì jiù zài nàr ma?",
+      "tr": "Caddeyi geçince süpermarket orada mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_027",
+      "speaker": "邻居",
+      "zh": "再走一点，超市在路的右边。",
+      "pinyin": "Zài zǒu yì diǎn, chāo shì zài lù de yòu biān.",
+      "tr": "Biraz daha yürüyün, süpermarket yolun sağında."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_028",
+      "speaker": "张乐乐",
+      "zh": "右边还有什么？我想找个好认的。",
+      "pinyin": "Yòu biān hái yǒu shén me? wǒ xiǎng zhǎo gè hǎo rèn de.",
+      "tr": "Sağ tarafta başka ne var? Kolay tanıyacağım bir şey olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_029",
+      "speaker": "张伟",
+      "zh": "问得好，有个标志就不容易走错。",
+      "pinyin": "Wèn de hǎo, yǒu gè biāo zhì jiù bù róng yì zǒu cuò.",
+      "tr": "İyi soru, bir işaret olunca yolu karıştırmak zorlaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_030",
+      "speaker": "刘梅",
+      "zh": "对，我们刚搬来，看哪儿都不熟。",
+      "pinyin": "Duì, wǒ men gāng bān lái, kàn nǎr dōu bù shú.",
+      "tr": "Evet, yeni taşındık, hiçbir yeri henüz tanımıyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_031",
+      "speaker": "邻居",
+      "zh": "超市门口有一棵大树。",
+      "pinyin": "Chāo shì mén kǒu yǒu yī kē dà shù.",
+      "tr": "Süpermarketin kapısında büyük bir ağaç var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_032",
+      "speaker": "张乐乐",
+      "zh": "那我找大树，不找小树！",
+      "pinyin": "Nà wǒ zhǎo dà shù, bù zhǎo xiǎo shù!",
+      "tr": "O zaman büyük ağacı ararım, küçük ağacı değil!",
+      "emotion": "happy",
+      "actionTr": "Büyük ağacı bulacağına sevinir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_033",
+      "speaker": "张伟",
+      "zh": "可别见到大树就停下。",
+      "pinyin": "Kě bié jiàn dào dà shù jiù tíng xià.",
+      "tr": "Ama her büyük ağaç görünce de durma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_034",
+      "speaker": "刘梅",
+      "zh": "还得看看是不是超市。",
+      "pinyin": "Hái děi kàn kàn shì bú shì chāo shì.",
+      "tr": "Süpermarket olup olmadığına da bakmalısın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_035",
+      "speaker": "邻居",
+      "zh": "对，树旁边才是超市的门。",
+      "pinyin": "Duì, shù páng biān cái shì chāo shì de mén.",
+      "tr": "Doğru, süpermarketin kapısı ağacın yanında."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_036",
+      "speaker": "张乐乐",
+      "zh": "我知道了，树不能卖牛奶。",
+      "pinyin": "Wǒ zhī dào le, shù bù néng mài niú nǎi.",
+      "tr": "Anladım, ağaç süt satamaz.",
+      "emotion": "happy",
+      "actionTr": "Ağacın süt satmayacağı üzerine şaka yapar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_037",
+      "speaker": "张伟",
+      "zh": "哈哈，这话倒是没错。",
+      "pinyin": "Hā hā, zhè huà dǎo shì méi cuò.",
+      "tr": "Haha, bu söylediğin doğru."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_038",
+      "speaker": "刘梅",
+      "zh": "您说的超市，是那边那个大房子吗？",
+      "pinyin": "Nín shuō de chāo shì, shì nà biān nà ge dà fáng zi ma?",
+      "tr": "Söylediğiniz süpermarket şu taraftaki büyük bina mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_039",
+      "speaker": "邻居",
+      "zh": "从这儿看不见，前面的楼挡住了。",
+      "pinyin": "Cóng zhèr kàn bú jiàn, qián miàn de lóu dǎng zhù le.",
+      "tr": "Buradan görünmüyor, öndeki bina kapatıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_040",
+      "speaker": "张乐乐",
+      "zh": "怪不得我一直找不到。",
+      "pinyin": "Guài bù dé wǒ yì zhí zhǎo bú dào.",
+      "tr": "Demek bu yüzden bir türlü göremiyordum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_041",
+      "speaker": "张伟",
+      "zh": "那不是没找到，是还没走到。",
+      "pinyin": "Nà bú shì méi zhǎo dào, shì hái méi zǒu dào.",
+      "tr": "Bulamadığından değil, henüz oraya gitmediğinden."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_042",
+      "speaker": "刘梅",
+      "zh": "听爸爸这么说，我也不急了。",
+      "pinyin": "Tīng bà ba zhè me shuō, wǒ yě bù jí le.",
+      "tr": "Babanın böyle söylediğini duyunca ben de telaşlanmadım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_043",
+      "speaker": "邻居",
+      "zh": "不用着急，慢慢走就到了。",
+      "pinyin": "Bù yòng zháo jí, màn màn zǒu jiù dào le.",
+      "tr": "Acele etmeyin, sakince yürüyünce varırsınız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_044",
+      "speaker": "张乐乐",
+      "zh": "阿姨，您每天都去吗？",
+      "pinyin": "Ā yí, nín měi tiān dōu qù ma?",
+      "tr": "Teyze, siz her gün gidiyor musunuz?",
+      "emotion": "curious",
+      "actionTr": "Komşunun da markete gidip gitmediğini sorar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_045",
+      "speaker": "张伟",
+      "zh": "你是想让阿姨带路吧？",
+      "pinyin": "Nǐ shì xiǎng ràng ā yí dài lù ba?",
+      "tr": "Sanırım teyzenin yolu göstermesini istiyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_046",
+      "speaker": "刘梅",
+      "zh": "乐乐，阿姨可能还有自己的事。",
+      "pinyin": "Lè le, ā yí kě néng hái yǒu zì jǐ de shì.",
+      "tr": "Lele, teyzenin kendi işleri de olabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_047",
+      "speaker": "邻居",
+      "zh": "今天我往另一边走，不能陪你们了。",
+      "pinyin": "Jīn tiān wǒ wǎng lìng yī biān zǒu, bù néng péi nǐ men le.",
+      "tr": "Bugün diğer tarafa gidiyorum, size eşlik edemeyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_048",
+      "speaker": "张乐乐",
+      "zh": "没关系，您已经告诉我们了。",
+      "pinyin": "Méi guān xì, nín yǐ jīng gào sù wǒ men le.",
+      "tr": "Sorun değil, yolu zaten anlattınız.",
+      "emotion": "comforting",
+      "actionTr": "Komşunun eşlik edememesini sorun etmez."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_049",
+      "speaker": "张伟",
+      "zh": "您说得很清楚，剩下的我们自己来。",
+      "pinyin": "Nín shuō de hěn qīng chǔ, shèng xià de wǒ men zì jǐ lái.",
+      "tr": "Çok açık anlattınız, gerisini kendimiz hallederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_050",
+      "speaker": "刘梅",
+      "zh": "不过回家的路，也想确认一下。",
+      "pinyin": "Bù guò huí jiā de lù, yě xiǎng què rèn yī xià.",
+      "tr": "Yine de dönüş yolunu da bir kontrol etmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_051",
+      "speaker": "邻居",
+      "zh": "回来先往左边走，过马路，再往右边。",
+      "pinyin": "Huí lái xiān wǎng zuǒ biān zǒu, guò mǎ lù, zài wǎng yòu biān.",
+      "tr": "Dönüşte önce sola gidin, caddeyi geçin, sonra sağa dönün."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_052",
+      "speaker": "张乐乐",
+      "zh": "怎么又换了？刚才不是先右边吗？",
+      "pinyin": "Zěn me yòu huàn le? gāng cái bú shì xiān yòu biān ma?",
+      "tr": "Neden değişti? Az önce önce sağa dememiş miydiniz?",
+      "emotion": "curious",
+      "actionTr": "Dönüş yolunda yönlerin değişmesini anlamaya çalışır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_053",
+      "speaker": "张伟",
+      "zh": "因为我们回来时，看的方向不一样。",
+      "pinyin": "Yīn wèi wǒ men huí lái shí, kàn de fāng xiàng bù yí yàng.",
+      "tr": "Çünkü dönerken baktığımız yön farklı olacak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_054",
+      "speaker": "刘梅",
+      "zh": "你转过身试试看。",
+      "pinyin": "Nǐ zhuǎn guò shēn shì shì kàn.",
+      "tr": "Arkanı dönüp bir dene."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_055",
+      "speaker": "邻居",
+      "zh": "对，身体转过来，左右就跟着变了。",
+      "pinyin": "Duì, shēn tǐ zhuǎn guò lái, zuǒ yòu jiù gēn zhe biàn le.",
+      "tr": "Evet, dönünce sağın ve solun da yönü değişir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_056",
+      "speaker": "张乐乐",
+      "zh": "哦，大树还是大树，我换了一边！",
+      "pinyin": "Ó, dà shù hái shì dà shù, wǒ huàn le yī biān!",
+      "tr": "Aa, ağaç aynı ağaç, ben öbür tarafa geçiyorum!",
+      "emotion": "happy",
+      "actionTr": "Kendisinin yön değiştirdiğini fark eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_057",
+      "speaker": "张伟",
+      "zh": "这回说得明白了。",
+      "pinyin": "Zhè huí shuō de míng bái le.",
+      "tr": "Bu kez güzel anlattın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_058",
+      "speaker": "刘梅",
+      "zh": "走路时再看，可别一直转圈。",
+      "pinyin": "Zǒu lù shí zài kàn, kě bié yì zhí zhuàn quān.",
+      "tr": "Yürürken yine bakarız, sürekli kendi etrafında dönme."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_059",
+      "speaker": "邻居",
+      "zh": "小朋友这样想一想，很好。",
+      "pinyin": "Xiǎo péng yǒu zhè yàng xiǎng yī xiǎng, hěn hǎo.",
+      "tr": "Çocukların böyle düşünüp anlamaya çalışması çok güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_060",
+      "speaker": "张乐乐",
+      "zh": "我不转了，头有一点晕。",
+      "pinyin": "Wǒ bù zhuàn le, tóu yǒu yì diǎn yūn.",
+      "tr": "Artık dönmüyorum, başım biraz döndü.",
+      "emotion": "sad",
+      "actionTr": "Kendi etrafında dönünce hafif baş dönmesi yaşadığını söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_061",
+      "speaker": "张伟",
+      "zh": "站稳，先歇一会儿。",
+      "pinyin": "Zhàn wěn, xiān xiē yī huì er.",
+      "tr": "Sağlam dur, önce biraz dinlen.",
+      "emotion": "comforting",
+      "actionTr": "Çocuğuna durup dinlenmesini söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_062",
+      "speaker": "刘梅",
+      "zh": "来，拉着我的手。",
+      "pinyin": "Lái, lā zhe wǒ de shǒu.",
+      "tr": "Gel, elimi tut.",
+      "emotion": "comforting",
+      "actionTr": "Oğluna elini uzatır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_063",
+      "speaker": "邻居",
+      "zh": "超市旁边还有一家小商店。",
+      "pinyin": "Chāo shì páng biān hái yǒu yī jiā xiǎo shāng diàn.",
+      "tr": "Süpermarketin yanında küçük bir mağaza da var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_064",
+      "speaker": "张乐乐",
+      "zh": "我们到底去大的，还是小的？",
+      "pinyin": "Wǒ men dào dǐ qù dà de, hái shì xiǎo de?",
+      "tr": "Peki büyük olana mı gideceğiz, küçük olana mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_065",
+      "speaker": "张伟",
+      "zh": "今天要买好几样东西，先去超市。",
+      "pinyin": "Jīn tiān yào mǎi hǎo jǐ yàng dōng xi, xiān qù chāo shì.",
+      "tr": "Bugün birkaç çeşit şey alacağız, önce süpermarkete gidelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_066",
+      "speaker": "刘梅",
+      "zh": "小商店可以下次再看。",
+      "pinyin": "Xiǎo shāng diàn kě yǐ xià cì zài kàn.",
+      "tr": "Küçük mağazaya başka sefer bakabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_067",
+      "speaker": "邻居",
+      "zh": "这样也好，先把一条路走熟。",
+      "pinyin": "Zhè yàng yě hǎo, xiān bǎ yī tiáo lù zǒu shú.",
+      "tr": "Bu da iyi olur, önce bir yolu iyice öğrenin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_068",
+      "speaker": "张乐乐",
+      "zh": "那下次我可以给爸爸带路了。",
+      "pinyin": "Nà xià cì wǒ kě yǐ gěi bà ba dài lù le.",
+      "tr": "O zaman bir dahaki sefere babama ben yolu gösterebilirim.",
+      "emotion": "happy",
+      "actionTr": "Bir dahaki sefer yolu gösterebileceğine sevinir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_069",
+      "speaker": "张伟",
+      "zh": "可以，但今天爸爸先看着你。",
+      "pinyin": "Kě yǐ, dàn jīn tiān bà ba xiān kàn zhe nǐ.",
+      "tr": "Olur, ama bugün baban sana göz kulak olacak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_070",
+      "speaker": "刘梅",
+      "zh": "你记路，我记要买的东西。",
+      "pinyin": "Nǐ jì lù, wǒ jì yào mǎi de dōng xi.",
+      "tr": "Sen yolu aklında tut, ben alınacakları."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_071",
+      "speaker": "邻居",
+      "zh": "一家人一起记，就不容易忘了。",
+      "pinyin": "Yī jiā rén yì qǐ jì, jiù bù róng yì wàng le.",
+      "tr": "Ailece akılda tutunca unutmanız zorlaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_072",
+      "speaker": "张乐乐",
+      "zh": "我记得要买面包！",
+      "pinyin": "Wǒ jì de yào mǎi miàn bāo!",
+      "tr": "Ekmek alacağımızı hatırlıyorum!"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_073",
+      "speaker": "张伟",
+      "zh": "面包记得，刚才的路还记得吗？",
+      "pinyin": "Miàn bāo jì de, gāng cái de lù hái jì de ma?",
+      "tr": "Ekmeği hatırlıyorsun, az önceki yolu da hatırlıyor musun?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_074",
+      "speaker": "刘梅",
+      "zh": "让他自己说，我们先不帮忙。",
+      "pinyin": "Ràng tā zì jǐ shuō, wǒ men xiān bù bāng máng.",
+      "tr": "Kendisi söylesin, önce yardım etmeyelim.",
+      "emotion": "neutral",
+      "actionTr": "Oğluna kendi hatırlaması için süre verir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_075",
+      "speaker": "邻居",
+      "zh": "我也听听，看你有没有记错。",
+      "pinyin": "Wǒ yě tīng tīng, kàn nǐ yǒu méi yǒu jì cuò.",
+      "tr": "Ben de dinleyeyim, bir şeyi karıştırdın mı bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_076",
+      "speaker": "张乐乐",
+      "zh": "出门先右边，到路口再左边。",
+      "pinyin": "Chū mén xiān yòu biān, dào lù kǒu zài zuǒ biān.",
+      "tr": "Kapıdan çıkınca önce sağa, yol ayrımında sola."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_077",
+      "speaker": "张伟",
+      "zh": "然后呢？",
+      "pinyin": "Rán hòu ne?",
+      "tr": "Sonra?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_078",
+      "speaker": "刘梅",
+      "zh": "别催他，让他想一想。",
+      "pinyin": "Bié cuī tā, ràng tā xiǎng yī xiǎng.",
+      "tr": "Acele ettirme, biraz düşünsün."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_079",
+      "speaker": "邻居",
+      "zh": "前面有红绿灯，还要过一次马路。",
+      "pinyin": "Qián miàn yǒu hóng lǜ dēng, hái yào guò yī cì mǎ lù.",
+      "tr": "İleride trafik ışıkları var, caddeyi bir kez geçmeniz gerekiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_080",
+      "speaker": "张乐乐",
+      "zh": "过了马路再走一点，找右边的大树。",
+      "pinyin": "Guò le mǎ lù zài zǒu yì diǎn, zhǎo yòu biān de dà shù.",
+      "tr": "Caddeyi geçince biraz daha yürürüz, sağdaki büyük ağacı ararız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_081",
+      "speaker": "张伟",
+      "zh": "嗯，超市就在树旁边。",
+      "pinyin": "Èn, chāo shì jiù zài shù páng biān.",
+      "tr": "Evet, süpermarket ağacın yanında."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_082",
+      "speaker": "刘梅",
+      "zh": "这下我们有个小向导了。",
+      "pinyin": "Zhè xià wǒ men yǒu gè xiǎo xiàng dǎo le.",
+      "tr": "Artık küçük bir rehberimiz var.",
+      "emotion": "happy",
+      "actionTr": "Küçük rehber şakası yapar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_083",
+      "speaker": "邻居",
+      "zh": "记得很好，不过大人要一直陪着。",
+      "pinyin": "Jì de hěn hǎo, bù guò dà rén yào yì zhí péi zhe.",
+      "tr": "Çok iyi hatırladın, ama yanında mutlaka bir yetişkin olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_084",
+      "speaker": "张乐乐",
+      "zh": "我只带爸爸妈妈，不自己去。",
+      "pinyin": "Wǒ zhǐ dài bà ba mā ma, bù zì jǐ qù.",
+      "tr": "Yalnız annemle babama yol gösteririm, tek başıma gitmem.",
+      "emotion": "neutral",
+      "actionTr": "Tek başına gitmeyeceğini söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_085",
+      "speaker": "张伟",
+      "zh": "说好了，等会儿可别忘。",
+      "pinyin": "Shuō hǎo le, děng huì er kě bié wàng.",
+      "tr": "Anlaştık, birazdan unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_086",
+      "speaker": "刘梅",
+      "zh": "您今天出门也去买东西吗？",
+      "pinyin": "Nín jīn tiān chū mén yě qù mǎi dōng xi ma?",
+      "tr": "Siz de bugün bir şey almaya mı çıktınız?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_087",
+      "speaker": "邻居",
+      "zh": "不是，我去看看朋友。",
+      "pinyin": "Bú shì, wǒ qù kàn kàn péng yǒu.",
+      "tr": "Hayır, bir arkadaşıma ziyarete gidiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_088",
+      "speaker": "张乐乐",
+      "zh": "那我们不能让阿姨一直站着呀。",
+      "pinyin": "Nà wǒ men bù néng ràng ā yí yì zhí zhàn zhe ya.",
+      "tr": "O zaman teyzeyi sürekli burada bekletemeyiz.",
+      "emotion": "neutral",
+      "actionTr": "Komşuyu bekletmemeleri gerektiğini fark eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_089",
+      "speaker": "张伟",
+      "zh": "对，耽误您这么一会儿，真不好意思。",
+      "pinyin": "Duì, dān wù nín zhè me yī huì er, zhēn bù hǎo yì sī.",
+      "tr": "Doğru, sizi biraz oyaladık, kusura bakmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_090",
+      "speaker": "刘梅",
+      "zh": "谢谢您，昨天帮忙，今天又给我们指路。",
+      "pinyin": "Xiè xiè nín, zuó tiān bāng máng, jīn tiān yòu gěi wǒ men zhǐ lù.",
+      "tr": "Teşekkür ederiz, dün yardım ettiniz, bugün de yol gösterdiniz.",
+      "emotion": "happy",
+      "actionTr": "Komşusuna içtenlikle teşekkür eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_091",
+      "speaker": "邻居",
+      "zh": "邻居之间不用这么客气。",
+      "pinyin": "Lín jū zhī jiān bù yòng zhè me kè qì.",
+      "tr": "Komşular arasında bu kadar resmiyete gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_092",
+      "speaker": "张乐乐",
+      "zh": "等我们买好东西，再跟您说！",
+      "pinyin": "Děng wǒ men mǎi hǎo dōng xi, zài gēn nín shuō!",
+      "tr": "Alışverişi yapınca size de anlatırız!"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_093",
+      "speaker": "张伟",
+      "zh": "好，有什么不明白的，下次再问您。",
+      "pinyin": "Hǎo, yǒu shén me bù míng bái de, xià cì zài wèn nín.",
+      "tr": "Tamam, anlamadığımız bir şey olursa yine sorarız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_094",
+      "speaker": "刘梅",
+      "zh": "家门关好了，包也带了，可以走了。",
+      "pinyin": "Jiā mén guān hǎo le, bāo yě dài le, kě yǐ zǒu le.",
+      "tr": "Evin kapısı kapalı, çanta da yanımızda, gidebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_095",
+      "speaker": "邻居",
+      "zh": "记得慢慢走，祝你们买到想买的。",
+      "pinyin": "Jì de màn màn zǒu, zhù nǐ men mǎi dào xiǎng mǎi de.",
+      "tr": "Sakince yürüyün, umarım istediğiniz her şeyi bulursunuz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_096",
+      "speaker": "张乐乐",
+      "zh": "阿姨再见！我现在不跑。",
+      "pinyin": "Ā yí zài jiàn! wǒ xiàn zài bù pǎo.",
+      "tr": "Hoşça kal teyze! Şimdi koşmuyorum.",
+      "emotion": "happy",
+      "actionTr": "Koşmadığını vurgulayarak vedalaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_097",
+      "speaker": "张伟",
+      "zh": "再见，谢谢您的路，啊，是谢谢您指路！",
+      "pinyin": "Zài jiàn, xiè xiè nín de lù, a, shì xiè xiè nín zhǐ lù!",
+      "tr": "Hoşça kalın, yolunuz için teşekkürler… yani yol gösterdiğiniz için!",
+      "emotion": "happy",
+      "actionTr": "Dili sürçüp teşekkür sözünü kendisi düzeltir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_098",
+      "speaker": "刘梅",
+      "zh": "哈哈，你也被乐乐带着说错了。",
+      "pinyin": "Hā hā, nǐ yě bèi lè le dài zhe shuō cuò le.",
+      "tr": "Haha, sen de Lele'ye uyup dili sürçtürdün.",
+      "emotion": "happy",
+      "actionTr": "Eşinin dil sürçmesine gülümser."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_099",
+      "speaker": "邻居",
+      "zh": "没事，我听明白了，再见！",
+      "pinyin": "Méi shì, wǒ tīng míng bái le, zài jiàn!",
+      "tr": "Sorun değil, ne demek istediğinizi anladım, hoşça kalın!"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC016_100",
+      "speaker": "张乐乐",
+      "zh": "爸爸，右边是这边，我们走吧！",
+      "pinyin": "Bà ba, yòu biān shì zhè biān, wǒ men zǒu ba!",
+      "tr": "Baba, sağ taraf burası, hadi gidelim!",
+      "emotion": "happy",
+      "actionTr": "Doğru yönü göstererek yürümeye hazır olduğunu söyler."
+    }
+  ]
+}

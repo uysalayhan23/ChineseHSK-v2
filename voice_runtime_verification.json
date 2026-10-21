@@ -1,0 +1,611 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "warnings": [
+    "A saved global playback_speed overrides per-scene defaultSpeechSpeed after the user changes speed.",
+    "Scene speed UI offers fixed presets 0.75/0.85/1.0/1.15/1.25; SC001 default 0.80 is used only before a global user override is saved.",
+    "voice_cast_manifest levelOverrides (age/speed/pitch) are NOT consumed by the Android runtime TTS path; runtime character timbre/pitch stays profile-locked, while scene/global playback speed controls tempo."
+  ],
+  "notes": [
+    "Narrator playback is intentionally fixed at 0.90x in MainActivity."
+  ],
+  "counts": {
+    "characters": 83,
+    "voices": 84,
+    "voiceCastRows": 83,
+    "scenes": 300,
+    "dialogues": 30000,
+    "usedDialogueSpeakers": 82
+  },
+  "sceneCountByLevel": {
+    "HSK1": 50,
+    "HSK2": 50,
+    "HSK3": 50,
+    "HSK4": 50,
+    "HSK5": 50,
+    "HSK6": 50
+  },
+  "dialogueCountByLevel": {
+    "HSK1": 5000,
+    "HSK2": 5000,
+    "HSK3": 5000,
+    "HSK4": 5000,
+    "HSK5": 5000,
+    "HSK6": 5000
+  },
+  "speedSummary": {
+    "HSK1": {
+      "sceneCount": 50,
+      "min": 0.8,
+      "max": 0.8,
+      "average": 0.8,
+      "unique": [
+        0.8
+      ]
+    },
+    "HSK2": {
+      "sceneCount": 50,
+      "min": 0.85,
+      "max": 0.85,
+      "average": 0.85,
+      "unique": [
+        0.85
+      ]
+    },
+    "HSK3": {
+      "sceneCount": 50,
+      "min": 0.9,
+      "max": 0.9,
+      "average": 0.9,
+      "unique": [
+        0.9
+      ]
+    },
+    "HSK4": {
+      "sceneCount": 50,
+      "min": 0.95,
+      "max": 0.95,
+      "average": 0.95,
+      "unique": [
+        0.95
+      ]
+    },
+    "HSK5": {
+      "sceneCount": 50,
+      "min": 1.0,
+      "max": 1.0,
+      "average": 1.0,
+      "unique": [
+        1.0
+      ]
+    },
+    "HSK6": {
+      "sceneCount": 50,
+      "min": 1.0,
+      "max": 1.0,
+      "average": 1.0,
+      "unique": [
+        1.0
+      ]
+    }
+  },
+  "narratorProfiles": {
+    "NARRATOR_ZH_001": 300
+  },
+  "runtime": {
+    "directTextToSpeechImports": [
+      "MandarinTtsPlayer.kt"
+    ],
+    "directTextToSpeechConstructors": [
+      "MandarinTtsPlayer.kt"
+    ],
+    "mandarinTtsPlayerUsers": [
+      "AppFlowScreens.kt",
+      "DialogueAudioPlayer.kt",
+      "HabitScreens.kt",
+      "LearningScreens.kt",
+      "MandarinTtsPlayer.kt"
+    ],
+    "dialogueAudioPlayerUsers": [
+      "DialogueAudioPlayer.kt",
+      "MainActivity.kt",
+      "SystemCheckScreen.kt"
+    ],
+    "resolvedSpeakerProfileCount": 82,
+    "genericFallbackNeededForDialogueSpeakers": false
+  },
+  "speakerUsage": [
+    {
+      "speaker": "主持人",
+      "profileId": "VOICE_ZH_AUTO_B9D2559CCA",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "乘客",
+      "profileId": "VOICE_ZH_AUTO_60325A5147",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "亲家",
+      "profileId": "VOICE_ZH_AUTO_5D2E0E5561",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "伴侣",
+      "profileId": "VOICE_ZH_AUTO_204FDD1319",
+      "sceneCount": 13,
+      "dialogueCount": 325
+    },
+    {
+      "speaker": "供应商",
+      "profileId": "VOICE_ZH_AUTO_703C9EB0F0",
+      "sceneCount": 2,
+      "dialogueCount": 50
+    },
+    {
+      "speaker": "保安",
+      "profileId": "VOICE_ZH_AUTO_55C4E3624C",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "公司职员",
+      "profileId": "VOICE_ZH_AUTO_6245AEC2CC",
+      "sceneCount": 2,
+      "dialogueCount": 50
+    },
+    {
+      "speaker": "兽医",
+      "profileId": "VOICE_ZH_AUTO_32153CE544",
+      "sceneCount": 2,
+      "dialogueCount": 50
+    },
+    {
+      "speaker": "刘梅",
+      "profileId": "VOICE_ZH_LIUMEI_001",
+      "sceneCount": 278,
+      "dialogueCount": 7137
+    },
+    {
+      "speaker": "创业者",
+      "profileId": "VOICE_ZH_AUTO_9A8BAC8F22",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "助理",
+      "profileId": "VOICE_ZH_AUTO_F923F777D5",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "医生",
+      "profileId": "VOICE_ZH_AUTO_552CAEB5BD",
+      "sceneCount": 6,
+      "dialogueCount": 150
+    },
+    {
+      "speaker": "司机",
+      "profileId": "VOICE_ZH_AUTO_BFB3F16221",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "同事",
+      "profileId": "VOICE_ZH_AUTO_92D8D1A505",
+      "sceneCount": 25,
+      "dialogueCount": 715
+    },
+    {
+      "speaker": "同事乙",
+      "profileId": "VOICE_ZH_AUTO_1AAE7AB33E",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "同事甲",
+      "profileId": "VOICE_ZH_AUTO_B1D840EFB8",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "同学",
+      "profileId": "VOICE_ZH_AUTO_C560C19C26",
+      "sceneCount": 14,
+      "dialogueCount": 441
+    },
+    {
+      "speaker": "员工",
+      "profileId": "VOICE_ZH_AUTO_9834F85DE5",
+      "sceneCount": 19,
+      "dialogueCount": 475
+    },
+    {
+      "speaker": "售货员",
+      "profileId": "VOICE_ZH_AUTO_F127A03273",
+      "sceneCount": 1,
+      "dialogueCount": 20
+    },
+    {
+      "speaker": "商户",
+      "profileId": "VOICE_ZH_AUTO_6C4DDE3347",
+      "sceneCount": 3,
+      "dialogueCount": 75
+    },
+    {
+      "speaker": "图书管理员",
+      "profileId": "VOICE_ZH_AUTO_2046426951",
+      "sceneCount": 1,
+      "dialogueCount": 33
+    },
+    {
+      "speaker": "场地方经理",
+      "profileId": "VOICE_ZH_AUTO_805A55CD62",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "奶奶",
+      "profileId": "VOICE_ZH_AUTO_FE4C23D628",
+      "sceneCount": 32,
+      "dialogueCount": 800
+    },
+    {
+      "speaker": "好朋友",
+      "profileId": "VOICE_ZH_AUTO_2F40887367",
+      "sceneCount": 1,
+      "dialogueCount": 33
+    },
+    {
+      "speaker": "孙辈",
+      "profileId": "VOICE_ZH_AUTO_6364EB7B27",
+      "sceneCount": 2,
+      "dialogueCount": 50
+    },
+    {
+      "speaker": "客户",
+      "profileId": "VOICE_ZH_AUTO_F206870601",
+      "sceneCount": 5,
+      "dialogueCount": 125
+    },
+    {
+      "speaker": "家人",
+      "profileId": "VOICE_ZH_AUTO_A12728F620",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "宾客",
+      "profileId": "VOICE_ZH_AUTO_C65F4144AC",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "导师",
+      "profileId": "VOICE_ZH_AUTO_98DE5A1BF7",
+      "sceneCount": 2,
+      "dialogueCount": 50
+    },
+    {
+      "speaker": "导游",
+      "profileId": "VOICE_ZH_AUTO_81D1C7560E",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "小朋友",
+      "profileId": "VOICE_ZH_AUTO_2CC2746FBA",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "居民",
+      "profileId": "VOICE_ZH_AUTO_428ACC9B88",
+      "sceneCount": 2,
+      "dialogueCount": 50
+    },
+    {
+      "speaker": "工作人员",
+      "profileId": "VOICE_ZH_AUTO_7F81595D7E",
+      "sceneCount": 12,
+      "dialogueCount": 316
+    },
+    {
+      "speaker": "年轻人",
+      "profileId": "VOICE_ZH_AUTO_EC18B850D1",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "年轻创业者",
+      "profileId": "VOICE_ZH_AUTO_B1AFF4F424",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "年轻顾客",
+      "profileId": "VOICE_ZH_AUTO_76CC8FCDB2",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "店员",
+      "profileId": "VOICE_ZH_AUTO_93243940EA",
+      "sceneCount": 6,
+      "dialogueCount": 158
+    },
+    {
+      "speaker": "张乐乐",
+      "profileId": "VOICE_ZH_ZHANGLELE_001",
+      "sceneCount": 94,
+      "dialogueCount": 2384
+    },
+    {
+      "speaker": "张伟",
+      "profileId": "VOICE_ZH_ZHANGWEI_001",
+      "sceneCount": 264,
+      "dialogueCount": 6790
+    },
+    {
+      "speaker": "张雨桐",
+      "profileId": "VOICE_ZH_ZHANGYUTONG_001",
+      "sceneCount": 131,
+      "dialogueCount": 3326
+    },
+    {
+      "speaker": "张雨桐伴侣",
+      "profileId": "VOICE_ZH_AUTO_36BF8C76DE",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "律师",
+      "profileId": "VOICE_ZH_AUTO_786C0074D2",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "志愿者",
+      "profileId": "VOICE_ZH_AUTO_9777C45086",
+      "sceneCount": 5,
+      "dialogueCount": 125
+    },
+    {
+      "speaker": "快递员",
+      "profileId": "VOICE_ZH_AUTO_E2C47D41FC",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "技术志愿者",
+      "profileId": "VOICE_ZH_AUTO_1A5C6636B5",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "护士",
+      "profileId": "VOICE_ZH_AUTO_13F3FBF554",
+      "sceneCount": 4,
+      "dialogueCount": 100
+    },
+    {
+      "speaker": "招聘者",
+      "profileId": "VOICE_ZH_AUTO_F7415783A6",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "摊主",
+      "profileId": "VOICE_ZH_AUTO_4E05F85519",
+      "sceneCount": 1,
+      "dialogueCount": 33
+    },
+    {
+      "speaker": "收银员",
+      "profileId": "VOICE_ZH_AUTO_1DB2CF7215",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "新同事",
+      "profileId": "VOICE_ZH_AUTO_12B398FE17",
+      "sceneCount": 2,
+      "dialogueCount": 66
+    },
+    {
+      "speaker": "新同学",
+      "profileId": "VOICE_ZH_AUTO_F01E3EA28A",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "新员工",
+      "profileId": "VOICE_ZH_AUTO_FB6560225D",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "新朋友",
+      "profileId": "VOICE_ZH_AUTO_09FE351CF0",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "旁白",
+      "profileId": "VOICE_ZH_AUTO_ED1D855FC5",
+      "sceneCount": 3,
+      "dialogueCount": 75
+    },
+    {
+      "speaker": "朋友",
+      "profileId": "VOICE_ZH_AUTO_D490B5FD60",
+      "sceneCount": 5,
+      "dialogueCount": 125
+    },
+    {
+      "speaker": "服务员",
+      "profileId": "VOICE_ZH_AUTO_C31ABCCBF3",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "李晨",
+      "profileId": "VOICE_ZH_LICHEN_001",
+      "sceneCount": 35,
+      "dialogueCount": 899
+    },
+    {
+      "speaker": "李晨妻子",
+      "profileId": "VOICE_ZH_AUTO_78E3EA6550",
+      "sceneCount": 5,
+      "dialogueCount": 125
+    },
+    {
+      "speaker": "爷爷",
+      "profileId": "VOICE_ZH_AUTO_BF795B2847",
+      "sceneCount": 25,
+      "dialogueCount": 625
+    },
+    {
+      "speaker": "王师傅",
+      "profileId": "VOICE_ZH_AUTO_7618DACBB7",
+      "sceneCount": 1,
+      "dialogueCount": 20
+    },
+    {
+      "speaker": "环保小组成员",
+      "profileId": "VOICE_ZH_AUTO_A5DF8F3581",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "理发师",
+      "profileId": "VOICE_ZH_AUTO_78DD9DEA73",
+      "sceneCount": 1,
+      "dialogueCount": 33
+    },
+    {
+      "speaker": "理财顾问",
+      "profileId": "VOICE_ZH_AUTO_3997F4C8CB",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "社区代表",
+      "profileId": "VOICE_ZH_AUTO_F5F1EF38B5",
+      "sceneCount": 3,
+      "dialogueCount": 75
+    },
+    {
+      "speaker": "社区居民",
+      "profileId": "VOICE_ZH_AUTO_A14058D70B",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "社区工作人员",
+      "profileId": "VOICE_ZH_AUTO_506A555294",
+      "sceneCount": 3,
+      "dialogueCount": 75
+    },
+    {
+      "speaker": "社区负责人",
+      "profileId": "VOICE_ZH_AUTO_9589C7E8D7",
+      "sceneCount": 3,
+      "dialogueCount": 75
+    },
+    {
+      "speaker": "经理",
+      "profileId": "VOICE_ZH_AUTO_5B35265D3B",
+      "sceneCount": 27,
+      "dialogueCount": 699
+    },
+    {
+      "speaker": "老师",
+      "profileId": "VOICE_ZH_AUTO_494F23D624",
+      "sceneCount": 26,
+      "dialogueCount": 666
+    },
+    {
+      "speaker": "老顾客",
+      "profileId": "VOICE_ZH_AUTO_F03D7150DE",
+      "sceneCount": 3,
+      "dialogueCount": 75
+    },
+    {
+      "speaker": "表演者",
+      "profileId": "VOICE_ZH_AUTO_3565841434",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "记者",
+      "profileId": "VOICE_ZH_AUTO_746068397C",
+      "sceneCount": 2,
+      "dialogueCount": 50
+    },
+    {
+      "speaker": "路人",
+      "profileId": "VOICE_ZH_AUTO_3936DA578D",
+      "sceneCount": 1,
+      "dialogueCount": 33
+    },
+    {
+      "speaker": "邮局工作人员",
+      "profileId": "VOICE_ZH_AUTO_B34606F759",
+      "sceneCount": 1,
+      "dialogueCount": 33
+    },
+    {
+      "speaker": "邻居",
+      "profileId": "VOICE_ZH_AUTO_E985EDCD56",
+      "sceneCount": 10,
+      "dialogueCount": 282
+    },
+    {
+      "speaker": "酒店工作人员",
+      "profileId": "VOICE_ZH_AUTO_EA7324E618",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "银行工作人员",
+      "profileId": "VOICE_ZH_AUTO_187B0C5C47",
+      "sceneCount": 1,
+      "dialogueCount": 33
+    },
+    {
+      "speaker": "队友",
+      "profileId": "VOICE_ZH_AUTO_1714E8E2E7",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "青年志愿者",
+      "profileId": "VOICE_ZH_AUTO_BB1B142996",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "面试官",
+      "profileId": "VOICE_ZH_AUTO_73DE665A67",
+      "sceneCount": 2,
+      "dialogueCount": 50
+    },
+    {
+      "speaker": "项目成员",
+      "profileId": "VOICE_ZH_AUTO_E8DC56F318",
+      "sceneCount": 1,
+      "dialogueCount": 25
+    },
+    {
+      "speaker": "顾客",
+      "profileId": "VOICE_ZH_AUTO_CD31FEBA04",
+      "sceneCount": 46,
+      "dialogueCount": 1150
+    }
+  ]
+}

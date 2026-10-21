@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC016",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC016.json",
-  "dialogueSha256": "9dc8f2c4b93d4aedc27ee7a2d32813347ff5eb3a51de63e52383d90670ef541d",
+  "dialogueSha256": "19006a7616addb1aca7ec5aaae2e4581bd8e290a17773ed2afd89311941c8a1e",
   "titleZh": "最后一天上班",
   "titleTr": "Son Çalışma Günü",
   "locationId": "LOC_ZH_RETIREMENT_EVENT_001",

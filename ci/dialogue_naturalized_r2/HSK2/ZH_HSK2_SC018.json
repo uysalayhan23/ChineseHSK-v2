@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 45,
+  "status": "FINAL_NATIVE_RELEASE_CANDIDATE_V45",
+  "sceneId": "ZH_HSK2_SC018",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC018_001",
+      "speaker": "张雨桐",
+      "zh": "我丢了包，可能忘在公交车上了。",
+      "pinyin": "wǒ diū le bāo ， kě néng wàng zài gōng jiāo chē shàng le 。",
+      "tr": "Çantamı kaybettim, galiba otobüste unuttum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_002",
+      "speaker": "刘梅",
+      "zh": "你下车的时候才发现吗？",
+      "pinyin": "nǐ xià chē de shí hòu cái fā xiàn ma ？",
+      "tr": "Otobüsten inerken mi fark ettin?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_003",
+      "speaker": "工作人员",
+      "zh": "先别着急，我可以帮你查。",
+      "pinyin": "xiān bié zháo jí ， wǒ kě yǐ bāng nǐ chá 。",
+      "tr": "Önce sakin ol, araştırmana yardım edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_004",
+      "speaker": "张雨桐",
+      "zh": "对，车开走以后我才想起来。",
+      "pinyin": "duì ， chē kāi zǒu yǐ hòu wǒ cái xiǎng qǐ lái 。",
+      "tr": "Evet, otobüs gittikten sonra aklıma geldi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_005",
+      "speaker": "刘梅",
+      "zh": "你还记得坐的是几路车吗？",
+      "pinyin": "nǐ hái jì de zuò de shì jǐ lù chē ma ？",
+      "tr": "Hangi numaralı otobüse bindiğini hatırlıyor musun?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_006",
+      "speaker": "工作人员",
+      "zh": "是十八路，从学校门口上的车。",
+      "pinyin": "shì shí bā lù ， cóng xué xiào mén kǒu shàng de chē 。",
+      "tr": "On sekiz numara; okulun önünden bindim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_007",
+      "speaker": "张雨桐",
+      "zh": "那你大概几点上车？",
+      "pinyin": "nà nǐ dà gài jǐ diǎn shàng chē ？",
+      "tr": "Yaklaşık kaçta bindin?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_008",
+      "speaker": "刘梅",
+      "zh": "差不多三点半，坐了五站。",
+      "pinyin": "chà bu duō sān diǎn bàn ， zuò le wǔ zhàn 。",
+      "tr": "Üç buçuk gibi; beş durak gittim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_009",
+      "speaker": "工作人员",
+      "zh": "我先按这些信息查一下。",
+      "pinyin": "wǒ xiān àn zhè xiē xìn xī chá yī xià 。",
+      "tr": "Önce bu bilgilere göre kontrol edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_010",
+      "speaker": "张雨桐",
+      "zh": "你是在哪里下车的？",
+      "pinyin": "nǐ shì zài nǎ lǐ xià chē de ？",
+      "tr": "Nerede indin?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_011",
+      "speaker": "刘梅",
+      "zh": "在文化路那一站。",
+      "pinyin": "zài wén huà lù nà yī zhàn 。",
+      "tr": "Wenhua Yolu durağında."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_012",
+      "speaker": "工作人员",
+      "zh": "那辆车现在已经到终点站了。",
+      "pinyin": "nà liàng chē xiàn zài yǐ jīng dào zhōng diǎn zhàn le 。",
+      "tr": "O otobüs şimdi son durağa ulaşmıştır."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_013",
+      "speaker": "张雨桐",
+      "zh": "包是什么颜色的？",
+      "pinyin": "bāo shì shén me yán sè de ？",
+      "tr": "Çanta ne renkti?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_014",
+      "speaker": "刘梅",
+      "zh": "深蓝色的，肩带上有个小兔子。",
+      "pinyin": "shēn lán sè de ， jiān dài shàng yǒu gè xiǎo tù zi 。",
+      "tr": "Koyu maviydi; askısında küçük bir tavşan var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_015",
+      "speaker": "工作人员",
+      "zh": "我把颜色和样子记下来。",
+      "pinyin": "wǒ bǎ yán sè hé yàng zi jì xià lái 。",
+      "tr": "Rengini ve görünüşünü not ediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_016",
+      "speaker": "张雨桐",
+      "zh": "里面有什么重要的东西？",
+      "pinyin": "lǐ miàn yǒu shén me zhòng yào de dōng xī ？",
+      "tr": "İçinde önemli neler var?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_017",
+      "speaker": "刘梅",
+      "zh": "里面有课本、钥匙，还有水杯。",
+      "pinyin": "lǐ miàn yǒu kè běn 、 yào shi ， hái yǒu shuǐ bēi 。",
+      "tr": "İçinde ders kitabım, anahtarım ve su şişem var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_018",
+      "speaker": "工作人员",
+      "zh": "有没有证件或手机？",
+      "pinyin": "yǒu méi yǒu zhèng jiàn huò shǒu jī ？",
+      "tr": "Kimlik veya telefon da var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_019",
+      "speaker": "张雨桐",
+      "zh": "手机和证件都在我身上。",
+      "pinyin": "shǒu jī hé zhèng jiàn dōu zài wǒ shēn shàng 。",
+      "tr": "Telefonumla kimliğim yanımda."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_020",
+      "speaker": "刘梅",
+      "zh": "那太好了，钥匙还能开家门吗？",
+      "pinyin": "nà tài hǎo le ， yào shi hái néng kāi jiā mén ma ？",
+      "tr": "Güzel; anahtarınla eve girebilecek misin?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_021",
+      "speaker": "工作人员",
+      "zh": "我们会先联系司机。",
+      "pinyin": "wǒ men huì xiān lián xì sī jī 。",
+      "tr": "Önce şoförle iletişime geçelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_022",
+      "speaker": "张雨桐",
+      "zh": "我怕包被别人拿走。",
+      "pinyin": "wǒ pà bāo bèi bié rén ná zǒu 。",
+      "tr": "Birinin çantayı almış olmasından korkuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_023",
+      "speaker": "刘梅",
+      "zh": "别担心，车上找到的东西会先交过来。",
+      "pinyin": "bié dān xīn ， chē shàng zhǎo dào de dōng xī huì xiān jiāo guò lái 。",
+      "tr": "Merak etme; otobüste bulunan eşyalar önce buraya getirilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_024",
+      "speaker": "工作人员",
+      "zh": "我们登记后会核对物品。",
+      "pinyin": "wǒ men dēng jì hòu huì hé duì wù pǐn 。",
+      "tr": "Kaydı açtıktan sonra eşyaları kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_025",
+      "speaker": "张雨桐",
+      "zh": "我来说明一下包的样子。",
+      "pinyin": "wǒ lái shuō míng yī xià bāo de yàng zi 。",
+      "tr": "Çantanın nasıl olduğunu tarif edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_026",
+      "speaker": "刘梅",
+      "zh": "好，除了兔子图案还有什么？",
+      "pinyin": "hǎo ， chú le tù zi tú àn hái yǒu shén me ？",
+      "tr": "Olur. Tavşan deseninden başka ne var?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_027",
+      "speaker": "工作人员",
+      "zh": "肩带是灰色的，包上有白色名字牌。",
+      "pinyin": "jiān dài shì huī sè de ， bāo shàng yǒu bái sè míng zì pái 。",
+      "tr": "Askısı gri, üzerinde beyaz bir isim etiketi var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_028",
+      "speaker": "张雨桐",
+      "zh": "名字牌上写着什么？",
+      "pinyin": "míng zì pái shàng xiě zhe shén me ？",
+      "tr": "İsim etiketinde ne yazıyor?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_029",
+      "speaker": "刘梅",
+      "zh": "上面写着张雨桐，还有电话号码。",
+      "pinyin": "shàng miàn xiě zhe zhāng yǔ tóng ， hái yǒu diàn huà hào mǎ 。",
+      "tr": "Üzerinde Zhang Yutong ve bir telefon numarası yazıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_030",
+      "speaker": "工作人员",
+      "zh": "我找到一条相似的记录。",
+      "pinyin": "wǒ zhǎo dào yī tiáo xiāng sì de jì lù 。",
+      "tr": "Benzer bir kayıt buldum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_031",
+      "speaker": "张雨桐",
+      "zh": "真的吗？那是我的包吗？",
+      "pinyin": "zhēn de ma ？ nà shì wǒ de bāo ma ？",
+      "tr": "Gerçekten mi? O benim çantam mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_032",
+      "speaker": "刘梅",
+      "zh": "先核对一下里面的书名吧。",
+      "pinyin": "xiān hé duì yī xià lǐ miàn de shū míng ba 。",
+      "tr": "Önce içindeki kitabın adını kontrol edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_033",
+      "speaker": "工作人员",
+      "zh": "记录里写着一本蓝色封面的课本。",
+      "pinyin": "jì lù lǐ xiě zhe yī běn lán sè fēng miàn de kè běn 。",
+      "tr": "Kayıtta mavi kapaklı bir ders kitabı yazıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_034",
+      "speaker": "张雨桐",
+      "zh": "我的课本是绿色封面。",
+      "pinyin": "wǒ de kè běn shì lǜ sè fēng miàn 。",
+      "tr": "Benim ders kitabımın kapağı yeşil."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_035",
+      "speaker": "刘梅",
+      "zh": "那可能不是同一个包。",
+      "pinyin": "nà kě néng bú shì tóng yī gè bāo 。",
+      "tr": "O zaman aynı çanta olmayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_036",
+      "speaker": "工作人员",
+      "zh": "我再问问司机，先不要着急。",
+      "pinyin": "wǒ zài wèn wèn sī jī ， xiān bú yào zháo jí 。",
+      "tr": "Şoföre bir daha sorayım; şimdilik telaşlanmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_037",
+      "speaker": "张雨桐",
+      "zh": "我还带了一把黄色雨伞。",
+      "pinyin": "wǒ hái dài le yī bǎ huáng sè yǔ sǎn 。",
+      "tr": "Yanımda sarı bir şemsiye de vardı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_038",
+      "speaker": "刘梅",
+      "zh": "对，伞放在包里面。",
+      "pinyin": "duì ， sǎn fàng zài bāo lǐ miàn 。",
+      "tr": "Evet, şemsiye çantanın içindeydi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_039",
+      "speaker": "工作人员",
+      "zh": "司机说他看到过一把伞。",
+      "pinyin": "sī jī shuō tā kàn dào guò yī bǎ sǎn 。",
+      "tr": "Şoför bir şemsiye gördüğünü söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_040",
+      "speaker": "张雨桐",
+      "zh": "雨伞旁边有水杯吗？",
+      "pinyin": "yǔ sǎn páng biān yǒu shuǐ bēi ma ？",
+      "tr": "Şemsiyenin yanında su şişesi var mıydı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_041",
+      "speaker": "刘梅",
+      "zh": "杯子是白色的，上面有小花。",
+      "pinyin": "bēi zi shì bái sè de ， shàng miàn yǒu xiǎo huā 。",
+      "tr": "Şişe beyaz ve üzerinde küçük çiçekler var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_042",
+      "speaker": "工作人员",
+      "zh": "我记下了这两个特征。",
+      "pinyin": "wǒ jì xià le zhè liǎng gè tè zhēng 。",
+      "tr": "Bu iki özelliği not ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_043",
+      "speaker": "张雨桐",
+      "zh": "包里还有一张借书卡。",
+      "pinyin": "bāo lǐ hái yǒu yī zhāng jiè shū kǎ 。",
+      "tr": "Çantada bir kütüphane kartı da var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_044",
+      "speaker": "刘梅",
+      "zh": "卡上有你的名字吗？",
+      "pinyin": "kǎ shàng yǒu nǐ de míng zì ma ？",
+      "tr": "Kartta adın yazıyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_045",
+      "speaker": "工作人员",
+      "zh": "司机正把包送到失物招领处。",
+      "pinyin": "sī jī zhèng bǎ bāo sòng dào shī wù zhāo lǐng chù 。",
+      "tr": "Şoför çantayı kayıp eşya bürosuna getiriyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_046",
+      "speaker": "张雨桐",
+      "zh": "那我们在这里等一会儿。",
+      "pinyin": "nà wǒ men zài zhè lǐ děng yī huì er 。",
+      "tr": "O zaman biraz burada bekleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_047",
+      "speaker": "刘梅",
+      "zh": "好，我给爸爸发个消息。",
+      "pinyin": "hǎo ， wǒ gěi bà bà fā gè xiāo xī 。",
+      "tr": "Tamam, babama mesaj atayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_048",
+      "speaker": "工作人员",
+      "zh": "请问这就是张女士的包吗？",
+      "pinyin": "qǐng wèn zhè jiù shì zhāng nǚ shì de bāo ma ？",
+      "tr": "Bu çanta Bayan Zhang’ın mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_049",
+      "speaker": "张雨桐",
+      "zh": "是深蓝色的吗？",
+      "pinyin": "shì shēn lán sè de ma ？",
+      "tr": "Koyu mavi mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_050",
+      "speaker": "刘梅",
+      "zh": "是的，肩带上有只小兔子。",
+      "pinyin": "shì de ， jiān dài shàng yǒu zhǐ xiǎo tù zi 。",
+      "tr": "Evet, askısında küçük bir tavşan var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_051",
+      "speaker": "工作人员",
+      "zh": "里面东西还没核对，请您确认。",
+      "pinyin": "lǐ miàn dōng xī hái méi hé duì ， qǐng nín què rèn 。",
+      "tr": "İçindekileri henüz karşılaştırmadık; lütfen siz doğrulayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_052",
+      "speaker": "张雨桐",
+      "zh": "有绿色课本和白色水杯吗？",
+      "pinyin": "yǒu lǜ sè kè běn hé bái sè shuǐ bēi ma ？",
+      "tr": "Yeşil kapaklı ders kitabı ve beyaz şişe var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_053",
+      "speaker": "刘梅",
+      "zh": "我看看，里面有一本绿色的书。",
+      "pinyin": "wǒ kàn kàn ， lǐ miàn yǒu yī běn lǜ sè de shū 。",
+      "tr": "Bakayım; içinde yeşil bir kitap var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_054",
+      "speaker": "工作人员",
+      "zh": "还有一把黄色的雨伞。",
+      "pinyin": "hái yǒu yī bǎ huáng sè de yǔ sǎn 。",
+      "tr": "Bir de sarı şemsiye var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_055",
+      "speaker": "张雨桐",
+      "zh": "对，就是我的！",
+      "pinyin": "duì ， jiù shì wǒ de ！",
+      "tr": "Evet, benim çantam!"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_056",
+      "speaker": "刘梅",
+      "zh": "借书卡和钥匙也都在。",
+      "pinyin": "jiè shū kǎ hé yào shi yě dōu zài 。",
+      "tr": "Kütüphane kartı ve anahtar da burada."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_057",
+      "speaker": "工作人员",
+      "zh": "请再确认一下名字和电话号码。",
+      "pinyin": "qǐng zài què rèn yī xià míng zì hé diàn huà hào mǎ 。",
+      "tr": "Adı ve telefon numarasını da lütfen doğrulayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_058",
+      "speaker": "张雨桐",
+      "zh": "名字是张雨桐，电话是我的。",
+      "pinyin": "míng zì shì zhāng yǔ tóng ， diàn huà shì wǒ de 。",
+      "tr": "Adım Zhang Yutong, telefon numarası da benim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_059",
+      "speaker": "刘梅",
+      "zh": "太好了，终于找到了。",
+      "pinyin": "tài hǎo le ， zhōng yú zhǎo dào le 。",
+      "tr": "Harika, sonunda bulundu."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_060",
+      "speaker": "工作人员",
+      "zh": "登记一下领取时间就可以了。",
+      "pinyin": "dēng jì yī xià lǐng qǔ shí jiān jiù kě yǐ le 。",
+      "tr": "Teslim alma saatini kaydetmeniz yeterli."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_061",
+      "speaker": "张雨桐",
+      "zh": "谢谢你们帮我找包。",
+      "pinyin": "xiè xiè nǐ men bāng wǒ zhǎo bāo 。",
+      "tr": "Çantamı bulmama yardım ettiğiniz için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_062",
+      "speaker": "刘梅",
+      "zh": "真的谢谢，麻烦你们了。",
+      "pinyin": "zhēn de xiè xiè ， má fán nǐ men le 。",
+      "tr": "Gerçekten sağ olun, sizi uğraştırdım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_063",
+      "speaker": "工作人员",
+      "zh": "这是我们应该做的。",
+      "pinyin": "zhè shì wǒ men yīng gāi zuò de 。",
+      "tr": "Görevimiz bu."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_064",
+      "speaker": "张雨桐",
+      "zh": "我以后下车前会检查座位。",
+      "pinyin": "wǒ yǐ hòu xià chē qián huì jiǎn chá zuò wèi 。",
+      "tr": "Bundan sonra inmeden önce koltuğu kontrol edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_065",
+      "speaker": "刘梅",
+      "zh": "我也提醒你，别把东西落下。",
+      "pinyin": "wǒ yě tí xǐng nǐ ， bié bǎ dōng xī là xià 。",
+      "tr": "Ben de sana eşyalarını unutmamanı hatırlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_066",
+      "speaker": "工作人员",
+      "zh": "车上广播也会提醒乘客。",
+      "pinyin": "chē shàng guǎng bō yě huì tí xǐng chéng kè 。",
+      "tr": "Otobüsteki anons da yolculara hatırlatma yapıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_067",
+      "speaker": "张雨桐",
+      "zh": "要是再丢东西怎么办？",
+      "pinyin": "yào shì zài diū dōng xī zěn me bàn ？",
+      "tr": "Yine bir şey kaybedersem ne yapayım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_068",
+      "speaker": "刘梅",
+      "zh": "先记住车号和下车地点。",
+      "pinyin": "xiān jì zhù chē hào hé xià chē dì diǎn 。",
+      "tr": "Önce otobüs numarasını ve indiğin durağı hatırla."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_069",
+      "speaker": "工作人员",
+      "zh": "也可以马上到失物招领处说明。",
+      "pinyin": "yě kě yǐ mǎ shàng dào shī wù zhāo lǐng chù shuō míng 。",
+      "tr": "Hemen kayıp eşya bürosuna gelip durumu anlatabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_070",
+      "speaker": "张雨桐",
+      "zh": "今天我记住了这个地方。",
+      "pinyin": "jīn tiān wǒ jì zhù le zhè ge dì fāng 。",
+      "tr": "Bugün buranın yerini öğrendim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_071",
+      "speaker": "刘梅",
+      "zh": "下次我会陪你一起来。",
+      "pinyin": "xià cì wǒ huì péi nǐ yì qǐ lái 。",
+      "tr": "Bir dahaki sefere sana eşlik ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_072",
+      "speaker": "工作人员",
+      "zh": "遗失物品最好早点来登记。",
+      "pinyin": "yí shī wù pǐn zuì hǎo zǎo diǎn lái dēng jì 。",
+      "tr": "Kaybolan eşyayı olabildiğince erken kaydetmek iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_073",
+      "speaker": "张雨桐",
+      "zh": "找到包以后心里轻松多了。",
+      "pinyin": "zhǎo dào bāo yǐ hòu xīn lǐ qīng sōng duō le 。",
+      "tr": "Çantayı bulunca içim rahatladı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_074",
+      "speaker": "刘梅",
+      "zh": "刚才你一路都很担心。",
+      "pinyin": "gāng cái nǐ yī lù dōu hěn dān xīn 。",
+      "tr": "Az önce yol boyunca çok endişelendin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_075",
+      "speaker": "工作人员",
+      "zh": "重要物品都在，您可以放心了。",
+      "pinyin": "zhòng yào wù pǐn dōu zài ， nín kě yǐ fàng xīn le 。",
+      "tr": "Önemli eşyalarınızın hepsi burada; içiniz rahat olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_076",
+      "speaker": "张雨桐",
+      "zh": "我现在可以把包带走吗？",
+      "pinyin": "wǒ xiàn zài kě yǐ bǎ bāo dài zǒu ma ？",
+      "tr": "Çantayı şimdi alabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_077",
+      "speaker": "刘梅",
+      "zh": "当然，麻烦你签一下名字。",
+      "pinyin": "dāng rán ， má fán nǐ qiān yī xià míng zì 。",
+      "tr": "Elbette, lütfen adınızı imzalayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_078",
+      "speaker": "工作人员",
+      "zh": "请检查拉链和肩带有没有问题。",
+      "pinyin": "qǐng jiǎn chá lā liàn hé jiān dài yǒu méi yǒu wèn tí 。",
+      "tr": "Fermuarı ve askıyı kontrol edin, bir sorun var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_079",
+      "speaker": "张雨桐",
+      "zh": "都好，拉链也没坏。",
+      "pinyin": "dōu hǎo ， lā liàn yě méi huài 。",
+      "tr": "Her şey yolunda, fermuar da sağlam."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_080",
+      "speaker": "刘梅",
+      "zh": "书和钥匙都在里面。",
+      "pinyin": "shū hé yào shi dōu zài lǐ miàn 。",
+      "tr": "Kitapla anahtar da içinde."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_081",
+      "speaker": "工作人员",
+      "zh": "好的，我把记录改成已领取。",
+      "pinyin": "hǎo de ， wǒ bǎ jì lù gǎi chéng yǐ lǐng qǔ 。",
+      "tr": "Peki, kaydı teslim edildi olarak güncelliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_082",
+      "speaker": "张雨桐",
+      "zh": "我还得赶回家做饭。",
+      "pinyin": "wǒ hái dé gǎn huí jiā zuò fàn 。",
+      "tr": "Eve dönüp yemek yapmam gerekiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_083",
+      "speaker": "刘梅",
+      "zh": "先去买菜吧，还来得及。",
+      "pinyin": "xiān qù mǎi cài ba ， hái lái de jí 。",
+      "tr": "Önce alışveriş yapalım, hâlâ vaktimiz var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_084",
+      "speaker": "工作人员",
+      "zh": "外面下雨了，路上小心。",
+      "pinyin": "wài miàn xià yǔ le ， lù shàng xiǎo xīn 。",
+      "tr": "Dışarıda yağmur yağıyor, dikkatli olun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_085",
+      "speaker": "张雨桐",
+      "zh": "幸好雨伞也找回来了。",
+      "pinyin": "xìng hǎo yǔ sǎn yě zhǎo huí lái le 。",
+      "tr": "İyi ki şemsiyem de bulundu."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_086",
+      "speaker": "刘梅",
+      "zh": "不然回去会淋湿。",
+      "pinyin": "bù rán huí qù huì lín shī 。",
+      "tr": "Yoksa eve kadar ıslanırdık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_087",
+      "speaker": "工作人员",
+      "zh": "如果有问题，可以打这个电话。",
+      "pinyin": "rú guǒ yǒu wèn tí ， kě yǐ dǎ zhè ge diàn huà 。",
+      "tr": "Bir sorun olursa bu numarayı arayabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_088",
+      "speaker": "张雨桐",
+      "zh": "我把电话号码存起来。",
+      "pinyin": "wǒ bǎ diàn huà hào mǎ cún qǐ lái 。",
+      "tr": "Telefon numarasını kaydediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_089",
+      "speaker": "刘梅",
+      "zh": "下次坐车先看一眼座位。",
+      "pinyin": "xià cì zuò chē xiān kàn yī yǎn zuò wèi 。",
+      "tr": "Bir dahaki sefere otobüsten inerken koltuğa bak."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_090",
+      "speaker": "工作人员",
+      "zh": "希望你们一路顺利。",
+      "pinyin": "xī wàng nǐ men yī lù shùn lì 。",
+      "tr": "Yolculuğunuz iyi geçsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_091",
+      "speaker": "张雨桐",
+      "zh": "我们先去超市买菜，好吗？",
+      "pinyin": "wǒ men xiān qù chāo shì mǎi cài ， hǎo ma ？",
+      "tr": "Önce markete gidip alışveriş yapalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_092",
+      "speaker": "刘梅",
+      "zh": "好，回家再把今天的事告诉爸爸。",
+      "pinyin": "hǎo ， huí jiā zài bǎ jīn tiān de shì gào sù bà bà 。",
+      "tr": "Olur; eve gidince bugünkü olanları babama anlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_093",
+      "speaker": "工作人员",
+      "zh": "请拿好包，别忘了雨伞。",
+      "pinyin": "qǐng ná hǎo bāo ， bié wàng le yǔ sǎn 。",
+      "tr": "Çantanızı alın, şemsiyeyi unutmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_094",
+      "speaker": "张雨桐",
+      "zh": "包在我肩上，钥匙也收好了。",
+      "pinyin": "bāo zài wǒ jiān shàng ， yào shi yě shōu hǎo le 。",
+      "tr": "Çanta omzumda, anahtarımı da aldım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_095",
+      "speaker": "刘梅",
+      "zh": "那我们走吧，天快黑了。",
+      "pinyin": "nà wǒ men zǒu ba ， tiān kuài hēi le 。",
+      "tr": "Hadi gidelim, hava kararmak üzere."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_096",
+      "speaker": "工作人员",
+      "zh": "再见，路上注意安全。",
+      "pinyin": "zài jiàn ， lù shàng zhù yì ān quán 。",
+      "tr": "Hoşça kalın, yolda dikkat edin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_097",
+      "speaker": "张雨桐",
+      "zh": "谢谢，再见！",
+      "pinyin": "xiè xiè ， zài jiàn ！",
+      "tr": "Teşekkürler, hoşça kalın!"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_098",
+      "speaker": "刘梅",
+      "zh": "今天真是有惊无险。",
+      "pinyin": "jīn tiān zhēn shì yǒu jīng wú xiǎn 。",
+      "tr": "Bugün ucuz atlattık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_099",
+      "speaker": "工作人员",
+      "zh": "能帮你们找到包，我也很高兴。",
+      "pinyin": "néng bāng nǐ men zhǎo dào bāo ， wǒ yě hěn gāo xìng 。",
+      "tr": "Çantanızı bulmanıza yardım edebildiğime sevindim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC018_100",
+      "speaker": "张雨桐",
+      "zh": "走吧，妈妈，我请你喝杯热茶。",
+      "pinyin": "zǒu ba ， mā mā ， wǒ qǐng nǐ hē bēi rè chá 。",
+      "tr": "Hadi anne, sana sıcak çay ısmarlayayım."
+    }
+  ]
+}

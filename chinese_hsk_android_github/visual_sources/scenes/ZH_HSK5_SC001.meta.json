@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC001.json",
-  "dialogueSha256": "14956446ba5539da4a55cb87c570c32ef13c9a49de3fcb2ce217836d6cfc4675",
+  "dialogueSha256": "33700410a91e1bac658b198eb7444a8d446c63a328ac34e3319399ece8e683cc",
   "titleZh": "雨桐第一次挂科",
   "titleTr": "Yutong Üniversitede Zorlanıyor",
   "locationId": "LOC_ZH_UNIVERSITY_001",

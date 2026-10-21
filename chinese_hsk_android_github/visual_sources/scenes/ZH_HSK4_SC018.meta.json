@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC018.json",
-  "dialogueSha256": "676c56d80a844113c8b3f88d2dfdb45b060728fca70b0f422d858dd8b6be02e9",
+  "dialogueSha256": "3fb2e140d864017781922536184600355e63155894cfca585ad2018980515bd5",
   "titleTr": "Büyükanne ile Yutong Konuşuyor",
   "locationId": "LOC_ZH_GRANDPARENTS_HOME_001",
   "scenePurposeTr": "Büyükanne Yutong’la içten bir konuşma yapar; Liu Mei ve Zhang Wei destek olur.",

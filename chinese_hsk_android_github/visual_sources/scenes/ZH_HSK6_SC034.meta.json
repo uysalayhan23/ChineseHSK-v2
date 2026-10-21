@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC034.json",
-  "dialogueSha256": "c48877ec68e16035bd52150fee4fe04de5630507880f4423b68febcd1c1347f1",
+  "dialogueSha256": "d7fb6e5bfba51a68eda525e53758173f352103e84afb4b9fb595cd2dd1622e36",
   "titleZh": "把老食谱做成数字档案",
   "titleTr": "Tarifleri Dijital Arşive Aktarma",
   "locationId": "LOC_ZH_NEW_HOME_001",

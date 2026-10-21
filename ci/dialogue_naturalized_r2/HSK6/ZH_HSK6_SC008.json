@@ -1,0 +1,711 @@
+{
+  "naturalizationVersion": 2,
+  "status": "NATURALIZED_REVIEWED",
+  "sceneId": "ZH_HSK6_SC008",
+  "level": "HSK6",
+  "sourceTitleZh": "张伟的婚礼致辞",
+  "sourceTitleTr": "Zhang’ın Düğün Konuşması",
+  "sourceMiniAdventureTr": "Zhang kızının çocukluğundan bugüne uzanan duygulu bir konuşma yapar.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK6_SC008_001",
+      "speaker": "张伟",
+      "zh": "各位亲友，谢谢大家今天来参加雨桐和伴侣的婚礼。",
+      "pinyin": "gè wèi qīn yǒu ， xiè xiè dà jiā jīn tiān lái cān jiā yǔ tóng hé bàn lǚ de hūn lǐ 。",
+      "tr": "Sevgili ailemiz ve dostlarımız, Yutong ile eşinin düğününe bugün geldiğiniz için teşekkür ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_002",
+      "speaker": "张雨桐",
+      "zh": "爸，听你说到小时候的事，我才发现那些经历你一直记在心里。",
+      "pinyin": "bà ， tīng nǐ shuō dào xiǎo shí hòu de shì ， wǒ cái fā xiàn nà xiē jīng lì nǐ yì zhí jì zài xīn lǐ 。",
+      "tr": "Baba, çocukluğumdan söz edince o anıları hep aklında tuttuğunu fark ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_003",
+      "speaker": "刘梅",
+      "zh": "我刚才听着也很感动。你小时候的照片，我到现在还常常翻出来看。",
+      "pinyin": "wǒ gāng cái tīng zhe yě hěn gǎn dòng 。 nǐ xiǎo shí hòu de zhào piān ， wǒ dào xiàn zài hái cháng cháng fān chū lái kàn 。",
+      "tr": "Ben de az önce çok duygulandım. Çocukluk fotoğraflarına hâlâ sık sık bakıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_004",
+      "speaker": "宾客",
+      "zh": "这段话说得真好。看着女儿出嫁，做父亲的心里一定有很多感受。",
+      "pinyin": "zhè duàn huà shuō dé zhēn hǎo 。 kàn zhe nǚ ér chū jià ， zuò fù qīn de xīn lǐ yí dìng yǒu hěn duō gǎn shòu 。",
+      "tr": "Çok güzel konuştu. Kızını gelin ederken bir babanın içinden çok şey geçiyordur."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_005",
+      "speaker": "张伟",
+      "zh": "我想起她第一次上学，拉着我的手不肯放开，转眼就长大了。",
+      "pinyin": "wǒ xiǎng qǐ tā dì yī cì shàng xué ， lā zhe wǒ de shǒu bù kěn fàng kāi ， zhuǎn yǎn jiù zhǎng dà le 。",
+      "tr": "İlk okul gününde elimi bırakmak istemeyişini hatırladım; bir de baktım büyümüş."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_006",
+      "speaker": "张雨桐",
+      "zh": "我记得那天你在校门口站了很久，直到看不见我才回家。",
+      "pinyin": "wǒ jì de nà tiān nǐ zài xiào mén kǒu zhàn le hěn jiǔ ， zhí dào kàn bú jiàn wǒ cái huí jiā 。",
+      "tr": "O gün okul kapısında beni göremeyene kadar beklediğini hatırlıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_007",
+      "speaker": "刘梅",
+      "zh": "那时候我怕你不适应，后来才知道你比我想象得勇敢。",
+      "pinyin": "nà shí hòu wǒ pà nǐ bù shì yīng ， hòu lái cái zhī dào nǐ bǐ wǒ xiǎng xiàng dé yǒng gǎn 。",
+      "tr": "Sana alışmak zor gelir diye korkmuştum; sonra düşündüğümden daha cesur olduğunu gördüm."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_008",
+      "speaker": "宾客",
+      "zh": "今天看到你穿着婚纱，我又高兴又舍不得，话都不知道从哪里说起。",
+      "pinyin": "jīn tiān kàn dào nǐ chuān zhe hūn shā ， wǒ yòu gāo xìng yòu shě bù dé ， huà dōu bù zhī dào cóng nǎ lǐ shuō qǐ 。",
+      "tr": "Bugün gelinliğinle görünce hem sevindim hem duygulandım; ne söyleyeceğimi şaşırdım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_009",
+      "speaker": "张伟",
+      "zh": "爸，不用担心。结婚以后我还是会常回家，也会常给你们打电话。",
+      "pinyin": "bà ， bù yòng dān xīn 。 jié hūn yǐ hòu wǒ hái shì huì cháng huí jiā ， yě huì cháng gěi nǐ men dǎ diàn huà 。",
+      "tr": "Baba, kaygılanma. Evlendikten sonra da sık sık eve gelir, sizi ararım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_010",
+      "speaker": "张雨桐",
+      "zh": "我知道你们有自己的生活，不会要求你每天报平安，只要有事愿意告诉我们。",
+      "pinyin": "wǒ zhī dào nǐ men yǒu zì jǐ de shēng huó ， bú huì yāo qiú nǐ měi tiān bào píng ān ， zhǐ yào yǒu shì yuàn yì gào sù wǒ men 。",
+      "tr": "Kendi hayatınız olduğunu biliyorum; her gün haber vermenizi beklemiyorum. Bir şey olursa anlatmanız yeterli."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_011",
+      "speaker": "刘梅",
+      "zh": "我也希望我们两边的家人以后能常见面，不只是过节才聚在一起。",
+      "pinyin": "wǒ yě xī wàng wǒ men liǎng biān de jiā rén yǐ hòu néng cháng jiàn miàn ， bù zhǐ shì guò jié cái jù zài yì qǐ 。",
+      "tr": "İki tarafın ailelerinin yalnızca bayramlarda değil, ileride sık sık görüşmesini isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_012",
+      "speaker": "宾客",
+      "zh": "我们可以轮流安排简单的聚会，谁有空就一起吃顿饭。",
+      "pinyin": "wǒ men kě yǐ lún liú ān pái jiǎn dān de jù huì ， shuí yǒu kòng jiù yì qǐ chī dùn fàn 。",
+      "tr": "Sırayla sade buluşmalar ayarlarız; kimin vakti varsa birlikte yemek yeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_013",
+      "speaker": "张伟",
+      "zh": "能这样想很好。家人之间常联系，彼此就不会因为生活忙而慢慢疏远。",
+      "pinyin": "néng zhè yàng xiǎng hěn hǎo 。 jiā rén zhī jiān cháng lián xì ， bǐ cǐ jiù bú huì yīn wèi shēng huó máng ér màn màn shū yuǎn 。",
+      "tr": "Güzel bir düşünce. Aileler görüşmeye devam ederse yoğun yaşam içinde birbirinden uzaklaşmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_014",
+      "speaker": "张雨桐",
+      "zh": "我和伴侣也会主动安排时间，不把联系家里只留给某一个人负责。",
+      "pinyin": "wǒ hé bàn lǚ yě huì zhǔ dòng ān pái shí jiān ， bù bǎ lián xì jiā lǐ zhǐ liú gěi mǒu yí gè rén fù zé 。",
+      "tr": "Eşimle ben de zaman ayarlayacağız; aileyle iletişim kurma işini tek kişiye bırakmayacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_015",
+      "speaker": "刘梅",
+      "zh": "听你这么说，我心里踏实了。今天不只是送你出嫁，也是欢迎新的家人。",
+      "pinyin": "tīng nǐ zhè me shuō ， wǒ xīn lǐ tà shí le 。 jīn tiān bù zhǐ shì sòng nǐ chū jià ， yě shì huān yíng xīn de jiā rén 。",
+      "tr": "Bunu duymak içimi rahatlattı. Bugün seni uğurlamak kadar yeni bir aile ferdini karşılamak da önemli."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_016",
+      "speaker": "宾客",
+      "zh": "谢谢妈。你们愿意接纳他，让我觉得两边的家都离我们很近。",
+      "pinyin": "xiè xiè mā 。 nǐ men yuàn yì jiē nà tā ， ràng wǒ jué de liǎng biān de jiā dōu lí wǒ men hěn jìn 。",
+      "tr": "Teşekkürler anne. Onu kabul etmeniz iki aileyi de bize yakın hissettiriyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_017",
+      "speaker": "张伟",
+      "zh": "我会珍惜这份信任，也会和雨桐一起照顾好彼此。",
+      "pinyin": "wǒ huì zhēn xī zhè fèn xìn rèn ， yě huì hé yǔ tóng yì qǐ zhào gù hǎo bǐ cǐ 。",
+      "tr": "Bu güvene değer verecek, Yutong’la birlikte birbirimize iyi bakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_018",
+      "speaker": "张雨桐",
+      "zh": "听到这句话，今天的祝福就更完整了。愿你们彼此尊重，也常常分享快乐。",
+      "pinyin": "tīng dào zhè jù huà ， jīn tiān de zhù fú jiù gèng wán zhěng le 。 yuàn nǐ men bǐ cǐ zūn zhòng ， yě cháng cháng fēn xiǎng kuài lè 。",
+      "tr": "Bu sözleri duyunca bugünkü kutlama tamamlandı. Birbirinize saygı duyun ve mutluluğunuzu paylaşın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_019",
+      "speaker": "刘梅",
+      "zh": "谢谢大家。以后无论忙不忙，我们都会记得今天这些真心的祝福。",
+      "pinyin": "xiè xiè dà jiā 。 yǐ hòu wú lùn máng bù máng ， wǒ men dū huì jì de jīn tiān zhè xiē zhēn xīn de zhù fú 。",
+      "tr": "Hepinize teşekkürler. Ne kadar yoğun olursak olalım bugünkü içten dilekleri hatırlayacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_020",
+      "speaker": "宾客",
+      "zh": "那我就不多占时间了。祝你们新婚快乐，往后的日子平安顺心。",
+      "pinyin": "nà wǒ jiù bù duō zhàn shí jiān le 。 zhù nǐ men xīn hūn kuài lè ， wǎng hòu de rì zi píng ān shùn xīn 。",
+      "tr": "Sözü uzatmayayım. Mutlu bir evlilik, huzurlu ve güzel günler diliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_021",
+      "speaker": "张伟",
+      "zh": "我不敢说自己已经适应你长大了，但我知道你一直在为自己的选择负责。",
+      "pinyin": "wǒ bù gǎn shuō zì jǐ yǐ jīng shì yìng nǐ zhǎng dà le ， dàn wǒ zhī dào nǐ yì zhí zài wèi zì jǐ de xuǎn zé fù zé 。",
+      "tr": "Büyüdüğünü kabullendim diyemem ama kendi seçimlerinin sorumluluğunu aldığını biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_022",
+      "speaker": "张雨桐",
+      "zh": "爸，小时候你总说要学会自己走路。今天你把这句话又说给我听了。",
+      "pinyin": "bà ， xiǎo shí hòu nǐ zǒng shuō yào xué huì zì jǐ zǒu lù 。 jīn tiān nǐ bǎ zhè jù huà yòu shuō gěi wǒ tīng le 。",
+      "tr": "Baba, çocukken bana kendi başıma yürümeyi öğrenmemi söylerdin. Bugün yine aynı şeyi hatırlattın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_023",
+      "speaker": "刘梅",
+      "zh": "做父母的总想替孩子挡住困难，后来才明白陪着他们面对更重要。",
+      "pinyin": "zuò fù mǔ de zǒng xiǎng tì hái zi dǎng zhù kùn nán ， hòu lái cái míng bái péi zhe tā men miàn duì gèng zhòng yào 。",
+      "tr": "Anne babalar çocuklarını zorluklardan korumak ister; sonra yanlarında durmanın daha önemli olduğunu anlarlar."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_024",
+      "speaker": "宾客",
+      "zh": "这话让我想到我女儿第一次离家上大学。那天我们都没睡好。",
+      "pinyin": "zhè huà ràng wǒ xiǎng dào wǒ nǚ ér dì yī cì lí jiā shàng dà xué 。 nà tiān wǒ men dōu méi shuì hǎo 。",
+      "tr": "Kızım üniversite için ilk kez evden ayrılırken biz de bütün gece uyuyamamıştık."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_025",
+      "speaker": "张伟",
+      "zh": "妈，你那时也担心我适应不了新环境吗？",
+      "pinyin": "mā ， nǐ nà shí yě dān xīn wǒ shì yìng bù liǎo xīn huán jìng ma ？",
+      "tr": "Anne, o zaman yeni ortama uyum sağlayamayacağımdan kaygılanmış mıydın?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_026",
+      "speaker": "张雨桐",
+      "zh": "当然担心，但看到你交到朋友、开始照顾自己，我就慢慢放心了。",
+      "pinyin": "dāng rán dān xīn ， dàn kàn dào nǐ jiāo dào péng yǒu 、 kāi shǐ zhào gù zì jǐ ， wǒ jiù màn màn fàng xīn le 。",
+      "tr": "Elbette kaygılandım ama arkadaş edindiğini ve kendi işlerini hallettiğini görünce yavaşça rahatladım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_027",
+      "speaker": "刘梅",
+      "zh": "原来你们一直在观察我们什么时候能独立，又什么时候需要帮助。",
+      "pinyin": "yuán lái nǐ men yì zhí zài guān chá wǒ men shén me shí hòu néng dú lì ， yòu shén me shí hòu xū yào bāng zhù 。",
+      "tr": "Demek ne zaman bağımsız olduğumuzu, ne zaman yardıma ihtiyaç duyduğumuzu hep gözlemişsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_028",
+      "speaker": "宾客",
+      "zh": "不过别猜得太多，直接问一句“你需要我帮忙吗”就行。",
+      "pinyin": "bù guò bié cāi dé tài duō ， zhí jiē wèn yī jù “ nǐ xū yào wǒ bāng máng ma ” jiù xíng 。",
+      "tr": "Yine de fazla tahmin yürütmeyin; doğrudan “Yardım etmemi ister misin?” diye sorun."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_029",
+      "speaker": "张伟",
+      "zh": "这建议我记下了。以后我先问，再按照你们的回答行动。",
+      "pinyin": "zhè jiàn yì wǒ jì xià le 。 yǐ hòu wǒ xiān wèn ， zài àn zhào nǐ men de huí dá xíng dòng 。",
+      "tr": "Bu öneriyi aklımda tutacağım. Önce sorup sonra yanıtınıza göre davranırım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_030",
+      "speaker": "张雨桐",
+      "zh": "这样我们也更容易开口，不必担心拒绝一次就让你们失望。",
+      "pinyin": "zhè yàng wǒ men yě gèng róng yì kāi kǒu ， bù bì dān xīn jù jué yī cì jiù ràng nǐ men shī wàng 。",
+      "tr": "Böyle olursa biz de daha rahat konuşuruz; yardımı reddedince sizi hayal kırıklığına uğratacağımızı düşünmeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_031",
+      "speaker": "刘梅",
+      "zh": "各位亲友，刚才听大家分享，我觉得这场婚礼不只是庆祝两个人在一起。",
+      "pinyin": "gè wèi qīn yǒu ， gāng cái tīng dà jiā fēn xiǎng ， wǒ jué de zhè chǎng hūn lǐ bù zhǐ shì qìng zhù liǎng gè rén zài yì qǐ 。",
+      "tr": "Sevgili dostlar, paylaştıklarınızı dinlerken bu düğünün yalnızca iki kişinin birlikteliğini kutlamadığını düşündüm."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_032",
+      "speaker": "宾客",
+      "zh": "也是家人和朋友彼此认识、把祝福带给新人的机会。",
+      "pinyin": "yě shì jiā rén hé péng yǒu bǐ cǐ rèn shí 、 bǎ zhù fú dài gěi xīn rén de jī huì 。",
+      "tr": "Aile ve dostların tanışıp yeni evlilere iyi dileklerini ilettiği bir fırsat da."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_033",
+      "speaker": "张伟",
+      "zh": "能见证你们走到今天，我们也很高兴。",
+      "pinyin": "néng jiàn zhèng nǐ men zǒu dào jīn tiān ， wǒ men yě hěn gāo xìng 。",
+      "tr": "Bugüne gelişinize tanıklık etmek bizi de çok mutlu etti."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_034",
+      "speaker": "张雨桐",
+      "zh": "谢谢。你们的支持让我们觉得这一步不是孤单地迈出去的。",
+      "pinyin": "xiè xiè 。 nǐ men de zhī chí ràng wǒ men jué de zhè yī bù bú shì gū dān dì mài chū qù de 。",
+      "tr": "Teşekkürler. Desteğiniz bu adımı tek başımıza atmadığımızı hissettiriyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_035",
+      "speaker": "刘梅",
+      "zh": "我记得雨桐小时候怕黑，出门总要牵着爸爸的手。",
+      "pinyin": "wǒ jì de yǔ tóng xiǎo shí hòu pà hēi ， chū mén zǒng yào qiān zhe bà bà de shǒu 。",
+      "tr": "Yutong’un çocukken karanlıktan korktuğunu, dışarı çıkarken babasının elini tuttuğunu hatırlıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_036",
+      "speaker": "宾客",
+      "zh": "现在她能牵着伴侣的手走进新的生活了，我看着也很感动。",
+      "pinyin": "xiàn zài tā néng qiān zhe bàn lǚ de shǒu zǒu jìn xīn de shēng huó le ， wǒ kàn zhe yě hěn gǎn dòng 。",
+      "tr": "Şimdi eşinin elini tutup yeni bir yaşama adım atıyor; bunu görmek beni duygulandırıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_037",
+      "speaker": "张伟",
+      "zh": "我还是会牵你们的手，只是现在你们也会彼此照顾了。",
+      "pinyin": "wǒ hái shì huì qiān nǐ men de shǒu ， zhǐ shì xiàn zài nǐ men yě huì bǐ cǐ zhào gù le 。",
+      "tr": "Elinizi tutmaya devam edeceğim; artık siz de birbirinize destek olacaksınız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_038",
+      "speaker": "张雨桐",
+      "zh": "爸，这句话比准备好的誓词还让我想哭。",
+      "pinyin": "bà ， zhè jù huà bǐ zhǔn bèi hǎo de shì cí hái ràng wǒ xiǎng kū 。",
+      "tr": "Baba, bu sözlerin hazırlandığım yeminlerden daha çok ağlatıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_039",
+      "speaker": "刘梅",
+      "zh": "那我就不再讲太长了，免得大家都跟着掉眼泪。",
+      "pinyin": "nà wǒ jiù bù zài jiǎng tài zhǎng le ， miǎn de dà jiā dōu gēn zhe diào yǎn lèi 。",
+      "tr": "Öyleyse fazla uzatmayayım; yoksa herkes ağlayacak."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_040",
+      "speaker": "宾客",
+      "zh": "我们先给新人祝酒吧，祝你们往后遇事有商有量、开心常在。",
+      "pinyin": "wǒ men xiān gěi xīn rén zhù jiǔ bā ， zhù nǐ men wǎng hòu yù shì yǒu shāng yǒu liàng 、 kāi xīn cháng zài 。",
+      "tr": "Önce yeni evlilere kadeh kaldıralım; her şeyi konuşarak çözün ve mutluluğunuz daim olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_041",
+      "speaker": "张伟",
+      "zh": "我讲到她小时候总爱问为什么时，没想到她现在还记得。",
+      "pinyin": "wǒ jiǎng dào tā xiǎo shí hòu zǒng ài wèn wèi shén me shí ， méi xiǎng dào tā xiàn zài hái jì de 。",
+      "tr": "Çocukken sürekli “neden” diye sorduğunu anlatınca hâlâ hatırladığını düşünmemiştim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_042",
+      "speaker": "张雨桐",
+      "zh": "你每次都认真回答，我当然记得。那些对话让我觉得什么问题都可以问你。",
+      "pinyin": "nǐ měi cì dōu rèn zhēn huí dá ， wǒ dāng rán jì de 。 nà xiē duì huà ràng wǒ jué de shén me wèn tí dōu kě yǐ wèn nǐ 。",
+      "tr": "Her seferinde dikkatle yanıt verirdin; elbette hatırlıyorum. Her şeyi sana sorabileceğimi hissettirirdi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_043",
+      "speaker": "刘梅",
+      "zh": "孩子愿意提问，说明她相信家里会听她说。这个习惯值得一直保留。",
+      "pinyin": "hái zi yuàn yì tí wèn ， shuō míng tā xiāng xìn jiā lǐ huì tīng tā shuō 。 zhè ge xí guàn zhí de yì zhí bǎo liú 。",
+      "tr": "Çocuğun soru sorması, ailesinin onu dinleyeceğine güvendiğini gösterir. Bu alışkanlığı korumak güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_044",
+      "speaker": "宾客",
+      "zh": "今天我们也会认真听你们说，不只是听完祝词就结束。",
+      "pinyin": "jīn tiān wǒ men yě huì rèn zhēn tīng nǐ men shuō ， bù zhǐ shì tīng wán zhù cí jiù jié shù 。",
+      "tr": "Bugün sizi gerçekten dinleyeceğiz; konuşmalar bitince bu ilgi sona ermeyecek."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_045",
+      "speaker": "张伟",
+      "zh": "爸妈教会我，遇到不懂的事情先问清楚，不要怕显得麻烦。",
+      "pinyin": "bà mā jiào huì wǒ ， yù dào bù dǒng de shì qíng xiān wèn qīng chǔ ， bú yào pà xiǎn de má fán 。",
+      "tr": "Annemle babam anlamadığım şeyleri önce sormayı öğretti; zahmet çıkarırım diye çekinmem."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_046",
+      "speaker": "张雨桐",
+      "zh": "你小时候问得最多的，是我为什么要加班、什么时候能回家。",
+      "pinyin": "nǐ xiǎo shí hòu wèn dé zuì duō de ， shì wǒ wèi shén me yào jiā bān 、 shén me shí hòu néng huí jiā 。",
+      "tr": "Çocukken en çok neden fazla mesai yaptığımı ve eve ne zaman döneceğimi sorardın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_047",
+      "speaker": "刘梅",
+      "zh": "我那时不知道你们工作有多辛苦，现在才慢慢理解。",
+      "pinyin": "wǒ nà shí bù zhī dào nǐ men gōng zuò yǒu duō xīn kǔ ， xiàn zài cái màn màn lǐ jiě 。",
+      "tr": "O zaman işinizin ne kadar yorucu olduğunu bilmiyordum; şimdi yavaş yavaş anlıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_048",
+      "speaker": "宾客",
+      "zh": "理解以后也不必觉得亏欠。我们当时作了选择，你也有自己的路要走。",
+      "pinyin": "lǐ jiě yǐ hòu yě bù bì jué de kuī qiàn 。 wǒ men dāng shí zuò le xuǎn zé ， nǐ yě yǒu zì jǐ de lù yào zǒu 。",
+      "tr": "Anlamış olman kendini borçlu hissetmeni gerektirmez. Biz seçimimizi yaptık; senin de kendi yolun var."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_049",
+      "speaker": "张伟",
+      "zh": "我会记得你们的付出，也会用自己的方式照顾好生活。",
+      "pinyin": "wǒ huì jì de nǐ men de fù chū ， yě huì yòng zì jǐ de fāng shì zhào gù hǎo shēng huó 。",
+      "tr": "Emeklerinizi hatırlayacak ve kendi hayatıma kendi yöntemimle iyi bakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_050",
+      "speaker": "张雨桐",
+      "zh": "这就是我们最想看到的。照顾好自己，也记得需要时向家人求助。",
+      "pinyin": "zhè jiù shì wǒ men zuì xiǎng kàn dào de 。 zhào gù hǎo zì jǐ ， yě jì de xū yào shí xiàng jiā rén qiú zhù 。",
+      "tr": "Bizim görmek istediğimiz tam da bu. Kendine iyi bak, gerektiğinde aileden yardım istemeyi de unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_051",
+      "speaker": "刘梅",
+      "zh": "各位朋友，听了刚才的话，我也想说一句：新婚生活不必照着别人安排的样子过。",
+      "pinyin": "gè wèi péng yǒu ， tīng le gāng cái de huà ， wǒ yě xiǎng shuō yī jù ： xīn hūn shēng huó bù bì zhào zhe bié rén ān pái de yàng zi guò 。",
+      "tr": "Dostlar, az önceki sözlerden sonra ben de şunu söylemek isterim: Yeni evliler hayatlarını başkalarının planladığı gibi yaşamak zorunda değil."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_052",
+      "speaker": "宾客",
+      "zh": "只要两个人愿意商量，生活方式可以慢慢找到适合自己的。",
+      "pinyin": "zhǐ yào liǎng gè rén yuàn yì shāng liáng ， shēng huó fāng shì kě yǐ màn màn zhǎo dào shì hé zì jǐ de 。",
+      "tr": "İki kişi konuşmaya istekliyse kendilerine uygun yaşam biçimini zamanla bulabilirler."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_053",
+      "speaker": "张伟",
+      "zh": "这句话我很赞同。每对伴侣的处境不同，办法也不必完全一样。",
+      "pinyin": "zhè jù huà wǒ hěn zàn tóng 。 měi duì bàn lǚ de chǔ jìng bù tóng ， bàn fǎ yě bù bì wán quán yī yàng 。",
+      "tr": "Bu söze katılıyorum. Her çiftin koşulları farklı; çözümlerinin aynı olması gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_054",
+      "speaker": "张雨桐",
+      "zh": "谢谢。我们会参考大家的经验，但最后还是一起决定适合自己的做法。",
+      "pinyin": "xiè xiè 。 wǒ men huì cān kǎo dà jiā de jīng yàn ， dàn zuì hòu hái shì yì qǐ jué dìng shì hé zì jǐ de zuò fǎ 。",
+      "tr": "Teşekkürler. Deneyimlerinizi dikkate alır ama bize uygun yolu birlikte seçeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_055",
+      "speaker": "刘梅",
+      "zh": "我和你爸也希望你们这样。建议可以听，决定要由你们承担。",
+      "pinyin": "wǒ hé nǐ bà yě xī wàng nǐ men zhè yàng 。 jiàn yì kě yǐ tīng ， jué dìng yào yóu nǐ men chéng dān 。",
+      "tr": "Babanla ben de böyle düşünürüz. Tavsiye dinlenebilir ama kararın sorumluluğu sizde olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_056",
+      "speaker": "宾客",
+      "zh": "所以今天这场婚礼不是把女儿交给谁，而是欢迎你们开始共同生活。",
+      "pinyin": "suǒ yǐ jīn tiān zhè chǎng hūn lǐ bú shì bǎ nǚ ér jiāo gěi shuí ， ér shì huān yíng nǐ men kāi shǐ gòng tóng shēng huó 。",
+      "tr": "Bu yüzden bugün kızımızı birine teslim etmiyoruz; birlikte yaşamaya başlamanızı kutluyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_057",
+      "speaker": "张伟",
+      "zh": "听起来我也该说几句了，不过我不想抢了新人的风头。",
+      "pinyin": "tīng qǐ lái wǒ yě gāi shuō jǐ jù le ， bù guò wǒ bù xiǎng qiǎng le xīn rén de fēng tou 。",
+      "tr": "Sanırım benim de birkaç söz söylemem gerek ama ilgi odağını yeni evlilerden almak istemem."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_058",
+      "speaker": "张雨桐",
+      "zh": "你说得简短一点就好，大家都很想听你的祝福。",
+      "pinyin": "nǐ shuō dé jiǎn duǎn yì diǎn jiù hǎo ， dà jiā dōu hěn xiǎng tīng nǐ de zhù fú 。",
+      "tr": "Kısaca konuşman yeterli; herkes iyi dileklerini duymak ister."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_059",
+      "speaker": "刘梅",
+      "zh": "那我就祝你们遇到好事一起庆祝，遇到难事一起想办法。",
+      "pinyin": "nà wǒ jiù zhù nǐ men yù dào hǎo shì yì qǐ qìng zhù ， yù dào nán shì yì qǐ xiǎng bàn fǎ 。",
+      "tr": "Öyleyse iyi günleri birlikte kutlayın, zor günlerde birlikte çözüm arayın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_060",
+      "speaker": "宾客",
+      "zh": "谢谢。今天听到的每一句祝福，我们都会好好记住。",
+      "pinyin": "xiè xiè 。 jīn tiān tīng dào de měi yī jù zhù fú ， wǒ men dū huì hǎo hǎo jì zhù 。",
+      "tr": "Teşekkürler. Bugün duyduğumuz her iyi dileği aklımızda tutacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_061",
+      "speaker": "张伟",
+      "zh": "刚才几位朋友的话让我想起，我们认识雨桐的时候，她还在读书。",
+      "pinyin": "gāng cái jǐ wèi péng yǒu de huà ràng wǒ xiǎng qǐ ， wǒ men rèn shí yǔ tóng de shí hòu ， tā hái zài dú shū 。",
+      "tr": "Dostlarımızın sözleri Yutong’u tanıdığımız zamanı hatırlattı; daha öğrenciydi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_062",
+      "speaker": "张雨桐",
+      "zh": "我第一次见你是在她毕业典礼上，你帮她拿着一大束花。",
+      "pinyin": "wǒ dì yī cì jiàn nǐ shì zài tā bì yè diǎn lǐ shàng ， nǐ bāng tā ná zhe yī dà shù huā 。",
+      "tr": "Seni ilk kez mezuniyet töreninde gördüm; elinde kocaman bir çiçek demeti taşıyordun."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_063",
+      "speaker": "刘梅",
+      "zh": "那天她紧张得把致谢词读错了一句，后来我们还笑了好久。",
+      "pinyin": "nà tiān tā jǐn zhāng dé bǎ zhì xiè cí dú cuò le yī jù ， hòu lái wǒ men hái xiào le hǎo jiǔ 。",
+      "tr": "O gün teşekkür konuşmasında heyecandan bir cümleyi yanlış okudu; sonra buna uzun süre güldük."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_064",
+      "speaker": "宾客",
+      "zh": "现在她能在这么多人面前坦然地说出自己的心意，真的长大了。",
+      "pinyin": "xiàn zài tā néng zài zhè me duō rén miàn qián tǎn rán dì shuō chū zì jǐ de xīn yì ， zhēn de zhǎng dà le 。",
+      "tr": "Şimdi bu kadar kişinin önünde içtenlikle duygularını anlatabiliyor; gerçekten büyümüş."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_065",
+      "speaker": "张伟",
+      "zh": "我也记得那次毕业典礼。她回家后还担心自己说错话会让大家失望。",
+      "pinyin": "wǒ yě jì de nà cì bì yè diǎn lǐ 。 tā huí jiā hòu hái dān xīn zì jǐ shuō cuò huà huì ràng dà jiā shī wàng 。",
+      "tr": "O mezuniyet törenini ben de hatırlıyorum. Eve gelince yanlış konuşup herkesi hayal kırıklığına uğrattığını sanmıştı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_066",
+      "speaker": "张雨桐",
+      "zh": "其实我们从没要求她每一步都做得完美，只希望她愿意继续尝试。",
+      "pinyin": "qí shí wǒ men cóng méi yāo qiú tā měi yī bù dōu zuò dé wán měi ， zhǐ xī wàng tā yuàn yì jì xù cháng shì 。",
+      "tr": "Aslında her adımı kusursuz atmasını hiç beklemedik; denemeye devam etmesini istedik."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_067",
+      "speaker": "刘梅",
+      "zh": "今天的誓词也不是背得多流利才算好，真诚就足够了。",
+      "pinyin": "jīn tiān de shì cí yě bú shì bèi dé duō liú lì cái suàn hǎo ， zhēn chéng jiù zú gòu le 。",
+      "tr": "Bugünkü yeminlerin ölçüsü ne kadar akıcı söylendiği değil; içten olması yeterli."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_068",
+      "speaker": "宾客",
+      "zh": "听到这些旧事，我觉得婚礼像把过去和以后连在了一起。",
+      "pinyin": "tīng dào zhè xiē jiù shì ， wǒ jué de hūn lǐ xiàng bǎ guò qù hé yǐ hòu lián zài le yì qǐ 。",
+      "tr": "Eski anıları duyunca düğün geçmişle geleceği birbirine bağlıyor gibi geliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_069",
+      "speaker": "张伟",
+      "zh": "是的，我们记得她小时候的样子，也期待她以后和伴侣一起创造新的回忆。",
+      "pinyin": "shì de ， wǒ men jì de tā xiǎo shí hòu de yàng zi ， yě qī dài tā yǐ hòu hé bàn lǚ yì qǐ chuàng zào xīn de huí yì 。",
+      "tr": "Evet, onun çocukluğunu hatırlıyor, eşiyle birlikte yeni anılar biriktirmesini bekliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_070",
+      "speaker": "张雨桐",
+      "zh": "以后有了新故事，我们也会回来讲给你们听。",
+      "pinyin": "yǐ hòu yǒu le xīn gù shì ， wǒ men yě huì huí lái jiǎng gěi nǐ men tīng 。",
+      "tr": "Yeni hikâyelerimiz olunca onları anlatmak için yine yanınıza geliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_071",
+      "speaker": "刘梅",
+      "zh": "欢迎你们常回来，不过也别忘了偶尔给自己留一点二人相处的时间。",
+      "pinyin": "huān yíng nǐ men cháng huí lái ， bù guò yě bié wàng le ǒu ěr gěi zì jǐ liú yì diǎn èr rén xiāng chǔ de shí jiān 。",
+      "tr": "Sık sık gelin ama ikinizin baş başa kalacağı zamanlar ayırmayı da unutmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_072",
+      "speaker": "宾客",
+      "zh": "我们会安排好的。亲近家人和建立自己的生活可以同时做到。",
+      "pinyin": "wǒ men huì ān pái hǎo de 。 qīn jìn jiā rén hé jiàn lì zì jǐ de shēng huó kě yǐ tóng shí zuò dào 。",
+      "tr": "Ayarlayacağız. Aileye yakın olmakla kendi hayatımızı kurmak bir arada mümkün."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_073",
+      "speaker": "张伟",
+      "zh": "这句话说得很成熟。关系不是非此即彼，保持联系也可以有边界。",
+      "pinyin": "zhè jù huà shuō dé hěn chéng shú 。 guān xì bú shì fēi cǐ jí bǐ ， bǎo chí lián xì yě kě yǐ yǒu biān jiè 。",
+      "tr": "Çok olgun bir söz. İlişkide iki seçenekten birini seçmek gerekmez; iletişim sürerken sınırlar da olabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_074",
+      "speaker": "张雨桐",
+      "zh": "各位亲友，谢谢你们一路看着雨桐成长，也谢谢你们今天来见证这一刻。",
+      "pinyin": "gè wèi qīn yǒu ， xiè xiè nǐ men yī lù kàn zhe yǔ tóng chéng zhǎng ， yě xiè xiè nǐ men jīn tiān lái jiàn zhèng zhè yī kè 。",
+      "tr": "Sevgili dostlar, Yutong’un büyümesine eşlik ettiğiniz ve bugün bu ana tanık olduğunuz için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_075",
+      "speaker": "刘梅",
+      "zh": "我们也很荣幸。希望你们以后遇到重要时刻，还愿意邀请大家一起分享。",
+      "pinyin": "wǒ men yě hěn róng xìng 。 xī wàng nǐ men yǐ hòu yù dào zhòng yào shí kè ， huán yuàn yì yāo qǐng dà jiā yì qǐ fēn xiǎng 。",
+      "tr": "Biz de bu ana ortak olduğumuz için mutluyuz. Önemli anlarınızda bizi yine çağırmanız dileğiyle."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_076",
+      "speaker": "宾客",
+      "zh": "当然。今天大家的话让我们更知道，身边有很多愿意支持我们的人。",
+      "pinyin": "dāng rán 。 jīn tiān dà jiā de huà ràng wǒ men gèng zhī dào ， shēn biān yǒu hěn duō yuàn yì zhī chí wǒ men de rén 。",
+      "tr": "Elbette. Bugünkü sözleriniz çevremizde bizi desteklemeye hazır pek çok insan olduğunu gösterdi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_077",
+      "speaker": "张伟",
+      "zh": "支持不是替你们决定，而是在你们需要时陪着一起面对。",
+      "pinyin": "zhī chí bú shì tì nǐ men jué dìng ， ér shì zài nǐ men xū yào shí péi zhe yì qǐ miàn duì 。",
+      "tr": "Destek sizin yerinize karar vermek değil; ihtiyaç duyduğunuzda yanınızda olmaktır."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_078",
+      "speaker": "张雨桐",
+      "zh": "我们会记得，有事就坦白说，不让好意因为猜测变成压力。",
+      "pinyin": "wǒ men huì jì de ， yǒu shì jiù tǎn bái shuō ， bù ràng hǎo yì yīn wèi cāi cè biàn chéng yā lì 。",
+      "tr": "Bir şey olduğunda açıkça söyleyeceğimizi, iyi niyetin tahminler yüzünden baskıya dönüşmesine izin vermeyeceğimizi hatırlayacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_079",
+      "speaker": "刘梅",
+      "zh": "这就是今天最好的收获。祝你们往后也能这样坦诚地彼此相待。",
+      "pinyin": "zhè jiù shì jīn tiān zuì hǎo de shōu huò 。 zhù nǐ men wǎng hòu yě néng zhè yàng tǎn chéng dì bǐ cǐ xiāng dài 。",
+      "tr": "Bugünün en güzel kazanımı bu. Bundan sonra da birbirinize böyle açık davranmanızı dilerim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_080",
+      "speaker": "宾客",
+      "zh": "谢谢大家。接下来我们去和每桌的亲友打招呼，慢慢聊一会儿。",
+      "pinyin": "xiè xiè dà jiā 。 jiē xià lái wǒ men qù hé měi zhuō de qīn yǒu dǎ zhāo hū ， màn màn liáo yī huì er 。",
+      "tr": "Hepinize teşekkürler. Şimdi masalardaki yakınlarımızı ziyaret edip onlarla sohbet edeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_081",
+      "speaker": "张伟",
+      "zh": "我想把今天这段致辞录下来，等以后再听，看看我们变了多少。",
+      "pinyin": "wǒ xiǎng bǎ jīn tiān zhè duàn zhì cí lù xià lái ， děng yǐ hòu zài tīng ， kàn kàn wǒ men biàn le duō shǎo 。",
+      "tr": "Bugünkü konuşmayı kaydedip ileride yeniden dinlemek istiyorum; ne kadar değiştiğimizi görürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_082",
+      "speaker": "张雨桐",
+      "zh": "好主意，不过别只记住我讲的内容，也把大家当时的笑声和掌声留下来。",
+      "pinyin": "hǎo zhǔ yì ， bù guò bié zhǐ jì zhù wǒ jiǎng de nèi róng ， yě bǎ dà jiā dāng shí de xiào shēng hé zhǎng shēng liú xià lái 。",
+      "tr": "Güzel fikir; yalnızca söylediklerimi değil, insanların gülüşünü ve alkışını da sakla."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_083",
+      "speaker": "刘梅",
+      "zh": "我刚才听见奶奶在台下笑，看到爸停下来擦眼泪，那些瞬间比稿子更难忘。",
+      "pinyin": "wǒ gāng cái tīng jiàn nǎi nǎi zài tái xià xiào ， kàn dào bà tíng xià lái cā yǎn lèi ， nà xiē shùn jiān bǐ gǎo zi gèng nán wàng 。",
+      "tr": "Büyükannemin gülüşünü, babamın gözyaşını silmek için duruşunu gördüm; bu anlar konuşma metninden daha unutulmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_084",
+      "speaker": "宾客",
+      "zh": "稿子只是帮我把话说清楚，真正重要的是今天我们在这里一起分享。",
+      "pinyin": "gǎo zi zhǐ shì bāng wǒ bǎ huà shuō qīng chǔ ， zhēn zhèng zhòng yào de shì jīn tiān wǒ men zài zhè lǐ yì qǐ fēn xiǎng 。",
+      "tr": "Metin yalnızca sözlerimi düzenlememe yardım etti; asıl önemli olan bugün bunu hep birlikte paylaşmamız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_085",
+      "speaker": "张伟",
+      "zh": "爸，等照片和视频整理好，我给你们留一份，也发给奶奶。",
+      "pinyin": "bà ， děng zhào piān hé shì pín zhěng lǐ hǎo ， wǒ gěi nǐ men liú yī fèn ， yě fā gěi nǎi nǎi 。",
+      "tr": "Baba, fotoğraf ve videolar düzenlenince bir kopyasını size ve büyükanneye gönderirim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_086",
+      "speaker": "张雨桐",
+      "zh": "谢谢。她会把它收好，过些年再拿出来讲给家里人听。",
+      "pinyin": "xiè xiè 。 tā huì bǎ tā shōu hǎo ， guò xiē nián zài ná chū lái jiǎng gěi jiā lǐ rén tīng 。",
+      "tr": "Teşekkürler. Onu saklar, yıllar sonra aileye yeniden anlatır."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_087",
+      "speaker": "刘梅",
+      "zh": "那我们也把誓词放在一起保存，作为以后遇到困难时的提醒。",
+      "pinyin": "nà wǒ men yě bǎ shì cí fàng zài yì qǐ bǎo cún ， zuò wéi yǐ hòu yù dào kùn nán shí de tí xǐng 。",
+      "tr": "Yeminlerimizi de saklayalım; ileride zorlandığımızda birbirimize verdiğimiz sözü hatırlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_088",
+      "speaker": "宾客",
+      "zh": "好，但别把它当成不能改变的规定；我们可以随着生活继续商量。",
+      "pinyin": "hǎo ， dàn bié bǎ tā dàng chéng bù néng gǎi biàn de guī dìng ； wǒ men kě yǐ suí zhe shēng huó jì xù shāng liáng 。",
+      "tr": "Olur ama değiştirilemez bir kural gibi görmeyelim; hayat değiştikçe konuşmaya devam edebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_089",
+      "speaker": "张伟",
+      "zh": "你说得对。承诺是愿意共同面对，不是保证什么都不会发生变化。",
+      "pinyin": "nǐ shuō dé duì 。 chéng nuò shì yuàn yì gòng tóng miàn duì ， bú shì bǎo zhèng shén me dōu bú huì fā shēng biàn huà 。",
+      "tr": "Haklısın. Söz vermek birlikte yüzleşmeye isteklilik demek; hiçbir şey değişmeyecek garantisi değil."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_090",
+      "speaker": "张雨桐",
+      "zh": "我很高兴听到你们这样理解婚姻，也很高兴今天能陪你们走到这一步。",
+      "pinyin": "wǒ hěn gāo xìng tīng dào nǐ men zhè yàng lǐ jiě hūn yīn ， yě hěn gāo xìng jīn tiān néng péi nǐ men zǒu dào zhè yī bù 。",
+      "tr": "Evliliği böyle anlamanıza ve bugün bu aşamaya birlikte gelmemize sevindim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_091",
+      "speaker": "刘梅",
+      "zh": "谢谢爸。今天的祝福和建议，我们都会记住，但生活会由我们一起去过。",
+      "pinyin": "xiè xiè bà 。 jīn tiān de zhù fú hé jiàn yì ， wǒ men dū huì jì zhù ， dàn shēng huó huì yóu wǒ men yì qǐ qù guò 。",
+      "tr": "Teşekkürler baba. İyi dileklerinizi ve önerilerinizi hatırlarız ama hayatımızı birlikte kurarız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_092",
+      "speaker": "宾客",
+      "zh": "这正是我想听到的话。你们可以自己作决定，也可以随时回家聊聊。",
+      "pinyin": "zhè zhèng shì wǒ xiǎng tīng dào de huà 。 nǐ men kě yǐ zì jǐ zuò jué dìng ， yě kě yǐ suí shí huí jiā liáo liáo 。",
+      "tr": "Duymak istediğim buydu. Kendi kararlarınızı verebilir, konuşmak için her zaman eve gelebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_093",
+      "speaker": "张伟",
+      "zh": "妈，谢谢你在我紧张时一直看着我，让我知道你就在旁边。",
+      "pinyin": "mā ， xiè xiè nǐ zài wǒ jǐn zhāng shí yì zhí kàn zhe wǒ ， ràng wǒ zhī dào nǐ jiù zài páng biān 。",
+      "tr": "Anne, heyecanlandığımda gözlerinle yanımda olduğunu hissettirdiğin için teşekkür ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_094",
+      "speaker": "张雨桐",
+      "zh": "我一直都在。以后不一定每次都能替你解决问题，但我会认真听你说。",
+      "pinyin": "wǒ yì zhí dōu zài 。 yǐ hòu bù yí dìng měi cì dōu néng tì nǐ jiě jué wèn tí ， dàn wǒ huì rèn zhēn tīng nǐ shuō 。",
+      "tr": "Hep yanındayım. Her sorunu çözemem ama seni dikkatle dinlerim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_095",
+      "speaker": "刘梅",
+      "zh": "这份支持已经很够了。我们也会先彼此商量，再决定要不要请你们帮忙。",
+      "pinyin": "zhè fèn zhī chí yǐ jīng hěn gòu le 。 wǒ men yě huì xiān bǐ cǐ shāng liáng ， zài jué dìng yào bù yào qǐng nǐ men bāng máng 。",
+      "tr": "Bu destek yeterli. Önce kendi aramızda konuşup sonra sizden yardım isteyip istemediğimize karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_096",
+      "speaker": "宾客",
+      "zh": "好，我尊重你们的节奏。今天就先收下大家的祝福，好好享受接下来的时间。",
+      "pinyin": "hǎo ， wǒ zūn zhòng nǐ men de jié zòu 。 jīn tiān jiù xiān shōu xià dà jiā de zhù fú ， hǎo hǎo xiǎng shòu jiē xià lái de shí jiān 。",
+      "tr": "Peki, sizin hızınıza saygı duyuyorum. Bugün iyi dilekleri kabul edip kalan zamanın tadını çıkarın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_097",
+      "speaker": "张伟",
+      "zh": "各位亲友，谢谢你们听我们说了这么久。现在我们去每桌敬一杯酒。",
+      "pinyin": "gè wèi qīn yǒu ， xiè xiè nǐ men tīng wǒ men shuō le zhè me jiǔ 。 xiàn zài wǒ men qù měi zhuō jìng yī bēi jiǔ 。",
+      "tr": "Sevgili dostlar, sözlerimizi dinlediğiniz için teşekkürler. Şimdi masaları dolaşıp kadeh kaldıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_098",
+      "speaker": "张雨桐",
+      "zh": "好，大家都等着和你们说几句话。祝你们新婚快乐、一路相互扶持。",
+      "pinyin": "hǎo ， dà jiā dōu děng zhe hé nǐ men shuō jǐ jù huà 。 zhù nǐ men xīn hūn kuài lè 、 yī lù xiāng hù fú chí 。",
+      "tr": "Olur, herkes sizinle birkaç kelime konuşmayı bekliyor. Mutlu olun ve birbirinize destek olun."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_099",
+      "speaker": "刘梅",
+      "zh": "谢谢。今天我会记住这间屋子里的每张笑脸，也会记住大家送来的祝福。",
+      "pinyin": "xiè xiè 。 jīn tiān wǒ huì jì zhù zhè jiān wū zi lǐ de měi zhāng xiào liǎn ， yě huì jì zhù dà jiā sòng lái de zhù fú 。",
+      "tr": "Teşekkürler. Bugün buradaki gülümseyen yüzleri ve hepinizin iyi dileklerini hatırlayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC008_100",
+      "speaker": "宾客",
+      "zh": "那我们就一起过去吧。婚礼的致辞结束了，属于你们的生活才刚刚开始。",
+      "pinyin": "nà wǒ men jiù yì qǐ guò qù ba 。 hūn lǐ de zhì cí jié shù le ， shǔ yú nǐ men de shēng huó cái gāng gāng kāi shǐ 。",
+      "tr": "Öyleyse birlikte gidelim. Düğün konuşması bitti; sizin hayatınız şimdi başlıyor."
+    }
+  ]
+}

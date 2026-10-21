@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC009.json",
-  "dialogueSha256": "cafd354d0ede29ef7952aab1d648efe950f98faa02a8113ff21981bc2757c9bb",
+  "dialogueSha256": "1f2bb95362d6faefb44f6560d4ef7fcf0d4bd610d53d94b183354ed86662a9ca",
   "titleZh": "艰难的客户会议",
   "titleTr": "Müşteri Toplantısı",
   "locationId": "LOC_ZH_CONFERENCE_ROOM_001",

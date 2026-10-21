@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC006.json",
-  "dialogueSha256": "494347574d3dfded7305f1dfb5f0cc319b96142dfbbc9d00c69300847474f540",
+  "dialogueSha256": "0de79140fb72b28247481d58610ef324ea4fa947a252f52f14365e99cbe76a99",
   "titleZh": "刘梅先调查再决定",
   "titleTr": "Liu Mei Zor Bir Karar Veriyor",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

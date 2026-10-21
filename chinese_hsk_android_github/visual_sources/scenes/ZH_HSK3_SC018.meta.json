@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC018",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC018.json",
-  "dialogueSha256": "d85d107b5ce2addffe942be27f814db20fe7865cc39ddc6e4695d54b9b091b85",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC018.json",
+  "dialogueSha256": "4c72d1704261c7a3227c7fe2b5844b04c49daaacf6fee0fe6d5d3770e190889e",
   "titleTr": "İlk Çalışan Adayı",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Liu Mei ilk çalışan adayıyla kısa bir iş görüşmesi yapar.",
@@ -47,7 +47,9 @@
     "width": 941,
     "height": 1672,
     "format": "WEBP",
-    "orientation": "9:16_vertical"
+    "orientation": "9:16_vertical",
+    "sha256": "d88f5225ae8a7881183486625ef75b0ff84fdbfccb83cbebf0db86ae10f95e66",
+    "gitBlobSha": "1dd0f57e98c819f4f80979af012986e4461374bf"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -69,7 +71,7 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "LOCKED_V2 görsel QA PASS: mevcut asset aile kafesi, exact cast ve işe alım sahnesiyle uyumlu; yalnız yardımcı locationId gerçek scene JSON ile LOC_ZH_FAMILY_CAFE_001 olarak hizalandı.",
+  "qaNoteTr": "LOCKED_V2 görsel QA PASS: adayın ağız profili yalnız baş bölgesinde hedefli olarak görünür kılındı; sıcak 2.5D/3D CGI, exact cast, iş görüşmesi kompozisyonu ve çevre pikselleri korundu. 941×1672, SSIM 0.98735, maske dışında tüm decoded pikseller birebir aynı; app/runtime SHA ve Git blob eşleşti.",
   "postGenerationVisualQA": {
     "status": "PASS",
     "inspectedAfterGeneration": true,
@@ -80,10 +82,14 @@
     "visualPolicyMatch": true,
     "canonicalCharacterContinuityChecked": true,
     "exactCastChecked": true,
-    "reusedExistingAsset": true,
+    "reusedExistingAsset": false,
     "referenceSceneId": "ZH_HSK1_SC001",
     "locationId": "LOC_ZH_FAMILY_CAFE_001",
     "appRuntimeMirrorBlobMatch": true,
-    "bulkAudit": "HSK3_SC017_SC024_VISUAL_QA_R1_2026-10-10"
+    "bulkAudit": "HSK3_SC017_SC024_VISUAL_QA_R1_2026-10-10",
+    "localizedMouthRepair": true,
+    "ssim": 0.98735,
+    "pixelsOutsideMaskExact": true,
+    "mouthVisibleForApplicant": true
   }
 }

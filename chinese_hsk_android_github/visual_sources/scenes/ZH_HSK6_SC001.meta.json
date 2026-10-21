@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC001.json",
-  "dialogueSha256": "ff2c81bfb644fe58e63e114c6ad71bdb44500acfb0162b957ceb81bf2be88fe7",
+  "dialogueSha256": "1c242479c48ed43928a8835f643e1276e718f76f17bee1b0d2375c8388c870bd",
   "titleZh": "雨桐订婚了",
   "titleTr": "Evlilik Teklifi Haberi",
   "locationId": "LOC_ZH_NEW_HOME_001",

@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 62,
+  "status": "FINAL_REVIEWED_V62",
+  "sceneId": "ZH_HSK3_SC015",
+  "level": "HSK3",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK3_SC015_001",
+      "speaker": "刘梅",
+      "zh": "这张老桌子看起来用了很多年。",
+      "pinyin": "zhè zhāng lǎo zhuō zi kàn qǐ lái yòng le hěn duō nián 。",
+      "tr": "Bu eski masa uzun yıllardır kullanılmış gibi görünüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_002",
+      "speaker": "张伟",
+      "zh": "它以前在街角的茶馆里，老板最近才卖出来。",
+      "pinyin": "tā yǐ qián zài jiē jiǎo de chá guǎn lǐ ， lǎo bǎn zuì jìn cái mài chū lái 。",
+      "tr": "Önceden köşedeki çay evindeymiş; sahibi kısa süre önce satışa çıkarmış."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_003",
+      "speaker": "顾客",
+      "zh": "我喜欢桌面的颜色，和咖啡馆很合适。",
+      "pinyin": "wǒ xǐ huān zhuō miàn de yán sè ， hé kā fēi guǎn hěn hé shì 。",
+      "tr": "Masa yüzeyinin rengini sevdim; kafeye uyuyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_004",
+      "speaker": "张雨桐",
+      "zh": "我们先听听它以前的故事，再决定要不要买。",
+      "pinyin": "wǒ men xiān tīng tīng tā yǐ qián de gù shì ， zài jué dìng yào bù yào mǎi 。",
+      "tr": "Önce geçmişinin hikâyesini dinleyip sonra alıp almayacağımıza karar verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_005",
+      "speaker": "刘梅",
+      "zh": "老板说这张桌子是二手的，价格不高。",
+      "pinyin": "lǎo bǎn shuō zhè zhāng zhuō zi shì èr shǒu de ， jià gé bù gāo 。",
+      "tr": "Sahibi masanın ikinci el olduğunu ve fiyatının yüksek olmadığını söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_006",
+      "speaker": "张伟",
+      "zh": "虽然用过很多年，但是木头还很结实。",
+      "pinyin": "suī rán yòng guò hěn duō nián ， dàn shì mù tou hái hěn jiē shí 。",
+      "tr": "Yıllardır kullanılmış olsa da ahşabı hâlâ sağlam."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_007",
+      "speaker": "顾客",
+      "zh": "桌子上这张老照片是谁的？",
+      "pinyin": "zhuō zi shàng zhè zhāng lǎo zhào piān shì shéi de ？",
+      "tr": "Masanın üzerindeki eski fotoğraf kimin?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_008",
+      "speaker": "张雨桐",
+      "zh": "那是以前茶馆的老板和他的家人。",
+      "pinyin": "nà shì yǐ qián chá guǎn de lǎo bǎn hé tā de jiā rén 。",
+      "tr": "Önceki çay evi sahibinin ve ailesinin fotoğrafı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_009",
+      "speaker": "刘梅",
+      "zh": "他在这里做了多久的生意？",
+      "pinyin": "tā zài zhè lǐ zuò le duō jiǔ de shēng yì ？",
+      "tr": "Burada ne kadar süre iş yapmış?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_010",
+      "speaker": "张伟",
+      "zh": "他说开了二十多年，后来搬到别的街上。",
+      "pinyin": "tā shuō kāi le èr shí duō nián ， hòu lái bān dào bié de jiē shàng 。",
+      "tr": "Yirmi yıldan fazla işlettiğini, sonra başka sokağa taşındığını söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_011",
+      "speaker": "顾客",
+      "zh": "这张桌子以前每天都有人坐吗？",
+      "pinyin": "zhè zhāng zhuō zi yǐ qián měi tiān dōu yǒu rén zuò ma ？",
+      "tr": "Bu masada eskiden her gün oturanlar olur muydu?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_012",
+      "speaker": "张雨桐",
+      "zh": "很多客人喜欢坐在窗边，一边喝茶一边聊天。",
+      "pinyin": "hěn duō kè rén xǐ huān zuò zài chuāng biān ， yī biān hē chá yī biān liáo tiān 。",
+      "tr": "Birçok müşteri pencere kenarında oturup çay içerken sohbet edermiş."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_013",
+      "speaker": "刘梅",
+      "zh": "听起来这张老桌子记得很多故事。",
+      "pinyin": "tīng qǐ lái zhè zhāng lǎo zhuō zi jì de hěn duō gù shì 。",
+      "tr": "Bu eski masa pek çok hikâye taşıyor gibi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_014",
+      "speaker": "张伟",
+      "zh": "是啊，桌面上还有客人写下的小字。",
+      "pinyin": "shì a ， zhuō miàn shàng hái yǒu kè rén xiě xià de xiǎo zì 。",
+      "tr": "Evet, masanın üstünde müşterilerin yazdığı küçük notlar var."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_015",
+      "speaker": "顾客",
+      "zh": "如果把它放在咖啡馆里，客人也会问它的故事。",
+      "pinyin": "rú guǒ bǎ tā fàng zài kā fēi guǎn lǐ ， kè rén yě huì wèn tā de gù shì 。",
+      "tr": "Kafeye koyarsak müşteriler de hikâyesini sorar."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_016",
+      "speaker": "张雨桐",
+      "zh": "我们可以把那张照片放在桌子旁边。",
+      "pinyin": "wǒ men kě yǐ bǎ nà zhāng zhào piān fàng zài zhuō zi páng biān 。",
+      "tr": "Fotoğrafı masanın yanına koyabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_017",
+      "speaker": "刘梅",
+      "zh": "这张二手桌子的价格是多少？",
+      "pinyin": "zhè zhāng èr shǒu zhuō zi de jià gé shì duō shǎo ？",
+      "tr": "Bu ikinci el masanın fiyatı ne kadar?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_018",
+      "speaker": "张伟",
+      "zh": "老板说按原来的价格卖，比新桌子便宜很多。",
+      "pinyin": "lǎo bǎn shuō àn yuán lái de jià gé mài ， bǐ xīn zhuō zi pián yi hěn duō 。",
+      "tr": "Sahibi, yenisinden çok daha ucuza verdiğini söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_019",
+      "speaker": "顾客",
+      "zh": "如果需要修桌脚，还要另外花钱吗？",
+      "pinyin": "rú guǒ xū yào xiū zhuō jiǎo ， hái yào lìng wài huā qián ma ？",
+      "tr": "Ayaklarını tamir ettirmek gerekirse ayrıca masraf çıkar mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_020",
+      "speaker": "张雨桐",
+      "zh": "我问过师傅，他说只要换一颗螺丝。",
+      "pinyin": "wǒ wèn guò shī fù ， tā shuō zhǐ yào huàn yī kē luó sī 。",
+      "tr": "Ustaya sordum; yalnızca bir vida değişmesi gerekiyormuş."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_021",
+      "speaker": "刘梅",
+      "zh": "桌面有几道痕迹，不过不影响使用。",
+      "pinyin": "zhuō miàn yǒu jǐ dào hén jì ， bù guò bù yǐng xiǎng shǐ yòng 。",
+      "tr": "Üstünde birkaç çizik var ama kullanıma engel değil."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_022",
+      "speaker": "张伟",
+      "zh": "虽然不新，但是看起来很有意思。",
+      "pinyin": "suī rán bù xīn ， dàn shì kàn qǐ lái hěn yǒu yì si 。",
+      "tr": "Yeni olmasa da ilginç görünüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_023",
+      "speaker": "顾客",
+      "zh": "我们要不要把桌面重新刷一层漆？",
+      "pinyin": "wǒ men yào bù yào bǎ zhuō miàn chóng xīn shuā yī céng qī ？",
+      "tr": "Üst yüzeyini yeniden cilalayalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_024",
+      "speaker": "张雨桐",
+      "zh": "先擦干净看看，如果颜色好就不用刷。",
+      "pinyin": "xiān cā gān jìng kàn kàn ， rú guǒ yán sè hǎo jiù bù yòng shuā 。",
+      "tr": "Önce temizleyip bakalım; rengi güzelse cilalamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_025",
+      "speaker": "刘梅",
+      "zh": "以前的客人会在这里喝茶还是吃饭？",
+      "pinyin": "yǐ qián de kè rén huì zài zhè lǐ hē chá hái shì chī fàn ？",
+      "tr": "Eski müşteriler burada çay mı içer yemek mi yermiş?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_026",
+      "speaker": "张伟",
+      "zh": "大多喝茶，也会买一点点心。",
+      "pinyin": "dà duō hē chá ， yě huì mǎi yì diǎn diǎn xīn 。",
+      "tr": "Çoğunlukla çay içip biraz atıştırmalık alırlarmış."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_027",
+      "speaker": "顾客",
+      "zh": "那我们的咖啡馆也可以留一道茶的选择。",
+      "pinyin": "nà wǒ men de kā fēi guǎn yě kě yǐ liú yī dào chá de xuǎn zé 。",
+      "tr": "Bizim kafede de çay seçeneği bırakabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_028",
+      "speaker": "张雨桐",
+      "zh": "好，把这个想法写进菜单计划里。",
+      "pinyin": "hǎo ， bǎ zhè ge xiǎng fǎ xiě jìn cài dān jì huà lǐ 。",
+      "tr": "Güzel; bunu menü planına yazalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_029",
+      "speaker": "刘梅",
+      "zh": "照片后面写着一个日期，是茶馆开门的那天吗？",
+      "pinyin": "zhào piān hòu miàn xiě zhe yí gè rì qī ， shì chá guǎn kāi mén de nà tiān ma ？",
+      "tr": "Fotoğrafın arkasındaki tarih çay evinin açıldığı gün mü?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_030",
+      "speaker": "张伟",
+      "zh": "老板说那是他第一次在这里开门的日子。",
+      "pinyin": "lǎo bǎn shuō nà shì tā dì yī cì zài zhè lǐ kāi mén de rì zi 。",
+      "tr": "Sahibi bunun burada ilk kez kapıyı açtığı gün olduğunu söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_031",
+      "speaker": "顾客",
+      "zh": "这张照片要是放在墙上，会不会更好看？",
+      "pinyin": "zhè zhāng zhào piān yào shì fàng zài qiáng shàng ， huì bú huì gèng hǎo kàn ？",
+      "tr": "Fotoğrafı duvara asarsak daha mı güzel görünür?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_032",
+      "speaker": "张雨桐",
+      "zh": "可以试试看，再看看挂在桌边合不合适。",
+      "pinyin": "kě yǐ shì shì kàn ， zài kàn kàn guà zài zhuō biān hé bù hé shì 。",
+      "tr": "Deneyelim, sonra masanın yanında uygun duruyor mu bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_033",
+      "speaker": "刘梅",
+      "zh": "桌子下面有一个抽屉，还能打开吗？",
+      "pinyin": "zhuō zi xià miàn yǒu yí gè chōu tì ， hái néng dǎ kāi ma ？",
+      "tr": "Masanın altında çekmece var; hâlâ açılıyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_034",
+      "speaker": "张伟",
+      "zh": "能，里面放着几张以前的菜单。",
+      "pinyin": "néng ， lǐ miàn fàng zhe jǐ zhāng yǐ qián de cài dān 。",
+      "tr": "Açılıyor; içinde eski menülerden birkaç tane var."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_035",
+      "speaker": "顾客",
+      "zh": "我们能看看以前卖什么吗？",
+      "pinyin": "wǒ men néng kàn kàn yǐ qián mài shén me ma ？",
+      "tr": "Eskiden neler sattıklarına bakabilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_036",
+      "speaker": "张雨桐",
+      "zh": "当然，这些菜单也可以留作店里的故事。",
+      "pinyin": "dāng rán ， zhè xiē cài dān yě kě yǐ liú zuò diàn lǐ de gù shì 。",
+      "tr": "Elbette; bu menüler de dükkânın hikâyesinin parçası olabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_037",
+      "speaker": "刘梅",
+      "zh": "以前一杯茶卖多少钱？",
+      "pinyin": "yǐ qián yī bēi chá mài duō shǎo qián ？",
+      "tr": "Eskiden bir fincan çay ne kadarmış?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_038",
+      "speaker": "张伟",
+      "zh": "价格很便宜，附近的人常常来坐一会儿。",
+      "pinyin": "jià gé hěn pián yi ， fù jìn de rén cháng cháng lái zuò yī huì er 。",
+      "tr": "Fiyatı ucuzmuş; çevredekiler sık sık gelip otururmuş."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_039",
+      "speaker": "顾客",
+      "zh": "现在我们的定价要高一些吗？",
+      "pinyin": "xiàn zài wǒ men de dìng jià yào gāo yī xiē ma ？",
+      "tr": "Şimdi fiyatlarımız daha yüksek mi olmalı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_040",
+      "speaker": "张雨桐",
+      "zh": "先算材料和房租，再决定合适的价格。",
+      "pinyin": "xiān suàn cái liào hé fáng zū ， zài jué dìng hé shì de jià gé 。",
+      "tr": "Uygun fiyata karar vermeden önce malzeme ve kirayı hesaplayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_041",
+      "speaker": "刘梅",
+      "zh": "老桌子放在哪里最合适？",
+      "pinyin": "lǎo zhuō zi fàng zài nǎ lǐ zuì hé shì ？",
+      "tr": "Eski masa en iyi nereye konur?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_042",
+      "speaker": "张伟",
+      "zh": "放在店里中间，大家都能看到。",
+      "pinyin": "fàng zài diàn lǐ zhōng jiān ， dà jiā dōu néng kàn dào 。",
+      "tr": "Dükkânın ortasına koyarsak herkes görür."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_043",
+      "speaker": "顾客",
+      "zh": "不过走路的地方要留宽一点。",
+      "pinyin": "bù guò zǒu lù de dì fāng yào liú kuān yì diǎn 。",
+      "tr": "Ama geçiş alanını geniş bırakmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_044",
+      "speaker": "张雨桐",
+      "zh": "我们先按图摆好，再请大家走一走试试。",
+      "pinyin": "wǒ men xiān àn tú bǎi hǎo ， zài qǐng dà jiā zǒu yī zǒu shì shì 。",
+      "tr": "Önce çizime göre yerleştirip herkesin geçişi denemesini sağlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_045",
+      "speaker": "刘梅",
+      "zh": "桌子的一边有点不平，放东西会滑吗？",
+      "pinyin": "zhuō zi de yī biān yǒu diǎn bù píng ， fàng dōng xī huì huá ma ？",
+      "tr": "Masanın bir yanı düz değil; eşyalar kayar mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_046",
+      "speaker": "张伟",
+      "zh": "师傅可以把桌脚调平，不用换整张桌子。",
+      "pinyin": "shī fù kě yǐ bǎ zhuō jiǎo diào píng ， bù yòng huàn zhěng zhāng zhuō zi 。",
+      "tr": "Usta ayaklarını düzleyebilir; masanın tamamını değiştirmeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_047",
+      "speaker": "顾客",
+      "zh": "如果修好以后还是不稳，就不安全。",
+      "pinyin": "rú guǒ xiū hǎo yǐ hòu hái shì bù wěn ， jiù bù ān quán 。",
+      "tr": "Tamirden sonra hâlâ sallanırsa güvenli olmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_048",
+      "speaker": "张雨桐",
+      "zh": "先修理，再放杯子试一下稳不稳。",
+      "pinyin": "xiān xiū lǐ ， zài fàng bēi zi shì yī xià wěn bù wěn 。",
+      "tr": "Önce tamir edip sonra fincan koyarak sağlamlığını deneriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_049",
+      "speaker": "刘梅",
+      "zh": "老板说这张桌子以前是家里人一起做的。",
+      "pinyin": "lǎo bǎn shuō zhè zhāng zhuō zi yǐ qián shì jiā lǐ rén yì qǐ zuò de 。",
+      "tr": "Sahibi masayı eskiden ailesiyle birlikte yaptıklarını söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_050",
+      "speaker": "张伟",
+      "zh": "所以它不只是便宜的二手家具。",
+      "pinyin": "suǒ yǐ tā bù zhǐ shì pián yi de èr shǒu jiā jù 。",
+      "tr": "Yani yalnızca ucuz bir ikinci el eşya değil."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_051",
+      "speaker": "顾客",
+      "zh": "我明白了，留下它也能留下这家店的故事。",
+      "pinyin": "wǒ míng bái le ， liú xià tā yě néng liú xià zhè jiā diàn de gù shì 。",
+      "tr": "Anladım; masayı korursak dükkânın hikâyesini de yaşatırız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_052",
+      "speaker": "张雨桐",
+      "zh": "如果客人喜欢，我们可以把故事讲给他们听。",
+      "pinyin": "rú guǒ kè rén xǐ huān ， wǒ men kě yǐ bǎ gù shì jiǎng gěi tā men tīng 。",
+      "tr": "Müşteriler severse hikâyeyi onlara anlatırız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_053",
+      "speaker": "刘梅",
+      "zh": "抽屉里的菜单有点旧，但是字还能看清。",
+      "pinyin": "chōu tì lǐ de cài dān yǒu diǎn jiù ， dàn shì zì hái néng kàn qīng 。",
+      "tr": "Çekmecedeki menü eski ama yazılar okunabiliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_054",
+      "speaker": "张伟",
+      "zh": "上面有几种茶和两种点心。",
+      "pinyin": "shàng miàn yǒu jǐ zhǒng chá hé liǎng zhǒng diǎn xīn 。",
+      "tr": "Üzerinde birkaç çay ve iki atıştırmalık var."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_055",
+      "speaker": "顾客",
+      "zh": "我们可以把其中一种点心重新做出来。",
+      "pinyin": "wǒ men kě yǐ bǎ qí zhōng yī zhǒng diǎn xīn zhòng xīn zuò chū lái 。",
+      "tr": "Atıştırmalıklardan birini yeniden yapabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_056",
+      "speaker": "张雨桐",
+      "zh": "先问问老板以前怎么做，再试着准备。",
+      "pinyin": "xiān wèn wèn lǎo bǎn yǐ qián zěn me zuò ， zài shì zhe zhǔn bèi 。",
+      "tr": "Önce sahibine nasıl yaptığını sorup sonra hazırlamayı deneriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_057",
+      "speaker": "刘梅",
+      "zh": "如果桌子太占地方，客人就不好走动。",
+      "pinyin": "rú guǒ zhuō zi tài zhàn dì fāng ， kè rén jiù bù hǎo zǒu dòng 。",
+      "tr": "Masa çok yer kaplarsa müşterilerin dolaşması zorlaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_058",
+      "speaker": "张伟",
+      "zh": "我们量过了，旁边还能留出一米宽的路。",
+      "pinyin": "wǒ men liàng guò le ， páng biān hái néng liú chū yī mǐ kuān de lù 。",
+      "tr": "Ölçtük; yanında bir metre genişliğinde yol kalıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_059",
+      "speaker": "顾客",
+      "zh": "那放在这里应该不会挡路。",
+      "pinyin": "nà fàng zài zhè lǐ yīng gāi bú huì dǎng lù 。",
+      "tr": "O hâlde buraya koyarsak yolu kapatmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_060",
+      "speaker": "张雨桐",
+      "zh": "我把最后的尺寸写在装修图上。",
+      "pinyin": "wǒ bǎ zuì hòu de chǐ cùn xiě zài zhuāng xiū tú shàng 。",
+      "tr": "Son ölçüleri tadilat çizimine ekleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_061",
+      "speaker": "刘梅",
+      "zh": "老板为什么决定卖掉这张桌子？",
+      "pinyin": "lǎo bǎn wèi shén me jué dìng mài diào zhè zhāng zhuō zi ？",
+      "tr": "Sahibi masayı neden satmaya karar vermiş?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_062",
+      "speaker": "张伟",
+      "zh": "新店地方小，放不下以前的桌椅。",
+      "pinyin": "xīn diàn dì fāng xiǎo ， fàng bù xià yǐ qián de zhuō yǐ 。",
+      "tr": "Yeni dükkân küçük; eski masalarla sandalyeler sığmıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_063",
+      "speaker": "顾客",
+      "zh": "他希望桌子去一个有人喜欢的地方。",
+      "pinyin": "tā xī wàng zhuō zi qù yí gè yǒu rén xǐ huān de dì fāng 。",
+      "tr": "Masayı sevecekleri bir yere gitmesini umuyormuş."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_064",
+      "speaker": "张雨桐",
+      "zh": "我们可以让他有空时来看看它。",
+      "pinyin": "wǒ men kě yǐ ràng tā yǒu kòng shí lái kàn kàn tā 。",
+      "tr": "Vakti olursa gelip masayı görmesini sağlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_065",
+      "speaker": "刘梅",
+      "zh": "如果我们买下桌子，照片也能一起留下吗？",
+      "pinyin": "rú guǒ wǒ men mǎi xià zhuō zi ， zhào piān yě néng yì qǐ liú xià ma ？",
+      "tr": "Masayı alırsak fotoğrafı da birlikte kalabilir mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_066",
+      "speaker": "张伟",
+      "zh": "可以，老板说那张照片可以送给我们。",
+      "pinyin": "kě yǐ ， lǎo bǎn shuō nà zhāng zhào piān kě yǐ sòng gěi wǒ men 。",
+      "tr": "Olur; fotoğrafı bize verebileceğini söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_067",
+      "speaker": "顾客",
+      "zh": "我会把照片放进一个小框里，挂在旁边。",
+      "pinyin": "wǒ huì bǎ zhào piān fàng jìn yí gè xiǎo kuāng lǐ ， guà zài páng biān 。",
+      "tr": "Fotoğrafı küçük bir çerçeveye koyup yanına asarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_068",
+      "speaker": "张雨桐",
+      "zh": "这样客人就能一边看桌子，一边听它的故事。",
+      "pinyin": "zhè yàng kè rén jiù néng yī biān kàn zhuō zi ， yī biān tīng tā de gù shì 。",
+      "tr": "Böylece müşteriler masaya bakarken hikâyesini de dinler."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_069",
+      "speaker": "刘梅",
+      "zh": "这张桌子的价格比新桌子低很多。",
+      "pinyin": "zhè zhāng zhuō zi de jià gé bǐ xīn zhuō zi dī hěn duō 。",
+      "tr": "Bu masanın fiyatı yeni masadan çok daha düşük."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_070",
+      "speaker": "张伟",
+      "zh": "不过要把修理和搬运的钱也算进去。",
+      "pinyin": "bù guò yào bǎ xiū lǐ hé bān yùn de qián yě suàn jìn qù 。",
+      "tr": "Ama tamir ve taşıma masrafını da hesaba katmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_071",
+      "speaker": "顾客",
+      "zh": "如果总价合适，我们就可以买下来。",
+      "pinyin": "rú guǒ zǒng jià hé shì ， wǒ men jiù kě yǐ mǎi xià lái 。",
+      "tr": "Toplam fiyat uygunsa satın alabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_072",
+      "speaker": "张雨桐",
+      "zh": "我今天和老板谈清楚，再告诉大家。",
+      "pinyin": "wǒ jīn tiān hé lǎo bǎn tán qīng chǔ ， zài gào sù dà jiā 。",
+      "tr": "Bugün sahibiyle netleştirip herkese haber vereyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_073",
+      "speaker": "刘梅",
+      "zh": "我已经问过老板，他愿意按原来的价格卖。",
+      "pinyin": "wǒ yǐ jīng wèn guò lǎo bǎn ， tā yuàn yì àn yuán lái de jià gé mài 。",
+      "tr": "Sahibine sordum; eski fiyatından vermeye razı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_074",
+      "speaker": "张伟",
+      "zh": "搬桌子的费用也不高。",
+      "pinyin": "bān zhuō zi de fèi yòng yě bù gāo 。",
+      "tr": "Taşıma masrafı da yüksek değil."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_075",
+      "speaker": "顾客",
+      "zh": "那我们要不要今天就作决定？",
+      "pinyin": "nà wǒ men yào bù yào jīn tiān jiù zuò jué dìng ？",
+      "tr": "O hâlde bugün karar verelim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_076",
+      "speaker": "张雨桐",
+      "zh": "先让师傅确认桌子稳固，再答复老板。",
+      "pinyin": "xiān ràng shī fù què rèn zhuō zi wěn gù ， zài dá fù lǎo bǎn 。",
+      "tr": "Önce ustaya masanın sağlamlığını teyit ettirelim, sonra cevap veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_077",
+      "speaker": "刘梅",
+      "zh": "师傅检查过了，只要修一下桌脚。",
+      "pinyin": "shī fù jiǎn chá guò le ， zhǐ yào xiū yī xià zhuō jiǎo 。",
+      "tr": "Usta kontrol etti; yalnızca ayaklarını tamir etmek gerekiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_078",
+      "speaker": "张伟",
+      "zh": "修好以后，这张老桌子就能继续用。",
+      "pinyin": "xiū hǎo yǐ hòu ， zhè zhāng lǎo zhuō zi jiù néng jì xù yòng 。",
+      "tr": "Tamir edilince eski masa kullanılmaya devam edebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_079",
+      "speaker": "顾客",
+      "zh": "我很高兴它能留在街角的咖啡馆里。",
+      "pinyin": "wǒ hěn gāo xìng tā néng liú zài jiē jiǎo de kā fēi guǎn lǐ 。",
+      "tr": "Köşe başındaki kafede kalacak olmasına sevindim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_080",
+      "speaker": "张雨桐",
+      "zh": "那我们就买下来，把照片和菜单也保存好。",
+      "pinyin": "nà wǒ men jiù mǎi xià lái ， bǎ zhào piān hé cài dān yě bǎo cún hǎo 。",
+      "tr": "O hâlde satın alıp fotoğrafla menüyü de koruyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_081",
+      "speaker": "刘梅",
+      "zh": "我们把桌子放在窗边，位置正好。",
+      "pinyin": "wǒ men bǎ zhuō zi fàng zài chuāng biān ， wèi zhì zhèng hǎo 。",
+      "tr": "Masayı pencere yanına koyduk; yeri tam oldu."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_082",
+      "speaker": "张伟",
+      "zh": "抽屉可以打开，桌面也擦干净了。",
+      "pinyin": "chōu tì kě yǐ dǎ kāi ， zhuō miàn yě cā gān jìng le 。",
+      "tr": "Çekmece açılıyor, üst yüzeyi de temizledik."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_083",
+      "speaker": "顾客",
+      "zh": "客人坐在这里能看到那张旧照片。",
+      "pinyin": "kè rén zuò zài zhè lǐ néng kàn dào nà zhāng jiù zhào piān 。",
+      "tr": "Müşteriler burada oturunca eski fotoğrafı görebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_084",
+      "speaker": "张雨桐",
+      "zh": "我把故事写在一张小卡片上，放在桌上。",
+      "pinyin": "wǒ bǎ gù shì xiě zài yī zhāng xiǎo kǎ piàn shàng ， fàng zài zhuō shàng 。",
+      "tr": "Hikâyeyi küçük bir karta yazıp masaya koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_085",
+      "speaker": "刘梅",
+      "zh": "虽然这张桌子是二手的，但是大家都喜欢。",
+      "pinyin": "suī rán zhè zhāng zhuō zi shì èr shǒu de ， dàn shì dà jiā dōu xǐ huān 。",
+      "tr": "Masa ikinci el olsa da herkes onu seviyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_086",
+      "speaker": "张伟",
+      "zh": "它以前的故事让咖啡馆更有意思。",
+      "pinyin": "tā yǐ qián de gù shì ràng kā fēi guǎn gèng yǒu yì si 。",
+      "tr": "Geçmişi kafeyi daha ilginç kılıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_087",
+      "speaker": "顾客",
+      "zh": "价格也合适，修理以后很稳。",
+      "pinyin": "jià gé yě hé shì ， xiū lǐ yǐ hòu hěn wěn 。",
+      "tr": "Fiyatı da uygun ve tamirden sonra sağlam."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_088",
+      "speaker": "张雨桐",
+      "zh": "看来我们作了一个不错的选择。",
+      "pinyin": "kàn lái wǒ men zuò le yí gè bù cuò de xuǎn zé 。",
+      "tr": "Görünüşe göre iyi bir seçim yaptık."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_089",
+      "speaker": "刘梅",
+      "zh": "老板听说我们留下了这张桌子，很高兴。",
+      "pinyin": "lǎo bǎn tīng shuō wǒ men liú xià le zhè zhāng zhuō zi ， hěn gāo xìng 。",
+      "tr": "Sahibi masayı koruduğumuzu duyunca sevindi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_090",
+      "speaker": "张伟",
+      "zh": "他说以后会带家人来看看。",
+      "pinyin": "tā shuō yǐ hòu huì dài jiā rén lái kàn kàn 。",
+      "tr": "Daha sonra ailesiyle gelip göreceğini söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_091",
+      "speaker": "顾客",
+      "zh": "我们给他们留个靠窗的位置吧。",
+      "pinyin": "wǒ men gěi tā men liú gè kào chuāng de wèi zhì ba 。",
+      "tr": "Onlara pencere yanında yer ayıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_092",
+      "speaker": "张雨桐",
+      "zh": "好，到时候再给他们讲讲桌子的新故事。",
+      "pinyin": "hǎo ， dào shí hòu zài gěi tā men jiǎng jiǎng zhuō zi de xīn gù shì 。",
+      "tr": "Olur; o zaman masanın yeni hikâyesini de anlatırız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_093",
+      "speaker": "刘梅",
+      "zh": "这张桌子让我们想起以前的茶馆。",
+      "pinyin": "zhè zhāng zhuō zi ràng wǒ men xiǎng qǐ yǐ qián de chá guǎn 。",
+      "tr": "Bu masa bize eski çay evini hatırlatıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_094",
+      "speaker": "张伟",
+      "zh": "虽然店换了，桌子还是能继续使用。",
+      "pinyin": "suī rán diàn huàn le ， zhuō zi hái shì néng jì xù shǐ yòng 。",
+      "tr": "Dükkân değişse de masa kullanılmaya devam ediyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_095",
+      "speaker": "顾客",
+      "zh": "我希望以后也有人在这里留下新的回忆。",
+      "pinyin": "wǒ xī wàng yǐ hòu yě yǒu rén zài zhè lǐ liú xià xīn de huí yì 。",
+      "tr": "Umarım insanlar ileride burada yeni anılar biriktirir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_096",
+      "speaker": "张雨桐",
+      "zh": "那就把它擦好，准备迎接第一批客人。",
+      "pinyin": "nà jiù bǎ tā cā hǎo ， zhǔn bèi yíng jiē dì yī pī kè rén 。",
+      "tr": "O hâlde masayı iyice temizleyip ilk müşterileri bekleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_097",
+      "speaker": "刘梅",
+      "zh": "今天我们听到了老桌子的故事，也决定买下来。",
+      "pinyin": "jīn tiān wǒ men tīng dào le lǎo zhuō zi de gù shì ， yě jué dìng mǎi xià lái 。",
+      "tr": "Bugün eski masanın hikâyesini dinleyip almaya karar verdik."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_098",
+      "speaker": "张伟",
+      "zh": "价格合适，桌脚修好以后也很稳。",
+      "pinyin": "jià gé hé shì ， zhuō jiǎo xiū hǎo yǐ hòu yě hěn wěn 。",
+      "tr": "Fiyatı uygun; ayakları tamir edilince sağlam oldu."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_099",
+      "speaker": "顾客",
+      "zh": "照片和以前的菜单也会留在店里。",
+      "pinyin": "zhào piān hé yǐ qián de cài dān yě huì liú zài diàn lǐ 。",
+      "tr": "Fotoğrafla eski menü de dükkânda kalacak."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC015_100",
+      "speaker": "张雨桐",
+      "zh": "好，等咖啡馆开门，大家就能看到它了。",
+      "pinyin": "hǎo ， děng kā fēi guǎn kāi mén ， dà jiā jiù néng kàn dào tā le 。",
+      "tr": "Güzel; kafe açılınca herkes onu görebilecek."
+    }
+  ]
+}

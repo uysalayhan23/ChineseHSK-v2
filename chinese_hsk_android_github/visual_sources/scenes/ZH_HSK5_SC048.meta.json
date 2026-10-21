@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC048.json",
-  "dialogueSha256": "114c8bbcfc0d6426df5d40ed4b931bba1033b67c8ccdc55f5ff6ddb773071fa2",
+  "dialogueSha256": "1b7e706f1ea31e44ab0b7462a8d22673c9e9b346f2cdcb454c83f5e87784e2c2",
   "titleZh": "雨桐谈到结婚",
   "titleTr": "Yutong Evlilik Fikrini Açıyor",
   "locationId": "LOC_ZH_NEW_HOME_001",

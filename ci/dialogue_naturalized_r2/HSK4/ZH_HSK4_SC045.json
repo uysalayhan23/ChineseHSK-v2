@@ -1,0 +1,710 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK4_SC045",
+  "level": "HSK4",
+  "sourceTitleZh": "准备离家",
+  "sourceTitleTr": "Ayrılık Hazırlığı",
+  "sourceMiniAdventureTr": "Yurt eşyaları hazırlanırken hem heyecan hem hüzün yaşanır.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK4_SC045_001",
+      "speaker": "张雨桐",
+      "zh": "行李箱快装满了，我还没决定哪些东西真的要带去大学。",
+      "pinyin": "Xíng lǐ xiāng kuài zhuāng mǎn le wǒ hái méi jué dìng nǎ xiē dōng xī zhēn de yào dài qù dà xué",
+      "tr": "Bavul neredeyse doldu ama üniversiteye gerçekten ne götürmem gerektiğine karar veremedim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_002",
+      "speaker": "刘梅",
+      "zh": "先把衣服、日用品和学习用品分开，看看每一类有多少。",
+      "pinyin": "Xiān bǎ yī fú rì yòng pǐn hé xué xí yòng pǐn fēn kāi kàn kàn měi yī lèi yǒu duō shǎo",
+      "tr": "Önce kıyafetleri, günlük eşyaları ve ders malzemelerini ayıralım; her birinin miktarına bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_003",
+      "speaker": "张伟",
+      "zh": "别忘了先确认宿舍提供什么，能用学校的就不用自己带。",
+      "pinyin": "Bié wàng le xiān què rèn sù shè tí gōng shén me néng yòng xué xiào de jiù bù yòng zì jǐ dài",
+      "tr": "Yurdun neler sağladığını kontrol et; okulda olanı kendin götürmene gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_004",
+      "speaker": "张乐乐",
+      "zh": "姐姐可以先带最常用的东西，其他的以后有需要再拿。",
+      "pinyin": "Jiě jiě kě yǐ xiān dài zuì cháng yòng de dōng xī qí tā de yǐ hòu yǒu xū yào zài ná",
+      "tr": "Ablam en çok kullanacaklarını götürsün; gerisini ihtiyaç olursa sonra alırız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_005",
+      "speaker": "张雨桐",
+      "zh": "好，我先把行李箱里的衣服拿出来，只留下适合换洗的几套。",
+      "pinyin": "Hǎo wǒ xiān bǎ xíng lǐ xiāng lǐ de yī fú ná chū lái zhǐ liú xià shì hé huàn xǐ de jǐ tào",
+      "tr": "Tamam, kıyafetleri çıkarıp yalnızca dönüşümlü giyebileceğim birkaç takım bırakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_006",
+      "speaker": "刘梅",
+      "zh": "天气热的时候你常穿的薄外套也带一件，教室里可能会冷。",
+      "pinyin": "Tiān qì rè de shí hòu nǐ cháng chuān de báo wài tào yě dài yī jiàn jiào shì lǐ kě néng huì lěng",
+      "tr": "Sıcak havalarda giydiğin ince bir hırkayı da al; sınıflar serin olabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_007",
+      "speaker": "张伟",
+      "zh": "我会查看学校附近的天气和洗衣房，再决定带多少衣服。",
+      "pinyin": "Wǒ huì chá kàn xué xiào fù jìn de tiān qì hé xǐ yī fáng zài jué dìng dài duō shǎo yī fú",
+      "tr": "Okul çevresinin havasına ve çamaşırhaneye bakıp kaç parça götüreceğime karar veririm."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_008",
+      "speaker": "张乐乐",
+      "zh": "你真仔细，我以前去夏令营总是带太多。",
+      "pinyin": "Nǐ zhēn zǐ xì wǒ yǐ qián qù xià lìng yíng zǒng shì dài tài duō",
+      "tr": "Çok dikkatli düşünüyorsun; ben kampa giderken hep gereğinden fazla eşya alırdım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_009",
+      "speaker": "张雨桐",
+      "zh": "床单和被子要自己准备吗？",
+      "pinyin": "Chuáng dān hé bèi zi yào zì jǐ zhǔn bèi ma",
+      "tr": "Çarşafı ve yorganı kendim mi hazırlamalıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_010",
+      "speaker": "刘梅",
+      "zh": "学校说宿舍有床垫，床单可以自带，也可以到校后再买。",
+      "pinyin": "Xué xiào shuō sù shè yǒu chuáng diàn chuáng dān kě yǐ zì dài yě kě yǐ dào xiào hòu zài mǎi",
+      "tr": "Okul yatağı sağlıyormuş; çarşafı götürebilir ya da vardıktan sonra satın alabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_011",
+      "speaker": "张伟",
+      "zh": "我们先带一套轻便的，到了以后看床的大小再决定。",
+      "pinyin": "Wǒ men xiān dài yī tào qīng biàn de dào le yǐ hòu kàn chuáng de dà xiǎo zài jué dìng",
+      "tr": "Önce hafif bir takım alalım; yatağın ölçüsünü görünce karar verirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_012",
+      "speaker": "张乐乐",
+      "zh": "我把枕头和毛巾放进这个袋子，比较容易找到。",
+      "pinyin": "Wǒ bǎ zhěn tou hé máo jīn fàng jìn zhè ge dài zi bǐ jiào róng yì zhǎo dào",
+      "tr": "Yastıkla havluları kolay bulmak için bu çantaya koyacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_013",
+      "speaker": "张雨桐",
+      "zh": "每个袋子外面写上名字和里面的东西，搬进宿舍时会省事。",
+      "pinyin": "Měi gè dài zi wài miàn xiě shàng míng zì hé lǐ miàn de dōng xī bān jìn sù shè shí huì shěng shì",
+      "tr": "Yurda taşınırken kolaylık olsun diye her çantaya adını ve içindekileri yaz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_014",
+      "speaker": "刘梅",
+      "zh": "我来准备标签，姐姐写清楚哪些箱子先打开。",
+      "pinyin": "Wǒ lái zhǔn bèi biāo qiān jiě jiě xiě qīng chǔ nǎ xiē xiāng zi xiān dǎ kāi",
+      "tr": "Etiketleri ben hazırlayayım; sen hangi kutuların önce açılacağını işaretle."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_015",
+      "speaker": "张伟",
+      "zh": "书不用全带，第一学期的教材可以开学后再买。",
+      "pinyin": "Shū bù yòng quán dài dì yī xué qī de jiào cái kě yǐ kāi xué hòu zài mǎi",
+      "tr": "Bütün kitapları götürme; ilk dönemin ders kitaplarını okul açılınca alabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_016",
+      "speaker": "张乐乐",
+      "zh": "我只带几本常看的书和笔记本，别的先留在家里。",
+      "pinyin": "Wǒ zhǐ dài jǐ běn cháng kàn de shū hé bǐ jì běn bié de xiān liú zài jiā lǐ",
+      "tr": "Sık kullandığım birkaç kitabı ve defterimi alıp diğerlerini evde bırakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_017",
+      "speaker": "张雨桐",
+      "zh": "独立生活不等于什么都得自己一次准备齐。",
+      "pinyin": "Dú lì shēng huó bù děng yú shén me dōu dé zì jǐ yī cì zhǔn bèi qí",
+      "tr": "Bağımsız yaşamak, her şeyi en başta eksiksiz hazırlamak demek değil."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_018",
+      "speaker": "刘梅",
+      "zh": "对，发现缺什么再想办法，也是在学习安排生活。",
+      "pinyin": "Duì fā xiàn quē shén me zài xiǎng bàn fǎ yě shì zài xué xí ān pái shēng huó",
+      "tr": "Evet, eksiklerini fark edip çözüm bulmak da hayatını düzenlemeyi öğrenmenin bir parçası."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_019",
+      "speaker": "张伟",
+      "zh": "我以前也觉得送你离开家很难。现在看到你期待大学生活，我也放心了。",
+      "pinyin": "wǒ yǐ qián yě jué de sòng nǐ lí kāi jiā hěn nán xiàn zài kàn dào nǐ qī dài dà xué shēng huó wǒ yě fàng xīn le",
+      "tr": "Eskiden seni evden uğurlamanın zor olacağını düşünürdüm. Üniversite yaşamını heyecanla beklediğini görünce içim rahatlıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_020",
+      "speaker": "张乐乐",
+      "zh": "我们会想你，不过也为你能开始大学生活感到高兴。",
+      "pinyin": "Wǒ men huì xiǎng nǐ bù guò yě wèi nǐ néng kāi shǐ dà xué shēng huó gǎn dào gāo xìng",
+      "tr": "Seni özleyeceğiz ama üniversite yaşamına başlamana da seviniyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_021",
+      "speaker": "张雨桐",
+      "zh": "我想带台灯和插线板，但宿舍可能不让用太多电器。",
+      "pinyin": "Wǒ xiǎng dài tái dēng hé chā xiàn bǎn dàn sù shè kě néng bù ràng yòng tài duō diàn qì",
+      "tr": "Masa lambasıyla uzatma kablosunu götürmek istiyorum ama yurtta çok elektrikli eşya kullanmaya izin vermeyebilirler."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_022",
+      "speaker": "刘梅",
+      "zh": "先读宿舍规定，确认哪些东西可以带进去。",
+      "pinyin": "Xiān dú sù shè guī dìng què rèn nǎ xiē dōng xī kě yǐ dài jìn qù",
+      "tr": "Önce yurt kurallarını okuyup hangi eşyaları getirebileceğini doğrula."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_023",
+      "speaker": "张伟",
+      "zh": "我找到入住说明了，台灯可以，插线板要有安全认证。",
+      "pinyin": "Wǒ zhǎo dào rù zhù shuō míng le tái dēng kě yǐ chā xiàn bǎn yào yǒu ān quán rèn zhèng",
+      "tr": "Yerleşme kılavuzunu buldum; lambaya izin var, uzatma kablosunun güvenlik sertifikası olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_024",
+      "speaker": "张乐乐",
+      "zh": "姐姐先把不确定的东西列出来，再打电话问宿舍老师。",
+      "pinyin": "jiě jiě xiān bǎ bù què dìng de dōng xī liè chū lái zài dǎ diàn huà wèn sù shè lǎo shī",
+      "tr": "Ablam önce emin olmadığı eşyaları listeleyip yurt görevlisini arasın."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_025",
+      "speaker": "张雨桐",
+      "zh": "洗衣液和洗发水带一小瓶就够，附近超市也可以买。",
+      "pinyin": "Xǐ yī yè hé xǐ fà shuǐ dài yī xiǎo píng jiù gòu fù jìn chāo shì yě kě yǐ mǎi",
+      "tr": "Deterjanla şampuanı küçük şişede götürmen yeter; yakındaki marketten de alabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_026",
+      "speaker": "刘梅",
+      "zh": "对，别把大瓶的都装进箱子，路上又重又容易漏。",
+      "pinyin": "Duì bié bǎ dà píng de dōu zhuāng jìn xiāng zi lù shàng yòu zhòng yòu róng yì lòu",
+      "tr": "Evet, büyük şişeleri valize koyma; hem ağır olur hem de yolda akabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_027",
+      "speaker": "张伟",
+      "zh": "我把药、充电器和证件放在随身包里。",
+      "pinyin": "Wǒ bǎ yào chōng diàn qì hé zhèng jiàn fàng zài suí shēn bāo lǐ",
+      "tr": "İlaçlarımı, şarj aletimi ve kimliğimi el çantama koyuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_028",
+      "speaker": "张乐乐",
+      "zh": "重要证件最好单独放好，到了学校也别随手乱放。",
+      "pinyin": "Zhòng yào zhèng jiàn zuì hǎo dān dú fàng hǎo dào le xué xiào yě bié suí shǒu luàn fàng",
+      "tr": "Önemli belgeleri ayrı yerde tut; okula varınca da ortada bırakma."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_029",
+      "speaker": "张雨桐",
+      "zh": "银行卡和身份证我会放进有拉链的小袋子里。",
+      "pinyin": "Yín háng kǎ hé shēn fèn zhèng wǒ huì fàng jìn yǒu lā liàn de xiǎo dài zi lǐ",
+      "tr": "Kimliğimi ve banka kartımı fermuarlı küçük bir keseye koyarım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_030",
+      "speaker": "刘梅",
+      "zh": "我帮你在清单上标出来，出发前再核对一次。",
+      "pinyin": "Wǒ bāng nǐ zài qīng dān shàng biāo chū lái chū fā qián zài hé duì yī cì",
+      "tr": "Listeye ekleyeyim; yola çıkmadan önce bir kez daha kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_031",
+      "speaker": "张伟",
+      "zh": "整理行李时才发现，我有不少东西平时根本没用过。",
+      "pinyin": "Zhěng lǐ xíng lǐ shí cái fā xiàn wǒ yǒu bù shǎo dōng xī píng shí gēn běn méi yòng guò",
+      "tr": "Eşyaları toplarken, kullanmadığım birçok şey olduğunu fark ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_032",
+      "speaker": "张乐乐",
+      "zh": "这次正好挑一挑，捐出还能用的，不要的就回收。",
+      "pinyin": "Zhè cì zhèng hǎo tiāo yī tiāo juān chū hái néng yòng de bú yào de jiù huí shōu",
+      "tr": "Tam sırası; kullanılabilirleri bağışla, artık işine yaramayanları geri dönüşüme ver."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_033",
+      "speaker": "张雨桐",
+      "zh": "我可以把状态好的书送给社区图书角。",
+      "pinyin": "Wǒ kě yǐ bǎ zhuàng tài hǎo de shū sòng gěi shè qū tú shū jiǎo",
+      "tr": "İyi durumdaki kitapları mahalle kitaplığına bağışlayabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_034",
+      "speaker": "刘梅",
+      "zh": "那我来帮你分类，书和衣服分开放，记下要送去哪里。",
+      "pinyin": "Nà wǒ lái bāng nǐ fēn lèi shū hé yī fú fēn kāi fàng jì xià yào sòng qù nǎ lǐ",
+      "tr": "Ayırmana yardım ederim; kitapları ve kıyafetleri ayrı koyup nereye gideceklerini not ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_035",
+      "speaker": "张伟",
+      "zh": "收拾行李也是整理生活，不必把所有东西都带走。",
+      "pinyin": "Shōu shí xíng lǐ yě shì zhěng lǐ shēng huó bù bì bǎ suǒ yǒu dōng xī dōu dài zǒu",
+      "tr": "Eşya toplamak hayatını düzenlemek gibidir; her şeyi yanında götürmek zorunda değilsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_036",
+      "speaker": "张乐乐",
+      "zh": "是啊，宿舍空间有限，我也想学着只留下需要的东西。",
+      "pinyin": "Shì a sù shè kōng jiān yǒu xiàn wǒ yě xiǎng xué zhe zhǐ liú xià xū yào de dōng xī",
+      "tr": "Evet, yurtta yer sınırlı; yalnızca ihtiyacım olanları bırakmayı öğrenmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_037",
+      "speaker": "张雨桐",
+      "zh": "不过我舍不得这只旧玩偶，它一直放在床头。",
+      "pinyin": "Bù guò wǒ shě bù dé zhè zhǐ jiù wán ǒu tā yì zhí fàng zài chuáng tóu",
+      "tr": "Ama yatağımın başında duran eski peluşumu bırakmaya kıyamıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_038",
+      "speaker": "刘梅",
+      "zh": "你可以带上它。喜欢的东西也能让新房间更有家的感觉。",
+      "pinyin": "Nǐ kě yǐ dài shàng tā xǐ huān de dōng xī yě néng ràng xīn fáng jiān gèng yǒu jiā de gǎn jué",
+      "tr": "Onu götürebilirsin. Sevdiğin bir eşya yeni odanı da daha sıcak hissettirir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_039",
+      "speaker": "张伟",
+      "zh": "好，我把它放在箱子最上面，到了就能拿出来。",
+      "pinyin": "Hǎo wǒ bǎ tā fàng zài xiāng zi zuì shàng miàn dào le jiù néng ná chū lái",
+      "tr": "Tamam, valizin en üstüne koyarım; varınca hemen çıkarabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_040",
+      "speaker": "张乐乐",
+      "zh": "这样就不必担心压坏，到了宿舍也好找。",
+      "pinyin": "Zhè yàng jiù bù bì dān xīn yā huài dào le sù shè yě hǎo zhǎo",
+      "tr": "Böylece ezilmez, yurda vardığında bulman da kolay olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_041",
+      "speaker": "张雨桐",
+      "zh": "我把需要带的东西写成清单了，现在可以按类别装箱。",
+      "pinyin": "Wǒ bǎ xū yào dài de dōng xī xiě chéng qīng dān le xiàn zài kě yǐ àn lèi bié zhuāng xiāng",
+      "tr": "İhtiyacım olanları listeledim; şimdi türlerine göre kutulara yerleştirebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_042",
+      "speaker": "刘梅",
+      "zh": "先装不常用的床品和换季衣服，最后再放日常要用的东西。",
+      "pinyin": "Xiān zhuāng bù cháng yòng de chuáng pǐn hé huàn jì yī fú zuì hòu zài fàng rì cháng yào yòng de dōng xī",
+      "tr": "Önce seyrek kullanacaklarını, yatak takımlarını ve mevsimlik giysileri koyalım; günlük eşyaları en son ekleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_043",
+      "speaker": "张伟",
+      "zh": "箱子太重的话，到大学后搬上楼会很费力。",
+      "pinyin": "Xiāng zi tài zhòng de huà dào dà xué hòu bān shàng lóu huì hěn fèi lì",
+      "tr": "Bavul çok ağır olursa üniversitede merdivenlerden çıkarmak zorlaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_044",
+      "speaker": "张乐乐",
+      "zh": "我们称一下重量，重的书可以分到另一个袋子里。",
+      "pinyin": "Wǒ men chēng yī xià zhòng liàng zhòng de shū kě yǐ fēn dào lìng yí gè dài zi lǐ",
+      "tr": "Tartalım; ağır kitapları başka bir çantaya bölebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_045",
+      "speaker": "张雨桐",
+      "zh": "我把三本教材放在一个小箱子里，提起来还可以。",
+      "pinyin": "Wǒ bǎ sān běn jiào cái fàng zài yí gè xiǎo xiāng zi lǐ tí qǐ lái hái kě yǐ",
+      "tr": "Üç ders kitabını küçük bir kutuya koydum; hâlâ taşıyabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_046",
+      "speaker": "刘梅",
+      "zh": "水杯和餐具要不要带？",
+      "pinyin": "Shuǐ bēi hé cān jù yào bù yào dài",
+      "tr": "Matara ve çatal kaşık götürmeli miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_047",
+      "speaker": "张伟",
+      "zh": "宿舍有公共餐厅，但自己的水杯和筷子带着方便。",
+      "pinyin": "Sù shè yǒu gōng gòng cān tīng dàn zì jǐ de shuǐ bēi hé kuài zi dài zhe fāng biàn",
+      "tr": "Yurtta ortak yemek salonu var ama kendi matarası ve yemek çubukların kullanışlı olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_048",
+      "speaker": "张乐乐",
+      "zh": "我会选轻一点、容易清洗的，不带整套餐具。",
+      "pinyin": "Wǒ huì xuǎn qīng yì diǎn róng yì qīng xǐ de bù dài zhěng tào cān jù",
+      "tr": "Hafif ve kolay yıkananları seçerim; koca bir set götürmem."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_049",
+      "speaker": "张雨桐",
+      "zh": "清单上还有洗衣袋和几枚衣架，这些是不是也要带？",
+      "pinyin": "Qīng dān shàng hái yǒu xǐ yī dài hé jǐ méi yī jià zhè xiē shì bú shì yě yào dài",
+      "tr": "Listede çamaşır torbası ve birkaç askı da var; bunlar gerekli mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_050",
+      "speaker": "刘梅",
+      "zh": "先带几个就行，房间里的挂衣空间确认后再决定。",
+      "pinyin": "Xiān dài jǐ gè jiù xíng fáng jiān lǐ de guà yī kōng jiān què rèn hòu zài jué dìng",
+      "tr": "Şimdilik birkaç tane götür; odadaki asma yerini görünce karar verirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_051",
+      "speaker": "张伟",
+      "zh": "好，我把不确定的东西放在“到校后再买”的一栏。",
+      "pinyin": "Hǎo wǒ bǎ bù què dìng de dōng xī fàng zài dào xiào hòu zài mǎi de yī lán",
+      "tr": "Tamam, emin olmadıklarımı “okula varınca al” bölümüne yazayım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_052",
+      "speaker": "张乐乐",
+      "zh": "这样做准备比较有条理，也能避免重复购买。",
+      "pinyin": "Zhè yàng zuò zhǔn bèi bǐ jiào yǒu tiáo lǐ yě néng bì miǎn chóng fù gòu mǎi",
+      "tr": "Böyle hazırlanınca düzenli olur, gereksiz yere aynı şeyleri de almazsın."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_053",
+      "speaker": "张雨桐",
+      "zh": "学校说宿舍里不能用电热锅，我们家里那个就不带了。",
+      "pinyin": "Xué xiào shuō sù shè lǐ bù néng yòng diàn rè guō wǒ men jiā lǐ nà ge jiù bù dài le",
+      "tr": "Yurt kılavuzu elektrikli tencere kullanmayı yasaklıyor; evdekini götürmeyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_054",
+      "speaker": "刘梅",
+      "zh": "对，安全规定要遵守；想吃东西可以去食堂或公共厨房。",
+      "pinyin": "Duì ān quán guī dìng yào zūn shǒu xiǎng chī dōng xī kě yǐ qù shí táng huò gōng gòng chú fáng",
+      "tr": "Evet, güvenlik kurallarına uymalısın; yemek için yemekhane ya da ortak mutfağı kullanırsın."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_055",
+      "speaker": "张伟",
+      "zh": "我会再把入住说明读一遍，看看有没有忘记的重要事项。",
+      "pinyin": "Wǒ huì zài bǎ rù zhù shuō míng dú yī biàn kàn kàn yǒu méi yǒu wàng jì de zhòng yào shì xiàng",
+      "tr": "Yerleşme kılavuzunu bir kez daha okuyup önemli bir şeyi atlamadığıma bakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_056",
+      "speaker": "张乐乐",
+      "zh": "如果规则看不懂，就记下问题，报到时问宿舍老师。",
+      "pinyin": "Rú guǒ guī zé kàn bù dǒng jiù jì xià wèn tí bào dào shí wèn sù shè lǎo shī",
+      "tr": "Anlamadığın bir kural olursa sorunu not et, kayıt sırasında yurt görevlisine sor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_057",
+      "speaker": "张雨桐",
+      "zh": "我也把报名确认、身份证复印件和学校联系方式放进文件袋。",
+      "pinyin": "Wǒ yě bǎ bào míng què rèn shēn fèn zhèng fù yìn jiàn hé xué xiào lián xì fāng shì fàng jìn wén jiàn dài",
+      "tr": "Kayıt onayını, kimlik fotokopisini ve okulun iletişim bilgilerini de dosyaya koydum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_058",
+      "speaker": "刘梅",
+      "zh": "出门前我们一起核对文件袋和行李清单。",
+      "pinyin": "Chū mén qián wǒ men yì qǐ hé duì wén jiàn dài hé xíng lǐ qīng dān",
+      "tr": "Yola çıkmadan önce dosyayı ve eşya listesini birlikte kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_059",
+      "speaker": "张伟",
+      "zh": "行李收拾完，我对你第一次去大学生活也安心多了。",
+      "pinyin": "xíng lǐ shōu shí wán wǒ duì nǐ dì yī cì qù dà xué shēng huó yě ān xīn duō le",
+      "tr": "Eşyaları toparlayınca üniversiteye ilk gidişin konusunda benim de içim rahatladı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_060",
+      "speaker": "张乐乐",
+      "zh": "慢慢来，每完成一项就划掉一项，不必今晚全部弄完。",
+      "pinyin": "Màn màn lái měi wán chéng yī xiàng jiù huà diào yī xiàng bù bì jīn wǎn quán bù nòng wán",
+      "tr": "Acele etmeyelim; her işi bitirdikçe listeden çıkar, hepsini bu akşam bitirmek zorunda değilsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_061",
+      "speaker": "张雨桐",
+      "zh": "我到宿舍后，怎么安排洗衣服和打扫房间比较好？",
+      "pinyin": "Wǒ dào sù shè hòu zěn me ān pái xǐ yī fú hé dǎ sǎo fáng jiān bǐ jiào hǎo",
+      "tr": "Yurda yerleşince çamaşır ve oda temizliğini nasıl düzenlemem iyi olur?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_062",
+      "speaker": "刘梅",
+      "zh": "你可以固定一周洗一次衣服，房间每天花几分钟整理。",
+      "pinyin": "Nǐ kě yǐ gù dìng yī zhōu xǐ yī cì yī fú fáng jiān měi tiān huā jǐ fēn zhōng zhěng lǐ",
+      "tr": "Haftada bir gün çamaşır yıkayıp her gün birkaç dakika odanı toparlayabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_063",
+      "speaker": "张伟",
+      "zh": "我帮你把洗衣日和倒垃圾的时间记进日历里。",
+      "pinyin": "wǒ bāng nǐ bǎ xǐ yī rì hé dào lā jī de shí jiān jì jìn rì lì lǐ",
+      "tr": "Çamaşır gününü ve çöpleri çıkarma saatini takvime kaydetmene yardım ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_064",
+      "speaker": "张乐乐",
+      "zh": "姐姐记得留点空闲，不要把每一分钟都安排好。",
+      "pinyin": "Jiě jiě jì de liú diǎn kòng xián bú yào bǎ měi yì fēn zhōng dōu ān pái hǎo",
+      "tr": "Ablam, her dakikayı planlamak yerine kendine biraz boş zaman da bırak."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_065",
+      "speaker": "张雨桐",
+      "zh": "我想试着自己做计划，遇到变化再调整。",
+      "pinyin": "Wǒ xiǎng shì zhe zì jǐ zuò jì huà yù dào biàn huà zài tiáo zhěng",
+      "tr": "Kendi programımı yapıp değişiklik olursa sonradan düzenlemek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_066",
+      "speaker": "刘梅",
+      "zh": "对，独立生活就是学会安排，也学会处理临时的问题。",
+      "pinyin": "Duì dú lì shēng huó jiù shì xué huì ān pái yě xué huì chǔ lǐ lín shí de wèn tí",
+      "tr": "Evet, bağımsız yaşamak plan yapmayı ve beklenmedik durumları çözmeyi öğrenmektir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_067",
+      "speaker": "张伟",
+      "zh": "如果生活费不够用，先看看预算，必要时再和家里商量。",
+      "pinyin": "rú guǒ shēng huó fèi bù gòu yòng xiān kàn kàn yù suàn bì yào shí zài hé jiā lǐ shāng liáng",
+      "tr": "Yaşam masrafın yetmezse önce bütçeye bak, gerekirse ailenle konuş."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_068",
+      "speaker": "张乐乐",
+      "zh": "每周记录花费，先分清必要支出和想买的东西。",
+      "pinyin": "Měi zhōu jì lù huā fèi xiān fēn qīng bì yào zhī chū hé xiǎng mǎi de dōng xī",
+      "tr": "Harcamalarını her hafta kaydet; gerekli giderlerle isteklerini ayır."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_069",
+      "speaker": "张雨桐",
+      "zh": "我会把交通、吃饭和学习用品的预算分别记下来。",
+      "pinyin": "Wǒ huì bǎ jiāo tōng chī fàn hé xué xí yòng pǐn de yù suàn fēn bié jì xià lái",
+      "tr": "Ulaşım, yemek ve ders malzemeleri için ayrı bütçe tutarım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_070",
+      "speaker": "刘梅",
+      "zh": "如果发现快超出预算，就先停一停，不要冲动买东西。",
+      "pinyin": "Rú guǒ fā xiàn kuài chāo chū yù suàn jiù xiān tíng yī tíng bú yào chōng dòng mǎi dōng xī",
+      "tr": "Bütçeyi aşacağını görürsen durup düşün; düşünmeden alışveriş yapma."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_071",
+      "speaker": "张伟",
+      "zh": "银行卡账单怎么核对，我可以先教你看一遍。",
+      "pinyin": "yín háng kǎ zhàng dān zěn me hé duì wǒ kě yǐ xiān jiào nǐ kàn yī biàn",
+      "tr": "Banka kartı ekstresini nasıl kontrol edeceğini önce sana gösterebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_072",
+      "speaker": "张乐乐",
+      "zh": "那我也可以帮姐姐记下每笔支出，不过密码要自己保管。",
+      "pinyin": "nà wǒ yě kě yǐ bāng jiě jiě jì xià měi bǐ zhī chū bù guò mì mǎ yào zì jǐ bǎo guǎn",
+      "tr": "Ben de ablama her harcamayı kaydetmesinde yardım ederim ama şifresini kendisi saklamalı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_073",
+      "speaker": "张雨桐",
+      "zh": "我不想什么事情都靠你们，以后会先自己想办法。",
+      "pinyin": "Wǒ bù xiǎng shén me shì qíng dōu kào nǐ men yǐ hòu huì xiān zì jǐ xiǎng bàn fǎ",
+      "tr": "Her konuda size dayanmak istemiyorum; önce kendi başıma çözüm bulacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_074",
+      "speaker": "刘梅",
+      "zh": "遇到不确定的事情可以问我们，独立不等于拒绝帮助。",
+      "pinyin": "Yù dào bù què dìng de shì qíng kě yǐ wèn wǒ men dú lì bù děng yú jù jué bāng zhù",
+      "tr": "Emin olmadığın bir şeyde bize sorabilirsin; bağımsız olmak yardım istememek demek değil."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_075",
+      "speaker": "张伟",
+      "zh": "我把几个重要电话写在手机和纸上，手机没电时也能找到。",
+      "pinyin": "Wǒ bǎ jǐ gè zhòng yào diàn huà xiě zài shǒu jī hé zhǐ shàng shǒu jī méi diàn shí yě néng zhǎo dào",
+      "tr": "Önemli telefonları hem telefona hem kâğıda yazacağım; pil biterse de ulaşabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_076",
+      "speaker": "张乐乐",
+      "zh": "这个习惯很好，家里、学校和宿舍的联系方式都留一份。",
+      "pinyin": "Zhè ge xí guàn hěn hǎo jiā lǐ xué xiào hé sù shè de lián xì fāng shì dōu liú yī fèn",
+      "tr": "İyi alışkanlık. Ailenin, okulun ve yurdun iletişim bilgilerini de sakla."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_077",
+      "speaker": "张雨桐",
+      "zh": "我还可以和室友一起定清洁和安静时间的规则。",
+      "pinyin": "Wǒ hái kě yǐ hé shì yǒu yì qǐ dìng qīng jié hé ān jìng shí jiān de guī zé",
+      "tr": "Oda arkadaşımla temizlik ve sessizlik saatleri için ortak kurallar belirleyebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_078",
+      "speaker": "刘梅",
+      "zh": "先互相了解作息，再商量大家都能接受的安排。",
+      "pinyin": "Xiān hù xiāng liǎo jiě zuò xī zài shāng liáng dà jiā dōu néng jiē shòu de ān pái",
+      "tr": "Önce birbirinizin düzenini öğrenin, sonra herkesin kabul edebileceği bir plan yapın."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_079",
+      "speaker": "张伟",
+      "zh": "这样既照顾自己的习惯，也能尊重别人。",
+      "pinyin": "Zhè yàng jì zhào gù zì jǐ de xí guàn yě néng zūn zhòng bié rén",
+      "tr": "Böylece kendi alışkanlıklarını sürdürürken başkalarına da saygı gösterirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_080",
+      "speaker": "张乐乐",
+      "zh": "听你这样计划，我们就知道你准备好尝试独立生活了。",
+      "pinyin": "Tīng nǐ zhè yàng jì huà wǒ men jiù zhī dào nǐ zhǔn bèi hǎo cháng shì dú lì shēng huó le",
+      "tr": "Planını böyle anlatınca bağımsız yaşamı denemeye hazır olduğunu görüyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_081",
+      "speaker": "张雨桐",
+      "zh": "打包到现在，我发现最难的不是选东西，而是想到要离开家。",
+      "pinyin": "Dǎ bāo dào xiàn zài wǒ fā xiàn zuì nán de bú shì xuǎn dōng xī ér shì xiǎng dào yào lí kāi jiā",
+      "tr": "Valizi hazırlarken en zoru eşya seçmek değil, evden ayrılacağımı düşünmek oldu."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_082",
+      "speaker": "刘梅",
+      "zh": "你只是去大学学习，家一直在这里，不是从此不回来了。",
+      "pinyin": "Nǐ zhǐ shì qù dà xué xué xí jiā yì zhí zài zhè lǐ bú shì cóng cǐ bù huí lái le",
+      "tr": "Üniversiteye okumaya gidiyorsun; ev burada kalacak ve elbette yine geleceksin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_083",
+      "speaker": "张伟",
+      "zh": "放假时你可以回来，我们也会找时间去学校看你。",
+      "pinyin": "Fàng jià shí nǐ kě yǐ huí lái wǒ men yě huì zhǎo shí jiān qù xué xiào kàn nǐ",
+      "tr": "Tatillerde eve dönebilirsin; biz de seni okulda görmeye geliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_084",
+      "speaker": "张乐乐",
+      "zh": "我会想家的，尤其是晚上一个人在宿舍的时候。",
+      "pinyin": "Wǒ huì xiǎng jiā de yóu qí shì wǎn shàng yí gè rén zài sù shè de shí hòu",
+      "tr": "Özellikle yurtta akşam tek başımayken evimi özleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_085",
+      "speaker": "张雨桐",
+      "zh": "刚开始想家很正常，可以给我们打电话，也可以和室友聊聊天。",
+      "pinyin": "Gāng kāi shǐ xiǎng jiā hěn zhèng cháng kě yǐ gěi wǒ men dǎ diàn huà yě kě yǐ hé shì yǒu liáo liáo tiān",
+      "tr": "İlk zamanlarda evini özlemen normal; bizi arayabilir, oda arkadaşlarınla sohbet edebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_086",
+      "speaker": "刘梅",
+      "zh": "我会把家里的照片放在桌上，不过也会主动认识新同学。",
+      "pinyin": "Wǒ huì bǎ jiā lǐ de zhào piān fàng zài zhuō shàng bù guò yě huì zhǔ dòng rèn shí xīn tóng xué",
+      "tr": "Evimizin bir fotoğrafını masama koyarım ama yeni arkadaşlar edinmek için de adım atarım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_087",
+      "speaker": "张伟",
+      "zh": "有自己的朋友和生活，想家的时候心里也会踏实一些。",
+      "pinyin": "Yǒu zì jǐ de péng yǒu hé shēng huó xiǎng jiā de shí hòu xīn lǐ yě huì tà shí yī xiē",
+      "tr": "Kendi çevreni ve günlük düzenini kurunca özlemi de daha kolay atlatırsın."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_088",
+      "speaker": "张乐乐",
+      "zh": "姐姐刚开始住校时，也花了一段时间才适应。",
+      "pinyin": "Jiě jiě gāng kāi shǐ zhù xiào shí yě huā le yī duàn shí jiān cái shì yìng",
+      "tr": "Ablam yurtta kalmaya başladığında alışması da biraz zaman almıştı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_089",
+      "speaker": "张雨桐",
+      "zh": "我那时给家里打电话很多，不过慢慢学会了自己处理小事情。",
+      "pinyin": "Wǒ nà shí gěi jiā lǐ dǎ diàn huà hěn duō bù guò màn màn xué huì le zì jǐ chǔ lǐ xiǎo shì qíng",
+      "tr": "Ben de başta ailemi sık aradım ama zamanla küçük işleri kendim çözmeyi öğrendim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_090",
+      "speaker": "刘梅",
+      "zh": "你可以先观察几天，不必要求自己第一天就什么都会。",
+      "pinyin": "Nǐ kě yǐ xiān guān chá jǐ tiān bù bì yāo qiú zì jǐ dì yī tiān jiù shén me dū huì",
+      "tr": "Önce birkaç gün gözlemle; ilk günden her şeyi bilmeni bekleme."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_091",
+      "speaker": "张伟",
+      "zh": "我知道了。准备好行李，也要给适应新生活留一点时间。",
+      "pinyin": "Wǒ zhī dào le zhǔn bèi hǎo xíng lǐ yě yào gěi shì yìng xīn shēng huó liú yì diǎn shí jiān",
+      "tr": "Anladım. Eşyaları hazırlamanın yanında yeni yaşama alışmak için de kendime zaman tanımalıyım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_092",
+      "speaker": "张乐乐",
+      "zh": "对，独立生活是慢慢练出来的，不是一搬出家门就突然学会。",
+      "pinyin": "Duì dú lì shēng huó shì màn màn liàn chū lái de bú shì yī bān chū jiā mén jiù tū rán xué huì",
+      "tr": "Evet, bağımsız yaşam zamanla öğrenilir; evden çıkınca bir anda kazanılmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_093",
+      "speaker": "张雨桐",
+      "zh": "我希望带走的不只是行李，还有家人对我的信任。",
+      "pinyin": "wǒ xī wàng dài zǒu de bù zhǐ shì xíng lǐ hái yǒu jiā rén duì wǒ de xìn rèn",
+      "tr": "Yanımda yalnızca eşyalarımı değil, ailemin bana duyduğu güveni de götürmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_094",
+      "speaker": "刘梅",
+      "zh": "我会记得。遇到困难时先想办法，需要时也会向别人求助。",
+      "pinyin": "Wǒ huì jì de yù dào kùn nán shí xiān xiǎng bàn fǎ xū yào shí yě huì xiàng bié rén qiú zhù",
+      "tr": "Aklımda tutacağım. Önce kendim çözmeye çalışır, gerekirse başkasından yardım isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_095",
+      "speaker": "张伟",
+      "zh": "行李清单上都划完了吗？",
+      "pinyin": "Xíng lǐ qīng dān shàng dōu huà wán le ma",
+      "tr": "Eşya listesindeki her şeyi işaretledin mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_096",
+      "speaker": "张乐乐",
+      "zh": "还剩最后检查：证件、手机、充电器和录取通知书复印件。",
+      "pinyin": "Hái shèng zuì hòu jiǎn chá zhèng jiàn shǒu jī chōng diàn qì hé lù qǔ tōng zhī shū fù yìn jiàn",
+      "tr": "Son kontrol kaldı: kimlik, telefon, şarj aleti ve kabul mektubunun kopyası."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_097",
+      "speaker": "张雨桐",
+      "zh": "我把这些放进随身包了，出门时会再看一遍。",
+      "pinyin": "Wǒ bǎ zhè xiē fàng jìn suí shēn bāo le chū mén shí huì zài kàn yī biàn",
+      "tr": "Hepsini el çantama koydum; çıkarken bir kez daha bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_098",
+      "speaker": "刘梅",
+      "zh": "明天我们一起把箱子搬到车上，别一个人硬抬。",
+      "pinyin": "Míng tiān wǒ men yì qǐ bǎ xiāng zi bān dào chē shàng bié yí gè rén yìng tái",
+      "tr": "Yarın valizi birlikte arabaya taşırız; tek başına kaldırmaya çalışma."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_099",
+      "speaker": "张伟",
+      "zh": "你现在既期待又有点舍不得，这两种心情都很正常。",
+      "pinyin": "nǐ xiàn zài jì qī dài yòu yǒu diǎn shě bù dé zhè liǎng zhǒng xīn qíng dōu hěn zhèng cháng",
+      "tr": "Şimdi hem heyecanlı hem de biraz buruk hissediyorsun; bu iki duygu da çok normal."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC045_100",
+      "speaker": "张乐乐",
+      "zh": "这种感觉很正常。今晚好好休息，明天我们陪你开始新的生活。",
+      "pinyin": "Zhè zhǒng gǎn jué hěn zhèng cháng jīn wǎn hǎo hǎo xiū xī míng tiān wǒ men péi nǐ kāi shǐ xīn de shēng huó",
+      "tr": "Böyle hissetmen çok normal. Bu gece iyi dinlen; yarın yeni hayatına başlarken yanında olacağız."
+    }
+  ]
+}

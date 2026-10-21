@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC045.json",
-  "dialogueSha256": "c7e97b72530349cce3e64e30205d828515f2d4937e9884f9b38b44a1b73c203f",
+  "dialogueSha256": "463180846076ea322b3e4461e73d9786d6755a8ecc408f5b6acf566708bdd075",
   "titleZh": "大型募捐活动",
   "titleTr": "Kafede Büyük Bir Bağış Etkinliği",
   "locationId": "LOC_ZH_COMMUNITY_CENTER_001",

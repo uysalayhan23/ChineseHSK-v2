@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC042.json",
-  "dialogueSha256": "b866aeaabea93b2fd168812e30d8a01c024aabccbcb8a6131270b5c8afaecdf3",
+  "dialogueSha256": "d5e9ade4a9367f95f73f4e2d3685a75aedfa547ca818a339deac3a9e1a13fef4",
   "titleZh": "全家安排照护",
   "titleTr": "Aile Bakım Planı Yapıyor",
   "locationId": "LOC_ZH_NEW_HOME_001",

@@ -1,0 +1,709 @@
+{
+  "naturalizationVersion": 34,
+  "status": "FINAL_NATIVE_RELEASE_CANDIDATE_V34",
+  "sceneId": "ZH_HSK2_SC007",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC007_001",
+      "speaker": "刘梅",
+      "zh": "邻居明天过生日，我们该送什么礼物？",
+      "pinyin": "lín jū míng tiān guò shēng rì, wǒ men gāi sòng shén me lǐ wù?",
+      "tr": "Komşumuzun yarın doğum günü, ne hediye verelim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_002",
+      "speaker": "张伟",
+      "zh": "她平时喜欢看书，也常喝茶。",
+      "pinyin": "tā píng shí xǐ huān kàn shū, yě cháng hē chá.",
+      "tr": "Genelde kitap okumayı ve çay içmeyi sever."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_003",
+      "speaker": "张乐乐",
+      "zh": "我想选一个漂亮又有用的礼物。",
+      "pinyin": "wǒ xiǎng xuǎn yí gè piào liàng yòu yǒu yòng de lǐ wù.",
+      "tr": "Hem güzel hem kullanışlı bir hediye seçmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_004",
+      "speaker": "店员",
+      "zh": "欢迎光临，需要我帮您找什么吗？",
+      "pinyin": "huān yíng guāng lín, xū yào wǒ bāng nín zhǎo shén me ma?",
+      "tr": "Hoş geldiniz, aradığınız bir şey var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_005",
+      "speaker": "刘梅",
+      "zh": "我们想给邻居买生日礼物。",
+      "pinyin": "wǒ men xiǎng gěi lín jū mǎi shēng rì lǐ wù.",
+      "tr": "Komşumuza doğum günü hediyesi almak istiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_006",
+      "speaker": "张伟",
+      "zh": "这边有茶杯，那边有书。",
+      "pinyin": "zhè biān yǒu chá bēi, nà biān yǒu shū.",
+      "tr": "Burada fincanlar, şurada kitaplar var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_007",
+      "speaker": "张乐乐",
+      "zh": "先看看价格，再决定买哪一种。",
+      "pinyin": "xiān kàn kàn jià gé, zài jué dìng mǎi nǎ yī zhǒng.",
+      "tr": "Önce fiyatlara bakalım, sonra karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_008",
+      "speaker": "店员",
+      "zh": "好的，您可以慢慢看。",
+      "pinyin": "hǎo de, nín kě yǐ màn màn kàn.",
+      "tr": "Tabii, rahatça bakabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_009",
+      "speaker": "刘梅",
+      "zh": "这个杯子颜色很漂亮。",
+      "pinyin": "zhè ge bēi zi yán sè hěn piào liàng.",
+      "tr": "Bu fincanın rengi çok güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_010",
+      "speaker": "张伟",
+      "zh": "可是她家里已经有很多杯子了。",
+      "pinyin": "kě shì tā jiā lǐ yǐ jīng yǒu hěn duō bēi zi le.",
+      "tr": "Ama evinde zaten çok fincan var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_011",
+      "speaker": "张乐乐",
+      "zh": "那我们再看看书，也许更合适。",
+      "pinyin": "nà wǒ men zài kàn kàn shū, yě xǔ gèng hé shì.",
+      "tr": "O zaman kitaplara bakalım, belki daha uygun olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_012",
+      "speaker": "店员",
+      "zh": "这本书最近卖得很好。",
+      "pinyin": "zhè běn shū zuì jìn mài dé hěn hǎo.",
+      "tr": "Bu kitap son zamanlarda çok satıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_013",
+      "speaker": "刘梅",
+      "zh": "她喜欢看什么书？",
+      "pinyin": "tā xǐ huān kàn shén me shū?",
+      "tr": "Ne tür kitaplar okumayı sever?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_014",
+      "speaker": "张伟",
+      "zh": "她常看花园和做饭的书。",
+      "pinyin": "tā cháng kàn huā yuán hé zuò fàn de shū.",
+      "tr": "Bahçecilik ve yemek kitaplarını sık okur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_015",
+      "speaker": "张乐乐",
+      "zh": "这本有很多简单的做菜方法。",
+      "pinyin": "zhè běn yǒu hěn duō jiǎn dān de zuò cài fāng fǎ.",
+      "tr": "Bu kitapta birçok kolay yemek tarifi var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_016",
+      "speaker": "店员",
+      "zh": "这本书的价格是五十块。",
+      "pinyin": "zhè běn shū de jià gé shì wǔ shí kuài.",
+      "tr": "Bu kitabın fiyatı 50 yuan."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_017",
+      "speaker": "刘梅",
+      "zh": "五十块可以，我们一起看看里面。",
+      "pinyin": "wǔ shí kuài kě yǐ, wǒ men yì qǐ kàn kàn lǐ miàn.",
+      "tr": "50 yuan uygun, birlikte içine bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_018",
+      "speaker": "张伟",
+      "zh": "图片很多，字也不难。",
+      "pinyin": "tú piàn hěn duō, zì yě bù nán.",
+      "tr": "Resimleri çok, yazıları da zor değil."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_019",
+      "speaker": "张乐乐",
+      "zh": "她可以每天读一点儿。",
+      "pinyin": "tā kě yǐ měi tiān dú yì diǎn ér.",
+      "tr": "Her gün biraz okuyabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_020",
+      "speaker": "店员",
+      "zh": "需要我帮你们包起来吗？",
+      "pinyin": "xū yào wǒ bāng nǐ men bāo qǐ lái ma?",
+      "tr": "Paketlememize yardım etmemi ister misiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_021",
+      "speaker": "刘梅",
+      "zh": "我们还没决定，再看一看。",
+      "pinyin": "wǒ men hái méi jué dìng, zài kàn yī kàn.",
+      "tr": "Henüz karar vermedik, biraz daha bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_022",
+      "speaker": "张伟",
+      "zh": "这个小花盆也很漂亮。",
+      "pinyin": "zhè ge xiǎo huā pén yě hěn piào liàng.",
+      "tr": "Bu küçük saksı da çok güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_023",
+      "speaker": "张乐乐",
+      "zh": "她家阳台有花，可能用得上。",
+      "pinyin": "tā jiā yáng tái yǒu huā, kě néng yòng dé shàng.",
+      "tr": "Balkonunda çiçekler var, işine yarayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_024",
+      "speaker": "店员",
+      "zh": "这个花盆三十五块。",
+      "pinyin": "zhè ge huā pén sān shí wǔ kuài.",
+      "tr": "Bu saksı 35 yuan."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_025",
+      "speaker": "刘梅",
+      "zh": "花盆比书便宜一些。",
+      "pinyin": "huā pén bǐ shū pián yi yī xiē.",
+      "tr": "Saksı kitaptan biraz daha ucuz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_026",
+      "speaker": "张伟",
+      "zh": "可是书更有用，她常常看书。",
+      "pinyin": "kě shì shū gèng yǒu yòng, tā cháng cháng kàn shū.",
+      "tr": "Ama kitap daha kullanışlı, sık sık kitap okur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_027",
+      "speaker": "张乐乐",
+      "zh": "那就选择这本书，再买一张生日卡吧。",
+      "pinyin": "nà jiù xuǎn zé zhè běn shū, zài mǎi yī zhāng shēng rì kǎ ba.",
+      "tr": "O zaman bu kitabı seçip bir doğum günü kartı da alalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_028",
+      "speaker": "店员",
+      "zh": "卡在收银台旁边，您可以挑一张。",
+      "pinyin": "kǎ zài shōu yín tái páng biān, nín kě yǐ tiāo yī zhāng.",
+      "tr": "Kartlar kasanın yanında, seçebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_029",
+      "speaker": "刘梅",
+      "zh": "这张卡上有花，很漂亮。",
+      "pinyin": "zhè zhāng kǎ shàng yǒu huā, hěn piào liàng.",
+      "tr": "Bu kartın üzerinde çiçek var, çok güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_030",
+      "speaker": "张伟",
+      "zh": "里面可以写几句话。",
+      "pinyin": "lǐ miàn kě yǐ xiě jǐ jù huà.",
+      "tr": "İçine birkaç cümle yazabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_031",
+      "speaker": "张乐乐",
+      "zh": "我来写生日祝福，大家签名字。",
+      "pinyin": "wǒ lái xiě shēng rì zhù fú, dà jiā qiān míng zì.",
+      "tr": "Doğum günü mesajını ben yazayım, herkes imzalasın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_032",
+      "speaker": "店员",
+      "zh": "卡是五块钱。",
+      "pinyin": "kǎ shì wǔ kuài qián.",
+      "tr": "Kart 5 yuan."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_033",
+      "speaker": "刘梅",
+      "zh": "书和卡一共五十五块。",
+      "pinyin": "shū hé kǎ yī gòng wǔ shí wǔ kuài.",
+      "tr": "Kitapla kart toplam 55 yuan."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_034",
+      "speaker": "张伟",
+      "zh": "价格合适，我们就选这两样吧。",
+      "pinyin": "jià gé hé shì, wǒ men jiù xuǎn zhè liǎng yàng ba.",
+      "tr": "Fiyatı uygun, bu ikisini seçelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_035",
+      "speaker": "张乐乐",
+      "zh": "她会喜欢这个礼物的。",
+      "pinyin": "tā huì xǐ huān zhè ge lǐ wù de.",
+      "tr": "Bu hediyeyi beğenecektir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_036",
+      "speaker": "店员",
+      "zh": "好的，我帮您拿到收银台。",
+      "pinyin": "hǎo de, wǒ bāng nín ná dào shōu yín tái.",
+      "tr": "Peki, kasaya götürmenize yardım edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_037",
+      "speaker": "刘梅",
+      "zh": "书要包起来吗？",
+      "pinyin": "shū yào bāo qǐ lái ma?",
+      "tr": "Kitabı paketleyelim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_038",
+      "speaker": "张伟",
+      "zh": "要，请用简单一点儿的纸。",
+      "pinyin": "yào, qǐng yòng jiǎn dān yì diǎn ér de zhǐ.",
+      "tr": "Evet, lütfen sade bir kâğıt kullanın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_039",
+      "speaker": "张乐乐",
+      "zh": "卡先放在袋子里，我还要写字。",
+      "pinyin": "kǎ xiān fàng zài dài zi lǐ, wǒ hái yào xiě zì.",
+      "tr": "Kartı poşete koyalım, üzerine yazı yazacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_040",
+      "speaker": "店员",
+      "zh": "没问题，您写好再放进去。",
+      "pinyin": "méi wèn tí, nín xiě hǎo zài fàng jìn qù.",
+      "tr": "Sorun değil, yazdıktan sonra içine koyarsınız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_041",
+      "speaker": "刘梅",
+      "zh": "我写什么比较好？",
+      "pinyin": "wǒ xiě shén me bǐ jiào hǎo?",
+      "tr": "Ne yazsam iyi olur?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_042",
+      "speaker": "张伟",
+      "zh": "写“生日快乐，天天开心”吧。",
+      "pinyin": "xiě “ shēng rì kuài lè, tiān tiān kāi xīn ” ba.",
+      "tr": "“Doğum günün kutlu olsun, her gün mutlu ol” yaz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_043",
+      "speaker": "张乐乐",
+      "zh": "再写上我们的名字。",
+      "pinyin": "zài xiě shàng wǒ men de míng zì.",
+      "tr": "İsimlerimizi de yazalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_044",
+      "speaker": "店员",
+      "zh": "这边有笔，您可以用。",
+      "pinyin": "zhè biān yǒu bǐ, nín kě yǐ yòng.",
+      "tr": "Burada kalem var, kullanabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_045",
+      "speaker": "刘梅",
+      "zh": "我写好了，你们看看。",
+      "pinyin": "wǒ xiě hǎo le, nǐ men kàn kàn.",
+      "tr": "Yazdım, bir bakın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_046",
+      "speaker": "张伟",
+      "zh": "字写得很清楚，卡也很好看。",
+      "pinyin": "zì xiě dé hěn qīng chǔ, kǎ yě hěn hǎo kàn.",
+      "tr": "Yazın çok net, kart da çok güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_047",
+      "speaker": "张乐乐",
+      "zh": "我们都签了名字。",
+      "pinyin": "wǒ men dōu qiān le míng zì.",
+      "tr": "Hepimiz imzaladık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_048",
+      "speaker": "店员",
+      "zh": "礼物包好了，请您检查一下。",
+      "pinyin": "lǐ wù bāo hǎo le, qǐng nín jiǎn chá yī xià.",
+      "tr": "Hediyeyi paketledim, lütfen kontrol edin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_049",
+      "speaker": "刘梅",
+      "zh": "包装得很漂亮，谢谢。",
+      "pinyin": "bāo zhuāng dé hěn piào liàng, xiè xiè.",
+      "tr": "Çok güzel paketlemişsiniz, teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_050",
+      "speaker": "张伟",
+      "zh": "书放在里面了吗？",
+      "pinyin": "shū fàng zài lǐ miàn le ma?",
+      "tr": "Kitap içine kondu mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_051",
+      "speaker": "张乐乐",
+      "zh": "在，卡也放在书上面了。",
+      "pinyin": "zài, kǎ yě fàng zài shū shàng miàn le.",
+      "tr": "Evet, kartı da kitabın üstüne koydum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_052",
+      "speaker": "店员",
+      "zh": "请到前面付款。",
+      "pinyin": "qǐng dào qián miàn fù kuǎn.",
+      "tr": "Lütfen ödemeyi öndeki kasada yapın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_053",
+      "speaker": "刘梅",
+      "zh": "我来付钱，你拿好礼物。",
+      "pinyin": "wǒ lái fù qián, nǐ ná hǎo lǐ wù.",
+      "tr": "Ödemeyi ben yapayım, hediyeyi sen tut."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_054",
+      "speaker": "张伟",
+      "zh": "一共五十五块，可以手机支付。",
+      "pinyin": "yī gòng wǔ shí wǔ kuài, kě yǐ shǒu jī zhī fù.",
+      "tr": "Toplam 55 yuan, telefonla ödeyebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_055",
+      "speaker": "张乐乐",
+      "zh": "我付好了，收据不用拿。",
+      "pinyin": "wǒ fù hǎo le, shōu jù bù yòng ná.",
+      "tr": "Ödedim, fişe gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_056",
+      "speaker": "店员",
+      "zh": "谢谢，祝你们购物愉快。",
+      "pinyin": "xiè xiè, zhù nǐ men gòu wù yú kuài.",
+      "tr": "Teşekkürler, iyi alışverişler."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_057",
+      "speaker": "刘梅",
+      "zh": "明天什么时候把礼物送过去？",
+      "pinyin": "míng tiān shén me shí hòu bǎ lǐ wù sòng guò qù?",
+      "tr": "Hediyeyi yarın ne zaman götürelim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_058",
+      "speaker": "张伟",
+      "zh": "下午吧，她上午要去买菜。",
+      "pinyin": "xià wǔ ba, tā shàng wǔ yào qù mǎi cài.",
+      "tr": "Öğleden sonra olsun, sabah pazara gidecek."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_059",
+      "speaker": "张乐乐",
+      "zh": "我们可以一起去，顺便跟她聊聊。",
+      "pinyin": "wǒ men kě yǐ yì qǐ qù, shùn biàn gēn tā liáo liáo.",
+      "tr": "Birlikte gidip onunla sohbet edebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_060",
+      "speaker": "店员",
+      "zh": "她收到一定很开心。",
+      "pinyin": "tā shōu dào yí dìng hěn kāi xīn.",
+      "tr": "Aldığında çok sevinecektir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_061",
+      "speaker": "刘梅",
+      "zh": "我把礼物先放在柜子上。",
+      "pinyin": "wǒ bǎ lǐ wù xiān fàng zài guì zi shàng.",
+      "tr": "Hediyeyi şimdilik dolabın üstüne koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_062",
+      "speaker": "张伟",
+      "zh": "别忘了明天带上生日卡。",
+      "pinyin": "bié wàng le míng tiān dài shàng shēng rì kǎ.",
+      "tr": "Yarın doğum günü kartını almayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_063",
+      "speaker": "张乐乐",
+      "zh": "我会放在礼物袋里，不会忘。",
+      "pinyin": "wǒ huì fàng zài lǐ wù dài lǐ, bú huì wàng.",
+      "tr": "Hediye poşetine koyarım, unutmam."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_064",
+      "speaker": "店员",
+      "zh": "包装纸上还有一张小花。",
+      "pinyin": "bāo zhuāng zhǐ shàng hái yǒu yī zhāng xiǎo huā.",
+      "tr": "Paket kâğıdının üzerinde küçük bir çiçek de var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_065",
+      "speaker": "刘梅",
+      "zh": "她喜欢花，这个小图案正合适。",
+      "pinyin": "tā xǐ huān huā, zhè ge xiǎo tú àn zhèng hé shì.",
+      "tr": "Çiçekleri sever, bu küçük desen tam uygun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_066",
+      "speaker": "张伟",
+      "zh": "礼物不一定要很贵，重要的是合适。",
+      "pinyin": "lǐ wù bù yí dìng yào hěn guì, zhòng yào de shì hé shì.",
+      "tr": "Hediyenin pahalı olması gerekmez, uygun olması önemli."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_067",
+      "speaker": "张乐乐",
+      "zh": "这本书她可以用很久。",
+      "pinyin": "zhè běn shū tā kě yǐ yòng hěn jiǔ.",
+      "tr": "Bu kitabı uzun süre kullanabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_068",
+      "speaker": "店员",
+      "zh": "卡上的祝福也很真诚。",
+      "pinyin": "kǎ shàng de zhù fú yě hěn zhēn chéng.",
+      "tr": "Karttaki dileklerimiz de içten."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_069",
+      "speaker": "刘梅",
+      "zh": "我们是不是还要买一束花？",
+      "pinyin": "wǒ men shì bú shì hái yào mǎi yī shù huā?",
+      "tr": "Bir buket çiçek de alalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_070",
+      "speaker": "张伟",
+      "zh": "花很漂亮，不过她家里已经有花了。",
+      "pinyin": "huā hěn piào liàng, bù guò tā jiā lǐ yǐ jīng yǒu huā le.",
+      "tr": "Çiçek çok güzel ama evinde zaten var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_071",
+      "speaker": "张乐乐",
+      "zh": "书和卡就够了，礼物也不太多。",
+      "pinyin": "shū hé kǎ jiù gòu le, lǐ wù yě bù tài duō.",
+      "tr": "Kitapla kart yeter, hediyemiz de abartılı olmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_072",
+      "speaker": "店员",
+      "zh": "你们选得很用心。",
+      "pinyin": "nǐ men xuǎn dé hěn yòng xīn.",
+      "tr": "Çok düşünceli seçim yaptınız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_073",
+      "speaker": "刘梅",
+      "zh": "明天见到她，我们先说什么？",
+      "pinyin": "míng tiān jiàn dào tā, wǒ men xiān shuō shén me?",
+      "tr": "Yarın onu görünce önce ne söyleyelim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_074",
+      "speaker": "张伟",
+      "zh": "先祝她生日快乐，再把礼物给她。",
+      "pinyin": "xiān zhù tā shēng rì kuài lè, zài bǎ lǐ wù gěi tā.",
+      "tr": "Önce doğum gününü kutlayıp sonra hediyeyi verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_075",
+      "speaker": "张乐乐",
+      "zh": "然后请她看看卡上的话。",
+      "pinyin": "rán hòu qǐng tā kàn kàn kǎ shàng de huà.",
+      "tr": "Sonra karttaki yazıyı okumasını isteyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_076",
+      "speaker": "店员",
+      "zh": "她一定会谢谢你们。",
+      "pinyin": "tā yí dìng huì xiè xiè nǐ men.",
+      "tr": "Size mutlaka teşekkür edecektir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_077",
+      "speaker": "刘梅",
+      "zh": "我希望她喜欢这本书。",
+      "pinyin": "wǒ xī wàng tā xǐ huān zhè běn shū.",
+      "tr": "Umarım kitabı beğenir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_078",
+      "speaker": "张伟",
+      "zh": "她喜欢做饭，书里有很多简单的菜。",
+      "pinyin": "tā xǐ huān zuò fàn, shū lǐ yǒu hěn duō jiǎn dān de cài.",
+      "tr": "Yemek yapmayı sever, kitapta kolay tarifler var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_079",
+      "speaker": "张乐乐",
+      "zh": "以后她做了好吃的，还可以请我们去吃。",
+      "pinyin": "yǐ hòu tā zuò le hǎo chī de, hái kě yǐ qǐng wǒ men qù chī.",
+      "tr": "Sonra güzel bir şey yapınca bizi de çağırabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_080",
+      "speaker": "店员",
+      "zh": "那就更好了。",
+      "pinyin": "nà jiù gèng hǎo le.",
+      "tr": "Daha da güzel olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_081",
+      "speaker": "刘梅",
+      "zh": "生日卡要不要写日期？",
+      "pinyin": "shēng rì kǎ yào bú yào xiě rì qī?",
+      "tr": "Doğum günü kartına tarih yazalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_082",
+      "speaker": "张伟",
+      "zh": "可以写明天的日期。",
+      "pinyin": "kě yǐ xiě míng tiān de rì qī.",
+      "tr": "Yarının tarihini yazabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_083",
+      "speaker": "张乐乐",
+      "zh": "这样她以后看到还会记得。",
+      "pinyin": "zhè yàng tā yǐ hòu kàn dào hái huì jì de.",
+      "tr": "Böylece sonra görünce hatırlar."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_084",
+      "speaker": "店员",
+      "zh": "卡和书都已经准备好了。",
+      "pinyin": "kǎ hé shū dōu yǐ jīng zhǔn bèi hǎo le.",
+      "tr": "Kart da kitap da hazır."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_085",
+      "speaker": "刘梅",
+      "zh": "礼物袋结实吗？",
+      "pinyin": "lǐ wù dài jiē shí ma?",
+      "tr": "Hediye poşeti sağlam mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_086",
+      "speaker": "张伟",
+      "zh": "结实，书放进去不会掉出来。",
+      "pinyin": "jiē shí, shū fàng jìn qù bú huì diào chū lái.",
+      "tr": "Sağlam, kitap içinden düşmez."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_087",
+      "speaker": "张乐乐",
+      "zh": "我再检查一下袋子有没有破。",
+      "pinyin": "wǒ zài jiǎn chá yī xià dài zi yǒu méi yǒu pò.",
+      "tr": "Poşette yırtık var mı bir bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_088",
+      "speaker": "店员",
+      "zh": "没有问题，可以放心拿。",
+      "pinyin": "méi yǒu wèn tí, kě yǐ fàng xīn ná.",
+      "tr": "Sorun yok, rahatça taşıyabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_089",
+      "speaker": "刘梅",
+      "zh": "那我们现在回家吧。",
+      "pinyin": "nà wǒ men xiàn zài huí jiā ba.",
+      "tr": "O zaman şimdi eve gidelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_090",
+      "speaker": "张伟",
+      "zh": "我拿礼物，你拿购物袋。",
+      "pinyin": "wǒ ná lǐ wù, nǐ ná gòu wù dài.",
+      "tr": "Hediyeyi ben alayım, alışveriş poşetini sen taşı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_091",
+      "speaker": "张乐乐",
+      "zh": "路上我再想想要写什么祝福。",
+      "pinyin": "lù shàng wǒ zài xiǎng xiǎng yào xiě shén me zhù fú.",
+      "tr": "Yolda nasıl bir kutlama mesajı yazacağımı düşüneyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_092",
+      "speaker": "店员",
+      "zh": "卡上已经写得很好了。",
+      "pinyin": "kǎ shàng yǐ jīng xiě dé hěn hǎo le.",
+      "tr": "Kartta güzel şeyler yazdık zaten."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_093",
+      "speaker": "刘梅",
+      "zh": "我觉得这次选得很好。",
+      "pinyin": "wǒ jué de zhè cì xuǎn dé hěn hǎo.",
+      "tr": "Bence bu sefer iyi bir seçim yaptık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_094",
+      "speaker": "张伟",
+      "zh": "礼物漂亮，也很有用。",
+      "pinyin": "lǐ wù piào liàng, yě hěn yǒu yòng.",
+      "tr": "Hediyemiz güzel ve kullanışlı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_095",
+      "speaker": "张乐乐",
+      "zh": "价格也在我们想的范围里。",
+      "pinyin": "jià gé yě zài wǒ men xiǎng de fàn wéi lǐ.",
+      "tr": "Fiyatı da düşündüğümüz aralıkta."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_096",
+      "speaker": "店员",
+      "zh": "明天送给她就知道了。",
+      "pinyin": "míng tiān sòng gěi tā jiù zhī dào le.",
+      "tr": "Yarın verince göreceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_097",
+      "speaker": "刘梅",
+      "zh": "我把书和卡都放好了，明天不会忘。",
+      "pinyin": "wǒ bǎ shū hé kǎ dōu fàng hǎo le, míng tiān bú huì wàng.",
+      "tr": "Kitabı ve kartı yerleştirdim, yarın unutmayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_098",
+      "speaker": "张伟",
+      "zh": "下午我们一起去给邻居过生日。",
+      "pinyin": "xià wǔ wǒ men yì qǐ qù gěi lín jū guò shēng rì.",
+      "tr": "Öğleden sonra komşumuzun doğum gününü kutlamaya birlikte gideceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_099",
+      "speaker": "张乐乐",
+      "zh": "好，我已经想好要说什么了。",
+      "pinyin": "hǎo, wǒ yǐ jīng xiǎng hǎo yào shuō shén me le.",
+      "tr": "Tamam, ne söyleyeceğimi düşündüm."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC007_100",
+      "speaker": "店员",
+      "zh": "那就先休息，明天再去送礼物。",
+      "pinyin": "nà jiù xiān xiū xī, míng tiān zài qù sòng lǐ wù.",
+      "tr": "O zaman dinlenelim, hediyeyi yarın veririz."
+    }
+  ],
+  "dialogueCount": 100
+}

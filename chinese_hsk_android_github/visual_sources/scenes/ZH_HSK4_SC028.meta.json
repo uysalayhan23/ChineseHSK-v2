@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC028.json",
-  "dialogueSha256": "9e76f9cef99847dd1b5e69e3881bbb20c93b8c38c0218ff05763801d68d8c92a",
+  "dialogueSha256": "d978a96de379adfef16fcaa09bfbf9872ec2bdfaaee3edaf42513368b514a03d",
   "titleTr": "Otelde Komşu Oda Gürültüsü",
   "locationId": "LOC_ZH_HOTEL_001",
   "scenePurposeTr": "Gece gürültüsü nedeniyle resepsiyona nazik şikâyet yapılır.",

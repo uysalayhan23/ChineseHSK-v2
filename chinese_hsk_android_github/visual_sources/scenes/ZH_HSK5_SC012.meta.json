@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC012.json",
-  "dialogueSha256": "e42f35f42979ea94d58a2f816831a6c79c5ab0c241281b3eded6aab7352a553c",
+  "dialogueSha256": "14ad008b6d592ca4fbeeafe16c9b1bd52d849b9c20f067e592b75dcd8b68d212",
   "titleZh": "第一次面试失败",
   "titleTr": "İlk Staj Görüşmesi Başarısız",
   "locationId": "LOC_ZH_UNIVERSITY_001",

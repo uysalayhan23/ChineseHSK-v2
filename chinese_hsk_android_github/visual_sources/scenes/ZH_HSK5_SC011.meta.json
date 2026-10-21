@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC011.json",
-  "dialogueSha256": "c5ca577545404fd1878825985be4436b1c58c6c95632f18ae65430f71f81ebc1",
+  "dialogueSha256": "638a9895ebd715869c995d6fed5e303b0628e93b69fd0e22d426daab0e12eefc",
   "titleZh": "雨桐找实习",
   "titleTr": "Yutong Staj Arıyor",
   "locationId": "LOC_ZH_UNIVERSITY_001",

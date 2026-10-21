@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC021.json",
-  "dialogueSha256": "48979076cde4596866f3b2b89e25b7171217686c9e1c127c0a73a4814fc0df76",
+  "dialogueSha256": "68ee6f2b84d3589dc752d497c7e369047e747a742eb8ea04e22159dd7e2094b9",
   "titleTr": "Büyükbabanın Pazarı",
   "locationId": "LOC_ZH_MARKET_001",
   "scenePurposeTr": "Büyükbaba yetiştirdiği ürünleri mahalle pazarında paylaşır ve satar.",

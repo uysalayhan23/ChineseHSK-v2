@@ -1,0 +1,711 @@
+{
+  "naturalizationVersion": 2,
+  "status": "NATURALIZED_REVIEWED",
+  "sceneId": "ZH_HSK6_SC014",
+  "level": "HSK6",
+  "sourceTitleZh": "张伟宣布退休",
+  "sourceTitleTr": "Zhang Emekliliğini Açıklıyor",
+  "sourceMiniAdventureTr": "Zhang çalışma arkadaşlarına emeklilik kararını resmen duyurur.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK6_SC014_001",
+      "speaker": "张伟",
+      "zh": "我想先告诉大家，我已经决定年底办理退休手续。",
+      "pinyin": "wǒ xiǎng xiān gào sù dà jiā ， wǒ yǐ jīng jué dìng nián dǐ bàn lǐ tuì xiū shǒu xù 。",
+      "tr": "Bugün önce size haber vermek istedim: Yıl sonunda emeklilik işlemlerimi başlatmaya karar verdim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_002",
+      "speaker": "经理",
+      "zh": "谢谢您提前说明。这个决定考虑了很久，还是最近才确定的吗？",
+      "pinyin": "xiè xiè nín tí qián shuō míng 。 zhè ge jué dìng kǎo lǜ le hěn jiǔ ， hái shì zuì jìn cái què dìng de ma ？",
+      "tr": "Önceden paylaştığınız için teşekkürler. Bu kararı uzun zamandır mı düşünüyordunuz, yoksa yakın zamanda mı netleşti?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_003",
+      "speaker": "同事",
+      "zh": "他上周和我谈过，今天希望把正式安排和交接时间告诉团队。",
+      "pinyin": "tā shàng zhōu hé wǒ tán guò ， jīn tiān xī wàng bǎ zhèng shì ān pái hé jiāo jiē shí jiān gào sù tuán duì 。",
+      "tr": "Geçen hafta benimle konuştu; bugün resmî planı ve devir takvimini ekibe anlatmak istiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_004",
+      "speaker": "刘梅",
+      "zh": "听到消息有些舍不得，不过更希望我们能把后面的安排谈清楚。",
+      "pinyin": "tīng dào xiāo xī yǒu xiē shě bù dé ， bù guò gèng xī wàng wǒ men néng bǎ hòu miàn de ān pái tán qīng chǔ 。",
+      "tr": "Habere üzüldüm, sizi özleyeceğiz; yine de sonraki düzenlemeleri netleştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_005",
+      "speaker": "张伟",
+      "zh": "主要是健康和家庭时间的考虑，我想逐步把工作交给同事。",
+      "pinyin": "zhǔ yào shì jiàn kāng hé jiā tíng shí jiān de kǎo lǜ ， wǒ xiǎng zhú bù bǎ gōng zuò jiāo gěi tóng shì 。",
+      "tr": "Sağlığım ve aileme ayıracağım zaman nedeniyle işi kademeli olarak devretmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_006",
+      "speaker": "经理",
+      "zh": "您预计最后工作日是哪天？我们要据此安排项目和人员。",
+      "pinyin": "nín yù jì zuì hòu gōng zuò rì shì nǎ tiān ？ wǒ men yào jù cǐ ān pái xiàng mù hé rén yuán 。",
+      "tr": "Son çalışma gününüzü ne zaman öngörüyorsunuz? Projeleri ve ekibi ona göre planlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_007",
+      "speaker": "同事",
+      "zh": "计划是十二月底，但我会先和人事确认日期和手续。",
+      "pinyin": "jì huà shì shí èr yuè dǐ ， dàn wǒ huì xiān hé rén shì què rèn rì qī hé shǒu xù 。",
+      "tr": "Şimdilik aralık sonu; tarih ve işlemleri insan kaynaklarıyla teyit edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_008",
+      "speaker": "刘梅",
+      "zh": "确认后请发一份书面通知，大家就能按同一时间表准备。",
+      "pinyin": "què rèn hòu qǐng fā yī fèn shū miàn tōng zhī ， dà jiā jiù néng àn tóng yī shí jiān biǎo zhǔn bèi 。",
+      "tr": "Teyit edince yazılı duyuru gönderin; herkes aynı takvime göre hazırlanır."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_009",
+      "speaker": "张伟",
+      "zh": "手上还有两个项目，您希望由谁接手？",
+      "pinyin": "shǒu shàng hái yǒu liǎng gè xiàng mù ， nín xī wàng yóu shuí jiē shǒu ？",
+      "tr": "Üzerinizde iki proje var; kimin devralmasını istersiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_010",
+      "speaker": "经理",
+      "zh": "我建议按项目内容分配，不要把所有事情都交给一个人。",
+      "pinyin": "wǒ jiàn yì àn xiàng mù nèi róng fēn pèi ， bú yào bǎ suǒ yǒu shì qíng dōu jiāo gěi yí gè rén 。",
+      "tr": "Projelerin tümünü tek kişiye yüklemek yerine içeriklerine göre paylaştırmayı öneririm."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_011",
+      "speaker": "同事",
+      "zh": "这个方案稳妥。我可以列出每个项目的当前进度和关键联系人。",
+      "pinyin": "zhè ge fāng àn wěn tuǒ 。 wǒ kě yǐ liè chū měi gè xiàng mù dì dāng qián jìn dù hé guān jiàn lián xì rén 。",
+      "tr": "Bu uygun. Her projenin güncel durumunu ve önemli irtibat kişilerini listeleyebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_012",
+      "speaker": "刘梅",
+      "zh": "请也标明哪些决定已完成，哪些还需要客户确认。",
+      "pinyin": "qǐng yě biāo míng nǎ xiē jué dìng yǐ wán chéng ， nǎ xiē hái xū yào kè hù què rèn 。",
+      "tr": "Tamamlanmış kararlarla müşteriden onay bekleyenleri de işaretleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_013",
+      "speaker": "张伟",
+      "zh": "我会把资料整理成表格，并安排逐项交接会议。",
+      "pinyin": "wǒ huì bǎ zī liào zhěng lǐ chéng biǎo gé ， bìng ān pái zhú xiàng jiāo jiē huì yì 。",
+      "tr": "Bilgileri tabloya döküp her başlık için devir toplantısı ayarlayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_014",
+      "speaker": "经理",
+      "zh": "交接最好留出几周，方便接手的人实际跟做而不只是看文件。",
+      "pinyin": "jiāo jiē zuì hǎo liú chū jǐ zhōu ， fāng biàn jiē shǒu de rén shí jì gēn zuò ér bù zhǐ shì kàn wén jiàn 。",
+      "tr": "Devir birkaç hafta sürmeli; yeni sorumlu yalnızca dosya okumakla kalmayıp işi takip etmeli."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_015",
+      "speaker": "同事",
+      "zh": "同意。十一月先让同事参与，十二月由他们主导、我协助。",
+      "pinyin": "tóng yì 。 shí yī yuè xiān ràng tóng shì cān yù ， shí èr yuè yóu tā men zhǔ dǎo 、 wǒ xié zhù 。",
+      "tr": "Katılıyorum. Kasımda ekip arkadaşları sürece katılır, aralıkta onlar yönetirken ben destek olurum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_016",
+      "speaker": "刘梅",
+      "zh": "如果客户在过渡期间联系您，我们要怎么回应？",
+      "pinyin": "rú guǒ kè hù zài guò dù qī jiān lián xì nín ， wǒ men yào zěn me huí yìng ？",
+      "tr": "Geçiş döneminde müşteri size ulaşırsa nasıl yanıt verelim?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_017",
+      "speaker": "张伟",
+      "zh": "先介绍新的负责人；必要时我参加前几次沟通，之后逐渐退出。",
+      "pinyin": "xiān jiè shào xīn de fù zé rén ； bì yào shí wǒ cān jiā qián jǐ cì gōu tōng ， zhī hòu zhú jiàn tuì chū 。",
+      "tr": "Önce yeni sorumluyu tanıtırız; ilk görüşmelere gerekirse katılır, sonra kademeli çekilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_018",
+      "speaker": "经理",
+      "zh": "这样客户有适应时间，团队也能清楚谁负责后续。",
+      "pinyin": "zhè yàng kè hù yǒu shì yìng shí jiān ， tuán duì yě néng qīng chǔ shuí fù zé hòu xù 。",
+      "tr": "Böylece müşteri alışır, ekip de sonraki işlerden kimin sorumlu olduğunu bilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_019",
+      "speaker": "同事",
+      "zh": "我会把这个过渡方式写进计划，并先和相关同事确认。",
+      "pinyin": "wǒ huì bǎ zhè ge guò dù fāng shì xiě jìn jì huà ， bìng xiān hé xiāng guān tóng shì què rèn 。",
+      "tr": "Bu geçiş düzenini plana ekleyip ilgili çalışma arkadaşlarıyla teyit edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_020",
+      "speaker": "刘梅",
+      "zh": "好。今天先把决定和大致时间告诉大家，细节等人事确认后再发。",
+      "pinyin": "hǎo 。 jīn tiān xiān bǎ jué dìng hé dà zhì shí jiān gào sù dà jiā ， xì jié děng rén shì què rèn hòu zài fā 。",
+      "tr": "Güzel. Bugün kararı ve yaklaşık takvimi paylaşalım; ayrıntıları insan kaynakları teyidinden sonra göndeririz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_021",
+      "speaker": "张伟",
+      "zh": "接下来三个月，我会先把负责的项目和日常流程列出来。",
+      "pinyin": "jiē xià lái sān gè yuè ， wǒ huì xiān bǎ fù zé de xiàng mù hé rì cháng liú chéng liè chū lái 。",
+      "tr": "Önümüzdeki üç ayda önce sorumlu olduğum projeleri ve günlük süreçleri listeleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_022",
+      "speaker": "经理",
+      "zh": "人事会提供统一的交接表，我也会安排接手同事逐项确认。",
+      "pinyin": "rén shì huì tí gōng tǒng yī de jiāo jiē biǎo ， wǒ yě huì ān pái jiē shǒu tóng shì zhú xiàng què rèn 。",
+      "tr": "İnsan kaynakları ortak bir devir formu sağlayacak; devralacak çalışma arkadaşımla maddeleri tek tek doğrularız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_023",
+      "speaker": "同事",
+      "zh": "那我们先确定哪些工作必须继续，哪些可以在年底前结束。",
+      "pinyin": "nà wǒ men xiān què dìng nǎ xiē gōng zuò bì xū jì xù ， nǎ xiē kě yǐ zài nián dǐ qián jié shù 。",
+      "tr": "Öyleyse hangi işlerin sürmesi, hangilerinin yıl sonuna kadar tamamlanması gerektiğini belirleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_024",
+      "speaker": "刘梅",
+      "zh": "我会和团队一起排优先级，不会为了赶交接而降低工作质量。",
+      "pinyin": "wǒ huì hé tuán duì yì qǐ pái yōu xiān jí ， bú huì wèi le gǎn jiāo jiē ér jiàng dī gōng zuò zhì liàng 。",
+      "tr": "Öncelikleri ekiple birlikte sıralarım; devir telaşı yüzünden iş kalitesini düşürmeyeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_025",
+      "speaker": "张伟",
+      "zh": "有些客户长期由我联系，直接换负责人可能让他们不习惯。",
+      "pinyin": "yǒu xiē kè hù zhǎng qī yóu wǒ lián xì ， zhí jiē huàn fù zé rén kě néng ràng tā men bù xí guàn 。",
+      "tr": "Bazı müşterilerle uzun süredir ben ilgileniyorum; sorumlunun değişmesi onları şaşırtabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_026",
+      "speaker": "经理",
+      "zh": "可以提前介绍新同事，并安排一段共同跟进的时间。",
+      "pinyin": "kě yǐ tí qián jiè shào xīn tóng shì ， bìng ān pái yī duàn gòng tóng gēn jìn de shí jiān 。",
+      "tr": "Yeni çalışma arkadaşını önceden tanıtıp bir süre işleri birlikte takip edebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_027",
+      "speaker": "同事",
+      "zh": "我愿意参加几次交接会，帮助客户熟悉新的联系人。",
+      "pinyin": "wǒ yuàn yì cān jiā jǐ cì jiāo jiē huì ， bāng zhù kè hù shú xī xīn de lián xì rén 。",
+      "tr": "Müşterilerin yeni irtibat kişisine alışmasına yardımcı olmak için birkaç devir toplantısına katılırım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_028",
+      "speaker": "刘梅",
+      "zh": "这样过渡更平稳，之后也能让新负责人独立处理。",
+      "pinyin": "zhè yàng guò dù gèng píng wěn ， zhī hòu yě néng ràng xīn fù zé rén dú lì chǔ lǐ 。",
+      "tr": "Böylece geçiş yumuşak olur, sonra yeni sorumlu işleri kendi başına yürütür."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_029",
+      "speaker": "张伟",
+      "zh": "我手上还有一份流程资料，最近几年一直没时间整理。",
+      "pinyin": "wǒ shǒu shàng hái yǒu yī fèn liú chéng zī liào ， zuì jìn jǐ nián yì zhí méi shí jiān zhěng lǐ 。",
+      "tr": "Bende birkaç yıldır düzenlemeye vakit bulamadığım bir süreç dosyası var."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_030",
+      "speaker": "经理",
+      "zh": "请先把重要步骤和常见问题写清楚，细节以后再补充。",
+      "pinyin": "qǐng xiān bǎ zhòng yào bù zhòu hé cháng jiàn wèn tí xiě qīng chǔ ， xì jié yǐ hòu zài bǔ chōng 。",
+      "tr": "Önce önemli adımları ve sık sorulan sorunları yazın; ayrıntıları sonra ekleyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_031",
+      "speaker": "同事",
+      "zh": "我可以按任务类型分类，并注明哪些内容需要定期更新。",
+      "pinyin": "wǒ kě yǐ àn rèn wù lèi xíng fēn lèi ， bìng zhù míng nǎ xiē nèi róng xū yào dìng qī gēng xīn 。",
+      "tr": "Görev türlerine göre sınıflandırıp hangi bilgilerin düzenli güncellenmesi gerektiğini belirtebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_032",
+      "speaker": "刘梅",
+      "zh": "资料整理时也要标出联系人和文件存放位置。",
+      "pinyin": "zī liào zhěng lǐ shí yě yào biāo chū lián xì rén hé wén jiàn cún fàng wèi zhì 。",
+      "tr": "Dosyada irtibat kişileri ve belgelerin saklandığı yer de yazsın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_033",
+      "speaker": "张伟",
+      "zh": "目前团队最担心的是，年底前工作会不会集中到少数人身上。",
+      "pinyin": "mù qián tuán duì zuì dān xīn de shì ， nián dǐ qián gōng zuò huì bú huì jí zhōng dào shǎo shù rén shēn shàng 。",
+      "tr": "Ekibin temel kaygısı, yıl sonuna kadar işlerin birkaç kişinin üzerine yığılması."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_034",
+      "speaker": "经理",
+      "zh": "我们会根据工作量调整分配，必要时申请临时支援。",
+      "pinyin": "wǒ men huì gēn jù gōng zuò liàng tiáo zhěng fēn pèi ， bì yào shí shēn qǐng lín shí zhī yuán 。",
+      "tr": "İş yüküne göre dağılımı düzenler, gerekirse geçici destek isteriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_035",
+      "speaker": "同事",
+      "zh": "请尽早把可能超负荷的项目提出来，不要等到最后一刻。",
+      "pinyin": "qǐng jǐn zǎo bǎ kě néng chāo fù hè de xiàng mù tí chū lái ， bú yào děng dào zuì hòu yí kè 。",
+      "tr": "Aşırı yük oluşturabilecek işleri erkenden bildirin; son ana bırakmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_036",
+      "speaker": "刘梅",
+      "zh": "我会每两周检查一次进度，让大家有机会及时调整。",
+      "pinyin": "wǒ huì měi liǎng zhōu jiǎn chá yī cì jìn dù ， ràng dà jiā yǒu jī huì jí shí diào zhěng 。",
+      "tr": "Herkes zamanında ayarlama yapabilsin diye ilerlemeyi iki haftada bir gözden geçireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_037",
+      "speaker": "张伟",
+      "zh": "这段时间我也会逐步减少新任务，专注完成和交接已有工作。",
+      "pinyin": "zhè duàn shí jiān wǒ yě huì zhú bù jiǎn shǎo xīn rèn wù ， zhuān zhù wán chéng hé jiāo jiē yǐ yǒu gōng zuò 。",
+      "tr": "Bu sırada yeni işleri azaltıp mevcut görevleri bitirmeye ve devretmeye odaklanacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_038",
+      "speaker": "经理",
+      "zh": "如果临时有紧急项目，我会再和你讨论优先级。",
+      "pinyin": "Rú guǒ lín shí yǒu jǐn jí xiàng mù wǒ huì zài hé nǐ tǎo lùn yōu xiān jí",
+      "tr": "Acil bir proje çıkarsa öncelikleri seninle yeniden konuşurum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_039",
+      "speaker": "同事",
+      "zh": "可以。先按计划推进，出现新情况时再共同决定。",
+      "pinyin": "kě yǐ 。 xiān àn jì huà tuī jìn ， chū xiàn xīn qíng kuàng shí zài gòng tóng jué dìng 。",
+      "tr": "Olur. Önce plana göre ilerleyelim; yeni bir durum çıkarsa birlikte karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_040",
+      "speaker": "刘梅",
+      "zh": "今天谈完我放心多了，知道接下来每一步由谁负责。",
+      "pinyin": "jīn tiān tán wán wǒ fàng xīn duō le ， zhī dào jiē xià lái měi yī bù yóu shuí fù zé 。",
+      "tr": "Bugünkü konuşma içimi rahatlattı; sıradaki adımlarda kimin sorumlu olduğunu artık biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_041",
+      "speaker": "张伟",
+      "zh": "还有人关心养老金、医疗保险和年终奖金如何衔接。",
+      "pinyin": "hái yǒu rén guān xīn yǎng lǎo jīn 、 yī liáo bǎo xiǎn hé nián zhōng jiǎng jīn rú hé xián jiē 。",
+      "tr": "Bazı kişiler emeklilik maaşı, sağlık sigortası ve yıl sonu ikramiyesinin nasıl geçiş yapacağını merak ediyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_042",
+      "speaker": "经理",
+      "zh": "人事可以逐项说明政策，我会把问题整理后统一咨询。",
+      "pinyin": "rén shì kě yǐ zhú xiàng shuō míng zhèng cè ， wǒ huì bǎ wèn tí zhěng lǐ hòu tǒng yī zī xún 。",
+      "tr": "İnsan kaynakları kuralları tek tek açıklayabilir; soruları toparlayıp birlikte sorarım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_043",
+      "speaker": "同事",
+      "zh": "最好在离职前拿到书面说明，免得口头信息传错。",
+      "pinyin": "zuì hǎo zài lí zhí qián ná dào shū miàn shuō míng ， miǎn de kǒu tóu xìn xī chuán cuò 。",
+      "tr": "Sözlü bilgi yanlış aktarılmasın diye ayrılmadan önce yazılı açıklama almak iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_044",
+      "speaker": "刘梅",
+      "zh": "我会预约人事部门，下周一起把这些事项确认清楚。",
+      "pinyin": "wǒ huì yù yuē rén shì bù mén ， xià zhōu yì qǐ bǎ zhè xiē shì xiàng què rèn qīng chǔ 。",
+      "tr": "Gelecek hafta insan kaynaklarından randevu alıp bu konuları netleştireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_045",
+      "speaker": "张伟",
+      "zh": "退休后的生活费我粗略算过，但医疗支出还没有估进去。",
+      "pinyin": "tuì xiū hòu de shēng huó fèi wǒ cū lüè suàn guò ， dàn yī liáo zhī chū hái méi yǒu gū jìn qù 。",
+      "tr": "Emeklilik sonrası yaşam giderlerini kabaca hesapladım ama sağlık masraflarını henüz eklemedim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_046",
+      "speaker": "经理",
+      "zh": "可以把固定开销、偶尔支出和应急储备分开估算。",
+      "pinyin": "kě yǐ bǎ gù dìng kāi xiāo 、 ǒu ěr zhī chū hé yìng jí chǔ bèi fēn kāi gū suàn 。",
+      "tr": "Sabit giderleri, ara sıra çıkan masrafları ve acil durum birikimini ayrı hesaplayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_047",
+      "speaker": "同事",
+      "zh": "我能帮你找官方资料，但具体金额要按你的实际情况核实。",
+      "pinyin": "wǒ néng bāng nǐ zhǎo guān fāng zī liào ， dàn jù tǐ jīn é yào àn nǐ de shí jì qíng kuàng hé shí 。",
+      "tr": "Resmî kaynak bulmana yardım ederim; kesin tutarı kendi koşullarına göre doğrulamalısın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_048",
+      "speaker": "刘梅",
+      "zh": "谢谢。先列出可靠数字，再决定哪些生活计划需要调整。",
+      "pinyin": "xiè xiè 。 xiān liè chū kě kào shù zì ， zài jué dìng nǎ xiē shēng huó jì huà xū yào tiáo zhěng 。",
+      "tr": "Teşekkürler. Önce güvenilir rakamları çıkarıp hangi yaşam planlarını değiştireceğime karar vereyim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_049",
+      "speaker": "张伟",
+      "zh": "我不太想为了省钱取消所有旅行，只要频率降低一些就好。",
+      "pinyin": "wǒ bù tài xiǎng wèi le shěng qián qǔ xiāo suǒ yǒu lǚ xíng ， zhǐ yào pín lǜ jiàng dī yī xiē jiù hǎo 。",
+      "tr": "Tasarruf etmek için tüm seyahatleri iptal etmek istemiyorum; sıklığı azalsa yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_050",
+      "speaker": "经理",
+      "zh": "退休计划不必只有一种版本，可以按不同预算比较选择。",
+      "pinyin": "tuì xiū jì huà bù bì zhǐ yǒu yī zhǒng bǎn běn ， kě yǐ àn bù tóng yù suàn bǐ jiào xuǎn zé 。",
+      "tr": "Emeklilik planı tek seçenekten ibaret değil; farklı bütçeleri karşılaştırabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_051",
+      "speaker": "同事",
+      "zh": "我们可以做基本、舒适和额外支出三种估算。",
+      "pinyin": "wǒ men kě yǐ zuò jī běn 、 shū shì hé é wài zhī chū sān zhǒng gū suàn 。",
+      "tr": "Temel, rahat ve ek harcamalı üç ayrı tahmin hazırlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_052",
+      "speaker": "刘梅",
+      "zh": "我会先用保守数字，再看看哪些开销能够灵活安排。",
+      "pinyin": "wǒ huì xiān yòng bǎo shǒu shù zì ， zài kàn kàn nǎ xiē kāi xiāo néng gòu líng huó ān pái 。",
+      "tr": "Önce temkinli rakamları kullanır, esnek giderleri sonra gözden geçiririm."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_053",
+      "speaker": "张伟",
+      "zh": "如果预算比预期紧张，是否考虑做一些顾问工作？",
+      "pinyin": "rú guǒ yù suàn bǐ yù qī jǐn zhāng ， shì fǒu kǎo lǜ zuò yī xiē gù wèn gōng zuò ？",
+      "tr": "Bütçe beklenenden sıkışık olursa danışmanlık işi düşünür müsün?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_054",
+      "speaker": "经理",
+      "zh": "可以考虑，但不想因此承担固定职位或长期责任。",
+      "pinyin": "kě yǐ kǎo lǜ ， dàn bù xiǎng yīn cǐ chéng dān gù dìng zhí wèi huò cháng qī zé rèn 。",
+      "tr": "Düşünebilirim ama sabit bir görev ya da uzun vadeli sorumluluk almak istemiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_055",
+      "speaker": "同事",
+      "zh": "退休后的工作最好自己决定时间，也能随时停下来。",
+      "pinyin": "tuì xiū hòu de gōng zuò zuì hǎo zì jǐ jué dìng shí jiān ， yě néng suí shí tíng xià lái 。",
+      "tr": "Emeklilikte çalışma saatlerini kendin seçebilmeli, istediğinde bırakabilmelisin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_056",
+      "speaker": "刘梅",
+      "zh": "我会把它当作备选收入，不把它算成一定会有的钱。",
+      "pinyin": "wǒ huì bǎ tā dàng zuò bèi xuǎn shōu rù ， bù bǎ tā suàn chéng yí dìng huì yǒu de qián 。",
+      "tr": "Bunu olası ek gelir sayarım, kesin elde edeceğim bir para gibi hesaba katmam."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_057",
+      "speaker": "张伟",
+      "zh": "还有一件事，我担心离开办公室后每天突然没有安排。",
+      "pinyin": "hái yǒu yī jiàn shì ， wǒ dān xīn lí kāi bàn gōng shì hòu měi tiān tū rán méi yǒu ān pái 。",
+      "tr": "Bir kaygım daha var: Ofisten ayrılınca günlerimin birden boşalmasından çekiniyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_058",
+      "speaker": "经理",
+      "zh": "刚开始可以保留固定作息，同时安排运动、兴趣和家人时间。",
+      "pinyin": "gāng kāi shǐ kě yǐ bǎo liú gù dìng zuò xī ， tóng shí ān pái yùn dòng 、 xìng qù hé jiā rén shí jiān 。",
+      "tr": "İlk dönemde düzenli bir günlük rutin tutup egzersiz, hobiler ve aileye zaman ayırabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_059",
+      "speaker": "同事",
+      "zh": "我想先用几个月适应，再决定是否参加长期项目。",
+      "pinyin": "wǒ xiǎng xiān yòng jǐ gè yuè shì yìng ， zài jué dìng shì fǒu cān jiā cháng qī xiàng mù 。",
+      "tr": "Önce birkaç ay alışmayı, sonra uzun süreli bir projeye katılıp katılmamaya karar vermeyi istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_060",
+      "speaker": "刘梅",
+      "zh": "这很合理。计划要服务于你的生活，而不是让退休变成另一份工作。",
+      "pinyin": "zhè hěn hé lǐ 。 jì huà yào fú wù yú nǐ de shēng huó ， ér bú shì ràng tuì xiū biàn chéng lìng yī fèn gōng zuò 。",
+      "tr": "Bu mantıklı. Plan yaşamına hizmet etmeli; emeklilik yeni bir işe dönüşmemeli."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_061",
+      "speaker": "张伟",
+      "zh": "我听懂你的顾虑。团队也会担心没人接手关键工作。",
+      "pinyin": "wǒ tīng dǒng nǐ de gù lǜ 。 tuán duì yě huì dān xīn méi rén jiē shǒu guān jiàn gōng zuò 。",
+      "tr": "Kaygını anlıyorum. Ekip de kritik işleri devralacak kimse olmamasından endişe duyabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_062",
+      "speaker": "经理",
+      "zh": "所以我会提前培训接手人，不会等到最后几周才交资料。",
+      "pinyin": "suǒ yǐ wǒ huì tí qián péi xùn jiē shǒu rén ， bú huì děng dào zuì hòu jǐ zhōu cái jiāo zī liào 。",
+      "tr": "Bu nedenle devralacak çalışma arkadaşını önceden eğiteceğim; dosyaları son haftaya bırakmam."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_063",
+      "speaker": "同事",
+      "zh": "我们能安排每周固定半天共同处理项目，逐渐让他独立负责。",
+      "pinyin": "wǒ men néng ān pái měi zhōu gù dìng bàn tiān gòng tóng chǔ lǐ xiàng mù ， zhú jiàn ràng tā dú lì fù zé 。",
+      "tr": "Her hafta yarım gün birlikte çalışıp sorumluluğu adım adım ona aktarabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_064",
+      "speaker": "刘梅",
+      "zh": "这样客户也能在熟悉过程中提出问题，不必等你离开才发现缺口。",
+      "pinyin": "zhè yàng kè hù yě néng zài shú xī guò chéng zhōng tí chū wèn tí ， bù bì děng nǐ lí kāi cái fā xiàn quē kǒu 。",
+      "tr": "Böylece müşteri de alışma sürecinde soru sorar; eksikler sen ayrıldıktan sonra ortaya çıkmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_065",
+      "speaker": "张伟",
+      "zh": "有些经验写不进文件，比如如何判断客户真正着急的事情。",
+      "pinyin": "yǒu xiē jīng yàn xiě bù jìn wén jiàn ， bǐ rú rú hé pàn duàn kè hù zhēn zhèng zháo jí de shì qíng 。",
+      "tr": "Bazı deneyimler dosyaya yazılamaz; örneğin müşterinin neyi gerçekten acil gördüğünü anlamak."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_066",
+      "speaker": "经理",
+      "zh": "这种经验可以在实际会议里示范，再让同事试着主持一次。",
+      "pinyin": "zhè zhǒng jīng yàn kě yǐ zài shí jì huì yì lǐ shì fàn ， zài ràng tóng shì shì zhe zhǔ chí yī cì 。",
+      "tr": "Bu tür deneyimleri gerçek toplantıda gösterebilir, sonra bir kez de çalışma arkadaşının yönetmesini sağlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_067",
+      "speaker": "同事",
+      "zh": "我愿意先旁听，必要时补充，之后让新负责人自己总结。",
+      "pinyin": "wǒ yuàn yì xiān páng tīng ， bì yào shí bǔ chōng ， zhī hòu ràng xīn fù zé rén zì jǐ zǒng jié 。",
+      "tr": "Önce gözlemleyip gerektiğinde katkı sunarım; sonra yeni sorumlu kendi değerlendirmesini yapar."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_068",
+      "speaker": "刘梅",
+      "zh": "那我们也安排一次复盘，讨论哪些做法有效、哪些可以改进。",
+      "pinyin": "nà wǒ men yě ān pái yī cì fù pán ， tǎo lùn nǎ xiē zuò fǎ yǒu xiào 、 nǎ xiē kě yǐ gǎi jìn 。",
+      "tr": "Ardından nelerin işe yaradığını ve nelerin değişebileceğini konuşmak için değerlendirme toplantısı yaparız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_069",
+      "speaker": "张伟",
+      "zh": "如果交接过程中遇到意见不一致，谁来作最后决定？",
+      "pinyin": "rú guǒ jiāo jiē guò chéng zhōng yù dào yì jiàn bù yī zhì ， shuí lái zuò zuì hòu jué dìng ？",
+      "tr": "Devir sırasında görüş ayrılığı çıkarsa son kararı kim verecek?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_070",
+      "speaker": "经理",
+      "zh": "过渡期间由我负责最终判断，同时听取接手人和团队意见。",
+      "pinyin": "guò dù qī jiān yóu wǒ fù zé zuì zhōng pàn duàn ， tóng shí tīng qǔ jiē shǒu rén hé tuán duì yì jiàn 。",
+      "tr": "Geçiş süresince son değerlendirmeyi ben yaparım ama devralacak kişiyi ve ekibi de dinlerim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_071",
+      "speaker": "同事",
+      "zh": "正式退休后，他就全权负责；我不会继续从旁干预。",
+      "pinyin": "zhèng shì tuì xiū hòu ， tā jiù quán quán fù zé ； wǒ bú huì jì xù cóng páng gān yù 。",
+      "tr": "Resmî emeklilikten sonra tüm sorumluluk onda olur; ben işe karışmaya devam etmem."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_072",
+      "speaker": "刘梅",
+      "zh": "这样的界限很重要，团队才能真正建立新的工作方式。",
+      "pinyin": "zhè yàng de jiè xiàn hěn zhòng yào ， tuán duì cái néng zhēn zhèng jiàn lì xīn de gōng zuò fāng shì 。",
+      "tr": "Bu sınır önemli; ekip böylece gerçekten yeni bir çalışma düzeni kurabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_073",
+      "speaker": "张伟",
+      "zh": "客户是否需要正式通知你将离开岗位？",
+      "pinyin": "kè hù shì fǒu xū yào zhèng shì tōng zhī nǐ jiāng lí kāi gǎng wèi ？",
+      "tr": "Müşteriye görevinden ayrılacağını resmî olarak bildirmek gerekir mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_074",
+      "speaker": "经理",
+      "zh": "等人事确认日期后，我会和新负责人一起写信说明变化。",
+      "pinyin": "děng rén shì què rèn rì qī hòu ， wǒ huì hé xīn fù zé rén yì qǐ xiě xìn shuō míng biàn huà 。",
+      "tr": "İnsan kaynakları tarihi teyit edince yeni sorumlu ile birlikte bir yazı hazırlarım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_075",
+      "speaker": "同事",
+      "zh": "信里介绍新联系人，也说明目前项目和沟通渠道不会中断。",
+      "pinyin": "xìn lǐ jiè shào xīn lián xì rén ， yě shuō míng mù qián xiàng mù hé gōu tōng qú dào bú huì zhōng duàn 。",
+      "tr": "Yazıda yeni irtibat kişisini tanıtır, mevcut iş ve iletişim kanallarının süreceğini belirtiriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_076",
+      "speaker": "刘梅",
+      "zh": "可以提前约一次简短见面，让客户知道之后找谁。",
+      "pinyin": "kě yǐ tí qián yuē yī cì jiǎn duǎn jiàn miàn ， ràng kè hù zhī dào zhī hòu zhǎo shuí 。",
+      "tr": "Müşterinin bundan sonra kime ulaşacağını bilmesi için kısa bir tanışma da ayarlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_077",
+      "speaker": "张伟",
+      "zh": "我会把正在处理的事项和未决问题也列在邮件附件里。",
+      "pinyin": "wǒ huì bǎ zhèng zài chǔ lǐ de shì xiàng hé wèi jué wèn tí yě liè zài yóu jiàn fù jiàn lǐ 。",
+      "tr": "Devam eden işleri ve çözülmemiş konuları da e-postanın ekine koyarım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_078",
+      "speaker": "经理",
+      "zh": "请不要加入个人敏感信息，只保留继续工作需要的内容。",
+      "pinyin": "qǐng bú yào jiā rù gè rén mǐn gǎn xìn xī ， zhǐ bǎo liú jì xù gōng zuò xū yào de nèi róng 。",
+      "tr": "Kişisel ve hassas bilgileri eklemeyin; yalnızca işin sürmesi için gerekenleri paylaşın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_079",
+      "speaker": "同事",
+      "zh": "明白。我会让人事和新负责人一起检查通知及附件。",
+      "pinyin": "míng bái 。 wǒ huì ràng rén shì hé xīn fù zé rén yì qǐ jiǎn chá tōng zhī jí fù jiàn 。",
+      "tr": "Anlaşıldı. Duyuruyu ve eklerini insan kaynakları ile yeni sorumluya birlikte kontrol ettireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_080",
+      "speaker": "刘梅",
+      "zh": "准备充分的话，人员变化就不会影响客户得到的服务。",
+      "pinyin": "zhǔn bèi chōng fèn de huà ， rén yuán biàn huà jiù bú huì yǐng xiǎng kè hù dé dào de fú wù 。",
+      "tr": "Hazırlık iyi olursa personel değişikliği müşteriye verilen hizmeti etkilemez."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_081",
+      "speaker": "张伟",
+      "zh": "退休前最后一个月，我们可以安排几次项目复盘和资料交接。",
+      "pinyin": "tuì xiū qián zuì hòu yí gè yuè ， wǒ men kě yǐ ān pái jǐ cì xiàng mù fù pán hé zī liào jiāo jiē 。",
+      "tr": "Emekliliğinden önceki son ayda proje değerlendirmeleri ve devir için birkaç toplantı ayarlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_082",
+      "speaker": "经理",
+      "zh": "我会准备议程，但也想留时间让团队谈谈合作中的感受。",
+      "pinyin": "wǒ huì zhǔn bèi yì chéng ， dàn yě xiǎng liú shí jiān ràng tuán duì tán tán hé zuò zhōng de gǎn shòu 。",
+      "tr": "Gündemi hazırlarım; ayrıca ekibe birlikte çalışırken neler hissettiklerini konuşma zamanı bırakmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_083",
+      "speaker": "同事",
+      "zh": "这个告别不只是办手续，认真说声谢谢也很重要。",
+      "pinyin": "zhè ge gào bié bù zhǐ shì bàn shǒu xù ， rèn zhēn shuō shēng xiè xiè yě hěn zhòng yào 。",
+      "tr": "Bu veda yalnızca işlemleri tamamlamak değil; içtenlikle teşekkür etmek de önemli."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_084",
+      "speaker": "刘梅",
+      "zh": "那我们找一个合适的下午，简单聚一聚，不给大家添负担。",
+      "pinyin": "nà wǒ men zhǎo yí gè hé shì de xià wǔ ， jiǎn dān jù yī jù ， bù gěi dà jiā tiān fù dān 。",
+      "tr": "O hâlde uygun bir öğleden sonra kısa bir buluşma ayarlayalım, kimseye yük olmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_085",
+      "speaker": "张伟",
+      "zh": "退休后你还会参加公司的活动吗？",
+      "pinyin": "tuì xiū hòu nǐ hái huì cān jiā gōng sī de huó dòng ma ？",
+      "tr": "Emekli olduktan sonra şirket etkinliklerine katılacak mısın?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_086",
+      "speaker": "经理",
+      "zh": "偶尔参加没问题，但我希望把决定权留给自己，不作固定承诺。",
+      "pinyin": "ǒu ěr cān jiā méi wèn tí ， dàn wǒ xī wàng bǎ jué dìng quán liú gěi zì jǐ ， bù zuò gù dìng chéng nuò 。",
+      "tr": "Ara sıra gelebilirim ama karar hakkını kendimde tutup düzenli katılım sözü vermek istemiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_087",
+      "speaker": "同事",
+      "zh": "我们会邀请你，但不会把你的参与当成理所当然。",
+      "pinyin": "wǒ men huì yāo qǐng nǐ ， dàn bú huì bǎ nǐ de cān yù dàng chéng lǐ suǒ dāng rán 。",
+      "tr": "Seni davet ederiz ama katılımını zorunluymuş gibi görmeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_088",
+      "speaker": "刘梅",
+      "zh": "这样既能保持联系，也不会让你觉得必须继续承担工作。",
+      "pinyin": "Zhè yàng jì néng bǎo chí lián xì yě bú huì ràng nǐ jué de bì xū jì xù chéng dān gōng zuò",
+      "tr": "Böylece iletişim sürer ama çalışmaya devam etmek zorunda hissetmezsin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_089",
+      "speaker": "张伟",
+      "zh": "最后一次项目交接已经完成，客户也确认新联系人。",
+      "pinyin": "zuì hòu yī cì xiàng mù jiāo jiē yǐ jīng wán chéng ， kè hù yě què rèn xīn lián xì rén 。",
+      "tr": "Son proje devri tamamlandı, müşteri de yeni irtibat kişisini onayladı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_090",
+      "speaker": "经理",
+      "zh": "资料和账号权限都移交好了，我会在离职日退出工作系统。",
+      "pinyin": "zī liào hé zhàng hào quán xiàn dōu yí jiāo hǎo le ， wǒ huì zài lí zhí rì tuì chū gōng zuò xì tǒng 。",
+      "tr": "Belgeler ve hesap erişimleri devredildi; işten ayrıldığım gün sistemden çıkarım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_091",
+      "speaker": "同事",
+      "zh": "请和人事一起核对离职手续、福利和需要归还的设备。",
+      "pinyin": "qǐng hé rén shì yì qǐ hé duì lí zhí shǒu xù 、 fú lì hé xū yào guī huán de shè bèi 。",
+      "tr": "İnsan kaynaklarıyla ayrılık işlemlerini, hakları ve iade edilecek ekipmanı kontrol edin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_092",
+      "speaker": "刘梅",
+      "zh": "我已经预约了交接检查，逐项确认后再签收。",
+      "pinyin": "wǒ yǐ jīng yù yuē le jiāo jiē jiǎn chá ， zhú xiàng què rèn hòu zài qiān shōu 。",
+      "tr": "Devir kontrolü için randevu aldım; teslim almadan önce her maddeyi tek tek doğrulayacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_093",
+      "speaker": "张伟",
+      "zh": "这些年你带给团队的帮助不只在项目里，也在大家互相支持的方式上。",
+      "pinyin": "zhè xiē nián nǐ dài gěi tuán duì de bāng zhù bù zhǐ zài xiàng mù lǐ ， yě zài dà jiā hù xiāng zhī chí de fāng shì shàng 。",
+      "tr": "Yıllar boyunca ekibe katkın yalnızca projelerle sınırlı değildi; birbirimize destek olma biçimimizi de etkiledin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_094",
+      "speaker": "经理",
+      "zh": "谢谢大家。和你们共事让我学到很多，也让我更愿意分享经验。",
+      "pinyin": "xiè xiè dà jiā 。 hé nǐ men gòng shì ràng wǒ xué dào hěn duō ， yě ràng wǒ gèng yuàn yì fēn xiǎng jīng yàn 。",
+      "tr": "Teşekkürler. Sizinle çalışırken çok şey öğrendim ve deneyimimi paylaşmak istedim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_095",
+      "speaker": "同事",
+      "zh": "我们会记得这些经验，也会继续把团队带好。",
+      "pinyin": "wǒ men huì jì de zhè xiē jīng yàn ， yě huì jì xù bǎ tuán duì dài hǎo 。",
+      "tr": "Bu deneyimleri hatırlayıp ekibi iyi biçimde sürdürmeye devam edeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_096",
+      "speaker": "刘梅",
+      "zh": "看到大家准备得这么周全，我对您离开后的生活安心多了。",
+      "pinyin": "Kàn dào dà jiā zhǔn bèi dé zhè me zhōu quán wǒ duì nín lí kāi hòu de shēng huó ān xīn duō le",
+      "tr": "Herkesin bu kadar iyi hazırlandığını görmek, ayrılıktan sonraki yaşamınız konusunda içimi rahatlattı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_097",
+      "speaker": "张伟",
+      "zh": "人事确认了最后工作日和手续时间，正式通知也已经发出。",
+      "pinyin": "rén shì què rèn le zuì hòu gōng zuò rì hé shǒu xù shí jiān ， zhèng shì tōng zhī yě yǐ jīng fā chū 。",
+      "tr": "İnsan kaynakları son iş günümü ve işlemleri teyit etti; resmî duyuru da gönderildi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_098",
+      "speaker": "经理",
+      "zh": "那我会按计划完成余下交接，之后开始自己的新生活。",
+      "pinyin": "nà wǒ huì àn jì huà wán chéng yú xià jiāo jiē ， zhī hòu kāi shǐ zì jǐ de xīn shēng huó 。",
+      "tr": "Plana göre kalan devirleri tamamlayıp sonrasında hayatımın yeni dönemine başlayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_099",
+      "speaker": "同事",
+      "zh": "祝你接下来的日子从容、充实，也常常回来看看我们。",
+      "pinyin": "zhù nǐ jiē xià lái de rì zi cóng róng 、 chōng shí ， yě cháng cháng huí lái kàn kàn wǒ men 。",
+      "tr": "Yeni hayatının sakin ve dolu dolu geçmesini diliyoruz; bizi sık sık görmeye gel."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC014_100",
+      "speaker": "刘梅",
+      "zh": "谢谢。退休不是告别所有关系，而是换一种方式继续生活。",
+      "pinyin": "xiè xiè 。 tuì xiū bú shì gào bié suǒ yǒu guān xì ， ér shì huàn yī zhǒng fāng shì jì xù shēng huó 。",
+      "tr": "Teşekkürler. Emeklilik tüm ilişkilerden ayrılmak değil, yaşamı başka biçimde sürdürmek demek."
+    }
+  ]
+}

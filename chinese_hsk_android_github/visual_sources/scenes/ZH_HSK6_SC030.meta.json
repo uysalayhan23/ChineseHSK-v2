@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC030.json",
-  "dialogueSha256": "ce64dae70ba12379404cd5ebd6ffc241526e3a2e27f0540dbb3d6e1a83864e4f",
+  "dialogueSha256": "9c86b03f4c6d7e19250b3f8f092d12a210b0131f333dc0275dcf69021aed1505",
   "titleZh": "年轻创业者来请教",
   "titleTr": "Genç Bir Girişimci Tavsiye İstiyor",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

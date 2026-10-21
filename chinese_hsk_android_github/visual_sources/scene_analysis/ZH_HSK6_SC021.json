@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC021",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC021.json",
-  "dialogueSha256": "03b36eb4b8268021f99b13c85ea31f1cdcf437953f64c08953d054893606aa60",
+  "dialogueSha256": "5242ab6e89458a0fc6545727cbab142b64946178fc78ba96489e86d01595b7d5",
   "titleZh": "第一个孙辈要来了",
   "titleTr": "İlk Torun Haberi",
   "locationId": "LOC_ZH_NEW_HOME_001",

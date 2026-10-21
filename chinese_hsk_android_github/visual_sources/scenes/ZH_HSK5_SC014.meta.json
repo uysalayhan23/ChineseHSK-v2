@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC014.json",
-  "dialogueSha256": "eaebcfb552b8d125028601645ea2d95cc2fd87a360bc7e99bc8fa286316d0b04",
+  "dialogueSha256": "eb0a1bbfc232065e991b49812cab67c5d0f3217f8b6bf86f0dd3d2a06a2c4ac2",
   "titleZh": "乐乐的数字媒体项目",
   "titleTr": "Lele Sosyal Medya Projesi Yapıyor",
   "locationId": "LOC_ZH_HIGH_SCHOOL_001",

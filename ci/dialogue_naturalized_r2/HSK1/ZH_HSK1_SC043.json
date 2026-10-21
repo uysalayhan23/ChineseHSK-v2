@@ -1,0 +1,712 @@
+{
+  "naturalizationVersion": 20,
+  "status": "FINAL_NATIVE_RELEASE_CANDIDATE_V20",
+  "sceneId": "ZH_HSK1_SC043",
+  "level": "HSK1",
+  "sceneCategory": "education",
+  "sourceTitleZh": "雨桐的第一次考试",
+  "sourceTitleTr": "Yutong’un İlk Sınavı",
+  "sourceMiniAdventureTr": "Yutong sınavdan önce heyecanlıdır; aile onu destekler.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK1_SC043_001",
+      "speaker": "张雨桐",
+      "zh": "明天是我第一次考试，我有一点儿紧张。",
+      "pinyin": "Míngtiān shì wǒ dìyīcì kǎoshì, wǒ yǒu yìdiǎnér jǐnzhāng.",
+      "tr": "Yarın ilk sınavım var, biraz heyecanlıyım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_002",
+      "speaker": "刘梅",
+      "zh": "你已经学习了好几天，准备得怎么样？",
+      "pinyin": "Nǐ yǐjīng xuéxí le hǎo jǐtiān, zhǔnbèi dé zěnmeyàng?",
+      "tr": "Birkaç gündür çalışıyorsun, nasıl hissediyorsun?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_003",
+      "speaker": "张伟",
+      "zh": "书和老师给的试卷都在桌上。",
+      "pinyin": "Shū hé lǎoshī gěi de shìjuàn dōu zài zhuōshàng.",
+      "tr": "Kitapların ve öğretmenin verdiği sınav kâğıtları masada."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_004",
+      "speaker": "张乐乐",
+      "zh": "姐姐，考试的时候我能陪你去学校吗？",
+      "pinyin": "Jiějiě, kǎoshì de shíhòu wǒnéng péinǐqù xuéxiào ma?",
+      "tr": "Abla, sınav günü seninle okula gelebilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_005",
+      "speaker": "张雨桐",
+      "zh": "谢谢，我自己去就可以，你在家等我吧。",
+      "pinyin": "Xièxiè, wǒ zìjǐ qù jiù kěyǐ, nǐ zàijiā děng wǒ ba.",
+      "tr": "Teşekkürler, kendim gidebilirim, sen evde bekle."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_006",
+      "speaker": "刘梅",
+      "zh": "别担心，第一次考试紧张很正常。",
+      "pinyin": "Bié dānxīn, dìyīcì kǎoshì jǐnzhāng hěn zhèngcháng.",
+      "tr": "Endişelenme, ilk sınavda heyecanlanmak normal."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_007",
+      "speaker": "张伟",
+      "zh": "今晚先做一张试卷，看看哪些地方还要复习。",
+      "pinyin": "Jīnwǎn xiān zuò yīzhāng shìjuàn, kànkàn nǎxiēdìfāng háiyào fùxí.",
+      "tr": "Bu akşam bir deneme kâğıdı çözelim, hangi konuları tekrar edeceğine bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_008",
+      "speaker": "张乐乐",
+      "zh": "我可以帮你拿书，不让桌子太乱。",
+      "pinyin": "Wǒ kěyǐ bāng nǐ ná shū, bùràng zhuōzi tàiluàn.",
+      "tr": "Kitapları taşımana yardım ederim, masa çok dağılmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_009",
+      "speaker": "张雨桐",
+      "zh": "这张试卷是老师昨天发给我们的。",
+      "pinyin": "Zhèzhāng shìjuàn shì lǎoshī zuótiān fāgěi wǒmen de.",
+      "tr": "Bu sınav kâğıdını öğretmen dün dağıttı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_010",
+      "speaker": "刘梅",
+      "zh": "那我先自己做，做完再对答案。",
+      "pinyin": "Nà wǒ xiān zìjǐ zuò, zuò wán zài duì dáàn.",
+      "tr": "Önce kendim çözeyim, bitince cevapları kontrol ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_011",
+      "speaker": "张伟",
+      "zh": "对，先别看后面的答案。",
+      "pinyin": "Duì, xiānbié kàn hòumiàn de dáàn.",
+      "tr": "Evet, önce arkadaki cevaplara bakma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_012",
+      "speaker": "张乐乐",
+      "zh": "我来把你的书放在旁边。",
+      "pinyin": "Wǒlái bǎ nǐ de shū fàngzài pángbiān.",
+      "tr": "Kitaplarını yan tarafa koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_013",
+      "speaker": "张雨桐",
+      "zh": "第三题我不太会，能给我一点儿提示吗？",
+      "pinyin": "Dìsān tí wǒ bùtàihuì, néng gěi wǒ yìdiǎnér tíshì ma?",
+      "tr": "Üçüncü soruyu pek yapamıyorum, ipucu verir misin?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_014",
+      "speaker": "刘梅",
+      "zh": "先读一遍题目，看看老师问什么。",
+      "pinyin": "Xiāndú yībiàn tímù, kànkàn lǎoshī wèn shénme.",
+      "tr": "Önce soruyu oku, öğretmenin ne sorduğuna bak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_015",
+      "speaker": "张伟",
+      "zh": "把已知的东西先写下来，再慢慢想。",
+      "pinyin": "Bǎ yǐzhī de dōngxī xiānxiě xiàlái, zài mànmàn xiǎng.",
+      "tr": "Verilen bilgileri önce yaz, sonra sakince düşün."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_016",
+      "speaker": "张乐乐",
+      "zh": "不要急，我也会陪你一起看。",
+      "pinyin": "Búyào jí, wǒ yě huì péi nǐ yìqǐ kàn.",
+      "tr": "Acele etme, ben de seninle bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_017",
+      "speaker": "张雨桐",
+      "zh": "我读懂了，可是还不知道怎么写。",
+      "pinyin": "Wǒ dúdǒng le, kěshì hái bù zhīdào zěnme xiě.",
+      "tr": "Anladım ama nasıl yazacağımı hâlâ bilmiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_018",
+      "speaker": "刘梅",
+      "zh": "你先写自己想到的办法，不用怕写错。",
+      "pinyin": "Nǐ xiān xiě zìjǐ xiǎngdào de bànfǎ, bùyòng pà xiěcuò.",
+      "tr": "Aklına gelen yöntemi yaz, yanlış yapmaktan korkma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_019",
+      "speaker": "张伟",
+      "zh": "考试时也可以先做会的题。",
+      "pinyin": "Kǎoshì shí yě kěyǐ xiān zuò huì de tí.",
+      "tr": "Sınavda da önce bildiğin soruları çözebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_020",
+      "speaker": "张乐乐",
+      "zh": "对，难题留到后面再做。",
+      "pinyin": "Duì, nántí liú dào hòumiàn zài zuò.",
+      "tr": "Evet, zor soruları sona bırak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_021",
+      "speaker": "张雨桐",
+      "zh": "这个办法好，我先做前面的题。",
+      "pinyin": "Zhège bànfǎ hǎo, wǒ xiān zuò qiánmiàn de tí.",
+      "tr": "Bu iyi fikir, önce baştaki soruları yapayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_022",
+      "speaker": "刘梅",
+      "zh": "做完以后记得回头检查。",
+      "pinyin": "Zuò wán yǐhòu jìde huítóu jiǎnchá.",
+      "tr": "Bitirince geri dönüp kontrol etmeyi unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_023",
+      "speaker": "张伟",
+      "zh": "还要留一点儿时间看试卷有没有漏题。",
+      "pinyin": "Háiyào liú yìdiǎnér shíjiān kàn shìjuàn yǒuméiyǒu lòutí.",
+      "tr": "Kâğıtta boş soru kalmadığını görmek için biraz zaman bırak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_024",
+      "speaker": "张乐乐",
+      "zh": "我来帮你看一下时间。",
+      "pinyin": "Wǒlái bāng nǐ kàn yīxià shíjiān.",
+      "tr": "Zamana bakmana yardım ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_025",
+      "speaker": "张雨桐",
+      "zh": "还有十分钟，我先把这一页做完。",
+      "pinyin": "Háiyǒu shífēnzhōng, wǒ xiān bǎ zhè yīyè zuò wán.",
+      "tr": "On dakika var, önce bu sayfayı bitireyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_026",
+      "speaker": "刘梅",
+      "zh": "慢慢写，字也要让老师看得清楚。",
+      "pinyin": "Mànmàn xiě, zì yě yào ràng lǎoshī kàn dé qīngchǔ.",
+      "tr": "Sakin yaz, harflerin öğretmenin okuyabileceği kadar net olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_027",
+      "speaker": "张伟",
+      "zh": "对，答案写在题目旁边，不要写到外面。",
+      "pinyin": "Duì, dáàn xiě zài tímù pángbiān, búyào xiě dào wàimiàn.",
+      "tr": "Evet, cevabı sorunun yanına yaz, dışına taşmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_028",
+      "speaker": "张乐乐",
+      "zh": "我看得懂你的字，写得很清楚。",
+      "pinyin": "Wǒ kàndedǒng nǐ de zì, xiě dé hěn qīngchǔ.",
+      "tr": "Yazını okuyabiliyorum, çok net."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_029",
+      "speaker": "张雨桐",
+      "zh": "最后一题也做完了，我现在可以对答案吗？",
+      "pinyin": "Zuìhòu yītí yě zuò wán le, wǒ xiànzài kěyǐ duì dáàn ma?",
+      "tr": "Son soruyu da bitirdim, şimdi cevapları kontrol edebilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_030",
+      "speaker": "刘梅",
+      "zh": "可以，先自己检查，再看答案。",
+      "pinyin": "Kěyǐ, xiān zìjǐ jiǎnchá, zài kàn dáàn.",
+      "tr": "Olur, önce kendin kontrol et, sonra cevaplara bak."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_031",
+      "speaker": "张伟",
+      "zh": "我看一下，这几题都做对了。",
+      "pinyin": "Wǒ kàn yīxià, zhè jǐtí dōu zuò duì le.",
+      "tr": "Bir bakayım, bu soruları doğru yapmışsın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_032",
+      "speaker": "张乐乐",
+      "zh": "姐姐真厉害，我也想学这些题。",
+      "pinyin": "Jiějiě zhēn lìhài, wǒ yě xiǎngxué zhèxiē tí.",
+      "tr": "Abla çok iyisin, ben de bu soruları öğrenmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_033",
+      "speaker": "张雨桐",
+      "zh": "你还小，等你上学以后，老师会慢慢教你。",
+      "pinyin": "Nǐ hái xiǎo, děng nǐ shàngxué yǐhòu, lǎoshī huì mànmàn jiào nǐ.",
+      "tr": "Sen daha küçüksün, okula başlayınca öğretmenin yavaş yavaş öğretir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_034",
+      "speaker": "刘梅",
+      "zh": "老师说考试时要认真读题，不要太快。",
+      "pinyin": "Lǎoshī shuō kǎoshì shíyào rènzhēn dútí, búyào tàikuài.",
+      "tr": "Öğretmen sınavda soruları dikkatle okumamızı, acele etmememizi söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_035",
+      "speaker": "张伟",
+      "zh": "那就按老师说的做，一题一题来。",
+      "pinyin": "Nà jiù àn lǎoshī shuō de zuò, yītí yītí lái.",
+      "tr": "O zaman öğretmenin dediği gibi, soruları tek tek yap."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_036",
+      "speaker": "张乐乐",
+      "zh": "我会提醒你慢慢写，不着急。",
+      "pinyin": "Wǒhuì tíxǐng nǐ mànmàn xiě, bù zháojí.",
+      "tr": "Sana sakin yazmanı hatırlatırım, acele yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_037",
+      "speaker": "张雨桐",
+      "zh": "谢谢你们，我现在没有刚才那么紧张了。",
+      "pinyin": "Xièxiènǐmen, wǒ xiànzài méiyǒu gāngcái nàme jǐnzhāng le.",
+      "tr": "Teşekkürler, artık az önceki kadar heyecanlı değilim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_038",
+      "speaker": "刘梅",
+      "zh": "你已经准备得很好，今晚早点儿休息。",
+      "pinyin": "Nǐ yǐjīng zhǔnbèi dé hěn hǎo, jīnwǎn zǎodiǎnér xiūxī.",
+      "tr": "İyi hazırlandın, bu akşam erken dinlen."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_039",
+      "speaker": "张伟",
+      "zh": "我把明天要用的书和笔放进书包。",
+      "pinyin": "Wǒ bǎ míngtiān yàoyòng de shū hé bǐ fàngjìn shūbāo.",
+      "tr": "Yarın kullanacağım kitap ve kalemleri çantaya koyuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_040",
+      "speaker": "张乐乐",
+      "zh": "我来看看，铅笔和橡皮都在里面。",
+      "pinyin": "Wǒlái kànkàn, qiānbǐ hé xiàngpí dōu zài lǐmiàn.",
+      "tr": "Bakayım, kalem ve silgi ikisi de içinde."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_041",
+      "speaker": "张雨桐",
+      "zh": "试卷也要带吗？老师说要带自己的笔。",
+      "pinyin": "Shìjuàn yě yào dài ma? lǎoshī shuō yào dài zìjǐ de bǐ.",
+      "tr": "Sınav kâğıdını da götüreyim mi? Öğretmen kendi kalemimizi getirmemizi söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_042",
+      "speaker": "刘梅",
+      "zh": "试卷不用带，学校会发给你。",
+      "pinyin": "Shìjuàn bùyòng dài, xuéxiào huì fāgěinǐ.",
+      "tr": "Sınav kâğıdını götürmene gerek yok, okul verecek."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_043",
+      "speaker": "张伟",
+      "zh": "书包里再放一支笔，免得那支写不出来。",
+      "pinyin": "Shūbāo lǐ zài fàng yīzhī bǐ, miǎnde nàzhī xiě bù chūlái.",
+      "tr": "Kalem yazmazsa diye çantaya bir kalem daha koy."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_044",
+      "speaker": "张乐乐",
+      "zh": "我给你找一支新的，在桌子上。",
+      "pinyin": "Wǒ gěi nǐ zhǎo yīzhī xīn de, zài zhuōzi shàng.",
+      "tr": "Sana yeni bir kalem bulayım, masanın üstünde."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_045",
+      "speaker": "张雨桐",
+      "zh": "找到了，谢谢，东西都准备好了。",
+      "pinyin": "Zhǎodào le, xièxiè, dōngxī dōu zhǔnbèi hǎo le.",
+      "tr": "Buldum, teşekkürler, her şeyi hazırladım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_046",
+      "speaker": "刘梅",
+      "zh": "明天早上吃完饭，我们一起去学校。",
+      "pinyin": "Míngtiān zǎoshàng chīwánfàn, wǒmen yìqǐ qù xuéxiào.",
+      "tr": "Yarın sabah kahvaltıdan sonra birlikte okula gideriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_047",
+      "speaker": "张伟",
+      "zh": "考试几点开始？你记得老师说的时间吗？",
+      "pinyin": "Kǎoshì jǐdiǎn kāishǐ? nǐ jìde lǎoshī shuō de shíjiān ma?",
+      "tr": "Sınav saat kaçta başlıyor? Öğretmenin söylediği zamanı hatırlıyor musun?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_048",
+      "speaker": "张乐乐",
+      "zh": "九点开始，我们早点儿到学校。",
+      "pinyin": "Jiǔdiǎn kāishǐ, wǒmen zǎodiǎnér dào xuéxiào.",
+      "tr": "Saat dokuzda başlıyor, okula erken gideriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_049",
+      "speaker": "张雨桐",
+      "zh": "那我今晚不用再看很久了。",
+      "pinyin": "Nà wǒ jīnwǎn bùyòng zài kàn hěn jiǔ le.",
+      "tr": "O zaman bu akşam çok uzun süre çalışmama gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_050",
+      "speaker": "刘梅",
+      "zh": "对，睡好了，明天才有精神。",
+      "pinyin": "Duì, shuì hǎo le, míngtiān cái yǒu jīngshén.",
+      "tr": "Evet, iyi uyursan yarın enerjin olur."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_051",
+      "speaker": "张伟",
+      "zh": "考试的时候要是不会，可以先跳过去。",
+      "pinyin": "Kǎoshì de shíhòu yàoshì búhuì, kěyǐ xiān tiàoguòqù.",
+      "tr": "Sınavda yapamazsan o soruyu geçebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_052",
+      "speaker": "张乐乐",
+      "zh": "做完别忘了再回来检查。",
+      "pinyin": "Zuò wán biéwàngle zài huílái jiǎnchá.",
+      "tr": "Bitirince geri dönüp kontrol etmeyi unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_053",
+      "speaker": "张雨桐",
+      "zh": "我会先做会的题，再看难题。",
+      "pinyin": "Wǒhuì xiān zuò huì de tí, zài kàn nántí.",
+      "tr": "Önce bildiklerimi yapıp sonra zor sorulara bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_054",
+      "speaker": "刘梅",
+      "zh": "不用和别人比，认真做自己的试卷就好。",
+      "pinyin": "Bùyòng hé biérén bǐ, rènzhēn zuò zìjǐ de shìjuàn jiù hǎo.",
+      "tr": "Başkalarıyla yarışmana gerek yok, kendi kâğıdını dikkatle çöz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_055",
+      "speaker": "张伟",
+      "zh": "老师看的是你自己的答案，不是别人写得多快。",
+      "pinyin": "Lǎoshī kàn de shì nǐ zìjǐ de dáàn, búshì biérén xiě dé duō kuài.",
+      "tr": "Öğretmen senin cevaplarına bakar, başkalarının ne kadar hızlı yazdığına değil."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_056",
+      "speaker": "张乐乐",
+      "zh": "我在学校等你回来，问问考试怎么样。",
+      "pinyin": "Wǒ zài xuéxiào děng nǐ huílái, wènwèn kǎoshì zěnmeyàng.",
+      "tr": "Okuldan dönmeni bekler, sınavın nasıl geçtiğini sorarım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_057",
+      "speaker": "张雨桐",
+      "zh": "好，考完我就告诉你们。",
+      "pinyin": "Hǎo, kǎowán wǒ jiù gàosù nǐmen.",
+      "tr": "Olur, sınav bitince size anlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_058",
+      "speaker": "刘梅",
+      "zh": "如果觉得难，也别马上担心，先把题做完。",
+      "pinyin": "Rúguǒ juéde nán, yě bié mǎshàng dānxīn, xiānbǎtí zuò wán.",
+      "tr": "Zor gelirse hemen endişelenme, önce kâğıdı tamamla."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_059",
+      "speaker": "张伟",
+      "zh": "做完再看一遍，可能会发现自己已经会了。",
+      "pinyin": "Zuò wán zài kànyībiàn, kěnéng huì fāxiànzìjǐ yǐjīng huì le.",
+      "tr": "Bitirince bir daha bak, belki aslında bildiğini görürsün."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_060",
+      "speaker": "张乐乐",
+      "zh": "我会在家给你留点儿水果。",
+      "pinyin": "Wǒhuì zàijiā gěi nǐ liú diǎnér shuǐguǒ.",
+      "tr": "Evde sana biraz meyve bırakırım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_061",
+      "speaker": "张雨桐",
+      "zh": "我喜欢苹果，考试以后想吃一个。",
+      "pinyin": "Wǒ xǐhuān píngguǒ, kǎoshì yǐhòu xiǎng chī yígè.",
+      "tr": "Elmayı severim, sınavdan sonra bir tane yemek isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_062",
+      "speaker": "刘梅",
+      "zh": "那我明天早上给你带一个苹果。",
+      "pinyin": "Nà wǒ míngtiān zǎoshàng gěi nǐ dài yígè píngguǒ.",
+      "tr": "O zaman yarın sabah sana bir elma veririm."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_063",
+      "speaker": "张伟",
+      "zh": "早上先吃饭，再带水去学校。",
+      "pinyin": "Zǎoshàng xiān chīfàn, zàidài shuǐqù xuéxiào.",
+      "tr": "Sabah önce kahvaltı et, sonra okula su götür."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_064",
+      "speaker": "张乐乐",
+      "zh": "我把水瓶放在书包旁边了。",
+      "pinyin": "Wǒ bǎ shuǐpíng fàngzài shūbāo pángbiān le.",
+      "tr": "Su şişesini çantanın yanına koydum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_065",
+      "speaker": "张雨桐",
+      "zh": "书包有点儿重，我把今天不用的书拿出来。",
+      "pinyin": "Shūbāo yǒudiǎnér zhòng, wǒ bǎ jīntiān bùyòng de shū ná chūlái.",
+      "tr": "Çanta biraz ağır, bugün gerekmeyen kitapları çıkarayım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_066",
+      "speaker": "刘梅",
+      "zh": "好，只带明天考试要用的东西。",
+      "pinyin": "Hǎo, zhǐdài míngtiān kǎoshì yàoyòng de dōngxī.",
+      "tr": "Olur, sadece yarın gerekenleri al."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_067",
+      "speaker": "张伟",
+      "zh": "笔、橡皮和水都准备好了。",
+      "pinyin": "Bǐ、 xiàngpí hé shuǐ dōu zhǔnbèi hǎo le.",
+      "tr": "Kalem, silgi ve su hazır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_068",
+      "speaker": "张乐乐",
+      "zh": "我再看一眼，别把笔放在桌上忘了。",
+      "pinyin": "Wǒ zài kàn yīyǎn, bié bǎ bǐ fàngzài zhuōshàng wàng le.",
+      "tr": "Bir daha bakayım, kalemi masada unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_069",
+      "speaker": "张雨桐",
+      "zh": "我都收好了，明天早上不用着急。",
+      "pinyin": "Wǒ dōu shōuhǎo le, míngtiān zǎoshàng bùyòng zháojí.",
+      "tr": "Hepsini koydum, yarın sabah acele etmeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_070",
+      "speaker": "刘梅",
+      "zh": "早点儿睡觉，早上起来会舒服一些。",
+      "pinyin": "Zǎodiǎnér shuìjiào, zǎoshàng qǐlái huì shūfú yīxiē.",
+      "tr": "Erken uyu, sabah kalkınca daha iyi hissedersin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_071",
+      "speaker": "张伟",
+      "zh": "第一场考试是新的开始，不必怕。",
+      "pinyin": "Dìyīcháng kǎoshì shì xīn de kāishǐ, bùbì pà.",
+      "tr": "İlk sınav yeni bir başlangıç, korkmana gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_072",
+      "speaker": "张乐乐",
+      "zh": "姐姐，我相信你一定能认真做完。",
+      "pinyin": "Jiějiě, wǒ xiāngxìn nǐ yídìng néng rènzhēn zuò wán.",
+      "tr": "Abla, sınavı dikkatle tamamlayacağına inanıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_073",
+      "speaker": "张雨桐",
+      "zh": "谢谢你，听你这么说我心里轻松多了。",
+      "pinyin": "Xièxiè nǐ, tīng nǐ zhème shuō wǒ xīnlǐ qīngsōng duō le.",
+      "tr": "Teşekkürler, bunu duyunca içim rahatladı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_074",
+      "speaker": "刘梅",
+      "zh": "我们都支持你，考得怎么样都没关系。",
+      "pinyin": "Wǒmen dōu zhīchí nǐ, kǎodé zěnmeyàng dōu méiguānxì.",
+      "tr": "Hepimiz yanındayız, nasıl geçtiği önemli değil."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_075",
+      "speaker": "张伟",
+      "zh": "对，学习是为了知道更多，不只是看分数。",
+      "pinyin": "Duì, xuéxí shì wèile zhīdào gèng duō, bù zhǐshì kàn fēnshù.",
+      "tr": "Evet, öğrenmek daha çok şey bilmek içindir, sadece not almak için değil."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_076",
+      "speaker": "张乐乐",
+      "zh": "我也想快点儿长大，去学校学习。",
+      "pinyin": "Wǒ yě xiǎng kuàidiǎnér zhǎngdà, qù xuéxiào xuéxí.",
+      "tr": "Ben de büyüyüp okula gitmek için sabırsızlanıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_077",
+      "speaker": "张雨桐",
+      "zh": "你先把自己的书收好，明天还要上课。",
+      "pinyin": "Nǐ xiān bǎ zìjǐ de shū shōuhǎo, míngtiān háiyào shàngkè.",
+      "tr": "Sen de kitaplarını topla, yarın dersin var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_078",
+      "speaker": "刘梅",
+      "zh": "我来帮你把桌子整理一下。",
+      "pinyin": "Wǒlái bāng nǐ bǎ zhuōzi zhěnglǐ yīxià.",
+      "tr": "Masayı toplamaya yardım edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_079",
+      "speaker": "张伟",
+      "zh": "试卷放进文件袋，明天回来还能再看。",
+      "pinyin": "Shìjuàn fàngjìn wénjiàndài, míngtiān huílái hái néng zài kàn.",
+      "tr": "Sınav kâğıdını dosyaya koy, yarın dönünce tekrar bakarsın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_080",
+      "speaker": "张乐乐",
+      "zh": "我把它放在书包最里面。",
+      "pinyin": "Wǒ bǎ tā fàngzài shūbāo zuì lǐmiàn.",
+      "tr": "Onu çantanın en içine koyuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_081",
+      "speaker": "张雨桐",
+      "zh": "今天复习到这里就好，我想早点儿睡。",
+      "pinyin": "Jīntiān fùxí dào zhèlǐ jiù hǎo, wǒ xiǎng zǎodiǎnér shuì.",
+      "tr": "Bugünlük tekrar yeter, erken yatmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_082",
+      "speaker": "刘梅",
+      "zh": "好，先洗脸，再把闹钟放在床边。",
+      "pinyin": "Hǎo, xiān xǐliǎn, zài bǎ nàozhōng fàngzài chuángbiān.",
+      "tr": "Olur, önce yüzünü yıka, sonra alarmı yatağın yanına koy."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_083",
+      "speaker": "张伟",
+      "zh": "我已经把明天的时间记在纸上了。",
+      "pinyin": "Wǒ yǐjīng bǎ míngtiān de shíjiān jìzài zhǐ shàng le.",
+      "tr": "Yarınki saati kâğıda not ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_084",
+      "speaker": "张乐乐",
+      "zh": "我也会早一点儿起床，不让你迟到。",
+      "pinyin": "Wǒ yě huì zǎo yìdiǎnér qǐchuáng, bùràng nǐ chídào.",
+      "tr": "Ben de erken kalkarım, geç kalmazsın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_085",
+      "speaker": "张雨桐",
+      "zh": "明天见到老师，我会先说早上好。",
+      "pinyin": "Míngtiān jiàndào lǎoshī, wǒhuì xiānshuō zǎoshànghǎo.",
+      "tr": "Yarın öğretmeni görünce önce günaydın diyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_086",
+      "speaker": "刘梅",
+      "zh": "记得听清老师的说明，再开始写。",
+      "pinyin": "Jìde tīng qīng lǎoshī de shuōmíng, zài kāishǐ xiě.",
+      "tr": "Yazmaya başlamadan önce öğretmenin açıklamasını dikkatle dinle."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_087",
+      "speaker": "张伟",
+      "zh": "如果试卷上有不认识的题，先读一遍再想。",
+      "pinyin": "Rúguǒ shìjuàn shàng yǒu bù rènshí de tí, xiāndú yībiàn zài xiǎng.",
+      "tr": "Kâğıtta anlamadığın soru olursa önce oku, sonra düşün."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_088",
+      "speaker": "张乐乐",
+      "zh": "我会在学校门口等你们回来。",
+      "pinyin": "Wǒhuì zài xuéxiào ménkǒu děng nǐmen huílái.",
+      "tr": "Dönmenizi okul kapısında beklerim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_089",
+      "speaker": "张雨桐",
+      "zh": "你不用等太久，考试结束我就回家。",
+      "pinyin": "Nǐ bùyòng děng tàijiǔ, kǎoshì jiéshù wǒ jiù huíjiā.",
+      "tr": "Uzun süre beklemene gerek yok, sınav biter bitmez eve dönerim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_090",
+      "speaker": "刘梅",
+      "zh": "我们先不问分数，只听你说考试怎么样。",
+      "pinyin": "Wǒmen xiān bùwèn fēnshù, zhǐ tīng nǐ shuō kǎoshì zěnmeyàng.",
+      "tr": "Önce notunu sormayız, sınavın nasıl geçtiğini dinleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_091",
+      "speaker": "张伟",
+      "zh": "对，先休息一下，再说说哪道题最难。",
+      "pinyin": "Duì, xiān xiūxī yīxià, zàishuō shuō nǎdàotí zuìnán.",
+      "tr": "Evet, önce dinlen, sonra en zor sorunun hangisi olduğunu anlat."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_092",
+      "speaker": "张乐乐",
+      "zh": "我还可以帮你把书拿回来。",
+      "pinyin": "Wǒ hái kěyǐ bāng nǐ bǎ shū ná huílái.",
+      "tr": "Kitaplarını geri getirmene yardım edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_093",
+      "speaker": "张雨桐",
+      "zh": "谢谢，今晚你们陪我学习，我很开心。",
+      "pinyin": "Xièxiè, jīnwǎn nǐmen péi wǒ xuéxí, wǒ hěn kāixīn.",
+      "tr": "Teşekkürler, bu akşam benimle çalışmanız beni mutlu etti."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_094",
+      "speaker": "刘梅",
+      "zh": "我们是一家人，互相帮忙很正常。",
+      "pinyin": "Wǒmen shì yījiārén, hùxiāng bāngmáng hěn zhèngcháng.",
+      "tr": "Biz aileyiz, birbirimize yardım etmemiz normal."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_095",
+      "speaker": "张伟",
+      "zh": "把灯关好，明天早上我们一起出门。",
+      "pinyin": "Bǎ dēngguān hǎo, míngtiān zǎoshàng wǒmen yìqǐ chūmén.",
+      "tr": "Işığı kapat, yarın sabah birlikte çıkarız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_096",
+      "speaker": "张乐乐",
+      "zh": "晚安，姐姐，明天考试顺利。",
+      "pinyin": "Wǎnān, jiějiě, míngtiān kǎoshì shùnlì.",
+      "tr": "İyi geceler abla, yarınki sınavın iyi geçsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_097",
+      "speaker": "张雨桐",
+      "zh": "晚安，我会记住你们说的话。",
+      "pinyin": "Wǎnān, wǒhuì jìzhù nǐmen shuō dehuà.",
+      "tr": "İyi geceler, söylediklerinizi aklımda tutacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_098",
+      "speaker": "刘梅",
+      "zh": "明天先吃早饭，再检查书包。",
+      "pinyin": "Míngtiān xiān chī zǎofàn, zài jiǎnchá shūbāo.",
+      "tr": "Yarın önce kahvaltı et, sonra çantanı kontrol et."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_099",
+      "speaker": "张伟",
+      "zh": "书、笔和水都准备好了，可以安心睡觉。",
+      "pinyin": "Shū、 bǐhéshuǐ dōu zhǔnbèi hǎo le, kěyǐ ānxīn shuìjiào.",
+      "tr": "Kitap, kalem ve su hazır, rahatça uyuyabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC043_100",
+      "speaker": "张乐乐",
+      "zh": "我也去睡觉了，明早见。",
+      "pinyin": "Wǒ yě qù shuìjiào le, míngzǎo jiàn.",
+      "tr": "Ben de yatmaya gidiyorum, sabah görüşürüz."
+    }
+  ]
+}

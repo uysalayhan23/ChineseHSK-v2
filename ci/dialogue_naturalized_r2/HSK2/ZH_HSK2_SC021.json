@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 45,
+  "status": "FINAL_NATIVE_RELEASE_CANDIDATE_V45",
+  "sceneId": "ZH_HSK2_SC021",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC021_001",
+      "speaker": "张乐乐",
+      "zh": "我想办一张借书证。",
+      "pinyin": "wǒ xiǎng bàn yī zhāng jiè shū zhèng 。",
+      "tr": "Bugün kütüphane kartı çıkarmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_002",
+      "speaker": "刘梅",
+      "zh": "好啊，你第一次来图书馆吗？",
+      "pinyin": "hǎo a ， nǐ dì yī cì lái tú shū guǎn ma ？",
+      "tr": "Buraya ilk gelişin mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_003",
+      "speaker": "图书管理员",
+      "zh": "是的，我想借一本故事书。",
+      "pinyin": "shì de ， wǒ xiǎng jiè yī běn gù shì shū 。",
+      "tr": "Evet, bir hikâye kitabı ödünç almak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_004",
+      "speaker": "张乐乐",
+      "zh": "欢迎你来。先填一下这张表格吧。",
+      "pinyin": "huān yíng nǐ lái 。 xiān tián yī xià zhè zhāng biǎo gé ba 。",
+      "tr": "Hoş geldin. Önce bu formu doldur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_005",
+      "speaker": "刘梅",
+      "zh": "我应该写哪些内容？",
+      "pinyin": "wǒ yīng gāi xiě nǎ xiē nèi róng ？",
+      "tr": "Hangi bilgileri yazmalıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_006",
+      "speaker": "图书管理员",
+      "zh": "姓名、电话和住址都要写。",
+      "pinyin": "xìng míng 、 diàn huà hé zhù zhǐ dōu yào xiě 。",
+      "tr": "Ad, telefon ve adresini yazmalısın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_007",
+      "speaker": "张乐乐",
+      "zh": "我带了学生证，可以用吗？",
+      "pinyin": "wǒ dài le xué shēng zhèng ， kě yǐ yòng ma ？",
+      "tr": "Öğrenci kartımı getirdim, kullanabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_008",
+      "speaker": "刘梅",
+      "zh": "可以，请把号码也写在这里。",
+      "pinyin": "kě yǐ ， qǐng bǎ hào mǎ yě xiě zài zhè lǐ 。",
+      "tr": "Olur, numarasını da buraya yaz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_009",
+      "speaker": "图书管理员",
+      "zh": "我找到了，在这一行吗？",
+      "pinyin": "wǒ zhǎo dào le ， zài zhè yī xíng ma ？",
+      "tr": "Buldum, şu satıra mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_010",
+      "speaker": "张乐乐",
+      "zh": "对，写完以后在下面签名。",
+      "pinyin": "duì ， xiě wán yǐ hòu zài xià miàn qiān míng 。",
+      "tr": "Evet, bitirince aşağıyı imzala."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_011",
+      "speaker": "刘梅",
+      "zh": "我先看看表格有没有写错。",
+      "pinyin": "wǒ xiān kàn kàn biǎo gé yǒu méi yǒu xiě cuò 。",
+      "tr": "Önce formda hata var mı bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_012",
+      "speaker": "图书管理员",
+      "zh": "地址少了一个字，我现在补上。",
+      "pinyin": "dì zhǐ shǎo le yí gè zì ， wǒ xiàn zài bǔ shàng 。",
+      "tr": "Adresteki bir karakter eksik, şimdi ekliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_013",
+      "speaker": "张乐乐",
+      "zh": "好了，我填完了。",
+      "pinyin": "hǎo le ， wǒ tián wán le 。",
+      "tr": "Tamam, doldurdum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_014",
+      "speaker": "刘梅",
+      "zh": "谢谢，我来检查一下。",
+      "pinyin": "xiè xiè ， wǒ lái jiǎn chá yī xià 。",
+      "tr": "Teşekkürler, bir kontrol edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_015",
+      "speaker": "图书管理员",
+      "zh": "名字和电话都对，住址也很清楚。",
+      "pinyin": "míng zì hé diàn huà dōu duì ， zhù zhǐ yě hěn qīng chǔ 。",
+      "tr": "İsimle telefon doğru, adres de açık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_016",
+      "speaker": "张乐乐",
+      "zh": "那我现在可以拿借书证了吗？",
+      "pinyin": "nà wǒ xiàn zài kě yǐ ná jiè shū zhèng le ma ？",
+      "tr": "Şimdi kütüphane kartımı alabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_017",
+      "speaker": "刘梅",
+      "zh": "还要等一会儿，我先把资料放进电脑。",
+      "pinyin": "hái yào děng yī huì er ， wǒ xiān bǎ zī liào fàng jìn diàn nǎo 。",
+      "tr": "Biraz beklemek gerekiyor, bilgilerini bilgisayara gireyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_018",
+      "speaker": "图书管理员",
+      "zh": "没关系，我可以在旁边等。",
+      "pinyin": "méi guān xì ， wǒ kě yǐ zài páng biān děng 。",
+      "tr": "Sorun değil, burada bekleyebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_019",
+      "speaker": "张乐乐",
+      "zh": "好了，这是你的借书证。",
+      "pinyin": "hǎo le ， zhè shì nǐ de jiè shū zhèng 。",
+      "tr": "Tamam, kütüphane kartın hazır."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_020",
+      "speaker": "刘梅",
+      "zh": "上面有我的名字和号码。",
+      "pinyin": "shàng miàn yǒu wǒ de míng zì hé hào mǎ 。",
+      "tr": "Üzerinde adım ve numaram var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_021",
+      "speaker": "图书管理员",
+      "zh": "以后来借书要带着它。",
+      "pinyin": "yǐ hòu lái jiè shū yào dài zhe tā 。",
+      "tr": "Bundan sonra kitap ödünç alırken yanında getir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_022",
+      "speaker": "张乐乐",
+      "zh": "我想借一本适合小学生的故事书。",
+      "pinyin": "wǒ xiǎng jiè yī běn shì hé xiǎo xué shēng de gù shì shū 。",
+      "tr": "İlkokul öğrencilerine uygun bir hikâye kitabı istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_023",
+      "speaker": "刘梅",
+      "zh": "你喜欢什么样的故事？",
+      "pinyin": "nǐ xǐ huān shén me yàng de gù shì ？",
+      "tr": "Ne tür hikâyeleri seversin?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_024",
+      "speaker": "图书管理员",
+      "zh": "最好有动物，也不要太难。",
+      "pinyin": "zuì hǎo yǒu dòng wù ， yě bú yào tài nán 。",
+      "tr": "Hayvanlarla ilgili olsun, çok da zor olmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_025",
+      "speaker": "张乐乐",
+      "zh": "那边的书架上有很多动物故事。",
+      "pinyin": "nà biān de shū jià shàng yǒu hěn duō dòng wù gù shì 。",
+      "tr": "Oradaki rafta çok sayıda hayvan hikâyesi var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_026",
+      "speaker": "刘梅",
+      "zh": "我可以自己去找吗？",
+      "pinyin": "wǒ kě yǐ zì jǐ qù zhǎo ma ？",
+      "tr": "Kendim gidip bakabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_027",
+      "speaker": "图书管理员",
+      "zh": "当然，找不到的话再来问我。",
+      "pinyin": "dāng rán ， zhǎo bú dào de huà zài lái wèn wǒ 。",
+      "tr": "Elbette, bulamazsan bana sor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_028",
+      "speaker": "张乐乐",
+      "zh": "这本书有一只小狗，我觉得不错。",
+      "pinyin": "zhè běn shū yǒu yī zhī xiǎo gǒu ， wǒ jué de bù cuò 。",
+      "tr": "Bu kitapta küçük bir köpek var, bence güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_029",
+      "speaker": "刘梅",
+      "zh": "你可以先看看里面的图片。",
+      "pinyin": "nǐ kě yǐ xiān kàn kàn lǐ miàn de tú piàn 。",
+      "tr": "Önce içindeki resimlere bakabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_030",
+      "speaker": "图书管理员",
+      "zh": "图片很有意思，字也不多。",
+      "pinyin": "tú piàn hěn yǒu yì si ， zì yě bù duō 。",
+      "tr": "Resimler ilginç, yazısı da fazla değil."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_031",
+      "speaker": "张乐乐",
+      "zh": "我想把这本书借回家。",
+      "pinyin": "wǒ xiǎng bǎ zhè běn shū jiè huí jiā 。",
+      "tr": "Bu kitabı eve ödünç götürmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_032",
+      "speaker": "刘梅",
+      "zh": "好，请把书和借书证一起给我。",
+      "pinyin": "hǎo ， qǐng bǎ shū hé jiè shū zhèng yì qǐ gěi wǒ 。",
+      "tr": "Peki, kitabı ve kartını birlikte ver."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_033",
+      "speaker": "图书管理员",
+      "zh": "给你，卡在书下面。",
+      "pinyin": "gěi nǐ ， kǎ zài shū xià miàn 。",
+      "tr": "Buyur, kart kitabın altında."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_034",
+      "speaker": "张乐乐",
+      "zh": "你以前借过书吗？",
+      "pinyin": "nǐ yǐ qián jiè guò shū ma ？",
+      "tr": "Daha önce kitap ödünç aldın mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_035",
+      "speaker": "刘梅",
+      "zh": "还没有，这是我第一次借。",
+      "pinyin": "hái méi yǒu ， zhè shì wǒ dì yī cì jiè 。",
+      "tr": "Hayır, ilk kez alıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_036",
+      "speaker": "图书管理员",
+      "zh": "那我告诉你怎么借和怎么还。",
+      "pinyin": "nà wǒ gào sù nǐ zěn me jiè hé zěn me hái 。",
+      "tr": "O zaman nasıl alıp iade edeceğini anlatayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_037",
+      "speaker": "张乐乐",
+      "zh": "你可以借两本书，每本看三周。",
+      "pinyin": "nǐ kě yǐ jiè liǎng běn shū ， měi běn kàn sān zhōu 。",
+      "tr": "İki kitap alabilirsin, her birini üç hafta tutabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_038",
+      "speaker": "刘梅",
+      "zh": "如果我看得比较慢呢？",
+      "pinyin": "rú guǒ wǒ kàn dé bǐ jiào màn ne ？",
+      "tr": "Yavaş okursam ne olur?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_039",
+      "speaker": "图书管理员",
+      "zh": "到期前可以来问能不能再借一段时间。",
+      "pinyin": "dào qī qián kě yǐ lái wèn néng bù néng zài jiè yī duàn shí jiān 。",
+      "tr": "Süre bitmeden gelip uzatma yapıp yapamayacağını sorabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_040",
+      "speaker": "张乐乐",
+      "zh": "我一定会记住还书的日期。",
+      "pinyin": "wǒ yí dìng huì jì zhù huán shū de rì qī 。",
+      "tr": "İade tarihini aklımda tutacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_041",
+      "speaker": "刘梅",
+      "zh": "日期写在这张小纸上了。",
+      "pinyin": "rì qī xiě zài zhè zhāng xiǎo zhǐ shàng le 。",
+      "tr": "Tarih şu küçük kâğıtta yazıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_042",
+      "speaker": "图书管理员",
+      "zh": "我也把它放进书包里。",
+      "pinyin": "wǒ yě bǎ tā fàng jìn shū bāo lǐ 。",
+      "tr": "Onu da çantama koyuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_043",
+      "speaker": "张乐乐",
+      "zh": "借书以后要怎么还呢？",
+      "pinyin": "jiè shū yǐ hòu yào zěn me hái ne ？",
+      "tr": "Kitabı aldıktan sonra nasıl iade edeceğim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_044",
+      "speaker": "刘梅",
+      "zh": "把书和借书证拿到这个柜台。",
+      "pinyin": "bǎ shū hé jiè shū zhèng ná dào zhè ge guì tái 。",
+      "tr": "Kitapla kartını bu bankoya getir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_045",
+      "speaker": "图书管理员",
+      "zh": "如果晚了，会有问题吗？",
+      "pinyin": "rú guǒ wǎn le ， huì yǒu wèn tí ma ？",
+      "tr": "Gecikirsem sorun olur mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_046",
+      "speaker": "张乐乐",
+      "zh": "最好按时还，别人也在等这本书。",
+      "pinyin": "zuì hǎo àn shí hái ， bié rén yě zài děng zhè běn shū 。",
+      "tr": "Zamanında getirmen iyi olur, başkaları da bu kitabı bekliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_047",
+      "speaker": "刘梅",
+      "zh": "我会早点看完，不让别人等太久。",
+      "pinyin": "wǒ huì zǎo diǎn kàn wán ， bù ràng bié rén děng tài jiǔ 。",
+      "tr": "Başkalarını fazla bekletmemek için erken bitireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_048",
+      "speaker": "图书管理员",
+      "zh": "那就很好，有问题可以来问我。",
+      "pinyin": "nà jiù hěn hǎo ， yǒu wèn tí kě yǐ lái wèn wǒ 。",
+      "tr": "Güzel, sorun olursa bana sorabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_049",
+      "speaker": "张乐乐",
+      "zh": "我可以再选一本吗？",
+      "pinyin": "wǒ kě yǐ zài xuǎn yī běn ma ？",
+      "tr": "Bir kitap daha seçebilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_050",
+      "speaker": "刘梅",
+      "zh": "当然，不过一次最多借两本。",
+      "pinyin": "dāng rán ， bù guò yī cì zuì duō jiè liǎng běn 。",
+      "tr": "Elbette ama aynı anda en fazla iki kitap alabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_051",
+      "speaker": "图书管理员",
+      "zh": "那我先借这一本就够了。",
+      "pinyin": "nà wǒ xiān jiè zhè yī běn jiù gòu le 。",
+      "tr": "O zaman şimdilik bu tek kitap yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_052",
+      "speaker": "张乐乐",
+      "zh": "我发现这本书的最后一页有点旧。",
+      "pinyin": "wǒ fā xiàn zhè běn shū de zuì hòu yī yè yǒu diǎn jiù 。",
+      "tr": "Kitabın son sayfasının biraz yıpranmış olduğunu fark ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_053",
+      "speaker": "刘梅",
+      "zh": "我看一下，内容没有少。",
+      "pinyin": "wǒ kàn yī xià ， nèi róng méi yǒu shǎo 。",
+      "tr": "Bakayım, eksik içerik yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_054",
+      "speaker": "图书管理员",
+      "zh": "如果页数不全，请马上告诉我们。",
+      "pinyin": "rú guǒ yè shù bù quán ， qǐng mǎ shàng gào sù wǒ men 。",
+      "tr": "Sayfalar tam değilse hemen bize söyle."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_055",
+      "speaker": "张乐乐",
+      "zh": "页数都在，我会小心看。",
+      "pinyin": "yè shù dōu zài ， wǒ huì xiǎo xīn kàn 。",
+      "tr": "Sayfalar tam, dikkatlice okuyacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_056",
+      "speaker": "刘梅",
+      "zh": "谢谢你告诉我这个情况。",
+      "pinyin": "xiè xiè nǐ gào sù wǒ zhè ge qíng kuàng 。",
+      "tr": "Bunu haber verdiğin için sağ ol."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_057",
+      "speaker": "图书管理员",
+      "zh": "这样下一个人也知道了。",
+      "pinyin": "zhè yàng xià yí gè rén yě zhī dào le 。",
+      "tr": "Böylece sonraki kişi de bilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_058",
+      "speaker": "张乐乐",
+      "zh": "借书证要一直带在身上吗？",
+      "pinyin": "jiè shū zhèng yào yì zhí dài zài shēn shàng ma ？",
+      "tr": "Kütüphane kartını hep yanımda mı taşımalıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_059",
+      "speaker": "刘梅",
+      "zh": "来图书馆借书时要带。",
+      "pinyin": "lái tú shū guǎn jiè shū shí yào dài 。",
+      "tr": "Kitap ödünç alırken getirmen gerek."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_060",
+      "speaker": "图书管理员",
+      "zh": "如果弄丢了怎么办？",
+      "pinyin": "rú guǒ nòng diū le zěn me bàn ？",
+      "tr": "Kaybedersem ne yapacağım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_061",
+      "speaker": "张乐乐",
+      "zh": "如果丢了，就到柜台说明一下。",
+      "pinyin": "rú guǒ diū le ， jiù dào guì tái shuō míng yī xià 。",
+      "tr": "Kaybedersen bankoya gelip durumu anlat."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_062",
+      "speaker": "刘梅",
+      "zh": "我会先把它放在书包的小袋里。",
+      "pinyin": "wǒ huì xiān bǎ tā fàng zài shū bāo de xiǎo dài lǐ 。",
+      "tr": "Önce çantamın küçük gözüne koyarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_063",
+      "speaker": "图书管理员",
+      "zh": "这个办法不错，不容易忘。",
+      "pinyin": "zhè ge bàn fǎ bù cuò ， bù róng yì wàng 。",
+      "tr": "Güzel fikir, unutman zor olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_064",
+      "speaker": "张乐乐",
+      "zh": "图书馆里可以大声说话吗？",
+      "pinyin": "tú shū guǎn lǐ kě yǐ dà shēng shuō huà ma ？",
+      "tr": "Kütüphanede yüksek sesle konuşabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_065",
+      "speaker": "刘梅",
+      "zh": "最好小声一点，别影响别人看书。",
+      "pinyin": "zuì hǎo xiǎo shēng yì diǎn ， bié yǐng xiǎng bié rén kàn shū 。",
+      "tr": "Başkalarını rahatsız etmemek için alçak sesle konuş."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_066",
+      "speaker": "图书管理员",
+      "zh": "我会轻轻地跟妈妈说话。",
+      "pinyin": "wǒ huì qīng qīng dì gēn mā mā shuō huà 。",
+      "tr": "Annemle usulca konuşurum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_067",
+      "speaker": "张乐乐",
+      "zh": "那边有一张桌子，我们可以坐下看。",
+      "pinyin": "nà biān yǒu yī zhāng zhuō zi ， wǒ men kě yǐ zuò xià kàn 。",
+      "tr": "Şurada bir masa var, oturup okuyabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_068",
+      "speaker": "刘梅",
+      "zh": "好，我想先读几页再回家。",
+      "pinyin": "hǎo ， wǒ xiǎng xiān dú jǐ yè zài huí jiā 。",
+      "tr": "Güzel, eve gitmeden birkaç sayfa okumak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_069",
+      "speaker": "图书管理员",
+      "zh": "看完记得把书放回书架。",
+      "pinyin": "kàn wán jì de bǎ shū fàng huí shū jià 。",
+      "tr": "Bitirince kitabı rafa koymayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_070",
+      "speaker": "张乐乐",
+      "zh": "这个故事写得真好笑。",
+      "pinyin": "zhè ge gù shì xiě dé zhēn hǎo xiào 。",
+      "tr": "Bu hikâye gerçekten komik yazılmış."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_071",
+      "speaker": "刘梅",
+      "zh": "你找到喜欢的书了，我很高兴。",
+      "pinyin": "nǐ zhǎo dào xǐ huān de shū le ， wǒ hěn gāo xìng 。",
+      "tr": "Sevdiğin kitabı bulmana sevindim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_072",
+      "speaker": "图书管理员",
+      "zh": "小狗把自己的鞋子藏起来了。",
+      "pinyin": "xiǎo gǒu bǎ zì jǐ de xié zi cáng qǐ lái le 。",
+      "tr": "Küçük köpek ayakkabılarını saklamış."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_073",
+      "speaker": "张乐乐",
+      "zh": "我想知道它最后找到了吗？",
+      "pinyin": "wǒ xiǎng zhī dào tā zuì hòu zhǎo dào le ma ？",
+      "tr": "Sonunda ayakkabıları bulup bulmadığını merak ediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_074",
+      "speaker": "刘梅",
+      "zh": "继续读下去就知道了。",
+      "pinyin": "jì xù dú xià qù jiù zhī dào le 。",
+      "tr": "Okumaya devam edersen öğrenirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_075",
+      "speaker": "图书管理员",
+      "zh": "我现在就想看后面的故事。",
+      "pinyin": "wǒ xiàn zài jiù xiǎng kàn hòu miàn de gù shì 。",
+      "tr": "Şimdi hikâyenin devamını merak ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_076",
+      "speaker": "张乐乐",
+      "zh": "这张借书证以后还能用吗？",
+      "pinyin": "zhè zhāng jiè shū zhèng yǐ hòu hái néng yòng ma ？",
+      "tr": "Bu kütüphane kartını sonra da kullanabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_077",
+      "speaker": "刘梅",
+      "zh": "可以，只要资料没有变化就行。",
+      "pinyin": "kě yǐ ， zhǐ yào zī liào méi yǒu biàn huà jiù xíng 。",
+      "tr": "Bilgilerin değişmedikçe kullanabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_078",
+      "speaker": "图书管理员",
+      "zh": "如果我搬家，要来改地址吗？",
+      "pinyin": "rú guǒ wǒ bān jiā ， yào lái gǎi dì zhǐ ma ？",
+      "tr": "Taşınırsam adresimi güncellemem gerekir mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_079",
+      "speaker": "张乐乐",
+      "zh": "是的，请到柜台告诉我们新的地址。",
+      "pinyin": "shì de ， qǐng dào guì tái gào sù wǒ men xīn de dì zhǐ 。",
+      "tr": "Evet, bankoya gelip yeni adresini söyle."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_080",
+      "speaker": "刘梅",
+      "zh": "我会记得带新的住址证明。",
+      "pinyin": "wǒ huì jì de dài xīn de zhù zhǐ zhèng míng 。",
+      "tr": "Yeni adresimi gösteren belgeyi getirmeyi hatırlarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_081",
+      "speaker": "图书管理员",
+      "zh": "谢谢，我都记下来了。",
+      "pinyin": "xiè xiè ， wǒ dōu jì xià lái le 。",
+      "tr": "Teşekkürler, hepsini not ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_082",
+      "speaker": "张乐乐",
+      "zh": "妈妈，我们可以先在这里看一会儿吗？",
+      "pinyin": "mā mā ， wǒ men kě yǐ xiān zài zhè lǐ kàn yī huì er ma ？",
+      "tr": "Anne, burada biraz okuyabilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_083",
+      "speaker": "刘梅",
+      "zh": "可以，我也想看看旁边的书。",
+      "pinyin": "kě yǐ ， wǒ yě xiǎng kàn kàn páng biān de shū 。",
+      "tr": "Olur, ben de yan taraftaki kitaplara bakmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_084",
+      "speaker": "图书管理员",
+      "zh": "那我读完这一页就陪你去。",
+      "pinyin": "nà wǒ dú wán zhè yī yè jiù péi nǐ qù 。",
+      "tr": "O zaman bu sayfayı bitirip sana katılırım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_085",
+      "speaker": "张乐乐",
+      "zh": "借书证已经办好了，书也选好了。",
+      "pinyin": "jiè shū zhèng yǐ jīng bàn hǎo le ， shū yě xuǎn hǎo le 。",
+      "tr": "Kütüphane kartım hazır, kitabımı da seçtim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_086",
+      "speaker": "刘梅",
+      "zh": "第一次来就很顺利。",
+      "pinyin": "dì yī cì lái jiù hěn shùn lì 。",
+      "tr": "İlk gelişinde işler yolunda gitti."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_087",
+      "speaker": "图书管理员",
+      "zh": "下次我还想自己来借书。",
+      "pinyin": "xià cì wǒ hái xiǎng zì jǐ lái jiè shū 。",
+      "tr": "Bir dahaki sefere kitabı kendim ödünç almak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_088",
+      "speaker": "张乐乐",
+      "zh": "我会把日期记在日历上。",
+      "pinyin": "wǒ huì bǎ rì qī jì zài rì lì shàng 。",
+      "tr": "Tarihi takvime yazacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_089",
+      "speaker": "刘梅",
+      "zh": "读完了就早点拿来还。",
+      "pinyin": "dú wán le jiù zǎo diǎn ná lái hái 。",
+      "tr": "Bitirince kitabı erkenden getir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_090",
+      "speaker": "图书管理员",
+      "zh": "这样别人也能很快借到。",
+      "pinyin": "zhè yàng bié rén yě néng hěn kuài jiè dào 。",
+      "tr": "Böylece başkaları da kısa sürede alabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_091",
+      "speaker": "张乐乐",
+      "zh": "谢谢你教我怎么借书。",
+      "pinyin": "xiè xiè nǐ jiào wǒ zěn me jiè shū 。",
+      "tr": "Kitap ödünç almayı öğrettiğin için teşekkür ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_092",
+      "speaker": "刘梅",
+      "zh": "不客气，希望你喜欢这本故事书。",
+      "pinyin": "bú kè qì ， xī wàng nǐ xǐ huān zhè běn gù shì shū 。",
+      "tr": "Rica ederim, umarım hikâye kitabını seversin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_093",
+      "speaker": "图书管理员",
+      "zh": "我现在就想从第一页开始读。",
+      "pinyin": "wǒ xiàn zài jiù xiǎng cóng dì yī yè kāi shǐ dú 。",
+      "tr": "Şimdi ilk sayfadan okumaya başlamak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_094",
+      "speaker": "张乐乐",
+      "zh": "我把借书证和书都收好了。",
+      "pinyin": "wǒ bǎ jiè shū zhèng hé shū dōu shōu hǎo le 。",
+      "tr": "Kartımla kitabımı çantama koydum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_095",
+      "speaker": "刘梅",
+      "zh": "那我们先去找个地方坐吧。",
+      "pinyin": "nà wǒ men xiān qù zhǎo gè dì fāng zuò ba 。",
+      "tr": "O zaman oturacak bir yer bulalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_096",
+      "speaker": "图书管理员",
+      "zh": "我会记得三周以后还书。",
+      "pinyin": "wǒ huì jì de sān zhōu yǐ hòu huán shū 。",
+      "tr": "Üç hafta sonra iade etmeyi hatırlayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_097",
+      "speaker": "张乐乐",
+      "zh": "看书的时候我们要保持安静。",
+      "pinyin": "kàn shū de shí hòu wǒ men yào bǎo chí ān jìng 。",
+      "tr": "Okurken sessiz olmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_098",
+      "speaker": "刘梅",
+      "zh": "我知道，别人也需要安静。",
+      "pinyin": "wǒ zhī dào ， bié rén yě xū yào ān jìng 。",
+      "tr": "Biliyorum, başkalarının da sessizliğe ihtiyacı var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_099",
+      "speaker": "图书管理员",
+      "zh": "这家图书馆真适合看书。",
+      "pinyin": "zhè jiā tú shū guǎn zhēn shì hé kàn shū 。",
+      "tr": "Bu kütüphane okumak için çok uygun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC021_100",
+      "speaker": "张乐乐",
+      "zh": "我先读第一章，读完再告诉你们。",
+      "pinyin": "wǒ xiān dú dì yī zhāng ， dú wán zài gào sù nǐ men 。",
+      "tr": "Önce ilk bölümü okuyayım, bitirince size anlatırım."
+    }
+  ]
+}

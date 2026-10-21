@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC036.json",
-  "dialogueSha256": "c41dff6d82c09342f46e1949fd85e8531bbf05eaf19501bb6f33a18b8e796f98",
+  "dialogueSha256": "7b6f60c8553054651997dfb2c26b9c10c8f97b4ddfc8801f1e91479cf66c4b86",
   "titleZh": "雨桐的毕业项目",
   "titleTr": "Yutong Mezuniyet Projesi",
   "locationId": "LOC_ZH_UNIVERSITY_001",

@@ -1,0 +1,710 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK4_SC033",
+  "level": "HSK4",
+  "sourceTitleZh": "选择哪所大学？",
+  "sourceTitleTr": "Üniversite Seçenekleri",
+  "sourceMiniAdventureTr": "Farklı üniversitelerin avantajları ayrıntılı biçimde karşılaştırılır.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK4_SC033_001",
+      "speaker": "张雨桐",
+      "zh": "我把三所大学的资料都看了一遍，越看越难决定。",
+      "pinyin": "wǒ bǎ sān suǒ dà xué de zī liào dōu kàn le yī biàn yuè kàn yuè nán jué dìng",
+      "tr": "Üç üniversitenin bilgilerini inceledim; okudukça karar vermek zorlaşıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_002",
+      "speaker": "刘梅",
+      "zh": "先说说你最喜欢哪一所，为什么？",
+      "pinyin": "xiān shuō shuō nǐ zuì xǐ huān nǎ yī suǒ wèi shén me",
+      "tr": "Önce en çok hangisini beğendiğini ve nedenini anlat."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_003",
+      "speaker": "张伟",
+      "zh": "第二所的专业很吸引你，课程里有你一直想学的设计。",
+      "pinyin": "dì èr suǒ de zhuān yè hěn xī yǐn nǐ kè chéng lǐ yǒu nǐ yì zhí xiǎng xué de shè jì",
+      "tr": "İkinci okulun bölümü ilgini çekiyor; ders programında uzun zamandır istediğin tasarım alanı var."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_004",
+      "speaker": "老师",
+      "zh": "你看过它的实习机会吗？",
+      "pinyin": "nǐ kàn guò tā de shí xí jī huì ma",
+      "tr": "Staj olanaklarına baktın mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_005",
+      "speaker": "张雨桐",
+      "zh": "看过介绍，但不清楚学生能不能参加真实项目。",
+      "pinyin": "kàn guò jiè shào dàn bù qīng chǔ xué shēng néng bù néng cān jiā zhēn shí xiàng mù",
+      "tr": "Tanıtımını okudum ama öğrenciler gerçek projelere katılabiliyor mu, emin değilim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_006",
+      "speaker": "刘梅",
+      "zh": "可以在说明会上问，也能找在校学生了解实际情况。",
+      "pinyin": "kě yǐ zài shuō míng huì shàng wèn yě néng zhǎo zài xiào xué shēng liǎo jiě shí jì qíng kuàng",
+      "tr": "Tanıtım toplantısında sorabilir, öğrencilerden gerçek durumu öğrenebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_007",
+      "speaker": "张伟",
+      "zh": "第一所的录取要求看起来更接近你现在的成绩。",
+      "pinyin": "dì yī suǒ de lù qǔ yāo qiú kàn qǐ lái gèng jiē jìn nǐ xiàn zài de chéng jì",
+      "tr": "İlk okulun kabul şartları şu anki notlarına daha yakın görünüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_008",
+      "speaker": "老师",
+      "zh": "不过，它没有你最想学的专业，只提供相近的方向。",
+      "pinyin": "bù guò tā méi yǒu nǐ zuì xiǎng xué de zhuān yè zhǐ tí gōng xiāng jìn de fāng xiàng",
+      "tr": "Ancak okulda en çok istediğin bölüm yok, yalnızca yakın bir alan var."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_009",
+      "speaker": "张雨桐",
+      "zh": "那我再比较一下课程，不只看专业名称。",
+      "pinyin": "nà wǒ zài bǐ jiào yī xià kè chéng bù zhǐ kàn zhuān yè míng chēng",
+      "tr": "O zaman yalnızca bölüm adına bakmayıp ders içeriklerini de karşılaştırayım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_010",
+      "speaker": "刘梅",
+      "zh": "我下载了课程表，第一所也有几门设计课。",
+      "pinyin": "wǒ xià zài le kè chéng biǎo dì yī suǒ yě yǒu jǐ mén shè jì kè",
+      "tr": "Ders planını indirdim; ilk okulda da birkaç tasarım dersi var."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_011",
+      "speaker": "张伟",
+      "zh": "这样它也值得考虑。你最看重什么？",
+      "pinyin": "zhè yàng tā yě zhí de kǎo lǜ nǐ zuì kàn zhòng shén me",
+      "tr": "O hâlde onu da düşünmeye değer. Senin için en önemlisi ne?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_012",
+      "speaker": "老师",
+      "zh": "听起来你既想学感兴趣的内容，也很看重实践机会。",
+      "pinyin": "tīng qǐ lái nǐ jì xiǎng xué gǎn xìng qù de nèi róng yě hěn kàn zhòng shí jiàn jī huì",
+      "tr": "Anlattığına göre hem ilgini çeken konuları öğrenmek hem de uygulama fırsatı bulmak istiyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_013",
+      "speaker": "张雨桐",
+      "zh": "我会把这两项记下来，比较每所大学时都用同样的标准。",
+      "pinyin": "wǒ huì bǎ zhè liǎng xiàng jì xià lái bǐ jiào měi suǒ dà xué shí dōu yòng tóng yàng de biāo zhǔn",
+      "tr": "Bu iki ölçütü not edip üniversiteleri aynı ölçütlerle karşılaştıracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_014",
+      "speaker": "刘梅",
+      "zh": "再加上录取机会，申请时也要了解风险。",
+      "pinyin": "zài jiā shàng lù qǔ jī huì shēn qǐng shí yě yào liǎo jiě fēng xiǎn",
+      "tr": "Kabul olasılığını da ekle; başvurudaki riski de bilmelisin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_015",
+      "speaker": "张伟",
+      "zh": "第二所的录取要求比你现在的成绩高一点，申请时要把这一点考虑进去。",
+      "pinyin": "dì èr suǒ de lù qǔ yāo qiú bǐ nǐ xiàn zài de chéng jì gāo yì diǎn shēn qǐng shí yào bǎ zhè yì diǎn kǎo lǜ jìn qù",
+      "tr": "İkinci okulun kabul şartları şu anki notlarından biraz yüksek; başvururken bunu hesaba katmalısın."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_016",
+      "speaker": "老师",
+      "zh": "可以看往年的录取信息，但它只能帮助估计，不能保证结果。",
+      "pinyin": "kě yǐ kàn wǎng nián de lù qǔ xìn xī dàn tā zhǐ néng bāng zhù gū jì bù néng bǎo zhèng jié guǒ",
+      "tr": "Geçmiş kabul bilgilerine bakabiliriz ama bunlar sonucu garanti etmez, yalnızca tahmin sağlar."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_017",
+      "speaker": "张雨桐",
+      "zh": "你也可以准备一所录取机会更大的学校，作为备选。",
+      "pinyin": "nǐ yě kě yǐ zhǔn bèi yī suǒ lù qǔ jī huì gèng dà de xué xiào zuò wéi bèi xuǎn",
+      "tr": "Kabul şansı daha yüksek bir okulu da yedek seçenek olarak hazırlayabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_018",
+      "speaker": "刘梅",
+      "zh": "我知道你喜欢那个专业，也不想只因为担心录取就放弃它。",
+      "pinyin": "wǒ zhī dào nǐ xǐ huān nà ge zhuān yè yě bù xiǎng zhǐ yīn wèi dān xīn lù qǔ jiù fàng qì tā",
+      "tr": "O bölümü sevdiğini ve yalnızca kabul kaygısı yüzünden vazgeçmek istemediğini biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_019",
+      "speaker": "张伟",
+      "zh": "那就了解清楚风险，再决定怎么申请，不必只选最稳妥的。",
+      "pinyin": "nà jiù liǎo jiě qīng chǔ fēng xiǎn zài jué dìng zěn me shēn qǐng bù bì zhǐ xuǎn zuì wěn tuǒ de",
+      "tr": "O zaman riski öğrenip nasıl başvuracağına karar ver; yalnızca en garantili seçeneği almak zorunda değilsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_020",
+      "speaker": "老师",
+      "zh": "即使录取把握不大，也可以认真准备，同时留一个合适的备选。",
+      "pinyin": "jí shǐ lù qǔ bǎ wò bù dà yě kě yǐ rèn zhēn zhǔn bèi tóng shí liú yí gè hé shì de bèi xuǎn",
+      "tr": "Kabul olasılığı düşük olsa bile iyi hazırlanabilirsin; aynı zamanda uygun bir yedek seçeneğin olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_021",
+      "speaker": "张雨桐",
+      "zh": "我查到第二所要交作品集，截止日期是下个月。",
+      "pinyin": "wǒ chá dào dì èr suǒ yào jiāo zuò pǐn jí jié zhǐ rì qī shì xià gè yuè",
+      "tr": "İkinci okulun portfolyo istediğini ve son tarihin gelecek ay olduğunu öğrendim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_022",
+      "speaker": "刘梅",
+      "zh": "时间还够。你以前做的作品能选几件放进去吗？",
+      "pinyin": "shí jiān hái gòu nǐ yǐ qián zuò de zuò pǐn néng xuǎn jǐ jiàn fàng jìn qù ma",
+      "tr": "Zamanın var. Önceki çalışmalarından birkaçını ekleyebilir misin?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_023",
+      "speaker": "张伟",
+      "zh": "可以从以前的作品里挑几件，再按要求整理，也请老师帮你看看。",
+      "pinyin": "kě yǐ cóng yǐ qián de zuò pǐn lǐ tiāo jǐ jiàn zài àn yāo qiú zhěng lǐ yě qǐng lǎo shī bāng nǐ kàn kàn",
+      "tr": "Önceki çalışmalarından birkaçını seçip şartlara göre düzenleyebilir, öğretmeninden de incelemesini isteyebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_024",
+      "speaker": "老师",
+      "zh": "把要求发给我，我帮你看作品主题和说明是否清楚。",
+      "pinyin": "bǎ yāo qiú fā gěi wǒ wǒ bāng nǐ kàn zuò pǐn zhǔ tí hé shuō míng shì fǒu qīng chǔ",
+      "tr": "Şartları bana gönder; çalışmaların teması ve açıklamaları açık mı bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_025",
+      "speaker": "张雨桐",
+      "zh": "另外两所大学也要求交作品吗？",
+      "pinyin": "lìng wài liǎng suǒ dà xué yě yāo qiú jiāo zuò pǐn ma",
+      "tr": "Diğer iki üniversite de çalışma örneği istiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_026",
+      "speaker": "刘梅",
+      "zh": "第三所只看成绩和面试，第一所要一份简短的个人说明。",
+      "pinyin": "dì sān suǒ zhǐ kàn chéng jì huó miàn shì dì yī suǒ yào yī fèn jiǎn duǎn de gè rén shuō míng",
+      "tr": "Üçüncü okul yalnızca notlara ve mülakata bakıyor; ilk okul kısa bir kişisel açıklama istiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_027",
+      "speaker": "张伟",
+      "zh": "把材料和截止日期列出来，准备起来就不会乱。",
+      "pinyin": "bǎ cái liào hé jié zhǐ rì qī liè chū lái zhǔn bèi qǐ lái jiù bú huì luàn",
+      "tr": "Belgeleri ve son tarihleri listele; hazırlık karışmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_028",
+      "speaker": "老师",
+      "zh": "把三所大学的要求放进一张表里，会更容易比较。",
+      "pinyin": "bǎ sān suǒ dà xué de yāo qiú fàng jìn yī zhāng biǎo lǐ huì gèng róng yì bǐ jiào",
+      "tr": "Üç üniversitenin şartlarını tek tabloda toplarsan karşılaştırmak kolaylaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_029",
+      "speaker": "张雨桐",
+      "zh": "我也会写上自己对专业的兴趣，不能只看数字，还要看适不适合。",
+      "pinyin": "wǒ yě huì xiě shàng zì jǐ duì zhuān yè de xìng qù bù néng zhǐ kàn shù zì hái yào kàn shì bú shì hé",
+      "tr": "Bölüme olan ilgimi de yazacağım; yalnızca rakamlara değil, bana uygun olup olmadığına da bakmalıyım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_030",
+      "speaker": "刘梅",
+      "zh": "可以问问在校学生课程怎么安排，不要只看招生介绍。",
+      "pinyin": "kě yǐ wèn wèn zài xiào xué shēng kè chéng zěn me ān pái bú yào zhǐ kàn zhāo shēng jiè shào",
+      "tr": "Derslerin nasıl işlendiğini öğrencilere sor; yalnızca tanıtım metnine bakma."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_031",
+      "speaker": "张伟",
+      "zh": "我找到学生论坛，有人分享了课程和实习的经验。",
+      "pinyin": "wǒ zhǎo dào xué shēng lùn tán yǒu rén fēn xiǎng le kè chéng hé shí xí de jīng yàn",
+      "tr": "Ders ve staj deneyimlerini paylaşan öğrencilerin olduğu bir forum buldum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_032",
+      "speaker": "老师",
+      "zh": "看看几个人的说法是否一致，也留意他们是哪年入学的。",
+      "pinyin": "kàn kàn jǐ gè rén de shuō fǎ shì fǒu yí zhì yě liú yì tā men shì nǎ nián rù xué de",
+      "tr": "Birkaç kişinin anlattıkları tutarlı mı ve hangi yıl başlamışlar, ona da bak."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_033",
+      "speaker": "张雨桐",
+      "zh": "他们都说第二所项目多，不过课程安排比较紧。",
+      "pinyin": "tā men dōu shuō dì èr suǒ xiàng mù duō bù guò kè chéng ān pái bǐ jiào jǐn",
+      "tr": "Hepsi ikinci okulda çok proje olduğunu ama ders programının yoğun olduğunu söylüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_034",
+      "speaker": "刘梅",
+      "zh": "你愿意接受这样的学习节奏吗？",
+      "pinyin": "nǐ yuàn yì jiē shòu zhè yàng de xué xí jié zòu ma",
+      "tr": "Böyle bir çalışma temposuna hazır mısın?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_035",
+      "speaker": "张伟",
+      "zh": "她一直喜欢做项目，不过课程安排紧的话，确实得提前规划时间。",
+      "pinyin": "tā yì zhí xǐ huān zuò xiàng mù bù guò kè chéng ān pái jǐn de huà què shí dé tí qián guī huà shí jiān",
+      "tr": "Projeler yapmayı hep sevdi; ancak ders programı yoğunsa zamanı önceden planlaması gerekir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_036",
+      "speaker": "老师",
+      "zh": "问问学生一周大概要花多少时间，实际经验更具体。",
+      "pinyin": "wèn wèn xué shēng yī zhōu dà gài yào huā duō shǎo shí jiān shí jì jīng yàn gèng jù tǐ",
+      "tr": "Öğrencilere haftada ne kadar zaman ayırdıklarını sor; gerçek deneyimleri daha açıklayıcı olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_037",
+      "speaker": "张雨桐",
+      "zh": "第三所离家最近，回家方便，不过专业方向和你的兴趣有些差别。",
+      "pinyin": "dì sān suǒ lí jiā zuì jìn huí jiā fāng biàn bù guò zhuān yè fāng xiàng hé nǐ de xìng qù yǒu xiē chā bié",
+      "tr": "Üçüncü okul eve en yakın; eve gidip gelmek kolay ama bölüm alanı ilginden biraz farklı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_038",
+      "speaker": "刘梅",
+      "zh": "距离对你有多重要？我们先看看去另外两个校区要多久。",
+      "pinyin": "jù lí duì nǐ yǒu duō zhòng yào wǒ men xiān kàn kàn qù lìng wài liǎng gè xiào qū yào duō jiǔ",
+      "tr": "Uzaklık senin için ne kadar önemli? Önce diğer iki kampüse ulaşımın ne kadar sürdüğüne bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_039",
+      "speaker": "张伟",
+      "zh": "好。把专业、录取要求和距离查清楚，再比较成本更有依据。",
+      "pinyin": "hǎo bǎ zhuān yè lù qǔ yāo qiú hé jù lí chá qīng chǔ zài bǐ jiào chéng běn gèng yǒu yī jù",
+      "tr": "Güzel. Bölüm, kabul şartları ve uzaklığı netleştirince masrafları daha sağlam karşılaştırırız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_040",
+      "speaker": "老师",
+      "zh": "资料都放在一张表里，我们下次可以逐项讨论。",
+      "pinyin": "zī liào dōu fàng zài yī zhāng biǎo lǐ wǒ men xià cì kě yǐ zhú xiàng tǎo lùn",
+      "tr": "Bilgileri tek tabloda topla; gelecek sefer her birini konuşabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_041",
+      "speaker": "张雨桐",
+      "zh": "我把学费和住宿费查到了，第二所每年的成本最高。",
+      "pinyin": "wǒ bǎ xué fèi hé zhù sù fèi chá dào le dì èr suǒ měi nián de chéng běn zuì gāo",
+      "tr": "Öğrenim ve konaklama masraflarını buldum; ikinci okulun yıllık maliyeti en yüksek."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_042",
+      "speaker": "刘梅",
+      "zh": "里面包括书本和交通吗？",
+      "pinyin": "lǐ miàn bāo kuò shū běn hé jiāo tōng ma",
+      "tr": "Buna kitap ve ulaşım masrafları da dahil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_043",
+      "speaker": "张伟",
+      "zh": "还没有，我只算了学校公布的学费和宿舍费用。",
+      "pinyin": "hái méi yǒu wǒ zhǐ suàn le xué xiào gōng bù de xué fèi hé sù shè fèi yòng",
+      "tr": "Hayır, yalnızca okulun açıkladığı öğrenim ve yurt ücretini hesapladım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_044",
+      "speaker": "老师",
+      "zh": "最好也算上吃饭、书本和每月回家的交通费。",
+      "pinyin": "zuì hǎo yě suàn shàng chī fàn shū běn hé měi yuè huí jiā de jiāo tōng fèi",
+      "tr": "Yemek, kitap ve eve aylık ulaşım masrafını da eklemek iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_045",
+      "speaker": "张雨桐",
+      "zh": "学校网站有生活费用的估算，可以先用它做比较。",
+      "pinyin": "xué xiào wǎng zhàn yǒu shēng huó fèi yòng de gū suàn kě yǐ xiān yòng tā zuò bǐ jiào",
+      "tr": "Okulun sitesinde yaşam masrafı tahmini var; karşılaştırmaya onunla başlayabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_046",
+      "speaker": "刘梅",
+      "zh": "我看到了。第二所离家远，交通成本也会高一些。",
+      "pinyin": "wǒ kàn dào le dì èr suǒ lí jiā yuǎn jiāo tōng chéng běn yě huì gāo yī xiē",
+      "tr": "Gördüm. İkinci okul eve uzak olduğu için ulaşım masrafı da daha yüksek olacak."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_047",
+      "speaker": "张伟",
+      "zh": "距离确实要考虑，但你也可以查查奖学金和助学金。",
+      "pinyin": "jù lí què shí yào kǎo lǜ dàn nǐ yě kě yǐ zhā zhā jiǎng xué jīn hé zhù xué jīn",
+      "tr": "Uzaklığı hesaba katmak gerekir ama burs ve maddi destek olanaklarına da bakabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_048",
+      "speaker": "老师",
+      "zh": "第二所有按成绩申请的奖学金，我想确认作品集会不会也算进去。",
+      "pinyin": "dì èr suǒ yǒu àn chéng jì shēn qǐng de jiǎng xué jīn wǒ xiǎng què rèn zuò pǐn jí huì bú huì yě suàn jìn qù",
+      "tr": "İkinci okulda notlara göre burs var; portfolyonun da değerlendirilip değerlendirilmediğini öğrenmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_049",
+      "speaker": "张雨桐",
+      "zh": "这个问题我可以帮你问招生办公室。不同项目的条件可能不一样。",
+      "pinyin": "zhè ge wèn tí wǒ kě yǐ bāng nǐ wèn zhāo shēng bàn gōng shì bù tóng xiàng mù dì tiáo jiàn kě néng bù yí yàng",
+      "tr": "Bunu kabul ofisine sorabilirim. Farklı programların şartları değişebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_050",
+      "speaker": "刘梅",
+      "zh": "我们先按没有奖学金的情况估算，再把可能拿到的补助另列出来。",
+      "pinyin": "wǒ men xiān àn méi yǒu jiǎng xué jīn de qíng kuàng gū suàn zài bǎ kě néng ná dào de bǔ zhù lìng liè chū lái",
+      "tr": "Önce burs yokmuş gibi hesaplayalım, olası desteği ayrı yazalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_051",
+      "speaker": "张伟",
+      "zh": "这样比较更实际，不会先把还没确定的钱算进去。",
+      "pinyin": "zhè yàng bǐ jiào gèng shí jì bú huì xiān bǎ hái méi què dìng de qián suàn jìn qù",
+      "tr": "Böyle karşılaştırma daha gerçekçi olur; kesinleşmemiş parayı hesaba katmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_052",
+      "speaker": "老师",
+      "zh": "第一所离家近，住宿成本低，但课程和实践机会也要一起看。",
+      "pinyin": "dì yī suǒ lí jiā jìn zhù sù chéng běn dī dàn kè chéng hé shí jiàn jī huì yě yào yì qǐ kàn",
+      "tr": "İlk okul eve yakın ve konaklaması ucuz; dersleri ve uygulama fırsatlarını da değerlendirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_053",
+      "speaker": "张雨桐",
+      "zh": "我做了一个表，第二所的实习项目比较多，第一所的通勤时间短。",
+      "pinyin": "wǒ zuò le yí gè biǎo dì èr suǒ de shí xí xiàng mù bǐ jiào duō dì yī suǒ de tōng qín shí jiān duǎn",
+      "tr": "Bir tablo yaptım. İkinci okulda staj projesi daha çok, ilk okulda yol süresi daha kısa."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_054",
+      "speaker": "刘梅",
+      "zh": "这两项都重要。你每天愿意花多少时间通勤？",
+      "pinyin": "zhè liǎng xiàng dōu zhòng yào nǐ měi tiān yuàn yì huā duō shǎo shí jiān tōng qín",
+      "tr": "İkisi de önemli. Her gün yolda ne kadar zaman harcamaya razısın?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_055",
+      "speaker": "张伟",
+      "zh": "我周末去校园参观时，也可以试一次从车站走过去。",
+      "pinyin": "wǒ zhōu mò qù xiào yuán cān guān shí yě kě yǐ shì yī cì cóng chē zhàn zǒu guò qù",
+      "tr": "Hafta sonu kampüsü gezerken istasyondan oraya gitmeyi de deneyebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_056",
+      "speaker": "老师",
+      "zh": "查一下早晚高峰的路线，地图上的时间不一定和实际一样。",
+      "pinyin": "chá yī xià zǎo wǎn gāo fēng de lù xiàn dì tú shàng de shí jiān bù yí dìng hé shí jì yī yàng",
+      "tr": "Sabah-akşam yoğun saatlerdeki güzergâha bak; haritadaki süre gerçekle aynı olmayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_057",
+      "speaker": "张雨桐",
+      "zh": "周末去校园看看时，也可以顺便试一次从车站走过去。",
+      "pinyin": "zhōu mò qù xiào yuán kàn kàn shí yě kě yǐ shùn biàn shì yī cì cóng chē zhàn zǒu guò qù",
+      "tr": "Hafta sonu kampüsü görmeye gidince istasyondan oraya yürümeyi de deneyebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_058",
+      "speaker": "刘梅",
+      "zh": "好，我会记录路上用了多久，再比较交通方式和费用。",
+      "pinyin": "hǎo wǒ huì jì lù lù shàng yòng le duō jiǔ zài bǐ jiào jiāo tōng fāng shì hé fèi yòng",
+      "tr": "Olur. Yolda geçen süreyi not edip ulaşım seçeneklerini ve masrafını karşılaştırırım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_059",
+      "speaker": "张伟",
+      "zh": "这样我们讨论成本和距离时就有实际数字，不只是猜测。",
+      "pinyin": "zhè yàng wǒ men tǎo lùn chéng běn hé jù lí shí jiù yǒu shí jì shù zì bù zhǐ shì cāi cè",
+      "tr": "Böylece masraf ve uzaklığı konuşurken tahmin değil, gerçek veriler kullanırız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_060",
+      "speaker": "老师",
+      "zh": "我把这些数据补进表格，接着再看三所大学的整体差别。",
+      "pinyin": "wǒ bǎ zhè xiē shù jù bǔ jìn biǎo gé jiē zhe zài kàn sān suǒ dà xué de zhěng tǐ chā bié",
+      "tr": "Bu verileri tabloya ekleyip üç üniversite arasındaki genel farklara bakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_061",
+      "speaker": "张雨桐",
+      "zh": "我把通勤路线也记进表格了，第一所单程大约四十分钟。",
+      "pinyin": "wǒ bǎ tōng qín lù xiàn yě jì jìn biǎo gé le dì yī suǒ dān chéng dà yuē sì shí fēn zhōng",
+      "tr": "Ulaşım güzergâhlarını da tabloya yazdım; ilk okul tek yön yaklaşık kırk dakika."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_062",
+      "speaker": "刘梅",
+      "zh": "这个时间还可以。第二所如果住宿，生活安排会不一样。",
+      "pinyin": "zhè ge shí jiān hái kě yǐ dì èr suǒ rú guǒ zhù sù shēng huó ān pái huì bù yí yàng",
+      "tr": "Bu süre makul. İkinci okulda kalırsan günlük düzenin farklı olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_063",
+      "speaker": "张伟",
+      "zh": "我想过住校，不过想先看看宿舍和周围环境。",
+      "pinyin": "wǒ xiǎng guò zhù xiào bù guò xiǎng xiān kàn kàn sù shè hé zhōu wéi huán jìng",
+      "tr": "Yurtta kalmayı düşündüm ama önce yurdu ve çevresini görmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_064",
+      "speaker": "老师",
+      "zh": "我们周末去第二所看看，再实际坐一次公交。",
+      "pinyin": "wǒ men zhōu mò qù dì èr suǒ kàn kàn zài shí jì zuò yī cì gōng jiāo",
+      "tr": "Hafta sonu ikinci okulu görelim, otobüsle de gerçekten gidip gelelim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_065",
+      "speaker": "张雨桐",
+      "zh": "参观时留意图书馆、工作室和学生做项目的地方。",
+      "pinyin": "cān guān shí liú yì tú shū guǎn gōng zuò shì hé xué shēng zuò xiàng mù dì dì fāng",
+      "tr": "Gezerken kütüphaneye, stüdyolara ve öğrencilerin proje yaptığı alanlara dikkat et."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_066",
+      "speaker": "刘梅",
+      "zh": "参观时，我会留意图书馆、工作室和学生做项目的地方。",
+      "pinyin": "cān guān shí wǒ huì liú yì tú shū guǎn gōng zuò shì hé xué shēng zuò xiàng mù dì dì fāng",
+      "tr": "Kampüsü gezerken kütüphaneye, stüdyolara ve öğrencilerin proje yaptığı yerlere dikkat edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_067",
+      "speaker": "张伟",
+      "zh": "问得具体一些，得到的答案会更有用。",
+      "pinyin": "wèn dé jù tǐ yī xiē dé dào de dá àn huì gèng yǒu yòng",
+      "tr": "Sorularını somut sorarsan yanıtları daha yararlı olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_068",
+      "speaker": "老师",
+      "zh": "第一所离你家近，你可以继续住在家里，生活成本也会低一些。",
+      "pinyin": "dì yī suǒ lí nǐ jiā jìn nǐ kě yǐ jì xù zhù zài jiā lǐ shēng huó chéng běn yě huì dī yī xiē",
+      "tr": "İlk okul evine yakın; evde yaşamayı sürdürebilir ve yaşam masrafını azaltabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_069",
+      "speaker": "张雨桐",
+      "zh": "我也想知道，如果住在家里，会不会少一些独立生活的经验。",
+      "pinyin": "wǒ yě xiǎng zhī dào rú guǒ zhù zài jiā lǐ huì bú huì shǎo yī xiē dú lì shēng huó de jīng yàn",
+      "tr": "Evde kalırsam bağımsız yaşam deneyimim azalır mı, bunu da merak ediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_070",
+      "speaker": "刘梅",
+      "zh": "也许会少一些，但你仍然可以参加学校活动，自己安排通勤和学习。",
+      "pinyin": "yě xǔ huì shǎo yī xiē dàn nǐ réng rán kě yǐ cān jiā xué xiào huó dòng zì jǐ ān pái tōng qín hé xué xí",
+      "tr": "Biraz azalabilir ama yine de okul etkinliklerine katılıp ulaşımını ve çalışmalarını kendin planlayabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_071",
+      "speaker": "张伟",
+      "zh": "独立生活不只是在外面住宿，也包括自己管理时间和责任。",
+      "pinyin": "dú lì shēng huó bù zhǐ shì zài wài miàn zhù sù yě bāo kuò zì jǐ guǎn lǐ shí jiān hé zé rèn",
+      "tr": "Bağımsız yaşam yalnızca evden uzakta kalmak değil; zamanını ve sorumluluklarını yönetmektir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_072",
+      "speaker": "老师",
+      "zh": "你说得对。离家近有方便的一面，也要看你怎么利用机会。",
+      "pinyin": "nǐ shuō dé duì lí jiā jìn yǒu fāng biàn de yí miàn yě yào kàn nǐ zěn me lì yòng jī huì",
+      "tr": "Haklısın. Eve yakın olmanın kolaylığı var; fırsatları nasıl değerlendireceğine de bakmalısın."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_073",
+      "speaker": "张雨桐",
+      "zh": "我把每所大学最喜欢和最担心的地方分成两栏了。",
+      "pinyin": "wǒ bǎ měi suǒ dà xué zuì xǐ huān hé zuì dān xīn de dì fāng fēn chéng liǎng lán le",
+      "tr": "Her üniversitede sevdiğim ve kaygı duyduğum yönleri iki sütuna ayırdım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_074",
+      "speaker": "刘梅",
+      "zh": "读给我们听听，看看有没有漏掉重要条件。",
+      "pinyin": "dú gěi wǒ men tīng tīng kàn kàn yǒu méi yǒu lòu diào zhòng yào tiáo jiàn",
+      "tr": "Bize oku; önemli bir koşulu atlamış mısın bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_075",
+      "speaker": "张伟",
+      "zh": "第二所专业和项目最好，但录取和成本压力比较大。",
+      "pinyin": "dì èr suǒ zhuān yè hé xiàng mù zuì hǎo dàn lù qǔ hé chéng běn yā lì bǐ jiào dà",
+      "tr": "İkinci okul bölüm ve projeler açısından en iyi ama kabul ve masraf kaygısı daha yüksek."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_076",
+      "speaker": "老师",
+      "zh": "第一所录取把握大、通勤方便，专业选择却没那么合你的兴趣。",
+      "pinyin": "dì yī suǒ lù qǔ bǎ wò dà tōng qín fāng biàn zhuān yè xuǎn zé què méi nà me hé nǐ de xìng qù",
+      "tr": "İlk okula kabul olasılığın daha yüksek ve ulaşım kolay; fakat bölüm seçenekleri ilgine daha az uyuyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_077",
+      "speaker": "张雨桐",
+      "zh": "第三所的成本最低，不过课程实践少一些，得再问清楚。",
+      "pinyin": "dì sān suǒ de chéng běn zuì dī bù guò kè chéng shí jiàn shǎo yī xiē dé zài wèn qīng chǔ",
+      "tr": "Üçüncü okulun masrafı en düşük ama uygulamalı dersi daha az; bunu netleştirmeliyim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_078",
+      "speaker": "刘梅",
+      "zh": "把还不确定的地方标出来，参观和咨询时优先确认这些问题。",
+      "pinyin": "bǎ hái bù què dìng de dì fāng biāo chū lái cān guān hé zī xún shí yōu xiān què rèn zhè xiē wèn tí",
+      "tr": "Emin olmadığın yerleri işaretle; ziyaret ve görüşmelerde önce bunları doğrula."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_079",
+      "speaker": "张伟",
+      "zh": "听完答案以后，再看看哪些差别对你最重要。",
+      "pinyin": "tīng wán dá àn yǐ hòu zài kàn kàn nǎ xiē chā bié duì nǐ zuì zhòng yào",
+      "tr": "Yanıtları aldıktan sonra hangi farkların senin için en önemli olduğuna bak."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_080",
+      "speaker": "老师",
+      "zh": "等你看过校园、问过学生，再和我们一起选出最适合你的两所。",
+      "pinyin": "děng nǐ kàn guò xiào yuán wèn guò xué shēng zài hé wǒ men yì qǐ xuǎn chū zuì shì hé nǐ de liǎng suǒ",
+      "tr": "Kampüsü gezip öğrencilerle konuştuktan sonra sana en uygun iki okulu birlikte seçeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_081",
+      "speaker": "张雨桐",
+      "zh": "把这些条件放在一起看，我现在更想把第二所列为第一选择。",
+      "pinyin": "bǎ zhè xiē tiáo jiàn fàng zài yì qǐ kàn wǒ xiàn zài gèng xiǎng bǎ dì èr suǒ liè wèi dì yī xuǎn zé",
+      "tr": "Bu koşulları birlikte değerlendirdiğimde ikinci okulu ilk tercihim yapmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_082",
+      "speaker": "刘梅",
+      "zh": "听起来你已经想清楚主要原因了。你最看重的是专业和项目，对吗？",
+      "pinyin": "tīng qǐ lái nǐ yǐ jīng xiǎng qīng chǔ zhǔ yào yuán yīn le nǐ zuì kàn zhòng de shì zhuān yè hé xiàng mù duì ma",
+      "tr": "Görünüşe göre temel nedenleri netleştirdin. Senin için bölüm ve projeler daha önemli, öyle mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_083",
+      "speaker": "张伟",
+      "zh": "我支持你。即使录取要求高一些，认真准备作品集和面试也值得。",
+      "pinyin": "wǒ zhī chí nǐ jí shǐ lù qǔ yāo qiú gāo yī xiē rèn zhēn zhǔn bèi zuò pǐn jí huó miàn shì yě zhí de",
+      "tr": "Seni destekliyorum. Kabul şartları daha yüksek olsa da portfolyo ve mülakata ciddi hazırlanman buna değer."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_084",
+      "speaker": "老师",
+      "zh": "那就把申请时间表列出来，先看每一步什么时候完成。",
+      "pinyin": "nà jiù bǎ shēn qǐng shí jiān biǎo liè chū lái xiān kàn měi yī bù shén me shí hòu wán chéng",
+      "tr": "O zaman başvuru takvimini hazırla; her adımın ne zaman bitmesi gerektiğine bak."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_085",
+      "speaker": "张雨桐",
+      "zh": "我先完成作品集，再请老师帮我检查，之后练习面试。",
+      "pinyin": "wǒ xiān wán chéng zuò pǐn jí zài qǐng lǎo shī bāng wǒ jiǎn chá zhī hòu liàn xí miàn shì",
+      "tr": "Önce portfolyoyu tamamlar, öğretmenimden kontrol etmesini ister, sonra mülakat çalışırım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_086",
+      "speaker": "刘梅",
+      "zh": "我可以陪你模拟面试，也会提醒你把项目经历讲具体。",
+      "pinyin": "wǒ kě yǐ péi nǐ mó nǐ miàn shì yě huì tí xǐng nǐ bǎ xiàng mù jīng lì jiǎng jù tǐ",
+      "tr": "Seninle deneme mülakatı yapabilir ve proje deneyimini somut anlatmanı hatırlatabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_087",
+      "speaker": "张伟",
+      "zh": "第一所可以当备选，录取机会和距离都比较合适。",
+      "pinyin": "dì yī suǒ kě yǐ dāng bèi xuǎn lù qǔ jī huì hé jù lí dōu bǐ jiào hé shì",
+      "tr": "İlk okulu yedek seçenek olarak tutabiliriz; kabul olasılığı ve uzaklığı uygun."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_088",
+      "speaker": "老师",
+      "zh": "还要确认它的课程能不能满足你以后想发展的方向。",
+      "pinyin": "hái yào què rèn tā de kè chéng néng bù néng mǎn zú nǐ yǐ hòu xiǎng fā zhǎn de fāng xiàng",
+      "tr": "Derslerin ileride yönelmek istediğin alanı karşılayıp karşılamadığını da doğrulamalısın."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_089",
+      "speaker": "张雨桐",
+      "zh": "第三所我暂时放在后面，等我问清实践课程，再决定要不要申请。",
+      "pinyin": "dì sān suǒ wǒ zàn shí fàng zài hòu miàn děng wǒ wèn qīng shí jiàn kè chéng zài jué dìng yào bù yào shēn qǐng",
+      "tr": "Üçüncü okulu şimdilik geriye alıyorum; uygulamalı dersleri öğrenince başvurup başvurmayacağıma karar veririm."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_090",
+      "speaker": "刘梅",
+      "zh": "这样安排有重点，也保留了选择。记得留意各校的截止日期。",
+      "pinyin": "zhè yàng ān pái yǒu zhòng diǎn yě bǎo liú le xuǎn zé jì de liú yì gè xiào de jié zhǐ rì qī",
+      "tr": "Bu plan önceliklerini belirliyor ve seçeneklerini koruyor. Okulların son başvuru tarihlerini unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_091",
+      "speaker": "张伟",
+      "zh": "我已经把日期标在日历里，第二所的作品集要先交。",
+      "pinyin": "wǒ yǐ jīng bǎ rì qī biāo zài rì lì lǐ dì èr suǒ de zuò pǐn jí yào xiān jiāo",
+      "tr": "Tarihleri takvime işaretledim; ikinci okulun portfolyosunu önce teslim etmeliyim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_092",
+      "speaker": "老师",
+      "zh": "成本方面我们也会继续核对，奖学金还没有确定，先按原来的估算准备。",
+      "pinyin": "chéng běn fāng miàn wǒ men yě huì jì xù hé duì jiǎng xué jīn hái méi yǒu què dìng xiān àn yuán lái de gū suàn zhǔn bèi",
+      "tr": "Masrafları da kontrol etmeye devam ederiz. Burs henüz kesin değil; şimdilik mevcut tahmine göre plan yap."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_093",
+      "speaker": "张雨桐",
+      "zh": "我会把不同学校的费用分开写，不把可能拿到的奖学金先算进去。",
+      "pinyin": "wǒ huì bǎ bù tóng xué xiào de fèi yòng fēn kāi xiě bù bǎ kě néng ná dào de jiǎng xué jīn xiān suàn jìn qù",
+      "tr": "Okulların masraflarını ayrı yazıp henüz kesin olmayan bursu hesaba katmayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_094",
+      "speaker": "刘梅",
+      "zh": "校园参观之后，你再把实际的通勤和住宿情况补进表格。",
+      "pinyin": "xiào yuán cān guān zhī hòu nǐ zài bǎ shí jì de tōng qín hé zhù sù qíng kuàng bǔ jìn biǎo gé",
+      "tr": "Kampüs ziyaretinden sonra gerçek ulaşım ve konaklama bilgilerini tabloya ekle."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_095",
+      "speaker": "张伟",
+      "zh": "这样资料就比较完整了，你也能清楚说明自己为什么这样选。",
+      "pinyin": "zhè yàng zī liào jiù bǐ jiào wán zhěng le nǐ yě néng qīng chǔ shuō míng zì jǐ wèi shén me zhè yàng xuǎn",
+      "tr": "Böylece bilgiler tamamlanır ve bu tercihi neden yaptığını açıkça anlatabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_096",
+      "speaker": "老师",
+      "zh": "我们不会替你做决定，但会陪你把每项条件弄清楚。",
+      "pinyin": "wǒ men bú huì tì nǐ zuò jué dìng dàn huì péi nǐ bǎ měi xiàng tiáo jiàn nòng qīng chǔ",
+      "tr": "Senin yerine karar vermeyiz ama her koşulu anlamana yardım ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_097",
+      "speaker": "张雨桐",
+      "zh": "谢谢。我现在不觉得必须马上选出一所，先完成申请准备更重要。",
+      "pinyin": "xiè xiè wǒ xiàn zài bù jué dé bì xū mǎ shàng xuǎn chū yī suǒ xiān wán chéng shēn qǐng zhǔn bèi gèng zhòng yào",
+      "tr": "Teşekkürler. Artık hemen tek bir okul seçmek zorunda hissetmiyorum; önce başvuru hazırlığını tamamlamak önemli."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_098",
+      "speaker": "刘梅",
+      "zh": "等参观和咨询结束后，我们再看有没有新信息需要调整。",
+      "pinyin": "děng cān guān hé zī xún jié shù hòu wǒ men zài kàn yǒu méi yǒu xīn xìn xī xū yào tiáo zhěng",
+      "tr": "Ziyaret ve görüşmeler bitince planı değiştirecek yeni bilgi var mı tekrar bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_099",
+      "speaker": "张伟",
+      "zh": "今天先把第二所的准备步骤定下来，其他选择也都保留着。",
+      "pinyin": "jīn tiān xiān bǎ dì èr suǒ de zhǔn bèi bù zhòu dìng xià lái qí tā xuǎn zé yě dōu bǎo liú zhe",
+      "tr": "Bugün ikinci okulun hazırlık adımlarını belirleyelim; diğer seçenekleri de açık tutalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC033_100",
+      "speaker": "老师",
+      "zh": "好。你可以按时间表准备，也继续比较专业、录取机会、成本和距离。",
+      "pinyin": "hǎo nǐ kě yǐ àn shí jiān biǎo zhǔn bèi yě jì xù bǐ jiào zhuān yè lù qǔ jī huì chéng běn hé jù lí",
+      "tr": "Peki. Takvime göre hazırlanıp bölüm, kabul olasılığı, masraf ve uzaklığı karşılaştırmaya devam edebilirsin."
+    }
+  ]
+}

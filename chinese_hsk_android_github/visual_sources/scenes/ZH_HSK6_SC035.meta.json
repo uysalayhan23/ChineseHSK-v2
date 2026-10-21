@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC035.json",
-  "dialogueSha256": "8c9ca42e7df0caad1acca285e1d894dd2476ef0b748609d4a1ba85364747caf8",
+  "dialogueSha256": "b272e46771a6a965fb5b0d2cc07cd199928eae736b438250b695fe9d2179f615",
   "titleZh": "爷爷的菜园变成社区项目",
   "titleTr": "Büyükbabanın Bahçesi Topluluk Bahçesi Oluyor",
   "locationId": "LOC_ZH_GARDEN_001",

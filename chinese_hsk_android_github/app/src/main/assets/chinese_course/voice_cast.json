@@ -1,0 +1,1958 @@
+{
+  "schemaVersion": 1,
+  "status": "CAST_LOCKED_RUNTIME_ANDROID_TTS_CANONICAL",
+  "generatedFrom": [
+    "characters.json",
+    "scene_catalog.json"
+  ],
+  "policy": {
+    "language": "cmn-Hans",
+    "freeOfflinePrimary": "Kokoro-82M Mandarin named voices (Apache-2.0; no paid API)",
+    "consistency": "Aynı karakter aynı temel voice embedding'i kullanır; yaş yalnızca hız/pitch/enerji ile evrilir.",
+    "childPolicy": "Çocuk rolleri aynı cinsiyetteki Mandarin voice + offline pitch/speed post-processing ile çocuklaştırılır.",
+    "narratorPolicy": "Anlatıcı ayrı ve nötr kadın sesidir.",
+    "nonHumanPolicy": "Mimi için mümkünse kısa miyav/SFX; sözcük gerekiyorsa fallback zf_xiaoxiao.",
+    "runtimeStrategy": "Önceden üretilmiş yerel Opus ses dosyaları > offline TTS fallback.",
+    "productionRule": "Normal app playback synthesizes each line once locally, caches it, and reuses the cached file. No paid API is required.",
+    "naturalnessRule": "Preserve native Mandarin base voice prosody; age mainly via speed and only subtle bounded pitch/energy DSP.",
+    "runtimeCanonical": "Android offline Mandarin TTS using stable voiceProfileId bindings, matching HSK1 SC001 behavior.",
+    "characterLock": "All 83 dialogue speakers are mapped 1:1 through characters.json voiceProfileId; binding persists per device.",
+    "kokoroRole": "Optional prebuilt/offline export only; not required for normal app dialogue playback."
+  },
+  "verifiedKokoroNamedMandarinVoices": {
+    "female": [
+      "zf_xiaobei",
+      "zf_xiaoni",
+      "zf_xiaoxiao",
+      "zf_xiaoyi"
+    ],
+    "male": [
+      "zm_yunjian",
+      "zm_yunxi",
+      "zm_yunxia",
+      "zm_yunyang"
+    ]
+  },
+  "cast": [
+    {
+      "characterId": "CHR_ZH_MIMI_001",
+      "speaker": "咪咪",
+      "voiceProfileId": "VOICE_ZH_MIMI_001",
+      "genderPresentation": "nonhuman",
+      "ageClass": "pet",
+      "intendedTone": "kısa, sevimli evcil hayvan sesleri; mümkünse miyav SFX",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoxiao",
+        "speed": 1.05,
+        "pitchSemitones": 3.5,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 0,
+      "levels": []
+    },
+    {
+      "characterId": "CHR_ZH_ZHANGWEI_001",
+      "speaker": "张伟",
+      "voiceProfileId": "VOICE_ZH_ZHANGWEI_001",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "sakin, güven veren, sıcak aile babası",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunyang",
+        "speed": 0.97,
+        "pitchSemitones": -0.6,
+        "energy": 1
+      },
+      "levelOverrides": {
+        "HSK1": {
+          "age": "young_middle",
+          "speed": 0.99,
+          "pitch": -0.2
+        },
+        "HSK2": {
+          "age": "young_middle",
+          "speed": 0.99,
+          "pitch": -0.2
+        },
+        "HSK3": {
+          "age": "middle",
+          "speed": 0.96,
+          "pitch": -0.6
+        },
+        "HSK4": {
+          "age": "middle",
+          "speed": 0.95,
+          "pitch": -0.8
+        },
+        "HSK5": {
+          "age": "senior",
+          "speed": 0.92,
+          "pitch": -1.5
+        },
+        "HSK6": {
+          "age": "senior",
+          "speed": 0.9,
+          "pitch": -1.9
+        }
+      },
+      "sceneCount": 264,
+      "levels": [
+        "HSK1",
+        "HSK2",
+        "HSK3",
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_LICHEN_001",
+      "speaker": "李晨",
+      "voiceProfileId": "VOICE_ZH_LICHEN_001",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "samimi, sosyal, Zhang Wei'den biraz daha canlı",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.3,
+        "energy": 1
+      },
+      "levelOverrides": {
+        "HSK1": {
+          "age": "young_middle",
+          "speed": 1,
+          "pitch": 0.4
+        },
+        "HSK2": {
+          "age": "young_middle",
+          "speed": 1,
+          "pitch": 0.4
+        },
+        "HSK3": {
+          "age": "middle",
+          "speed": 0.97,
+          "pitch": 0
+        },
+        "HSK4": {
+          "age": "middle",
+          "speed": 0.96,
+          "pitch": -0.2
+        },
+        "HSK5": {
+          "age": "senior",
+          "speed": 0.93,
+          "pitch": -1
+        },
+        "HSK6": {
+          "age": "senior",
+          "speed": 0.91,
+          "pitch": -1.3
+        }
+      },
+      "sceneCount": 35,
+      "levels": [
+        "HSK1",
+        "HSK2",
+        "HSK3",
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_ZHANGYUTONG_001",
+      "speaker": "张雨桐",
+      "voiceProfileId": "VOICE_ZH_ZHANGYUTONG_001",
+      "genderPresentation": "female",
+      "ageClass": "teen",
+      "intendedTone": "genç, canlı, zeki; yetişkinliğe doğru daha dengeli",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoxiao",
+        "speed": 1.02,
+        "pitchSemitones": 1.2,
+        "energy": 1
+      },
+      "levelOverrides": {
+        "HSK1": {
+          "age": "teen",
+          "speed": 1.03,
+          "pitch": 1.5
+        },
+        "HSK2": {
+          "age": "teen",
+          "speed": 1.03,
+          "pitch": 1.4
+        },
+        "HSK3": {
+          "age": "young_adult",
+          "speed": 1.01,
+          "pitch": 0.7
+        },
+        "HSK4": {
+          "age": "young_adult",
+          "speed": 1,
+          "pitch": 0.5
+        },
+        "HSK5": {
+          "age": "adult",
+          "speed": 0.98,
+          "pitch": 0.1
+        },
+        "HSK6": {
+          "age": "adult",
+          "speed": 0.97,
+          "pitch": 0
+        }
+      },
+      "sceneCount": 131,
+      "levels": [
+        "HSK1",
+        "HSK2",
+        "HSK3",
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_LIUMEI_001",
+      "speaker": "刘梅",
+      "voiceProfileId": "VOICE_ZH_LIUMEI_001",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "sıcak, doğal, şefkatli ama kararlı",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {
+        "HSK1": {
+          "age": "young_middle",
+          "speed": 1,
+          "pitch": 0.2
+        },
+        "HSK2": {
+          "age": "young_middle",
+          "speed": 1,
+          "pitch": 0.2
+        },
+        "HSK3": {
+          "age": "middle",
+          "speed": 0.97,
+          "pitch": 0
+        },
+        "HSK4": {
+          "age": "middle",
+          "speed": 0.96,
+          "pitch": -0.2
+        },
+        "HSK5": {
+          "age": "senior",
+          "speed": 0.93,
+          "pitch": -0.8
+        },
+        "HSK6": {
+          "age": "senior",
+          "speed": 0.91,
+          "pitch": -1.1
+        }
+      },
+      "sceneCount": 278,
+      "levels": [
+        "HSK1",
+        "HSK2",
+        "HSK3",
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_B9D2559CCA",
+      "speaker": "主持人",
+      "voiceProfileId": "VOICE_ZH_AUTO_B9D2559CCA",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_60325A5147",
+      "speaker": "乘客",
+      "voiceProfileId": "VOICE_ZH_AUTO_60325A5147",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK1"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_5D2E0E5561",
+      "speaker": "亲家",
+      "voiceProfileId": "VOICE_ZH_AUTO_5D2E0E5561",
+      "genderPresentation": "female",
+      "ageClass": "senior",
+      "intendedTone": "ileri yaş, sıcak ve ölçülü",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaobei",
+        "speed": 0.9,
+        "pitchSemitones": -0.9,
+        "energy": 0.92
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_204FDD1319",
+      "speaker": "伴侣",
+      "voiceProfileId": "VOICE_ZH_AUTO_204FDD1319",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 13,
+      "levels": [
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_703C9EB0F0",
+      "speaker": "供应商",
+      "voiceProfileId": "VOICE_ZH_AUTO_703C9EB0F0",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 2,
+      "levels": [
+        "HSK4",
+        "HSK5"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_55C4E3624C",
+      "speaker": "保安",
+      "voiceProfileId": "VOICE_ZH_AUTO_55C4E3624C",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK1"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_6245AEC2CC",
+      "speaker": "公司职员",
+      "voiceProfileId": "VOICE_ZH_AUTO_6245AEC2CC",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, tok ve ölçülü erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.95,
+        "pitchSemitones": -0.7,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 2,
+      "levels": [
+        "HSK1"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_32153CE544",
+      "speaker": "兽医",
+      "voiceProfileId": "VOICE_ZH_AUTO_32153CE544",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, tok ve ölçülü erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.95,
+        "pitchSemitones": -0.7,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 2,
+      "levels": [
+        "HSK1",
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_9A8BAC8F22",
+      "speaker": "创业者",
+      "voiceProfileId": "VOICE_ZH_AUTO_9A8BAC8F22",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_F923F777D5",
+      "speaker": "助理",
+      "voiceProfileId": "VOICE_ZH_AUTO_F923F777D5",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_552CAEB5BD",
+      "speaker": "医生",
+      "voiceProfileId": "VOICE_ZH_AUTO_552CAEB5BD",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, tok ve ölçülü erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.95,
+        "pitchSemitones": -0.7,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 6,
+      "levels": [
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_BFB3F16221",
+      "speaker": "司机",
+      "voiceProfileId": "VOICE_ZH_AUTO_BFB3F16221",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "dostça, anlaşılır yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunyang",
+        "speed": 1,
+        "pitchSemitones": -0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK1"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_92D8D1A505",
+      "speaker": "同事",
+      "voiceProfileId": "VOICE_ZH_AUTO_92D8D1A505",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 25,
+      "levels": [
+        "HSK1",
+        "HSK2",
+        "HSK3",
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_1AAE7AB33E",
+      "speaker": "同事乙",
+      "voiceProfileId": "VOICE_ZH_AUTO_1AAE7AB33E",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK4"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_B1D840EFB8",
+      "speaker": "同事甲",
+      "voiceProfileId": "VOICE_ZH_AUTO_B1D840EFB8",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK4"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_C560C19C26",
+      "speaker": "同学",
+      "voiceProfileId": "VOICE_ZH_AUTO_C560C19C26",
+      "genderPresentation": "female",
+      "ageClass": "child_or_teen",
+      "intendedTone": "öğrenci, genç ve doğal",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoxiao",
+        "speed": 1.05,
+        "pitchSemitones": 2,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 14,
+      "levels": [
+        "HSK1",
+        "HSK2",
+        "HSK5"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_9834F85DE5",
+      "speaker": "员工",
+      "voiceProfileId": "VOICE_ZH_AUTO_9834F85DE5",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 19,
+      "levels": [
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_F127A03273",
+      "speaker": "售货员",
+      "voiceProfileId": "VOICE_ZH_AUTO_F127A03273",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "güler yüzlü, akıcı, hizmet odaklı",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 1.01,
+        "pitchSemitones": 0.3,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK1"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_6C4DDE3347",
+      "speaker": "商户",
+      "voiceProfileId": "VOICE_ZH_AUTO_6C4DDE3347",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "dostça, anlaşılır yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunyang",
+        "speed": 1,
+        "pitchSemitones": -0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 3,
+      "levels": [
+        "HSK5"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_2046426951",
+      "speaker": "图书管理员",
+      "voiceProfileId": "VOICE_ZH_AUTO_2046426951",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_805A55CD62",
+      "speaker": "场地方经理",
+      "voiceProfileId": "VOICE_ZH_AUTO_805A55CD62",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, tok ve ölçülü erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.95,
+        "pitchSemitones": -0.7,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_FE4C23D628",
+      "speaker": "奶奶",
+      "voiceProfileId": "VOICE_ZH_AUTO_FE4C23D628",
+      "genderPresentation": "female",
+      "ageClass": "senior",
+      "intendedTone": "yaşlı kadın, yumuşak, sabırlı, yavaş",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaobei",
+        "speed": 0.87,
+        "pitchSemitones": -1.1,
+        "energy": 0.92
+      },
+      "levelOverrides": {},
+      "sceneCount": 32,
+      "levels": [
+        "HSK2",
+        "HSK3",
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_2F40887367",
+      "speaker": "好朋友",
+      "voiceProfileId": "VOICE_ZH_AUTO_2F40887367",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_6364EB7B27",
+      "speaker": "孙辈",
+      "voiceProfileId": "VOICE_ZH_AUTO_6364EB7B27",
+      "genderPresentation": "female",
+      "ageClass": "child",
+      "intendedTone": "çocuk, neşeli ve meraklı",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoxiao",
+        "speed": 1.07,
+        "pitchSemitones": 3,
+        "energy": 1.08
+      },
+      "levelOverrides": {},
+      "sceneCount": 2,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_F206870601",
+      "speaker": "客户",
+      "voiceProfileId": "VOICE_ZH_AUTO_F206870601",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 5,
+      "levels": [
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_A12728F620",
+      "speaker": "家人",
+      "voiceProfileId": "VOICE_ZH_AUTO_A12728F620",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_C65F4144AC",
+      "speaker": "宾客",
+      "voiceProfileId": "VOICE_ZH_AUTO_C65F4144AC",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_98DE5A1BF7",
+      "speaker": "导师",
+      "voiceProfileId": "VOICE_ZH_AUTO_98DE5A1BF7",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, tok ve ölçülü erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.95,
+        "pitchSemitones": -0.7,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 2,
+      "levels": [
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_81D1C7560E",
+      "speaker": "导游",
+      "voiceProfileId": "VOICE_ZH_AUTO_81D1C7560E",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "güler yüzlü, akıcı, hizmet odaklı",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 1.01,
+        "pitchSemitones": 0.3,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK4"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_2CC2746FBA",
+      "speaker": "小朋友",
+      "voiceProfileId": "VOICE_ZH_AUTO_2CC2746FBA",
+      "genderPresentation": "male",
+      "ageClass": "child",
+      "intendedTone": "çocuk erkek, parlak ve enerjik",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxia",
+        "speed": 1.07,
+        "pitchSemitones": 3.3,
+        "energy": 1.08
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK1"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_428ACC9B88",
+      "speaker": "居民",
+      "voiceProfileId": "VOICE_ZH_AUTO_428ACC9B88",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 2,
+      "levels": [
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_7F81595D7E",
+      "speaker": "工作人员",
+      "voiceProfileId": "VOICE_ZH_AUTO_7F81595D7E",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "dostça, anlaşılır yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunyang",
+        "speed": 1,
+        "pitchSemitones": -0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 12,
+      "levels": [
+        "HSK1",
+        "HSK2",
+        "HSK3",
+        "HSK4"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_EC18B850D1",
+      "speaker": "年轻人",
+      "voiceProfileId": "VOICE_ZH_AUTO_EC18B850D1",
+      "genderPresentation": "male",
+      "ageClass": "young_adult",
+      "intendedTone": "genç, enerjik erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxia",
+        "speed": 1.03,
+        "pitchSemitones": 0.9,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_B1AFF4F424",
+      "speaker": "年轻创业者",
+      "voiceProfileId": "VOICE_ZH_AUTO_B1AFF4F424",
+      "genderPresentation": "male",
+      "ageClass": "young_adult",
+      "intendedTone": "genç, enerjik erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxia",
+        "speed": 1.03,
+        "pitchSemitones": 0.9,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_76CC8FCDB2",
+      "speaker": "年轻顾客",
+      "voiceProfileId": "VOICE_ZH_AUTO_76CC8FCDB2",
+      "genderPresentation": "female",
+      "ageClass": "young_adult",
+      "intendedTone": "genç, canlı ve doğal",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoxiao",
+        "speed": 1.03,
+        "pitchSemitones": 0.8,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_93243940EA",
+      "speaker": "店员",
+      "voiceProfileId": "VOICE_ZH_AUTO_93243940EA",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "güler yüzlü, akıcı, hizmet odaklı",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 1.01,
+        "pitchSemitones": 0.3,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 6,
+      "levels": [
+        "HSK1",
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_36BF8C76DE",
+      "speaker": "张雨桐伴侣",
+      "voiceProfileId": "VOICE_ZH_AUTO_36BF8C76DE",
+      "genderPresentation": "male",
+      "ageClass": "young_adult",
+      "intendedTone": "genç yetişkin, sıcak ve dengeli",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 1,
+        "pitchSemitones": 0.4,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_786C0074D2",
+      "speaker": "律师",
+      "voiceProfileId": "VOICE_ZH_AUTO_786C0074D2",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, tok ve ölçülü erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.95,
+        "pitchSemitones": -0.7,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_9777C45086",
+      "speaker": "志愿者",
+      "voiceProfileId": "VOICE_ZH_AUTO_9777C45086",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 5,
+      "levels": [
+        "HSK2",
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_E2C47D41FC",
+      "speaker": "快递员",
+      "voiceProfileId": "VOICE_ZH_AUTO_E2C47D41FC",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "dostça, anlaşılır yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunyang",
+        "speed": 1,
+        "pitchSemitones": -0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK1"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_1A5C6636B5",
+      "speaker": "技术志愿者",
+      "voiceProfileId": "VOICE_ZH_AUTO_1A5C6636B5",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, tok ve ölçülü erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.95,
+        "pitchSemitones": -0.7,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_13F3FBF554",
+      "speaker": "护士",
+      "voiceProfileId": "VOICE_ZH_AUTO_13F3FBF554",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 4,
+      "levels": [
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_F7415783A6",
+      "speaker": "招聘者",
+      "voiceProfileId": "VOICE_ZH_AUTO_F7415783A6",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, tok ve ölçülü erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.95,
+        "pitchSemitones": -0.7,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK5"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_4E05F85519",
+      "speaker": "摊主",
+      "voiceProfileId": "VOICE_ZH_AUTO_4E05F85519",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "dostça, anlaşılır yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunyang",
+        "speed": 1,
+        "pitchSemitones": -0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_1DB2CF7215",
+      "speaker": "收银员",
+      "voiceProfileId": "VOICE_ZH_AUTO_1DB2CF7215",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "güler yüzlü, akıcı, hizmet odaklı",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 1.01,
+        "pitchSemitones": 0.3,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK1"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_12B398FE17",
+      "speaker": "新同事",
+      "voiceProfileId": "VOICE_ZH_AUTO_12B398FE17",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 2,
+      "levels": [
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_F01E3EA28A",
+      "speaker": "新同学",
+      "voiceProfileId": "VOICE_ZH_AUTO_F01E3EA28A",
+      "genderPresentation": "female",
+      "ageClass": "teen",
+      "intendedTone": "genç öğrenci, canlı ve samimi",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoxiao",
+        "speed": 1.04,
+        "pitchSemitones": 1.5,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK4"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_FB6560225D",
+      "speaker": "新员工",
+      "voiceProfileId": "VOICE_ZH_AUTO_FB6560225D",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK4"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_09FE351CF0",
+      "speaker": "新朋友",
+      "voiceProfileId": "VOICE_ZH_AUTO_09FE351CF0",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK1"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_ED1D855FC5",
+      "speaker": "旁白",
+      "voiceProfileId": "VOICE_ZH_AUTO_ED1D855FC5",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "nötr, temiz, öğretici anlatıcı",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoni",
+        "speed": 0.93,
+        "pitchSemitones": 0,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 3,
+      "levels": [
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_D490B5FD60",
+      "speaker": "朋友",
+      "voiceProfileId": "VOICE_ZH_AUTO_D490B5FD60",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 5,
+      "levels": [
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_C31ABCCBF3",
+      "speaker": "服务员",
+      "voiceProfileId": "VOICE_ZH_AUTO_C31ABCCBF3",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "güler yüzlü, akıcı, hizmet odaklı",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 1.01,
+        "pitchSemitones": 0.3,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK1"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_78E3EA6550",
+      "speaker": "李晨妻子",
+      "voiceProfileId": "VOICE_ZH_AUTO_78E3EA6550",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "sosyal, net, olgun ve sıcak",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoni",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {
+        "HSK1": {
+          "age": "young_middle",
+          "speed": 1,
+          "pitch": 0.2
+        },
+        "HSK2": {
+          "age": "young_middle",
+          "speed": 1,
+          "pitch": 0.2
+        },
+        "HSK3": {
+          "age": "middle",
+          "speed": 0.97,
+          "pitch": 0
+        },
+        "HSK4": {
+          "age": "middle",
+          "speed": 0.96,
+          "pitch": -0.2
+        },
+        "HSK5": {
+          "age": "senior",
+          "speed": 0.93,
+          "pitch": -0.8
+        },
+        "HSK6": {
+          "age": "senior",
+          "speed": 0.91,
+          "pitch": -1.1
+        }
+      },
+      "sceneCount": 5,
+      "levels": [
+        "HSK1",
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_BF795B2847",
+      "speaker": "爷爷",
+      "voiceProfileId": "VOICE_ZH_AUTO_BF795B2847",
+      "genderPresentation": "male",
+      "ageClass": "senior",
+      "intendedTone": "yaşlı erkek, tok, sakin, yavaş",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.84,
+        "pitchSemitones": -2.1,
+        "energy": 0.92
+      },
+      "levelOverrides": {},
+      "sceneCount": 25,
+      "levels": [
+        "HSK2",
+        "HSK3",
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_7618DACBB7",
+      "speaker": "王师傅",
+      "voiceProfileId": "VOICE_ZH_AUTO_7618DACBB7",
+      "genderPresentation": "male",
+      "ageClass": "senior",
+      "intendedTone": "tecrübeli usta, tok ve sakin",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.9,
+        "pitchSemitones": -1.6,
+        "energy": 0.92
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK1"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_A5DF8F3581",
+      "speaker": "环保小组成员",
+      "voiceProfileId": "VOICE_ZH_AUTO_A5DF8F3581",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK5"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_78DD9DEA73",
+      "speaker": "理发师",
+      "voiceProfileId": "VOICE_ZH_AUTO_78DD9DEA73",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_3997F4C8CB",
+      "speaker": "理财顾问",
+      "voiceProfileId": "VOICE_ZH_AUTO_3997F4C8CB",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, tok ve ölçülü erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.95,
+        "pitchSemitones": -0.7,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK5"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_F5F1EF38B5",
+      "speaker": "社区代表",
+      "voiceProfileId": "VOICE_ZH_AUTO_F5F1EF38B5",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, tok ve ölçülü erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.95,
+        "pitchSemitones": -0.7,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 3,
+      "levels": [
+        "HSK5"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_A14058D70B",
+      "speaker": "社区居民",
+      "voiceProfileId": "VOICE_ZH_AUTO_A14058D70B",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_506A555294",
+      "speaker": "社区工作人员",
+      "voiceProfileId": "VOICE_ZH_AUTO_506A555294",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 3,
+      "levels": [
+        "HSK1",
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_9589C7E8D7",
+      "speaker": "社区负责人",
+      "voiceProfileId": "VOICE_ZH_AUTO_9589C7E8D7",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, tok ve ölçülü erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.95,
+        "pitchSemitones": -0.7,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 3,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_5B35265D3B",
+      "speaker": "经理",
+      "voiceProfileId": "VOICE_ZH_AUTO_5B35265D3B",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, tok ve ölçülü erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.95,
+        "pitchSemitones": -0.7,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 27,
+      "levels": [
+        "HSK1",
+        "HSK2",
+        "HSK3",
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_494F23D624",
+      "speaker": "老师",
+      "voiceProfileId": "VOICE_ZH_AUTO_494F23D624",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 26,
+      "levels": [
+        "HSK1",
+        "HSK2",
+        "HSK3",
+        "HSK4",
+        "HSK5"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_F03D7150DE",
+      "speaker": "老顾客",
+      "voiceProfileId": "VOICE_ZH_AUTO_F03D7150DE",
+      "genderPresentation": "male",
+      "ageClass": "senior",
+      "intendedTone": "yaşlı müşteri, doğal ve ağırbaşlı",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.91,
+        "pitchSemitones": -1.4,
+        "energy": 0.92
+      },
+      "levelOverrides": {},
+      "sceneCount": 3,
+      "levels": [
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_3565841434",
+      "speaker": "表演者",
+      "voiceProfileId": "VOICE_ZH_AUTO_3565841434",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK5"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_746068397C",
+      "speaker": "记者",
+      "voiceProfileId": "VOICE_ZH_AUTO_746068397C",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, net, sakin",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoni",
+        "speed": 0.97,
+        "pitchSemitones": 0,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 2,
+      "levels": [
+        "HSK4"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_3936DA578D",
+      "speaker": "路人",
+      "voiceProfileId": "VOICE_ZH_AUTO_3936DA578D",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_B34606F759",
+      "speaker": "邮局工作人员",
+      "voiceProfileId": "VOICE_ZH_AUTO_B34606F759",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "dostça, anlaşılır yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunyang",
+        "speed": 1,
+        "pitchSemitones": -0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_E985EDCD56",
+      "speaker": "邻居",
+      "voiceProfileId": "VOICE_ZH_AUTO_E985EDCD56",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 10,
+      "levels": [
+        "HSK1",
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_EA7324E618",
+      "speaker": "酒店工作人员",
+      "voiceProfileId": "VOICE_ZH_AUTO_EA7324E618",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "güler yüzlü, akıcı, hizmet odaklı",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 1.01,
+        "pitchSemitones": 0.3,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK4"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_187B0C5C47",
+      "speaker": "银行工作人员",
+      "voiceProfileId": "VOICE_ZH_AUTO_187B0C5C47",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, net, sakin",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoni",
+        "speed": 0.97,
+        "pitchSemitones": 0,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_1714E8E2E7",
+      "speaker": "队友",
+      "voiceProfileId": "VOICE_ZH_AUTO_1714E8E2E7",
+      "genderPresentation": "male",
+      "ageClass": "young_adult",
+      "intendedTone": "genç, enerjik erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxia",
+        "speed": 1.03,
+        "pitchSemitones": 0.9,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK2"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_BB1B142996",
+      "speaker": "青年志愿者",
+      "voiceProfileId": "VOICE_ZH_AUTO_BB1B142996",
+      "genderPresentation": "male",
+      "ageClass": "young_adult",
+      "intendedTone": "genç, enerjik erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxia",
+        "speed": 1.03,
+        "pitchSemitones": 0.9,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK5"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_73DE665A67",
+      "speaker": "面试官",
+      "voiceProfileId": "VOICE_ZH_AUTO_73DE665A67",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "profesyonel, tok ve ölçülü erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunjian",
+        "speed": 0.95,
+        "pitchSemitones": -0.7,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 2,
+      "levels": [
+        "HSK5"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_E8DC56F318",
+      "speaker": "项目成员",
+      "voiceProfileId": "VOICE_ZH_AUTO_E8DC56F318",
+      "genderPresentation": "male",
+      "ageClass": "adult",
+      "intendedTone": "doğal, samimi yetişkin erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 1,
+      "levels": [
+        "HSK5"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_AUTO_CD31FEBA04",
+      "speaker": "顾客",
+      "voiceProfileId": "VOICE_ZH_AUTO_CD31FEBA04",
+      "genderPresentation": "female",
+      "ageClass": "adult",
+      "intendedTone": "doğal, sıcak yetişkin kadın",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zf_xiaoyi",
+        "speed": 0.99,
+        "pitchSemitones": 0.1,
+        "energy": 1
+      },
+      "levelOverrides": {},
+      "sceneCount": 46,
+      "levels": [
+        "HSK3",
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    },
+    {
+      "characterId": "CHR_ZH_ZHANGLELE_001",
+      "speaker": "张乐乐",
+      "voiceProfileId": "VOICE_ZH_ZHANGLELE_001",
+      "genderPresentation": "male",
+      "ageClass": "child",
+      "intendedTone": "çocukken neşeli ve yüksek; büyüdükçe doğal genç erkek",
+      "synthesis": {
+        "engine": "kokoro-82m-mandarin",
+        "voice": "zm_yunxia",
+        "speed": 1.06,
+        "pitchSemitones": 3,
+        "energy": 1.08
+      },
+      "levelOverrides": {
+        "HSK1": {
+          "age": "child",
+          "speed": 1.07,
+          "pitch": 3.2
+        },
+        "HSK2": {
+          "age": "child",
+          "speed": 1.06,
+          "pitch": 3
+        },
+        "HSK3": {
+          "age": "teen",
+          "speed": 1.04,
+          "pitch": 1.8
+        },
+        "HSK4": {
+          "age": "teen",
+          "speed": 1.03,
+          "pitch": 1.5
+        },
+        "HSK5": {
+          "age": "young_adult",
+          "speed": 1.01,
+          "pitch": 0.6
+        },
+        "HSK6": {
+          "age": "young_adult",
+          "speed": 1,
+          "pitch": 0.4
+        }
+      },
+      "sceneCount": 94,
+      "levels": [
+        "HSK1",
+        "HSK2",
+        "HSK3",
+        "HSK4",
+        "HSK5",
+        "HSK6"
+      ]
+    }
+  ]
+}

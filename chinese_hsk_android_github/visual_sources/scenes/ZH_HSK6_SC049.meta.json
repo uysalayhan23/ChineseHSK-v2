@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC049.json",
-  "dialogueSha256": "c0a93b9b0a44be9d8992cfc43e213c10b90e6bc2660401982b1325837244a361",
+  "dialogueSha256": "a29a63347b3afb4a5c8a3ee2159330ee52441cf17e486562d5b8862635f71ff6",
   "titleZh": "打烊以后",
   "titleTr": "Zhang ve Liu Mei Kapanıştan Sonra",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

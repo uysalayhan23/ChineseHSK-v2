@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK4_SC004",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC004.json",
-  "dialogueSha256": "ce09e600d2487ef6cb76568127d9747b93f40a2b87bdf97de03164798f3b97eb",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC004.json",
+  "dialogueSha256": "e4378154bee98c98cef48254df494070ee761cbf301b9bc532edaea12247f9f8",
   "titleTr": "Büyükler Kasabaya Geliyor",
   "locationId": "LOC_ZH_GRANDPARENTS_HOME_001",
   "scenePurposeTr": "Aile bu kez büyükanne ve büyükbabanın taşınmasını organize eder.",
@@ -69,5 +69,7 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi.",
+  "dialogueQaStatus": "PASS",
+  "dialogueQaNoteTr": "Tekrarlanan tam replikler sahne bağlamına göre çeşitlendirildi; ID/speaker sırası, hedefler ve pinyin/Türkçe yeniden kontrol edildi."
 }

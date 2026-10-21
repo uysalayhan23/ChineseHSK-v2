@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK5_SC012",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC012.json",
-  "dialogueSha256": "e42f35f42979ea94d58a2f816831a6c79c5ab0c241281b3eded6aab7352a553c",
+  "dialogueSha256": "ecc320e47c09dd8afe34c5061dec005cee67e1ee8c709c07795dd6077dba692a",
   "titleZh": "第一次面试失败",
   "titleTr": "İlk Staj Görüşmesi Başarısız",
   "locationId": "LOC_ZH_UNIVERSITY_001",

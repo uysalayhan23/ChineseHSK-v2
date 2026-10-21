@@ -575,9 +575,9 @@
     {
       "id": "DLG_ZH_HSK1_SC019_020",
       "speaker": "张乐乐",
-      "zh": "好了，牛奶现在不会掉下去了。",
-      "pinyin": "Hǎo le, niú nǎi xiàn zài bú huì diào xià qù le.",
-      "tr": "Tamam, süt artık aşağı düşmez."
+      "zh": "好了，牛奶瓶现在放稳了。",
+      "pinyin": "Hǎo le, niú nǎi píng xiàn zài fàng wěn le.",
+      "tr": "Tamam, süt şişesi artık sağlam duruyor."
     },
     {
       "id": "DLG_ZH_HSK1_SC019_021",
@@ -661,16 +661,16 @@
     {
       "id": "DLG_ZH_HSK1_SC019_032",
       "speaker": "张乐乐",
-      "zh": "嗯，我吃完再说，不骗妈妈。",
-      "pinyin": "Èn, wǒ chī wán zài shuō, bù piàn mā ma.",
-      "tr": "Tamam, bitirince söylerim, annemi kandırmam."
+      "zh": "好，我先吃完，不够再跟妈妈说。",
+      "pinyin": "Hǎo, wǒ xiān chī wán, bú gòu zài gēn mā ma shuō.",
+      "tr": "Tamam, önce bitireyim; yetmezse anneme söylerim."
     },
     {
       "id": "DLG_ZH_HSK1_SC019_033",
       "speaker": "刘梅",
-      "zh": "没人说你骗人，我们慢慢吃。",
-      "pinyin": "Méi rén shuō nǐ piàn rén, wǒ men màn màn chī.",
-      "tr": "Kimse seni kandırmakla suçlamadı, sakince yiyelim."
+      "zh": "对，先尝尝，不够再添。",
+      "pinyin": "Duì, xiān cháng chang, bú gòu zài tiān.",
+      "tr": "Doğru, önce tadına bak; yetmezse biraz daha ekleriz."
     },
     {
       "id": "DLG_ZH_HSK1_SC019_034",

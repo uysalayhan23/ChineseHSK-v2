@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC018.json",
-  "dialogueSha256": "9f5a624400bef39d7e999ec75d9b5a182248bdbe45e524d2f4dbd76cc332a143",
+  "dialogueSha256": "f258de8bf4c935fbaa31ac1b6a299ab0d8ba4948525fd3864b66664c03277494",
   "titleZh": "刘梅说：“这里有我的规矩”",
   "titleTr": "Liu Mei: “Burası Benim Düzenim”",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

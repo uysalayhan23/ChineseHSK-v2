@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC016.json",
-  "dialogueSha256": "d70918942ebf7d5402beaf542846792ffa2000159f2b7cfea169de631d741453",
+  "dialogueSha256": "fb40a37e4a3b0189a9d841c9d0208a7a7beab021a250aa5e44b89023de9a1e8a",
   "titleTr": "İş Arkadaşları Arasında Gerilim",
   "locationId": "LOC_ZH_WORKPLACE_001",
   "scenePurposeTr": "Zhang iki iş arkadaşı arasındaki anlaşmazlığı sakin biçimde koordine eder.",

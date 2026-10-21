@@ -1,0 +1,710 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK5_SC041",
+  "level": "HSK5",
+  "sourceTitleZh": "爷爷又住院了",
+  "sourceTitleTr": "Büyükbaba Yeniden Hastanede",
+  "sourceMiniAdventureTr": "Büyükbabanın sağlık sorunu bu kez daha uzun bakım gerektirir.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK5_SC041_001",
+      "speaker": "爷爷",
+      "zh": "这次住院比上次久，我知道大家都在担心我。",
+      "pinyin": "zhè cì zhù yuàn bǐ shàng cì jiǔ ， wǒ zhī dào dà jiā dōu zài dān xīn wǒ 。",
+      "tr": "Bu kez hastanede geçen süre önceki yatışımdan uzun; hepinizin benim için kaygılandığını biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_002",
+      "speaker": "医生",
+      "zh": "我们先一起回顾最近的情况，再讨论接下来的照护安排。",
+      "pinyin": "wǒ men xiān yì qǐ huí gù zuì jìn de qíng kuàng ， zài tǎo lùn jiē xià lái de zhào hù ān pái 。",
+      "tr": "Önce son durumu birlikte gözden geçirelim, sonra sonraki bakım düzenini konuşalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_003",
+      "speaker": "张伟",
+      "zh": "我们想知道出院以后需要准备什么，也想把家里的实际情况说清楚。",
+      "pinyin": "wǒ men xiǎng zhī dào chū yuàn yǐ hòu xū yào zhǔn bèi shén me ， yě xiǎng bǎ jiā lǐ de shí jì qíng kuàng shuō qīng chǔ 。",
+      "tr": "Taburcu olduktan sonra neleri hazırlamamız gerektiğini öğrenmek ve evdeki koşulları anlatmak istiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_004",
+      "speaker": "奶奶",
+      "zh": "我愿意照顾他，不过最近也有些累，担心自己顾不过来。",
+      "pinyin": "wǒ yuàn yì zhào gù tā ， bù guò zuì jìn yě yǒu xiē lèi ， dān xīn zì jǐ gù bù guò lái 。",
+      "tr": "Ona bakmaya hazırım ama son zamanlarda yoruluyorum; her şeye yetişememekten endişeliyim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_005",
+      "speaker": "爷爷",
+      "zh": "我不想让你一个人承担太多，也不想什么都瞒着家里。",
+      "pinyin": "wǒ bù xiǎng ràng nǐ yí gè rén chéng dān tài duō ， yě bù xiǎng shén me dōu mán zhe jiā lǐ 。",
+      "tr": "Her şeyin yükünü tek başına taşımanı istemiyorum; aileden her şeyi saklamak da istemem."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_006",
+      "speaker": "医生",
+      "zh": "谢谢你们坦白说出来。照护安排要考虑患者需要，也要考虑照护者的精力。",
+      "pinyin": "xiè xiè nǐ men tǎn bái shuō chū lái 。 zhào hù ān pái yào kǎo lǜ huàn zhě xū yào ， yě yào kǎo lǜ zhào hù zhě de jīng lì 。",
+      "tr": "Bunu açıkça söylediğiniz için teşekkürler. Bakım planı hem hastanın ihtiyaçlarını hem de bakım veren kişinin gücünü gözetmeli."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_007",
+      "speaker": "张伟",
+      "zh": "我们该先记录哪些情况，复诊时才能说得清楚？",
+      "pinyin": "wǒ men gāi xiān jì lù nǎ xiē qíng kuàng ， fù zhěn shí cái néng shuō dé qīng chǔ ？",
+      "tr": "Kontrole geldiğimizde durumu açıkça anlatabilmek için önce neleri kaydetmeliyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_008",
+      "speaker": "奶奶",
+      "zh": "我可以记每天的作息和需要帮忙的事情，但有时分不清哪些重要。",
+      "pinyin": "wǒ kě yǐ jì měi tiān de zuò xī hé xū yào bāng máng de shì qíng ， dàn yǒu shí fēn bù qīng nǎ xiē zhòng yào 。",
+      "tr": "Günlük düzeni ve yardım gereken işleri kaydedebilirim ama bazen hangilerinin önemli olduğunu ayırt edemiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_009",
+      "speaker": "爷爷",
+      "zh": "我也可以告诉你们什么时候觉得不方便，不必你们猜。",
+      "pinyin": "wǒ yě kě yǐ gào sù nǐ men shén me shí hòu jué de bù fāng biàn ， bù bì nǐ men cāi 。",
+      "tr": "Neyin ne zaman zorlaştığını ben de söyleyebilirim; tahmin etmek zorunda kalmazsınız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_010",
+      "speaker": "医生",
+      "zh": "从你们刚才的描述来看，先把日常安排和需要协助的环节记下来会有帮助。",
+      "pinyin": "cóng nǐ men gāng cái de miáo shù lái kàn ， xiān bǎ rì cháng ān pái hé xū yào xié zhù de huán jié jì xià lái huì yǒu bāng zhù 。",
+      "tr": "Şu ana kadarki anlatımınıza bakılırsa günlük düzeni ve yardım gereken adımları kaydetmeniz yararlı olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_011",
+      "speaker": "张伟",
+      "zh": "我们会记下来，遇到不确定的地方再向照护团队确认。",
+      "pinyin": "wǒ men huì jì xià lái ， yù dào bù què dìng de dì fāng zài xiàng zhào hù tuán duì què rèn 。",
+      "tr": "Not ederiz; emin olmadığımız konuları bakım ekibine sorup doğrularız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_012",
+      "speaker": "奶奶",
+      "zh": "我最担心的是出院后晚上需要帮忙时，家里没人能马上过来。",
+      "pinyin": "wǒ zuì dān xīn de shì chū yuàn hòu wǎn shàng xū yào bāng máng shí ， jiā lǐ méi rén néng mǎ shàng guò lái 。",
+      "tr": "En çok, taburcu olduktan sonra gece yardıma ihtiyaç olursa hemen gelebilecek kimse olmamasından kaygılanıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_013",
+      "speaker": "爷爷",
+      "zh": "我也不希望你为了照顾我，连自己的休息都顾不上。",
+      "pinyin": "wǒ yě bù xī wàng nǐ wèi le zhào gù wǒ ， lián zì jǐ de xiū xī dōu gù bù shàng 。",
+      "tr": "Bana bakarken kendi dinlenmeni bile ihmal etmeni istemiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_014",
+      "speaker": "医生",
+      "zh": "这个担心值得一起讨论。我们可以说明你们的情况，再了解有哪些支持服务。",
+      "pinyin": "zhè ge dān xīn zhí de yì qǐ tǎo lùn 。 wǒ men kě yǐ shuō míng nǐ men de qíng kuàng ， zài liǎo jiě yǒu nǎ xiē zhī chí fú wù 。",
+      "tr": "Bu kaygıyı birlikte konuşmakta fayda var. Koşullarınızı anlatıp hangi destek hizmetlerinin bulunduğunu öğrenebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_015",
+      "speaker": "张伟",
+      "zh": "这些服务由谁负责联系？需要准备什么资料？",
+      "pinyin": "zhè xiē fú wù yóu shuí fù zé lián xì ？ xū yào zhǔn bèi shén me zī liào ？",
+      "tr": "Bu hizmetlerle kim iletişime geçiyor? Hangi belgeleri hazırlamamız gerekiyor?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_016",
+      "speaker": "奶奶",
+      "zh": "如果有清楚的联系人和步骤，我心里会踏实一点。",
+      "pinyin": "rú guǒ yǒu qīng chǔ de lián xì rén hé bù zhòu ， wǒ xīn lǐ huì tà shí yì diǎn 。",
+      "tr": "İletişim kuracağımız kişi ve izlenecek adımlar belli olursa içim biraz rahatlar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_017",
+      "speaker": "爷爷",
+      "zh": "我会配合记录，也会把自己真实的感受告诉医生。",
+      "pinyin": "wǒ huì pèi hé jì lù ， yě huì bǎ zì jǐ zhēn shí de gǎn shòu gào sù yī shēng 。",
+      "tr": "Kayıt tutmaya yardımcı olur, gerçek hislerimi de doktora anlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_018",
+      "speaker": "医生",
+      "zh": "很好。你们把问题写下来，出院前我们逐项确认，不必靠猜。",
+      "pinyin": "hěn hǎo 。 nǐ men bǎ wèn tí xiě xià lái ， chū yuàn qián wǒ men zhú xiàng què rèn ， bù bì kào cāi 。",
+      "tr": "Güzel. Sorularınızı yazın; taburcu olmadan önce hepsini tek tek doğrularız, tahmin yürütmek zorunda kalmazsınız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_019",
+      "speaker": "张伟",
+      "zh": "那我负责整理问题，奶奶记日常安排，爷爷也说说自己的需要。",
+      "pinyin": "nà wǒ fù zé zhěng lǐ wèn tí ， nǎi nǎi jì rì cháng ān pái ， yé yé yě shuō shuō zì jǐ de xū yào 。",
+      "tr": "O hâlde soruları ben toparlayayım; büyükanne günlük düzeni kaydetsin, büyükbaba da ihtiyaçlarını anlatsın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_020",
+      "speaker": "奶奶",
+      "zh": "好，我们先把情况说清楚，再一起商量可行的照护办法。",
+      "pinyin": "hǎo ， wǒ men xiān bǎ qíng kuàng shuō qīng chǔ ， zài yì qǐ shāng liáng kě xíng de zhào hù bàn fǎ 。",
+      "tr": "Olur, önce koşulları netleştirelim, sonra uygulanabilir bakım düzenini birlikte konuşalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_021",
+      "speaker": "爷爷",
+      "zh": "我愿意接受帮助，不过希望先知道每天会有哪些人来家里。",
+      "pinyin": "wǒ yuàn yì jiē shòu bāng zhù ， bù guò xī wàng xiān zhī dào měi tiān huì yǒu nǎ xiē rén lái jiā lǐ 。",
+      "tr": "Yardımı kabul ederim ama önce her gün eve kimlerin geleceğini bilmek isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_022",
+      "speaker": "医生",
+      "zh": "这个问题出院前可以和照护协调人员确认，具体服务要看当地安排。",
+      "pinyin": "zhè ge wèn tí chū yuàn qián kě yǐ hé zhào hù xié tiáo rén yuán què rèn ， jù tǐ fú wù yào kàn dāng dì ān pái 。",
+      "tr": "Bu konuyu taburcu olmadan önce bakım koordinatörüyle netleştirebilirsiniz; hizmetler yerel düzene bağlıdır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_023",
+      "speaker": "张伟",
+      "zh": "我们也想了解需要家人负责的部分，避免重复安排或漏掉事情。",
+      "pinyin": "wǒ men yě xiǎng liǎo jiě xū yào jiā rén fù zé de bù fèn ， bì miǎn chóng fù ān pái huò lòu diào shì qíng 。",
+      "tr": "Aile üyelerinin üstlenmesi gerekenleri de öğrenmek istiyoruz; işler tekrarlanmasın veya atlanmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_024",
+      "speaker": "奶奶",
+      "zh": "我能做的会尽量做，但也需要知道什么时候可以找别人帮忙。",
+      "pinyin": "wǒ néng zuò de huì jǐn liàng zuò ， dàn yě xū yào zhī dào shén me shí hòu kě yǐ zhǎo bié rén bāng máng 。",
+      "tr": "Yapabileceğim şeyleri yaparım ama ne zaman başkasından yardım isteyebileceğimi de bilmem gerekiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_025",
+      "speaker": "爷爷",
+      "zh": "家里如果有固定安排，我就能配合，不必大家临时忙乱。",
+      "pinyin": "jiā lǐ rú guǒ yǒu gù dìng ān pái ， wǒ jiù néng pèi hé ， bù bì dà jiā lín shí máng luàn 。",
+      "tr": "Evde düzenli bir plan olursa uyum sağlayabilirim; herkes son anda telaşlanmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_026",
+      "speaker": "医生",
+      "zh": "我们会把要确认的事项列清楚，也会告诉你们该联系哪个部门。",
+      "pinyin": "wǒ men huì bǎ yào què rèn de shì xiàng liè qīng chǔ ， yě huì gào sù nǐ men gāi lián xì nǎ ge bù mén 。",
+      "tr": "Doğrulanması gereken konuları açıkça listeler ve hangi birimle iletişim kuracağınızı bildiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_027",
+      "speaker": "张伟",
+      "zh": "出院后的复查时间也会写在安排里吗？",
+      "pinyin": "chū yuàn hòu de fù chá shí jiān yě huì xiě zài ān pái lǐ ma ？",
+      "tr": "Taburculuk sonrası kontrol tarihi de plana yazılacak mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_028",
+      "speaker": "奶奶",
+      "zh": "我可以把日期记在日历上，提醒大家准备要问的问题。",
+      "pinyin": "wǒ kě yǐ bǎ rì qī jì zài rì lì shàng ， tí xǐng dà jiā zhǔn bèi yào wèn de wèn tí 。",
+      "tr": "Tarihi takvime not edip herkese sorularımızı hazırlamayı hatırlatabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_029",
+      "speaker": "爷爷",
+      "zh": "我有时记不住所有说明，能不能让我们把重点记下来？",
+      "pinyin": "wǒ yǒu shí jì bú zhù suǒ yǒu shuō míng ， néng bù néng ràng wǒ men bǎ zhòng diǎn jì xià lái ？",
+      "tr": "Bazen bütün açıklamaları hatırlayamıyorum; önemli noktaları not edebilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_030",
+      "speaker": "医生",
+      "zh": "当然。你们可以记录要点；不确定的地方当场问清楚，不用靠记忆猜。",
+      "pinyin": "dāng rán 。 nǐ men kě yǐ jì lù yào diǎn ； bù què dìng de dì fāng dāng chǎng wèn qīng chǔ ， bù yòng kào jì yì cāi 。",
+      "tr": "Elbette. Önemli noktaları not alabilirsiniz; emin olmadığınız şeyleri tahmin etmek yerine o anda sorun."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_031",
+      "speaker": "张伟",
+      "zh": "那我负责写下联系人、时间和需要准备的资料。",
+      "pinyin": "nà wǒ fù zé xiě xià lián xì rén 、 shí jiān hé xū yào zhǔn bèi de zī liào 。",
+      "tr": "O hâlde iletişim kişilerini, tarihleri ve hazırlamamız gereken belgeleri ben yazarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_032",
+      "speaker": "奶奶",
+      "zh": "我记每天的安排和需要帮忙的地方，不记录自己不确定的判断。",
+      "pinyin": "wǒ jì měi tiān de ān pái hé xū yào bāng máng de dì fāng ， bù jì lù zì jǐ bù què dìng de pàn duàn 。",
+      "tr": "Günlük düzeni ve yardım gereken işleri kaydederim; emin olmadığım yorumları yazmam."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_033",
+      "speaker": "爷爷",
+      "zh": "我会直接告诉你们哪里不方便，也会说我希望怎样安排。",
+      "pinyin": "wǒ huì zhí jiē gào sù nǐ men nǎ lǐ bù fāng biàn ， yě huì shuō wǒ xī wàng zěn yàng ān pái 。",
+      "tr": "Neyin zor olduğunu size doğrudan söyler, nasıl bir düzen istediğimi de anlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_034",
+      "speaker": "医生",
+      "zh": "这样很好。你们提供的日常情况能帮助团队了解回家后的需要。",
+      "pinyin": "zhè yàng hěn hǎo 。 nǐ men tí gōng de rì cháng qíng kuàng néng bāng zhù tuán duì liǎo jiě huí jiā hòu de xū yào 。",
+      "tr": "Bu iyi olur. Günlük yaşama dair verdiğiniz bilgiler ekip için eve döndükten sonraki ihtiyaçları anlamaya yardımcı olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_035",
+      "speaker": "张伟",
+      "zh": "如果家里临时没人，应该联系谁？这个也要写进清单。",
+      "pinyin": "rú guǒ jiā lǐ lín shí méi rén ， yīng gāi lián xì shuí ？ zhè ge yě yào xiě jìn qīng dān 。",
+      "tr": "Evde aniden kimse yoksa kimi aramalıyız? Bunu da listeye yazalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_036",
+      "speaker": "奶奶",
+      "zh": "我妹妹有时能来帮忙，但要提前问她的时间。",
+      "pinyin": "wǒ mèi mèi yǒu shí néng lái bāng máng ， dàn yào tí qián wèn tā de shí jiān 。",
+      "tr": "Kız kardeşim bazen yardıma gelebilir ama zamanını önceden sormalıyım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_037",
+      "speaker": "爷爷",
+      "zh": "我不想把所有事情都交给她，还是要安排轮流帮忙。",
+      "pinyin": "wǒ bù xiǎng bǎ suǒ yǒu shì qíng dōu jiāo gěi tā ， hái shì yào ān pái lún liú bāng máng 。",
+      "tr": "Her şeyi ona bırakmak istemiyorum; yardımı sırayla paylaşmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_038",
+      "speaker": "医生",
+      "zh": "你们先列出可能的人选和可用时间，之后再与协调人员核对服务安排。",
+      "pinyin": "nǐ men xiān liè chū kě néng de rén xuǎn hé kě yòng shí jiān ， zhī hòu zài yǔ xié tiáo rén yuán hé duì fú wù ān pái 。",
+      "tr": "Önce yardımcı olabilecek kişileri ve uygun oldukları zamanları listeleyin; sonra hizmet düzenini koordinatörle doğrulayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_039",
+      "speaker": "张伟",
+      "zh": "出院会议上我们把清单带来，逐项确认有没有遗漏。",
+      "pinyin": "chū yuàn huì yì shàng wǒ men bǎ qīng dān dài lái ， zhú xiàng què rèn yǒu méi yǒu yí lòu 。",
+      "tr": "Taburcu planlama toplantısına listeyi getirip atlanan bir şey var mı tek tek doğrularız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_040",
+      "speaker": "奶奶",
+      "zh": "好，先把信息弄清楚，我就不会觉得所有责任都落在我一个人身上。",
+      "pinyin": "hǎo ， xiān bǎ xìn xī nòng qīng chǔ ， wǒ jiù bú huì jué de suǒ yǒu zé rèn dōu luò zài wǒ yí gè rén shēn shàng 。",
+      "tr": "Güzel, önce bilgileri netleştirelim; böylece bütün sorumluluğun tek başıma üstüme kaldığını hissetmem."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_041",
+      "speaker": "爷爷",
+      "zh": "出院以后如果我忘了某项安排，能不能看书面说明？",
+      "pinyin": "chū yuàn yǐ hòu rú guǒ wǒ wàng le mǒu xiàng ān pái ， néng bù néng kàn shū miàn shuō míng ？",
+      "tr": "Taburcu olduktan sonra bir düzenlemeyi unutursam yazılı açıklamaya bakabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_042",
+      "speaker": "医生",
+      "zh": "可以。医疗团队会提供与你情况相关的说明，有疑问时也能再联系他们。",
+      "pinyin": "kě yǐ 。 yī liáo tuán duì huì tí gōng yǔ nǐ qíng kuàng xiāng guān de shuō míng ， yǒu yí wèn shí yě néng zài lián xì tā men 。",
+      "tr": "Elbette. Sağlık ekibi durumunuza uygun açıklamaları verir; sorunuz olursa onlarla yeniden iletişim kurabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_043",
+      "speaker": "张伟",
+      "zh": "我们会把说明放在固定的地方，家里人都能找到。",
+      "pinyin": "wǒ men huì bǎ shuō míng fàng zài gù dìng de dì fāng ， jiā lǐ rén dōu néng zhǎo dào 。",
+      "tr": "Açıklamaları sabit bir yere koyacağız; ailede herkes bulabilecek."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_044",
+      "speaker": "奶奶",
+      "zh": "我也想知道复诊时要带什么，免得当天才发现少了资料。",
+      "pinyin": "wǒ yě xiǎng zhī dào fù zhěn shí yào dài shén me ， miǎn de dàng tiān cái fā xiàn shǎo le zī liào 。",
+      "tr": "Kontrole giderken neleri getirmem gerektiğini de bilmek isterim; o gün belge eksiği çıkmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_045",
+      "speaker": "爷爷",
+      "zh": "我可以把不舒服的时间和当时在做什么记下来。",
+      "pinyin": "wǒ kě yǐ bǎ bù shū fú de shí jiān hé dāng shí zài zuò shén me jì xià lái 。",
+      "tr": "Kendimi iyi hissetmediğim zamanları ve o sırada ne yaptığımı not edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_046",
+      "speaker": "医生",
+      "zh": "这些记录可以帮助我们了解情况；有变化时按出院说明联系医疗团队。",
+      "pinyin": "zhè xiē jì lù kě yǐ bāng zhù wǒ men liǎo jiě qíng kuàng ； yǒu biàn huà shí àn chū yuàn shuō míng lián xì yī liáo tuán duì 。",
+      "tr": "Bu kayıtlar durumu anlamamıza yardımcı olabilir; değişiklik olursa taburculuk açıklamasına göre sağlık ekibiyle iletişime geçin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_047",
+      "speaker": "张伟",
+      "zh": "我会在日历里记复查日期，也设一个提前提醒。",
+      "pinyin": "wǒ huì zài rì lì lǐ jì fù chá rì qī ， yě shè yí gè tí qián tí xǐng 。",
+      "tr": "Kontrol tarihini takvime yazıp önceden hatırlatıcı kuracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_048",
+      "speaker": "奶奶",
+      "zh": "那我负责准备资料和清单，不用临出门才四处找。",
+      "pinyin": "nà wǒ fù zé zhǔn bèi zī liào hé qīng dān ， bù yòng lín chū mén cái sì chù zhǎo 。",
+      "tr": "Belgeleri ve listeyi ben hazırlarım; çıkmadan hemen önce her yerde aramam gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_049",
+      "speaker": "爷爷",
+      "zh": "我希望安排里也有休息时间，不要一天排太多事情。",
+      "pinyin": "wǒ xī wàng ān pái lǐ yě yǒu xiū xī shí jiān ， bú yào yī tiān pái tài duō shì qíng 。",
+      "tr": "Planın içinde dinlenme zamanı da olmasını istiyorum; bir güne fazla iş sığdırmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_050",
+      "speaker": "医生",
+      "zh": "这是合理的想法。你们可以把一天的安排带来，我们一起看看怎样更适合。",
+      "pinyin": "zhè shì hé lǐ de xiǎng fǎ 。 nǐ men kě yǐ bǎ yī tiān de ān pái dài lái ， wǒ men yì qǐ kàn kàn zěn yàng gèng shì hé 。",
+      "tr": "Bu makul bir istek. Günlük planınızı getirip size nasıl daha uygun olacağını birlikte değerlendirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_051",
+      "speaker": "张伟",
+      "zh": "如果家里人意见不一样，我们先听听爷爷自己最在意什么。",
+      "pinyin": "rú guǒ jiā lǐ rén yì jiàn bù yí yàng ， wǒ men xiān tīng tīng yé yé zì jǐ zuì zài yì shén me 。",
+      "tr": "Ailede farklı görüşler olursa önce büyükbabanın en çok neye önem verdiğini dinleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_052",
+      "speaker": "奶奶",
+      "zh": "我有时太着急，就会替他把事情都安排好，没有问他想不想这样做。",
+      "pinyin": "wǒ yǒu shí tài zháo jí ， jiù huì tì tā bǎ shì qíng dōu ān pái hǎo ， méi yǒu wèn tā xiǎng bù xiǎng zhè yàng zuò 。",
+      "tr": "Bazen fazla telaşlanıp ona böyle isteyip istemediğini sormadan her şeyi düzenliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_053",
+      "speaker": "爷爷",
+      "zh": "你是想帮我，我知道；以后我们可以先商量，再决定谁来做。",
+      "pinyin": "nǐ shì xiǎng bāng wǒ ， wǒ zhī dào ； yǐ hòu wǒ men kě yǐ xiān shāng liáng ， zài jué dìng shuí lái zuò 。",
+      "tr": "Bana yardım etmek istediğini biliyorum; bundan sonra önce konuşup sonra kimin ne yapacağına karar verebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_054",
+      "speaker": "医生",
+      "zh": "把本人希望和家人能提供的帮助都说出来，计划才更容易实行。",
+      "pinyin": "bǎ běn rén xī wàng hé jiā rén néng tí gōng de bāng zhù dōu shuō chū lái ， jì huà cái gèng róng yì shí xíng 。",
+      "tr": "Kişinin isteklerini ve ailenin sağlayabileceği yardımı açıkça konuşmak planı uygulamayı kolaylaştırır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_055",
+      "speaker": "张伟",
+      "zh": "我们可以每周看一次安排，哪里不合适就记录下来带来讨论。",
+      "pinyin": "wǒ men kě yǐ měi zhōu kàn yī cì ān pái ， nǎ lǐ bù hé shì jiù jì lù xià lái dài lái tǎo lùn 。",
+      "tr": "Haftada bir planı gözden geçirip uymayan noktaları not ederek görüşmeye getirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_056",
+      "speaker": "奶奶",
+      "zh": "这样我也能说出自己什么时候需要休息，不用一直硬撑。",
+      "pinyin": "zhè yàng wǒ yě néng shuō chū zì jǐ shén me shí hòu xū yào xiū xī ， bù yòng yì zhí yìng chēng 。",
+      "tr": "Böylece ne zaman dinlenmeye ihtiyacım olduğunu söyleyebilirim; sürekli kendimi zorlamam."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_057",
+      "speaker": "爷爷",
+      "zh": "我愿意配合，但希望每次只讨论一两件重要的事。",
+      "pinyin": "wǒ yuàn yì pèi hé ， dàn xī wàng měi cì zhǐ tǎo lùn yī liǎng jiàn zhòng yào de shì 。",
+      "tr": "İş birliği yapmaya hazırım ama her seferinde yalnızca bir iki önemli konuyu konuşmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_058",
+      "speaker": "医生",
+      "zh": "可以。问题先排优先顺序，其他的记下来，下次再问。",
+      "pinyin": "kě yǐ 。 wèn tí xiān pái yōu xiān shùn xù ， qí tā de jì xià lái ， xià cì zài wèn 。",
+      "tr": "Olur. Soruları önceliklendirin; diğerlerini not edip bir sonraki görüşmede sorabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_059",
+      "speaker": "张伟",
+      "zh": "那我们先把复诊安排和家庭分工写好，其他问题留到会上确认。",
+      "pinyin": "nà wǒ men xiān bǎ fù zhěn ān pái hé jiā tíng fēn gōng xiě hǎo ， qí tā wèn tí liú dào huì shàng què rèn 。",
+      "tr": "Önce kontrol planını ve aile içi görev dağılımını yazalım; diğer soruları toplantıda doğrularız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_060",
+      "speaker": "奶奶",
+      "zh": "好，有清楚的步骤，也听见爷爷自己的想法，我就放心多了。",
+      "pinyin": "hǎo ， yǒu qīng chǔ de bù zhòu ， yě tīng jiàn yé yé zì jǐ de xiǎng fǎ ， wǒ jiù fàng xīn duō le 。",
+      "tr": "Güzel; adımlar netleşti ve büyükbabanın kendi isteklerini de duyduk, içim daha rahat."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_061",
+      "speaker": "爷爷",
+      "zh": "我想先自己做能做的事，需要帮助时再告诉你们。",
+      "pinyin": "wǒ xiǎng xiān zì jǐ zuò néng zuò de shì ， xū yào bāng zhù shí zài gào sù nǐ men 。",
+      "tr": "Yapabildiğim işleri önce kendim yapmak, yardıma ihtiyaç duyduğumda size söylemek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_062",
+      "speaker": "医生",
+      "zh": "这个想法可以写进照护计划，具体哪些事适合自己做要和团队确认。",
+      "pinyin": "zhè ge xiǎng fǎ kě yǐ xiě jìn zhào hù jì huà ， jù tǐ nǎ xiē shì shì hé zì jǐ zuò yào hé tuán duì què rèn 。",
+      "tr": "Bu isteği bakım planına yazabiliriz; hangi işleri tek başınıza yapmanızın uygun olduğunu ekiple doğrulamalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_063",
+      "speaker": "张伟",
+      "zh": "我们可以把每天的事情分成自己完成、家人协助和需要咨询三类。",
+      "pinyin": "wǒ men kě yǐ bǎ měi tiān de shì qíng fēn chéng zì jǐ wán chéng 、 jiā rén xié zhù hé xū yào zī xún sān lèi 。",
+      "tr": "Günlük işleri kişinin kendi yaptığı, ailenin yardım ettiği ve danışılması gereken olarak üçe ayırabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_064",
+      "speaker": "奶奶",
+      "zh": "这样我就知道什么时候帮忙，也不会每件事都替他做。",
+      "pinyin": "zhè yàng wǒ jiù zhī dào shén me shí hòu bāng máng ， yě bú huì měi jiàn shì dōu tì tā zuò 。",
+      "tr": "Böylece ne zaman yardım edeceğimi bilirim, her işi onun yerine yapmam."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_065",
+      "speaker": "爷爷",
+      "zh": "我希望自己安排读报和给老朋友打电话的时间。",
+      "pinyin": "wǒ xī wàng zì jǐ ān pái dú bào hé gěi lǎo péng yǒu dǎ diàn huà de shí jiān 。",
+      "tr": "Gazete okuma ve eski arkadaşlarımı arama zamanını kendim düzenlemek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_066",
+      "speaker": "医生",
+      "zh": "这些日常习惯可以告诉照护人员，让安排尽量符合你的需要。",
+      "pinyin": "zhè xiē rì cháng xí guàn kě yǐ gào sù zhào hù rén yuán ， ràng ān pái jǐn liàng fú hé nǐ de xū yào 。",
+      "tr": "Günlük alışkanlıklarınızı bakım görevlilerine anlatabilirsiniz; düzeni ihtiyaçlarınıza uygun kurmaya çalışırlar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_067",
+      "speaker": "张伟",
+      "zh": "我来写下每天谁在家，方便大家提前协调时间。",
+      "pinyin": "wǒ lái xiě xià měi tiān shuí zài jiā ， fāng biàn dà jiā tí qián xié tiáo shí jiān 。",
+      "tr": "Evde kimin olacağını ben not edeyim; herkes zamanını önceden ayarlayabilsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_068",
+      "speaker": "奶奶",
+      "zh": "我星期二和星期四下午要出门，其他时间可以再商量。",
+      "pinyin": "wǒ xīng qī èr hé xīng qī sì xià wǔ yào chū mén ， qí tā shí jiān kě yǐ zài shāng liáng 。",
+      "tr": "Salı ve perşembe öğleden sonraları dışarı çıkmam gerekiyor; diğer zamanları konuşabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_069",
+      "speaker": "爷爷",
+      "zh": "你也要留出自己的时间，不必为了我取消所有安排。",
+      "pinyin": "nǐ yě yào liú chū zì jǐ de shí jiān ， bù bì wèi le wǒ qǔ xiāo suǒ yǒu ān pái 。",
+      "tr": "Kendine de zaman ayırmalısın; benim için bütün planlarını iptal etmen gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_070",
+      "speaker": "医生",
+      "zh": "照护者的休息同样需要考虑，有疑问可以向协调人员说明。",
+      "pinyin": "zhào hù zhě de xiū xī tóng yàng xū yào kǎo lǜ ， yǒu yí wèn kě yǐ xiàng xié tiáo rén yuán shuō míng 。",
+      "tr": "Bakım veren kişinin dinlenmesi de hesaba katılmalı; sorularınızı koordinasyon görevlisine iletebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_071",
+      "speaker": "张伟",
+      "zh": "如果亲友临时帮忙，我们要不要把联系方式也放在清单里？",
+      "pinyin": "rú guǒ qīn yǒu lín shí bāng máng ， wǒ men yào bù yào bǎ lián xì fāng shì yě fàng zài qīng dān lǐ ？",
+      "tr": "Akraba veya arkadaşlar geçici olarak yardım ederse iletişim bilgilerini de listeye ekleyelim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_072",
+      "speaker": "奶奶",
+      "zh": "可以，但先问清楚他们什么时候方便，不要默认别人随时有空。",
+      "pinyin": "kě yǐ ， dàn xiān wèn qīng chǔ tā men shén me shí hòu fāng biàn ， bú yào mò rèn bié rén suí shí yǒu kòng 。",
+      "tr": "Olur ama önce ne zaman uygun olduklarını soralım; her zaman müsait olduklarını varsaymayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_073",
+      "speaker": "爷爷",
+      "zh": "我也会告诉你们哪些安排让我觉得舒服，哪些需要再商量。",
+      "pinyin": "wǒ yě huì gào sù nǐ men nǎ xiē ān pái ràng wǒ jué de shū fú ， nǎ xiē xū yào zài shāng liáng 。",
+      "tr": "Hangi düzenlemelerin bana iyi geldiğini, hangilerini yeniden konuşmamız gerektiğini size söyleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_074",
+      "speaker": "医生",
+      "zh": "你们可以每周简单回顾一次，把变化和还没解决的问题记下来。",
+      "pinyin": "nǐ men kě yǐ měi zhōu jiǎn dān huí gù yī cì ， bǎ biàn huà hé hái méi jiě jué de wèn tí jì xià lái 。",
+      "tr": "Haftada bir kısa değerlendirme yapıp değişiklikleri ve çözülememiş soruları not edebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_075",
+      "speaker": "张伟",
+      "zh": "到复诊时带上记录，医生就能更清楚地了解家里的执行情况。",
+      "pinyin": "dào fù zhěn shí dài shàng jì lù ， yī shēng jiù néng gèng qīng chǔ dì liǎo jiě jiā lǐ de zhí xíng qíng kuàng 。",
+      "tr": "Kontrole kayıtları getirirsek doktor evdeki uygulamanın nasıl gittiğini daha iyi anlayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_076",
+      "speaker": "奶奶",
+      "zh": "我会把清单放在日历旁边，每天看一眼就知道安排。",
+      "pinyin": "wǒ huì bǎ qīng dān fàng zài rì lì páng biān ， měi tiān kàn yī yǎn jiù zhī dào ān pái 。",
+      "tr": "Listeyi takvimin yanına koyarım; her gün bakınca planı görürüm."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_077",
+      "speaker": "爷爷",
+      "zh": "如果某天计划不合适，我们可以说明原因，再一起调整。",
+      "pinyin": "rú guǒ mǒu tiān jì huà bù hé shì ， wǒ men kě yǐ shuō míng yuán yīn ， zài yì qǐ tiáo zhěng 。",
+      "tr": "Bir gün plan uygun olmazsa nedenini anlatıp birlikte değiştirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_078",
+      "speaker": "医生",
+      "zh": "对，出现疑问就记录下来，之后和负责的医疗人员确认。",
+      "pinyin": "duì ， chū xiàn yí wèn jiù jì lù xià lái ， zhī hòu hé fù zé de yī liáo rén yuán què rèn 。",
+      "tr": "Evet, bir sorunuz olursa not edip daha sonra sorumlu sağlık çalışanıyla doğrulayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_079",
+      "speaker": "张伟",
+      "zh": "我会把联系方式和复查信息也放进同一份清单。",
+      "pinyin": "wǒ huì bǎ lián xì fāng shì hé fù chá xìn xī yě fàng jìn tóng yī fèn qīng dān 。",
+      "tr": "İletişim bilgilerini ve kontrol tarihini de aynı listeye ekleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_080",
+      "speaker": "奶奶",
+      "zh": "这样每个人都知道该做什么，也知道遇到问题该找谁。",
+      "pinyin": "zhè yàng měi gè rén dōu zhī dào gāi zuò shén me ， yě zhī dào yù dào wèn tí gāi zhǎo shuí 。",
+      "tr": "Böylece herkes ne yapacağını ve sorun olduğunda kime başvuracağını bilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_081",
+      "speaker": "爷爷",
+      "zh": "你们把安排说得这么清楚，我就知道回家后可以怎么配合。",
+      "pinyin": "nǐ men bǎ ān pái shuō dé zhè me qīng chǔ ， wǒ jiù zhī dào huí jiā hòu kě yǐ zěn me pèi hé 。",
+      "tr": "Düzeni bu kadar açık anlattığınız için eve döndükten sonra nasıl uyum sağlayacağımı biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_082",
+      "speaker": "医生",
+      "zh": "出院前我们会和你们逐项核对，医疗方面的问题也可以直接问团队。",
+      "pinyin": "chū yuàn qián wǒ men huì hé nǐ men zhú xiàng hé duì ， yī liáo fāng miàn de wèn tí yě kě yǐ zhí jiē wèn tuán duì 。",
+      "tr": "Taburcu olmadan önce her maddeyi birlikte kontrol edeceğiz; sağlıkla ilgili sorularınızı ekibe doğrudan sorabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_083",
+      "speaker": "张伟",
+      "zh": "我把要确认的事项按顺序写好了，明天开会时带来。",
+      "pinyin": "wǒ bǎ yào què rèn de shì xiàng àn shùn xù xiě hǎo le ， míng tiān kāi huì shí dài lái 。",
+      "tr": "Doğrulanacak konuları sırayla yazdım; yarınki toplantıya getireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_084",
+      "speaker": "奶奶",
+      "zh": "我也把家里的时间表写出来，看看哪些时段还缺人帮忙。",
+      "pinyin": "wǒ yě bǎ jiā lǐ de shí jiān biǎo xiě chū lái ， kàn kàn nǎ xiē shí duàn hái quē rén bāng máng 。",
+      "tr": "Evdeki zaman çizelgesini de yazacağım; hangi zamanlarda yardıma ihtiyaç olduğunu görelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_085",
+      "speaker": "爷爷",
+      "zh": "我会认真看说明，有不明白的地方就当场问，不再自己猜。",
+      "pinyin": "wǒ huì rèn zhēn kàn shuō míng ， yǒu bù míng bái de dì fāng jiù dāng chǎng wèn ， bù zài zì jǐ cāi 。",
+      "tr": "Açıklamaları dikkatle okuyacağım; anlamadığım yeri kendim tahmin etmek yerine o anda soracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_086",
+      "speaker": "医生",
+      "zh": "很好。你们不必一次解决所有安排，先确认出院当天和后续联系办法。",
+      "pinyin": "hěn hǎo 。 nǐ men bù bì yī cì jiě jué suǒ yǒu ān pái ， xiān què rèn chū yuàn dàng tiān hé hòu xù lián xì bàn fǎ 。",
+      "tr": "Güzel. Bütün düzenlemeleri bir kerede çözmeniz gerekmiyor; önce taburculuk gününü ve sonrasında nasıl iletişim kuracağınızı netleştirin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_087",
+      "speaker": "张伟",
+      "zh": "出院当天我来接爷爷，也负责把文件带回家。",
+      "pinyin": "chū yuàn dàng tiān wǒ lái jiē yé yé ， yě fù zé bǎ wén jiàn dài huí jiā 。",
+      "tr": "Taburcu olduğu gün büyükbabamı ben alırım ve belgeleri eve götürürüm."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_088",
+      "speaker": "奶奶",
+      "zh": "我在家准备好日常用品，等你们回来后再按清单摆放。",
+      "pinyin": "wǒ zài jiā zhǔn bèi hǎo rì cháng yòng pǐn ， děng nǐ men huí lái hòu zài àn qīng dān bǎi fàng 。",
+      "tr": "Evde günlük ihtiyaçları hazırlarım; siz dönünce listeye göre yerleştiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_089",
+      "speaker": "爷爷",
+      "zh": "我希望回家以后先休息一下，再慢慢熟悉新的安排。",
+      "pinyin": "wǒ xī wàng huí jiā yǐ hòu xiān xiū xī yī xià ， zài màn màn shú xī xīn de ān pái 。",
+      "tr": "Eve döndükten sonra yeni düzene yavaş yavaş alışmadan önce biraz dinlenmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_090",
+      "speaker": "医生",
+      "zh": "这个想法可以告诉照护团队，他们会和你们确认当天的具体流程。",
+      "pinyin": "zhè ge xiǎng fǎ kě yǐ gào sù zhào hù tuán duì ， tā men huì hé nǐ men què rèn dàng tiān de jù tǐ liú chéng 。",
+      "tr": "Bu isteğinizi bakım ekibine iletin; o günün adımlarını sizinle netleştirirler."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_091",
+      "speaker": "张伟",
+      "zh": "后续联系人、复查日期和需要准备的材料，我都会放在清单最前面。",
+      "pinyin": "hòu xù lián xì rén 、 fù chá rì qī hé xū yào zhǔn bèi de cái liào ， wǒ dū huì fàng zài qīng dān zuì qián miàn 。",
+      "tr": "Sonraki iletişim kişisini, kontrol tarihini ve hazırlanacak belgeleri listenin başına yazacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_092",
+      "speaker": "奶奶",
+      "zh": "如果临时安排有变化，我会在群里告诉大家，不让消息漏掉。",
+      "pinyin": "rú guǒ lín shí ān pái yǒu biàn huà ， wǒ huì zài qún lǐ gào sù dà jiā ， bù ràng xiāo xī lòu diào 。",
+      "tr": "Düzen aniden değişirse kimse kaçırmasın diye grupta herkese haber veririm."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_093",
+      "speaker": "爷爷",
+      "zh": "我也会把自己的想法说出来，不让你们只凭担心替我决定。",
+      "pinyin": "wǒ yě huì bǎ zì jǐ de xiǎng fǎ shuō chū lái ， bù ràng nǐ men zhǐ píng dān xīn tì wǒ jué dìng 。",
+      "tr": "Siz yalnızca kaygılarınızla benim yerime karar vermeyin diye kendi düşüncelerimi de açıkça söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_094",
+      "speaker": "医生",
+      "zh": "很好，照护计划需要大家沟通，也要尊重本人的意愿。",
+      "pinyin": "hěn hǎo ， zhào hù jì huà xū yào dà jiā gōu tōng ， yě yào zūn zhòng běn rén de yì yuàn 。",
+      "tr": "Güzel; bakım planı herkesin iletişimini gerektirir ve kişinin isteğine de saygı duymalıdır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_095",
+      "speaker": "张伟",
+      "zh": "我们今晚再检查一次清单，明天把还没确定的问题带来。",
+      "pinyin": "wǒ men jīn wǎn zài jiǎn chá yī cì qīng dān ， míng tiān bǎ hái méi què dìng de wèn tí dài lái 。",
+      "tr": "Bu akşam listeyi yeniden kontrol eder, henüz netleşmeyen soruları yarın getiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_096",
+      "speaker": "奶奶",
+      "zh": "我现在没那么慌了，因为知道不是所有事情都得我一个人处理。",
+      "pinyin": "wǒ xiàn zài méi nà me huāng le ， yīn wèi zhī dào bú shì suǒ yǒu shì qíng dōu dé wǒ yí gè rén chǔ lǐ 。",
+      "tr": "Artık o kadar telaşlı değilim; her şeyi tek başıma çözmem gerekmediğini biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_097",
+      "speaker": "爷爷",
+      "zh": "谢谢你们愿意听我怎么想，回家以后我也会配合记录。",
+      "pinyin": "xiè xiè nǐ men yuàn yì tīng wǒ zěn me xiǎng ， huí jiā yǐ hòu wǒ yě huì pèi hé jì lù 。",
+      "tr": "Ne düşündüğümü dinlediğiniz için teşekkür ederim; eve dönünce kayıt tutmaya da yardımcı olacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_098",
+      "speaker": "医生",
+      "zh": "明天我们把具体安排确认好，医疗问题由负责的团队继续跟进。",
+      "pinyin": "míng tiān wǒ men bǎ jù tǐ ān pái què rèn hǎo ， yī liáo wèn tí yóu fù zé de tuán duì jì xù gēn jìn 。",
+      "tr": "Yarın somut düzenlemeleri netleştireceğiz; sağlık konularını sorumlu ekip takip etmeye devam edecek."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_099",
+      "speaker": "张伟",
+      "zh": "好，我会把家里的日程和联系人一起带来，方便逐项确认。",
+      "pinyin": "hǎo ， wǒ huì bǎ jiā lǐ de rì chéng hé lián xì rén yì qǐ dài lái ， fāng biàn zhú xiàng què rèn 。",
+      "tr": "Peki, tek tek doğrulayabilmemiz için evdeki programı ve iletişim kişilerini getireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC041_100",
+      "speaker": "奶奶",
+      "zh": "这样就好。我们一步一步准备，等安排清楚了再安心回家。",
+      "pinyin": "zhè yàng jiù hǎo 。 wǒ men yí bù yí bù zhǔn bèi ， děng ān pái qīng chǔ le zài ān xīn huí jiā 。",
+      "tr": "Bu iyi. Adım adım hazırlanalım; düzen netleşince içimiz rahat biçimde eve döneriz."
+    }
+  ]
+}

@@ -21,6 +21,10 @@ class ProgressStore(context: Context) {
         const val THEME_PURPLE = 0
         const val THEME_DARK = 1
         const val THEME_LIGHT = 2
+        const val THEME_BLUE = 3
+        const val THEME_GREEN = 4
+        const val THEME_ORANGE = 5
+        const val THEME_PINK = 6
     }
 
     fun isOnboardingComplete(): Boolean = prefs.getBoolean("onboarding_complete", false)
@@ -136,8 +140,11 @@ class ProgressStore(context: Context) {
     fun dailyReviewTarget(): Int = prefs.getInt("setting_daily_review_target", 12).coerceIn(5, 40)
     fun saveDailyReviewTarget(value: Int) = prefs.edit().putInt("setting_daily_review_target", value.coerceIn(5, 40)).apply()
 
-    fun themeMode(): Int = prefs.getInt("setting_theme", THEME_PURPLE).coerceIn(THEME_PURPLE, THEME_LIGHT)
-    fun saveThemeMode(mode: Int) = prefs.edit().putInt("setting_theme", mode.coerceIn(THEME_PURPLE, THEME_LIGHT)).apply()
+    fun themeMode(): Int = prefs.getInt("setting_theme", THEME_PURPLE).coerceIn(THEME_PURPLE, THEME_PINK)
+    fun saveThemeMode(mode: Int) = prefs.edit().putInt("setting_theme", mode.coerceIn(THEME_PURPLE, THEME_PINK)).apply()
+
+    fun userName(): String = prefs.getString("setting_user_name", "").orEmpty()
+    fun saveUserName(value: String) = prefs.edit().putString("setting_user_name", value.trim().take(40)).apply()
 
     fun isSceneMastered(sceneId: String): Boolean = prefs.getBoolean("mastered_$sceneId", false)
 

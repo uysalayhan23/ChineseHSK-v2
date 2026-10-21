@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC025.json",
-  "dialogueSha256": "ad683a4b1f85a82ad8f74c56e2660f97594dcc251933fa47a2f1ece78fa73b5f",
+  "dialogueSha256": "b1dea3b7854e1e527b7937dcd47b02d73fe836c72f78e3ed6799c2a465dda630",
   "titleZh": "医生不太满意",
   "titleTr": "Doktor Yaşam Tarzını Eleştiriyor",
   "locationId": "LOC_ZH_CLINIC_001",

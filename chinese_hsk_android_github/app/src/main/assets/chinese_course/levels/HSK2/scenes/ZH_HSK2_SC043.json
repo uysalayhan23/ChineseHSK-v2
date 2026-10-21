@@ -11,702 +11,702 @@
     {
       "id": "DLG_ZH_HSK2_SC043_001",
       "speaker": "张伟",
-      "zh": "爷爷从农场寄来一箱蔬菜。",
-      "pinyin": "Yéyé cóng nóngchǎng jì lái yīxiāng shūcài.",
-      "tr": "Büyükbaba çiftlikten bir kutu sebze gönderdi."
+      "zh": "爷爷从农场寄来一箱蔬菜，我们一起看看里面有什么。",
+      "pinyin": "yé yé cóng nóng chǎng jì lái yī xiāng shū cài ， wǒ men yì qǐ kàn kàn lǐ miàn yǒu shén me 。",
+      "tr": "Büyükbaba çiftlikten bir kutu sebze gönderdi; içindekilere birlikte bakalım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_002",
       "speaker": "刘梅",
-      "zh": "今天有不少事情要做。",
-      "pinyin": "Jīntiān yǒu bùshǎo shìqíng yào zuò.",
-      "tr": "Bugün yapılacak epey iş var."
+      "zh": "看起来有很多菜，先把箱子放到厨房吧。",
+      "pinyin": "kàn qǐ lái yǒu hěn duō cài ， xiān bǎ xiāng zi fàng dào chú fáng ba 。",
+      "tr": "Epey sebze var gibi, önce kutuyu mutfağa koyalım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_003",
       "speaker": "张乐乐",
-      "zh": "我们先从最重要的开始。",
-      "pinyin": "Wǒmen xiān cóng zuì zhòngyào de kāishǐ.",
-      "tr": "Önce en önemli olana bakalım."
+      "zh": "我来帮忙打开。我想看看爷爷种了什么。",
+      "pinyin": "wǒ lái bāng máng dǎ kāi 。 wǒ xiǎng kàn kàn yé yé zhǒng le shén me 。",
+      "tr": "Açmaya yardım edeyim. Büyükbabanın ne yetiştirdiğini merak ediyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_004",
       "speaker": "爷爷",
-      "zh": "行，一步一步来。",
-      "pinyin": "Xíng, yībù yībù lái.",
-      "tr": "Tamam, sakin sakin ilerleyelim."
+      "zh": "慢一点，先把刀放下，用手打开纸箱更安全。",
+      "pinyin": "màn yì diǎn ， xiān bǎ dāo fàng xià ， yòng shǒu dǎ kāi zhǐ xiāng gèng ān quán 。",
+      "tr": "Yavaş ol; bıçağı bırakıp kutuyu elinle açman daha güvenli."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_005",
       "speaker": "张伟",
-      "zh": "就在这里。",
-      "pinyin": "Jiù zài zhèlǐ.",
-      "tr": "Bu sebze burada."
+      "zh": "知道了。哇，有西红柿、青菜和胡萝卜！",
+      "pinyin": "zhī dào le 。 wa ， yǒu xī hóng shì 、 qīng cài hé hú luó bo ！",
+      "tr": "Tamam. Vay, domates, yeşillik ve havuç var!"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_006",
       "speaker": "刘梅",
-      "zh": "明白了。",
-      "pinyin": "Míngbái le.",
-      "tr": "Anladım."
+      "zh": "这些都是今天早上刚摘的，所以特别新鲜。",
+      "pinyin": "zhè xiē dōu shì jīn tiān zǎo shàng gāng zhāi de ， suǒ yǐ tè bié xīn xiān 。",
+      "tr": "Bu sabah toplandılar, o yüzden çok tazeler."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_007",
       "speaker": "张乐乐",
-      "zh": "这样我就懂了。",
-      "pinyin": "Zhèyàng wǒ jiù dǒng le.",
-      "tr": "Demek böyleymiş."
+      "zh": "爷爷，你在农场种这么多蔬菜吗？",
+      "pinyin": "yé yé ， nǐ zài nóng chǎng zhǒng zhè me duō shū cài ma ？",
+      "tr": "Dede, çiftlikte bu kadar çok sebze mi yetiştiriyorsun?"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_008",
       "speaker": "爷爷",
-      "zh": "这些菜特别新鲜。",
-      "pinyin": "Zhèxiē cài tèbié xīnxiān.",
-      "tr": "Bu sebzeler çok taze."
+      "zh": "是啊，春天种下种子，过一段时间就能收菜。",
+      "pinyin": "shì a ， chūn tiān zhòng xià zhǒng zi ， guò yī duàn shí jiān jiù néng shōu cài 。",
+      "tr": "Evet, ilkbaharda tohumları ekeriz, bir süre sonra sebzeler büyür."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_009",
       "speaker": "张伟",
-      "zh": "嗯，这个我记住了。",
-      "pinyin": "En, zhège wǒ jìzhù le.",
-      "tr": "Bunu aklımda tutacağım."
+      "zh": "那箱子里还有一些绿叶菜，我先拿出来。",
+      "pinyin": "nà xiāng zi lǐ hái yǒu yī xiē lǜ yè cài ， wǒ xiān ná chū lái 。",
+      "tr": "Kutuda biraz yeşil yapraklı sebze daha var; çıkarayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_010",
       "speaker": "刘梅",
-      "zh": "这样就清楚了。",
-      "pinyin": "Zhèyàng jiù qīngchǔ le.",
-      "tr": "Oldukça net görünüyor."
+      "zh": "小心一点，叶子很嫩，别压坏了。",
+      "pinyin": "xiǎo xīn yì diǎn ， yè zi hěn nèn ， bié yā huài le 。",
+      "tr": "Dikkat et, yapraklar narin; ezilmesinler."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_011",
       "speaker": "张乐乐",
-      "zh": "我们先种。",
-      "pinyin": "Wǒmen xiānzhǒng.",
-      "tr": "Önce yetiştirmek."
+      "zh": "我把蔬菜放在桌上，大家一起分一分。",
+      "pinyin": "wǒ bǎ shū cài fàng zài zhuō shàng ， dà jiā yì qǐ fēn yī fēn 。",
+      "tr": "Sebzeleri masaya koyup birlikte ayıralım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_012",
       "speaker": "爷爷",
-      "zh": "好，那就这么办。",
-      "pinyin": "Hǎo, nà jiù zhème bàn.",
-      "tr": "Tamam, o zaman buna göre ilerleyelim."
+      "zh": "好，我们看看哪些要先洗，哪些可以晚点再处理。",
+      "pinyin": "hǎo ， wǒ men kàn kàn nǎ xiē yào xiān xǐ ， nǎ xiē kě yǐ wǎn diǎn zài chǔ lǐ 。",
+      "tr": "Olur, hangilerini önce yıkamamız gerektiğine bakalım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_013",
       "speaker": "张伟",
-      "zh": "我觉得可以。",
-      "pinyin": "Wǒ juéde kěyǐ.",
-      "tr": "Bence olur."
+      "zh": "西红柿摸起来软一点，是不是要先吃？",
+      "pinyin": "xī hóng shì mō qǐ lái ruǎn yì diǎn ， shì bú shì yào xiān chī ？",
+      "tr": "Domatesler biraz yumuşak; önce onları mı tüketelim?"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_014",
       "speaker": "刘梅",
-      "zh": "这个箱子在这里。",
-      "pinyin": "Zhège xiāngzi zài zhèlǐ.",
-      "tr": "Bu kutu burada."
+      "zh": "对，先把它们放在一边，今天做汤用。",
+      "pinyin": "duì ， xiān bǎ tā men fàng zài yī biān ， jīn tiān zuò tāng yòng 。",
+      "tr": "Evet, kenara ayır; bugün çorbada kullanırız."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_015",
       "speaker": "张乐乐",
-      "zh": "对，这个很重要。",
-      "pinyin": "Duì, zhège hěn zhòngyào.",
-      "tr": "Evet, bu önemli."
+      "zh": "胡萝卜看起来很新鲜，可以多放几天。",
+      "pinyin": "hú luó bo kàn qǐ lái hěn xīn xiān ， kě yǐ duō fàng jǐ tiān 。",
+      "tr": "Havuçlar taze görünüyor, birkaç gün saklanabilir."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_016",
       "speaker": "爷爷",
-      "zh": "我们别忘了。",
-      "pinyin": "Wǒmen biéwàngle.",
-      "tr": "Bunu unutmayalım."
+      "zh": "我来数一数，箱子里一共有多少根胡萝卜。",
+      "pinyin": "wǒ lái shù yī shù ， xiāng zi lǐ yī gòng yǒu duō shǎo gēn hú luó bo 。",
+      "tr": "Kutuda kaç havuç olduğunu sayayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_017",
       "speaker": "张伟",
-      "zh": "这么多，而且特别新鲜。",
-      "pinyin": "Zhème duō, érqiě tèbié xīnxiān.",
-      "tr": "Bu kadar çok ve üstelik çok taze."
+      "zh": "不用数得太仔细，留几根给明天就好。",
+      "pinyin": "bù yòng shù dé tài zǐ xì ， liú jǐ gēn gěi míng tiān jiù hǎo 。",
+      "tr": "Tek tek saymana gerek yok; yarına birkaç tane ayıralım yeter."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_018",
       "speaker": "刘梅",
-      "zh": "那现在怎么办？",
-      "pinyin": "Nà xiànzài zěnmebàn?",
-      "tr": "Peki şimdi ne yapacağız?"
+      "zh": "爷爷，这些蔬菜都是你自己种的吗？",
+      "pinyin": "yé yé ， zhè xiē shū cài dōu shì nǐ zì jǐ zhǒng de ma ？",
+      "tr": "Dede, sebzelerin hepsini sen mi yetiştirdin?"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_019",
       "speaker": "张乐乐",
-      "zh": "我们慢慢想，一定有办法。",
-      "pinyin": "Wǒmen mànmàn xiǎng, yídìng yǒu bànfǎ.",
-      "tr": "Sakin sakin düşünelim, mutlaka bir yol buluruz."
+      "zh": "大部分是我种的，青菜是邻居送来的。",
+      "pinyin": "dà bù fèn shì wǒ zhǒng de ， qīng cài shì lín jū sòng lái de 。",
+      "tr": "Çoğunu ben yetiştirdim, yeşillikleri komşu verdi."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_020",
       "speaker": "爷爷",
-      "zh": "要不先做最简单的？",
-      "pinyin": "Yào bù xiān zuò zuì jiǎndān de?",
-      "tr": "Önce en kolay olanı yapsak?"
+      "zh": "这么多菜，我们今天能做几道菜呢？",
+      "pinyin": "zhè me duō cài ， wǒ men jīn tiān néng zuò jǐ dào cài ne ？",
+      "tr": "Bu kadar sebzeyle bugün kaç çeşit yemek yapabiliriz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_021",
       "speaker": "张伟",
-      "zh": "这样比较快。",
-      "pinyin": "Zhèyàng bǐjiào kuài.",
-      "tr": "Böyle daha hızlı olur."
+      "zh": "我们先做两道菜，剩下的放进冰箱。",
+      "pinyin": "wǒ men xiān zuò liǎng dào cài ， shèng xià de fàng jìn bīng xiāng 。",
+      "tr": "İki yemek yapalım, kalanları buzdolabına kaldıralım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_022",
       "speaker": "刘梅",
-      "zh": "怎么会有这么多？",
-      "pinyin": "Zěnme huì yǒu zhème duō?",
-      "tr": "Nasıl bu kadar çok olabilir?"
+      "zh": "西红柿能做汤，青菜可以炒一下。",
+      "pinyin": "xī hóng shì néng zuò tāng ， qīng cài kě yǐ chǎo yī xià 。",
+      "tr": "Domatesle çorba yapabiliriz, yeşillikleri de soteleyelim."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_023",
       "speaker": "张乐乐",
-      "zh": "对，这个也要注意。",
-      "pinyin": "Duì, zhège yě yào zhùyì.",
-      "tr": "Evet, buna da dikkat etmek gerekiyor."
+      "zh": "我想吃胡萝卜，可以切成小块吗？",
+      "pinyin": "wǒ xiǎng chī hú luó bo ， kě yǐ qiè chéng xiǎo kuài ma ？",
+      "tr": "Havuç yemek istiyorum; küçük parçalara kesebilir miyim?"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_024",
       "speaker": "爷爷",
-      "zh": "别忘了，把这个记一下。",
-      "pinyin": "Biéwàngle, bǎ zhège jì yīxià.",
-      "tr": "Unutmayalım, bunu not edelim."
+      "zh": "可以，我们把一部分切好，和其他菜一起煮。",
+      "pinyin": "kě yǐ ， wǒ men bǎ yī bù fèn qiè hǎo ， hé qí tā cài yì qǐ zhǔ 。",
+      "tr": "Olur, birazını diğer sebzelerle birlikte pişiririz."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_025",
       "speaker": "张伟",
-      "zh": "农场离这里不远。",
-      "pinyin": "Nóngchǎng lí zhèlǐ bùyuǎn.",
-      "tr": "Çiftlik buradan uzak değil."
+      "zh": "我来洗菜，你们先把锅和盘子拿出来。",
+      "pinyin": "wǒ lái xǐ cài ， nǐ men xiān bǎ guō hé pán zi ná chū lái 。",
+      "tr": "Ben sebzeleri yıkayayım, siz de tencereyle tabakları çıkarın."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_026",
       "speaker": "刘梅",
-      "zh": "这个办法不错。",
-      "pinyin": "Zhège bànfǎ bùcuò.",
-      "tr": "Bu yöntem fena değil."
+      "zh": "好，我把锅放在炉子上，等会儿就能开始做。",
+      "pinyin": "hǎo ， wǒ bǎ guō fàng zài lú zi shàng ， děng huì er jiù néng kāi shǐ zuò 。",
+      "tr": "Tamam, tencereyi ocağa koyayım; birazdan pişirmeye başlayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_027",
       "speaker": "张乐乐",
-      "zh": "我们可以试试。",
-      "pinyin": "Wǒmen kěyǐ shìshì.",
-      "tr": "Deneyebiliriz."
+      "zh": "爷爷寄来的菜有泥土，我们得洗两遍吗？",
+      "pinyin": "yé yé jì lái de cài yǒu ní tǔ ， wǒ men dé xǐ liǎng biàn ma ？",
+      "tr": "Dedenin gönderdiği sebzelerin üstü topraklı; iki kez mi yıkamalıyız?"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_028",
       "speaker": "爷爷",
-      "zh": "爷爷奶奶今天也来了。",
-      "pinyin": "Yéyénǎinǎi jīntiān yě lái le.",
-      "tr": "Büyükanne ve büyükbaba bugün de geldi."
+      "zh": "先用清水洗干净，再检查一下叶子里面。",
+      "pinyin": "xiān yòng qīng shuǐ xǐ gān jìng ， zài jiǎn chá yī xià yè zi lǐ miàn 。",
+      "tr": "Önce temiz suyla yıka, sonra yaprakların arasına da bak."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_029",
       "speaker": "张伟",
-      "zh": "我以前没注意到。",
-      "pinyin": "Wǒ yǐqián méi zhùyì dào.",
-      "tr": "Daha önce dikkat etmemiştim."
+      "zh": "叶子上有一只小虫子，我把它放到外面去。",
+      "pinyin": "yè zi shàng yǒu yī zhī xiǎo chóng zi ， wǒ bǎ tā fàng dào wài miàn qù 。",
+      "tr": "Yaprakta küçük bir böcek var; dışarı bırakıvereyim."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_030",
       "speaker": "刘梅",
-      "zh": "现在知道了。",
-      "pinyin": "Xiànzài zhīdào le.",
-      "tr": "Şimdi öğrendim."
+      "zh": "做得好。农场的菜自然长大，偶尔会有小虫。",
+      "pinyin": "zuò dé hǎo 。 nóng chǎng de cài zì rán zhǎng dà ， ǒu ěr huì yǒu xiǎo chóng 。",
+      "tr": "Aferin. Çiftlikte sebzeler doğal yetişir, arada böcek çıkabilir."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_031",
       "speaker": "张乐乐",
-      "zh": "你看，这个食物在这儿。",
-      "pinyin": "Nǐ kàn, zhège shíwù zài zhèér.",
-      "tr": "Bu yiyecek burada."
+      "zh": "爷爷，你种菜时每天都要去农场吗？",
+      "pinyin": "yé yé ， nǐ zhòng cài shí měi tiān dōu yào qù nóng chǎng ma ？",
+      "tr": "Dede, sebze yetiştirmek için her gün çiftliğe gidiyor musun?"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_032",
       "speaker": "爷爷",
-      "zh": "说得对。",
-      "pinyin": "Shuōdéduì.",
-      "tr": "Doğru söylüyorsun."
+      "zh": "差不多每天都去，浇水、看看菜长得怎么样。",
+      "pinyin": "chà bu duō měi tiān dōu qù ， jiāo shuǐ 、 kàn kàn cài zhǎng dé zěn me yàng 。",
+      "tr": "Hemen her gün gidip sebzeleri sular, nasıl büyüdüklerine bakarım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_033",
       "speaker": "张伟",
-      "zh": "这样更方便。",
-      "pinyin": "Zhèyàng gèng fāngbiàn.",
-      "tr": "Böyle daha kullanışlı."
+      "zh": "那你一定很喜欢农场的生活。",
+      "pinyin": "nà nǐ yí dìng hěn xǐ huān nóng chǎng de shēng huó 。",
+      "tr": "Çiftlikte yaşamayı sevdiğin belli oluyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_034",
       "speaker": "刘梅",
-      "zh": "先快一点做，等会儿再检查。",
-      "pinyin": "Xiānkuài yìdiǎn zuò, děnghuìer zài jiǎnchá.",
-      "tr": "Önce biraz hızlı yapalım, sonra yeniden kontrol ederiz."
+      "zh": "是啊，看着种子慢慢长大，我很开心。",
+      "pinyin": "shì a ， kàn zhe zhǒng zi màn màn zhǎng dà ， wǒ hěn kāi xīn 。",
+      "tr": "Evet, tohumların yavaş yavaş büyümesini izlemek beni mutlu ediyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_035",
       "speaker": "张乐乐",
-      "zh": "好，先这个，后面再做下一个。",
-      "pinyin": "Hǎo, xiān zhège, hòumiàn zài zuò xià yígè.",
-      "tr": "Tamam, önce bu; sonra diğerini yaparız."
+      "zh": "我也想种一点东西，阳台上可以种菜吗？",
+      "pinyin": "wǒ yě xiǎng zhǒng yì diǎn dōng xī ， yáng tái shàng kě yǐ zhòng cài ma ？",
+      "tr": "Ben de bir şeyler yetiştirmek istiyorum; balkonda sebze olur mu?"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_036",
       "speaker": "爷爷",
-      "zh": "换成这个办法会更容易。",
-      "pinyin": "Huànchéng zhège bànfǎ huì gèng róngyì.",
-      "tr": "Bu yönteme geçmek daha kolay olur."
+      "zh": "可以种香菜和葱，花盆不需要太大。",
+      "pinyin": "kě yǐ zhǒng xiāng cài hé cōng ， huā pén bù xū yào tài dà 。",
+      "tr": "Kişnişle taze soğan yetiştirebilirsin; çok büyük saksı gerekmez."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_037",
       "speaker": "张伟",
-      "zh": "这个办法我刚刚试过。",
-      "pinyin": "Zhège bànfǎ wǒ gānggāng shì guò.",
-      "tr": "Bu yöntemi az önce denedim."
+      "zh": "太好了，我想和妈妈一起种。",
+      "pinyin": "tài hǎo le ， wǒ xiǎng hé mā mā yì qǐ zhǒng 。",
+      "tr": "Harika, annemle birlikte yetiştirmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_038",
       "speaker": "刘梅",
-      "zh": "那我们换个办法吧。",
-      "pinyin": "Nà wǒmen huàngè bànfǎ ba.",
-      "tr": "O zaman başka bir yöntem deneyelim."
+      "zh": "我们周末去买种子和土，再把花盆准备好。",
+      "pinyin": "wǒ men zhōu mò qù mǎi zhǒng zi hé tǔ ， zài bǎ huā pén zhǔn bèi hǎo 。",
+      "tr": "Hafta sonu tohumla toprak alıp saksıları hazırlarız."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_039",
       "speaker": "张乐乐",
-      "zh": "可以，你先来。",
-      "pinyin": "Kěyǐ, nǐ xiānlái.",
-      "tr": "Olur, önce sen yap."
+      "zh": "爷爷，你能教我怎么种吗？",
+      "pinyin": "yé yé ， nǐ néng jiào wǒ zěn me zhǒng ma ？",
+      "tr": "Dede, bana sebze yetiştirmeyi öğretir misin?"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_040",
       "speaker": "爷爷",
-      "zh": "做完以后告诉我。",
-      "pinyin": "Zuò wán yǐhòu gàosù wǒ.",
-      "tr": "Bitirince bana söyle."
+      "zh": "当然，我会告诉你什么时候浇水、怎么照顾它们。",
+      "pinyin": "dāng rán ， wǒ huì gào sù nǐ shén me shí hòu jiāo shuǐ 、 zěn me zhào gù tā men 。",
+      "tr": "Elbette. Ne zaman sulayacağını ve onlara nasıl bakacağını öğretirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_041",
       "speaker": "张伟",
-      "zh": "没问题，我记得。",
-      "pinyin": "Méi wèntí, wǒ jìde.",
-      "tr": "Sorun yok, hatırlıyorum."
+      "zh": "爷爷教我种菜，我以后也能吃自己种的蔬菜。",
+      "pinyin": "yé yé jiào wǒ zhòng cài ， wǒ yǐ hòu yě néng chī zì jǐ zhǒng de shū cài 。",
+      "tr": "Dede bana sebze yetiştirmeyi öğretirse, ileride kendi sebzelerimi de yerim."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_042",
       "speaker": "刘梅",
-      "zh": "现在好多了。",
-      "pinyin": "Xiànzài hǎoduō le.",
-      "tr": "Şimdi çok daha iyi."
+      "zh": "对，自己种的菜新鲜又好吃。",
+      "pinyin": "duì ， zì jǐ zhǒng de cài xīn xiān yòu hǎo chī 。",
+      "tr": "Evet, kendi yetiştirdiğin sebzeler hem taze hem lezzetli olur."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_043",
       "speaker": "张乐乐",
-      "zh": "还差一点。",
-      "pinyin": "Hái chàyìdiǎn.",
-      "tr": "Biraz daha eksik var."
+      "zh": "我们先把今天要做的菜端上桌吧。",
+      "pinyin": "wǒ men xiān bǎ jīn tiān yào zuò de cài duān shàng zhuō ba 。",
+      "tr": "Bugün yapacağımız yemekleri sofraya koyalım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_044",
       "speaker": "爷爷",
-      "zh": "我来帮你吧。",
-      "pinyin": "Wǒlái bāng nǐ ba.",
-      "tr": "Sana yardım edeyim."
+      "zh": "好，我把洗好的青菜放在盘子里。",
+      "pinyin": "hǎo ， wǒ bǎ xǐ hǎo de qīng cài fàng zài pán zi lǐ 。",
+      "tr": "Tamam, yıkanmış yeşillikleri tabağa koyuyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_045",
       "speaker": "张伟",
-      "zh": "谢谢，这样快多了。",
-      "pinyin": "Xièxiè, zhèyàng kuài duō le.",
-      "tr": "Teşekkürler, böyle çok daha hızlı."
+      "zh": "汤已经煮好了，我再加一点胡萝卜。",
+      "pinyin": "tāng yǐ jīng zhǔ hǎo le ， wǒ zài jiā yì diǎn hú luó bo 。",
+      "tr": "Çorba hazır; biraz daha havuç ekleyeyim."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_046",
       "speaker": "刘梅",
-      "zh": "我们再检查一次。",
-      "pinyin": "Wǒmen zài jiǎnchá yīcì.",
-      "tr": "Bir kez daha kontrol edelim."
+      "zh": "闻起来真香。爷爷，你觉得味道怎么样？",
+      "pinyin": "wén qǐ lái zhēn xiāng 。 yé yé ， nǐ jué de wèi dào zěn me yàng ？",
+      "tr": "Mis gibi kokuyor. Dede, tadı nasıl olmuş?"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_047",
       "speaker": "张乐乐",
-      "zh": "这次没有问题了。",
-      "pinyin": "Zhècì méiyǒu wèntí le.",
-      "tr": "Bu kez sorun kalmadı."
+      "zh": "不错，青菜很新鲜，汤也很清甜。",
+      "pinyin": "bù cuò ， qīng cài hěn xīn xiān ， tāng yě hěn qīng tián 。",
+      "tr": "Güzel; yeşillikler taze, çorbanın tadı da hafif tatlı."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_048",
       "speaker": "爷爷",
-      "zh": "终于好了，我放心了。",
-      "pinyin": "Zhōngyú hǎo le, wǒ fàngxīn le.",
-      "tr": "Sonunda düzeldi, içim rahatladı."
+      "zh": "我喜欢吃这种胡萝卜，比商店买的甜。",
+      "pinyin": "wǒ xǐ huān chī zhè zhǒng hú luó bo ， bǐ shāng diàn mǎi de tián 。",
+      "tr": "Bu havuçları seviyorum, marketten aldıklarımızdan daha tatlı."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_049",
       "speaker": "张伟",
-      "zh": "今天又知道了一个新办法。",
-      "pinyin": "Jīntiān yòu zhīdào le yígè xīn bànfǎ.",
-      "tr": "Bugün yeni bir yöntem daha öğrendik."
+      "zh": "农场的土好，蔬菜长得自然，味道也不一样。",
+      "pinyin": "nóng chǎng de tǔ hǎo ， shū cài zhǎng dé zì rán ， wèi dào yě bù yí yàng 。",
+      "tr": "Çiftliğin toprağı iyi; sebzeler doğal yetişiyor ve tadı farklı oluyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_050",
       "speaker": "刘梅",
-      "zh": "下次再遇到就容易多了。",
-      "pinyin": "Xiàcì zài yùdào jiù róngyì duō le.",
-      "tr": "Bir daha olursa çok daha kolay olur."
+      "zh": "你寄这么多菜来，自己那边还够吃吗？",
+      "pinyin": "nǐ jì zhè me duō cài lái ， zì jǐ nà biān hái gòu chī ma ？",
+      "tr": "Bu kadar sebze gönderdin; sizin evde yemeye yeter mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_051",
       "speaker": "张乐乐",
-      "zh": "我也是这么想的。",
-      "pinyin": "Wǒ yě shì zhème xiǎng de.",
-      "tr": "Ben de böyle düşünüyorum."
+      "zh": "够的，农场里还有很多，邻居也常常和我们交换。",
+      "pinyin": "gòu de ， nóng chǎng lǐ hái yǒu hěn duō ， lín jū yě cháng cháng hé wǒ men jiāo huàn 。",
+      "tr": "Yeter, çiftlikte daha çok var; komşularla da sık sık paylaşırız."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_052",
       "speaker": "爷爷",
-      "zh": "那就这么决定吧。",
-      "pinyin": "Nà jiù zhème juédìng ba.",
-      "tr": "O zaman böyle karar verelim."
+      "zh": "那下次我们也可以做点点心寄给爷爷。",
+      "pinyin": "nà xià cì wǒ men yě kě yǐ zuò diǎn diǎn xīn jì gěi yé yé 。",
+      "tr": "Bir dahaki sefere dedeme atıştırmalık da yapıp gönderebiliriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_053",
       "speaker": "张伟",
-      "zh": "好，我们继续。",
-      "pinyin": "Hǎo, wǒmen jìxù.",
-      "tr": "Tamam, devam edelim."
+      "zh": "好主意，我可以和妈妈一起做。",
+      "pinyin": "hǎo zhǔ yì ， wǒ kě yǐ hé mā mā yì qǐ zuò 。",
+      "tr": "Güzel fikir, annemle birlikte yapabilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_054",
       "speaker": "刘梅",
-      "zh": "你看，这个蔬菜在这儿。",
-      "pinyin": "Nǐ kàn, zhège shūcài zài zhèér.",
-      "tr": "Bu sebze burada."
+      "zh": "你们不用特别准备，能常常打电话就很好。",
+      "pinyin": "nǐ men bù yòng tè bié zhǔn bèi ， néng cháng cháng dǎ diàn huà jiù hěn hǎo 。",
+      "tr": "Özel bir şey hazırlamanıza gerek yok; sık sık aramanız yeter."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_055",
       "speaker": "张乐乐",
-      "zh": "好，我会记着。",
-      "pinyin": "Hǎo, wǒhuì jìzhe.",
-      "tr": "Evet, aklımda."
+      "zh": "我们当然会打电话，也想多听听农场的事。",
+      "pinyin": "wǒ men dāng rán huì dǎ diàn huà ， yě xiǎng duō tīng tīng nóng chǎng de shì 。",
+      "tr": "Elbette ararız; çiftlikte neler olduğunu da senden dinlemek isteriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_056",
       "speaker": "爷爷",
-      "zh": "嗯，这些菜特别新鲜。",
-      "pinyin": "En, zhèxiē cài tèbié xīnxiān.",
-      "tr": "Bu sebzeler çok taze."
+      "zh": "等天气暖和些，你们也可以来农场看看。",
+      "pinyin": "děng tiān qì nuǎn huo xiē ， nǐ men yě kě yǐ lái nóng chǎng kàn kàn 。",
+      "tr": "Hava biraz ısınınca siz de çiftliğe gelebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_057",
       "speaker": "张伟",
-      "zh": "嗯，这个很有用。",
-      "pinyin": "En, zhège hěn yǒuyòng.",
-      "tr": "Bu çok kullanışlı."
+      "zh": "太好了，我想看看蔬菜是怎么从种子长大的。",
+      "pinyin": "tài hǎo le ， wǒ xiǎng kàn kàn shū cài shì zěn me cóng zhǒng zi zhǎng dà de 。",
+      "tr": "Harika, sebzelerin tohumdan nasıl büyüdüğünü görmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_058",
       "speaker": "刘梅",
-      "zh": "嗯，我们先种。",
-      "pinyin": "En, wǒmen xiānzhǒng.",
-      "tr": "Önce yetiştirmek."
+      "zh": "我还可以带你们去看新长出来的小菜。",
+      "pinyin": "wǒ hái kě yǐ dài nǐ men qù kàn xīn zhǎng chū lái de xiǎo cài 。",
+      "tr": "Yeni çıkan sebzeleri de size gösterebilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_059",
       "speaker": "张乐乐",
-      "zh": "以后还用得上。",
-      "pinyin": "Yǐhòu hái yòngdéshàng.",
-      "tr": "Bunu ileride yine kullanacağız."
+      "zh": "那我们一定会去。爷爷先帮我们留一些种子吧。",
+      "pinyin": "nà wǒ men yí dìng huì qù 。 yé yé xiān bāng wǒ men liú yī xiē zhǒng zi ba 。",
+      "tr": "Kesinlikle geliriz. Dede, bize birkaç tohum ayırır mısın?"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_060",
       "speaker": "爷爷",
-      "zh": "你看，这个箱子在这儿。",
-      "pinyin": "Nǐ kàn, zhège xiāngzi zài zhèér.",
-      "tr": "Bu kutu burada."
+      "zh": "好，我留几包容易种的种子，等你们来时带上。",
+      "pinyin": "hǎo ， wǒ liú jǐ bāo róng yì zhǒng de zhǒng zi ， děng nǐ men lái shí dài shàng 。",
+      "tr": "Olur, kolay yetişenlerden birkaç paket saklayıp geldiğinizde veririm."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_061",
       "speaker": "张伟",
-      "zh": "好，我再说一次。",
-      "pinyin": "Hǎo, wǒ zàishuō yīcì.",
-      "tr": "Bir kez daha söyleyeyim."
+      "zh": "奶奶说她也想尝尝农场新摘的蔬菜。",
+      "pinyin": "nǎi nǎi shuō tā yě xiǎng cháng cháng nóng chǎng xīn zhāi de shū cài 。",
+      "tr": "Büyükanne de çiftlikten yeni toplanan sebzeleri tatmak istiyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_062",
       "speaker": "刘梅",
-      "zh": "那怎么会有这么多？",
-      "pinyin": "Nà zěnme huì yǒu zhème duō?",
-      "tr": "Nasıl bu kadar çok olabilir?"
+      "zh": "我给她留一些，等她来时一起做饭。",
+      "pinyin": "wǒ gěi tā liú yī xiē ， děng tā lái shí yì qǐ zuò fàn 。",
+      "tr": "Ona biraz ayıralım; geldiğinde birlikte yemek yaparız."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_063",
       "speaker": "张乐乐",
-      "zh": "嗯，现在明白多了。",
-      "pinyin": "En, xiànzài míngbái duō le.",
-      "tr": "Şimdi daha net."
+      "zh": "这么多菜，我们可以分几袋放进冰箱。",
+      "pinyin": "zhè me duō cài ， wǒ men kě yǐ fēn jǐ dài fàng jìn bīng xiāng 。",
+      "tr": "Bu kadar sebzeyi birkaç poşete bölüp buzdolabına koyabiliriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_064",
       "speaker": "爷爷",
-      "zh": "嗯，农场离这里不远。",
-      "pinyin": "En, nóngchǎng lí zhèlǐ bùyuǎn.",
-      "tr": "Çiftlik buradan uzak değil."
+      "zh": "先把今天要吃的洗好，其他的擦干再收起来。",
+      "pinyin": "xiān bǎ jīn tiān yào chī de xǐ hǎo ， qí tā de cā gàn zài shōu qǐ lái 。",
+      "tr": "Bugün yiyeceklerimizi yıkayalım, kalanları kurutup kaldıralım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_065",
       "speaker": "张伟",
-      "zh": "对，我记住了。",
-      "pinyin": "Duì, wǒ jìzhù le.",
-      "tr": "Evet, aklımda."
+      "zh": "青菜容易坏，明天就把它们做了吧。",
+      "pinyin": "qīng cài róng yì huài ， míng tiān jiù bǎ tā men zuò le ba 。",
+      "tr": "Yeşillikler çabuk bozulur; yarın onları pişirelim."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_066",
       "speaker": "刘梅",
-      "zh": "嗯，爷爷奶奶今天也来了。",
-      "pinyin": "En, yéyénǎinǎi jīntiān yě lái le.",
-      "tr": "Büyükanne ve büyükbaba bugün de geldi."
+      "zh": "对，胡萝卜和土豆可以多放几天。",
+      "pinyin": "duì ， hú luó bo hé tǔ dòu kě yǐ duō fàng jǐ tiān 。",
+      "tr": "Evet, havuçla patates birkaç gün daha dayanır."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_067",
       "speaker": "张乐乐",
-      "zh": "嗯，这个很有用。",
-      "pinyin": "En, zhège hěn yǒuyòng.",
-      "tr": "Bu çok kullanışlı."
+      "zh": "我来把菜分好，每袋都贴上名字。",
+      "pinyin": "wǒ lái bǎ cài fēn hǎo ， měi dài dōu tiē shàng míng zì 。",
+      "tr": "Sebzeleri ayırıp her poşete ne olduğunu yazayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_068",
       "speaker": "爷爷",
-      "zh": "这个食物在这里。",
-      "pinyin": "Zhège shíwù zài zhèlǐ.",
-      "tr": "Bu yiyecek burada."
+      "zh": "这样我们就知道哪一些要先吃。",
+      "pinyin": "zhè yàng wǒ men jiù zhī dào nǎ yī xiē yào xiān chī 。",
+      "tr": "Böylece hangilerini önce tüketmemiz gerektiğini biliriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_069",
       "speaker": "张伟",
-      "zh": "以后也会用到。",
-      "pinyin": "Yǐhòu yě huì yòngdào.",
-      "tr": "Bunu ileride yine kullanacağız."
+      "zh": "爷爷，你寄来的蔬菜让我们吃得很开心。",
+      "pinyin": "yé yé ， nǐ jì lái de shū cài ràng wǒ men chī dé hěn kāi xīn 。",
+      "tr": "Dede, gönderdiğin sebzelerle yemek yemek bizi çok mutlu etti."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_070",
       "speaker": "刘梅",
-      "zh": "嗯，你看，这个蔬菜在这儿。",
-      "pinyin": "En, nǐ kàn, zhège shūcài zài zhèér.",
-      "tr": "Bu sebze burada."
+      "zh": "听你们喜欢，我就放心了。",
+      "pinyin": "tīng nǐ men xǐ huān ， wǒ jiù fàng xīn le 。",
+      "tr": "Beğenmenize sevindim, içim rahatladı."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_071",
       "speaker": "张乐乐",
-      "zh": "那我再说一遍。",
-      "pinyin": "Nà wǒ zàishuō yībiàn.",
-      "tr": "Bir kez daha söyleyeyim."
+      "zh": "下次农场收成多，我再给你们寄一箱。",
+      "pinyin": "xià cì nóng chǎng shōu chéng duō ， wǒ zài gěi nǐ men jì yī xiāng 。",
+      "tr": "Çiftlikte bir dahaki hasat bol olursa size yine bir kutu yollarım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_072",
       "speaker": "爷爷",
-      "zh": "对，这些菜特别新鲜。",
-      "pinyin": "Duì, zhèxiē cài tèbié xīnxiān.",
-      "tr": "Bu sebzeler çok taze."
+      "zh": "那我们也会回寄家里做的点心。",
+      "pinyin": "nà wǒ men yě huì huí jì jiā lǐ zuò de diǎn xīn 。",
+      "tr": "Biz de ev yapımı atıştırmalıklardan size göndeririz."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_073",
       "speaker": "张伟",
-      "zh": "现在清楚多了。",
-      "pinyin": "Xiànzài qīngchǔ duō le.",
-      "tr": "Şimdi daha net."
+      "zh": "不用客气，家人之间互相分享很自然。",
+      "pinyin": "bù yòng kè qì ， jiā rén zhī jiān hù xiāng fēn xiǎng hěn zì rán 。",
+      "tr": "Rica ederim, aile arasında paylaşmak çok doğal."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_074",
       "speaker": "刘梅",
-      "zh": "对，我们先种。",
-      "pinyin": "Duì, wǒmen xiānzhǒng.",
-      "tr": "Önce yetiştirmek."
+      "zh": "我们把今天的照片发给爷爷奶奶看看吧。",
+      "pinyin": "wǒ men bǎ jīn tiān de zhào piān fā gěi yé yé nǎi nǎi kàn kàn ba 。",
+      "tr": "Bugünkü fotoğrafı büyükanneyle büyükbabaya gönderelim mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC043_075",
       "speaker": "张乐乐",
-      "zh": "对，我记住了。",
-      "pinyin": "Duì, wǒ jìzhù le.",
-      "tr": "Evet, aklımda."
+      "zh": "照片里每个人都笑得很开心。",
+      "pinyin": "zhào piān lǐ měi gè rén dōu xiào dé hěn kāi xīn 。",
+      "tr": "Fotoğrafta herkes çok mutlu görünüyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_076",
       "speaker": "爷爷",
-      "zh": "嗯，这个箱子在这里。",
-      "pinyin": "En, zhège xiāngzi zài zhèlǐ.",
-      "tr": "Bu kutu burada."
+      "zh": "我会告诉他们，蔬菜已经洗好，也分好了。",
+      "pinyin": "wǒ huì gào sù tā men ， shū cài yǐ jīng xǐ hǎo ， yě fēn hǎo le 。",
+      "tr": "Sebzeleri yıkayıp ayırdığımızı da onlara yazarım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_077",
       "speaker": "张伟",
-      "zh": "嗯，这个很有用。",
-      "pinyin": "En, zhège hěn yǒuyòng.",
-      "tr": "Bu çok kullanışlı."
+      "zh": "再拍一张我们一起做的菜，留作纪念。",
+      "pinyin": "zài pāi yī zhāng wǒ men yì qǐ zuò de cài ， liú zuò jì niàn 。",
+      "tr": "Bir de birlikte yaptığımız yemeğin fotoğrafını çekelim, hatıra kalsın."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_078",
       "speaker": "刘梅",
-      "zh": "现在怎么会有这么多？",
-      "pinyin": "Xiànzài zěnme huì yǒu zhème duō?",
-      "tr": "Nasıl bu kadar çok olabilir?"
+      "zh": "好，大家站近一点，我来拍。",
+      "pinyin": "hǎo ， dà jiā zhàn jìn yì diǎn ， wǒ lái pāi 。",
+      "tr": "Olur, biraz yaklaşın; ben çekiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_079",
       "speaker": "张乐乐",
-      "zh": "这个以后还会用。",
-      "pinyin": "Zhège yǐhòu háihuìyòng.",
-      "tr": "Bunu ileride yine kullanacağız."
+      "zh": "照片拍好了，我把它发到家庭群里。",
+      "pinyin": "zhào piān pāi hǎo le ， wǒ bǎ tā fā dào jiā tíng qún lǐ 。",
+      "tr": "Fotoğraf tamam, aile grubuna gönderiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_080",
       "speaker": "爷爷",
-      "zh": "对，农场离这里不远。",
-      "pinyin": "Duì, nóngchǎng lí zhèlǐ bùyuǎn.",
-      "tr": "Çiftlik buradan uzak değil."
+      "zh": "爷爷看到了吗？我想知道他最喜欢哪道菜。",
+      "pinyin": "yé yé kàn dào le ma ？ wǒ xiǎng zhī dào tā zuì xǐ huān nǎ dào cài 。",
+      "tr": "Dede gördü mü? En çok hangi yemeği beğendiğini merak ediyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_081",
       "speaker": "张伟",
-      "zh": "嗯，那我再说一遍。",
-      "pinyin": "En, nà wǒ zàishuō yībiàn.",
-      "tr": "Bir kez daha söyleyeyim."
+      "zh": "爷爷说他最喜欢今天的青菜。",
+      "pinyin": "yé yé shuō tā zuì xǐ huān jīn tiān de qīng cài 。",
+      "tr": "Dede bugün en çok yeşillikleri beğendiğini söyledi."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_082",
       "speaker": "刘梅",
-      "zh": "对，爷爷奶奶今天也来了。",
-      "pinyin": "Duì, yéyénǎinǎi jīntiān yě lái le.",
-      "tr": "Büyükanne ve büyükbaba bugün de geldi."
+      "zh": "我也喜欢，吃起来特别新鲜。",
+      "pinyin": "wǒ yě xǐ huān ， chī qǐ lái tè bié xīn xiān 。",
+      "tr": "Ben de sevdim, çok tazeydi."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_083",
       "speaker": "张乐乐",
-      "zh": "嗯，现在清楚多了。",
-      "pinyin": "En, xiànzài qīngchǔ duō le.",
-      "tr": "Şimdi daha net."
+      "zh": "我们把剩下的菜放好，明天再做一顿。",
+      "pinyin": "wǒ men bǎ shèng xià de cài fàng hǎo ， míng tiān zài zuò yī dùn 。",
+      "tr": "Kalan sebzeleri kaldıralım, yarın yine yemek yaparız."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_084",
       "speaker": "爷爷",
-      "zh": "嗯，这个食物在这里。",
-      "pinyin": "En, zhège shíwù zài zhèlǐ.",
-      "tr": "Bu yiyecek burada."
+      "zh": "好，我会在纸上写清楚哪些要先吃。",
+      "pinyin": "hǎo ， wǒ huì zài zhǐ shàng xiě qīng chǔ nǎ xiē yào xiān chī 。",
+      "tr": "Tamam, önce tüketmemiz gerekenleri bir kâğıda yazarım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_085",
       "speaker": "张伟",
-      "zh": "对，我记住了。",
-      "pinyin": "Duì, wǒ jìzhù le.",
-      "tr": "Evet, aklımda."
+      "zh": "爷爷，下次你来城里时，我们带你逛逛附近的市场。",
+      "pinyin": "yé yé ， xià cì nǐ lái chéng lǐ shí ， wǒ men dài nǐ guàng guàng fù jìn de shì chǎng 。",
+      "tr": "Dede, bir dahaki gelişinde yakındaki pazarı gezdirelim."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_086",
       "speaker": "刘梅",
-      "zh": "嗯，就在这里。",
-      "pinyin": "En, jiù zài zhèlǐ.",
-      "tr": "Bu sebze burada."
+      "zh": "好啊，我也想看看你们平常在哪里买菜。",
+      "pinyin": "hǎo a ， wǒ yě xiǎng kàn kàn nǐ men píng cháng zài nǎ lǐ mǎi cài 。",
+      "tr": "Olur, günlük alışverişinizi nereden yaptığınızı görmek isterim."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_087",
       "speaker": "张乐乐",
-      "zh": "嗯，这个很有用。",
-      "pinyin": "En, zhège hěn yǒuyòng.",
-      "tr": "Bu çok kullanışlı."
+      "zh": "我们可以一起挑种子，看看有没有适合阳台种的。",
+      "pinyin": "wǒ men kě yǐ yì qǐ tiāo zhǒng zi ， kàn kàn yǒu méi yǒu shì hé yáng tái zhǒng de 。",
+      "tr": "Birlikte tohum seçer, balkonda yetiştirmeye uygun olanlara bakarız."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_088",
       "speaker": "爷爷",
-      "zh": "好，这些菜特别新鲜。",
-      "pinyin": "Hǎo, zhèxiē cài tèbié xīnxiān.",
-      "tr": "Bu sebzeler çok taze."
+      "zh": "这样我就能在家里种香菜和葱了。",
+      "pinyin": "zhè yàng wǒ jiù néng zài jiā lǐ zhǒng xiāng cài hé cōng le 。",
+      "tr": "Böylece evde kişnişle taze soğan yetiştirebilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_089",
       "speaker": "张伟",
-      "zh": "嗯，以后还用得上。",
-      "pinyin": "En, yǐhòu hái yòngdéshàng.",
-      "tr": "Bunu ileride yine kullanacağız."
+      "zh": "要记得每天看看土干不干，也要适量浇水。",
+      "pinyin": "yào jì de měi tiān kàn kàn tǔ gàn bù gàn ， yě yào shì liàng jiāo shuǐ 。",
+      "tr": "Toprağın kuruyup kurumadığına her gün bakıp kararında sulamak gerek."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_090",
       "speaker": "刘梅",
-      "zh": "好，我们先种。",
-      "pinyin": "Hǎo, wǒmen xiānzhǒng.",
-      "tr": "Önce yetiştirmek."
+      "zh": "爷爷会教我，我一定认真学。",
+      "pinyin": "yé yé huì jiào wǒ ， wǒ yí dìng rèn zhēn xué 。",
+      "tr": "Dede bana öğretir; dikkatle öğrenirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_091",
       "speaker": "张乐乐",
-      "zh": "我再说一遍。",
-      "pinyin": "Wǒ zàishuō yībiàn.",
-      "tr": "Bir kez daha söyleyeyim."
+      "zh": "今天我们吃了你寄来的菜，还听了农场的故事。",
+      "pinyin": "jīn tiān wǒ men chī le nǐ jì lái de cài ， hái tīng le nóng chǎng de gù shì 。",
+      "tr": "Bugün gönderdiğin sebzeleri yedik, çiftlik hikâyelerini de dinledik."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_092",
       "speaker": "爷爷",
-      "zh": "对，就在这里。",
-      "pinyin": "Duì, jiù zài zhèlǐ.",
-      "tr": "Bu kutu burada."
+      "zh": "你们开心，我就高兴。下次再给你们讲讲怎么收菜。",
+      "pinyin": "nǐ men kāi xīn ， wǒ jiù gāo xìng 。 xià cì zài gěi nǐ men jiǎng jiǎng zěn me shōu cài 。",
+      "tr": "Mutlu olmanıza sevindim. Bir dahaki sefere hasadı anlatırım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_093",
       "speaker": "张伟",
-      "zh": "这样就更清楚了。",
-      "pinyin": "Zhèyàng jiù gèng qīngchǔ le.",
-      "tr": "Şimdi daha net."
+      "zh": "那我们下次通话时再问你，别忘了留些照片。",
+      "pinyin": "nà wǒ men xià cì tōng huà shí zài wèn nǐ ， bié wàng le liú xiē zhào piān 。",
+      "tr": "Bir sonraki görüşmemizde sana sorarız; birkaç fotoğraf da unutma."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_094",
       "speaker": "刘梅",
-      "zh": "你觉得怎么会有这么多？",
-      "pinyin": "Nǐ juéde zěnme huì yǒu zhème duō?",
-      "tr": "Nasıl bu kadar çok olabilir?"
+      "zh": "我会拍几张农场和菜地的照片发给你们。",
+      "pinyin": "wǒ huì pāi jǐ zhāng nóng chǎng hé cài dì de zhào piān fā gěi nǐ men 。",
+      "tr": "Çiftliğin ve tarlanın birkaç fotoğrafını çekip yollarım."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_095",
       "speaker": "张乐乐",
-      "zh": "这些都是他自己种的。",
-      "pinyin": "Zhèxiē dōu shì tā zìjǐ zhǒng de.",
-      "tr": "Bunların hepsini kendisi yetiştirmiş."
+      "zh": "奶奶也想看看你种的西红柿长得怎么样。",
+      "pinyin": "nǎi nǎi yě xiǎng kàn kàn nǐ zhǒng de xī hóng shì zhǎng dé zěn me yàng 。",
+      "tr": "Büyükanne de yetiştirdiğin domateslerin nasıl olduğunu merak ediyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_096",
       "speaker": "爷爷",
-      "zh": "问题解决了。",
-      "pinyin": "Wèntí jiějué le.",
-      "tr": "Sorun çözüldü."
+      "zh": "没问题，我挑最红的那几个拍下来。",
+      "pinyin": "méi wèn tí ， wǒ tiāo zuì hóng de nà jǐ gè pāi xià lái 。",
+      "tr": "Elbette, en kırmızılarını seçip fotoğrafını çekerim."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_097",
       "speaker": "张伟",
-      "zh": "大家都轻松多了。",
-      "pinyin": "Dàjiā dōu qīngsōng duō le.",
-      "tr": "Herkes çok daha rahatladı."
+      "zh": "那我们等你的照片，也会把自己种的菜拍给你看。",
+      "pinyin": "nà wǒ men děng nǐ de zhào piān ， yě huì bǎ zì jǐ zhǒng de cài pāi gěi nǐ kàn 。",
+      "tr": "Biz de fotoğraflarını bekler, yetiştirdiğimiz sebzeleri sana gösteririz."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_098",
       "speaker": "刘梅",
-      "zh": "今天很顺利。",
-      "pinyin": "Jīntiān hěn shùnlì.",
-      "tr": "Bugün işler yolunda gitti."
+      "zh": "太好了，等阳台的种子发芽，我们就告诉你。",
+      "pinyin": "tài hǎo le ， děng yáng tái de zhǒng zi fā yá ， wǒ men jiù gào sù nǐ 。",
+      "tr": "Harika, balkondaki tohumlar filizlenince sana haber veririz."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_099",
       "speaker": "张乐乐",
-      "zh": "下次会更容易。",
-      "pinyin": "Xiàcì huì gèng róngyì.",
-      "tr": "Bir dahaki sefere daha kolay olacak."
+      "zh": "爷爷，谢谢你寄来这么新鲜的蔬菜。",
+      "pinyin": "yé yé ， xiè xiè nǐ jì lái zhè me xīn xiān de shū cài 。",
+      "tr": "Dede, bu kadar taze sebze gönderdiğin için teşekkür ederiz."
     },
     {
       "id": "DLG_ZH_HSK2_SC043_100",
       "speaker": "爷爷",
-      "zh": "好，我们回去吧。",
-      "pinyin": "Hǎo, wǒmen huíqù ba.",
-      "tr": "Tamam, geri dönelim."
+      "zh": "不客气。好好吃饭，种子也别忘了种，我们下次再聊。",
+      "pinyin": "bú kè qì 。 hǎo hǎo chī fàn ， zhǒng zi yě bié wàng le zhǒng ， wǒ men xià cì zài liáo 。",
+      "tr": "Rica ederim. Güzelce yiyin, tohumları da ekmeyi unutmayın. Sonra konuşuruz."
     }
   ],
   "productionStatus": "complete",

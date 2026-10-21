@@ -289,142 +289,142 @@
     {
       "id": "DLG_ZH_HSK3_SC035_041",
       "speaker": "刘梅",
-      "zh": "可以先做一部分，看看效果。",
-      "pinyin": "Kěyǐ xiān zuò yí bùfen, kànkan xiàoguǒ.",
-      "tr": "Önce bir kısmını yapıp sonucu görebiliriz."
+      "zh": "学校这次的订单有六十份点心，对吗？",
+      "pinyin": "xué xiào zhè cì de dìng dān yǒu liù shí fèn diǎn xīn duì ma",
+      "tr": "Okulun bu siparişi altmış porsiyon tatlı, doğru mu?"
     },
     {
       "id": "DLG_ZH_HSK3_SC035_042",
       "speaker": "张伟",
-      "zh": "这个主意不错。",
-      "pinyin": "Zhège zhǔyi búcuò.",
-      "tr": "Bu fikir fena değil."
+      "zh": "我看了平板上的订单，还写着三十杯咖啡。",
+      "pinyin": "wǒ kàn le píng bǎn shàng de dìng dān hái xiě zhe sān shí bēi kā fēi",
+      "tr": "Tabletteki siparişe baktım; otuz fincan kahve de yazıyor."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_043",
       "speaker": "顾客",
-      "zh": "那我负责这一部分。",
-      "pinyin": "Nà wǒ fùzé zhè yí bùfen.",
-      "tr": "O zaman bu kısmı ben üstleneyim."
+      "zh": "对，学生和老师一共六十人，咖啡只给老师准备。",
+      "pinyin": "duì xué shēng hé lǎo shī yī gòng liù shí rén kā fēi zhǐ gěi lǎo shī zhǔn bèi",
+      "tr": "Evet, öğrenci ve öğretmenlerin toplamı altmış kişi; kahveyi yalnızca öğretmenler için hazırlıyoruz."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_044",
       "speaker": "张雨桐",
-      "zh": "剩下的我来处理。",
-      "pinyin": "Shèngxià de wǒ lái chǔlǐ.",
-      "tr": "Kalanını ben hallederim."
+      "zh": "明白了。点心要每人一份，咖啡按三十杯装，对吗？",
+      "pinyin": "míng bái le diǎn xīn yào měi rén yī fèn kā fēi àn sān shí bēi zhuāng duì ma",
+      "tr": "Anladım. Her kişiye bir porsiyon tatlı, kahve de otuz fincan olacak, değil mi?"
     },
     {
       "id": "DLG_ZH_HSK3_SC035_045",
       "speaker": "刘梅",
-      "zh": "需要我帮忙的时候告诉我。",
-      "pinyin": "Xūyào wǒ bāngmáng de shíhou gàosu wǒ.",
-      "tr": "Yardıma ihtiyacın olduğunda bana söyle."
+      "zh": "交货时间写的是早上八点半，学校门口有人接吗？",
+      "pinyin": "jiāo huò shí jiān xiě de shì zǎo shàng bā diǎn bàn xué xiào mén kǒu yǒu rén jiē ma",
+      "tr": "Teslim saati sabah sekiz buçuk görünüyor; okul kapısında karşılayacak biri olacak mı?"
     },
     {
       "id": "DLG_ZH_HSK3_SC035_046",
       "speaker": "张伟",
-      "zh": "好，我们保持联系。",
-      "pinyin": "Hǎo, wǒmen bǎochí liánxì.",
-      "tr": "Tamam, iletişimde kalalım."
+      "zh": "如果路上堵车，八点半可能太赶，我们最好提前半小时出发。",
+      "pinyin": "rú guǒ lù shàng dǔ chē bā diǎn bàn kě néng tài gǎn wǒ men zuì hǎo tí qián bàn xiǎo shí chū fā",
+      "tr": "Trafik olursa sekiz buçuğa yetişmek zor olabilir; yarım saat erken çıkalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_047",
       "speaker": "顾客",
-      "zh": "事情越来越清楚了。",
-      "pinyin": "Shìqing yuèláiyuè qīngchu le.",
-      "tr": "Durum giderek netleşiyor."
+      "zh": "可以，我会让同事七点五十分在校门口等你们。",
+      "pinyin": "kě yǐ wǒ huì ràng tóng shì qī diǎn wǔ shí fēn zài xiào mén kǒu děng nǐ men",
+      "tr": "Olur, bir çalışma arkadaşımdan saat 7.50’de okul kapısında beklemesini isteyeceğim."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_048",
       "speaker": "张雨桐",
-      "zh": "我也放心多了。",
-      "pinyin": "Wǒ yě fàngxīn duō le.",
-      "tr": "Ben de çok daha rahatladım."
+      "zh": "那我们把交货时间定在八点，给搬东西留一点时间。",
+      "pinyin": "nà wǒ men bǎ jiāo huò shí jiān dìng zài bā diǎn gěi bān dōng xī liú yì diǎn shí jiān",
+      "tr": "O zaman teslimatı sekize planlayalım; eşyaları taşımak için de zaman kalır."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_049",
       "speaker": "刘梅",
-      "zh": "还有一个小问题。",
-      "pinyin": "Hái yǒu yí ge xiǎo wèntí.",
-      "tr": "Bir küçük sorun daha var."
+      "zh": "六十份点心不能全装在一个大箱子里，搬起来不方便。",
+      "pinyin": "liù shí fèn diǎn xīn bù néng quán zhuāng zài yí gè dà xiāng zi lǐ bān qǐ lái bù fāng biàn",
+      "tr": "Altmış porsiyon tatlıyı tek büyük kutuya koyamayız; taşımak zor olur."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_050",
       "speaker": "张伟",
-      "zh": "你说吧，我们一起想办法。",
-      "pinyin": "Nǐ shuō ba, wǒmen yìqǐ xiǎng bànfǎ.",
-      "tr": "Söyle, birlikte çözüm düşünelim."
+      "zh": "每盒放十份，一共六盒，顾客清点起来也容易。",
+      "pinyin": "měi hé fàng shí fèn yī gòng liù hé gù kè qīng diǎn qǐ lái yě róng yì",
+      "tr": "Her kutuya on porsiyon koyalım; altı kutu olur ve sayması da kolaylaşır."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_051",
       "speaker": "顾客",
-      "zh": "这个问题其实不难。",
-      "pinyin": "Zhège wèntí qíshí bù nán.",
-      "tr": "Bu sorun aslında zor değil."
+      "zh": "请在每个箱子上写清楚数量，学校要分给不同的班。",
+      "pinyin": "qǐng zài měi gè xiāng zi shàng xiě qīng chǔ shù liàng xué xiào yào fēn gěi bù tóng de bān",
+      "tr": "Her kutunun üzerine miktarı yazın; okul bunları farklı sınıflara dağıtacak."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_052",
       "speaker": "张雨桐",
-      "zh": "只要准备好，就可以开始。",
-      "pinyin": "Zhǐyào zhǔnbèi hǎo, jiù kěyǐ kāishǐ.",
-      "tr": "Hazırlık tamam olursa başlayabiliriz."
+      "zh": "我会在标签上写“十份”，再按班级贴不同颜色的纸。",
+      "pinyin": "wǒ huì zài biāo qiān shàng xiě shí fèn zài àn bān jí tiē bù tóng yán sè de zhǐ",
+      "tr": "Etikete “on porsiyon” yazıp sınıflara göre farklı renk kâğıtlar yapıştırırım."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_053",
       "speaker": "刘梅",
-      "zh": "那我们现在开始吧。",
-      "pinyin": "Nà wǒmen xiànzài kāishǐ ba.",
-      "tr": "O zaman şimdi başlayalım."
+      "zh": "咖啡和点心要分开放，不然路上容易洒到蛋糕上。",
+      "pinyin": "kā fēi hé diǎn xīn yào fēn kāi fàng bù rán lù shàng róng yì sǎ dào dàn gāo shàng",
+      "tr": "Kahveyle tatlıları ayrı taşıyalım; yolda keklerin üzerine dökülebilir."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_054",
       "speaker": "张伟",
-      "zh": "进行得比想象中顺利。",
-      "pinyin": "Jìnxíng de bǐ xiǎngxiàng zhōng shùnlì.",
-      "tr": "Düşündüğümüzden daha sorunsuz ilerliyor."
+      "zh": "我准备两个保温箱，一个装咖啡，一个装点心。",
+      "pinyin": "wǒ zhǔn bèi liǎng gè bǎo wēn xiāng yí gè zhuāng kā fēi yí gè zhuāng diǎn xīn",
+      "tr": "İki yalıtımlı kutu hazırlayayım; biri kahveye, biri tatlılara."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_055",
       "speaker": "顾客",
-      "zh": "中间还是出了一个小问题。",
-      "pinyin": "Zhōngjiān háishi chū le yí ge xiǎo wèntí.",
-      "tr": "Arada yine küçük bir sorun çıktı."
+      "zh": "学校有一位老师不喝咖啡，能不能换成热茶？",
+      "pinyin": "xué xiào yǒu yī wèi lǎo shī bù hē kā fēi néng bù néng huàn chéng rè chá",
+      "tr": "Okuldaki bir öğretmen kahve içmiyor; onun yerine sıcak çay olabilir mi?"
     },
     {
       "id": "DLG_ZH_HSK3_SC035_056",
       "speaker": "张雨桐",
-      "zh": "没关系，先看看能不能调整。",
-      "pinyin": "Méi guānxi, xiān kànkan néng bu néng tiáozhěng.",
-      "tr": "Sorun değil, önce ayarlayıp ayarlayamayacağımıza bakalım."
+      "zh": "没问题，我把订单改成二十九杯咖啡和一杯热茶。",
+      "pinyin": "méi wèn tí wǒ bǎ dìng dān gǎi chéng èr shí jiǔ bēi kā fēi hé yī bēi rè chá",
+      "tr": "Tabii, siparişi yirmi dokuz kahve ve bir sıcak çay olarak güncellerim."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_057",
       "speaker": "刘梅",
-      "zh": "我有一个新的办法。",
-      "pinyin": "Wǒ yǒu yí ge xīn de bànfǎ.",
-      "tr": "Yeni bir çözümüm var."
+      "zh": "数量和饮料都确认好了，我再核对一次交货地址。",
+      "pinyin": "shù liàng hé yǐn liào dōu què rèn hǎo le wǒ zài hé duì yī cì jiāo huò dì zhǐ",
+      "tr": "Miktarları ve içecekleri netleştirdik; teslimat adresini bir daha kontrol edeyim."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_058",
       "speaker": "张伟",
-      "zh": "说来听听。",
-      "pinyin": "Shuō lái tīngting.",
-      "tr": "Anlat bakalım."
+      "zh": "地址是学校东门，不是平时送货的西门，对吧？",
+      "pinyin": "dì zhǐ shì xué xiào dōng mén bú shì píng shí sòng huò de xī mén duì ba",
+      "tr": "Adres okulun doğu kapısı; normal teslimat yaptığımız batı kapısı değil, doğru mu?"
     },
     {
       "id": "DLG_ZH_HSK3_SC035_059",
       "speaker": "顾客",
-      "zh": "我们可以一边做，一边检查。",
-      "pinyin": "Wǒmen kěyǐ yìbiān zuò, yìbiān jiǎnchá.",
-      "tr": "Yaparken aynı anda kontrol edebiliriz."
+      "zh": "对，东门离活动室近，早上我会在那里等你们。",
+      "pinyin": "duì dōng mén lí huó dòng shì jìn zǎo shàng wǒ huì zài nà lǐ děng nǐ men",
+      "tr": "Evet, doğu kapısı etkinlik salonuna yakın; sabah sizi orada bekleyeceğim."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_060",
       "speaker": "张雨桐",
-      "zh": "这样发现问题会更早。",
-      "pinyin": "Zhèyàng fāxiàn wèntí huì gèng zǎo.",
-      "tr": "Böylece sorunları daha erken fark ederiz."
+      "zh": "好，我把地址、份数和交货时间都写进订单安排里。",
+      "pinyin": "hǎo wǒ bǎ dì zhǐ fèn shù hé jiāo huò shí jiān dōu xiě jìn dìng dān ān pái lǐ",
+      "tr": "Tamam, adresi, porsiyon sayısını ve teslimat saatini sipariş planına ekliyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_061",
@@ -639,72 +639,72 @@
     {
       "id": "DLG_ZH_HSK3_SC035_091",
       "speaker": "顾客",
-      "zh": "对，剩下的就是按计划做。",
-      "pinyin": "Duì, shèng xià de jiù shì àn jì huà zuò.",
-      "tr": "Evet, geriye plana göre uygulamak kalıyor."
+      "zh": "订单的数量和交货时间都对，地址也改成东门了。",
+      "pinyin": "dìng dān de shù liàng hé jiāo huò shí jiān dōu duì dì zhǐ yě gǎi chéng dōng mén le",
+      "tr": "Sipariş miktarıyla teslim saati doğru; adresi de doğu kapısı olarak düzelttik."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_092",
       "speaker": "张雨桐",
-      "zh": "最后再确认一遍吧。",
-      "pinyin": "Zuì hòu zài què rèn yī biàn ba.",
-      "tr": "Son kez bir daha teyit edelim."
+      "zh": "我已经把六十份点心、二十九杯咖啡和一杯热茶写进安排里。",
+      "pinyin": "wǒ yǐ jīng bǎ liù shí fèn diǎn xīn èr shí jiǔ bēi kā fēi hé yī bēi rè chá xiě jìn ān pái lǐ",
+      "tr": "Altmış porsiyon tatlıyı, yirmi dokuz kahveyi ve bir sıcak çayı plana ekledim."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_093",
       "speaker": "刘梅",
-      "zh": "说到订单，你怎么看？",
-      "pinyin": "Shuō dào dìng dān, nǐ zěn me kàn?",
-      "tr": "sipariş konusunda ne düşünüyorsun?"
+      "zh": "明天装箱时按每盒十份来分，箱子上也贴好班级标签。",
+      "pinyin": "míng tiān zhuāng xiāng shí àn měi hé shí fèn lái fēn xiāng zi shàng yě tiē hǎo bān jí biāo qiān",
+      "tr": "Yarın kutuları on porsiyonluk hazırlayıp sınıf etiketlerini yapıştıralım."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_094",
       "speaker": "张伟",
-      "zh": "好，这一点确认以后我们就可以收尾了。",
-      "pinyin": "Hǎo, zhè yì diǎn què rèn yǐ hòu wǒ men jiù kě yǐ shōu wěi le.",
-      "tr": "Tamam, bu noktayı da teyit edince konuşmayı tamamlayabiliriz."
+      "zh": "我会提前检查咖啡和热茶的杯子，免得出发前才发现少了。",
+      "pinyin": "wǒ huì tí qián jiǎn chá kā fēi hé rè chá de bēi zi miǎn de chū fā qián cái fā xiàn shǎo le",
+      "tr": "Yola çıkmadan önce kahve ve çay bardaklarını kontrol edeceğim."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_095",
       "speaker": "顾客",
-      "zh": "现在主要问题已经解决了。",
-      "pinyin": "Xiànzài zhǔyào wèntí yǐjīng jiějué le.",
-      "tr": "Ana sorun artık çözüldü."
+      "zh": "如果交货时间有变化，请给我打电话，我会在东门等。",
+      "pinyin": "rú guǒ jiāo huò shí jiān yǒu biàn huà qǐng gěi wǒ dǎ diàn huà wǒ huì zài dōng mén děng",
+      "tr": "Teslimat saatinde değişiklik olursa beni arayın; doğu kapısında beklerim."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_096",
       "speaker": "张雨桐",
-      "zh": "剩下的按计划做就可以。",
-      "pinyin": "Shèngxià de àn jìhuà zuò jiù kěyǐ.",
-      "tr": "Kalanını plana göre yapmamız yeterli."
+      "zh": "好的，我把你的电话和学校东门的地址一起留在订单上。",
+      "pinyin": "hǎo de wǒ bǎ nǐ de diàn huà hé xué xiào dōng mén de dì zhǐ yì qǐ liú zài dìng dān shàng",
+      "tr": "Peki, telefon numaranı ve okulun doğu kapısı adresini siparişe ekliyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_097",
       "speaker": "刘梅",
-      "zh": "今天的经验很有用。",
-      "pinyin": "Jīntiān de jīngyàn hěn yǒuyòng.",
-      "tr": "Bugünkü deneyim çok faydalı."
+      "zh": "这次大订单安排清楚了，谢谢你把人数和要求告诉我们。",
+      "pinyin": "zhè cì dà dìng dān ān pái qīng chǔ le xiè xiè nǐ bǎ rén shù hé yāo qiú gào sù wǒ men",
+      "tr": "Bu büyük siparişin planı netleşti. Kişi sayısını ve istekleri paylaştığın için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_098",
       "speaker": "张伟",
-      "zh": "下次我们会准备得更好。",
-      "pinyin": "Xià cì wǒmen huì zhǔnbèi de gèng hǎo.",
-      "tr": "Bir dahaki sefere daha iyi hazırlanacağız."
+      "zh": "我们会按时间送到，箱子也会分好，学校接收起来更方便。",
+      "pinyin": "wǒ men huì àn shí jiān sòng dào xiāng zi yě huì fēn hǎo xué xiào jiē shōu qǐ lái gèng fāng biàn",
+      "tr": "Zamanında getireceğiz ve kutuları ayıracağız; okulun teslim alması kolay olur."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_099",
       "speaker": "顾客",
-      "zh": "好，今天就先到这里。",
-      "pinyin": "Hǎo, jīntiān jiù xiān dào zhèlǐ.",
-      "tr": "Tamam, bugünlük burada bitirelim."
+      "zh": "太好了，学校很期待这次活动的点心和咖啡。",
+      "pinyin": "tài hǎo le xué xiào hěn qī dài zhè cì huó dòng de diǎn xīn hé kā fēi",
+      "tr": "Harika, okul etkinlikteki tatlıları ve kahveleri sabırsızlıkla bekliyor."
     },
     {
       "id": "DLG_ZH_HSK3_SC035_100",
       "speaker": "张雨桐",
-      "zh": "明天继续。",
-      "pinyin": "Míngtiān jìxù.",
-      "tr": "Yarın devam ederiz."
+      "zh": "那我们明早八点在东门见，订单和交货时间都确认好了。",
+      "pinyin": "nà wǒ men míng zǎo bā diǎn zài dōng mén jiàn dìng dān hé jiāo huò shí jiān dōu què rèn hǎo le",
+      "tr": "O hâlde yarın sabah sekizde doğu kapısında görüşürüz; sipariş ve teslimat saati kesinleşti."
     }
   ]
 }

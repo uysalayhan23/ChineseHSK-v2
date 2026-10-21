@@ -1,0 +1,710 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK5_SC021",
+  "level": "HSK5",
+  "sourceTitleZh": "雨桐带伴侣回家",
+  "sourceTitleTr": "Yutong’un Ciddi İlişkisi",
+  "sourceMiniAdventureTr": "Yutong partnerini aileyle tanıştırmak için eve getirir.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK5_SC021_001",
+      "speaker": "张雨桐",
+      "zh": "爸、妈，今天我想正式介绍一下我的伴侣。",
+      "pinyin": "bà 、 mā ， jīn tiān wǒ xiǎng zhèng shì jiè shào yī xià wǒ de bàn lǚ 。",
+      "tr": "Baba, anne, bugün partnerimi size resmen tanıtmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_002",
+      "speaker": "伴侣",
+      "zh": "叔叔阿姨好，谢谢你们邀请我来家里吃饭。",
+      "pinyin": "shū shū ā yí hǎo ， xiè xiè nǐ men yāo qǐng wǒ lái jiā lǐ chī fàn 。",
+      "tr": "Merhaba, davet edip evinizde ağırladığınız için teşekkür ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_003",
+      "speaker": "刘梅",
+      "zh": "欢迎你来。路上还顺利吗？先坐下喝点水。",
+      "pinyin": "huān yíng nǐ lái 。 lù shàng hái shùn lì ma ？ xiān zuò xià hē diǎn shuǐ 。",
+      "tr": "Hoş geldin. Yolculuğun rahat geçti mi? Önce oturup biraz su iç."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_004",
+      "speaker": "张伟",
+      "zh": "对，别紧张。今天就是一家人一起吃顿饭。",
+      "pinyin": "duì ， bié jǐn zhāng 。 jīn tiān jiù shì yī jiā rén yì qǐ chī dùn fàn 。",
+      "tr": "Evet, gerilme. Bugün yalnızca ailece yemek yiyeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_005",
+      "speaker": "张雨桐",
+      "zh": "你们之前听我提过他，今天终于见面了。",
+      "pinyin": "nǐ men zhī qián tīng wǒ tí guò tā ， jīn tiān zhōng yú jiàn miàn le 。",
+      "tr": "Ondan daha önce söz etmiştim; sonunda bugün tanışıyorsunuz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_006",
+      "speaker": "伴侣",
+      "zh": "雨桐常跟我说起你们，也说奶奶做的鱼特别好吃。",
+      "pinyin": "yǔ tóng cháng gēn wǒ shuō qǐ nǐ men ， yě shuō nǎi nǎi zuò de yú tè bié hǎo chī 。",
+      "tr": "Yutong sizden sıkça söz ediyor; büyükannenin balığının çok güzel olduğunu da anlattı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_007",
+      "speaker": "刘梅",
+      "zh": "那今天多吃一点。你们最近工作都忙吗？",
+      "pinyin": "nà jīn tiān duō chī yì diǎn 。 nǐ men zuì jìn gōng zuò dōu máng ma ？",
+      "tr": "O zaman bugün bolca ye. Son zamanlarda ikiniz de işte yoğun musunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_008",
+      "speaker": "张伟",
+      "zh": "你们先坐稳了再聊，别一进门就开始回答问题。",
+      "pinyin": "nǐ men xiān zuò wěn le zài liáo ， bié yī jìn mén jiù kāi shǐ huí dá wèn tí 。",
+      "tr": "Önce rahatça oturun; kapıdan girer girmez soruları yanıtlamaya başlamayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_009",
+      "speaker": "张雨桐",
+      "zh": "爸说得对。我们路上还聊了今天想吃什么。",
+      "pinyin": "bà shuō dé duì 。 wǒ men lù shàng hái liáo le jīn tiān xiǎng chī shén me 。",
+      "tr": "Babam haklı. Yolda bugün ne yemek istediğimizi konuşuyorduk."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_010",
+      "speaker": "伴侣",
+      "zh": "我说想吃家常菜，雨桐说回家就能吃到。",
+      "pinyin": "wǒ shuō xiǎng chī jiā cháng cài ， yǔ tóng shuō huí jiā jiù néng chī dào 。",
+      "tr": "Ev yemeği istediğimi söyledim; Yutong da eve gelince yiyebileceğimi söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_011",
+      "speaker": "刘梅",
+      "zh": "家常菜已经准备好了。你们先尝尝，不够我再去添。",
+      "pinyin": "jiā cháng cài yǐ jīng zhǔn bèi hǎo le 。 nǐ men xiān cháng cháng ， bù gòu wǒ zài qù tiān 。",
+      "tr": "Ev yemeği hazır. Önce tadın; yetmezse biraz daha getiririm."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_012",
+      "speaker": "张伟",
+      "zh": "我先给大家倒茶，边吃边聊，不用急着把话说完。",
+      "pinyin": "wǒ xiān gěi dà jiā dào chá ， biān chī biān liáo ， bù yòng jí zhe bǎ huà shuō wán 。",
+      "tr": "Herkese çay koyayım; yemek yerken konuşuruz, her şeyi hemen bitirmeye gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_013",
+      "speaker": "张雨桐",
+      "zh": "谢谢。我们交往一段时间了，觉得是时候让家里人认识彼此。",
+      "pinyin": "xiè xiè 。 wǒ men jiāo wǎng yī duàn shí jiān le ， jué de shì shí hòu ràng jiā lǐ rén rèn shí bǐ cǐ 。",
+      "tr": "Teşekkürler. Bir süredir birlikteyiz; ailelerimizin tanışma zamanı geldi diye düşündük."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_014",
+      "speaker": "伴侣",
+      "zh": "我也希望见见你们，听听雨桐成长时的故事。",
+      "pinyin": "wǒ yě xī wàng jiàn jiàn nǐ men ， tīng tīng yǔ tóng chéng zhǎng shí de gù shì 。",
+      "tr": "Ben de sizinle tanışıp Yutong’un büyürken yaşadıklarını dinlemek istiyordum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_015",
+      "speaker": "刘梅",
+      "zh": "她小时候很安静，熟悉以后才会慢慢说出自己的想法。",
+      "pinyin": "tā xiǎo shí hòu hěn ān jìng ， shú xī yǐ hòu cái huì màn màn shuō chū zì jǐ de xiǎng fǎ 。",
+      "tr": "Küçükken sakindi; alışınca düşüncelerini yavaş yavaş anlatırdı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_016",
+      "speaker": "张伟",
+      "zh": "这个习惯一直还在。想问她什么，最好给她一点时间回答。",
+      "pinyin": "zhè ge xí guàn yì zhí hái zài 。 xiǎng wèn tā shén me ， zuì hǎo gěi tā yì diǎn shí jiān huí dá 。",
+      "tr": "Bu huyu hâlâ sürüyor. Ona bir şey sorunca cevap vermesi için biraz zaman tanımak iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_017",
+      "speaker": "张雨桐",
+      "zh": "爸，你别把我说得像不爱说话。我只是想好再回答。",
+      "pinyin": "bà ， nǐ bié bǎ wǒ shuō dé xiàng bù ài shuō huà 。 wǒ zhǐ shì xiǎng hǎo zài huí dá 。",
+      "tr": "Baba, beni hiç konuşmayan biri gibi anlatma. Yalnızca cevap vermeden önce düşünüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_018",
+      "speaker": "伴侣",
+      "zh": "我觉得这样很好，认真听完再回答，彼此不容易误会。",
+      "pinyin": "wǒ jué de zhè yàng hěn hǎo ， rèn zhēn tīng wán zài huí dá ， bǐ cǐ bù róng yì wù huì 。",
+      "tr": "Bence bu iyi; dikkatle dinleyip sonra cevap verince daha az yanlış anlaşılırız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_019",
+      "speaker": "刘梅",
+      "zh": "你们平时遇到意见不一样的时候，会怎么商量？",
+      "pinyin": "nǐ men píng shí yù dào yì jiàn bù yí yàng de shí hòu ， huì zěn me shāng liáng ？",
+      "tr": "Günlük hayatta fikir ayrılığı yaşadığınızda nasıl konuşuyorsunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_020",
+      "speaker": "张伟",
+      "zh": "这个问题可以慢慢聊，不需要马上给一个完美答案。",
+      "pinyin": "zhè ge wèn tí kě yǐ màn màn liáo ， bù xū yào mǎ shàng gěi yí gè wán měi dá àn 。",
+      "tr": "Bu konu üzerinde yavaşça konuşabilirsiniz; hemen kusursuz bir cevap vermek gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_021",
+      "speaker": "张雨桐",
+      "zh": "我们先各自说清楚为什么这么想，再找两个人都能接受的办法。",
+      "pinyin": "wǒ men xiān gè zì shuō qīng chǔ wèi shén me zhè me xiǎng ， zài zhǎo liǎng gè rén dōu néng jiē shòu de bàn fǎ 。",
+      "tr": "Önce neden böyle düşündüğümüzü açıklarız, sonra ikimizin de kabul edebileceği bir yol buluruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_022",
+      "speaker": "伴侣",
+      "zh": "如果一时谈不拢，我们会先停一下，等情绪平静了再继续。",
+      "pinyin": "rú guǒ yī shí tán bù lǒng ， wǒ men huì xiān tíng yī xià ， děng qíng xù píng jìng le zài jì xù 。",
+      "tr": "Hemen anlaşamazsak biraz ara verip sakinleşince konuşmaya devam ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_023",
+      "speaker": "刘梅",
+      "zh": "能停下来听对方说完，比急着争谁对谁错更重要。",
+      "pinyin": "néng tíng xià lái tīng duì fāng shuō wán ， bǐ jí zhe zhēng shuí duì shuí cuò gèng zhòng yào 。",
+      "tr": "Birbirinizi sonuna kadar dinleyebilmek kimin haklı olduğunu tartışmaktan daha önemli."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_024",
+      "speaker": "张伟",
+      "zh": "我年轻时不一定做得到，现在回头看，确实应该多听一点。",
+      "pinyin": "wǒ nián qīng shí bù yí dìng zuò dé dào ， xiàn zài huí tóu kàn ， què shí yīng gāi duō tīng yì diǎn 。",
+      "tr": "Gençken bunu her zaman yapamazdım; geriye bakınca daha çok dinlemem gerektiğini anlıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_025",
+      "speaker": "张雨桐",
+      "zh": "我们还在学习，有时也会说得不够好，但会再解释清楚。",
+      "pinyin": "wǒ men hái zài xué xí ， yǒu shí yě huì shuō dé bù gòu hǎo ， dàn huì zài jiě shì qīng chǔ 。",
+      "tr": "Biz de hâlâ öğreniyoruz; bazen kendimizi iyi anlatamasak da sonra açıklığa kavuşturuyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_026",
+      "speaker": "伴侣",
+      "zh": "我很欣赏雨桐愿意把心里的话说出来，也愿意听我的想法。",
+      "pinyin": "wǒ hěn xīn shǎng yǔ tóng yuàn yì bǎ xīn lǐ de huà shuō chū lái ， yě yuàn yì tīng wǒ de xiǎng fǎ 。",
+      "tr": "Yutong’un içinden geçenleri söylemesini ve benim fikrimi dinlemesini takdir ediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_027",
+      "speaker": "刘梅",
+      "zh": "听起来你们比较了解彼此了。今天见面，你最担心什么？",
+      "pinyin": "tīng qǐ lái nǐ men bǐ jiào liǎo jiě bǐ cǐ le 。 jīn tiān jiàn miàn ， nǐ zuì dān xīn shén me ？",
+      "tr": "Birbirinizi epey tanıyorsunuz gibi. Bugün tanışırken en çok ne konuda kaygılıydın?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_028",
+      "speaker": "张伟",
+      "zh": "如果不想回答也没关系，今天不用把所有事情都说完。",
+      "pinyin": "rú guǒ bù xiǎng huí dá yě méi guān xì ， jīn tiān bù yòng bǎ suǒ yǒu shì qíng dōu shuō wán 。",
+      "tr": "Cevaplamak istemezsen sorun değil; bugün her şeyi konuşmamız gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_029",
+      "speaker": "张雨桐",
+      "zh": "我最担心大家一下问太多，像是在检查我们准备得够不够。",
+      "pinyin": "wǒ zuì dān xīn dà jiā yī xià wèn tài duō ， xiàng shì zài jiǎn chá wǒ men zhǔn bèi dé gòu bù gòu 。",
+      "tr": "En çok herkesin peş peşe soru sorup hazırlığımızı denetler gibi olmasından kaygılanıyordum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_030",
+      "speaker": "伴侣",
+      "zh": "我也有一点紧张，不过你们愿意邀请我，我已经觉得很受欢迎了。",
+      "pinyin": "wǒ yě yǒu yì diǎn jǐn zhāng ， bù guò nǐ men yuàn yì yāo qǐng wǒ ， wǒ yǐ jīng jué de hěn shòu huān yíng le 。",
+      "tr": "Ben de biraz gerginim ama beni davet etmeniz bile kendimi hoş karşılanmış hissettirdi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_031",
+      "speaker": "刘梅",
+      "zh": "谢谢你直接告诉我们。我们只是好奇，也会注意别让你们有压力。",
+      "pinyin": "xiè xiè nǐ zhí jiē gào sù wǒ men 。 wǒ men zhǐ shì hào qí ， yě huì zhù yì bié ràng nǐ men yǒu yā lì 。",
+      "tr": "Bunu açıkça söylediğin için teşekkürler. Yalnızca merak ediyoruz; sizi baskı altında bırakmamaya dikkat ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_032",
+      "speaker": "张伟",
+      "zh": "我有时问得比较直接，如果不合适，你们可以告诉我。",
+      "pinyin": "wǒ yǒu shí wèn dé bǐ jiào zhí jiē ， rú guǒ bù hé shì ， nǐ men kě yǐ gào sù wǒ 。",
+      "tr": "Bazen fazla doğrudan soruyorum; uygun olmazsa bana söyleyebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_033",
+      "speaker": "张雨桐",
+      "zh": "好，我也会说明哪些事情还没决定，不让大家靠猜。",
+      "pinyin": "hǎo ， wǒ yě huì shuō míng nǎ xiē shì qíng hái méi jué dìng ， bù ràng dà jiā kào cāi 。",
+      "tr": "Peki, hangi konulara henüz karar vermediğimizi açıkça söyler, kimsenin tahmin yürütmesine gerek bırakmam."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_034",
+      "speaker": "伴侣",
+      "zh": "我们愿意聊未来，只是工作和住处还在商量，暂时没有具体日期。",
+      "pinyin": "wǒ men yuàn yì liáo wèi lái ， zhǐ shì gōng zuò hé zhù chù hái zài shāng liáng ， zàn shí méi yǒu jù tǐ rì qī 。",
+      "tr": "Geleceği konuşmaya açığız; yalnızca iş ve ev konularını hâlâ görüşüyoruz, kesin bir tarih yok."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_035",
+      "speaker": "刘梅",
+      "zh": "明白。先把工作和住处安排好，时间可以以后再定。",
+      "pinyin": "míng bái 。 xiān bǎ gōng zuò hé zhù chù ān pái hǎo ， shí jiān kě yǐ yǐ hòu zài dìng 。",
+      "tr": "Anladım. Önce iş ve ev düzenini kurun; zamanı sonra belirlersiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_036",
+      "speaker": "张伟",
+      "zh": "如果需要帮忙找资料或搬东西，跟我们说一声就好。",
+      "pinyin": "rú guǒ xū yào bāng máng zhǎo zī liào huò bān dōng xī ， gēn wǒ men shuō yī shēng jiù hǎo 。",
+      "tr": "Bilgi arama ya da taşınma konusunda yardım gerekirse bize haber verin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_037",
+      "speaker": "张雨桐",
+      "zh": "谢谢。我们会先自己商量，有需要时再请你们帮忙。",
+      "pinyin": "xiè xiè 。 wǒ men huì xiān zì jǐ shāng liáng ， yǒu xū yào shí zài qǐng nǐ men bāng máng 。",
+      "tr": "Teşekkürler. Önce kendi aramızda konuşur, gerekince yardımınızı isteriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_038",
+      "speaker": "伴侣",
+      "zh": "这样我们既能听听长辈的经验，也能为自己的选择负责。",
+      "pinyin": "zhè yàng wǒ men jì néng tīng tīng zhǎng bèi de jīng yàn ， yě néng wèi zì jǐ de xuǎn zé fù zé 。",
+      "tr": "Böylece büyüklerin deneyimini dinlerken kendi seçimlerimizin sorumluluğunu da alırız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_039",
+      "speaker": "刘梅",
+      "zh": "这很合理。家人的建议可以参考，决定还是你们自己做。",
+      "pinyin": "zhè hěn hé lǐ 。 jiā rén de jiàn yì kě yǐ cān kǎo ， jué dìng hái shì nǐ men zì jǐ zuò 。",
+      "tr": "Bu çok makul. Ailenin önerisini değerlendirebilirsiniz ama kararı kendiniz verirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_040",
+      "speaker": "张伟",
+      "zh": "对，关心你们不等于替你们安排生活。",
+      "pinyin": "duì ， guān xīn nǐ men bù děng yú tì nǐ men ān pái shēng huó 。",
+      "tr": "Evet, sizinle ilgilenmemiz hayatınızı sizin yerinize düzenlemek demek değil."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_041",
+      "speaker": "张雨桐",
+      "zh": "听你们这么说，我安心多了。刚才我怕你们觉得我们太独立。",
+      "pinyin": "tīng nǐ men zhè me shuō ， wǒ ān xīn duō le 。 gāng cái wǒ pà nǐ men jué de wǒ men tài dú lì 。",
+      "tr": "Böyle söylemeniz beni rahatlattı. Biraz önce fazla bağımsız olduğumuzu düşüneceğinizden korktum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_042",
+      "speaker": "伴侣",
+      "zh": "独立和亲近并不冲突，重要的是彼此知道需要什么。",
+      "pinyin": "dú lì hé qīn jìn bìng bù chōng tū ， zhòng yào de shì bǐ cǐ zhī dào xū yào shén me 。",
+      "tr": "Bağımsızlık ve yakınlık çelişmez; önemli olan birbirimizin neye ihtiyaç duyduğunu bilmek."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_043",
+      "speaker": "刘梅",
+      "zh": "说得好。你们愿意分享近况，我们就能更了解你们。",
+      "pinyin": "shuō dé hǎo 。 nǐ men yuàn yì fēn xiǎng jìn kuàng ， wǒ men jiù néng gèng liǎo jiě nǐ men 。",
+      "tr": "Güzel söyledin. Gelişmeleri paylaşırsanız sizi daha iyi anlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_044",
+      "speaker": "张伟",
+      "zh": "你们也可以先说今天想聊什么，不必等我们提问题。",
+      "pinyin": "nǐ men yě kě yǐ xiān shuō jīn tiān xiǎng liáo shén me ， bù bì děng wǒ men tí wèn tí 。",
+      "tr": "Bugün ne konuşmak istediğinizi siz de söyleyebilirsiniz; bizim soru sormamızı beklemeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_045",
+      "speaker": "张雨桐",
+      "zh": "那我想先听听你们最近在忙什么，别总围着我们的计划转。",
+      "pinyin": "nà wǒ xiǎng xiān tīng tīng nǐ men zuì jìn zài máng shén me ， bié zǒng wéi zhe wǒ men de jì huà zhuǎn 。",
+      "tr": "O halde önce sizin son zamanlarda neler yaptığınızı dinlemek isterim; sohbet yalnızca bizim planlarımız etrafında dönmesin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_046",
+      "speaker": "伴侣",
+      "zh": "我也想知道叔叔最近还常去爬山吗？雨桐以前说过你喜欢走步道。",
+      "pinyin": "wǒ yě xiǎng zhī dào shū shū zuì jìn hái cháng qù pá shān ma ？ yǔ tóng yǐ qián shuō guò nǐ xǐ huān zǒu bù dào 。",
+      "tr": "Amcanın hâlâ sık sık yürüyüşe gidip gitmediğini merak ediyorum. Yutong patikaları sevdiğini söylemişti."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_047",
+      "speaker": "刘梅",
+      "zh": "他最近去得少了，倒是我开始参加社区的插花课。",
+      "pinyin": "tā zuì jìn qù dé shǎo le ， dǎo shì wǒ kāi shǐ cān jiā shè qū de chā huā kè 。",
+      "tr": "Son zamanlarda daha az gidiyor; ben de mahalledeki çiçek düzenleme kursuna başladım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_048",
+      "speaker": "张伟",
+      "zh": "下周天气好，我们可以带你们去公园走走，再回来吃饭。",
+      "pinyin": "xià zhōu tiān qì hǎo ， wǒ men kě yǐ dài nǐ men qù gōng yuán zǒu zǒu ， zài huí lái chī fàn 。",
+      "tr": "Gelecek hafta hava güzel olursa sizi parkta yürüyüşe götürüp sonra eve yemeğe getirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_049",
+      "speaker": "张雨桐",
+      "zh": "要是下周天气合适，我们就提前约好时间，别临时通知你们。",
+      "pinyin": "Yàoshi xià zhōu tiānqì héshì, wǒmen jiù tíqián yuē hǎo shíjiān, bié línshí tōngzhī nǐmen.",
+      "tr": "Gelecek hafta hava uygunsa önceden bir zaman belirleyelim; sizi son anda haberdar etmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_050",
+      "speaker": "伴侣",
+      "zh": "好啊，那天我们正好不忙，也想多听听你们的故事。",
+      "pinyin": "hǎo a ， nà tiān wǒ men zhèng hǎo bù máng ， yě xiǎng duō tīng tīng nǐ men de gù shì 。",
+      "tr": "Olur, o gün meşgul olmayız; sizin hikâyelerinizi de dinlemek isteriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_051",
+      "speaker": "刘梅",
+      "zh": "你们愿意把想法告诉我们，我们已经很高兴了。",
+      "pinyin": "nǐ men yuàn yì bǎ xiǎng fǎ gào sù wǒ men ， wǒ men yǐ jīng hěn gāo xìng le 。",
+      "tr": "Düşüncelerinizi bizimle paylaşmanız bile bizi çok sevindirdi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_052",
+      "speaker": "张伟",
+      "zh": "是啊，今晚是一起吃饭，不是要你们把所有计划都定下来。",
+      "pinyin": "shì a ， jīn wǎn shì yì qǐ chī fàn ， bú shì yào nǐ men bǎ suǒ yǒu jì huà dōu dìng xià lái 。",
+      "tr": "Evet, bu akşam birlikte yemek yiyoruz; bütün planlarınızı karara bağlamanız gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_053",
+      "speaker": "张雨桐",
+      "zh": "谢谢你们。我想让你们认识他，也希望你们知道我们认真考虑过未来。",
+      "pinyin": "xiè xiè nǐ men 。 wǒ xiǎng ràng nǐ men rèn shí tā ， yě xī wàng nǐ men zhī dào wǒ men rèn zhēn kǎo lǜ guò wèi lái 。",
+      "tr": "Teşekkür ederim. Onunla tanışmanızı ve geleceğimizi ciddi biçimde düşündüğümüzü bilmenizi istedim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_054",
+      "speaker": "伴侣",
+      "zh": "我们还在商量时间和住处，想好以后再告诉大家。",
+      "pinyin": "wǒ men hái zài shāng liáng shí jiān hé zhù chù ， xiǎng hǎo yǐ hòu zài gào sù dà jiā 。",
+      "tr": "Zamanı ve nerede yaşayacağımızı hâlâ konuşuyoruz; netleşince size anlatırız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_055",
+      "speaker": "刘梅",
+      "zh": "慢慢商量就好。你们现在最希望先安排什么？",
+      "pinyin": "màn màn shāng liáng jiù hǎo 。 nǐ men xiàn zài zuì xī wàng xiān ān pái shén me ？",
+      "tr": "Acele etmeyin. Şu anda önce hangi konuyu netleştirmek istiyorsunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_056",
+      "speaker": "张伟",
+      "zh": "我猜你们都很忙，见面的时间可能也要提前计划。",
+      "pinyin": "wǒ cāi nǐ men dōu hěn máng ， jiàn miàn de shí jiān kě néng yě yào tí qián jì huà 。",
+      "tr": "İkinizin de meşgul olduğunu tahmin ediyorum; buluşmaları önceden planlamak gerekebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_057",
+      "speaker": "张雨桐",
+      "zh": "对，我们想先把工作和休息安排好，再讨论具体日期。",
+      "pinyin": "duì ， wǒ men xiǎng xiān bǎ gōng zuò hé xiū xī ān pái hǎo ， zài tǎo lùn jù tǐ rì qī 。",
+      "tr": "Evet, önce iş ve dinlenme düzenimizi oturtup sonra tarihleri konuşmak istiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_058",
+      "speaker": "伴侣",
+      "zh": "这样比较实际。我们不想为了赶时间，把重要的事情草草决定。",
+      "pinyin": "zhè yàng bǐ jiào shí jì 。 wǒ men bù xiǎng wèi le gǎn shí jiān ， bǎ zhòng yào de shì qíng cǎo cǎo jué dìng 。",
+      "tr": "Bu daha gerçekçi. Aceleye getirip önemli şeyleri üstünkörü kararlaştırmak istemiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_059",
+      "speaker": "刘梅",
+      "zh": "你们能这样想，我就放心了。需要帮忙时，记得开口。",
+      "pinyin": "nǐ men néng zhè yàng xiǎng ， wǒ jiù fàng xīn le 。 xū yào bāng máng shí ， jì de kāi kǒu 。",
+      "tr": "Böyle düşünmeniz içimi rahatlattı. Yardım gerekirse söyleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_060",
+      "speaker": "张伟",
+      "zh": "我也想问问，你们打算住在离工作近的地方吗？",
+      "pinyin": "wǒ yě xiǎng wèn wèn ， nǐ men dǎ suàn zhù zài lí gōng zuò jìn de dì fāng ma ？",
+      "tr": "İşlerinize yakın bir yerde yaşamayı düşünüyor musunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_061",
+      "speaker": "张雨桐",
+      "zh": "还没决定。通勤时间和房租都要考虑，我们会一起比较。",
+      "pinyin": "hái méi jué dìng 。 tōng qín shí jiān hé fáng zū dōu yào kǎo lǜ ， wǒ men huì yì qǐ bǐ jiào 。",
+      "tr": "Henüz karar vermedik. Ulaşım süresiyle kirayı birlikte değerlendireceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_062",
+      "speaker": "伴侣",
+      "zh": "我们先列出实际开销，再看看每种选择合不合适。",
+      "pinyin": "wǒ men xiān liè chū shí jì kāi xiāo ， zài kàn kàn měi zhǒng xuǎn zé hé bù hé shì 。",
+      "tr": "Önce gerçek giderleri çıkarıp her seçeneğin uygun olup olmadığına bakacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_063",
+      "speaker": "刘梅",
+      "zh": "需要比较就慢慢比，别只听别人说哪种安排最好。",
+      "pinyin": "xū yào bǐ jiào jiù màn màn bǐ ， bié zhǐ tīng bié rén shuō nǎ zhǒng ān pái zuì hǎo 。",
+      "tr": "Karşılaştırmanız gerekiyorsa zaman ayırın; başkalarının en iyi dediğine göre karar vermeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_064",
+      "speaker": "张伟",
+      "zh": "每个人情况不同，适合我们的办法不一定适合你们。",
+      "pinyin": "měi gè rén qíng kuàng bù tóng ， shì hé wǒ men de bàn fǎ bù yí dìng shì hé nǐ men 。",
+      "tr": "Herkesin koşulu farklı; bize uyan yöntem size uymayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_065",
+      "speaker": "张雨桐",
+      "zh": "这正是我们想自己商量的原因，也会听你们的建议。",
+      "pinyin": "zhè zhèng shì wǒ men xiǎng zì jǐ shāng liáng de yuán yīn ， yě huì tīng nǐ men de jiàn yì 。",
+      "tr": "Kendi aramızda konuşmak istememizin nedeni bu; sizin önerilerinizi de dinleyeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_066",
+      "speaker": "伴侣",
+      "zh": "如果我们看漏了什么，也请你们提醒，但最后让我们自己决定。",
+      "pinyin": "rú guǒ wǒ men kàn lòu le shén me ， yě qǐng nǐ men tí xǐng ， dàn zuì hòu ràng wǒ men zì jǐ jué dìng 。",
+      "tr": "Bir şeyi gözden kaçırırsak bizi uyarın; son kararı yine kendimiz vermek isteriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_067",
+      "speaker": "刘梅",
+      "zh": "当然。提醒是关心，替你们决定就不合适了。",
+      "pinyin": "dāng rán 。 tí xǐng shì guān xīn ， tì nǐ men jué dìng jiù bù hé shì le 。",
+      "tr": "Elbette. Hatırlatmak ilgi göstermektir; sizin yerinize karar vermek doğru olmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_068",
+      "speaker": "张伟",
+      "zh": "我以前问得太细，可能让你们觉得有压力，对不起。",
+      "pinyin": "wǒ yǐ qián wèn dé tài xì ， kě néng ràng nǐ men jué de yǒu yā lì ， duì bù qǐ 。",
+      "tr": "Daha önce fazla ayrıntı sorduysam sizi baskı altında hissettirmiş olabilirim; özür dilerim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_069",
+      "speaker": "张雨桐",
+      "zh": "谢谢你愿意说出来。我知道你是担心我们过得不好。",
+      "pinyin": "xiè xiè nǐ yuàn yì shuō chū lái 。 wǒ zhī dào nǐ shì dān xīn wǒ men guò dé bù hǎo 。",
+      "tr": "Bunu söylemen teşekkür ederim. İyi olmamız için kaygılandığını biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_070",
+      "speaker": "伴侣",
+      "zh": "我也不介意回答问题，只是有些事情我们还没想好。",
+      "pinyin": "wǒ yě bù jiè yì huí dá wèn tí ， zhǐ shì yǒu xiē shì qíng wǒ men hái méi xiǎng hǎo 。",
+      "tr": "Sorulara cevap vermem sorun değil; yalnızca bazı şeyleri henüz netleştirmedik."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_071",
+      "speaker": "刘梅",
+      "zh": "那就等想清楚再聊，不用为了让我们安心而勉强回答。",
+      "pinyin": "nà jiù děng xiǎng qīng chǔ zài liáo ， bù yòng wèi le ràng wǒ men ān xīn ér miǎn qiǎng huí dá 。",
+      "tr": "O zaman netleşince konuşuruz; bizi rahatlatmak için cevap vermek zorunda değilsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_072",
+      "speaker": "张伟",
+      "zh": "你们对婚后的生活，有没有特别担心的地方？",
+      "pinyin": "nǐ men duì hūn hòu de shēng huó ， yǒu méi yǒu tè bié dān xīn de dì fāng ？",
+      "tr": "Evlilik sonrasındaki yaşamla ilgili özellikle kaygı duyduğunuz bir konu var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_073",
+      "speaker": "张雨桐",
+      "zh": "我担心工作太忙以后，我们会把相处时间越挤越少。",
+      "pinyin": "wǒ dān xīn gōng zuò tài máng yǐ hòu ， wǒ men huì bǎ xiāng chǔ shí jiān yuè jǐ yuè shǎo 。",
+      "tr": "İşler yoğunlaşınca birlikte geçirdiğimiz zamanı giderek azaltmaktan kaygılanıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_074",
+      "speaker": "伴侣",
+      "zh": "我也有这个担心，所以想固定留出一起休息的时间。",
+      "pinyin": "wǒ yě yǒu zhè ge dān xīn ， suǒ yǐ xiǎng gù dìng liú chū yì qǐ xiū xī de shí jiān 。",
+      "tr": "Ben de bundan kaygılıyım; bu yüzden birlikte dinleneceğimiz düzenli zaman ayırmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_075",
+      "speaker": "刘梅",
+      "zh": "这个想法很好，不过也别把每周安排得太紧，留点弹性。",
+      "pinyin": "zhè ge xiǎng fǎ hěn hǎo ， bù guò yě bié bǎ měi zhōu ān pái dé tài jǐn ， liú diǎn tán xìng 。",
+      "tr": "Bu iyi fikir; ama haftanızı fazla doldurmayın, biraz esnek zaman bırakın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_076",
+      "speaker": "张伟",
+      "zh": "如果临时有工作，也别把没能见面看成谁不重视谁。",
+      "pinyin": "rú guǒ lín shí yǒu gōng zuò ， yě bié bǎ méi néng jiàn miàn kàn chéng shuí bù zhòng shì shuí 。",
+      "tr": "İş aniden çıkarsa görüşememeyi birinizin diğerini önemsememesi olarak görmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_077",
+      "speaker": "张雨桐",
+      "zh": "我们可以提前告诉对方，也重新找时间，不让误会一直留着。",
+      "pinyin": "wǒ men kě yǐ tí qián gào sù duì fāng ， yě chóng xīn zhǎo shí jiān ， bù ràng wù huì yì zhí liú zhe 。",
+      "tr": "Birbirimize önceden haber verip başka zaman ayarlayabilir, yanlış anlaşılmayı büyümeden çözebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_078",
+      "speaker": "伴侣",
+      "zh": "对，及时说清楚，比让对方猜要好。",
+      "pinyin": "duì ， jí shí shuō qīng chǔ ， bǐ ràng duì fāng cāi yào hǎo 。",
+      "tr": "Evet, zamanında açıklamak karşı tarafı tahmin yürütmeye bırakmaktan iyidir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_079",
+      "speaker": "刘梅",
+      "zh": "家里人也会有意见，但你们可以先听，再决定采不采纳。",
+      "pinyin": "jiā lǐ rén yě huì yǒu yì jiàn ， dàn nǐ men kě yǐ xiān tīng ， zài jué dìng cǎi bù cǎi nà 。",
+      "tr": "Ailedekilerin de görüşleri olur; önce dinleyip sonra uygulayıp uygulamayacağınıza karar verin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_080",
+      "speaker": "张伟",
+      "zh": "尤其是住处和工作，最后还是要看你们每天怎么生活。",
+      "pinyin": "yóu qí shì zhù chù hé gōng zuò ， zuì hòu hái shì yào kàn nǐ men měi tiān zěn me shēng huó 。",
+      "tr": "Özellikle ev ve iş konusunda son karar günlük hayatınıza bağlı olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_081",
+      "speaker": "张雨桐",
+      "zh": "我想以后离双方家人都不要太远，但也得看通勤和预算。",
+      "pinyin": "wǒ xiǎng yǐ hòu lí shuāng fāng jiā rén dōu bú yào tài yuǎn ， dàn yě dé kàn tōng qín hé yù suàn 。",
+      "tr": "İki ailenin de çok uzağında yaşamamak isterim; ama ulaşımı ve bütçeyi de düşünmeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_082",
+      "speaker": "伴侣",
+      "zh": "我们可以把几个区域列出来，周末一起去看看。",
+      "pinyin": "wǒ men kě yǐ bǎ jǐ gè qū yù liè chū lái ， zhōu mò yì qǐ qù kàn kàn 。",
+      "tr": "Birkaç semti listeleyip hafta sonu birlikte gezebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_083",
+      "speaker": "刘梅",
+      "zh": "需要我们陪你们看房的话，可以约个时间。",
+      "pinyin": "xū yào wǒ men péi nǐ men kàn fáng de huà ， kě yǐ yuē gè shí jiān 。",
+      "tr": "Ev bakarken bize eşlik etmemizi isterseniz zaman ayarlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_084",
+      "speaker": "张伟",
+      "zh": "不过先说明，我只给建议，不会替你们挑。",
+      "pinyin": "bù guò xiān shuō míng ， wǒ zhǐ gěi jiàn yì ， bú huì tì nǐ men tiāo 。",
+      "tr": "Ama baştan söyleyeyim: yalnızca öneri veririm, sizin yerinize seçmem."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_085",
+      "speaker": "张雨桐",
+      "zh": "这样正好。我们需要经验，也需要自己做决定的空间。",
+      "pinyin": "zhè yàng zhèng hǎo 。 wǒ men xū yào jīng yàn ， yě xū yào zì jǐ zuò jué dìng de kōng jiān 。",
+      "tr": "Bu tam istediğimiz şey. Deneyiminize ihtiyacımız var ama kendi kararlarımız için de alana ihtiyacımız var."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_086",
+      "speaker": "伴侣",
+      "zh": "等我们有了比较明确的想法，再请你们一起看看。",
+      "pinyin": "děng wǒ men yǒu le bǐ jiào míng què de xiǎng fǎ ， zài qǐng nǐ men yì qǐ kàn kàn 。",
+      "tr": "Daha net bir fikrimiz olduğunda sizinle birlikte değerlendirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_087",
+      "speaker": "刘梅",
+      "zh": "好。你们不需要一次就找到完美的安排。",
+      "pinyin": "hǎo 。 nǐ men bù xū yào yī cì jiù zhǎo dào wán měi de ān pái 。",
+      "tr": "Peki. Kusursuz düzeni ilk seferde bulmanız gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_088",
+      "speaker": "张伟",
+      "zh": "有些事住进去以后才知道合不合适，到时再调整也行。",
+      "pinyin": "yǒu xiē shì zhù jìn qù yǐ hòu cái zhī dào hé bù hé shì ， dào shí zài tiáo zhěng yě xíng 。",
+      "tr": "Bazı şeylerin uygun olup olmadığını ancak yaşayınca anlarsınız; o zaman değiştirirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_089",
+      "speaker": "张雨桐",
+      "zh": "听你这么说，我觉得不用把每个细节都提前解决。",
+      "pinyin": "tīng nǐ zhè me shuō ， wǒ jué de bù yòng bǎ měi gè xì jié dōu tí qián jiě jué 。",
+      "tr": "Bunu söylemen, her ayrıntıyı önceden çözmemiz gerekmediğini hissettirdi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_090",
+      "speaker": "伴侣",
+      "zh": "我们先把最重要的几件事谈好，其他的边走边商量。",
+      "pinyin": "wǒ men xiān bǎ zuì zhòng yào de jǐ jiàn shì tán hǎo ， qí tā de biān zǒu biān shāng liáng 。",
+      "tr": "Önce en önemli birkaç konuyu konuşup geri kalanını zamanla kararlaştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_091",
+      "speaker": "刘梅",
+      "zh": "你们的节奏由你们决定，我们愿意听，也愿意等。",
+      "pinyin": "nǐ men de jié zòu yóu nǐ men jué dìng ， wǒ men yuàn yì tīng ， yě yuàn yì děng 。",
+      "tr": "Temponuza siz karar verin; dinlemeye de beklemeye de hazırız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_092",
+      "speaker": "张伟",
+      "zh": "以后有好消息就告诉我们，有困难也一样可以说。",
+      "pinyin": "yǐ hòu yǒu hǎo xiāo xī jiù gào sù wǒ men ， yǒu kùn nán yě yī yàng kě yǐ shuō 。",
+      "tr": "Güzel haberleri de zorlandığınız şeyleri de bize anlatabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_093",
+      "speaker": "张雨桐",
+      "zh": "我会的。今晚能把这些话说开，我心里轻松多了。",
+      "pinyin": "wǒ huì de 。 jīn wǎn néng bǎ zhè xiē huà shuō kāi ， wǒ xīn lǐ qīng sōng duō le 。",
+      "tr": "Anlatacağım. Bu akşam bunları açıkça konuşabilmek içimi rahatlattı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_094",
+      "speaker": "伴侣",
+      "zh": "我也是。谢谢你们认真听我们说，而不是急着给答案。",
+      "pinyin": "wǒ yě shì 。 xiè xiè nǐ men rèn zhēn tīng wǒ men shuō ， ér bú shì jí zhe gěi dá àn 。",
+      "tr": "Ben de öyle. Bizi dinlediğiniz ve hemen cevap dayatmadığınız için teşekkür ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_095",
+      "speaker": "刘梅",
+      "zh": "这顿饭先好好吃。住处和日期的事，等你们准备好再谈。",
+      "pinyin": "zhè dùn fàn xiān hǎo hǎo chī 。 zhù chù hé rì qī de shì ， děng nǐ men zhǔn bèi hǎo zài tán 。",
+      "tr": "Önce yemeğimizin tadını çıkaralım. Ev ve tarih konularını hazır olduğunuzda konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_096",
+      "speaker": "张伟",
+      "zh": "那我先给大家盛汤，今天不再盘问你们了。",
+      "pinyin": "nà wǒ xiān gěi dà jiā shèng tāng ， jīn tiān bù zài pán wèn nǐ men le 。",
+      "tr": "O zaman herkese çorba koyayım; bugün sizi daha fazla sorgulamayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_097",
+      "speaker": "张雨桐",
+      "zh": "谢谢，吃完饭我们再聊聊你们最近的事。",
+      "pinyin": "xiè xiè ， chī wán fàn wǒ men zài liáo liáo nǐ men zuì jìn de shì 。",
+      "tr": "Teşekkürler. Yemekten sonra sizin son zamanlarda neler yaptığınızı konuşalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_098",
+      "speaker": "伴侣",
+      "zh": "好啊，我还想听听雨桐小时候的故事。",
+      "pinyin": "hǎo a ， wǒ hái xiǎng tīng tīng yǔ tóng xiǎo shí hòu de gù shì 。",
+      "tr": "Olur, Yutong'un çocukluk hikâyelerini de dinlemek isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_099",
+      "speaker": "刘梅",
+      "zh": "那可有得聊了。先吃饭，汤凉了就不好喝。",
+      "pinyin": "nà kě yǒu dé liáo le 。 xiān chī fàn ， tāng liáng le jiù bù hǎo hē 。",
+      "tr": "Anlatacak çok şey var. Önce yemeğimizi yiyelim; çorba soğursa tadı kaçar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC021_100",
+      "speaker": "张伟",
+      "zh": "说得对，大家边吃边聊，今晚不赶时间。",
+      "pinyin": "shuō dé duì ， dà jiā biān chī biān liáo ， jīn wǎn bù gǎn shí jiān 。",
+      "tr": "Doğru; acelemiz yok, yemeğimizi yiyip sohbet edelim."
+    }
+  ]
+}

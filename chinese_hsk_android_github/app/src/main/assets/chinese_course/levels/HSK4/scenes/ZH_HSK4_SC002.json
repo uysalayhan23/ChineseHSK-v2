@@ -53,37 +53,37 @@
     {
       "id": "DLG_ZH_HSK4_SC002_007",
       "speaker": "爷爷",
-      "zh": "收获这件事，大家还有什么要补充的？",
-      "pinyin": "Shōuhuò zhèjiàn shì, dàjiā háiyǒu shénme yào bǔchōng de?",
-      "tr": "Hasat konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "说到最后一次收获，你们还记得那天吗？",
+      "pinyin": "Shuō dào zuìhòu yīcì shōuhuò, nǐmen hái jìde nàtiān ma?",
+      "tr": "Son hasat zamanını hatırlıyor musunuz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC002_008",
       "speaker": "奶奶",
-      "zh": "这一点我同意。",
-      "pinyin": "Zhè yìdiǎn wǒ tóngyì.",
-      "tr": "Bu noktaya katılıyorum."
+      "zh": "记得，虽然收成不多，可全家人都在一起忙活，我一直记着。",
+      "pinyin": "Jìde, suīrán shōuchéng bù duō, kě quánjiārén dōu zài yìqǐ mánghuó, wǒ yìzhí jìzhe.",
+      "tr": "Hatırlıyorum; hasat azdı ama bütün aile birlikte çalışıyordu, bunu hâlâ unutmuyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC002_009",
       "speaker": "张伟",
-      "zh": "我们得先看看农场是否真的合适。",
-      "pinyin": "Wǒmen dé xiān kànkàn nóngchǎng shìfǒu zhēnde héshì.",
-      "tr": "Önce çiftlik gerçekten uygun mu bakmalıyız."
+      "zh": "我也记得大家忙了一整天。现在农场的情况变了，我们得重新看看怎么安排。",
+      "pinyin": "Wǒ yě jìde dàjiā máng le yīzhěngtiān. xiànzài nóngchǎng de qíngkuàng biàn le, wǒmen dé chóngxīn kànkàn zěnme ānpái.",
+      "tr": "Ben de herkesin bütün gün çalıştığını hatırlıyorum. Şimdi çiftliğin koşulları değişti; nasıl ilerleyeceğimizi yeniden düşünmeliyiz."
     },
     {
       "id": "DLG_ZH_HSK4_SC002_010",
       "speaker": "刘梅",
-      "zh": "过去不能重来，但它会影响我们现在怎么看生活。",
-      "pinyin": "Guòqù bùnéng zhòng lái, dàn tā huì yǐngxiǎng wǒmen xiànzài zěnme kàn shēnghuó.",
-      "tr": "Geçmiş tekrar yaşanamaz ama bugün hayata nasıl baktığımızı etkiler."
+      "zh": "是啊，农产品卖得怎么样，也会影响农场以后怎么经营。",
+      "pinyin": "Shì a, nóngchǎnpǐn màidé zěnmeyàng, yě huì yǐngxiǎng nóngchǎng yǐhòu zěnme jīngyíng.",
+      "tr": "Evet, tarım ürünlerinin satış durumu çiftliğin gelecekte nasıl işletileceğini de etkiler."
     },
     {
       "id": "DLG_ZH_HSK4_SC002_011",
       "speaker": "爷爷",
-      "zh": "那再把告别这一点加上。",
-      "pinyin": "Nà zài bǎ gàobié zhè yìdiǎn jiāshàng.",
-      "tr": "Veda etmek konusunu da değerlendirme kapsamına alalım."
+      "zh": "既然快要告别农场了，我们也想想哪些东西值得留下吧。",
+      "pinyin": "Jìrán kuàiyào gàobié nóngchǎng le, wǒmen yě xiǎngxiǎng nǎxiē dōngxī zhíde liúxià ba.",
+      "tr": "Çiftlikten ayrılmadan önce hangi eşyaları saklamaya değer, onu da düşünelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC002_012",
@@ -95,9 +95,9 @@
     {
       "id": "DLG_ZH_HSK4_SC002_013",
       "speaker": "张伟",
-      "zh": "农产品要是有新变化，我们就得重新安排。",
-      "pinyin": "Nóngchǎnpǐn yàoshì yǒu xīn biànhuà, wǒmen jiù dé chóngxīnānpái.",
-      "tr": "Tarım ürünü değişirse planı da ayarlamak gerekir."
+      "zh": "我们把收获的过程记下来，以后也能让孩子们了解那段日子。",
+      "pinyin": "Wǒmen bǎ shōuhuò de guòchéng jìxiàlái, yǐhòu yě néng ràng háizi men liǎojiě nàduàn rìzi.",
+      "tr": "Hasat sürecini kayda geçirelim; çocuklar da ileride o günleri öğrenir."
     },
     {
       "id": "DLG_ZH_HSK4_SC002_014",
@@ -144,16 +144,16 @@
     {
       "id": "DLG_ZH_HSK4_SC002_020",
       "speaker": "奶奶",
-      "zh": "这一点我同意。",
-      "pinyin": "Zhè yìdiǎn wǒ tóngyì.",
-      "tr": "Bu noktaya katılıyorum."
+      "zh": "想到这是最后一次收获，我心里还是有些不舍。",
+      "pinyin": "Xiǎng dào zhè shì zuì hòu yī cì shōu huò, wǒ xīn lǐ hái shì yǒu xiē bù shě.",
+      "tr": "Bunun son hasat olacağını düşününce içim burkuluyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC002_021",
       "speaker": "张伟",
-      "zh": "季节要是有新变化，我们就得重新安排。",
-      "pinyin": "Jìjié yàoshì yǒu xīn biànhuà, wǒmen jiù dé chóngxīnānpái.",
-      "tr": "Mevsim değişirse planı da ayarlamak gerekir."
+      "zh": "收获的季节每年都不一样，安排人手时要提前看看天气。",
+      "pinyin": "Shōuhuò de jìjié měinián dōu bù yīyàng, ānpái rénshǒu shíyào tíqián kànkàn tiānqì.",
+      "tr": "Hasat mevsimi her yıl farklı olur; işgücünü ayarlarken havayı önceden kontrol etmek gerekir."
     },
     {
       "id": "DLG_ZH_HSK4_SC002_022",
@@ -550,9 +550,9 @@
     {
       "id": "DLG_ZH_HSK4_SC002_078",
       "speaker": "刘梅",
-      "zh": "我们把收获也算进去。",
-      "pinyin": "Wǒmen bǎ shōuhuò yě suànjìnqù.",
-      "tr": "Hasat konusunu da değerlendirme kapsamına alalım."
+      "zh": "这段收获的经历值得记下来，以后我们还能一起回忆。",
+      "pinyin": "Zhè duàn shōuhuò de jīnglì zhíde jìxiàlái, yǐhòu wǒmen hái néng yìqǐ huíyì.",
+      "tr": "Bu hasat deneyimini yazmaya değer; sonra birlikte hatırlayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC002_079",
@@ -585,9 +585,9 @@
     {
       "id": "DLG_ZH_HSK4_SC002_083",
       "speaker": "爷爷",
-      "zh": "好，这点我记一下。",
-      "pinyin": "Hǎo, zhèdiǎn wǒjì yīxià.",
-      "tr": "Bu noktayı not edeyim."
+      "zh": "好，我把大家刚才说的都记下来。",
+      "pinyin": "Hǎo, wǒ bǎ dàjiā gāngcái shuō de dōu jìxiàlái.",
+      "tr": "Peki, az önce herkesin söylediklerini not alıyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC002_084",
@@ -613,16 +613,16 @@
     {
       "id": "DLG_ZH_HSK4_SC002_087",
       "speaker": "爷爷",
-      "zh": "嗯，这一点我赞成。",
-      "pinyin": "En, zhè yìdiǎn wǒ zànchéng.",
-      "tr": "Bu noktaya katılıyorum."
+      "zh": "好，旧照片和信也一起整理，免得搬家时弄丢。",
+      "pinyin": "Hǎo, jiù zhàopiān hé xìn yě yìqǐ zhěnglǐ, miǎnde bānjiā shí nòng diū.",
+      "tr": "Peki, eski fotoğrafları ve mektupları da birlikte ayıklayalım ki taşınırken kaybolmasınlar."
     },
     {
       "id": "DLG_ZH_HSK4_SC002_088",
       "speaker": "奶奶",
-      "zh": "如果传统的情况变了，我们的安排也要跟着调整。",
-      "pinyin": "Rúguǒ chuántǒng de qíngkuàng biàn le, wǒmen de ānpái yě yào gēnzhe tiáozhěng.",
-      "tr": "Gelenek değişirse planı da ayarlamak gerekir."
+      "zh": "家里的老习惯以后可能会变，但这些回忆我们可以一直留着。",
+      "pinyin": "Jiālǐ de lǎo xíguàn yǐhòu kěnéng huìbiàn, dàn zhèxiē huíyì wǒmen kěyǐ yìzhí liúzhe.",
+      "tr": "Ailedeki eski alışkanlıklar ileride değişebilir ama bu anıları hep saklayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC002_089",

@@ -1,0 +1,710 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK5_SC036",
+  "level": "HSK5",
+  "sourceTitleZh": "雨桐的毕业项目",
+  "sourceTitleTr": "Yutong Mezuniyet Projesi",
+  "sourceMiniAdventureTr": "Yutong final projesini jüri önünde savunmaya hazırlanır.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK5_SC036_001",
+      "speaker": "张雨桐",
+      "zh": "我的毕业项目要研究学生怎么使用图书馆，月底还要做公开汇报。",
+      "pinyin": "wǒ de bì yè xiàng mù yào yán jiū xué shēng zěn me shǐ yòng tú shū guǎn ， yuè dǐ hái yào zuò gōng kāi huì bào 。",
+      "tr": "Mezuniyet projemde öğrencilerin kütüphaneyi nasıl kullandığını araştırıyorum; ay sonunda açık sunum da yapacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_002",
+      "speaker": "导师",
+      "zh": "你现在最想让听众记住的结论是什么？",
+      "pinyin": "nǐ xiàn zài zuì xiǎng ràng tīng zhòng jì zhù de jié lùn shì shén me ？",
+      "tr": "Dinleyicilerin aklında kalmasını istediğin temel sonuç nedir?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_003",
+      "speaker": "同学",
+      "zh": "我看了你的草稿，资料不少，不过主要观点还不够突出。",
+      "pinyin": "wǒ kàn le nǐ de cǎo gǎo ， zī liào bù shǎo ， bù guò zhǔ yào guān diǎn hái bù gòu tū chū 。",
+      "tr": "Taslağını inceledim. Kaynak çok ama ana görüşün henüz yeterince öne çıkmıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_004",
+      "speaker": "刘梅",
+      "zh": "听到这样的意见会不舒服，不过它能帮你知道该从哪里改。",
+      "pinyin": "tīng dào zhè yàng de yì jiàn huì bù shū fú ， bù guò tā néng bāng nǐ zhī dào gāi cóng nǎ lǐ gǎi 。",
+      "tr": "Böyle bir yorum duymak can sıkıcı olabilir ama nereden düzeltmeye başlaman gerektiğini gösterir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_005",
+      "speaker": "张雨桐",
+      "zh": "我原来想把观察、访谈和问卷都放进去，结果每一部分都讲得很快。",
+      "pinyin": "wǒ yuán lái xiǎng bǎ guān chá 、 fǎng tán hé wèn juǎn dōu fàng jìn qù ， jié guǒ měi yī bù fèn dōu jiǎng dé hěn kuài 。",
+      "tr": "Gözlemleri, röportajları ve anketi bir arada sunmak istedim; sonuçta her bölümü çok hızlı anlattım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_006",
+      "speaker": "导师",
+      "zh": "先确定一个中心问题，其他材料都要帮助回答它。",
+      "pinyin": "xiān què dìng yí gè zhōng xīn wèn tí ， qí tā cái liào dōu yào bāng zhù huí dá tā 。",
+      "tr": "Önce ana soruyu belirle; diğer bütün malzemeler ona yanıt vermene yardımcı olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_007",
+      "speaker": "同学",
+      "zh": "你想说明学生为什么选择某些座位，还是想比较不同空间的使用情况？",
+      "pinyin": "nǐ xiǎng shuō míng xué shēng wèi shén me xuǎn zé mǒu xiē zuò wèi ， hái shì xiǎng bǐ jiào bù tóng kōng jiān de shǐ yòng qíng kuàng ？",
+      "tr": "Öğrencilerin neden belirli koltukları seçtiğini mi açıklamak istiyorsun, yoksa farklı alanların kullanımını mı karşılaştırıyorsun?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_008",
+      "speaker": "刘梅",
+      "zh": "把问题说得具体一点，听的人就更容易跟上。",
+      "pinyin": "bǎ wèn tí shuō dé jù tǐ yì diǎn ， tīng de rén jiù gèng róng yì gēn shàng 。",
+      "tr": "Soruyu biraz daha somutlaştırırsan dinleyenlerin seni izlemesi kolaylaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_009",
+      "speaker": "张雨桐",
+      "zh": "与单看问卷结果相比，我觉得访谈更能解释他们为什么这样选择。",
+      "pinyin": "yǔ dān kàn wèn juǎn jié guǒ xiāng bǐ ， wǒ jué de fǎng tán gèng néng jiě shì tā men wèi shén me zhè yàng xuǎn zé 。",
+      "tr": "Anket sonuçlarına tek başına bakmakla karşılaştırınca, bu seçimlerin nedenini röportajların daha iyi açıkladığını düşünüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_010",
+      "speaker": "导师",
+      "zh": "那就把问卷作为整体趋势，把访谈作为解释原因的例子。",
+      "pinyin": "nà jiù bǎ wèn juǎn zuò wéi zhěng tǐ qū shì ， bǎ fǎng tán zuò wéi jiě shì yuán yīn de lì zi 。",
+      "tr": "O hâlde anketi genel eğilimi göstermek, röportajları da nedenleri açıklayan örnekler olarak kullan."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_011",
+      "speaker": "同学",
+      "zh": "你有多少份问卷？样本是怎么选出来的？",
+      "pinyin": "nǐ yǒu duō shǎo fèn wèn juǎn ？ yàng běn shì zěn me xuǎn chū lái de ？",
+      "tr": "Kaç anket yanıtın var? Katılımcıları nasıl seçtin?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_012",
+      "speaker": "刘梅",
+      "zh": "如果数量有限，就在汇报里说明范围，不要把结论说得太大。",
+      "pinyin": "rú guǒ shù liàng yǒu xiàn ， jiù zài huì bào lǐ shuō míng fàn wéi ， bú yào bǎ jié lùn shuō dé tài dà 。",
+      "tr": "Sayı sınırlıysa sunumda kapsamı açıkla; sonucu olduğundan daha geniş göstermemelisin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_013",
+      "speaker": "张雨桐",
+      "zh": "我收到了六十份问卷，也访谈了八位不同年级的学生。",
+      "pinyin": "wǒ shōu dào le liù shí fèn wèn juǎn ， yě fǎng tán le bā wèi bù tóng nián jí de xué shēng 。",
+      "tr": "Altmış anket yanıtı aldım ve farklı sınıflardan sekiz öğrenciyle görüştüm."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_014",
+      "speaker": "导师",
+      "zh": "很好。还要交代调查时间、地点和你采用的筛选方式。",
+      "pinyin": "hěn hǎo 。 hái yào jiāo dài diào chá shí jiān 、 dì diǎn hé nǐ cǎi yòng de shāi xuǎn fāng shì 。",
+      "tr": "Güzel. Araştırmanın zamanını, yerini ve kullandığın seçim yöntemini de açıklamalısın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_015",
+      "speaker": "同学",
+      "zh": "我建议你把问卷里最明显的两项结果放在同一张图上。",
+      "pinyin": "wǒ jiàn yì nǐ bǎ wèn juǎn lǐ zuì míng xiǎn de liǎng xiàng jié guǒ fàng zài tóng yī zhāng tú shàng 。",
+      "tr": "Ankette en belirgin çıkan iki sonucu aynı grafikte göstermeni öneririm."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_016",
+      "speaker": "刘梅",
+      "zh": "图表要简单，别让颜色和文字盖过你真正想说的内容。",
+      "pinyin": "tú biǎo yào jiǎn dān ， bié ràng yán sè hé wén zì gài guò nǐ zhēn zhèng xiǎng shuō de nèi róng 。",
+      "tr": "Grafik sade olsun; renkler ve yazılar asıl anlatmak istediğinin önüne geçmesin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_017",
+      "speaker": "张雨桐",
+      "zh": "我会先缩短背景介绍，把时间留给发现和证据。",
+      "pinyin": "wǒ huì xiān suō duǎn bèi jǐng jiè shào ， bǎ shí jiān liú gěi fā xiàn hé zhèng jù 。",
+      "tr": "Arka plan tanıtımını kısaltıp zamanı bulgulara ve kanıtlara ayıracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_018",
+      "speaker": "导师",
+      "zh": "汇报不是把论文念一遍，而是带着听众理解你的论证。",
+      "pinyin": "huì bào bú shì bǎ lùn wén niàn yī biàn ， ér shì dài zhe tīng zhòng lǐ jiě nǐ de lùn zhèng 。",
+      "tr": "Sunum, makaleyi baştan sona okumak değildir; dinleyiciyi gerekçelerini anlamaya yönlendirmektir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_019",
+      "speaker": "同学",
+      "zh": "你愿意把重点收窄，后面的结构就容易安排了。",
+      "pinyin": "nǐ yuàn yì bǎ zhòng diǎn shōu zhǎi ， hòu miàn de jié gòu jiù róng yì ān pái le 。",
+      "tr": "Odağı daraltmaya razı olunca geri kalan yapıyı düzenlemek de kolaylaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_020",
+      "speaker": "刘梅",
+      "zh": "先把新的提纲发给导师看看，再决定还需要补什么资料。",
+      "pinyin": "xiān bǎ xīn de tí gāng fā gěi dǎo shī kàn kàn ， zài jué dìng hái xū yào bǔ shén me zī liào 。",
+      "tr": "Önce yeni taslağı danışmanına gönder; sonra hangi bilgileri tamamlaman gerektiğine karar ver."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_021",
+      "speaker": "张雨桐",
+      "zh": "我重新看了访谈记录，发现有两位同学的意见和多数人不一样。",
+      "pinyin": "wǒ chóng xīn kàn le fǎng tán jì lù ， fā xiàn yǒu liǎng wèi tóng xué de yì jiàn hé duō shù rén bù yí yàng 。",
+      "tr": "Röportaj notlarını yeniden inceledim; iki öğrencinin görüşünün çoğunluktan farklı olduğunu fark ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_022",
+      "speaker": "导师",
+      "zh": "不要删掉不同意见。先想想它们能说明什么，又有哪些限制。",
+      "pinyin": "bú yào shān diào bù tóng yì jiàn 。 xiān xiǎng xiǎng tā men néng shuō míng shén me ， yòu yǒu nǎ xiē xiàn zhì 。",
+      "tr": "Farklı görüşleri çıkarma. Önce ne gösterdiklerini ve hangi sınırlara sahip olduklarını düşün."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_023",
+      "speaker": "同学",
+      "zh": "把少数意见也写出来，听众会知道你没有只挑支持自己观点的材料。",
+      "pinyin": "bǎ shǎo shù yì jiàn yě xiě chū lái ， tīng zhòng huì zhī dào nǐ méi yǒu zhǐ tiāo zhī chí zì jǐ guān diǎn de cái liào 。",
+      "tr": "Azınlık görüşlerini de eklersen dinleyiciler yalnızca kendi görüşünü destekleyen malzemeleri seçmediğini anlar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_024",
+      "speaker": "刘梅",
+      "zh": "你可以解释这两个人的情况，再说明为什么不能代表所有学生。",
+      "pinyin": "nǐ kě yǐ jiě shì zhè liǎng gè rén de qíng kuàng ， zài shuō míng wèi shén me bù néng dài biǎo suǒ yǒu xué shēng 。",
+      "tr": "Bu iki kişinin koşullarını açıklayıp neden bütün öğrencileri temsil edemeyeceklerini belirtebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_025",
+      "speaker": "张雨桐",
+      "zh": "我会把问卷结果和访谈内容分开呈现，不把个别看法说成普遍结论。",
+      "pinyin": "wǒ huì bǎ wèn juǎn jié guǒ hé fǎng tán nèi róng fēn kāi chéng xiàn ， bù bǎ gè bié kàn fǎ shuō chéng pǔ biàn jié lùn 。",
+      "tr": "Anket sonuçlarını röportajlardan ayrı sunacağım; tekil görüşleri genel sonuç gibi göstermeyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_026",
+      "speaker": "导师",
+      "zh": "很好。每个结论旁边都标出对应的数据或访谈依据。",
+      "pinyin": "hěn hǎo 。 měi gè jié lùn páng biān dōu biāo chū duì yìng de shù jù huò fǎng tán yī jù 。",
+      "tr": "Güzel. Her sonucun yanına onu destekleyen veri veya röportaj dayanağını ekle."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_027",
+      "speaker": "同学",
+      "zh": "图表上也要注明人数和调查范围，不然数字容易被误解。",
+      "pinyin": "tú biǎo shàng yě yào zhù míng rén shù hé diào chá fàn wéi ， bù rán shù zì róng yì bèi wù jiě 。",
+      "tr": "Grafikte katılımcı sayısını ve araştırma kapsamını da belirt; yoksa rakamlar yanlış anlaşılabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_028",
+      "speaker": "刘梅",
+      "zh": "你以前没做过这么正式的汇报，紧张是正常的。",
+      "pinyin": "nǐ yǐ qián méi zuò guò zhè me zhèng shì de huì bào ， jǐn zhāng shì zhèng cháng de 。",
+      "tr": "Daha önce bu kadar resmî bir sunum yapmadın; heyecanlanman normal."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_029",
+      "speaker": "张雨桐",
+      "zh": "我担心问答环节答不上来，尤其是别人问调查方法的时候。",
+      "pinyin": "wǒ dān xīn wèn dá huán jié dá bù shàng lái ， yóu qí shì bié rén wèn diào chá fāng fǎ de shí hòu 。",
+      "tr": "Soru-cevap bölümünde yanıt verememekten, özellikle araştırma yöntemim sorulursa diye kaygılanıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_030",
+      "speaker": "导师",
+      "zh": "把调查范围和方法讲清楚；不知道的部分就如实说明。",
+      "pinyin": "bǎ diào chá fàn wéi hé fāng fǎ jiǎng qīng chǔ ； bù zhī dào de bù fèn jiù rú shí shuō míng 。",
+      "tr": "Araştırmanın kapsamını ve yöntemini açıkça anlat; bilmediğin bir nokta varsa dürüstçe belirt."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_031",
+      "speaker": "同学",
+      "zh": "我们可以先互相提问，我来扮演一个比较严格的听众。",
+      "pinyin": "wǒ men kě yǐ xiān hù xiāng tí wèn ， wǒ lái bàn yǎn yí gè bǐ jiào yán gé de tīng zhòng 。",
+      "tr": "Önce birbirimize soru sorabiliriz; ben daha sorgulayıcı bir dinleyiciyi canlandırırım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_032",
+      "speaker": "刘梅",
+      "zh": "练习时不用追求一次答得完美，先把思路说清楚。",
+      "pinyin": "liàn xí shí bù yòng zhuī qiú yī cì dá dé wán měi ， xiān bǎ sī lù shuō qīng chǔ 。",
+      "tr": "Prova sırasında ilk seferde kusursuz yanıt vermeye çalışma; önce düşünceni açıkla."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_033",
+      "speaker": "张雨桐",
+      "zh": "好，我先试着用两分钟介绍研究问题和主要发现。",
+      "pinyin": "hǎo ， wǒ xiān shì zhe yòng liǎng fēn zhōng jiè shào yán jiū wèn tí hé zhǔ yào fā xiàn 。",
+      "tr": "Tamam, önce araştırma sorusunu ve temel bulguları iki dakikada anlatmayı deneyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_034",
+      "speaker": "导师",
+      "zh": "开始前先说研究对象和方法，然后再讲结果。",
+      "pinyin": "kāi shǐ qián xiān shuō yán jiū duì xiàng hé fāng fǎ ， rán hòu zài jiǎng jié guǒ 。",
+      "tr": "Başlamadan önce araştırma grubunu ve yöntemi, ardından sonuçları anlat."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_035",
+      "speaker": "同学",
+      "zh": "我会记下听不懂的地方，讲完以后再告诉你。",
+      "pinyin": "wǒ huì jì xià tīng bù dǒng de dì fāng ， jiǎng wán yǐ hòu zài gào sù nǐ 。",
+      "tr": "Anlaşılmayan yerleri not edeceğim; bitirince sana söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_036",
+      "speaker": "刘梅",
+      "zh": "我在旁边听，也能告诉你语速是不是太快。",
+      "pinyin": "wǒ zài páng biān tīng ， yě néng gào sù nǐ yǔ sù shì bú shì tài kuài 。",
+      "tr": "Yanında dinlerim; konuşma hızının fazla olup olmadığını da söyleyebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_037",
+      "speaker": "张雨桐",
+      "zh": "那我先不看稿子讲一遍，看看哪些地方还会卡住。",
+      "pinyin": "nà wǒ xiān bù kàn gǎo zi jiǎng yī biàn ， kàn kàn nǎ xiē dì fāng hái huì kǎ zhù 。",
+      "tr": "O hâlde önce metne bakmadan bir kez anlatayım; nerelerde takıldığımı göreyim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_038",
+      "speaker": "导师",
+      "zh": "讲到数据时停一下，让听众有时间看图表。",
+      "pinyin": "jiǎng dào shù jù shí tíng yī xià ， ràng tīng zhòng yǒu shí jiān kàn tú biǎo 。",
+      "tr": "Verileri anlatırken kısa bir duraklama yap ki dinleyicilerin grafiğe bakmaya zamanı olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_039",
+      "speaker": "同学",
+      "zh": "我听完会问你样本为什么这样选，看看解释够不够清楚。",
+      "pinyin": "wǒ tīng wán huì wèn nǐ yàng běn wèi shén me zhè yàng xuǎn ， kàn kàn jiě shì gòu bù gòu qīng chǔ 。",
+      "tr": "Dinledikten sonra katılımcıları neden böyle seçtiğini sorarım; açıklamanın yeterince açık olup olmadığını görelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_040",
+      "speaker": "刘梅",
+      "zh": "练完我们再挑最需要改的两处，不要一下子改太多。",
+      "pinyin": "liàn wán wǒ men zài tiāo zuì xū yào gǎi de liǎng chù ， bú yào yī xià zi gǎi tài duō 。",
+      "tr": "Prova bitince en çok düzeltilmesi gereken iki yeri seçelim; aynı anda çok fazla şeyi değiştirmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_041",
+      "speaker": "张雨桐",
+      "zh": "刚才试讲时，我讲到调查限制就停住了，不知道怎么回答。",
+      "pinyin": "gāng cái shì jiǎng shí ， wǒ jiǎng dào diào chá xiàn zhì jiù tíng zhù le ， bù zhī dào zěn me huí dá 。",
+      "tr": "Az önceki provada araştırmanın sınırlamalarına gelince duraksadım; nasıl yanıt vereceğimi bilemedim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_042",
+      "speaker": "导师",
+      "zh": "你先承认样本范围有限，再说明这个限制会怎样影响结论。",
+      "pinyin": "nǐ xiān chéng rèn yàng běn fàn wéi yǒu xiàn ， zài shuō míng zhè ge xiàn zhì huì zěn yàng yǐng xiǎng jié lùn 。",
+      "tr": "Önce örneklemin sınırlı olduğunu kabul et; sonra bu sınırlamanın sonucu nasıl etkilediğini açıkla."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_043",
+      "speaker": "同学",
+      "zh": "我刚才听的时候，也不太明白你为什么只选这几个楼层观察。",
+      "pinyin": "wǒ gāng cái tīng de shí hòu ， yě bù tài míng bái nǐ wèi shén me zhǐ xuǎn zhè jǐ gè lóu céng guān chá 。",
+      "tr": "Az önce dinlerken neden yalnızca bu katlarda gözlem yaptığını ben de tam anlayamadım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_044",
+      "speaker": "刘梅",
+      "zh": "这个问题很具体，补一句选择地点的理由就能说清楚。",
+      "pinyin": "zhè ge wèn tí hěn jù tǐ ， bǔ yī jù xuǎn zé dì diǎn de lǐ yóu jiù néng shuō qīng chǔ 。",
+      "tr": "Bu çok somut bir soru; yer seçiminin nedenini bir cümleyle eklersen açıklığa kavuşur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_045",
+      "speaker": "张雨桐",
+      "zh": "我选了人流差异明显的楼层，但应该在方法部分先交代。",
+      "pinyin": "wǒ xuǎn le rén liú chā yì míng xiǎn de lóu céng ， dàn yīng gāi zài fāng fǎ bù fèn xiān jiāo dài 。",
+      "tr": "Kullanım yoğunluğu belirgin biçimde farklı olan katları seçtim ama bunu yöntem bölümünde önceden açıklamalıyım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_046",
+      "speaker": "导师",
+      "zh": "对。听众需要知道你的决定是怎么来的，才容易判断证据是否充分。",
+      "pinyin": "duì 。 tīng zhòng xū yào zhī dào nǐ de jué dìng shì zěn me lái de ， cái róng yì pàn duàn zhèng jù shì fǒu chōng fèn 。",
+      "tr": "Evet. Dinleyicilerin kanıtların yeterli olup olmadığını değerlendirebilmesi için kararlarının nasıl alındığını bilmeleri gerekir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_047",
+      "speaker": "同学",
+      "zh": "如果把地点选择和问卷人数写在同一页，信息会不会太多？",
+      "pinyin": "rú guǒ bǎ dì diǎn xuǎn zé hé wèn juǎn rén shù xiě zài tóng yī yè ， xìn xī huì bú huì tài duō ？",
+      "tr": "Yer seçimini ve anket katılımcı sayısını aynı slayta koyarsan bilgi fazla mı olur?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_048",
+      "speaker": "刘梅",
+      "zh": "可以拆成两页，先讲方法，再展示主要结果。",
+      "pinyin": "kě yǐ chāi chéng liǎng yè ， xiān jiǎng fāng fǎ ， zài zhǎn shì zhǔ yào jié guǒ 。",
+      "tr": "İki slayta ayırabilirsin; önce yöntemi, ardından temel sonuçları anlat."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_049",
+      "speaker": "张雨桐",
+      "zh": "我担心改完以后时间不够，问答部分也会被挤掉。",
+      "pinyin": "wǒ dān xīn gǎi wán yǐ hòu shí jiān bù gòu ， wèn dá bù fèn yě huì bèi jǐ diào 。",
+      "tr": "Düzenlemelerden sonra zamanın yetmeyeceğinden ve soru-cevap bölümünün arada kaynayacağından kaygılanıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_050",
+      "speaker": "导师",
+      "zh": "先按规定时间练一遍，记录每部分用了几分钟，再决定删什么。",
+      "pinyin": "xiān àn guī dìng shí jiān liàn yī biàn ， jì lù měi bù fèn yòng le jǐ fēn zhōng ， zài jué dìng shān shén me 。",
+      "tr": "Önce ayrılan süre içinde bir prova yapıp her bölümün kaç dakika sürdüğünü kaydet; sonra neyi çıkaracağına karar ver."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_051",
+      "speaker": "同学",
+      "zh": "我可以帮你计时，也把听不懂的地方记下来。",
+      "pinyin": "wǒ kě yǐ bāng nǐ jì shí ， yě bǎ tīng bù dǒng de dì fāng jì xià lái 。",
+      "tr": "Süreyi tutabilir, anlamadığım yerleri de not edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_052",
+      "speaker": "刘梅",
+      "zh": "我来听你讲一遍，结束后只说最影响理解的两点。",
+      "pinyin": "wǒ lái tīng nǐ jiǎng yī biàn ， jié shù hòu zhǐ shuō zuì yǐng xiǎng lǐ jiě de liǎng diǎn 。",
+      "tr": "Bir kez anlatmanı dinleyeyim; bitince anlamayı en çok etkileyen iki noktayı söyleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_053",
+      "speaker": "张雨桐",
+      "zh": "好，我先练开头和研究方法，争取两分钟内说清楚。",
+      "pinyin": "hǎo ， wǒ xiān liàn kāi tóu hé yán jiū fāng fǎ ， zhēng qǔ liǎng fēn zhōng nèi shuō qīng chǔ 。",
+      "tr": "Tamam, önce girişle araştırma yöntemini çalışıp iki dakika içinde açıklamaya uğraşacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_054",
+      "speaker": "导师",
+      "zh": "开头先说问题和目的，不必把所有背景都放进去。",
+      "pinyin": "kāi tóu xiān shuō wèn tí hé mù dì ， bù bì bǎ suǒ yǒu bèi jǐng dōu fàng jìn qù 。",
+      "tr": "Girişte önce sorunu ve amacı belirt; arka planın tamamını eklemek zorunda değilsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_055",
+      "speaker": "同学",
+      "zh": "讲结果时指一下图表里的数字，别只说“很多”或“比较明显”。",
+      "pinyin": "jiǎng jié guǒ shí zhǐ yī xià tú biǎo lǐ de shù zì ， bié zhǐ shuō “ hěn duō ” huò “ bǐ jiào míng xiǎn ” 。",
+      "tr": "Sonuçları anlatırken grafikteki rakamları göster; yalnızca “çok” veya “belirgin” deme."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_056",
+      "speaker": "刘梅",
+      "zh": "练习时如果忘词，停一下再继续，不用从头重来。",
+      "pinyin": "liàn xí shí rú guǒ wàng cí ， tíng yī xià zài jì xù ， bù yòng cóng tóu zhòng lái 。",
+      "tr": "Prova sırasında kelimeleri unutursan kısa durup devam et; baştan başlaman gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_057",
+      "speaker": "张雨桐",
+      "zh": "这样我就不会因为一句话说错，整段都慌起来。",
+      "pinyin": "zhè yàng wǒ jiù bú huì yīn wèi yī jù huà shuō cuò ， zhěng duàn dōu huāng qǐ lái 。",
+      "tr": "Böylece bir cümlede hata yaptım diye bütün sunum boyunca paniğe kapılmam."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_058",
+      "speaker": "导师",
+      "zh": "与背熟每一句相比，理解论证的顺序更能帮你应对提问。",
+      "pinyin": "yǔ bèi shú měi yī jù xiāng bǐ ， lǐ jiě lùn zhèng de shùn xù gèng néng bāng nǐ yìng duì tí wèn 。",
+      "tr": "Her cümleyi ezberlemekle karşılaştırınca, gerekçelendirme sırasını anlamak sorulara yanıt vermene daha çok yardımcı olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_059",
+      "speaker": "同学",
+      "zh": "我等会儿按评委的方式问你两个问题，试试能不能说清楚。",
+      "pinyin": "wǒ děng huì er àn píng wěi de fāng shì wèn nǐ liǎng gè wèn tí ， shì shì néng bù néng shuō qīng chǔ 。",
+      "tr": "Birazdan jüri gibi iki soru soracağım; açıkça yanıtlayabiliyor musun görelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_060",
+      "speaker": "刘梅",
+      "zh": "我们先练到你能稳稳讲完，不要求今天就做到完美。",
+      "pinyin": "wǒ men xiān liàn dào nǐ néng wěn wěn jiǎng wán ， bú yào qiú jīn tiān jiù zuò dào wán měi 。",
+      "tr": "Önce sunumu sakin biçimde tamamlayana kadar çalışalım; bugün kusursuz olmasını beklemiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_061",
+      "speaker": "张雨桐",
+      "zh": "我发现最难的不是介绍结果，而是解释结果和问题之间的关系。",
+      "pinyin": "wǒ fā xiàn zuì nán de bú shì jiè shào jié guǒ ， ér shì jiě shì jié guǒ hé wèn tí zhī jiān de guān xì 。",
+      "tr": "En zor kısmın sonuçları tanıtmak değil, sonuçlarla araştırma sorusu arasındaki ilişkiyi açıklamak olduğunu fark ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_062",
+      "speaker": "导师",
+      "zh": "那就把论证拆成几步：问题、证据、分析和结论。",
+      "pinyin": "nà jiù bǎ lùn zhèng chāi chéng jǐ bù ： wèn tí 、 zhèng jù 、 fēn xī hé jié lùn 。",
+      "tr": "O hâlde gerekçelendirmeyi birkaç adıma ayır: soru, kanıt, analiz ve sonuç."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_063",
+      "speaker": "同学",
+      "zh": "你现在有哪些材料能直接回答研究问题？",
+      "pinyin": "nǐ xiàn zài yǒu nǎ xiē cái liào néng zhí jiē huí dá yán jiū wèn tí ？",
+      "tr": "Şu anda araştırma sorusuna doğrudan yanıt veren hangi malzemelerin var?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_064",
+      "speaker": "刘梅",
+      "zh": "先从最清楚的一条证据开始，不用一开始就解释所有细节。",
+      "pinyin": "xiān cóng zuì qīng chǔ de yī tiáo zhèng jù kāi shǐ ， bù yòng yī kāi shǐ jiù jiě shì suǒ yǒu xì jié 。",
+      "tr": "En açık kanıttan başla; tüm ayrıntıları en başta açıklaman gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_065",
+      "speaker": "张雨桐",
+      "zh": "两层的观察记录最完整，我可以先用它说明座位选择的差别。",
+      "pinyin": "liǎng céng de guān chá jì lù zuì wán zhěng ， wǒ kě yǐ xiān yòng tā shuō míng zuò wèi xuǎn zé de chā bié 。",
+      "tr": "İki kattaki gözlem kayıtlarım en eksiksiz olanlar; koltuk seçimi farklarını önce bunlarla açıklayabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_066",
+      "speaker": "导师",
+      "zh": "可以，但要说明观察记录支持哪一部分，不能替代所有访谈结果。",
+      "pinyin": "kě yǐ ， dàn yào shuō míng guān chá jì lù zhī chí nǎ yī bù fèn ， bù néng tì dài suǒ yǒu fǎng tán jié guǒ 。",
+      "tr": "Olur ama gözlem kayıtlarının hangi kısmı desteklediğini açıkla; bütün röportaj sonuçlarının yerine geçemez."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_067",
+      "speaker": "同学",
+      "zh": "图表标题也改成完整的问题，听众就知道要看什么。",
+      "pinyin": "tú biǎo biāo tí yě gǎi chéng wán zhěng de wèn tí ， tīng zhòng jiù zhī dào yào kàn shén me 。",
+      "tr": "Grafiğin başlığını tam bir soruya dönüştürürsen dinleyiciler neye bakacaklarını bilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_068",
+      "speaker": "刘梅",
+      "zh": "你已经找到重点了，接下来只要让每一页都服务于这个重点。",
+      "pinyin": "nǐ yǐ jīng zhǎo dào zhòng diǎn le ， jiē xià lái zhǐ yào ràng měi yī yè dōu fú wù yú zhè ge zhòng diǎn 。",
+      "tr": "Ana noktayı buldun; şimdi her slaydın bu noktaya hizmet etmesini sağlaman yeterli."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_069",
+      "speaker": "张雨桐",
+      "zh": "我会删掉重复的背景资料，把时间留给比较和解释。",
+      "pinyin": "wǒ huì shān diào chóng fù de bèi jǐng zī liào ， bǎ shí jiān liú gěi bǐ jiào hé jiě shì 。",
+      "tr": "Tekrarlanan arka plan bilgisini çıkarıp zamanı karşılaştırmaya ve açıklamaya ayıracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_070",
+      "speaker": "导师",
+      "zh": "删之前确认那部分确实不会帮助听众理解你的结论。",
+      "pinyin": "shān zhī qián què rèn nà bù fèn què shí bú huì bāng zhù tīng zhòng lǐ jiě nǐ de jié lùn 。",
+      "tr": "Çıkarmadan önce o bölümün dinleyicilerin sonucunu anlamasına gerçekten yardımcı olmadığını doğrula."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_071",
+      "speaker": "同学",
+      "zh": "我可以再听一次新版，看看论证是不是连得上。",
+      "pinyin": "wǒ kě yǐ zài tīng yī cì xīn bǎn ， kàn kàn lùn zhèng shì bú shì lián dé shàng 。",
+      "tr": "Yeni sürümü bir kez daha dinleyip gerekçelerin birbirine bağlanıp bağlanmadığına bakabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_072",
+      "speaker": "刘梅",
+      "zh": "改稿时也给自己留休息时间，累了很难发现问题。",
+      "pinyin": "gǎi gǎo shí yě gěi zì jǐ liú xiū xī shí jiān ， lèi le hěn nán fā xiàn wèn tí 。",
+      "tr": "Metni düzenlerken kendine dinlenme zamanı da bırak; yorgunken sorunları fark etmek zor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_073",
+      "speaker": "张雨桐",
+      "zh": "我把修改任务分成三天，今天先处理图表和标题。",
+      "pinyin": "wǒ bǎ xiū gǎi rèn wù fēn chéng sān tiān ， jīn tiān xiān chǔ lǐ tú biǎo hé biāo tí 。",
+      "tr": "Düzeltme işlerini üç güne böldüm; bugün önce grafikleri ve başlıkları ele alacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_074",
+      "speaker": "导师",
+      "zh": "明天检查数据说明，后天再练完整汇报，这个顺序很实际。",
+      "pinyin": "míng tiān jiǎn chá shù jù shuō míng ， hòu tiān zài liàn wán zhěng huì bào ， zhè ge shùn xù hěn shí jì 。",
+      "tr": "Yarın veri açıklamalarını kontrol et, ertesi gün tam sunumu prova et; bu sıra gerçekçi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_075",
+      "speaker": "同学",
+      "zh": "我周五有空，可以做一次计时练习并模拟提问。",
+      "pinyin": "wǒ zhōu wǔ yǒu kòng ， kě yǐ zuò yī cì jì shí liàn xí bìng mó nǐ tí wèn 。",
+      "tr": "Cuma vaktim var; süre tutarak prova yapıp soru-cevap bölümünü canlandırabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_076",
+      "speaker": "刘梅",
+      "zh": "我会准备一顿简单的晚饭，练习结束后我们一起吃。",
+      "pinyin": "wǒ huì zhǔn bèi yī dùn jiǎn dān de wǎn fàn ， liàn xí jié shù hòu wǒ men yì qǐ chī 。",
+      "tr": "Basit bir akşam yemeği hazırlarım; prova bitince birlikte yeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_077",
+      "speaker": "张雨桐",
+      "zh": "谢谢。有人帮我听，我就能知道哪些话对别人来说不清楚。",
+      "pinyin": "xiè xiè 。 yǒu rén bāng wǒ tīng ， wǒ jiù néng zhī dào nǎ xiē huà duì bié rén lái shuō bù qīng chǔ 。",
+      "tr": "Teşekkürler. Biri beni dinleyince, hangi ifadelerin başkalarına anlaşılmaz geldiğini görebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_078",
+      "speaker": "导师",
+      "zh": "反馈要具体到某一页或某一句，才知道怎样修改。",
+      "pinyin": "fǎn kuì yào jù tǐ dào mǒu yī yè huò mǒu yī jù ， cái zhī dào zěn yàng xiū gǎi 。",
+      "tr": "Geri bildirim belirli bir slayta veya cümleye yönelik olmalı ki nasıl düzelteceğini bilesin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_079",
+      "speaker": "同学",
+      "zh": "我会先说我听到的主要观点，再告诉你哪里让我困惑。",
+      "pinyin": "wǒ huì xiān shuō wǒ tīng dào de zhǔ yào guān diǎn ， zài gào sù nǐ nǎ lǐ ràng wǒ kùn huò 。",
+      "tr": "Önce anladığım ana görüşü söyler, sonra kafamı karıştıran yeri belirtirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_080",
+      "speaker": "刘梅",
+      "zh": "这样既能看出重点传达到了没有，也不会只听到笼统的评价。",
+      "pinyin": "zhè yàng jì néng kàn chū zhòng diǎn chuán dá dào le méi yǒu ， yě bú huì zhǐ tīng dào lǒng tǒng de píng jià 。",
+      "tr": "Böylece hem ana noktanın aktarılıp aktarılmadığını anlarsın hem de yalnızca genel yorumlar duymazsın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_081",
+      "speaker": "张雨桐",
+      "zh": "我想知道评委最可能追问哪一部分，今晚好重点准备。",
+      "pinyin": "wǒ xiǎng zhī dào píng wěi zuì kě néng zhuī wèn nǎ yī bù fèn ， jīn wǎn hǎo zhòng diǎn zhǔn bèi 。",
+      "tr": "Jürinin en çok hangi bölüm hakkında soru sorabileceğini bilmek istiyorum; bu akşam özellikle ona hazırlanırım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_082",
+      "speaker": "导师",
+      "zh": "他们可能会问研究范围、样本选择，也可能追问结论的依据。",
+      "pinyin": "tā men kě néng huì wèn yán jiū fàn wéi 、 yàng běn xuǎn zé ， yě kě néng zhuī wèn jié lùn de yī jù 。",
+      "tr": "Araştırmanın kapsamını, örneklem seçimini veya sonucun dayanağını sorabilirler."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_083",
+      "speaker": "同学",
+      "zh": "我先从听众的角度问：你的发现能不能说明所有学生的情况？",
+      "pinyin": "wǒ xiān cóng tīng zhòng de jiǎo dù wèn ： nǐ de fā xiàn néng bù néng shuō míng suǒ yǒu xué shēng de qíng kuàng ？",
+      "tr": "Önce dinleyici olarak sorayım: Bulguların bütün öğrencilerin durumunu gösterebilir mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_084",
+      "speaker": "刘梅",
+      "zh": "这个问题你已经想过了，可以说明调查范围，不必夸大结论。",
+      "pinyin": "zhè ge wèn tí nǐ yǐ jīng xiǎng guò le ， kě yǐ shuō míng diào chá fàn wéi ， bù bì kuā dà jié lùn 。",
+      "tr": "Bu soruyu düşündün; araştırmanın kapsamını açıklayabilirsin, sonucu abartmana gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_085",
+      "speaker": "张雨桐",
+      "zh": "我会说这只是本校部分学生的情况，不能直接推广到其他学校。",
+      "pinyin": "wǒ huì shuō zhè zhǐ shì běn xiào bù fèn xué shēng de qíng kuàng ， bù néng zhí jiē tuī guǎng dào qí tā xué xiào 。",
+      "tr": "Bunun yalnızca okulumuzdaki bazı öğrencilerin durumu olduğunu, doğrudan başka okullara genellenemeyeceğini söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_086",
+      "speaker": "导师",
+      "zh": "很好。再准备一个例子，说明访谈怎样补充了问卷结果。",
+      "pinyin": "hěn hǎo 。 zài zhǔn bèi yí gè lì zi ， shuō míng fǎng tán zěn yàng bǔ chōng le wèn juǎn jié guǒ 。",
+      "tr": "Güzel. Röportajların anket sonuçlarını nasıl tamamladığını gösteren bir örnek de hazırla."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_087",
+      "speaker": "同学",
+      "zh": "我记下来了。你回答时先给结论，再补充证据会更清楚。",
+      "pinyin": "wǒ jì xià lái le 。 nǐ huí dá shí xiān gěi jié lùn ， zài bǔ chōng zhèng jù huì gèng qīng chǔ 。",
+      "tr": "Not ettim. Yanıt verirken önce sonucu söyleyip sonra kanıt eklemen daha açık olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_088",
+      "speaker": "刘梅",
+      "zh": "如果一时想不到答案，可以先确认问题，再有条理地回答。",
+      "pinyin": "rú guǒ yī shí xiǎng bú dào dá àn ， kě yǐ xiān què rèn wèn tí ， zài yǒu tiáo lǐ dì huí dá 。",
+      "tr": "Yanıt aklına hemen gelmezse önce soruyu netleştirip sonra düzenli biçimde cevaplayabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_089",
+      "speaker": "张雨桐",
+      "zh": "我现在不那么怕提问了，至少知道可以从资料和范围说起。",
+      "pinyin": "wǒ xiàn zài bù nà me pà tí wèn le ， zhì shǎo zhī dào kě yǐ cóng zī liào hé fàn wéi shuō qǐ 。",
+      "tr": "Artık soru sorulmasından o kadar korkmuyorum; en azından bilgi ve kapsamdan başlayabileceğimi biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_090",
+      "speaker": "导师",
+      "zh": "明天再完整练一遍，今天先把改好的图表和说明核对好。",
+      "pinyin": "míng tiān zài wán zhěng liàn yī biàn ， jīn tiān xiān bǎ gǎi hǎo de tú biǎo hé shuō míng hé duì hǎo 。",
+      "tr": "Yarın baştan sona bir kez daha prova ederiz; bugün düzeltilmiş grafikleri ve açıklamaları kontrol et."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_091",
+      "speaker": "同学",
+      "zh": "我今晚把计时练习的记录发给你，看看哪一部分还超时。",
+      "pinyin": "wǒ jīn wǎn bǎ jì shí liàn xí de jì lù fā gěi nǐ ， kàn kàn nǎ yī bù fèn hái chāo shí 。",
+      "tr": "Süreli prova notlarını bu akşam sana gönderirim; hangi bölümün hâlâ süreyi aştığına bakarsın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_092",
+      "speaker": "刘梅",
+      "zh": "我会早点准备晚饭，给你留出安静练习的时间。",
+      "pinyin": "wǒ huì zǎo diǎn zhǔn bèi wǎn fàn ， gěi nǐ liú chū ān jìng liàn xí de shí jiān 。",
+      "tr": "Akşam yemeğini erken hazırlarım; sakin biçimde çalışman için sana zaman kalır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_093",
+      "speaker": "张雨桐",
+      "zh": "谢谢。我会按提纲练，不再逐字背整篇稿子。",
+      "pinyin": "xiè xiè 。 wǒ huì àn tí gāng liàn ， bù zài zhú zì bèi zhěng piān gǎo zi 。",
+      "tr": "Teşekkürler. Taslağa göre prova yapacağım; metnin tamamını kelimesi kelimesine ezberlemeyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_094",
+      "speaker": "导师",
+      "zh": "记住每一部分的逻辑关系，临场表达会自然一些。",
+      "pinyin": "jì zhù měi yī bù fèn de luó jí guān xì ， lín chǎng biǎo dá huì zì rán yī xiē 。",
+      "tr": "Her bölüm arasındaki mantıksal ilişkiyi hatırla; sunum sırasında daha doğal konuşursun."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_095",
+      "speaker": "同学",
+      "zh": "如果你愿意，明天我还能再扮演评委，问几个没练过的问题。",
+      "pinyin": "rú guǒ nǐ yuàn yì ， míng tiān wǒ hái néng zài bàn yǎn píng wěi ， wèn jǐ gè méi liàn guò de wèn tí 。",
+      "tr": "İstersen yarın jüri rolüne girip daha önce çalışmadığın birkaç soru daha sorabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_096",
+      "speaker": "刘梅",
+      "zh": "练习结束后就休息，别为了多背几遍熬夜。",
+      "pinyin": "liàn xí jié shù hòu jiù xiū xī ， bié wèi le duō bèi jǐ biàn áo yè 。",
+      "tr": "Prova bitince dinlen; birkaç kez daha ezberlemek için geceyi uykusuz geçirme."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_097",
+      "speaker": "张雨桐",
+      "zh": "好，我会先把资料备份，也把演示文件存在两个地方。",
+      "pinyin": "hǎo ， wǒ huì xiān bǎ zī liào bèi fèn ， yě bǎ yǎn shì wén jiàn cún zài liǎng gè dì fāng 。",
+      "tr": "Tamam, önce dosyalarımı yedekleyip sunum dosyasını iki ayrı yere kaydedeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_098",
+      "speaker": "导师",
+      "zh": "设备和文件都提前检查，汇报当天就能把注意力放在内容上。",
+      "pinyin": "shè bèi hé wén jiàn dōu tí qián jiǎn chá ， huì bào dàng tiān jiù néng bǎ zhù yì lì fàng zài nèi róng shàng 。",
+      "tr": "Ekipmanı ve dosyaları önceden kontrol et; sunum günü dikkatini içeriğe verebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_099",
+      "speaker": "同学",
+      "zh": "你准备得比上次完整多了，我相信你能把研究讲清楚。",
+      "pinyin": "nǐ zhǔn bèi dé bǐ shàng cì wán zhěng duō le ， wǒ xiāng xìn nǐ néng bǎ yán jiū jiǎng qīng chǔ 。",
+      "tr": "Bu kez hazırlığın çok daha eksiksiz; araştırmanı açıkça anlatabileceğine inanıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC036_100",
+      "speaker": "刘梅",
+      "zh": "无论结果怎样，你认真完成了项目，也知道下一步还能改进什么。",
+      "pinyin": "wú lùn jié guǒ zěn yàng ， nǐ rèn zhēn wán chéng le xiàng mù ， yě zhī dào xià yī bù hái néng gǎi jìn shén me 。",
+      "tr": "Sonuç ne olursa olsun projeyi emek vererek tamamladın ve bundan sonra neyi geliştirebileceğini biliyorsun."
+    }
+  ]
+}

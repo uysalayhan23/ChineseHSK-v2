@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC039.json",
-  "dialogueSha256": "087e1fc4122efafc57291b4937c9d5d8cbace8c4f9add5e7e19c137a663f56be",
+  "dialogueSha256": "09d94f7dbece360a3ebc3590b8fb552adbbc9f0c8ca612d01c9324cfdb9c4897",
   "titleZh": "李晨也退休了",
   "titleTr": "Li Chen’in Emekliliği",
   "locationId": "LOC_ZH_TEA_HOUSE_001",

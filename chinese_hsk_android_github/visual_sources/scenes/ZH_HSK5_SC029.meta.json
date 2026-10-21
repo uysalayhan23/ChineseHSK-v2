@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC029.json",
-  "dialogueSha256": "52f462a8a03913ba7bfb0d2ef96f77fcce15d3e32ed1de43ed1f35117742defb",
+  "dialogueSha256": "ca4e065da5763938cab44258188b4965296e2f6c2915be2a29e2b1035438b8bf",
   "titleZh": "修路影响咖啡馆",
   "titleTr": "Yeni Yol Projesi Kafeyi Etkiliyor",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

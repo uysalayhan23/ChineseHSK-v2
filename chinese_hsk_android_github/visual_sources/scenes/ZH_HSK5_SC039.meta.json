@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC039.json",
-  "dialogueSha256": "45cc18adade3b128300a61ea0930dbe82c09b39dc207bae4c8a7c1caf812fd7f",
+  "dialogueSha256": "f14dd285f77169896a865c74977c185278a115745e72e4e22a78e22724cdcb19",
   "titleZh": "离开还是留下？",
   "titleTr": "Taşınmak mı Kalmak mı?",
   "locationId": "LOC_ZH_NEW_HOME_001",

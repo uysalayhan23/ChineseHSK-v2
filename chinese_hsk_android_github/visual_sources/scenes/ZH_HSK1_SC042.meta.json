@@ -4,7 +4,7 @@
   "generationSceneId": "ZH_HSK1_SC042",
   "manifestVersion": "LOCKED_V2",
   "dialogueSource": "ci/dialogue_final_v5/HSK1/ZH_HSK1_SC042.json",
-  "dialogueSha256": "ce09e667cffcd8e1093fea0ff8b1af238a0fb172e39fb7badde7f640ea543143",
+  "dialogueSha256": "2e4c5e37671542afc68c024071d7ece2ce22bf2d16547f26c61ffca8ec86268c",
   "titleTr": "Pet Mağazası",
   "locationId": "LOC_ZH_PET_SHOP_001",
   "scenePurposeTr": "Aile pet mağazasına gider; mağazanın yerini ve Mimi için ürünleri konuşur.",

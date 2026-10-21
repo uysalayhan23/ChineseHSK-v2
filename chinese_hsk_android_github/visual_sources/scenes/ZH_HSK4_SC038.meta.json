@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC038.json",
-  "dialogueSha256": "4b7c9180398710fb0426b60706da828ac28ef8c853c22a036d6caef00da06a87",
+  "dialogueSha256": "149d8ff88ed55d4c940610ebde4b0a2a224055c5b499678ca39e15c5717c63df",
   "titleTr": "Büyükbaba Hastanede",
   "locationId": "LOC_ZH_HOSPITAL_001",
   "scenePurposeTr": "Büyükbaba küçük bir sağlık problemi nedeniyle hastaneye yatırılır.",

@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 61,
+  "status": "FINAL_REVIEWED_V61",
+  "sceneId": "ZH_HSK3_SC014",
+  "level": "HSK3",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK3_SC014_001",
+      "speaker": "刘梅",
+      "zh": "今天开始装修，先看看店里的尺寸吧。",
+      "pinyin": "jīn tiān kāi shǐ zhuāng xiū ， xiān kàn kàn diàn lǐ de chǐ cùn ba 。",
+      "tr": "Bugün tadilata başlıyoruz; önce dükkânın ölçülerine bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_002",
+      "speaker": "张伟",
+      "zh": "我把墙、门和窗户都量过了。",
+      "pinyin": "wǒ bǎ qiáng 、 mén hé chuāng hù dōu liàng guò le 。",
+      "tr": "Duvarı, kapıyı ve pencereleri ölçtüm."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_003",
+      "speaker": "顾客",
+      "zh": "老桌子也要留下吗？",
+      "pinyin": "lǎo zhuō zi yě yào liú xià ma ？",
+      "tr": "Eski masayı da bırakacak mıyız?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_004",
+      "speaker": "张雨桐",
+      "zh": "先看它能不能修，再决定怎么安排。",
+      "pinyin": "xiān kàn tā néng bù néng xiū ， zài jué dìng zěn me ān pái 。",
+      "tr": "Önce tamir edilip edilemeyeceğine bakalım, sonra yerini belirleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_005",
+      "speaker": "刘梅",
+      "zh": "这面墙刷什么颜色比较好？",
+      "pinyin": "zhè miàn qiáng shuā shén me yán sè bǐ jiào hǎo ？",
+      "tr": "Bu duvarı hangi renge boyamak uygun olur?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_006",
+      "speaker": "张伟",
+      "zh": "浅绿色看起来安静，和木桌也合适。",
+      "pinyin": "qiǎn lǜ sè kàn qǐ lái ān jìng ， hé mù zhuō yě hé shì 。",
+      "tr": "Açık yeşil sakin görünüyor ve ahşap masaya uyuyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_007",
+      "speaker": "顾客",
+      "zh": "如果颜色太深，店里就会显得小。",
+      "pinyin": "rú guǒ yán sè tài shēn ， diàn lǐ jiù huì xiǎn de xiǎo 。",
+      "tr": "Renk koyu olursa dükkân küçük görünür."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_008",
+      "speaker": "张雨桐",
+      "zh": "我们先试一小块，看看白天的样子。",
+      "pinyin": "wǒ men xiān shì yī xiǎo kuài ， kàn kàn bái tiān de yàng zi 。",
+      "tr": "Önce küçük bir bölümde deneyip gündüz nasıl göründüğüne bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_009",
+      "speaker": "刘梅",
+      "zh": "柜台的尺寸和图上差不多吗？",
+      "pinyin": "guì tái de chǐ cùn hé tú shàng chà bu duō ma ？",
+      "tr": "Tezgâhın ölçüsü çizimdekiyle yaklaşık aynı mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_010",
+      "speaker": "张伟",
+      "zh": "差不多，不过旁边要留出走路的地方。",
+      "pinyin": "chà bu duō ， bù guò páng biān yào liú chū zǒu lù de dì fāng 。",
+      "tr": "Yaklaşık aynı ama yanında geçiş alanı bırakmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_011",
+      "speaker": "顾客",
+      "zh": "如果柜台太长，客人就不容易进来。",
+      "pinyin": "rú guǒ guì tái tài zhǎng ， kè rén jiù bù róng yì jìn lái 。",
+      "tr": "Tezgâh çok uzun olursa müşterilerin içeri girmesi zorlaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_012",
+      "speaker": "张雨桐",
+      "zh": "我把实际尺寸写在图上，大家再确认。",
+      "pinyin": "wǒ bǎ shí jì chǐ cùn xiě zài tú shàng ， dà jiā zài què rèn 。",
+      "tr": "Gerçek ölçüyü çizime yazıp birlikte teyit edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_013",
+      "speaker": "刘梅",
+      "zh": "老桌子有点松，还能继续用吗？",
+      "pinyin": "lǎo zhuō zi yǒu diǎn sōng ， hái néng jì xù yòng ma ？",
+      "tr": "Eski masa biraz sallanıyor; kullanmaya devam edebilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_014",
+      "speaker": "张伟",
+      "zh": "桌脚可以修，桌面也能重新擦一遍。",
+      "pinyin": "zhuō jiǎo kě yǐ xiū ， zhuō miàn yě néng chóng xīn cā yī biàn 。",
+      "tr": "Ayakları tamir edilebilir, üstünü de yeniden temizleyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_015",
+      "speaker": "顾客",
+      "zh": "如果修好了，它和店里的颜色很配。",
+      "pinyin": "rú guǒ xiū hǎo le ， tā hé diàn lǐ de yán sè hěn pèi 。",
+      "tr": "Tamir edilirse dükkânın renklerine uyum sağlar."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_016",
+      "speaker": "张雨桐",
+      "zh": "先让师傅检查，别急着买新的。",
+      "pinyin": "xiān ràng shī fù jiǎn chá ， bié jí zhe mǎi xīn de 。",
+      "tr": "Önce ustaya kontrol ettirelim; hemen yenisini almayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_017",
+      "speaker": "刘梅",
+      "zh": "窗边要不要放一张长桌？",
+      "pinyin": "chuāng biān yào bù yào fàng yī zhāng zhǎng zhuō ？",
+      "tr": "Pencere kenarına uzun bir masa koyalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_018",
+      "speaker": "张伟",
+      "zh": "可以，白天坐在那里光线很好。",
+      "pinyin": "kě yǐ ， bái tiān zuò zài nà lǐ guāng xiàn hěn hǎo 。",
+      "tr": "Olur; gündüz orada ışık güzel olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_019",
+      "speaker": "顾客",
+      "zh": "但是桌子的尺寸不能挡住门。",
+      "pinyin": "dàn shì zhuō zi de chǐ cùn bù néng dǎng zhù mén 。",
+      "tr": "Ama masanın ölçüsü kapıyı kapatmamalı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_020",
+      "speaker": "张雨桐",
+      "zh": "我先量门和桌子的距离，再画在图上。",
+      "pinyin": "wǒ xiān liàng mén hé zhuō zi de jù lí ， zài huà zài tú shàng 。",
+      "tr": "Önce kapıyla masa arasını ölçüp çizime ekleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_021",
+      "speaker": "刘梅",
+      "zh": "墙上这些旧钉子要怎么处理？",
+      "pinyin": "qiáng shàng zhè xiē jiù dīng zi yào zěn me chǔ lǐ ？",
+      "tr": "Duvardaki eski çivilerle ne yapalım?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_022",
+      "speaker": "张伟",
+      "zh": "先取下来，把小洞补好再刷颜色。",
+      "pinyin": "xiān qǔ xià lái ， bǎ xiǎo dòng bǔ hǎo zài shuā yán sè 。",
+      "tr": "Önce çıkarıp delikleri kapatır, sonra boyarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_023",
+      "speaker": "顾客",
+      "zh": "如果不补，墙面看起来就不整齐。",
+      "pinyin": "rú guǒ bù bǔ ， qiáng miàn kàn qǐ lái jiù bù zhěng qí 。",
+      "tr": "Doldurmazsak duvar düzgün görünmez."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_024",
+      "speaker": "张雨桐",
+      "zh": "我把修墙的工作也加进装修清单。",
+      "pinyin": "wǒ bǎ xiū qiáng de gōng zuò yě jiā jìn zhuāng xiū qīng dān 。",
+      "tr": "Duvar tamirini de tadilat listesine ekleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_025",
+      "speaker": "刘梅",
+      "zh": "地板需要全部换掉吗？",
+      "pinyin": "dì bǎn xū yào quán bù huàn diào ma ？",
+      "tr": "Döşemenin tamamını değiştirmek gerekiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_026",
+      "speaker": "张伟",
+      "zh": "不用，门口附近几块松了，修好就行。",
+      "pinyin": "bù yòng ， mén kǒu fù jìn jǐ kuài sōng le ， xiū hǎo jiù xíng 。",
+      "tr": "Gerek yok; girişteki birkaç gevşek yeri tamir etsek yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_027",
+      "speaker": "顾客",
+      "zh": "这样预算就不会增加太多。",
+      "pinyin": "zhè yàng yù suàn jiù bú huì zēng jiā tài duō 。",
+      "tr": "Böylece bütçe fazla artmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_028",
+      "speaker": "张雨桐",
+      "zh": "先请师傅看看，再确定维修的尺寸和费用。",
+      "pinyin": "xiān qǐng shī fù kàn kàn ， zài què dìng wéi xiū de chǐ cùn hé fèi yòng 。",
+      "tr": "Önce ustaya gösterip tamir alanını ve masrafını netleştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_029",
+      "speaker": "刘梅",
+      "zh": "灯的位置要不要跟着桌子调整？",
+      "pinyin": "dēng de wèi zhì yào bù yào gēn zhe zhuō zi tiáo zhěng ？",
+      "tr": "Lambaların yerini masalara göre değiştirelim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_030",
+      "speaker": "张伟",
+      "zh": "要是长桌放在窗边，灯也应该在上面。",
+      "pinyin": "yào shì zhǎng zhuō fàng zài chuāng biān ， dēng yě yīng gāi zài shàng miàn 。",
+      "tr": "Uzun masa pencere yanındaysa lamba da üstünde olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_031",
+      "speaker": "顾客",
+      "zh": "如果灯太低，客人坐着会不舒服。",
+      "pinyin": "rú guǒ dēng tài dī ， kè rén zuò zhe huì bù shū fú 。",
+      "tr": "Lamba çok alçak olursa müşteriler rahatsız olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_032",
+      "speaker": "张雨桐",
+      "zh": "我量好高度，再请电工来调整。",
+      "pinyin": "wǒ liàng hǎo gāo dù ， zài qǐng diàn gōng lái tiáo zhěng 。",
+      "tr": "Yüksekliği ölçüp elektrikçiye ayarlattırayım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_033",
+      "speaker": "刘梅",
+      "zh": "墙上的颜色样板有三种，你喜欢哪一个？",
+      "pinyin": "qiáng shàng de yán sè yàng bǎn yǒu sān zhǒng ， nǐ xǐ huān nǎ yí gè ？",
+      "tr": "Duvar renk örneğinde üç seçenek var; hangisini sevdin?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_034",
+      "speaker": "张伟",
+      "zh": "我喜欢最浅的绿色，房间会显得亮一些。",
+      "pinyin": "wǒ xǐ huān zuì qiǎn de lǜ sè ， fáng jiān huì xiǎn de liàng yī xiē 。",
+      "tr": "En açık yeşili seviyorum; oda daha aydınlık görünür."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_035",
+      "speaker": "顾客",
+      "zh": "我也觉得它和老桌子很配。",
+      "pinyin": "wǒ yě jué de tā hé lǎo zhuō zi hěn pèi 。",
+      "tr": "Bence de eski masaya uyuyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_036",
+      "speaker": "张雨桐",
+      "zh": "好，就选这个颜色，先刷靠里面的墙。",
+      "pinyin": "hǎo ， jiù xuǎn zhè ge yán sè ， xiān shuā kào lǐ miàn de qiáng 。",
+      "tr": "Peki, bu rengi seçip önce iç duvarı boyayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_037",
+      "speaker": "刘梅",
+      "zh": "如果刷完以后颜色太浅怎么办？",
+      "pinyin": "rú guǒ shuā wán yǐ hòu yán sè tài qiǎn zěn me bàn ？",
+      "tr": "Boyadıktan sonra renk çok açık olursa ne yaparız?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_038",
+      "speaker": "张伟",
+      "zh": "先等它干了，干以后看起来会不一样。",
+      "pinyin": "xiān děng tā gàn le ， gàn yǐ hòu kàn qǐ lái huì bù yí yàng 。",
+      "tr": "Önce kurumasını bekleyelim; kuruyunca farklı görünür."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_039",
+      "speaker": "顾客",
+      "zh": "我们可以在不同时间看看颜色。",
+      "pinyin": "wǒ men kě yǐ zài bù tóng shí jiān kàn kàn yán sè 。",
+      "tr": "Renge günün farklı saatlerinde bakabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_040",
+      "speaker": "张雨桐",
+      "zh": "等大家都同意，再刷剩下的墙。",
+      "pinyin": "děng dà jiā dōu tóng yì ， zài shuā shèng xià de qiáng 。",
+      "tr": "Herkes onaylayınca duvarların kalanını boyarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_041",
+      "speaker": "刘梅",
+      "zh": "这张老桌子放在哪个位置合适？",
+      "pinyin": "zhè zhāng lǎo zhuō zi fàng zài nǎ ge wèi zhì hé shì ？",
+      "tr": "Bu eski masa hangi konumda uygun olur?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_042",
+      "speaker": "张伟",
+      "zh": "靠墙放比较好，中间可以留给客人走。",
+      "pinyin": "kào qiáng fàng bǐ jiào hǎo ， zhōng jiān kě yǐ liú gěi kè rén zǒu 。",
+      "tr": "Duvar kenarı iyi olur; ortada müşteriler için geçiş kalır."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_043",
+      "speaker": "顾客",
+      "zh": "如果桌子靠窗，可能会挡住光。",
+      "pinyin": "rú guǒ zhuō zi kào chuāng ， kě néng huì dǎng zhù guāng 。",
+      "tr": "Pencere yanına koyarsak ışığı kapatabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_044",
+      "speaker": "张雨桐",
+      "zh": "先照这个尺寸摆一下，再看看空间够不够。",
+      "pinyin": "xiān zhào zhè ge chǐ cùn bǎi yī xià ， zài kàn kàn kōng jiān gòu bù gòu 。",
+      "tr": "Önce ölçülere göre yerleştirip alan yeterli mi bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_045",
+      "speaker": "刘梅",
+      "zh": "我们要不要买几张新椅子？",
+      "pinyin": "wǒ men yào bù yào mǎi jǐ zhāng xīn yǐ zi ？",
+      "tr": "Birkaç yeni sandalye alalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_046",
+      "speaker": "张伟",
+      "zh": "先看看旧椅子能不能修，能用就留下。",
+      "pinyin": "xiān kàn kàn jiù yǐ zi néng bù néng xiū ， néng yòng jiù liú xià 。",
+      "tr": "Önce eskiler tamir edilebilir mi bakalım; kullanılabiliyorsa bırakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_047",
+      "speaker": "顾客",
+      "zh": "颜色不一样的话，可以重新刷漆。",
+      "pinyin": "yán sè bù yí yàng de huà ， kě yǐ chóng xīn shuā qī 。",
+      "tr": "Renkleri farklıysa yeniden boyayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_048",
+      "speaker": "张雨桐",
+      "zh": "这样既省钱，也能和老桌子配起来。",
+      "pinyin": "zhè yàng jì shěng qián ， yě néng hé lǎo zhuō zi pèi qǐ lái 。",
+      "tr": "Böylece hem tasarruf eder hem eski masayla uyum sağlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_049",
+      "speaker": "刘梅",
+      "zh": "墙面什么时候可以刷？",
+      "pinyin": "qiáng miàn shén me shí hòu kě yǐ shuā ？",
+      "tr": "Duvarları ne zaman boyayabiliriz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_050",
+      "speaker": "张伟",
+      "zh": "补好的地方要先干，明天应该就可以。",
+      "pinyin": "bǔ hǎo de dì fāng yào xiān gàn ， míng tiān yīng gāi jiù kě yǐ 。",
+      "tr": "Tamir edilen yerler önce kurumalı; yarın hazır olabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_051",
+      "speaker": "顾客",
+      "zh": "如果今天刷，颜色可能不均匀。",
+      "pinyin": "rú guǒ jīn tiān shuā ， yán sè kě néng bù jūn yún 。",
+      "tr": "Bugün boyarsak renk eşit dağılmayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_052",
+      "speaker": "张雨桐",
+      "zh": "那我们先整理桌椅和工具，明天再刷。",
+      "pinyin": "nà wǒ men xiān zhěng lǐ zhuō yǐ hé gōng jù ， míng tiān zài shuā 。",
+      "tr": "O hâlde önce masa, sandalye ve aletleri düzenleyip yarın boyayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_053",
+      "speaker": "刘梅",
+      "zh": "店里的尺寸我已经写进装修图了。",
+      "pinyin": "diàn lǐ de chǐ cùn wǒ yǐ jīng xiě jìn zhuāng xiū tú le 。",
+      "tr": "Dükkânın ölçülerini tadilat çizimine yazdım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_054",
+      "speaker": "张伟",
+      "zh": "窗边留了位置，老桌子也放得下。",
+      "pinyin": "chuāng biān liú le wèi zhì ， lǎo zhuō zi yě fàng dé xià 。",
+      "tr": "Pencere kenarında yer kaldı; eski masa da sığıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_055",
+      "speaker": "顾客",
+      "zh": "走道够宽，客人可以方便地进出。",
+      "pinyin": "zǒu dào gòu kuān ， kè rén kě yǐ fāng biàn dì jìn chū 。",
+      "tr": "Geçiş yeterince geniş; müşteriler rahatça girip çıkar."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_056",
+      "speaker": "张雨桐",
+      "zh": "我们再看一次图，确定以后就按这个安排。",
+      "pinyin": "wǒ men zài kàn yī cì tú ， què dìng yǐ hòu jiù àn zhè ge ān pái 。",
+      "tr": "Çizime bir daha bakalım; sonra bu plana göre yerleştiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_057",
+      "speaker": "刘梅",
+      "zh": "我担心绿色的墙和木头颜色不一样。",
+      "pinyin": "wǒ dān xīn lǜ sè de qiáng hé mù tou yán sè bù yí yàng 。",
+      "tr": "Yeşil duvarla ahşabın uyumsuz olmasından endişeleniyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_058",
+      "speaker": "张伟",
+      "zh": "可以先把木桌擦干净，再放在墙边看看。",
+      "pinyin": "kě yǐ xiān bǎ mù zhuō cā gān jìng ， zài fàng zài qiáng biān kàn kàn 。",
+      "tr": "Önce masayı temizleyip duvarın yanına koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_059",
+      "speaker": "顾客",
+      "zh": "如果觉得太暗，我们就选浅一点的颜色。",
+      "pinyin": "rú guǒ jué de tài àn ， wǒ men jiù xuǎn qiǎn yì diǎn de yán sè 。",
+      "tr": "Çok koyu görünürse daha açık renk seçeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_060",
+      "speaker": "张雨桐",
+      "zh": "好，实际放在一起比较，选择会更准确。",
+      "pinyin": "hǎo ， shí jì fàng zài yì qǐ bǐ jiào ， xuǎn zé huì gèng zhǔn què 。",
+      "tr": "Güzel; yan yana görünce daha doğru seçeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_061",
+      "speaker": "刘梅",
+      "zh": "电线要从墙里面走吗？",
+      "pinyin": "diàn xiàn yào cóng qiáng lǐ miàn zǒu ma ？",
+      "tr": "Elektrik kablolarını duvarın içinden mi geçireceğiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_062",
+      "speaker": "张伟",
+      "zh": "是的，这样看起来整齐，也不容易碰到。",
+      "pinyin": "shì de ， zhè yàng kàn qǐ lái zhěng qí ， yě bù róng yì pèng dào 。",
+      "tr": "Evet; daha düzenli görünür ve çarpma riski azalır."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_063",
+      "speaker": "顾客",
+      "zh": "如果需要开墙，装修时间会不会变长？",
+      "pinyin": "rú guǒ xū yào kāi qiáng ， zhuāng xiū shí jiān huì bú huì biàn zhǎng ？",
+      "tr": "Duvarı açmamız gerekirse tadilat uzar mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_064",
+      "speaker": "张雨桐",
+      "zh": "要问电工，先确认尺寸和工作时间。",
+      "pinyin": "yào wèn diàn gōng ， xiān què rèn chǐ cùn hé gōng zuò shí jiān 。",
+      "tr": "Elektrikçiye soralım; ölçüyle çalışma süresini netleştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_065",
+      "speaker": "刘梅",
+      "zh": "这张桌子的桌面有一道裂缝。",
+      "pinyin": "zhè zhāng zhuō zi de zhuō miàn yǒu yī dào liè fèng 。",
+      "tr": "Bu masanın üstünde bir çatlak var."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_066",
+      "speaker": "张伟",
+      "zh": "师傅说能修，修好以后还可以用。",
+      "pinyin": "shī fù shuō néng xiū ， xiū hǎo yǐ hòu hái kě yǐ yòng 。",
+      "tr": "Usta tamir edilebileceğini ve sonra kullanılabileceğini söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_067",
+      "speaker": "顾客",
+      "zh": "如果修理费不高，就不用买新桌子。",
+      "pinyin": "rú guǒ xiū lǐ fèi bù gāo ， jiù bù yòng mǎi xīn zhuō zi 。",
+      "tr": "Tamir masrafı yüksek değilse yeni masa almamız gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_068",
+      "speaker": "张雨桐",
+      "zh": "我把费用问清楚，再决定留不留。",
+      "pinyin": "wǒ bǎ fèi yòng wèn qīng chǔ ， zài jué dìng liú bù liú 。",
+      "tr": "Masrafı netleştirip tutup tutmamaya karar vereyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_069",
+      "speaker": "刘梅",
+      "zh": "装修以后，墙上要挂照片吗？",
+      "pinyin": "zhuāng xiū yǐ hòu ， qiáng shàng yào guà zhào piān ma ？",
+      "tr": "Tadilattan sonra duvara fotoğraf asalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_070",
+      "speaker": "张伟",
+      "zh": "可以挂几张老街的照片，颜色不要太多。",
+      "pinyin": "kě yǐ guà jǐ zhāng lǎo jiē de zhào piān ， yán sè bú yào tài duō 。",
+      "tr": "Eski sokak fotoğraflarından birkaç tane asabiliriz; renk kalabalığı olmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_071",
+      "speaker": "顾客",
+      "zh": "照片的尺寸要和墙面合适。",
+      "pinyin": "zhào piān de chǐ cùn yào hé qiáng miàn hé shì 。",
+      "tr": "Fotoğrafların boyutu duvara uygun olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_072",
+      "speaker": "张雨桐",
+      "zh": "先量墙的尺寸，再挑照片的大小。",
+      "pinyin": "xiān liàng qiáng de chǐ cùn ， zài tiāo zhào piān de dà xiǎo 。",
+      "tr": "Önce duvarı ölçüp fotoğrafların boyutunu seçelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_073",
+      "speaker": "刘梅",
+      "zh": "旧桌子修好了，桌脚现在很稳。",
+      "pinyin": "jiù zhuō zi xiū hǎo le ， zhuō jiǎo xiàn zài hěn wěn 。",
+      "tr": "Eski masa tamir edildi; ayakları artık sağlam."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_074",
+      "speaker": "张伟",
+      "zh": "放在窗边很合适，也没有挡住门。",
+      "pinyin": "fàng zài chuāng biān hěn hé shì ， yě méi yǒu dǎng zhù mén 。",
+      "tr": "Pencere yanında uygun duruyor ve kapıyı kapatmıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_075",
+      "speaker": "顾客",
+      "zh": "如果再配两把同颜色的椅子，就更好了。",
+      "pinyin": "rú guǒ zài pèi liǎng bǎ tóng yán sè de yǐ zi ， jiù gèng hǎo le 。",
+      "tr": "Aynı renkte iki sandalye eklersek daha iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_076",
+      "speaker": "张雨桐",
+      "zh": "我来找找椅子，尺寸要和桌子合适。",
+      "pinyin": "wǒ lái zhǎo zhǎo yǐ zi ， chǐ cùn yào hé zhuō zi hé shì 。",
+      "tr": "Sandalye bakayım; masa ölçüsüne uygun olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_077",
+      "speaker": "刘梅",
+      "zh": "墙面已经干了，可以刷第一层颜色。",
+      "pinyin": "qiáng miàn yǐ jīng gàn le ， kě yǐ shuā dì yī céng yán sè 。",
+      "tr": "Duvar kurudu; ilk kat boyayı sürebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_078",
+      "speaker": "张伟",
+      "zh": "先从里面开始，等干了再看效果。",
+      "pinyin": "xiān cóng lǐ miàn kāi shǐ ， děng gàn le zài kàn xiào guǒ 。",
+      "tr": "Önce iç taraftan başlayıp kuruyunca sonucu görelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_079",
+      "speaker": "顾客",
+      "zh": "如果颜色合适，明天就能继续刷。",
+      "pinyin": "rú guǒ yán sè hé shì ， míng tiān jiù néng jì xù shuā 。",
+      "tr": "Renk uygunsa yarın boyamaya devam ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_080",
+      "speaker": "张雨桐",
+      "zh": "我会在白天和晚上都看一看。",
+      "pinyin": "wǒ huì zài bái tiān hé wǎn shàng dōu kàn yī kàn 。",
+      "tr": "Gündüz ve akşam nasıl göründüğüne bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_081",
+      "speaker": "刘梅",
+      "zh": "第一面墙刷好了，比样板看起来暖一些。",
+      "pinyin": "dì yí miàn qiáng shuā hǎo le ， bǐ yàng bǎn kàn qǐ lái nuǎn yī xiē 。",
+      "tr": "İlk duvar boyandı; örnektekinden daha sıcak görünüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_082",
+      "speaker": "张伟",
+      "zh": "我喜欢这个颜色，和木桌很合适。",
+      "pinyin": "wǒ xǐ huān zhè ge yán sè ， hé mù zhuō hěn hé shì 。",
+      "tr": "Rengi sevdim; ahşap masaya uyuyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_083",
+      "speaker": "顾客",
+      "zh": "那其他墙也按这个颜色刷吗？",
+      "pinyin": "nà qí tā qiáng yě àn zhè ge yán sè shuā ma ？",
+      "tr": "Diğer duvarları da bu renge boyayalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_084",
+      "speaker": "张雨桐",
+      "zh": "对，先把剩下的墙刷完，再调整灯的位置。",
+      "pinyin": "duì ， xiān bǎ shèng xià de qiáng shuā wán ， zài tiáo zhěng dēng de wèi zhì 。",
+      "tr": "Evet; kalan duvarları boyayıp sonra lambaların yerini ayarlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_085",
+      "speaker": "刘梅",
+      "zh": "我们把桌椅放进店里试一下吧。",
+      "pinyin": "wǒ men bǎ zhuō yǐ fàng jìn diàn lǐ shì yī xià ba 。",
+      "tr": "Masa sandalyeleri dükkâna koyup deneyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_086",
+      "speaker": "张伟",
+      "zh": "这张老桌子放在窗边，旁边还有过道。",
+      "pinyin": "zhè zhāng lǎo zhuō zi fàng zài chuāng biān ， páng biān hái yǒu guò dào 。",
+      "tr": "Eski masa pencere kenarında, yanında da geçiş alanı var."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_087",
+      "speaker": "顾客",
+      "zh": "如果椅子往里一点，客人坐着更舒服。",
+      "pinyin": "rú guǒ yǐ zi wǎng lǐ yì diǎn ， kè rén zuò zhe gèng shū fú 。",
+      "tr": "Sandalyeyi biraz içeri alırsak müşteriler daha rahat oturur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_088",
+      "speaker": "张雨桐",
+      "zh": "好，我把尺寸和最后的位置记在图上。",
+      "pinyin": "hǎo ， wǒ bǎ chǐ cùn hé zuì hòu de wèi zhì jì zài tú shàng 。",
+      "tr": "Peki, ölçüleri ve son yerleşimi çizime işleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_089",
+      "speaker": "刘梅",
+      "zh": "今天墙和老桌子都安排好了。",
+      "pinyin": "jīn tiān qiáng hé lǎo zhuō zi dōu ān pái hǎo le 。",
+      "tr": "Bugün duvarla eski masanın yerini ayarladık."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_090",
+      "speaker": "张伟",
+      "zh": "颜色选好了，尺寸也重新核对过。",
+      "pinyin": "yán sè xuǎn hǎo le ， chǐ cùn yě chóng xīn hé duì guò 。",
+      "tr": "Rengi seçtik ve ölçüleri yeniden kontrol ettik."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_091",
+      "speaker": "顾客",
+      "zh": "接下来要把灯和椅子放好。",
+      "pinyin": "jiē xià lái yào bǎ dēng hé yǐ zi fàng hǎo 。",
+      "tr": "Sırada lambaları ve sandalyeleri yerleştirmek var."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_092",
+      "speaker": "张雨桐",
+      "zh": "如果按计划做，装修很快就能完成。",
+      "pinyin": "rú guǒ àn jì huà zuò ， zhuāng xiū hěn kuài jiù néng wán chéng 。",
+      "tr": "Plana göre ilerlersek tadilat kısa sürede biter."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_093",
+      "speaker": "刘梅",
+      "zh": "装修以后，这里看起来越来越像咖啡馆了。",
+      "pinyin": "zhuāng xiū yǐ hòu ， zhè lǐ kàn qǐ lái yuè lái yuè xiàng kā fēi guǎn le 。",
+      "tr": "Tadilattan sonra burası giderek kafeye benziyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_094",
+      "speaker": "张伟",
+      "zh": "老桌子留下来，让房间更有特点。",
+      "pinyin": "lǎo zhuō zi liú xià lái ， ràng fáng jiān gèng yǒu tè diǎn 。",
+      "tr": "Eski masayı bırakmak mekâna karakter kattı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_095",
+      "speaker": "顾客",
+      "zh": "墙的颜色也很舒服，顾客应该会喜欢。",
+      "pinyin": "qiáng de yán sè yě hěn shū fú ， gù kè yīng gāi huì xǐ huān 。",
+      "tr": "Duvarın rengi de rahatlatıcı; müşteriler sevebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_096",
+      "speaker": "张雨桐",
+      "zh": "好，等椅子和灯装好，我们再检查一次。",
+      "pinyin": "hǎo ， děng yǐ zi hé dēng zhuāng hǎo ， wǒ men zài jiǎn chá yī cì 。",
+      "tr": "Güzel; sandalye ve lambalar yerleşince tekrar kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_097",
+      "speaker": "刘梅",
+      "zh": "今天我把装修的尺寸和颜色都记下来了。",
+      "pinyin": "jīn tiān wǒ bǎ zhuāng xiū de chǐ cùn hé yán sè dōu jì xià lái le 。",
+      "tr": "Bugün tadilat ölçülerini ve renkleri not ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_098",
+      "speaker": "张伟",
+      "zh": "老桌子修好了，不需要再买一张新的。",
+      "pinyin": "lǎo zhuō zi xiū hǎo le ， bù xū yào zài mǎi yī zhāng xīn de 。",
+      "tr": "Eski masa tamir edildi; yenisini almamız gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_099",
+      "speaker": "顾客",
+      "zh": "如果灯的位置合适，客人坐着就会舒服。",
+      "pinyin": "rú guǒ dēng de wèi zhì hé shì ， kè rén zuò zhe jiù huì shū fú 。",
+      "tr": "Lambalar doğru yerde olursa müşteriler rahat eder."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC014_100",
+      "speaker": "张雨桐",
+      "zh": "大家一起检查过，下一步就按这个计划完成。",
+      "pinyin": "dà jiā yì qǐ jiǎn chá guò ， xià yī bù jiù àn zhè ge jì huà wán chéng 。",
+      "tr": "Hep birlikte kontrol ettik; bundan sonra bu plana göre tamamlarız."
+    }
+  ]
+}

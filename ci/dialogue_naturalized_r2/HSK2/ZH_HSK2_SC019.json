@@ -1,0 +1,710 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK2_SC019",
+  "level": "HSK2",
+  "sourceTitleZh": "去看生病的同事",
+  "sourceTitleTr": "Hasta İş Arkadaşını Ziyaret",
+  "sourceMiniAdventureTr": "Zhang hasta bir iş arkadaşını ziyaret eder.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC019_001",
+      "speaker": "张伟",
+      "zh": "听说你生病了，我们下班后特地来看你。",
+      "pinyin": "Tīng shuō nǐ shēng bìng le wǒ men xià bān hòu tè dì lái kàn nǐ",
+      "tr": "İş arkadaşım, hasta olduğunu duyduk; iş çıkışı seni görmeye geldik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_002",
+      "speaker": "同事",
+      "zh": "谢谢你们，今天已经好一点了。",
+      "pinyin": "Xiè xiè nǐ men jīn tiān yǐ jīng hǎo yì diǎn le",
+      "tr": "Teşekkür ederim, bugün biraz daha iyiyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_003",
+      "speaker": "刘梅",
+      "zh": "现在还发烧吗？",
+      "pinyin": "Xiàn zài hái fā shāo ma",
+      "tr": "Hâlâ ateşin var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_004",
+      "speaker": "张伟",
+      "zh": "没有了，就是嗓子还有点不舒服。",
+      "pinyin": "Méi yǒu le jiù shì sǎng zi hái yǒu diǎn bù shū fú",
+      "tr": "Artık yok, yalnızca boğazım biraz rahatsız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_005",
+      "speaker": "同事",
+      "zh": "医生怎么说？需要多休息吗？",
+      "pinyin": "Yī shēng zěn me shuō xū yào duō xiū xī ma",
+      "tr": "Doktor ne dedi? Daha çok dinlenmen gerekiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_006",
+      "speaker": "刘梅",
+      "zh": "医生说这两天在家休息，按时吃药。",
+      "pinyin": "Yī shēng shuō zhè liǎng tiān zài jiā xiū xī àn shí chī yào",
+      "tr": "Doktor bu iki gün evde dinlenmemi ve ilacımı zamanında almamı söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_007",
+      "speaker": "张伟",
+      "zh": "那你先别想着工作，身体要紧。",
+      "pinyin": "Nà nǐ xiān bié xiǎng zhe gōng zuò shēn tǐ yào jǐn",
+      "tr": "O zaman işi düşünme; önce sağlığın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_008",
+      "speaker": "同事",
+      "zh": "我本来还担心今天的工作没人接。",
+      "pinyin": "Wǒ běn lái hái dān xīn jīn tiān de gōng zuò méi rén jiē",
+      "tr": "Bugünkü işlerimi kimin devralacağı için endişeleniyordum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_009",
+      "speaker": "刘梅",
+      "zh": "你不用担心，我们已经分好了。",
+      "pinyin": "Nǐ bù yòng dān xīn wǒ men yǐ jīng fēn hǎo le",
+      "tr": "Endişelenme, işleri paylaştık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_010",
+      "speaker": "张伟",
+      "zh": "谢谢，有你们帮忙我就放心了。",
+      "pinyin": "Xiè xiè yǒu nǐ men bāng máng wǒ jiù fàng xīn le",
+      "tr": "Teşekkürler, yardım ettiğinizi bilmek içimi rahatlattı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_011",
+      "speaker": "同事",
+      "zh": "这是我们带来的水果，你现在想吃一点吗？",
+      "pinyin": "Zhè shì wǒ men dài lái de shuǐ guǒ nǐ xiàn zài xiǎng chī yì diǎn ma",
+      "tr": "Yanımızda meyve getirdik; şimdi biraz yemek ister misin?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_012",
+      "speaker": "刘梅",
+      "zh": "谢谢，等会儿我再吃，刚吃过药。",
+      "pinyin": "Xiè xiè děng huì er wǒ zài chī gāng chī guò yào",
+      "tr": "Teşekkürler, birazdan yerim; ilacımı yeni içtim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_013",
+      "speaker": "张伟",
+      "zh": "好，先放在桌上，你方便的时候再拿。",
+      "pinyin": "Hǎo xiān fàng zài zhuō shàng nǐ fāng biàn de shí hòu zài ná",
+      "tr": "Peki, masaya koyalım; canın istediğinde alırsın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_014",
+      "speaker": "同事",
+      "zh": "你们坐吧，别一直站着。",
+      "pinyin": "Nǐ men zuò ba bié yì zhí zhàn zhe",
+      "tr": "Buyurun oturun, sürekli ayakta kalmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_015",
+      "speaker": "刘梅",
+      "zh": "你家里现在有人照顾你吗？",
+      "pinyin": "Nǐ jiā lǐ xiàn zài yǒu rén zhào gù nǐ ma",
+      "tr": "Evde sana bakan biri var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_016",
+      "speaker": "张伟",
+      "zh": "我太太下午会回来，晚上也在家。",
+      "pinyin": "Wǒ tài tài xià wǔ huì huí lái wǎn shàng yě zài jiā",
+      "tr": "Eşim öğleden sonra dönecek, akşam da evde olacak."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_017",
+      "speaker": "同事",
+      "zh": "那就好，今天先别出门。",
+      "pinyin": "Nà jiù hǎo jīn tiān xiān bié chū mén",
+      "tr": "İyi o zaman, bugün dışarı çıkma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_018",
+      "speaker": "刘梅",
+      "zh": "我知道，医生也让我待在家里。",
+      "pinyin": "Wǒ zhī dào yī shēng yě ràng wǒ dài zài jiā lǐ",
+      "tr": "Biliyorum, doktor da evde kalmamı söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_019",
+      "speaker": "张伟",
+      "zh": "最近工作挺忙的，你是不是累着了？",
+      "pinyin": "Zuì jìn gōng zuò tǐng máng de nǐ shì bú shì lèi zhe le",
+      "tr": "Son zamanlarda iş yoğundu; yorulmuş olabilir misin?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_020",
+      "speaker": "同事",
+      "zh": "可能吧，前几天睡得不太够。",
+      "pinyin": "Kě néng ba qián jǐ tiān shuì dé bù tài gòu",
+      "tr": "Olabilir, geçen birkaç gün yeterince uyumadım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_021",
+      "speaker": "刘梅",
+      "zh": "忙的时候也要按时吃饭和休息。",
+      "pinyin": "Máng de shí hòu yě yào àn shí chī fàn hé xiū xī",
+      "tr": "Yoğun olsan da zamanında yemek yiyip dinlenmelisin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_022",
+      "speaker": "张伟",
+      "zh": "你说得对，我这次会听医生的话。",
+      "pinyin": "Nǐ shuō dé duì wǒ zhè cì huì tīng yī shēng de huà",
+      "tr": "Haklısın, bu kez doktorun sözünü dinleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_023",
+      "speaker": "同事",
+      "zh": "药要饭前吃还是饭后吃？",
+      "pinyin": "Yào yào fàn qián chī hái shì fàn hòu chī",
+      "tr": "İlacı yemekten önce mi sonra mı almalısın?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_024",
+      "speaker": "刘梅",
+      "zh": "饭后吃，一天两次，医生都写在这里了。",
+      "pinyin": "Fàn hòu chī yī tiān liǎng cì yī shēng dōu xiě zài zhè lǐ le",
+      "tr": "Yemekten sonra, günde iki kez; doktor hepsini buraya yazdı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_025",
+      "speaker": "张伟",
+      "zh": "我帮你把说明放在药旁边，免得忘了。",
+      "pinyin": "Wǒ bāng nǐ bǎ shuō míng fàng zài yào páng biān miǎn de wàng le",
+      "tr": "Unutmaman için kullanma talimatını ilacın yanına koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_026",
+      "speaker": "同事",
+      "zh": "谢谢，我照着说明吃就行。",
+      "pinyin": "Xiè xiè wǒ zhào zhe shuō míng chī jiù xíng",
+      "tr": "Teşekkürler, talimata göre almam yeterli."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_027",
+      "speaker": "刘梅",
+      "zh": "要是晚上不舒服，记得给家里人打电话。",
+      "pinyin": "Yào shì wǎn shàng bù shū fú jì de gěi jiā lǐ rén dǎ diàn huà",
+      "tr": "Akşam rahatsızlanırsan ailenden birini aramayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_028",
+      "speaker": "张伟",
+      "zh": "好，我太太的电话就在手机里。",
+      "pinyin": "Hǎo wǒ tài tài de diàn huà jiù zài shǒu jī lǐ",
+      "tr": "Peki, eşimin numarası telefonumda kayıtlı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_029",
+      "speaker": "同事",
+      "zh": "你这几天先把身体养好，工作的事我们来处理。",
+      "pinyin": "Nǐ zhè jǐ tiān xiān bǎ shēn tǐ yǎng hǎo gōng zuò de shì wǒ men lái chǔ lǐ",
+      "tr": "Önce bu birkaç gün sağlığına kavuş; işi biz hallederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_030",
+      "speaker": "刘梅",
+      "zh": "我原来怕请假会给大家添麻烦。",
+      "pinyin": "Wǒ yuán lái pà qǐng jià huì gěi dà jiā tiān má fán",
+      "tr": "İzin almanın size yük olacağından korkuyordum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_031",
+      "speaker": "张伟",
+      "zh": "同事之间本来就该互相帮忙。",
+      "pinyin": "Tóng shì zhī jiān běn lái jiù gāi hù xiāng bāng máng",
+      "tr": "İş arkadaşları zaten birbirine yardım eder."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_032",
+      "speaker": "同事",
+      "zh": "等我好一点，再把手上的事情交代清楚。",
+      "pinyin": "Děng wǒ hǎo yì diǎn zài bǎ shǒu shàng de shì qíng jiāo dài qīng chǔ",
+      "tr": "Biraz iyileşince üzerimdeki işleri düzgünce devrederim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_033",
+      "speaker": "刘梅",
+      "zh": "不急，等你舒服些再说也来得及。",
+      "pinyin": "Bù jí děng nǐ shū fú xiē zài shuō yě lái de jí",
+      "tr": "Acele yok; kendini daha iyi hissedince de konuşabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_034",
+      "speaker": "张伟",
+      "zh": "那我今天就不看工作消息了。",
+      "pinyin": "Nà wǒ jīn tiān jiù bù kàn gōng zuò xiāo xī le",
+      "tr": "O zaman bugün iş mesajlarına bakmayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_035",
+      "speaker": "同事",
+      "zh": "对，手机放一边，好好睡一觉。",
+      "pinyin": "Duì shǒu jī fàng yī biān hǎo hǎo shuì yī jiào",
+      "tr": "Evet, telefonu bir kenara koyup güzelce uyu."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_036",
+      "speaker": "刘梅",
+      "zh": "我已经躺了一上午，还是觉得有点累。",
+      "pinyin": "Wǒ yǐ jīng tǎng le yī shàng wǔ hái shì jué de yǒu diǎn lèi",
+      "tr": "Bütün sabah uzandım ama hâlâ biraz yorgunum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_037",
+      "speaker": "张伟",
+      "zh": "生病的时候多休息很正常，不用着急好起来。",
+      "pinyin": "Shēng bìng de shí hòu duō xiū xī hěn zhèng cháng bù yòng zháo jí hǎo qǐ lái",
+      "tr": "Hastayken çok dinlenmek normal; hemen iyileşmeye çalışma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_038",
+      "speaker": "同事",
+      "zh": "医生说休息两天，再看看情况。",
+      "pinyin": "Yī shēng shuō xiū xī liǎng tiān zài kàn kàn qíng kuàng",
+      "tr": "Doktor iki gün dinlenip sonra duruma bakmamı söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_039",
+      "speaker": "刘梅",
+      "zh": "那就按医生说的来，别自己改药量。",
+      "pinyin": "Nà jiù àn yī shēng shuō de lái bié zì jǐ gǎi yào liàng",
+      "tr": "O zaman doktorun dediğini yap, ilacın dozunu kendin değiştirme."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_040",
+      "speaker": "张伟",
+      "zh": "我不会，说明上写得很清楚。",
+      "pinyin": "Wǒ bú huì shuō míng shàng xiě dé hěn qīng chǔ",
+      "tr": "Değiştirmem, talimatta çok açık yazıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_041",
+      "speaker": "同事",
+      "zh": "水也要多喝一点，放在你手边吧。",
+      "pinyin": "Shuǐ yě yào duō hē yì diǎn fàng zài nǐ shǒu biān ba",
+      "tr": "Biraz daha su iç; bardağı elinin yakınına koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_042",
+      "speaker": "刘梅",
+      "zh": "谢谢，我刚好有点渴。",
+      "pinyin": "Xiè xiè wǒ gāng hǎo yǒu diǎn kě",
+      "tr": "Teşekkürler, tam da susamıştım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_043",
+      "speaker": "张伟",
+      "zh": "你现在看起来比刚才有精神了。",
+      "pinyin": "Nǐ xiàn zài kàn qǐ lái bǐ gāng cái yǒu jīng shén le",
+      "tr": "Şimdi az öncekinden daha dinç görünüyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_044",
+      "speaker": "同事",
+      "zh": "休息了一会儿，确实舒服些了。",
+      "pinyin": "Xiū xī le yī huì er què shí shū fú xiē le",
+      "tr": "Biraz dinlenince gerçekten daha iyi oldum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_045",
+      "speaker": "刘梅",
+      "zh": "等你完全好了，我们再一起回公司。",
+      "pinyin": "Děng nǐ wán quán hǎo le wǒ men zài yì qǐ huí gōng sī",
+      "tr": "Tamamen iyileşince birlikte işe döneriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_046",
+      "speaker": "张伟",
+      "zh": "好久没和大家一起吃午饭了。",
+      "pinyin": "Hǎo jiǔ méi hé dà jiā yì qǐ chī wǔ fàn le",
+      "tr": "Uzun zamandır hep birlikte öğle yemeği yemedik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_047",
+      "speaker": "同事",
+      "zh": "等你好了再约，今天别安排太多事。",
+      "pinyin": "Děng nǐ hǎo le zài yuē jīn tiān bié ān pái tài duō shì",
+      "tr": "İyileşince ayarlarız; bugün kendine fazla iş çıkarma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_048",
+      "speaker": "刘梅",
+      "zh": "我会在家休息，也会按时吃药。",
+      "pinyin": "Wǒ huì zài jiā xiū xī yě huì àn shí chī yào",
+      "tr": "Evde dinlenip ilacımı zamanında alacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_049",
+      "speaker": "张伟",
+      "zh": "这样我们就放心了。",
+      "pinyin": "Zhè yàng wǒ men jiù fàng xīn le",
+      "tr": "Böylece içimiz rahat eder."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_050",
+      "speaker": "同事",
+      "zh": "你们特地来看我，我心里很暖。",
+      "pinyin": "Nǐ men tè dì lái kàn wǒ wǒ xīn lǐ hěn nuǎn",
+      "tr": "Beni görmeye gelmeniz içimi ısıttı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_051",
+      "speaker": "刘梅",
+      "zh": "我们顺路带了水果，也想看看你好些没有。",
+      "pinyin": "Wǒ men shùn lù dài le shuǐ guǒ yě xiǎng kàn kàn nǐ hǎo xiē méi yǒu",
+      "tr": "Yol üstünde meyve aldık; biraz daha iyi misin diye de görmek istedik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_052",
+      "speaker": "张伟",
+      "zh": "我好多了，谢谢你们关心。",
+      "pinyin": "Wǒ hǎo duō le xiè xiè nǐ men guān xīn",
+      "tr": "Çok daha iyiyim, ilginiz için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_053",
+      "speaker": "同事",
+      "zh": "不用客气，身体不舒服就告诉我们。",
+      "pinyin": "Bù yòng kè qì shēn tǐ bù shū fú jiù gào sù wǒ men",
+      "tr": "Ne demek; kendini kötü hissedersen bize haber ver."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_054",
+      "speaker": "刘梅",
+      "zh": "我记住了，不会一个人硬撑。",
+      "pinyin": "Wǒ jì zhù le bú huì yí gè rén yìng chēng",
+      "tr": "Aklımda, tek başıma dayanıp geçiştirmeyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_055",
+      "speaker": "张伟",
+      "zh": "明天我们再给你发消息，看看你怎么样。",
+      "pinyin": "Míng tiān wǒ men zài gěi nǐ fā xiāo xī kàn kàn nǐ zěn me yàng",
+      "tr": "Yarın nasıl olduğunu öğrenmek için sana yine mesaj atarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_056",
+      "speaker": "同事",
+      "zh": "好，我有力气的时候就回你们。",
+      "pinyin": "Hǎo wǒ yǒu lì qì de shí hòu jiù huí nǐ men",
+      "tr": "Peki, kendimi iyi hissedince yanıt veririm."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_057",
+      "speaker": "刘梅",
+      "zh": "不用马上回，先把觉睡够。",
+      "pinyin": "Bù yòng mǎ shàng huí xiān bǎ jué shuì gòu",
+      "tr": "Hemen cevap vermene gerek yok; önce uykunu al."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_058",
+      "speaker": "张伟",
+      "zh": "你们平时也要注意身体，别总加班。",
+      "pinyin": "Nǐ men píng shí yě yào zhù yì shēn tǐ bié zǒng jiā bān",
+      "tr": "Siz de sağlığınıza dikkat edin, sürekli fazla mesai yapmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_059",
+      "speaker": "同事",
+      "zh": "我们会的，最近也准备早点下班。",
+      "pinyin": "Wǒ men huì de zuì jìn yě zhǔn bèi zǎo diǎn xià bān",
+      "tr": "Dikkat ederiz, son zamanlarda biz de daha erken çıkmaya çalışıyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_060",
+      "speaker": "刘梅",
+      "zh": "工作做不完，明天还可以接着做。",
+      "pinyin": "Gōng zuò zuò bù wán míng tiān hái kě yǐ jiē zhe zuò",
+      "tr": "İş bitmezse yarın devam edebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_061",
+      "speaker": "张伟",
+      "zh": "身体要是累坏了，反而什么都做不了。",
+      "pinyin": "Shēn tǐ yào shì lèi huài le fǎn ér shén me dōu zuò bù liǎo",
+      "tr": "Sağlığını bozacak kadar yorulursan hiçbir şey yapamazsın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_062",
+      "speaker": "同事",
+      "zh": "这句话我记住了，以后会安排好休息时间。",
+      "pinyin": "Zhè jù huà wǒ jì zhù le yǐ hòu huì ān pái hǎo xiū xī shí jiān",
+      "tr": "Bunu aklımda tutacağım; bundan sonra dinlenme zamanımı da ayarlayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_063",
+      "speaker": "刘梅",
+      "zh": "医生还说这两天不要做太累的事。",
+      "pinyin": "Yī shēng huán shuō zhè liǎng tiān bú yào zuò tài lèi de shì",
+      "tr": "Doktor bu iki gün yorucu işler yapmamamı da söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_064",
+      "speaker": "张伟",
+      "zh": "那就先别收拾屋子，简单吃点就行。",
+      "pinyin": "Nà jiù xiān bié shōu shí wū zi jiǎn dān chī diǎn jiù xíng",
+      "tr": "O zaman evi toplama; basit bir şeyler yemek yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_065",
+      "speaker": "同事",
+      "zh": "我太太已经把晚饭准备好了。",
+      "pinyin": "Wǒ tài tài yǐ jīng bǎ wǎn fàn zhǔn bèi hǎo le",
+      "tr": "Eşim akşam yemeğini hazırladı bile."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_066",
+      "speaker": "刘梅",
+      "zh": "她知道你今天过来吗？",
+      "pinyin": "Tā zhī dào nǐ jīn tiān guò lái ma",
+      "tr": "Bugün geleceğini biliyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_067",
+      "speaker": "张伟",
+      "zh": "知道，她让我替她谢谢你们。",
+      "pinyin": "Zhī dào tā ràng wǒ tì tā xiè xiè nǐ men",
+      "tr": "Biliyor, size teşekkür etmemi söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_068",
+      "speaker": "同事",
+      "zh": "等你方便的时候，我们再一起吃饭。",
+      "pinyin": "Děng nǐ fāng biàn de shí hòu wǒ men zài yì qǐ chī fàn",
+      "tr": "Kendini iyi hissedince birlikte yemek yeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_069",
+      "speaker": "刘梅",
+      "zh": "好，我也想早点回到平常的生活。",
+      "pinyin": "Hǎo wǒ yě xiǎng zǎo diǎn huí dào píng cháng de shēng huó",
+      "tr": "Peki, ben de günlük düzenime bir an önce dönmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_070",
+      "speaker": "张伟",
+      "zh": "慢慢来，休息够了再恢复工作。",
+      "pinyin": "Màn màn lái xiū xī gòu le zài huī fù gōng zuò",
+      "tr": "Acele etme; yeterince dinlenince işe dönersin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_071",
+      "speaker": "同事",
+      "zh": "我会先听医生的建议，不会太早回去。",
+      "pinyin": "Wǒ huì xiān tīng yī shēng de jiàn yì bú huì tài zǎo huí qù",
+      "tr": "Önce doktorun önerisini dinleyeceğim, erken dönmeyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_072",
+      "speaker": "刘梅",
+      "zh": "下次不舒服，也别拖到很严重才去看医生。",
+      "pinyin": "Xià cì bù shū fú yě bié tuō dào hěn yán zhòng cái qù kàn yī shēng",
+      "tr": "Bir dahaki sefere rahatsızlanırsan doktora gitmek için çok kötüleşmesini bekleme."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_073",
+      "speaker": "张伟",
+      "zh": "是，我这次就是拖了两天才去。",
+      "pinyin": "Shì wǒ zhè cì jiù shì tuō le liǎng tiān cái qù",
+      "tr": "Evet, bu kez doktora gitmek için iki gün bekledim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_074",
+      "speaker": "同事",
+      "zh": "早点检查清楚，自己也少担心。",
+      "pinyin": "Zǎo diǎn jiǎn chá qīng chǔ zì jǐ yě shǎo dān xīn",
+      "tr": "Erken kontrol ettirirsen daha az endişelenirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_075",
+      "speaker": "刘梅",
+      "zh": "谢谢提醒，以后我会早点说。",
+      "pinyin": "Xiè xiè tí xǐng yǐ hòu wǒ huì zǎo diǎn shuō",
+      "tr": "Hatırlattığın için sağ ol; bundan sonra daha erken haber veririm."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_076",
+      "speaker": "张伟",
+      "zh": "我们差不多该回去了，你先休息吧。",
+      "pinyin": "Wǒ men chà bu duō gāi huí qù le nǐ xiān xiū xī ba",
+      "tr": "Biz artık dönelim; sen dinlenmeye devam et."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_077",
+      "speaker": "同事",
+      "zh": "谢谢你们来看我，还带了水果。",
+      "pinyin": "Xiè xiè nǐ men lái kàn wǒ hái dài le shuǐ guǒ",
+      "tr": "Beni görmeye gelip meyve getirdiğiniz için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_078",
+      "speaker": "刘梅",
+      "zh": "水果放这儿，你想吃的时候拿。",
+      "pinyin": "Shuǐ guǒ fàng zhè ér nǐ xiǎng chī de shí hòu ná",
+      "tr": "Meyveleri buraya bırakalım; canın istediğinde alırsın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_079",
+      "speaker": "张伟",
+      "zh": "我会的，晚上吃一点。",
+      "pinyin": "Wǒ huì de wǎn shàng chī yì diǎn",
+      "tr": "Öyle yaparım, akşam biraz yerim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_080",
+      "speaker": "同事",
+      "zh": "药和水都在床边，别忘了按时吃。",
+      "pinyin": "Yào hé shuǐ dōu zài chuáng biān bié wàng le àn shí chī",
+      "tr": "İlaç ve su yatağının yanında; zamanında almayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_081",
+      "speaker": "刘梅",
+      "zh": "好，吃完饭我就按说明吃药。",
+      "pinyin": "Hǎo chī wán fàn wǒ jiù àn shuō míng chī yào",
+      "tr": "Peki, yemekten sonra talimata göre ilacımı alacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_082",
+      "speaker": "张伟",
+      "zh": "明天再联系你，祝你今晚睡个好觉。",
+      "pinyin": "Míng tiān zài lián xì nǐ zhù nǐ jīn wǎn shuì gè hǎo jué",
+      "tr": "Yarın yine haberleşiriz; bu gece iyi uyu."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_083",
+      "speaker": "同事",
+      "zh": "谢谢，今天见到你们我心情也好多了。",
+      "pinyin": "Xiè xiè jīn tiān jiàn dào nǐ men wǒ xīn qíng yě hǎo duō le",
+      "tr": "Teşekkürler, sizi görmek de bugün moralimi yükseltti."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_084",
+      "speaker": "刘梅",
+      "zh": "好好休息，工作不用担心。",
+      "pinyin": "Hǎo hǎo xiū xī gōng zuò bù yòng dān xīn",
+      "tr": "İyice dinlen, iş için endişelenme."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_085",
+      "speaker": "张伟",
+      "zh": "等我好起来，请你们吃饭。",
+      "pinyin": "Děng wǒ hǎo qǐ lái qǐng nǐ men chī fàn",
+      "tr": "İyileşince size yemek ısmarlayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_086",
+      "speaker": "同事",
+      "zh": "那我们等你康复了再约。",
+      "pinyin": "Nà wǒ men děng nǐ kāng fù le zài yuē",
+      "tr": "O zaman tamamen iyileşince sözleşiriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_087",
+      "speaker": "刘梅",
+      "zh": "一言为定，回公司见。",
+      "pinyin": "Yī yán wéi dìng huí gōng sī jiàn",
+      "tr": "Anlaştık; işte görüşürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_088",
+      "speaker": "张伟",
+      "zh": "路上小心，到家给我发个消息。",
+      "pinyin": "Lù shàng xiǎo xīn dào jiā gěi wǒ fā gè xiāo xī",
+      "tr": "Yolda dikkat edin, eve varınca bana mesaj atın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_089",
+      "speaker": "同事",
+      "zh": "好，你有事也随时给我们打电话。",
+      "pinyin": "Hǎo nǐ yǒu shì yě suí shí gěi wǒ men dǎ diàn huà",
+      "tr": "Peki, bir şeye ihtiyacın olursa bizi istediğin zaman ara."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_090",
+      "speaker": "刘梅",
+      "zh": "谢谢，再见。",
+      "pinyin": "Xiè xiè zài jiàn",
+      "tr": "Teşekkürler, hoşça kalın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_091",
+      "speaker": "张伟",
+      "zh": "再见，记得按时休息。",
+      "pinyin": "Zài jiàn jì de àn shí xiū xī",
+      "tr": "Hoşça kal, zamanında dinlenmeyi unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_092",
+      "speaker": "同事",
+      "zh": "放心吧，我会照顾好自己的。",
+      "pinyin": "Fàng xīn ba wǒ huì zhào gù hǎo zì jǐ de",
+      "tr": "İçin rahat olsun, kendime iyi bakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_093",
+      "speaker": "刘梅",
+      "zh": "那我们就不打扰你了，下次见。",
+      "pinyin": "Nà wǒ men jiù bù dǎ rǎo nǐ le xià cì jiàn",
+      "tr": "O zaman seni daha fazla yormayalım; görüşürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_094",
+      "speaker": "张伟",
+      "zh": "下次见，谢谢你们来看我。",
+      "pinyin": "Xià cì jiàn xiè xiè nǐ men lái kàn wǒ",
+      "tr": "Görüşürüz, beni görmeye geldiğiniz için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_095",
+      "speaker": "同事",
+      "zh": "好，我们回去把工作安排好，你安心休息。",
+      "pinyin": "Hǎo wǒ men huí qù bǎ gōng zuò ān pái hǎo nǐ ān xīn xiū xī",
+      "tr": "Peki, dönüp işleri ayarlayalım; sen rahatça dinlen."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_096",
+      "speaker": "刘梅",
+      "zh": "嗯，今天心里踏实多了。",
+      "pinyin": "Ń jīn tiān xīn lǐ tà shí duō le",
+      "tr": "Evet, şimdi içim çok daha rahat."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_097",
+      "speaker": "张伟",
+      "zh": "身体好起来最重要，其他的慢慢来。",
+      "pinyin": "Shēn tǐ hǎo qǐ lái zuì zhòng yào qí tā de màn màn lái",
+      "tr": "Önemli olan iyileşmen; gerisi yavaş yavaş hallolur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_098",
+      "speaker": "同事",
+      "zh": "谢谢，我会好好休息，早点康复。",
+      "pinyin": "Xiè xiè wǒ huì hǎo hǎo xiū xī zǎo diǎn kāng fù",
+      "tr": "Teşekkürler, güzelce dinlenip bir an önce iyileşeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_099",
+      "speaker": "刘梅",
+      "zh": "那我们回去吧，明天再联系。",
+      "pinyin": "Nà wǒ men huí qù ba míng tiān zài lián xì",
+      "tr": "O zaman biz dönelim; yarın yine haberleşiriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC019_100",
+      "speaker": "张伟",
+      "zh": "我会好好休息，等完全好了再回去。",
+      "pinyin": "Wǒ huì hǎo hǎo xiū xī děng wán quán hǎo le zài huí qù",
+      "tr": "Güzelce dinlenip tamamen iyileşince işe döneceğim."
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC011",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC011.json",
-  "dialogueSha256": "0f928fcc19c05d44399d6bfbd062acb28519b41b7ee87022520568a4e8b94dec",
+  "dialogueSha256": "b7560fe7861352f0c565f4538ee6f92d064cbb5d12cc613257e636ea714e06f0",
   "titleZh": "乐乐成为摄影师",
   "titleTr": "Lele Fotoğrafçılığı Mesleğe Dönüştürüyor",
   "locationId": "LOC_ZH_PHOTO_STUDIO_001",

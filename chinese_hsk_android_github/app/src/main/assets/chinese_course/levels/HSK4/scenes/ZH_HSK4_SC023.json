@@ -11,702 +11,702 @@
     {
       "id": "DLG_ZH_HSK4_SC023_001",
       "speaker": "顾客",
-      "zh": "关于钱包，我们先把情况理一理。",
-      "pinyin": "Guānyú qiánbāo, wǒmen xiān bǎ qíngkuàng lǐyīlǐ.",
-      "tr": "Bugün önce cüzdan hakkında konuşalım."
+      "zh": "不好意思，我刚才结账时才发现钱包不见了，能不能帮我看看？",
+      "pinyin": "bù hǎo yì sī wǒ gāng cái jié zhàng shí cái fā xiàn qián bāo bú jiàn le néng bù néng bāng wǒ kàn kàn",
+      "tr": "Kusura bakmayın, az önce ödeme yaparken cüzdanımın olmadığını fark ettim. Bakmama yardım eder misiniz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC023_002",
       "speaker": "刘梅",
-      "zh": "今天先聊聊信任吧。",
-      "pinyin": "Jīntiān xiān liáoliáo xìnrèn ba.",
-      "tr": "Bugün önce güven hakkında konuşalım."
+      "zh": "你先别着急。你还记得最后一次看到钱包是在什么时候吗？",
+      "pinyin": "nǐ xiān bié zháo jí nǐ hái jì de zuì hòu yī cì kàn dào qián bāo shì zài shén me shí hòu ma",
+      "tr": "Önce sakin olun. Cüzdanınızı en son ne zaman gördüğünüzü hatırlıyor musunuz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC023_003",
       "speaker": "员工",
-      "zh": "换个角度看，有不同意见没关系，只要理由说得清楚就能继续谈。",
-      "pinyin": "Huàngè jiǎodùkàn, yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
-      "tr": "Başka bir açıdan bakarsak, farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+      "zh": "我刚才收拾靠窗的桌子时，看到椅子下面有一个钱包。",
+      "pinyin": "wǒ gāng cái shōu shí kào chuāng de zhuō zi shí kàn dào yǐ zi xià miàn yǒu yí gè qián bāo",
+      "tr": "Az önce pencere kenarındaki masayı toplarken sandalyenin altında bir cüzdan gördüm."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_004",
       "speaker": "张伟",
-      "zh": "如果现在还不能确定，就先保留一点调整空间。",
-      "pinyin": "Rúguǒ xiànzài hái bùnéng quèdìng, jiù xiān bǎoliú yìdiǎn tiáozhěng kōngjiān.",
-      "tr": "Şu anda kesinleştiremiyorsak biraz uyum payı bırakalım."
+      "zh": "先确认一下颜色和外形，再请你描述里面有什么，不需要说具体金额。",
+      "pinyin": "xiān què rèn yī xià yán sè hé wài xíng zài qǐng nǐ miáo shù lǐ miàn yǒu shén me bù xū yào shuō jù tǐ jīn é",
+      "tr": "Önce rengini ve şeklini doğrulayalım; sonra içindekileri anlatın, miktarı söylemeniz gerekmez."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_005",
       "speaker": "顾客",
-      "zh": "我更关心这个选择实际会带来什么变化。",
-      "pinyin": "Wǒ gèng guānxīn zhège xuǎnzé shíjì huì dàilái shénme biànhuà.",
-      "tr": "Ben daha çok bu seçimin gerçekte neyi değiştireceğini önemsiyorum."
+      "zh": "是深蓝色的，里面有身份证和几张卡。我刚才坐在窗边。",
+      "pinyin": "shì shēn lán sè de lǐ miàn yǒu shēn fèn zhèng hé jǐ zhāng kǎ wǒ gāng cái zuò zài chuāng biān",
+      "tr": "Lacivert, içinde kimlik kartım ve birkaç kart var. Az önce pencere kenarında oturuyordum."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_006",
       "speaker": "刘梅",
-      "zh": "先别把问题想得太抽象，回到具体情况会更容易判断。",
-      "pinyin": "Xiānbié bǎ wèntí xiǎng dé tài chōuxiàng, huídào jùtǐqíngkuàng huì gèng róngyì pànduàn.",
-      "tr": "Sorunu fazla soyutlaştırmayalım; somut duruma dönmek değerlendirmeyi kolaylaştırır."
+      "zh": "听起来很像。员工，你把它放到柜台里面了吗？",
+      "pinyin": "tīng qǐ lái hěn xiàng yuán gōng nǐ bǎ tā fàng dào guì tái lǐ miàn le ma",
+      "tr": "Anlattığınız cüzdana benziyor. Çalışan arkadaş, onu tezgâhın arkasına koydun mu?"
     },
     {
       "id": "DLG_ZH_HSK4_SC023_007",
       "speaker": "员工",
-      "zh": "关于钱包，你们怎么看？",
-      "pinyin": "Guānyú qiánbāo, nǐmen zěnme kàn?",
-      "tr": "Cüzdan konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "放好了，也记下了发现的时间和位置。我没有打开里面的东西。",
+      "pinyin": "fàng hǎo le yě jì xià le fā xiàn de shí jiān hé wèi zhì wǒ méi yǒu dǎ kāi lǐ miàn de dōng xī",
+      "tr": "Koydum; bulunduğu saati ve yeri de kaydettim. İçindekileri açıp bakmadım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_008",
       "speaker": "张伟",
-      "zh": "这一点我同意。",
-      "pinyin": "Zhè yìdiǎn wǒ tóngyì.",
-      "tr": "Bu noktaya katılıyorum."
+      "zh": "这样处理比较稳妥。我们请顾客再核对一个不公开的特征。",
+      "pinyin": "zhè yàng chǔ lǐ bǐ jiào wěn tuǒ wǒ men qǐng gù kè zài hé duì yí gè bù gōng kāi de tè zhēng",
+      "tr": "Bu şekilde davranmak daha doğru. Müşteriden herkese açık olmayan bir özelliği daha doğrulamasını isteyelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_009",
       "speaker": "顾客",
-      "zh": "关于信任，我们还是结合实际情况来看。",
-      "pinyin": "Guānyú xìnrèn, wǒmen háishì jiéhéshíjì qíngkuàng láikàn.",
-      "tr": "güven konusunda yine gerçek duruma bakmak gerekir."
+      "zh": "夹层里有一张我女儿画的小卡片，画着一只黄色的猫。",
+      "pinyin": "jiā céng lǐ yǒu yī zhāng wǒ nǚ ér huà de xiǎo kǎ piàn huà zhe yī zhī huáng sè de māo",
+      "tr": "İç bölmede kızımın çizdiği küçük bir kart var; üzerinde sarı bir kedi çizmişti."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_010",
       "speaker": "刘梅",
-      "zh": "我们先处理最关键的一点，再看其他细节。",
-      "pinyin": "Wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
-      "tr": "Önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+      "zh": "这和我们看到的相符。员工，把钱包拿来，让顾客自己确认。",
+      "pinyin": "zhè hé wǒ men kàn dào de xiāng fú yuán gōng bǎ qián bāo ná lái ràng gù kè zì jǐ què rèn",
+      "tr": "Bu, gördüğümüzle uyuşuyor. Cüzdanı getir, müşteri kendisi doğrulasın."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_011",
       "speaker": "员工",
-      "zh": "我们把诚信也算进去。",
-      "pinyin": "Wǒmen bǎ chéngxìn yě suànjìnqù.",
-      "tr": "Dürüstlük / güvenilirlik konusunu da değerlendirme kapsamına alalım."
+      "zh": "给您。您可以检查一下，确认是自己的以后再拿走。",
+      "pinyin": "gěi nín nín kě yǐ jiǎn chá yī xià què rèn shì zì jǐ de yǐ hòu zài ná zǒu",
+      "tr": "Buyurun. Size ait olduğunu doğruladıktan sonra alabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_012",
       "speaker": "张伟",
-      "zh": "这个想法可以继续讨论，不过最好再确认一下实际条件。",
-      "pinyin": "Zhège xiǎngfǎ kěyǐ jìxù tǎolùn, bùguò zuìhǎo zài quèrèn yīxià shíjì tiáojiàn.",
-      "tr": "Bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+      "zh": "我们不需要记录卡片号码或证件内容，只要登记归还情况。",
+      "pinyin": "wǒ men bù xū yào jì lù kǎ piàn hào mǎ huò zhèng jiàn nèi róng zhǐ yào dēng jì guī huán qíng kuàng",
+      "tr": "Kart numaralarını ya da kimlik bilgilerini kaydetmemize gerek yok; yalnızca iade edildiğini yazalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_013",
       "speaker": "顾客",
-      "zh": "如果顾客的需求变了，我们也要跟着调整。",
-      "pinyin": "Rúguǒ gùkè de xūqiú biàn le, wǒmen yě yào gēnzhe tiáozhěng.",
-      "tr": "Müşterinin ihtiyacı değişirse bizim de buna göre uyum sağlamamız gerekir."
+      "zh": "是我的，谢谢你们。我刚才还以为钱包落在出租车上了。",
+      "pinyin": "shì wǒ de xiè xiè nǐ men wǒ gāng cái hái yǐ wéi qián bāo luò zài chū zū chē shàng le",
+      "tr": "Benim, teşekkür ederim. Az önce takside düşürdüğümü sanmıştım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_014",
       "speaker": "刘梅",
-      "zh": "另外，我同意方向，不过执行的时候需要留一点余地。",
-      "pinyin": "Lìngwài, wǒ tóngyì fāngxiàng, bùguò zhíxíng de shíhòu xūyào liú yìdiǎn yúdì.",
-      "tr": "Ayrıca, yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+      "zh": "找到了就好。你刚才的账单还没付，需要现在结账吗？",
+      "pinyin": "zhǎo dào le jiù hǎo nǐ gāng cái de zhàng dān hái méi fù xū yào xiàn zài jié zhàng ma",
+      "tr": "Bulunmasına sevindim. Az önceki hesabınız ödenmemiş; şimdi kapatmak ister misiniz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC023_015",
       "speaker": "员工",
-      "zh": "说到付款，大家最在意的是什么？",
-      "pinyin": "Shuō dào fùkuǎn, dàjiā zuì zàiyì de shì shénme?",
-      "tr": "Ödeme konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "我可以重新打出账单，你看一下金额，再选现金或扫码付款。",
+      "pinyin": "wǒ kě yǐ chóng xīn dǎ chū zhàng dān nǐ kàn yī xià jīn é zài xuǎn xiàn jīn huò sǎo mǎ fù kuǎn",
+      "tr": "Hesabı yeniden çıkarabilirim; tutarı kontrol edip nakit ya da kodla ödeme seçebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_016",
       "speaker": "张伟",
-      "zh": "我先把这一点记下来。",
-      "pinyin": "Wǒ xiān bǎ zhè yìdiǎn jìxiàlái.",
-      "tr": "Bu noktayı not edeyim."
+      "zh": "如果你现在不方便付款，也可以先告诉我们情况，我们按店里的规定处理。",
+      "pinyin": "rú guǒ nǐ xiàn zài bù fāng biàn fù kuǎn yě kě yǐ xiān gào sù wǒ men qíng kuàng wǒ men àn diàn lǐ de guī dìng chǔ lǐ",
+      "tr": "Şimdi ödeme yapmak uygun değilse durumu anlatın; kafe kurallarına göre ilerleriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_017",
       "speaker": "顾客",
-      "zh": "我们还得顾到负责。",
-      "pinyin": "Wǒmen hái dé gùdào fùzé.",
-      "tr": "Sorumlu olmak göz ardı edemeyeceğimiz bir nokta."
+      "zh": "卡还在钱包里，我可以扫码付款。刚才慌了一下，没注意到账单。",
+      "pinyin": "kǎ hái zài qián bāo lǐ wǒ kě yǐ sǎo mǎ fù kuǎn gāng cái huāng le yī xià méi zhù yì dào zhàng dān",
+      "tr": "Kartım cüzdanda, kodla ödeyebilirim. Az önce telaşlandım, hesaba dikkat etmedim."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_018",
       "speaker": "刘梅",
-      "zh": "如果出现新情况，我们就根据新的事实调整。",
-      "pinyin": "Rúguǒ chūxiàn xīn qíngkuàng, wǒmen jiù gēnjù xīn de shìshí tiáozhěng.",
-      "tr": "Yeni bir durum çıkarsa yeni olgulara göre ayarlarız."
+      "zh": "没关系，我们先把账单核对清楚。你常来这里，不用担心我们会误会。",
+      "pinyin": "méi guān xì wǒ men xiān bǎ zhàng dān hé duì qīng chǔ nǐ cháng lái zhè lǐ bù yòng dān xīn wǒ men huì wù huì",
+      "tr": "Sorun değil, önce hesabı kontrol edelim. Buraya sık geliyorsunuz; yanlış anlayacağımızdan endişelenmeyin."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_019",
       "speaker": "员工",
-      "zh": "那把解决办法也一起考虑进去吧。",
-      "pinyin": "Nà bǎ jiějuébànfǎ yě yìqǐ kǎolǜ jìnqù ba.",
-      "tr": "Çözüm yolu konusunu da değerlendirme kapsamına alalım."
+      "zh": "这是重新打印的账单，金额和桌上的菜单价格一致。",
+      "pinyin": "zhè shì chóng xīn dǎ yìn de zhàng dān jīn é hé zhuō shàng de cài dān jià gé yí zhì",
+      "tr": "Yeniden çıkardığım hesap bu; tutar menüdeki fiyatlarla aynı."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_020",
       "speaker": "张伟",
-      "zh": "这一点我同意。",
-      "pinyin": "Zhè yìdiǎn wǒ tóngyì.",
-      "tr": "Bu noktaya katılıyorum."
+      "zh": "付款成功了。现在钱包也找到了，事情算是解决了。",
+      "pinyin": "fù kuǎn chéng gōng le xiàn zài qián bāo yě zhǎo dào le shì qíng suàn shì jiě jué le",
+      "tr": "Ödeme tamamlandı. Cüzdan da bulundu; sorun çözüldü sayılır."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_021",
       "speaker": "顾客",
-      "zh": "如果服务的情况变了，我们的安排也要跟着调整。",
-      "pinyin": "Rúguǒ fúwù de qíngkuàng biàn le, wǒmen de ānpái yě yào gēnzhe tiáozhěng.",
-      "tr": "Hizmet değişirse planı da ayarlamak gerekir."
+      "zh": "我刚才真的有点紧张，里面有证件，丢了会很麻烦。",
+      "pinyin": "wǒ gāng cái zhēn de yǒu diǎn jǐn zhāng lǐ miàn yǒu zhèng jiàn diū le huì hěn má fán",
+      "tr": "Gerçekten biraz telaşlandım; içinde kimlik vardı, kaybolsa çok uğraştırırdı."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_022",
       "speaker": "刘梅",
-      "zh": "其实，不用追求一次把所有问题都解决，先把下一步走稳。",
-      "pinyin": "Qíshí, bùyòng zhuīqiú yīcì bǎ suǒyǒu wèntí dōu jiějué, xiān bǎ xià yībù zǒuwěn.",
-      "tr": "Aslında, bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+      "zh": "换作谁都会担心。你回来问的时候，我们也只想先把情况核实清楚。",
+      "pinyin": "huàn zuò shéi dōu huì dān xīn nǐ huí lái wèn de shí hòu wǒ men yě zhǐ xiǎng xiān bǎ qíng kuàng hé shí qīng chǔ",
+      "tr": "Herkes endişelenirdi. Geri gelip sorduğunuzda önce durumu doğrulamak istedik."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_023",
       "speaker": "员工",
-      "zh": "换个角度看，我们至少已经知道彼此最在意什么了。",
-      "pinyin": "Huàngè jiǎodùkàn, wǒmen zhìshǎo yǐjīng zhīdào bǐcǐ zuì zàiyì shénme le.",
-      "tr": "Başka bir açıdan bakarsak, en azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+      "zh": "我按店里的失物流程登记了时间和地点，没有把钱包的样子发到网上。",
+      "pinyin": "wǒ àn diàn lǐ de shī wù liú chéng dēng jì le shí jiān hé dì diǎn méi yǒu bǎ qián bāo de yàng zi fā dào wǎng shàng",
+      "tr": "Kafenin kayıp eşya sürecine göre saati ve yeri kaydettim; cüzdanın fotoğrafını internette paylaşmadım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_024",
       "speaker": "张伟",
-      "zh": "把责任和时间说清楚，后面执行会容易很多。",
-      "pinyin": "Bǎ zérèn hé shíjiān shuō qīngchǔ, hòumiàn zhíxíng huì róngyì hěnduō.",
-      "tr": "Sorumlulukları ve zamanı netleştirince uygulama çok daha kolay olur."
+      "zh": "这样既能保护失主的隐私，也能避免别人冒领。",
+      "pinyin": "zhè yàng jì néng bǎo hù shī zhǔ de yǐn sī yě néng bì miǎn bié rén mào lǐng",
+      "tr": "Böylece hem sahibinin mahremiyetini korur hem de başkasının sahiplenmesini önleriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_025",
       "speaker": "顾客",
-      "zh": "这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "Zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
-      "tr": "Bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "我以前没想过这些细节。谢谢你没有直接把钱包交给第一个来问的人。",
+      "pinyin": "wǒ yǐ qián méi xiǎng guò zhè xiē xì jié xiè xiè nǐ méi yǒu zhí jiē bǎ qián bāo jiāo gěi dì yí gè lái wèn de rén",
+      "tr": "Bu ayrıntıları daha önce düşünmemiştim. İlk sorana hemen vermediğiniz için sağ olun."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_026",
       "speaker": "刘梅",
-      "zh": "今天先把能确定的部分定下来，剩下的以后继续聊。",
-      "pinyin": "Jīntiān xiān bǎ néng quèdìng de bùfèn dìng xiàlái, shèngxià de yǐhòu jìxù liáo.",
-      "tr": "Bugün netleştirebildiğimiz kısmı kararlaştıralım; kalanını sonra konuşuruz."
+      "zh": "这是应该做的。先请对方说出特征，再让本人检查确认。",
+      "pinyin": "zhè shì yīng gāi zuò de xiān qǐng duì fāng shuō chū tè zhēng zài ràng běn rén jiǎn chá què rèn",
+      "tr": "Yapılması gereken bu. Önce kişiden özellikleri tarif etmesini, sonra kendisinin kontrol etmesini isteriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_027",
       "speaker": "员工",
-      "zh": "顾客的感受要看，成本和实际操作也不能忽略。",
-      "pinyin": "Gùkè de gǎnshòu yào kàn, chéngběn hé shíjìcāozuò yě bùnéng hūlüè.",
-      "tr": "Müşteri deneyimine bakmalıyız; maliyet ve uygulama tarafını da göz ardı edemeyiz."
+      "zh": "下次有人捡到东西，我也会照这个步骤处理，并马上交给值班负责人。",
+      "pinyin": "xià cì yǒu rén jiǎn dào dōng xī wǒ yě huì zhào zhè ge bù zhòu chǔ lǐ bìng mǎ shàng jiāo gěi zhí bān fù zé rén",
+      "tr": "Bir dahaki sefere biri eşya bulursa aynı adımları izleyip vardiya sorumlusuna hemen veririm."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_028",
       "speaker": "张伟",
-      "zh": "先算清楚这件事会给店里带来什么实际变化。",
-      "pinyin": "Xiān suànqīngchǔ zhèjiàn shìhuì gěi diànlǐ dàilái shénme shíjì biànhuà.",
-      "tr": "Önce bunun işletmede gerçekte neyi değiştireceğini hesaplayalım."
+      "zh": "我们把流程写在员工手册里，新同事也能知道怎么做。",
+      "pinyin": "wǒ men bǎ liú chéng xiě zài yuán gōng shǒu cè lǐ xīn tóng shì yě néng zhī dào zěn me zuò",
+      "tr": "Süreci çalışan el kitabına yazalım; yeni arkadaşlar da ne yapacağını bilir."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_029",
       "speaker": "顾客",
-      "zh": "如果顾客喜欢但店里做不下去，也不是一个长期办法。",
-      "pinyin": "Rúguǒ gùkè xǐhuān dàn diànlǐ zuò bù xiàqù, yě búshì yígè chángqī bànfǎ.",
-      "tr": "Müşteri sevse bile işletme sürdüremiyorsa uzun vadeli bir çözüm değildir."
+      "zh": "你们平时做得这么仔细，难怪大家愿意常来这家咖啡馆。",
+      "pinyin": "nǐ men píng shí zuò dé zhè me zǐ xì nán guài dà jiā yuàn yì cháng lái zhè jiā kā fēi guǎn",
+      "tr": "Bu kadar dikkatli çalışmanız, insanların kafeye neden sık geldiğini açıklıyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_030",
       "speaker": "刘梅",
-      "zh": "不过，可以先小范围试一试，再根据顾客反应调整。",
-      "pinyin": "Bùguò, kěyǐ xiānxiǎo fànwéi shìyīshì, zài gēnjù gùkè fǎnyìng tiáozhěng.",
-      "tr": "Ancak, önce küçük ölçekte deneyip müşteri tepkisine göre ayarlayabiliriz."
+      "zh": "谢谢你这么说。我们希望顾客觉得安心，也希望每个人都公平地被对待。",
+      "pinyin": "xiè xiè nǐ zhè me shuō wǒ men xī wàng gù kè jué de ān xīn yě xī wàng měi gè rén dōu gōng píng dì bèi duì dài",
+      "tr": "Bunu söylemeniz güzel. Müşterilerin rahat etmesini ve herkese adil davranılmasını istiyoruz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_031",
       "speaker": "员工",
-      "zh": "其实，价格、品质和工作量最好放在一起看。",
-      "pinyin": "Qíshí, jiàgé、 pǐnzhì hé gōngzuòliàng zuìhǎo fàngzài yìqǐ kàn.",
-      "tr": "Aslında, fiyatı, kaliteyi ve iş yükünü birlikte değerlendirmek en iyisi."
+      "zh": "我会补上今天的记录：钱包已由本人核对并取回，账单也已经付款。",
+      "pinyin": "wǒ huì bǔ shàng jīn tiān de jì lù qián bāo yǐ yóu běn rén hé duì bìng qǔ huí zhàng dān yě yǐ jīng fù kuǎn",
+      "tr": "Bugünkü kayda şunu eklerim: Cüzdan sahibi tarafından doğrulanıp alındı, hesap da ödendi."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_032",
       "speaker": "张伟",
-      "zh": "换个角度看，这件事不能只凭感觉，最好看看最近的实际数据。",
-      "pinyin": "Huàngè jiǎodùkàn, zhèjiàn shì bùnéng zhǐ pínggǎnjué, zuìhǎo kànkàn zuìjìn de shíjì shùjù.",
-      "tr": "Başka bir açıdan bakarsak, bunu yalnızca hisle değerlendirmeyelim; son dönemin gerçek verilerine bakalım."
+      "zh": "记录里不用写证件和卡片的内容，也不用记顾客的私人信息。",
+      "pinyin": "jì lù lǐ bù yòng xiě zhèng jiàn hé kǎ piàn de nèi róng yě bù yòng jì gù kè de sī rén xìn xī",
+      "tr": "Kayıtta kimlik ve kartların içeriğini ya da müşterinin özel bilgilerini yazmaya gerek yok."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_033",
       "speaker": "顾客",
-      "zh": "如果要改，最好先让员工知道为什么要改。",
-      "pinyin": "Rúguǒ yào gǎi, zuìhǎo xiān ràng yuángōng zhīdào wèishénme yào gǎi.",
-      "tr": "Değişiklik yapılacaksa çalışanlara nedenini önceden anlatmak iyi olur."
+      "zh": "这样很好，事情解决了，也不会留下不必要的个人资料。",
+      "pinyin": "zhè yàng hěn hǎo shì qíng jiě jué le yě bú huì liú xià bù bì yào de gè rén zī liào",
+      "tr": "Bu iyi; sorun çözüldü ve gereksiz kişisel bilgi de kalmadı."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_034",
       "speaker": "刘梅",
-      "zh": "我更担心的是，忙的时候这个办法还能不能正常执行。",
-      "pinyin": "Wǒ gèng dānxīn de shì, máng de shíhòu zhège bànfǎ hái néng bùnéng zhèngcháng zhíxíng.",
-      "tr": "Ben daha çok yoğun saatlerde bu yöntemin uygulanıp uygulanamayacağını düşünüyorum."
+      "zh": "对。诚信不只是把东西还给主人，也包括认真保护对方的信息。",
+      "pinyin": "duì chéng xìn bù zhǐ shì bǎ dōng xī huán gěi zhǔ rén yě bāo kuò rèn zhēn bǎo hù duì fāng de xìn xī",
+      "tr": "Evet. Dürüstlük yalnızca eşyayı sahibine vermek değil, bilgilerini özenle korumaktır."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_035",
       "speaker": "员工",
-      "zh": "别一次改太多，先把最影响顾客体验的部分处理好。",
-      "pinyin": "Bié yīcì gǎitàiduō, xiān bǎ zuì yǐngxiǎng gùkè tǐyàn de bùfèn chǔlǐ hǎo.",
-      "tr": "Bir seferde çok fazla şeyi değiştirmeyelim; önce müşteri deneyimini en çok etkileyen kısmı düzeltelim."
+      "zh": "我想在门口贴一张“遗失物品请到柜台询问”的小提示，可以吗？",
+      "pinyin": "wǒ xiǎng zài mén kǒu tiē yī zhāng yí shī wù pǐn qǐng dào guì tái xún wèn de xiǎo tí shì kě yǐ ma",
+      "tr": "Kapıya “Kayıp eşya için tezgâha danışın” yazan küçük bir not asabilir miyiz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC023_036",
       "speaker": "张伟",
-      "zh": "只要品质不受影响，细节上可以慢慢调整。",
-      "pinyin": "Zhǐyào pǐnzhì bù shòu yǐngxiǎng, xìjié shàng kěyǐ mànmàn tiáozhěng.",
-      "tr": "Kalite etkilenmediği sürece ayrıntıları zamanla ayarlayabiliriz."
+      "zh": "可以，但别写具体物品的名称或照片，免得有人照着来认领。",
+      "pinyin": "kě yǐ dàn bié xiě jù tǐ wù pǐn de míng chēng huò zhào piān miǎn de yǒu rén zhào zhe lái rèn lǐng",
+      "tr": "Olur; ama belirli eşyanın adını ya da fotoğrafını koyma, biri görüp sahiplenmesin."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_037",
       "speaker": "顾客",
-      "zh": "店里的办法最终还是要经得住每天实际使用。",
-      "pinyin": "Diànlǐ de bànfǎ zuìzhōng háishì yào jīngdézhù měitiān shíjì shǐyòng.",
-      "tr": "İşletmedeki yöntemler sonuçta günlük kullanımda işe yaramalı."
+      "zh": "我下次也会先检查座位，不再把钱包随手放在椅子上。",
+      "pinyin": "wǒ xià cì yě huì xiān jiǎn chá zuò wèi bù zài bǎ qián bāo suí shǒu fàng zài yǐ zi shàng",
+      "tr": "Bir dahaki sefere oturduğum yeri kontrol eder, cüzdanı sandalyeye bırakmam."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_038",
       "speaker": "刘梅",
-      "zh": "另外，顾客的意见很重要，但也要看是不是普遍情况。",
-      "pinyin": "Lìngwài, gùkè de yìjiàn hěn zhòngyào, dàn yě yào kàn shìbúshì pǔbiàn qíngkuàng.",
-      "tr": "Ayrıca, müşteri görüşü önemli ama bunun yaygın bir durum olup olmadığına da bakmalıyız."
+      "zh": "放进包里最稳妥。刚才你回来得及时，所以很快就找到了。",
+      "pinyin": "fàng jìn bāo lǐ zuì wěn tuǒ gāng cái nǐ huí lái de jí shí suǒ yǐ hěn kuài jiù zhǎo dào le",
+      "tr": "Çantaya koymak en güvenlisi. Hemen geri geldiğiniz için çabucak bulduk."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_039",
       "speaker": "员工",
-      "zh": "先把成本上限说清楚，后面做选择会容易很多。",
-      "pinyin": "Xiān bǎ chéngběn shàngxiàn shuō qīngchǔ, hòumiàn zuò xuǎnzé huì róngyì hěnduō.",
-      "tr": "Önce maliyet sınırını netleştirirsek sonrasında seçim yapmak çok daha kolay olur."
+      "zh": "我把柜台下的失物盒整理一下，钥匙和雨伞也分开放好。",
+      "pinyin": "wǒ bǎ guì tái xià de shī wù hé zhěng lǐ yī xià yào shi hé yǔ sǎn yě fēn kāi fàng hǎo",
+      "tr": "Tezgâhın altındaki kayıp eşya kutusunu düzenleyeyim; anahtarlarla şemsiyeleri ayırayım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_040",
       "speaker": "张伟",
-      "zh": "其实，这个想法可以保留，不过最好先做一个简单测试。",
-      "pinyin": "Qíshí, zhège xiǎngfǎ kěyǐ bǎoliú, bùguò zuìhǎo xiān zuò yígè jiǎndān cèshì.",
-      "tr": "Aslında, bu fikir kalabilir ama önce basit bir deneme yapmak iyi olur."
+      "zh": "每件东西都贴上发现日期，不写失主姓名，这样查找方便又安全。",
+      "pinyin": "měi jiàn dōng xī dōu tiē shàng fā xiàn rì qī bù xiě shī zhǔ xìng míng zhè yàng chá zhǎo fāng biàn yòu ān quán",
+      "tr": "Her eşyaya bulunduğu tarihi yaz; sahibinin adını yazma. Böylece aramak kolay ve güvenli olur."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_041",
       "speaker": "顾客",
-      "zh": "如果实际效果不好，我们就及时改，不必硬撑。",
-      "pinyin": "Rúguǒ shíjìxiàoguǒ bùhǎo, wǒmen jiù jíshí gǎi, bùbì yìngchēng.",
-      "tr": "Gerçek sonuç iyi olmazsa zamanında değiştiririz; ısrar etmeye gerek yok."
+      "zh": "我常来这里，知道你们不是故意为难我，所以刚才愿意配合核对。",
+      "pinyin": "wǒ cháng lái zhè lǐ zhī dào nǐ men bú shì gù yì wéi nán wǒ suǒ yǐ gāng cái yuàn yì pèi hé hé duì",
+      "tr": "Buraya sık geliyorum; bana zorluk çıkarmayacağınızı bildiğim için az önce doğrulamaya yardımcı oldum."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_042",
       "speaker": "刘梅",
-      "zh": "我希望最后的做法既让顾客舒服，也不会把员工累坏。",
-      "pinyin": "Wǒ xīwàng zuìhòu de zuòfǎ jì ràng gùkè shūfú, yě búhuì bǎ yuángōng lèihuài.",
-      "tr": "Son yöntemin hem müşteriyi memnun etmesini hem de çalışanları yormamasını istiyorum."
+      "zh": "谢谢你的理解。我们对每位顾客都按同一流程做，免得有人觉得不公平。",
+      "pinyin": "xiè xiè nǐ de lǐ jiě wǒ men duì měi wèi gù kè dōu àn tóng yī liú chéng zuò miǎn de yǒu rén jué de bù gōng píng",
+      "tr": "Anlayışınız için teşekkürler. Haksızlık olmasın diye her müşteriye aynı süreci uyguluyoruz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_043",
       "speaker": "员工",
-      "zh": "先把真正的问题说清楚，别急着找一个漂亮答案。",
-      "pinyin": "Xiān bǎ zhēnzhèng de wèntí shuō qīngchǔ, biéjí zhe zhǎo yígè piàoliàng dáàn.",
-      "tr": "Önce gerçek sorunu netleştirelim; kulağa güzel gelen bir cevap bulmak için acele etmeyelim."
+      "zh": "如果顾客一时想不起钱包的特征，我可以先请他留下联系方式，等核实后再通知。",
+      "pinyin": "rú guǒ gù kè yī shí xiǎng bù qǐ qián bāo de tè zhēng wǒ kě yǐ xiān qǐng tā liú xià lián xì fāng shì děng hé shí hòu zài tōng zhī",
+      "tr": "Müşteri cüzdanın özelliklerini hemen hatırlayamazsa iletişim bilgisini alıp doğrulama sonrası haber verebilirim."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_044",
       "speaker": "张伟",
-      "zh": "每个人看到的角度不一样，把这些角度放在一起会更完整。",
-      "pinyin": "Měigè rén kàndào de jiǎodù bù yīyàng, bǎ zhèxiē jiǎodù fàngzài yìqǐ huì gèng wánzhěng.",
-      "tr": "Herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+      "zh": "只收处理这件事需要的信息，并告诉对方我们会怎么使用。",
+      "pinyin": "zhǐ shōu chǔ lǐ zhè jiàn shì xū yào de xìn xī bìng gào sù duì fāng wǒ men huì zěn me shǐ yòng",
+      "tr": "Yalnızca bu iş için gereken bilgiyi alıp nasıl kullanacağımızı açıklamalıyız."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_045",
       "speaker": "顾客",
-      "zh": "先确认我们已经知道什么，再说还缺什么信息。",
-      "pinyin": "Xiān quèrèn wǒmen yǐjīng zhīdào shénme, zàishuō hái quēshénme xìnxī.",
-      "tr": "Önce ne bildiğimizi netleştirelim, sonra hangi bilginin eksik olduğunu konuşalım."
+      "zh": "要是钱包里有银行卡，你们会帮忙联系银行吗？",
+      "pinyin": "yào shì qián bāo lǐ yǒu yín háng kǎ nǐ men huì bāng máng lián xì yín háng ma",
+      "tr": "Cüzdanda banka kartı olsaydı bankayla iletişim kurmaya yardım eder miydiniz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC023_046",
       "speaker": "刘梅",
-      "zh": "有不同意见没关系，只要理由说得清楚就能继续谈。",
-      "pinyin": "Yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
-      "tr": "Farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+      "zh": "我们不会查看或使用卡片，只会把钱包安全保管，联系失主本人。",
+      "pinyin": "wǒ men bú huì chá kàn huò shǐ yòng kǎ piàn zhǐ huì bǎ qián bāo ān quán bǎo guǎn lián xì shī zhǔ běn rén",
+      "tr": "Kartı inceleyip kullanmayız; cüzdanı güvenle saklar ve sahibine ulaşırız."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_047",
       "speaker": "员工",
-      "zh": "其实，店里的办法最终还是要经得住每天实际使用。",
-      "pinyin": "Qíshí, diànlǐ de bànfǎ zuìzhōng háishì yào jīngdézhù měitiān shíjì shǐyòng.",
-      "tr": "Aslında, i̇şletmedeki yöntemler sonuçta günlük kullanımda işe yaramalı."
+      "zh": "如果暂时找不到失主，我会按规定交给店长保管，不会带回家。",
+      "pinyin": "rú guǒ zàn shí zhǎo bú dào shī zhǔ wǒ huì àn guī dìng jiāo gěi diàn zhǎng bǎo guǎn bú huì dài huí jiā",
+      "tr": "Sahibini bulamazsak kurala göre işletme sorumlusuna teslim ederim; eve götürmem."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_048",
       "speaker": "张伟",
-      "zh": "不过，我更关心这个选择实际会带来什么变化。",
-      "pinyin": "Bùguò, wǒ gèng guānxīn zhège xuǎnzé shíjì huì dàilái shénme biànhuà.",
-      "tr": "Ancak, ben daha çok bu seçimin gerçekte neyi değiştireceğini önemsiyorum."
+      "zh": "与其把顾客的个人信息都记下来，不如只保留处理失物需要的内容。",
+      "pinyin": "yǔ qí bǎ gù kè de gè rén xìn xī dōu jì xià lái bù rú zhǐ bǎo liú chǔ lǐ shī wù xū yào de nèi róng",
+      "tr": "Müşterinin tüm kişisel bilgilerini kaydetmektense yalnızca kayıp eşyayı işlemek için gerekenleri tutalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_049",
       "speaker": "顾客",
-      "zh": "换个角度看，顾客的意见很重要，但也要看是不是普遍情况。",
-      "pinyin": "Huàngè jiǎodùkàn, gùkè de yìjiàn hěn zhòngyào, dàn yě yào kàn shìbúshì pǔbiàn qíngkuàng.",
-      "tr": "Başka bir açıdan bakarsak, müşteri görüşü önemli ama bunun yaygın bir durum olup olmadığına da bakmalıyız."
+      "zh": "这让我觉得很放心。万一以后我捡到东西，也知道该交到哪里。",
+      "pinyin": "zhè ràng wǒ jué de hěn fàng xīn wàn yī yǐ hòu wǒ jiǎn dào dōng xī yě zhī dào gāi jiāo dào nǎ lǐ",
+      "tr": "Bu içimi rahatlattı. Bir gün eşya bulursam nereye teslim edeceğimi biliyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_050",
       "speaker": "刘梅",
-      "zh": "换个角度看，我们先处理最关键的一点，再看其他细节。",
-      "pinyin": "Huàngè jiǎodùkàn, wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
-      "tr": "Başka bir açıdan bakarsak, önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+      "zh": "交给柜台就可以，我们会记录时间和地点，再联系失主。",
+      "pinyin": "jiāo gěi guì tái jiù kě yǐ wǒ men huì jì lù shí jiān hé dì diǎn zài lián xì shī zhǔ",
+      "tr": "Tezgâha vermeniz yeter; saati ve yeri kaydedip sahibine ulaşırız."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_051",
       "speaker": "员工",
-      "zh": "这个想法可以保留，不过最好先做一个简单测试。",
-      "pinyin": "Zhège xiǎngfǎ kěyǐ bǎoliú, bùguò zuìhǎo xiān zuò yígè jiǎndān cèshì.",
-      "tr": "Bu fikir kalabilir ama önce basit bir deneme yapmak iyi olur."
+      "zh": "我以前会担心自己处理错，现在有步骤可照着做，就清楚多了。",
+      "pinyin": "wǒ yǐ qián huì dān xīn zì jǐ chǔ lǐ cuò xiàn zài yǒu bù zhòu kě zhào zhe zuò jiù qīng chǔ duō le",
+      "tr": "Önceden yanlış yapmaktan korkardım; şimdi izlenecek adımlar belli, daha rahatım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_052",
       "speaker": "张伟",
-      "zh": "我同意方向，不过执行的时候需要留一点余地。",
-      "pinyin": "Wǒ tóngyì fāngxiàng, bùguò zhíxíng de shíhòu xūyào liú yìdiǎn yúdì.",
-      "tr": "Yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+      "zh": "遇到不确定的情况就先问负责人，不要为了快而跳过核实。",
+      "pinyin": "yù dào bù què dìng de qíng kuàng jiù xiān wèn fù zé rén bú yào wèi le kuài ér tiào guò hé shí",
+      "tr": "Emin olmadığın durumda sorumluya danış; hızlı olsun diye doğrulamayı atlama."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_053",
       "speaker": "顾客",
-      "zh": "还有谁想补充吗？",
-      "pinyin": "Háiyǒu shuí xiǎng bǔchōng ma?",
-      "tr": "Eklemek isteyen başka biri var mı?"
+      "zh": "我也学到了，诚信有时候就是把小事认真做好。",
+      "pinyin": "wǒ yě xué dào le chéng xìn yǒu shí hòu jiù shì bǎ xiǎo shì rèn zhēn zuò hǎo",
+      "tr": "Ben de dürüstlüğün bazen küçük işleri özenle yapmak olduğunu öğrendim."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_054",
       "speaker": "刘梅",
-      "zh": "其实，可以先小范围试一试，再根据顾客反应调整。",
-      "pinyin": "Qíshí, kěyǐ xiānxiǎo fànwéi shìyīshì, zài gēnjù gùkè fǎnyìng tiáozhěng.",
-      "tr": "Aslında, önce küçük ölçekte deneyip müşteri tepkisine göre ayarlayabiliriz."
+      "zh": "是的，顾客愿意回来，靠的是每次都能感到被尊重。",
+      "pinyin": "shì de gù kè yuàn yì huí lái kào de shì měi cì dōu néng gǎn dào bèi zūn zhòng",
+      "tr": "Evet, müşterinin geri gelmesi her seferinde saygı gördüğünü hissetmesine bağlı."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_055",
       "speaker": "员工",
-      "zh": "不用追求一次把所有问题都解决，先把下一步走稳。",
-      "pinyin": "Bùyòng zhuīqiú yīcì bǎ suǒyǒu wèntí dōu jiějué, xiān bǎ xià yībù zǒuwěn.",
-      "tr": "Bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+      "zh": "我会把新提示贴在柜台旁边，让顾客知道失物应该交给谁。",
+      "pinyin": "wǒ huì bǎ xīn tí shì tiē zài guì tái páng biān ràng gù kè zhī dào shī wù yīng gāi jiāo gěi shuí",
+      "tr": "Yeni notu tezgâhın yanına koyup kayıp eşyayı kime vereceklerini gösteririm."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_056",
       "speaker": "张伟",
-      "zh": "我们至少已经知道彼此最在意什么了。",
-      "pinyin": "Wǒmen zhìshǎo yǐjīng zhīdào bǐcǐ zuì zàiyì shénme le.",
-      "tr": "En azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+      "zh": "也提醒同事不要在客人面前讨论钱包里可能有什么。",
+      "pinyin": "yě tí xǐng tóng shì bú yào zài kè rén miàn qián tǎo lùn qián bāo lǐ kě néng yǒu shén me",
+      "tr": "Meslektaşlara da müşterilerin önünde cüzdanın içeriğini konuşmamalarını hatırlatalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_057",
       "speaker": "顾客",
-      "zh": "另外，把责任和时间说清楚，后面执行会容易很多。",
-      "pinyin": "Lìngwài, bǎ zérèn hé shíjiān shuō qīngchǔ, hòumiàn zhíxíng huì róngyì hěnduō.",
-      "tr": "Ayrıca, sorumlulukları ve zamanı netleştirince uygulama çok daha kolay olur."
+      "zh": "我刚才有点慌，幸好你们没有让我当众说出卡片的号码。",
+      "pinyin": "wǒ gāng cái yǒu diǎn huāng xìng hǎo nǐ men méi yǒu ràng wǒ dāng zhòng shuō chū kǎ piàn de hào mǎ",
+      "tr": "Az önce telaşlanmıştım; neyse ki kart numaralarımı herkesin içinde söylememi istemediniz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_058",
       "speaker": "刘梅",
-      "zh": "不过，这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "Bùguò, zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
-      "tr": "Ancak, bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "那样做不合适。核实身份不需要公开敏感信息。",
+      "pinyin": "nà yàng zuò bù hé shì hé shí shēn fèn bù xū yào gōng kāi mǐn gǎn xìn xī",
+      "tr": "Bu uygun olmazdı. Kimliği doğrulamak için hassas bilgileri açıklamak gerekmez."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_059",
       "speaker": "员工",
-      "zh": "其实，今天先把能确定的部分定下来，剩下的以后继续聊。",
-      "pinyin": "Qíshí, jīntiān xiān bǎ néng quèdìng de bùfèn dìng xiàlái, shèngxià de yǐhòu jìxù liáo.",
-      "tr": "Aslında, bugün netleştirebildiğimiz kısmı kararlaştıralım; kalanını sonra konuşuruz."
+      "zh": "我明白了。以后先听对方描述，再用不公开的特征确认。",
+      "pinyin": "wǒ míng bái le yǐ hòu xiān tīng duì fāng miáo shù zài yòng bù gōng kāi de tè zhēng què rèn",
+      "tr": "Anladım. Bundan sonra önce kişinin tarifini dinler, sonra gizli bir özellikle doğrularım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_060",
       "speaker": "张伟",
-      "zh": "换个角度看，顾客的感受要看，成本和实际操作也不能忽略。",
-      "pinyin": "Huàngè jiǎodùkàn, gùkè de gǎnshòu yào kàn, chéngběn hé shíjìcāozuò yě bùnéng hūlüè.",
-      "tr": "Başka bir açıdan bakarsak, müşteri deneyimine bakmalıyız; maliyet ve uygulama tarafını da göz ardı edemeyiz."
+      "zh": "把这个办法记下来，培训新员工时也可以拿今天的情况举例。",
+      "pinyin": "bǎ zhè ge bàn fǎ jì xià lái péi xùn xīn yuán gōng shí yě kě yǐ ná jīn tiān de qíng kuàng jǔ lì",
+      "tr": "Bu yöntemi not et; yeni çalışan eğitiminde bugünkü durumu örnek verebilirsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_061",
       "speaker": "顾客",
-      "zh": "换个角度看，价格、品质和工作量最好放在一起看。",
-      "pinyin": "Huàngè jiǎodùkàn, jiàgé、 pǐnzhì hé gōngzuòliàng zuìhǎo fàngzài yìqǐ kàn.",
-      "tr": "Başka bir açıdan bakarsak, fiyatı, kaliteyi ve iş yükünü birlikte değerlendirmek en iyisi."
+      "zh": "我把钱包收进包里了，离开前再看看桌上有没有落下别的东西。",
+      "pinyin": "wǒ bǎ qián bāo shōu jìn bāo lǐ le lí kāi qián zài kàn kàn zhuō shàng yǒu méi yǒu là xià bié de dōng xī",
+      "tr": "Cüzdanı çantama koydum; çıkmadan önce masada başka bir şey kalmış mı bakayım。"
     },
     {
       "id": "DLG_ZH_HSK4_SC023_062",
       "speaker": "刘梅",
-      "zh": "这件事不能只凭感觉，最好看看最近的实际数据。",
-      "pinyin": "Zhèjiàn shì bùnéng zhǐ pínggǎnjué, zuìhǎo kànkàn zuìjìn de shíjì shùjù.",
-      "tr": "Bunu yalnızca hisle değerlendirmeyelim; son dönemin gerçek verilerine bakalım."
+      "zh": "桌面已经收好了。你慢慢检查，不用着急。",
+      "pinyin": "zhuō miàn yǐ jīng shōu hǎo le nǐ màn màn jiǎn chá bù yòng zháo jí",
+      "tr": "Masa toplandı. Acele etmeden kontrol edin."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_063",
       "speaker": "员工",
-      "zh": "可以先小范围试一试，再根据顾客反应调整。",
-      "pinyin": "Kěyǐ xiānxiǎo fànwéi shìyīshì, zài gēnjù gùkè fǎnyìng tiáozhěng.",
-      "tr": "Önce küçük ölçekte deneyip müşteri tepkisine göre ayarlayabiliriz."
+      "zh": "杯子和手机都在，刚才的账单也已经结清了。",
+      "pinyin": "bēi zi hé shǒu jī dōu zài gāng cái de zhàng dān yě yǐ jīng jié qīng le",
+      "tr": "Bardağınızla telefonunuz burada; az önceki hesap da ödendi."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_064",
       "speaker": "张伟",
-      "zh": "价格、品质和工作量最好放在一起看。",
-      "pinyin": "Jiàgé、 pǐnzhì hé gōngzuòliàng zuìhǎo fàngzài yìqǐ kàn.",
-      "tr": "Fiyatı, kaliteyi ve iş yükünü birlikte değerlendirmek en iyisi."
+      "zh": "那你可以放心离开。路上注意安全，欢迎下次再来。",
+      "pinyin": "nà nǐ kě yǐ fàng xīn lí kāi lù shàng zhù yì ān quán huān yíng xià cì zài lái",
+      "tr": "Artık içiniz rahat çıkabilirsiniz. Yolda dikkat edin, yine bekleriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_065",
       "speaker": "顾客",
-      "zh": "这件事不能只凭感觉，最好看看最近的实际数据。",
-      "pinyin": "Zhèjiàn shì bùnéng zhǐ pínggǎnjué, zuìhǎo kànkàn zuìjìn de shíjì shùjù.",
-      "tr": "Bunu yalnızca hisle değerlendirmeyelim; son dönemin gerçek verilerine bakalım."
+      "zh": "谢谢。今天不但找回了钱包，而且让我知道你们处理事情很认真。",
+      "pinyin": "xiè xiè jīn tiān bù dàn zhǎo huí le qián bāo ér qiě ràng wǒ zhī dào nǐ men chǔ lǐ shì qíng hěn rèn zhēn",
+      "tr": "Teşekkürler. Bugün hem cüzdanımı buldum hem de işleri ne kadar özenle ele aldığınızı gördüm."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_066",
       "speaker": "刘梅",
-      "zh": "另外，店里的办法最终还是要经得住每天实际使用。",
-      "pinyin": "Lìngwài, diànlǐ de bànfǎ zuìzhōng háishì yào jīngdézhù měitiān shíjì shǐyòng.",
-      "tr": "Ayrıca, i̇şletmedeki yöntemler sonuçta günlük kullanımda işe yaramalı."
+      "zh": "听到你这么说我们很高兴。希望这件小事没有影响你今天的心情。",
+      "pinyin": "tīng dào nǐ zhè me shuō wǒ men hěn gāo xìng xī wàng zhè jiàn xiǎo shì méi yǒu yǐng xiǎng nǐ jīn tiān de xīn qíng",
+      "tr": "Bunu duymak bizi mutlu etti. Umarız bu küçük aksilik gününüzü bozmadı."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_067",
       "speaker": "员工",
-      "zh": "不过，我更担心的是，忙的时候这个办法还能不能正常执行。",
-      "pinyin": "Bùguò, wǒ gèng dānxīn de shì, máng de shíhòu zhège bànfǎ hái néng bùnéng zhèngcháng zhíxíng.",
-      "tr": "Ancak, ben daha çok yoğun saatlerde bu yöntemin uygulanıp uygulanamayacağını düşünüyorum."
+      "zh": "我已经把记录放进柜台的文件夹，只有值班负责人能查看。",
+      "pinyin": "wǒ yǐ jīng bǎ jì lù fàng jìn guì tái de wén jiàn jiā zhǐ yǒu zhí bān fù zé rén néng chá kàn",
+      "tr": "Kaydı tezgâhtaki dosyaya koydum; yalnızca vardiya sorumlusu görebilir."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_068",
       "speaker": "张伟",
-      "zh": "其实，别一次改太多，先把最影响顾客体验的部分处理好。",
-      "pinyin": "Qíshí, bié yīcì gǎitàiduō, xiān bǎ zuì yǐngxiǎng gùkè tǐyàn de bùfèn chǔlǐ hǎo.",
-      "tr": "Aslında, bir seferde çok fazla şeyi değiştirmeyelim; önce müşteri deneyimini en çok etkileyen kısmı düzeltelim."
+      "zh": "很好，文件夹要放在安全的地方，交班时也提醒下一位负责人。",
+      "pinyin": "hěn hǎo wén jiàn jiā yào fàng zài ān quán de dì fāng jiāo bān shí yě tí xǐng xià yī wèi fù zé rén",
+      "tr": "Güzel; dosyayı güvenli yerde tutup vardiya değişiminde sonraki sorumluya hatırlat."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_069",
       "speaker": "顾客",
-      "zh": "不过，顾客的意见很重要，但也要看是不是普遍情况。",
-      "pinyin": "Bùguò, gùkè de yìjiàn hěn zhòngyào, dàn yě yào kàn shìbúshì pǔbiàn qíngkuàng.",
-      "tr": "Ancak, müşteri görüşü önemli ama bunun yaygın bir durum olup olmadığına da bakmalıyız."
+      "zh": "我会把这次经历告诉家人，不过不会说你们的内部信息。",
+      "pinyin": "wǒ huì bǎ zhè cì jīng lì gào sù jiā rén bù guò bú huì shuō nǐ men de nèi bù xìn xī",
+      "tr": "Bu deneyimi aileme anlatırım ama işletmenizin iç bilgilerini paylaşmam."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_070",
       "speaker": "刘梅",
-      "zh": "换个角度看，这个想法可以保留，不过最好先做一个简单测试。",
-      "pinyin": "Huàngè jiǎodùkàn, zhège xiǎngfǎ kěyǐ bǎoliú, bùguò zuìhǎo xiān zuò yígè jiǎndān cèshì.",
-      "tr": "Başka bir açıdan bakarsak, bu fikir kalabilir ama önce basit bir deneme yapmak iyi olur."
+      "zh": "你愿意分享自己的感受就好。店里的流程我们会继续改进。",
+      "pinyin": "nǐ yuàn yì fēn xiǎng zì jǐ de gǎn shòu jiù hǎo diàn lǐ de liú chéng wǒ men huì jì xù gǎi jìn",
+      "tr": "Kendi deneyiminizi paylaşmanız yeterli. Kafe sürecini geliştirmeye devam edeceğiz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_071",
       "speaker": "员工",
-      "zh": "顾客的意见很重要，但也要看是不是普遍情况。",
-      "pinyin": "Gùkè de yìjiàn hěn zhòngyào, dàn yě yào kàn shìbúshì pǔbiàn qíngkuàng.",
-      "tr": "Müşteri görüşü önemli ama bunun yaygın bir durum olup olmadığına da bakmalıyız."
+      "zh": "我建议在失物盒旁边放一支笔和记录纸，交接时就不容易漏记。",
+      "pinyin": "wǒ jiàn yì zài shī wù hé páng biān fàng yī zhī bǐ hé jì lù zhǐ jiāo jiē shí jiù bù róng yì lòu jì",
+      "tr": "Kayıp eşya kutusunun yanına kalem ve kayıt kâğıdı koymayı öneririm; devirde bir şey unutulmaz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_072",
       "speaker": "张伟",
-      "zh": "另外，可以先小范围试一试，再根据顾客反应调整。",
-      "pinyin": "Lìngwài, kěyǐ xiānxiǎo fànwéi shìyīshì, zài gēnjù gùkè fǎnyìng tiáozhěng.",
-      "tr": "Ayrıca, önce küçük ölçekte deneyip müşteri tepkisine göre ayarlayabiliriz."
+      "zh": "可以，但纸上只写必要的信息，用完以后锁进柜子里。",
+      "pinyin": "kě yǐ dàn zhǐ shàng zhǐ xiě bì yào de xìn xī yòng wán yǐ hòu suǒ jìn guì zi lǐ",
+      "tr": "Olur; yalnızca gerekli bilgileri yazıp formu iş bitince dolaba kilitleyelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_073",
       "speaker": "顾客",
-      "zh": "辛苦大家了。",
-      "pinyin": "Xīnkǔ dàjiā le.",
-      "tr": "Herkesin emeğine sağlık."
+      "zh": "如果我以后再把东西落下，我先打电话问，不会直接在网上发证件照片。",
+      "pinyin": "rú guǒ wǒ yǐ hòu zài bǎ dōng xī là xià wǒ xiān dǎ diàn huà wèn bú huì zhí jiē zài wǎng shàng fā zhèng jiàn zhào piān",
+      "tr": "Bir dahaki sefere bir şey unutsam önce ararım; kimlik fotoğrafını internette paylaşmam."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_074",
       "speaker": "刘梅",
-      "zh": "这个想法可以保留，不过最好先做一个简单测试。",
-      "pinyin": "Zhège xiǎngfǎ kěyǐ bǎoliú, bùguò zuìhǎo xiān zuò yígè jiǎndān cèshì.",
-      "tr": "Bu fikir kalabilir ama önce basit bir deneme yapmak iyi olur."
+      "zh": "这样更安全。我们也会提醒顾客不要公开银行卡或证件号码。",
+      "pinyin": "zhè yàng gèng ān quán wǒ men yě huì tí xǐng gù kè bú yào gōng kāi yín háng kǎ huò zhèng jiàn hào mǎ",
+      "tr": "Bu daha güvenli. Müşterilere de kart ya da kimlik numaralarını paylaşmamalarını hatırlatırız."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_075",
       "speaker": "员工",
-      "zh": "不过，价格、品质和工作量最好放在一起看。",
-      "pinyin": "Bùguò, jiàgé、 pǐnzhì hé gōngzuòliàng zuìhǎo fàngzài yìqǐ kàn.",
-      "tr": "Ancak, fiyatı, kaliteyi ve iş yükünü birlikte değerlendirmek en iyisi."
+      "zh": "门口那张提示我写好了：“捡到物品请交给柜台，认领时请描述特征。”",
+      "pinyin": "mén kǒu nà zhāng tí shì wǒ xiě hǎo le jiǎn dào wù pǐn qǐng jiāo gěi guì tái rèn lǐng shí qǐng miáo shù tè zhēng",
+      "tr": "Kapıdaki notu yazdım: “Bulduğunuz eşyayı tezgâha bırakın; alırken özelliklerini tarif edin.”"
     },
     {
       "id": "DLG_ZH_HSK4_SC023_076",
       "speaker": "张伟",
-      "zh": "另外，我希望最后的做法既让顾客舒服，也不会把员工累坏。",
-      "pinyin": "Lìngwài, wǒ xīwàng zuìhòu de zuòfǎ jì ràng gùkè shūfú, yě búhuì bǎ yuángōng lèihuài.",
-      "tr": "Ayrıca, son yöntemin hem müşteriyi memnun etmesini hem de çalışanları yormamasını istiyorum."
+      "zh": "句子很清楚。再加上“请勿公开个人信息”，贴在旁边就行。",
+      "pinyin": "jù zi hěn qīng chǔ zài jiā shàng qǐng wù gōng kāi gè rén xìn xī tiē zài páng biān jiù xíng",
+      "tr": "Açık bir cümle. Yanına “Lütfen kişisel bilgileri paylaşmayın” ekleyip asabiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_077",
       "speaker": "顾客",
-      "zh": "好，我们保持联系。",
-      "pinyin": "Hǎo, wǒmen bǎochíliánxì.",
-      "tr": "Tamam, iletişimde kalalım."
+      "zh": "我现在知道该怎么做了，也会提醒朋友保管好钱包。",
+      "pinyin": "wǒ xiàn zài zhī dào gāi zěn me zuò le yě huì tí xǐng péng yǒu bǎo guǎn hǎo qián bāo",
+      "tr": "Artık ne yapacağımı biliyorum; arkadaşlarıma da cüzdanlarına dikkat etmelerini söylerim."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_078",
       "speaker": "刘梅",
-      "zh": "那再把钱包这一点加上。",
-      "pinyin": "Nà zài bǎ qiánbāo zhè yìdiǎn jiāshàng.",
-      "tr": "Cüzdan konusunu da değerlendirme kapsamına alalım."
+      "zh": "谢谢提醒。我们也会继续把服务和处理方式做得更周到。",
+      "pinyin": "xiè xiè tí xǐng wǒ men yě huì jì xù bǎ fú wù hé chǔ lǐ fāng shì zuò dé gèng zhōu dào",
+      "tr": "Hatırlattığınız için sağ olun. Hizmeti ve işlem biçimimizi daha özenli hâle getireceğiz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_079",
       "speaker": "员工",
-      "zh": "其实，这件事不能只凭感觉，最好看看最近的实际数据。",
-      "pinyin": "Qíshí, zhèjiàn shì bùnéng zhǐ pínggǎnjué, zuìhǎo kànkàn zuìjìn de shíjì shùjù.",
-      "tr": "Aslında, bunu yalnızca hisle değerlendirmeyelim; son dönemin gerçek verilerine bakalım."
+      "zh": "柜台和桌子都整理好了，失物记录也完成，我可以去准备下一桌了。",
+      "pinyin": "guì tái hé zhuō zi dōu zhěng lǐ hǎo le shī wù jì lù yě wán chéng wǒ kě yǐ qù zhǔn bèi xià yī zhuō le",
+      "tr": "Tezgâhı ve masayı topladım, kayıt da tamam; sonraki masayı hazırlayabilirim."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_080",
       "speaker": "张伟",
-      "zh": "如果信任的情况变了，我们的安排也要跟着调整。",
-      "pinyin": "Rúguǒ xìnrèn de qíngkuàng biàn le, wǒmen de ānpái yě yào gēnzhe tiáozhěng.",
-      "tr": "Güven değişirse planı da ayarlamak gerekir."
+      "zh": "好，先忙你的。刘梅，我把今天的流程改进点记进交班本。",
+      "pinyin": "hǎo xiān máng nǐ de liú méi wǒ bǎ jīn tiān de liú chéng gǎi jìn diǎn jì jìn jiāo bān běn",
+      "tr": "Peki, işine dön. Liu Mei, bugünkü süreç önerilerini vardiya defterine yazıyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_081",
       "speaker": "顾客",
-      "zh": "听起来挺合理。",
-      "pinyin": "Tīng qǐlái tǐng hélǐ.",
-      "tr": "Kulağa oldukça mantıklı geliyor."
+      "zh": "那我先走了。谢谢你们愿意耐心听我说明情况。",
+      "pinyin": "nà wǒ xiān zǒu le xiè xiè nǐ men yuàn yì nài xīn tīng wǒ shuō míng qíng kuàng",
+      "tr": "Ben artık gideyim. Durumu anlatırken sabırla dinlediğiniz için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_082",
       "speaker": "刘梅",
-      "zh": "关于诚信，你们怎么看？",
-      "pinyin": "Guānyú chéngxìn, nǐmen zěnme kàn?",
-      "tr": "Dürüstlük / güvenilirlik konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "不客气，再见。下次来店里慢慢坐，不用为今天这件事担心。",
+      "pinyin": "bú kè qì zài jiàn xià cì lái diàn lǐ màn màn zuò bù yòng wèi jīn tiān zhè jiàn shì dān xīn",
+      "tr": "Rica ederiz, hoşça kalın. Bir dahaki gelişinizde rahatça oturun; bugünkü olay için kaygılanmayın."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_083",
       "speaker": "员工",
-      "zh": "行，我先记着。",
-      "pinyin": "Xíng, wǒ xiānjì zhe.",
-      "tr": "Bu noktayı not edeyim."
+      "zh": "再见，路上小心。您的付款记录已经在收据上了。",
+      "pinyin": "zài jiàn lù shàng xiǎo xīn nín de fù kuǎn jì lù yǐ jīng zài shōu jù shàng le",
+      "tr": "Hoşça kalın, yolda dikkat edin. Ödeme kaydınız fişte yer alıyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_084",
       "speaker": "张伟",
-      "zh": "我们也得顾到顾客的想法。",
-      "pinyin": "Wǒmen yě dé gùdào gùkè de xiǎngfǎ.",
-      "tr": "Müşteri göz ardı edemeyeceğimiz bir nokta."
+      "zh": "客人离开以后，我们再确认失物柜锁好了，交班记录也写完整。",
+      "pinyin": "kè rén lí kāi yǐ hòu wǒ men zài què rèn shī wù guì suǒ hǎo le jiāo bān jì lù yě xiě wán zhěng",
+      "tr": "Müşteri ayrılınca kayıp eşya dolabının kilitli olduğunu ve devir kaydının tamamlandığını kontrol edelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_085",
       "speaker": "顾客",
-      "zh": "其实，每个人看到的角度不一样，把这些角度放在一起会更完整。",
-      "pinyin": "Qíshí, měigè rén kàndào de jiǎodù bù yīyàng, bǎ zhèxiē jiǎodù fàngzài yìqǐ huì gèng wánzhěng.",
-      "tr": "Aslında, herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+      "zh": "我到家以后会把钱包放回固定的位置，免得下次又找不到。",
+      "pinyin": "wǒ dào jiā yǐ hòu huì bǎ qián bāo fàng huí gù dìng de wèi zhì miǎn de xià cì yòu zhǎo bú dào",
+      "tr": "Eve gidince cüzdanı hep aynı yere koyacağım; bir daha aramayım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_086",
       "speaker": "刘梅",
-      "zh": "我们把付款也算进去。",
-      "pinyin": "Wǒmen bǎ fùkuǎn yě suànjìnqù.",
-      "tr": "Ödeme konusunu da değerlendirme kapsamına alalım."
+      "zh": "固定放在包的内层也不错，出门前可以顺手确认一下。",
+      "pinyin": "gù dìng fàng zài bāo de nèi céng yě bù cuò chū mén qián kě yǐ shùn shǒu què rèn yī xià",
+      "tr": "Çantanın iç gözüne koymak iyi olur; çıkarken kolayca kontrol edebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_087",
       "speaker": "员工",
-      "zh": "对，我也这么看。",
-      "pinyin": "Duì, wǒ yě zhème kàn.",
-      "tr": "Bu noktaya katılıyorum."
+      "zh": "我会把今天的情况当作培训例子，但不会记录顾客的姓名。",
+      "pinyin": "wǒ huì bǎ jīn tiān de qíng kuàng dàng zuò péi xùn lì zi dàn bú huì jì lù gù kè de xìng míng",
+      "tr": "Bugünkü durumu eğitim örneği yaparım ama müşterinin adını kaydetmem."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_088",
       "speaker": "张伟",
-      "zh": "负责要是有新变化，我们就得重新安排。",
-      "pinyin": "Fùzé yàoshì yǒu xīn biànhuà, wǒmen jiù dé chóngxīnānpái.",
-      "tr": "Sorumlu olmak değişirse planı da ayarlamak gerekir."
+      "zh": "只讲处理步骤就够了，重点是诚信和尊重隐私。",
+      "pinyin": "zhǐ jiǎng chǔ lǐ bù zhòu jiù gòu le zhòng diǎn shì chéng xìn hé zūn zhòng yǐn sī",
+      "tr": "Yalnızca işlem adımlarını anlatmak yeter; önemli olan dürüstlük ve mahremiyete saygı."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_089",
       "speaker": "顾客",
-      "zh": "不过，这个想法可以保留，不过最好先做一个简单测试。",
-      "pinyin": "Bùguò, zhège xiǎngfǎ kěyǐ bǎoliú, bùguò zuìhǎo xiān zuò yígè jiǎndān cèshì.",
-      "tr": "Ancak, bu fikir kalabilir ama önce basit bir deneme yapmak iyi olur."
+      "zh": "我很感谢你们没有把我的着急当成不愿意付款。",
+      "pinyin": "wǒ hěn gǎn xiè nǐ men méi yǒu bǎ wǒ de zháo jí dàng chéng bù yuàn yì fù kuǎn",
+      "tr": "Telaşımı ödeme yapmak istememem olarak yorumlamadığınız için minnettarım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_090",
       "speaker": "刘梅",
-      "zh": "解决办法这件事，大家还有什么要补充的？",
-      "pinyin": "Jiějuébànfǎ zhèjiàn shì, dàjiā háiyǒu shénme yào bǔchōng de?",
-      "tr": "Çözüm yolu konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "我们先问清楚发生了什么，再一起找办法，比急着下判断好。",
+      "pinyin": "wǒ men xiān wèn qīng chǔ fā shēng le shén me zài yì qǐ zhǎo bàn fǎ bǐ jí zhe xià pàn duàn hǎo",
+      "tr": "Ne olduğunu önce anlamaya çalışıp sonra çözüm aramak, acele hüküm vermekten iyidir."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_091",
       "speaker": "员工",
-      "zh": "换个角度看，我希望最后的做法既让顾客舒服，也不会把员工累坏。",
-      "pinyin": "Huàngè jiǎodùkàn, wǒ xīwàng zuìhòu de zuòfǎ jì ràng gùkè shūfú, yě búhuì bǎ yuángōng lèihuài.",
-      "tr": "Başka bir açıdan bakarsak, son yöntemin hem müşteriyi memnun etmesini hem de çalışanları yormamasını istiyorum."
+      "zh": "以后遇到类似情况，我会先保持冷静，按步骤核实和记录。",
+      "pinyin": "yǐ hòu yù dào lèi sì qíng kuàng wǒ huì xiān bǎo chí lěng jìng àn bù zhòu hé shí hé jì lù",
+      "tr": "Benzer bir durumda sakin kalıp doğrulama ve kayıt adımlarını izleyeceğim."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_092",
       "speaker": "张伟",
-      "zh": "服务好不好，顾客每天的感受最有说服力。",
-      "pinyin": "Fúwù hǎobùhǎo, gùkè měitiān de gǎnshòu zuìyǒu shuōfúlì.",
-      "tr": "Hizmetin iyi olup olmadığını en iyi günlük müşteri deneyimi gösterir."
+      "zh": "遇到拿不准的地方就请负责人一起处理，别让顾客独自承担压力。",
+      "pinyin": "yù dào ná bù zhǔn de dì fāng jiù qǐng fù zé rén yì qǐ chǔ lǐ bié ràng gù kè dú zì chéng dān yā lì",
+      "tr": "Emin olmadığın yerde sorumludan yardım iste; müşteriyi tek başına baskı altında bırakma."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_093",
       "speaker": "顾客",
-      "zh": "这样更符合实际。",
-      "pinyin": "Zhèyàng gèng fúhéshíjì.",
-      "tr": "Kulağa oldukça mantıklı geliyor."
+      "zh": "我下次来还会点平常那杯咖啡，希望你们继续顺利。",
+      "pinyin": "wǒ xià cì lái hái huì diǎn píng cháng nà bēi kā fēi xī wàng nǐ men jì xù shùn lì",
+      "tr": "Bir dahaki gelişimde her zamanki kahvemi alacağım; işleriniz yolunda gitsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_094",
       "speaker": "刘梅",
-      "zh": "我们把钱包也算进去。",
-      "pinyin": "Wǒmen bǎ qiánbāo yě suànjìnqù.",
-      "tr": "Cüzdan konusunu da değerlendirme kapsamına alalım."
+      "zh": "一定给你留好。谢谢你今天也愿意和我们一起把事情说清楚。",
+      "pinyin": "yí dìng gěi nǐ liú hǎo xiè xiè nǐ jīn tiān yě yuàn yì hé wǒ men yì qǐ bǎ shì qíng shuō qīng chǔ",
+      "tr": "Elbette hazırlarız. Bugün durumu açıkça konuşmaya istekli olduğunuz için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_095",
       "speaker": "员工",
-      "zh": "另外，这件事不能只凭感觉，最好看看最近的实际数据。",
-      "pinyin": "Lìngwài, zhèjiàn shì bùnéng zhǐ pínggǎnjué, zuìhǎo kànkàn zuìjìn de shíjì shùjù.",
-      "tr": "Ayrıca, bunu yalnızca hisle değerlendirmeyelim; son dönemin gerçek verilerine bakalım."
+      "zh": "提示牌已经贴好了，失物盒也锁上了，今天的交接事项都完成了。",
+      "pinyin": "tí shì pái yǐ jīng tiē hǎo le shī wù hé yě suǒ shàng le jīn tiān de jiāo jiē shì xiàng dōu wán chéng le",
+      "tr": "Uyarı notu asıldı, kayıp eşya kutusu kilitlendi; bugünkü devir işleri tamam."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_096",
       "speaker": "张伟",
-      "zh": "其实，我更担心的是，忙的时候这个办法还能不能正常执行。",
-      "pinyin": "Qíshí, wǒ gèng dānxīn de shì, máng de shíhòu zhège bànfǎ hái néng bùnéng zhèngcháng zhíxíng.",
-      "tr": "Aslında, ben daha çok yoğun saatlerde bu yöntemin uygulanıp uygulanamayacağını düşünüyorum."
+      "zh": "那我们照常营业。遇到问题认真沟通，顾客才会一直信任我们。",
+      "pinyin": "nà wǒ men zhào cháng yíng yè yù dào wèn tí rèn zhēn gōu tōng gù kè cái huì yì zhí xìn rèn wǒ men",
+      "tr": "Öyleyse normal şekilde çalışalım. Sorunları açıkça konuşursak müşteriler bize güvenmeyi sürdürür."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_097",
       "speaker": "顾客",
-      "zh": "换个角度看，别一次改太多，先把最影响顾客体验的部分处理好。",
-      "pinyin": "Huàngè jiǎodùkàn, bié yīcì gǎitàiduō, xiān bǎ zuì yǐngxiǎng gùkè tǐyàn de bùfèn chǔlǐ hǎo.",
-      "tr": "Başka bir açıdan bakarsak, bir seferde çok fazla şeyi değiştirmeyelim; önce müşteri deneyimini en çok etkileyen kısmı düzeltelim."
+      "zh": "再见，今天的事让我更愿意相信这家店。",
+      "pinyin": "zài jiàn jīn tiān de shì ràng wǒ gèng yuàn yì xiāng xìn zhè jiā diàn",
+      "tr": "Hoşça kalın; bugünkü olay bu kafeye güvenimi artırdı."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_098",
       "speaker": "刘梅",
-      "zh": "不过，我希望最后的做法既让顾客舒服，也不会把员工累坏。",
-      "pinyin": "Bùguò, wǒ xīwàng zuìhòu de zuòfǎ jì ràng gùkè shūfú, yě búhuì bǎ yuángōng lèihuài.",
-      "tr": "Ancak, son yöntemin hem müşteriyi memnun etmesini hem de çalışanları yormamasını istiyorum."
+      "zh": "谢谢，再见。愿你今天剩下的时间过得轻松。",
+      "pinyin": "xiè xiè zài jiàn yuàn nǐ jīn tiān shèng xià de shí jiān guò dé qīng sōng",
+      "tr": "Teşekkürler, hoşça kalın. Gününüzün kalanı rahat geçsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_099",
       "speaker": "员工",
-      "zh": "另外，这个想法可以继续讨论，不过最好再确认一下实际条件。",
-      "pinyin": "Lìngwài, zhège xiǎngfǎ kěyǐ jìxù tǎolùn, bùguò zuìhǎo zài quèrèn yīxià shíjì tiáojiàn.",
-      "tr": "Ayrıca, bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+      "zh": "我去准备下一桌了，有需要随时叫我。",
+      "pinyin": "wǒ qù zhǔn bèi xià yī zhuō le yǒu xū yào suí shí jiào wǒ",
+      "tr": "Sonraki masayı hazırlamaya gidiyorum; bir şeye ihtiyaç olursa seslenin."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_100",
       "speaker": "张伟",
-      "zh": "不过，我同意方向，不过执行的时候需要留一点余地。",
-      "pinyin": "Bùguò, wǒ tóngyì fāngxiàng, bùguò zhíxíng de shíhòu xūyào liú yìdiǎn yúdì.",
-      "tr": "Ancak, yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+      "zh": "处理好了。把记录收好，我们继续工作吧。",
+      "pinyin": "chǔ lǐ hǎo le bǎ jì lù shōu hǎo wǒ men jì xù gōng zuò ba",
+      "tr": "Sorun çözüldü. Kaydı kaldırıp işimize devam edelim."
     }
   ],
   "productionStatus": "complete",

@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 46,
+  "status": "FINAL_REVIEWED_V46",
+  "sceneId": "ZH_HSK2_SC031",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC031_001",
+      "speaker": "张伟",
+      "zh": "我想开一个银行账户，第一次来办，不太清楚要带什么。",
+      "pinyin": "Wǒ xiǎng kāi yí gè yín háng zhàng hù ， dì yī cì lái bàn ， bù tài qīng chǔ yào dài shén me 。",
+      "tr": "Bir banka hesabı açmak istiyorum; ilk kez işlem yapacağım, yanımda ne getirmem gerektiğini bilmiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_002",
+      "speaker": "银行工作人员",
+      "zh": "没关系，我先说明基本要求，您可以对照这张清单看。",
+      "pinyin": "Méi guān xì ， wǒ xiān shuō míng jī běn yāo qiú ， nín kě yǐ duì zhào zhè zhāng qīng dān kàn 。",
+      "tr": "Sorun değil, önce temel koşulları anlatayım; siz de bu listeye bakabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_003",
+      "speaker": "刘梅",
+      "zh": "好，我带了身份证，其他材料也放在文件袋里了。",
+      "pinyin": "Hǎo ， wǒ dài le shēn fèn zhèng ， qí tā cái liào yě fàng zài wén jiàn dài lǐ le 。",
+      "tr": "Tamam, kimliğimi getirdim; diğer belgeler de şu dosyanın içinde."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_004",
+      "speaker": "张伟",
+      "zh": "那我们先核对身份证，再一起填写开户表格。",
+      "pinyin": "Nà wǒ men xiān hé duì shēn fèn zhèng ， zài yì qǐ tián xiě kāi hù biǎo gé 。",
+      "tr": "Önce kimliğinizi kontrol edelim, sonra hesap açma formunu birlikte dolduralım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_005",
+      "speaker": "银行工作人员",
+      "zh": "身份证在这里，请核对一下姓名和号码。",
+      "pinyin": "Shēn fèn zhèng zài zhè lǐ ， qǐng hé duì yī xià xìng míng hé hào mǎ 。",
+      "tr": "Kimliğiniz burada; lütfen adınızı ve numaranızı kontrol edin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_006",
+      "speaker": "刘梅",
+      "zh": "姓名没问题，号码也正确。现在就填表格吗？",
+      "pinyin": "Xìng míng méi wèn tí ， hào mǎ yě zhèng què 。 xiàn zài jiù tián biǎo gé ma ？",
+      "tr": "Adım doğru, numaram da doğru. Formu şimdi mi dolduracağız?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_007",
+      "speaker": "张伟",
+      "zh": "对，先写姓名和现住址，填好后我帮您检查。",
+      "pinyin": "Duì ， xiān xiě xìng míng hé xiàn zhù zhǐ ， tián hǎo hòu wǒ bāng nín jiǎn chá 。",
+      "tr": "Evet, önce adınızı ve şu anki adresinizi yazın; bitirince kontrol ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_008",
+      "speaker": "银行工作人员",
+      "zh": "住址这一栏要写多详细？我担心写不下。",
+      "pinyin": "Zhù zhǐ zhè yī lán yào xiě duō xiáng xì ？ wǒ dān xīn xiě bù xià 。",
+      "tr": "Adres bölümüne ne kadar ayrıntı yazmalıyım? Sığmayacağından endişeliyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_009",
+      "speaker": "刘梅",
+      "zh": "写到门牌号就可以；地方不够的话，可以写在背面。",
+      "pinyin": "Xiě dào mén pái hào jiù kě yǐ ； dì fāng bù gòu de huà ， kě yǐ xiě zài bèi miàn 。",
+      "tr": "Kapı numarasına kadar yazmanız yeterli; yer yetmezse arka tarafa yazabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_010",
+      "speaker": "张伟",
+      "zh": "我写好了，您看这样写清楚吗？",
+      "pinyin": "Wǒ xiě hǎo le ， nín kàn zhè yàng xiě qīng chǔ ma ？",
+      "tr": "Doldurdum. Sizce böyle anlaşılır olmuş mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_011",
+      "speaker": "银行工作人员",
+      "zh": "很清楚。接下来请选账户类型，再留下联系电话。",
+      "pinyin": "Hěn qīng chǔ 。 jiē xià lái qǐng xuǎn zhàng hù lèi xíng ， zài liú xià lián xì diàn huà 。",
+      "tr": "Gayet anlaşılır. Şimdi hesap türünü seçin ve telefon numaranızı yazın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_012",
+      "speaker": "刘梅",
+      "zh": "我选普通账户，电话也写好了，您再核对一下吧。",
+      "pinyin": "Wǒ xuǎn pǔ tōng zhàng hù ， diàn huà yě xiě hǎo le ， nín zài hé duì yī xià ba 。",
+      "tr": "Normal hesabı seçiyorum, telefonumu da yazdım. Bir daha kontrol eder misiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_013",
+      "speaker": "张伟",
+      "zh": "信息都对。请在申请人一栏签字。",
+      "pinyin": "Xìn xī dōu duì 。 qǐng zài shēn qǐng rén yī lán qiān zì 。",
+      "tr": "Bilgiler doğru. Lütfen başvuru sahibi bölümünü imzalayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_014",
+      "speaker": "银行工作人员",
+      "zh": "签字要和身份证上的姓名完全一样吗？",
+      "pinyin": "Qiān zì yào hé shēn fèn zhèng shàng de xìng míng wán quán yī yàng ma ？",
+      "tr": "İmza, kimliğimdeki adla tamamen aynı mı olmalı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_015",
+      "speaker": "刘梅",
+      "zh": "是的，请按证件上的姓名签；签完先别收起表格。",
+      "pinyin": "Shì de ， qǐng àn zhèng jiàn shàng de xìng míng qiān ； qiān wán xiān bié shōu qǐ biǎo gé 。",
+      "tr": "Evet, kimlikteki adınızı imzalayın; imzaladıktan sonra formu kaldırmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_016",
+      "speaker": "张伟",
+      "zh": "签好了。咦，下面这一栏还需要填写吗？",
+      "pinyin": "Qiān hǎo le 。 yí ， xià miàn zhè yī lán hái xū yào tián xiě ma ？",
+      "tr": "İmzaladım. Aşağıdaki bölümü de doldurmam gerekiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_017",
+      "speaker": "银行工作人员",
+      "zh": "这一栏由我来填，您不用动。我先核对一下材料。",
+      "pinyin": "Zhè yī lán yóu wǒ lái tián ， nín bù yòng dòng 。 wǒ xiān hé duì yī xià cái liào 。",
+      "tr": "Bu bölümü ben dolduracağım, siz dokunmayın. Şimdi belgeleri kontrol edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_018",
+      "speaker": "刘梅",
+      "zh": "身份证和表格都齐了，应该没缺什么吧？",
+      "pinyin": "Shēn fèn zhèng hé biǎo gé dōu qí le ， yīng gāi méi quē shén me ba ？",
+      "tr": "Kimlik ve form yanımızda; başka eksik bir şey yoktur, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_019",
+      "speaker": "张伟",
+      "zh": "还需要一份住址证明。请问您今天带来了吗？",
+      "pinyin": "Hái xū yào yī fèn zhù zhǐ zhèng míng 。 qǐng wèn nín jīn tiān dài lái le ma ？",
+      "tr": "Bir de adres belgesi gerekiyor. Bugün yanınızda mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_020",
+      "speaker": "银行工作人员",
+      "zh": "住址证明？我以为身份证上的地址就可以了。",
+      "pinyin": "Zhù zhǐ zhèng míng ？ wǒ yǐ wéi shēn fèn zhèng shàng de dì zhǐ jiù kě yǐ le 。",
+      "tr": "Adres belgesi mi? Kimliğimde adres yazdığı için onun yeterli olacağını sanmıştım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_021",
+      "speaker": "刘梅",
+      "zh": "不同业务需要的材料可能不同，我先按这项申请的清单确认。",
+      "pinyin": "Bù tóng yè wù xū yào de cái liào kě néng bù tóng ， wǒ xiān àn zhè xiàng shēn qǐng de qīng dān què rèn 。",
+      "tr": "İşleme göre istenen belgeler değişebilir; bu başvurunun listesini kontrol edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_022",
+      "speaker": "张伟",
+      "zh": "我明白了，清单上写着住址证明，可我没放进文件袋。",
+      "pinyin": "Wǒ míng bái le ， qīng dān shàng xiě zhe zhù zhǐ zhèng míng ， kě wǒ méi fàng jìn wén jiàn dài 。",
+      "tr": "Anladım. Listede adres belgesi yazıyor ama dosyaya koymamışım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_023",
+      "speaker": "银行工作人员",
+      "zh": "别着急，我们看看有没有电子版，或者能不能之后补交。",
+      "pinyin": "Bié zháo jí ， wǒ men kàn kàn yǒu méi yǒu diàn zi bǎn ， huò zhě néng bù néng zhī hòu bǔ jiāo 。",
+      "tr": "Endişelenmeyin, elektronik kopyası var mı ya da sonradan teslim edilebilir mi bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_024",
+      "speaker": "刘梅",
+      "zh": "我手机里有一张照片，但不知道这样能不能用。",
+      "pinyin": "Wǒ shǒu jī lǐ yǒu yī zhāng zhào piān ， dàn bù zhī dào zhè yàng néng bù néng yòng 。",
+      "tr": "Telefonumda bir fotoğrafı var ama kabul edilip edilmeyeceğini bilmiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_025",
+      "speaker": "张伟",
+      "zh": "可以先给我看一下，我帮您确认这份材料是否符合要求。",
+      "pinyin": "Kě yǐ xiān gěi wǒ kàn yī xià ， wǒ bāng nín què rèn zhè fèn cái liào shì fǒu fú hé yāo qiú 。",
+      "tr": "Önce gösterebilirsiniz; bu belge koşullara uyuyor mu kontrol edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_026",
+      "speaker": "银行工作人员",
+      "zh": "照片有点模糊，我把亮度调高一点，您看得清吗？",
+      "pinyin": "Zhào piān yǒu diǎn mó hú ， wǒ bǎ liàng dù diào gāo yì diǎn ， nín kàn de qīng ma ？",
+      "tr": "Fotoğraf biraz bulanık. Parlaklığı artırayım; şimdi görebiliyor musunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_027",
+      "speaker": "刘梅",
+      "zh": "现在清楚多了，不过照片不能代替正式的住址证明。",
+      "pinyin": "Xiàn zài qīng chǔ duō le ， bù guò zhào piān bù néng dài tì zhèng shì de zhù zhǐ zhèng míng 。",
+      "tr": "Şimdi daha net, ama bu fotoğraf resmi adres belgesinin yerine geçemez."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_028",
+      "speaker": "张伟",
+      "zh": "明白了。那我今天是不是不能开这个账户？",
+      "pinyin": "Míng bái le 。 nà wǒ jīn tiān shì bú shì bù néng kāi zhè ge zhàng hù ？",
+      "tr": "Anladım. O hâlde bugün bu hesabı açamayacak mıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_029",
+      "speaker": "银行工作人员",
+      "zh": "这份材料补齐之前，我还不能完成开户；其他内容可以先检查。",
+      "pinyin": "Zhè fèn cái liào bǔ qí zhī qián ， wǒ hái bù néng wán chéng kāi hù ； qí tā nèi róng kě yǐ xiān jiǎn chá 。",
+      "tr": "Bu belge tamamlanmadan hesap açılışını bitiremiyorum; diğer bilgileri şimdiden kontrol edebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_030",
+      "speaker": "刘梅",
+      "zh": "那请您先检查表格有没有错误，我不想下次再跑一趟。",
+      "pinyin": "Nà qǐng nín xiān jiǎn chá biǎo gé yǒu méi yǒu cuò wù ， wǒ bù xiǎng xià cì zài pǎo yī tàng 。",
+      "tr": "O zaman lütfen formda hata var mı kontrol edin; tekrar gelmek istemiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_031",
+      "speaker": "张伟",
+      "zh": "那麻烦您先检查一下姓名、地址和电话，看看有没有写错。",
+      "pinyin": "Nà má fán nín xiān jiǎn chá yī xià xìng míng 、 dì zhǐ hé diàn huà ， kàn kàn yǒu méi yǒu xiě cuò 。",
+      "tr": "Ad, adres ve telefon bölümlerini kontrol eder misiniz? Bir hata var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_032",
+      "speaker": "银行工作人员",
+      "zh": "我逐项看过了，这几项都填写正确。",
+      "pinyin": "Wǒ zhú xiàng kàn guò le ， zhè jǐ xiàng dōu tián xiě zhèng què 。",
+      "tr": "Tek tek kontrol ettim, bu bilgilerin hepsi doğru doldurulmuş."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_033",
+      "speaker": "刘梅",
+      "zh": "太好了。还有需要修改的地方吗？",
+      "pinyin": "Tài hǎo le 。 hái yǒu xū yào xiū gǎi de dì fāng ma ？",
+      "tr": "Harika. Değiştirmemiz gereken başka bir yer var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_034",
+      "speaker": "张伟",
+      "zh": "暂时没有。那身份证我先收起来，免得弄丢。",
+      "pinyin": "Zàn shí méi yǒu 。 nà shēn fèn zhèng wǒ xiān shōu qǐ lái ， miǎn de nòng diū 。",
+      "tr": "Şimdilik yok. Kimliğimi kaybolmasın diye kaldırayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_035",
+      "speaker": "银行工作人员",
+      "zh": "好，表格先留在这里，等材料齐了再继续办理。",
+      "pinyin": "Hǎo ， biǎo gé xiān liú zài zhè lǐ ， děng cái liào qí le zài jì xù bàn lǐ 。",
+      "tr": "Tamam, form burada kalsın; belgeler tamamlanınca işlemi sürdürürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_036",
+      "speaker": "刘梅",
+      "zh": "那我拿到住址证明后，再带身份证回来。",
+      "pinyin": "Nà wǒ ná dào zhù zhǐ zhèng míng hòu ， zài dài shēn fèn zhèng huí lái 。",
+      "tr": "Adres belgesini aldıktan sonra kimliğimle birlikte geri geleyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_037",
+      "speaker": "张伟",
+      "zh": "可以，我会在今天的申请记录里写明缺少的材料。",
+      "pinyin": "Kě yǐ ， wǒ huì zài jīn tiān de shēn qǐng jì lù lǐ xiě míng quē shǎo de cái liào 。",
+      "tr": "Olur, bugün başvuruda eksik olan belgeyi kayda geçireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_038",
+      "speaker": "银行工作人员",
+      "zh": "这样我们回来时，您就知道这次还差什么了。",
+      "pinyin": "Zhè yàng wǒ men huí lái shí ， nín jiù zhī dào zhè cì hái chà shén me le 。",
+      "tr": "Böylece geri geldiğimizde neyin eksik olduğunu görürsünüz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_039",
+      "speaker": "刘梅",
+      "zh": "那今天签的字还有效吗？还是要重新签一次？",
+      "pinyin": "Nà jīn tiān qiān de zì hái yǒu xiào ma ？ hái shì yào chóng xīn qiān yī cì ？",
+      "tr": "Bugün attığım imza geçerli olacak mı, yoksa yeniden mi imzalamalıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_040",
+      "speaker": "张伟",
+      "zh": "回来时我们先检查材料，再确认表格和签字是否还可以用。",
+      "pinyin": "Huí lái shí wǒ men xiān jiǎn chá cái liào ， zài què rèn biǎo gé hé qiān zì shì fǒu hái kě yǐ yòng 。",
+      "tr": "Geri geldiğinizde önce belgeleri kontrol eder, sonra form ve imzanın geçerli olup olmadığını doğrularız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_041",
+      "speaker": "银行工作人员",
+      "zh": "回来时请带上身份证、住址证明和今天的申请表。",
+      "pinyin": "Huí lái shí qǐng dài shàng shēn fèn zhèng 、 zhù zhǐ zhèng míng hé jīn tiān de shēn qǐng biǎo 。",
+      "tr": "Geri geldiğinizde kimliğinizi, adres belgesini ve bugünkü başvuru formunu getirin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_042",
+      "speaker": "刘梅",
+      "zh": "我把这三样写在清单上，少一样都先不出门。",
+      "pinyin": "Wǒ bǎ zhè sān yàng xiě zài qīng dān shàng ， shǎo yī yàng dōu xiān bù chū mén 。",
+      "tr": "Bu üçünü listeye yazıyorum; biri eksikse evden çıkmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_043",
+      "speaker": "张伟",
+      "zh": "我也记到手机里了，再设个提醒，免得忘。",
+      "pinyin": "Wǒ yě jì dào shǒu jī lǐ le ， zài shè gè tí xǐng ， miǎn de wàng 。",
+      "tr": "Telefonuma da not ettim, unutmamak için hatırlatıcı kurayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_044",
+      "speaker": "银行工作人员",
+      "zh": "好，材料齐全后我们再核对账户申请。",
+      "pinyin": "Hǎo ， cái liào qí quán hòu wǒ men zài hé duì zhàng hù shēn qǐng 。",
+      "tr": "Güzel. Belgeler tamam olunca hesap başvurusunu tekrar kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_045",
+      "speaker": "刘梅",
+      "zh": "清单放哪儿比较好？我怕回家就找不到了。",
+      "pinyin": "Qīng dān fàng nǎ ér bǐ jiào hǎo ？ wǒ pà huí jiā jiù zhǎo bú dào le 。",
+      "tr": "Listeyi nereye koysam iyi olur? Eve gidince bulamamaktan korkuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_046",
+      "speaker": "张伟",
+      "zh": "先放进文件袋，等找到证明再一起收好。",
+      "pinyin": "Xiān fàng jìn wén jiàn dài ， děng zhǎo dào zhèng míng zài yì qǐ shōu hǎo 。",
+      "tr": "Dosyanın içine koy; belgeyi bulunca hepsini birlikte toparlarsın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_047",
+      "speaker": "银行工作人员",
+      "zh": "这样很方便，文件袋我会放在门边。",
+      "pinyin": "Zhè yàng hěn fāng biàn ， wén jiàn dài wǒ huì fàng zài mén biān 。",
+      "tr": "Bu çok kullanışlı. Dosyayı kapının yanında tutarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_048",
+      "speaker": "刘梅",
+      "zh": "如果回去后还有问题，可以打这个电话咨询。",
+      "pinyin": "Rú guǒ huí qù hòu hái yǒu wèn tí ， kě yǐ dǎ zhè ge diàn huà zī xún 。",
+      "tr": "Eve dönünce sorunuz olursa bu numarayı arayıp danışabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_049",
+      "speaker": "张伟",
+      "zh": "谢谢，我先把电话号码存下来。",
+      "pinyin": "Xiè xiè ， wǒ xiān bǎ diàn huà hào mǎ cún xià lái 。",
+      "tr": "Teşekkürler, numarayı şimdi kaydedeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_050",
+      "speaker": "银行工作人员",
+      "zh": "不客气。您准备好材料后再来，我们继续办理。",
+      "pinyin": "Bú kè qì 。 nín zhǔn bèi hǎo cái liào hòu zài lái ， wǒ men jì xù bàn lǐ 。",
+      "tr": "Rica ederim. Belgeleri hazırlayınca gelin, işlemi sürdürürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_051",
+      "speaker": "刘梅",
+      "zh": "我再确认一遍：身份证、住址证明和今天这张表。",
+      "pinyin": "Wǒ zài què rèn yī biàn ： shēn fèn zhèng 、 zhù zhǐ zhèng míng hé jīn tiān zhè zhāng biǎo 。",
+      "tr": "Tekrar kontrol edeyim: kimlik, adres belgesi ve bugünkü form."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_052",
+      "speaker": "张伟",
+      "zh": "对，三样都带上，出门前照着清单一项项看。",
+      "pinyin": "Duì ， sān yàng dōu dài shàng ， chū mén qián zhào zhe qīng dān yī xiàng xiàng kàn 。",
+      "tr": "Evet, üçünü de getirin; çıkmadan önce listeye göre tek tek bakın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_053",
+      "speaker": "银行工作人员",
+      "zh": "我已经把缺少住址证明这件事写进申请记录了。",
+      "pinyin": "Wǒ yǐ jīng bǎ quē shǎo zhù zhǐ zhèng míng zhè jiàn shì xiě jìn shēn qǐng jì lù le 。",
+      "tr": "Adres belgesinin eksik olduğunu başvuru kaydına ekledim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_054",
+      "speaker": "刘梅",
+      "zh": "我们拿到证明后，直接回来找您就行吗？",
+      "pinyin": "Wǒ men ná dào zhèng míng hòu ， zhí jiē huí lái zhǎo nín jiù xíng ma ？",
+      "tr": "Belgeyi bulunca doğrudan gelip sizi bulmamız yeterli mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_055",
+      "speaker": "张伟",
+      "zh": "先打电话确认一下，我也会在记录里留下联系方式。",
+      "pinyin": "Xiān dǎ diàn huà què rèn yī xià ， wǒ yě huì zài jì lù lǐ liú xià lián xì fāng shì 。",
+      "tr": "Önce telefonla teyit edin; iletişim bilgilerinizi kayda aldım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_056",
+      "speaker": "银行工作人员",
+      "zh": "好，那我回家先找证明，找到后再打电话。",
+      "pinyin": "Hǎo ， nà wǒ huí jiā xiān zhǎo zhèng míng ， zhǎo dào hòu zài dǎ diàn huà 。",
+      "tr": "Tamam, eve gidip önce belgeyi arayacağım; bulunca ararım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_057",
+      "speaker": "刘梅",
+      "zh": "门口有营业时间的通知，我们也可以先看一下。",
+      "pinyin": "Mén kǒu yǒu yíng yè shí jiān de tōng zhī ， wǒ men yě kě yǐ xiān kàn yī xià 。",
+      "tr": "Kapıda çalışma saatleriyle ilgili duyuru var, ona da bakabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_058",
+      "speaker": "张伟",
+      "zh": "我看到了，明天出门前再确认一次时间。",
+      "pinyin": "Wǒ kàn dào le ， míng tiān chū mén qián zài què rèn yī cì shí jiān 。",
+      "tr": "Gördüm. Yarın çıkmadan önce saatleri bir daha kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_059",
+      "speaker": "银行工作人员",
+      "zh": "请把身份证和申请表放在一起，比较容易找到。",
+      "pinyin": "Qǐng bǎ shēn fèn zhèng hé shēn qǐng biǎo fàng zài yì qǐ ， bǐ jiào róng yì zhǎo dào 。",
+      "tr": "Kimliğinizi ve başvuru formunu birlikte koyun; bulmanız kolaylaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_060",
+      "speaker": "刘梅",
+      "zh": "记住了。现在我们先回家找住址证明。",
+      "pinyin": "Jì zhù le 。 xiàn zài wǒ men xiān huí jiā zhǎo zhù zhǐ zhèng míng 。",
+      "tr": "Anladım. Şimdi eve dönüp adres belgesini arayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_061",
+      "speaker": "张伟",
+      "zh": "请问要是我找不到证明，刚才记下的电话还能打通吗？",
+      "pinyin": "Qǐng wèn yào shì wǒ zhǎo bú dào zhèng míng ， gāng cái jì xià de diàn huà hái néng dǎ tōng ma ？",
+      "tr": "Belgeyi bulamazsam, az önce aldığım numarayı arayabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_062",
+      "speaker": "银行工作人员",
+      "zh": "可以，工作时间内您可以拨打这个号码，说明今天的申请情况。",
+      "pinyin": "Kě yǐ ， gōng zuò shí jiān nèi nín kě yǐ bō dǎ zhè ge hào mǎ ， shuō míng jīn tiān de shēn qǐng qíng kuàng 。",
+      "tr": "Evet, çalışma saatleri içinde bu numarayı arayıp bugünkü başvurudan bahsedebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_063",
+      "speaker": "刘梅",
+      "zh": "那我把号码也写在清单旁边，回家就能一起找到。",
+      "pinyin": "Nà wǒ bǎ hào mǎ yě xiě zài qīng dān páng biān ， huí jiā jiù néng yì qǐ zhǎo dào 。",
+      "tr": "Numarayı da listenin yanına yazayım; eve gidince birlikte bulurum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_064",
+      "speaker": "张伟",
+      "zh": "很好，记得不要把身份证号码写在清单上，保管好证件。",
+      "pinyin": "Hěn hǎo ， jì de bú yào bǎ shēn fèn zhèng hào mǎ xiě zài qīng dān shàng ， bǎo guǎn hǎo zhèng jiàn 。",
+      "tr": "Güzel. Kimlik numaranızı listeye yazmayın, belgenizi güvenli tutun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_065",
+      "speaker": "银行工作人员",
+      "zh": "放心，我只记需要带的材料，不会把个人信息写在外面。",
+      "pinyin": "Fàng xīn ， wǒ zhǐ jì xū yào dài de cái liào ， bú huì bǎ gè rén xìn xī xiě zài wài miàn 。",
+      "tr": "Merak etmeyin, yalnızca getireceğim belgeleri not edeceğim; kişisel bilgilerimi açıkta bırakmam."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_066",
+      "speaker": "刘梅",
+      "zh": "我也会把文件袋放在安全的地方，找到证明就马上装进去。",
+      "pinyin": "Wǒ yě huì bǎ wén jiàn dài fàng zài ān quán de dì fāng ， zhǎo dào zhèng míng jiù mǎ shàng zhuāng jìn qù 。",
+      "tr": "Dosyayı da güvenli bir yerde tutarım; belgeyi bulunca hemen içine koyarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_067",
+      "speaker": "张伟",
+      "zh": "如果证明有好几页，需要每一页都带来吗？",
+      "pinyin": "Rú guǒ zhèng míng yǒu hǎo jǐ yè ， xū yào měi yī yè dōu dài lái ma ？",
+      "tr": "Belge birkaç sayfaysa hepsini getirmem gerekiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_068",
+      "speaker": "银行工作人员",
+      "zh": "请把完整的证明带来；具体需要哪种文件，我们可以先电话确认。",
+      "pinyin": "Qǐng bǎ wán zhěng de zhèng míng dài lái ； jù tǐ xū yào nǎ zhǒng wén jiàn ， wǒ men kě yǐ xiān diàn huà què rèn 。",
+      "tr": "Belgenin tamamını getirin; hangi evrakın gerektiğini önce telefonla teyit edebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_069",
+      "speaker": "刘梅",
+      "zh": "明白，我先找出家里的文件，再向您确认哪一份合适。",
+      "pinyin": "Míng bái ， wǒ xiān zhǎo chū jiā lǐ de wén jiàn ， zài xiàng nín què rèn nǎ yī fèn hé shì 。",
+      "tr": "Anladım. Önce evdeki belgeleri bulayım, sonra hangisinin uygun olduğunu size sorarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_070",
+      "speaker": "张伟",
+      "zh": "这样最稳妥，确认后再来，就不用猜了。",
+      "pinyin": "Zhè yàng zuì wěn tuǒ ， què rèn hòu zài lái ， jiù bù yòng cāi le 。",
+      "tr": "Bu en doğrusu; teyit edip gelirseniz tahmin yürütmek zorunda kalmazsınız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_071",
+      "speaker": "银行工作人员",
+      "zh": "您回来前如果有疑问，可以先打电话，我们会按申请记录帮您确认。",
+      "pinyin": "Nín huí lái qián rú guǒ yǒu yí wèn ， kě yǐ xiān dǎ diàn huà ， wǒ men huì àn shēn qǐng jì lù bāng nín què rèn 。",
+      "tr": "Dönmeden önce sorunuz olursa arayın; başvuru kaydınıza göre kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_072",
+      "speaker": "刘梅",
+      "zh": "谢谢，这样我在家找到材料后就知道下一步该怎么做。",
+      "pinyin": "Xiè xiè ， zhè yàng wǒ zài jiā zhǎo dào cái liào hòu jiù zhī dào xià yī bù gāi zěn me zuò 。",
+      "tr": "Teşekkürler; böylece evde belgeyi bulunca ne yapacağımı bilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_073",
+      "speaker": "张伟",
+      "zh": "我们把今天的申请记录号也记下来吧，免得回来时说不清。",
+      "pinyin": "Wǒ men bǎ jīn tiān de shēn qǐng jì lù hào yě jì xià lái ba ， miǎn de huí lái shí shuō bù qīng 。",
+      "tr": "Bugünkü başvuru kayıt numarasını da not edelim ki döndüğümüzde açıklayabilelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_074",
+      "speaker": "银行工作人员",
+      "zh": "好，我把记录号写在清单上，您也可以拍照留存。",
+      "pinyin": "Hǎo ， wǒ bǎ jì lù hào xiě zài qīng dān shàng ， nín yě kě yǐ pāi zhào liú cún 。",
+      "tr": "Tamam, numarayı listeye yazıyorum; fotoğrafını da saklayabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_075",
+      "speaker": "刘梅",
+      "zh": "我拍好了，照片里能看清号码和要带的材料。",
+      "pinyin": "Wǒ pāi hǎo le ， zhào piān lǐ néng kàn qīng hào mǎ hé yào dài de cái liào 。",
+      "tr": "Fotoğrafını çektim; numara ve getirmem gereken belgeler okunuyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_076",
+      "speaker": "张伟",
+      "zh": "我再核对一次：身份证在钱包里，清单在文件袋里。",
+      "pinyin": "Wǒ zài hé duì yī cì ： shēn fèn zhèng zài qián bāo lǐ ， qīng dān zài wén jiàn dài lǐ 。",
+      "tr": "Bir daha kontrol edeyim: kimlik cüzdanda, liste dosyada."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_077",
+      "speaker": "银行工作人员",
+      "zh": "对，表格先留在柜台，等您补齐材料再继续处理。",
+      "pinyin": "Duì ， biǎo gé xiān liú zài guì tái ， děng nín bǔ qí cái liào zài jì xù chǔ lǐ 。",
+      "tr": "Evet, form bankoda kalacak; belgeleri tamamlayınca işlemi sürdürürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_078",
+      "speaker": "刘梅",
+      "zh": "那我们不用把表格带走，对吗？",
+      "pinyin": "Nà wǒ men bù yòng bǎ biǎo gé dài zǒu ， duì ma ？",
+      "tr": "Yani formu yanımıza almamıza gerek yok, doğru mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_079",
+      "speaker": "张伟",
+      "zh": "对，您带好身份证和清单就行；住址证明找到后再来。",
+      "pinyin": "Duì ， nín dài hǎo shēn fèn zhèng hé qīng dān jiù xíng ； zhù zhǐ zhèng míng zhǎo dào hòu zài lái 。",
+      "tr": "Doğru; kimliğinizi ve listenizi alın. Adres belgesini bulunca geri gelin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_080",
+      "speaker": "银行工作人员",
+      "zh": "明白了，今天先把材料清单弄清楚，回家再找证明。",
+      "pinyin": "Míng bái le ， jīn tiān xiān bǎ cái liào qīng dān nòng qīng chǔ ， huí jiā zài zhǎo zhèng míng 。",
+      "tr": "Anladım. Bugün belge listesini netleştirdik; şimdi evde arayacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_081",
+      "speaker": "刘梅",
+      "zh": "我们现在要带的东西都记清楚了，对吗？",
+      "pinyin": "Wǒ men xiàn zài yào dài de dōng xī dōu jì qīng chǔ le ， duì ma ？",
+      "tr": "Şimdi yanımızda bulunması gerekenleri netleştirdik, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_082",
+      "speaker": "张伟",
+      "zh": "清单上有身份证、住址证明和申请表，其他要求我也记下了。",
+      "pinyin": "Qīng dān shàng yǒu shēn fèn zhèng 、 zhù zhǐ zhèng míng hé shēn qǐng biǎo ， qí tā yāo qiú wǒ yě jì xià le 。",
+      "tr": "Listede kimlik, adres belgesi ve başvuru formu var; diğer koşulları da not ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_083",
+      "speaker": "银行工作人员",
+      "zh": "是的，账户申请需要的材料以这份清单和后续核对为准。",
+      "pinyin": "Shì de ， zhàng hù shēn qǐng xū yào de cái liào yǐ zhè fèn qīng dān hé hòu xù hé duì wèi zhǔn 。",
+      "tr": "Evet, hesap başvurusu için gereken belgeleri bu listeye göre kontrol edeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_084",
+      "speaker": "刘梅",
+      "zh": "如果我们找到两份住址材料，应该带哪一份？",
+      "pinyin": "Rú guǒ wǒ men zhǎo dào liǎng fèn zhù zhǐ cái liào ， yīng gāi dài nǎ yī fèn ？",
+      "tr": "İki farklı adres belgesi bulursak hangisini getirmeliyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_085",
+      "speaker": "张伟",
+      "zh": "先别挑，找到了就带来，我们可以先确认是否符合要求。",
+      "pinyin": "Xiān bié tiāo ， zhǎo dào le jiù dài lái ， wǒ men kě yǐ xiān què rèn shì fǒu fú hé yāo qiú 。",
+      "tr": "Şimdilik ayırmayın; bulduğunuzda getirin, uygun olup olmadığını kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_086",
+      "speaker": "银行工作人员",
+      "zh": "对，带原件比较方便核对；具体形式也可以提前电话问。",
+      "pinyin": "Duì ， dài yuán jiàn bǐ jiào fāng biàn hé duì ； jù tǐ xíng shì yě kě yǐ tí qián diàn huà wèn 。",
+      "tr": "Evet, aslı kontrol etmeyi kolaylaştırır; biçimi önceden telefonla da sorabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_087",
+      "speaker": "刘梅",
+      "zh": "那我回家先找文件夹，不在的话再问家里人。",
+      "pinyin": "Nà wǒ huí jiā xiān zhǎo wén jiàn jiā ， bù zài de huà zài wèn jiā lǐ rén 。",
+      "tr": "O hâlde önce evdeki dosyalara bakayım; bulamazsam aileme sorarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_088",
+      "speaker": "张伟",
+      "zh": "我也会一起找，找到就把材料放进文件袋。",
+      "pinyin": "Wǒ yě huì yì qǐ zhǎo ， zhǎo dào jiù bǎ cái liào fàng jìn wén jiàn dài 。",
+      "tr": "Ben de aramaya yardım ederim; bulunca belgeyi dosyaya koyarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_089",
+      "speaker": "银行工作人员",
+      "zh": "资料准备好后再来，今天的记录可以帮助我们接着办理。",
+      "pinyin": "Zī liào zhǔn bèi hǎo hòu zài lái ， jīn tiān de jì lù kě yǐ bāng zhù wǒ men jiē zhe bàn lǐ 。",
+      "tr": "Belgeler hazır olunca yeniden gelin; bugünkü kayıt işlemi sürdürmemize yardım eder."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_090",
+      "speaker": "刘梅",
+      "zh": "谢谢您耐心解释，我们知道回家后先做什么了。",
+      "pinyin": "Xiè xiè nín nài xīn jiě shì ， wǒ men zhī dào huí jiā hòu xiān zuò shén me le 。",
+      "tr": "Sabırla açıkladığınız için teşekkürler; eve gidince ne yapacağımızı biliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_091",
+      "speaker": "张伟",
+      "zh": "身份证和清单都在，我们可以走了。",
+      "pinyin": "Shēn fèn zhèng hé qīng dān dōu zài ， wǒ men kě yǐ zǒu le 。",
+      "tr": "Kimlik ve liste yanımızda, artık çıkabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_092",
+      "speaker": "银行工作人员",
+      "zh": "好的，申请表和记录我会按流程保存。",
+      "pinyin": "Hǎo de ， shēn qǐng biǎo hé jì lù wǒ huì àn liú chéng bǎo cún 。",
+      "tr": "Tamam, başvuru formunu ve kaydı prosedüre uygun saklayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_093",
+      "speaker": "刘梅",
+      "zh": "我把明天要做的事设成提醒：找住址证明、打电话确认。",
+      "pinyin": "Wǒ bǎ míng tiān yào zuò de shì shè chéng tí xǐng ： zhǎo zhù zhǐ zhèng míng 、 dǎ diàn huà què rèn 。",
+      "tr": "Yarın için hatırlatıcı kuruyorum: adres belgesini bul ve telefonla teyit et."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_094",
+      "speaker": "张伟",
+      "zh": "再加上出门前检查文件袋，这样就不容易忘。",
+      "pinyin": "Zài jiā shàng chū mén qián jiǎn chá wén jiàn dài ， zhè yàng jiù bù róng yì wàng 。",
+      "tr": "Bir de çıkmadan önce dosyayı kontrol edelim; böylece bir şey unutmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_095",
+      "speaker": "银行工作人员",
+      "zh": "好主意。材料齐了以后，我们再来完成开户手续。",
+      "pinyin": "Hǎo zhǔ yì 。 cái liào qí le yǐ hòu ， wǒ men zài lái wán chéng kāi hù shǒu xù 。",
+      "tr": "Güzel fikir. Belgeler tamamlanınca hesap açılışını bitirmek için geliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_096",
+      "speaker": "刘梅",
+      "zh": "再见，祝你们顺利找到需要的证明。",
+      "pinyin": "Zài jiàn ， zhù nǐ men shùn lì zhǎo dào xū yào de zhèng míng 。",
+      "tr": "Hoşça kalın, umarım aradığınız belgeyi kolayca bulursunuz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_097",
+      "speaker": "张伟",
+      "zh": "谢谢，再见。我们回去就开始找。",
+      "pinyin": "Xiè xiè ， zài jiàn 。 wǒ men huí qù jiù kāi shǐ zhǎo 。",
+      "tr": "Teşekkürler, hoşça kalın. Eve gidince aramaya başlayacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_098",
+      "speaker": "银行工作人员",
+      "zh": "走吧，先查看书房的文件夹和抽屉。",
+      "pinyin": "Zǒu ba ， xiān chá kàn shū fáng de wén jiàn jiā hé chōu tì 。",
+      "tr": "Hadi gidelim, önce çalışma odasındaki dosyalara ve çekmecelere bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_099",
+      "speaker": "刘梅",
+      "zh": "我来找文件，你把清单拿出来对照。",
+      "pinyin": "Wǒ lái zhǎo wén jiàn ， nǐ bǎ qīng dān ná chū lái duì zhào 。",
+      "tr": "Ben belgeleri arayayım, sen de listeyi çıkarıp kontrol et."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC031_100",
+      "speaker": "张伟",
+      "zh": "好，找到住址证明后，我们再联系银行。",
+      "pinyin": "Hǎo ， zhǎo dào zhù zhǐ zhèng míng hòu ， wǒ men zài lián xì yín háng 。",
+      "tr": "Tamam. Adres belgesini bulunca bankayla yeniden iletişime geçeriz."
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC035.json",
-  "dialogueSha256": "14fdab4c90fced37bbb17673983a2dbf3ba418d99f9cf0f2f76b2679980b081b",
+  "dialogueSha256": "034bc76798f456f18c0ee34d371bb543fe84041b67dc9d207ea72a2eb97ad0de",
   "titleZh": "乐乐选择创意方向",
   "titleTr": "Lele Üniversite Alanı Seçiyor",
   "locationId": "LOC_ZH_NEW_HOME_001",

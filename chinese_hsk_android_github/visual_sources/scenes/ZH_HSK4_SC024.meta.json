@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC024.json",
-  "dialogueSha256": "c1979ea23e4f9d5be01c57e1218f03481a4bf514eeac511eb29b36e1c1925dcd",
+  "dialogueSha256": "e30a624049c538b6bd2527c20b06eda1fd29946121d9ab42bba7649f0c3b9bc1",
   "titleTr": "Kafe Elektrik Arızası",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Öğle yoğunluğunda elektrik kesilir; ekip müşterileri sakin tutmaya çalışır.",

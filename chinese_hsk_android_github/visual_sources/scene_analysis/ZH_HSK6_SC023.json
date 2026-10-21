@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC023",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC023.json",
-  "dialogueSha256": "f65b432a70faa1c0325075907df61051b0fe6068e35a8daaed603aee29feafae",
+  "dialogueSha256": "73ef28404e8c86ae76567c53b316d2fed16390358b815789ffe5a534fa0b1135",
   "titleZh": "在医院走廊等消息",
   "titleTr": "Hastane Koridorunda Bekleyiş",
   "locationId": "LOC_ZH_HOSPITAL_001",

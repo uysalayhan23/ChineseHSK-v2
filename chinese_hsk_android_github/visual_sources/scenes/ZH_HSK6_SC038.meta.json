@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC038.json",
-  "dialogueSha256": "cad87813349dfdcfea173841f6456d94c40c784de2eec67f20716d692b15d8a8",
+  "dialogueSha256": "62bbb0e7fa11fea2b3205897021c389dd4ed4a55dfa7099fce2982c2091400e0",
   "titleZh": "洪水之后",
   "titleTr": "Kriz Sonrası Değerlendirme",
   "locationId": "LOC_ZH_TOWN_HALL_001",

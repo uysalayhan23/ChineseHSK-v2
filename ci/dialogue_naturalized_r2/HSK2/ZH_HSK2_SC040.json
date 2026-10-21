@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 46,
+  "status": "FINAL_REVIEWED_V46",
+  "sceneId": "ZH_HSK2_SC040",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC040_001",
+      "speaker": "张伟",
+      "zh": "我们得给全家定个运动计划，最近大家都坐得太久了。",
+      "pinyin": "wǒ men dé gěi quán jiā dìng gè yùn dòng jì huà ， zuì jìn dà jiā dōu zuò dé tài jiǔ le 。",
+      "tr": "Son zamanlarda hepimiz çok oturuyoruz. Tüm aile için bir egzersiz planı yapalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_002",
+      "speaker": "刘梅",
+      "zh": "我也这么觉得，不过这周的安排已经很满了。",
+      "pinyin": "wǒ yě zhè me jué de ， bù guò zhè zhōu de ān pái yǐ jīng hěn mǎn le 。",
+      "tr": "Ben de öyle düşünüyorum ama bu hafta programımız çok dolu."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_003",
+      "speaker": "张乐乐",
+      "zh": "那就别定太难的，先找每天都能做的事。",
+      "pinyin": "nà jiù bié dìng tài nán de ， xiān zhǎo měi tiān dōu néng zuò de shì 。",
+      "tr": "O zaman zor bir şey belirlemeyelim; her gün yapabileceğimiz bir şey bulalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_004",
+      "speaker": "张雨桐",
+      "zh": "对，我们可以一起走路，顺便聊聊天。",
+      "pinyin": "duì ， wǒ men kě yǐ yì qǐ zǒu lù ， shùn biàn liáo liáo tiān 。",
+      "tr": "Evet, birlikte yürüyüp sohbet edebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_005",
+      "speaker": "张伟",
+      "zh": "每天都走吗？下雨的时候怎么办？",
+      "pinyin": "měi tiān dōu zǒu ma ？ xià yǔ de shí hòu zěn me bàn ？",
+      "tr": "Her gün mü yürüyelim? Yağmur yağarsa ne yaparız?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_006",
+      "speaker": "刘梅",
+      "zh": "天气好就在外面走，下雨就在家活动一下。",
+      "pinyin": "tiān qì hǎo jiù zài wài miàn zǒu ， xià yǔ jiù zài jiā huó dòng yī xià 。",
+      "tr": "Hava güzelse dışarıda yürürüz, yağmurda evde biraz hareket ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_007",
+      "speaker": "张乐乐",
+      "zh": "我喜欢走路，可是放学以后有时要写作业。",
+      "pinyin": "wǒ xǐ huān zǒu lù ， kě shì fàng xué yǐ hòu yǒu shí yào xiě zuò yè 。",
+      "tr": "Yürümeyi seviyorum ama okuldan sonra bazen ödevim oluyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_008",
+      "speaker": "张雨桐",
+      "zh": "那我们可以晚饭后走一小圈，不用走很久。",
+      "pinyin": "nà wǒ men kě yǐ wǎn fàn hòu zǒu yī xiǎo quān ， bù yòng zǒu hěn jiǔ 。",
+      "tr": "O zaman akşam yemeğinden sonra kısa bir tur atarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_009",
+      "speaker": "张伟",
+      "zh": "每天大概走多久比较合适？",
+      "pinyin": "měi tiān dà gài zǒu duō jiǔ bǐ jiào hé shì ？",
+      "tr": "Günde yaklaşık ne kadar yürümek uygun olur?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_010",
+      "speaker": "刘梅",
+      "zh": "先轻松地走一走，大家觉得舒服就好。",
+      "pinyin": "xiān qīng sōng dì zǒu yī zǒu ， dà jiā jué de shū fú jiù hǎo 。",
+      "tr": "Önce rahatça biraz yürüyelim; kendimizi iyi hissedersek yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_011",
+      "speaker": "张乐乐",
+      "zh": "我们每周还要安排几次运动吗？",
+      "pinyin": "wǒ men měi zhōu hái yào ān pái jǐ cì yùn dòng ma ？",
+      "tr": "Haftada birkaç kez egzersiz de planlayalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_012",
+      "speaker": "张雨桐",
+      "zh": "每周三次怎么样？这样不必天天赶时间。",
+      "pinyin": "měi zhōu sān cì zěn me yàng ？ zhè yàng bù bì tiān tiān gǎn shí jiān 。",
+      "tr": "Haftada üç kez nasıl? Her gün koşturmak gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_013",
+      "speaker": "张伟",
+      "zh": "可以，星期二、四、六我通常有空。",
+      "pinyin": "kě yǐ ， xīng qī èr 、 sì 、 liù wǒ tōng cháng yǒu kòng 。",
+      "tr": "Olur, salı, perşembe ve cumartesi genellikle boşum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_014",
+      "speaker": "刘梅",
+      "zh": "星期四我有课，能不能换成星期五？",
+      "pinyin": "xīng qī sì wǒ yǒu kè ， néng bù néng huàn chéng xīng qī wǔ ？",
+      "tr": "Perşembe dersim var; cuma gününe alsak olur mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_015",
+      "speaker": "张乐乐",
+      "zh": "当然可以，先按星期二、五、六试试看。",
+      "pinyin": "dāng rán kě yǐ ， xiān àn xīng qī èr 、 wǔ 、 liù shì shì kàn 。",
+      "tr": "Tabii, önce salı, cuma ve cumartesiyi deneyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_016",
+      "speaker": "张雨桐",
+      "zh": "如果有人那天没空，就改到第二天吗？",
+      "pinyin": "rú guǒ yǒu rén nà tiān méi kòng ， jiù gǎi dào dì èr tiān ma ？",
+      "tr": "O gün birinin işi çıkarsa ertesi güne mi alırız?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_017",
+      "speaker": "张伟",
+      "zh": "可以提前商量，不要因为一次没去就放弃。",
+      "pinyin": "kě yǐ tí qián shāng liáng ， bú yào yīn wèi yī cì méi qù jiù fàng qì 。",
+      "tr": "Önceden konuşuruz; bir kez gidemedik diye vazgeçmeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_018",
+      "speaker": "刘梅",
+      "zh": "我担心我们开始很积极，后来就忘了。",
+      "pinyin": "wǒ dān xīn wǒ men kāi shǐ hěn jī jí ， hòu lái jiù wàng le 。",
+      "tr": "Başta heveslenip sonra unutacağımızdan endişeliyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_019",
+      "speaker": "张乐乐",
+      "zh": "我们把计划写在日历上，轮流提醒大家。",
+      "pinyin": "wǒ men bǎ jì huà xiě zài rì lì shàng ， lún liú tí xǐng dà jiā 。",
+      "tr": "Planı takvime yazıp birbirimize hatırlatırız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_020",
+      "speaker": "张雨桐",
+      "zh": "好，我来把这三天标出来。",
+      "pinyin": "hǎo ， wǒ lái bǎ zhè sān tiān biāo chū lái 。",
+      "tr": "Tamam, bu üç günü ben işaretleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_021",
+      "speaker": "张伟",
+      "zh": "每天走路也写上去吧，这样更容易记住。",
+      "pinyin": "měi tiān zǒu lù yě xiě shàng qù ba ， zhè yàng gèng róng yì jì zhù 。",
+      "tr": "Her gün yürümeyi de yazalım, akılda kalır."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_022",
+      "speaker": "刘梅",
+      "zh": "你说得对，晚饭后走路就当作每天的小习惯。",
+      "pinyin": "nǐ shuō dé duì ， wǎn fàn hòu zǒu lù jiù dàng zuò měi tiān de xiǎo xí guàn 。",
+      "tr": "Haklısın, akşam yemeğinden sonra yürümek küçük bir alışkanlık olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_023",
+      "speaker": "张乐乐",
+      "zh": "如果我作业很多，可以少走一会儿吗？",
+      "pinyin": "rú guǒ wǒ zuò yè hěn duō ， kě yǐ shǎo zǒu yī huì er ma ？",
+      "tr": "Ödevim çoksa biraz daha kısa yürüyebilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_024",
+      "speaker": "张雨桐",
+      "zh": "可以，先把作业安排好，再和我们说一声。",
+      "pinyin": "kě yǐ ， xiān bǎ zuò yè ān pái hǎo ， zài hé wǒ men shuō yī shēng 。",
+      "tr": "Olur, önce ödevini yap, sonra bize haber ver."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_025",
+      "speaker": "张伟",
+      "zh": "我也有时要加班，不过周末可以补上。",
+      "pinyin": "wǒ yě yǒu shí yào jiā bān ， bù guò zhōu mò kě yǐ bǔ shàng 。",
+      "tr": "Bazen fazla mesai yapıyorum ama hafta sonu katılabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_026",
+      "speaker": "刘梅",
+      "zh": "别把补运动变成压力，能一起活动就很好。",
+      "pinyin": "bié bǎ bǔ yùn dòng biàn chéng yā lì ， néng yì qǐ huó dòng jiù hěn hǎo 。",
+      "tr": "Telafi etmek baskıya dönüşmesin; birlikte hareket etmemiz yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_027",
+      "speaker": "张乐乐",
+      "zh": "那我们每周运动三次，每天有空就走一走。",
+      "pinyin": "nà wǒ men měi zhōu yùn dòng sān cì ， měi tiān yǒu kòng jiù zǒu yī zǒu 。",
+      "tr": "O hâlde haftada üç kez egzersiz, boş günlerde de biraz yürüyüş."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_028",
+      "speaker": "张雨桐",
+      "zh": "嗯，计划不复杂，比较容易坚持。",
+      "pinyin": "ń ， jì huà bù fù zá ， bǐ jiào róng yì jiān chí 。",
+      "tr": "Evet, plan karmaşık değil; sürdürmesi daha kolay."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_029",
+      "speaker": "张伟",
+      "zh": "坚持最重要，不用一开始就做很多。",
+      "pinyin": "jiān chí zuì zhòng yào ， bù yòng yī kāi shǐ jiù zuò hěn duō 。",
+      "tr": "En önemlisi devam etmek; başta çok şey yapmamız gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_030",
+      "speaker": "刘梅",
+      "zh": "我同意，先试两周，再看看要不要调整。",
+      "pinyin": "wǒ tóng yì ， xiān shì liǎng zhōu ， zài kàn kàn yào bù yào tiáo zhěng 。",
+      "tr": "Katılıyorum. İki hafta deneyip sonra gerekirse değiştiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_031",
+      "speaker": "张乐乐",
+      "zh": "我们去公园走路好吗？离家不太远。",
+      "pinyin": "wǒ men qù gōng yuán zǒu lù hǎo ma ？ lí jiā bù tài yuǎn 。",
+      "tr": "Parkta yürüyelim mi? Evden çok uzak değil."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_032",
+      "speaker": "张雨桐",
+      "zh": "好啊，公园里有树，走起来也舒服。",
+      "pinyin": "hǎo a ， gōng yuán lǐ yǒu shù ， zǒu qǐ lái yě shū fú 。",
+      "tr": "Olur, parkta ağaçlar var; yürüyüş de rahat olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_033",
+      "speaker": "张伟",
+      "zh": "到公园要走一段路，那算不算今天的运动？",
+      "pinyin": "dào gōng yuán yào zǒu yī duàn lù ， nà suàn bù suàn jīn tiān de yùn dòng ？",
+      "tr": "Parka kadar yürümek de egzersiz sayılır mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_034",
+      "speaker": "刘梅",
+      "zh": "当然算，来回路上也可以慢慢走。",
+      "pinyin": "dāng rán suàn ， lái huí lù shàng yě kě yǐ màn màn zǒu 。",
+      "tr": "Tabii, gidiş geliş yolunda da ağır ağır yürüyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_035",
+      "speaker": "张乐乐",
+      "zh": "要是天气很热，我们还去吗？",
+      "pinyin": "yào shì tiān qì hěn rè ， wǒ men hái qù ma ？",
+      "tr": "Hava çok sıcak olursa yine de gidecek miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_036",
+      "speaker": "张雨桐",
+      "zh": "太热就晚一点出门，或者留在家里活动。",
+      "pinyin": "tài rè jiù wǎn yì diǎn chū mén ， huò zhě liú zài jiā lǐ huó dòng 。",
+      "tr": "Çok sıcaksa geç çıkarız ya da evde hareket ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_037",
+      "speaker": "张伟",
+      "zh": "我可以带水，也能提醒大家休息。",
+      "pinyin": "wǒ kě yǐ dài shuǐ ， yě néng tí xǐng dà jiā xiū xī 。",
+      "tr": "Yanıma su alıp herkese dinlenmesini hatırlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_038",
+      "speaker": "刘梅",
+      "zh": "谢谢，有你帮忙，我就不怕忘东西了。",
+      "pinyin": "xiè xiè ， yǒu nǐ bāng máng ， wǒ jiù bù pà wàng dōng xī le 。",
+      "tr": "Sağ ol, yardım edince bir şey unutacağımdan korkmam."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_039",
+      "speaker": "张乐乐",
+      "zh": "我们周五去公园，几点出发比较好？",
+      "pinyin": "wǒ men zhōu wǔ qù gōng yuán ， jǐ diǎn chū fā bǐ jiào hǎo ？",
+      "tr": "Cuma parka gideceksek saat kaçta çıkalım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_040",
+      "speaker": "张雨桐",
+      "zh": "吃完晚饭以后吧，太阳也没那么晒。",
+      "pinyin": "chī wán wǎn fàn yǐ hòu ba ， tài yáng yě méi nà me shài 。",
+      "tr": "Akşam yemeğinden sonra; güneş de daha az yakar."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_041",
+      "speaker": "张伟",
+      "zh": "星期五如果下雨呢？",
+      "pinyin": "xīng qī wǔ rú guǒ xià yǔ ne ？",
+      "tr": "Cuma yağmur yağarsa ne olacak?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_042",
+      "speaker": "刘梅",
+      "zh": "那就在家做简单的活动，等天气好了再去公园。",
+      "pinyin": "nà jiù zài jiā zuò jiǎn dān de huó dòng ， děng tiān qì hǎo le zài qù gōng yuán 。",
+      "tr": "Evde basit hareketler yapar, hava açınca parka gideriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_043",
+      "speaker": "张乐乐",
+      "zh": "我来看看天气预报，提前告诉大家。",
+      "pinyin": "wǒ lái kàn kàn tiān qì yù bào ， tí qián gào sù dà jiā 。",
+      "tr": "Hava tahminine bakıp size önceden haber vereyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_044",
+      "speaker": "张雨桐",
+      "zh": "太好了，这样我们不用临时着急。",
+      "pinyin": "tài hǎo le ， zhè yàng wǒ men bù yòng lín shí zháo jí 。",
+      "tr": "Harika, böylece son anda telaşlanmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_045",
+      "speaker": "张伟",
+      "zh": "计划里要不要写上运动的时间？",
+      "pinyin": "jì huà lǐ yào bù yào xiě shàng yùn dòng de shí jiān ？",
+      "tr": "Egzersiz saatini de plana yazalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_046",
+      "speaker": "刘梅",
+      "zh": "先写星期和大概时间，细节可以灵活一点。",
+      "pinyin": "xiān xiě xīng qī hé dà gài shí jiān ， xì jié kě yǐ líng huó yì diǎn 。",
+      "tr": "Şimdilik günleri ve yaklaşık saati yazalım; ayrıntılar değişebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_047",
+      "speaker": "张乐乐",
+      "zh": "我负责提醒大家带水和钥匙。",
+      "pinyin": "wǒ fù zé tí xǐng dà jiā dài shuǐ hé yào shi 。",
+      "tr": "Su ve anahtarları hatırlatmak benim işim olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_048",
+      "speaker": "张雨桐",
+      "zh": "那我负责在日历上记下每次活动。",
+      "pinyin": "nà wǒ fù zé zài rì lì shàng jì xià měi cì huó dòng 。",
+      "tr": "Ben de her etkinliği takvime not ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_049",
+      "speaker": "张伟",
+      "zh": "我可以选公园里的路线，找一条不太长的。",
+      "pinyin": "wǒ kě yǐ xuǎn gōng yuán lǐ de lù xiàn ， zhǎo yī tiáo bù tài zhǎng de 。",
+      "tr": "Parkta çok uzun olmayan bir yol seçebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_050",
+      "speaker": "刘梅",
+      "zh": "我们一起选吧，走起来轻松最重要。",
+      "pinyin": "wǒ men yì qǐ xuǎn ba ， zǒu qǐ lái qīng sōng zuì zhòng yào 。",
+      "tr": "Birlikte seçelim; rahat yürümek en önemlisi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_051",
+      "speaker": "张乐乐",
+      "zh": "我已经把计划贴在冰箱上了。",
+      "pinyin": "wǒ yǐ jīng bǎ jì huà tiē zài bīng xiāng shàng le 。",
+      "tr": "Planı buzdolabına astım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_052",
+      "speaker": "张雨桐",
+      "zh": "我看见了，星期二、五、六都很清楚。",
+      "pinyin": "wǒ kàn jiàn le ， xīng qī èr 、 wǔ 、 liù dōu hěn qīng chǔ 。",
+      "tr": "Gördüm, salı, cuma ve cumartesi çok net yazılmış."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_053",
+      "speaker": "张伟",
+      "zh": "每天走路的安排也写上了。",
+      "pinyin": "měi tiān zǒu lù de ān pái yě xiě shàng le 。",
+      "tr": "Her gün yürüyüş planı da var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_054",
+      "speaker": "刘梅",
+      "zh": "如果哪天忘了，我们就互相提醒，不用责怪谁。",
+      "pinyin": "rú guǒ nǎ tiān wàng le ， wǒ men jiù hù xiāng tí xǐng ， bù yòng zé guài shuí 。",
+      "tr": "Bir gün unutursak birbirimize hatırlatır, kimseyi suçlamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_055",
+      "speaker": "张乐乐",
+      "zh": "我们先照这个计划试两周，好吗？",
+      "pinyin": "wǒ men xiān zhào zhè ge jì huà shì liǎng zhōu ， hǎo ma ？",
+      "tr": "Bu planı iki hafta deneyelim, olur mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_056",
+      "speaker": "张雨桐",
+      "zh": "好，两周以后再说说哪里方便、哪里不方便。",
+      "pinyin": "hǎo ， liǎng zhōu yǐ hòu zài shuō shuō nǎ lǐ fāng biàn 、 nǎ lǐ bù fāng biàn 。",
+      "tr": "Olur, sonra neyin işe yarayıp yaramadığını konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_057",
+      "speaker": "张伟",
+      "zh": "我会记下我们哪天一起运动了。",
+      "pinyin": "wǒ huì jì xià wǒ men nǎ tiān yì qǐ yùn dòng le 。",
+      "tr": "Birlikte egzersiz yaptığımız günleri not edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_058",
+      "speaker": "刘梅",
+      "zh": "我也会记下每天有没有走路。",
+      "pinyin": "wǒ yě huì jì xià měi tiān yǒu méi yǒu zǒu lù 。",
+      "tr": "Ben de her gün yürüyüp yürümediğimizi kaydederim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_059",
+      "speaker": "张乐乐",
+      "zh": "不用记得太细，简单写一下就够了。",
+      "pinyin": "bù yòng jì de tài xì ， jiǎn dān xiě yī xià jiù gòu le 。",
+      "tr": "Ayrıntılı yazmana gerek yok; kısaca not et yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_060",
+      "speaker": "张雨桐",
+      "zh": "知道了，我会用日历做个小记号。",
+      "pinyin": "zhī dào le ， wǒ huì yòng rì lì zuò gè xiǎo jì hào 。",
+      "tr": "Anladım, takvime küçük bir işaret koyarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_061",
+      "speaker": "张伟",
+      "zh": "坚持一段时间以后，走路就会变成习惯吧？",
+      "pinyin": "jiān chí yī duàn shí jiān yǐ hòu ， zǒu lù jiù huì biàn chéng xí guàn ba ？",
+      "tr": "Bir süre sürdürürsek yürümek alışkanlık olur, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_062",
+      "speaker": "刘梅",
+      "zh": "希望如此，一家人一起做也更有意思。",
+      "pinyin": "xī wàng rú cǐ ， yī jiā rén yì qǐ zuò yě gèng yǒu yì si 。",
+      "tr": "Umarım; ailece yapmak daha eğlenceli."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_063",
+      "speaker": "张乐乐",
+      "zh": "如果我走得慢，你们要等我哦。",
+      "pinyin": "rú guǒ wǒ zǒu dé màn ， nǐ men yào děng wǒ ó 。",
+      "tr": "Yavaş yürürsem beni beklersiniz, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_064",
+      "speaker": "张雨桐",
+      "zh": "当然，我们一起走，不会把你丢下。",
+      "pinyin": "dāng rán ， wǒ men yì qǐ zǒu ， bú huì bǎ nǐ diū xià 。",
+      "tr": "Elbette, birlikte yürüyoruz; seni geride bırakmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_065",
+      "speaker": "张伟",
+      "zh": "我也可以陪你走在后面。",
+      "pinyin": "wǒ yě kě yǐ péi nǐ zǒu zài hòu miàn 。",
+      "tr": "Ben de arkanda yürüyüp sana eşlik edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_066",
+      "speaker": "刘梅",
+      "zh": "谢谢你们，这样我就放心了。",
+      "pinyin": "xiè xiè nǐ men ， zhè yàng wǒ jiù fàng xīn le 。",
+      "tr": "Teşekkürler, böyle içim rahat etti."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_067",
+      "speaker": "张乐乐",
+      "zh": "那我们今天先去附近走一圈？",
+      "pinyin": "nà wǒ men jīn tiān xiān qù fù jìn zǒu yī quān ？",
+      "tr": "O zaman bugün yakında biraz yürüyelim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_068",
+      "speaker": "张雨桐",
+      "zh": "好，我先把桌子收拾一下，马上就来。",
+      "pinyin": "hǎo ， wǒ xiān bǎ zhuō zi shōu shí yī xià ， mǎ shàng jiù lái 。",
+      "tr": "Olur, önce masayı toplayayım, hemen gelirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_069",
+      "speaker": "张伟",
+      "zh": "我去拿外套和水，外面可能有点凉。",
+      "pinyin": "wǒ qù ná wài tào hé shuǐ ， wài miàn kě néng yǒu diǎn liáng 。",
+      "tr": "Montumu ve suyu alayım, hava biraz serin olabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_070",
+      "speaker": "刘梅",
+      "zh": "那我在门口等你们，别忘了带钥匙。",
+      "pinyin": "nà wǒ zài mén kǒu děng nǐ men ， bié wàng le dài yào shi 。",
+      "tr": "Ben kapıda beklerim; anahtarı almayı unutmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_071",
+      "speaker": "张乐乐",
+      "zh": "出发前我们再看看天气，别走到一半下雨。",
+      "pinyin": "chū fā qián wǒ men zài kàn kàn tiān qì ， bié zǒu dào yí bàn xià yǔ 。",
+      "tr": "Çıkmadan havaya bakalım, yolda yağmur başlamasın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_072",
+      "speaker": "张雨桐",
+      "zh": "我刚看过了，今天晚上天气不错。",
+      "pinyin": "wǒ gāng kàn guò le ， jīn tiān wǎn shàng tiān qì bù cuò 。",
+      "tr": "Az önce baktım, bu akşam hava güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_073",
+      "speaker": "张伟",
+      "zh": "太好了，看来我们的计划第一天就能开始。",
+      "pinyin": "tài hǎo le ， kàn lái wǒ men de jì huà dì yī tiān jiù néng kāi shǐ 。",
+      "tr": "Harika, planın ilk gününe hemen başlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_074",
+      "speaker": "刘梅",
+      "zh": "走慢一点，大家还可以边走边聊天。",
+      "pinyin": "zǒu màn yì diǎn ， dà jiā hái kě yǐ biān zǒu biān liáo tiān 。",
+      "tr": "Yavaş yürüyelim; yolda sohbet de ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_075",
+      "speaker": "张乐乐",
+      "zh": "我想从公园的东门进去，那边比较近。",
+      "pinyin": "wǒ xiǎng cóng gōng yuán de dōng mén jìn qù ， nà biān bǐ jiào jìn 。",
+      "tr": "Parka doğu kapısından girelim, orası daha yakın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_076",
+      "speaker": "张雨桐",
+      "zh": "可以，到了以后再决定走哪条路。",
+      "pinyin": "kě yǐ ， dào le yǐ hòu zài jué dìng zǒu nǎ tiáo lù 。",
+      "tr": "Olur, varınca hangi yoldan gideceğimize karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_077",
+      "speaker": "张伟",
+      "zh": "公园里有一条平坦的小路，适合我们一起走。",
+      "pinyin": "gōng yuán lǐ yǒu yī tiáo píng tǎn de xiǎo lù ， shì hé wǒ men yì qǐ zǒu 。",
+      "tr": "Parkta düz bir yol var, birlikte yürümeye uygun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_078",
+      "speaker": "刘梅",
+      "zh": "那就走那条路，累了也容易停下来休息。",
+      "pinyin": "nà jiù zǒu nà tiáo lù ， lèi le yě róng yì tíng xià lái xiū xī 。",
+      "tr": "O yoldan gidelim; yorulursak durup dinlenebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_079",
+      "speaker": "张乐乐",
+      "zh": "要是我朋友打电话来，我可以边走边说吗？",
+      "pinyin": "yào shì wǒ péng yǒu dǎ diàn huà lái ， wǒ kě yǐ biān zǒu biān shuō ma ？",
+      "tr": "Arkadaşım ararsa yürürken konuşabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_080",
+      "speaker": "张雨桐",
+      "zh": "可以，不过注意看路，别走得太快。",
+      "pinyin": "kě yǐ ， bù guò zhù yì kàn lù ， bié zǒu dé tài kuài 。",
+      "tr": "Olur ama yola dikkat et, acele yürüme."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_081",
+      "speaker": "张伟",
+      "zh": "我会带上手机，但先把声音调小一点。",
+      "pinyin": "wǒ huì dài shàng shǒu jī ， dàn xiān bǎ shēng yīn diào xiǎo yì diǎn 。",
+      "tr": "Telefonumu alırım ama sesini kısarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_082",
+      "speaker": "刘梅",
+      "zh": "好的，大家都准备好了吗？",
+      "pinyin": "hǎo de ， dà jiā dōu zhǔn bèi hǎo le ma ？",
+      "tr": "Güzel, herkes hazır mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_083",
+      "speaker": "张乐乐",
+      "zh": "好了，我们现在出发吧。",
+      "pinyin": "hǎo le ， wǒ men xiàn zài chū fā ba 。",
+      "tr": "Hazırız, şimdi çıkalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_084",
+      "speaker": "张雨桐",
+      "zh": "今天走了以后，记得在日历上做个记号。",
+      "pinyin": "jīn tiān zǒu le yǐ hòu ， jì de zài rì lì shàng zuò gè jì hào 。",
+      "tr": "Bugünkü yürüyüşten sonra takvime işaret koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_085",
+      "speaker": "张伟",
+      "zh": "我来记，顺便写下我们走了多久。",
+      "pinyin": "wǒ lái jì ， shùn biàn xiě xià wǒ men zǒu le duō jiǔ 。",
+      "tr": "Ben not alıp ne kadar yürüdüğümüzü de yazarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_086",
+      "speaker": "刘梅",
+      "zh": "不用比谁走得多，舒服地坚持就行。",
+      "pinyin": "bù yòng bǐ shuí zǒu dé duō ， shū fú dì jiān chí jiù xíng 。",
+      "tr": "Kimin daha çok yürüdüğünü karşılaştırmaya gerek yok; rahatça sürdürmek yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_087",
+      "speaker": "张乐乐",
+      "zh": "说得对，运动是为了让生活更轻松。",
+      "pinyin": "shuō dé duì ， yùn dòng shì wèi le ràng shēng huó gèng qīng sōng 。",
+      "tr": "Doğru, egzersiz hayatı daha rahat kılmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_088",
+      "speaker": "张雨桐",
+      "zh": "我们下周还是按这几天安排吗？",
+      "pinyin": "wǒ men xià zhōu hái shì àn zhè jǐ tiān ān pái ma ？",
+      "tr": "Gelecek hafta da aynı günlerde mi yapalım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_089",
+      "speaker": "张伟",
+      "zh": "先试一周，如果大家都合适就继续。",
+      "pinyin": "xiān shì yī zhōu ， rú guǒ dà jiā dōu hé shì jiù jì xù 。",
+      "tr": "Önce bir hafta deneyelim; herkese uyarsa sürdürürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_090",
+      "speaker": "刘梅",
+      "zh": "要是星期二有人有事呢？",
+      "pinyin": "yào shì xīng qī èr yǒu rén yǒu shì ne ？",
+      "tr": "Salı günü birinin işi çıkarsa ne yapacağız?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_091",
+      "speaker": "张乐乐",
+      "zh": "那就一起商量换一天，不必勉强。",
+      "pinyin": "nà jiù yì qǐ shāng liáng huàn yī tiān ， bù bì miǎn qiǎng 。",
+      "tr": "Konuşup başka güne alırız, kendimizi zorlamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_092",
+      "speaker": "张雨桐",
+      "zh": "我喜欢这个办法，大家都有选择。",
+      "pinyin": "wǒ xǐ huān zhè ge bàn fǎ ， dà jiā dōu yǒu xuǎn zé 。",
+      "tr": "Bu çözüm hoşuma gitti, herkesin seçme şansı var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_093",
+      "speaker": "张伟",
+      "zh": "一家人一起计划，就容易做到。",
+      "pinyin": "yī jiā rén yì qǐ jì huà ， jiù róng yì zuò dào 。",
+      "tr": "Ailece plan yapınca uygulamak kolaylaşıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_094",
+      "speaker": "刘梅",
+      "zh": "每天的走路也可以按情况调整。",
+      "pinyin": "měi tiān de zǒu lù yě kě yǐ àn qíng kuàng tiáo zhěng 。",
+      "tr": "Günlük yürüyüşü de duruma göre ayarlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_095",
+      "speaker": "张乐乐",
+      "zh": "忙的时候少走一点，有空的时候再多走一会儿。",
+      "pinyin": "máng de shí hòu shǎo zǒu yì diǎn ， yǒu kòng de shí hòu zài duō zǒu yī huì er 。",
+      "tr": "Yoğunsak az, vaktimiz varsa biraz daha yürürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_096",
+      "speaker": "张雨桐",
+      "zh": "我每天放学后先完成作业，再看时间。",
+      "pinyin": "wǒ měi tiān fàng xué hòu xiān wán chéng zuò yè ， zài kàn shí jiān 。",
+      "tr": "Okuldan sonra önce ödevimi bitirip sonra duruma bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_097",
+      "speaker": "张伟",
+      "zh": "很好，做完以后我们一起下楼走走。",
+      "pinyin": "hěn hǎo ， zuò wán yǐ hòu wǒ men yì qǐ xià lóu zǒu zǒu 。",
+      "tr": "Güzel, ödevin bitince aşağı inip birlikte yürürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_098",
+      "speaker": "刘梅",
+      "zh": "我会提醒你，不过不会一直催你。",
+      "pinyin": "wǒ huì tí xǐng nǐ ， bù guò bú huì yì zhí cuī nǐ 。",
+      "tr": "Sana hatırlatırım ama sürekli acele ettirmem."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_099",
+      "speaker": "张乐乐",
+      "zh": "谢谢妈妈，这样听起来轻松多了。",
+      "pinyin": "xiè xiè mā mā ， zhè yàng tīng qǐ lái qīng sōng duō le 。",
+      "tr": "Sağ ol anne, kulağa daha kolay geliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC040_100",
+      "speaker": "张雨桐",
+      "zh": "我也会尽量早点回家，赶上大家散步。",
+      "pinyin": "wǒ yě huì jǐn liàng zǎo diǎn huí jiā ， gǎn shàng dà jiā sàn bù 。",
+      "tr": "Herkes yürüyüşe yetişsin diye ben de eve erken gelmeye çalışırım."
+    }
+  ]
+}

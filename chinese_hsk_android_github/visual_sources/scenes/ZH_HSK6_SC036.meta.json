@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC036.json",
-  "dialogueSha256": "b407fd1772751c0d472babf8af8e210abe11a54d8afdf0939fbe87c1cbd3fd0b",
+  "dialogueSha256": "705a567910717b988a0de5b4bf640457f5f277e04b412bfe7fa48779f38d897b",
   "titleZh": "洪水预警",
   "titleTr": "Kasabada Sel Tehdidi",
   "locationId": "LOC_ZH_TOWN_CENTER_001",

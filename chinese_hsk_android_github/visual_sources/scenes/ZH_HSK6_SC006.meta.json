@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC006.json",
-  "dialogueSha256": "1c0cc8001a73d7e5de47271781c9b5b2b97f733513b2ace7a1acea5da1358bf2",
+  "dialogueSha256": "6db96ce526f6bc037ea606be115497b9d8a235bfbc6c8be37ce8f492901f2aae",
   "titleZh": "婚礼场地出问题了",
   "titleTr": "Düğün Mekânı Krizi",
   "locationId": "LOC_ZH_WEDDING_VENUE_001",

@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK5_SC044",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC044.json",
-  "dialogueSha256": "01e4e9a4e9f3457d72a75639ea183eeb15425d65c81ee74a5e30f2b3e5c3836f",
+  "dialogueSha256": "270ade16150ac80e0dda22486e2e331871840ad4e61fce1816624b910c581c55",
   "titleZh": "年轻志愿者来到咖啡馆",
   "titleTr": "Gönüllü Gençler Kafede",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
@@ -69,5 +69,5 @@
   },
   "narrationPresentation": null,
   "styleReferenceSceneId": "ZH_HSK5_SC040",
-  "qaNoteTr": "HSK5 SC041-SC050 grubu; SC030 aile/stil referansı ve HSK5 olgunluk kilidi korundu. Kaynak kadrosu, 9:16 WebP ve hash kontrolleri geçti. APK build başlatılmadı."
+  "qaNoteTr": "SC044 diyalog akışı bağışların sınıflandırılması, güvenli taşınması ve teslimine göre tamamlandı; sabit 100 tur/konuşmacı sırası korundu."
 }

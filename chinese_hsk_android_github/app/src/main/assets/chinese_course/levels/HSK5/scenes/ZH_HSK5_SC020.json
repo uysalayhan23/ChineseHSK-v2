@@ -11,702 +11,702 @@
     {
       "id": "DLG_ZH_HSK5_SC020_001",
       "speaker": "刘梅",
-      "zh": "最近我一直在想涨价这件事。",
-      "pinyin": "Zuìjìn wǒ yìzhí zài xiǎng zhǎngjià zhèjiàn shì.",
-      "tr": "Son zamanlarda fiyat artırmak meselesini düşünüyorum."
+      "zh": "最近原材料和经营成本都涨了，我在考虑菜单价格要不要调整。",
+      "pinyin": "Zuì jìn yuán cái liào hé jīng yíng chéng běn dōu zhǎng le wǒ zài kǎo lǜ cài dān jià gé yào bù yào tiáo zhěng",
+      "tr": "Son zamanlarda hammadde ve işletme maliyetleri arttı; menü fiyatlarını değiştirip değiştirmememiz gerektiğini düşünüyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_002",
       "speaker": "张伟",
-      "zh": "最近我一直在想顾客期待这件事。",
-      "pinyin": "Zuìjìn wǒ yìzhí zài xiǎng gùkè qīdài zhèjiàn shì.",
-      "tr": "Son zamanlarda müşteri beklentisi meselesini düşünüyorum."
+      "zh": "我整理了近期的数据，也想听听顾客对价格和服务的期待。",
+      "pinyin": "Wǒ zhěng lǐ le jìn qī de shù jù yě xiǎng tīng tīng gù kè duì jià gé hé fú wù de qī dài",
+      "tr": "Yakın dönemin verilerini düzenledim; müşterilerin fiyat ve hizmet beklentilerini de duymak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_003",
       "speaker": "顾客",
-      "zh": "顾客的意见很重要，但也要看是不是普遍情况。",
-      "pinyin": "Gùkè de yìjiàn hěn zhòngyào, dàn yě yào kàn shìbúshì pǔbiàn qíngkuàng.",
-      "tr": "Müşteri görüşü önemli ama bunun yaygın bir durum olup olmadığına da bakmalıyız."
+      "zh": "我常买的饮品如果要涨价，希望店里先说明原因。",
+      "pinyin": "Wǒ cháng mǎi de yǐn pǐn rú guǒ yào zhǎng jià xī wàng diàn lǐ xiān shuō míng yuán yīn",
+      "tr": "Sık aldığım içeceğin fiyatı artacaksa işletmenin önce nedenini açıklamasını isterim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_004",
       "speaker": "经理",
-      "zh": "先把成本上限说清楚，后面做选择会容易很多。",
-      "pinyin": "Xiān bǎ chéngběn shàngxiàn shuō qīngchǔ, hòumiàn zuò xuǎnzé huì róngyì hěnduō.",
-      "tr": "Önce maliyet sınırını netleştirirsek sonrasında seçim yapmak çok daha kolay olur."
+      "zh": "先算清成本涨幅和涉及的饮品，再讨论要不要调整价格。",
+      "pinyin": "Xiān suàn qīng chéng běn zhǎng fú hé shè jí de yǐn pǐn zài tǎo lùn yào bù yào tiáo zhěng jià gé",
+      "tr": "Fiyat değişikliğini konuşmadan önce maliyet artışını ve etkilenen içecekleri netleştirelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_005",
       "speaker": "刘梅",
-      "zh": "这个想法可以保留，不过最好先做一个简单测试。",
-      "pinyin": "Zhège xiǎngfǎ kěyǐ bǎoliú, bùguò zuìhǎo xiān zuò yígè jiǎndān cèshì.",
-      "tr": "Bu fikir kalabilir ama önce basit bir deneme yapmak iyi olur."
+      "zh": "我们可以先评估几种办法，不急着定最终价格。",
+      "pinyin": "Wǒ men kě yǐ xiān píng gū jǐ zhǒng bàn fǎ bù jí zhe dìng zuì zhōng jià gé",
+      "tr": "Birkaç seçeneği önce değerlendirebiliriz; son fiyatı hemen belirlemeyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_006",
       "speaker": "张伟",
-      "zh": "如果实际效果不好，我们就及时改，不必硬撑。",
-      "pinyin": "Rúguǒ shíjìxiàoguǒ bùhǎo, wǒmen jiù jíshí gǎi, bùbì yìngchēng.",
-      "tr": "Gerçek sonuç iyi olmazsa zamanında değiştiririz; ısrar etmeye gerek yok."
+      "zh": "如果涨幅有限，先减少损耗或调整采购，也可能解决一部分问题。",
+      "pinyin": "Rú guǒ zhǎng fú yǒu xiàn xiān jiǎn shǎo sǔn hào huò tiáo zhěng cǎi gòu yě kě néng jiě jué yī bù fèn wèn tí",
+      "tr": "Artış sınırlıysa israfı azaltmak ya da satın alma biçimini değiştirmek sorunun bir kısmını çözebilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_007",
       "speaker": "顾客",
-      "zh": "如果现在涨价，老顾客可能会有意见。",
-      "pinyin": "Rúguǒ xiànzài zhǎngjià, lǎo gùkè kěnéng huì yǒu yìjiàn.",
-      "tr": "Şimdi fiyat artırırsak düzenli müşteriler itiraz edebilir."
+      "zh": "如果现在涨价，老顾客可能不适应，最好提前告诉大家。",
+      "pinyin": "Rú guǒ xiàn zài zhǎng jià lǎo gù kè kě néng bù shì yīng zuì hǎo tí qián gào sù dà jiā",
+      "tr": "Şimdi fiyat artırırsanız uzun süredir gelen müşteriler alışmakta zorlanabilir; herkese önceden haber vermeniz iyi olur."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_008",
       "speaker": "经理",
-      "zh": "这条信息很重要。",
-      "pinyin": "Zhè tiáo xìnxī hěn zhòngyào.",
-      "tr": "Bu bilgi çok kritik."
+      "zh": "老顾客的顾虑我们会记下来，也要看看有多少人有同样的想法。",
+      "pinyin": "Lǎo gù kè de gù lǜ wǒ men huì jì xià lái yě yào kàn kàn yǒu duō shǎo rén yǒu tóng yàng de xiǎng fǎ",
+      "tr": "Uzun süredir gelen müşterilerin kaygılarını kaydedip kaç kişinin benzer düşündüğüne de bakacağız."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_009",
       "speaker": "刘梅",
-      "zh": "说到顾客期待，先把具体情况弄清楚会更好。",
-      "pinyin": "Shuō dào gùkè qīdài, xiān bǎ jùtǐqíngkuàng nòngqīngchǔ huì gènghǎo.",
-      "tr": "müşteri beklentisi konusunda önce somut durumu netleştirmek daha iyi olur."
+      "zh": "除了顾客的期待，我们还要核对每种饮品的实际成本。",
+      "pinyin": "Chú le gù kè de qī dài wǒ men hái yào hé duì měi zhǒng yǐn pǐn de shí jì chéng běn",
+      "tr": "Müşterilerin beklentilerinin yanında her içeceğin gerçek maliyetini de kontrol etmeliyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_010",
       "speaker": "张伟",
-      "zh": "不过，我希望最后的做法既让顾客舒服，也不会把员工累坏。",
-      "pinyin": "Bùguò, wǒ xīwàng zuìhòu de zuòfǎ jì ràng gùkè shūfú, yě búhuì bǎ yuángōng lèihuài.",
-      "tr": "Ancak, son yöntemin hem müşteriyi memnun etmesini hem de çalışanları yormamasını istiyorum."
+      "zh": "我会把成本、销量和顾客反馈放在一起看，不只看一个数字。",
+      "pinyin": "Wǒ huì bǎ chéng běn xiāo liàng hé gù kè fǎn kuì fàng zài yì qǐ kàn bù zhǐ kàn yí gè shù zì",
+      "tr": "Yalnızca tek bir sayıya değil, maliyetlere, satış miktarına ve müşteri geri bildirimlerine birlikte bakacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_011",
       "speaker": "顾客",
-      "zh": "经营成本这一点也值得认真考虑。",
-      "pinyin": "Jīngyíng chéngběn zhè yìdiǎn yě zhíde rènzhēn kǎolǜ.",
-      "tr": "işletme maliyeti noktası da ciddi biçimde değerlendirmeye değer."
+      "zh": "我理解原料变贵会影响经营，但也想知道涨价后服务会不会改善。",
+      "pinyin": "Wǒ lǐ jiě yuán liào biàn guì huì yǐng xiǎng jīng yíng dàn yě xiǎng zhī dào zhǎng jià hòu fú wù huì bú huì gǎi shàn",
+      "tr": "Hammaddenin pahalanmasının işletmeyi etkilediğini anlıyorum; yine de zamdan sonra hizmetin iyileşip iyileşmeyeceğini bilmek isterim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_012",
       "speaker": "经理",
-      "zh": "先把真正的问题说清楚，别急着找一个漂亮答案。",
-      "pinyin": "Xiān bǎ zhēnzhèng de wèntí shuō qīngchǔ, biéjí zhe zhǎo yígè piàoliàng dáàn.",
-      "tr": "Önce gerçek sorunu netleştirelim; kulağa güzel gelen bir cevap bulmak için acele etmeyelim."
+      "zh": "先把要解决的问题说清楚：是成本缺口，还是需要维持服务质量？",
+      "pinyin": "Xiān bǎ yào jiě jué de wèn tí shuō qīng chǔ shì chéng běn quē kǒu hái shì xū yào wéi chí fú wù zhì liàng",
+      "tr": "Önce çözmemiz gerekeni netleştirelim: maliyet açığı mı, hizmet kalitesini korumak mı?"
     },
     {
       "id": "DLG_ZH_HSK5_SC020_013",
       "speaker": "刘梅",
-      "zh": "如果价格的情况变了，后面的计划也得重新评估。",
-      "pinyin": "Rúguǒ jiàgé de qíngkuàng biàn le, hòumiàn de jìhuà yě dé chóngxīn pínggū.",
-      "tr": "Fiyat değişirse planı da ayarlamak gerekir."
+      "zh": "如果最后决定调价，我们要把生效时间和顾客沟通安排好。",
+      "pinyin": "Rú guǒ zuì hòu jué dìng diào jià wǒ men yào bǎ shēng xiào shí jiān hé gù kè gōu tōng ān pái hǎo",
+      "tr": "Sonunda fiyatı değiştirmeye karar verirsek yürürlük tarihini ve müşterilere nasıl duyuracağımızı planlamalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_014",
       "speaker": "张伟",
-      "zh": "换个角度看，每个人看到的角度不一样，把这些角度放在一起会更完整。",
-      "pinyin": "Huàngè jiǎodùkàn, měigè rén kàndào de jiǎodù bù yīyàng, bǎ zhèxiē jiǎodù fàngzài yìqǐ huì gèng wánzhěng.",
-      "tr": "Başka bir açıdan bakarsak, herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+      "zh": "我们需要平衡顾客能接受的价格和店里持续经营的成本。",
+      "pinyin": "Wǒ men xū yào píng héng gù kè néng jiē shòu de jià gé hé diàn lǐ chí xù jīng yíng de chéng běn",
+      "tr": "Müşterilerin kabul edebileceği fiyatla işletmenin sürdürülebilir maliyetleri arasında denge kurmalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_015",
       "speaker": "顾客",
-      "zh": "说到公平，顾客和成本两边都得看看。",
-      "pinyin": "Shuō dào gōngpíng, gùkè hé chéngběn liǎngbiān dōu dé kànkàn.",
-      "tr": "Adalet / hakkaniyet konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "我希望不同饮品的涨幅有依据，店里也能把理由解释清楚。",
+      "pinyin": "Wǒ xī wàng bù tóng yǐn pǐn de zhǎng fú yǒu yī jù diàn lǐ yě néng bǎ lǐ yóu jiě shì qīng chǔ",
+      "tr": "Farklı içeceklerdeki artışın bir dayanağı olmasını ve işletmenin nedenini açıklayabilmesini isterim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_016",
       "speaker": "经理",
-      "zh": "先确认我们已经知道什么，再说还缺什么信息。",
-      "pinyin": "Xiān quèrèn wǒmen yǐjīng zhīdào shénme, zàishuō hái quēshénme xìnxī.",
-      "tr": "Önce ne bildiğimizi netleştirelim, sonra hangi bilginin eksik olduğunu konuşalım."
+      "zh": "那我们先补齐成本、销量和顾客意见，再决定还缺什么信息。",
+      "pinyin": "Nà wǒ men xiān bǔ qí chéng běn xiāo liàng hé gù kè yì jiàn zài jué dìng hái quē shén me xìn xī",
+      "tr": "Önce maliyetleri, satışları ve müşteri görüşlerini tamamlayalım; sonra hangi bilginin eksik olduğuna karar veririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_017",
       "speaker": "刘梅",
-      "zh": "关于生意，我们还是结合实际情况来看。",
-      "pinyin": "Guānyú shēngyì, wǒmen háishì jiéhéshíjì qíngkuàng láikàn.",
-      "tr": "iş / ticaret konusunda yine gerçek duruma bakmak gerekir."
+      "zh": "我们会结合这家店的经营情况，不直接照搬别人的做法。",
+      "pinyin": "Wǒ men huì jié hé zhè jiā diàn de jīng yíng qíng kuàng bù zhí jiē zhào bān bié rén de zuò fǎ",
+      "tr": "Başka işletmelerin uygulamasını doğrudan kopyalamadan bu dükkânın durumuna göre karar veririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_018",
       "speaker": "张伟",
-      "zh": "有不同意见没关系，只要理由说得清楚就能继续谈。",
-      "pinyin": "Yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
-      "tr": "Farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+      "zh": "如果大家看法不同，就把各自的依据摆出来再比较。",
+      "pinyin": "Rú guǒ dà jiā kàn fǎ bù tóng jiù bǎ gè zì de yī jù bǎi chū lái zài bǐ jiào",
+      "tr": "Fikirler farklıysa herkes dayanağını ortaya koysun, sonra karşılaştıralım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_019",
       "speaker": "顾客",
-      "zh": "如果能提前沟通，后面会顺利很多。",
-      "pinyin": "Rúguǒ néng tíqián gōutōng, hòumiàn huì shùnlì hěnduō.",
-      "tr": "Önceden iletişim kurmak mümkün olursa sonrası çok daha rahat ilerler."
+      "zh": "如果要调整，请提前说明新价格和生效日期，让顾客有时间考虑。",
+      "pinyin": "Rú guǒ yào tiáo zhěng qǐng tí qián shuō míng xīn jià gé hé shēng xiào rì qī ràng gù kè yǒu shí jiān kǎo lǜ",
+      "tr": "Değişiklik olacaksa yeni fiyatı ve yürürlük tarihini önceden duyurun ki müşterilerin düşünmeye zamanı olsun."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_020",
       "speaker": "经理",
-      "zh": "如果现在还不能确定，就先保留一点调整空间。",
-      "pinyin": "Rúguǒ xiànzài hái bùnéng quèdìng, jiù xiān bǎoliú yìdiǎn tiáozhěng kōngjiān.",
-      "tr": "Şu anda kesinleştiremiyorsak biraz uyum payı bırakalım."
+      "zh": "我们先留出调整空间，等数据和顾客反馈齐了再定。",
+      "pinyin": "Wǒ men xiān liú chū tiáo zhěng kōng jiān děng shù jù hé gù kè fǎn kuì qí le zài dìng",
+      "tr": "Veriler ve müşteri geri bildirimleri tamamlanana kadar değişiklik için seçenek bırakalım; sonra karar veririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_021",
       "speaker": "刘梅",
-      "zh": "如果信任的情况变了，后面的计划也得重新评估。",
-      "pinyin": "Rúguǒ xìnrèn de qíngkuàng biàn le, hòumiàn de jìhuà yě dé chóngxīn pínggū.",
-      "tr": "Güven değişirse planı da ayarlamak gerekir."
+      "zh": "如果顾客觉得涨价没有解释清楚，彼此的信任也会受影响。",
+      "pinyin": "Rú guǒ gù kè jué de zhǎng jià méi yǒu jiě shì qīng chǔ bǐ cǐ de xìn rèn yě huì shòu yǐng xiǎng",
+      "tr": "Müşteriler zammın iyi açıklanmadığını düşünürse karşılıklı güven de etkilenir."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_022",
       "speaker": "张伟",
-      "zh": "我更关心这个选择实际会带来什么变化。",
-      "pinyin": "Wǒ gèng guānxīn zhège xuǎnzé shíjì huì dàilái shénme biànhuà.",
-      "tr": "Ben daha çok bu seçimin gerçekte neyi değiştireceğini önemsiyorum."
+      "zh": "我会比较不同方案对销量、成本和顾客选择的实际影响。",
+      "pinyin": "Wǒ huì bǐ jiào bù tóng fāng àn duì xiāo liàng chéng běn hé gù kè xuǎn zé de shí jì yǐng xiǎng",
+      "tr": "Farklı seçeneklerin satışa, maliyete ve müşteri tercihine gerçek etkisini karşılaştıracağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_023",
       "speaker": "顾客",
-      "zh": "先别把问题想得太抽象，回到具体情况会更容易判断。",
-      "pinyin": "Xiānbié bǎ wèntí xiǎng dé tài chōuxiàng, huídào jùtǐqíngkuàng huì gèng róngyì pànduàn.",
-      "tr": "Sorunu fazla soyutlaştırmayalım; somut duruma dönmek değerlendirmeyi kolaylaştırır."
+      "zh": "先看具体饮品和价格变化，抽象地谈公平不容易判断。",
+      "pinyin": "Xiān kàn jù tǐ yǐn pǐn hé jià gé biàn huà chōu xiàng dì tán gōng píng bù róng yì pàn duàn",
+      "tr": "Soyut biçimde adaleti tartışmak yerine belirli içeceklere ve fiyat değişikliklerine bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_024",
       "speaker": "经理",
-      "zh": "另外，我们先处理最关键的一点，再看其他细节。",
-      "pinyin": "Lìngwài, wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
-      "tr": "Ayrıca, önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+      "zh": "我们先列出已经掌握的数据，再标出还需要询问的部分。",
+      "pinyin": "Wǒ men xiān liè chū yǐ jīng zhǎng wò de shù jù zài biāo chū hái xū yào xún wèn de bù fèn",
+      "tr": "Önce elimizdeki verileri listeleyip sorulması gerekenleri işaretleyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_025",
       "speaker": "刘梅",
-      "zh": "不过，这个想法可以继续讨论，不过最好再确认一下实际条件。",
-      "pinyin": "Bùguò, zhège xiǎngfǎ kěyǐ jìxù tǎolùn, bùguò zuìhǎo zài quèrèn yīxià shíjì tiáojiàn.",
-      "tr": "Ancak, bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+      "zh": "先核对顾客能接受的幅度和成本底线，再决定是否调价。",
+      "pinyin": "Xiān hé duì gù kè néng jiē shòu de fú dù hé chéng běn dǐ xiàn zài jué dìng shì fǒu tiáo jià",
+      "tr": "Fiyatı değiştirip değiştirmemeye karar vermeden önce müşterilerin kabul edebileceği aralığı ve maliyet sınırını doğrulayalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_026",
       "speaker": "张伟",
-      "zh": "其实，我同意方向，不过执行的时候需要留一点余地。",
-      "pinyin": "Qíshí, wǒ tóngyì fāngxiàng, bùguò zhíxíng de shíhòu xūyào liú yìdiǎn yúdì.",
-      "tr": "Aslında, yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+      "zh": "我同意先核实数据，执行时也要留出根据反馈调整的空间。",
+      "pinyin": "Wǒ tóng yì xiān hé shí shù jù zhí xíng shí yě yào liú chū gēn jù fǎn kuì tiáo zhěng de kōng jiān",
+      "tr": "Önce verileri doğrulamaya katılıyorum; uygularken geri bildirime göre değişiklik yapmaya da alan bırakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_027",
       "speaker": "顾客",
-      "zh": "如果出现新情况，我们就根据新的事实调整。",
-      "pinyin": "Rúguǒ chūxiàn xīn qíngkuàng, wǒmen jiù gēnjù xīn de shìshí tiáozhěng.",
-      "tr": "Yeni bir durum çıkarsa yeni olgulara göre ayarlarız."
+      "zh": "如果试行后发现顾客反应不同，我们就按新的情况再评估。",
+      "pinyin": "Rú guǒ shì xíng hòu fā xiàn gù kè fǎn yìng bù tóng wǒ men jiù àn xīn de qíng kuàng zài píng gū",
+      "tr": "Denemeden sonra müşteri tepkilerinin farklı olduğunu görürsek yeni duruma göre yeniden değerlendiririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_028",
       "speaker": "经理",
-      "zh": "不用追求一次把所有问题都解决，先把下一步走稳。",
-      "pinyin": "Bùyòng zhuīqiú yīcì bǎ suǒyǒu wèntí dōu jiějué, xiān bǎ xià yībù zǒuwěn.",
-      "tr": "Bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+      "zh": "先定一个复核日期，收集到信息后再决定下一步。",
+      "pinyin": "Xiān dìng yí gè fù hé rì qī shōu jí dào xìn xī hòu zài jué dìng xià yī bù",
+      "tr": "Bir gözden geçirme tarihi belirleyelim; bilgileri topladıktan sonra sonraki adıma karar veririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_029",
       "speaker": "刘梅",
-      "zh": "我们至少已经知道彼此最在意什么了。",
-      "pinyin": "Wǒmen zhìshǎo yǐjīng zhīdào bǐcǐ zuì zàiyì shénme le.",
-      "tr": "En azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+      "zh": "我们都希望价格调整有依据，也让顾客听得明白。",
+      "pinyin": "Wǒ men dōu xī wàng jià gé tiáo zhěng yǒu yī jù yě ràng gù kè tīng dé míng bái",
+      "tr": "Hepimiz fiyat değişikliğinin bir dayanağı olmasını ve müşterilerin bunu anlayabilmesini istiyoruz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_030",
       "speaker": "张伟",
-      "zh": "把责任和时间说清楚，后面执行会容易很多。",
-      "pinyin": "Bǎ zérèn hé shíjiān shuō qīngchǔ, hòumiàn zhíxíng huì róngyì hěnduō.",
-      "tr": "Sorumlulukları ve zamanı netleştirince uygulama çok daha kolay olur."
+      "zh": "我来整理成本和销量，经理确认执行步骤，之后再一起复核。",
+      "pinyin": "Wǒ lái zhěng lǐ chéng běn hé xiāo liàng jīng lǐ què rèn zhí xíng bù zhòu zhī hòu zài yì qǐ fù hé",
+      "tr": "Maliyetleri ve satışları ben düzenleyeyim, müdür uygulama adımlarını doğrulasın; sonra yeniden değerlendirelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_031",
       "speaker": "顾客",
-      "zh": "这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "Zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
-      "tr": "Bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "如果店里把理由和生效时间说明白，我愿意先观察一段时间。",
+      "pinyin": "Rú guǒ diàn lǐ bǎ lǐ yóu hé shēng xiào shí jiān shuō míng bái wǒ yuàn yì xiān guān chá yī duàn shí jiān",
+      "tr": "İşletme nedeni ve yürürlük tarihini açıkça bildirirse bir süre gözlemlemeye razıyım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_032",
       "speaker": "经理",
-      "zh": "今天先把能确定的部分定下来，剩下的以后继续聊。",
-      "pinyin": "Jīntiān xiān bǎ néng quèdìng de bùfèn dìng xiàlái, shèngxià de yǐhòu jìxù liáo.",
-      "tr": "Bugün netleştirebildiğimiz kısmı kararlaştıralım; kalanını sonra konuşuruz."
+      "zh": "好，决定前先把通知内容和复核时间写进计划。",
+      "pinyin": "Hǎo jué dìng qián xiān bǎ tōng zhī nèi róng hé fù hé shí jiān xiě jìn jì huà",
+      "tr": "Peki, karar vermeden önce duyuru metnini ve değerlendirme zamanını plana ekleyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_033",
       "speaker": "刘梅",
-      "zh": "另外，顾客的感受要看，成本和实际操作也不能忽略。",
-      "pinyin": "Lìngwài, gùkè de gǎnshòu yào kàn, chéngběn hé shíjìcāozuò yě bùnéng hūlüè.",
-      "tr": "Ayrıca, müşteri deneyimine bakmalıyız; maliyet ve uygulama tarafını da göz ardı edemeyiz."
+      "zh": "不只看顾客感受，也要确认成本和日常操作能不能承担。",
+      "pinyin": "Bù zhǐ kàn gù kè gǎn shòu yě yào què rèn chéng běn hé rì cháng cāo zuò néng bù néng chéng dān",
+      "tr": "Yalnızca müşteri hissine değil, maliyetin ve günlük işleyişin karşılanabilir olup olmadığına da bakmalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_034",
       "speaker": "张伟",
-      "zh": "先算清楚这件事会给店里带来什么实际变化。",
-      "pinyin": "Xiān suànqīngchǔ zhèjiàn shìhuì gěi diànlǐ dàilái shénme shíjì biànhuà.",
-      "tr": "Önce bunun işletmede gerçekte neyi değiştireceğini hesaplayalım."
+      "zh": "我会按饮品分别计算，不把销量差异很大的项目混在一起。",
+      "pinyin": "Wǒ huì àn yǐn pǐn fēn bié jì suàn bù bǎ xiāo liàng chā yì hěn dà de xiàng mù hùn zài yì qǐ",
+      "tr": "Satış miktarları çok farklı olan içecekleri karıştırmadan her birini ayrı hesaplayacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_035",
       "speaker": "顾客",
-      "zh": "如果顾客喜欢但店里做不下去，也不是一个长期办法。",
-      "pinyin": "Rúguǒ gùkè xǐhuān dàn diànlǐ zuò bù xiàqù, yě búshì yígè chángqī bànfǎ.",
-      "tr": "Müşteri sevse bile işletme sürdüremiyorsa uzun vadeli bir çözüm değildir."
+      "zh": "如果涨价后服务反而变差，顾客也很难接受。",
+      "pinyin": "Rú guǒ zhǎng jià hòu fú wù fǎn ér biàn chà gù kè yě hěn nán jiē shòu",
+      "tr": "Zamdan sonra hizmet kötüleşirse müşterilerin kabul etmesi de zor olur."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_036",
       "speaker": "经理",
-      "zh": "换个角度看，可以先小范围试一试，再根据顾客反应调整。",
-      "pinyin": "Huàngè jiǎodùkàn, kěyǐ xiānxiǎo fànwéi shìyīshì, zài gēnjù gùkè fǎnyìng tiáozhěng.",
-      "tr": "Başka bir açıdan bakarsak, önce küçük ölçekte deneyip müşteri tepkisine göre ayarlayabiliriz."
+      "zh": "可以先试一个范围有限的方案，再根据数据和反馈调整。",
+      "pinyin": "Kě yǐ xiān shì yí gè fàn wéi yǒu xiàn de fāng àn zài gēn jù shù jù hé fǎn kuì tiáo zhěng",
+      "tr": "Kapsamı sınırlı bir seçeneği deneyip verilere ve geri bildirime göre düzenleyebiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_037",
       "speaker": "刘梅",
-      "zh": "价格、品质和工作量最好放在一起看。",
-      "pinyin": "Jiàgé、 pǐnzhì hé gōngzuòliàng zuìhǎo fàngzài yìqǐ kàn.",
-      "tr": "Fiyatı, kaliteyi ve iş yükünü birlikte değerlendirmek en iyisi."
+      "zh": "计算时也要把品质和员工的工作量考虑进去。",
+      "pinyin": "Jì suàn shí yě yào bǎ pǐn zhì hé yuán gōng de gōng zuò liàng kǎo lǜ jìn qù",
+      "tr": "Hesaplamada kaliteyi ve çalışanların iş yükünü de göz önünde bulundurmalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_038",
       "speaker": "张伟",
-      "zh": "这件事不能只凭感觉，最好看看最近的实际数据。",
-      "pinyin": "Zhèjiàn shì bùnéng zhǐ pínggǎnjué, zuìhǎo kànkàn zuìjìn de shíjì shùjù.",
-      "tr": "Bunu yalnızca hisle değerlendirmeyelim; son dönemin gerçek verilerine bakalım."
+      "zh": "我会核对最近几个月的销售记录，并标出季节变化的影响。",
+      "pinyin": "Wǒ huì hé duì zuì jìn jǐ gè yuè de xiāo shòu jì lù bìng biāo chū jì jié biàn huà de yǐng xiǎng",
+      "tr": "Son birkaç aylık satış kayıtlarını kontrol edip mevsimsel değişikliklerin etkisini belirteceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_039",
       "speaker": "顾客",
-      "zh": "如果要改，最好先让员工知道为什么要改。",
-      "pinyin": "Rúguǒ yào gǎi, zuìhǎo xiān ràng yuángōng zhīdào wèishénme yào gǎi.",
-      "tr": "Değişiklik yapılacaksa çalışanlara nedenini önceden anlatmak iyi olur."
+      "zh": "如果要涨价，请让员工也知道原因，这样他们才能回答顾客。",
+      "pinyin": "Rú guǒ yào zhǎng jià qǐng ràng yuán gōng yě zhī dào yuán yīn zhè yàng tā men cái néng huí dá gù kè",
+      "tr": "Fiyat artacaksa çalışanlara da nedenini anlatın ki müşterilerin sorularını yanıtlayabilsinler."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_040",
       "speaker": "经理",
-      "zh": "我更担心的是，忙的时候这个办法还能不能正常执行。",
-      "pinyin": "Wǒ gèng dānxīn de shì, máng de shíhòu zhège bànfǎ hái néng bùnéng zhèngcháng zhíxíng.",
-      "tr": "Ben daha çok yoğun saatlerde bu yöntemin uygulanıp uygulanamayacağını düşünüyorum."
+      "zh": "我担心高峰时解释新价格会拖慢服务，最好准备简短统一的说法。",
+      "pinyin": "Wǒ dān xīn gāo fēng shí jiě shì xīn jià gé huì tuō màn fú wù zuì hǎo zhǔn bèi jiǎn duǎn tǒng yī de shuō fǎ",
+      "tr": "Yoğun saatlerde yeni fiyatı açıklamanın servisi yavaşlatmasından endişeliyim; kısa ve tutarlı bir açıklama hazırlayalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_041",
       "speaker": "刘梅",
-      "zh": "别一次改太多，先把最影响顾客体验的部分处理好。",
-      "pinyin": "Bié yīcì gǎitàiduō, xiān bǎ zuì yǐngxiǎng gùkè tǐyàn de bùfèn chǔlǐ hǎo.",
-      "tr": "Bir seferde çok fazla şeyi değiştirmeyelim; önce müşteri deneyimini en çok etkileyen kısmı düzeltelim."
+      "zh": "先别同时改所有价格，挑影响最清楚的项目逐步讨论。",
+      "pinyin": "Xiān bié tóng shí gǎi suǒ yǒu jià gé tiāo yǐng xiǎng zuì qīng chǔ de xiàng mù zhú bù tǎo lùn",
+      "tr": "Tüm fiyatları aynı anda değiştirmeyelim; etkisi en açık ürünleri seçip adım adım konuşalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_042",
       "speaker": "张伟",
-      "zh": "只要品质不受影响，细节上可以慢慢调整。",
-      "pinyin": "Zhǐyào pǐnzhì bù shòu yǐngxiǎng, xìjié shàng kěyǐ mànmàn tiáozhěng.",
-      "tr": "Kalite etkilenmediği sürece ayrıntıları zamanla ayarlayabiliriz."
+      "zh": "我会先确认替代材料和减少损耗的办法是否可行，再估算价格方案。",
+      "pinyin": "Wǒ huì xiān què rèn tì dài cái liào hé jiǎn shǎo sǔn hào de bàn fǎ shì fǒu kě xíng zài gū suàn jià gé fāng àn",
+      "tr": "Fiyat seçeneklerini hesaplamadan önce alternatif malzemenin ve fireyi azaltma yollarının uygulanabilirliğini doğrulayacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_043",
       "speaker": "顾客",
-      "zh": "不过，店里的办法最终还是要经得住每天实际使用。",
-      "pinyin": "Bùguò, diànlǐ de bànfǎ zuìzhōng háishì yào jīngdézhù měitiān shíjì shǐyòng.",
-      "tr": "Ancak, i̇şletmedeki yöntemler sonuçta günlük kullanımda işe yaramalı."
+      "zh": "我愿意观察店里的做法，但希望每天买到的品质保持稳定。",
+      "pinyin": "Wǒ yuàn yì guān chá diàn lǐ de zuò fǎ dàn xī wàng měi tiān mǎi dào de pǐn zhì bǎo chí wěn dìng",
+      "tr": "İşletmenin uygulamasını gözlemlemeye razıyım ama her gün aldığım ürünün kalitesinin aynı kalmasını isterim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_044",
       "speaker": "经理",
-      "zh": "其实，顾客的意见很重要，但也要看是不是普遍情况。",
-      "pinyin": "Qíshí, gùkè de yìjiàn hěn zhòngyào, dàn yě yào kàn shìbúshì pǔbiàn qíngkuàng.",
-      "tr": "Aslında, müşteri görüşü önemli ama bunun yaygın bir durum olup olmadığına da bakmalıyız."
+      "zh": "我们会把不同顾客的反馈分开记录，不把个别意见当成普遍结论。",
+      "pinyin": "Wǒ men huì bǎ bù tóng gù kè de fǎn kuì fēn kāi jì lù bù bǎ gè bié yì jiàn dàng chéng pǔ biàn jié lùn",
+      "tr": "Tekil görüşleri genel sonuç saymamak için farklı müşterilerin geri bildirimlerini ayrı kaydedeceğiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_045",
       "speaker": "刘梅",
-      "zh": "可以先小范围试一试，再根据顾客反应调整。",
-      "pinyin": "Kěyǐ xiānxiǎo fànwéi shìyīshì, zài gēnjù gùkè fǎnyìng tiáozhěng.",
-      "tr": "Önce küçük ölçekte deneyip müşteri tepkisine göre ayarlayabiliriz."
+      "zh": "可以先试一种成本变化明显的饮品，其他价格暂时不动。",
+      "pinyin": "Kě yǐ xiān shì yī zhǒng chéng běn biàn huà míng xiǎn de yǐn pǐn qí tā jià gé zàn shí bù dòng",
+      "tr": "Maliyet değişimi belirgin olan bir içeceği önce deneyebiliriz; diğer fiyatlar şimdilik aynı kalsın."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_046",
       "speaker": "张伟",
-      "zh": "不过，我更担心的是，忙的时候这个办法还能不能正常执行。",
-      "pinyin": "Bùguò, wǒ gèng dānxīn de shì, máng de shíhòu zhège bànfǎ hái néng bùnéng zhèngcháng zhíxíng.",
-      "tr": "Ancak, ben daha çok yoğun saatlerde bu yöntemin uygulanıp uygulanamayacağını düşünüyorum."
+      "zh": "我会观察高峰时服务有没有变慢，也看员工能不能清楚解释变化。",
+      "pinyin": "Wǒ huì guān chá gāo fēng shí fú wù yǒu méi yǒu biàn màn yě kàn yuán gōng néng bù néng qīng chǔ jiě shì biàn huà",
+      "tr": "Yoğun saatlerde servisin yavaşlayıp yavaşlamadığını ve çalışanların değişikliği açıkça anlatıp anlatamadığını gözlemleyeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_047",
       "speaker": "顾客",
-      "zh": "其实，别一次改太多，先把最影响顾客体验的部分处理好。",
-      "pinyin": "Qíshí, bié yīcì gǎitàiduō, xiān bǎ zuì yǐngxiǎng gùkè tǐyàn de bùfèn chǔlǐ hǎo.",
-      "tr": "Aslında, bir seferde çok fazla şeyi değiştirmeyelim; önce müşteri deneyimini en çok etkileyen kısmı düzeltelim."
+      "zh": "试行时请保留原来的选择，别让顾客觉得只能买涨价后的饮品。",
+      "pinyin": "Shì xíng shí qǐng bǎo liú yuán lái de xuǎn zé bié ràng gù kè jué de zhǐ néng mǎi zhǎng jià hòu de yǐn pǐn",
+      "tr": "Deneme sırasında mevcut seçeneği de koruyun; müşteriler zamlı içeceği almak zorunda hissetmesin."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_048",
       "speaker": "经理",
-      "zh": "我希望最后的做法既让顾客舒服，也不会把员工累坏。",
-      "pinyin": "Wǒ xīwàng zuìhòu de zuòfǎ jì ràng gùkè shūfú, yě búhuì bǎ yuángōng lèihuài.",
-      "tr": "Son yöntemin hem müşteriyi memnun etmesini hem de çalışanları yormamasını istiyorum."
+      "zh": "我们会提前给员工说明原因和应答方式，也安排时间收集他们的意见。",
+      "pinyin": "Wǒ men huì tí qián gěi yuán gōng shuō míng yuán yīn hé yìng dá fāng shì yě ān pái shí jiān shōu jí tā men de yì jiàn",
+      "tr": "Çalışanlara nedeni ve nasıl yanıt vereceklerini önceden anlatıp görüşlerini almak için de zaman ayıracağız."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_049",
       "speaker": "刘梅",
-      "zh": "店里的办法最终还是要经得住每天实际使用。",
-      "pinyin": "Diànlǐ de bànfǎ zuìzhōng háishì yào jīngdézhù měitiān shíjì shǐyòng.",
-      "tr": "İşletmedeki yöntemler sonuçta günlük kullanımda işe yaramalı."
+      "zh": "每天的操作情况也要记录，看看新价格是否让点单和结账更复杂。",
+      "pinyin": "Měi tiān de cāo zuò qíng kuàng yě yào jì lù kàn kàn xīn jià gé shì fǒu ràng diǎn dān hé jié zhàng gèng fù zá",
+      "tr": "Yeni fiyatların sipariş ve ödemeyi zorlaştırıp zorlaştırmadığını görmek için günlük işlemleri de kaydedelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_050",
       "speaker": "张伟",
-      "zh": "每个人看到的角度不一样，把这些角度放在一起会更完整。",
-      "pinyin": "Měigè rén kàndào de jiǎodù bù yīyàng, bǎ zhèxiē jiǎodù fàngzài yìqǐ huì gèng wánzhěng.",
-      "tr": "Herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+      "zh": "我会把顾客反馈和销售记录放在一起分析，不单凭感觉判断。",
+      "pinyin": "Wǒ huì bǎ gù kè fǎn kuì hé xiāo shòu jì lù fàng zài yì qǐ fēn xī bù dān píng gǎn jué pàn duàn",
+      "tr": "Hislerimize göre karar vermemek için müşteri geri bildirimlerini satış kayıtlarıyla birlikte inceleyeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_051",
       "speaker": "顾客",
-      "zh": "另外，我希望最后的做法既让顾客舒服，也不会把员工累坏。",
-      "pinyin": "Lìngwài, wǒ xīwàng zuìhòu de zuòfǎ jì ràng gùkè shūfú, yě búhuì bǎ yuángōng lèihuài.",
-      "tr": "Ayrıca, son yöntemin hem müşteriyi memnun etmesini hem de çalışanları yormamasını istiyorum."
+      "zh": "我也不希望员工因为解释涨价而承受顾客的压力。",
+      "pinyin": "Wǒ yě bù xī wàng yuán gōng yīn wèi jiě shì zhǎng jià ér chéng shòu gù kè de yā lì",
+      "tr": "Fiyat artışını açıklamak zorunda kalan çalışanların müşteri baskısı yaşamasını da istemem."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_052",
       "speaker": "经理",
-      "zh": "不过，有不同意见没关系，只要理由说得清楚就能继续谈。",
-      "pinyin": "Bùguò, yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
-      "tr": "Ancak, farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+      "zh": "有不同意见时，我们就看数据和实际操作，不急着互相说服。",
+      "pinyin": "Yǒu bù tóng yì jiàn shí wǒ men jiù kàn shù jù hé shí jì cāo zuò bù jí zhe hù xiāng shuō fú",
+      "tr": "Fikir ayrılığı olursa birbirimizi ikna etmeye çalışmadan veriye ve uygulamaya bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_053",
       "speaker": "刘梅",
-      "zh": "不过，顾客的感受要看，成本和实际操作也不能忽略。",
-      "pinyin": "Bùguò, gùkè de gǎnshòu yào kàn, chéngběn hé shíjìcāozuò yě bùnéng hūlüè.",
-      "tr": "Ancak, müşteri deneyimine bakmalıyız; maliyet ve uygulama tarafını da göz ardı edemeyiz."
+      "zh": "评估时既要看顾客能否接受，也要确认门店是否能承担成本。",
+      "pinyin": "Píng gū shí jì yào kàn gù kè néng fǒu jiē shòu yě yào què rèn mén diàn shì fǒu néng chéng dān chéng běn",
+      "tr": "Değerlendirmede hem müşterilerin kabul edip etmediğine hem işletmenin maliyeti karşılayıp karşılayamadığına bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_054",
       "speaker": "张伟",
-      "zh": "换个角度看，我更关心这个选择实际会带来什么变化。",
-      "pinyin": "Huàngè jiǎodùkàn, wǒ gèng guānxīn zhège xuǎnzé shíjì huì dàilái shénme biànhuà.",
-      "tr": "Başka bir açıdan bakarsak, ben daha çok bu seçimin gerçekte neyi değiştireceğini önemsiyorum."
+      "zh": "我会比较调整前后的销量、毛利和顾客反馈，再说明差别。",
+      "pinyin": "Wǒ huì bǐ jiào tiáo zhěng qián hòu de xiāo liàng máo lì hé gù kè fǎn kuì zài shuō míng chā bié",
+      "tr": "Farkı açıklamak için değişiklik öncesi ve sonrası satışları, kâr marjını ve müşteri geri bildirimlerini karşılaştıracağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_055",
       "speaker": "顾客",
-      "zh": "另外，别一次改太多，先把最影响顾客体验的部分处理好。",
-      "pinyin": "Lìngwài, bié yīcì gǎitàiduō, xiān bǎ zuì yǐngxiǎng gùkè tǐyàn de bùfèn chǔlǐ hǎo.",
-      "tr": "Ayrıca, bir seferde çok fazla şeyi değiştirmeyelim; önce müşteri deneyimini en çok etkileyen kısmı düzeltelim."
+      "zh": "如果试行让服务变复杂，我们就先简化步骤，不急着推广。",
+      "pinyin": "Rú guǒ shì xíng ràng fú wù biàn fù zá wǒ men jiù xiān jiǎn huà bù zhòu bù jí zhe tuī guǎng",
+      "tr": "Deneme hizmeti karmaşıklaştırırsa yaygınlaştırmaya acele etmeden önce adımları sadeleştirelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_056",
       "speaker": "经理",
-      "zh": "我们先处理最关键的一点，再看其他细节。",
-      "pinyin": "Wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
-      "tr": "Önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+      "zh": "先决定哪项数据最重要，其他细节等试行后再看。",
+      "pinyin": "Xiān jué dìng nǎ xiàng shù jù zuì zhòng yào qí tā xì jié děng shì xíng hòu zài kàn",
+      "tr": "Önce en önemli veriyi belirleyelim; diğer ayrıntılara denemeden sonra bakarız."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_057",
       "speaker": "刘梅",
-      "zh": "这个想法可以继续讨论，不过最好再确认一下实际条件。",
-      "pinyin": "Zhège xiǎngfǎ kěyǐ jìxù tǎolùn, bùguò zuìhǎo zài quèrèn yīxià shíjì tiáojiàn.",
-      "tr": "Bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+      "zh": "试行前把饮品、时间和记录方式定好，结果才容易比较。",
+      "pinyin": "Shì xíng qián bǎ yǐn pǐn shí jiān hé jì lù fāng shì dìng hǎo jié guǒ cái róng yì bǐ jiào",
+      "tr": "Sonuçları kolayca karşılaştırabilmek için denemeden önce içeceği, süreyi ve kayıt yöntemini belirleyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_058",
       "speaker": "张伟",
-      "zh": "我同意方向，不过执行的时候需要留一点余地。",
-      "pinyin": "Wǒ tóngyì fāngxiàng, bùguò zhíxíng de shíhòu xūyào liú yìdiǎn yúdì.",
-      "tr": "Yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+      "zh": "我会用最近的销售记录作基准，试行后按同一方法核对。",
+      "pinyin": "Wǒ huì yòng zuì jìn de xiāo shòu jì lù zuò jī zhǔn shì xíng hòu àn tóng yī fāng fǎ hé duì",
+      "tr": "Başlangıç ölçütü olarak son satış kayıtlarını kullanıp denemeden sonra aynı yöntemle kontrol edeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_059",
       "speaker": "顾客",
-      "zh": "其实，店里的办法最终还是要经得住每天实际使用。",
-      "pinyin": "Qíshí, diànlǐ de bànfǎ zuìzhōng háishì yào jīngdézhù měitiān shíjì shǐyòng.",
-      "tr": "Aslında, i̇şletmedeki yöntemler sonuçta günlük kullanımda işe yaramalı."
+      "zh": "只要选择还是自愿的，我愿意参加这次小范围试行。",
+      "pinyin": "Zhǐ yào xuǎn zé hái shì zì yuàn de wǒ yuàn yì cān jiā zhè cì xiǎo fàn wéi shì xíng",
+      "tr": "Seçim gönüllü olduğu sürece bu küçük ölçekli denemeye katılmaya razıyım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_060",
       "speaker": "经理",
-      "zh": "另外，不用追求一次把所有问题都解决，先把下一步走稳。",
-      "pinyin": "Lìngwài, bùyòng zhuīqiú yīcì bǎ suǒyǒu wèntí dōu jiějué, xiān bǎ xià yībù zǒuwěn.",
-      "tr": "Ayrıca, bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+      "zh": "我会安排经理每周汇总一次数据，发现问题就及时反馈。",
+      "pinyin": "Wǒ huì ān pái jīng lǐ měi zhōu huì zǒng yī cì shù jù fā xiàn wèn tí jiù jí shí fǎn kuì",
+      "tr": "Bir sorun çıkarsa hemen bildirilmesi için müdürden verileri haftada bir toplamasını isteyeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_061",
       "speaker": "刘梅",
-      "zh": "不过，我们至少已经知道彼此最在意什么了。",
-      "pinyin": "Bùguò, wǒmen zhìshǎo yǐjīng zhīdào bǐcǐ zuì zàiyì shénme le.",
-      "tr": "Ancak, en azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+      "zh": "目前大家最在意的是价格理由、服务速度和品质能否保持。",
+      "pinyin": "Mù qián dà jiā zuì zài yì de shì jià gé lǐ yóu fú wù sù dù hé pǐn zhì néng fǒu bǎo chí",
+      "tr": "Şu anda herkesin en çok önem verdiği noktalar fiyatın gerekçesi, servis hızı ve kalitenin korunması."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_062",
       "speaker": "张伟",
-      "zh": "其实，把责任和时间说清楚，后面执行会容易很多。",
-      "pinyin": "Qíshí, bǎ zérèn hé shíjiān shuō qīngchǔ, hòumiàn zhíxíng huì róngyì hěnduō.",
-      "tr": "Aslında, sorumlulukları ve zamanı netleştirince uygulama çok daha kolay olur."
+      "zh": "我负责整理价格和销量，经理负责记录服务情况，我们周五一起复核。",
+      "pinyin": "Wǒ fù zé zhěng lǐ jià gé hé xiāo liàng jīng lǐ fù zé jì lù fú wù qíng kuàng wǒ men zhōu wǔ yì qǐ fù hé",
+      "tr": "Fiyatları ve satışları ben düzenleyeyim; müdür servis durumunu kaydetsin, cuma günü birlikte gözden geçirelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_063",
       "speaker": "顾客",
-      "zh": "换个角度看，这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "Huàngè jiǎodùkàn, zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
-      "tr": "Başka bir açıdan bakarsak, bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "试行结果不好也可以停止，不必因为已经开始就一直做下去。",
+      "pinyin": "Shì xíng jié guǒ bù hǎo yě kě yǐ tíng zhǐ bù bì yīn wèi yǐ jīng kāi shǐ jiù yì zhí zuò xià qù",
+      "tr": "Deneme sonucu iyi olmazsa durdurabiliriz; başlamış olmak devam etmemizi gerektirmez."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_064",
       "speaker": "经理",
-      "zh": "换个角度看，顾客的意见很重要，但也要看是不是普遍情况。",
-      "pinyin": "Huàngè jiǎodùkàn, gùkè de yìjiàn hěn zhòngyào, dàn yě yào kàn shìbúshì pǔbiàn qíngkuàng.",
-      "tr": "Başka bir açıdan bakarsak, müşteri görüşü önemli ama bunun yaygın bir durum olup olmadığına da bakmalıyız."
+      "zh": "我们会把反馈和销售放在一起看，再决定是否继续。",
+      "pinyin": "Wǒ men huì bǎ fǎn kuì hé xiāo shòu fàng zài yì qǐ kàn zài jué dìng shì fǒu jì xù",
+      "tr": "Devam edip etmeyeceğimize karar verirken geri bildirimleri ve satışları birlikte değerlendireceğiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_065",
       "speaker": "刘梅",
-      "zh": "顾客的感受要看，成本和实际操作也不能忽略。",
-      "pinyin": "Gùkè de gǎnshòu yào kàn, chéngběn hé shíjìcāozuò yě bùnéng hūlüè.",
-      "tr": "Müşteri deneyimine bakmalıyız; maliyet ve uygulama tarafını da göz ardı edemeyiz."
+      "zh": "顾客的感受、店里的成本和实际流程都要纳入决定。",
+      "pinyin": "Gù kè de gǎn shòu diàn lǐ de chéng běn hé shí jì liú chéng dōu yào nà rù jué dìng",
+      "tr": "Karara müşteri deneyimini, işletme maliyetlerini ve gerçek işleyişi dahil etmeliyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_066",
       "speaker": "张伟",
-      "zh": "其实，可以先小范围试一试，再根据顾客反应调整。",
-      "pinyin": "Qíshí, kěyǐ xiānxiǎo fànwéi shìyīshì, zài gēnjù gùkè fǎnyìng tiáozhěng.",
-      "tr": "Aslında, önce küçük ölçekte deneyip müşteri tepkisine göre ayarlayabiliriz."
+      "zh": "先试两周，期间记录销量、顾客反应和员工遇到的问题。",
+      "pinyin": "Xiān shì liǎng zhōu qī jiān jì lù xiāo liàng gù kè fǎn yìng hé yuán gōng yù dào de wèn tí",
+      "tr": "İki hafta deneyip bu sürede satışları, müşteri tepkilerini ve çalışanların karşılaştığı sorunları kaydedelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_067",
       "speaker": "顾客",
-      "zh": "换个角度看，价格、品质和工作量最好放在一起看。",
-      "pinyin": "Huàngè jiǎodùkàn, jiàgé、 pǐnzhì hé gōngzuòliàng zuìhǎo fàngzài yìqǐ kàn.",
-      "tr": "Başka bir açıdan bakarsak, fiyatı, kaliteyi ve iş yükünü birlikte değerlendirmek en iyisi."
+      "zh": "我希望试行后能看见价格变化和服务质量之间的关系。",
+      "pinyin": "Wǒ xī wàng shì xíng hòu néng kàn jiàn jià gé biàn huà hé fú wù zhì liàng zhī jiān de guān xì",
+      "tr": "Denemeden sonra fiyat değişikliği ile hizmet kalitesi arasındaki ilişkiyi görebilmeyi umuyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_068",
       "speaker": "经理",
-      "zh": "可以先小范围试一试，再根据顾客反应调整。",
-      "pinyin": "Kěyǐ xiānxiǎo fànwéi shìyīshì, zài gēnjù gùkè fǎnyìng tiáozhěng.",
-      "tr": "Önce küçük ölçekte deneyip müşteri tepkisine göre ayarlayabiliriz."
+      "zh": "那就选两种销量稳定的饮料，先试行两周。",
+      "pinyin": "nà jiù xuǎn liǎng zhǒng xiāo liàng wěn dìng de yǐn liào ， xiān shì xíng liǎng zhōu 。",
+      "tr": "O halde satışı istikrarlı iki içecek seçip iki hafta deneyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_069",
       "speaker": "刘梅",
-      "zh": "另外，价格、品质和工作量最好放在一起看。",
-      "pinyin": "Lìngwài, jiàgé、 pǐnzhì hé gōngzuòliàng zuìhǎo fàngzài yìqǐ kàn.",
-      "tr": "Ayrıca, fiyatı, kaliteyi ve iş yükünü birlikte değerlendirmek en iyisi."
+      "zh": "成本、品质和员工工作量都会写进复盘表，避免漏掉其中一项。",
+      "pinyin": "Chéng běn pǐn zhì hé yuán gōng gōng zuò liàng dū huì xiě jìn fù pán biǎo bì miǎn lòu diào qí zhōng yī xiàng",
+      "tr": "Bunlardan biri atlanmasın diye maliyeti, kaliteyi ve çalışanların iş yükünü değerlendirme formuna ekleyeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_070",
       "speaker": "张伟",
-      "zh": "不过，这件事不能只凭感觉，最好看看最近的实际数据。",
-      "pinyin": "Bùguò, zhèjiàn shì bùnéng zhǐ pínggǎnjué, zuìhǎo kànkàn zuìjìn de shíjì shùjù.",
-      "tr": "Ancak, bunu yalnızca hisle değerlendirmeyelim; son dönemin gerçek verilerine bakalım."
+      "zh": "我会保留原始数据，也记录异常情况，不只呈现对方案有利的结果。",
+      "pinyin": "Wǒ huì bǎo liú yuán shǐ shù jù yě jì lù yì cháng qíng kuàng bù zhǐ chéng xiàn duì fāng àn yǒu lì de jié guǒ",
+      "tr": "Yalnızca planı destekleyen sonuçları sunmayıp ham verileri ve istisnai durumları da kaydedeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_071",
       "speaker": "顾客",
-      "zh": "嗯，如果现在涨价，老顾客可能会有意见。",
-      "pinyin": "En, rúguǒ xiànzài zhǎngjià, lǎo gùkè kěnéng huì yǒu yìjiàn.",
-      "tr": "Şimdi fiyat artırırsak düzenli müşteriler itiraz edebilir."
+      "zh": "如果要涨价，请提前通知老顾客，并说明从哪一天开始。",
+      "pinyin": "Rú guǒ yào zhǎng jià qǐng tí qián tōng zhī lǎo gù kè bìng shuō míng cóng nǎ yī tiān kāi shǐ",
+      "tr": "Fiyat artacaksa eski müşterilere önceden haber verin ve hangi tarihte başlayacağını açıklayın."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_072",
       "speaker": "经理",
-      "zh": "另外，店里的办法最终还是要经得住每天实际使用。",
-      "pinyin": "Lìngwài, diànlǐ de bànfǎ zuìzhōng háishì yào jīngdézhù měitiān shíjì shǐyòng.",
-      "tr": "Ayrıca, i̇şletmedeki yöntemler sonuçta günlük kullanımda işe yaramalı."
+      "zh": "我们会准备清楚的说明，也会让顾客在点单前看见新旧价格。",
+      "pinyin": "Wǒ men huì zhǔn bèi qīng chǔ de shuō míng yě huì ràng gù kè zài diǎn dān qián kàn jiàn xīn jiù jià gé",
+      "tr": "Açık bir bilgilendirme hazırlayıp müşterilerin sipariş vermeden önce eski ve yeni fiyatları görmesini sağlayacağız."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_073",
       "speaker": "刘梅",
-      "zh": "关于顾客期待，你最担心经营上的哪一点？",
-      "pinyin": "Guānyú gùkè qīdài, nǐ zuì dānxīn jīngyíng shàng de nǎyìdiǎn?",
-      "tr": "Müşteri beklentisi konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "你觉得顾客最需要我们解释哪一点？",
+      "pinyin": "Nǐ jué de gù kè zuì xū yào wǒ men jiě shì nǎ yì diǎn",
+      "tr": "Sence müşterilere en çok hangi noktayı açıklamamız gerekiyor?"
     },
     {
       "id": "DLG_ZH_HSK5_SC020_074",
       "speaker": "张伟",
-      "zh": "换个角度看，我更担心的是，忙的时候这个办法还能不能正常执行。",
-      "pinyin": "Huàngè jiǎodùkàn, wǒ gèng dānxīn de shì, máng de shíhòu zhège bànfǎ hái néng bùnéng zhèngcháng zhíxíng.",
-      "tr": "Başka bir açıdan bakarsak, ben daha çok yoğun saatlerde bu yöntemin uygulanıp uygulanamayacağını düşünüyorum."
+      "zh": "忙的时候也要让员工容易说明，所以通知不能太长或太复杂。",
+      "pinyin": "Máng de shí hòu yě yào ràng yuán gōng róng yì shuō míng suǒ yǐ tōng zhī bù néng tài zhǎng huò tài fù zá",
+      "tr": "Yoğun saatlerde çalışanların kolayca açıklayabilmesi için duyuru uzun ya da karmaşık olmamalı."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_075",
       "speaker": "顾客",
-      "zh": "不过，顾客的意见很重要，但也要看是不是普遍情况。",
-      "pinyin": "Bùguò, gùkè de yìjiàn hěn zhòngyào, dàn yě yào kàn shìbúshì pǔbiàn qíngkuàng.",
-      "tr": "Ancak, müşteri görüşü önemli ama bunun yaygın bir durum olup olmadığına da bakmalıyız."
+      "zh": "如果多数顾客都担心同一件事，我们就把它列为重点回应。",
+      "pinyin": "Rú guǒ duō shù gù kè dōu dān xīn tóng yī jiàn shì wǒ men jiù bǎ tā liè wèi zhòng diǎn huí yìng",
+      "tr": "Müşterilerin çoğu aynı konudan endişe ediyorsa yanıtımızda bunu önceliklendirelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_076",
       "speaker": "经理",
-      "zh": "换个角度看，这个想法可以保留，不过最好先做一个简单测试。",
-      "pinyin": "Huàngè jiǎodùkàn, zhège xiǎngfǎ kěyǐ bǎoliú, bùguò zuìhǎo xiān zuò yígè jiǎndān cèshì.",
-      "tr": "Başka bir açıdan bakarsak, bu fikir kalabilir ama önce basit bir deneme yapmak iyi olur."
+      "zh": "试行期间先维持其他饮品价格，避免看不出变化来自哪里。",
+      "pinyin": "Shì xíng qī jiān xiān wéi chí qí tā yǐn pǐn jià gé bì miǎn kàn bù chū biàn huà lái zì nǎ lǐ",
+      "tr": "Değişimin kaynağı karışmasın diye deneme sırasında diğer içeceklerin fiyatlarını sabit tutalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_077",
       "speaker": "刘梅",
-      "zh": "那把价格也一起考虑进去。",
-      "pinyin": "Nà bǎ jiàgé yě yìqǐ kǎolǜ jìnqù.",
-      "tr": "Fiyat konusunu da değerlendirme kapsamına alalım."
+      "zh": "还要把价格变化的范围算出来，避免不同饮品一起涨得太多。",
+      "pinyin": "Hái yào bǎ jià gé biàn huà de fàn wéi suàn chū lái bì miǎn bù tóng yǐn pǐn yì qǐ zhǎng dé tài duō",
+      "tr": "Farklı içeceklerin fiyatlarını birlikte aşırı artırmamak için değişiklik aralığını da hesaplayalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_078",
       "speaker": "张伟",
-      "zh": "嗯，先把它记下来，后面再结合新信息决定。",
-      "pinyin": "En, xiān bǎ tā jìxiàlái, hòumiàn zài jiéhé xīn xìnxī juédìng.",
-      "tr": "Şimdilik not edelim, bilgiler biraz daha tamamlanınca karar veririz."
+      "zh": "我会把每次调整和生效日期记下来，复盘时方便对照。",
+      "pinyin": "Wǒ huì bǎ měi cì tiáo zhěng hé shēng xiào rì qī jì xià lái fù pán shí fāng biàn duì zhào",
+      "tr": "Değerlendirmede karşılaştırmak için her değişikliği ve yürürlük tarihini kaydedeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_079",
       "speaker": "顾客",
-      "zh": "如果我们对公平的判断变了，后面的计划也得跟着调整。",
-      "pinyin": "Rúguǒ wǒmen duì gōngpíng de pànduàn biàn le, hòumiàn de jìhuà yě dé gēnzhe tiáozhěng.",
-      "tr": "Adalet / hakkaniyet değişirse planı da ayarlamak gerekir."
+      "zh": "如果顾客反应比预期差，我们就重新看幅度和说明方式。",
+      "pinyin": "Rú guǒ gù kè fǎn yìng bǐ yù qī chà wǒ men jiù chóng xīn kàn fú dù hé shuō míng fāng shì",
+      "tr": "Müşteriler beklediğimizden olumsuz tepki verirse artış oranını ve açıklama biçimini yeniden ele alırız."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_080",
       "speaker": "经理",
-      "zh": "另外，可以先小范围试一试，再根据顾客反应调整。",
-      "pinyin": "Lìngwài, kěyǐ xiānxiǎo fànwéi shìyīshì, zài gēnjù gùkè fǎnyìng tiáozhěng.",
-      "tr": "Ayrıca, önce küçük ölçekte deneyip müşteri tepkisine göre ayarlayabiliriz."
+      "zh": "那就按计划试行，到期先汇总，再决定要不要推广。",
+      "pinyin": "Nà jiù àn jì huà shì xíng dào qī xiān huì zǒng zài jué dìng yào bù yào tuī guǎng",
+      "tr": "Öyleyse denemeyi plana göre yürütüp sürenin sonunda sonuçları toparlayalım; sonra yaygınlaştırmaya karar veririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_081",
       "speaker": "刘梅",
-      "zh": "生意对店里的实际影响有多大？",
-      "pinyin": "Shēngyì duì diànlǐ de shíjì yǐngxiǎng yǒu duō dà?",
-      "tr": "Iş / ticaret konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "我们还要算清这次价格调整会给店里的经营带来多大影响。",
+      "pinyin": "Wǒ men hái yào suàn qīng zhè cì jià gé tiáo zhěng huì gěi diàn lǐ de jīng yíng dài lái duō dà yǐng xiǎng",
+      "tr": "Bu fiyat değişikliğinin işletmeye ne kadar etkisi olacağını da hesaplamalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_082",
       "speaker": "张伟",
-      "zh": "嗯，这条信息很重要。",
-      "pinyin": "En, zhè tiáo xìnxī hěn zhòngyào.",
-      "tr": "Bu bilgi çok kritik."
+      "zh": "我会按饮品分别核算成本和销量，不用总数掩盖差异。",
+      "pinyin": "Wǒ huì àn yǐn pǐn fēn bié hé suàn chéng běn hé xiāo liàng bù yòng zǒng shù yǎn gài chā yì",
+      "tr": "Farkları toplam sayının altında bırakmamak için maliyetleri ve satışları içeceğe göre hesaplayacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_083",
       "speaker": "顾客",
-      "zh": "店里的办法最终还是要经得住每天实际使用。",
-      "pinyin": "Diànlǐ de bànfǎ zuìzhōng háishì yào jīngdézhù měitiān shíjì shǐyòng.",
-      "tr": "İşletmedeki yöntemler sonuçta günlük kullanımda işe yaramalı."
+      "zh": "如果要涨价，请先告诉顾客原因和生效日期，别让人结账时才发现。",
+      "pinyin": "Rú guǒ yào zhǎng jià qǐng xiān gào sù gù kè yuán yīn hé shēng xiào rì qī bié ràng rén jié zhàng shí cái fā xiàn",
+      "tr": "Fiyat artacaksa nedenini ve yürürlük tarihini önceden açıklayın; müşteriler bunu ödeme sırasında öğrenmesin."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_084",
       "speaker": "经理",
-      "zh": "不过，价格、品质和工作量最好放在一起看。",
-      "pinyin": "Bùguò, jiàgé、 pǐnzhì hé gōngzuòliàng zuìhǎo fàngzài yìqǐ kàn.",
-      "tr": "Ancak, fiyatı, kaliteyi ve iş yükünü birlikte değerlendirmek en iyisi."
+      "zh": "我们会把成本、品质和员工工作量一起核对，再决定具体做法。",
+      "pinyin": "Wǒ men huì bǎ chéng běn pǐn zhì hé yuán gōng gōng zuò liàng yì qǐ hé duì zài jué dìng jù tǐ zuò fǎ",
+      "tr": "Uygulamaya karar vermeden önce maliyeti, kaliteyi ve çalışanların iş yükünü birlikte kontrol edeceğiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_085",
       "speaker": "刘梅",
-      "zh": "那把信任也一起考虑进去。",
-      "pinyin": "Nà bǎ xìnrèn yě yìqǐ kǎolǜ jìnqù.",
-      "tr": "Güven konusunu da değerlendirme kapsamına alalım."
+      "zh": "价格调整也会影响顾客信任，说明方式和时间都要考虑。",
+      "pinyin": "Jià gé tiáo zhěng yě huì yǐng xiǎng gù kè xìn rèn shuō míng fāng shì hé shí jiān dōu yào kǎo lǜ",
+      "tr": "Fiyat değişikliği müşteri güvenini de etkiler; açıklamanın biçimini ve zamanını düşünmeliyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_086",
       "speaker": "张伟",
-      "zh": "这部分值得继续核实。",
-      "pinyin": "Zhèbùfèn zhíde jìxù héshí.",
-      "tr": "Bu nokta doğrulanmaya devam edilmeye değer."
+      "zh": "我会对照最近的采购单和销售记录，确认变化从什么时候开始。",
+      "pinyin": "Wǒ huì duì zhào zuì jìn de cǎi gòu dān hé xiāo shòu jì lù què rèn biàn huà cóng shén me shí hòu kāi shǐ",
+      "tr": "Değişikliğin ne zaman başladığını doğrulamak için son satın alma ve satış kayıtlarını karşılaştıracağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_087",
       "speaker": "顾客",
-      "zh": "我不反对涨价，但幅度要让顾客能够理解。",
-      "pinyin": "Wǒ bù fǎnduì zhǎngjià, dàn fúdù yào ràng gùkè nénggòu lǐjiě.",
-      "tr": "Fiyat artışına karşı değilim ama oran müşterinin anlayabileceği düzeyde olmalı."
+      "zh": "我能接受合理的调整，但希望店里说清楚涨多少、为什么涨。",
+      "pinyin": "Wǒ néng jiē shòu hé lǐ de tiáo zhěng dàn xī wàng diàn lǐ shuō qīng chǔ zhǎng duō shǎo wèi shén me zhǎng",
+      "tr": "Makul bir artışı kabul edebilirim ama ne kadar ve neden zam yapıldığını işletmenin açıklamasını isterim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_088",
       "speaker": "经理",
-      "zh": "嗯，可以，先把最重要的问题处理掉。",
-      "pinyin": "En, kěyǐ, xiān bǎ zuì zhòngyào de wèntí chǔlǐ diào.",
-      "tr": "Bunu öncelikli konu olarak belirlemeye katılıyorum."
+      "zh": "我们会准备简短说明，让员工在点单时能一致地回答问题。",
+      "pinyin": "Wǒ men huì zhǔn bèi jiǎn duǎn shuō míng ràng yuán gōng zài diǎn dān shí néng yí zhì dì huí dá wèn tí",
+      "tr": "Çalışanların sipariş sırasında tutarlı yanıt vermesi için kısa bir açıklama hazırlayacağız."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_089",
       "speaker": "刘梅",
-      "zh": "那关于顾客期待，你最担心经营上的哪一点？",
-      "pinyin": "Nà guānyú gùkè qīdài, nǐ zuì dānxīn jīngyíng shàng de nǎyìdiǎn?",
-      "tr": "Müşteri beklentisi konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "需要提前几天通知顾客比较合适？我们得留出调整时间。",
+      "pinyin": "Xū yào tí qián jǐ tiān tōng zhī gù kè bǐ jiào hé shì wǒ men dé liú chū tiáo zhěng shí jiān",
+      "tr": "Müşterilere kaç gün önceden haber vermek uygun olur? Hazırlık için zaman bırakmalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_090",
       "speaker": "张伟",
-      "zh": "其实，这件事不能只凭感觉，最好看看最近的实际数据。",
-      "pinyin": "Qíshí, zhèjiàn shì bùnéng zhǐ pínggǎnjué, zuìhǎo kànkàn zuìjìn de shíjì shùjù.",
-      "tr": "Aslında, bunu yalnızca hisle değerlendirmeyelim; son dönemin gerçek verilerine bakalım."
+      "zh": "我会按公布日期和新价格整理通知，也把店内告示和线上信息核对一致。",
+      "pinyin": "Wǒ huì àn gōng bù rì qī hé xīn jià gé zhěng lǐ tōng zhī yě bǎ diàn nèi gào shì hé xiàn shàng xìn xī hé duì yí zhì",
+      "tr": "Duyuruyu yürürlük tarihi ve yeni fiyatlarla hazırlayıp dükkân içi ve çevrimiçi bilgilerin aynı olduğunu kontrol edeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_091",
       "speaker": "顾客",
-      "zh": "不过，这个想法可以保留，不过最好先做一个简单测试。",
-      "pinyin": "Bùguò, zhège xiǎngfǎ kěyǐ bǎoliú, bùguò zuìhǎo xiān zuò yígè jiǎndān cèshì.",
-      "tr": "Ancak, bu fikir kalabilir ama önce basit bir deneme yapmak iyi olur."
+      "zh": "我希望点单前就能看到价格，不要到了柜台才临时决定。",
+      "pinyin": "Wǒ xī wàng diǎn dān qián jiù néng kàn dào jià gé bú yào dào le guì tái cái lín shí jué dìng",
+      "tr": "Fiyatı sipariş vermeden önce görmek isterim; tezgâha gelince karar vermek zorunda kalmayayım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_092",
       "speaker": "经理",
-      "zh": "嗯，我们也要看看有没有不同的情况。",
-      "pinyin": "En, wǒmen yě yào kànkàn yǒuméiyǒu bùtóng de qíngkuàng.",
-      "tr": "Ters yönde kanıt olup olmadığına da bakmalıyız."
+      "zh": "我们可以同时更新菜单和柜台告示，避免顾客看到两个价格。",
+      "pinyin": "Wǒ men kě yǐ tóng shí gēng xīn cài dān hé guì tái gào shì bì miǎn gù kè kàn dào liǎng gè jià gé",
+      "tr": "Müşterilerin iki farklı fiyat görmemesi için menüyü ve tezgâh duyurusunu aynı anda güncelleyebiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_093",
       "speaker": "刘梅",
-      "zh": "关于价格，我们还是结合实际情况来看。",
-      "pinyin": "Guānyú jiàgé, wǒmen háishì jiéhéshíjì qíngkuàng láikàn.",
-      "tr": "fiyat konusunda yine gerçek duruma bakmak gerekir."
+      "zh": "还要看看调整后员工能不能顺利操作，别让结账变复杂。",
+      "pinyin": "Hái yào kàn kàn tiáo zhěng hòu yuán gōng néng bù néng shùn lì cāo zuò bié ràng jié zhàng biàn fù zá",
+      "tr": "Değişiklikten sonra çalışanların süreci rahat uygulayabildiğine ve ödemenin karmaşıklaşmadığına da bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_094",
       "speaker": "张伟",
-      "zh": "对，先把它记下来，后面再结合新信息决定。",
-      "pinyin": "Duì, xiān bǎ tā jìxiàlái, hòumiàn zài jiéhé xīn xìnxī juédìng.",
-      "tr": "Şimdilik not edelim, bilgiler biraz daha tamamlanınca karar veririz."
+      "zh": "我会比较调整前后的销量和毛利，并标明试行期间的特殊情况。",
+      "pinyin": "Wǒ huì bǐ jiào tiáo zhěng qián hòu de xiāo liàng hé máo lì bìng biāo míng shì xíng qī jiān de tè shū qíng kuàng",
+      "tr": "Deneme dönemindeki özel durumları belirterek önceki ve sonraki satışları ve kâr marjını karşılaştıracağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_095",
       "speaker": "顾客",
-      "zh": "另外，这个想法可以保留，不过最好先做一个简单测试。",
-      "pinyin": "Lìngwài, zhège xiǎngfǎ kěyǐ bǎoliú, bùguò zuìhǎo xiān zuò yígè jiǎndān cèshì.",
-      "tr": "Ayrıca, bu fikir kalabilir ama önce basit bir deneme yapmak iyi olur."
+      "zh": "如果顾客有选择，也能提前看到说明，我愿意观察这次试行。",
+      "pinyin": "Rú guǒ gù kè yǒu xuǎn zé yě néng tí qián kàn dào shuō míng wǒ yuàn yì guān chá zhè cì shì xíng",
+      "tr": "Müşterilerin seçeneği olur ve açıklamayı önceden görürlerse bu denemeyi gözlemlemeye razıyım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_096",
       "speaker": "经理",
-      "zh": "换个角度看，我希望最后的做法既让顾客舒服，也不会把员工累坏。",
-      "pinyin": "Huàngè jiǎodùkàn, wǒ xīwàng zuìhòu de zuòfǎ jì ràng gùkè shūfú, yě búhuì bǎ yuángōng lèihuài.",
-      "tr": "Başka bir açıdan bakarsak, son yöntemin hem müşteriyi memnun etmesini hem de çalışanları yormamasını istiyorum."
+      "zh": "我们先按两周计划执行，遇到明显问题就及时记录并讨论。",
+      "pinyin": "Wǒ men xiān àn liǎng zhōu jì huà zhí xíng yù dào míng xiǎn wèn tí jiù jí shí jì lù bìng tǎo lùn",
+      "tr": "İki haftalık plana göre ilerleyelim; belirgin bir sorun çıkarsa hemen kaydedip konuşalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_097",
       "speaker": "刘梅",
-      "zh": "其实，我希望最后的做法既让顾客舒服，也不会把员工累坏。",
-      "pinyin": "Qíshí, wǒ xīwàng zuìhòu de zuòfǎ jì ràng gùkè shūfú, yě búhuì bǎ yuángōng lèihuài.",
-      "tr": "Aslında, son yöntemin hem müşteriyi memnun etmesini hem de çalışanları yormamasını istiyorum."
+      "zh": "两周后我们再看数据和顾客意见，再决定是否采用更久。",
+      "pinyin": "Liǎng zhōu hòu wǒ men zài kàn shù jù hé gù kè yì jiàn zài jué dìng shì fǒu cǎi yòng gèng jiǔ",
+      "tr": "İki hafta sonra verileri ve müşteri görüşlerini inceleyip daha uzun süre uygulayıp uygulamayacağımıza karar veririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_098",
       "speaker": "张伟",
-      "zh": "另外，这件事不能只凭感觉，最好看看最近的实际数据。",
-      "pinyin": "Lìngwài, zhèjiàn shì bùnéng zhǐ pínggǎnjué, zuìhǎo kànkàn zuìjìn de shíjì shùjù.",
-      "tr": "Ayrıca, bunu yalnızca hisle değerlendirmeyelim; son dönemin gerçek verilerine bakalım."
+      "zh": "我会准备每周记录，复盘时说明价格、销量和服务情况。",
+      "pinyin": "Wǒ huì zhǔn bèi měi zhōu jì lù fù pán shí shuō míng jià gé xiāo liàng hé fú wù qíng kuàng",
+      "tr": "Değerlendirmede fiyatı, satışları ve hizmet durumunu açıklamak için haftalık kayıtları hazırlayacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_099",
       "speaker": "顾客",
-      "zh": "其实，我更担心的是，忙的时候这个办法还能不能正常执行。",
-      "pinyin": "Qíshí, wǒ gèng dānxīn de shì, máng de shíhòu zhège bànfǎ hái néng bùnéng zhèngcháng zhíxíng.",
-      "tr": "Aslında, ben daha çok yoğun saatlerde bu yöntemin uygulanıp uygulanamayacağını düşünüyorum."
+      "zh": "只要提前说明、品质稳定，我愿意给这个办法一个机会。",
+      "pinyin": "Zhǐ yào tí qián shuō míng pǐn zhì wěn dìng wǒ yuàn yì gěi zhè ge bàn fǎ yí gè jī huì",
+      "tr": "Önceden açıklanır ve kalite sabit kalırsa bu uygulamaya bir şans vermeye razıyım."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_100",
       "speaker": "经理",
-      "zh": "换个角度看，别一次改太多，先把最影响顾客体验的部分处理好。",
-      "pinyin": "Huàngè jiǎodùkàn, bié yīcì gǎitàiduō, xiān bǎ zuì yǐngxiǎng gùkè tǐyàn de bùfèn chǔlǐ hǎo.",
-      "tr": "Başka bir açıdan bakarsak, bir seferde çok fazla şeyi değiştirmeyelim; önce müşteri deneyimini en çok etkileyen kısmı düzeltelim."
+      "zh": "好，我们先按两周试行，提前更新菜单，之后根据记录和反馈决定下一步。",
+      "pinyin": "Hǎo wǒ men xiān àn liǎng zhōu shì xíng tí qián gēng xīn cài dān zhī hòu gēn jù jì lù hé fǎn kuì jué dìng xià yī bù",
+      "tr": "Peki, iki hafta deneyelim; menüyü önceden güncelleyip sonraki adıma kayıtlar ve geri bildirimle karar verelim."
     }
   ],
   "productionStatus": "complete",

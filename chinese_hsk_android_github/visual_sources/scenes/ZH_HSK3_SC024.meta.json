@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC024",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC024.json",
-  "dialogueSha256": "d647711ed3d30ed0b90da4151a4855c00782cc1e6a5c0551c2805e14d7a3e63b",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC024.json",
+  "dialogueSha256": "b03fc7ec192791ee570f8f743707d16b5c7ba878cd4ec957829a1ed7ef626f61",
   "titleTr": "Yutong Kafede Çalışıyor",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Yutong ilk kez ücret karşılığı kafede çalışır ve müşteriyle iletişim kurar.",
@@ -49,7 +49,7 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "54f78d7da85e2ca5148037f7dd1c55919ffd54c180e68465365489c098243687"
+    "sha256": "b888851de12ad84a41b60901caff61966a13bae171fb4841a3a23a714d8578cd"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -71,5 +71,25 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: Önceki HSK3 final sahnelerinin karakter yüzü, yaş olgunluğu, mekân ve sıcak ışık dili korunarak kullanıcı onayı sonrası entegre edildi."
+  "qaNoteTr": "LOCKED_V2 ve konuşma balonu QA PASS: müşterinin profil ağzı küçük bir maskeli düzenlemeyle görünür yapıldı. 2.5D/3D CGI, karakterler, kafe kompozisyonu ve ürünler korundu; 941×1672, tam çözünürlüklü SSIM 0.99977, maske dışı pikseller birebir aynı, app/runtime WebP byte eşleşmesi doğrulandı.",
+  "postGenerationVisualQA": {
+    "dialogueTextQA": "PASS",
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "appRuntimeMirrorBlobMatch": true,
+    "localizedMouthRepair": true,
+    "ssim": 0.99977,
+    "pixelsOutsideMaskExact": true,
+    "mouthVisibleForCustomer": true
+  },
+  "finalAssetBlobSha": "3e18ea9ce5156b03e679206f5ca2d1771a59d425",
+  "imageGitBlobSha": "3e18ea9ce5156b03e679206f5ca2d1771a59d425",
+  "allDialogueSpeakersVisible": true
 }

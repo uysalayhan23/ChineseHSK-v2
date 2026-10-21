@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 55,
+  "status": "FINAL_REVIEWED_V55",
+  "sceneId": "ZH_HSK3_SC009",
+  "level": "HSK3",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK3_SC009_001",
+      "speaker": "刘梅",
+      "zh": "这家店的位置很好，离学校和车站都近。",
+      "pinyin": "zhè jiā diàn de wèi zhì hěn hǎo ， lí xué xiào hé chē zhàn dōu jìn 。",
+      "tr": "Bu dükkânın konumu iyi; okula ve durağa yakın."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_002",
+      "speaker": "张伟",
+      "zh": "附近人不少，顾客很容易看到招牌。",
+      "pinyin": "fù jìn rén bù shǎo ， gù kè hěn róng yì kàn dào zhāo pái 。",
+      "tr": "Çevrede insan çok, müşteriler tabelayı kolayca görür."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_003",
+      "speaker": "顾客",
+      "zh": "可是房租比我们的预算高不少。",
+      "pinyin": "kě shì fáng zū bǐ wǒ men de yù suàn gāo bù shǎo 。",
+      "tr": "Ama kirası bütçemizi epey aşıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_004",
+      "speaker": "张雨桐",
+      "zh": "虽然位置好，我们还是要先算算付不付得起。",
+      "pinyin": "suī rán wèi zhì hǎo ， wǒ men hái shì yào xiān suàn suàn fù bù fù dé qǐ 。",
+      "tr": "Konumu iyi olsa da karşılayıp karşılayamayacağımızı hesaplamalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_005",
+      "speaker": "刘梅",
+      "zh": "房东说这条街的店面都不便宜。",
+      "pinyin": "fáng dōng shuō zhè tiáo jiē de diàn miàn dōu bù biàn yí 。",
+      "tr": "Ev sahibi bu sokaktaki dükkânların ucuz olmadığını söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_006",
+      "speaker": "张伟",
+      "zh": "如果经过的人多，生意可能会好一些。",
+      "pinyin": "rú guǒ jīng guò de rén duō ， shēng yì kě néng huì hǎo yī xiē 。",
+      "tr": "Yoldan geçen çoksa işler daha iyi olabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_007",
+      "speaker": "顾客",
+      "zh": "但是顾客多不一定就能赚钱。",
+      "pinyin": "dàn shì gù kè duō bù yí dìng jiù néng zhuàn qián 。",
+      "tr": "Ama müşteri çok olması mutlaka para kazanacağımız anlamına gelmez."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_008",
+      "speaker": "张雨桐",
+      "zh": "对，房租、材料费和收入都要比较。",
+      "pinyin": "duì ， fáng zū 、 cái liào fèi hé shōu rù dōu yào bǐ jiào 。",
+      "tr": "Evet, kirayı, malzeme masrafını ve geliri karşılaştırmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_009",
+      "speaker": "刘梅",
+      "zh": "我们每月最多能拿出多少钱付房租？",
+      "pinyin": "wǒ men měi yuè zuì duō néng ná chū duō shǎo qián fù fáng zū ？",
+      "tr": "Kiraya ayda en fazla ne kadar ayırabiliriz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_010",
+      "speaker": "张伟",
+      "zh": "先看预算，别把所有的钱都用在租金上。",
+      "pinyin": "xiān kàn yù suàn ， bié bǎ suǒ yǒu de qián dōu yòng zài zū jīn shàng 。",
+      "tr": "Önce bütçeye bakalım; tüm paramızı kiraya harcamayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_011",
+      "speaker": "顾客",
+      "zh": "还要留下装修和买设备的钱。",
+      "pinyin": "hái yào liú xià zhuāng xiū hé mǎi shè bèi de qián 。",
+      "tr": "Tadilat ve ekipman için de para kalmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_012",
+      "speaker": "张雨桐",
+      "zh": "我把需要的费用写下来再算。",
+      "pinyin": "wǒ bǎ xū yào de fèi yòng xiě xià lái zài suàn 。",
+      "tr": "Gerekli masrafları yazıp hesaplayayım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_013",
+      "speaker": "刘梅",
+      "zh": "如果房东愿意少收一点，事情就好办了。",
+      "pinyin": "rú guǒ fáng dōng yuàn yì shǎo shōu yì diǎn ， shì qíng jiù hǎo bàn le 。",
+      "tr": "Ev sahibi biraz indirirse işimiz kolaylaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_014",
+      "speaker": "张伟",
+      "zh": "我们可以说刚开始做生意，预算有限。",
+      "pinyin": "wǒ men kě yǐ shuō gāng kāi shǐ zuò shēng yì ， yù suàn yǒu xiàn 。",
+      "tr": "İşe yeni başladığımızı ve bütçemizin sınırlı olduğunu söyleyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_015",
+      "speaker": "顾客",
+      "zh": "也告诉他我们会认真经营，不只是谈价格。",
+      "pinyin": "yě gào sù tā wǒ men huì rèn zhēn jīng yíng ， bù zhǐ shì tán jià gé 。",
+      "tr": "Yalnızca fiyattan söz etmeyip işi özenle yürüteceğimizi de anlatalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_016",
+      "speaker": "张雨桐",
+      "zh": "我来问问他能不能谈谈租金。",
+      "pinyin": "wǒ lái wèn wèn tā néng bù néng tán tán zū jīn 。",
+      "tr": "Kirayı konuşup konuşamayacağımızı ben sorayım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_017",
+      "speaker": "刘梅",
+      "zh": "门口很显眼，路过的人会注意到。",
+      "pinyin": "mén kǒu hěn xiǎn yǎn ， lù guò de rén huì zhù yì dào 。",
+      "tr": "Girişi görünür; yoldan geçenler fark eder."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_018",
+      "speaker": "张伟",
+      "zh": "这是位置带来的优点。",
+      "pinyin": "zhè shì wèi zhì dài lái de yōu diǎn 。",
+      "tr": "Bu, konumun sağladığı bir avantaj."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_019",
+      "speaker": "顾客",
+      "zh": "如果定价太高，顾客还是可能不进来。",
+      "pinyin": "rú guǒ dìng jià tài gāo ， gù kè hái shì kě néng bù jìn lái 。",
+      "tr": "Fiyatları çok yüksek belirlersek müşteriler yine de gelmeyebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_020",
+      "speaker": "张雨桐",
+      "zh": "先看看附近咖啡馆的定价，再定菜单价格。",
+      "pinyin": "xiān kàn kàn fù jìn kā fēi guǎn de dìng jià ， zài dìng cài dān jià gé 。",
+      "tr": "Menü fiyatına karar vermeden yakındaki kafelerin fiyatlarına bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_021",
+      "speaker": "刘梅",
+      "zh": "从这家店走到学校要多久？",
+      "pinyin": "cóng zhè jiā diàn zǒu dào xué xiào yào duō jiǔ ？",
+      "tr": "Bu dükkândan okula yürümek ne kadar sürüyor?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_022",
+      "speaker": "张伟",
+      "zh": "大约五分钟，学生下课后很容易过来。",
+      "pinyin": "dà yuē wǔ fēn zhōng ， xué shēng xià kè hòu hěn róng yì guò lái 。",
+      "tr": "Yaklaşık beş dakika; öğrenciler ders çıkışı kolayca gelebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_023",
+      "speaker": "顾客",
+      "zh": "下雨的时候，他们可能不想走过来。",
+      "pinyin": "xià yǔ de shí hòu ， tā men kě néng bù xiǎng zǒu guò lái 。",
+      "tr": "Yağmur yağınca belki buraya kadar yürümek istemezler."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_024",
+      "speaker": "张雨桐",
+      "zh": "所以位置虽好，也要考虑天气的影响。",
+      "pinyin": "suǒ yǐ wèi zhì suī hǎo ， yě yào kǎo lǜ tiān qì de yǐng xiǎng 。",
+      "tr": "Konumu iyi olsa da havanın etkisini düşünmeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_025",
+      "speaker": "刘梅",
+      "zh": "房租里包括水费和管理费吗？",
+      "pinyin": "fáng zū lǐ bāo kuò shuǐ fèi hé guǎn lǐ fèi ma ？",
+      "tr": "Kiraya su ve yönetim gideri dâhil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_026",
+      "speaker": "张伟",
+      "zh": "水费另算，管理费包括在租金里。",
+      "pinyin": "shuǐ fèi lìng suàn ， guǎn lǐ fèi bāo kuò zài zū jīn lǐ 。",
+      "tr": "Su ayrıca hesaplanıyor, yönetim gideri kiraya dâhil."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_027",
+      "speaker": "顾客",
+      "zh": "如果没问清楚，预算就会算错。",
+      "pinyin": "rú guǒ méi wèn qīng chǔ ， yù suàn jiù huì suàn cuò 。",
+      "tr": "Netleştirmezsek bütçeyi yanlış hesaplarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_028",
+      "speaker": "张雨桐",
+      "zh": "我再确认一次，把每月的费用列完整。",
+      "pinyin": "wǒ zài què rèn yī cì ， bǎ měi yuè de fèi yòng liè wán zhěng 。",
+      "tr": "Tekrar teyit edip aylık masrafları tam listeleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_029",
+      "speaker": "刘梅",
+      "zh": "附近那家店的咖啡卖多少钱？",
+      "pinyin": "fù jìn nà jiā diàn de kā fēi mài duō shǎo qián ？",
+      "tr": "Yakındaki dükkânda kahve ne kadar?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_030",
+      "speaker": "张伟",
+      "zh": "普通咖啡二十元，牛奶咖啡二十六元。",
+      "pinyin": "pǔ tōng kā fēi èr shí yuán ， niú nǎi kā fēi èr shí liù yuán 。",
+      "tr": "Sade kahve yirmi, sütlü kahve yirmi altı yuan."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_031",
+      "speaker": "顾客",
+      "zh": "如果我们的定价一样，味道和服务要更好。",
+      "pinyin": "rú guǒ wǒ men de dìng jià yī yàng ， wèi dào hé fú wù yào gèng hǎo 。",
+      "tr": "Aynı fiyatı koyarsak tat ve hizmetimiz daha iyi olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_032",
+      "speaker": "张雨桐",
+      "zh": "先试做几种，再看看成本合不合适。",
+      "pinyin": "xiān shì zuò jǐ zhǒng ， zài kàn kàn chéng běn hé bù hé shì 。",
+      "tr": "Önce birkaç çeşit deneyip maliyeti uygun mu bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_033",
+      "speaker": "刘梅",
+      "zh": "这家店比第二家更靠近学校。",
+      "pinyin": "zhè jiā diàn bǐ dì èr jiā gèng kào jìn xué xiào 。",
+      "tr": "Bu dükkân ikinci dükkândan okula daha yakın."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_034",
+      "speaker": "张伟",
+      "zh": "第二家的房租低，里面也大一点。",
+      "pinyin": "dì èr jiā de fáng zū dī ， lǐ miàn yě dà yī diǎn 。",
+      "tr": "İkincinin kirası daha düşük, içi de büyük."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_035",
+      "speaker": "顾客",
+      "zh": "不能只看一个优点就马上决定。",
+      "pinyin": "bù néng zhǐ kàn yí gè yōu diǎn jiù mǎ shàng jué dìng 。",
+      "tr": "Tek bir avantaja bakıp hemen karar veremeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_036",
+      "speaker": "张雨桐",
+      "zh": "把位置、面积和租金放在一起比较吧。",
+      "pinyin": "bǎ wèi zhì 、 miàn jī hé zū jīn fàng zài yì qǐ bǐ jiào ba 。",
+      "tr": "Konumu, alanı ve kirayı birlikte karşılaştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_037",
+      "speaker": "刘梅",
+      "zh": "如果租金谈不下来，我们每月会很紧张。",
+      "pinyin": "rú guǒ zū jīn tán bù xià lái ， wǒ men měi yuè huì hěn jǐn zhāng 。",
+      "tr": "Kirayı düşüremezsek her ay zorlanırız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_038",
+      "speaker": "张伟",
+      "zh": "我们可以问问能不能先租半年。",
+      "pinyin": "wǒ men kě yǐ wèn wèn néng bù néng xiān zū bàn nián 。",
+      "tr": "Önce altı aylığına kiralayıp kiralayamayacağımızı sorabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_039",
+      "speaker": "顾客",
+      "zh": "房东也许希望我们签长一点的合同。",
+      "pinyin": "fáng dōng yě xǔ xī wàng wǒ men qiān zhǎng yì diǎn de hé tóng 。",
+      "tr": "Ev sahibi daha uzun süreli sözleşme isteyebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_040",
+      "speaker": "张雨桐",
+      "zh": "那就说说预算，让他知道我们的困难。",
+      "pinyin": "nà jiù shuō shuō yù suàn ， ràng tā zhī dào wǒ men de kùn nán 。",
+      "tr": "O hâlde bütçemizden söz edip durumu anlatalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_041",
+      "speaker": "刘梅",
+      "zh": "晚上这条街还有人经过吗？",
+      "pinyin": "wǎn shàng zhè tiáo jiē hái yǒu rén jīng guò ma ？",
+      "tr": "Akşamları bu sokaktan insan geçiyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_042",
+      "speaker": "张伟",
+      "zh": "有，附近有电影院和公交车站。",
+      "pinyin": "yǒu ， fù jìn yǒu diàn yǐng yuàn hé gōng jiāo chē zhàn 。",
+      "tr": "Evet, yakında sinema ve otobüs durağı var."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_043",
+      "speaker": "顾客",
+      "zh": "如果营业时间合适，晚上也能有顾客。",
+      "pinyin": "rú guǒ yíng yè shí jiān hé shì ， wǎn shàng yě néng yǒu gù kè 。",
+      "tr": "Saatler uygun olursa akşam da müşteri gelebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_044",
+      "speaker": "张雨桐",
+      "zh": "不过要把晚一点关门的费用也算进预算。",
+      "pinyin": "bù guò yào bǎ wǎn yì diǎn guān mén de fèi yòng yě suàn jìn yù suàn 。",
+      "tr": "Ama geç kapatmanın masrafını da bütçeye eklemeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_045",
+      "speaker": "刘梅",
+      "zh": "我喜欢这里的大窗户，白天很亮。",
+      "pinyin": "wǒ xǐ huān zhè lǐ de dà chuāng hù ， bái tiān hěn liàng 。",
+      "tr": "Büyük pencerelerini sevdim; gündüz aydınlık."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_046",
+      "speaker": "张伟",
+      "zh": "不用一直开灯，可以省一点电费。",
+      "pinyin": "bù yòng yì zhí kāi dēng ， kě yǐ shěng yì diǎn diàn fèi 。",
+      "tr": "Sürekli ışık yakmayız, elektrikten tasarruf ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_047",
+      "speaker": "顾客",
+      "zh": "这也是一个优点。",
+      "pinyin": "zhè yě shì yí gè yōu diǎn 。",
+      "tr": "Bu da bir avantaj."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_048",
+      "speaker": "张雨桐",
+      "zh": "但是房租高，不能只看这些优点。",
+      "pinyin": "dàn shì fáng zū gāo ， bù néng zhǐ kàn zhè xiē yōu diǎn 。",
+      "tr": "Ama kira yüksek; yalnızca avantajlara bakamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_049",
+      "speaker": "刘梅",
+      "zh": "要不要请房东把第一个月的租金降一点？",
+      "pinyin": "yào bù yào qǐng fáng dōng bǎ dì yí gè yuè de zū jīn jiàng yì diǎn ？",
+      "tr": "Ev sahibinden ilk ayın kirasını indirmesini isteyelim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_050",
+      "speaker": "张伟",
+      "zh": "可以说装修需要时间，开业前还没有收入。",
+      "pinyin": "kě yǐ shuō zhuāng xiū xū yào shí jiān ， kāi yè qián hái méi yǒu shōu rù 。",
+      "tr": "Tadilatın zaman alacağını ve açılmadan gelir olmayacağını söyleyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_051",
+      "speaker": "顾客",
+      "zh": "虽然不一定成功，但是问问也没关系。",
+      "pinyin": "suī rán bù yí dìng chéng gōng ， dàn shì wèn wèn yě méi guān xì 。",
+      "tr": "Başarılı olmayabilir ama sormakta sakınca yok."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_052",
+      "speaker": "张雨桐",
+      "zh": "我今天就去谈，也听听他的条件。",
+      "pinyin": "wǒ jīn tiān jiù qù tán ， yě tīng tīng tā de tiáo jiàn 。",
+      "tr": "Bugün konuşup onun koşullarını da dinleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_053",
+      "speaker": "刘梅",
+      "zh": "如果房租降下来，预算就宽松一些。",
+      "pinyin": "rú guǒ fáng zū jiàng xià lái ， yù suàn jiù kuān sōng yī xiē 。",
+      "tr": "Kira düşerse bütçemiz biraz rahatlar."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_054",
+      "speaker": "张伟",
+      "zh": "省下来的钱可以用来做好菜单和服务。",
+      "pinyin": "shěng xià lái de qián kě yǐ yòng lái zuò hǎo cài dān hé fú wù 。",
+      "tr": "Tasarruf ettiğimiz parayla menüyü ve hizmeti geliştiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_055",
+      "speaker": "顾客",
+      "zh": "不过不能为了省钱把定价定得太低。",
+      "pinyin": "bù guò bù néng wèi le shěng qián bǎ dìng jià dìng dé tài dī 。",
+      "tr": "Ama tasarruf edeceğiz diye fiyatı çok düşük koyamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_056",
+      "speaker": "张雨桐",
+      "zh": "价格既要让顾客接受，也要付得起成本。",
+      "pinyin": "jià gé jì yào ràng gù kè jiē shòu ， yě yào fù dé qǐ chéng běn 。",
+      "tr": "Fiyat müşteriye uygun olmalı ve maliyeti karşılamalı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_057",
+      "speaker": "刘梅",
+      "zh": "我查了附近几家店的菜单和定价。",
+      "pinyin": "wǒ chá le fù jìn jǐ jiā diàn de cài dān hé dìng jià 。",
+      "tr": "Yakındaki birkaç dükkânın menüsüne ve fiyatlarına baktım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_058",
+      "speaker": "张伟",
+      "zh": "大部分咖啡在二十到三十元之间。",
+      "pinyin": "dà bù fèn kā fēi zài èr shí dào sān shí yuán zhī jiān 。",
+      "tr": "Kahvelerin çoğu yirmi ila otuz yuan arasında."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_059",
+      "speaker": "顾客",
+      "zh": "如果材料更好，可以稍微贵一点吗？",
+      "pinyin": "rú guǒ cái liào gèng hǎo ， kě yǐ shāo wēi guì yì diǎn ma ？",
+      "tr": "Malzeme daha iyiyse biraz daha pahalı satabilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_060",
+      "speaker": "张雨桐",
+      "zh": "可以，但要让顾客知道为什么值得。",
+      "pinyin": "kě yǐ ， dàn yào ràng gù kè zhī dào wèi shén me zhí de 。",
+      "tr": "Olur ama müşteriye neden değdiğini anlatmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_061",
+      "speaker": "刘梅",
+      "zh": "房东回复了，他愿意少收一点。",
+      "pinyin": "fáng dōng huí fù le ， tā yuàn yì shǎo shōu yì diǎn 。",
+      "tr": "Ev sahibi cevap verdi; biraz indirim yapmaya razı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_062",
+      "speaker": "张伟",
+      "zh": "太好了，每月的预算就没那么紧了。",
+      "pinyin": "tài hǎo le ， měi yuè de yù suàn jiù méi nà me jǐn le 。",
+      "tr": "Harika; aylık bütçemiz o kadar sıkışık olmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_063",
+      "speaker": "顾客",
+      "zh": "但是他希望我们签一年合同。",
+      "pinyin": "dàn shì tā xī wàng wǒ men qiān yī nián hé tóng 。",
+      "tr": "Ama bir yıllık sözleşme imzalamamızı istiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_064",
+      "speaker": "张雨桐",
+      "zh": "先看清楚合同，再决定能不能接受。",
+      "pinyin": "xiān kàn qīng chǔ hé tóng ， zài jué dìng néng bù néng jiē shòu 。",
+      "tr": "Kabul edip edemeyeceğimize karar vermeden sözleşmeyi inceleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_065",
+      "speaker": "刘梅",
+      "zh": "如果签一年，提前离开要付多少钱？",
+      "pinyin": "rú guǒ qiān yī nián ， tí qián lí kāi yào fù duō shǎo qián ？",
+      "tr": "Bir yıllık imzalarsak erken çıkmanın bedeli ne olur?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_066",
+      "speaker": "张伟",
+      "zh": "合同上说要提前一个月通知。",
+      "pinyin": "hé tóng shàng shuō yào tí qián yí gè yuè tōng zhī 。",
+      "tr": "Sözleşmede bir ay önceden haber vermek gerektiği yazıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_067",
+      "speaker": "顾客",
+      "zh": "那比我想的灵活一些。",
+      "pinyin": "nà bǐ wǒ xiǎng de líng huó yī xiē 。",
+      "tr": "Bu düşündüğümden daha esnek."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_068",
+      "speaker": "张雨桐",
+      "zh": "我们把这些条件和房租都列进预算。",
+      "pinyin": "wǒ men bǎ zhè xiē tiáo jiàn hé fáng zū dōu liè jìn yù suàn 。",
+      "tr": "Koşulları ve kirayı bütçeye ekleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_069",
+      "speaker": "刘梅",
+      "zh": "定价太高，学生可能就不常来了。",
+      "pinyin": "dìng jià tài gāo ， xué shēng kě néng jiù bù cháng lái le 。",
+      "tr": "Fiyat çok yüksek olursa öğrenciler sık gelmeyebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_070",
+      "speaker": "张伟",
+      "zh": "我们可以准备一种便宜的饮料，也提供特别的咖啡。",
+      "pinyin": "wǒ men kě yǐ zhǔn bèi yī zhǒng pián yi de yǐn liào ， yě tí gōng tè bié de kā fēi 。",
+      "tr": "Uygun fiyatlı bir içecek ve özel kahveler sunabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_071",
+      "speaker": "顾客",
+      "zh": "不同预算的顾客都能找到合适的选择。",
+      "pinyin": "bù tóng yù suàn de gù kè dōu néng zhǎo dào hé shì de xuǎn zé 。",
+      "tr": "Farklı bütçedeki müşteriler uygun seçenek bulur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_072",
+      "speaker": "张雨桐",
+      "zh": "先算每种饮料的成本，再决定定价。",
+      "pinyin": "xiān suàn měi zhǒng yǐn liào de chéng běn ， zài jué dìng dìng jià 。",
+      "tr": "Fiyatı belirlemeden önce her içeceğin maliyetini hesaplayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_073",
+      "speaker": "刘梅",
+      "zh": "虽然这家店房租高，但是位置真的很好。",
+      "pinyin": "suī rán zhè jiā diàn fáng zū gāo ， dàn shì wèi zhì zhēn de hěn hǎo 。",
+      "tr": "Bu dükkânın kirası yüksek olsa da konumu gerçekten iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_074",
+      "speaker": "张伟",
+      "zh": "如果每天顾客够多，租金就没那么难付。",
+      "pinyin": "rú guǒ měi tiān gù kè gòu duō ， zū jīn jiù méi nà me nán fù 。",
+      "tr": "Her gün yeterince müşteri gelirse kirayı ödemek zor olmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_075",
+      "speaker": "顾客",
+      "zh": "我们还不知道顾客会有多少，不能只猜。",
+      "pinyin": "wǒ men hái bù zhī dào gù kè huì yǒu duō shǎo ， bù néng zhǐ cāi 。",
+      "tr": "Kaç müşteri geleceğini bilmiyoruz; yalnızca tahminle olmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_076",
+      "speaker": "张雨桐",
+      "zh": "先做预算，再用调查结果来比较。",
+      "pinyin": "xiān zuò yù suàn ， zài yòng diào chá jié guǒ lái bǐ jiào 。",
+      "tr": "Önce bütçe hazırlayıp anket sonuçlarıyla karşılaştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_077",
+      "speaker": "刘梅",
+      "zh": "两家店的优点和缺点现在清楚多了。",
+      "pinyin": "liǎng jiā diàn de yōu diǎn hé quē diǎn xiàn zài qīng chǔ duō le 。",
+      "tr": "İki dükkânın avantaj ve dezavantajları artık daha net."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_078",
+      "speaker": "张伟",
+      "zh": "第一家位置好，第二家房租低、地方大。",
+      "pinyin": "dì yī jiā wèi zhì hǎo ， dì èr jiā fáng zū dī 、 dì fāng dà 。",
+      "tr": "İlki iyi konumlu; ikincinin kirası düşük ve alanı geniş."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_079",
+      "speaker": "顾客",
+      "zh": "预算里还要留下装修和设备的钱。",
+      "pinyin": "yù suàn lǐ hái yào liú xià zhuāng xiū hé shè bèi de qián 。",
+      "tr": "Bütçede tadilat ve ekipman için de para kalmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_080",
+      "speaker": "张雨桐",
+      "zh": "我整理好比较结果，大家回去再想一想。",
+      "pinyin": "wǒ zhěng lǐ hǎo bǐ jiào jié guǒ ， dà jiā huí qù zài xiǎng yī xiǎng 。",
+      "tr": "Sonuçları düzenleyeyim; herkes eve gidip düşünsün."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_081",
+      "speaker": "刘梅",
+      "zh": "房东说可以再谈，希望我们尽快决定。",
+      "pinyin": "fáng dōng shuō kě yǐ zài tán ， xī wàng wǒ men jǐn kuài jué dìng 。",
+      "tr": "Ev sahibi yeniden konuşabileceğimizi, çabuk karar vermemizi istedi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_082",
+      "speaker": "张伟",
+      "zh": "我们可以告诉他还要核对预算和定价。",
+      "pinyin": "wǒ men kě yǐ gào sù tā hái yào hé duì yù suàn hé dìng jià 。",
+      "tr": "Bütçeyi ve fiyatları daha kontrol etmemiz gerektiğini söyleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_083",
+      "speaker": "顾客",
+      "zh": "虽然想早点开店，但是不能什么都没算好。",
+      "pinyin": "suī rán xiǎng zǎo diǎn kāi diàn ， dàn shì bù néng shén me dōu méi suàn hǎo 。",
+      "tr": "Erken açmak istesek de her şeyi hesaplamadan olmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_084",
+      "speaker": "张雨桐",
+      "zh": "先把需要的数字算清楚，再答复他。",
+      "pinyin": "xiān bǎ xū yào de shù zì suàn qīng chǔ ， zài dá fù tā 。",
+      "tr": "Önce gereken rakamları hesaplayıp sonra cevap verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_085",
+      "speaker": "刘梅",
+      "zh": "水费、租金和管理费我都加进预算了。",
+      "pinyin": "shuǐ fèi 、 zū jīn hé guǎn lǐ fèi wǒ dōu jiā jìn yù suàn le 。",
+      "tr": "Su, kira ve yönetim giderlerini bütçeye ekledim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_086",
+      "speaker": "张伟",
+      "zh": "这样还剩一点钱，能应付小问题。",
+      "pinyin": "zhè yàng hái shèng yì diǎn qián ， néng yìng fù xiǎo wèn tí 。",
+      "tr": "Böylece küçük sorunlar için biraz paramız kalıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_087",
+      "speaker": "顾客",
+      "zh": "如果顾客比预计的少，我们还付得起吗？",
+      "pinyin": "rú guǒ gù kè bǐ yù jì de shǎo ， wǒ men hái fù dé qǐ ma ？",
+      "tr": "Müşteri beklenenden az olursa yine de ödeyebilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_088",
+      "speaker": "张雨桐",
+      "zh": "按少一些的顾客数量再算一次更保险。",
+      "pinyin": "àn shǎo yī xiē de gù kè shù liàng zài suàn yī cì gèng bǎo xiǎn 。",
+      "tr": "Daha düşük müşteri sayısıyla tekrar hesaplamak daha güvenli."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_089",
+      "speaker": "刘梅",
+      "zh": "我觉得现在可以和房东谈一个合适的价格。",
+      "pinyin": "wǒ jué de xiàn zài kě yǐ hé fáng dōng tán yí gè hé shì de jià gé 。",
+      "tr": "Bence artık ev sahibiyle uygun bir fiyat konuşabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_090",
+      "speaker": "张伟",
+      "zh": "先说明预算，再提出我们希望的房租。",
+      "pinyin": "xiān shuō míng yù suàn ， zài tí chū wǒ men xī wàng de fáng zū 。",
+      "tr": "Önce bütçemizi açıklayıp istediğimiz kirayı söyleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_091",
+      "speaker": "顾客",
+      "zh": "如果他不同意，我们就再比较第二家。",
+      "pinyin": "rú guǒ tā bù tóng yì ， wǒ men jiù zài bǐ jiào dì èr jiā 。",
+      "tr": "Kabul etmezse ikinci dükkânı yeniden karşılaştırırız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_092",
+      "speaker": "张雨桐",
+      "zh": "有选择，我们谈起来也更有把握。",
+      "pinyin": "yǒu xuǎn zé ， wǒ men tán qǐ lái yě gèng yǒu bǎ wò 。",
+      "tr": "Seçeneğimiz olunca pazarlıkta daha emin oluruz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_093",
+      "speaker": "刘梅",
+      "zh": "今天我明白了，位置好不代表什么都好。",
+      "pinyin": "jīn tiān wǒ míng bái le ， wèi zhì hǎo bù dài biǎo shén me dōu hǎo 。",
+      "tr": "Bugün konumun iyi olmasının her şeyin iyi olduğu anlamına gelmediğini anladım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_094",
+      "speaker": "张伟",
+      "zh": "虽然房租高，但是也可能带来更多顾客。",
+      "pinyin": "suī rán fáng zū gāo ， dàn shì yě kě néng dài lái gèng duō gù kè 。",
+      "tr": "Kira yüksek olsa da daha fazla müşteri getirebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_095",
+      "speaker": "顾客",
+      "zh": "我们要比较预算、定价和每天的收入。",
+      "pinyin": "wǒ men yào bǐ jiào yù suàn 、 dìng jià hé měi tiān de shōu rù 。",
+      "tr": "Bütçeyi, fiyatları ve günlük geliri karşılaştırmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_096",
+      "speaker": "张雨桐",
+      "zh": "先把数字准备好，再决定这家店值不值得租。",
+      "pinyin": "xiān bǎ shù zì zhǔn bèi hǎo ， zài jué dìng zhè jiā diàn zhí bù zhí dé zū 。",
+      "tr": "Önce rakamları hazırlayıp bu dükkânı tutmaya değip değmediğine karar verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_097",
+      "speaker": "刘梅",
+      "zh": "我会把两家店的优点和缺点再看一遍。",
+      "pinyin": "wǒ huì bǎ liǎng jiā diàn de yōu diǎn hé quē diǎn zài kàn yī biàn 。",
+      "tr": "İki dükkânın avantaj ve dezavantajlarına bir kez daha bakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_098",
+      "speaker": "张伟",
+      "zh": "我明天再问房东租金能不能调整。",
+      "pinyin": "wǒ míng tiān zài wèn fáng dōng zū jīn néng bù néng tiáo zhěng 。",
+      "tr": "Yarın ev sahibine kirayı değiştirip değiştiremeyeceğini soracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_099",
+      "speaker": "顾客",
+      "zh": "我去问附近的人，他们觉得这里的位置怎么样。",
+      "pinyin": "wǒ qù wèn fù jìn de rén ， tā men jué de zhè lǐ de wèi zhì zěn me yàng 。",
+      "tr": "Çevredekilere buranın konumu hakkında ne düşündüklerini sorarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC009_100",
+      "speaker": "张雨桐",
+      "zh": "好，听完大家的意见，我们再决定下一步。",
+      "pinyin": "hǎo ， tīng wán dà jiā de yì jiàn ， wǒ men zài jué dìng xià yī bù 。",
+      "tr": "Güzel; herkesin görüşünü dinleyip sıradaki adımı belirleyelim."
+    }
+  ]
+}

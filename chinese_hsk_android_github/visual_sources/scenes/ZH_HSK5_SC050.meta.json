@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC050.json",
-  "dialogueSha256": "7fd655ca64d8ec31c6d4d06c09dc127446bfde99120015d0791be4dd44da0be6",
+  "dialogueSha256": "9d55479afe51a393257beb6fdc07dfb273e1b0b84b0b278fc63944c919586024",
   "titleZh": "轮到下一代了",
   "titleTr": "Yeni Kuşağın Zamanı",
   "locationId": "LOC_ZH_NEW_HOME_001",

@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK4_SC008",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC008.json",
-  "dialogueSha256": "a5aabe54cbf47f5918e1b562329ae45f3ff9c812dbfe792aa1ac7b84e19f1e74",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC008.json",
+  "dialogueSha256": "bcbd2f9c24c959a523d53afa6eca48e81fb7394cba18c44aa9d006940092690a",
   "titleTr": "Üç Kuşak Akşam Yemeği",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Üç kuşak ev düzeni ve alışkanlıklar hakkında küçük bir fikir ayrılığı yaşar.",
@@ -69,5 +69,7 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi.",
+  "dialogueQaStatus": "PASS",
+  "dialogueQaNoteTr": "Sahneye özgü kaynak konuşma korundu ve iki tekrar bağlama uygun biçimde düzeltildi; 100 tur, aktif hedefler, ID/speaker sırası ve dört ağız çapası doğrulandı."
 }

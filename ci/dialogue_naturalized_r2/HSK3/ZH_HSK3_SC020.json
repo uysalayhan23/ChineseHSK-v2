@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 67,
+  "status": "FINAL_REVIEWED_V67",
+  "sceneId": "ZH_HSK3_SC020",
+  "level": "HSK3",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK3_SC020_001",
+      "speaker": "刘梅",
+      "zh": "今天是咖啡馆第一次试营业，大家都准备好了吗？",
+      "pinyin": "Jīn tiān shì kā fēi guǎn dì yī cì shì yíng yè ， dà jiā dōu zhǔn bèi hǎo le ma ？",
+      "tr": "Bugün kafenin ilk deneme açılışı; herkes hazır mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_002",
+      "speaker": "张伟",
+      "zh": "咖啡机已经检查过了，桌子也收拾好了。",
+      "pinyin": "Kā fēi jī yǐ jīng jiǎn chá guò le ， zhuō zi yě shōu shí hǎo le 。",
+      "tr": "Kahve makinesini kontrol ettim, masaları da hazırladım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_003",
+      "speaker": "顾客",
+      "zh": "我第一次来，店里很舒服，也很亮堂。",
+      "pinyin": "Wǒ dì yī cì lái ， diàn lǐ hěn shū fú ， yě hěn liàng táng 。",
+      "tr": "İlk kez geliyorum; dükkân çok rahat ve aydınlık."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_004",
+      "speaker": "张雨桐",
+      "zh": "欢迎你来帮我们试试服务，有什么想法都可以说。",
+      "pinyin": "Huān yíng nǐ lái bāng wǒ men shì shì fú wù ， yǒu shén me xiǎng fǎ dōu kě yǐ shuō 。",
+      "tr": "Hizmeti denememize yardım etmek için geldiğine sevindik; her fikrini söyleyebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_005",
+      "speaker": "刘梅",
+      "zh": "请先坐这里，我给你拿一份菜单。",
+      "pinyin": "Qǐng xiān zuò zhè lǐ ， wǒ gěi nǐ ná yī fèn cài dān 。",
+      "tr": "Şuraya otur, sana bir menü getireyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_006",
+      "speaker": "张伟",
+      "zh": "谢谢，我先看看今天有什么饮料和点心。",
+      "pinyin": "Xiè xiè ， wǒ xiān kàn kàn jīn tiān yǒu shén me yǐn liào hé diǎn xīn 。",
+      "tr": "Teşekkürler, bugün hangi içecek ve tatlılar var önce bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_007",
+      "speaker": "顾客",
+      "zh": "你喜欢喝咖啡还是茶？",
+      "pinyin": "Nǐ xǐ huān hē kā fēi hái shì chá ？",
+      "tr": "Kahve mi, çay mı içmeyi seversin?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_008",
+      "speaker": "张雨桐",
+      "zh": "我想先喝一杯热咖啡，再尝一块蛋糕。",
+      "pinyin": "Wǒ xiǎng xiān hē yī bēi rè kā fēi ， zài cháng yī kuài dàn gāo 。",
+      "tr": "Önce sıcak bir kahve içip sonra bir dilim pasta tatmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_009",
+      "speaker": "刘梅",
+      "zh": "好，我来记下你的选择。",
+      "pinyin": "Hǎo ， wǒ lái jì xià nǐ de xuǎn zé 。",
+      "tr": "Peki, seçimini not edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_010",
+      "speaker": "张伟",
+      "zh": "我来准备咖啡，你把蛋糕放到盘子里。",
+      "pinyin": "Wǒ lái zhǔn bèi kā fēi ， nǐ bǎ dàn gāo fàng dào pán zi lǐ 。",
+      "tr": "Kahveyi ben hazırlayayım; pastayı tabağa koy."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_011",
+      "speaker": "顾客",
+      "zh": "我不着急，你们按平时的安排来就好。",
+      "pinyin": "Wǒ bù zháo jí ， nǐ men àn píng shí de ān pái lái jiù hǎo 。",
+      "tr": "Acele etmiyorum; her zamanki düzeninizle hazırlayın."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_012",
+      "speaker": "张雨桐",
+      "zh": "谢谢，我们正好想看看服务顺不顺。",
+      "pinyin": "Xiè xiè ， wǒ men zhèng hǎo xiǎng kàn kàn fú wù shùn bù shùn 。",
+      "tr": "Teşekkürler; hizmet akışının nasıl olduğunu görmek istiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_013",
+      "speaker": "刘梅",
+      "zh": "咖啡好了，我一边端过去一边提醒你小心烫。",
+      "pinyin": "Kā fēi hǎo le ， wǒ yī biān duān guò qù yī biān tí xǐng nǐ xiǎo xīn tàng 。",
+      "tr": "Kahve hazır; götürürken sıcak olduğunu da söyleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_014",
+      "speaker": "张伟",
+      "zh": "闻起来很香，杯子也不烫手。",
+      "pinyin": "Wén qǐ lái hěn xiāng ， bēi zi yě bù tàng shǒu 。",
+      "tr": "Güzel kokuyor; fincan da tutulamayacak kadar sıcak değil."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_015",
+      "speaker": "顾客",
+      "zh": "蛋糕也放好了，你先尝尝看。",
+      "pinyin": "Dàn gāo yě fàng hǎo le ， nǐ xiān cháng cháng kàn 。",
+      "tr": "Pastayı da koydum; önce tadına bak."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_016",
+      "speaker": "张雨桐",
+      "zh": "好吃，奶油不太甜，配咖啡正合适。",
+      "pinyin": "Hǎo chī ， nǎi yóu bù tài tián ， pèi kā fēi zhèng hé shì 。",
+      "tr": "Lezzetli; kreması çok tatlı değil, kahvenin yanında tam oldu."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_017",
+      "speaker": "刘梅",
+      "zh": "谢谢你的意见，我们记下来了。",
+      "pinyin": "Xiè xiè nǐ de yì jiàn ， wǒ men jì xià lái le 。",
+      "tr": "Görüşün için teşekkürler, not ettik."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_018",
+      "speaker": "张伟",
+      "zh": "桌上的水和纸巾够不够？",
+      "pinyin": "Zhuō shàng de shuǐ hé zhǐ jīn gòu bù gòu ？",
+      "tr": "Masadaki su ve peçete yeterli mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_019",
+      "speaker": "顾客",
+      "zh": "水够了，不过我还想要一张纸巾。",
+      "pinyin": "Shuǐ gòu le ， bù guò wǒ hái xiǎng yào yī zhāng zhǐ jīn 。",
+      "tr": "Su yeterli ama bir peçete daha alabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_020",
+      "speaker": "张雨桐",
+      "zh": "当然，我马上拿给你。",
+      "pinyin": "Dāng rán ， wǒ mǎ shàng ná gěi nǐ 。",
+      "tr": "Tabii, hemen getireyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_021",
+      "speaker": "刘梅",
+      "zh": "你觉得刚才等咖啡的时间长吗？",
+      "pinyin": "Nǐ jué de gāng cái děng kā fēi de shí jiān zhǎng ma ？",
+      "tr": "Az önce kahveyi bekleme süresi uzun muydu?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_022",
+      "speaker": "张伟",
+      "zh": "不算长，我看你们在忙，也没有等太久。",
+      "pinyin": "Bù suàn zhǎng ， wǒ kàn nǐ men zài máng ， yě méi yǒu děng tài jiǔ 。",
+      "tr": "Çok uzun değildi; meşgul olduğunuzu gördüm ve fazla beklemedim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_023",
+      "speaker": "顾客",
+      "zh": "如果店里客人多，我们要怎么安排？",
+      "pinyin": "Rú guǒ diàn lǐ kè rén duō ， wǒ men yào zěn me ān pái ？",
+      "tr": "Dükkânda müşteri çok olursa nasıl bir düzen kurmalıyız?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_024",
+      "speaker": "张雨桐",
+      "zh": "可以先记下点单，再按顺序送到桌上。",
+      "pinyin": "Kě yǐ xiān jì xià diǎn dān ， zài àn shùn xù sòng dào zhuō shàng 。",
+      "tr": "Önce siparişleri not edip sonra sırayla masalara götürebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_025",
+      "speaker": "刘梅",
+      "zh": "这个办法不错，大家就不容易弄错。",
+      "pinyin": "Zhè ge bàn fǎ bù cuò ， dà jiā jiù bù róng yì nòng cuò 。",
+      "tr": "Güzel yöntem; böylece siparişleri karıştırmak zorlaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_026",
+      "speaker": "张伟",
+      "zh": "我也可以把桌号写下来，送的时候再检查一次。",
+      "pinyin": "Wǒ yě kě yǐ bǎ zhuō hào xiě xià lái ， sòng de shí hòu zài jiǎn chá yī cì 。",
+      "tr": "Masa numarasını da yazıp götürürken bir kez daha kontrol edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_027",
+      "speaker": "顾客",
+      "zh": "我刚才看到你们一边做咖啡一边聊天，很自然。",
+      "pinyin": "Wǒ gāng cái kàn dào nǐ men yī biān zuò kā fēi yī biān liáo tiān ， hěn zì rán 。",
+      "tr": "Az önce kahve hazırlarken sohbet ettiğinizi gördüm; çok doğal duruyordu."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_028",
+      "speaker": "张雨桐",
+      "zh": "我们还在练习，不过客人来了就要先照顾客人。",
+      "pinyin": "Wǒ men hái zài liàn xí ， bù guò kè rén lái le jiù yào xiān zhào gù kè rén 。",
+      "tr": "Daha pratik yapıyoruz ama müşteri gelince önce onunla ilgilenmeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_029",
+      "speaker": "刘梅",
+      "zh": "我听说今天只请了几位熟人来试营业。",
+      "pinyin": "Wǒ tīng shuō jīn tiān zhǐ qǐng le jǐ wèi shú rén lái shì yíng yè 。",
+      "tr": "Bugün deneme açılışına yalnızca birkaç tanıdık çağırdığınızı duydum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_030",
+      "speaker": "张伟",
+      "zh": "对，我们想先试试菜单和服务，再正式开门。",
+      "pinyin": "Duì ， wǒ men xiǎng xiān shì shì cài dān hé fú wù ， zài zhèng shì kāi mén 。",
+      "tr": "Evet, resmen açmadan önce menüyü ve hizmeti denemek istiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_031",
+      "speaker": "顾客",
+      "zh": "那我可以再点一杯茶，试试不同的饮料吗？",
+      "pinyin": "Nà wǒ kě yǐ zài diǎn yī bēi chá ， shì shì bù tóng de yǐn liào ma ？",
+      "tr": "O zaman farklı bir içeceği denemek için bir çay daha söyleyebilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_032",
+      "speaker": "张雨桐",
+      "zh": "当然可以，你想要热茶还是冰茶？",
+      "pinyin": "Dāng rán kě yǐ ， nǐ xiǎng yào rè chá hái shì bīng chá ？",
+      "tr": "Elbette; sıcak çay mı soğuk çay mı istersin?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_033",
+      "speaker": "刘梅",
+      "zh": "热茶就好，不用加糖。",
+      "pinyin": "Rè chá jiù hǎo ， bù yòng jiā táng 。",
+      "tr": "Sıcak çay olsun, şeker eklemeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_034",
+      "speaker": "张伟",
+      "zh": "我记下来了，不加糖的热茶。",
+      "pinyin": "Wǒ jì xià lái le ， bù jiā táng de rè chá 。",
+      "tr": "Not ettim: şekersiz sıcak çay."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_035",
+      "speaker": "顾客",
+      "zh": "谢谢，你们先忙，我在这里等。",
+      "pinyin": "Xiè xiè ， nǐ men xiān máng ， wǒ zài zhè lǐ děng 。",
+      "tr": "Teşekkürler, siz işinize bakın; ben burada beklerim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_036",
+      "speaker": "张雨桐",
+      "zh": "茶马上好，我也给你换一个干净的杯子。",
+      "pinyin": "Chá mǎ shàng hǎo ， wǒ yě gěi nǐ huàn yí gè gān jìng de bēi zi 。",
+      "tr": "Çay hemen hazır; sana temiz bir fincan da getireyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_037",
+      "speaker": "刘梅",
+      "zh": "这杯茶味道很清淡，喝起来很舒服。",
+      "pinyin": "Zhè bēi chá wèi dào hěn qīng dàn ， hē qǐ lái hěn shū fú 。",
+      "tr": "Bu çayın tadı hafif; içmesi çok rahat."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_038",
+      "speaker": "张伟",
+      "zh": "太好了，茶的温度合适吗？",
+      "pinyin": "Tài hǎo le ， chá de wēn dù hé shì ma ？",
+      "tr": "Harika, çayın sıcaklığı uygun mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_039",
+      "speaker": "顾客",
+      "zh": "合适，我不用等它凉下来。",
+      "pinyin": "Hé shì ， wǒ bù yòng děng tā liáng xià lái 。",
+      "tr": "Uygun; soğumasını beklemem gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_040",
+      "speaker": "张雨桐",
+      "zh": "那我把这个意见也记下来。",
+      "pinyin": "Nà wǒ bǎ zhè ge yì jiàn yě jì xià lái 。",
+      "tr": "Bu görüşü de not edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_041",
+      "speaker": "刘梅",
+      "zh": "刚才进门的时候，菜单放在桌上了吗？",
+      "pinyin": "Gāng cái jìn mén de shí hòu ， cài dān fàng zài zhuō shàng le ma ？",
+      "tr": "Az önce içeri girdiğimde menü masada mıydı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_042",
+      "speaker": "张伟",
+      "zh": "放好了，不过靠门的那张桌子还少一套餐具。",
+      "pinyin": "Fàng hǎo le ， bù guò kào mén de nà zhāng zhuō zi hái shǎo yī tào cān jù 。",
+      "tr": "Koymuştuk ama kapı yanındaki masada bir takım eksik."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_043",
+      "speaker": "顾客",
+      "zh": "我去拿一套餐具，顺便把桌面擦一下。",
+      "pinyin": "Wǒ qù ná yī tào cān jù ， shùn biàn bǎ zhuō miàn cā yī xià 。",
+      "tr": "Bir takım daha alıp masayı da sileyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_044",
+      "speaker": "张雨桐",
+      "zh": "谢谢，客人进来以前检查一下就更好。",
+      "pinyin": "Xiè xiè ， kè rén jìn lái yǐ qián jiǎn chá yī xià jiù gèng hǎo 。",
+      "tr": "Teşekkürler; müşteri gelmeden önce kontrol etmek iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_045",
+      "speaker": "刘梅",
+      "zh": "如果你们想再尝一种点心，我可以介绍一下。",
+      "pinyin": "Rú guǒ nǐ men xiǎng zài cháng yī zhǒng diǎn xīn ， wǒ kě yǐ jiè shào yī xià 。",
+      "tr": "Bir tatlı daha denemek isterseniz anlatabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_046",
+      "speaker": "张伟",
+      "zh": "那块水果蛋糕是什么味道？",
+      "pinyin": "Nà kuài shuǐ guǒ dàn gāo shì shén me wèi dào ？",
+      "tr": "Meyveli pastanın tadı nasıl?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_047",
+      "speaker": "顾客",
+      "zh": "里面有草莓和奶油，吃起来比较清爽。",
+      "pinyin": "Lǐ miàn yǒu cǎo méi hé nǎi yóu ， chī qǐ lái bǐ jiào qīng shuǎng 。",
+      "tr": "İçinde çilek ve krema var; tadı daha ferah."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_048",
+      "speaker": "张雨桐",
+      "zh": "听起来不错，给我一小块就行。",
+      "pinyin": "Tīng qǐ lái bù cuò ， gěi wǒ yī xiǎo kuài jiù xíng 。",
+      "tr": "Güzelmiş; bana küçük bir dilim yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_049",
+      "speaker": "刘梅",
+      "zh": "我切小一点，放在这个盘子里。",
+      "pinyin": "Wǒ qiè xiǎo yì diǎn ， fàng zài zhè ge pán zi lǐ 。",
+      "tr": "Biraz küçük kesip bu tabağa koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_050",
+      "speaker": "张伟",
+      "zh": "谢谢，盘子边上有一点奶油，擦掉就好。",
+      "pinyin": "Xiè xiè ， pán zi biān shàng yǒu yì diǎn nǎi yóu ， cā diào jiù hǎo 。",
+      "tr": "Teşekkürler; tabağın kenarında biraz krema var, silmek yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_051",
+      "speaker": "顾客",
+      "zh": "我换个干净的盘子，不让你等。",
+      "pinyin": "Wǒ huàn gè gān jìng de pán zi ， bù ràng nǐ děng 。",
+      "tr": "Temiz bir tabak getireyim, seni bekletmeyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_052",
+      "speaker": "张雨桐",
+      "zh": "不用着急，这样服务已经很周到了。",
+      "pinyin": "Bù yòng zháo jí ， zhè yàng fú wù yǐ jīng hěn zhōu dào le 。",
+      "tr": "Acele etme, hizmet zaten özenli."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_053",
+      "speaker": "刘梅",
+      "zh": "今天我负责接单，你帮忙把饮料送出去。",
+      "pinyin": "Jīn tiān wǒ fù zé jiē dān ， nǐ bāng máng bǎ yǐn liào sòng chū qù 。",
+      "tr": "Bugün siparişleri ben alacağım; sen içecekleri götürmeye yardım et."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_054",
+      "speaker": "张伟",
+      "zh": "好，我先把这一桌送好，再去看另一桌。",
+      "pinyin": "Hǎo ， wǒ xiān bǎ zhè yī zhuō sòng hǎo ， zài qù kàn lìng yī zhuō 。",
+      "tr": "Olur, önce bu masaya götürüp sonra diğerine bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_055",
+      "speaker": "顾客",
+      "zh": "我看你们配合得越来越好了。",
+      "pinyin": "Wǒ kàn nǐ men pèi hé dé yuè lái yuè hǎo le 。",
+      "tr": "Birbirinizle giderek daha iyi çalışıyorsunuz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_056",
+      "speaker": "张雨桐",
+      "zh": "熟悉以后，我们就能做得更快，也不容易出错。",
+      "pinyin": "Shú xī yǐ hòu ， wǒ men jiù néng zuò dé gèng kuài ， yě bù róng yì chū cuò 。",
+      "tr": "Birbirimize alışınca daha hızlı çalışır ve daha az hata yaparız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_057",
+      "speaker": "刘梅",
+      "zh": "刚才那位客人问有没有牛奶，我们应该怎么回答？",
+      "pinyin": "Gāng cái nà wèi kè rén wèn yǒu méi yǒu niú nǎi ， wǒ men yīng gāi zěn me huí dá ？",
+      "tr": "Az önceki müşteri süt olup olmadığını sordu; nasıl cevap vermeliyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_058",
+      "speaker": "张伟",
+      "zh": "先告诉他有什么选择，再确认他想要哪一种。",
+      "pinyin": "Xiān gào sù tā yǒu shén me xuǎn zé ， zài què rèn tā xiǎng yào nǎ yī zhǒng 。",
+      "tr": "Önce seçenekleri anlatıp sonra hangisini istediğini teyit etmeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_059",
+      "speaker": "顾客",
+      "zh": "如果客人不喝牛奶，就可以换成茶。",
+      "pinyin": "Rú guǒ kè rén bù hē niú nǎi ， jiù kě yǐ huàn chéng chá 。",
+      "tr": "Müşteri süt içmiyorsa çay önerebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_060",
+      "speaker": "张雨桐",
+      "zh": "对，先听清楚需要，再给客人合适的选择。",
+      "pinyin": "Duì ， xiān tīng qīng chǔ xū yào ， zài gěi kè rén hé shì de xuǎn zé 。",
+      "tr": "Evet, önce ihtiyacını iyi dinleyip uygun bir seçenek sunalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_061",
+      "speaker": "刘梅",
+      "zh": "我坐了一会儿，觉得桌子之间走路很方便。",
+      "pinyin": "Wǒ zuò le yī huì er ， jué de zhuō zi zhī jiān zǒu lù hěn fāng biàn 。",
+      "tr": "Bir süredir oturuyorum; masaların arasında yürümek rahat."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_062",
+      "speaker": "张伟",
+      "zh": "谢谢，我们摆桌子的时候特意留了空位。",
+      "pinyin": "Xiè xiè ， wǒ men bǎi zhuō zi de shí hòu tè yì liú le kòng wèi 。",
+      "tr": "Teşekkürler, masaları dizerken özellikle boşluk bıraktık."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_063",
+      "speaker": "顾客",
+      "zh": "如果客人带着孩子来，也有地方可以坐。",
+      "pinyin": "Rú guǒ kè rén dài zhe hái zi lái ， yě yǒu dì fāng kě yǐ zuò 。",
+      "tr": "Çocuklu müşteri gelirse oturacak yer de var."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_064",
+      "speaker": "张雨桐",
+      "zh": "那太好了，我们希望每位客人都坐得舒服。",
+      "pinyin": "Nà tài hǎo le ， wǒ men xī wàng měi wèi kè rén dōu zuò dé shū fú 。",
+      "tr": "Çok iyi; her müşterinin rahat etmesini istiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_065",
+      "speaker": "刘梅",
+      "zh": "你们的菜单不复杂，第一次来的人也看得懂。",
+      "pinyin": "Nǐ men de cài dān bù fù zá ， dì yī cì lái de rén yě kàn de dǒng 。",
+      "tr": "Menünüz karmaşık değil; ilk kez gelenler de anlayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_066",
+      "speaker": "张伟",
+      "zh": "我们先放最常点的饮料，以后再慢慢增加。",
+      "pinyin": "Wǒ men xiān fàng zuì cháng diǎn de yǐn liào ， yǐ hòu zài màn màn zēng jiā 。",
+      "tr": "Önce en çok sipariş edilen içecekleri koyduk; sonra yavaş yavaş artırırız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_067",
+      "speaker": "顾客",
+      "zh": "这样比较好，不用一下子准备太多东西。",
+      "pinyin": "Zhè yàng bǐ jiào hǎo ， bù yòng yī xià zi zhǔn bèi tài duō dōng xī 。",
+      "tr": "Böylesi iyi; bir anda çok fazla şey hazırlamak zorunda kalmazsınız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_068",
+      "speaker": "张雨桐",
+      "zh": "对，试营业就是想先看看大家喜欢什么。",
+      "pinyin": "Duì ， shì yíng yè jiù shì xiǎng xiān kàn kàn dà jiā xǐ huān shén me 。",
+      "tr": "Evet, deneme açılışında insanların neleri sevdiğini görmek istiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_069",
+      "speaker": "刘梅",
+      "zh": "你们今天已经收到不少有用的意见了。",
+      "pinyin": "Nǐ men jīn tiān yǐ jīng shōu dào bù shǎo yǒu yòng de yì jiàn le 。",
+      "tr": "Bugün epey faydalı görüş aldınız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_070",
+      "speaker": "张伟",
+      "zh": "我把服务上的建议写在本子里了。",
+      "pinyin": "Wǒ bǎ fú wù shàng de jiàn yì xiě zài běn zi lǐ le 。",
+      "tr": "Hizmetle ilgili önerileri deftere yazdım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_071",
+      "speaker": "顾客",
+      "zh": "我也记下了咖啡和蛋糕的评价。",
+      "pinyin": "Wǒ yě jì xià le kā fēi hé dàn gāo de píng jià 。",
+      "tr": "Kahve ve pastayla ilgili değerlendirmeleri de not ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_072",
+      "speaker": "张雨桐",
+      "zh": "回头我们一起看，再决定要不要调整菜单。",
+      "pinyin": "Huí tóu wǒ men yì qǐ kàn ， zài jué dìng yào bú yào tiáo zhěng cài dān 。",
+      "tr": "Sonra birlikte bakıp menüyü değiştirip değiştirmeyeceğimize karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_073",
+      "speaker": "刘梅",
+      "zh": "你觉得哪一点最需要改进？",
+      "pinyin": "Nǐ jué de nǎ yì diǎn zuì xū yào gǎi jìn ？",
+      "tr": "Sence en çok hangi noktayı geliştirmeliyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_074",
+      "speaker": "张伟",
+      "zh": "刚开门时，最好有人站在门口欢迎客人。",
+      "pinyin": "Gāng kāi mén shí ， zuì hǎo yǒu rén zhàn zài mén kǒu huān yíng kè rén 。",
+      "tr": "Kapılar yeni açıldığında müşterileri karşılamak için kapıda biri dursa iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_075",
+      "speaker": "顾客",
+      "zh": "我可以负责欢迎客人，也可以告诉他们哪里有座位。",
+      "pinyin": "Wǒ kě yǐ fù zé huān yíng kè rén ， yě kě yǐ gào sù tā men nǎ lǐ yǒu zuò wèi 。",
+      "tr": "Müşterileri ben karşılayıp boş yerleri gösterebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_076",
+      "speaker": "张雨桐",
+      "zh": "好，我负责接单，你负责带客人入座。",
+      "pinyin": "Hǎo ， wǒ fù zé jiē dān ， nǐ fù zé dài kè rén rù zuò 。",
+      "tr": "Olur, siparişleri ben alayım; sen de müşterileri masalarına götür."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_077",
+      "speaker": "刘梅",
+      "zh": "这样安排很清楚，大家都知道自己要做什么。",
+      "pinyin": "Zhè yàng ān pái hěn qīng chǔ ， dà jiā dōu zhī dào zì jǐ yào zuò shén me 。",
+      "tr": "Bu düzen açık; herkes ne yapacağını biliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_078",
+      "speaker": "张伟",
+      "zh": "如果有人需要帮忙，我们也可以互相照应。",
+      "pinyin": "Rú guǒ yǒu rén xū yào bāng máng ， wǒ men yě kě yǐ hù xiāng zhào yìng 。",
+      "tr": "Birinin yardıma ihtiyacı olursa birbirimize destek olabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_079",
+      "speaker": "顾客",
+      "zh": "我觉得今天的服务比刚开始顺多了。",
+      "pinyin": "Wǒ jué de jīn tiān de fú wù bǐ gāng kāi shǐ shùn duō le 。",
+      "tr": "Bence hizmet şimdi başlangıca göre çok daha akıcı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_080",
+      "speaker": "张雨桐",
+      "zh": "是啊，大家一边工作一边沟通，问题很快就解决了。",
+      "pinyin": "Shì a ， dà jiā yī biān gōng zuò yī biān gōu tōng ， wèn tí hěn kuài jiù jiě jué le 。",
+      "tr": "Evet, çalışırken iletişimde kaldık; sorunları çabucak çözdük."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_081",
+      "speaker": "刘梅",
+      "zh": "咖啡和点心都尝过了，我最喜欢草莓蛋糕。",
+      "pinyin": "Kā fēi hé diǎn xīn dōu cháng guò le ， wǒ zuì xǐ huān cǎo méi dàn gāo 。",
+      "tr": "Kahve ve tatlıları denedim; en çok çilekli pastayı sevdim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_082",
+      "speaker": "张伟",
+      "zh": "谢谢你告诉我们，下次可以多准备一点。",
+      "pinyin": "Xiè xiè nǐ gào sù wǒ men ， xià cì kě yǐ duō zhǔn bèi yì diǎn 。",
+      "tr": "Söylediğin için teşekkürler; bir dahaki sefere biraz daha fazla hazırlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_083",
+      "speaker": "顾客",
+      "zh": "不过先看今天有多少人点，再决定数量。",
+      "pinyin": "Bù guò xiān kàn jīn tiān yǒu duō shǎo rén diǎn ， zài jué dìng shù liàng 。",
+      "tr": "Ama miktara karar vermeden önce bugün kaç kişinin sipariş ettiğine bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_084",
+      "speaker": "张雨桐",
+      "zh": "好，这样就不会准备太多，也不会不够。",
+      "pinyin": "Hǎo ， zhè yàng jiù bú huì zhǔn bèi tài duō ， yě bú huì bù gòu 。",
+      "tr": "Olur; böylece ne fazla hazırlarız ne de yetmez."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_085",
+      "speaker": "刘梅",
+      "zh": "今天的试营业快结束了，你们觉得怎么样？",
+      "pinyin": "Jīn tiān de shì yíng yè kuài jié shù le ， nǐ men jué de zěn me yàng ？",
+      "tr": "Bugünkü deneme açılışı bitmek üzere; sizce nasıldı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_086",
+      "speaker": "张伟",
+      "zh": "我觉得服务很亲切，等咖啡的时间也可以接受。",
+      "pinyin": "Wǒ jué de fú wù hěn qīn qiè ， děng kā fēi de shí jiān yě kě yǐ jiē shòu 。",
+      "tr": "Hizmetiniz çok samimiydi; kahve için beklemek de sorun olmadı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_087",
+      "speaker": "顾客",
+      "zh": "我很高兴听到这个评价，我们会继续改进。",
+      "pinyin": "Wǒ hěn gāo xìng tīng dào zhè ge píng jià ， wǒ men huì jì xù gǎi jìn 。",
+      "tr": "Bu değerlendirmeyi duymak güzel; geliştirmeye devam edeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_088",
+      "speaker": "张雨桐",
+      "zh": "下次如果你有空，欢迎再来试试。",
+      "pinyin": "Xià cì rú guǒ nǐ yǒu kòng ， huān yíng zài lái shì shì 。",
+      "tr": "Bir dahaki sefere vaktin olursa yine denemeye gel."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_089",
+      "speaker": "刘梅",
+      "zh": "当然，我愿意再来，也可以带朋友一起。",
+      "pinyin": "Dāng rán ， wǒ yuàn yì zài lái ， yě kě yǐ dài péng yǒu yì qǐ 。",
+      "tr": "Elbette, yine gelirim; arkadaşlarımı da getirebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_090",
+      "speaker": "张伟",
+      "zh": "太好了，不过今天先谢谢你帮我们试营业。",
+      "pinyin": "Tài hǎo le ， bù guò jīn tiān xiān xiè xiè nǐ bāng wǒ men shì yíng yè 。",
+      "tr": "Harika; bugün deneme açılışımıza yardım ettiğin için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_091",
+      "speaker": "顾客",
+      "zh": "不客气，我也很高兴能给你们一些意见。",
+      "pinyin": "Bù kè qì ， wǒ yě hěn gāo xìng néng gěi nǐ men yī xiē yì jiàn 。",
+      "tr": "Rica ederim; size fikir verebildiğim için ben de sevindim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_092",
+      "speaker": "张雨桐",
+      "zh": "我们会把意见整理好，明天再检查一次服务安排。",
+      "pinyin": "Wǒ men huì bǎ yì jiàn zhěng lǐ hǎo ， míng tiān zài jiǎn chá yī cì fú wù ān pái 。",
+      "tr": "Görüşleri düzenleyip yarın hizmet planını bir kez daha kontrol edeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_093",
+      "speaker": "刘梅",
+      "zh": "如果安排合适，正式开门以后就会更顺利。",
+      "pinyin": "Rú guǒ ān pái hé shì ， zhèng shì kāi mén yǐ hòu jiù huì gèng shùn lì 。",
+      "tr": "Düzen uygunsa resmî açılıştan sonra her şey daha akıcı olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_094",
+      "speaker": "张伟",
+      "zh": "对，今天先发现问题，明天就能改好。",
+      "pinyin": "Duì ， jīn tiān xiān fā xiàn wèn tí ， míng tiān jiù néng gǎi hǎo 。",
+      "tr": "Evet, sorunları bugün fark edip yarın düzeltebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_095",
+      "speaker": "顾客",
+      "zh": "我把桌面收拾好，你把机器关掉。",
+      "pinyin": "Wǒ bǎ zhuō miàn shōu shí hǎo ， nǐ bǎ jī qì guān diào 。",
+      "tr": "Masayı ben toplayayım, sen de makineyi kapat."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_096",
+      "speaker": "张雨桐",
+      "zh": "好，明天开门前我们再一起检查。",
+      "pinyin": "Hǎo ， míng tiān kāi mén qián wǒ men zài yì qǐ jiǎn chá 。",
+      "tr": "Olur, yarın açmadan önce birlikte yeniden kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_097",
+      "speaker": "刘梅",
+      "zh": "今天大家都很忙，先把意见和记录收好。",
+      "pinyin": "Jīn tiān dà jiā dōu hěn máng ， xiān bǎ yì jiàn hé jì lù shōu hǎo 。",
+      "tr": "Bugün herkes çok yoğundu; önce görüşleri ve notları toparlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_098",
+      "speaker": "张伟",
+      "zh": "我把检查清单放在柜台上，明天照着看。",
+      "pinyin": "Wǒ bǎ jiǎn chá qīng dān fàng zài guì tái shàng ， míng tiān zhào zhe kàn 。",
+      "tr": "Kontrol listesini tezgâha bırakayım; yarın ona göre bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_099",
+      "speaker": "顾客",
+      "zh": "谢谢你们邀请我来，我很期待正式开门。",
+      "pinyin": "Xiè xiè nǐ men yāo qǐng wǒ lái ， wǒ hěn qī dài zhèng shì kāi mén 。",
+      "tr": "Beni çağırdığınız için teşekkürler; resmî açılışı merakla bekliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC020_100",
+      "speaker": "张雨桐",
+      "zh": "下次见，开门以后也欢迎你常来。",
+      "pinyin": "Xià cì jiàn ， kāi mén yǐ hòu yě huān yíng nǐ cháng lái 。",
+      "tr": "Görüşmek üzere; açıldıktan sonra da sık sık gel."
+    }
+  ]
+}

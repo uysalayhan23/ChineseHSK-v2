@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC012",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC012.json",
-  "dialogueSha256": "378039e75f8fc041dd061a626c129b1cac63b51b899d87aa12ac69a8394f94ea",
+  "dialogueSha256": "861e7af6b7025d5385e3d2346aa4aaaa8222bb1444985e4e0ba1502af02bf7ad",
   "titleZh": "第一个大客户",
   "titleTr": "İlk Büyük Müşteri",
   "locationId": "LOC_ZH_PHOTO_STUDIO_001",

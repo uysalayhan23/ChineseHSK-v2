@@ -1,0 +1,764 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK1_SC008",
+  "level": "HSK1",
+  "sourceTitleZh": "认识李晨",
+  "sourceTitleTr": "Li Chen ile Tanışma",
+  "sourceMiniAdventureTr": "Li Chen aileye yardım teklif eder; bu tanışma uzun bir dostluğun başlangıcı olur.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK1_SC008_001",
+      "speaker": "张伟",
+      "zh": "这个箱子有点重，我来拿。",
+      "pinyin": "Zhè ge xiāng zi yǒu diǎn zhòng, wǒ lái ná.",
+      "tr": "Bu bavul biraz ağır, ben taşıyayım.",
+      "emotion": "neutral",
+      "actionTr": "Ağır bavulu tutmak için eğilir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_002",
+      "speaker": "刘梅",
+      "zh": "慢一点，别碰到孩子。",
+      "pinyin": "Màn yì diǎn, bié pèng dào hái zi.",
+      "tr": "Yavaş ol, çocuklara çarpmasın.",
+      "emotion": "worried",
+      "actionTr": "Çocuklar için biraz alan açar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_003",
+      "speaker": "李晨",
+      "zh": "您好，我帮您扶一下吧。",
+      "pinyin": "Nín hǎo, wǒ bāng nín fú yī xià ba.",
+      "tr": "Merhaba, biraz tutmanıza yardım edeyim.",
+      "emotion": "comforting",
+      "actionTr": "Bavulu tutmaya yardım eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_004",
+      "speaker": "张乐乐",
+      "zh": "叔叔，谢谢你！",
+      "pinyin": "Shū shu, xiè xiè nǐ!",
+      "tr": "Amca, teşekkür ederim!",
+      "emotion": "happy",
+      "actionTr": "Yardım eden yetişkine teşekkür eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_005",
+      "speaker": "张伟",
+      "zh": "谢谢，放在旁边就行。",
+      "pinyin": "Xiè xiè, fàng zài páng biān jiù xíng.",
+      "tr": "Teşekkürler, yan tarafa koymanız yeterli."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_006",
+      "speaker": "刘梅",
+      "zh": "我们东西太多了，真不好意思。",
+      "pinyin": "Wǒ men dōng xi tài duō le, zhēn bù hǎo yì sī.",
+      "tr": "Çok eşyamız var, zahmet oldu.",
+      "emotion": "worried",
+      "actionTr": "Çok eşya için mahcupça gülümser."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_007",
+      "speaker": "李晨",
+      "zh": "没关系，刚下火车吧？",
+      "pinyin": "Méi guān xì, gāng xià huǒ chē ba?",
+      "tr": "Sorun değil, trenden yeni indiniz sanırım?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_008",
+      "speaker": "张乐乐",
+      "zh": "对，我们今天搬家！",
+      "pinyin": "Duì, wǒ men jīn tiān bān jiā!",
+      "tr": "Evet, bugün taşınıyoruz!"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_009",
+      "speaker": "张伟",
+      "zh": "我们刚到这个城市。",
+      "pinyin": "Wǒ men gāng dào zhè ge chéng shì.",
+      "tr": "Bu şehre yeni geldik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_010",
+      "speaker": "刘梅",
+      "zh": "路还不熟，正在等车。",
+      "pinyin": "Lù hái bù shú, zhèng zài děng chē.",
+      "tr": "Yolları henüz bilmiyoruz, araç bekliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_011",
+      "speaker": "李晨",
+      "zh": "我住在这里，有需要就问我。",
+      "pinyin": "Wǒ zhù zài zhè lǐ, yǒu xū yào jiù wèn wǒ.",
+      "tr": "Ben burada yaşıyorum, bir şey gerekirse bana sorabilirsiniz.",
+      "emotion": "comforting",
+      "actionTr": "Yerel bilgi konusunda yardım teklif eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_012",
+      "speaker": "张乐乐",
+      "zh": "你知道去我们家的路吗？",
+      "pinyin": "Nǐ zhī dào qù wǒ men jiā de lù ma?",
+      "tr": "Bizim eve giden yolu biliyor musun?",
+      "emotion": "curious",
+      "actionTr": "Yeni eve giden yolu sorar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_013",
+      "speaker": "张伟",
+      "zh": "乐乐，先让叔叔说完。",
+      "pinyin": "Lè le, xiān ràng shū shu shuō wán.",
+      "tr": "Lele, önce amcanın sözünü bitirmesini bekle.",
+      "emotion": "neutral",
+      "actionTr": "Oğluna konuşma sırasını beklemesini gösterir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_014",
+      "speaker": "刘梅",
+      "zh": "孩子太想看新家了。",
+      "pinyin": "Hái zi tài xiǎng kàn xīn jiā le.",
+      "tr": "Çocuk yeni evi görmeyi çok istiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_015",
+      "speaker": "李晨",
+      "zh": "我得看看地址，才知道在哪儿。",
+      "pinyin": "Wǒ děi kàn kan dì zhǐ, cái zhī dào zài nǎr.",
+      "tr": "Nerede olduğunu anlamak için adresi görmem gerek."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_016",
+      "speaker": "张乐乐",
+      "zh": "啊，你还不知道我的家。",
+      "pinyin": "A, nǐ hái bù zhī dào wǒ de jiā.",
+      "tr": "Aa, evimi daha bilmiyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_017",
+      "speaker": "张伟",
+      "zh": "我们还没介绍自己呢。",
+      "pinyin": "Wǒ men hái méi jiè shào zì jǐ ne.",
+      "tr": "Biz kendimizi daha tanıtmadık."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_018",
+      "speaker": "刘梅",
+      "zh": "我叫刘梅，这是我先生。",
+      "pinyin": "Wǒ jiào liú méi, zhè shì wǒ xiān shēng.",
+      "tr": "Benim adım Liu Mei, bu da eşim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_019",
+      "speaker": "李晨",
+      "zh": "我叫李晨，很高兴认识你们。",
+      "pinyin": "Wǒ jiào Lǐ Chén, hěn gāo xìng rèn shi nǐ men.",
+      "tr": "Benim adım Li Chen, tanıştığımıza memnun oldum.",
+      "emotion": "happy",
+      "actionTr": "Gülümseyerek kendini tanıtır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_020",
+      "speaker": "张乐乐",
+      "zh": "我叫乐乐，你可以叫我乐乐！",
+      "pinyin": "Wǒ jiào lè le, nǐ kě yǐ jiào wǒ lè le!",
+      "tr": "Benim adım Lele, bana Lele diyebilirsin!",
+      "emotion": "happy",
+      "actionTr": "Adını heyecanla söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_021",
+      "speaker": "张伟",
+      "zh": "我叫张伟，也很高兴认识您。",
+      "pinyin": "Wǒ jiào Zhāng Wěi, yě hěn gāo xìng rèn shi nín.",
+      "tr": "Ben de Zhang Wei, tanıştığımıza memnun oldum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_022",
+      "speaker": "刘梅",
+      "zh": "这是我们的儿子张乐乐。",
+      "pinyin": "Zhè shì wǒ men de ér zi zhāng lè le.",
+      "tr": "Bu da oğlumuz Zhang Lele."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_023",
+      "speaker": "李晨",
+      "zh": "乐乐，这个名字很好记。",
+      "pinyin": "Lè le, zhè ge míng zi hěn hǎo jì.",
+      "tr": "Lele, bu ismi hatırlamak çok kolay.",
+      "emotion": "happy",
+      "actionTr": "Çocuğun adını tekrar edip gülümser."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_024",
+      "speaker": "张乐乐",
+      "zh": "因为我很快乐吗？",
+      "pinyin": "Yīn wèi wǒ hěn kuài lè ma?",
+      "tr": "Çünkü çok mutlu olduğum için mi?",
+      "emotion": "playful",
+      "actionTr": "Adının anlamını merak ederek gülümser."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_025",
+      "speaker": "张伟",
+      "zh": "你今天笑得就很开心。",
+      "pinyin": "Nǐ jīn tiān xiào de jiù hěn kāi xīn.",
+      "tr": "Bugün pek neşeli gülümsüyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_026",
+      "speaker": "刘梅",
+      "zh": "刚才找不到玩具，可没这么开心。",
+      "pinyin": "Gāng cái zhǎo bú dào wán jù, kě méi zhè me kāi xīn.",
+      "tr": "Az önce oyuncağını bulamayınca pek de neşeli değildi.",
+      "emotion": "playful",
+      "actionTr": "Oyuncak aramasını hatırlatıp gülümser."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_027",
+      "speaker": "李晨",
+      "zh": "后来找到了吧？",
+      "pinyin": "Hòu lái zhǎo dào le ba?",
+      "tr": "Sonra buldunuz, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_028",
+      "speaker": "张乐乐",
+      "zh": "找到了，在座位下面！",
+      "pinyin": "Zhǎo dào le, zài zuò wèi xià miàn!",
+      "tr": "Bulduk, koltuğun altındaydı!",
+      "emotion": "happy",
+      "actionTr": "Oyuncağın bulunduğu yeri gösterir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_029",
+      "speaker": "张伟",
+      "zh": "现在放在包里，不会再掉了。",
+      "pinyin": "Xiàn zài fàng zài bāo lǐ, bú huì zài diào le.",
+      "tr": "Şimdi çantasında, bir daha düşmez."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_030",
+      "speaker": "刘梅",
+      "zh": "他还记得放在哪个口袋呢。",
+      "pinyin": "Tā hái jì de fàng zài nǎ ge kǒu dai ne.",
+      "tr": "Hangi cebe koyduğunu da hatırlıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_031",
+      "speaker": "李晨",
+      "zh": "真不错，自己的东西自己管。",
+      "pinyin": "Zhēn bù cuò, zì jǐ de dōng xi zì jǐ guǎn.",
+      "tr": "Çok güzel, kendi eşyana kendin dikkat ediyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_032",
+      "speaker": "张乐乐",
+      "zh": "左边的大口袋，我没忘！",
+      "pinyin": "Zuǒ biān de dà kǒu dai, wǒ méi wàng!",
+      "tr": "Soldaki büyük cep, unutmadım!",
+      "emotion": "happy",
+      "actionTr": "Büyük cebi gururla işaret eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_033",
+      "speaker": "张伟",
+      "zh": "您也是来坐火车的吗？",
+      "pinyin": "Nín yě shì lái zuò huǒ chē de ma?",
+      "tr": "Siz de trene binmeye mi geldiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_034",
+      "speaker": "刘梅",
+      "zh": "刚才看您在这边等。",
+      "pinyin": "Gāng cái kàn nín zài zhè biān děng.",
+      "tr": "Az önce sizi burada beklerken gördüm."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_035",
+      "speaker": "李晨",
+      "zh": "我来接一个朋友，他还没到。",
+      "pinyin": "Wǒ lái jiē yí gè péng yǒu, tā hái méi dào.",
+      "tr": "Bir arkadaşımı karşılamaya geldim, henüz gelmedi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_036",
+      "speaker": "张乐乐",
+      "zh": "那你也在等人呀。",
+      "pinyin": "Nà nǐ yě zài děng rén ya.",
+      "tr": "O zaman sen de birini bekliyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_037",
+      "speaker": "张伟",
+      "zh": "我们在车站等搬家公司的车。",
+      "pinyin": "Wǒ men zài chē zhàn děng bān jiā gōng sī de chē.",
+      "tr": "Biz istasyonda nakliye firmasının aracını bekliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_038",
+      "speaker": "刘梅",
+      "zh": "他们说还要等一会儿。",
+      "pinyin": "Tā men shuō hái yào děng yī huì er.",
+      "tr": "Biraz daha beklememiz gerektiğini söylediler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_039",
+      "speaker": "李晨",
+      "zh": "那就在这里坐一坐，别站着了。",
+      "pinyin": "Nà jiù zài zhè lǐ zuò yī zuò, bié zhàn zhe le.",
+      "tr": "O zaman burada biraz oturun, ayakta kalmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_040",
+      "speaker": "张乐乐",
+      "zh": "我刚才已经坐过了。",
+      "pinyin": "Wǒ gāng cái yǐ jīng zuò guò le.",
+      "tr": "Az önce oturmuştum zaten."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_041",
+      "speaker": "张伟",
+      "zh": "他一看到有人来，就站起来了。",
+      "pinyin": "Tā yī kàn dào yǒu rén lái, jiù zhàn qǐ lái le.",
+      "tr": "Birinin geldiğini görünce hemen ayağa kalktı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_042",
+      "speaker": "刘梅",
+      "zh": "乐乐，过来站在妈妈旁边。",
+      "pinyin": "Lè le, guò lái zhàn zài mā ma páng biān.",
+      "tr": "Lele, gel annene yakın dur."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_043",
+      "speaker": "李晨",
+      "zh": "没事，你们一家人一起就好。",
+      "pinyin": "Méi shì, nǐ men yī jiā rén yì qǐ jiù hǎo.",
+      "tr": "Sorun değil, aileniz bir arada olsun yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_044",
+      "speaker": "张乐乐",
+      "zh": "姐姐也在那边看着小包。",
+      "pinyin": "Jiě jie yě zài nà biān kān zhe xiǎo bāo.",
+      "tr": "Ablam da şurada küçük çantalara bakıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_045",
+      "speaker": "张伟",
+      "zh": "对，女儿雨桐也跟我们来了。",
+      "pinyin": "Duì, nǚ ér Yǔ Tóng yě gēn wǒ men lái le.",
+      "tr": "Evet, kızımız Yutong da bizimle geldi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_046",
+      "speaker": "刘梅",
+      "zh": "我们一家人都搬到这里。",
+      "pinyin": "Wǒ men yī jiā rén dōu bān dào zhè lǐ.",
+      "tr": "Bütün aile buraya taşınıyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_047",
+      "speaker": "李晨",
+      "zh": "欢迎你们，以后慢慢认识这里。",
+      "pinyin": "Huān yíng nǐ men, yǐ hòu màn màn rèn shí zhè lǐ.",
+      "tr": "Hoş geldiniz, zamanla burayı tanırsınız.",
+      "emotion": "comforting",
+      "actionTr": "Aileyi sıcakça karşılar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_048",
+      "speaker": "张乐乐",
+      "zh": "我已经看见公园了！",
+      "pinyin": "Wǒ yǐ jīng kàn jiàn gōng yuán le!",
+      "tr": "Ben parkı gördüm bile!"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_049",
+      "speaker": "张伟",
+      "zh": "刚才在火车上，他一直看窗外。",
+      "pinyin": "Gāng cái zài huǒ chē shàng, tā yì zhí kàn chuāng wài.",
+      "tr": "Az önce trende sürekli dışarı bakıyordu."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_050",
+      "speaker": "刘梅",
+      "zh": "还看见了河和桥。",
+      "pinyin": "Hái kàn jiàn le hé hé qiáo.",
+      "tr": "Nehir ve köprüyü de gördük."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_051",
+      "speaker": "李晨",
+      "zh": "这边的公园很多，你们会喜欢的。",
+      "pinyin": "Zhè biān de gōng yuán hěn duō, nǐ men huì xǐ huan de.",
+      "tr": "Burada çok park var, seveceğinizi düşünüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_052",
+      "speaker": "张乐乐",
+      "zh": "你也喜欢去公园吗？",
+      "pinyin": "Nǐ yě xǐ huan qù gōng yuán ma?",
+      "tr": "Sen de parka gitmeyi seviyor musun?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_053",
+      "speaker": "张伟",
+      "zh": "乐乐，你让叔叔坐着说吧。",
+      "pinyin": "Lè le, nǐ ràng shū shu zuò zhe shuō ba.",
+      "tr": "Lele, amcan oturup konuşsun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_054",
+      "speaker": "刘梅",
+      "zh": "对，一直站着也累。",
+      "pinyin": "Duì, yì zhí zhàn zhe yě lèi.",
+      "tr": "Evet, sürekli ayakta durmak yorucu."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_055",
+      "speaker": "李晨",
+      "zh": "喜欢，我有空就去走走。",
+      "pinyin": "Xǐ huan, wǒ yǒu kòng jiù qù zǒu zǒu.",
+      "tr": "Seviyorum, vaktim olunca yürüyüşe giderim.",
+      "emotion": "happy",
+      "actionTr": "Park yürüyüşlerinden bahseder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_056",
+      "speaker": "张乐乐",
+      "zh": "那以后我们也去走走。",
+      "pinyin": "Nà yǐ hòu wǒ men yě qù zǒu zǒu.",
+      "tr": "O zaman biz de ileride yürüyüşe gideriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_057",
+      "speaker": "张伟",
+      "zh": "可以，等我们先把家收拾好。",
+      "pinyin": "Kě yǐ, děng wǒ men xiān bǎ jiā shōu shí hǎo.",
+      "tr": "Olur, önce evimizi yerleştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_058",
+      "speaker": "刘梅",
+      "zh": "今天先到家休息，明天再说。",
+      "pinyin": "Jīn tiān xiān dào jiā xiū xī, míng tiān zài shuō.",
+      "tr": "Bugün önce eve gidip dinlenelim, yarını sonra düşünürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_059",
+      "speaker": "李晨",
+      "zh": "您说得对，搬家不着急。",
+      "pinyin": "Nín shuō de duì, bān jiā bù zháo jí.",
+      "tr": "Haklısınız, taşınırken acele etmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_060",
+      "speaker": "张乐乐",
+      "zh": "我的玩具也要休息。",
+      "pinyin": "Wǒ de wán jù yě yào xiū xī.",
+      "tr": "Benim oyuncağım da dinlenmeli."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_061",
+      "speaker": "张伟",
+      "zh": "大家都累了，咪咪也不叫了。",
+      "pinyin": "Dà jiā dōu lèi le, mī mī yě bù jiào le.",
+      "tr": "Herkes yoruldu, Mimi de artık miyavlamıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_062",
+      "speaker": "刘梅",
+      "zh": "是呀，它在包里很安静。",
+      "pinyin": "Shì ya, tā zài bāo lǐ hěn ān jìng.",
+      "tr": "Evet, çantasında çok sessiz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_063",
+      "speaker": "李晨",
+      "zh": "咪咪是你们的猫吗？",
+      "pinyin": "Mī mī shì nǐ men de māo ma?",
+      "tr": "Mimi sizin kediniz mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_064",
+      "speaker": "张乐乐",
+      "zh": "对，它也是我们的家人。",
+      "pinyin": "Duì, tā yě shì wǒ men de jiā rén.",
+      "tr": "Evet, o da ailemizden.",
+      "emotion": "happy",
+      "actionTr": "Kedi taşıma çantasını gösterir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_065",
+      "speaker": "张伟",
+      "zh": "等到了家，它就能出来看看。",
+      "pinyin": "Děng dào le jiā, tā jiù néng chū lái kàn kàn.",
+      "tr": "Eve varınca çıkıp etrafa bakabilecek."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_066",
+      "speaker": "刘梅",
+      "zh": "现在先让它好好睡。",
+      "pinyin": "Xiàn zài xiān ràng tā hǎo hǎo shuì.",
+      "tr": "Şimdilik rahatça uyusun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_067",
+      "speaker": "李晨",
+      "zh": "好，我不碰它的包。",
+      "pinyin": "Hǎo, wǒ bù pèng tā de bāo.",
+      "tr": "Tamam, çantasına dokunmam."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_068",
+      "speaker": "张乐乐",
+      "zh": "它醒了，我再跟它说话。",
+      "pinyin": "Tā xǐng le, wǒ zài gēn tā shuō huà.",
+      "tr": "Uyanınca onunla konuşurum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_069",
+      "speaker": "张伟",
+      "zh": "李先生，您是哪儿人？",
+      "pinyin": "Lǐ xiān shēng, nín shì nǎr rén?",
+      "tr": "Bay Li, nerelisiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_070",
+      "speaker": "刘梅",
+      "zh": "听您说，您很熟悉这里。",
+      "pinyin": "Tīng nín shuō, nín hěn shú xī zhè lǐ.",
+      "tr": "Söylediklerinizden burayı iyi bildiğiniz anlaşılıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_071",
+      "speaker": "李晨",
+      "zh": "我是本地人，从小在这里住。",
+      "pinyin": "Wǒ shì běn dì rén, cóng xiǎo zài zhè lǐ zhù.",
+      "tr": "Ben buralıyım, küçükken beri burada yaşıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_072",
+      "speaker": "张乐乐",
+      "zh": "那你在这个城市住了很久！",
+      "pinyin": "Nà nǐ zài zhè ge chéng shì zhù le hěn jiǔ!",
+      "tr": "O zaman bu şehirde uzun zamandır yaşıyorsun!"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_073",
+      "speaker": "张伟",
+      "zh": "我们是从外地来的。",
+      "pinyin": "Wǒ men shì cóng wài dì lái de.",
+      "tr": "Biz başka bir yerden geldik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_074",
+      "speaker": "刘梅",
+      "zh": "以后有些事，还得请教您。",
+      "pinyin": "Yǐ hòu yǒu xiē shì, hái děi qǐng jiào nín.",
+      "tr": "İleride bazı şeyleri size danışmamız gerekebilir.",
+      "emotion": "curious",
+      "actionTr": "Yerel bilgi için yardım isteyebileceklerini söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_075",
+      "speaker": "李晨",
+      "zh": "叫我李晨就好，别这么客气。",
+      "pinyin": "Jiào wǒ lǐ chén jiù hǎo, bié zhè me kè qì.",
+      "tr": "Bana Li Chen deyin yeter, bu kadar resmî olmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_076",
+      "speaker": "张乐乐",
+      "zh": "我叫你李叔叔，可以吗？",
+      "pinyin": "Wǒ jiào nǐ lǐ shū shu, kě yǐ ma?",
+      "tr": "Ben sana Li amca diyebilir miyim?",
+      "emotion": "curious",
+      "actionTr": "Yeni tanıştığı yetişkine nasıl hitap edeceğini sorar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_077",
+      "speaker": "张伟",
+      "zh": "叫李叔叔就好，很有礼貌。",
+      "pinyin": "Jiào lǐ shū shu jiù hǎo, hěn yǒu lǐ mào.",
+      "tr": "Li amca demen uygun, çok nazik bir hitap."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_078",
+      "speaker": "刘梅",
+      "zh": "乐乐，记住叔叔的名字哦。",
+      "pinyin": "Lè le, jì zhù shū shu de míng zi ó.",
+      "tr": "Lele, amcanın ismini hatırla."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_079",
+      "speaker": "李晨",
+      "zh": "好，乐乐，我很高兴认识你。",
+      "pinyin": "Hǎo, lè le, wǒ hěn gāo xìng rèn shí nǐ.",
+      "tr": "Peki Lele, tanıştığımıza memnun oldum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_080",
+      "speaker": "张乐乐",
+      "zh": "我也很高兴，我记住你的名字了。",
+      "pinyin": "Wǒ yě hěn gāo xìng, wǒ jì zhù nǐ de míng zi le.",
+      "tr": "Ben de memnun oldum, ismini hatırlıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_081",
+      "speaker": "张伟",
+      "zh": "那我们留个电话吧？",
+      "pinyin": "Nà wǒ men liú gè diàn huà ba?",
+      "tr": "O zaman telefon numaralarımızı paylaşalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_082",
+      "speaker": "刘梅",
+      "zh": "以后想问路，也方便联系。",
+      "pinyin": "Yǐ hòu xiǎng wèn lù, yě fāng biàn lián xì.",
+      "tr": "İleride yol sormamız gerekirse kolayca ulaşabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_083",
+      "speaker": "李晨",
+      "zh": "好，我把我的电话给你。",
+      "pinyin": "Hǎo, wǒ bǎ wǒ de diàn huà gěi nǐ.",
+      "tr": "Tamam, numaramı vereyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_084",
+      "speaker": "张乐乐",
+      "zh": "爸爸，你别忘了写名字。",
+      "pinyin": "Bà ba, nǐ bié wàng le xiě míng zi.",
+      "tr": "Baba, ismini yazmayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_085",
+      "speaker": "张伟",
+      "zh": "记好了，李晨，不会忘。",
+      "pinyin": "Jì hǎo le, lǐ chén, bú huì wàng.",
+      "tr": "Kaydettim, Li Chen, unutmam."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_086",
+      "speaker": "刘梅",
+      "zh": "刚到这里就认识朋友，真好。",
+      "pinyin": "Gāng dào zhè lǐ jiù rèn shí péng yǒu, zhēn hǎo.",
+      "tr": "Buraya gelir gelmez bir arkadaş edindik, ne güzel.",
+      "emotion": "happy",
+      "actionTr": "Yeni arkadaş edinmiş olmaktan memnuniyetini söyler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_087",
+      "speaker": "李晨",
+      "zh": "能认识你们，我也觉得很好。",
+      "pinyin": "Néng rèn shí nǐ men, wǒ yě jué de hěn hǎo.",
+      "tr": "Sizi tanıdığım için ben de sevindim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_088",
+      "speaker": "张乐乐",
+      "zh": "妈妈，我们有新的朋友了！",
+      "pinyin": "Mā ma, wǒ men yǒu xīn de péng yǒu le!",
+      "tr": "Anne, yeni bir arkadaşımız oldu!",
+      "emotion": "happy",
+      "actionTr": "Annesine sevinçle döner."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_089",
+      "speaker": "张伟",
+      "zh": "是啊，今天可不只是坐火车。",
+      "pinyin": "Shì a, jīn tiān kě bù zhǐ shì zuò huǒ chē.",
+      "tr": "Evet, bugün sadece tren yolculuğu yapmış olmadık."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_090",
+      "speaker": "刘梅",
+      "zh": "还认识了热心的李叔叔。",
+      "pinyin": "Hái rèn shí le rè xīn de lǐ shū shu.",
+      "tr": "Yardımsever Li amcayla da tanıştık."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_091",
+      "speaker": "李晨",
+      "zh": "哈哈，你们太客气了。",
+      "pinyin": "Hā hā, nǐ men tài kè qì le.",
+      "tr": "Ha ha, çok naziksiniz.",
+      "emotion": "playful",
+      "actionTr": "İltifatlara hafifçe gülerek karşılık verir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_092",
+      "speaker": "张乐乐",
+      "zh": "我以后也要帮别人。",
+      "pinyin": "Wǒ yǐ hòu yě yào bāng bié rén.",
+      "tr": "Ben de ileride başkalarına yardım edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_093",
+      "speaker": "张伟",
+      "zh": "公司的电话来了，我先接一下。",
+      "pinyin": "Gōng sī de diàn huà lái le, wǒ xiān jiē yī xià.",
+      "tr": "Firma arıyor, önce cevap vereyim.",
+      "emotion": "neutral",
+      "actionTr": "Gelen aramayı yanıtlar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_094",
+      "speaker": "刘梅",
+      "zh": "好，我们在旁边等你。",
+      "pinyin": "Hǎo, wǒ men zài páng biān děng nǐ.",
+      "tr": "Tamam, biz yanında bekleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_095",
+      "speaker": "李晨",
+      "zh": "我在旁边等，不打扰你们。",
+      "pinyin": "Wǒ zài páng biān děng, bù dǎ rǎo nǐ men.",
+      "tr": "Ben yan tarafta beklerim, sizi rahatsız etmem."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_096",
+      "speaker": "张乐乐",
+      "zh": "爸爸，我们的车来了吗？",
+      "pinyin": "Bà ba, wǒ men de chē lái le ma?",
+      "tr": "Baba, bizim araç geldi mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_097",
+      "speaker": "张伟",
+      "zh": "来了，我去交一下行李。",
+      "pinyin": "Lái le, wǒ qù jiāo yī xià xíng lǐ.",
+      "tr": "Geldi, gidip bavulları teslim edeyim.",
+      "emotion": "neutral",
+      "actionTr": "Valizleri teslim etmek için hazırlanır."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_098",
+      "speaker": "刘梅",
+      "zh": "我带孩子在这里等你。",
+      "pinyin": "Wǒ dài hái zi zài zhè lǐ děng nǐ.",
+      "tr": "Ben çocuklarla burada seni bekleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_099",
+      "speaker": "李晨",
+      "zh": "等您忙完，我带您找出租车。",
+      "pinyin": "Děng nín máng wán, wǒ dài nín zhǎo chū zū chē.",
+      "tr": "İşiniz bitince taksi bulmanıza yardım edeyim.",
+      "emotion": "comforting",
+      "actionTr": "Taksiye geçişte yardım teklif eder."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC008_100",
+      "speaker": "张乐乐",
+      "zh": "好，李叔叔，我们一会儿见！",
+      "pinyin": "Hǎo, lǐ shū shu, wǒ men yī huì er jiàn!",
+      "tr": "Tamam Li amca, birazdan görüşürüz!",
+      "emotion": "happy",
+      "actionTr": "Birazdan görüşecekleri için gülümser."
+    }
+  ]
+}

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC029.json",
-  "dialogueSha256": "01e15bb5f4e6d67e2db2f911335885dbc83534a78a79b9b9b258aab1a67454ad",
+  "dialogueSha256": "9db5764f76a9dfd54fcf453affa5d40955d6062063362139237d80d0cc4842d6",
   "titleTr": "Yerel Rehberle Tanışma",
   "locationId": "LOC_ZH_TOURIST_SITE_001",
   "scenePurposeTr": "Yerel rehber aileye bölgenin tarihini ve farklı bir rota önerir.",

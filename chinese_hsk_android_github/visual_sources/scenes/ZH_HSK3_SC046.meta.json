@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC046",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC046.json",
-  "dialogueSha256": "851c6583765fd98e0640dd8c9c07c7622514d395f9959338804b51027258e1df",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC046.json",
+  "dialogueSha256": "47cb471842feffc4e2101964a2458c6a2aa53ee10c05a66968afcbb4ef38074e",
   "titleTr": "Mahalle Yardım Kampanyası",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Kafe yerel yardım kampanyasında bağış toplama noktası olur.",
@@ -69,5 +69,7 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi.",
+  "dialogueQaStatus": "PASS",
+  "dialogueQaNoteTr": "100 tur, kimlik/speaker sırası, aktif sözcükler ve pinyin/Türkçe eşleşmesi doğrulandı. Dört ağız çapası sahne görselinde kontrol edildi."
 }

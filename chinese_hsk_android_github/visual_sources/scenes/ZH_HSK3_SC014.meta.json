@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC014.json",
-  "dialogueSha256": "626206fd8e608ec5cfbb66e64d00cdf5b17ff8c42bce53d7102db22d4432d317",
+  "dialogueSha256": "cf6005d52eef444761d9939512a2ebd1b857abd773d909032745dbc192bd0cf9",
   "titleTr": "Tadilat Başlıyor",
   "locationId": "LOC_ZH_CAFE_PREMISES_001",
   "scenePurposeTr": "Kafe tadilatı başlar; duvar rengi ve masa düzeni konusunda aile ile usta arasında fikir ayrılığı yaşanır.",

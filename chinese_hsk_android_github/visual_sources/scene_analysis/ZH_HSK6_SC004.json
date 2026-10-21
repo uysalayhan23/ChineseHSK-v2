@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC004",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC004.json",
-  "dialogueSha256": "2d057f8abf321d63b93325e464439568b1a554bfb8586d871701439ede597f98",
+  "dialogueSha256": "3c3103e57184d00bef4be7f1e524a64db2ec85c63a780eb0a9c1567b1c5db7d5",
   "titleZh": "传统还是简单？",
   "titleTr": "Gelenek mi Sadelik mi?",
   "locationId": "LOC_ZH_NEW_HOME_001",
@@ -69,5 +69,5 @@
   },
   "narrationPresentation": null,
   "styleReferenceSceneId": "ZH_HSK6_SC001",
-  "qaNoteTr": "Diyalog, konuşmacı kadrosu, yaş sürekliliği ve 1080×1920 WebP kontrolleri geçti. APK build başlatılmadı."
+  "qaNoteTr": "100 tur gelenek ile sade düğün tercihini uzlaştıran doğal aile diyaloğu olarak düzenlendi; konuşmacı sırası ve öğrenme hedefleri korundu. Pinyin/Türkçe ve görsel ağız eşleşmeleri doğrulandı."
 }

@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK5_SC049",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC049.json",
-  "dialogueSha256": "f79dd7a7cc4a54ca76efde05b49aea6523feb5fc4d4759878114a0e270f51665",
+  "dialogueSha256": "ad085c5afd8ec4ad2d6495f5bd12857d74d9c274f1adb8ec27183ce448048e9a",
   "titleZh": "两个人的夜路",
   "titleTr": "Zhang ve Liu Mei Yalnız Yürüyüşte",
   "locationId": "LOC_ZH_WALKWAY_001",
@@ -74,5 +74,5 @@
     "visualized": false
   },
   "styleReferenceSceneId": "ZH_HSK5_SC040",
-  "qaNoteTr": "HSK5 SC041-SC050 grubu; SC030 aile/stil referansı ve HSK5 olgunluk kilidi korundu. Kaynak kadrosu, 9:16 WebP ve hash kontrolleri geçti. APK build başlatılmadı."
+  "qaNoteTr": "SC049 100 tur tamamlandı: Zhang ve Liu Mei geçmişteki seçimleri, aileyle iletişimi ve emeklilikte kuracakları yeni ritmi konuşur; Li Chen destek verir, anlatıcı dış ses olarak kalır."
 }

@@ -11,702 +11,702 @@
     {
       "id": "DLG_ZH_HSK4_SC021_001",
       "speaker": "爷爷",
-      "zh": "今天先聊聊菜摊吧。",
-      "pinyin": "Jīntiān xiān liáoliáo càitān ba.",
-      "tr": "Bugün önce sebze tezgâhı hakkında konuşalım."
+      "zh": "这个周末我想把农场的新鲜蔬菜带到市场卖，大家能帮我看看怎么准备吗？",
+      "pinyin": "zhè ge zhōu mò wǒ xiǎng bǎ nóng chǎng de xīn xiān shū cài dài dào shì chǎng mài dà jiā néng bāng wǒ kàn kàn zěn me zhǔn bèi ma",
+      "tr": "Bu hafta sonu çiftlikteki taze sebzeleri pazarda satmak istiyorum. Hazırlığı gözden geçirmeme yardım eder misiniz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC021_002",
       "speaker": "顾客",
-      "zh": "今天先聊聊农产品吧。",
-      "pinyin": "Jīntiān xiān liáoliáo nóngchǎnpǐn ba.",
-      "tr": "Bugün önce tarım ürünü hakkında konuşalım."
+      "zh": "我常来这个市场买菜。你准备摆什么农产品？",
+      "pinyin": "wǒ cháng lái zhè ge shì chǎng mǎi cài nǐ zhǔn bèi bǎi shén me nóng chǎn pǐn",
+      "tr": "Bu pazardan sık sık sebze alırım. Hangi tarım ürünlerini tezgâha koyacaksınız?"
     },
     {
       "id": "DLG_ZH_HSK4_SC021_003",
       "speaker": "刘梅",
-      "zh": "有些担心不是反对，只是需要一点时间适应。",
-      "pinyin": "Yǒuxiē dānxīn búshì fǎnduì, zhǐshì xūyào yìdiǎn shíjiān shìyìng.",
-      "tr": "Bazı kaygılar karşı çıkmak anlamına gelmez; bazen alışmak için biraz zamana ihtiyaç vardır."
+      "zh": "有番茄、黄瓜和青菜，都是爷爷自己种的。",
+      "pinyin": "yǒu fān qié huáng guā hé qīng cài dōu shì yé yé zì jǐ zhǒng de",
+      "tr": "Domates, salatalık ve yeşillik var; hepsini büyükbabam yetiştirdi."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_004",
       "speaker": "张伟",
-      "zh": "如果谁心里还有顾虑，现在说出来反而更好。",
-      "pinyin": "Rúguǒ shuí xīnlǐ háiyǒu gùlǜ, xiànzài shuō chūlái fǎnér gènghǎo.",
-      "tr": "Birinin içinde hâlâ kaygı varsa şimdi söylemesi daha iyi olur."
+      "zh": "先估算一下每种有多少，再决定需要多大的菜摊。",
+      "pinyin": "xiān gū suàn yī xià měi zhǒng yǒu duō shǎo zài jué dìng xū yào duō dà de cài tān",
+      "tr": "Önce her üründen ne kadar olduğunu hesaplayıp tezgâhın büyüklüğüne karar verelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_005",
       "speaker": "爷爷",
-      "zh": "只要大家愿意继续沟通，很多问题都不用一次解决。",
-      "pinyin": "Zhǐyào dàjiā yuànyì jìxù gōutōng, hěnduō wèntí dōu bùyòng yīcì jiějué.",
-      "tr": "Herkes iletişim kurmaya devam ettiği sürece bütün sorunları tek seferde çözmek gerekmiyor."
+      "zh": "番茄最多，黄瓜少一些，青菜今天早上才摘下来。",
+      "pinyin": "fān qié zuì duō huáng guā shǎo yī xiē qīng cài jīn tiān zǎo shàng cái zhāi xià lái",
+      "tr": "En çok domates var, salatalık daha az; yeşillikleri bu sabah topladım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_006",
       "speaker": "顾客",
-      "zh": "另外，这件事不只是安排问题，也跟每个人的感受有关。",
-      "pinyin": "Lìngwài, zhèjiàn shì bù zhǐshì ānpái wèntí, yě gēn měigè rén de gǎnshòu yǒuguān.",
-      "tr": "Ayrıca, bu yalnızca bir düzenleme meselesi değil; herkesin duygularıyla da ilgili."
+      "zh": "青菜看起来很新鲜。你们打算怎么定价格？",
+      "pinyin": "qīng cài kàn qǐ lái hěn xīn xiān nǐ men dǎ suàn zěn me dìng jià gé",
+      "tr": "Yeşillikler taze görünüyor. Fiyatları nasıl belirlemeyi düşünüyorsunuz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC021_007",
       "speaker": "刘梅",
-      "zh": "对菜摊还有别的想法吗？",
-      "pinyin": "Duì càitān háiyǒu biéde xiǎngfǎ ma?",
-      "tr": "Sebze tezgâhı konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "我们先看看附近市场的价格，再算种植和运输的成本。",
+      "pinyin": "wǒ men xiān kàn kàn fù jìn shì chǎng de jià gé zài suàn zhòng zhí hé yùn shū de chéng běn",
+      "tr": "Önce yakındaki pazarların fiyatlarına bakıp yetiştirme ve taşıma masrafını hesaplayalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_008",
       "speaker": "张伟",
-      "zh": "这点我没有意见。",
-      "pinyin": "Zhèdiǎn wǒ méiyǒu yìjiàn.",
-      "tr": "Bu noktaya katılıyorum."
+      "zh": "价格不能只跟别人比，也要让顾客知道产品的特点。",
+      "pinyin": "jià gé bù néng zhǐ gēn bié rén bǐ yě yào ràng gù kè zhī dào chǎn pǐn de tè diǎn",
+      "tr": "Fiyatı yalnızca başkalarıyla karşılaştırmamalı; ürünün özelliğini de müşteriye anlatmalıyız."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_009",
       "speaker": "爷爷",
-      "zh": "我们还得顾到农产品。",
-      "pinyin": "Wǒmen hái dé gùdào nóngchǎnpǐn.",
-      "tr": "Tarım ürünü göz ardı edemeyeceğimiz bir nokta."
+      "zh": "这些菜不用农药催长，味道和超市买的有点不同。",
+      "pinyin": "zhè xiē cài bù yòng nóng yào cuī zhǎng wèi dào hé chāo shì mǎi de yǒu diǎn bù tóng",
+      "tr": "Bu sebzeleri büyütmek için ilaç kullanmadım; tatları markettekilerden biraz farklı."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_010",
       "speaker": "顾客",
-      "zh": "不过，我希望我们最后记住的，不是谁说服了谁，而是大家都认真听过彼此。",
-      "pinyin": "Bùguò, wǒ xīwàng wǒmen zuìhòu jìzhù de, búshì shuí shuōfú le shuí, érshì dàjiā dōu rènzhēn tīngguò bǐcǐ.",
-      "tr": "Ancak, sonunda hatırladığımız şeyin kimin kimi ikna ettiği değil, herkesin birbirini gerçekten dinlemiş olması olmasını istiyorum."
+      "zh": "如果能说明怎么种的，我会更放心，也愿意试着买一点。",
+      "pinyin": "rú guǒ néng shuō míng zěn me zhǒng de wǒ huì gèng fàng xīn yě yuàn yì shì zhe mǎi yì diǎn",
+      "tr": "Nasıl yetiştirildiğini anlatırsanız içim rahat eder, biraz almayı denerim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_011",
       "speaker": "刘梅",
-      "zh": "市场这方面也别漏了。",
-      "pinyin": "Shìchǎng zhèfāngmiàn yě biélòu le.",
-      "tr": "Pazar konusunu da değerlendirme kapsamına alalım."
+      "zh": "我们可以做一张简单的说明牌，把采摘时间和种植方式写清楚。",
+      "pinyin": "wǒ men kě yǐ zuò yī zhāng jiǎn dān de shuō míng pái bǎ cǎi zhāi shí jiān hé zhòng zhí fāng shì xiě qīng chǔ",
+      "tr": "Toplama zamanını ve yetiştirme biçimini belirten basit bir tabela hazırlayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_012",
       "speaker": "张伟",
-      "zh": "先别把未来想得太满，给彼此一点调整的空间。",
-      "pinyin": "Xiānbié bǎ wèilái xiǎngdé tàimǎn, gěi bǐcǐ yìdiǎn tiáozhěng de kōngjiān.",
-      "tr": "Geleceği şimdiden tamamen doldurmayalım; birbirimize biraz uyum alanı bırakalım."
+      "zh": "不过要写真实情况，别为了吸引顾客夸大产品效果。",
+      "pinyin": "bù guò yào xiě zhēn shí qíng kuàng bié wèi le xī yǐn gù kè kuā dà chǎn pǐn xiào guǒ",
+      "tr": "Ama gerçekleri yazalım; müşteri çekmek için ürünün etkisini abartmayalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_013",
       "speaker": "爷爷",
-      "zh": "价格要是有新变化，我们就得重新安排。",
-      "pinyin": "Jiàgé yàoshì yǒu xīn biànhuà, wǒmen jiù dé chóngxīnānpái.",
-      "tr": "Fiyat değişirse planı da ayarlamak gerekir."
+      "zh": "说得对。我种菜几十年了，最希望大家吃得新鲜、买得明白。",
+      "pinyin": "shuō dé duì wǒ zhòng cài jǐ shí nián le zuì xī wàng dà jiā chī dé xīn xiān mǎi dé míng bái",
+      "tr": "Doğru. Yıllardır sebze yetiştiriyorum; insanların taze yemesini ve ne aldığını bilmesini isterim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_014",
       "speaker": "顾客",
-      "zh": "这样更符合实际。",
-      "pinyin": "Zhèyàng gèng fúhéshíjì.",
-      "tr": "Kulağa oldukça mantıklı geliyor."
+      "zh": "那我周六会来看看。市场几点开始营业？",
+      "pinyin": "nà wǒ zhōu liù huì lái kàn kàn shì chǎng jǐ diǎn kāi shǐ yíng yè",
+      "tr": "Öyleyse cumartesi uğrarım. Pazar saat kaçta açılıyor?"
     },
     {
       "id": "DLG_ZH_HSK4_SC021_015",
       "speaker": "刘梅",
-      "zh": "说到顾客，大家最在意的是什么？",
-      "pinyin": "Shuō dào gùkè, dàjiā zuì zàiyì de shì shénme?",
-      "tr": "Müşteri konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "早上七点就可以摆摊，顾客通常八点前后最多。",
+      "pinyin": "zǎo shàng qī diǎn jiù kě yǐ bǎi tān gù kè tōng cháng bā diǎn qián hòu zuì duō",
+      "tr": "Sabah yedide tezgâh açılabiliyor; müşteriler genellikle sekiz civarında çoğalıyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_016",
       "speaker": "张伟",
-      "zh": "行，我先记着。",
-      "pinyin": "Xíng, wǒ xiānjì zhe.",
-      "tr": "Bu noktayı not edeyim."
+      "zh": "我们得早点到，先把菜分类、称重，再把价格牌放好。",
+      "pinyin": "wǒ men dé zǎo diǎn dào xiān bǎ cài fēn lèi chēng zhòng zài bǎ jià gé pái fàng hǎo",
+      "tr": "Erken gitmeliyiz; sebzeleri ayırıp tartar, sonra fiyat tabelalarını koyarız."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_017",
       "speaker": "爷爷",
-      "zh": "如果选农场，以后会有什么影响？",
-      "pinyin": "Rúguǒ xuǎn nóngchǎng, yǐhòu huì yǒu shénme yǐngxiǎng?",
-      "tr": "Çiftlik seçersek ileride ne etkisi olur?"
+      "zh": "我可以五点起床装车，菜要保持新鲜，不能在太阳下放太久。",
+      "pinyin": "wǒ kě yǐ wǔ diǎn qǐ chuáng zhuāng chē cài yào bǎo chí xīn xiān bù néng zài tài yáng xià fàng tài jiǔ",
+      "tr": "Beşte kalkıp arabaya yüklerim; sebzeler taze kalmalı, güneşte uzun süre durmamalı."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_018",
       "speaker": "顾客",
-      "zh": "换个角度看，有些事情听起来简单，真正落到生活里才会发现细节很多。",
-      "pinyin": "Huàngè jiǎodùkàn, yǒuxiē shìqíng tīng qǐlái jiǎndān, zhēnzhèng luòdào shēnghuó lǐ cái huì fāxiàn xìjié hěnduō.",
-      "tr": "Başka bir açıdan bakarsak, bazı şeyler kulağa basit gelir; günlük hayata gelince pek çok ayrıntı ortaya çıkar."
+      "zh": "如果下雨，市场还照常开吗？",
+      "pinyin": "rú guǒ xià yǔ shì chǎng hái zhào cháng kāi ma",
+      "tr": "Yağmur yağarsa pazar yine açık olur mu?"
     },
     {
       "id": "DLG_ZH_HSK4_SC021_019",
       "speaker": "刘梅",
-      "zh": "那把质量也一起考虑进去吧。",
-      "pinyin": "Nà bǎ zhìliàng yě yìqǐ kǎolǜ jìnqù ba.",
-      "tr": "Kalite konusunu da değerlendirme kapsamına alalım."
+      "zh": "即使下雨，市场也会开，只是我们要准备遮雨布。",
+      "pinyin": "jí shǐ xià yǔ shì chǎng yě huì kāi zhǐ shì wǒ men yào zhǔn bèi zhē yǔ bù",
+      "tr": "Yağmur yağsa da pazar açılır; yalnızca yağmur örtüsü hazırlamalıyız."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_020",
       "speaker": "张伟",
-      "zh": "这一点我同意。",
-      "pinyin": "Zhè yìdiǎn wǒ tóngyì.",
-      "tr": "Bu noktaya katılıyorum."
+      "zh": "我来查一下天气，再列一份需要带的东西，免得临时忘记。",
+      "pinyin": "wǒ lái chá yī xià tiān qì zài liè yī fèn xū yào dài de dōng xī miǎn de lín shí wàng jì",
+      "tr": "Havayı kontrol edip yanımıza alacaklarımızın listesini yapayım; son anda unutmayalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_021",
       "speaker": "爷爷",
-      "zh": "信任要是有新变化，我们就得重新安排。",
-      "pinyin": "Xìnrèn yàoshì yǒu xīn biànhuà, wǒmen jiù dé chóngxīnānpái.",
-      "tr": "Güven değişirse planı da ayarlamak gerekir."
+      "zh": "天气预报说早上可能有阵雨，下午会放晴。",
+      "pinyin": "tiān qì yù bào shuō zǎo shàng kě néng yǒu zhèn yǔ xià wǔ huì fàng qíng",
+      "tr": "Hava tahminine göre sabah kısa süre yağmur yağabilir, öğleden sonra açacak."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_022",
       "speaker": "顾客",
-      "zh": "大家都出于关心，只是表达关心的方式不一样。",
-      "pinyin": "Dàjiā dōu chūyú guānxīn, zhǐshì biǎodá guānxīn de fāngshì bù yīyàng.",
-      "tr": "Herkesin niyeti ilgilenmek; yalnızca bunu ifade etme biçimleri farklı."
+      "zh": "那你们可以先把容易受潮的青菜放在里面，番茄摆在前面。",
+      "pinyin": "nà nǐ men kě yǐ xiān bǎ róng yì shòu cháo de qīng cài fàng zài lǐ miàn fān qié bǎi zài qián miàn",
+      "tr": "O zaman nemden etkilenen yeşillikleri iç tarafa, domatesleri öne koyabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_023",
       "speaker": "刘梅",
-      "zh": "我理解你的顾虑，不过也想听听另一边的感受。",
-      "pinyin": "Wǒ lǐjiě nǐ de gùlǜ, bùguò yě xiǎng tīngtīng lìngyībiān de gǎnshòu.",
-      "tr": "Kaygını anlıyorum ama diğer tarafın duygularını da duymak istiyorum."
+      "zh": "我会带几个干净的篮子，按种类摆放，顾客看起来也方便。",
+      "pinyin": "wǒ huì dài jǐ gè gān jìng de lán zi àn zhǒng lèi bǎi fàng gù kè kàn qǐ lái yě fāng biàn",
+      "tr": "Temiz sepetler getirip ürünleri türlerine göre dizerim; müşteriler kolayca görür."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_024",
       "speaker": "张伟",
-      "zh": "先把真正的问题说清楚，别急着找一个漂亮答案。",
-      "pinyin": "Xiān bǎ zhēnzhèng de wèntí shuō qīngchǔ, biéjí zhe zhǎo yígè piàoliàng dáàn.",
-      "tr": "Önce gerçek sorunu netleştirelim; kulağa güzel gelen bir cevap bulmak için acele etmeyelim."
+      "zh": "我负责带秤和零钱，收钱时也记一下卖出的数量。",
+      "pinyin": "wǒ fù zé dài chèng hé líng qián shōu qián shí yě jì yī xià mài chū de shù liàng",
+      "tr": "Teraziyi ve bozuk parayı ben getiririm; satış miktarını da not ederim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_025",
       "speaker": "爷爷",
-      "zh": "每个人看到的角度不一样，把这些角度放在一起会更完整。",
-      "pinyin": "Měigè rén kàndào de jiǎodù bù yīyàng, bǎ zhèxiē jiǎodù fàngzài yìqǐ huì gèng wánzhěng.",
-      "tr": "Herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+      "zh": "不用准备太多零钱，大家也可以扫码付款。",
+      "pinyin": "bù yòng zhǔn bèi tài duō líng qián dà jiā yě kě yǐ sǎo mǎ fù kuǎn",
+      "tr": "Çok bozuk para hazırlamaya gerek yok; insanlar kodla da ödeme yapabilir."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_026",
       "speaker": "顾客",
-      "zh": "先确认我们已经知道什么，再说还缺什么信息。",
-      "pinyin": "Xiān quèrèn wǒmen yǐjīng zhīdào shénme, zàishuō hái quēshénme xìnxī.",
-      "tr": "Önce ne bildiğimizi netleştirelim, sonra hangi bilginin eksik olduğunu konuşalım."
+      "zh": "我通常用手机付款，不过有些老顾客可能更习惯现金。",
+      "pinyin": "wǒ tōng cháng yòng shǒu jī fù kuǎn bù guò yǒu xiē lǎo gù kè kě néng gèng xí guàn xiàn jīn",
+      "tr": "Genelde telefonla öderim; ama bazı yaşlı müşteriler nakdi tercih edebilir."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_027",
       "speaker": "刘梅",
-      "zh": "另外，有不同意见没关系，只要理由说得清楚就能继续谈。",
-      "pinyin": "Lìngwài, yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
-      "tr": "Ayrıca, farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+      "zh": "两种方式都准备好，这样不同顾客买东西都方便。",
+      "pinyin": "liǎng zhǒng fāng shì dōu zhǔn bèi hǎo zhè yàng bù tóng gù kè mǎi dōng xī dōu fāng biàn",
+      "tr": "İki ödeme yolunu da hazırlayalım; böylece herkes rahatça alışveriş yapar."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_028",
       "speaker": "张伟",
-      "zh": "如果现在还不能确定，就先保留一点调整空间。",
-      "pinyin": "Rúguǒ xiànzài hái bùnéng quèdìng, jiù xiān bǎoliú yìdiǎn tiáozhěng kōngjiān.",
-      "tr": "Şu anda kesinleştiremiyorsak biraz uyum payı bırakalım."
+      "zh": "价格牌要写大一点，特别是番茄和青菜的单价。",
+      "pinyin": "jià gé pái yào xiě dà yī diǎn tè bié shì fān qié hé qīng cài de dān jià",
+      "tr": "Fiyat tabelalarını büyük yazalım; özellikle domatesle yeşilliğin birim fiyatını."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_029",
       "speaker": "爷爷",
-      "zh": "其实，我更关心这个选择实际会带来什么变化。",
-      "pinyin": "Qíshí, wǒ gèng guānxīn zhège xuǎnzé shíjì huì dàilái shénme biànhuà.",
-      "tr": "Aslında, ben daha çok bu seçimin gerçekte neyi değiştireceğini önemsiyorum."
+      "zh": "番茄每斤八块，青菜六块，黄瓜七块，你们觉得合适吗？",
+      "pinyin": "fān qié měi jīn bā kuài qīng cài liù kuài huáng guā qī kuài nǐ men jué de hé shì ma",
+      "tr": "Yarım kilo domates sekiz, yeşillik altı, salatalık yedi yuan; sizce uygun mu?"
     },
     {
       "id": "DLG_ZH_HSK4_SC021_030",
       "speaker": "顾客",
-      "zh": "先别把问题想得太抽象，回到具体情况会更容易判断。",
-      "pinyin": "Xiānbié bǎ wèntí xiǎng dé tài chōuxiàng, huídào jùtǐqíngkuàng huì gèng róngyì pànduàn.",
-      "tr": "Sorunu fazla soyutlaştırmayalım; somut duruma dönmek değerlendirmeyi kolaylaştırır."
+      "zh": "和附近摊位差不多。如果品质好，顾客会愿意多买几次。",
+      "pinyin": "hé fù jìn tān wèi chà bu duō rú guǒ pǐn zhì hǎo gù kè huì yuàn yì duō mǎi jǐ cì",
+      "tr": "Yakındaki tezgâhlara yakın. Kalitesi iyiyse müşteriler tekrar alır."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_031",
       "speaker": "刘梅",
-      "zh": "我们先处理最关键的一点，再看其他细节。",
-      "pinyin": "Wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
-      "tr": "Önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+      "zh": "我们可以先按这个价格卖一天，看看顾客的反应和销量。",
+      "pinyin": "wǒ men kě yǐ xiān àn zhè ge jià gé mài yī tiān kàn kàn gù kè de fǎn yìng hé xiāo liàng",
+      "tr": "Bu fiyatla bir gün satış yapıp müşterilerin tepkisine ve satış miktarına bakalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_032",
       "speaker": "张伟",
-      "zh": "这个想法可以继续讨论，不过最好再确认一下实际条件。",
-      "pinyin": "Zhège xiǎngfǎ kěyǐ jìxù tǎolùn, bùguò zuìhǎo zài quèrèn yīxià shíjì tiáojiàn.",
-      "tr": "Bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+      "zh": "如果卖得太快，也别马上涨价，先确认是不是准备的数量太少。",
+      "pinyin": "rú guǒ mài dé tài kuài yě bié mǎ shàng zhǎng jià xiān què rèn shì bú shì zhǔn bèi de shù liàng tài shǎo",
+      "tr": "Çabuk satılırsa hemen zam yapmayalım; önce getirdiğimiz miktar az mıydı bakalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_033",
       "speaker": "爷爷",
-      "zh": "我同意方向，不过执行的时候需要留一点余地。",
-      "pinyin": "Wǒ tóngyì fāngxiàng, bùguò zhíxíng de shíhòu xūyào liú yìdiǎn yúdì.",
-      "tr": "Yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+      "zh": "我种的菜数量有限，卖完了就没有了，不会临时去别处进货。",
+      "pinyin": "wǒ zhǒng de cài shù liàng yǒu xiàn mài wán le jiù méi yǒu le bú huì lín shí qù bié chù jìn huò",
+      "tr": "Yetiştirdiğim sebzeler sınırlı; bitince biter, başka yerden sonradan mal getirmem."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_034",
       "speaker": "顾客",
-      "zh": "如果出现新情况，我们就根据新的事实调整。",
-      "pinyin": "Rúguǒ chūxiàn xīn qíngkuàng, wǒmen jiù gēnjù xīn de shìshí tiáozhěng.",
-      "tr": "Yeni bir durum çıkarsa yeni olgulara göre ayarlarız."
+      "zh": "把这一点告诉大家也好，顾客知道是当日采摘的农产品。",
+      "pinyin": "bǎ zhè yì diǎn gào sù dà jiā yě hǎo gù kè zhī dào shì dāng rì cǎi zhāi de nóng chǎn pǐn",
+      "tr": "Bunu müşterilere söylemek iyi olur; ürünlerin aynı gün toplandığını bilirler."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_035",
       "speaker": "刘梅",
-      "zh": "不用追求一次把所有问题都解决，先把下一步走稳。",
-      "pinyin": "Bùyòng zhuīqiú yīcì bǎ suǒyǒu wèntí dōu jiějué, xiān bǎ xià yībù zǒuwěn.",
-      "tr": "Bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+      "zh": "我们还可以把农场的照片带来，让大家看看蔬菜在哪里长大。",
+      "pinyin": "wǒ men hái kě yǐ bǎ nóng chǎng de zhào piān dài lái ràng dà jiā kàn kàn shū cài zài nǎ lǐ zhǎng dà",
+      "tr": "Çiftliğin fotoğraflarını da getirip sebzelerin nerede yetiştiğini gösterebiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_036",
       "speaker": "张伟",
-      "zh": "另外，我们至少已经知道彼此最在意什么了。",
-      "pinyin": "Lìngwài, wǒmen zhìshǎo yǐjīng zhīdào bǐcǐ zuì zàiyì shénme le.",
-      "tr": "Ayrıca, en azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+      "zh": "照片要选清楚的，说明写简单一点，别挡住价格。",
+      "pinyin": "zhào piān yào xuǎn qīng chǔ de shuō míng xiě jiǎn dān yì diǎn bié dǎng zhù jià gé",
+      "tr": "Net fotoğraflar seçip açıklamayı kısa tutalım; fiyatları kapatmasın."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_037",
       "speaker": "爷爷",
-      "zh": "不过，把责任和时间说清楚，后面执行会容易很多。",
-      "pinyin": "Bùguò, bǎ zérèn hé shíjiān shuō qīngchǔ, hòumiàn zhíxíng huì róngyì hěnduō.",
-      "tr": "Ancak, sorumlulukları ve zamanı netleştirince uygulama çok daha kolay olur."
+      "zh": "我有一张菜地的照片，旁边还有我和邻居一起摘菜的样子。",
+      "pinyin": "wǒ yǒu yī zhāng cài dì de zhào piān páng biān hái yǒu wǒ hé lín jū yì qǐ zhāi cài de yàng zi",
+      "tr": "Sebze tarlamızın, yan komşuyla ürün topladığımız bir fotoğrafı var."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_038",
       "speaker": "顾客",
-      "zh": "其实，这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "Qíshí, zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
-      "tr": "Aslında, bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "这种照片很亲切，会让人觉得你们是真正在种菜的农场。",
+      "pinyin": "zhè zhǒng zhào piān hěn qīn qiè huì ràng rén jué de nǐ men shì zhēn zhèng zài zhòng cài de nóng chǎng",
+      "tr": "Böyle bir fotoğraf içten görünür; gerçekten sebze yetiştirdiğinizi gösterir."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_039",
       "speaker": "刘梅",
-      "zh": "换个角度看，今天先把能确定的部分定下来，剩下的以后继续聊。",
-      "pinyin": "Huàngè jiǎodùkàn, jīntiān xiān bǎ néng quèdìng de bùfèn dìng xiàlái, shèngxià de yǐhòu jìxù liáo.",
-      "tr": "Başka bir açıdan bakarsak, bugün netleştirebildiğimiz kısmı kararlaştıralım; kalanını sonra konuşuruz."
+      "zh": "那我把它打印出来，放在菜摊边上，保护好别被雨淋湿。",
+      "pinyin": "nà wǒ bǎ tā dǎ yìn chū lái fàng zài cài tān biān shàng bǎo hù hǎo bié bèi yǔ lín shī",
+      "tr": "Öyleyse bastırıp tezgâhın yanına koyayım, yağmurdan korurum."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_040",
       "speaker": "张伟",
-      "zh": "先把各自真实的感受说出来，别急着替别人做决定。",
-      "pinyin": "Xiān bǎ gèzì zhēnshí de gǎnshòu shuō chūlái, biéjí zhe tì biérén zuò juédìng.",
-      "tr": "Önce herkes gerçek duygusunu söylesin; başkası adına karar vermek için acele etmeyelim."
+      "zh": "准备得差不多了。我们再核对一遍时间、价格和需要带的东西。",
+      "pinyin": "zhǔn bèi dé chà bu duō le wǒ men zài hé duì yī biàn shí jiān jià gé hé xū yào dài de dōng xī",
+      "tr": "Hazırlık tamam gibi. Saati, fiyatları ve götürülecekleri bir kez daha kontrol edelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_041",
       "speaker": "爷爷",
-      "zh": "一家人想法不一样很正常，重要的是把原因说明白。",
-      "pinyin": "Yījiārén xiǎngfǎ bù yīyàng hěn zhèngcháng, zhòngyào de shì bǎ yuányīn shuō míngbái.",
-      "tr": "Bir ailede fikirlerin farklı olması normal; önemli olan nedenlerini açıkça anlatmak."
+      "zh": "周六早上，我们六点半在农场见，装好菜以后一起去市场。",
+      "pinyin": "zhōu liù zǎo shàng wǒ men liù diǎn bàn zài nóng chǎng jiàn zhuāng hǎo cài yǐ hòu yì qǐ qù shì chǎng",
+      "tr": "Cumartesi sabahı altı buçukta çiftlikte buluşalım; sebzeleri yükleyip pazara gideriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_042",
       "speaker": "顾客",
-      "zh": "现实安排可以慢慢定，先听清楚彼此真正担心什么。",
-      "pinyin": "Xiànshí ānpái kěyǐ mànmàn dìng, xiān tīng qīngchǔ bǐcǐ zhēnzhèng dānxīn shénme.",
-      "tr": "Pratik düzenlemeler zamanla kararlaştırılabilir; önce birbirimizin gerçekten neden kaygılandığını anlayalım."
+      "zh": "我住得不远，可以直接到市场找你们，不用特意等我。",
+      "pinyin": "wǒ zhù dé bù yuǎn kě yǐ zhí jiē dào shì chǎng zhǎo nǐ men bù yòng tè yì děng wǒ",
+      "tr": "Yakında oturuyorum; sizi beklemenize gerek kalmadan pazarda bulabilirim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_043",
       "speaker": "刘梅",
-      "zh": "这件事对每个人的意义不一样，所以反应不同也很正常。",
-      "pinyin": "Zhèjiàn shì duì měigè rén de yìyì bù yīyàng, suǒyǐ fǎnyìng bùtóng yě hěn zhèngcháng.",
-      "tr": "Bu konunun herkes için anlamı farklı; bu yüzden tepkilerin farklı olması da normal."
+      "zh": "如果你到了找不到摊位，就给我打电话，我会告诉你位置。",
+      "pinyin": "rú guǒ nǐ dào le zhǎo bú dào tān wèi jiù gěi wǒ dǎ diàn huà wǒ huì gào sù nǐ wèi zhì",
+      "tr": "Tezgâhı bulamazsan beni ara, yerini tarif ederim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_044",
       "speaker": "张伟",
-      "zh": "我们可以不同意，但不要替对方猜他在想什么。",
-      "pinyin": "Wǒmen kěyǐ bù tóngyì, dàn búyào tì duìfāng cāi tā zài xiǎng shénme.",
-      "tr": "Aynı fikirde olmayabiliriz ama karşımızdakinin ne düşündüğünü onun yerine varsaymayalım."
+      "zh": "我把地址发到群里，大家出发前再确认一次。",
+      "pinyin": "wǒ bǎ dì zhǐ fā dào qún lǐ dà jiā chū fā qián zài què rèn yī cì",
+      "tr": "Adresi gruba atayım; çıkmadan önce bir kez daha doğrularız."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_045",
       "speaker": "爷爷",
-      "zh": "先把眼前能确定的事情说清楚，其他的以后再慢慢商量。",
-      "pinyin": "Xiān bǎ yǎnqián néng quèdìng de shìqíng shuō qīngchǔ, qítā de yǐhòu zài mànmàn shāngliáng.",
-      "tr": "Önce şu anda netleştirebildiklerimizi konuşalım; diğerlerini sonra yavaş yavaş değerlendiririz."
+      "zh": "菜都装好了，番茄和黄瓜分开放，路上不会压坏。",
+      "pinyin": "cài dōu zhuāng hǎo le fān qié hé huáng guā fēn kāi fàng lù shàng bú huì yā huài",
+      "tr": "Sebzeleri yükledim; domatesle salatalık ayrı, yolda ezilmezler."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_046",
       "speaker": "顾客",
-      "zh": "不过，我更在意的是，最后的安排能不能让每个人都觉得被尊重。",
-      "pinyin": "Bùguò, wǒ gèng zàiyì de shì, zuìhòu de ānpái néng bùnéng ràng měigè rén dōu juéde bèi zūnzhòng.",
-      "tr": "Ancak, benim için asıl önemli olan, son düzenlemenin herkesin kendisine saygı duyulduğunu hissettirmesi."
+      "zh": "市场已经有人了。你们的菜摊在入口右边，位置挺好找。",
+      "pinyin": "shì chǎng yǐ jīng yǒu rén le nǐ men de cài tān zài rù kǒu yòu biān wèi zhì tǐng hǎo zhǎo",
+      "tr": "Pazarda insanlar var. Tezgâhınız girişin sağında; bulması kolay."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_047",
       "speaker": "刘梅",
-      "zh": "其实，有些担心不是反对，只是需要一点时间适应。",
-      "pinyin": "Qíshí, yǒuxiē dānxīn búshì fǎnduì, zhǐshì xūyào yìdiǎn shíjiān shìyìng.",
-      "tr": "Aslında, bazı kaygılar karşı çıkmak anlamına gelmez; bazen alışmak için biraz zamana ihtiyaç vardır."
+      "zh": "我先铺好桌布，再把菜按价格和种类摆出来。",
+      "pinyin": "wǒ xiān pù hǎo zhuō bù zài bǎ cài àn jià gé hé zhǒng lèi bǎi chū lái",
+      "tr": "Önce örtüyü sereyim, sonra sebzeleri türüne ve fiyatına göre dizerim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_048",
       "speaker": "张伟",
-      "zh": "另外，现实安排可以慢慢定，先听清楚彼此真正担心什么。",
-      "pinyin": "Lìngwài, xiànshí ānpái kěyǐ mànmàn dìng, xiān tīng qīngchǔ bǐcǐ zhēnzhèng dānxīn shénme.",
-      "tr": "Ayrıca, pratik düzenlemeler zamanla kararlaştırılabilir; önce birbirimizin gerçekten neden kaygılandığını anlayalım."
+      "zh": "秤放在这边，付款码放高一点，免得被篮子挡住。",
+      "pinyin": "chèng fàng zài zhè biān fù kuǎn mǎ fàng gāo yì diǎn miǎn de bèi lán zi dǎng zhù",
+      "tr": "Terazi burada, ödeme kodu daha yukarıda dursun; sepet kapatmasın."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_049",
       "speaker": "爷爷",
-      "zh": "不过，这件事对每个人的意义不一样，所以反应不同也很正常。",
-      "pinyin": "Bùguò, zhèjiàn shì duì měigè rén de yìyì bù yīyàng, suǒyǐ fǎnyìng bùtóng yě hěn zhèngcháng.",
-      "tr": "Ancak, bu konunun herkes için anlamı farklı; bu yüzden tepkilerin farklı olması da normal."
+      "zh": "这些番茄是今天早上摘的，熟了以后自然变红，不是催熟的。",
+      "pinyin": "zhè xiē fān qié shì jīn tiān zǎo shàng zhāi de shú le yǐ hòu zì rán biàn hóng bú shì cuī shú de",
+      "tr": "Bu domatesleri bu sabah topladım; kendiliğinden kızardılar, yapay şekilde olgunlaştırılmadılar."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_050",
       "speaker": "顾客",
-      "zh": "这件事不只是安排问题，也跟每个人的感受有关。",
-      "pinyin": "Zhèjiàn shì bù zhǐshì ānpái wèntí, yě gēn měigè rén de gǎnshòu yǒuguān.",
-      "tr": "Bu yalnızca bir düzenleme meselesi değil; herkesin duygularıyla da ilgili."
+      "zh": "看起来确实新鲜。我先买两斤番茄，再要一把青菜。",
+      "pinyin": "kàn qǐ lái què shí xīn xiān wǒ xiān mǎi liǎng jīn fān qié zài yào yī bǎ qīng cài",
+      "tr": "Gerçekten taze görünüyor. İki jin domates ve bir demet yeşillik alayım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_051",
       "speaker": "刘梅",
-      "zh": "我希望我们最后记住的，不是谁说服了谁，而是大家都认真听过彼此。",
-      "pinyin": "Wǒ xīwàng wǒmen zuìhòu jìzhù de, búshì shuí shuōfú le shuí, érshì dàjiā dōu rènzhēn tīngguò bǐcǐ.",
-      "tr": "Sonunda hatırladığımız şeyin kimin kimi ikna ettiği değil, herkesin birbirini gerçekten dinlemiş olması olmasını istiyorum."
+      "zh": "好的，番茄十六块，青菜六块，一共二十二块。",
+      "pinyin": "hǎo de fān qié shí liù kuài qīng cài liù kuài yī gòng èr shí èr kuài",
+      "tr": "Peki, domates on altı, yeşillik altı yuan; toplam yirmi iki."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_052",
       "speaker": "张伟",
-      "zh": "其实，我们可以不同意，但不要替对方猜他在想什么。",
-      "pinyin": "Qíshí, wǒmen kěyǐ bù tóngyì, dàn búyào tì duìfāng cāi tā zài xiǎng shénme.",
-      "tr": "Aslında, aynı fikirde olmayabiliriz ama karşımızdakinin ne düşündüğünü onun yerine varsaymayalım."
+      "zh": "我称过了，重量够。您可以扫码，也可以付现金。",
+      "pinyin": "wǒ chēng guò le zhòng liàng gòu nín kě yǐ sǎo mǎ yě kě yǐ fù xiàn jīn",
+      "tr": "Tarttım, miktar tamam. Kodla ya da nakit ödeyebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_053",
       "speaker": "爷爷",
-      "zh": "还有谁想补充吗？",
-      "pinyin": "Háiyǒu shuí xiǎng bǔchōng ma?",
-      "tr": "Eklemek isteyen başka biri var mı?"
+      "zh": "谢谢你支持我们。吃完如果觉得不错，下次也欢迎来。",
+      "pinyin": "xiè xiè nǐ zhī chí wǒ men chī wán rú guǒ jué de bù cuò xià cì yě huān yíng lái",
+      "tr": "Bizi desteklediğiniz için sağ olun. Beğenirseniz bir dahaki sefere yine bekleriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_054",
       "speaker": "顾客",
-      "zh": "有些事情听起来简单，真正落到生活里才会发现细节很多。",
-      "pinyin": "Yǒuxiē shìqíng tīng qǐlái jiǎndān, zhēnzhèng luòdào shēnghuó lǐ cái huì fāxiàn xìjié hěnduō.",
-      "tr": "Bazı şeyler kulağa basit gelir; günlük hayata gelince pek çok ayrıntı ortaya çıkar."
+      "zh": "味道不错的话，我会告诉邻居。大家都想买新鲜的农产品。",
+      "pinyin": "wèi dào bù cuò de huà wǒ huì gào sù lín jū dà jiā dōu xiǎng mǎi xīn xiān de nóng chǎn pǐn",
+      "tr": "Tadı güzelse komşularıma söylerim. Herkes taze ürün almak istiyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_055",
       "speaker": "刘梅",
-      "zh": "另外，大家都出于关心，只是表达关心的方式不一样。",
-      "pinyin": "Lìngwài, dàjiā dōu chūyú guānxīn, zhǐshì biǎodá guānxīn de fāngshì bù yīyàng.",
-      "tr": "Ayrıca, herkesin niyeti ilgilenmek; yalnızca bunu ifade etme biçimleri farklı."
+      "zh": "刚才已经有几位顾客问了农场的位置，我们可以把地址写在说明牌上。",
+      "pinyin": "gāng cái yǐ jīng yǒu jǐ wèi gù kè wèn le nóng chǎng de wèi zhì wǒ men kě yǐ bǎ dì zhǐ xiě zài shuō míng pái shàng",
+      "tr": "Birkaç müşteri çiftliğin yerini sordu; adresi tabelaya yazabiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_056",
       "speaker": "张伟",
-      "zh": "不过，我理解你的顾虑，不过也想听听另一边的感受。",
-      "pinyin": "Bùguò, wǒ lǐjiě nǐ de gùlǜ, bùguò yě xiǎng tīngtīng lìngyībiān de gǎnshòu.",
-      "tr": "Ancak, kaygını anlıyorum ama diğer tarafın duygularını da duymak istiyorum."
+      "zh": "先别写私人住址，留市场摊位的联系方式就够了。",
+      "pinyin": "xiān bié xiě sī rén zhù zhǐ liú shì chǎng tān wèi de lián xì fāng shì jiù gòu le",
+      "tr": "Ev adresini yazmayalım; pazar tezgâhının iletişim bilgisi yeter."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_057",
       "speaker": "爷爷",
-      "zh": "我更在意的是，最后的安排能不能让每个人都觉得被尊重。",
-      "pinyin": "Wǒ gèng zàiyì de shì, zuìhòu de ānpái néng bùnéng ràng měigè rén dōu juéde bèi zūnzhòng.",
-      "tr": "Benim için asıl önemli olan, son düzenlemenin herkesin kendisine saygı duyulduğunu hissettirmesi."
+      "zh": "这个提醒好。顾客想问种植方法，可以下次来摊位慢慢聊。",
+      "pinyin": "zhè ge tí xǐng hǎo gù kè xiǎng wèn zhòng zhí fāng fǎ kě yǐ xià cì lái tān wèi màn màn liáo",
+      "tr": "İyi hatırlattın. Yetiştirme yöntemini merak edenler sonraki sefer tezgahta konuşabilir."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_058",
       "speaker": "顾客",
-      "zh": "换个角度看，每个人看到的角度不一样，把这些角度放在一起会更完整。",
-      "pinyin": "Huàngè jiǎodùkàn, měigè rén kàndào de jiǎodù bù yīyàng, bǎ zhèxiē jiǎodù fàngzài yìqǐ huì gèng wánzhěng.",
-      "tr": "Başka bir açıdan bakarsak, herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+      "zh": "你们一家一起摆摊，配合得挺自然，生意也慢慢起来了。",
+      "pinyin": "nǐ men yī jiā yì qǐ bǎi tān pèi hé dé tǐng zì rán shēng yì yě màn màn qǐ lái le",
+      "tr": "Ailece tezgâh açmanız uyumlu görünüyor; işler de yavaş yavaş açılıyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_059",
       "speaker": "刘梅",
-      "zh": "另外，我希望我们最后记住的，不是谁说服了谁，而是大家都认真听过彼此。",
-      "pinyin": "Lìngwài, wǒ xīwàng wǒmen zuìhòu jìzhù de, búshì shuí shuōfú le shuí, érshì dàjiā dōu rènzhēn tīngguò bǐcǐ.",
-      "tr": "Ayrıca, sonunda hatırladığımız şeyin kimin kimi ikna ettiği değil, herkesin birbirini gerçekten dinlemiş olması olmasını istiyorum."
+      "zh": "谢谢。我们轮流招呼顾客、称菜和收款，不会挤在一起。",
+      "pinyin": "xiè xiè wǒ men lún liú zhāo hū gù kè chēng cài hé shōu kuǎn bú huì jǐ zài yì qǐ",
+      "tr": "Sağ olun. Müşterileri karşılamayı, tartmayı ve ödeme almayı paylaşıyoruz; birbirimize engel olmuyoruz."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_060",
       "speaker": "张伟",
-      "zh": "有不同意见没关系，只要理由说得清楚就能继续谈。",
-      "pinyin": "Yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
-      "tr": "Farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+      "zh": "目前番茄卖得最快，青菜也有人买，黄瓜还剩不少。",
+      "pinyin": "mù qián fān qié mài dé zuì kuài qīng cài yě yǒu rén mǎi huáng guā hái shèng bù shǎo",
+      "tr": "Şimdiye kadar domates en hızlı satıldı; yeşillik de alınıyor, salatalık kaldı."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_061",
       "speaker": "爷爷",
-      "zh": "其实，有些事情听起来简单，真正落到生活里才会发现细节很多。",
-      "pinyin": "Qíshí, yǒuxiē shìqíng tīng qǐlái jiǎndān, zhēnzhèng luòdào shēnghuó lǐ cái huì fāxiàn xìjié hěnduō.",
-      "tr": "Aslında, bazı şeyler kulağa basit gelir; günlük hayata gelince pek çok ayrıntı ortaya çıkar."
+      "zh": "下午可能变热，我把剩下的青菜放进箱子里，再盖上湿布保鲜。",
+      "pinyin": "xià wǔ kě néng biàn rè wǒ bǎ shèng xià de qīng cài fàng jìn xiāng zi lǐ zài gài shàng shī bù bǎo xiān",
+      "tr": "Öğleden sonra hava ısınabilir; kalan yeşillikleri kasaya koyup nemli bezle örterim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_062",
       "speaker": "顾客",
-      "zh": "我更关心这个选择实际会带来什么变化。",
-      "pinyin": "Wǒ gèng guānxīn zhège xuǎnzé shíjì huì dàilái shénme biànhuà.",
-      "tr": "Ben daha çok bu seçimin gerçekte neyi değiştireceğini önemsiyorum."
+      "zh": "我下午还会经过市场，如果黄瓜没卖完，可以留两根给我吗？",
+      "pinyin": "wǒ xià wǔ hái huì jīng guò shì chǎng rú guǒ huáng guā méi mài wán kě yǐ liú liǎng gēn gěi wǒ ma",
+      "tr": "Öğleden sonra yine pazardan geçeceğim; salatalık kalırsa bana iki tane ayırır mısınız?"
     },
     {
       "id": "DLG_ZH_HSK4_SC021_063",
       "speaker": "刘梅",
-      "zh": "换个角度看，大家都出于关心，只是表达关心的方式不一样。",
-      "pinyin": "Huàngè jiǎodùkàn, dàjiā dōu chūyú guānxīn, zhǐshì biǎodá guānxīn de fāngshì bù yīyàng.",
-      "tr": "Başka bir açıdan bakarsak, herkesin niyeti ilgilenmek; yalnızca bunu ifade etme biçimleri farklı."
+      "zh": "可以，我先记下来。你大概几点来？",
+      "pinyin": "kě yǐ wǒ xiān jì xià lái nǐ dà gài jǐ diǎn lái",
+      "tr": "Olur, not edeyim. Tahminen kaçta gelirsiniz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC021_064",
       "speaker": "张伟",
-      "zh": "另外，我们先处理最关键的一点，再看其他细节。",
-      "pinyin": "Lìngwài, wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
-      "tr": "Ayrıca, önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+      "zh": "我把联系方式写给你，到时给我们发个消息就行。",
+      "pinyin": "wǒ bǎ lián xì fāng shì xiě gěi nǐ dào shí gěi wǒ men fā gè xiāo xī jiù xíng",
+      "tr": "İletişim bilgisini vereyim; gelince bize mesaj atmanız yeter."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_065",
       "speaker": "爷爷",
-      "zh": "不过，这个想法可以继续讨论，不过最好再确认一下实际条件。",
-      "pinyin": "Bùguò, zhège xiǎngfǎ kěyǐ jìxù tǎolùn, bùguò zuìhǎo zài quèrèn yīxià shíjì tiáojiàn.",
-      "tr": "Ancak, bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+      "zh": "这会儿顾客少了一点，我可以跟大家说说种菜的办法。",
+      "pinyin": "zhè huì er gù kè shǎo le yì diǎn wǒ kě yǐ gēn dà jiā shuō shuō zhòng cài de bàn fǎ",
+      "tr": "Şimdi müşteri biraz azaldı; sebze yetiştirme yöntemini anlatabilirim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_066",
       "speaker": "顾客",
-      "zh": "其实，我同意方向，不过执行的时候需要留一点余地。",
-      "pinyin": "Qíshí, wǒ tóngyì fāngxiàng, bùguò zhíxíng de shíhòu xūyào liú yìdiǎn yúdì.",
-      "tr": "Aslında, yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+      "zh": "你不用化学药品的话，怎么防止虫子吃掉叶子？",
+      "pinyin": "nǐ bù yòng huà xué yào pǐn de huà zěn me fáng zhǐ chóng zi chī diào yè zi",
+      "tr": "Kimyasal ilaç kullanmıyorsanız böceklerin yaprakları yemesini nasıl önlüyorsunuz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC021_067",
       "speaker": "刘梅",
-      "zh": "另外，我们可以不同意，但不要替对方猜他在想什么。",
-      "pinyin": "Lìngwài, wǒmen kěyǐ bù tóngyì, dàn búyào tì duìfāng cāi tā zài xiǎng shénme.",
-      "tr": "Ayrıca, aynı fikirde olmayabiliriz ama karşımızdakinin ne düşündüğünü onun yerine varsaymayalım."
+      "zh": "爷爷会轮流种不同的菜，也会及时摘掉受虫害的叶子。",
+      "pinyin": "yé yé huì lún liú zhǒng bù tóng de cài yě huì jí shí zhāi diào shòu chóng hài de yè zi",
+      "tr": "Büyükbabam farklı sebzeleri dönüşümlü eker ve böceklenen yaprakları zamanında ayıklar."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_068",
       "speaker": "张伟",
-      "zh": "其实，我更在意的是，最后的安排能不能让每个人都觉得被尊重。",
-      "pinyin": "Qíshí, wǒ gèng zàiyì de shì, zuìhòu de ānpái néng bùnéng ràng měigè rén dōu juéde bèi zūnzhòng.",
-      "tr": "Aslında, benim için asıl önemli olan, son düzenlemenin herkesin kendisine saygı duyulduğunu hissettirmesi."
+      "zh": "这需要花更多时间，但能让种植过程更容易说明白。",
+      "pinyin": "zhè xū yào huā gèng duō shí jiān dàn néng ràng zhòng zhí guò chéng gèng róng yì shuō míng bái",
+      "tr": "Daha çok zaman alıyor ama yetiştirme sürecini açıkça anlatabilmemizi sağlıyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_069",
       "speaker": "爷爷",
-      "zh": "我们至少已经知道彼此最在意什么了。",
-      "pinyin": "Wǒmen zhìshǎo yǐjīng zhīdào bǐcǐ zuì zàiyì shénme le.",
-      "tr": "En azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+      "zh": "即使这样做费时间，我也愿意坚持，吃菜的人知道来源才安心。",
+      "pinyin": "jí shǐ zhè yàng zuò fèi shí jiān wǒ yě yuàn yì jiān chí chī cài de rén zhī dào lái yuán cái ān xīn",
+      "tr": "Bu yöntem zaman alsa da sürdürmeye değer; sebzeyi yiyen kişi kaynağını bilince rahat eder."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_070",
       "speaker": "顾客",
-      "zh": "把责任和时间说清楚，后面执行会容易很多。",
-      "pinyin": "Bǎ zérèn hé shíjiān shuō qīngchǔ, hòumiàn zhíxíng huì róngyì hěnduō.",
-      "tr": "Sorumlulukları ve zamanı netleştirince uygulama çok daha kolay olur."
+      "zh": "听完以后我更了解这些农产品了，下次也想带家人来看看。",
+      "pinyin": "tīng wán yǐ hòu wǒ gèng liǎo jiě zhè xiē nóng chǎn pǐn le xià cì yě xiǎng dài jiā rén lái kàn kàn",
+      "tr": "Dinleyince ürünlerinizi daha iyi anladım; sonraki sefer ailemi de getirmek isterim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_071",
       "speaker": "刘梅",
-      "zh": "这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "Zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
-      "tr": "Bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "欢迎。我们可以给孩子看看菜是怎么长大的，但要先约好时间。",
+      "pinyin": "huān yíng wǒ men kě yǐ gěi hái zi kàn kàn cài shì zěn me zhǎng dà de dàn yào xiān yuē hǎo shí jiān",
+      "tr": "Memnun oluruz. Çocuklara sebzelerin nasıl büyüdüğünü gösterebiliriz; önceden zaman ayarlayalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_072",
       "speaker": "张伟",
-      "zh": "今天先把能确定的部分定下来，剩下的以后继续聊。",
-      "pinyin": "Jīntiān xiān bǎ néng quèdìng de bùfèn dìng xiàlái, shèngxià de yǐhòu jìxù liáo.",
-      "tr": "Bugün netleştirebildiğimiz kısmı kararlaştıralım; kalanını sonra konuşuruz."
+      "zh": "农场离市场有点远，最好安排在不忙的日子，路上也安全。",
+      "pinyin": "nóng chǎng lí shì chǎng yǒu diǎn yuǎn zuì hǎo ān pái zài bù máng de rì zi lù shàng yě ān quán",
+      "tr": "Çiftlik pazardan biraz uzakta; yoğun olmayan bir gün seçip yol güvenliğini de düşünelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_073",
       "speaker": "爷爷",
-      "zh": "辛苦大家了。",
-      "pinyin": "Xīnkǔ dàjiā le.",
-      "tr": "Herkesin emeğine sağlık."
+      "zh": "下周三我在农场，可以带大家走一圈，看看菜地和灌溉的地方。",
+      "pinyin": "xià zhōu sān wǒ zài nóng chǎng kě yǐ dài dà jiā zǒu yī quān kàn kàn cài dì hé guàn gài de dì fāng",
+      "tr": "Gelecek çarşamba çiftlikteyim; tarlayı ve sulama yerini gezdirebilirim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_074",
       "speaker": "顾客",
-      "zh": "换个角度看，有些担心不是反对，只是需要一点时间适应。",
-      "pinyin": "Huàngè jiǎodùkàn, yǒuxiē dānxīn búshì fǎnduì, zhǐshì xūyào yìdiǎn shíjiān shìyìng.",
-      "tr": "Başka bir açıdan bakarsak, bazı kaygılar karşı çıkmak anlamına gelmez; bazen alışmak için biraz zamana ihtiyaç vardır."
+      "zh": "我先问问家里人，再给你们答复。谢谢你愿意介绍农场。",
+      "pinyin": "wǒ xiān wèn wèn jiā lǐ rén zài gěi nǐ men dá fù xiè xiè nǐ yuàn yì jiè shào nóng chǎng",
+      "tr": "Önce aileme danışıp size haber vereyim. Çiftliği tanıtmayı kabul ettiğiniz için sağ olun."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_075",
       "speaker": "刘梅",
-      "zh": "不过，一家人想法不一样很正常，重要的是把原因说明白。",
-      "pinyin": "Bùguò, yījiārén xiǎngfǎ bù yīyàng hěn zhèngcháng, zhòngyào de shì bǎ yuányīn shuō míngbái.",
-      "tr": "Ancak, bir ailede fikirlerin farklı olması normal; önemli olan nedenlerini açıkça anlatmak."
+      "zh": "今天的菜卖得怎么样？我们先对一下数量和收入。",
+      "pinyin": "jīn tiān de cài mài dé zěn me yàng wǒ men xiān duì yī xià shù liàng hé shōu rù",
+      "tr": "Bugün sebzeler nasıl satıldı? Önce miktarı ve geliri karşılaştıralım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_076",
       "speaker": "张伟",
-      "zh": "其实，现实安排可以慢慢定，先听清楚彼此真正担心什么。",
-      "pinyin": "Qíshí, xiànshí ānpái kěyǐ mànmàn dìng, xiān tīng qīngchǔ bǐcǐ zhēnzhèng dānxīn shénme.",
-      "tr": "Aslında, pratik düzenlemeler zamanla kararlaştırılabilir; önce birbirimizin gerçekten neden kaygılandığını anlayalım."
+      "zh": "番茄卖完了，青菜还剩一小篮，黄瓜卖出去大半。",
+      "pinyin": "fān qié mài wán le qīng cài hái shèng yī xiǎo lán huáng guā mài chū qù dà bàn",
+      "tr": "Domates bitti; bir küçük sepet yeşillik kaldı, salatalığın çoğu satıldı."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_077",
       "speaker": "爷爷",
-      "zh": "好，我们保持联系。",
-      "pinyin": "Hǎo, wǒmen bǎochíliánxì.",
-      "tr": "Tamam, iletişimde kalalım."
+      "zh": "收入比我想的好，不过下次青菜少带一点，黄瓜可以多带些。",
+      "pinyin": "shōu rù bǐ wǒ xiǎng de hǎo bù guò xià cì qīng cài shǎo dài yì diǎn huáng guā kě yǐ duō dài xiē",
+      "tr": "Gelir beklediğimden iyi; ama sonraki sefer daha az yeşillik, daha çok salatalık getirebiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_078",
       "speaker": "顾客",
-      "zh": "那把菜摊也一起考虑进去吧。",
-      "pinyin": "Nà bǎ càitān yě yìqǐ kǎolǜ jìnqù ba.",
-      "tr": "Sebze tezgâhı konusunu da değerlendirme kapsamına alalım."
+      "zh": "我刚才看到好几个人问黄瓜，可惜摊上已经没有了。",
+      "pinyin": "wǒ gāng cái kàn dào hǎo jǐ gè rén wèn huáng guā kě xī tān shàng yǐ jīng méi yǒu le",
+      "tr": "Az önce birkaç kişinin salatalık sorduğunu gördüm; tezgahta kalmamıştı."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_079",
       "speaker": "刘梅",
-      "zh": "换个角度看，这件事对每个人的意义不一样，所以反应不同也很正常。",
-      "pinyin": "Huàngè jiǎodùkàn, zhèjiàn shì duì měigè rén de yìyì bù yīyàng, suǒyǐ fǎnyìng bùtóng yě hěn zhèngcháng.",
-      "tr": "Başka bir açıdan bakarsak, bu konunun herkes için anlamı farklı; bu yüzden tepkilerin farklı olması da normal."
+      "zh": "那我们把顾客问过的东西记下来，下一次准备时参考。",
+      "pinyin": "nà wǒ men bǎ gù kè wèn guò de dōng xī jì xià lái xià yī cì zhǔn bèi shí cān kǎo",
+      "tr": "Müşterilerin sorduklarını not edip sonraki hazırlıkta dikkate alalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_080",
       "speaker": "张伟",
-      "zh": "农产品要是有新变化，我们就得重新安排。",
-      "pinyin": "Nóngchǎnpǐn yàoshì yǒu xīn biànhuà, wǒmen jiù dé chóngxīnānpái.",
-      "tr": "Tarım ürünü değişirse planı da ayarlamak gerekir."
+      "zh": "还要记下天气和每种菜卖出的时间，这样更容易调整数量。",
+      "pinyin": "hái yào jì xià tiān qì hé měi zhòng cài mài chū de shí jiān zhè yàng gèng róng yì tiáo zhěng shù liàng",
+      "tr": "Havayı ve her sebzenin ne zaman satıldığını da yazalım; miktarı ayarlamak kolaylaşır."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_081",
       "speaker": "爷爷",
-      "zh": "另外，有些事情听起来简单，真正落到生活里才会发现细节很多。",
-      "pinyin": "Lìngwài, yǒuxiē shìqíng tīng qǐlái jiǎndān, zhēnzhèng luòdào shēnghuó lǐ cái huì fāxiàn xìjié hěnduō.",
-      "tr": "Ayrıca, bazı şeyler kulağa basit gelir; günlük hayata gelince pek çok ayrıntı ortaya çıkar."
+      "zh": "这次摆摊让我发现，种得好只是第一步，还要了解市场和顾客。",
+      "pinyin": "zhè cì bǎi tān ràng wǒ fā xiàn zhǒng dé hǎo zhǐ shì dì yī bù hái yào liǎo jiě shì chǎng hé gù kè",
+      "tr": "Bu tezgâh deneyimi, iyi yetiştirmenin ilk adım olduğunu; pazarı ve müşteriyi de anlamak gerektiğini gösterdi."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_082",
       "speaker": "顾客",
-      "zh": "关于市场，你们怎么看？",
-      "pinyin": "Guānyú shìchǎng, nǐmen zěnme kàn?",
-      "tr": "Pazar konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "我也学到了怎么挑新鲜的菜。下次来我会直接找你们。",
+      "pinyin": "wǒ yě xué dào le zěn me tiāo xīn xiān de cài xià cì lái wǒ huì zhí jiē zhǎo nǐ men",
+      "tr": "Ben de taze sebze seçmeyi öğrendim. Sonraki sefer doğrudan size uğrarım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_083",
       "speaker": "刘梅",
-      "zh": "我先把这一点记下来。",
-      "pinyin": "Wǒ xiān bǎ zhè yìdiǎn jìxiàlái.",
-      "tr": "Bu noktayı not edeyim."
+      "zh": "谢谢你今天来买菜，也谢谢你给我们的建议。",
+      "pinyin": "xiè xiè nǐ jīn tiān lái mǎi cài yě xiè xiè nǐ gěi wǒ men de jiàn yì",
+      "tr": "Bugün alışveriş yaptığınız ve önerilerinizi paylaştığınız için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_084",
       "speaker": "张伟",
-      "zh": "我们还得顾到价格。",
-      "pinyin": "Wǒmen hái dé gùdào jiàgé.",
-      "tr": "Fiyat göz ardı edemeyeceğimiz bir nokta."
+      "zh": "我们收摊以后把桌子和地面整理干净，再把篮子带回去。",
+      "pinyin": "wǒ men shōu tān yǐ hòu bǎ zhuō zi hé dì miàn zhěng lǐ gān jìng zài bǎ lán zi dài huí qù",
+      "tr": "Tezgâhı kapatınca masayı ve yeri temizleyip sepetleri geri götürelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_085",
       "speaker": "爷爷",
-      "zh": "不过，大家都出于关心，只是表达关心的方式不一样。",
-      "pinyin": "Bùguò, dàjiā dōu chūyú guānxīn, zhǐshì biǎodá guānxīn de fāngshì bù yīyàng.",
-      "tr": "Ancak, herkesin niyeti ilgilenmek; yalnızca bunu ifade etme biçimleri farklı."
+      "zh": "辛苦大家了。第一次在市场卖农产品，比我想象的顺利。",
+      "pinyin": "xīn kǔ dà jiā le dì yī cì zài shì chǎng mài nóng chǎn pǐn bǐ wǒ xiǎng xiàng de shùn lì",
+      "tr": "Hepinize zahmet oldu. Pazarda ilk kez ürün satmak düşündüğümden kolay geçti."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_086",
       "speaker": "顾客",
-      "zh": "顾客这方面也别漏了。",
-      "pinyin": "Gùkè zhèfāngmiàn yě biélòu le.",
-      "tr": "Müşteri konusunu da değerlendirme kapsamına alalım."
+      "zh": "祝贺你们！有新鲜蔬菜的时候告诉我，我还会来买。",
+      "pinyin": "zhù hè nǐ men yǒu xīn xiān shū cài de shí hòu gào sù wǒ wǒ hái huì lái mǎi",
+      "tr": "Tebrikler! Taze sebzeler olduğunda haber verin, yine alırım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_087",
       "speaker": "刘梅",
-      "zh": "对，我也这么看。",
-      "pinyin": "Duì, wǒ yě zhème kàn.",
-      "tr": "Bu noktaya katılıyorum."
+      "zh": "我们会把下次摆摊的时间写在说明牌上，也会提前整理好价格。",
+      "pinyin": "wǒ men huì bǎ xià cì bǎi tān de shí jiān xiě zài shuō míng pái shàng yě huì tí qián zhěng lǐ hǎo jià gé",
+      "tr": "Bir sonraki pazar gününü tabelaya yazar, fiyatları da önceden hazırlarız."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_088",
       "speaker": "张伟",
-      "zh": "我们得先看看农场是否真的合适。",
-      "pinyin": "Wǒmen dé xiān kànkàn nóngchǎng shìfǒu zhēnde héshì.",
-      "tr": "Önce çiftlik gerçekten uygun mu bakmalıyız."
+      "zh": "今天的记录我会保存下来，下次安排就有实际情况可以参考。",
+      "pinyin": "jīn tiān de jì lù wǒ huì bǎo cún xià lái xià cì ān pái jiù yǒu shí jì qíng kuàng kě yǐ cān kǎo",
+      "tr": "Bugünkü kayıtları saklayacağım; sonraki planımızda gerçek veriler olur."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_089",
       "speaker": "爷爷",
-      "zh": "我更在意的是，最后的安排能不能让每个人都觉得被尊重。",
-      "pinyin": "Wǒ gèng zàiyì de shì, zuìhòu de ānpái néng bùnéng ràng měigè rén dōu juéde bèi zūnzhòng.",
-      "tr": "Benim için asıl önemli olan, son düzenlemenin herkesin kendisine saygı duyulduğunu hissettirmesi."
+      "zh": "好，下一次我们试着多带黄瓜，也继续把种植方式讲清楚。",
+      "pinyin": "hǎo xià yī cì wǒ men shì zhe duō dài huáng guā yě jì xù bǎ zhòng zhí fāng shì jiǎng qīng chǔ",
+      "tr": "Güzel; sonraki sefer daha çok salatalık getirip yetiştirme biçimini anlatmaya devam edelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_090",
       "speaker": "顾客",
-      "zh": "质量这件事，大家还有什么要补充的？",
-      "pinyin": "Zhìliàng zhèjiàn shì, dàjiā háiyǒu shénme yào bǔchōng de?",
-      "tr": "Kalite konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "那我下周再来。希望到时候也能买到刚摘下来的青菜。",
+      "pinyin": "nà wǒ xià zhōu zài lái xī wàng dào shí hòu yě néng mǎi dào gāng zhāi xià lái de qīng cài",
+      "tr": "Gelecek hafta yine gelirim. Umarım o zaman yeni toplanmış yeşillik de bulurum."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_091",
       "speaker": "刘梅",
-      "zh": "其实，我理解你的顾虑，不过也想听听另一边的感受。",
-      "pinyin": "Qíshí, wǒ lǐjiě nǐ de gùlǜ, bùguò yě xiǎng tīngtīng lìngyībiān de gǎnshòu.",
-      "tr": "Aslında, kaygını anlıyorum ama diğer tarafın duygularını da duymak istiyorum."
+      "zh": "只要天气允许，我们就照计划出摊。下雨也会准备好遮雨布。",
+      "pinyin": "zhǐ yào tiān qì yǔn xǔ wǒ men jiù zhào jì huà chū tān xià yǔ yě huì zhǔn bèi hǎo zhē yǔ bù",
+      "tr": "Hava izin verirse planladığımız gibi tezgâh açarız; yağmurda da örtümüz hazır olur."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_092",
       "speaker": "张伟",
-      "zh": "我们还得顾到信任。",
-      "pinyin": "Wǒmen hái dé gùdào xìnrèn.",
-      "tr": "Güven göz ardı edemeyeceğimiz bir nokta."
+      "zh": "今天先把经验记好，其他安排等确认市场时间以后再定。",
+      "pinyin": "jīn tiān xiān bǎ jīng yàn jì hǎo qí tā ān pái děng què rèn shì chǎng shí jiān yǐ hòu zài dìng",
+      "tr": "Bugünkü deneyimi kaydedelim; kalan planı pazar saatini teyit edince yaparız."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_093",
       "speaker": "爷爷",
-      "zh": "另外，我更在意的是，最后的安排能不能让每个人都觉得被尊重。",
-      "pinyin": "Lìngwài, wǒ gèng zàiyì de shì, zuìhòu de ānpái néng bùnéng ràng měigè rén dōu juéde bèi zūnzhòng.",
-      "tr": "Ayrıca, benim için asıl önemli olan, son düzenlemenin herkesin kendisine saygı duyulduğunu hissettirmesi."
+      "zh": "谢谢你们一起帮忙。这个菜摊不只是卖菜，也让大家认识我们的农场。",
+      "pinyin": "xiè xiè nǐ men yì qǐ bāng máng zhè ge cài tān bù zhǐ shì mài cài yě ràng dà jiā rèn shí wǒ men de nóng chǎng",
+      "tr": "Hepinizin yardımına sağ olun. Bu tezgâh yalnızca sebze satmıyor, çiftliğimizi de tanıtıyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_094",
       "speaker": "顾客",
-      "zh": "那再把菜摊这一点加上。",
-      "pinyin": "Nà zài bǎ càitān zhè yìdiǎn jiāshàng.",
-      "tr": "Sebze tezgâhı konusunu da değerlendirme kapsamına alalım."
+      "zh": "我会把今天买的菜带回家，也把你们介绍给邻居。",
+      "pinyin": "wǒ huì bǎ jīn tiān mǎi de cài dài huí jiā yě bǎ nǐ men jiè shào gěi lín jū",
+      "tr": "Bugün aldıklarımı eve götürüp sizi komşularıma da anlatacağım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_095",
       "speaker": "刘梅",
-      "zh": "不过，有些担心不是反对，只是需要一点时间适应。",
-      "pinyin": "Bùguò, yǒuxiē dānxīn búshì fǎnduì, zhǐshì xūyào yìdiǎn shíjiān shìyìng.",
-      "tr": "Ancak, bazı kaygılar karşı çıkmak anlamına gelmez; bazen alışmak için biraz zamana ihtiyaç vardır."
+      "zh": "路上慢点，菜要是吃得满意，欢迎再来聊聊。",
+      "pinyin": "lù shàng màn diǎn cài yào shì chī dé mǎn yì huān yíng zài lái liáo liáo",
+      "tr": "Yolda dikkatli olun; sebzeleri beğenirseniz yine uğrayıp konuşabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_096",
       "speaker": "张伟",
-      "zh": "不过，这件事不只是安排问题，也跟每个人的感受有关。",
-      "pinyin": "Bùguò, zhèjiàn shì bù zhǐshì ānpái wèntí, yě gēn měigè rén de gǎnshòu yǒuguān.",
-      "tr": "Ancak, bu yalnızca bir düzenleme meselesi değil; herkesin duygularıyla da ilgili."
+      "zh": "东西都收好了，车也装完了，我们可以回农场了。",
+      "pinyin": "dōng xī dōu shōu hǎo le chē yě zhuāng wán le wǒ men kě yǐ huí nóng chǎng le",
+      "tr": "Her şeyi topladık, arabaya da yükledik; çiftliğe dönebiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_097",
       "speaker": "爷爷",
-      "zh": "其实，我希望我们最后记住的，不是谁说服了谁，而是大家都认真听过彼此。",
-      "pinyin": "Qíshí, wǒ xīwàng wǒmen zuìhòu jìzhù de, búshì shuí shuōfú le shuí, érshì dàjiā dōu rènzhēn tīngguò bǐcǐ.",
-      "tr": "Aslında, sonunda hatırladığımız şeyin kimin kimi ikna ettiği değil, herkesin birbirini gerçekten dinlemiş olması olmasını istiyorum."
+      "zh": "下次我会按今天的销量准备，争取让更多顾客买到合适的农产品。",
+      "pinyin": "xià cì wǒ huì àn jīn tiān de xiāo liàng zhǔn bèi zhēng qǔ ràng gèng duō gù kè mǎi dào hé shì de nóng chǎn pǐn",
+      "tr": "Sonraki sefer bugünkü satışa göre hazırlanıp daha çok müşterinin uygun ürün almasını sağlamaya çalışacağım."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_098",
       "speaker": "顾客",
-      "zh": "另外，我理解你的顾虑，不过也想听听另一边的感受。",
-      "pinyin": "Lìngwài, wǒ lǐjiě nǐ de gùlǜ, bùguò yě xiǎng tīngtīng lìngyībiān de gǎnshòu.",
-      "tr": "Ayrıca, kaygını anlıyorum ama diğer tarafın duygularını da duymak istiyorum."
+      "zh": "我等着下次来。今天认识你们，也知道了这些菜的来处。",
+      "pinyin": "wǒ děng zhe xià cì lái jīn tiān rèn shí nǐ men yě zhī dào le zhè xiē cài de lái chù",
+      "tr": "Yeniden gelmeyi bekliyorum. Bugün sizi tanıyıp sebzelerin nereden geldiğini öğrendim."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_099",
       "speaker": "刘梅",
-      "zh": "其实，一家人想法不一样很正常，重要的是把原因说明白。",
-      "pinyin": "Qíshí, yījiārén xiǎngfǎ bù yīyàng hěn zhèngcháng, zhòngyào de shì bǎ yuányīn shuō míngbái.",
-      "tr": "Aslında, bir ailede fikirlerin farklı olması normal; önemli olan nedenlerini açıkça anlatmak."
+      "zh": "那我们说好了，下周把市场和农场的时间都确认后再联系。",
+      "pinyin": "nà wǒ men shuō hǎo le xià zhōu bǎ shì chǎng hé nóng chǎng de shí jiān dōu què rèn hòu zài lián xì",
+      "tr": "Öyleyse anlaştık; gelecek hafta pazar ve çiftlik saatlerini teyit edip haberleşiriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_100",
       "speaker": "张伟",
-      "zh": "换个角度看，现实安排可以慢慢定，先听清楚彼此真正担心什么。",
-      "pinyin": "Huàngè jiǎodùkàn, xiànshí ānpái kěyǐ mànmàn dìng, xiān tīng qīngchǔ bǐcǐ zhēnzhèng dānxīn shénme.",
-      "tr": "Başka bir açıdan bakarsak, pratik düzenlemeler zamanla kararlaştırılabilir; önce birbirimizin gerçekten neden kaygılandığını anlayalım."
+      "zh": "今天大家都辛苦了。回去以后先休息，明天再整理剩下的菜。",
+      "pinyin": "jīn tiān dà jiā dōu xīn kǔ le huí qù yǐ hòu xiān xiū xī míng tiān zài zhěng lǐ shèng xià de cài",
+      "tr": "Hepiniz bugün çok yoruldunuz. Eve gidince dinlenin; kalan sebzeleri yarın düzenleriz."
     }
   ],
   "productionStatus": "complete",

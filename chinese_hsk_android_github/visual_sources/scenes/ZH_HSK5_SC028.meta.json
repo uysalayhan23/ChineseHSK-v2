@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC028.json",
-  "dialogueSha256": "ab74ed80a2cb9a8203f8dcd99a46277f67d895f5c54dbd19dcf34ecade643b85",
+  "dialogueSha256": "2b3e68c0fa822ef971675add97e6122cd5d0870645b7bcb5f2c29c261478bbec",
   "titleZh": "社区规划讨论会",
   "titleTr": "Kasaba Meclisi Tartışması",
   "locationId": "LOC_ZH_TOWN_HALL_001",

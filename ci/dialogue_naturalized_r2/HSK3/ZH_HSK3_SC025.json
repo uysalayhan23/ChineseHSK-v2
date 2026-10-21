@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 76,
+  "status": "FINAL_REVIEWED_V76",
+  "sceneId": "ZH_HSK3_SC025",
+  "level": "HSK3",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK3_SC025_001",
+      "speaker": "刘梅",
+      "zh": "乐乐想在咖啡馆里留一个作业角，老桌子正好可以用。",
+      "pinyin": "Lèlè xiǎng zài kāfēiguǎn lǐ liú yígè zuòyè jiǎo, lǎo zhuōzi zhènghǎo kěyǐ yòng.",
+      "tr": "Lele kafede bir ödev köşesi istiyor; eski masa tam buna uygun."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_002",
+      "speaker": "张伟",
+      "zh": "先把桌子检查稳不稳，再决定放在哪个位置。",
+      "pinyin": "Xiān bǎ zhuōzi jiǎnchá wěnbùwěn, zài juédìng fàngzài nǎge wèizhì.",
+      "tr": "Önce masanın sağlamlığını kontrol edelim, sonra nereye koyacağımıza karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_003",
+      "speaker": "顾客",
+      "zh": "孩子们在咖啡馆学习，会不会影响其他客人？",
+      "pinyin": "Háizi men zài kāfēiguǎn xuéxí, huì búhuì yǐngxiǎng qítā kèrén?",
+      "tr": "Çocuklar kafede ders çalışırsa diğer müşteriler rahatsız olur mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_004",
+      "speaker": "张雨桐",
+      "zh": "我们可以把作业角放在里面，离点单的地方远一点。",
+      "pinyin": "Wǒmen kěyǐ bǎ zuòyè jiǎo fàngzài lǐmiàn, lídiǎn dān de dìfāng yuǎn yìdiǎn.",
+      "tr": "Ödev köşesini içeride, sipariş alanından biraz uzağa kurabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_005",
+      "speaker": "刘梅",
+      "zh": "我先量一下老桌子，看看能不能靠墙摆。",
+      "pinyin": "Wǒ xiānliàng yīxià lǎo zhuōzi, kànkàn néng bùnéng kàoqiáng bǎi.",
+      "tr": "Önce eski masayı ölçeyim; duvar kenarına sığar mı bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_006",
+      "speaker": "张伟",
+      "zh": "靠墙比较安全，桌边也有插座，可以放台灯。",
+      "pinyin": "Kàoqiáng bǐjiào ānquán, zhuōbiān yě yǒu chāzuò, kěyǐ fàng táidēng.",
+      "tr": "Duvar kenarı daha güvenli; yanında masa lambası için priz de var."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_007",
+      "speaker": "顾客",
+      "zh": "我常来这家店，觉得给孩子留个学习的地方很好。",
+      "pinyin": "Wǒchánglái zhèjiā diàn, juéde gěi háizi liúgè xuéxí de dìfāng hěn hǎo.",
+      "tr": "Bu kafeye sık geliyorum; çocuklara ders çalışacak yer ayırmak iyi fikir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_008",
+      "speaker": "张雨桐",
+      "zh": "谢谢您提建议，我们还在商量怎么安排作业角。",
+      "pinyin": "Xièxiènín tí jiànyì, wǒmen hái zài shāngliáng zěnme ānpái zuòyè jiǎo.",
+      "tr": "Öneriniz için teşekkürler; ödev köşesini nasıl düzenleyeceğimizi konuşuyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_009",
+      "speaker": "刘梅",
+      "zh": "家人都觉得这张旧桌子还能用，不用另外买新的。",
+      "pinyin": "Jiārén dōu juéde zhèzhāng jiù zhuōzi hái néng yòng, bùyòng lìngwài mǎi xīn de.",
+      "tr": "Ailemiz eski masanın hâlâ kullanılabileceğini düşünüyor, yenisini almaya gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_010",
+      "speaker": "张伟",
+      "zh": "我把桌子放在柜台看得到的地方，方便照看孩子。",
+      "pinyin": "Wǒ bǎ zhuōzi fàngzài guìtái kàn dédào de dìfāng, fāngbiàn zhàokàn háizi.",
+      "tr": "Masayı tezgahtan görülebilecek yere koyarım, çocukları gözetmek kolay olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_011",
+      "speaker": "顾客",
+      "zh": "孩子写作业的时候，最好有安静一点儿的角落。",
+      "pinyin": "Háizi xiě zuòyè de shíhòu, zuìhǎo yǒu ānjìng yìdiǎnér de jiǎoluò.",
+      "tr": "Çocuklar ödev yaparken daha sakin bir köşe iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_012",
+      "speaker": "张雨桐",
+      "zh": "我放学以后会来学习，先把书和作业本带来。",
+      "pinyin": "Wǒ fàngxué yǐhòu huì lái xuéxí, xiān bǎ shū hé zuòyèběn dàilái.",
+      "tr": "Okuldan sonra gelip ders çalışacağım; kitaplarımı ve ödev defterimi getiririm."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_013",
+      "speaker": "刘梅",
+      "zh": "好，我们先准备几本书和笔，看看大家还需要什么。",
+      "pinyin": "Hǎo, wǒmen xiān zhǔnbèi jǐběnshū hé bǐ, kànkàn dàjiā hái xūyào shénme.",
+      "tr": "Peki, birkaç kitap ve kalem hazırlayalım; başka ne gerektiğine bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_014",
+      "speaker": "张伟",
+      "zh": "台灯要放在桌子左边，电线别挡住走路的地方。",
+      "pinyin": "Táidēng yào fàngzài zhuōzi zuǒbiān, diànxiàn bié dǎngzhù zǒulù de dìfāng.",
+      "tr": "Masa lambasını masanın soluna koyalım; kablo yürüyüş yolunu kapatmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_015",
+      "speaker": "顾客",
+      "zh": "我可以把书包放在椅子旁边吗？",
+      "pinyin": "Wǒ kěyǐ bǎ shūbāo fàngzài yǐzi pángbiān ma?",
+      "tr": "Çantamı sandalyenin yanına koyabilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_016",
+      "speaker": "张雨桐",
+      "zh": "可以，椅子下面留出空间，别放在过道上。",
+      "pinyin": "Kěyǐ, yǐzi xiàmiàn liúchū kōngjiān, bié fàngzài guòdào shàng.",
+      "tr": "Olur, sandalyenin altını boş bırak; çantayı geçiş yoluna koyma."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_017",
+      "speaker": "刘梅",
+      "zh": "我来写一份简单计划，列出桌子、灯和学习用品。",
+      "pinyin": "Wǒlái xiě yīfèn jiǎndān jìhuà, lièchū zhuōzi、 dēng hé xuéxíyòngpǐn.",
+      "tr": "Masa, lamba ve ders araçlarını listeleyen kısa bir plan yazayım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_018",
+      "speaker": "张伟",
+      "zh": "我帮你搬桌子，等会儿再检查灯光够不够。",
+      "pinyin": "Wǒ bāng nǐ bān zhuōzi, děnghuìer zài jiǎnchá dēngguāng gòubùgòu.",
+      "tr": "Masayı taşımana yardım edeyim; sonra ışığın yeterli olup olmadığını kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_019",
+      "speaker": "顾客",
+      "zh": "如果作业角开放，我也愿意带孩子来坐一会儿。",
+      "pinyin": "Rúguǒ zuòyè jiǎo kāifàng, wǒ yě yuànyì dài háizi lái zuò yīhuìer.",
+      "tr": "Ödev köşesi açılırsa çocuklarımla gelip oturmak isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_020",
+      "speaker": "张雨桐",
+      "zh": "欢迎您常来，我们会先试着安排一张学习桌。",
+      "pinyin": "Huānyíngnín cháng lái, wǒmen huì xiānshì zhe ānpái yīzhāng xuéxízhuō.",
+      "tr": "Yine bekleriz; önce bir ders çalışma masası kurmayı deneyeceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_021",
+      "speaker": "刘梅",
+      "zh": "桌脚有点松，乐乐写字时桌面可能会晃。",
+      "pinyin": "zhuō jiǎo yǒu diǎn sōng ， lè lè xiě zì shí zhuō miàn kě néng huì huǎng 。",
+      "tr": "Masanın bir ayağı gevşek; Lele yazarken sallanabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_022",
+      "speaker": "张伟",
+      "zh": "我去拿工具，先把老桌子修好。",
+      "pinyin": "wǒ qù ná gōng jù ， xiān bǎ lǎo zhuō zi xiū hǎo 。",
+      "tr": "Aletleri alıp önce eski masayı onarayım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_023",
+      "speaker": "顾客",
+      "zh": "我扶着桌面，你拧螺丝会更方便。",
+      "pinyin": "wǒ fú zhe zhuō miàn ， nǐ níng luó sī huì gèng fāng biàn 。",
+      "tr": "Ben masayı tutayım, vidaları sıkman kolaylaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_024",
+      "speaker": "张雨桐",
+      "zh": "谢谢。修好以后，我们再决定怎么安排这个作业角。",
+      "pinyin": "xiè xiè 。 xiū hǎo yǐ hòu ， wǒ men zài jué dìng zěn me ān pái zhè ge zuò yè jiǎo 。",
+      "tr": "Sağ ol. Onardıktan sonra ödev köşesini nasıl düzenleyeceğimize karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_025",
+      "speaker": "刘梅",
+      "zh": "桌子靠窗怎么样？白天孩子们可以借着自然光学习。",
+      "pinyin": "zhuō zi kào chuāng zěn me yàng ？ bái tiān hái zi men kě yǐ jiè zhe zì rán guāng xué xí 。",
+      "tr": "Masa pencerenin yanında olsa nasıl olur? Çocuklar gündüz doğal ışıkta çalışabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_026",
+      "speaker": "张伟",
+      "zh": "可以，不过要留出过道，不能挡住客人走路。",
+      "pinyin": "kě yǐ ， bù guò yào liú chū guò dào ， bù néng dǎng zhù kè rén zǒu lù 。",
+      "tr": "Olur ama geçiş yolunu açık bırakmalıyız; müşterilerin yolunu kapatmamalı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_027",
+      "speaker": "顾客",
+      "zh": "我平时常来，靠窗那边确实比较安静。",
+      "pinyin": "wǒ píng shí cháng lái ， kào chuāng nà biān què shí bǐ jiào ān jìng 。",
+      "tr": "Ben sık sık geliyorum; pencere tarafı gerçekten daha sakin."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_028",
+      "speaker": "张雨桐",
+      "zh": "那就把桌子往里移一点，给大家都留出空间。",
+      "pinyin": "nà jiù bǎ zhuō zi wǎng lǐ yí yì diǎn ， gěi dà jiā dōu liú chū kōng jiān 。",
+      "tr": "Öyleyse masayı biraz içeri çekelim, herkese yer kalsın."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_029",
+      "speaker": "刘梅",
+      "zh": "先量一下桌子和墙之间的距离吧。",
+      "pinyin": "xiān liàng yī xià zhuō zi hé qiáng zhī jiān de jù lí ba 。",
+      "tr": "Önce masa ile duvar arasındaki mesafeyi ölçelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_030",
+      "speaker": "张伟",
+      "zh": "我来量。这样书包放在旁边也不会挡路。",
+      "pinyin": "wǒ lái liàng 。 zhè yàng shū bāo fàng zài páng biān yě bú huì dǎng lù 。",
+      "tr": "Ben ölçeyim. Böylece okul çantası da yolu kapatmadan yanına konur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_031",
+      "speaker": "顾客",
+      "zh": "孩子们做作业时，咖啡馆会不会太吵？",
+      "pinyin": "hái zi men zuò zuò yè shí ， kā fēi guǎn huì bú huì tài chǎo ？",
+      "tr": "Çocuklar ödev yaparken kafe fazla gürültülü olur mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_032",
+      "speaker": "张雨桐",
+      "zh": "下午人少一些，可以把那段时间留给他们。",
+      "pinyin": "xià wǔ rén shǎo yī xiē ， kě yǐ bǎ nà duàn shí jiān liú gěi tā men 。",
+      "tr": "Öğleden sonra daha sakin oluyor; o saatleri onlara ayırabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_033",
+      "speaker": "刘梅",
+      "zh": "我可以做一张小计划，写清楚开放时间和规则。",
+      "pinyin": "wǒ kě yǐ zuò yī zhāng xiǎo jì huà ， xiě qīng chǔ kāi fàng shí jiān hé guī zé 。",
+      "tr": "Açık saatleri ve kuralları belirten küçük bir plan hazırlayabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_034",
+      "speaker": "张伟",
+      "zh": "请加上家人也能陪孩子一起学习这一点。",
+      "pinyin": "qǐng jiā shàng jiā rén yě néng péi hái zi yì qǐ xué xí zhè yì diǎn 。",
+      "tr": "Ailelerin de çocuklara ders çalışırken eşlik edebileceğini ekle."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_035",
+      "speaker": "顾客",
+      "zh": "好，我会写上，也会提醒大家保持安静。",
+      "pinyin": "hǎo ， wǒ huì xiě shàng ， yě huì tí xǐng dà jiā bǎo chí ān jìng 。",
+      "tr": "Peki, bunu da yazarım ve herkese sessiz olmalarını hatırlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_036",
+      "speaker": "张雨桐",
+      "zh": "要不要先让乐乐试用几天？",
+      "pinyin": "yào bù yào xiān ràng lè lè shì yòng jǐ tiān ？",
+      "tr": "Lele birkaç gün deneyerek kullansa mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_037",
+      "speaker": "刘梅",
+      "zh": "好，看看台灯够不够亮，桌面也够不够大。",
+      "pinyin": "hǎo ， kàn kàn tái dēng gòu bù gòu liàng ， zhuō miàn yě gòu bù gòu dà 。",
+      "tr": "Olur; lambanın yeterince aydınlık, masanın da yeterince geniş olup olmadığına bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_038",
+      "speaker": "张伟",
+      "zh": "我还想看看孩子坐下以后，书包放在哪里最方便。",
+      "pinyin": "wǒ hái xiǎng kàn kàn hái zi zuò xià yǐ hòu ， shū bāo fàng zài nǎ lǐ zuì fāng biàn 。",
+      "tr": "Çocuk oturduğunda çantasını nereye koymanın kolay olacağını da görmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_039",
+      "speaker": "顾客",
+      "zh": "这些都记进计划里，试用以后再听听大家的意见。",
+      "pinyin": "zhè xiē dōu jì jìn jì huà lǐ ， shì yòng yǐ hòu zài tīng tīng dà jiā de yì jiàn 。",
+      "tr": "Bunları plana yazalım; denemeden sonra herkesin fikrini alırız."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_040",
+      "speaker": "张雨桐",
+      "zh": "这样安排很实际，先试一周再决定要不要调整。",
+      "pinyin": "zhè yàng ān pái hěn shí jì ， xiān shì yī zhōu zài jué dìng yào bù yào tiáo zhěng 。",
+      "tr": "Bu düzen uygulanabilir; değişiklik gerekip gerekmediğine karar vermeden önce bir hafta deneyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_041",
+      "speaker": "刘梅",
+      "zh": "桌子修好了，我推一推，已经不晃了。",
+      "pinyin": "zhuō zi xiū hǎo le ， wǒ tuī yī tuī ， yǐ jīng bù huǎng le 。",
+      "tr": "Masa onarıldı; biraz ittirdim, artık sallanmıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_042",
+      "speaker": "张伟",
+      "zh": "很好。我把它移到窗边，但过道还很宽。",
+      "pinyin": "hěn hǎo 。 wǒ bǎ tā yí dào chuāng biān ， dàn guò dào hái hěn kuān 。",
+      "tr": "Güzel. Pencere yanına aldım, geçiş yolu hâlâ geniş."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_043",
+      "speaker": "顾客",
+      "zh": "我把书包放在桌子下面，走路的时候不会碰到。",
+      "pinyin": "wǒ bǎ shū bāo fàng zài zhuō zi xià miàn ， zǒu lù de shí hòu bú huì pèng dào 。",
+      "tr": "Çantayı masanın altına koydum; yürürken takılmıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_044",
+      "speaker": "张雨桐",
+      "zh": "我来开台灯试试，光线正好落在作业本上。",
+      "pinyin": "wǒ lái kāi tái dēng shì shì ， guāng xiàn zhèng hǎo luò zài zuò yè běn shàng 。",
+      "tr": "Masa lambasını açıp deneyeyim; ışık tam ödev defterine düşüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_045",
+      "speaker": "刘梅",
+      "zh": "乐乐，你坐在这里写字，觉得舒服吗？",
+      "pinyin": "lè lè ， nǐ zuò zài zhè lǐ xiě zì ， jué de shū fú ma ？",
+      "tr": "Lele, burada oturup yazmak rahat mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_046",
+      "speaker": "张伟",
+      "zh": "挺舒服的，桌子够大，我的书和本子都放得下。",
+      "pinyin": "tǐng shū fú de ， zhuō zi gòu dà ， wǒ de shū hé běn zi dōu fàng dé xià 。",
+      "tr": "Gayet rahat; masa geniş, kitaplarım ve defterim sığıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_047",
+      "speaker": "顾客",
+      "zh": "如果有人说话太大声，你可以告诉我们。",
+      "pinyin": "rú guǒ yǒu rén shuō huà tài dà shēng ， nǐ kě yǐ gào sù wǒ men 。",
+      "tr": "Birisi çok yüksek sesle konuşursa bize söyleyebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_048",
+      "speaker": "张雨桐",
+      "zh": "我会的。这里比我想的安静，我能专心学习。",
+      "pinyin": "wǒ huì de 。 zhè lǐ bǐ wǒ xiǎng de ān jìng ， wǒ néng zhuān xīn xué xí 。",
+      "tr": "Söylerim. Burası düşündüğümden sessiz; dersime odaklanabiliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_049",
+      "speaker": "刘梅",
+      "zh": "那我们把试用计划贴在店里的公告栏上吧。",
+      "pinyin": "nà wǒ men bǎ shì yòng jì huà tiē zài diàn lǐ de gōng gào lán shàng ba 。",
+      "tr": "Deneme planını dükkânın duyuru panosuna asalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_050",
+      "speaker": "张伟",
+      "zh": "我先写开放时间，家人陪读和安静规则也写进去。",
+      "pinyin": "wǒ xiān xiě kāi fàng shí jiān ， jiā rén péi dú hé ān jìng guī zé yě xiě jìn qù 。",
+      "tr": "Önce açık saatleri yazayım; ailelerin eşlik etmesini ve sessizlik kuralını da ekleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_051",
+      "speaker": "顾客",
+      "zh": "计划写得很清楚，客人一看就知道怎么使用。",
+      "pinyin": "jì huà xiě dé hěn qīng chǔ ， kè rén yī kàn jiù zhī dào zěn me shǐ yòng 。",
+      "tr": "Plan çok anlaşılır; müşteriler nasıl kullanacaklarını hemen görür."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_052",
+      "speaker": "张雨桐",
+      "zh": "我也会告诉常来的家长，孩子可以在这里做作业。",
+      "pinyin": "wǒ yě huì gào sù cháng lái de jiā zhǎng ， hái zi kě yǐ zài zhè lǐ zuò zuò yè 。",
+      "tr": "Sık gelen velilere de çocukların burada ödev yapabileceğini söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_053",
+      "speaker": "刘梅",
+      "zh": "今天先试到咖啡馆关门，看看大家的反应。",
+      "pinyin": "jīn tiān xiān shì dào kā fēi guǎn guān mén ， kàn kàn dà jiā de fǎn yìng 。",
+      "tr": "Bugün kafeyi kapatana kadar deneyelim, herkesin tepkisine bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_054",
+      "speaker": "张伟",
+      "zh": "刚才有两位孩子来学习，他们很快就找到位置了。",
+      "pinyin": "gāng cái yǒu liǎng wèi hái zi lái xué xí ， tā men hěn kuài jiù zhǎo dào wèi zhì le 。",
+      "tr": "Az önce iki çocuk ders çalışmaya geldi; yerlerini hemen buldular."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_055",
+      "speaker": "顾客",
+      "zh": "他们的书包都放在桌子下面，过道没有被挡住。",
+      "pinyin": "tā men de shū bāo dōu fàng zài zhuō zi xià miàn ， guò dào méi yǒu bèi dǎng zhù 。",
+      "tr": "Çantalarını masanın altına koydular; geçiş yolu kapanmadı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_056",
+      "speaker": "张雨桐",
+      "zh": "有一位家长问，家人能不能坐在旁边陪孩子。",
+      "pinyin": "yǒu yī wèi jiā zhǎng wèn ， jiā rén néng bù néng zuò zài páng biān péi hái zi 。",
+      "tr": "Bir veli, çocuğun yanında ailesinden birinin oturup oturamayacağını sordu."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_057",
+      "speaker": "刘梅",
+      "zh": "当然可以，只要不影响其他客人就行。",
+      "pinyin": "dāng rán kě yǐ ， zhǐ yào bù yǐng xiǎng qí tā kè rén jiù xíng 。",
+      "tr": "Elbette; diğer müşterileri rahatsız etmedikleri sürece olur."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_058",
+      "speaker": "张伟",
+      "zh": "我把这个问题补进计划里，再把公告栏上的说明改一下。",
+      "pinyin": "wǒ bǎ zhè ge wèn tí bǔ jìn jì huà lǐ ， zài bǎ gōng gào lán shàng de shuō míng gǎi yī xià 。",
+      "tr": "Bu bilgiyi plana ekleyip panodaki açıklamayı düzelteyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_059",
+      "speaker": "顾客",
+      "zh": "好，明天我们再检查一次，再决定要不要长期保留这个作业角。",
+      "pinyin": "hǎo ， míng tiān wǒ men zài jiǎn chá yī cì ， zài jué dìng yào bù yào cháng qī bǎo liú zhè ge zuò yè jiǎo 。",
+      "tr": "Tamam. Yarın bir daha kontrol edip bu ödev köşesini kalıcı tutup tutmayacağımıza karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_060",
+      "speaker": "张雨桐",
+      "zh": "听起来不错。孩子能安心学习，客人也有足够的空间。",
+      "pinyin": "tīng qǐ lái bù cuò 。 hái zi néng ān xīn xué xí ， kè rén yě yǒu zú gòu de kōng jiān 。",
+      "tr": "Kulağa iyi geliyor. Çocuklar rahatça ders çalışır, müşterilere de yeterince yer kalır."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_061",
+      "speaker": "刘梅",
+      "zh": "好，就按这个办法来。",
+      "pinyin": "Hǎo, jiù àn zhège bànfǎ lái.",
+      "tr": "Tamam, bu yönteme göre ilerleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_062",
+      "speaker": "张伟",
+      "zh": "你看，现在好多了。",
+      "pinyin": "Nǐ kàn, xiànzài hǎoduō le.",
+      "tr": "Bak, şimdi çok daha iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_063",
+      "speaker": "顾客",
+      "zh": "确实，比刚才顺利。",
+      "pinyin": "Quèshí, bǐ gāngcái shùnlì.",
+      "tr": "Gerçekten, az öncekinden daha iyi gidiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_064",
+      "speaker": "张雨桐",
+      "zh": "看来我们的方向是对的。",
+      "pinyin": "Kànlái wǒmen de fāngxiàng shì duì de.",
+      "tr": "Görünüşe göre doğru yöndeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_065",
+      "speaker": "刘梅",
+      "zh": "最后再检查一遍吧。",
+      "pinyin": "Zuìhòu zài jiǎnchá yībiàn ba.",
+      "tr": "Son olarak bir kez daha kontrol edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_066",
+      "speaker": "张伟",
+      "zh": "好的，我来检查第一部分。",
+      "pinyin": "Hǎo de, wǒlái jiǎnchá dìyī bùfèn.",
+      "tr": "Tamam, ilk kısmı ben kontrol edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_067",
+      "speaker": "顾客",
+      "zh": "我负责后面的部分。",
+      "pinyin": "Wǒ fùzé hòumiàn de bùfèn.",
+      "tr": "Ben sonraki kısmı kontrol ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_068",
+      "speaker": "张雨桐",
+      "zh": "现在没有发现新的问题。",
+      "pinyin": "Xiànzài méiyǒu fāxiàn xīn de wèntí.",
+      "tr": "Şu anda yeni bir sorun görünmüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_069",
+      "speaker": "刘梅",
+      "zh": "太好了，终于可以放心了。",
+      "pinyin": "Tàihǎole, zhōngyú kěyǐ fàngxīn le.",
+      "tr": "Harika, sonunda rahatlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_070",
+      "speaker": "张伟",
+      "zh": "今天我们学到不少东西。",
+      "pinyin": "Jīntiān wǒmen xuédào bùshǎo dōngxī.",
+      "tr": "Bugün epey şey öğrendik."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_071",
+      "speaker": "顾客",
+      "zh": "下次处理起来会更快。",
+      "pinyin": "Xiàcì chǔlǐ qǐlái huì gèng kuài.",
+      "tr": "Bir dahaki sefere daha hızlı hallederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_072",
+      "speaker": "张雨桐",
+      "zh": "我觉得今天的结果不错。",
+      "pinyin": "Wǒ juéde jīntiān de jiéguǒ bùcuò.",
+      "tr": "Bence bugünkü sonuç iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_073",
+      "speaker": "刘梅",
+      "zh": "我也是这么想的。",
+      "pinyin": "Wǒ yě shì zhème xiǎng de.",
+      "tr": "Ben de öyle düşünüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_074",
+      "speaker": "张伟",
+      "zh": "那就这么决定吧。",
+      "pinyin": "Nà jiù zhème juédìng ba.",
+      "tr": "O zaman böyle karar verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_075",
+      "speaker": "顾客",
+      "zh": "好，接下来按计划继续。",
+      "pinyin": "Hǎo, jiēxiàlái ànjìhuà jìxù.",
+      "tr": "Tamam, bundan sonra plana göre devam edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_076",
+      "speaker": "张雨桐",
+      "zh": "桌子已经靠墙放好了，走路的地方也留出来了。",
+      "pinyin": "Zhuōzi yǐjīng kàoqiáng fànghǎo le, zǒulù de dìfāng yě liú chūlái le.",
+      "tr": "Masayı duvar kenarına koyduk, geçiş alanını da boş bıraktık."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_077",
+      "speaker": "刘梅",
+      "zh": "台灯亮度合适，写字的时候不会挡住视线。",
+      "pinyin": "Táidēng liàngdù héshì, xiězì de shíhòu búhuì dǎngzhù shìxiàn.",
+      "tr": "Masa lambasının ışığı uygun; yazarken görüşü kapatmıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_078",
+      "speaker": "张伟",
+      "zh": "作业角先试用一周，再问问孩子和顾客的意见。",
+      "pinyin": "Zuòyè jiǎoxiān shìyòng yīzhōu, zài wènwèn háizi hé gùkè de yìjiàn.",
+      "tr": "Ödev köşesini önce bir hafta deneyip çocukların ve müşterilerin fikrini soralım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_079",
+      "speaker": "顾客",
+      "zh": "我觉得这个位置很安静，学习的时候不会被打扰。",
+      "pinyin": "Wǒ juéde zhège wèizhì hěn ānjìng, xuéxí de shíhòu búhuì bèi dǎrǎo.",
+      "tr": "Bence burası sakin, ders çalışırken rahatsız edilmem."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_080",
+      "speaker": "张雨桐",
+      "zh": "书本和笔我已经放在桌上了，用完以后会收好。",
+      "pinyin": "Shūběn hé bǐ wǒ yǐjīng fàngzài zhuōshàng le, yòng wán yǐhòu huìshōu hǎo.",
+      "tr": "Kitapları ve kalemleri masaya koydum; işim bitince toplarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_081",
+      "speaker": "刘梅",
+      "zh": "我们定个简单的计划，每天下午检查桌面和灯。",
+      "pinyin": "Wǒmen dìnggè jiǎndān de jìhuà, měitiān xiàwǔ jiǎnchá zhuōmiàn hé dēng.",
+      "tr": "Basit bir plan yapalım; her öğleden sonra masayı ve lambayı kontrol edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_082",
+      "speaker": "张伟",
+      "zh": "如果有客人要用桌子，我们先看作业角有没有人在学习。",
+      "pinyin": "Rúguǒ yǒu kèrén yào yòng zhuōzi, wǒmen xiānkàn zuòyè jiǎo yǒuméiyǒu rén zài xuéxí.",
+      "tr": "Bir müşteri masayı kullanmak isterse önce ödev köşesinde çalışan var mı bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_083",
+      "speaker": "顾客",
+      "zh": "这里很适合写作业，我能把今天的练习做完。",
+      "pinyin": "Zhèlǐ hěn shìhé xiě zuòyè, wǒnéng bǎ jīntiān de liànxí zuò wán.",
+      "tr": "Burası ödev yapmak için uygun, bugünkü alıştırmamı bitirebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_084",
+      "speaker": "张雨桐",
+      "zh": "太好了，学习的时候需要喝水就告诉我们。",
+      "pinyin": "Tàihǎole, xuéxí de shíhòu xūyào hēshuǐ jiù gàosù wǒmen.",
+      "tr": "Güzel; ders çalışırken suya ihtiyacın olursa bize söyle."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_085",
+      "speaker": "刘梅",
+      "zh": "家人一起做这个计划，比我一个人准备快多了。",
+      "pinyin": "Jiārén yìqǐ zuò zhège jìhuà, bǐ wǒ yígè rén zhǔnbèi kuài duō le.",
+      "tr": "Ailece bu planı yapmak, tek başıma hazırlamamdan çok daha hızlı oldu."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_086",
+      "speaker": "张伟",
+      "zh": "旧桌子擦干净了，桌角也没有松动。",
+      "pinyin": "Jiù zhuōzi cā gānjìng le, zhuōjiǎo yě méiyǒu sōngdòng.",
+      "tr": "Eski masayı temizledik, köşeleri de gevşek değil."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_087",
+      "speaker": "顾客",
+      "zh": "我今天第一次在咖啡馆里学习，感觉挺方便。",
+      "pinyin": "Wǒ jīntiān dìyīcì zài kāfēiguǎn lǐ xuéxí, gǎnjué tǐng fāngbiàn.",
+      "tr": "Bugün kafede ilk kez ders çalıştım, oldukça kullanışlı."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_088",
+      "speaker": "张雨桐",
+      "zh": "你先把作业写完，遇到不懂的题再问我们。",
+      "pinyin": "Nǐ xiān bǎ zuòyè xiě wán, yùdào bù dǒng de tí zài wèn wǒmen.",
+      "tr": "Önce ödevini bitir, anlamadığın soru olursa bize sor."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_089",
+      "speaker": "刘梅",
+      "zh": "我把书包放好了，桌面上只留作业本和铅笔。",
+      "pinyin": "Wǒ bǎ shūbāo fànghǎo le, zhuōmiànshàng zhǐliú zuòyèběn hé qiānbǐ.",
+      "tr": "Çantamı koydum; masada yalnızca ödev defterim ve kalemim var."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_090",
+      "speaker": "张伟",
+      "zh": "我们会照计划检查作业角，也会留意客人的需要。",
+      "pinyin": "Wǒmen huìzhào jìhuà jiǎnchá zuòyè jiǎo, yě huì liúyì kèrén de xūyào.",
+      "tr": "Plana göre ödev köşesini kontrol eder, müşterilerin ihtiyaçlarını da gözetiriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_091",
+      "speaker": "顾客",
+      "zh": "这里没有太吵，我可以专心学习。",
+      "pinyin": "Zhèlǐ méiyǒu tàichǎo, wǒ kěyǐ zhuānxīn xuéxí.",
+      "tr": "Burası çok gürültülü değil, dersime odaklanabiliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_092",
+      "speaker": "张雨桐",
+      "zh": "谢谢您给我们意见，试用以后我们还会继续调整。",
+      "pinyin": "Xièxiènín gěi wǒmen yìjiàn, shìyòng yǐhòu wǒmen háihuì jìxù tiáozhěng.",
+      "tr": "Fikriniz için teşekkürler; denedikten sonra düzenlemeye devam ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_093",
+      "speaker": "刘梅",
+      "zh": "明天我再带一本故事书，和家人一起看看。",
+      "pinyin": "Míngtiān wǒ zài dài yīběn gùshìshū, hé jiārén yìqǐ kànkàn.",
+      "tr": "Yarın bir hikâye kitabı daha getirip ailemle bakarım."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_094",
+      "speaker": "张伟",
+      "zh": "好，我把它放进计划里，记得给书贴上名字。",
+      "pinyin": "Hǎo, wǒ bǎ tā fàngjìn jìhuà lǐ, jìde gěi shū tiē shàng míngzì.",
+      "tr": "Peki, plana ekliyorum; kitaba adını yazmayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_095",
+      "speaker": "顾客",
+      "zh": "我朋友来接我了，今天在这里学习很愉快。",
+      "pinyin": "Wǒ péngyǒu láijiē wǒ le, jīntiān zài zhèlǐ xuéxí hěn yúkuài.",
+      "tr": "Arkadaşım beni almaya geldi; bugün burada ders çalışmak güzeldi."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_096",
+      "speaker": "张雨桐",
+      "zh": "路上小心，欢迎下次再来作业角学习。",
+      "pinyin": "Lùshàng xiǎoxīn, huānyíng xiàcì zài lái zuòyè jiǎo xuéxí.",
+      "tr": "Dikkatli git, ödev köşesinde ders çalışmaya yine bekleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_097",
+      "speaker": "刘梅",
+      "zh": "咖啡馆的想法先从一张老桌子开始，慢慢再改进。",
+      "pinyin": "Kāfēiguǎn de xiǎngfǎ xiān cóng yīzhāng lǎo zhuōzi kāishǐ, mànmàn zài gǎijìn.",
+      "tr": "Kafe fikri önce eski bir masayla başlıyor, zamanla geliştiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_098",
+      "speaker": "张伟",
+      "zh": "我觉得这个计划可行，先试一周再决定要不要增加座位。",
+      "pinyin": "Wǒ juéde zhège jìhuà kěxíng, xiānshì yīzhōu zài juédìng yào búyào zēngjiā zuòwèi.",
+      "tr": "Bence bu plan uygulanabilir; bir hafta deneyip yer ekleyip eklememeye karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_099",
+      "speaker": "顾客",
+      "zh": "谢谢你们，我下次还带作业来。",
+      "pinyin": "Xièxiènǐmen, wǒ xiàcì hái dài zuòyè lái.",
+      "tr": "Teşekkürler, bir dahaki sefere ödevimi de getiririm."
+    },
+    {
+      "id": "DLG_ZH_HSK3_SC025_100",
+      "speaker": "张雨桐",
+      "zh": "我们会把学习角收拾好，明天见。",
+      "pinyin": "Wǒmen huì bǎ xuéxí jiǎo shōushí hǎo, míngtiān jiàn.",
+      "tr": "Ders köşesini düzenleyeceğiz, yarın görüşürüz。"
+    }
+  ]
+}

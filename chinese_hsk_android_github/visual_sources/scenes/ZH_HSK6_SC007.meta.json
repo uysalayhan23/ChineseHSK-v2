@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC007.json",
-  "dialogueSha256": "0665f4c770af02bcf5cf1f788f9af9f08895493849372d86ec1889d5f88ff573",
+  "dialogueSha256": "232485526826a3c651872242c2b32671c55ee39774bc3932cdd23e0d549c2850",
   "titleZh": "雨桐的婚礼",
   "titleTr": "Yutong’un Düğünü",
   "locationId": "LOC_ZH_WEDDING_VENUE_001",

@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 46,
+  "status": "FINAL_REVIEWED_V46",
+  "sceneId": "ZH_HSK2_SC044",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC044_001",
+      "speaker": "刘梅",
+      "zh": "社区活动快开始了，我第一次要为这么多人做饭。",
+      "pinyin": "shè qū huó dòng kuài kāi shǐ le ， wǒ dì yī cì yào wèi zhè me duō rén zuò fàn 。",
+      "tr": "Topluluk etkinliği yaklaşıyor; ilk kez bu kadar çok kişi için yemek yapacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_002",
+      "speaker": "社区工作人员",
+      "zh": "别紧张，刘梅。我们先确认一共需要多少份。",
+      "pinyin": "bié jǐn zhāng ， liú méi 。 wǒ men xiān què rèn yī gòng xū yào duō shǎo fèn 。",
+      "tr": "Endişelenme Liu Mei, önce toplam kaç porsiyon gerektiğini netleştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_003",
+      "speaker": "志愿者",
+      "zh": "名单上有二十位参加者，志愿者还要多准备两份。",
+      "pinyin": "míng dān shàng yǒu èr shí wèi cān jiā zhě ， zhì yuàn zhě hái yào duō zhǔn bèi liǎng fèn 。",
+      "tr": "Listede yirmi katılımcı var; gönüllüler için iki porsiyon daha hazırlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_004",
+      "speaker": "张伟",
+      "zh": "那我们按二十二份来准备，留一点余量。",
+      "pinyin": "nà wǒ men àn èr shí èr fèn lái zhǔn bèi ， liú yì diǎn yú liàng 。",
+      "tr": "O hâlde yirmi iki porsiyon yapalım, biraz da yedek kalsın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_005",
+      "speaker": "刘梅",
+      "zh": "每份饭要装多少？我想让大家都吃得够。",
+      "pinyin": "měi fèn fàn yào zhuāng duō shǎo ？ wǒ xiǎng ràng dà jiā dōu chī dé gòu 。",
+      "tr": "Her porsiyona ne kadar yemek koymalıyım? Herkes doysun istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_006",
+      "speaker": "社区工作人员",
+      "zh": "工作人员说一份饭加一份菜就可以。",
+      "pinyin": "gōng zuò rén yuán shuō yī fèn fàn jiā yī fèn cài jiù kě yǐ 。",
+      "tr": "Görevli, bir porsiyon pilavla bir porsiyon sebzenin yeterli olacağını söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_007",
+      "speaker": "志愿者",
+      "zh": "我们先看看桌上的食物够不够做二十二份。",
+      "pinyin": "wǒ men xiān kàn kàn zhuō shàng de shí wù gòu bù gòu zuò èr shí èr fèn 。",
+      "tr": "Masadaki yiyecekler yirmi iki porsiyona yeter mi, önce bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_008",
+      "speaker": "张伟",
+      "zh": "米和蔬菜够了，不过还差一些鸡蛋。",
+      "pinyin": "mǐ hé shū cài gòu le ， bù guò hái chà yī xiē jī dàn 。",
+      "tr": "Pirinçle sebze yeterli ama biraz daha yumurta eksik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_009",
+      "speaker": "刘梅",
+      "zh": "我可以去附近的商店买鸡蛋，顺便看看还差什么。",
+      "pinyin": "wǒ kě yǐ qù fù jìn de shāng diàn mǎi jī dàn ， shùn biàn kàn kàn hái chà shén me 。",
+      "tr": "Yakındaki dükkândan yumurta alıp başka eksik var mı diye bakabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_010",
+      "speaker": "社区工作人员",
+      "zh": "谢谢。你先照清单买，不用多买。",
+      "pinyin": "xiè xiè 。 nǐ xiān zhào qīng dān mǎi ， bù yòng duō mǎi 。",
+      "tr": "Teşekkürler. Listeye göre al, fazladan almana gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_011",
+      "speaker": "志愿者",
+      "zh": "我把做饭的步骤写在纸上，大家就知道先做什么。",
+      "pinyin": "wǒ bǎ zuò fàn de bù zhòu xiě zài zhǐ shàng ， dà jiā jiù zhī dào xiān zuò shén me 。",
+      "tr": "Pişirme adımlarını kâğıda yazayım; herkes sırayı bilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_012",
+      "speaker": "张伟",
+      "zh": "好，我负责洗菜和切菜，刘梅可以准备米饭。",
+      "pinyin": "hǎo ， wǒ fù zé xǐ cài hé qiè cài ， liú méi kě yǐ zhǔn bèi mǐ fàn 。",
+      "tr": "Güzel, ben sebzeleri yıkayıp doğrayayım, Liu Mei de pilavı hazırlasın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_013",
+      "speaker": "刘梅",
+      "zh": "我会先把米洗好，再放进锅里煮。",
+      "pinyin": "wǒ huì xiān bǎ mǐ xǐ hǎo ， zài fàng jìn guō lǐ zhǔ 。",
+      "tr": "Önce pirinci yıkayıp tencereye koyarak pişireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_014",
+      "speaker": "社区工作人员",
+      "zh": "我来看看厨房里有几个锅，够不够同时用。",
+      "pinyin": "wǒ lái kàn kàn chú fáng lǐ yǒu jǐ gè guō ， gòu bù gòu tóng shí yòng 。",
+      "tr": "Mutfakta kaç tencere var, aynı anda kullanmaya yeter mi bakayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_015",
+      "speaker": "志愿者",
+      "zh": "有两个大锅，应该够。一个煮饭，一个做菜。",
+      "pinyin": "yǒu liǎng gè dà guō ， yīng gāi gòu 。 yí gè zhǔ fàn ， yí gè zuò cài 。",
+      "tr": "İki büyük tencere var, yeter. Birinde pilav, diğerinde yemek pişer."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_016",
+      "speaker": "张伟",
+      "zh": "那我们把食物分好，免得忙的时候找不到。",
+      "pinyin": "nà wǒ men bǎ shí wù fēn hǎo ， miǎn de máng de shí hòu zhǎo bú dào 。",
+      "tr": "Yemek malzemelerini ayıralım ki iş yoğunken aramak zorunda kalmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_017",
+      "speaker": "刘梅",
+      "zh": "对，先把要用的东西放在桌子上。",
+      "pinyin": "duì ， xiān bǎ yào yòng de dōng xī fàng zài zhuō zi shàng 。",
+      "tr": "Evet, kullanacaklarımızı önce masaya çıkaralım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_018",
+      "speaker": "社区工作人员",
+      "zh": "我已经写好购物清单了，鸡蛋和油还差一些。",
+      "pinyin": "wǒ yǐ jīng xiě hǎo gòu wù qīng dān le ， jī dàn hé yóu hái chà yī xiē 。",
+      "tr": "Alışveriş listesini yazdım; yumurta ve yağ eksik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_019",
+      "speaker": "志愿者",
+      "zh": "我马上去买，大家可以先开始洗菜。",
+      "pinyin": "wǒ mǎ shàng qù mǎi ， dà jiā kě yǐ xiān kāi shǐ xǐ cài 。",
+      "tr": "Hemen alıp geliyorum, siz sebzeleri yıkamaya başlayabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_020",
+      "speaker": "张伟",
+      "zh": "好，我先洗青菜，再把胡萝卜切成小块。",
+      "pinyin": "hǎo ， wǒ xiān xǐ qīng cài ， zài bǎ hú luó bo qiè chéng xiǎo kuài 。",
+      "tr": "Tamam, önce yeşillikleri yıkayıp havuçları küçük küçük keseyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_021",
+      "speaker": "刘梅",
+      "zh": "我买回来了，鸡蛋、油和盐都在袋子里。",
+      "pinyin": "wǒ mǎi huí lái le ， jī dàn 、 yóu hé yán dōu zài dài zi lǐ 。",
+      "tr": "Aldım geldim; yumurta, yağ ve tuz poşette."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_022",
+      "speaker": "社区工作人员",
+      "zh": "谢谢，东西都齐了，我们可以开始做饭。",
+      "pinyin": "xiè xiè ， dōng xī dōu qí le ， wǒ men kě yǐ kāi shǐ zuò fàn 。",
+      "tr": "Teşekkürler, artık her şey tamam. Yemek yapmaya başlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_023",
+      "speaker": "志愿者",
+      "zh": "先煮米饭吧，这样菜做好时饭也差不多好了。",
+      "pinyin": "xiān zhǔ mǐ fàn ba ， zhè yàng cài zuò hǎo shí fàn yě chà bu duō hǎo le 。",
+      "tr": "Önce pilavı pişirelim; yemek hazır olunca o da pişmiş olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_024",
+      "speaker": "张伟",
+      "zh": "我把米放进锅里了，水量够吗？",
+      "pinyin": "wǒ bǎ mǐ fàng jìn guō lǐ le ， shuǐ liàng gòu ma ？",
+      "tr": "Pirinci tencereye koydum. Su miktarı yeterli mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_025",
+      "speaker": "刘梅",
+      "zh": "够了。现在把锅盖好，等水开了再调小火。",
+      "pinyin": "gòu le 。 xiàn zài bǎ guō gài hǎo ， děng shuǐ kāi le zài diào xiǎo huǒ 。",
+      "tr": "Yeterli. Kapağını kapat; su kaynayınca ateşi kısarsın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_026",
+      "speaker": "社区工作人员",
+      "zh": "菜都切好了，接下来先炒胡萝卜还是青菜？",
+      "pinyin": "cài dōu qiè hǎo le ， jiē xià lái xiān chǎo hú luó bo hái shì qīng cài ？",
+      "tr": "Sebzeler doğrandı. Önce havuçları mı, yeşillikleri mi pişirelim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_027",
+      "speaker": "志愿者",
+      "zh": "先炒胡萝卜，再做青菜，这样颜色也好看。",
+      "pinyin": "xiān chǎo hú luó bo ， zài zuò qīng cài ， zhè yàng yán sè yě hǎo kàn 。",
+      "tr": "Önce havuçları soteleyelim, sonra yeşillikleri; renkleri de güzel olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_028",
+      "speaker": "张伟",
+      "zh": "工作人员，参加活动的人有没有不吃的食物？",
+      "pinyin": "gōng zuò rén yuán ， cān jiā huó dòng de rén yǒu méi yǒu bù chī de shí wù ？",
+      "tr": "Etkinliğe katılanların yemediği bir yiyecek var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_029",
+      "speaker": "刘梅",
+      "zh": "我问过了，有两位不吃鸡蛋，给他们单独准备蔬菜。",
+      "pinyin": "wǒ wèn guò le ， yǒu liǎng wèi bù chī jī dàn ， gěi tā men dān dú zhǔn bèi shū cài 。",
+      "tr": "Sordum; iki kişi yumurta yemiyor. Onlar için sebzeli porsiyon ayıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_030",
+      "speaker": "社区工作人员",
+      "zh": "好，我把鸡蛋放在另一边，不和那两份混在一起。",
+      "pinyin": "hǎo ， wǒ bǎ jī dàn fàng zài lìng yī biān ， bù hé nà liǎng fèn hùn zài yì qǐ 。",
+      "tr": "Tamam, yumurtayı kenara koyup o iki porsiyona karıştırmam."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_031",
+      "speaker": "志愿者",
+      "zh": "谢谢你想得周到。份数都记在这张纸上了吗？",
+      "pinyin": "xiè xiè nǐ xiǎng dé zhōu dào 。 fèn shù dōu jì zài zhè zhāng zhǐ shàng le ma ？",
+      "tr": "İncelikli düşünmüşsün. Porsiyonları bu kâğıda yazdın mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_032",
+      "speaker": "张伟",
+      "zh": "记好了，二十份普通的，两份不加鸡蛋的。",
+      "pinyin": "jì hǎo le ， èr shí fèn pǔ tōng de ， liǎng fèn bù jiā jī dàn de 。",
+      "tr": "Evet: yirmi normal, iki de yumurtasız porsiyon."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_033",
+      "speaker": "刘梅",
+      "zh": "我来把饭菜装进盒子，每份都放一样多。",
+      "pinyin": "wǒ lái bǎ fàn cài zhuāng jìn hé zi ， měi fèn dōu fàng yī yàng duō 。",
+      "tr": "Yemekleri kutulara koyayım; hepsinde eşit miktar olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_034",
+      "speaker": "社区工作人员",
+      "zh": "这样很好，大家拿到的饭就不会有差别。",
+      "pinyin": "zhè yàng hěn hǎo ， dà jiā ná dào de fàn jiù bú huì yǒu chā bié 。",
+      "tr": "Güzel, böylece herkes aynı porsiyonu alır."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_035",
+      "speaker": "志愿者",
+      "zh": "还差几份没装？桌上看起来快够了。",
+      "pinyin": "hái chà jǐ fèn méi zhuāng ？ zhuō shàng kàn qǐ lái kuài gòu le 。",
+      "tr": "Kaç porsiyon kaldı? Masadakiler yeterli gibi görünüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_036",
+      "speaker": "张伟",
+      "zh": "现在还差四份，我马上把剩下的菜分好。",
+      "pinyin": "xiàn zài hái chà sì fèn ， wǒ mǎ shàng bǎ shèng xià de cài fēn hǎo 。",
+      "tr": "Dört porsiyon eksik; kalan yemeği hemen paylaştırayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_037",
+      "speaker": "刘梅",
+      "zh": "别着急，菜和饭都够，慢慢装就行。",
+      "pinyin": "bié zháo jí ， cài hé fàn dōu gòu ， màn màn zhuāng jiù xíng 。",
+      "tr": "Acele etme, pilavla yemek yeterli; sakince hazırlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_038",
+      "speaker": "社区工作人员",
+      "zh": "我可以帮忙把盒盖盖好，再摆到桌上。",
+      "pinyin": "wǒ kě yǐ bāng máng bǎ hé gài gài hǎo ， zài bǎi dào zhuō shàng 。",
+      "tr": "Kapakları kapatıp kutuları masaya dizerim, yardım edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_039",
+      "speaker": "志愿者",
+      "zh": "太好了，装好的盒子先放左边，空盒放右边。",
+      "pinyin": "tài hǎo le ， zhuāng hǎo de hé zi xiān fàng zuǒ biān ， kōng hé fàng yòu biān 。",
+      "tr": "Harika, hazır kutuları sola, boşları sağa koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_040",
+      "speaker": "张伟",
+      "zh": "明白了，我会分开摆，等会儿清点也方便。",
+      "pinyin": "míng bái le ， wǒ huì fēn kāi bǎi ， děng huì er qīng diǎn yě fāng biàn 。",
+      "tr": "Anladım, ayrı dizersem sonunda saymak da kolay olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_041",
+      "speaker": "刘梅",
+      "zh": "现在装好了二十二份，我再数一遍，确认没有少。",
+      "pinyin": "xiàn zài zhuāng hǎo le èr shí èr fèn ， wǒ zài shù yī biàn ， què rèn méi yǒu shǎo 。",
+      "tr": "Yirmi iki porsiyonu kutulara koyduk; eksik olmadığından emin olmak için tekrar sayayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_042",
+      "speaker": "社区工作人员",
+      "zh": "我数过了，是二十二份，数量正好。",
+      "pinyin": "wǒ shù guò le ， shì èr shí èr fèn ， shù liàng zhèng hǎo 。",
+      "tr": "Ben saydım, tam yirmi iki porsiyon var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_043",
+      "speaker": "志愿者",
+      "zh": "志愿者几点来取饭？我们要提前安排好。",
+      "pinyin": "zhì yuàn zhě jǐ diǎn lái qǔ fàn ？ wǒ men yào tí qián ān pái hǎo 。",
+      "tr": "Gönüllüler yemeği saat kaçta almaya gelecek? Önceden ayarlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_044",
+      "speaker": "张伟",
+      "zh": "他们说半小时后到，活动开始前会把饭送到会场。",
+      "pinyin": "tā men shuō bàn xiǎo shí hòu dào ， huó dòng kāi shǐ qián huì bǎ fàn sòng dào huì chǎng 。",
+      "tr": "Yarım saat sonra geleceklerini söylediler; etkinlik başlamadan mekâna götürecekler."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_045",
+      "speaker": "刘梅",
+      "zh": "那我把饭盒分成两箱，搬起来比较方便。",
+      "pinyin": "nà wǒ bǎ fàn hé fēn chéng liǎng xiāng ， bān qǐ lái bǐ jiào fāng biàn 。",
+      "tr": "Kutuları ikiye ayırayım, taşımaları daha kolay olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_046",
+      "speaker": "社区工作人员",
+      "zh": "好，箱子别装得太满，留意拿的时候不要倾斜。",
+      "pinyin": "hǎo ， xiāng zi bié zhuāng dé tài mǎn ， liú yì ná de shí hòu bú yào qīng xié 。",
+      "tr": "Güzel. Kutuları fazla doldurma; taşırken eğilmemelerine dikkat et."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_047",
+      "speaker": "志愿者",
+      "zh": "还要不要准备勺子和纸巾？",
+      "pinyin": "hái yào bù yào zhǔn bèi sháo zi hé zhǐ jīn ？",
+      "tr": "Kaşıkla peçete de hazırlayalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_048",
+      "speaker": "张伟",
+      "zh": "要，每份饭都放一套餐具，再多准备几份备用。",
+      "pinyin": "yào ， měi fèn fàn dōu fàng yī tào cān jù ， zài duō zhǔn bèi jǐ fèn bèi yòng 。",
+      "tr": "Evet, her porsiyona bir takım koyalım, birkaç tane de yedek olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_049",
+      "speaker": "刘梅",
+      "zh": "我去拿勺子和纸巾，数好以后放在桌边。",
+      "pinyin": "wǒ qù ná sháo zi hé zhǐ jīn ， shù hǎo yǐ hòu fàng zài zhuō biān 。",
+      "tr": "Kaşıklarla peçeteleri getirip saydıktan sonra masanın kenarına koyarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_050",
+      "speaker": "社区工作人员",
+      "zh": "谢谢。这样大家来取饭时就能一起拿走。",
+      "pinyin": "xiè xiè 。 zhè yàng dà jiā lái qǔ fàn shí jiù néng yì qǐ ná zǒu 。",
+      "tr": "Teşekkürler. Yemekleri almaya gelenler onları da götürebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_051",
+      "speaker": "志愿者",
+      "zh": "厨房的桌子快放不下了，先把空盒收起来吧。",
+      "pinyin": "chú fáng de zhuō zi kuài fàng bù xià le ， xiān bǎ kōng hé shōu qǐ lái ba 。",
+      "tr": "Mutfak masası doldu; boş kutuları kaldıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_052",
+      "speaker": "张伟",
+      "zh": "我来把空盒叠好，放到柜子下面。",
+      "pinyin": "wǒ lái bǎ kōng hé dié hǎo ， fàng dào guì zi xià miàn 。",
+      "tr": "Boş kutuları üst üste koyup dolabın altına yerleştireyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_053",
+      "speaker": "刘梅",
+      "zh": "这些做好的饭够活动上的人吃吗？",
+      "pinyin": "zhè xiē zuò hǎo de fàn gòu huó dòng shàng de rén chī ma ？",
+      "tr": "Hazırladığımız yemek etkinliğe katılan herkese yeter mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_054",
+      "speaker": "社区工作人员",
+      "zh": "工作人员刚确认人数没有变化，二十二份够了。",
+      "pinyin": "gōng zuò rén yuán gāng què rèn rén shù méi yǒu biàn huà ， èr shí èr fèn gòu le 。",
+      "tr": "Görevli kişi sayısının değişmediğini teyit etti; yirmi iki porsiyon yeterli."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_055",
+      "speaker": "志愿者",
+      "zh": "真好，我原来担心准备得不够。",
+      "pinyin": "zhēn hǎo ， wǒ yuán lái dān xīn zhǔn bèi dé bù gòu 。",
+      "tr": "İyi oldu, başta yemeğin yetmeyeceğinden endişelenmiştim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_056",
+      "speaker": "张伟",
+      "zh": "你已经做得很仔细了，份数和食物都安排好了。",
+      "pinyin": "nǐ yǐ jīng zuò dé hěn zǐ xì le ， fèn shù hé shí wù dōu ān pái hǎo le 。",
+      "tr": "Her şeyi dikkatle hazırladın; hem porsiyonları hem yiyecekleri ayarladın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_057",
+      "speaker": "刘梅",
+      "zh": "我第一次做这么多份饭，刚开始有点紧张。",
+      "pinyin": "wǒ dì yī cì zuò zhè me duō fèn fàn ， gāng kāi shǐ yǒu diǎn jǐn zhāng 。",
+      "tr": "İlk kez bu kadar çok yemek yapınca başta biraz gerildim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_058",
+      "speaker": "社区工作人员",
+      "zh": "多亏大家帮忙，现在看起来很顺利。",
+      "pinyin": "duō kuī dà jiā bāng máng ， xiàn zài kàn qǐ lái hěn shùn lì 。",
+      "tr": "Hepiniz yardım edince şimdi her şey yolunda görünüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_059",
+      "speaker": "志愿者",
+      "zh": "志愿者到了，我们把两箱饭搬到门口吧。",
+      "pinyin": "zhì yuàn zhě dào le ， wǒ men bǎ liǎng xiāng fàn bān dào mén kǒu ba 。",
+      "tr": "Gönüllüler geldi. İki kutuyu kapının önüne taşıyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_060",
+      "speaker": "张伟",
+      "zh": "我来搬小箱子，你们两个人抬大箱子。",
+      "pinyin": "wǒ lái bān xiǎo xiāng zi ， nǐ men liǎng gè rén tái dà xiāng zi 。",
+      "tr": "Küçük kutuyu ben alayım; siz büyük kutuyu birlikte kaldırın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_061",
+      "speaker": "刘梅",
+      "zh": "小心一点，箱子有点重。",
+      "pinyin": "xiǎo xīn yì diǎn ， xiāng zi yǒu diǎn zhòng 。",
+      "tr": "Dikkat et, kutu biraz ağır."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_062",
+      "speaker": "社区工作人员",
+      "zh": "没问题，我拿得稳。我们慢慢走就行。",
+      "pinyin": "méi wèn tí ， wǒ ná dé wěn 。 wǒ men màn màn zǒu jiù xíng 。",
+      "tr": "Sorun yok, tutabiliyorum. Yavaş yürüyelim yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_063",
+      "speaker": "志愿者",
+      "zh": "饭已经送到会场了，工作人员说大家很快就能来。",
+      "pinyin": "fàn yǐ jīng sòng dào huì chǎng le ， gōng zuò rén yuán shuō dà jiā hěn kuài jiù néng lái 。",
+      "tr": "Yemekler etkinlik yerine ulaştı; görevli herkesin birazdan geleceğini söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_064",
+      "speaker": "张伟",
+      "zh": "太好了。希望大家喜欢这些饭菜。",
+      "pinyin": "tài hǎo le 。 xī wàng dà jiā xǐ huān zhè xiē fàn cài 。",
+      "tr": "Harika. Umarım yemekleri beğenirler."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_065",
+      "speaker": "刘梅",
+      "zh": "你准备的饭菜看起来很新鲜，大家一定会喜欢。",
+      "pinyin": "nǐ zhǔn bèi de fàn cài kàn qǐ lái hěn xīn xiān ， dà jiā yí dìng huì xǐ huān 。",
+      "tr": "Hazırladığın yemekler çok taze görünüyor, herkes sever."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_066",
+      "speaker": "社区工作人员",
+      "zh": "谢谢你们帮忙。我一个人很难在这么短时间里做好。",
+      "pinyin": "xiè xiè nǐ men bāng máng 。 wǒ yí gè rén hěn nán zài zhè me duǎn shí jiān lǐ zuò hǎo 。",
+      "tr": "Yardım ettiğiniz için sağ olun. Tek başıma bu kadar kısa sürede yetiştiremezdim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_067",
+      "speaker": "志愿者",
+      "zh": "社区活动每个月都有吗？以后还需要人做饭吗？",
+      "pinyin": "shè qū huó dòng měi gè yuè dōu yǒu ma ？ yǐ hòu hái xū yào rén zuò fàn ma ？",
+      "tr": "Mahalle etkinliği her ay mı yapılıyor? Sonra da yemek için yardım gerekir mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_068",
+      "speaker": "张伟",
+      "zh": "每个月都有一次，下次我们可以提前一周安排。",
+      "pinyin": "měi gè yuè dōu yǒu yī cì ， xià cì wǒ men kě yǐ tí qián yī zhōu ān pái 。",
+      "tr": "Her ay bir kez oluyor; bir dahaki sefere bir hafta önceden planlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_069",
+      "speaker": "刘梅",
+      "zh": "那我可以再来帮忙，也能早点开始准备。",
+      "pinyin": "nà wǒ kě yǐ zài lái bāng máng ， yě néng zǎo diǎn kāi shǐ zhǔn bèi 。",
+      "tr": "O zaman yine yardım edebilirim; hazırlığa daha erken başlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_070",
+      "speaker": "社区工作人员",
+      "zh": "好啊，下次我们先把需要的份数和菜单确认好。",
+      "pinyin": "hǎo a ， xià cì wǒ men xiān bǎ xū yào de fèn shù hé cài dān què rèn hǎo 。",
+      "tr": "Olur. Önce kaç porsiyon gerektiğini ve menüyü netleştiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_071",
+      "speaker": "志愿者",
+      "zh": "我已经把这次的菜谱记下来了，下次可以照着做。",
+      "pinyin": "wǒ yǐ jīng bǎ zhè cì de cài pǔ jì xià lái le ， xià cì kě yǐ zhào zhe zuò 。",
+      "tr": "Bu kez yaptığımız yemeklerin tarifini not ettim, sonra yine yapabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_072",
+      "speaker": "张伟",
+      "zh": "很好，也把今天大概用了多少时间记上。",
+      "pinyin": "hěn hǎo ， yě bǎ jīn tiān dà gài yòng le duō shǎo shí jiān jì shàng 。",
+      "tr": "Güzel, ne kadar zaman aldığını da kabaca yaz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_073",
+      "speaker": "刘梅",
+      "zh": "大家来取饭了，我把菜单放在桌子前面。",
+      "pinyin": "dà jiā lái qǔ fàn le ， wǒ bǎ cài dān fàng zài zhuō zi qián miàn 。",
+      "tr": "Herkes yemeğini almaya başladı; menüyü masanın önüne koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_074",
+      "speaker": "社区工作人员",
+      "zh": "谢谢，菜单让大家知道盒子里有什么。",
+      "pinyin": "xiè xiè ， cài dān ràng dà jiā zhī dào hé zi lǐ yǒu shén me 。",
+      "tr": "Teşekkürler, menü kutuların içinde ne olduğunu gösterir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_075",
+      "speaker": "志愿者",
+      "zh": "这两份不加鸡蛋的饭放在哪里？",
+      "pinyin": "zhè liǎng fèn bù jiā jī dàn de fàn fàng zài nǎ lǐ ？",
+      "tr": "Yumurtasız iki porsiyonu nereye koydunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_076",
+      "speaker": "张伟",
+      "zh": "放在最前面，我已经贴了标签。",
+      "pinyin": "fàng zài zuì qián miàn ， wǒ yǐ jīng tiē le biāo qiān 。",
+      "tr": "En öne koyduk, üstlerine etiket yapıştırdım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_077",
+      "speaker": "刘梅",
+      "zh": "我来提醒他们这是特别准备的饭。",
+      "pinyin": "wǒ lái tí xǐng tā men zhè shì tè bié zhǔn bèi de fàn 。",
+      "tr": "Onlara bunun özellikle hazırlandığını söyleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_078",
+      "speaker": "社区工作人员",
+      "zh": "太周到了，参加活动的人会觉得很安心。",
+      "pinyin": "tài zhōu dào le ， cān jiā huó dòng de rén huì jué de hěn ān xīn 。",
+      "tr": "Ne kadar düşünceli davranmışsınız; katılımcılar rahat eder."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_079",
+      "speaker": "志愿者",
+      "zh": "饭盒都拿完了，桌子也收拾干净了。",
+      "pinyin": "fàn hé dōu ná wán le ， zhuō zi yě shōu shí gān jìng le 。",
+      "tr": "Yemek kutularının hepsi alındı, masa da temizlendi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_080",
+      "speaker": "张伟",
+      "zh": "今天的社区活动准备得真顺利。",
+      "pinyin": "jīn tiān de shè qū huó dòng zhǔn bèi dé zhēn shùn lì 。",
+      "tr": "Mahalle etkinliğinin hazırlıkları çok iyi gitti."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_081",
+      "speaker": "刘梅",
+      "zh": "工作人员，大家都拿到饭了吗？",
+      "pinyin": "gōng zuò rén yuán ， dà jiā dōu ná dào fàn le ma ？",
+      "tr": "Görevli, herkes yemeğini aldı mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_082",
+      "speaker": "社区工作人员",
+      "zh": "拿到了，有几个人还说菜很好吃。",
+      "pinyin": "ná dào le ， yǒu jǐ gè rén hái shuō cài hěn hǎo chī 。",
+      "tr": "Evet, birkaç kişi yemeklerin çok lezzetli olduğunu söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_083",
+      "speaker": "志愿者",
+      "zh": "听见大家喜欢，我就放心了。下次也叫我来帮忙吧。",
+      "pinyin": "tīng jiàn dà jiā xǐ huān ， wǒ jiù fàng xīn le 。 xià cì yě jiào wǒ lái bāng máng ba 。",
+      "tr": "Beğenmelerine sevindim. Bir dahaki sefere de yardıma çağırın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_084",
+      "speaker": "张伟",
+      "zh": "一定会叫你，这次辛苦你准备这么多份饭。",
+      "pinyin": "yí dìng huì jiào nǐ ， zhè cì xīn kǔ nǐ zhǔn bèi zhè me duō fèn fàn 。",
+      "tr": "Elbette çağırırız; bu kadar porsiyonu hazırlamak kolay değildi, sağ ol."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_085",
+      "speaker": "刘梅",
+      "zh": "大家都出了一份力，才这么快做好。",
+      "pinyin": "dà jiā dōu chū le yī fèn lì ， cái zhè me kuài zuò hǎo 。",
+      "tr": "Herkes elinden geleni yaptığı için çabucak bitirdik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_086",
+      "speaker": "社区工作人员",
+      "zh": "我们也学到了怎么分工，下一次会更熟练。",
+      "pinyin": "wǒ men yě xué dào le zěn me fēn gōng ， xià yī cì huì gèng shú liàn 。",
+      "tr": "İşleri paylaşmayı da öğrendik; bir dahaki sefere daha rahat olur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_087",
+      "speaker": "志愿者",
+      "zh": "还剩一些米饭和青菜，可以留给志愿者吃。",
+      "pinyin": "hái shèng yī xiē mǐ fàn hé qīng cài ， kě yǐ liú gěi zhì yuàn zhě chī 。",
+      "tr": "Biraz pilavla yeşillik kaldı, gönüllülere ayırabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_088",
+      "speaker": "张伟",
+      "zh": "好，我把食物装起来，放进冰箱。",
+      "pinyin": "hǎo ， wǒ bǎ shí wù zhuāng qǐ lái ， fàng jìn bīng xiāng 。",
+      "tr": "Tamam, yiyecekleri kaba koyup buzdolabına kaldırayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_089",
+      "speaker": "刘梅",
+      "zh": "桌面和厨房我都擦过了，还有什么要做？",
+      "pinyin": "zhuō miàn hé chú fáng wǒ dōu cā guò le ， hái yǒu shén me yào zuò ？",
+      "tr": "Masayla mutfağı sildim; başka yapmam gereken bir şey var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_090",
+      "speaker": "社区工作人员",
+      "zh": "再检查一下炉子，确认都关好了。",
+      "pinyin": "zài jiǎn chá yī xià lú zi ， què rèn dōu guān hǎo le 。",
+      "tr": "Ocağı da kontrol et, kapalı olduğundan emin olalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_091",
+      "speaker": "志愿者",
+      "zh": "我看过了，两个炉子都关了。",
+      "pinyin": "wǒ kàn guò le ， liǎng gè lú zi dōu guān le 。",
+      "tr": "Baktım, iki ocak da kapalı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_092",
+      "speaker": "张伟",
+      "zh": "谢谢。活动结束后我们一起把厨房锁好。",
+      "pinyin": "xiè xiè 。 huó dòng jié shù hòu wǒ men yì qǐ bǎ chú fáng suǒ hǎo 。",
+      "tr": "Teşekkürler. Etkinlik bitince mutfağı birlikte kilitleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_093",
+      "speaker": "刘梅",
+      "zh": "下次做饭，我可以先准备一份购物清单。",
+      "pinyin": "xià cì zuò fàn ， wǒ kě yǐ xiān zhǔn bèi yī fèn gòu wù qīng dān 。",
+      "tr": "Bir dahaki yemek hazırlığında alışveriş listesini önceden yapabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_094",
+      "speaker": "社区工作人员",
+      "zh": "那太有用了，我们还可以提前算好每份的数量。",
+      "pinyin": "nà tài yǒu yòng le ， wǒ men hái kě yǐ tí qián suàn hǎo měi fèn de shù liàng 。",
+      "tr": "Çok işimize yarar; porsiyon miktarlarını da önceden hesaplarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_095",
+      "speaker": "志愿者",
+      "zh": "这样就知道要买多少食物，也不容易准备得太多。",
+      "pinyin": "zhè yàng jiù zhī dào yào mǎi duō shǎo shí wù ， yě bù róng yì zhǔn bèi dé tài duō 。",
+      "tr": "Böylece ne kadar yiyecek almamız gerektiğini bilir, fazlasını hazırlamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_096",
+      "speaker": "张伟",
+      "zh": "今天我们准备二十二份，正好没有浪费。",
+      "pinyin": "jīn tiān wǒ men zhǔn bèi èr shí èr fèn ， zhèng hǎo méi yǒu làng fèi 。",
+      "tr": "Bugün yirmi iki porsiyon yaptık ve hiçbiri boşa gitmedi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_097",
+      "speaker": "刘梅",
+      "zh": "我本来担心时间不够，现在发现大家一起做就够了。",
+      "pinyin": "wǒ běn lái dān xīn shí jiān bù gòu ， xiàn zài fā xiàn dà jiā yì qǐ zuò jiù gòu le 。",
+      "tr": "Zaman yetmez diye korkmuştum, birlikte çalışınca yetişti."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_098",
+      "speaker": "社区工作人员",
+      "zh": "以后有社区活动，我愿意继续帮忙。",
+      "pinyin": "yǐ hòu yǒu shè qū huó dòng ， wǒ yuàn yì jì xù bāng máng 。",
+      "tr": "Mahallede bir sonraki etkinlik olursa yine yardım etmek isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_099",
+      "speaker": "志愿者",
+      "zh": "谢谢你。今天大家一起做饭，认识了更多邻居。",
+      "pinyin": "xiè xiè nǐ 。 jīn tiān dà jiā yì qǐ zuò fàn ， rèn shí le gèng duō lín jū 。",
+      "tr": "Teşekkürler. Bugün birlikte yemek yaparken daha çok komşuyla tanıştık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC044_100",
+      "speaker": "张伟",
+      "zh": "是啊，能帮上忙，也能和大家一起吃饭，很开心。",
+      "pinyin": "shì a ， néng bāng shàng máng ， yě néng hé dà jiā yì qǐ chī fàn ， hěn kāi xīn 。",
+      "tr": "Evet, yardım etmek ve herkesle birlikte yemek yemek çok güzeldi."
+    }
+  ]
+}

@@ -1,0 +1,710 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK4_SC026",
+  "level": "HSK4",
+  "sourceTitleZh": "假期去哪儿？",
+  "sourceTitleTr": "Aile Tatili Planı",
+  "sourceMiniAdventureTr": "Herkes farklı bir tatil yeri ister; ortak karar ararlar.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK4_SC026_001",
+      "speaker": "张伟",
+      "zh": "暑假快到了，我们一家想出去几天。先说说大家最想去哪里吧。",
+      "pinyin": "shǔ jià kuài dào le wǒ men yī jiā xiǎng chū qù jǐ tiān xiān shuō shuō dà jiā zuì xiǎng qù nǎ lǐ ba",
+      "tr": "Yaz tatili yaklaşıyor; ailece birkaç günlüğüne gidelim. Önce herkes en çok nereye gitmek istediğini söylesin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_002",
+      "speaker": "刘梅",
+      "zh": "我想去海边，能散步也能看看日落，不过不一定非要去很远的地方。",
+      "pinyin": "wǒ xiǎng qù hǎi biān néng sàn bù yě néng kàn kàn rì luò bù guò bù yí dìng fēi yào qù hěn yuǎn de dì fāng",
+      "tr": "Sahile gitmek istiyorum; yürüyüş yapar, gün batımını izleriz. Ama çok uzağa gitmek şart değil."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_003",
+      "speaker": "张雨桐",
+      "zh": "我更想去有博物馆和老街的城市，白天参观，晚上找当地小吃。",
+      "pinyin": "wǒ gèng xiǎng qù yǒu bó wù guǎn hé lǎo jiē de chéng shì bái tiān cān guān wǎn shàng zhǎo dāng dì xiǎo chī",
+      "tr": "Müzesi ve eski sokakları olan bir şehri tercih ederim; gündüz gezer, akşam yöresel yemekleri buluruz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_004",
+      "speaker": "张乐乐",
+      "zh": "我想去山里徒步，也想拍风景。海边和城市都可以考虑。",
+      "pinyin": "wǒ xiǎng qù shān lǐ tú bù yě xiǎng pāi fēng jǐng hǎi biān hé chéng shì dōu kě yǐ kǎo lǜ",
+      "tr": "Dağda yürüyüş yapmak ve manzara fotoğrafı çekmek istiyorum. Sahili ve şehri de düşünebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_005",
+      "speaker": "张伟",
+      "zh": "看来大家想做的事不太一样。我们先选几个目的地，再比较交通和预算。",
+      "pinyin": "kàn lái dà jiā xiǎng zuò de shì bù tài yī yàng wǒ men xiān xuǎn jǐ gè mù dì dì zài bǐ jiào jiāo tōng hé yù suàn",
+      "tr": "Görünüşe göre isteklerimiz farklı. Önce birkaç yer seçip ulaşımı ve bütçeyi karşılaştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_006",
+      "speaker": "刘梅",
+      "zh": "去海边坐火车要四个小时，车票不贵，但住宿周末可能比较高。",
+      "pinyin": "qù hǎi biān zuò huǒ chē yào sì gè xiǎo shí chē piào bù guì dàn zhù sù zhōu mò kě néng bǐ jiào gāo",
+      "tr": "Sahile trenle dört saat sürüyor; bilet pahalı değil ama hafta sonu konaklama pahalı olabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_007",
+      "speaker": "张雨桐",
+      "zh": "我查到一座有海边和老城区的城市，火车站到两个地方都不远。",
+      "pinyin": "wǒ chá dào yī zuò yǒu hǎi biān hé lǎo chéng qū de chéng shì huǒ chē zhàn dào liǎng gè dì fāng dōu bù yuǎn",
+      "tr": "Hem sahili hem eski şehri olan bir yer buldum; istasyondan ikisine de uzak değil."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_008",
+      "speaker": "张乐乐",
+      "zh": "那我也能拍海边和街景，还可以找一条短一点的徒步路线。",
+      "pinyin": "nà wǒ yě néng pāi hǎi biān hé jiē jǐng hái kě yǐ zhǎo yī tiáo duǎn yì diǎn de tú bù lù xiàn",
+      "tr": "Orada sahili ve sokakları da çeker, ayrıca kısa bir yürüyüş rotası bulabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_009",
+      "speaker": "张伟",
+      "zh": "听起来大家都能找到喜欢的活动。我们先看看往返车票和住几晚。",
+      "pinyin": "tīng qǐ lái dà jiā dōu néng zhǎo dào xǐ huān de huó dòng wǒ men xiān kàn kàn wǎng fǎn chē piào hé zhù jǐ wǎn",
+      "tr": "Herkesin sevdiği bir etkinlik bulabileceği anlaşılıyor. Gidiş dönüş biletlerine ve gece sayısına bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_010",
+      "speaker": "刘梅",
+      "zh": "如果住两晚，预算会比较合适，也不会让行程太赶。",
+      "pinyin": "rú guǒ zhù liǎng wǎn yù suàn huì bǐ jiào hé shì yě bú huì ràng xíng chéng tài gǎn",
+      "tr": "İki gece kalırsak bütçeye daha uygun olur, gezi de çok sıkışmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_011",
+      "speaker": "张雨桐",
+      "zh": "我可以把博物馆开放时间和老街的位置查出来，安排在同一天。",
+      "pinyin": "wǒ kě yǐ bǎ bó wù guǎn kāi fàng shí jiān hé lǎo jiē de wèi zhì chá chū lái ān pái zài tóng yī tiān",
+      "tr": "Müzenin açık olduğu saatleri ve eski sokağın yerini bulup aynı güne koyabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_012",
+      "speaker": "张乐乐",
+      "zh": "我查附近的步道，看看有没有适合全家走的路线。",
+      "pinyin": "wǒ chá fù jìn de bù dào kàn kàn yǒu méi yǒu shì hé quán jiā zǒu de lù xiàn",
+      "tr": "Yakındaki yürüyüş yollarına bakıp ailece yürümeye uygun olan var mı bulayım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_013",
+      "speaker": "张伟",
+      "zh": "先别排满每天的计划，留一点自由时间，累了就休息。",
+      "pinyin": "xiān bié pái mǎn měi tiān de jì huà liú yì diǎn zì yóu shí jiān lèi le jiù xiū xī",
+      "tr": "Her günü şimdiden doldurmayalım; biraz boş zaman bırakalım, yorulursak dinleniriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_014",
+      "speaker": "刘梅",
+      "zh": "对，假期不只是赶景点。一起吃饭和慢慢逛也很重要。",
+      "pinyin": "duì jià qī bù zhǐ shì gǎn jǐng diǎn yì qǐ chī fàn hé màn màn guàng yě hěn zhòng yào",
+      "tr": "Evet, tatil yalnızca görülecek yerleri yetiştirmek değil. Birlikte yemek ve ağır ağır gezmek de önemli."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_015",
+      "speaker": "张雨桐",
+      "zh": "我找到的城市有夜市，晚上可以边走边吃，不用另外坐车。",
+      "pinyin": "wǒ zhǎo dào de chéng shì yǒu yè shì wǎn shàng kě yǐ biān zǒu biān chī bù yòng lìng wài zuò chē",
+      "tr": "Bulduğum şehirde gece pazarı var; akşam araç kullanmadan yürüyüp yemek yiyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_016",
+      "speaker": "张乐乐",
+      "zh": "那也能拍夜景。如果不太晚，我还想去河边看看。",
+      "pinyin": "nà yě néng pāi yè jǐng rú guǒ bù tài wǎn wǒ hái xiǎng qù hé biān kàn kàn",
+      "tr": "Gece manzarası da çekerim. Çok geç olmazsa nehir kenarına da gitmek isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_017",
+      "speaker": "张伟",
+      "zh": "我们把预算先定一个范围，再决定住酒店还是民宿。",
+      "pinyin": "wǒ men bǎ yù suàn xiān dìng yí gè fàn wéi zài jué dìng zhù jiǔ diàn hái shì mín sù",
+      "tr": "Önce bütçe aralığını belirleyelim, sonra otel mi pansiyon mu karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_018",
+      "speaker": "刘梅",
+      "zh": "我可以比较几家住处的交通和评价，看看哪家离车站近。",
+      "pinyin": "wǒ kě yǐ bǐ jiào jǐ jiā zhù chù de jiāo tōng hé píng jià kàn kàn nǎ jiā lí chē zhàn jìn",
+      "tr": "Birkaç konaklama yerinin ulaşımını ve yorumlarını karşılaştırıp istasyona yakın olana bakabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_019",
+      "speaker": "张雨桐",
+      "zh": "我会把车票、住宿和门票的价格放进同一张表，比较起来方便。",
+      "pinyin": "wǒ huì bǎ chē piào zhù sù hé mén piào de jià gé fàng jìn tóng yī zhāng biǎo bǐ jiào qǐ lái fāng biàn",
+      "tr": "Bilet, konaklama ve giriş ücretlerini aynı tabloya koyarım; karşılaştırmak kolay olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_020",
+      "speaker": "张乐乐",
+      "zh": "我也把大家想做的事写下来，看看每天能不能安排得轻松一点。",
+      "pinyin": "wǒ yě bǎ dà jiā xiǎng zuò de shì xiě xià lái kàn kàn měi tiān néng bù néng ān pái dé qīng sōng yì diǎn",
+      "tr": "Herkesin yapmak istediğini de yazarım; her güne rahatça sığıyor mu bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_021",
+      "speaker": "张伟",
+      "zh": "我看了日历，七月第二周大家都有空，周四出发、周六回来怎么样？",
+      "pinyin": "wǒ kàn le rì lì qī yuè dì èr zhōu dà jiā dōu yǒu kòng zhōu sì chū fā zhōu liù huí lái zěn me yàng",
+      "tr": "Takvime baktım; temmuzun ikinci haftasında herkes müsait. Perşembe gidip cumartesi dönsek nasıl?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_022",
+      "speaker": "刘梅",
+      "zh": "我那两天可以请假，周六晚上回来还能在家休息一天。",
+      "pinyin": "wǒ nà liǎng tiān kě yǐ qǐng jià zhōu liù wǎn shàng huí lái hái néng zài jiā xiū xī yī tiān",
+      "tr": "O iki gün izin alabilirim; cumartesi akşam dönünce evde dinlenecek bir günümüz olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_023",
+      "speaker": "张雨桐",
+      "zh": "我周五没有课程，周四出发也没问题。",
+      "pinyin": "wǒ zhōu wǔ méi yǒu kè chéng zhōu sì chū fā yě méi wèn tí",
+      "tr": "Cuma dersim yok; perşembe çıkmak bana da uyar."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_024",
+      "speaker": "张乐乐",
+      "zh": "我作业周三就能做完，不会把学习任务留到假期里。",
+      "pinyin": "wǒ zuò yè zhōu sān jiù néng zuò wán bú huì bǎ xué xí rèn wù liú dào jià qī lǐ",
+      "tr": "Ödevlerimi çarşamba bitirebilirim; ders işlerini tatile bırakmam."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_025",
+      "speaker": "张伟",
+      "zh": "那日期基本合适。我们再比较火车的出发时间和票价。",
+      "pinyin": "nà rì qī jī běn hé shì wǒ men zài bǐ jiào huǒ chē de chū fā shí jiān hé piào jià",
+      "tr": "Tarih uygun görünüyor. Tren saatlerini ve bilet fiyatlarını karşılaştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_026",
+      "speaker": "刘梅",
+      "zh": "早上八点那班到得早，下午那班便宜一点，不过会少半天时间。",
+      "pinyin": "zǎo shàng bā diǎn nà bān dào dé zǎo xià wǔ nà bān pián yi yì diǎn bù guò huì shǎo bàn tiān shí jiān",
+      "tr": "Sabah sekiz treni erken varıyor; öğleden sonraki biraz ucuz ama yarım gün kaybettiriyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_027",
+      "speaker": "张雨桐",
+      "zh": "如果选早班车，第一天可以先去老街，晚上再去夜市。",
+      "pinyin": "rú guǒ xuǎn zǎo bān chē dì yī tiān kě yǐ xiān qù lǎo jiē wǎn shàng zài qù yè shì",
+      "tr": "Sabah trenini seçersek ilk gün eski sokağa, akşam da gece pazarına gidebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_028",
+      "speaker": "张乐乐",
+      "zh": "我不介意早起，只要前一天早点睡就行。",
+      "pinyin": "wǒ bù jiè yì zǎo qǐ zhǐ yào qián yī tiān zǎo diǎn shuì jiù xíng",
+      "tr": "Erken kalkmam sorun değil; yeter ki önceki akşam erken yatalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_029",
+      "speaker": "张伟",
+      "zh": "往返车票加起来在预算范围内。住宿费用才是需要仔细比较的部分。",
+      "pinyin": "wǎng fǎn chē piào jiā qǐ lái zài yù suàn fàn wéi nèi zhù sù fèi yòng cái shì xū yào zǐ xì bǐ jiào de bù fèn",
+      "tr": "Gidiş dönüş biletleri bütçeye sığıyor. Dikkatle karşılaştırmamız gereken konaklama."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_030",
+      "speaker": "刘梅",
+      "zh": "车站附近那家贵一些，但不用再转车；另一家便宜，离景点远。",
+      "pinyin": "chē zhàn fù jìn nà jiā guì yī xiē dàn bù yòng zài zhuǎn chē lìng yī jiā pián yi lí jǐng diǎn yuǎn",
+      "tr": "İstasyon yakınındaki biraz pahalı ama aktarma gerektirmiyor; ucuz olan ise yerlere uzak."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_031",
+      "speaker": "张雨桐",
+      "zh": "我看了地图，便宜那家旁边有公交车站，去老街大概二十分钟。",
+      "pinyin": "wǒ kàn le dì tú pián yi nà jiā páng biān yǒu gōng jiāo chē zhàn qù lǎo jiē dà gài èr shí fēn zhōng",
+      "tr": "Haritaya baktım; ucuz yerin yanında otobüs durağı var, eski sokağa yaklaşık yirmi dakika."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_032",
+      "speaker": "张乐乐",
+      "zh": "我们可以把每天的交通费也算进去，再比较总价，不只看房间价格。",
+      "pinyin": "wǒ men kě yǐ bǎ měi tiān de jiāo tōng fèi yě suàn jìn qù zài bǐ jiào zǒng jià bù zhǐ kàn fáng jiān jià gé",
+      "tr": "Yalnızca oda fiyatına değil, günlük ulaşımı da ekleyip toplam tutarı karşılaştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_033",
+      "speaker": "张伟",
+      "zh": "这个思路好。预算要包括车票、住宿、吃饭、门票和临时花费。",
+      "pinyin": "zhè ge sī lù hǎo yù suàn yào bāo kuò chē piào zhù sù chī fàn mén piào hé lín shí huā fèi",
+      "tr": "Güzel fikir. Bütçeye bilet, konaklama, yemek, giriş ve beklenmedik masraflar dahil olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_034",
+      "speaker": "刘梅",
+      "zh": "住处可以选家庭房，晚上大家不用分开，也方便一起商量第二天安排。",
+      "pinyin": "zhù chù kě yǐ xuǎn jiā tíng fáng wǎn shàng dà jiā bù yòng fēn kāi yě fāng biàn yì qǐ shāng liáng dì èr tiān ān pái",
+      "tr": "Aile odası seçebiliriz; akşam ayrı düşmeyiz ve ertesi günü birlikte planlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_035",
+      "speaker": "张雨桐",
+      "zh": "我找到一家有家庭房的民宿，附近有早餐店，评价也不错。",
+      "pinyin": "wǒ zhǎo dào yī jiā yǒu jiā tíng fáng de mín sù fù jìn yǒu zǎo cān diàn píng jià yě bù cuò",
+      "tr": "Aile odası olan bir pansiyon buldum; yakınında kahvaltıcı var ve yorumları iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_036",
+      "speaker": "张乐乐",
+      "zh": "那我看看附近有没有公园，早上可以散步，不一定每天都赶景点。",
+      "pinyin": "nà wǒ kàn kàn fù jìn yǒu méi yǒu gōng yuán zǎo shàng kě yǐ sàn bù bù yí dìng měi tiān dōu gǎn jǐng diǎn",
+      "tr": "Yakında park var mı bakayım; sabah yürüyüş yaparız, her gün turistik yerlere koşmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_037",
+      "speaker": "张伟",
+      "zh": "民宿两晚的价格合适，交通费用也没有高到超出预算。",
+      "pinyin": "mín sù liǎng wǎn de jià gé hé shì jiāo tōng fèi yòng yě méi yǒu gāo dào chāo chū yù suàn",
+      "tr": "Pansiyonda iki gecenin fiyatı uygun; ulaşım masrafı da bütçeyi aşmıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_038",
+      "speaker": "刘梅",
+      "zh": "我想先确认房间能住四个人，取消和入住时间也要看清楚。",
+      "pinyin": "wǒ xiǎng xiān què rèn fáng jiān néng zhù sì gè rén qǔ xiāo hé rù zhù shí jiān yě yào kàn qīng chǔ",
+      "tr": "Önce odanın dört kişilik olduğunu teyit edelim; iptal ve giriş saatlerine de bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_039",
+      "speaker": "张雨桐",
+      "zh": "我打电话问过了，房东说房间可以住四个人，周四下午就能入住。",
+      "pinyin": "wǒ dǎ diàn huà wèn guò le fáng dōng shuō fáng jiān kě yǐ zhù sì gè rén zhōu sì xià wǔ jiù néng rù zhù",
+      "tr": "Arayıp sordum; ev sahibi odanın dört kişilik olduğunu ve perşembe öğleden sonra girebileceğimizi söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_040",
+      "speaker": "张乐乐",
+      "zh": "那住宿和日期都有眉目了，下一步就是把每天的计划安排得别太满。",
+      "pinyin": "nà zhù sù hé rì qī dōu yǒu méi mù le xià yī bù jiù shì bǎ měi tiān de jì huà ān pái dé bié tài mǎn",
+      "tr": "Konaklama ve tarih belli oldu; sırada günlük planı fazla doldurmamak var."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_041",
+      "speaker": "张伟",
+      "zh": "第一天到得早，可以先把行李放在住处，再去老街吃午饭。",
+      "pinyin": "dì yī tiān dào dé zǎo kě yǐ xiān bǎ xíng lǐ fàng zài zhù chù zài qù lǎo jiē chī wǔ fàn",
+      "tr": "İlk gün erken varırız; valizleri konaklayacağımız yere bırakıp eski sokakta öğle yemeği yiyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_042",
+      "speaker": "刘梅",
+      "zh": "老街上店很多，我们不用先订餐，到了再看哪家人少、大家都想吃。",
+      "pinyin": "lǎo jiē shàng diàn hěn duō wǒ men bù yòng xiān dìng cān dào le zài kàn nǎ jiā rén shǎo dà jiā dōu xiǎng chī",
+      "tr": "Eski sokakta çok yer var; önceden ayırtmayalım, varınca sakine ve hepimizin istediğine bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_043",
+      "speaker": "张雨桐",
+      "zh": "博物馆最好提前预约，我已经查到周四下午还有时间。",
+      "pinyin": "bó wù guǎn zuì hǎo tí qián yù yuē wǒ yǐ jīng chá dào zhōu sì xià wǔ hái yǒu shí jiān",
+      "tr": "Müzeye önceden rezervasyon yapmak iyi olur; perşembe öğleden sonrası için yer buldum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_044",
+      "speaker": "张乐乐",
+      "zh": "那我把博物馆和老街放在第一天，第二天去海边和公园。",
+      "pinyin": "nà wǒ bǎ bó wù guǎn hé lǎo jiē fàng zài dì yī tiān dì èr tiān qù hǎi biān hé gōng yuán",
+      "tr": "Müzeyi ve eski sokağı ilk güne, sahille parkı ikinci güne koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_045",
+      "speaker": "张伟",
+      "zh": "不一定要按小时排。把要预约的时间定下来，其他活动灵活一点。",
+      "pinyin": "bù yí dìng yào àn xiǎo shí pái bǎ yào yù yuē de shí jiān dìng xià lái qí tā huó dòng líng huó yì diǎn",
+      "tr": "Saat saat planlamak şart değil. Rezervasyon gereken saati belirleyip diğer etkinlikleri esnek tutalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_046",
+      "speaker": "刘梅",
+      "zh": "如果天气不好，我们可以把海边换成室内的地方，不影响大家出行。",
+      "pinyin": "rú guǒ tiān qì bù hǎo wǒ men kě yǐ bǎ hǎi biān huàn chéng shì nèi de dì fāng bù yǐng xiǎng dà jiā chū xíng",
+      "tr": "Hava kötü olursa sahili kapalı bir yerle değiştiririz; gezi yine devam eder."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_047",
+      "speaker": "张雨桐",
+      "zh": "我查到附近有一个小型展览馆，门票不贵，可以当备用计划。",
+      "pinyin": "wǒ chá dào fù jìn yǒu yí gè xiǎo xíng zhǎn lǎn guǎn mén piào bù guì kě yǐ dāng bèi yòng jì huà",
+      "tr": "Yakında küçük bir sergi salonu buldum; bileti ucuz, yedek plan olabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_048",
+      "speaker": "张乐乐",
+      "zh": "我也找到一条沿河的短步道，天气好时可以走，不好就不勉强。",
+      "pinyin": "wǒ yě zhǎo dào yī tiáo yán hé de duǎn bù dào tiān qì hǎo shí kě yǐ zǒu bù hǎo jiù bù miǎn qiǎng",
+      "tr": "Nehir boyunca kısa bir patika buldum; hava iyiyse yürür, değilse zorlamayız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_049",
+      "speaker": "张伟",
+      "zh": "这样计划有选择，大家也不用为了完成清单而赶路。",
+      "pinyin": "zhè yàng jì huà yǒu xuǎn zé dà jiā yě bù yòng wèi le wán chéng qīng dān ér gǎn lù",
+      "tr": "Böylece seçeneklerimiz olur; listeyi bitirmek için koşturmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_050",
+      "speaker": "刘梅",
+      "zh": "假期最重要的是一起相处。吃饭和休息也要算进计划里。",
+      "pinyin": "jià qī zuì zhòng yào de shì yì qǐ xiāng chǔ chī fàn hé xiū xī yě yào suàn jìn jì huà lǐ",
+      "tr": "Tatilde en önemlisi birlikte vakit geçirmek. Yemek ve dinlenmeyi de plana katmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_051",
+      "speaker": "张雨桐",
+      "zh": "我想给每天留一段自由时间，想买东西或坐下来喝茶都可以。",
+      "pinyin": "wǒ xiǎng gěi měi tiān liú yī duàn zì yóu shí jiān xiǎng mǎi dōng xī huò zuò xià lái hē chá dōu kě yǐ",
+      "tr": "Her güne serbest zaman ekleyelim; isteyen alışveriş yapar ya da oturup çay içer."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_052",
+      "speaker": "张乐乐",
+      "zh": "我可以带相机，但不会一直拍。遇到喜欢的风景再停下来。",
+      "pinyin": "wǒ kě yǐ dài xiàng jī dàn bú huì yì zhí pāi yù dào xǐ huān de fēng jǐng zài tíng xià lái",
+      "tr": "Kamerayı alırım ama sürekli çekim yapmam. Hoşuma giden manzara olursa dururuz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_053",
+      "speaker": "张伟",
+      "zh": "我把预算表更新了，交通、住宿和门票加起来还留有一些余地。",
+      "pinyin": "wǒ bǎ yù suàn biǎo gēng xīn le jiāo tōng zhù sù hé mén piào jiā qǐ lái hái liú yǒu yī xiē yú dì",
+      "tr": "Bütçe tablosunu güncelledim; ulaşım, konaklama ve biletlerden sonra biraz pay kalıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_054",
+      "speaker": "刘梅",
+      "zh": "吃饭的费用也要估进去，特别是夜市，大家可能会想多尝几样。",
+      "pinyin": "chī fàn de fèi yòng yě yào gū jìn qù tè bié shì yè shì dà jiā kě néng huì xiǎng duō cháng jǐ yàng",
+      "tr": "Yemek masrafını da ekleyelim; özellikle gece pazarında birkaç şey denemek isteyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_055",
+      "speaker": "张雨桐",
+      "zh": "我可以找几家价格合适的店，但到时候看心情选，不用每顿都预订。",
+      "pinyin": "wǒ kě yǐ zhǎo jǐ jiā jià gé hé shì de diàn dàn dào shí hòu kàn xīn qíng xuǎn bù yòng měi dùn dōu yù dìng",
+      "tr": "Fiyatı uygun birkaç yer bulurum; ama o gün canımız ne isterse seçeriz, her öğünü ayırtmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_056",
+      "speaker": "张乐乐",
+      "zh": "住宿附近有便利店吗？晚上如果饿了，可以买点简单的东西。",
+      "pinyin": "zhù sù fù jìn yǒu biàn lì diàn ma wǎn shàng rú guǒ è le kě yǐ mǎi diǎn jiǎn dān de dōng xī",
+      "tr": "Konakladığımız yerin yakınında market var mı? Akşam acıkırsak basit bir şey alırız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_057",
+      "speaker": "张伟",
+      "zh": "地图上有一家，走路五分钟。我们不用特意带太多零食。",
+      "pinyin": "dì tú shàng yǒu yī jiā zǒu lù wǔ fēn zhōng wǒ men bù yòng tè yì dài tài duō líng shí",
+      "tr": "Haritada beş dakika yürüme mesafesinde bir market var. Çok atıştırmalık taşımayız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_058",
+      "speaker": "刘梅",
+      "zh": "证件和车票先放在一个文件袋里，出发当天比较好找。",
+      "pinyin": "zhèng jiàn hé chē piào xiān fàng zài yí gè wén jiàn dài lǐ chū fā dàng tiān bǐ jiào hǎo zhǎo",
+      "tr": "Kimliklerle biletleri bir dosya çantasına koyalım; yola çıkarken bulmak kolay olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_059",
+      "speaker": "张雨桐",
+      "zh": "我负责整理电子车票和预约信息，大家的手机里也各存一份。",
+      "pinyin": "wǒ fù zé zhěng lǐ diàn zi chē piào hé yù yuē xìn xī dà jiā de shǒu jī lǐ yě gè cún yī fèn",
+      "tr": "Elektronik biletleri ve rezervasyonları ben düzenleyeyim; herkes telefonuna da bir kopya kaydetsin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_060",
+      "speaker": "张乐乐",
+      "zh": "我做一份简单的行李清单，衣服按天气准备，不带用不上的东西。",
+      "pinyin": "wǒ zuò yī fèn jiǎn dān de xíng lǐ qīng dān yī fú àn tiān qì zhǔn bèi bù dài yòng bù shàng de dōng xī",
+      "tr": "Basit bir eşya listesi yaparım; kıyafetleri havaya göre hazırlayıp gereksiz şey taşımam."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_061",
+      "speaker": "张伟",
+      "zh": "车票和房间都还可以预订，我先把总费用再核对一遍。",
+      "pinyin": "chē piào hé fáng jiān dōu hái kě yǐ yù dìng wǒ xiān bǎ zǒng fèi yòng zài hé duì yī biàn",
+      "tr": "Biletleri ve odayı hâlâ ayırtabiliriz; toplam masrafı bir kez daha kontrol edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_062",
+      "speaker": "刘梅",
+      "zh": "我看过取消规定了，房间可以提前两天取消，车票也能改签。",
+      "pinyin": "wǒ kàn guò qǔ xiāo guī dìng le fáng jiān kě yǐ tí qián liǎng tiān qǔ xiāo chē piào yě néng gǎi qiān",
+      "tr": "İptal koşullarına baktım; oda iki gün öncesine kadar iptal edilebilir, bilet de değiştirilebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_063",
+      "speaker": "张雨桐",
+      "zh": "我把博物馆预约页面也存好了，确认车票后就可以提交预约。",
+      "pinyin": "wǒ bǎ bó wù guǎn yù yuē yè miàn yě cún hǎo le què rèn chē piào hòu jiù kě yǐ tí jiāo yù yuē",
+      "tr": "Müze rezervasyon sayfasını kaydettim; biletleri kesinleştirince başvurabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_064",
+      "speaker": "张乐乐",
+      "zh": "天气预报还没出来，到时候再决定带不带雨衣。",
+      "pinyin": "tiān qì yù bào hái méi chū lái dào shí hòu zài jué dìng dài bù dài yǔ yī",
+      "tr": "Hava tahmini henüz çıkmadı; yağmurluk alıp almayacağımıza sonra karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_065",
+      "speaker": "张伟",
+      "zh": "预算里留了一点应急的钱，不用把每一块都安排满。",
+      "pinyin": "yù suàn lǐ liú le yì diǎn yìng jí de qián bù yòng bǎ měi yī kuài dōu ān pái mǎn",
+      "tr": "Bütçede beklenmedik durumlar için biraz pay bıraktım; her kuruşu planlamak gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_066",
+      "speaker": "刘梅",
+      "zh": "那就定这座城市吧，海边、老街和博物馆都能去，大家的想法也照顾到了。",
+      "pinyin": "nà jiù dìng zhè zuò chéng shì ba hǎi biān lǎo jiē hé bó wù guǎn dōu néng qù dà jiā de xiǎng fǎ yě zhào gù dào le",
+      "tr": "Öyleyse bu şehirde karar kılalım; sahile, eski sokağa ve müzeye gidebiliriz, herkesin isteği de karşılanıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_067",
+      "speaker": "张雨桐",
+      "zh": "我同意。我不但能看展览，而且晚上还能和大家去夜市。",
+      "pinyin": "wǒ tóng yì wǒ bù dàn néng kàn zhǎn lǎn ér qiě wǎn shàng hái néng hé dà jiā qù yè shì",
+      "tr": "Katılıyorum. Hem sergiyi görebilir hem de akşam hep birlikte gece pazarına gidebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_068",
+      "speaker": "张乐乐",
+      "zh": "我也满意，有海景能拍，还留了时间走步道。",
+      "pinyin": "wǒ yě mǎn yì yǒu hǎi jǐng néng pāi hái liú le shí jiān zǒu bù dào",
+      "tr": "Ben de memnunum; deniz manzarası çeker, patikada yürümeye de zaman bulurum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_069",
+      "speaker": "张伟",
+      "zh": "那我现在订四张车票和家庭房，付款前把日期再念一遍。",
+      "pinyin": "nà wǒ xiàn zài dìng sì zhāng chē piào hé jiā tíng fáng fù kuǎn qián bǎ rì qī zài niàn yī biàn",
+      "tr": "Öyleyse dört biletle aile odasını ayırtayım; ödemeden önce tarihleri tekrar okuyacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_070",
+      "speaker": "刘梅",
+      "zh": "七月第二周，周四出发、周六晚上回来，对吗？",
+      "pinyin": "qī yuè dì èr zhōu zhōu sì chū fā zhōu liù wǎn shàng huí lái duì ma",
+      "tr": "Temmuzun ikinci haftası, perşembe gidip cumartesi akşam döneceğiz, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_071",
+      "speaker": "张雨桐",
+      "zh": "我确认了，博物馆预约在周四下午三点，正好来得及。",
+      "pinyin": "wǒ què rèn le bó wù guǎn yù yuē zài zhōu sì xià wǔ sān diǎn zhèng hǎo lái de jí",
+      "tr": "Teyit ettim; müze rezervasyonu perşembe saat üçte, yetişiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_072",
+      "speaker": "张乐乐",
+      "zh": "周六上午走步道，下午可以回住处整理行李，不用赶火车。",
+      "pinyin": "zhōu liù shàng wǔ zǒu bù dào xià wǔ kě yǐ huí zhù chù zhěng lǐ xíng lǐ bù yòng gǎn huǒ chē",
+      "tr": "Cumartesi sabah patikada yürür, öğleden sonra valizleri toplamak için konaklama yerine döneriz; trene yetişmek için koşturmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_073",
+      "speaker": "张伟",
+      "zh": "车票订好了，订单信息我发到家庭群里，大家各自保存。",
+      "pinyin": "chē piào dìng hǎo le dìng dān xìn xī wǒ fā dào jiā tíng qún lǐ dà jiā gè zì bǎo cún",
+      "tr": "Biletleri ayırttım; sipariş bilgisini aile grubuna gönderdim, herkes saklasın."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_074",
+      "speaker": "刘梅",
+      "zh": "房间也确认了，入住时间是周四下午，房东会发门锁密码。",
+      "pinyin": "fáng jiān yě què rèn le rù zhù shí jiān shì zhōu sì xià wǔ fáng dōng huì fā mén suǒ mì mǎ",
+      "tr": "Oda da onaylandı; perşembe öğleden sonra giriş yapacağız, ev sahibi kapı kodunu gönderir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_075",
+      "speaker": "张雨桐",
+      "zh": "我把预约和住宿信息放进共享日历，临近出发时再提醒大家。",
+      "pinyin": "wǒ bǎ yù yuē hé zhù sù xìn xī fàng jìn gòng xiǎng rì lì lín jìn chū fā shí zài tí xǐng dà jiā",
+      "tr": "Rezervasyon ve konaklama bilgisini ortak takvime ekleyip yola çıkmadan hatırlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_076",
+      "speaker": "张乐乐",
+      "zh": "我会看天气准备衣服和鞋子。走步道那天穿舒服的鞋比较好。",
+      "pinyin": "wǒ huì kàn tiān qì zhǔn bèi yī fú hé xié zi zǒu bù dào nà tiān chuān shū fú de xié bǐ jiào hǎo",
+      "tr": "Havaya göre kıyafet ve ayakkabı hazırlarım. Patika günü rahat ayakkabı giymek iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_077",
+      "speaker": "张伟",
+      "zh": "出发前一天我们再确认天气、车次和需要带的东西。",
+      "pinyin": "chū fā qián yī tiān wǒ men zài què rèn tiān qì chē cì hé xū yào dài de dōng xī",
+      "tr": "Yola çıkmadan bir gün önce havayı, tren saatini ve götürülecekleri tekrar kontrol edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_078",
+      "speaker": "刘梅",
+      "zh": "行程里也留了自由时间，到了以后如果大家想法变了，可以商量调整。",
+      "pinyin": "xíng chéng lǐ yě liú le zì yóu shí jiān dào le yǐ hòu rú guǒ dà jiā xiǎng fǎ biàn le kě yǐ shāng liáng tiáo zhěng",
+      "tr": "Programda serbest zaman da var; varınca isteklerimiz değişirse birlikte ayarlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_079",
+      "speaker": "张雨桐",
+      "zh": "这样我觉得很舒服，不会为了赶计划错过沿路有趣的地方。",
+      "pinyin": "zhè yàng wǒ jué de hěn shū fú bú huì wèi le gǎn jì huà cuò guò yán lù yǒu qù de dì fāng",
+      "tr": "Bu plan hoşuma gitti; programa yetişmek uğruna yoldaki güzel yerleri kaçırmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_080",
+      "speaker": "张乐乐",
+      "zh": "我也很期待。这次假期不但能去新地方，而且能和家人一起慢慢玩。",
+      "pinyin": "wǒ yě hěn qī dài zhè cì jià qī bù dàn néng qù xīn dì fāng ér qiě néng hé jiā rén yì qǐ màn màn wán",
+      "tr": "Ben de heyecanlıyım. Bu tatilde hem yeni bir yere gider hem ailemle ağır ağır gezerim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_081",
+      "speaker": "张伟",
+      "zh": "大家都同意，计划就先这样定下来。剩下的细节出发前再确认。",
+      "pinyin": "dà jiā dōu tóng yì jì huà jiù xiān zhè yàng dìng xià lái shèng xià de xì jié chū fā qián zài què rèn",
+      "tr": "Herkes kabul ettiğine göre planı böyle sabitleyelim. Kalan ayrıntıları yola çıkmadan teyit ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_082",
+      "speaker": "刘梅",
+      "zh": "好，我把预订信息和预算表放在同一个文件夹里，免得临时找不到。",
+      "pinyin": "hǎo wǒ bǎ yù dìng xìn xī hé yù suàn biǎo fàng zài tóng yī gè wén jiàn jiā lǐ miǎn de lín shí zhǎo bú dào",
+      "tr": "Peki, rezervasyon bilgileriyle bütçe tablosunu aynı klasöre koyayım; son anda aramayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_083",
+      "speaker": "张雨桐",
+      "zh": "我负责博物馆和夜市的信息，出发前发给大家看。",
+      "pinyin": "wǒ fù zé bó wù guǎn hé yè shì de xìn xī chū fā qián fā gěi dà jiā kàn",
+      "tr": "Müze ve gece pazarı bilgilerini ben alıp yola çıkmadan herkese gönderirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_084",
+      "speaker": "张乐乐",
+      "zh": "步道如果当天不合适，我再找个轻松的公园路线，不会硬走。",
+      "pinyin": "bù dào rú guǒ dàng tiān bù hé shì wǒ zài zhǎo gè qīng sōng de gōng yuán lù xiàn bú huì yìng zǒu",
+      "tr": "Patika o gün uygun olmazsa rahat bir park rotası bulurum; zorlamam."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_085",
+      "speaker": "张伟",
+      "zh": "这安排既考虑了预算，也给每个人留了喜欢的活动。",
+      "pinyin": "zhè ān pái jì kǎo lǜ le yù suàn yě gěi měi gè rén liú le xǐ huān de huó dòng",
+      "tr": "Bu plan hem bütçeyi hesaba kattı hem herkese sevdiği etkinlik için zaman bıraktı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_086",
+      "speaker": "刘梅",
+      "zh": "而且不用每天换住处，行李少搬几次，大家也能休息好。",
+      "pinyin": "ér qiě bù yòng měi tiān huàn zhù chù xíng lǐ shǎo bān jǐ cì dà jiā yě néng xiū xī hǎo",
+      "tr": "Üstelik her gün konaklama değiştirmeyiz; valizleri az taşır, iyi dinleniriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_087",
+      "speaker": "张雨桐",
+      "zh": "我会把自己的东西先列清单，出发前再一起核对。",
+      "pinyin": "wǒ huì bǎ zì jǐ de dōng xī xiān liè qīng dān chū fā qián zài yì qǐ hé duì",
+      "tr": "Eşyalarımı listeleyip yola çıkmadan birlikte kontrol ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_088",
+      "speaker": "张乐乐",
+      "zh": "我来带相机和充电器，也记得给手机留足空间存照片。",
+      "pinyin": "wǒ lái dài xiàng jī hé chōng diàn qì yě jì de gěi shǒu jī liú zú kōng jiān cún zhào piān",
+      "tr": "Kamera ve şarj aletini ben alırım; fotoğraflar için telefonda yer açmayı da unutmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_089",
+      "speaker": "张伟",
+      "zh": "别忘了证件和车票。重要的东西放在随身包里，不要托运。",
+      "pinyin": "bié wàng le zhèng jiàn hé chē piào zhòng yào de dōng xī fàng zài suí shēn bāo lǐ bú yào tuō yùn",
+      "tr": "Kimlikleri ve biletleri unutmayın. Önemli eşyaları el çantasında taşıyın, bagaja vermeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_090",
+      "speaker": "刘梅",
+      "zh": "出发那天早点吃早餐，我们不用一边赶路一边找吃的。",
+      "pinyin": "chū fā nà tiān zǎo diǎn chī zǎo cān wǒ men bù yòng yī biān gǎn lù yī biān zhǎo chī de",
+      "tr": "Yola çıkacağımız gün kahvaltıyı erken yapalım; yolda yemek aramayız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_091",
+      "speaker": "张雨桐",
+      "zh": "我已经把闹钟设好了，也会提前把行李放在门口。",
+      "pinyin": "wǒ yǐ jīng bǎ nào zhōng shè hǎo le yě huì tí qián bǎ xíng lǐ fàng zài mén kǒu",
+      "tr": "Alarmımı kurdum; valizimi de önceden kapının yanına koyarım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_092",
+      "speaker": "张乐乐",
+      "zh": "那我今晚先把作业做完，假期里就能放心玩。",
+      "pinyin": "nà wǒ jīn wǎn xiān bǎ zuò yè zuò wán jià qī lǐ jiù néng fàng xīn wán",
+      "tr": "Öyleyse bu akşam ödevimi bitireyim; tatilde içim rahat olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_093",
+      "speaker": "张伟",
+      "zh": "计划已经清楚了，大家有新的想法随时在群里说。",
+      "pinyin": "jì huà yǐ jīng qīng chǔ le dà jiā yǒu xīn de xiǎng fǎ suí shí zài qún lǐ shuō",
+      "tr": "Plan artık açık; yeni bir fikri olan gruba istediği zaman yazsın."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_094",
+      "speaker": "刘梅",
+      "zh": "谢谢大家一起比较和讨论，最后定的安排每个人都能接受。",
+      "pinyin": "xiè xiè dà jiā yì qǐ bǐ jiào hé tǎo lùn zuì hòu dìng de ān pái měi gè rén dōu néng jiē shòu",
+      "tr": "Birlikte karşılaştırıp konuştuğunuz için sağ olun; vardığımız plan herkesin içine sindi."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_095",
+      "speaker": "张雨桐",
+      "zh": "我现在就期待出发了，尤其是夜市和博物馆。",
+      "pinyin": "wǒ xiàn zài jiù qī dài chū fā le yóu qí shì yè shì hé bó wù guǎn",
+      "tr": "Şimdiden yola çıkacağımız günü bekliyorum; özellikle gece pazarıyla müzeyi."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_096",
+      "speaker": "张乐乐",
+      "zh": "我最期待海边的日落，应该能拍到很漂亮的颜色。",
+      "pinyin": "wǒ zuì qī dài hǎi biān de rì luò yīng gāi néng pāi dào hěn piào liàng de yán sè",
+      "tr": "En çok sahildeki gün batımını bekliyorum; güzel renkler yakalayabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_097",
+      "speaker": "张伟",
+      "zh": "那就先把预订收据保存好，工作日结束后我们再慢慢准备。",
+      "pinyin": "nà jiù xiān bǎ yù dìng shōu jù bǎo cún hǎo gōng zuò rì jié shù hòu wǒ men zài màn màn zhǔn bèi",
+      "tr": "Öyleyse rezervasyon fişini saklayalım; iş haftası bitince hazırlıkları ağır ağır yaparız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_098",
+      "speaker": "刘梅",
+      "zh": "好，今晚先休息，明天再看行李清单。",
+      "pinyin": "hǎo jīn wǎn xiān xiū xī míng tiān zài kàn xíng lǐ qīng dān",
+      "tr": "Peki, bu akşam dinlenelim; valiz listesini yarın gözden geçiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_099",
+      "speaker": "张雨桐",
+      "zh": "晚安，出发前我会再确认一次预约时间。",
+      "pinyin": "wǎn ān chū fā qián wǒ huì zài què rèn yī cì yù yuē shí jiān",
+      "tr": "İyi geceler; yola çıkmadan rezervasyon saatini tekrar teyit ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC026_100",
+      "speaker": "张乐乐",
+      "zh": "晚安。我已经开始想象我们一起在海边散步了。",
+      "pinyin": "wǎn ān wǒ yǐ jīng kāi shǐ xiǎng xiàng wǒ men yì qǐ zài hǎi biān sàn bù le",
+      "tr": "İyi geceler. Ailece sahilde yürüdüğümüzü şimdiden hayal ediyorum."
+    }
+  ]
+}

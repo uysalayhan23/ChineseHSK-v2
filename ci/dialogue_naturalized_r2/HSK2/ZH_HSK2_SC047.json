@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 46,
+  "status": "FINAL_REVIEWED_V46",
+  "sceneId": "ZH_HSK2_SC047",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC047_001",
+      "speaker": "张乐乐",
+      "zh": "我今天想学骑自行车，可是有点担心会摔倒。",
+      "pinyin": "wǒ jīn tiān xiǎng xué qí zì xíng chē ， kě shì yǒu diǎn dān xīn huì shuāi dǎo 。",
+      "tr": "Bugün bisiklet sürmeyi öğrenmek istiyorum ama düşmekten biraz korkuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_002",
+      "speaker": "张伟",
+      "zh": "第一次学会紧张很正常，我们找一块平坦又没人的地方。",
+      "pinyin": "dì yī cì xué huì jǐn zhāng hěn zhèng cháng ， wǒ men zhǎo yī kuài píng tǎn yòu méi rén de dì fāng 。",
+      "tr": "İlk kez öğrenirken heyecanlanmak normal; düz ve boş bir yer bulalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_003",
+      "speaker": "刘梅",
+      "zh": "我会在旁边陪着你，你觉得不舒服就马上停下来。",
+      "pinyin": "wǒ huì zài páng biān péi zhe nǐ ， nǐ jué de bù shū fú jiù mǎ shàng tíng xià lái 。",
+      "tr": "Yanında duracağım; rahatsız hissedersen hemen dururuz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_004",
+      "speaker": "张乐乐",
+      "zh": "好，我先戴好头盔，再试着坐上车。",
+      "pinyin": "hǎo ， wǒ xiān dài hǎo tóu kuī ， zài shì zhe zuò shàng chē 。",
+      "tr": "Tamam, önce kaskımı takıp bisiklete oturmayı deneyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_005",
+      "speaker": "张伟",
+      "zh": "头盔扣紧了吗？先检查好安全，再开始练习。",
+      "pinyin": "tóu kuī kòu jǐn le ma ？ xiān jiǎn chá hǎo ān quán ， zài kāi shǐ liàn xí 。",
+      "tr": "Kaskın bağlı mı? Başlamadan önce güvenliğini kontrol edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_006",
+      "speaker": "刘梅",
+      "zh": "扣好了。爸爸，你先扶着车，我慢慢踩。",
+      "pinyin": "kòu hǎo le 。 bà bà ， nǐ xiān fú zhe chē ， wǒ màn màn cǎi 。",
+      "tr": "Bağladım. Baba, bisikleti tut; yavaşça pedallayayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_007",
+      "speaker": "张乐乐",
+      "zh": "我扶住车座。你看前面，先轻轻往前走。",
+      "pinyin": "wǒ fú zhù chē zuò 。 nǐ kàn qián miàn ， xiān qīng qīng wǎng qián zǒu 。",
+      "tr": "Sele arkasından tutuyorum. İleri bakıp hafifçe hareket et."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_008",
+      "speaker": "张伟",
+      "zh": "我会看前面。妈妈，你也在旁边吗？",
+      "pinyin": "wǒ huì kàn qián miàn 。 mā mā ， nǐ yě zài páng biān ma ？",
+      "tr": "İleri bakıyorum. Anne, sen de yanımda mısın?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_009",
+      "speaker": "刘梅",
+      "zh": "我在这里，不用急。你已经踩得很稳了。",
+      "pinyin": "wǒ zài zhè lǐ ， bù yòng jí 。 nǐ yǐ jīng cǎi dé hěn wěn le 。",
+      "tr": "Buradayım, acele etme. Bisikleti gayet dengeli sürüyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_010",
+      "speaker": "张乐乐",
+      "zh": "自行车有点晃，我还不会保持平衡。",
+      "pinyin": "zì xíng chē yǒu diǎn huǎng ， wǒ hái bú huì bǎo chí píng héng 。",
+      "tr": "Bisiklet biraz sallanıyor; henüz dengede duramıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_011",
+      "speaker": "张伟",
+      "zh": "没关系，先把脚放下来。我们再试一次。",
+      "pinyin": "méi guān xì ， xiān bǎ jiǎo fàng xià lái 。 wǒ men zài shì yī cì 。",
+      "tr": "Sorun değil, önce ayağını yere koy. Bir kez daha deneyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_012",
+      "speaker": "刘梅",
+      "zh": "刚才我差点摔倒，不过爸爸扶住了我。",
+      "pinyin": "gāng cái wǒ chà diǎn shuāi dǎo ， bù guò bà bà fú zhù le wǒ 。",
+      "tr": "Az önce neredeyse düşüyordum ama babam tuttu."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_013",
+      "speaker": "张乐乐",
+      "zh": "做得很好。每次不稳都先停下，安全最重要。",
+      "pinyin": "zuò dé hěn hǎo 。 měi cì bù wěn dōu xiān tíng xià ， ān quán zuì zhòng yào 。",
+      "tr": "Aferin. Dengen bozulursa dur; en önemlisi güvenlik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_014",
+      "speaker": "张伟",
+      "zh": "我想再试一次，这次慢一点踩。",
+      "pinyin": "wǒ xiǎng zài shì yī cì ， zhè cì màn yì diǎn cǎi 。",
+      "tr": "Bir kez daha denemek istiyorum, bu sefer pedalı yavaş çevireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_015",
+      "speaker": "刘梅",
+      "zh": "好，我扶着你走几步，等你稳了再松手。",
+      "pinyin": "hǎo ， wǒ fú zhe nǐ zǒu jǐ bù ， děng nǐ wěn le zài sōng shǒu 。",
+      "tr": "Peki, birkaç adım yanında tutacağım; dengeni bulunca bırakırım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_016",
+      "speaker": "张乐乐",
+      "zh": "爸爸，你不要走太快，我想看得清楚一点。",
+      "pinyin": "bà bà ， nǐ bú yào zǒu tài kuài ， wǒ xiǎng kàn de qīng chǔ yì diǎn 。",
+      "tr": "Baba, çok hızlı yürüme; ne yaptığımı görmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_017",
+      "speaker": "张伟",
+      "zh": "我跟着你，不会放手太早。准备好了吗？",
+      "pinyin": "wǒ gēn zhe nǐ ， bú huì fàng shǒu tài zǎo 。 zhǔn bèi hǎo le ma ？",
+      "tr": "Yanındayım, çok erken bırakmam. Hazır mısın?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_018",
+      "speaker": "刘梅",
+      "zh": "准备好了。我先慢慢骑，不急着转弯。",
+      "pinyin": "zhǔn bèi hǎo le 。 wǒ xiān màn màn qí ， bù jí zhe zhuǎn wān 。",
+      "tr": "Hazırım. Önce yavaşça süreyim, hemen dönmeye çalışmayayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_019",
+      "speaker": "张乐乐",
+      "zh": "真棒，你已经能往前骑几米了。",
+      "pinyin": "zhēn bàng ， nǐ yǐ jīng néng wǎng qián qí jǐ mǐ le 。",
+      "tr": "Harika, bisikletle birkaç metre ilerleyebildin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_020",
+      "speaker": "张伟",
+      "zh": "我做到了！不过现在还不会自己转弯。",
+      "pinyin": "wǒ zuò dào le ！ bù guò xiàn zài hái bú huì zì jǐ zhuǎn wān 。",
+      "tr": "Başardım! Ama henüz kendi başıma dönemiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_021",
+      "speaker": "刘梅",
+      "zh": "没关系，先练习直着骑，转弯以后再学。",
+      "pinyin": "méi guān xì ， xiān liàn xí zhí zhe qí ， zhuǎn wān yǐ hòu zài xué 。",
+      "tr": "Sorun değil; önce düz sürmeyi öğren, dönüşü sonra çalışırız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_022",
+      "speaker": "张乐乐",
+      "zh": "我刚才已经骑得比开始时稳多了。",
+      "pinyin": "wǒ gāng cái yǐ jīng qí dé bǐ kāi shǐ shí wěn duō le 。",
+      "tr": "Başlangıca göre çok daha dengeli sürüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_023",
+      "speaker": "张伟",
+      "zh": "对，慢慢练习就会有进步。",
+      "pinyin": "duì ， màn màn liàn xí jiù huì yǒu jìn bù 。",
+      "tr": "Evet, yavaşça çalıştıkça ilerlersin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_024",
+      "speaker": "刘梅",
+      "zh": "爸爸，我能不能自己骑一小段？",
+      "pinyin": "bà bà ， wǒ néng bù néng zì jǐ qí yī xiǎo duàn ？",
+      "tr": "Baba, kısa bir mesafeyi kendi başıma sürebilir miyim?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_025",
+      "speaker": "张乐乐",
+      "zh": "可以，我在你旁边走着，你保持慢速。",
+      "pinyin": "kě yǐ ， wǒ zài nǐ páng biān zǒu zhe ， nǐ bǎo chí màn sù 。",
+      "tr": "Olur, yanında yürüyeceğim; yavaş git."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_026",
+      "speaker": "张伟",
+      "zh": "好，我会先看清楚前面有没有人。",
+      "pinyin": "hǎo ， wǒ huì xiān kàn qīng chǔ qián miàn yǒu méi yǒu rén 。",
+      "tr": "Tamam, önce ileride kimse olmadığını kontrol edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_027",
+      "speaker": "刘梅",
+      "zh": "这条路很空，正适合练习。",
+      "pinyin": "zhè tiáo lù hěn kōng ， zhèng shì hé liàn xí 。",
+      "tr": "Bu yol boş, alıştırma yapmak için uygun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_028",
+      "speaker": "张乐乐",
+      "zh": "我会在前面等你，有事就叫我。",
+      "pinyin": "wǒ huì zài qián miàn děng nǐ ， yǒu shì jiù jiào wǒ 。",
+      "tr": "Ben ileride beklerim; bir şey olursa seslen."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_029",
+      "speaker": "张伟",
+      "zh": "你骑得很好，已经能自己往前走了。",
+      "pinyin": "nǐ qí dé hěn hǎo ， yǐ jīng néng zì jǐ wǎng qián zǒu le 。",
+      "tr": "Çok iyi sürüyorsun; artık kendi başına ilerleyebiliyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_030",
+      "speaker": "刘梅",
+      "zh": "妈妈，我好像越来越会骑了。",
+      "pinyin": "mā mā ， wǒ hǎo xiàng yuè lái yuè huì qí le 。",
+      "tr": "Anne, bisiklet sürmeyi giderek daha iyi öğreniyorum galiba."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_031",
+      "speaker": "张乐乐",
+      "zh": "是啊，你一次比一次稳，继续保持。",
+      "pinyin": "shì a ， nǐ yī cì bǐ yī cì wěn ， jì xù bǎo chí 。",
+      "tr": "Evet, her denemede daha dengelisin; böyle devam et."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_032",
+      "speaker": "张伟",
+      "zh": "我想试着自己停下来，应该怎么做？",
+      "pinyin": "wǒ xiǎng shì zhe zì jǐ tíng xià lái ， yīng gāi zěn me zuò ？",
+      "tr": "Kendi başıma durmayı deneyeyim mi? Nasıl yapmalıyım?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_033",
+      "speaker": "刘梅",
+      "zh": "先慢慢踩刹车，再把脚放到地上。",
+      "pinyin": "xiān màn màn cǎi shā chē ， zài bǎ jiǎo fàng dào dì shàng 。",
+      "tr": "Önce freni yavaşça sık, sonra ayağını yere koy."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_034",
+      "speaker": "张乐乐",
+      "zh": "我记住了。如果车开始晃，我就停下来。",
+      "pinyin": "wǒ jì zhù le 。 rú guǒ chē kāi shǐ huǎng ， wǒ jiù tíng xià lái 。",
+      "tr": "Anladım. Bisiklet sallanırsa duracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_035",
+      "speaker": "张伟",
+      "zh": "没错，不用怕停下后再重新开始。",
+      "pinyin": "méi cuò ， bù yòng pà tíng xià hòu zài chóng xīn kāi shǐ 。",
+      "tr": "Aynen; durduktan sonra yeniden başlamaktan korkma."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_036",
+      "speaker": "刘梅",
+      "zh": "我现在还不会骑得很快，不过不急。",
+      "pinyin": "wǒ xiàn zài hái bú huì qí dé hěn kuài ， bù guò bù jí 。",
+      "tr": "Henüz hızlı süremiyorum ama acelem yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_037",
+      "speaker": "张乐乐",
+      "zh": "刚学的时候不用追求速度，先把平衡练好。",
+      "pinyin": "gāng xué de shí hòu bù yòng zhuī qiú sù dù ， xiān bǎ píng héng liàn hǎo 。",
+      "tr": "Yeni öğrenirken hız önemli değil; önce denge kur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_038",
+      "speaker": "张伟",
+      "zh": "你们看，我可以自己骑到树下再停下。",
+      "pinyin": "nǐ men kàn ， wǒ kě yǐ zì jǐ qí dào shù xià zài tíng xià 。",
+      "tr": "Bakın, ağaca kadar kendi başıma sürüp durabiliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_039",
+      "speaker": "刘梅",
+      "zh": "太好了！你刚才还担心会摔倒呢。",
+      "pinyin": "tài hǎo le ！ nǐ gāng cái hái dān xīn huì shuāi dǎo ne 。",
+      "tr": "Harika! Az önce düşmekten korkuyordun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_040",
+      "speaker": "张乐乐",
+      "zh": "现在我知道摔倒也可以休息一下，再试一次。",
+      "pinyin": "xiàn zài wǒ zhī dào shuāi dǎo yě kě yǐ xiū xī yī xià ， zài shì yī cì 。",
+      "tr": "Düşersem biraz dinlenip tekrar deneyebileceğimi anladım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_041",
+      "speaker": "张伟",
+      "zh": "如果我骑得不稳，爸爸要不要一直扶着我？",
+      "pinyin": "rú guǒ wǒ qí dé bù wěn ， bà bà yào bù yào yì zhí fú zhe wǒ ？",
+      "tr": "Bisikleti dengeli süremezsem babam sürekli tutmalı mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_042",
+      "speaker": "刘梅",
+      "zh": "一开始我会扶，等你自己觉得稳了再松手。",
+      "pinyin": "yī kāi shǐ wǒ huì fú ， děng nǐ zì jǐ jué de wěn le zài sōng shǒu 。",
+      "tr": "Başta tutarım; kendini dengede hissedince bırakırım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_043",
+      "speaker": "张乐乐",
+      "zh": "你也可以告诉我们什么时候准备好了。",
+      "pinyin": "nǐ yě kě yǐ gào sù wǒ men shén me shí hòu zhǔn bèi hǎo le 。",
+      "tr": "Ne zaman hazır olduğunu bize söyleyebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_044",
+      "speaker": "张伟",
+      "zh": "好，我想先自己骑到那棵树旁边。",
+      "pinyin": "hǎo ， wǒ xiǎng xiān zì jǐ qí dào nà kē shù páng biān 。",
+      "tr": "Önce şu ağaca kadar kendi başıma sürmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_045",
+      "speaker": "刘梅",
+      "zh": "我在路边看着你，不会离开太远。",
+      "pinyin": "wǒ zài lù biān kàn zhe nǐ ， bú huì lí kāi tài yuǎn 。",
+      "tr": "Yol kenarından seni izleyeceğim, çok uzağa gitmem."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_046",
+      "speaker": "张乐乐",
+      "zh": "今天我们已经练了好一会儿，先喝点水吧。",
+      "pinyin": "jīn tiān wǒ men yǐ jīng liàn le hǎo yī huì er ， xiān hē diǎn shuǐ ba 。",
+      "tr": "Bugün epey çalıştık, önce biraz su içelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_047",
+      "speaker": "张伟",
+      "zh": "我不累，不过可以休息一下再继续。",
+      "pinyin": "wǒ bù lèi ， bù guò kě yǐ xiū xī yī xià zài jì xù 。",
+      "tr": "Yorulmadım ama biraz dinlenip sonra devam edebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_048",
+      "speaker": "刘梅",
+      "zh": "慢慢来，学会骑车不是一天就能完成的。",
+      "pinyin": "màn màn lái ， xué huì qí chē bú shì yī tiān jiù néng wán chéng de 。",
+      "tr": "Acele etme; bisiklet sürmeyi bir günde öğrenmek mümkün değil."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_049",
+      "speaker": "张乐乐",
+      "zh": "我刚开始学的时候也常常停下来。",
+      "pinyin": "wǒ gāng kāi shǐ xué de shí hòu yě cháng cháng tíng xià lái 。",
+      "tr": "Ben ilk öğrenirken de sık sık dururdum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_050",
+      "speaker": "张伟",
+      "zh": "真的吗？那你后来是怎么学会的？",
+      "pinyin": "zhēn de ma ？ nà nǐ hòu lái shì zěn me xué huì de ？",
+      "tr": "Gerçekten mi? Sonra nasıl öğrendin?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_051",
+      "speaker": "刘梅",
+      "zh": "每天练一点，慢慢就会保持平衡了。",
+      "pinyin": "měi tiān liàn yì diǎn ， màn màn jiù huì bǎo chí píng héng le 。",
+      "tr": "Her gün biraz çalıştım, zamanla dengede durabildim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_052",
+      "speaker": "张乐乐",
+      "zh": "我还不会骑得很久，但我可以再试一次。",
+      "pinyin": "wǒ hái bú huì qí dé hěn jiǔ ， dàn wǒ kě yǐ zài shì yī cì 。",
+      "tr": "Henüz uzun süre süremiyorum ama bir kez daha deneyebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_053",
+      "speaker": "张伟",
+      "zh": "你准备好以后再出发，我们会在旁边陪着。",
+      "pinyin": "nǐ zhǔn bèi hǎo yǐ hòu zài chū fā ， wǒ men huì zài páng biān péi zhe 。",
+      "tr": "Hazır olduğunda başla, biz yanında olacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_054",
+      "speaker": "刘梅",
+      "zh": "我准备好了。这次我想骑到长椅那里。",
+      "pinyin": "wǒ zhǔn bèi hǎo le 。 zhè cì wǒ xiǎng qí dào zhǎng yǐ nà lǐ 。",
+      "tr": "Hazırım. Bu kez şu banka kadar sürmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_055",
+      "speaker": "张乐乐",
+      "zh": "可以，路上很空。骑到长椅后慢慢停下。",
+      "pinyin": "kě yǐ ， lù shàng hěn kōng 。 qí dào zhǎng yǐ hòu màn màn tíng xià 。",
+      "tr": "Olur, yol boş. Banka gelince yavaşça dur."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_056",
+      "speaker": "张伟",
+      "zh": "我会记得刹车，也会把脚放下。",
+      "pinyin": "wǒ huì jì de shā chē ， yě huì bǎ jiǎo fàng xià 。",
+      "tr": "Freni hatırlayacağım, sonra da ayağımı yere koyacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_057",
+      "speaker": "刘梅",
+      "zh": "太好了，你已经记住最重要的安全方法了。",
+      "pinyin": "tài hǎo le ， nǐ yǐ jīng jì zhù zuì zhòng yào de ān quán fāng fǎ le 。",
+      "tr": "Güzel, en önemli güvenlik kuralını öğrendin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_058",
+      "speaker": "张乐乐",
+      "zh": "我到了长椅这里！这次没有摔倒。",
+      "pinyin": "wǒ dào le zhǎng yǐ zhè lǐ ！ zhè cì méi yǒu shuāi dǎo 。",
+      "tr": "Bankaya kadar geldim! Bu kez düşmedim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_059",
+      "speaker": "张伟",
+      "zh": "你做得很好。觉得累了就停下来，不用勉强。",
+      "pinyin": "nǐ zuò dé hěn hǎo 。 jué de lèi le jiù tíng xià lái ， bù yòng miǎn qiǎng 。",
+      "tr": "Aferin. Yorulursan dur, kendini zorlamana gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_060",
+      "speaker": "刘梅",
+      "zh": "我想再骑一小段，之后我们就回家。",
+      "pinyin": "wǒ xiǎng zài qí yī xiǎo duàn ， zhī hòu wǒ men jiù huí jiā 。",
+      "tr": "Biraz daha sürmek istiyorum, sonra eve döneriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_061",
+      "speaker": "张乐乐",
+      "zh": "好，我在旁边陪着你。妈妈也会跟着我们走。",
+      "pinyin": "hǎo ， wǒ zài páng biān péi zhe nǐ 。 mā mā yě huì gēn zhe wǒ men zǒu 。",
+      "tr": "Güzel, yanında yürüyeceğim; annen de bizimle gelecek."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_062",
+      "speaker": "张伟",
+      "zh": "我会慢慢骑，转弯时先看看后面有没有人。",
+      "pinyin": "wǒ huì màn màn qí ， zhuǎn wān shí xiān kàn kàn hòu miàn yǒu méi yǒu rén 。",
+      "tr": "Yavaş süreceğim; dönerken önce arkamda biri var mı bakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_063",
+      "speaker": "刘梅",
+      "zh": "很好，骑车的时候要注意路上的人和东西。",
+      "pinyin": "hěn hǎo ， qí chē de shí hòu yào zhù yì lù shàng de rén hé dōng xī 。",
+      "tr": "Aferin, bisiklet sürerken yoldaki insanlara ve eşyalara dikkat etmelisin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_064",
+      "speaker": "张乐乐",
+      "zh": "如果我不想继续了，就把车停下来，对吗？",
+      "pinyin": "rú guǒ wǒ bù xiǎng jì xù le ， jiù bǎ chē tíng xià lái ， duì ma ？",
+      "tr": "Devam etmek istemezsem bisikleti durdurup size söyleyebilirim, değil mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_065",
+      "speaker": "张伟",
+      "zh": "对，停好以后再告诉我们你想休息。",
+      "pinyin": "duì ， tíng hǎo yǐ hòu zài gào sù wǒ men nǐ xiǎng xiū xī 。",
+      "tr": "Evet, bisikleti güvenli biçimde durdurduktan sonra dinlenmek istediğini söyle."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_066",
+      "speaker": "刘梅",
+      "zh": "我已经会在平坦的路上骑一小段了。",
+      "pinyin": "wǒ yǐ jīng huì zài píng tǎn de lù shàng qí yī xiǎo duàn le 。",
+      "tr": "Düz yolda kısa bir mesafe sürebiliyorum artık."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_067",
+      "speaker": "张乐乐",
+      "zh": "你进步很快。不过每次练习都要戴头盔。",
+      "pinyin": "nǐ jìn bù hěn kuài 。 bù guò měi cì liàn xí dōu yào dài tóu kuī 。",
+      "tr": "Çabuk ilerliyorsun. Ama her çalışmada kask takmalısın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_068",
+      "speaker": "张伟",
+      "zh": "我今天戴了，回家以后会把头盔放回原来的地方。",
+      "pinyin": "wǒ jīn tiān dài le ， huí jiā yǐ hòu huì bǎ tóu kuī fàng huí yuán lái de dì fāng 。",
+      "tr": "Bugün taktım; eve gidince kaskı yerine koyacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_069",
+      "speaker": "刘梅",
+      "zh": "这样下次出门就能马上找到。",
+      "pinyin": "zhè yàng xià cì chū mén jiù néng mǎ shàng zhǎo dào 。",
+      "tr": "Böylece bir dahaki sefere hemen buluruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_070",
+      "speaker": "张乐乐",
+      "zh": "我们把车推到树旁边，先休息几分钟。",
+      "pinyin": "wǒ men bǎ chē tuī dào shù páng biān ， xiān xiū xī jǐ fēn zhōng 。",
+      "tr": "Bisikleti ağacın yanına götürüp birkaç dakika dinlenelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_071",
+      "speaker": "张伟",
+      "zh": "刚才学骑车时，我一直怕会摔倒。",
+      "pinyin": "gāng cái xué qí chē shí ， wǒ yì zhí pà huì shuāi dǎo 。",
+      "tr": "Bisiklet öğrenirken sürekli düşmekten korktum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_072",
+      "speaker": "刘梅",
+      "zh": "现在感觉好一点了，因为你们都在旁边。",
+      "pinyin": "xiàn zài gǎn jué hǎo yì diǎn le ， yīn wèi nǐ men dōu zài páng biān 。",
+      "tr": "Şimdi daha rahatım, çünkü ikiniz de yanımdaydınız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_073",
+      "speaker": "张乐乐",
+      "zh": "我们会陪着你，但你也可以告诉我们自己的想法。",
+      "pinyin": "wǒ men huì péi zhe nǐ ， dàn nǐ yě kě yǐ gào sù wǒ men zì jǐ de xiǎng fǎ 。",
+      "tr": "Sana eşlik ederiz ama kendi düşüncelerini de bize söyleyebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_074",
+      "speaker": "张伟",
+      "zh": "我喜欢自己试一试，也知道什么时候应该停下来。",
+      "pinyin": "wǒ xǐ huān zì jǐ shì yī shì ， yě zhī dào shén me shí hòu yīng gāi tíng xià lái 。",
+      "tr": "Kendim denemeyi seviyorum ve ne zaman durmam gerektiğini biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_075",
+      "speaker": "刘梅",
+      "zh": "这就是很好的进步。",
+      "pinyin": "zhè jiù shì hěn hǎo de jìn bù 。",
+      "tr": "Bu çok güzel bir gelişme."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_076",
+      "speaker": "张乐乐",
+      "zh": "下次我们还可以来公园练习吗？",
+      "pinyin": "xià cì wǒ men hái kě yǐ lái gōng yuán liàn xí ma ？",
+      "tr": "Bir dahaki sefere yine parka gelip çalışabilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_077",
+      "speaker": "张伟",
+      "zh": "当然可以，选人少、路平的时间来。",
+      "pinyin": "dāng rán kě yǐ ， xuǎn rén shǎo 、 lù píng de shí jiān lái 。",
+      "tr": "Elbette; sakin ve yolu düz olan bir zamanda geliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_078",
+      "speaker": "刘梅",
+      "zh": "我想下星期再来，那时候我也许会骑得更好。",
+      "pinyin": "wǒ xiǎng xià xīng qī zài lái ， nà shí hòu wǒ yě xǔ huì qí dé gèng hǎo 。",
+      "tr": "Gelecek hafta yine gelmek istiyorum, belki o zaman daha iyi sürerim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_079",
+      "speaker": "张乐乐",
+      "zh": "每天练一点就行，不需要一次学完。",
+      "pinyin": "měi tiān liàn yì diǎn jiù xíng ， bù xū yào yī cì xué wán 。",
+      "tr": "Her gün biraz çalışman yeter; hepsini bir günde öğrenmen gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_080",
+      "speaker": "张伟",
+      "zh": "回家后我会告诉奶奶，我今天学会骑自行车了。",
+      "pinyin": "huí jiā hòu wǒ huì gào sù nǎi nǎi ， wǒ jīn tiān xué huì qí zì xíng chē le 。",
+      "tr": "Eve gidince büyükanneme bugün bisiklet sürmeyi öğrendiğimi anlatacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_081",
+      "speaker": "刘梅",
+      "zh": "当然可以。奶奶一定会为你高兴。",
+      "pinyin": "dāng rán kě yǐ 。 nǎi nǎi yí dìng huì wèi nǐ gāo xìng 。",
+      "tr": "Tabii. Büyükannen seninle gurur duyar."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_082",
+      "speaker": "张乐乐",
+      "zh": "我也想把今天的练习告诉她。",
+      "pinyin": "wǒ yě xiǎng bǎ jīn tiān de liàn xí gào sù tā 。",
+      "tr": "Bugünkü çalışmayı ona da anlatmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_083",
+      "speaker": "张伟",
+      "zh": "那我们先把自行车推回家，再给奶奶打电话。",
+      "pinyin": "nà wǒ men xiān bǎ zì xíng chē tuī huí jiā ， zài gěi nǎi nǎi dǎ diàn huà 。",
+      "tr": "Önce bisikleti eve götürelim, sonra büyükanneni ararız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_084",
+      "speaker": "刘梅",
+      "zh": "好，我会把头盔一起带回去。",
+      "pinyin": "hǎo ， wǒ huì bǎ tóu kuī yì qǐ dài huí qù 。",
+      "tr": "Tamam, kaskımı da yanıma alacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_085",
+      "speaker": "张乐乐",
+      "zh": "你今天最喜欢哪一段练习？",
+      "pinyin": "nǐ jīn tiān zuì xǐ huān nǎ yī duàn liàn xí ？",
+      "tr": "Bugünkü alıştırmaların en çok hangisini sevdin?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_086",
+      "speaker": "张伟",
+      "zh": "我自己骑到长椅那里时最开心。",
+      "pinyin": "wǒ zì jǐ qí dào zhǎng yǐ nà lǐ shí zuì kāi xīn 。",
+      "tr": "Bankın yanına kendi başıma sürdüğümde çok mutlu oldum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_087",
+      "speaker": "刘梅",
+      "zh": "我最喜欢你没有放弃，摔倒的担心也变小了。",
+      "pinyin": "wǒ zuì xǐ huān nǐ méi yǒu fàng qì ， shuāi dǎo de dān xīn yě biàn xiǎo le 。",
+      "tr": "En çok vazgeçmemeni sevdim; düşme korkun da azaldı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_088",
+      "speaker": "张乐乐",
+      "zh": "我没有真的摔倒，不过刚开始确实有点害怕。",
+      "pinyin": "wǒ méi yǒu zhēn de shuāi dǎo ， bù guò gāng kāi shǐ què shí yǒu diǎn hài pà 。",
+      "tr": "Gerçekten düşmedim ama başta biraz korktum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_089",
+      "speaker": "张伟",
+      "zh": "害怕的时候就告诉我们，停下来休息也没关系。",
+      "pinyin": "hài pà de shí hòu jiù gào sù wǒ men ， tíng xià lái xiū xī yě méi guān xì 。",
+      "tr": "Korktuğunda bize söyle; durup dinlenmekte sakınca yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_090",
+      "speaker": "刘梅",
+      "zh": "现在我知道了，遇到困难可以再试一次。",
+      "pinyin": "xiàn zài wǒ zhī dào le ， yù dào kùn nán kě yǐ zài shì yī cì 。",
+      "tr": "Artık anladım, zorlanınca bir kez daha deneyebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_091",
+      "speaker": "张乐乐",
+      "zh": "以后骑车前先检查车和头盔，再选安全的路。",
+      "pinyin": "yǐ hòu qí chē qián xiān jiǎn chá chē hé tóu kuī ， zài xuǎn ān quán de lù 。",
+      "tr": "Bisiklete binmeden önce bisikleti ve kaskı kontrol edip güvenli bir yol seç."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_092",
+      "speaker": "张伟",
+      "zh": "我会记得这些。今天学骑车让我很有信心。",
+      "pinyin": "wǒ huì jì de zhè xiē 。 jīn tiān xué qí chē ràng wǒ hěn yǒu xìn xīn 。",
+      "tr": "Bunları aklımda tutacağım. Bugün bisiklet öğrenmek bana güven verdi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_093",
+      "speaker": "刘梅",
+      "zh": "下一次我们可以练习慢慢转弯，但还是不追求速度。",
+      "pinyin": "xià yī cì wǒ men kě yǐ liàn xí màn màn zhuǎn wān ， dàn hái shì bù zhuī qiú sù dù 。",
+      "tr": "Bir dahaki sefere yavaşça dönmeyi çalışabiliriz ama hızlanmaya gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_094",
+      "speaker": "张乐乐",
+      "zh": "好，我想先把直着骑练得更稳。",
+      "pinyin": "hǎo ， wǒ xiǎng xiān bǎ zhí zhe qí liàn dé gèng wěn 。",
+      "tr": "Olur, önce düz sürerken dengemi iyice geliştirmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_095",
+      "speaker": "张伟",
+      "zh": "这就是很好的计划。",
+      "pinyin": "zhè jiù shì hěn hǎo de jì huà 。",
+      "tr": "Bu çok iyi bir plan."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_096",
+      "speaker": "刘梅",
+      "zh": "谢谢爸爸妈妈陪我练习，也谢谢你们一直鼓励我。",
+      "pinyin": "xiè xiè bà bà mā mā péi wǒ liàn xí ， yě xiè xiè nǐ men yì zhí gǔ lì wǒ 。",
+      "tr": "Benimle çalıştığınız ve beni sürekli cesaretlendirdiğiniz için teşekkürler anne baba."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_097",
+      "speaker": "张乐乐",
+      "zh": "我们很高兴能陪着你，看着你一点点学会。",
+      "pinyin": "wǒ men hěn gāo xìng néng péi zhe nǐ ， kàn zhe nǐ yì diǎn diǎn xué huì 。",
+      "tr": "Yanında olmak ve yeni şeyler öğrenmeni izlemek bizi mutlu ediyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_098",
+      "speaker": "张伟",
+      "zh": "回家以后我想把今天的事画下来。",
+      "pinyin": "huí jiā yǐ hòu wǒ xiǎng bǎ jīn tiān de shì huà xià lái 。",
+      "tr": "Eve gidince bugünkü anımızı çizmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_099",
+      "speaker": "刘梅",
+      "zh": "你可以画公园、蓝色自行车，还有我们一家人。",
+      "pinyin": "nǐ kě yǐ huà gōng yuán 、 lán sè zì xíng chē ， hái yǒu wǒ men yī jiā rén 。",
+      "tr": "Parkı, mavi bisikleti ve ailece bizi çizebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC047_100",
+      "speaker": "张乐乐",
+      "zh": "好，我会画下来，下次再给你们看。",
+      "pinyin": "hǎo ， wǒ huì huà xià lái ， xià cì zài gěi nǐ men kàn 。",
+      "tr": "Tamam, çizip bir dahaki sefere size gösteririm."
+    }
+  ]
+}

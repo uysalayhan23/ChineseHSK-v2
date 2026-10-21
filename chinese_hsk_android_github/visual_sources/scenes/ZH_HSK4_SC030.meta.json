@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC030.json",
-  "dialogueSha256": "564e2798fa2f84a049dbe417b9d726a16f905761277b4714e714493978771a09",
+  "dialogueSha256": "ceb914f2d694db045b79c1ed9180d17d4f8e47b62ad4fa713c87f31953ac861d",
   "titleTr": "Tatilde Kaybolan Telefon",
   "locationId": "LOC_ZH_TOURIST_SITE_001",
   "scenePurposeTr": "Lele telefonunu kaybeder ve güvenlik adımlarını izler.",

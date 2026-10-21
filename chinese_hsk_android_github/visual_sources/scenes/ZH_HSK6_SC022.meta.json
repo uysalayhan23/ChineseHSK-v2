@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC022.json",
-  "dialogueSha256": "d25d1d2a1ae3c1c009f7898423f32349c93eaa977f5bad175be72a4cf8f86d6e",
+  "dialogueSha256": "b8808eee816fabcd8eb7624750a46ec67dc240f26e09e0e6cd5e19f4137c4fc4",
   "titleZh": "准备当外公",
   "titleTr": "Büyükbaba Olmaya Hazırlık",
   "locationId": "LOC_ZH_NEW_HOME_001",

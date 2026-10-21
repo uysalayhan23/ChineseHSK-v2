@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC045",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC045.json",
-  "dialogueSha256": "c057769b16c1fb7586b76281ce06081e7073c0f9e34e0532b9f8099ee6db6c29",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC045.json",
+  "dialogueSha256": "7d8ff8fc86ae406e6b54a05f1768b38b315bff80323d616c345426f2eedd3454",
   "titleTr": "Lele Bilim Fuarında",
   "locationId": "LOC_ZH_SCHOOL_HALL_001",
   "scenePurposeTr": "Lele’nin bilim projesi gösteri başlamadan hemen önce çalışmaz.",
@@ -69,5 +69,18 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi.",
+  "dialogueTextQA": {
+    "status": "PASS",
+    "turns": 100,
+    "coherenceScore": 98.0,
+    "activeVocabularyCoverage": 1.0,
+    "topicWindowCoverage": 1.0,
+    "duplicateUtterances": 0,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
+  },
+  "allDialogueSpeakersVisible": true,
+  "mouthAnchorReviewStatus": "PASS",
+  "mouthAnchorImageSha256": "0bfe259134f3efbdebc0a820bb5a58df57223fd4a1f5aa3d6cfbf720c4b35505"
 }

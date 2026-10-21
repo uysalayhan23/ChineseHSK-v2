@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC012.json",
-  "dialogueSha256": "37de8478b74e5acdaac5673503eede9f301dbd6983ed23049c035f36cdc373e0",
+  "dialogueSha256": "6d761aa703a564a7709ff9023cf3b742d0b02e4393b6e01fa0b50f52b0c0ad32",
   "titleTr": "Deneyimsiz Yeni Çalışan",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Deneyimsiz yeni çalışan sık hata yapar; Liu Mei ve ekip yapıcı eğitim ve geri bildirimle destek olur.",

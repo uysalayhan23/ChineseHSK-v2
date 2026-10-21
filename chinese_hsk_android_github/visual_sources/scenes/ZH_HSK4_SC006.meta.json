@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK4_SC006",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC006.json",
-  "dialogueSha256": "9ad89a80939a0aa2c7b9ee712c4bdcb6cecf691f69e16484806c86363ddb1372",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC006.json",
+  "dialogueSha256": "d0d26fa0d8a88610e6923fd107c455a58d04cdaa3039c282e4d2cbc517cc7218",
   "titleTr": "Büyükbabanın Bahçe Planı",
   "locationId": "LOC_ZH_GARDEN_001",
   "scenePurposeTr": "Büyükbaba küçük bir alanı sebze bahçesine dönüştürmek ister.",
@@ -69,5 +69,7 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi.",
+  "dialogueQaStatus": "PASS",
+  "dialogueQaNoteTr": "Sahneye özel, bağlantılı 100 tur yazıldı; ID/speaker sırası, altı hedef sözcük ve pinyin/Türkçe doğrulandı. Dört ağız çapası görselde kontrol edildi."
 }

@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC008",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC008.json",
-  "dialogueSha256": "c261e3ea477fe0c953cab5d21b9a6b580a3af0e6f6a3c42acbec9b2e68ba2637",
+  "dialogueSha256": "300c83f7793feabec2a845117ea6c6578b1d9b94e63a9c0eded299b1c8d3aeee",
   "titleZh": "张伟的婚礼致辞",
   "titleTr": "Zhang’ın Düğün Konuşması",
   "locationId": "LOC_ZH_WEDDING_RECEPTION_001",
@@ -70,5 +70,5 @@
   },
   "narrationPresentation": null,
   "styleReferenceSceneId": "ZH_HSK6_SC001",
-  "qaNoteTr": "Diyalog, konuşmacı kadrosu, yaş sürekliliği ve 1080×1920 WebP kontrolleri geçti. APK build başlatılmadı."
+  "qaNoteTr": "100 tur, babanın düğün konuşmasını aile anıları ve davetlilerin kutlamasıyla bütünleyen doğal diyalog olarak düzenlendi; sıra ve öğrenme hedefleri korundu. Pinyin/Türkçe ve görsel ağız eşleşmeleri doğrulandı."
 }

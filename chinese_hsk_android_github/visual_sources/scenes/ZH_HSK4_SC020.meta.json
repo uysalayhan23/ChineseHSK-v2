@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC020.json",
-  "dialogueSha256": "a06cf9569fdb7ac9c65a63951f1c107adb49d307c974aad1e30ea83b85f38e32",
+  "dialogueSha256": "59de09bf352b39855aad11935d881e477a55d65dd14b52dbfaaaddcf8575bcce",
   "titleTr": "Kasaba Fotoğraf Yarışması",
   "locationId": "LOC_ZH_TOWN_CENTER_001",
   "scenePurposeTr": "Lele fotoğraf yarışmasına katılır; görevli ve ailesi çalışmasını değerlendirir.",

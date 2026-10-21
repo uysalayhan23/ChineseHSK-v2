@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC026.json",
-  "dialogueSha256": "7bdcb8319aa6a329ef9b9bf0eff35763f4c036e9f7b596c43846c2e0a250c6fc",
+  "dialogueSha256": "b41c50a7952faf11dfb2c6d33c31546506e7d9a2fe9d80511208669176e1087b",
   "titleZh": "爷爷讲老农场",
   "titleTr": "Büyükbabanın Çiftlik Anıları",
   "locationId": "LOC_ZH_GRANDPARENTS_HOME_001",

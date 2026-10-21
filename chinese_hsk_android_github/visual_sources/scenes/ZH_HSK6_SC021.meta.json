@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC021.json",
-  "dialogueSha256": "03b36eb4b8268021f99b13c85ea31f1cdcf437953f64c08953d054893606aa60",
+  "dialogueSha256": "9cacae0d317219957c3202140cf8a7c16d90ffb2f6129f0f1cce711e11881560",
   "titleZh": "第一个孙辈要来了",
   "titleTr": "İlk Torun Haberi",
   "locationId": "LOC_ZH_NEW_HOME_001",

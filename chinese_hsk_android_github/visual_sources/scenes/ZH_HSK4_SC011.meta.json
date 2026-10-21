@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC011.json",
-  "dialogueSha256": "272a1813bb338f019eb82e3c347ef34835db4990dfb69a09e76217982d13b673",
+  "dialogueSha256": "5a6f4f64338a682e99af26abc1367beae467395ad05b7da1c665000d7d41dd84",
   "titleTr": "Kafe Çok Yoğun",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Kafe aşırı yoğunlaşır; ekip yeni çalışan ihtiyacını değerlendirir.",

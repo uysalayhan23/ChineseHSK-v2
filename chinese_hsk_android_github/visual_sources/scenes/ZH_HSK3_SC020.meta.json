@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC020",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC020.json",
-  "dialogueSha256": "304510f589af8d9a4c7e06026ebed8995592d27ba69620463d363b17e92d169d",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC020.json",
+  "dialogueSha256": "a04fc6108c27695e0ac73b36e8313ebe99df57bda57c57dc140d8fe89ba47268",
   "titleTr": "Sessiz Açılış Denemesi",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Kafe yalnızca dostlara açılır; servis akışı ilk kez gerçek ortamda test edilir.",
@@ -47,7 +47,10 @@
     "width": 941,
     "height": 1672,
     "format": "WEBP",
-    "orientation": "9:16_vertical"
+    "orientation": "9:16_vertical",
+    "sha256": "d1b7c22b10fcfb5cbfa945ed8cc4ca0916a2b0a222f679d3afc0b5aeeb0b08ad",
+    "gitBlobSha": "50efdc6ec7d8f2971fbeaac6255670c331d81ffc",
+    "bytes": 1348354
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -69,5 +72,21 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: ZH_HSK3_SC020 final tek-sahne görseli LOCKED_V2 ve HSK3 maturity kurallarına göre doğrulandı."
+  "qaNoteTr": "LOCKED_V2 görsel QA PASS: sağ öndeki müşterinin profili yalnız baş bölgesinde hedefli olarak açıldı. Sıcak 2.5D/3D CGI, üç canonical aile üyesi ve sahne düzeni korundu; 941×1672, SSIM 0.98828, maske dışı decoded pikseller birebir aynı, app/runtime SHA eşleşti.",
+  "postGenerationVisualQA": {
+    "status": "PASS",
+    "inspectedAfterGeneration": true,
+    "dialogueMatch": true,
+    "speakerCountMatch": true,
+    "settingMatch": true,
+    "criticalObjectsMatch": true,
+    "visualPolicyMatch": true,
+    "canonicalCharacterContinuityChecked": true,
+    "exactCastChecked": true,
+    "appRuntimeMirrorBlobMatch": true,
+    "localizedMouthRepair": true,
+    "ssim": 0.98828,
+    "pixelsOutsideMaskExact": true,
+    "mouthVisibleForCustomer": true
+  }
 }

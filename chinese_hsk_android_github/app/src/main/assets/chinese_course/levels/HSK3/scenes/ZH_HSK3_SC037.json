@@ -11,128 +11,128 @@
     {
       "id": "DLG_ZH_HSK3_SC037_001",
       "speaker": "张伟",
-      "zh": "张伟听说自己可能要升职。",
-      "pinyin": "Zhāng Wěi tīngshuō zìjǐ kěnéng yào shēngzhí.",
-      "tr": "Zhang Wei terfi edebileceğini duydu."
+      "zh": "今天正好有时间，我们聊聊升职这件事吧。",
+      "pinyin": "Jīn tiān zhèng hǎo yǒu shí jiān, wǒ men liáo liáo shēng zhí zhè jiàn shì ba.",
+      "tr": "Bugün vaktimiz varken terfi konusunu konuşalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_002",
       "speaker": "经理",
-      "zh": "今天我们先谈谈职业发展。",
-      "pinyin": "Jīntiān wǒmen xiān tántan zhíyè fāzhǎn.",
-      "tr": "Bugün önce kariyer gelişimi hakkında konuşalım."
+      "zh": "好，先听听大家怎么想。",
+      "pinyin": "Hǎo, xiān tīng tīng dà jiā zěn me xiǎng.",
+      "tr": "Tamam, önce herkesin ne düşündüğünü dinleyelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_003",
       "speaker": "同事",
-      "zh": "情况跟我们开始想的不完全一样。",
-      "pinyin": "Qíngkuàng gēn wǒmen kāishǐ xiǎng de bù wánquán yíyàng.",
-      "tr": "Durum başta düşündüğümüzle tamamen aynı değil."
+      "zh": "说到职业发展，你怎么看？",
+      "pinyin": "Shuō dào zhí yè fā zhǎn, nǐ zěn me kàn?",
+      "tr": "kariyer gelişimi konusunda ne düşünüyorsun?"
     },
     {
       "id": "DLG_ZH_HSK3_SC037_004",
       "speaker": "刘梅",
-      "zh": "那我们先听听大家的意见。",
-      "pinyin": "Nà wǒmen xiān tīngting dàjiā de yìjiàn.",
-      "tr": "O zaman önce herkesin fikrini dinleyelim."
+      "zh": "我先说吧，我最担心的是实际情况会不会跟我们想的一样。",
+      "pinyin": "Wǒ xiān shuō ba, wǒ zuì dān xīn de shì shí jì qíng kuàng huì bú huì gēn wǒ men xiǎng de yī yàng.",
+      "tr": "Önce ben söyleyeyim; en çok gerçek durumun düşündüğümüz gibi olup olmayacağını merak ediyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_005",
       "speaker": "张伟",
-      "zh": "我觉得先把重点找出来比较好。",
-      "pinyin": "Wǒ juéde xiān bǎ zhòngdiǎn zhǎo chūlái bǐjiào hǎo.",
-      "tr": "Bence önce ana noktayı belirlemek daha iyi."
+      "zh": "对，所以先把重点找出来。",
+      "pinyin": "Duì, suǒ yǐ xiān bǎ zhòng diǎn zhǎo chū lái.",
+      "tr": "Evet, bu yüzden önce ana noktayı bulalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_006",
       "speaker": "经理",
-      "zh": "好，先把最需要处理的事情解决。",
-      "pinyin": "Hǎo, xiān bǎ zuì xūyào chǔlǐ de shìqing jiějué.",
-      "tr": "Tamam, önce en çok çözülmesi gereken işi halledelim."
+      "zh": "那就一项一项看。",
+      "pinyin": "Nà jiù yī xiàng yī xiàng kàn.",
+      "tr": "O zaman maddeleri tek tek ele alalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_007",
       "speaker": "同事",
-      "zh": "张伟听说自己可能要升职。",
-      "pinyin": "Zhāng Wěi tīngshuō zìjǐ kěnéng yào shēngzhí.",
-      "tr": "Zhang Wei terfi edebileceğini duydu."
+      "zh": "我觉得责任这一点也不能忽略。",
+      "pinyin": "Wǒ jué de zé rèn zhè yì diǎn yě bù néng hū lüè.",
+      "tr": "Bence sorumluluk konusunu da göz ardı etmemeliyiz."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_008",
       "speaker": "刘梅",
-      "zh": "我明白你的意思了。",
-      "pinyin": "Wǒ míngbai nǐ de yìsi le.",
-      "tr": "Ne demek istediğini anladım."
+      "zh": "这点我同意，先记下来。",
+      "pinyin": "Zhè diǎn wǒ tóng yì, xiān jì xià lái.",
+      "tr": "Bu noktaya katılıyorum, önce not edelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_009",
       "speaker": "张伟",
-      "zh": "我已经把职业发展记下来了。",
-      "pinyin": "Wǒ yǐjīng bǎ zhíyè fāzhǎn jì xiàlái le.",
-      "tr": "Kariyer gelişimi notunu aldım."
+      "zh": "说到工作，你怎么看？",
+      "pinyin": "Shuō dào gōng zuò, nǐ zěn me kàn?",
+      "tr": "iş konusunda ne düşünüyorsun?"
     },
     {
       "id": "DLG_ZH_HSK3_SC037_010",
       "speaker": "经理",
-      "zh": "好，这一点我会注意。",
-      "pinyin": "Hǎo, zhè yìdiǎn wǒ huì zhùyì.",
-      "tr": "Tamam, bu noktaya dikkat edeceğim."
+      "zh": "我觉得先把这一点说清楚比较好。",
+      "pinyin": "Wǒ jué de xiān bǎ zhè yì diǎn shuō qīng chǔ bǐ jiào hǎo.",
+      "tr": "Bence önce bu noktayı netleştirmek daha iyi."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_011",
       "speaker": "同事",
-      "zh": "责任是这次要考虑的重点之一。",
-      "pinyin": "Zérèn shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-      "tr": "Sorumluluk bu kez değerlendirmemiz gereken ana noktalardan biri."
+      "zh": "对，不然等会儿容易混在一起。",
+      "pinyin": "Duì, bù rán děng huì er róng yì hùn zài yì qǐ.",
+      "tr": "Evet, yoksa birazdan konular birbirine karışabilir."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_012",
       "speaker": "刘梅",
-      "zh": "我明白你的意思了。",
-      "pinyin": "Wǒ míngbai nǐ de yìsi le.",
-      "tr": "Ne demek istediğini anladım."
+      "zh": "那就先确认大家的想法。",
+      "pinyin": "Nà jiù xiān què rèn dà jiā de xiǎng fǎ.",
+      "tr": "O zaman önce herkesin fikrini netleştirelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_013",
       "speaker": "张伟",
-      "zh": "我们最好再确认一下工作。",
-      "pinyin": "Wǒmen zuìhǎo zài quèrèn yíxià gōngzuò.",
-      "tr": "Iş konusunu bir kez daha teyit etsek iyi olur."
+      "zh": "我觉得未来计划这一点也不能忽略。",
+      "pinyin": "Wǒ jué de wèi lái jì huà zhè yì diǎn yě bù néng hū lüè.",
+      "tr": "Bence gelecek planı konusunu da göz ardı etmemeliyiz."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_014",
       "speaker": "经理",
-      "zh": "好，这一点我会注意。",
-      "pinyin": "Hǎo, zhè yìdiǎn wǒ huì zhùyì.",
-      "tr": "Tamam, bu noktaya dikkat edeceğim."
+      "zh": "好，这一项先放在这里。",
+      "pinyin": "Hǎo, zhè yī xiàng xiān fàng zài zhè lǐ.",
+      "tr": "Tamam, bu maddeyi şimdilik burada bırakalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_015",
       "speaker": "同事",
-      "zh": "如果未来计划没有问题，我们就继续。",
-      "pinyin": "Rúguǒ wèilái jìhuà méiyǒu wèntí, wǒmen jiù jìxù.",
-      "tr": "Gelecek planı konusunda sorun yoksa devam ederiz."
+      "zh": "说到家人，你怎么看？",
+      "pinyin": "Shuō dào jiā rén, nǐ zěn me kàn?",
+      "tr": "aile konusunda ne düşünüyorsun?"
     },
     {
       "id": "DLG_ZH_HSK3_SC037_016",
       "speaker": "刘梅",
-      "zh": "我明白你的意思了。",
-      "pinyin": "Wǒ míngbai nǐ de yìsi le.",
-      "tr": "Ne demek istediğini anladım."
+      "zh": "我觉得这部分也需要认真考虑。",
+      "pinyin": "Wǒ jué de zhè bù fèn yě xū yào rèn zhēn kǎo lǜ.",
+      "tr": "Bence bu kısmı da ciddi biçimde değerlendirmek gerekiyor."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_017",
       "speaker": "张伟",
-      "zh": "我们先听听家人怎么说。",
-      "pinyin": "Wǒmen xiān tīngting jiārén zěnme shuō.",
-      "tr": "Önce aile ne diyor dinleyelim."
+      "zh": "嗯，先别急着决定。",
+      "pinyin": "Èn, xiān bié jí zhe jué dìng.",
+      "tr": "Evet, karar vermek için acele etmeyelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_018",
       "speaker": "经理",
-      "zh": "好，这一点我会注意。",
-      "pinyin": "Hǎo, zhè yìdiǎn wǒ huì zhùyì.",
-      "tr": "Tamam, bu noktaya dikkat edeceğim."
+      "zh": "好，我们把这些都说清楚以后再看下一步。",
+      "pinyin": "Hǎo, wǒ men bǎ zhè xiē dōu shuō qīng chǔ yǐ hòu zài kàn xià yī bù.",
+      "tr": "Tamam, bunları netleştirdikten sonra sonraki adıma bakalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_019",
@@ -291,142 +291,142 @@
     {
       "id": "DLG_ZH_HSK3_SC037_041",
       "speaker": "张伟",
-      "zh": "可以先做一部分，看看效果。",
-      "pinyin": "Kěyǐ xiān zuò yí bùfen, kànkan xiàoguǒ.",
-      "tr": "Önce bir kısmını yapıp sonucu görebiliriz."
+      "zh": "经理，您说的升职是带一个新团队，还是接手现在的项目？",
+      "pinyin": "jīng lǐ nín shuō de shēng zhí shì dài yí gè xīn tuán duì hái shì jiē shǒu xiàn zài de xiàng mù",
+      "tr": "Müdürüm, terfi yeni bir ekibe liderlik etmek mi, yoksa mevcut projeyi devralmak mı?"
     },
     {
       "id": "DLG_ZH_HSK3_SC037_042",
       "speaker": "经理",
-      "zh": "这个主意不错。",
-      "pinyin": "Zhège zhǔyi búcuò.",
-      "tr": "Bu fikir fena değil."
+      "zh": "主要是带团队，项目还是现在这个。你会安排每周的工作，也要带新人。",
+      "pinyin": "zhǔ yào shì dài tuán duì xiàng mù hái shì xiàn zài zhè ge nǐ huì ān pái měi zhōu de gōng zuò yě yào dài xīn rén",
+      "tr": "Temelde ekibe liderlik edeceksin; proje aynı kalacak. Haftalık işleri planlayıp yeni çalışanları da yetiştireceksin."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_043",
       "speaker": "同事",
-      "zh": "那我负责这一部分。",
-      "pinyin": "Nà wǒ fùzé zhè yí bùfen.",
-      "tr": "O zaman bu kısmı ben üstleneyim."
+      "zh": "听起来责任多了不少。你会有时间适应吗？",
+      "pinyin": "tīng qǐ lái zé rèn duō le bù shǎo nǐ huì yǒu shí jiān shì yìng ma",
+      "tr": "Sorumluluklar epey artacak gibi. Alışmak için zamanın olacak mı?"
     },
     {
       "id": "DLG_ZH_HSK3_SC037_044",
       "speaker": "刘梅",
-      "zh": "剩下的我来处理。",
-      "pinyin": "Shèngxià de wǒ lái chǔlǐ.",
-      "tr": "Kalanını ben hallederim."
+      "zh": "张伟最近已经很忙了，我也想知道升职以后工作时间会不会变。",
+      "pinyin": "zhāng wěi zuì jìn yǐ jīng hěn máng le wǒ yě xiǎng zhī dào shēng zhí yǐ hòu gōng zuò shí jiān huì bú huì biàn",
+      "tr": "Zhang Wei son zamanlarda zaten yoğun; terfiden sonra çalışma saatleri değişecek mi, ben de merak ediyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_045",
       "speaker": "张伟",
-      "zh": "需要我帮忙的时候告诉我。",
-      "pinyin": "Xūyào wǒ bāngmáng de shíhou gàosu wǒ.",
-      "tr": "Yardıma ihtiyacın olduğunda bana söyle."
+      "zh": "我也担心这一点。如果常常加班，我陪家人的时间就会少很多。",
+      "pinyin": "wǒ yě dān xīn zhè yì diǎn rú guǒ cháng cháng jiā bān wǒ péi jiā rén de shí jiān jiù huì shǎo hěn duō",
+      "tr": "Ben de bunu düşünüyorum. Sık sık mesaiye kalırsam aileme daha az zaman ayırırım."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_046",
       "speaker": "经理",
-      "zh": "好，我们保持联系。",
-      "pinyin": "Hǎo, wǒmen bǎochí liánxì.",
-      "tr": "Tamam, iletişimde kalalım."
+      "zh": "新岗位会有忙的时候，不过我会把值班安排平均分给大家。",
+      "pinyin": "xīn gǎng wèi huì yǒu máng de shí hòu bù guò wǒ huì bǎ zhí bān ān pái píng jūn fēn gěi dà jiā",
+      "tr": "Yeni görevde yoğun dönemler olacak ama nöbetleri ekibe dengeli dağıtacağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_047",
       "speaker": "同事",
-      "zh": "事情越来越清楚了。",
-      "pinyin": "Shìqing yuèláiyuè qīngchu le.",
-      "tr": "Durum giderek netleşiyor."
+      "zh": "我可以帮忙处理一些旧项目，让你先熟悉带团队的工作。",
+      "pinyin": "wǒ kě yǐ bāng máng chǔ lǐ yī xiē jiù xiàng mù ràng nǐ xiān shú xī dài tuán duì de gōng zuò",
+      "tr": "Ekibin yönetimine alışana kadar eski projelerin bir kısmını ben üstlenebilirim."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_048",
       "speaker": "刘梅",
-      "zh": "我也放心多了。",
-      "pinyin": "Wǒ yě fàngxīn duō le.",
-      "tr": "Ben de çok daha rahatladım."
+      "zh": "这样安排比较实际。新责任和原来的工作最好分阶段交接。",
+      "pinyin": "zhè yàng ān pái bǐ jiào shí jì xīn zé rèn hé yuán lái de gōng zuò zuì hǎo fēn jiē duàn jiāo jiē",
+      "tr": "Bu plan daha uygulanabilir. Yeni sorumluluklarla eski işleri aşamalı devretmek iyi olur."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_049",
       "speaker": "张伟",
-      "zh": "还有一个小问题。",
-      "pinyin": "Hái yǒu yí ge xiǎo wèntí.",
-      "tr": "Bir küçük sorun daha var."
+      "zh": "谢谢。我想先了解团队现在最需要解决的问题，再决定怎么安排。",
+      "pinyin": "xiè xiè wǒ xiǎng xiān liǎo jiě tuán duì xiàn zài zuì xū yào jiě jué de wèn tí zài jué dìng zěn me ān pái",
+      "tr": "Teşekkürler. Plan yapmadan önce ekibin çözmesi gereken başlıca sorunları anlamak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_050",
       "speaker": "经理",
-      "zh": "你说吧，我们一起想办法。",
-      "pinyin": "Nǐ shuō ba, wǒmen yìqǐ xiǎng bànfǎ.",
-      "tr": "Söyle, birlikte çözüm düşünelim."
+      "zh": "这是个好开始。升职以后，你每周可以和大家开一次短会。",
+      "pinyin": "zhè shì gè hǎo kāi shǐ shēng zhí yǐ hòu nǐ měi zhōu kě yǐ hé dà jiā kāi yī cì duǎn huì",
+      "tr": "İyi bir başlangıç. Terfiden sonra ekiple haftada bir kısa toplantı yapabilirsin."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_051",
       "speaker": "同事",
-      "zh": "这个问题其实不难。",
-      "pinyin": "Zhège wèntí qíshí bù nán.",
-      "tr": "Bu sorun aslında zor değil."
+      "zh": "短会挺有用，大家也能早点说出工作中遇到的困难。",
+      "pinyin": "duǎn huì tǐng yǒu yòng dà jiā yě néng zǎo diǎn shuō chū gōng zuò zhōng yù dào de kùn nán",
+      "tr": "Kısa toplantılar yararlı; herkes işteki zorlukları daha erken paylaşabilir."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_052",
       "speaker": "刘梅",
-      "zh": "只要准备好，就可以开始。",
-      "pinyin": "Zhǐyào zhǔnbèi hǎo, jiù kěyǐ kāishǐ.",
-      "tr": "Hazırlık tamam olursa başlayabiliriz."
+      "zh": "你也可以把下班时间告诉团队，紧急事情再另外联系。",
+      "pinyin": "nǐ yě kě yǐ bǎ xià bān shí jiān gào sù tuán duì jǐn jí shì qíng zài lìng wài lián xì",
+      "tr": "Ekip arkadaşlarına mesai bitiş saatini de söyle; yalnızca acil durumda ayrıca ulaşsınlar."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_053",
       "speaker": "张伟",
-      "zh": "那我们现在开始吧。",
-      "pinyin": "Nà wǒmen xiànzài kāishǐ ba.",
-      "tr": "O zaman şimdi başlayalım."
+      "zh": "对，这样我能照顾好工作，也不至于每天都把工作带回家。",
+      "pinyin": "duì zhè yàng wǒ néng zhào gù hǎo gōng zuò yě bù zhì yú měi tiān dōu bǎ gōng zuò dài huí jiā",
+      "tr": "Evet, böylece işimi yürütürken her gün işi eve taşımamış olurum."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_054",
       "speaker": "经理",
-      "zh": "进行得比想象中顺利。",
-      "pinyin": "Jìnxíng de bǐ xiǎngxiàng zhōng shùnlì.",
-      "tr": "Düşündüğümüzden daha sorunsuz ilerliyor."
+      "zh": "薪水会按新岗位调整，试任期是三个月，之后我们再一起看情况。",
+      "pinyin": "xīn shuǐ huì àn xīn gǎng wèi tiáo zhěng shì rèn qī shì sān gè yuè zhī hòu wǒ men zài yì qǐ kàn qíng kuàng",
+      "tr": "Maaş yeni göreve göre düzenlenecek. Üç aylık deneme süresinden sonra durumu birlikte değerlendiririz."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_055",
       "speaker": "同事",
-      "zh": "中间还是出了一个小问题。",
-      "pinyin": "Zhōngjiān háishi chū le yí ge xiǎo wèntí.",
-      "tr": "Arada yine küçük bir sorun çıktı."
+      "zh": "三个月后再评估很公平，也能看看新安排是否适合团队。",
+      "pinyin": "sān gè yuè hòu zài píng gū hěn gōng píng yě néng kàn kàn xīn ān pái shì fǒu shì hé tuán duì",
+      "tr": "Üç ay sonra yeniden değerlendirmek adil; yeni düzenin ekibe uyup uymadığını da görürüz."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_056",
       "speaker": "刘梅",
-      "zh": "没关系，先看看能不能调整。",
-      "pinyin": "Méi guānxi, xiān kànkan néng bu néng tiáozhěng.",
-      "tr": "Sorun değil, önce ayarlayıp ayarlayamayacağımıza bakalım."
+      "zh": "张伟，你可以先跟家人商量一下，再决定要不要接受。",
+      "pinyin": "zhāng wěi nǐ kě yǐ xiān gēn jiā rén shāng liáng yī xià zài jué dìng yào bù yào jiē shòu",
+      "tr": "Zhang Wei, kabul edip etmemeye karar vermeden önce ailenle konuşabilirsin."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_057",
       "speaker": "张伟",
-      "zh": "我有一个新的办法。",
-      "pinyin": "Wǒ yǒu yí ge xīn de bànfǎ.",
-      "tr": "Yeni bir çözümüm var."
+      "zh": "我今晚会和家人谈谈，也会把新责任和时间安排说清楚。",
+      "pinyin": "wǒ jīn wǎn huì hé jiā rén tán tán yě huì bǎ xīn zé rèn hé shí jiān ān pái shuō qīng chǔ",
+      "tr": "Bu akşam ailemle konuşup yeni sorumlulukları ve zaman planını anlatacağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_058",
       "speaker": "经理",
-      "zh": "说来听听。",
-      "pinyin": "Shuō lái tīngting.",
-      "tr": "Anlat bakalım."
+      "zh": "不用今天马上答复，明天下午前告诉我就可以。",
+      "pinyin": "bù yòng jīn tiān mǎ shàng dá fù míng tiān xià wǔ qián gào sù wǒ jiù kě yǐ",
+      "tr": "Hemen bugün yanıt vermen gerekmiyor; yarın öğleden sonraya kadar haber versen yeter."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_059",
       "speaker": "同事",
-      "zh": "我们可以一边做，一边检查。",
-      "pinyin": "Wǒmen kěyǐ yìbiān zuò, yìbiān jiǎnchá.",
-      "tr": "Yaparken aynı anda kontrol edebiliriz."
+      "zh": "不管你怎么决定，我都会配合交接，团队的工作不会停下来。",
+      "pinyin": "bù guǎn nǐ zěn me jué dìng wǒ dū huì pèi hé jiāo jiē tuán duì de gōng zuò bú huì tíng xià lái",
+      "tr": "Nasıl karar verirsen ver, devir sürecinde destek olurum; ekibin işi aksamaz."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_060",
       "speaker": "刘梅",
-      "zh": "这样发现问题会更早。",
-      "pinyin": "Zhèyàng fāxiàn wèntí huì gèng zǎo.",
-      "tr": "Böylece sorunları daha erken fark ederiz."
+      "zh": "先把机会和顾虑都想清楚，再做决定，你会更安心。",
+      "pinyin": "xiān bǎ jī huì hé gù lǜ dōu xiǎng qīng chǔ zài zuò jué dìng nǐ huì gèng ān xīn",
+      "tr": "Fırsatları ve kaygılarını düşünüp sonra karar verirsen için daha rahat olur."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_061",
@@ -515,8 +515,8 @@
     {
       "id": "DLG_ZH_HSK3_SC037_073",
       "speaker": "张伟",
-      "zh": "我也是这么想的。",
-      "pinyin": "Wǒ yě shì zhème xiǎng de.",
+      "zh": "我的想法也一样。",
+      "pinyin": "Wǒ de xiǎng fǎ yě yī yàng.",
       "tr": "Ben de öyle düşünüyorum."
     },
     {
@@ -536,177 +536,177 @@
     {
       "id": "DLG_ZH_HSK3_SC037_076",
       "speaker": "刘梅",
-      "zh": "我已经把升职记下来了。",
-      "pinyin": "Wǒ yǐjīng bǎ shēngzhí jì xiàlái le.",
-      "tr": "Terfi notunu aldım."
+      "zh": "刚才的办法基本可行，不过最后还要把几件事确认清楚。",
+      "pinyin": "Gāng cái de bàn fǎ jī běn kě xíng, bù guò zuì hòu hái yào bǎ jǐ jiàn shì què rèn qīng chǔ.",
+      "tr": "Az önceki yöntem genel olarak uygulanabilir; ama son olarak birkaç noktayı netleştirmeliyiz."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_077",
       "speaker": "张伟",
-      "zh": "这个安排比较实际。",
-      "pinyin": "Zhège ānpái bǐjiào shíjì.",
-      "tr": "Bu düzenleme oldukça uygulanabilir."
+      "zh": "说到升职，你怎么看？",
+      "pinyin": "Shuō dào shēng zhí, nǐ zěn me kàn?",
+      "tr": "terfi konusunda ne düşünüyorsun?"
     },
     {
       "id": "DLG_ZH_HSK3_SC037_078",
       "speaker": "经理",
-      "zh": "职业发展是这次要考虑的重点之一。",
-      "pinyin": "Zhíyè fāzhǎn shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-      "tr": "Kariyer gelişimi bu kez değerlendirmemiz gereken ana noktalardan biri."
+      "zh": "我觉得这一点现在已经比刚开始清楚多了。",
+      "pinyin": "Wǒ jué de zhè yì diǎn xiàn zài yǐ jīng bǐ gāng kāi shǐ qīng chǔ duō le.",
+      "tr": "Bence bu nokta başlangıca göre artık çok daha net."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_079",
       "speaker": "同事",
-      "zh": "我觉得可以接受。",
-      "pinyin": "Wǒ juéde kěyǐ jiēshòu.",
-      "tr": "Bence kabul edilebilir."
+      "zh": "对，先把需要做的事情分一下。",
+      "pinyin": "Duì, xiān bǎ xū yào zuò de shì qíng fēn yī xià.",
+      "tr": "Evet, önce yapılacak işleri paylaştıralım."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_080",
       "speaker": "刘梅",
-      "zh": "我们最好再确认一下责任。",
-      "pinyin": "Wǒmen zuìhǎo zài quèrèn yíxià zérèn.",
-      "tr": "Sorumluluk konusunu bir kez daha teyit etsek iyi olur."
+      "zh": "好，有变化就及时说。",
+      "pinyin": "Hǎo, yǒu biàn huà jiù jí shí shuō.",
+      "tr": "Tamam, değişiklik olursa hemen söyleyelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_081",
       "speaker": "张伟",
-      "zh": "这样的话就清楚多了。",
-      "pinyin": "Zhèyàng de huà jiù qīngchu duō le.",
-      "tr": "Böyle olunca çok daha net."
+      "zh": "我觉得职业发展这一点也不能忽略。",
+      "pinyin": "Wǒ jué de zhí yè fā zhǎn zhè yì diǎn yě bù néng hū lüè.",
+      "tr": "Bence kariyer gelişimi konusunu da göz ardı etmemeliyiz."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_082",
       "speaker": "经理",
-      "zh": "如果工作没有问题，我们就继续。",
-      "pinyin": "Rúguǒ gōngzuò méiyǒu wèntí, wǒmen jiù jìxù.",
-      "tr": "Iş konusunda sorun yoksa devam ederiz."
+      "zh": "这样安排以后，后面会顺利很多。",
+      "pinyin": "Zhè yàng ān pái yǐ hòu, hòu miàn huì shùn lì hěn duō.",
+      "tr": "Böyle düzenleyince sonrası çok daha sorunsuz ilerler."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_083",
       "speaker": "同事",
-      "zh": "对，我们继续看下一项。",
-      "pinyin": "Duì, wǒmen jìxù kàn xià yí xiàng.",
-      "tr": "Evet, sıradaki maddeye bakalım."
+      "zh": "我同意，不过还得留一点调整空间。",
+      "pinyin": "Wǒ tóng yì, bù guò hái dé liú yì diǎn tiáo zhěng kōng jiān.",
+      "tr": "Katılıyorum, ama biraz ayarlama payı bırakmak gerekiyor."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_084",
       "speaker": "刘梅",
-      "zh": "关于未来计划，我们还要再讨论一下。",
-      "pinyin": "Guānyú wèilái jìhuà, wǒmen hái yào zài tǎolùn yíxià.",
-      "tr": "Gelecek planı konusunda biraz daha konuşmalıyız."
+      "zh": "没问题，遇到情况再改。",
+      "pinyin": "Méi wèn tí, yù dào qíng kuàng zài gǎi.",
+      "tr": "Sorun değil, durum çıkarsa yeniden değiştiririz."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_085",
       "speaker": "张伟",
-      "zh": "这一点以后还会用到。",
-      "pinyin": "Zhè yìdiǎn yǐhòu hái huì yòngdào.",
-      "tr": "Bu nokta ileride yine işimize yarayacak."
+      "zh": "说到责任，你怎么看？",
+      "pinyin": "Shuō dào zé rèn, nǐ zěn me kàn?",
+      "tr": "sorumluluk konusunda ne düşünüyorsun?"
     },
     {
       "id": "DLG_ZH_HSK3_SC037_086",
       "speaker": "经理",
-      "zh": "这件事还要跟家人确认。",
-      "pinyin": "Zhè jiàn shì hái yào gēn jiārén quèrèn.",
-      "tr": "Bu konuyu aile ile de teyit etmek gerekiyor."
+      "zh": "我觉得这部分可以先按现在的想法来。",
+      "pinyin": "Wǒ jué de zhè bù fèn kě yǐ xiān àn xiàn zài de xiǎng fǎ lái.",
+      "tr": "Bence bu kısmı şimdilik mevcut fikrimize göre yapabiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_087",
       "speaker": "同事",
-      "zh": "这个安排比较实际。",
-      "pinyin": "Zhège ānpái bǐjiào shíjì.",
-      "tr": "Bu düzenleme oldukça uygulanabilir."
+      "zh": "那就先试，效果不好再调整。",
+      "pinyin": "Nà jiù xiān shì, xiào guǒ bù hǎo zài tiáo zhěng.",
+      "tr": "O zaman önce deneyelim; sonuç iyi olmazsa yeniden ayarlarız."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_088",
       "speaker": "刘梅",
-      "zh": "风险是这次要考虑的重点之一。",
-      "pinyin": "Fēngxiǎn shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-      "tr": "Risk bu kez değerlendirmemiz gereken ana noktalardan biri."
+      "zh": "好，我把这个也记下来。",
+      "pinyin": "Hǎo, wǒ bǎ zhè ge yě jì xià lái.",
+      "tr": "Tamam, bunu da not ediyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_089",
       "speaker": "张伟",
-      "zh": "我觉得可以接受。",
-      "pinyin": "Wǒ juéde kěyǐ jiēshòu.",
-      "tr": "Bence kabul edilebilir."
+      "zh": "我觉得工作这一点也不能忽略。",
+      "pinyin": "Wǒ jué de gōng zuò zhè yì diǎn yě bù néng hū lüè.",
+      "tr": "Bence iş konusunu da göz ardı etmemeliyiz."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_090",
       "speaker": "经理",
-      "zh": "我们最好再确认一下好处。",
-      "pinyin": "Wǒmen zuìhǎo zài quèrèn yíxià hǎochu.",
-      "tr": "Fayda konusunu bir kez daha teyit etsek iyi olur."
+      "zh": "现在主要问题已经基本说清楚了。",
+      "pinyin": "Xiàn zài zhǔ yào wèn tí yǐ jīng jī běn shuō qīng chǔ le.",
+      "tr": "Ana sorun artık büyük ölçüde netleşti."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_091",
       "speaker": "同事",
-      "zh": "这样的话就清楚多了。",
-      "pinyin": "Zhèyàng de huà jiù qīngchu duō le.",
-      "tr": "Böyle olunca çok daha net."
+      "zh": "试任期里如果工作量太大，随时告诉我，我们一起调整。",
+      "pinyin": "shì rèn qī lǐ rú guǒ gōng zuò liàng tài dà suí shí gào sù wǒ wǒ men yì qǐ tiáo zhěng",
+      "tr": "Deneme süresinde iş yükün çok artarsa söyle; birlikte yeniden düzenleriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_092",
       "speaker": "刘梅",
-      "zh": "如果升职没有问题，我们就继续。",
-      "pinyin": "Rúguǒ shēngzhí méiyǒu wèntí, wǒmen jiù jìxù.",
-      "tr": "Terfi konusunda sorun yoksa devam ederiz."
+      "zh": "今晚先和家人商量，明天再答复经理，这样就不着急了。",
+      "pinyin": "jīn wǎn xiān hé jiā rén shāng liáng míng tiān zài dá fù jīng lǐ zhè yàng jiù bù zháo jí le",
+      "tr": "Bu akşam ailenle konuşup yarın müdüre yanıt verirsin; acele etmen gerekmez."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_093",
       "speaker": "张伟",
-      "zh": "对，我们继续看下一项。",
-      "pinyin": "Duì, wǒmen jìxù kàn xià yí xiàng.",
-      "tr": "Evet, sıradaki maddeye bakalım."
+      "zh": "对，我想先认真考虑这次升职对工作和生活的影响。",
+      "pinyin": "duì wǒ xiǎng xiān rèn zhēn kǎo lǜ zhè cì shēng zhí duì gōng zuò hé shēng huó de yǐng xiǎng",
+      "tr": "Evet, bu terfinin işime ve yaşamıma etkisini iyice düşünmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_094",
       "speaker": "经理",
-      "zh": "关于职业发展，我们还要再讨论一下。",
-      "pinyin": "Guānyú zhíyè fāzhǎn, wǒmen hái yào zài tǎolùn yíxià.",
-      "tr": "Kariyer gelişimi konusunda biraz daha konuşmalıyız."
+      "zh": "当然可以。你考虑清楚以后告诉我，我们再谈具体的安排。",
+      "pinyin": "dāng rán kě yǐ nǐ kǎo lǜ qīng chǔ yǐ hòu gào sù wǒ wǒ men zài tán jù tǐ de ān pái",
+      "tr": "Elbette. Kararını netleştirince haber ver, sonra ayrıntıları konuşuruz."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_095",
       "speaker": "同事",
-      "zh": "现在主要问题已经解决了。",
-      "pinyin": "Xiànzài zhǔyào wèntí yǐjīng jiějué le.",
-      "tr": "Ana sorun artık çözüldü."
+      "zh": "如果你接受，我会把手上的项目资料整理好交给你。",
+      "pinyin": "rú guǒ nǐ jiē shòu wǒ huì bǎ shǒu shàng de xiàng mù zī liào zhěng lǐ hǎo jiāo gěi nǐ",
+      "tr": "Kabul edersen elimdeki proje dosyalarını düzenleyip sana devrederim."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_096",
       "speaker": "刘梅",
-      "zh": "剩下的按计划做就可以。",
-      "pinyin": "Shèngxià de àn jìhuà zuò jiù kěyǐ.",
-      "tr": "Kalanını plana göre yapmamız yeterli."
+      "zh": "新岗位是机会，但家人的时间也很重要，按你的节奏决定吧。",
+      "pinyin": "xīn gǎng wèi shì jī huì dàn jiā rén de shí jiān yě hěn zhòng yào àn nǐ de jié zòu jué dìng ba",
+      "tr": "Yeni görev bir fırsat; ama ailene ayıracağın zaman da önemli. Kendi temponla karar ver."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_097",
       "speaker": "张伟",
-      "zh": "今天的经验很有用。",
-      "pinyin": "Jīntiān de jīngyàn hěn yǒuyòng.",
-      "tr": "Bugünkü deneyim çok faydalı."
+      "zh": "谢谢你们把责任和工作安排说得这么清楚，我心里有数了。",
+      "pinyin": "xiè xiè nǐ men bǎ zé rèn hé gōng zuò ān pái shuō dé zhè me qīng chǔ wǒ xīn lǐ yǒu shù le",
+      "tr": "Sorumlulukları ve iş planını açıkça anlattığınız için teşekkürler; artık ne beklediğimi biliyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_098",
       "speaker": "经理",
-      "zh": "下次我们会准备得更好。",
-      "pinyin": "Xià cì wǒmen huì zhǔnbèi de gèng hǎo.",
-      "tr": "Bir dahaki sefere daha iyi hazırlanacağız."
+      "zh": "不客气。无论你怎么决定，团队都会尊重你的选择。",
+      "pinyin": "bú kè qì wú lùn nǐ zěn me jué dìng tuán duì dū huì zūn zhòng nǐ de xuǎn zé",
+      "tr": "Rica ederim. Nasıl karar verirsen ver, ekip seçimine saygı duyacak."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_099",
       "speaker": "同事",
-      "zh": "好，今天就先到这里。",
-      "pinyin": "Hǎo, jīntiān jiù xiān dào zhèlǐ.",
-      "tr": "Tamam, bugünlük burada bitirelim."
+      "zh": "那我先回去处理今天的工作，明天等你的消息。",
+      "pinyin": "nà wǒ xiān huí qù chù lǐ jīn tiān de gōng zuò míng tiān děng nǐ de xiāo xī",
+      "tr": "Ben bugünkü işlerime döneyim; yarın haberini beklerim."
     },
     {
       "id": "DLG_ZH_HSK3_SC037_100",
       "speaker": "刘梅",
-      "zh": "明天继续。",
-      "pinyin": "Míngtiān jìxù.",
-      "tr": "Yarın devam ederiz."
+      "zh": "先把未来计划想好，今晚好好休息，明天再做决定。",
+      "pinyin": "xiān bǎ wèi lái jì huà xiǎng hǎo jīn wǎn hǎo hǎo xiū xī míng tiān zài zuò jué dìng",
+      "tr": "Önce gelecek planını düşün; bu akşam dinlenip kararını yarın ver."
     }
   ],
   "productionStatus": "complete",

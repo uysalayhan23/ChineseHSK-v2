@@ -1,0 +1,712 @@
+{
+  "naturalizationVersion": 19,
+  "status": "FINAL_NATIVE_RELEASE_CANDIDATE_V19",
+  "sceneId": "ZH_HSK1_SC042",
+  "level": "HSK1",
+  "sceneCategory": "shopping",
+  "sourceTitleZh": "在宠物店买东西",
+  "sourceTitleTr": "Eczane/Pet Ürünü Alışverişi",
+  "sourceMiniAdventureTr": "Aile veterinerin önerdiği ürünü pet mağazasında arar.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK1_SC042_001",
+      "speaker": "刘梅",
+      "zh": "家里的猫粮快吃完了，我们来宠物店看看吧。",
+      "pinyin": "Jiālǐ de māo liángkuài chī wán le, wǒmen lái chǒngwùdiàn kànkàn ba.",
+      "tr": "Evdeki kedi maması bitmek üzere, pet mağazasına bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_002",
+      "speaker": "张伟",
+      "zh": "好，先买一小袋，让咪咪试试看。",
+      "pinyin": "Hǎo, xiānmǎi yī xiǎodài, ràng mīmī shìshìkàn.",
+      "tr": "Olur, önce küçük bir paket alıp Mimi’ye deneyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_003",
+      "speaker": "店员",
+      "zh": "欢迎光临，今天想买什么？",
+      "pinyin": "Huānyíngguānglín, jīntiān xiǎng mǎi shénme?",
+      "tr": "Hoş geldiniz, bugün ne almak istiyorsunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_004",
+      "speaker": "张乐乐",
+      "zh": "你好，我们想给猫买猫粮。",
+      "pinyin": "Nǐhǎo, wǒmen xiǎng gěi māo mǎi māo liáng.",
+      "tr": "Merhaba, kedimiz için kedi maması almak istiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_005",
+      "speaker": "刘梅",
+      "zh": "咪咪这两天吃得少，医生让我们换一种试试。",
+      "pinyin": "Mīmī zhè liǎngtiān chī dé shǎo, yīshēng ràng wǒmen huàn yīzhǒng shìshì.",
+      "tr": "Mimi son iki gündür az yiyor, doktor başka bir mama denememizi söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_006",
+      "speaker": "张伟",
+      "zh": "那先问问店员，哪一种适合她。",
+      "pinyin": "Nàxiān wènwèn diànyuán, nǎ yīzhǒng shìhé tā.",
+      "tr": "O zaman önce çalışana hangisinin ona uygun olduğunu soralım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_007",
+      "speaker": "店员",
+      "zh": "她以前喜欢什么味道？",
+      "pinyin": "Tā yǐqián xǐhuān shénme wèidào?",
+      "tr": "Daha önce hangi aromayı severdi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_008",
+      "speaker": "张乐乐",
+      "zh": "她很喜欢鸡肉味。",
+      "pinyin": "Tā hěn xǐhuān jīròu wèi.",
+      "tr": "Tavuk aromalısını çok sever."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_009",
+      "speaker": "刘梅",
+      "zh": "鸡肉味她以前吃得很好，今天却吃得少。",
+      "pinyin": "Jīròu wèi tā yǐqián chī dé hěn hǎo, jīntiān què chī dé shǎo.",
+      "tr": "Tavuk aromalısını severdi ama bugün az yedi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_010",
+      "speaker": "张伟",
+      "zh": "先别买太多，看看她现在喜不喜欢。",
+      "pinyin": "Xiānbié mǎi tài duō, kànkàn tā xiànzài xǐbùxǐhuān.",
+      "tr": "Fazla almayalım, şimdi sevip sevmediğine bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_011",
+      "speaker": "店员",
+      "zh": "这边有鸡肉味的小包装。",
+      "pinyin": "Zhèbiān yǒu jīròu wèi de xiǎobāozhuāng.",
+      "tr": "Burada tavuk aromalı küçük paket var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_012",
+      "speaker": "张乐乐",
+      "zh": "这袋看起来不大，我们看看上面写什么。",
+      "pinyin": "Zhèdài kànqǐlái bù dà, wǒmen kànkàn shàngmiàn xiě shénme.",
+      "tr": "Bu paket küçük görünüyor, üzerinde ne yazdığına bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_013",
+      "speaker": "刘梅",
+      "zh": "包装上写着一公斤。",
+      "pinyin": "Bāozhuāng shàng xiě zhe yī gōngjīn.",
+      "tr": "Paketin üzerinde bir kilo yazıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_014",
+      "speaker": "张伟",
+      "zh": "一公斤能吃几天？",
+      "pinyin": "Yī gōngjīn néng chī jǐtiān?",
+      "tr": "Bir kilo kaç gün yeter?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_015",
+      "speaker": "店员",
+      "zh": "要看她每天吃多少，先买小袋比较好。",
+      "pinyin": "Yào kàn tā měitiān chī duōshǎo, xiānmǎi xiǎodài bǐjiào hǎo.",
+      "tr": "Her gün ne kadar yediğine bağlı, önce küçük paket almak daha iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_016",
+      "speaker": "张乐乐",
+      "zh": "好，我们先拿这一袋。",
+      "pinyin": "Hǎo, wǒmen xiān ná zhè yīdài.",
+      "tr": "Olur, önce bunu alalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_017",
+      "speaker": "刘梅",
+      "zh": "这袋猫粮多少钱？",
+      "pinyin": "Zhèdài māo liáng duōshǎo qián?",
+      "tr": "Bu kedi maması ne kadar?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_018",
+      "speaker": "张伟",
+      "zh": "先看价钱，再决定买几袋。",
+      "pinyin": "Xiānkàn jiàqián, zài juédìng mǎi jǐdài.",
+      "tr": "Önce fiyatına bakalım, sonra kaç paket alacağımıza karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_019",
+      "speaker": "店员",
+      "zh": "一袋十元，两袋十八元。",
+      "pinyin": "Yīdài shíyuán, liǎngdài shíbāyuán.",
+      "tr": "Bir paket on yuan, iki paket on sekiz yuan."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_020",
+      "speaker": "张乐乐",
+      "zh": "我们只买一袋，免得她不喜欢。",
+      "pinyin": "Wǒmen zhǐ mǎi yīdài, miǎnde tā bù xǐhuān.",
+      "tr": "Sadece bir paket alalım, ya sevmezse."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_021",
+      "speaker": "刘梅",
+      "zh": "十元可以，今天就买一袋吧。",
+      "pinyin": "Shíyuán kěyǐ, jīntiān jiù mǎi yīdài ba.",
+      "tr": "On yuan uygun, bugün bir paket alalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_022",
+      "speaker": "张伟",
+      "zh": "对，少买一点儿更放心。",
+      "pinyin": "Duì, shǎomǎi yìdiǎnér gèng fàngxīn.",
+      "tr": "Evet, az almak daha güvenli."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_023",
+      "speaker": "店员",
+      "zh": "这袋有一公斤，够她先试几天。",
+      "pinyin": "Zhèdài yǒu yī gōngjīn, gòu tā xiānshì jǐtiān.",
+      "tr": "Bu paket bir kilo, birkaç gün denemesi için yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_024",
+      "speaker": "张乐乐",
+      "zh": "我记住了，一袋一公斤。",
+      "pinyin": "Wǒ jìzhù le, yīdài yī gōngjīn.",
+      "tr": "Aklımda, bir paket bir kilo."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_025",
+      "speaker": "刘梅",
+      "zh": "回家先给咪咪一点儿，不要倒太多。",
+      "pinyin": "Huíjiā xiāngěi mīmī yìdiǎnér, búyào dàotàiduō.",
+      "tr": "Eve gidince Mimi’ye biraz verelim, çok dökmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_026",
+      "speaker": "张伟",
+      "zh": "医生也说要少量给她试试。",
+      "pinyin": "Yīshēng yě shuō yào shǎoliàng gěi tā shìshì.",
+      "tr": "Doktor da az miktarda denememizi söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_027",
+      "speaker": "店员",
+      "zh": "早上和晚上各给一点儿就好。",
+      "pinyin": "Zǎoshàng hé wǎnshàng gègěi yìdiǎnér jiù hǎo.",
+      "tr": "Sabah ve akşam biraz vermeniz yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_028",
+      "speaker": "张乐乐",
+      "zh": "我来用小碗量，这样不会放多。",
+      "pinyin": "Wǒlái yòng xiǎowǎnliàng, zhèyàng búhuì fàngduō.",
+      "tr": "Küçük kâseyle ölçerim, böylece fazla koymam."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_029",
+      "speaker": "刘梅",
+      "zh": "她不吃的时候，要不要把猫粮放着？",
+      "pinyin": "Tā bùchī de shíhòu, yào búyào bǎ māo liángfàng zhe?",
+      "tr": "Yemek istemediğinde mamasını önünde bırakalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_030",
+      "speaker": "张伟",
+      "zh": "先别催她，让她自己闻一闻。",
+      "pinyin": "Xiānbié cuī tā, ràng tā zìjǐ wényīwén.",
+      "tr": "Önce zorlamayalım, koklamasına izin verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_031",
+      "speaker": "店员",
+      "zh": "放一会儿就好，不用一直留在那儿。",
+      "pinyin": "Fàng yīhuìer jiù hǎo, bùyòng yìzhí liúzài nàér.",
+      "tr": "Bir süre koymanız yeter, sürekli önünde kalmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_032",
+      "speaker": "张乐乐",
+      "zh": "我会看着她，吃得太快时就拿开。",
+      "pinyin": "Wǒhuì kànzhe tā, chī dé tàikuài shí jiù ná kāi.",
+      "tr": "Onu izlerim, çok hızlı yerse kaldırırım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_033",
+      "speaker": "刘梅",
+      "zh": "咪咪也喜欢喝水，家里已经有水碗。",
+      "pinyin": "Mīmī yě xǐhuān hēshuǐ, jiālǐ yǐjīng yǒushuǐwǎn.",
+      "tr": "Mimi su içmeyi de sever, evde su kabı var."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_034",
+      "speaker": "张伟",
+      "zh": "那就把水放在猫粮旁边。",
+      "pinyin": "Nà jiù bǎ shuǐ fàngzài māo liáng pángbiān.",
+      "tr": "O zaman suyu mamanın yanına koyun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_035",
+      "speaker": "店员",
+      "zh": "换猫粮的时候，也要给她干净的水。",
+      "pinyin": "Huànmāo liáng de shíhòu, yě yào gěi tā gānjìng de shuǐ.",
+      "tr": "Mamasını değiştirirken de temiz su vermek gerekir."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_036",
+      "speaker": "张乐乐",
+      "zh": "好，我回家就给她换水。",
+      "pinyin": "Hǎo, wǒ huíjiā jiù gěi tā huànshuǐ.",
+      "tr": "Olur, eve gidince suyunu tazelerim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_037",
+      "speaker": "刘梅",
+      "zh": "这袋没有开过，带回家就能给她吃。",
+      "pinyin": "Zhèdài méiyǒu kāi guò, dàihuíjiā jiù néng gěi tā chī.",
+      "tr": "Bu paket açılmamış, eve götürüp verebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_038",
+      "speaker": "张伟",
+      "zh": "我们再看一眼，确实是鸡肉味。",
+      "pinyin": "Wǒmen zài kàn yīyǎn, quèshí shì jīròu wèi.",
+      "tr": "Bir daha bakalım, gerçekten tavuk aromalı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_039",
+      "speaker": "店员",
+      "zh": "没错，名字和味道都写在这里。",
+      "pinyin": "Méicuò, míngzì hé wèidào dōu xiě zài zhèlǐ.",
+      "tr": "Evet, adı ve aroması burada yazıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_040",
+      "speaker": "张乐乐",
+      "zh": "就是这袋，我们找对了。",
+      "pinyin": "Jiùshì zhèdài, wǒmen zhǎo duì le.",
+      "tr": "Tam bu paket, doğru olanı bulduk."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_041",
+      "speaker": "刘梅",
+      "zh": "那我们就买这一袋，别的暂时不要。",
+      "pinyin": "Nà wǒmen jiù mǎi zhè yīdài, biéde zànshí búyào.",
+      "tr": "O zaman bu paketi alalım, şimdilik başka bir şey istemiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_042",
+      "speaker": "张伟",
+      "zh": "好，我拿着猫粮，你去付钱吧。",
+      "pinyin": "Hǎo, wǒ ná zhe māo liáng, nǐ qù fùqián ba.",
+      "tr": "Olur, mamayı ben tutayım, sen öde."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_043",
+      "speaker": "店员",
+      "zh": "一共十元，可以付现金，也可以用手机。",
+      "pinyin": "Yīgòng shíyuán, kěyǐ fùxiànjīn, yě kěyǐ yòng shǒujī.",
+      "tr": "Toplam on yuan, nakit ya da telefonla ödeyebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_044",
+      "speaker": "张乐乐",
+      "zh": "爸爸，你带的钱够吗？",
+      "pinyin": "Bàbà, nǐ dài de qiángòu ma?",
+      "tr": "Baba, yanındaki para yeter mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_045",
+      "speaker": "刘梅",
+      "zh": "我带了二十元，应该够付这袋猫粮。",
+      "pinyin": "Wǒ dài le èrshíyuán, yīnggāi gòufù zhèdài māo liáng.",
+      "tr": "Yanımda yirmi yuan var, bu mama için yeterli olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_046",
+      "speaker": "张伟",
+      "zh": "我把二十元给你，麻烦找一下钱。",
+      "pinyin": "Wǒ bǎ èrshíyuán gěi nǐ, máfán zhǎo yīxià qián.",
+      "tr": "Yirmi yuanı veriyorum, lütfen para üstünü hazırlayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_047",
+      "speaker": "店员",
+      "zh": "收您二十元，找您十元。",
+      "pinyin": "Shōu nín èrshíyuán, zhǎo nín shíyuán.",
+      "tr": "Yirmi yuan aldım, on yuan para üstünüz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_048",
+      "speaker": "张乐乐",
+      "zh": "我来数一下，十元，没错。",
+      "pinyin": "Wǒlái shùyīxià, shíyuán, méicuò.",
+      "tr": "Ben sayayım, on yuan, doğru."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_049",
+      "speaker": "刘梅",
+      "zh": "谢谢，小票我放进包里。",
+      "pinyin": "Xièxiè, xiǎopiào wǒ fàngjìn bāo lǐ.",
+      "tr": "Teşekkürler, fişi çantama koyuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_050",
+      "speaker": "张伟",
+      "zh": "回家以后还能看看价钱。",
+      "pinyin": "Huíjiā yǐhòu hái néng kànkàn jiàqián.",
+      "tr": "Eve gidince fiyata tekrar bakabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_051",
+      "speaker": "店员",
+      "zh": "对，有问题就拿小票来商店问我。",
+      "pinyin": "Duì, yǒu wèntí jiù ná xiǎopiào lái shāngdiàn wèn wǒ.",
+      "tr": "Evet, sorun olursa fişle mağazaya gelip bana sorun."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_052",
+      "speaker": "张乐乐",
+      "zh": "我会收好，明天再告诉爸爸她吃没吃。",
+      "pinyin": "Wǒhuì shōu hǎo, míngtiān zài gàosù bàbà tā chī méi chī.",
+      "tr": "Fişi saklayıp yarın babama yiyip yemediğini söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_053",
+      "speaker": "刘梅",
+      "zh": "猫粮拿好了，要不要给你们一个袋子？",
+      "pinyin": "Māo liáng ná hǎo le, yào búyào gěi nǐmen yígè dàizi?",
+      "tr": "Mamanız hazır, size poşet vereyim mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_054",
+      "speaker": "张伟",
+      "zh": "要一个小袋子就行，谢谢。",
+      "pinyin": "Yào yígè xiǎo dàizi jiùxíng, xièxiè.",
+      "tr": "Küçük bir poşet yeter, teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_055",
+      "speaker": "店员",
+      "zh": "给你们，放进去刚好。",
+      "pinyin": "Gěi nǐmen, fàngjìnqù gānghǎo.",
+      "tr": "Buyurun, içine tam sığar."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_056",
+      "speaker": "张乐乐",
+      "zh": "我可以拿着，袋子一点儿也不重。",
+      "pinyin": "Wǒ kěyǐ ná zhe, dàizi yìdiǎnér yě bùzhòng.",
+      "tr": "Ben taşıyabilirim, poşet hiç ağır değil."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_057",
+      "speaker": "刘梅",
+      "zh": "拿稳一点儿，别让猫粮掉出来。",
+      "pinyin": "Náwěn yìdiǎnér, bié ràng māo liángdiào chūlái.",
+      "tr": "Dikkatli tut, mama dökülmesin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_058",
+      "speaker": "张伟",
+      "zh": "我拿好了，回家就放进柜子。",
+      "pinyin": "Wǒ ná hǎo le, huíjiā jiù fàngjìn guìzi.",
+      "tr": "Tuttum, eve gidince dolaba koyarım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_059",
+      "speaker": "店员",
+      "zh": "猫粮要放在干燥的地方，别弄湿。",
+      "pinyin": "Māo liángyào fàngzài gānzào de dìfāng, bié nòngshī.",
+      "tr": "Mamayı kuru bir yerde tutun, ıslanmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_060",
+      "speaker": "张乐乐",
+      "zh": "知道了，我会放好。",
+      "pinyin": "Zhīdào le, wǒhuì fàng hǎo.",
+      "tr": "Anladım, iyi saklarım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_061",
+      "speaker": "刘梅",
+      "zh": "家里的旧猫粮还有一点儿，先吃完再换。",
+      "pinyin": "Jiālǐ de jiù māo liáng háiyǒu yìdiǎnér, xiān chī wán zài huàn.",
+      "tr": "Evdeki eski mamadan biraz var, önce onu bitirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_062",
+      "speaker": "张伟",
+      "zh": "对，不要一下把两种都给她。",
+      "pinyin": "Duì, búyào yīxià bǎ liǎngzhǒng dōu gěi tā.",
+      "tr": "Evet, iki mamayı birden vermeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_063",
+      "speaker": "店员",
+      "zh": "换猫粮可以慢慢来，每次少加一点儿新的。",
+      "pinyin": "Huànmāo liáng kěyǐ mànmànlái, měicì shǎojiā yìdiǎnér xīn de.",
+      "tr": "Mama değişimini yavaş yapın, her seferinde biraz yeni mama ekleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_064",
+      "speaker": "张乐乐",
+      "zh": "我每天看她吃了多少，再告诉妈妈。",
+      "pinyin": "Wǒ měitiān kàn tā chī le duōshǎo, zài gàosù māmā.",
+      "tr": "Her gün ne kadar yediğine bakıp anneme söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_065",
+      "speaker": "刘梅",
+      "zh": "要是她不喜欢这个味道，可以换吗？",
+      "pinyin": "Yàoshì tā bù xǐhuān zhège wèidào, kěyǐ huàn ma?",
+      "tr": "Bu aromayı sevmezse değiştirebilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_066",
+      "speaker": "张伟",
+      "zh": "先别打开包装，我们可以问问店员。",
+      "pinyin": "Xiān bié dǎkāi bāozhuāng, wǒmen kěyǐ wènwèn diànyuán.",
+      "tr": "Önce paketi açmayalım, çalışana soralım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_067",
+      "speaker": "店员",
+      "zh": "小袋还没开的话，可以拿小票来商店换。",
+      "pinyin": "Xiǎodài hái méikāi dehuà, kěyǐ ná xiǎopiào lái shāngdiàn huàn.",
+      "tr": "Küçük paket açılmadıysa fişle mağazaya gelip değiştirebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_068",
+      "speaker": "张乐乐",
+      "zh": "那我先不拆，等她闻过再说。",
+      "pinyin": "Nà wǒ xiān bù chāi, děng tā wénguò zàishuō.",
+      "tr": "O zaman açmayalım, o kokladıktan sonra karar veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_069",
+      "speaker": "刘梅",
+      "zh": "你们住得远吗？这袋拿着方便吗？",
+      "pinyin": "Nǐmen zhù dé yuǎn ma? zhèdài ná zhe fāngbiàn ma?",
+      "tr": "Uzakta mı oturuyorsunuz, bu paketi taşımak kolay mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_070",
+      "speaker": "张伟",
+      "zh": "不远，走几分钟就到家。",
+      "pinyin": "Bùyuǎn, zǒu jǐfēnzhōng jiù dào jiā.",
+      "tr": "Uzak değil, birkaç dakikada eve varırız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_071",
+      "speaker": "店员",
+      "zh": "那小袋正合适，不用拿大包。",
+      "pinyin": "Nà xiǎodài zhènghéshì, bùyòng ná dàbāo.",
+      "tr": "O zaman küçük paket uygun, büyüğünü taşımaya gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_072",
+      "speaker": "张乐乐",
+      "zh": "是啊，我拿着一点儿也不累。",
+      "pinyin": "Shì a, wǒ ná zhe yìdiǎnér yě bùlèi.",
+      "tr": "Evet, taşırken hiç yorulmuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_073",
+      "speaker": "刘梅",
+      "zh": "今天买东西很快就买好了。",
+      "pinyin": "Jīntiān mǎi dōngxī hěnkuài jiù mǎihǎo le.",
+      "tr": "Bugün alışverişimizi çabucak bitirdik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_074",
+      "speaker": "张伟",
+      "zh": "因为我们先想好了要买猫粮。",
+      "pinyin": "Yīnwèi wǒmen xiānxiǎng hǎo le yào mǎi māo liáng.",
+      "tr": "Çünkü kedi maması alacağımıza önceden karar vermiştik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_075",
+      "speaker": "店员",
+      "zh": "下次需要猫粮，欢迎再来宠物店。",
+      "pinyin": "Xiàcì xūyào māo liáng, huānyíng zài lái chǒngwùdiàn.",
+      "tr": "Bir dahaki sefere mama gerekirse pet mağazasına yine bekleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_076",
+      "speaker": "张乐乐",
+      "zh": "谢谢，我会告诉妈妈买的是鸡肉味。",
+      "pinyin": "Xièxiè, wǒhuì gàosù māmā mǎi de shì jīròu wèi.",
+      "tr": "Teşekkürler, anneme tavuk aromalısını aldığımızı söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_077",
+      "speaker": "刘梅",
+      "zh": "她要是喜欢，下次我们可以买两袋。",
+      "pinyin": "Tā yàoshì xǐhuān, xiàcì wǒmen kěyǐ mǎi liǎngdài.",
+      "tr": "Severse bir dahaki sefere iki paket alabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_078",
+      "speaker": "张伟",
+      "zh": "先看看她吃不吃，不用急着买多。",
+      "pinyin": "Xiān kànkàn tā chī bùchī, bùyòng jí zhe mǎi duō.",
+      "tr": "Önce yiyip yemediğine bakalım, çok almaya acele etmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_079",
+      "speaker": "店员",
+      "zh": "这样做比较好，换猫粮不要太快。",
+      "pinyin": "Zhèyàng zuò bǐjiào hǎo, huànmāo liáng búyào tàikuài.",
+      "tr": "Bu daha iyi olur, mamasını çok hızlı değiştirmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_080",
+      "speaker": "张乐乐",
+      "zh": "我也想等她试过以后再决定。",
+      "pinyin": "Wǒ yě xiǎng děng tā shìguò yǐhòu zài juédìng.",
+      "tr": "Ben de denedikten sonra karar vermek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_081",
+      "speaker": "刘梅",
+      "zh": "我们还需要别的东西吗？",
+      "pinyin": "Wǒmen hái xūyào biéde dōngxī ma?",
+      "tr": "Başka bir şeye ihtiyacımız var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_082",
+      "speaker": "张伟",
+      "zh": "不用，今天只来买猫粮。",
+      "pinyin": "Bùyòng, jīntiān zhǐlái mǎi māo liáng.",
+      "tr": "Gerek yok, bugün sadece mama almaya geldik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_083",
+      "speaker": "店员",
+      "zh": "那我把柜台收好，谢谢你们来。",
+      "pinyin": "Nà wǒ bǎ guìtái shōu hǎo, xièxiènǐmen lái.",
+      "tr": "O zaman kasayı toparlayayım, geldiğiniz için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_084",
+      "speaker": "张乐乐",
+      "zh": "谢谢你告诉我们怎么喂她。",
+      "pinyin": "Xièxiè nǐ gàosù wǒmen zěnme wèi tā.",
+      "tr": "Onu nasıl besleyeceğimizi anlattığınız için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_085",
+      "speaker": "刘梅",
+      "zh": "记得每天给她换干净的水。",
+      "pinyin": "Jìde měitiān gěi tā huàn gānjìng de shuǐ.",
+      "tr": "Her gün suyunu tazelemeyi unutmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_086",
+      "speaker": "张伟",
+      "zh": "我们会记住，也会看她吃得怎么样。",
+      "pinyin": "Wǒmen huì jìzhù, yě huì kàn tā chī dé zěnmeyàng.",
+      "tr": "Aklımızda tutar, nasıl yediğine de bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_087",
+      "speaker": "店员",
+      "zh": "有问题可以打电话，也可以再来商店。",
+      "pinyin": "Yǒu wèntí kěyǐ dǎdiànhuà, yě kěyǐ zài lái shāngdiàn.",
+      "tr": "Bir sorun olursa arayabilir ya da mağazaya tekrar gelebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_088",
+      "speaker": "张乐乐",
+      "zh": "好，我们先回家给咪咪试试。",
+      "pinyin": "Hǎo, wǒmen xiān huíjiā gěi mīmī shìshì.",
+      "tr": "Olur, önce eve gidip Mimi’ye deneyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_089",
+      "speaker": "刘梅",
+      "zh": "袋子我拿着，小票在爸爸那里。",
+      "pinyin": "Dàizi wǒ ná zhe, xiǎopiào zài bàbà nàlǐ.",
+      "tr": "Poşet bende, fiş babamda."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_090",
+      "speaker": "张伟",
+      "zh": "钱已经付了，东西也都拿好了。",
+      "pinyin": "Qián yǐjīng fù le, dōngxī yě dōu ná hǎo le.",
+      "tr": "Parayı ödedik, her şeyi aldık."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_091",
+      "speaker": "店员",
+      "zh": "还有什么想问的吗？",
+      "pinyin": "Háiyǒu shénme xiǎng wèn de ma?",
+      "tr": "Başka sormak istediğiniz bir şey var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_092",
+      "speaker": "张乐乐",
+      "zh": "没有了，我们知道怎么喂咪咪了。",
+      "pinyin": "Méiyǒu le, wǒmen zhīdào zěnme wèi mīmī le.",
+      "tr": "Başka yok, Mimi’yi nasıl besleyeceğimizi öğrendik."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_093",
+      "speaker": "刘梅",
+      "zh": "我会先给她一点儿，看看她吃不吃。",
+      "pinyin": "Wǒhuì xiāngěi tā yìdiǎnér, kànkàn tā chī bùchī.",
+      "tr": "Önce ona biraz verip yiyip yemediğine bakacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_094",
+      "speaker": "张伟",
+      "zh": "如果她喜欢，我们下次再来买。",
+      "pinyin": "Rúguǒ tā xǐhuān, wǒmen xiàcì zàilái mǎi.",
+      "tr": "Severse bir dahaki sefere tekrar alırız."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_095",
+      "speaker": "店员",
+      "zh": "欢迎再来，记得把小票收好。",
+      "pinyin": "Huānyíng zài lái, jìde bǎ xiǎopiào shōu hǎo.",
+      "tr": "Tekrar bekleriz, fişi saklamayı unutmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_096",
+      "speaker": "张乐乐",
+      "zh": "好，我会把小票放进包里。",
+      "pinyin": "Hǎo, wǒhuì bǎ xiǎopiào fàngjìn bāo lǐ.",
+      "tr": "Olur, fişi çantama koyarım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_097",
+      "speaker": "刘梅",
+      "zh": "咪咪还在家等我们，我想看看她喜不喜欢。",
+      "pinyin": "Mīmī hái zàijiā děng wǒmen, wǒ xiǎng kànkàn tā xǐbùxǐhuān.",
+      "tr": "Mimi evde bizi bekliyor, sevip sevmediğini merak ediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_098",
+      "speaker": "张伟",
+      "zh": "回家后让她先闻一闻，再放一点儿在碗里。",
+      "pinyin": "Huíjiā hòu ràng tā xiān wényīwén, zàifàng yìdiǎnér zài wǎn lǐ.",
+      "tr": "Eve gidince önce koklasın, sonra kâsesine biraz koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_099",
+      "speaker": "店员",
+      "zh": "今天谢谢你们来宠物店。",
+      "pinyin": "Jīntiān xièxiènǐmen lái chǒngwùdiàn.",
+      "tr": "Bugün pet mağazamıza geldiğiniz için teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK1_SC042_100",
+      "speaker": "张乐乐",
+      "zh": "再见，我会告诉你咪咪吃了多少。",
+      "pinyin": "Zàijiàn, wǒhuì gàosù nǐ mīmī chī le duōshǎo.",
+      "tr": "Hoşça kalın, Mimi’nin ne kadar yediğini size söylerim."
+    }
+  ]
+}

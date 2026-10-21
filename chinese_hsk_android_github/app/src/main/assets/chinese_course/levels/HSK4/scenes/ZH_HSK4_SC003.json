@@ -18,9 +18,9 @@
     {
       "id": "DLG_ZH_HSK4_SC003_002",
       "speaker": "刘梅",
-      "zh": "先从家庭照片说起吧。",
-      "pinyin": "Xiān cóng jiātíng zhàopiān shuōqǐ ba.",
-      "tr": "Bugün önce aile fotoğrafı hakkında konuşalım."
+      "zh": "好，家庭照片里的家人，也能帮我们想起信上的故事。",
+      "pinyin": "Hǎo, jiātíng zhàopiān lǐ de jiārén, yě néng bāng wǒmen xiǎngqǐ xìnshàng de gùshì.",
+      "tr": "Olur; aile fotoğraflarındaki kişiler de mektuptaki hikâyeleri hatırlamamıza yardım eder."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_003",
@@ -60,30 +60,30 @@
     {
       "id": "DLG_ZH_HSK4_SC003_008",
       "speaker": "奶奶",
-      "zh": "这一点我同意。",
-      "pinyin": "Zhè yìdiǎn wǒ tóngyì.",
-      "tr": "Bu noktaya katılıyorum."
+      "zh": "信里的称呼很熟悉，读起来就像回到了从前。",
+      "pinyin": "Xìnlǐ de chēnghū hěn shúxī, dú qǐlái jiù xiàng huídào le cóngqián.",
+      "tr": "Mektuptaki hitaplar çok tanıdık; okuyunca insan geçmişe dönmüş gibi oluyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_009",
       "speaker": "张伟",
-      "zh": "家庭照片也是关键的一点。",
-      "pinyin": "Jiātíng zhàopiān yě shì guānjiàn de yìdiǎn.",
-      "tr": "Aile fotoğrafı göz ardı edemeyeceğimiz bir nokta."
+      "zh": "照片也很重要，一看就能想起当时大家在一起的日子。",
+      "pinyin": "Zhàopiān yě hěn zhòngyào, yīkàn jiù néng xiǎngqǐ dāngshí dàjiā zài yìqǐ de rìzi.",
+      "tr": "Fotoğraflar da çok önemli; onlara bakınca hepimizin birlikte olduğu günler aklıma geliyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_010",
       "speaker": "刘梅",
-      "zh": "先确认我们已经知道什么，再说还缺什么信息。",
-      "pinyin": "Xiān quèrèn wǒmen yǐjīng zhīdào shénme, zàishuō hái quēshénme xìnxī.",
-      "tr": "Önce ne bildiğimizi netleştirelim, sonra hangi bilginin eksik olduğunu konuşalım."
+      "zh": "那我们把信和照片放在一起，再把背后的日期记下来吧。",
+      "pinyin": "Nà wǒmen bǎ xìn hé zhàopiān fàngzài yìqǐ, zài bǎ bèihòu de rìqī jìxiàlái ba.",
+      "tr": "O hâlde mektubu fotoğraflarla birlikte koyalım, arkasındaki tarihleri de not edelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_011",
       "speaker": "爷爷",
-      "zh": "那再把往事这一点加上。",
-      "pinyin": "Nà zài bǎ wǎngshì zhè yìdiǎn jiāshàng.",
-      "tr": "Geçmiş anılar konusunu da değerlendirme kapsamına alalım."
+      "zh": "这些旧物背后的往事，我们也一起整理下来。",
+      "pinyin": "Zhèxiē jiùwù bèihòu de wǎngshì, wǒmen yě yìqǐ zhěnglǐ xiàlái.",
+      "tr": "Bu eski eşyaların ardındaki anıları da birlikte kayda geçirelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_012",
@@ -95,16 +95,16 @@
     {
       "id": "DLG_ZH_HSK4_SC003_013",
       "speaker": "张伟",
-      "zh": "传统要是有新变化，我们就得重新安排。",
-      "pinyin": "Chuántǒng yàoshì yǒu xīn biànhuà, wǒmen jiù dé chóngxīnānpái.",
-      "tr": "Gelenek değişirse planı da ayarlamak gerekir."
+      "zh": "家里的传统会随着生活改变，重要的部分可以继续留下来。",
+      "pinyin": "Jiālǐ de chuántǒng huì suízhe shēnghuó gǎibiàn, zhòngyào de bùfèn kěyǐ jìxù liúxiàlái.",
+      "tr": "Aile gelenekleri yaşamla birlikte değişir; önemli kısımlarını sürdürmeye devam edebiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_014",
       "speaker": "刘梅",
-      "zh": "这样更符合实际。",
-      "pinyin": "Zhèyàng gèng fúhéshíjì.",
-      "tr": "Kulağa oldukça mantıklı geliyor."
+      "zh": "这样既能保存回忆，也不会让旧物占满家里的空间。",
+      "pinyin": "Zhèyàng jì néng bǎocún huíyì, yě búhuì ràng jiùwù zhàn mǎn jiālǐ de kōngjiān.",
+      "tr": "Böylece anıları saklayabiliriz ama eski eşyaların evi doldurmasına da izin vermeyiz."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_015",
@@ -137,9 +137,9 @@
     {
       "id": "DLG_ZH_HSK4_SC003_019",
       "speaker": "爷爷",
-      "zh": "我们把记得也算进去。",
-      "pinyin": "Wǒmen bǎ jìde yě suànjìnqù.",
-      "tr": "Hatırlamak konusunu da değerlendirme kapsamına alalım."
+      "zh": "我记得那时全家每到节日都会一起拍照。",
+      "pinyin": "Wǒ jìde nàshí quánjiā měidào jiérì dōu huì yìqǐ pāizhào.",
+      "tr": "O zamanlar her bayramda bütün ailenin birlikte fotoğraf çektirdiğini hatırlıyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_020",
@@ -151,9 +151,9 @@
     {
       "id": "DLG_ZH_HSK4_SC003_021",
       "speaker": "张伟",
-      "zh": "情绪要是有新变化，我们就得重新安排。",
-      "pinyin": "Qíngxù yàoshì yǒu xīn biànhuà, wǒmen jiù dé chóngxīnānpái.",
-      "tr": "Duygusal durum değişirse planı da ayarlamak gerekir."
+      "zh": "看到这些照片，我才发现家里的变化比我想的还多。",
+      "pinyin": "Kàndào zhèxiē zhàopiān, wǒ cái fāxiàn jiālǐ de biànhuà bǐ wǒ xiǎng de hái duō.",
+      "tr": "Bu fotoğrafları görünce ailemizde düşündüğümden çok daha fazla şeyin değiştiğini fark ettim."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_022",
@@ -480,9 +480,9 @@
     {
       "id": "DLG_ZH_HSK4_SC003_068",
       "speaker": "奶奶",
-      "zh": "现实安排可以慢慢定，先听清楚彼此真正担心什么。",
-      "pinyin": "Xiànshí ānpái kěyǐ mànmàn dìng, xiān tīng qīngchǔ bǐcǐ zhēnzhèng dānxīn shénme.",
-      "tr": "Pratik düzenlemeler zamanla kararlaştırılabilir; önce birbirimizin gerçekten neden kaygılandığını anlayalım."
+      "zh": "现在我更明白你们为什么不想马上搬家了。",
+      "pinyin": "Xiàn zài wǒ gèng míng bái nǐ men wèi shén me bù xiǎng mǎ shàng bān jiā le.",
+      "tr": "Şimdi neden hemen taşınmak istemediğinizi daha iyi anlıyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_069",
@@ -557,37 +557,37 @@
     {
       "id": "DLG_ZH_HSK4_SC003_079",
       "speaker": "爷爷",
-      "zh": "这件事不只是安排问题，也跟每个人的感受有关。",
-      "pinyin": "Zhèjiàn shì bù zhǐshì ānpái wèntí, yě gēn měigè rén de gǎnshòu yǒuguān.",
-      "tr": "Bu yalnızca bir düzenleme meselesi değil; herkesin duygularıyla da ilgili."
+      "zh": "这封信让我想起了以前一家人聚在一起的日子。",
+      "pinyin": "Zhè fēng xìn ràng wǒ xiǎng qǐ le yǐ qián yī jiā rén jù zài yì qǐ de rì zi.",
+      "tr": "Bu mektup bana eskiden hep birlikte toplandığımız günleri hatırlattı."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_080",
       "speaker": "奶奶",
-      "zh": "家庭照片要是有新变化，我们就得重新安排。",
-      "pinyin": "Jiātíng zhàopiān yàoshì yǒu xīn biànhuà, wǒmen jiù dé chóngxīnānpái.",
-      "tr": "Aile fotoğrafı değişirse planı da ayarlamak gerekir."
+      "zh": "有些照片已经褪色了，我们可以先扫描保存，再挑几张放进相册。",
+      "pinyin": "Yǒuxiē zhàopiān yǐjīng tuìshǎi le, wǒmen kěyǐ xiān sǎomiáo bǎocún, zài tiāo jǐzhāng fàngjìn xiàngcè.",
+      "tr": "Bazı fotoğraflar solmuş; önce tarayıp saklayabilir, sonra birkaçını albüme koyabiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_081",
       "speaker": "张伟",
-      "zh": "我希望我们最后记住的，不是谁说服了谁，而是大家都认真听过彼此。",
-      "pinyin": "Wǒ xīwàng wǒmen zuìhòu jìzhù de, búshì shuí shuōfú le shuí, érshì dàjiā dōu rènzhēn tīngguò bǐcǐ.",
-      "tr": "Sonunda hatırladığımız şeyin kimin kimi ikna ettiği değil, herkesin birbirini gerçekten dinlemiş olması olmasını istiyorum."
+      "zh": "我会把这些故事讲给乐乐和雨桐听，让他们也了解家里的过去。",
+      "pinyin": "Wǒ huì bǎ zhè xiē gù shì jiǎng gěi lè lè hé yǔ tóng tīng, ràng tā men yě liǎo jiě jiā lǐ de guò qù.",
+      "tr": "Bu hikâyeleri Lele ve Yutong’a anlatıp ailemizin geçmişini tanımalarını sağlayacağım."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_082",
       "speaker": "刘梅",
-      "zh": "说到往事，大家最在意的是什么？",
-      "pinyin": "Shuō dào wǎngshì, dàjiā zuì zàiyì de shì shénme?",
-      "tr": "Geçmiş anılar konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "说到这些旧事，你们最想先记下哪一段？",
+      "pinyin": "Shuō dào zhèxiē jiùshì, nǐmen zuìxiǎng xiān jìxià nǎ yīduàn?",
+      "tr": "Bu eski anılardan hangisini önce yazmak istersiniz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC003_083",
       "speaker": "爷爷",
-      "zh": "这一条先记下来。",
-      "pinyin": "Zhè yītiáo xiān jìxiàlái.",
-      "tr": "Bu noktayı not edeyim."
+      "zh": "我和奶奶年轻时的故事，也该写下来给孩子们看看。",
+      "pinyin": "Wǒ hé nǎinǎi niánqīng shí de gùshì, yě gāi xiě xiàlái gěi háizi men kànkàn.",
+      "tr": "Ninenizle gençken yaşadığımız hikâyeleri de çocukların okuması için yazmalıyız."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_084",
@@ -620,9 +620,9 @@
     {
       "id": "DLG_ZH_HSK4_SC003_088",
       "speaker": "奶奶",
-      "zh": "以前要是有新变化，我们就得重新安排。",
-      "pinyin": "Yǐqián yàoshì yǒu xīn biànhuà, wǒmen jiù dé chóngxīnānpái.",
-      "tr": "Önceden değişirse planı da ayarlamak gerekir."
+      "zh": "我们可以保留重要的回忆，也可以接受生活已经变了。",
+      "pinyin": "Wǒmen kěyǐ bǎoliú zhòngyào de huíyì, yě kěyǐ jiēshòu shēnghuó yǐjīng biàn le.",
+      "tr": "Önemli anıları saklayabilir, hayatın değiştiğini de kabullenebiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_089",
@@ -662,9 +662,9 @@
     {
       "id": "DLG_ZH_HSK4_SC003_094",
       "speaker": "刘梅",
-      "zh": "那再把旧信这一点加上。",
-      "pinyin": "Nà zài bǎ jiùxìn zhè yìdiǎn jiāshàng.",
-      "tr": "Eski mektup konusunu da değerlendirme kapsamına alalım."
+      "zh": "这封旧信先收好，等我们把照片整理完，再一起看看。",
+      "pinyin": "Zhèfēng jiùxìn xiānshōu hǎo, děng wǒmen bǎ zhàopiān zhěnglǐ wán, zài yìqǐ kànkàn.",
+      "tr": "Bu eski mektubu şimdilik saklayalım; fotoğrafları ayıklayınca birlikte yeniden bakarız."
     },
     {
       "id": "DLG_ZH_HSK4_SC003_095",

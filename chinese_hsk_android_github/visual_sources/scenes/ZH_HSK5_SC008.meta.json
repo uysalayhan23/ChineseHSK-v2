@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC008.json",
-  "dialogueSha256": "36736c746e260b91f32690169dfede87fc92c9ca66c2367a3b9a1989442b327f",
+  "dialogueSha256": "00eaee7e831d302e6d57df96463ffe5c0fe8dda60986fb2d878eacd26648dbcf",
   "titleZh": "项目延期了",
   "titleTr": "Projede Gecikme",
   "locationId": "LOC_ZH_CONFERENCE_ROOM_001",

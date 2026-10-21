@@ -1,0 +1,711 @@
+{
+  "naturalizationVersion": 2,
+  "status": "NATURALIZED_REVIEWED",
+  "sceneId": "ZH_HSK5_SC046",
+  "level": "HSK5",
+  "sourceTitleZh": "张伟最后的大项目成功了",
+  "sourceTitleTr": "Zhang’ın İşte Son Büyük Başarısı",
+  "sourceMiniAdventureTr": "Zhang’ın uzun süredir yönettiği proje başarıyla tamamlanır.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK5_SC046_001",
+      "speaker": "张伟",
+      "zh": "终于把这个项目做完了。回头看，最难的是中间那几次调整。",
+      "pinyin": "zhōng yú bǎ zhè ge xiàng mù zuò wán le 。 huí tóu kàn ， zuì nán de shì zhōng jiān nà jǐ cì tiáo zhěng 。",
+      "tr": "Sonunda bu projeyi tamamladık. Geriye bakınca en zoru birkaç ara düzenlemeydi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_002",
+      "speaker": "经理",
+      "zh": "你们没有急着交差，而是根据实际反馈一步一步改，这一点很难得。",
+      "pinyin": "nǐ men méi yǒu jí zhe jiāo chāi ， ér shì gēn jù shí jì fǎn kuì yí bù yí bù gǎi ， zhè yì diǎn hěn nán dé 。",
+      "tr": "Sırf teslim etmek için acele etmediniz; gerçek geri bildirimlere göre adım adım düzenlediniz, bu çok değerli."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_003",
+      "speaker": "同事",
+      "zh": "最后的版本比最初的方案清楚多了，客户也知道怎么用了。",
+      "pinyin": "zuì hòu de bǎn běn bǐ zuì chū de fāng àn qīng chǔ duō le ， kè hù yě zhī dào zěn me yòng le 。",
+      "tr": "Son sürüm ilk plandan çok daha anlaşılır oldu; müşteriler artık nasıl kullanacaklarını biliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_004",
+      "speaker": "刘梅",
+      "zh": "看到你们一起庆祝，我也替你高兴。你为这件事花了不少心思。",
+      "pinyin": "kàn dào nǐ men yì qǐ qìng zhù ， wǒ yě tì nǐ gāo xìng 。 nǐ wèi zhè jiàn shì huā le bù shǎo xīn sī 。",
+      "tr": "Hepinizin birlikte kutladığını görmek beni de sevindirdi. Bu iş için çok emek verdin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_005",
+      "speaker": "张伟",
+      "zh": "我最担心的是时间不够，没想到团队愿意一起把细节补好。",
+      "pinyin": "wǒ zuì dān xīn de shì shí jiān bù gòu ， méi xiǎng dào tuán duì yuàn yì yì qǐ bǎ xì jié bǔ hǎo 。",
+      "tr": "En çok zamanın yetmemesinden kaygılanıyordum; ekibin ayrıntıları birlikte tamamlamaya istekli olacağını düşünmemiştim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_006",
+      "speaker": "经理",
+      "zh": "项目能成功，靠的不只是一个好主意，还靠大家愿意互相配合。",
+      "pinyin": "xiàng mù néng chéng gōng ， kào de bù zhǐ shì yí gè hǎo zhǔ yì ， hái kào dà jiā yuàn yì hù xiāng pèi hé 。",
+      "tr": "Projenin başarısı yalnızca iyi bir fikre değil, herkesin iş birliği yapmasına da bağlı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_007",
+      "speaker": "同事",
+      "zh": "测试时发现的问题，你都认真记下来了，所以后面的修改很有方向。",
+      "pinyin": "cè shì shí fā xiàn de wèn tí ， nǐ dōu rèn zhēn jì xià lái le ， suǒ yǐ hòu miàn de xiū gǎi hěn yǒu fāng xiàng 。",
+      "tr": "Denemelerde çıkan sorunları dikkatle kaydettin; bu yüzden sonraki düzenlemeler belirli bir hedefe yönelikti."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_008",
+      "speaker": "刘梅",
+      "zh": "你现在最想先做什么？先休息一下，还是马上想下一个目标？",
+      "pinyin": "nǐ xiàn zài zuì xiǎng xiān zuò shén me ？ xiān xiū xī yī xià ， hái shì mǎ shàng xiǎng xià yí gè mù biāo ？",
+      "tr": "Şimdi önce ne yapmak istiyorsun? Biraz dinlenmek mi, yoksa hemen yeni bir hedef düşünmek mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_009",
+      "speaker": "张伟",
+      "zh": "先把资料整理好，再好好休息。过几天我想把经验分享给新人。",
+      "pinyin": "xiān bǎ zī liào zhěng lǐ hǎo ， zài hǎo hǎo xiū xī 。 guò jǐ tiān wǒ xiǎng bǎ jīng yàn fēn xiǎng gěi xīn rén 。",
+      "tr": "Önce belgeleri düzenleyip sonra iyice dinleneceğim. Birkaç gün sonra deneyimlerimi yeni arkadaşlarla paylaşmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_010",
+      "speaker": "经理",
+      "zh": "这个安排很好。把过程记录下来，其他团队也能少走弯路。",
+      "pinyin": "zhè ge ān pái hěn hǎo 。 bǎ guò chéng jì lù xià lái ， qí tā tuán duì yě néng shǎo zǒu wān lù 。",
+      "tr": "Bu iyi bir plan. Süreci kayda geçirirsen diğer ekipler de gereksiz yere aynı hataları yapmaz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_011",
+      "speaker": "同事",
+      "zh": "如果你愿意，我可以把客户反馈整理成一页，和项目记录放在一起。",
+      "pinyin": "rú guǒ nǐ yuàn yì ， wǒ kě yǐ bǎ kè hù fǎn kuì zhěng lǐ chéng yī yè ， hé xiàng mù jì lù fàng zài yì qǐ 。",
+      "tr": "İstersen müşteri geri bildirimlerini tek sayfada toplayıp proje kayıtlarının yanına koyabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_012",
+      "speaker": "刘梅",
+      "zh": "这样既留下成果，也记下大家是怎么合作的。",
+      "pinyin": "zhè yàng jì liú xià chéng guǒ ， yě jì xià dà jiā shì zěn me hé zuò de 。",
+      "tr": "Böylece hem sonucu hem de ekibin nasıl iş birliği yaptığını kaydetmiş olursunuz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_013",
+      "speaker": "张伟",
+      "zh": "好，咱们把成功的地方和没做好的地方都写下来。",
+      "pinyin": "hǎo ， zán men bǎ chéng gōng de dì fāng hé méi zuò hǎo de dì fāng dōu xiě xià lái 。",
+      "tr": "Olur, hem başarılı olduğumuz hem de iyi yapamadığımız noktaları yazalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_014",
+      "speaker": "经理",
+      "zh": "总结时别只写结果，也说明哪些判断是根据反馈改过的。",
+      "pinyin": "zǒng jié shí bié zhǐ xiě jié guǒ ， yě shuō míng nǎ xiē pàn duàn shì gēn jù fǎn kuì gǎi guò de 。",
+      "tr": "Değerlendirmede yalnızca sonucu yazmayın; hangi kararları geri bildirime göre değiştirdiğinizi de açıklayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_015",
+      "speaker": "同事",
+      "zh": "我记得第一次测试时大家意见不一样，后来把证据放在一起才找到办法。",
+      "pinyin": "wǒ jì de dì yī cì cè shì shí dà jiā yì jiàn bù yí yàng ， hòu lái bǎ zhèng jù fàng zài yì qǐ cái zhǎo dào bàn fǎ 。",
+      "tr": "İlk denemede herkesin farklı düşündüğünü hatırlıyorum; kanıtları yan yana koyunca çözümü bulduk."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_016",
+      "speaker": "刘梅",
+      "zh": "这也是很好的经验。意见不同不可怕，愿意听和一起验证更重要。",
+      "pinyin": "zhè yě shì hěn hǎo de jīng yàn 。 yì jiàn bù tóng bù kě pà ， yuàn yì tīng hé yì qǐ yàn zhèng gèng zhòng yào 。",
+      "tr": "Bu da güzel bir deneyim. Farklı düşünmek sorun değil; dinlemek ve birlikte doğrulamak daha önemli."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_017",
+      "speaker": "张伟",
+      "zh": "客户已经确认会继续使用这个方案，我听到时松了一口气。",
+      "pinyin": "kè hù yǐ jīng què rèn huì jì xù shǐ yòng zhè ge fāng àn ， wǒ tīng dào shí sōng le yì kǒu qì 。",
+      "tr": "Müşteri bu planı kullanmaya devam edeceğini doğruladı; bunu duyunca içim rahatladı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_018",
+      "speaker": "经理",
+      "zh": "客户愿意留下来，是因为你们解决了他们一开始提出的问题。",
+      "pinyin": "kè hù yuàn yì liú xià lái ， shì yīn wèi nǐ men jiě jué le tā men yī kāi shǐ tí chū de wèn tí 。",
+      "tr": "Müşterinin devam etmesinin nedeni, başta dile getirdiği sorunları çözmüş olmanız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_019",
+      "speaker": "同事",
+      "zh": "以后如果发现新的问题，我们也能沿用这套记录和测试方法。",
+      "pinyin": "yǐ hòu rú guǒ fā xiàn xīn de wèn tí ， wǒ men yě néng yán yòng zhè tào jì lù hé cè shì fāng fǎ 。",
+      "tr": "Gelecekte yeni bir sorun çıkarsa bu kayıt ve deneme yöntemini yine kullanabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_020",
+      "speaker": "刘梅",
+      "zh": "这次不仅项目完成了，你们之间的信任也更牢固了。",
+      "pinyin": "zhè cì bù jǐn xiàng mù wán chéng le ， nǐ men zhī jiān de xìn rèn yě gèng láo gù le 。",
+      "tr": "Bu kez yalnızca proje tamamlanmadı; aranızdaki güven de güçlendi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_021",
+      "speaker": "张伟",
+      "zh": "说实话，最初我只想着按时交付，后来才发现沟通同样重要。",
+      "pinyin": "shuō shí huà ， zuì chū wǒ zhǐ xiǎng zhe àn shí jiāo fù ， hòu lái cái fā xiàn gōu tōng tóng yàng zhòng yào 。",
+      "tr": "Açıkçası başta yalnızca zamanında teslim etmeyi düşünüyordum; sonra iletişimin de aynı derecede önemli olduğunu fark ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_022",
+      "speaker": "经理",
+      "zh": "与其急着决定怎么做，不如先听清楚使用者遇到了什么问题。",
+      "pinyin": "yǔ qí jí zhe jué dìng zěn me zuò ， bù rú xiān tīng qīng chǔ shǐ yòng zhě yù dào le shén me wèn tí 。",
+      "tr": "Hemen ne yapacağımıza karar vermek yerine, kullanıcıların hangi sorunla karşılaştığını dinlemek daha iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_023",
+      "speaker": "同事",
+      "zh": "这样才能找到真正有用的改进，而不是只改表面。",
+      "pinyin": "zhè yàng cái néng zhǎo dào zhēn zhèng yǒu yòng de gǎi jìn ， ér bú shì zhǐ gǎi biǎo miàn 。",
+      "tr": "Böylece yalnızca görünüşü değiştirmek yerine gerçekten işe yarayan bir iyileştirme bulabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_024",
+      "speaker": "刘梅",
+      "zh": "你们这次愿意听取意见，我觉得这比庆祝更值得记住。",
+      "pinyin": "nǐ men zhè cì yuàn yì tīng qǔ yì jiàn ， wǒ jué de zhè bǐ qìng zhù gèng zhí de jì zhù 。",
+      "tr": "Bu kez görüşleri dinlemeye istekli olmanızın, kutlamadan daha akılda kalıcı olduğunu düşünüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_025",
+      "speaker": "张伟",
+      "zh": "我会把客户提过的困难和我们采用的办法都整理出来。",
+      "pinyin": "wǒ huì bǎ kè hù tí guò de kùn nán hé wǒ men cǎi yòng de bàn fǎ dōu zhěng lǐ chū lái 。",
+      "tr": "Müşterinin dile getirdiği güçlükleri ve uyguladığımız çözümleri bir araya getireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_026",
+      "speaker": "经理",
+      "zh": "尽管中间改了好几次，最后还是按共同确定的标准完成了。",
+      "pinyin": "jǐn guǎn zhōng jiān gǎi le hǎo jǐ cì ， zuì hòu hái shì àn gòng tóng què dìng de biāo zhǔn wán chéng le 。",
+      "tr": "Arada birkaç kez değişiklik yapmış olsak da sonunda birlikte belirlediğimiz ölçütlere göre tamamladık."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_027",
+      "speaker": "同事",
+      "zh": "我把测试前后的结果放在一起，变化一眼就能看出来。",
+      "pinyin": "wǒ bǎ cè shì qián hòu de jié guǒ fàng zài yì qǐ ， biàn huà yī yǎn jiù néng kàn chū lái 。",
+      "tr": "Denemeden önceki ve sonraki sonuçları yan yana koydum; değişim açıkça görülüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_028",
+      "speaker": "刘梅",
+      "zh": "这样整理很清楚，没参加项目的人也能明白过程。",
+      "pinyin": "zhè yàng zhěng lǐ hěn qīng chǔ ， méi cān jiā xiàng mù dì rén yě néng míng bái guò chéng 。",
+      "tr": "Böyle düzenlemek çok anlaşılır; projede yer almayanlar da süreci kavrayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_029",
+      "speaker": "张伟",
+      "zh": "下周我给新同事做一次介绍，重点讲我们怎么处理意见不一致。",
+      "pinyin": "xià zhōu wǒ gěi xīn tóng shì zuò yī cì jiè shào ， zhòng diǎn jiǎng wǒ men zěn me chǔ lǐ yì jiàn bù yī zhì 。",
+      "tr": "Gelecek hafta yeni ekip arkadaşlarına bir sunum yapıp görüş ayrılıklarını nasıl ele aldığımızı anlatacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_030",
+      "speaker": "经理",
+      "zh": "记得也讲一次失败的测试，它让大家看到了问题在哪里。",
+      "pinyin": "jì de yě jiǎng yī cì shī bài de cè shì ， tā ràng dà jiā kàn dào le wèn tí zài nǎ lǐ 。",
+      "tr": "Başarısız olan denemeyi de anlat; sorunların nerede olduğunu herkes onun sayesinde gördü."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_031",
+      "speaker": "同事",
+      "zh": "我愿意分享。失败的结果也有用，只要我们说清楚从中学到了什么。",
+      "pinyin": "wǒ yuàn yì fēn xiǎng 。 shī bài de jié guǒ yě yǒu yòng ， zhǐ yào wǒ men shuō qīng chǔ cóng zhōng xué dào le shén me 。",
+      "tr": "Paylaşmaya hazırım. Ne öğrendiğimizi açıkça anlattığımız sürece başarısız sonuç da işe yarar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_032",
+      "speaker": "刘梅",
+      "zh": "听你们这样说，我就放心了。项目结束不等于学习也结束。",
+      "pinyin": "tīng nǐ men zhè yàng shuō ， wǒ jiù fàng xīn le 。 xiàng mù jié shù bù děng yú xué xí yě jié shù 。",
+      "tr": "Böyle konuştuğunuzu duyunca içim rahatladı. Projenin bitmesi öğrenmenin de bittiği anlamına gelmez."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_033",
+      "speaker": "张伟",
+      "zh": "客户确认采用新版本了，我终于能松一口气。",
+      "pinyin": "kè hù què rèn cǎi yòng xīn bǎn běn le ， wǒ zhōng yú néng sōng yì kǒu qì 。",
+      "tr": "Müşteri yeni sürümü kullanacağını doğruladı; sonunda içim rahatladı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_034",
+      "speaker": "经理",
+      "zh": "这确实是个好消息，不过后续维护也要安排清楚。",
+      "pinyin": "zhè què shí shì gè hǎo xiāo xī ， bù guò hòu xù wéi hù yě yào ān pái qīng chǔ 。",
+      "tr": "Bu gerçekten iyi haber, ancak sonraki bakım işlerini de netleştirmeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_035",
+      "speaker": "同事",
+      "zh": "我可以负责每月检查一次，并把发现的问题记下来。",
+      "pinyin": "wǒ kě yǐ fù zé měi yuè jiǎn chá yī cì ， bìng bǎ fā xiàn de wèn tí jì xià lái 。",
+      "tr": "Ayda bir kontrol etmeyi ve bulduğum sorunları kaydetmeyi üstlenebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_036",
+      "speaker": "刘梅",
+      "zh": "这样既能及时发现问题，也不会把责任都压在一个人身上。",
+      "pinyin": "zhè yàng jì néng jí shí fā xiàn wèn tí ， yě bú huì bǎ zé rèn dōu yā zài yí gè rén shēn shàng 。",
+      "tr": "Böylece hem sorunları zamanında fark eder hem de bütün sorumluluğu tek kişiye yüklemeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_037",
+      "speaker": "张伟",
+      "zh": "新同事下个月来，我想先带他熟悉项目资料。",
+      "pinyin": "xīn tóng shì xià gè yuè lái ， wǒ xiǎng xiān dài tā shú xī xiàng mù zī liào 。",
+      "tr": "Yeni ekip arkadaşımız gelecek ay başlayacak; önce proje belgelerine alışmasına yardım etmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_038",
+      "speaker": "经理",
+      "zh": "可以先介绍整体流程，再让他独立负责一小部分。",
+      "pinyin": "kě yǐ xiān jiè shào zhěng tǐ liú chéng ， zài ràng tā dú lì fù zé yī xiǎo bù fèn 。",
+      "tr": "Önce genel işleyişi anlatıp sonra küçük bir bölümü bağımsız yürütmesini sağlayabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_039",
+      "speaker": "同事",
+      "zh": "我把常见问题整理成一页，交接时他就能快速查到。",
+      "pinyin": "wǒ bǎ cháng jiàn wèn tí zhěng lǐ chéng yī yè ， jiāo jiē shí tā jiù néng kuài sù chá dào 。",
+      "tr": "Sık sorulan sorunları tek sayfada toplayayım; devir sırasında kolayca bulur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_040",
+      "speaker": "刘梅",
+      "zh": "也要告诉他遇到不确定的情况可以来问，不必怕打扰你们。",
+      "pinyin": "yě yào gào sù tā yù dào bù què dìng de qíng kuàng kě yǐ lái wèn ， bù bì pà dǎ rǎo nǐ men 。",
+      "tr": "Emin olmadığı bir durumda size danışabileceğini, sizi rahatsız etmekten çekinmemesi gerektiğini de söyleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_041",
+      "speaker": "张伟",
+      "zh": "好，我会留出时间回答问题，不替他把每件事都做完。",
+      "pinyin": "hǎo ， wǒ huì liú chū shí jiān huí dá wèn tí ， bù tì tā bǎ měi jiàn shì dōu zuò wán 。",
+      "tr": "Peki, sorularını yanıtlamak için zaman ayırırım; her işi onun yerine tamamlamam."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_042",
+      "speaker": "经理",
+      "zh": "带新人不只是教工具，也要让他知道团队怎么一起作决定。",
+      "pinyin": "dài xīn rén bù zhǐ shì jiào gōng jù ， yě yào ràng tā zhī dào tuán duì zěn me yì qǐ zuò jué dìng 。",
+      "tr": "Yeni birini yetiştirmek yalnızca araçları öğretmek değil, ekibin nasıl birlikte karar verdiğini de göstermektir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_043",
+      "speaker": "同事",
+      "zh": "比如先听客户遇到什么，再讨论哪种改法最合适。",
+      "pinyin": "bǐ rú xiān tīng kè hù yù dào shén me ， zài tǎo lùn nǎ zhǒng gǎi fǎ zuì hé shì 。",
+      "tr": "Örneğin önce müşterinin karşılaştığı sorunu dinleyip sonra hangi düzenlemenin uygun olduğunu konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_044",
+      "speaker": "刘梅",
+      "zh": "如果大家意见不同，就把依据说出来，慢慢找共同点。",
+      "pinyin": "rú guǒ dà jiā yì jiàn bù tóng ， jiù bǎ yī jù shuō chū lái ， màn màn zhǎo gòng tóng diǎn 。",
+      "tr": "Herkes farklı düşünürse dayanaklarını açıklasın ve ortak noktayı birlikte arasın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_045",
+      "speaker": "张伟",
+      "zh": "这次我学到，越是时间紧，越要把沟通安排好。",
+      "pinyin": "zhè cì wǒ xué dào ， yuè shì shí jiān jǐn ， yuè yào bǎ gōu tōng ān pái hǎo 。",
+      "tr": "Bu kez şunu öğrendim: Zaman ne kadar kısıtlıysa iletişimi o kadar iyi düzenlemek gerekir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_046",
+      "speaker": "经理",
+      "zh": "尽管过程里有几次返工，最后的质量仍然达到了要求。",
+      "pinyin": "jǐn guǎn guò chéng lǐ yǒu jǐ cì fǎn gōng ， zuì hòu de zhì liàng réng rán dá dào le yāo qiú 。",
+      "tr": "Süreçte birkaç kez yeniden çalışmamıza rağmen son kalite gereklilikleri karşıladı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_047",
+      "speaker": "同事",
+      "zh": "返工也让我们发现了原来没注意到的细节。",
+      "pinyin": "fǎn gōng yě ràng wǒ men fā xiàn le yuán lái méi zhù yì dào de xì jié 。",
+      "tr": "Yeniden çalışmak daha önce fark etmediğimiz ayrıntıları görmemizi de sağladı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_048",
+      "speaker": "刘梅",
+      "zh": "愿意承认哪里没做好，下一次才有机会做得更好。",
+      "pinyin": "yuàn yì chéng rèn nǎ lǐ méi zuò hǎo ， xià yī cì cái yǒu jī huì zuò dé gèng hǎo 。",
+      "tr": "Nerede iyi iş çıkaramadığımızı kabul edersek bir dahaki sefere daha iyisini yapabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_049",
+      "speaker": "张伟",
+      "zh": "项目资料我会按阶段整理，重要决定和修改原因都放进去。",
+      "pinyin": "xiàng mù zī liào wǒ huì àn jiē duàn zhěng lǐ ， zhòng yào jué dìng hé xiū gǎi yuán yīn dōu fàng jìn qù 。",
+      "tr": "Proje belgelerini aşamalara göre düzenleyip önemli kararları ve değişiklik nedenlerini ekleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_050",
+      "speaker": "经理",
+      "zh": "客户反馈也要保留，但涉及个人的信息先处理好再共享。",
+      "pinyin": "kè hù fǎn kuì yě yào bǎo liú ， dàn shè jí gè rén de xìn xī xiān chǔ lǐ hǎo zài gòng xiǎng 。",
+      "tr": "Müşteri geri bildirimlerini de saklayın; kişisel bilgi içeren kısımları paylaşmadan önce düzenleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_051",
+      "speaker": "同事",
+      "zh": "我会检查文件权限，确保只有项目组的人能看到原始记录。",
+      "pinyin": "wǒ huì jiǎn chá wén jiàn quán xiàn ， què bǎo zhǐ yǒu xiàng mù zǔ de rén néng kàn dào yuán shǐ jì lù 。",
+      "tr": "Dosya izinlerini denetleyip özgün kayıtları yalnızca proje ekibinin görebilmesini sağlarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_052",
+      "speaker": "刘梅",
+      "zh": "这一步很重要，资料方便使用的同时也得保护隐私。",
+      "pinyin": "zhè yī bù hěn zhòng yào ， zī liào fāng biàn shǐ yòng de tóng shí yě dé bǎo hù yǐn sī 。",
+      "tr": "Bu adım önemli; belgeler erişilebilir olurken mahremiyet de korunmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_053",
+      "speaker": "张伟",
+      "zh": "我把最终版本和旧版本分开存，免得以后拿错。",
+      "pinyin": "wǒ bǎ zuì zhōng bǎn běn hé jiù bǎn běn fèn kāi cún ， miǎn de yǐ hòu ná cuò 。",
+      "tr": "Yanlış kullanılmasın diye son sürümle eski sürümleri ayrı saklayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_054",
+      "speaker": "经理",
+      "zh": "再给最终版写上日期和负责人，之后追踪起来更容易。",
+      "pinyin": "zài gěi zuì zhōng bǎn xiě shàng rì qī hé fù zé rén ， zhī hòu zhuī zōng qǐ lái gèng róng yì 。",
+      "tr": "Son sürüme tarih ve sorumlu kişiyi de ekleyin; sonradan takip etmek kolaylaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_055",
+      "speaker": "同事",
+      "zh": "我刚才核对过目录，文件名和内容都能对应上。",
+      "pinyin": "wǒ gāng cái hé duì guò mù lù ， wén jiàn míng hé nèi róng dōu néng duì yìng shàng 。",
+      "tr": "Az önce klasörü kontrol ettim; dosya adlarıyla içerikleri birbiriyle eşleşiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_056",
+      "speaker": "刘梅",
+      "zh": "那我们把共享链接发给相关同事，不必把文件到处转发。",
+      "pinyin": "nà wǒ men bǎ gòng xiǎng liàn jiē fā gěi xiāng guān tóng shì ， bù bì bǎ wén jiàn dào chù zhuǎn fā 。",
+      "tr": "Öyleyse bağlantıyı ilgili ekip arkadaşlarına gönderelim; dosyayı her yere iletmeye gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_057",
+      "speaker": "张伟",
+      "zh": "客户还提到希望以后能更快看到处理进度。",
+      "pinyin": "kè hù hái tí dào xī wàng yǐ hòu néng gèng kuài kàn dào chù lǐ jìn dù 。",
+      "tr": "Müşteri, bundan sonra ilerlemeyi daha hızlı görebilmeyi umduğunu da belirtti."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_058",
+      "speaker": "经理",
+      "zh": "我们可以每周更新一次状态，但遇到重要变化要及时通知。",
+      "pinyin": "wǒ men kě yǐ měi zhōu gēng xīn yī cì zhuàng tài ， dàn yù dào zhòng yào biàn huà yào jí shí tōng zhī 。",
+      "tr": "Durumu haftada bir güncelleyebiliriz; önemli bir değişiklik olursa hemen haber verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_059",
+      "speaker": "同事",
+      "zh": "我负责整理状态页，大家只要把新进展发给我就行。",
+      "pinyin": "wǒ fù zé zhěng lǐ zhuàng tài yè ， dà jiā zhǐ yào bǎ xīn jìn zhǎn fā gěi wǒ jiù xíng 。",
+      "tr": "Durum sayfasını ben düzenlerim; herkes yeni gelişmeleri bana iletsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_060",
+      "speaker": "刘梅",
+      "zh": "如果信息还没确认，就标明正在核实，别让别人误以为已经定了。",
+      "pinyin": "rú guǒ xìn xī hái méi què rèn ， jiù biāo míng zhèng zài hé shí ， bié ràng bié rén wù yǐ wéi yǐ jīng dìng le 。",
+      "tr": "Bilgi henüz doğrulanmadıysa inceleniyor diye işaretleyin; kesinleşmiş sanılmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_061",
+      "speaker": "张伟",
+      "zh": "这次客户信任我们，也是因为我们没有把不确定的事说成确定。",
+      "pinyin": "zhè cì kè hù xìn rèn wǒ men ， yě shì yīn wèi wǒ men méi yǒu bǎ bù què dìng de shì shuō chéng què dìng 。",
+      "tr": "Müşterinin bize güvenmesinin nedeni, belirsiz konuları kesinmiş gibi anlatmamamızdı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_062",
+      "speaker": "经理",
+      "zh": "没错，诚实说明进度，比给出一个好听但不准确的答案更可靠。",
+      "pinyin": "méi cuò ， chéng shí shuō míng jìn dù ， bǐ gěi chū yí gè hǎo tīng dàn bù zhǔn què de dá àn gèng kě kào 。",
+      "tr": "Aynen; ilerlemeyi dürüstçe anlatmak, kulağa hoş gelen ama yanlış bir yanıt vermekten daha güvenilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_063",
+      "speaker": "同事",
+      "zh": "那我把风险、负责人和下一次更新时间也列在状态页上。",
+      "pinyin": "nà wǒ bǎ fēng xiǎn 、 fù zé rén hé xià yī cì gēng xīn shí jiān yě liè zài zhuàng tài yè shàng 。",
+      "tr": "Öyleyse riskleri, sorumluları ve bir sonraki güncelleme tarihini de durum sayfasına ekleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_064",
+      "speaker": "刘梅",
+      "zh": "这样大家都能看到下一步，也知道什么时候可以再问。",
+      "pinyin": "zhè yàng dà jiā dōu néng kàn dào xià yī bù ， yě zhī dào shén me shí hòu kě yǐ zài wèn 。",
+      "tr": "Böylece herkes sonraki adımı ve ne zaman yeniden bilgi isteyebileceğini görür."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_065",
+      "speaker": "张伟",
+      "zh": "以后再接类似的项目，我会先把目标、时间和责任人写清楚。",
+      "pinyin": "yǐ hòu zài jiē lèi sì de xiàng mù ， wǒ huì xiān bǎ mù biāo 、 shí jiān hé zé rèn rén xiě qīng chǔ 。",
+      "tr": "Benzer bir projeyi tekrar üstlenirsem hedefi, takvimi ve sorumluları baştan netleştireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_066",
+      "speaker": "经理",
+      "zh": "这会让大家少一点猜测，也能更早发现安排不合理的地方。",
+      "pinyin": "zhè huì ràng dà jiā shǎo yì diǎn cāi cè ， yě néng gèng zǎo fā xiàn ān pái bù hé lǐ de dì fāng 。",
+      "tr": "Bu, belirsizliği azaltır ve planlamadaki sorunları daha erken görmemizi sağlar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_067",
+      "speaker": "同事",
+      "zh": "我建议每个阶段结束时简单回顾一次，不要等到最后才总结。",
+      "pinyin": "wǒ jiàn yì měi gè jiē duàn jié shù shí jiǎn dān huí gù yī cì ， bú yào děng dào zuì hòu cái zǒng jié 。",
+      "tr": "Her aşamanın sonunda kısa bir değerlendirme yapmayı öneriyorum; sona kadar beklemeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_068",
+      "speaker": "刘梅",
+      "zh": "那样遇到偏差还能及时调整，不会把小问题拖成大问题。",
+      "pinyin": "nà yàng yù dào piān chā hái néng jí shí diào zhěng ， bú huì bǎ xiǎo wèn tí tuō chéng dà wèn tí 。",
+      "tr": "Böylece sapmaları zamanında düzeltebilir, küçük sorunların büyümesini önleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_069",
+      "speaker": "张伟",
+      "zh": "这次我也学会了，遇到压力时先分清轻重缓急。",
+      "pinyin": "zhè cì wǒ yě xué huì le ， yù dào yā lì shí xiān fēn qīng qīng zhòng huǎn jí 。",
+      "tr": "Bu kez baskı altındayken işleri önem sırasına koymayı da öğrendim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_070",
+      "speaker": "经理",
+      "zh": "是的，先解决关键问题，比同时追着很多小事更有效。",
+      "pinyin": "shì de ， xiān jiě jué guān jiàn wèn tí ， bǐ tóng shí zhuī zhe hěn duō xiǎo shì gèng yǒu xiào 。",
+      "tr": "Evet, temel sorunu önce çözmek birçok küçük işle aynı anda uğraşmaktan daha etkilidir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_071",
+      "speaker": "同事",
+      "zh": "我会把这个方法加到新人培训的材料里。",
+      "pinyin": "wǒ huì bǎ zhè ge fāng fǎ jiā dào xīn rén péi xùn de cái liào lǐ 。",
+      "tr": "Bu yöntemi yeni çalışanların eğitim malzemesine ekleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_072",
+      "speaker": "刘梅",
+      "zh": "材料写得简单一点，再配一个真实例子，大家更容易理解。",
+      "pinyin": "cái liào xiě dé jiǎn dān yì diǎn ， zài pèi yí gè zhēn shí lì zi ， dà jiā gèng róng yì lǐ jiě 。",
+      "tr": "Malzemeyi sade tutup gerçek bir örnek eklersen herkes daha kolay anlar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_073",
+      "speaker": "张伟",
+      "zh": "客户的认可让我很高兴，不过我更看重团队一起完成了它。",
+      "pinyin": "kè hù de rèn kě ràng wǒ hěn gāo xìng ， bù guò wǒ gèng kàn zhòng tuán duì yì qǐ wán chéng le tā 。",
+      "tr": "Müşterinin takdiri beni sevindirdi ama ekibin bunu birlikte tamamlamasına daha çok değer veriyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_074",
+      "speaker": "经理",
+      "zh": "团队做得好，个人也会成长；两件事并不冲突。",
+      "pinyin": "tuán duì zuò dé hǎo ， gè rén yě huì chéng zhǎng ； liǎng jiàn shì bìng bù chōng tū 。",
+      "tr": "Ekip iyi iş çıkarınca bireyler de gelişir; bu ikisi birbiriyle çelişmez."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_075",
+      "speaker": "同事",
+      "zh": "我以前不太敢提出不同看法，这次发现说明理由以后大家会认真讨论。",
+      "pinyin": "wǒ yǐ qián bù tài gǎn tí chū bù tóng kàn fǎ ， zhè cì fā xiàn shuō míng lǐ yóu yǐ hòu dà jiā huì rèn zhēn tǎo lùn 。",
+      "tr": "Eskiden farklı bir görüş söylemeye çekinirdim; bu kez gerekçeyi açıklayınca herkesin dikkatle tartıştığını gördüm."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_076",
+      "speaker": "刘梅",
+      "zh": "愿意开口，也愿意听别人说完，合作才会越来越顺。",
+      "pinyin": "yuàn yì kāi kǒu ， yě yuàn yì tīng bié rén shuō wán ， hé zuò cái huì yuè lái yuè shùn 。",
+      "tr": "Konuşmaya istekli olmak ve başkasını sonuna kadar dinlemek iş birliğini güçlendirir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_077",
+      "speaker": "张伟",
+      "zh": "庆祝以后我会先休息两天，再开始整理培训材料。",
+      "pinyin": "qìng zhù yǐ hòu wǒ huì xiān xiū xī liǎng tiān ， zài kāi shǐ zhěng lǐ péi xùn cái liào 。",
+      "tr": "Kutlamadan sonra iki gün dinlenip eğitim malzemelerini düzenlemeye başlayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_078",
+      "speaker": "经理",
+      "zh": "合理安排休息和工作，才能长期保持好的状态。",
+      "pinyin": "hé lǐ ān pái xiū xī hé gōng zuò ， cái néng cháng qī bǎo chí hǎo de zhuàng tài 。",
+      "tr": "Dinlenme ve işi dengeli planlamak, iyi performansı uzun süre korumayı sağlar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_079",
+      "speaker": "同事",
+      "zh": "我也会把手头的项目收尾好，不把任务留给别人猜。",
+      "pinyin": "wǒ yě huì bǎ shǒu tóu de xiàng mù shōu wěi hǎo ， bù bǎ rèn wù liú gěi bié rén cāi 。",
+      "tr": "Ben de üzerimdeki işi tamamlayacağım; kimsenin ne kaldığını tahmin etmesi gerekmeyecek."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_080",
+      "speaker": "刘梅",
+      "zh": "把交接内容说清楚，是对下一位负责人的尊重。",
+      "pinyin": "bǎ jiāo jiē nèi róng shuō qīng chǔ ， shì duì xià yī wèi fù zé rén de zūn zhòng 。",
+      "tr": "Devir teslimi açık yapmak, sonraki sorumlu kişiye saygı göstermektir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_081",
+      "speaker": "张伟",
+      "zh": "接下来如果我带新人，我会先了解他会什么、还想学什么。",
+      "pinyin": "jiē xià lái rú guǒ wǒ dài xīn rén ， wǒ huì xiān liǎo jiě tā huì shén me 、 hái xiǎng xué shén me 。",
+      "tr": "Yeni birini yetiştirirsem önce neleri bildiğini ve ne öğrenmek istediğini sorarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_082",
+      "speaker": "经理",
+      "zh": "这样安排的任务才适合他，也能让他逐步承担更多责任。",
+      "pinyin": "zhè yàng ān pái de rèn wù cái shì hé tā ， yě néng ràng tā zhú bù chéng dān gèng duō zé rèn 。",
+      "tr": "Böylece görevler becerilerine uyar ve zamanla daha fazla sorumluluk alabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_083",
+      "speaker": "同事",
+      "zh": "他不熟悉的地方我可以示范一次，然后让他自己试。",
+      "pinyin": "tā bù shú xī de dì fāng wǒ kě yǐ shì fàn yī cì ， rán hòu ràng tā zì jǐ shì 。",
+      "tr": "Bilmediği bir konuda önce ben gösterir, sonra kendisinin denemesini sağlarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_084",
+      "speaker": "刘梅",
+      "zh": "如果第一次没做好，也给他解释和改进的机会。",
+      "pinyin": "rú guǒ dì yī cì méi zuò hǎo ， yě gěi tā jiě shì hé gǎi jìn de jī huì 。",
+      "tr": "İlk seferinde iyi yapamazsa açıklaması ve geliştirmesi için fırsat verin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_085",
+      "speaker": "张伟",
+      "zh": "这个项目让我看到，好的结果离不开耐心和信任。",
+      "pinyin": "zhè ge xiàng mù ràng wǒ kàn dào ， hǎo de jié guǒ lí bù kāi nài xīn hé xìn rèn 。",
+      "tr": "Bu proje iyi sonucun sabır ve güven olmadan gelmediğini gösterdi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_086",
+      "speaker": "经理",
+      "zh": "尽管中间有分歧，大家仍然愿意围绕目标继续合作。",
+      "pinyin": "jǐn guǎn zhōng jiān yǒu fēn qí ， dà jiā réng rán yuàn yì wéi rào mù biāo jì xù hé zuò 。",
+      "tr": "Ortada görüş ayrılıkları olmasına rağmen herkes hedef doğrultusunda çalışmayı sürdürdü."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_087",
+      "speaker": "同事",
+      "zh": "与其急着判断谁的办法更好，不如先比较测试结果。",
+      "pinyin": "yǔ qí jí zhe pàn duàn shéi de bàn fǎ gèng hǎo ， bù rú xiān bǐ jiào cè shì jié guǒ 。",
+      "tr": "Kimin yönteminin daha iyi olduğuna aceleyle karar vermek yerine test sonuçlarını karşılaştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_088",
+      "speaker": "刘梅",
+      "zh": "这个做法让讨论更公平，也避免只凭职位高低作决定。",
+      "pinyin": "zhè ge zuò fǎ ràng tǎo lùn gèng gōng píng ， yě bì miǎn zhǐ píng zhí wèi gāo dī zuò jué dìng 。",
+      "tr": "Bu yöntem tartışmayı daha adil kılar ve yalnızca unvana göre karar verilmesini önler."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_089",
+      "speaker": "张伟",
+      "zh": "项目的最终资料和复盘记录都已经放进共享文件夹。",
+      "pinyin": "xiàng mù dì zuì zhōng zī liào hé fù pán jì lù dōu yǐ jīng fàng jìn gòng xiǎng wén jiàn jiā 。",
+      "tr": "Projenin son belgeleri ve değerlendirme notları ortak klasöre kaydedildi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_090",
+      "speaker": "经理",
+      "zh": "我检查过目录了，文件权限和版本也都设置好了。",
+      "pinyin": "wǒ jiǎn chá guò mù lù le ， wén jiàn quán xiàn hé bǎn běn yě dōu shè zhì hǎo le 。",
+      "tr": "Klasörü kontrol ettim; dosya izinleri ve sürümleri de ayarlandı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_091",
+      "speaker": "同事",
+      "zh": "客户还发来一封感谢信，我把它放在项目成果后面。",
+      "pinyin": "kè hù hái fā lái yī fēng gǎn xiè xìn ， wǒ bǎ tā fàng zài xiàng mù chéng guǒ hòu miàn 。",
+      "tr": "Müşteri bir teşekkür mektubu gönderdi; onu proje sonuçlarının arkasına ekledim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_092",
+      "speaker": "刘梅",
+      "zh": "看到这封信，大家就知道努力带来了什么实际影响。",
+      "pinyin": "kàn dào zhè fēng xìn ， dà jiā jiù zhī dào nǔ lì dài lái le shén me shí jì yǐng xiǎng 。",
+      "tr": "Bu mektubu gören herkes emeğimizin nasıl bir etki yarattığını anlayacak."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_093",
+      "speaker": "张伟",
+      "zh": "谢谢大家这段时间的支持，特别是你们愿意直接指出问题。",
+      "pinyin": "xiè xiè dà jiā zhè duàn shí jiān de zhī chí ， tè bié shì nǐ men yuàn yì zhí jiē zhǐ chū wèn tí 。",
+      "tr": "Bu süreçteki desteğiniz için teşekkürler; özellikle sorunları doğrudan söylemeniz çok değerliydi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_094",
+      "speaker": "经理",
+      "zh": "反馈有时不好听，但只要具体、尊重人，就能帮助团队进步。",
+      "pinyin": "fǎn kuì yǒu shí bù hǎo tīng ， dàn zhǐ yào jù tǐ 、 zūn zhòng rén ， jiù néng bāng zhù tuán duì jìn bù 。",
+      "tr": "Geri bildirim bazen hoş olmayabilir; somut ve saygılı olduğu sürece ekibin gelişmesine yardım eder."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_095",
+      "speaker": "同事",
+      "zh": "下一个项目开始前，我们可以先把今天的经验过一遍。",
+      "pinyin": "xià yí gè xiàng mù kāi shǐ qián ， wǒ men kě yǐ xiān bǎ jīn tiān de jīng yàn guò yī biàn 。",
+      "tr": "Bir sonraki proje başlamadan bugünkü deneyimlerimizi gözden geçirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_096",
+      "speaker": "刘梅",
+      "zh": "好，留下有用的办法，也允许新的项目有不同做法。",
+      "pinyin": "hǎo ， liú xià yǒu yòng de bàn fǎ ， yě yǔn xǔ xīn de xiàng mù yǒu bù tóng zuò fǎ 。",
+      "tr": "Olur; işe yarayan yöntemleri korur, yeni projelerin farklı ilerlemesine de izin veririz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_097",
+      "speaker": "张伟",
+      "zh": "今晚我想请大家吃顿饭，就当为这个阶段画个句号。",
+      "pinyin": "jīn wǎn wǒ xiǎng qǐng dà jiā chī dùn fàn ， jiù dāng wèi zhè ge jiē duàn huà gè jù hào 。",
+      "tr": "Bu akşam herkese yemek ısmarlamak istiyorum; bu aşamayı böylece tamamlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_098",
+      "speaker": "经理",
+      "zh": "谢谢你的邀请。今天先好好庆祝，工作上的事下周再接着谈。",
+      "pinyin": "xiè xiè nǐ de yāo qǐng 。 jīn tiān xiān hǎo hǎo qìng zhù ， gōng zuò shàng de shì xià zhōu zài jiē zhe tán 。",
+      "tr": "Davetin için teşekkürler. Bugün güzelce kutlayalım; işle ilgili konuları gelecek hafta konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_099",
+      "speaker": "同事",
+      "zh": "那我负责订位置，大家想吃什么可以在群里告诉我。",
+      "pinyin": "nà wǒ fù zé dìng wèi zhì ， dà jiā xiǎng chī shén me kě yǐ zài qún lǐ gào sù wǒ 。",
+      "tr": "Mekânı ben ayarlayayım; herkes ne yemek istediğini gruba yazabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC046_100",
+      "speaker": "刘梅",
+      "zh": "好，今天先放松一下，明天再开始新的计划。",
+      "pinyin": "hǎo ， jīn tiān xiān fàng sōng yī xià ， míng tiān zài kāi shǐ xīn de jì huà 。",
+      "tr": "Peki, bugün biraz rahatlayın; yeni planlara yarın başlarız."
+    }
+  ]
+}

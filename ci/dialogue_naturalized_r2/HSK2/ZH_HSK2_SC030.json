@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 45,
+  "status": "FINAL_NATIVE_RELEASE_CANDIDATE_V45",
+  "sceneId": "ZH_HSK2_SC030",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC030_001",
+      "speaker": "张伟",
+      "zh": "周末天气不错，我们去市中心走走吧。",
+      "pinyin": "zhōu mò tiān qì bù cuò ， wǒ men qù shì zhōng xīn zǒu zǒu ba 。",
+      "tr": "Hafta sonu hava güzel, şehir merkezinde dolaşalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_002",
+      "speaker": "刘梅",
+      "zh": "好啊，孩子们也想看看新地方。",
+      "pinyin": "hǎo a ， hái zi men yě xiǎng kàn kàn xīn dì fāng 。",
+      "tr": "Olur, çocuklar da yeni yerleri görmek istiyordu."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_003",
+      "speaker": "张乐乐",
+      "zh": "先去哪里？我看到前面有一座大楼。",
+      "pinyin": "xiān qù nǎ lǐ ？ wǒ kàn dào qián miàn yǒu yī zuò dà lóu 。",
+      "tr": "Önce nereye gidelim? İleride büyük bir bina görüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_004",
+      "speaker": "张雨桐",
+      "zh": "那是银行，我们可以从那边开始逛。",
+      "pinyin": "nà shì yín háng ， wǒ men kě yǐ cóng nà biān kāi shǐ guàng 。",
+      "tr": "O banka, gezmeye oradan başlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_005",
+      "speaker": "张伟",
+      "zh": "银行离这个广场远吗？",
+      "pinyin": "yín háng lí zhè ge guǎng chǎng yuǎn ma ？",
+      "tr": "Banka bu meydandan uzak mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_006",
+      "speaker": "刘梅",
+      "zh": "不远，沿着这条路走五分钟就到。",
+      "pinyin": "bù yuǎn ， yán zhe zhè tiáo lù zǒu wǔ fēn zhōng jiù dào 。",
+      "tr": "Uzak değil, bu yolda beş dakika yürüyünce varırız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_007",
+      "speaker": "张乐乐",
+      "zh": "我们路过银行的时候可以进去看一眼吗？",
+      "pinyin": "wǒ men lù guò yín háng de shí hòu kě yǐ jìn qù kàn yī yǎn ma ？",
+      "tr": "Bankanın önünden geçerken içeri bakabilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_008",
+      "speaker": "张雨桐",
+      "zh": "可以，不过今天我们不需要办什么事。",
+      "pinyin": "kě yǐ ， bù guò jīn tiān wǒ men bù xū yào bàn shén me shì 。",
+      "tr": "Olur ama bugün yapmamız gereken bir iş yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_009",
+      "speaker": "张伟",
+      "zh": "这边就是市中心吗？",
+      "pinyin": "zhè biān jiù shì shì zhōng xīn ma ？",
+      "tr": "Burası şehir merkezi mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_010",
+      "speaker": "刘梅",
+      "zh": "对，商店、银行和邮局都在附近。",
+      "pinyin": "duì ， shāng diàn 、 yín háng hé yóu jú dōu zài fù jìn 。",
+      "tr": "Evet, dükkânlar, banka ve postane yakınlarda."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_011",
+      "speaker": "张乐乐",
+      "zh": "我喜欢这里，走路就能看到很多地方。",
+      "pinyin": "wǒ xǐ huān zhè lǐ ， zǒu lù jiù néng kàn dào hěn duō dì fāng 。",
+      "tr": "Burayı sevdim, yürüyerek birçok yer görebiliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_012",
+      "speaker": "张雨桐",
+      "zh": "以后我们可以坐公交车来，站也不远。",
+      "pinyin": "yǐ hòu wǒ men kě yǐ zuò gōng jiāo chē lái ， zhàn yě bù yuǎn 。",
+      "tr": "Bundan sonra otobüsle gelebiliriz, durak da uzak değil."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_013",
+      "speaker": "张伟",
+      "zh": "我们先去邮局寄这张卡片吧。",
+      "pinyin": "wǒ men xiān qù yóu jú jì zhè zhāng kǎ piàn ba 。",
+      "tr": "Önce postaneye gidip bu kartı gönderelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_014",
+      "speaker": "刘梅",
+      "zh": "好，我答应给奶奶寄一张照片。",
+      "pinyin": "hǎo ， wǒ dā yìng gěi nǎi nǎi jì yī zhāng zhào piān 。",
+      "tr": "Olur, büyükanneye fotoğraf göndereceğime söz vermiştim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_015",
+      "speaker": "张乐乐",
+      "zh": "邮局在哪个方向？",
+      "pinyin": "yóu jú zài nǎ ge fāng xiàng ？",
+      "tr": "Postane hangi yönde?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_016",
+      "speaker": "张雨桐",
+      "zh": "沿着银行旁边的小路一直走就能看见。",
+      "pinyin": "yán zhe yín háng páng biān de xiǎo lù yì zhí zǒu jiù néng kàn jiàn 。",
+      "tr": "Bankanın yanındaki küçük yolda dümdüz gidersen görürsün."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_017",
+      "speaker": "张伟",
+      "zh": "这个红色的邮箱可以寄信吗？",
+      "pinyin": "zhè ge hóng sè de yóu xiāng kě yǐ jì xìn ma ？",
+      "tr": "Bu kırmızı posta kutusuna mektup atabilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_018",
+      "speaker": "刘梅",
+      "zh": "可以，不过寄照片最好先装进信封。",
+      "pinyin": "kě yǐ ， bù guò jì zhào piān zuì hǎo xiān zhuāng jìn xìn fēng 。",
+      "tr": "Evet ama fotoğrafı önce zarfa koymalısın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_019",
+      "speaker": "张乐乐",
+      "zh": "我在包里找到一个干净的信封。",
+      "pinyin": "wǒ zài bāo lǐ zhǎo dào yí gè gān jìng de xìn fēng 。",
+      "tr": "Çantamda temiz bir zarf buldum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_020",
+      "speaker": "张雨桐",
+      "zh": "那就把卡片和照片一起放进去。",
+      "pinyin": "nà jiù bǎ kǎ piàn hé zhào piān yì qǐ fàng jìn qù 。",
+      "tr": "O zaman kartı ve fotoğrafı birlikte koyalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_021",
+      "speaker": "张伟",
+      "zh": "邮局里面人不多，我们不用等很久。",
+      "pinyin": "yóu jú lǐ miàn rén bù duō ， wǒ men bù yòng děng hěn jiǔ 。",
+      "tr": "Postanede çok kişi yok, uzun süre beklemeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_022",
+      "speaker": "刘梅",
+      "zh": "我把地址写好了，你帮我检查一下。",
+      "pinyin": "wǒ bǎ dì zhǐ xiě hǎo le ， nǐ bāng wǒ jiǎn chá yī xià 。",
+      "tr": "Adresi yazdım, kontrol eder misin?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_023",
+      "speaker": "张乐乐",
+      "zh": "名字和地址都在卡片背面。",
+      "pinyin": "míng zì hé dì zhǐ dōu zài kǎ piàn bèi miàn 。",
+      "tr": "İsimle adres kartın arkasında."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_024",
+      "speaker": "张雨桐",
+      "zh": "很好，寄出去以后告诉奶奶一声。",
+      "pinyin": "hěn hǎo ， jì chū qù yǐ hòu gào sù nǎi nǎi yī shēng 。",
+      "tr": "Güzel, gönderince büyükanneye haber ver."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_025",
+      "speaker": "张伟",
+      "zh": "我们还要去银行吗？",
+      "pinyin": "wǒ men hái yào qù yín háng ma ？",
+      "tr": "Bankaya da gidecek miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_026",
+      "speaker": "刘梅",
+      "zh": "不用，家里的事情昨天已经办好了。",
+      "pinyin": "bù yòng ， jiā lǐ de shì qíng zuó tiān yǐ jīng bàn hǎo le 。",
+      "tr": "Gerek yok, evdeki işleri dün hallettik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_027",
+      "speaker": "张乐乐",
+      "zh": "那我想去看看旁边的书店。",
+      "pinyin": "nà wǒ xiǎng qù kàn kàn páng biān de shū diàn 。",
+      "tr": "Yan taraftaki kitapçıya bakmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_028",
+      "speaker": "张雨桐",
+      "zh": "好，我们可以先休息一下再过去。",
+      "pinyin": "hǎo ， wǒ men kě yǐ xiān xiū xī yī xià zài guò qù 。",
+      "tr": "Olur, önce biraz dinlenip sonra gideriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_029",
+      "speaker": "张伟",
+      "zh": "你们看，街对面有一家面包店。",
+      "pinyin": "nǐ men kàn ， jiē duì miàn yǒu yī jiā miàn bāo diàn 。",
+      "tr": "Bakın, caddenin karşısında bir fırın var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_030",
+      "speaker": "刘梅",
+      "zh": "我闻到面包的香味了，能买一个吗？",
+      "pinyin": "wǒ wén dào miàn bāo de xiāng wèi le ， néng mǎi yí gè ma ？",
+      "tr": "Ekmek kokusu geliyor, bir tane alabilir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_031",
+      "speaker": "张乐乐",
+      "zh": "我们可以带几个去公园吃。",
+      "pinyin": "wǒ men kě yǐ dài jǐ gè qù gōng yuán chī 。",
+      "tr": "Parka götürüp paylaşabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_032",
+      "speaker": "张雨桐",
+      "zh": "那我去挑两种口味，大家一起分。",
+      "pinyin": "nà wǒ qù tiāo liǎng zhǒng kǒu wèi ， dà jiā yì qǐ fēn 。",
+      "tr": "İki çeşit seçeyim, hepimiz paylaşırız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_033",
+      "speaker": "张伟",
+      "zh": "从这里去公园要走多久？",
+      "pinyin": "cóng zhè lǐ qù gōng yuán yào zǒu duō jiǔ ？",
+      "tr": "Buradan parka yürümek ne kadar sürer?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_034",
+      "speaker": "刘梅",
+      "zh": "地图上看起来只有十分钟。",
+      "pinyin": "dì tú shàng kàn qǐ lái zhǐ yǒu shí fēn zhōng 。",
+      "tr": "Haritada yalnızca on dakika görünüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_035",
+      "speaker": "张乐乐",
+      "zh": "我想先去喷泉那边看看。",
+      "pinyin": "wǒ xiǎng xiān qù pēn quán nà biān kàn kàn 。",
+      "tr": "Önce çeşmenin oraya bakmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_036",
+      "speaker": "张雨桐",
+      "zh": "公园离市中心不远，慢慢走就好。",
+      "pinyin": "gōng yuán lí shì zhōng xīn bù yuǎn ， màn màn zǒu jiù hǎo 。",
+      "tr": "Park şehir merkezinden uzak değil, ağır ağır yürürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_037",
+      "speaker": "张伟",
+      "zh": "市中心的路真宽。",
+      "pinyin": "shì zhōng xīn de lù zhēn kuān 。",
+      "tr": "Şehir merkezinin yolları ne kadar geniş."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_038",
+      "speaker": "刘梅",
+      "zh": "周末有很多人出来散步。",
+      "pinyin": "zhōu mò yǒu hěn duō rén chū lái sàn bù 。",
+      "tr": "Hafta sonu yürüyüşe çıkan çok kişi var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_039",
+      "speaker": "张乐乐",
+      "zh": "我看到前面有人在卖气球。",
+      "pinyin": "wǒ kàn dào qián miàn yǒu rén zài mài qì qiú 。",
+      "tr": "İleride balon satan birini görüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_040",
+      "speaker": "张雨桐",
+      "zh": "等会儿到了公园再选一个吧。",
+      "pinyin": "děng huì er dào le gōng yuán zài xuǎn yí gè ba 。",
+      "tr": "Parka varınca bir tane seçelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_041",
+      "speaker": "张伟",
+      "zh": "公园门口有地图，我们看一下。",
+      "pinyin": "gōng yuán mén kǒu yǒu dì tú ， wǒ men kàn yī xià 。",
+      "tr": "Park girişinde harita var, bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_042",
+      "speaker": "刘梅",
+      "zh": "入口、厕所和长椅都标出来了。",
+      "pinyin": "rù kǒu 、 cè suǒ hé zhǎng yǐ dōu biāo chū lái le 。",
+      "tr": "Giriş, tuvalet ve banklar işaretlenmiş."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_043",
+      "speaker": "张乐乐",
+      "zh": "喷泉在左边还是右边？",
+      "pinyin": "pēn quán zài zuǒ biān hái shì yòu biān ？",
+      "tr": "Çeşme solda mı sağda mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_044",
+      "speaker": "张雨桐",
+      "zh": "进去以后往右走就能看到。",
+      "pinyin": "jìn qù yǐ hòu wǎng yòu zǒu jiù néng kàn dào 。",
+      "tr": "İçeri girince sağa dön, görürsün."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_045",
+      "speaker": "张伟",
+      "zh": "这边有很多花，颜色真好看。",
+      "pinyin": "zhè biān yǒu hěn duō huā ， yán sè zhēn hǎo kàn 。",
+      "tr": "Burada çok çiçek var, renkleri çok güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_046",
+      "speaker": "刘梅",
+      "zh": "我来给你们拍一张照片。",
+      "pinyin": "wǒ lái gěi nǐ men pāi yī zhāng zhào piān 。",
+      "tr": "Fotoğrafınızı çekeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_047",
+      "speaker": "张乐乐",
+      "zh": "我们站在花前面，别挡住路。",
+      "pinyin": "wǒ men zhàn zài huā qián miàn ， bié dǎng zhù lù 。",
+      "tr": "Çiçeklerin önünde durun ama yolu kapatmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_048",
+      "speaker": "张雨桐",
+      "zh": "好，拍完以后也给奶奶发一张。",
+      "pinyin": "hǎo ， pāi wán yǐ hòu yě gěi nǎi nǎi fā yī zhāng 。",
+      "tr": "Olur, sonra büyükanneme de gönderelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_049",
+      "speaker": "张伟",
+      "zh": "喷泉就在前面，你们听见水声了吗？",
+      "pinyin": "pēn quán jiù zài qián miàn ， nǐ men tīng jiàn shuǐ shēng le ma ？",
+      "tr": "Çeşme ileride, su sesini duyuyor musunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_050",
+      "speaker": "刘梅",
+      "zh": "听见了，那里还有几张空长椅。",
+      "pinyin": "tīng jiàn le ， nà lǐ hái yǒu jǐ zhāng kōng zhǎng yǐ 。",
+      "tr": "Duyuyorum, orada birkaç boş bank da var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_051",
+      "speaker": "张乐乐",
+      "zh": "我们坐一会儿，吃刚才买的面包吧。",
+      "pinyin": "wǒ men zuò yī huì er ， chī gāng cái mǎi de miàn bāo ba 。",
+      "tr": "Biraz oturup aldığımız ekmekleri yiyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_052",
+      "speaker": "张雨桐",
+      "zh": "好，走了这么久，大家都该休息了。",
+      "pinyin": "hǎo ， zǒu le zhè me jiǔ ， dà jiā dōu gāi xiū xī le 。",
+      "tr": "Olur, bu kadar yürüdükten sonra dinlenelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_053",
+      "speaker": "张伟",
+      "zh": "这个公园离我家不远。",
+      "pinyin": "zhè ge gōng yuán lí wǒ jiā bù yuǎn 。",
+      "tr": "Bu park evime uzak değil."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_054",
+      "speaker": "刘梅",
+      "zh": "坐两站公交车就能到。",
+      "pinyin": "zuò liǎng zhàn gōng jiāo chē jiù néng dào 。",
+      "tr": "İki durak otobüsle gelebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_055",
+      "speaker": "张乐乐",
+      "zh": "那以后放学也可以和同学来这里。",
+      "pinyin": "nà yǐ hòu fàng xué yě kě yǐ hé tóng xué lái zhè lǐ 。",
+      "tr": "Okuldan sonra arkadaşlarımla da gelebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_056",
+      "speaker": "张雨桐",
+      "zh": "当然，不过记得告诉我们你几点回来。",
+      "pinyin": "dāng rán ， bù guò jì de gào sù wǒ men nǐ jǐ diǎn huí lái 。",
+      "tr": "Elbette ama kaçta döneceğini bize söyle."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_057",
+      "speaker": "张伟",
+      "zh": "我们吃完以后去那边的湖看看吧。",
+      "pinyin": "wǒ men chī wán yǐ hòu qù nà biān de hú kàn kàn ba 。",
+      "tr": "Yemekten sonra ilerideki göle bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_058",
+      "speaker": "刘梅",
+      "zh": "好，湖边的路看起来很安静。",
+      "pinyin": "hǎo ， hú biān de lù kàn qǐ lái hěn ān jìng 。",
+      "tr": "Olur, göl kenarındaki yol sakin görünüyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_059",
+      "speaker": "张乐乐",
+      "zh": "我想把刚才的照片再看一遍。",
+      "pinyin": "wǒ xiǎng bǎ gāng cái de zhào piān zài kàn yī biàn 。",
+      "tr": "Az önce çektiğimiz fotoğraflara tekrar bakmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_060",
+      "speaker": "张雨桐",
+      "zh": "给我看看，光线刚好，拍得很清楚。",
+      "pinyin": "gěi wǒ kàn kàn ， guāng xiàn gāng hǎo ， pāi dé hěn qīng chǔ 。",
+      "tr": "Göster, ışık iyiymiş, çok net çıkmış."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_061",
+      "speaker": "张伟",
+      "zh": "现在几点了？",
+      "pinyin": "xiàn zài jǐ diǎn le ？",
+      "tr": "Saat kaç?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_062",
+      "speaker": "刘梅",
+      "zh": "快到下午三点了。",
+      "pinyin": "kuài dào xià wǔ sān diǎn le 。",
+      "tr": "Üç olmak üzere."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_063",
+      "speaker": "张乐乐",
+      "zh": "我们还来得及去书店吗？",
+      "pinyin": "wǒ men hái lái de jí qù shū diàn ma ？",
+      "tr": "Kitapçıya uğramaya yetişir miyiz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_064",
+      "speaker": "张雨桐",
+      "zh": "来得及，书店离公园出口只有几分钟。",
+      "pinyin": "lái de jí ， shū diàn lí gōng yuán chū kǒu zhǐ yǒu jǐ fēn zhōng 。",
+      "tr": "Yetişiriz, kitapçı park çıkışına birkaç dakika uzakta."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_065",
+      "speaker": "张伟",
+      "zh": "我想买一本讲城市的书。",
+      "pinyin": "wǒ xiǎng mǎi yī běn jiǎng chéng shì de shū 。",
+      "tr": "Şehirleri anlatan bir kitap almak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_066",
+      "speaker": "刘梅",
+      "zh": "那家书店有很多儿童读物。",
+      "pinyin": "nà jiā shū diàn yǒu hěn duō ér tóng dú wù 。",
+      "tr": "O kitapçıda çok sayıda çocuk kitabı var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_067",
+      "speaker": "张乐乐",
+      "zh": "我想找一本有地图的。",
+      "pinyin": "wǒ xiǎng zhǎo yī běn yǒu dì tú de 。",
+      "tr": "Haritası olan bir kitap arıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_068",
+      "speaker": "张雨桐",
+      "zh": "我陪你去找，买好以后我们就回家。",
+      "pinyin": "wǒ péi nǐ qù zhǎo ， mǎi hǎo yǐ hòu wǒ men jiù huí jiā 。",
+      "tr": "Sana yardım edeyim; alınca eve döneriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_069",
+      "speaker": "张伟",
+      "zh": "这本书里有附近的地图吗？",
+      "pinyin": "zhè běn shū lǐ yǒu fù jìn de dì tú ma ？",
+      "tr": "Bu kitapta yakındaki yerlerin haritası var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_070",
+      "speaker": "刘梅",
+      "zh": "有，还介绍了几个公园和博物馆。",
+      "pinyin": "yǒu ， hái jiè shào le jǐ gè gōng yuán hé bó wù guǎn 。",
+      "tr": "Var, birkaç parkı ve müzeyi de tanıtıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_071",
+      "speaker": "张乐乐",
+      "zh": "我想看看里面关于河边的那一页。",
+      "pinyin": "wǒ xiǎng kàn kàn lǐ miàn guān yú hé biān de nà yī yè 。",
+      "tr": "Nehir kenarıyla ilgili sayfaya bakmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_072",
+      "speaker": "张雨桐",
+      "zh": "这本很适合你，可以带回家慢慢看。",
+      "pinyin": "zhè běn hěn shì hé nǐ ， kě yǐ dài huí jiā màn màn kàn 。",
+      "tr": "Bu kitap sana uygun, eve götürüp yavaşça okursun."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_073",
+      "speaker": "张伟",
+      "zh": "今天我们去了银行、邮局和公园。",
+      "pinyin": "jīn tiān wǒ men qù le yín háng 、 yóu jú hé gōng yuán 。",
+      "tr": "Bugün bankaya, postaneye ve parka gittik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_074",
+      "speaker": "刘梅",
+      "zh": "还买了面包，也找到了你要的书。",
+      "pinyin": "hái mǎi le miàn bāo ， yě zhǎo dào le nǐ yào de shū 。",
+      "tr": "Ekmek aldık, istediğin kitabı da bulduk."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_075",
+      "speaker": "张乐乐",
+      "zh": "我觉得市中心比我想的有意思。",
+      "pinyin": "wǒ jué de shì zhōng xīn bǐ wǒ xiǎng de yǒu yì si 。",
+      "tr": "Şehir merkezi düşündüğümden ilginçmiş."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_076",
+      "speaker": "张雨桐",
+      "zh": "下次可以换一个方向，再看看别的地方。",
+      "pinyin": "xià cì kě yǐ huàn yí gè fāng xiàng ， zài kàn kàn bié de dì fāng 。",
+      "tr": "Bir dahaki sefere başka yöne gidip farklı yerleri görürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_077",
+      "speaker": "张伟",
+      "zh": "卡片已经寄出去了。",
+      "pinyin": "kǎ piàn yǐ jīng jì chū qù le 。",
+      "tr": "Kartı gönderdik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_078",
+      "speaker": "刘梅",
+      "zh": "我给奶奶发消息告诉她了。",
+      "pinyin": "wǒ gěi nǎi nǎi fā xiāo xī gào sù tā le 。",
+      "tr": "Büyükanneme haber vermek için mesaj attım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_079",
+      "speaker": "张乐乐",
+      "zh": "她收到以后一定会很高兴。",
+      "pinyin": "tā shōu dào yǐ hòu yí dìng huì hěn gāo xìng 。",
+      "tr": "Alınca mutlaka çok sevinecek."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_080",
+      "speaker": "张雨桐",
+      "zh": "下次见面时，我们再一起看照片。",
+      "pinyin": "xià cì jiàn miàn shí ， wǒ men zài yì qǐ kàn zhào piān 。",
+      "tr": "Bir dahaki görüşmemizde fotoğraflara birlikte bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_081",
+      "speaker": "张伟",
+      "zh": "今天走了不少路，你们累不累？",
+      "pinyin": "jīn tiān zǒu le bù shǎo lù ， nǐ men lèi bù lèi ？",
+      "tr": "Bugün epey yürüdük, yoruldunuz mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_082",
+      "speaker": "刘梅",
+      "zh": "我有一点儿累，不过玩得很开心。",
+      "pinyin": "wǒ yǒu yì diǎn ér lèi ， bù guò wán dé hěn kāi xīn 。",
+      "tr": "Biraz yoruldum ama çok eğlendim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_083",
+      "speaker": "张乐乐",
+      "zh": "我还想再来一次。",
+      "pinyin": "wǒ hái xiǎng zài lái yī cì 。",
+      "tr": "Bir kez daha gelmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_084",
+      "speaker": "张雨桐",
+      "zh": "好，下个周末我们可以再安排一次。",
+      "pinyin": "hǎo ， xià gè zhōu mò wǒ men kě yǐ zài ān pái yī cì 。",
+      "tr": "Olur, gelecek hafta sonu yine plan yapabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_085",
+      "speaker": "张伟",
+      "zh": "回家可以坐几路车？",
+      "pinyin": "huí jiā kě yǐ zuò jǐ lù chē ？",
+      "tr": "Eve hangi otobüsle dönebiliriz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_086",
+      "speaker": "刘梅",
+      "zh": "十一号车就在公园出口附近。",
+      "pinyin": "shí yī hào chē jiù zài gōng yuán chū kǒu fù jìn 。",
+      "tr": "On bir numara park çıkışının yakınından geçiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_087",
+      "speaker": "张乐乐",
+      "zh": "我看到站牌了，车马上就要来。",
+      "pinyin": "wǒ kàn dào zhàn pái le ， chē mǎ shàng jiù yào lái 。",
+      "tr": "Durak tabelasını gördüm, otobüs birazdan gelecek."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_088",
+      "speaker": "张雨桐",
+      "zh": "上车以后我们坐在一起吧。",
+      "pinyin": "shàng chē yǐ hòu wǒ men zuò zài yì qǐ ba 。",
+      "tr": "Binince birlikte oturalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_089",
+      "speaker": "张伟",
+      "zh": "今天你们最喜欢哪个地方？",
+      "pinyin": "jīn tiān nǐ men zuì xǐ huān nǎ ge dì fāng ？",
+      "tr": "Bugün en çok hangi yeri sevdiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_090",
+      "speaker": "刘梅",
+      "zh": "我喜欢喷泉旁边的花园。",
+      "pinyin": "wǒ xǐ huān pēn quán páng biān de huā yuán 。",
+      "tr": "Çeşmenin yanındaki bahçeyi sevdim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_091",
+      "speaker": "张乐乐",
+      "zh": "我最喜欢书店，因为找到了一本新书。",
+      "pinyin": "wǒ zuì xǐ huān shū diàn ， yīn wèi zhǎo dào le yī běn xīn shū 。",
+      "tr": "Yeni bir kitap bulduğum için kitapçıyı sevdim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_092",
+      "speaker": "张雨桐",
+      "zh": "我觉得和家人一起出来逛最开心。",
+      "pinyin": "wǒ jué de hé jiā rén yì qǐ chū lái guàng zuì kāi xīn 。",
+      "tr": "Ailemle gezmek en güzeli bence."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_093",
+      "speaker": "张伟",
+      "zh": "下次我们可以带爷爷奶奶一起来。",
+      "pinyin": "xià cì wǒ men kě yǐ dài yé yé nǎi nǎi yì qǐ lái 。",
+      "tr": "Bir dahaki sefere büyükanneyle büyükbabayı da getirebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_094",
+      "speaker": "刘梅",
+      "zh": "好，我会把公园的地图也留着。",
+      "pinyin": "hǎo ， wǒ huì bǎ gōng yuán de dì tú yě liú zhe 。",
+      "tr": "Olur, parkın haritasını saklarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_095",
+      "speaker": "张乐乐",
+      "zh": "到时候我可以当小向导。",
+      "pinyin": "dào shí hòu wǒ kě yǐ dāng xiǎo xiàng dǎo 。",
+      "tr": "O zaman küçük rehber ben olurum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_096",
+      "speaker": "张雨桐",
+      "zh": "那我们就让你带路，看看你记住多少。",
+      "pinyin": "nà wǒ men jiù ràng nǐ dài lù ， kàn kàn nǐ jì zhù duō shǎo 。",
+      "tr": "Peki, yolu sen göster, ne kadar hatırlıyorsun bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_097",
+      "speaker": "张伟",
+      "zh": "今天的市中心之行很顺利。",
+      "pinyin": "jīn tiān de shì zhōng xīn zhī xíng hěn shùn lì 。",
+      "tr": "Bugünkü şehir merkezi gezisi güzel geçti."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_098",
+      "speaker": "刘梅",
+      "zh": "我们去了想去的地方，也寄了卡片。",
+      "pinyin": "wǒ men qù le xiǎng qù de dì fāng ， yě jì le kǎ piàn 。",
+      "tr": "Gitmek istediğimiz yerlere uğrayıp kartı gönderdik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_099",
+      "speaker": "张乐乐",
+      "zh": "回家以后我把照片整理好。",
+      "pinyin": "huí jiā yǐ hòu wǒ bǎ zhào piān zhěng lǐ hǎo 。",
+      "tr": "Eve gidince fotoğrafları düzenleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC030_100",
+      "speaker": "张雨桐",
+      "zh": "好，等照片好了，我们发给奶奶看。",
+      "pinyin": "hǎo ， děng zhào piān hǎo le ， wǒ men fā gěi nǎi nǎi kàn 。",
+      "tr": "Güzel, hazır olunca büyükanneme göndeririz."
+    }
+  ]
+}

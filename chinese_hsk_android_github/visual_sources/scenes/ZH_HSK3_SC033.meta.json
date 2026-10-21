@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC033",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC033.json",
-  "dialogueSha256": "4197b18086caa6daa181b9233b4c18d8aa0958232e7652d7c9aa51b31155c6ff",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC033.json",
+  "dialogueSha256": "a76fc3cb49efeae71b9a796a597f95ad10476e68f6fb97741a009229e4d8a5bc",
   "titleTr": "Kafede Küçük Bir Tartışma",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "İki müşteri aynı masa konusunda tartışır; Liu Mei arabuluculuk yapar.",
@@ -48,7 +48,7 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "96ecf5305ba48ac9876d56a67eb6af7d946c12dc6ee1b8fa2a6fe21238dfc7a7"
+    "sha256": "a9459acd09765a85612c43f5e0fb777a07d6a058dd802a3324f75f8252bd77b4"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -70,5 +70,24 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: Liu Mei arabuluculuk rolünde; müşteri tartışması/uzlaşma bağlamı korunur. Kullanıcı, manifesto uygunsa ilerleme onayı verdi; HSK3 SC031-SC040 continuity seti final olarak entegre edildi."
+  "qaNoteTr": "Ön plandaki müşterinin ağzı görünür olacak şekilde yalnız baş bölgesi seçici biçimde düzenlendi; dış maskede decoded pikseller aynı, SSIM 0.9500.",
+  "postGenerationVisualQA": {
+    "mouthVisibilityQA": "PASS",
+    "localEditMaskPixelRatio": 0.06064,
+    "decodedPixelsOutsideMaskExact": true,
+    "fullImageSSIM11x11": 0.950044,
+    "allDialogueSpeakersVisible": true,
+    "dialogueTextQA": "PENDING_NATURALIZATION",
+    "anchorReview": "VISUAL_QA_PASS"
+  },
+  "dialogueTextQA": {
+    "status": "PASS",
+    "turns": 100,
+    "coherenceScore": 94.0,
+    "activeVocabularyCoverage": 1.0,
+    "topicWindowCoverage": 1.0,
+    "duplicateUtterances": 0,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
+  }
 }

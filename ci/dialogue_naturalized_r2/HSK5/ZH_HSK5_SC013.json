@@ -1,0 +1,710 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK5_SC013",
+  "level": "HSK5",
+  "sourceTitleZh": "第二次面试成功",
+  "sourceTitleTr": "İkinci Görüşmede Başarı",
+  "sourceMiniAdventureTr": "Yutong ikinci görüşmede daha iyi hazırlanıp staj kazanır.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK5_SC013_001",
+      "speaker": "张雨桐",
+      "zh": "第二次面试的邀请来了，我按照上次的反馈重新准备了项目例子。",
+      "pinyin": "dì èr cì miàn shì de yāo qǐng lái le ， wǒ àn zhào shàng cì de fǎn kuì chóng xīn zhǔn bèi le xiàng mù lì zi 。",
+      "tr": "İkinci mülakat daveti geldi; geçen seferki geri bildirime göre proje örneklerimi yeniden hazırladım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_002",
+      "speaker": "面试官",
+      "zh": "欢迎回来。今天我们会继续了解你的项目经历，也会谈谈你对实习工作的期待。",
+      "pinyin": "huān yíng huí lái 。 jīn tiān wǒ men huì jì xù liǎo jiě nǐ de xiàng mù jīng lì ， yě huì tán tán nǐ duì shí xí gōng zuò de qī dài 。",
+      "tr": "Tekrar hoş geldin. Bugün proje deneyimini konuşmaya devam edip stajdan beklentilerini de ele alacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_003",
+      "speaker": "同事",
+      "zh": "面试前你一直在练习怎么说明自己的贡献，现在感觉如何？",
+      "pinyin": "miàn shì qián nǐ yì zhí zài liàn xí zěn me shuō míng zì jǐ de gòng xiàn ， xiàn zài gǎn jué rú hé ？",
+      "tr": "Mülakat öncesinde kendi katkını anlatmayı çalışıyordun; şimdi nasıl hissediyorsun?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_004",
+      "speaker": "刘梅",
+      "zh": "紧张很正常，先听清楚问题，再按准备的思路回答就好。",
+      "pinyin": "jǐn zhāng hěn zhèng cháng ， xiān tīng qīng chǔ wèn tí ， zài àn zhǔn bèi de sī lù huí dá jiù hǎo 。",
+      "tr": "Heyecanlanman normal; önce soruyu dikkatle dinle, sonra hazırladığın düşünce sırasına göre yanıtla."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_005",
+      "speaker": "张雨桐",
+      "zh": "比上次踏实一些。我把每个例子都分成背景、行动和结果，也准备说明资料的限制。",
+      "pinyin": "bǐ shàng cì tà shí yī xiē 。 wǒ bǎ měi gè lì zi dōu fēn chéng bèi jǐng 、 xíng dòng hé jié guǒ ， yě zhǔn bèi shuō míng zī liào de xiàn zhì 。",
+      "tr": "Kendimi geçen seferden daha hazır hissediyorum. Her örneği arka plan, eylem ve sonuç diye ayırdım; verilerin sınırlarını da anlatacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_006",
+      "speaker": "面试官",
+      "zh": "很好。先谈谈社区调研项目，你最初要解决的是什么问题？",
+      "pinyin": "hěn hǎo 。 xiān tán tán shè qū diào yán xiàng mù ， nǐ zuì chū yào jiě jué de shì shén me wèn tí ？",
+      "tr": "Güzel. Önce mahalle araştırması projesini konuşalım; başlangıçta hangi sorunu çözmek istiyordunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_007",
+      "speaker": "同事",
+      "zh": "我也想听听你怎样从很多意见里找出值得进一步讨论的重点。",
+      "pinyin": "wǒ yě xiǎng tīng tīng nǐ zěn yàng cóng hěn duō yì jiàn lǐ zhǎo chū zhí de jìn yí bù tǎo lùn de zhòng diǎn 。",
+      "tr": "Ben de çok sayıdaki görüş arasından daha fazla tartışılması gereken noktayı nasıl bulduğunu duymak isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_008",
+      "speaker": "刘梅",
+      "zh": "慢一点说，先交代项目目标，不需要一开口就把所有细节都讲完。",
+      "pinyin": "màn yì diǎn shuō ， xiān jiāo dài xiàng mù mù biāo ， bù xū yào yī kāi kǒu jiù bǎ suǒ yǒu xì jié dōu jiǎng wán 。",
+      "tr": "Yavaşça anlat; önce projenin hedefini açıkla. Başlar başlamaz bütün ayrıntıları aktarman gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_009",
+      "speaker": "张雨桐",
+      "zh": "我们想了解居民参加社区活动时遇到的困难，好调整活动时间和通知方式。",
+      "pinyin": "wǒ men xiǎng liǎo jiě jū mín cān jiā shè qū huó dòng shí yù dào de kùn nán ， hǎo tiáo zhěng huó dòng shí jiān hé tōng zhī fāng shì 。",
+      "tr": "Mahalle sakinlerinin etkinliklere katılırken yaşadığı zorlukları öğrenip saatleri ve duyuru biçimini düzenlemek istedik."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_010",
+      "speaker": "面试官",
+      "zh": "你在项目里负责什么？请用一个具体行动说明。",
+      "pinyin": "nǐ zài xiàng mù lǐ fù zé shén me ？ qǐng yòng yí gè jù tǐ xíng dòng shuō míng 。",
+      "tr": "Projede hangi görevleri üstlendin? Somut bir eylemle açıklar mısın?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_011",
+      "speaker": "同事",
+      "zh": "可以按先后顺序讲，这样我们更容易看出你怎样推进工作。",
+      "pinyin": "kě yǐ àn xiān hòu shùn xù jiǎng ， zhè yàng wǒ men gèng róng yì kàn chū nǐ zěn yàng tuī jìn gōng zuò 。",
+      "tr": "İşleri hangi sırayla yaptığını anlatırsan süreci nasıl ilerlettiğini daha iyi görürüz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_012",
+      "speaker": "刘梅",
+      "zh": "记得区分你自己做的部分和组员共同完成的部分。",
+      "pinyin": "jì de qū fēn nǐ zì jǐ zuò de bù fèn hé zǔ yuán gòng tóng wán chéng de bù fèn 。",
+      "tr": "Kendi yaptıklarınla ekipçe tamamladığınız kısımları birbirinden ayırmayı unutma."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_013",
+      "speaker": "张雨桐",
+      "zh": "我联系受访者、安排访谈时间，并把回答按活动时间、地点和信息渠道分类。",
+      "pinyin": "wǒ lián xì shòu fǎng zhě 、 ān pái fǎng tán shí jiān ， bìng bǎ huí dá àn huó dòng shí jiān 、 dì diǎn hé xìn xī qú dào fēn lèi 。",
+      "tr": "Katılımcılarla iletişime geçip görüşmeleri ayarladım; yanıtları etkinlik saati, yeri ve bilgilendirme kanalına göre sınıflandırdım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_014",
+      "speaker": "面试官",
+      "zh": "分类后你发现了什么？这个发现怎样影响小组的决定？",
+      "pinyin": "fēn lèi hòu nǐ fā xiàn le shén me ？ zhè ge fā xiàn zěn yàng yǐng xiǎng xiǎo zǔ de jué dìng ？",
+      "tr": "Sınıflandırmadan sonra ne fark ettin? Bu bulgu ekibin kararını nasıl etkiledi?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_015",
+      "speaker": "同事",
+      "zh": "别只报结果，也可以说明你怎样确认它不是个别人的意见。",
+      "pinyin": "bié zhǐ bào jié guǒ ， yě kě yǐ shuō míng nǐ zěn yàng què rèn tā bú shì gè bié rén de yì jiàn 。",
+      "tr": "Yalnızca sonucu söyleme; bunun tek bir kişinin görüşü olmadığını nasıl doğruladığını da anlatabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_016",
+      "speaker": "刘梅",
+      "zh": "如果样本有限，就直接说明范围，结论会更可信。",
+      "pinyin": "rú guǒ yàng běn yǒu xiàn ， jiù zhí jiē shuō míng fàn wéi ， jié lùn huì gèng kě xìn 。",
+      "tr": "Örneklem sınırlıysa kapsamını açıkça belirt; sonuç daha güvenilir olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_017",
+      "speaker": "张雨桐",
+      "zh": "不少受访者提到时间不方便。我把相似回答合并，并检查每类意见各有多少人提到。",
+      "pinyin": "bù shǎo shòu fǎng zhě tí dào shí jiān bù fāng biàn 。 wǒ bǎ xiāng sì huí dá hé bìng ， bìng jiǎn chá měi lèi yì jiàn gè yǒu duō shǎo rén tí dào 。",
+      "tr": "Birçok katılımcı saatin uygun olmadığını söyledi. Benzer yanıtları birleştirip her görüşü kaç kişinin dile getirdiğini kontrol ettim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_018",
+      "speaker": "面试官",
+      "zh": "你们最后采取了什么行动？结果已经能观察到变化了吗？",
+      "pinyin": "nǐ men zuì hòu cǎi qǔ le shén me xíng dòng ？ jié guǒ yǐ jīng néng guān chá dào biàn huà le ma ？",
+      "tr": "Sonunda ne yaptınız? Sonuçlarda şimdiden gözlemlenebilir bir değişim oldu mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_019",
+      "speaker": "同事",
+      "zh": "把已经发生的结果和仍在计划中的事情分清楚，会让回答更准确。",
+      "pinyin": "bǎ yǐ jīng fā shēng de jié guǒ hé réng zài jì huà zhōng de shì qíng fēn qīng chǔ ， huì ràng huí dá gèng zhǔn què 。",
+      "tr": "Gerçekleşmiş sonuçlarla hâlâ plan aşamasındaki işleri ayırmak yanıtını daha doğru kılar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_020",
+      "speaker": "刘梅",
+      "zh": "只说你能证实的部分，别为了让例子完整而补上没有发生的结果。",
+      "pinyin": "zhǐ shuō nǐ néng zhèng shí de bù fèn ， bié wèi le ràng lì zi wán zhěng ér bǔ shàng méi yǒu fā shēng de jié guǒ 。",
+      "tr": "Yalnızca doğrulayabildiğin kısmı anlat; örnek tamam görünsün diye gerçekleşmemiş bir sonuç ekleme."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_021",
+      "speaker": "张雨桐",
+      "zh": "小组后来选择增加一个活动时段，但还没有足够时间判断长期参与人数会不会变化。",
+      "pinyin": "xiǎo zǔ hòu lái xuǎn zé zēng jiā yí gè huó dòng shí duàn ， dàn hái méi yǒu zú gòu shí jiān pàn duàn cháng qī cān yù rén shù huì bú huì biàn huà 。",
+      "tr": "Ekip daha sonra bir etkinlik saati ekledi; ancak uzun vadeli katılımın değişip değişmediğini değerlendirmek için henüz yeterli zaman geçmedi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_022",
+      "speaker": "面试官",
+      "zh": "你没有夸大效果，这一点很好。那你从项目里学到的最重要一件事是什么？",
+      "pinyin": "nǐ méi yǒu kuā dà xiào guǒ ， zhè yì diǎn hěn hǎo 。 nà nǐ cóng xiàng mù lǐ xué dào de zuì zhòng yào yī jiàn shì shì shén me ？",
+      "tr": "Etkileri abartmaman iyi. Bu projeden öğrendiğin en önemli şey neydi?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_023",
+      "speaker": "同事",
+      "zh": "你可以说一个具体的变化，比如以后怎样更早确认需求。",
+      "pinyin": "nǐ kě yǐ shuō yí gè jù tǐ de biàn huà ， bǐ rú yǐ hòu zěn yàng gèng zǎo què rèn xū qiú 。",
+      "tr": "Somut bir değişiklikten söz edebilirsin; örneğin bundan sonra ihtiyaçları nasıl daha erken doğrulayacağından."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_024",
+      "speaker": "刘梅",
+      "zh": "想一想这段经历怎样改变了你的做法，而不是只说“学到了很多”。",
+      "pinyin": "xiǎng yī xiǎng zhè duàn jīng lì zěn yàng gǎi biàn le nǐ de zuò fǎ ， ér bú shì zhǐ shuō “ xué dào le hěn duō ” 。",
+      "tr": "“Çok şey öğrendim” demek yerine bu deneyimin çalışma biçimini nasıl değiştirdiğini düşün."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_025",
+      "speaker": "张雨桐",
+      "zh": "我学会先确认问题，再设计问题和分类方法，避免收集了资料却回答不了目标。",
+      "pinyin": "wǒ xué huì xiān què rèn wèn tí ， zài shè jì wèn tí hé fēn lèi fāng fǎ ， bì miǎn shōu jí le zī liào què huí dá bù liǎo mù biāo 。",
+      "tr": "Önce sorunu doğrulamayı, sonra soruları ve sınıflandırma yöntemini tasarlamayı öğrendim; böylece hedefe yanıt vermeyen veri toplamam."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_026",
+      "speaker": "面试官",
+      "zh": "如果团队成员不同意你的分类，你会怎样处理？",
+      "pinyin": "rú guǒ tuán duì chéng yuán bù tóng yì nǐ de fēn lèi ， nǐ huì zěn yàng chǔ lǐ ？",
+      "tr": "Ekip üyelerinden biri sınıflandırmana katılmasa nasıl ilerlersin?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_027",
+      "speaker": "同事",
+      "zh": "也可以谈谈你会怎样比较不同意见，而不是马上坚持自己的方案。",
+      "pinyin": "yě kě yǐ tán tán nǐ huì zěn yàng bǐ jiào bù tóng yì jiàn ， ér bú shì mǎ shàng jiān chí zì jǐ de fāng àn 。",
+      "tr": "Kendi planında hemen ısrar etmek yerine farklı görüşleri nasıl karşılaştıracağını da anlatabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_028",
+      "speaker": "刘梅",
+      "zh": "先问清楚对方依据是什么，再一起看资料是否支持其中一种解释。",
+      "pinyin": "xiān wèn qīng chǔ duì fāng yī jù shì shén me ， zài yì qǐ kàn zī liào shì fǒu zhī chí qí zhōng yī zhǒng jiě shì 。",
+      "tr": "Önce karşı tarafın dayanağını sor; sonra verilerin hangi yorumu desteklediğine birlikte bakın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_029",
+      "speaker": "张雨桐",
+      "zh": "我会请对方举例，再回到原始回答检查；如果分类确实不合适，就一起调整标准。",
+      "pinyin": "wǒ huì qǐng duì fāng jǔ lì ， zài huí dào yuán shǐ huí dá jiǎn chá ； rú guǒ fēn lèi què shí bù hé shì ， jiù yì qǐ tiáo zhěng biāo zhǔn 。",
+      "tr": "Karşımdakinden örnek ister, ilk yanıtlara dönerim; sınıflandırma gerçekten uygun değilse ölçütü birlikte değiştiririm."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_030",
+      "speaker": "面试官",
+      "zh": "这个回答体现了合作。你遇到过意见最后仍不一致的情况吗？",
+      "pinyin": "zhè ge huí dá tǐ xiàn le hé zuò 。 nǐ yù dào guò yì jiàn zuì hòu réng bù yī zhì de qíng kuàng ma ？",
+      "tr": "Bu yanıt iş birliğini gösteriyor. Görüşlerin sonunda yine de ayrıldığı bir durum yaşadın mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_031",
+      "speaker": "同事",
+      "zh": "如果有，就说明你怎样记录分歧，以及谁负责作最后决定。",
+      "pinyin": "rú guǒ yǒu ， jiù shuō míng nǐ zěn yàng jì lù fēn qí ， yǐ jí shuí fù zé zuò zuì hòu jué dìng 。",
+      "tr": "Öyle bir durum olduysa görüş ayrılığını nasıl kaydettiğini ve son kararı kimin verdiğini açıkla."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_032",
+      "speaker": "刘梅",
+      "zh": "你不必把每次分歧都说成冲突，重点是如何继续工作。",
+      "pinyin": "nǐ bù bì bǎ měi cì fēn qí dōu shuō chéng chōng tū ， zhòng diǎn shì rú hé jì xù gōng zuò 。",
+      "tr": "Her görüş ayrılığını çatışma gibi anlatman gerekmez; önemli olan çalışmayı nasıl sürdürdüğün."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_033",
+      "speaker": "张雨桐",
+      "zh": "有一次我们对两类回答是否要合并意见不同。我先保留两种标记，请组员分别复核后再比较。",
+      "pinyin": "yǒu yī cì wǒ men duì liǎng lèi huí dá shì fǒu yào hé bìng yì jiàn bù tóng 。 wǒ xiān bǎo liú liǎng zhǒng biāo jì ， qǐng zǔ yuán fēn bié fù hé hòu zài bǐ jiào 。",
+      "tr": "Bir seferinde iki yanıt grubunu birleştirip birleştirmemekte anlaşamadık. Önce iki etiketi de koruyup ekip arkadaşlarıma ayrı ayrı kontrol ettirdim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_034",
+      "speaker": "面试官",
+      "zh": "复核后你们怎样决定的？",
+      "pinyin": "fù hé hòu nǐ men zěn yàng jué dìng de ？",
+      "tr": "Yeniden kontrolden sonra nasıl karar verdiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_035",
+      "speaker": "同事",
+      "zh": "把判断过程说出来，让我们知道你不是只挑支持自己看法的资料。",
+      "pinyin": "bǎ pàn duàn guò chéng shuō chū lái ， ràng wǒ men zhī dào nǐ bú shì zhǐ tiāo zhī chí zì jǐ kàn fǎ de zī liào 。",
+      "tr": "Değerlendirme sürecini anlat; böylece yalnızca kendi görüşünü destekleyen verileri seçmediğini anlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_036",
+      "speaker": "刘梅",
+      "zh": "也可以承认最后采用了哪种解释，以及为什么。",
+      "pinyin": "yě kě yǐ chéng rèn zuì hòu cǎi yòng le nǎ zhǒng jiě shì ， yǐ jí wèi shén me 。",
+      "tr": "Sonunda hangi yorumu benimsediğinizi ve nedenini de söyleyebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_037",
+      "speaker": "张雨桐",
+      "zh": "复核发现两类人提到的场景不同，所以我们保留了两个类别，没有强行合并。",
+      "pinyin": "fù hé fā xiàn liǎng lèi rén tí dào de chǎng jǐng bù tóng ， suǒ yǐ wǒ men bǎo liú le liǎng gè lèi bié ， méi yǒu qiáng xíng hé bìng 。",
+      "tr": "Kontrol, iki grubun farklı durumları anlattığını gösterdi; zorla birleştirmek yerine iki kategoriyi de koruduk."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_038",
+      "speaker": "面试官",
+      "zh": "谢谢，这个例子说明你愿意根据证据修正判断。",
+      "pinyin": "xiè xiè ， zhè ge lì zi shuō míng nǐ yuàn yì gēn jù zhèng jù xiū zhèng pàn duàn 。",
+      "tr": "Teşekkürler; bu örnek kanıta göre değerlendirmeni değiştirebildiğini gösteriyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_039",
+      "speaker": "同事",
+      "zh": "你可以再补充，当时怎样让所有组员都能理解新的分类。",
+      "pinyin": "nǐ kě yǐ zài bǔ chōng ， dāng shí zěn yàng ràng suǒ yǒu zǔ yuán dōu néng lǐ jiě xīn de fēn lèi 。",
+      "tr": "Yeni sınıflandırmayı tüm ekip üyelerinin anlamasını nasıl sağladığını da ekleyebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_040",
+      "speaker": "刘梅",
+      "zh": "说到这里先停一下，听听面试官还想了解哪一部分。",
+      "pinyin": "shuō dào zhè lǐ xiān tíng yī xià ， tīng tīng miàn shì guān hái xiǎng liǎo jiě nǎ yī bù fèn 。",
+      "tr": "Burada durup görüşmecinin başka hangi noktayı öğrenmek istediğini dinle."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_041",
+      "speaker": "张雨桐",
+      "zh": "我把分类标准写进了小组记录，也用两个例子解释为什么要保留不同类别。",
+      "pinyin": "wǒ bǎ fēn lèi biāo zhǔn xiě jìn le xiǎo zǔ jì lù ， yě yòng liǎng gè lì zi jiě shì wèi shén me yào bǎo liú bù tóng lèi bié 。",
+      "tr": "Sınıflandırma ölçütlerini ekip kayıtlarına yazdım ve farklı kategorileri neden koruduğumuzu iki örnekle açıkladım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_042",
+      "speaker": "面试官",
+      "zh": "很好。实习工作中，你希望怎样接受指导和反馈？",
+      "pinyin": "hěn hǎo 。 shí xí gōng zuò zhōng ， nǐ xī wàng zěn yàng jiē shòu zhǐ dǎo hé fǎn kuì ？",
+      "tr": "Güzel. Stajda nasıl bir rehberlik ve geri bildirim almak istersin?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_043",
+      "speaker": "同事",
+      "zh": "你可以说希望定期沟通，也说明自己会先独立尝试解决问题。",
+      "pinyin": "nǐ kě yǐ shuō xī wàng dìng qī gōu tōng ， yě shuō míng zì jǐ huì xiān dú lì cháng shì jiě jué wèn tí 。",
+      "tr": "Düzenli görüşmeler istediğini, ama önce sorunları bağımsız çözmeyi deneyeceğini söyleyebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_044",
+      "speaker": "刘梅",
+      "zh": "表达期待时也要问对方实际能提供什么，确保彼此理解一致。",
+      "pinyin": "biǎo dá qī dài shí yě yào wèn duì fāng shí jì néng tí gōng shén me ， què bǎo bǐ cǐ lǐ jiě yí zhì 。",
+      "tr": "Beklentilerini söylerken karşı tarafın gerçekte ne sunabileceğini de sor; karşılıklı anlayışınız net olsun."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_045",
+      "speaker": "张雨桐",
+      "zh": "我希望有固定的指导人，每周简短复盘一次；遇到问题时我会先整理尝试过的方法。",
+      "pinyin": "wǒ xī wàng yǒu gù dìng de zhǐ dǎo rén ， měi zhōu jiǎn duǎn fù pán yī cì ； yù dào wèn tí shí wǒ huì xiān zhěng lǐ cháng shì guò de fāng fǎ 。",
+      "tr": "Sabit bir danışman ve haftalık kısa bir değerlendirme isterim; sorun yaşarsam önce denediğim yöntemleri toparlarım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_046",
+      "speaker": "面试官",
+      "zh": "团队通常每周安排一次指导沟通，也会在项目节点给具体反馈。",
+      "pinyin": "tuán duì tōng cháng měi zhōu ān pái yī cì zhǐ dǎo gōu tōng ， yě huì zài xiàng mù jié diǎn gěi jù tǐ fǎn kuì 。",
+      "tr": "Ekip genellikle haftada bir rehberlik görüşmesi yapıyor ve proje aşamalarında somut geri bildirim veriyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_047",
+      "speaker": "同事",
+      "zh": "这个安排听起来适合你。你还可以问实习生会参与哪类真实任务。",
+      "pinyin": "zhè ge ān pái tīng qǐ lái shì hé nǐ 。 nǐ hái kě yǐ wèn shí xí shēng huì cān yù nǎ lèi zhēn shí rèn wù 。",
+      "tr": "Bu düzen sana uygun görünüyor. Stajyerlerin hangi gerçek görevlere katılacağını da sorabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_048",
+      "speaker": "刘梅",
+      "zh": "别只问待遇和时间，工作内容是不是符合学习目标也很重要。",
+      "pinyin": "bié zhǐ wèn dài yù hé shí jiān ， gōng zuò nèi róng shì bú shì fú hé xué xí mù biāo yě hěn zhòng yào 。",
+      "tr": "Yalnızca koşulları ve saati değil, işin öğrenme hedeflerine uyup uymadığını da sor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_049",
+      "speaker": "张雨桐",
+      "zh": "实习生会参与访谈和资料整理吗？完成后有没有机会向团队汇报发现？",
+      "pinyin": "shí xí shēng huì cān yù fǎng tán hé zī liào zhěng lǐ ma ？ wán chéng hòu yǒu méi yǒu jī huì xiàng tuán duì huì bào fā xiàn ？",
+      "tr": "Stajyerler görüşmelere ve veri düzenlemeye katılıyor mu? Sonunda bulguları ekibe sunma fırsatı oluyor mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_050",
+      "speaker": "面试官",
+      "zh": "会参与这些工作。是否负责汇报，要看项目安排和你准备的情况。",
+      "pinyin": "huì cān yù zhè xiē gōng zuò 。 shì fǒu fù zé huì bào ， yào kàn xiàng mù ān pái hé nǐ zhǔn bèi de qíng kuàng 。",
+      "tr": "Bu çalışmalara katılırlar. Sunum sorumluluğu ise projenin durumuna ve hazırlığına bağlı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_051",
+      "speaker": "同事",
+      "zh": "你可以说明自己愿意承担任务，也愿意先学习团队使用的标准。",
+      "pinyin": "nǐ kě yǐ shuō míng zì jǐ yuàn yì chéng dān rèn wù ， yě yuàn yì xiān xué xí tuán duì shǐ yòng de biāo zhǔn 。",
+      "tr": "Görev almaya istekli olduğunu ve önce ekibin kullandığı standartları öğrenmek istediğini söyleyebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_052",
+      "speaker": "刘梅",
+      "zh": "同时确认日常任务和实习期限，想清楚这段经历是否适合你的安排。",
+      "pinyin": "tóng shí què rèn rì cháng rèn wù hé shí xí qī xiàn ， xiǎng qīng chǔ zhè duàn jīng lì shì fǒu shì hé nǐ de ān pái 。",
+      "tr": "Günlük görevleri ve staj süresini de doğrula; bu deneyimin planına uyup uymadığını düşün."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_053",
+      "speaker": "张雨桐",
+      "zh": "我每周能安排三天，考试周需要提前协调。这个时间是否符合团队需要？",
+      "pinyin": "wǒ měi zhōu néng ān pái sān tiān ， kǎo shì zhōu xū yào tí qián xié tiáo 。 zhè ge shí jiān shì fǒu fú hé tuán duì xū yào ？",
+      "tr": "Haftada üç gün ayırabilirim; sınav haftasında önceden planlama yapmam gerekir. Bu takviminizle uyuşur mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_054",
+      "speaker": "面试官",
+      "zh": "目前这个岗位可以每周三天，考试安排提前告知就能协商。",
+      "pinyin": "mù qián zhè ge gǎng wèi kě yǐ měi zhōu sān tiān ， kǎo shì ān pái tí qián gào zhī jiù néng xié shāng 。",
+      "tr": "Bu pozisyonda haftada üç gün mümkün; sınav tarihlerini önceden bildirirseniz planlayabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_055",
+      "speaker": "同事",
+      "zh": "听起来时间合适，但你还得确认通勤和课程安排，不要漏掉实际成本。",
+      "pinyin": "tīng qǐ lái shí jiān hé shì ， dàn nǐ hái dé què rèn tōng qín hé kè chéng ān pái ， bú yào lòu diào shí jì chéng běn 。",
+      "tr": "Saatler uygun görünüyor ama ulaşımı ve ders programını da doğrula; gerçek yükü hesaba kat."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_056",
+      "speaker": "刘梅",
+      "zh": "对，把每周可用时间写出来，再决定能不能长期坚持。",
+      "pinyin": "duì ， bǎ měi zhōu kě yòng shí jiān xiě chū lái ， zài jué dìng néng bù néng cháng qī jiān chí 。",
+      "tr": "Evet, haftalık uygun zamanını yazıp bunu uzun süre sürdürebilip sürdüremeyeceğine karar ver."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_057",
+      "speaker": "张雨桐",
+      "zh": "我核对过课表，三天可以安排；通勤也能接受，不会影响必修课。",
+      "pinyin": "wǒ hé duì guò kè biǎo ， sān tiān kě yǐ ān pái ； tōng qín yě néng jiē shòu ， bú huì yǐng xiǎng bì xiū kè 。",
+      "tr": "Ders programımı kontrol ettim; üç günü ayarlayabilirim, ulaşım da zor değil ve zorunlu derslerimi etkilemiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_058",
+      "speaker": "面试官",
+      "zh": "那你对工作安排已经了解得比较清楚了。还有什么想确认的吗？",
+      "pinyin": "nà nǐ duì gōng zuò ān pái yǐ jīng liǎo jiě dé bǐ jiào qīng chǔ le 。 hái yǒu shén me xiǎng què rèn de ma ？",
+      "tr": "Öyleyse çalışma düzenini oldukça iyi anladın. Doğrulamak istediğin başka bir konu var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_059",
+      "speaker": "同事",
+      "zh": "可以问下一步什么时候通知结果，但先让对方把问题说完。",
+      "pinyin": "kě yǐ wèn xià yī bù shén me shí hòu tōng zhī jié guǒ ， dàn xiān ràng duì fāng bǎ wèn tí shuō wán 。",
+      "tr": "Sonraki adımın ne zaman bildirileceğini sorabilirsin; önce karşı tarafın sorusunu bitirmesine izin ver."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_060",
+      "speaker": "刘梅",
+      "zh": "问题问得简洁就好，不必为了显得积极而一次问很多。",
+      "pinyin": "wèn tí wèn dé jiǎn jié jiù hǎo ， bù bì wèi le xiǎn de jī jí ér yī cì wèn hěn duō 。",
+      "tr": "Sorularını kısa tut; ilgili görünmek için bir kerede çok fazla soru sorman gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_061",
+      "speaker": "张雨桐",
+      "zh": "如果我进入团队，前三个月最希望我先完成哪类任务？",
+      "pinyin": "rú guǒ wǒ jìn rù tuán duì ， qián sān gè yuè zuì xī wàng wǒ xiān wán chéng nǎ lèi rèn wù ？",
+      "tr": "Ekibe katılırsam ilk üç ayda öncelikle hangi görevleri tamamlamamı beklersiniz?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_062",
+      "speaker": "面试官",
+      "zh": "前期会协助整理访谈资料，熟悉流程后再参与问题设计和初步分析。",
+      "pinyin": "qián qī huì xié zhù zhěng lǐ fǎng tán zī liào ， shú xī liú chéng hòu zài cān yù wèn tí shè jì hé chū bù fēn xī 。",
+      "tr": "İlk dönemde görüşme verilerini düzenlemeye yardım edersin; süreci öğrendikten sonra soru tasarımı ve ilk analizlere katılırsın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_063",
+      "speaker": "同事",
+      "zh": "这个回答也帮助你判断岗位是否真的提供你想要的实践机会。",
+      "pinyin": "zhè ge huí dá yě bāng zhù nǐ pàn duàn gǎng wèi shì fǒu zhēn de tí gōng nǐ xiǎng yào de shí jiàn jī huì 。",
+      "tr": "Bu yanıt, pozisyonun istediğin uygulama fırsatlarını gerçekten sunup sunmadığını değerlendirmeni de sağlar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_064",
+      "speaker": "刘梅",
+      "zh": "听完工作安排，再想想自己是否愿意做前期整理，不要只盯着以后可能负责的部分。",
+      "pinyin": "tīng wán gōng zuò ān pái ， zài xiǎng xiǎng zì jǐ shì fǒu yuàn yì zuò qián qī zhěng lǐ ， bú yào zhǐ dīng zhe yǐ hòu kě néng fù zé de bù fèn 。",
+      "tr": "İş düzenlemesini duyduktan sonra ilk veri düzenleme işini isteyip istemediğini düşün; yalnızca ilerideki görevleri önemseme."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_065",
+      "speaker": "张雨桐",
+      "zh": "我愿意从整理资料开始，只要能逐步了解分析方法并得到改进建议。",
+      "pinyin": "wǒ yuàn yì cóng zhěng lǐ zī liào kāi shǐ ， zhǐ yào néng zhú bù liǎo jiě fēn xī fāng fǎ bìng dé dào gǎi jìn jiàn yì 。",
+      "tr": "Veri düzenlemeyle başlamaya razıyım; analiz yöntemlerini adım adım öğrenip gelişim önerisi alabileyim yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_066",
+      "speaker": "面试官",
+      "zh": "这是合理的期待。我们会根据任务进度给反馈，但也希望实习生主动提问。",
+      "pinyin": "zhè shì hé lǐ de qī dài 。 wǒ men huì gēn jù rèn wù jìn dù gěi fǎn kuì ， dàn yě xī wàng shí xí shēng zhǔ dòng tí wèn 。",
+      "tr": "Bu makul bir beklenti. Görev ilerledikçe geri bildirim veririz; stajyerlerin de soru sormasını bekliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_067",
+      "speaker": "同事",
+      "zh": "如果有不懂的地方，最好带着具体例子去问，双方更容易说清楚。",
+      "pinyin": "rú guǒ yǒu bù dǒng de dì fāng ， zuì hǎo dài zhe jù tǐ lì zi qù wèn ， shuāng fāng gèng róng yì shuō qīng chǔ 。",
+      "tr": "Anlamadığın bir konu olursa somut örnekle sormak, açıklamayı kolaylaştırır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_068",
+      "speaker": "刘梅",
+      "zh": "主动提问不等于把所有决定交给别人，你也要先形成自己的想法。",
+      "pinyin": "zhǔ dòng tí wèn bù děng yú bǎ suǒ yǒu jué dìng jiāo gěi bié rén ， nǐ yě yào xiān xíng chéng zì jǐ de xiǎng fǎ 。",
+      "tr": "Soru sormak tüm kararları başkasına bırakmak demek değil; önce kendi düşünceni oluşturmalısın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_069",
+      "speaker": "张雨桐",
+      "zh": "我会先读材料、试着分析，再把不确定的地方整理成问题。",
+      "pinyin": "wǒ huì xiān dú cái liào 、 shì zhe fēn xī ， zài bǎ bù què dìng de dì fāng zhěng lǐ chéng wèn tí 。",
+      "tr": "Önce materyalleri okuyup analiz etmeyi deneyeceğim; emin olmadığım yerleri soru hâline getireceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_070",
+      "speaker": "面试官",
+      "zh": "听起来你已经想过怎样参与团队。我们会在本周内通知下一步安排。",
+      "pinyin": "tīng qǐ lái nǐ yǐ jīng xiǎng guò zěn yàng cān yù tuán duì 。 wǒ men huì zài běn zhōu nèi tōng zhī xià yī bù ān pái 。",
+      "tr": "Ekibe nasıl katılacağını düşündüğün anlaşılıyor. Sonraki adımı bu hafta içinde bildireceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_071",
+      "speaker": "同事",
+      "zh": "刚才的回答比上次有条理，你没有急着说完，而是先回应问题再举例。",
+      "pinyin": "gāng cái de huí dá bǐ shàng cì yǒu tiáo lǐ ， nǐ méi yǒu jí zhe shuō wán ， ér shì xiān huí yìng wèn tí zài jǔ lì 。",
+      "tr": "Yanıtların geçen görüşmeden daha düzenliydi; acele etmeden önce soruyu yanıtlayıp sonra örnek verdin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_072",
+      "speaker": "刘梅",
+      "zh": "不管结果如何，这次表达得更清楚就是实实在的进步。",
+      "pinyin": "bù guǎn jié guǒ rú hé ， zhè cì biǎo dá dé gèng qīng chǔ jiù shì shí shí zài de jìn bù 。",
+      "tr": "Sonuç ne olursa olsun, bu kez kendini daha açık ifade etmen gerçek bir ilerleme."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_073",
+      "speaker": "张雨桐",
+      "zh": "谢谢。我觉得把例子缩短以后，面试官更容易接着问，我也没那么紧张。",
+      "pinyin": "xiè xiè 。 wǒ jué de bǎ lì zi suō duǎn yǐ hòu ， miàn shì guān gèng róng yì jiē zhe wèn ， wǒ yě méi nà me jǐn zhāng 。",
+      "tr": "Teşekkürler. Örnekleri kısaltınca görüşmecinin devam sorusu sorması kolaylaştı ve ben de daha az gerildim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_074",
+      "speaker": "面试官",
+      "zh": "我们讨论后决定邀请你参加实习。你的调研经历和这次更清楚的表达都符合岗位需要。",
+      "pinyin": "wǒ men tǎo lùn hòu jué dìng yāo qǐng nǐ cān jiā shí xí 。 nǐ de diào yán jīng lì hé zhè cì gèng qīng chǔ de biǎo dá dōu fú hé gǎng wèi xū yào 。",
+      "tr": "Görüşmemizden sonra seni staja davet etmeye karar verdik. Araştırma deneyimin ve bu görüşmedeki açık anlatımın pozisyona uyuyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_075",
+      "speaker": "同事",
+      "zh": "太好了！你最担心的项目问题答得很清楚，也说明了资料的限制。",
+      "pinyin": "tài hǎo le ！ nǐ zuì dān xīn de xiàng mù wèn tí dá dé hěn qīng chǔ ， yě shuō míng le zī liào de xiàn zhì 。",
+      "tr": "Harika! En çok kaygılandığın proje sorusunu açık anlattın ve verilerin sınırlarını da belirttin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_076",
+      "speaker": "刘梅",
+      "zh": "先听清楚实习条件和开始日期，再决定是否接受，别只顾着高兴。",
+      "pinyin": "xiān tīng qīng chǔ shí xí tiáo jiàn hé kāi shǐ rì qī ， zài jué dìng shì fǒu jiē shòu ， bié zhǐ gù zhe gāo xìng 。",
+      "tr": "Sevinmeye dalmadan önce staj koşullarını ve başlangıç tarihini net öğren; sonra kabul edip etmeyeceğine karar ver."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_077",
+      "speaker": "张雨桐",
+      "zh": "谢谢你们。我想先确认实习期限、每周工作时间和需要提交的材料。",
+      "pinyin": "xiè xiè nǐ men 。 wǒ xiǎng xiān què rèn shí xí qī xiàn 、 měi zhōu gōng zuò shí jiān hé xū yào tí jiāo de cái liào 。",
+      "tr": "Teşekkür ederim. Önce staj süresini, haftalık çalışma saatlerini ve teslim etmem gereken belgeleri doğrulamak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_078",
+      "speaker": "面试官",
+      "zh": "期限是三个月，每周三天；材料清单和正式邀请邮件会一起发给你。",
+      "pinyin": "qī xiàn shì sān gè yuè ， měi zhōu sān tiān ； cái liào qīng dān hé zhèng shì yāo qǐng yóu jiàn huì yì qǐ fā gěi nǐ 。",
+      "tr": "Staj üç ay ve haftada üç gün. Gerekli belgelerin listesini resmî davet e-postasıyla birlikte göndereceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_079",
+      "speaker": "同事",
+      "zh": "把条件核对完再答复会更稳妥，也能给自己时间安排课程。",
+      "pinyin": "bǎ tiáo jiàn hé duì wán zài dá fù huì gèng wěn tuǒ ， yě néng gěi zì jǐ shí jiān ān pái kè chéng 。",
+      "tr": "Koşulları kontrol ettikten sonra yanıt vermen daha sağlıklı olur; derslerini de buna göre planlarsın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_080",
+      "speaker": "刘梅",
+      "zh": "机会来了值得开心，也要把实际安排想清楚，这样接受后才能安心投入。",
+      "pinyin": "jī huì lái le zhí de kāi xīn ， yě yào bǎ shí jì ān pái xiǎng qīng chǔ ， zhè yàng jiē shòu hòu cái néng ān xīn tóu rù 。",
+      "tr": "Fırsata sevinmek güzel; gerçek düzenlemeyi de netleştir ki kabul edince rahatça odaklanabilesin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_081",
+      "speaker": "张雨桐",
+      "zh": "我核对过了，三个月和每周三天都能配合课程。我愿意接受这个实习机会。",
+      "pinyin": "wǒ hé duì guò le ， sān gè yuè hé měi zhōu sān tiān dōu néng pèi hé kè chéng 。 wǒ yuàn yì jiē shòu zhè ge shí xí jī huì 。",
+      "tr": "Kontrol ettim; üç aylık süre ve haftada üç gün ders programıma uyuyor. Bu staj fırsatını kabul ediyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_082",
+      "speaker": "面试官",
+      "zh": "欢迎加入。正式邮件里会说明报到时间、联系人和入职前需要准备的事项。",
+      "pinyin": "huān yíng jiā rù 。 zhèng shì yóu jiàn lǐ huì shuō míng bào dào shí jiān 、 lián xì rén hé rù zhí qián xū yào zhǔn bèi de shì xiàng 。",
+      "tr": "Ekibe hoş geldin. Resmî e-postada başlangıç saatini, irtibat kişisini ve önceden hazırlaman gerekenleri açıklayacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_083",
+      "speaker": "同事",
+      "zh": "收到邮件后先逐项核对材料，有不清楚的地方尽早问，不用自己猜。",
+      "pinyin": "shōu dào yóu jiàn hòu xiān zhú xiàng hé duì cái liào ， yǒu bù qīng chǔ de dì fāng jǐn zǎo wèn ， bù yòng zì jǐ cāi 。",
+      "tr": "E-posta gelince belgeleri tek tek kontrol et; belirsiz bir şey varsa tahmin etmek yerine erken sor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_084",
+      "speaker": "刘梅",
+      "zh": "也把课程和实习时间放进日历，留出通勤和休息的时间。",
+      "pinyin": "yě bǎ kè chéng hé shí xí shí jiān fàng jìn rì lì ， liú chū tōng qín hé xiū xī de shí jiān 。",
+      "tr": "Dersleri ve staj saatlerini takvime ekle; ulaşım ve dinlenme için de zaman bırak."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_085",
+      "speaker": "张雨桐",
+      "zh": "我会先确认报到资料，之后再调整每周安排，不让课程受到影响。",
+      "pinyin": "wǒ huì xiān què rèn bào dào zī liào ， zhī hòu zài tiáo zhěng měi zhōu ān pái ， bù ràng kè chéng shòu dào yǐng xiǎng 。",
+      "tr": "Önce başlangıç belgelerini doğrulayıp haftalık programımı düzenleyeceğim; derslerim aksamayacak."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_086",
+      "speaker": "面试官",
+      "zh": "入职第一周会介绍团队流程，你可以先熟悉资料和数据保护要求。",
+      "pinyin": "rù zhí dì yī zhōu huì jiè shào tuán duì liú chéng ， nǐ kě yǐ xiān shú xī zī liào hé shù jù bǎo hù yāo qiú 。",
+      "tr": "İlk hafta ekip süreçlerini tanıtacağız; önce materyalleri ve veri koruma koşullarını öğrenebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_087",
+      "speaker": "同事",
+      "zh": "了解资料权限很重要，开始整理访谈内容前要确认自己能访问哪些信息。",
+      "pinyin": "liǎo jiě zī liào quán xiàn hěn zhòng yào ， kāi shǐ zhěng lǐ fǎng tán nèi róng qián yào què rèn zì jǐ néng fǎng wèn nǎ xiē xìn xī 。",
+      "tr": "Görüşme içeriklerini düzenlemeye başlamadan hangi bilgilere erişebildiğini doğrulaman önemli."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_088",
+      "speaker": "刘梅",
+      "zh": "遇到不确定的隐私问题先问指导人，不要为了赶进度自行处理。",
+      "pinyin": "yù dào bù què dìng de yǐn sī wèn tí xiān wèn zhǐ dǎo rén ， bú yào wèi le gǎn jìn dù zì xíng chǔ lǐ 。",
+      "tr": "Gizlilikle ilgili emin olmadığın bir durum çıkarsa hız uğruna kendin karar verme; danışmanına sor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_089",
+      "speaker": "张雨桐",
+      "zh": "我也会记下每周的任务和反馈，看看哪些技能正在进步，哪些还需要练习。",
+      "pinyin": "wǒ yě huì jì xià měi zhōu de rèn wù hé fǎn kuì ， kàn kàn nǎ xiē jì néng zhèng zài jìn bù ， nǎ xiē hái xū yào liàn xí 。",
+      "tr": "Haftalık görevleri ve geri bildirimleri de not edeceğim; hangi becerilerimin geliştiğini ve hangilerini çalışmam gerektiğini göreceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_090",
+      "speaker": "面试官",
+      "zh": "每个月会有一次阶段沟通，你可以带着完成的工作和遇到的问题来讨论。",
+      "pinyin": "měi gè yuè huì yǒu yī cì jiē duàn gōu tōng ， nǐ kě yǐ dài zhe wán chéng de gōng zuò hé yù dào de wèn tí lái tǎo lùn 。",
+      "tr": "Her ay bir değerlendirme görüşmesi yapacağız; tamamladığın işleri ve karşılaştığın sorunları getirebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_091",
+      "speaker": "同事",
+      "zh": "如果每次都记录一个具体例子，阶段沟通时就容易看出自己的变化。",
+      "pinyin": "rú guǒ měi cì dōu jì lù yí gè jù tǐ lì zi ， jiē duàn gōu tōng shí jiù róng yì kàn chū zì jǐ de biàn huà 。",
+      "tr": "Her seferinde somut bir örnek kaydedersen değerlendirme görüşmesinde gelişimini görmek kolaylaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_092",
+      "speaker": "刘梅",
+      "zh": "反馈不只是指出问题，也可以帮助你确认哪些做法已经有效。",
+      "pinyin": "fǎn kuì bù zhǐ shì zhǐ chū wèn tí ， yě kě yǐ bāng zhù nǐ què rèn nǎ xiē zuò fǎ yǐ jīng yǒu xiào 。",
+      "tr": "Geri bildirim yalnızca sorunları göstermez; işe yarayan yöntemleri doğrulamaya da yardımcı olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_093",
+      "speaker": "张雨桐",
+      "zh": "这次经历让我知道，面试不是背好答案，而是把自己的做法和依据说明白。",
+      "pinyin": "zhè cì jīng lì ràng wǒ zhī dào ， miàn shì bú shì bèi hǎo dá àn ， ér shì bǎ zì jǐ de zuò fǎ hé yī jù shuō míng bái 。",
+      "tr": "Bu deneyim, mülakatın yanıt ezberlemek değil, kendi yaklaşımını ve dayanaklarını açıkça anlatmak olduğunu öğretti."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_094",
+      "speaker": "面试官",
+      "zh": "我们也希望候选人通过提问了解岗位，再判断双方是否合适。",
+      "pinyin": "wǒ men yě xī wàng hòu xuǎn rén tōng guò tí wèn liǎo jiě gǎng wèi ， zài pàn duàn shuāng fāng shì fǒu hé shì 。",
+      "tr": "Adayların da soru sorarak pozisyonu tanımasını ve karşılıklı uyumu değerlendirmesini istiyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_095",
+      "speaker": "同事",
+      "zh": "你把对岗位的期待问清楚了，所以现在知道实习里会做什么、怎样得到指导。",
+      "pinyin": "nǐ bǎ duì gǎng wèi de qī dài wèn qīng chǔ le ， suǒ yǐ xiàn zài zhī dào shí xí lǐ huì zuò shén me 、 zěn yàng dé dào zhǐ dǎo 。",
+      "tr": "Pozisyondan beklentilerini netleştirdin; şimdi stajda ne yapacağını ve nasıl rehberlik alacağını biliyorsun."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_096",
+      "speaker": "刘梅",
+      "zh": "接下来按计划准备，不用因为拿到机会就要求自己一开始什么都会。",
+      "pinyin": "jiē xià lái àn jì huà zhǔn bèi ， bù yòng yīn wèi ná dào jī huì jiù yào qiú zì jǐ yī kāi shǐ shén me dū huì 。",
+      "tr": "Şimdi plana göre hazırlan; fırsatı kabul ettin diye ilk günden her şeyi bilmen gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_097",
+      "speaker": "张雨桐",
+      "zh": "我会先熟悉工具和流程，遇到问题先尝试，再带着具体情况请教指导人。",
+      "pinyin": "wǒ huì xiān shú xī gōng jù hé liú chéng ， yù dào wèn tí xiān cháng shì ， zài dài zhe jù tǐ qíng kuàng qǐng jiào zhǐ dǎo rén 。",
+      "tr": "Önce araçları ve süreçleri öğreneceğim; sorun çıkarsa önce kendim deneyecek, sonra somut bilgilerle danışmanıma soracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_098",
+      "speaker": "面试官",
+      "zh": "保持这样的主动性，也记得及时沟通进度和困难。",
+      "pinyin": "bǎo chí zhè yàng de zhǔ dòng xìng ， yě jì de jí shí gōu tōng jìn dù hé kùn nán 。",
+      "tr": "Bu girişkenliği sürdür; ilerlemeyi ve zorlukları da zamanında paylaş."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_099",
+      "speaker": "同事",
+      "zh": "等你开始以后，我们可以继续互相交流申请和实习中的经验。",
+      "pinyin": "děng nǐ kāi shǐ yǐ hòu ， wǒ men kě yǐ jì xù hù xiāng jiāo liú shēn qǐng hé shí xí zhōng de jīng yàn 。",
+      "tr": "Başladıktan sonra başvuru ve staj deneyimlerimizi paylaşmayı sürdürebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC013_100",
+      "speaker": "刘梅",
+      "zh": "恭喜你通过第二次面试。把准备、反馈和选择一步步做好，机会就更容易把握。",
+      "pinyin": "gōng xǐ nǐ tōng guò dì èr cì miàn shì 。 bǎ zhǔn bèi 、 fǎn kuì hé xuǎn zé yí bù bù zuò hǎo ， jī huì jiù gèng róng yì bǎ wò 。",
+      "tr": "İkinci mülakatı geçtiğin için tebrikler. Hazırlığı, geri bildirimi ve seçimi adım adım ele almak fırsatı değerlendirmeni kolaylaştırdı."
+    }
+  ]
+}

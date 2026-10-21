@@ -1,0 +1,711 @@
+{
+  "naturalizationVersion": 2,
+  "status": "NATURALIZED_REVIEWED",
+  "sceneId": "ZH_HSK6_SC019",
+  "level": "HSK6",
+  "sourceTitleZh": "重新学会一起工作",
+  "sourceTitleTr": "Görev Paylaşımı",
+  "sourceMiniAdventureTr": "Zhang ve Liu Mei kafe işlerini birbirini yormadan paylaşmayı öğrenir.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK6_SC019_001",
+      "speaker": "张伟",
+      "zh": "今天客人多了，咱们先看看谁负责点单、谁补杯子，别让一个人全包。",
+      "pinyin": "jīn tiān kè rén duō le ， zán men xiān kàn kàn shuí fù zé diǎn dān 、 shuí bǔ bēi zi ， bié ràng yí gè rén quán bāo 。",
+      "tr": "Bugün müşteri arttı; önce sipariş, fincan ve diğer işleri paylaştıralım, hepsini tek kişiye yüklemeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_002",
+      "speaker": "刘梅",
+      "zh": "我可以看吧台和顾客需要，张伟负责核对订单与出杯。",
+      "pinyin": "wǒ kě yǐ kàn ba tái hé gù kè xū yào ， zhāng wěi fù zé hé duì dìng dān yǔ chū bēi 。",
+      "tr": "Tezgâhı ve müşterileri ben takip edebilirim; Zhang siparişleri ve servis çıkışını kontrol etsin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_003",
+      "speaker": "员工",
+      "zh": "我负责把咖啡和点心送到桌边，也会留意哪里需要帮忙。",
+      "pinyin": "wǒ fù zé bǎ kā fēi hé diǎn xīn sòng dào zhuō biān ， yě huì liú yì nǎ lǐ xū yào bāng máng 。",
+      "tr": "Kahveyle tatlıları masalara götürür, nerede yardım gerektiğini de gözlemlerim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_004",
+      "speaker": "李晨",
+      "zh": "我今天洗完烤盘就来帮忙端餐，大家可以轮流做。",
+      "pinyin": "wǒ jīn tiān xǐ wán kǎo pán jiù lái bāng máng duān cān ， dà jiā kě yǐ lún liú zuò 。",
+      "tr": "Tepsileri yıkadıktan sonra servise yardım ederim; sırayla çalışabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_005",
+      "speaker": "张伟",
+      "zh": "这样安排合理吗？有没有人觉得自己手上的工作太多？",
+      "pinyin": "zhè yàng ān pái hé lǐ ma ？ yǒu méi yǒu rén jué de zì jǐ shǒu shàng de gōng zuò tài duō ？",
+      "tr": "Bu dağılım uygun mu? Üzerinde fazla iş olduğunu düşünen var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_006",
+      "speaker": "刘梅",
+      "zh": "目前可以。高峰过后我们再换一下，让每个人都有时间休息。",
+      "pinyin": "mù qián kě yǐ 。 gāo fēng guò hòu wǒ men zài huàn yī xià ， ràng měi gè rén dōu yǒu shí jiān xiū xī 。",
+      "tr": "Şimdilik uygun. Yoğunluk geçince görevleri değiştirelim ki herkes dinlenebilsin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_007",
+      "speaker": "员工",
+      "zh": "我刚看了排队情况，收银台需要再多一个人帮忙。",
+      "pinyin": "wǒ gāng kàn le pái duì qíng kuàng ， shōu yín tái xū yào zài duō yí gè rén bāng máng 。",
+      "tr": "Sırayı kontrol ettim; kasada bir kişinin daha yardım etmesi gerekiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_008",
+      "speaker": "李晨",
+      "zh": "我可以先接待排队的客人，等他们点完再回到备货。",
+      "pinyin": "wǒ kě yǐ xiān jiē dài pái duì de kè rén ， děng tā men diǎn wán zài huí dào bèi huò 。",
+      "tr": "Sıradaki müşterileri karşılayıp siparişlerini alabilirim, sonra hazırlığa dönerim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_009",
+      "speaker": "张伟",
+      "zh": "请先确认谁接手你的备货，避免订单来了却没人准备。",
+      "pinyin": "qǐng xiān què rèn shuí jiē shǒu nǐ de bèi huò ， bì miǎn dìng dān lái liǎo què méi rén zhǔn bèi 。",
+      "tr": "Hazırlık işini kimin devralacağını teyit et; sipariş gelince kimse ortada kalmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_010",
+      "speaker": "刘梅",
+      "zh": "李晨可以接手，我已经和他说明剩下要补的点心数量。",
+      "pinyin": "lǐ chén kě yǐ jiē shǒu ， wǒ yǐ jīng hé tā shuō míng shèng xià yào bǔ de diǎn xīn shù liàng 。",
+      "tr": "Li Chen devralabilir; eksik tatlı miktarını ona anlattım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_011",
+      "speaker": "员工",
+      "zh": "好。交接时把完成情况说清楚，下一位就不必重新检查全部。",
+      "pinyin": "hǎo 。 jiāo jiē shí bǎ wán chéng qíng kuàng shuō qīng chǔ ， xià yī wèi jiù bù bì chóng xīn jiǎn chá quán bù 。",
+      "tr": "Güzel. Nelerin tamamlandığını devirde belirt ki sonraki kişi her şeyi baştan kontrol etmesin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_012",
+      "speaker": "李晨",
+      "zh": "我会说清楚哪些已经摆上柜台，哪些还在烤箱里。",
+      "pinyin": "wǒ huì shuō qīng chǔ nǎ xiē yǐ jīng bǎi shàng guì tái ， nǎ xiē hái zài kǎo xiāng lǐ 。",
+      "tr": "Tezgâha çıkanları ve fırında kalanları açıkça söyleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_013",
+      "speaker": "张伟",
+      "zh": "刚才有两桌同时要结账，员工差点来不及处理。",
+      "pinyin": "gāng cái yǒu liǎng zhuō tóng shí yào jié zhàng ， yuán gōng chà diǎn lái bù jí chǔ lǐ 。",
+      "tr": "Az önce iki masa aynı anda hesap istedi; çalışan yetişmekte zorlandı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_014",
+      "speaker": "刘梅",
+      "zh": "我们可以请收银先说清预计等待时间，再按顺序处理。",
+      "pinyin": "wǒ men kě yǐ qǐng shōu yín xiān shuō qīng yù jì děng dài shí jiān ， zài àn shùn xù chǔ lǐ 。",
+      "tr": "Kasadaki kişi önce bekleme süresini söylesin, sonra sırayla ilgilensin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_015",
+      "speaker": "员工",
+      "zh": "我试过了，顾客愿意等，也没有人需要重复问进度。",
+      "pinyin": "wǒ shì guò le ， gù kè yuàn yì děng ， yě méi yǒu rén xū yào chóng fù wèn jìn dù 。",
+      "tr": "Deneyince müşterilerin beklediğini ve tekrar tekrar sormadığını gördüm."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_016",
+      "speaker": "李晨",
+      "zh": "那就继续这样做；如果队伍更长，再请一位同事支援。",
+      "pinyin": "nà jiù jì xù zhè yàng zuò ； rú guǒ duì wǔ gèng zhǎng ， zài qǐng yī wèi tóng shì zhī yuán 。",
+      "tr": "Böyle devam edelim; sıra uzarsa bir çalışma arkadaşı daha çağırırız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_017",
+      "speaker": "张伟",
+      "zh": "我担心总是临时换任务，大家会觉得安排不公平。",
+      "pinyin": "wǒ dān xīn zǒng shì lín shí huàn rèn wù ， dà jiā huì jué de ān pái bù gōng píng 。",
+      "tr": "Görevleri sürekli aniden değiştirmek adaletsiz hissettirebilir diye kaygılanıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_018",
+      "speaker": "刘梅",
+      "zh": "我们先根据当班人数和技能分配，变化时解释原因并询问意愿。",
+      "pinyin": "wǒ men xiān gēn jù dāng bān rén shù hé jì néng fēn pèi ， biàn huà shí jiě shì yuán yīn bìng xún wèn yì yuàn 。",
+      "tr": "Vardiyadaki kişi sayısı ve becerilere göre dağıtalım; değişiklikte nedenini açıklayıp isteklerini soralım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_019",
+      "speaker": "员工",
+      "zh": "有些任务大家都不熟，可以安排两个人一起学会。",
+      "pinyin": "yǒu xiē rèn wù dà jiā dōu bù shú ， kě yǐ ān pái liǎng gè rén yì qǐ xué huì 。",
+      "tr": "Bazı işlerde herkes yeni; iki kişi birlikte öğrenebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_020",
+      "speaker": "李晨",
+      "zh": "这样既有人可以互相替补，也不会让同一位员工一直承担最累的工作。",
+      "pinyin": "zhè yàng jì yǒu rén kě yǐ hù xiāng tì bǔ ， yě bú huì ràng tóng yī wèi yuán gōng yì zhí chéng dān zuì lèi de gōng zuò 。",
+      "tr": "Böylece birbirimizin yerini doldurur, en yorucu işi hep aynı çalışana bırakmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_021",
+      "speaker": "张伟",
+      "zh": "忙的时候我们先按当前分工做，等队伍短一些再讨论要不要换人。",
+      "pinyin": "máng de shí hòu wǒ men xiān àn dāng qián fēn gōng zuò ， děng duì wǔ duǎn yī xiē zài tǎo lùn yào bù yào huàn rén 。",
+      "tr": "Yoğunlukta önce mevcut iş bölümünü uygulayalım; sıra kısalınca görev değişimini konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_022",
+      "speaker": "刘梅",
+      "zh": "我同意。轮岗可以，但要先确认接手的人熟悉那项工作。",
+      "pinyin": "wǒ tóng yì 。 lún gǎng kě yǐ ， dàn yào xiān què rèn jiē shǒu de rén shú xī nà xiàng gōng zuò 。",
+      "tr": "Katılıyorum. Dönüşümlü çalışabiliriz ama devralacak kişi o işi biliyor olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_023",
+      "speaker": "员工",
+      "zh": "我已经学会核对外带订单，今天可以替员工看一会儿收银。",
+      "pinyin": "wǒ yǐ jīng xué huì hé duì wài dài dìng dān ， jīn tiān kě yǐ tì yuán gōng kàn yī huì er shōu yín 。",
+      "tr": "Paket siparişleri kontrol etmeyi öğrendim; bugün bir süre kasaya bakabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_024",
+      "speaker": "李晨",
+      "zh": "我可以先教你收银系统的步骤，遇到退款时再叫我确认。",
+      "pinyin": "wǒ kě yǐ xiān jiào nǐ shōu yín xì tǒng de bù zhòu ， yù dào tuì kuǎn shí zài jiào wǒ què rèn 。",
+      "tr": "Önce sana kasa sistemini gösteririm; iade işlemi çıkarsa teyit için bana seslen."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_025",
+      "speaker": "张伟",
+      "zh": "好。我们不急着把所有岗位都轮一遍，先从两个人都熟悉的开始。",
+      "pinyin": "hǎo 。 wǒ men bù jí zhe bǎ suǒ yǒu gǎng wèi dōu lún yī biàn ， xiān cóng liǎng gè rén dōu shú xī de kāi shǐ 。",
+      "tr": "Tamam. Herkese hemen tüm işleri öğretmek yerine ikimizin de bildiği görevlerden başlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_026",
+      "speaker": "刘梅",
+      "zh": "这样既能互相补位，也不会让顾客等着我们摸索。",
+      "pinyin": "zhè yàng jì néng hù xiāng bǔ wèi ， yě bú huì ràng gù kè děng zhe wǒ men mō suǒ 。",
+      "tr": "Böylece birbirimizin yerini doldurur, müşterileri deneme yaparken bekletmeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_027",
+      "speaker": "员工",
+      "zh": "我刚才注意到李晨端盘子时还要去补餐具，手上事情有点多。",
+      "pinyin": "wǒ gāng cái zhù yì dào lǐ chén duān pán zi shí hái yào qù bǔ cān jù ， shǒu shàng shì qíng yǒu diǎn duō 。",
+      "tr": "Li Chen’in tabak taşırken bir yandan da çatal-bıçak tamamladığını gördüm; işi çok artmış."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_028",
+      "speaker": "李晨",
+      "zh": "我可以专门补餐具和整理托盘，让他集中处理送餐。",
+      "pinyin": "wǒ kě yǐ zhuān mén bǔ cān jù hé zhěng lǐ tuō pán ， ràng tā jí zhōng chǔ lǐ sòng cān 。",
+      "tr": "Tepsileri ve çatal-bıçakları ben hazırlayayım; o da servise odaklansın."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_029",
+      "speaker": "张伟",
+      "zh": "谢谢。把支持性的工作分开，主要任务就不会互相打断。",
+      "pinyin": "xiè xiè 。 bǎ zhī chí xìng de gōng zuò fēn kāi ， zhǔ yào rèn wù jiù bú huì hù xiāng dǎ duàn 。",
+      "tr": "Teşekkürler. Destek işleri ayrılınca ana görevler birbirinin önünü kesmez."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_030",
+      "speaker": "刘梅",
+      "zh": "如果餐点突然多起来，我会先提醒大家，再请谁有空帮忙。",
+      "pinyin": "rú guǒ cān diǎn tū rán duō qǐ lái ， wǒ huì xiān tí xǐng dà jiā ， zài qǐng shuí yǒu kòng bāng máng 。",
+      "tr": "Siparişler aniden artarsa önce ekibe haber verir, sonra boşta olan birinden destek isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_031",
+      "speaker": "员工",
+      "zh": "可以。先说清楚最急的事情，让大家选择怎么协助。",
+      "pinyin": "kě yǐ 。 xiān shuō qīng chǔ zuì jí de shì qíng ， ràng dà jiā xuǎn zé zěn me xié zhù 。",
+      "tr": "Olur. Önce acil işi açıkça söyleyelim; herkes nasıl yardım edeceğini seçsin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_032",
+      "speaker": "李晨",
+      "zh": "我愿意在空档去烤箱取点心，但得有人看着咖啡机。",
+      "pinyin": "wǒ yuàn yì zài kōng dàng qù kǎo xiāng qǔ diǎn xīn ， dàn dé yǒu rén kàn zhe kā fēi jī 。",
+      "tr": "Aralarda tatlıları fırından alabilirim ama kahve makinesinin başında biri olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_033",
+      "speaker": "张伟",
+      "zh": "我来照看咖啡机。这样分开后，两边的订单都能继续走。",
+      "pinyin": "wǒ lái zhào kàn kā fēi jī 。 zhè yàng fēn kāi hòu ， liǎng biān de dìng dān dōu néng jì xù zǒu 。",
+      "tr": "Makineyi ben izlerim. İşler bölününce iki taraftaki siparişler de devam eder."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_034",
+      "speaker": "刘梅",
+      "zh": "我们试半小时，再看看有没有人一直被安排最累的工作。",
+      "pinyin": "wǒ men shì bàn xiǎo shí ， zài kàn kàn yǒu méi yǒu rén yì zhí bèi ān pái zuì lèi de gōng zuò 。",
+      "tr": "Yarım saat deneyip en yorucu işin sürekli aynı kişiye düşüp düşmediğine bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_035",
+      "speaker": "员工",
+      "zh": "我会记一下每项任务的时间和频率，不用写复杂的报告。",
+      "pinyin": "wǒ huì jì yī xià měi xiàng rèn wù de shí jiān hé pín lǜ ， bù yòng xiě fù zá de bào gào 。",
+      "tr": "Her görevin süresini ve ne kadar sık yapıldığını not ederim; uzun rapor yazmaya gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_036",
+      "speaker": "李晨",
+      "zh": "也请直接问大家感受，数字看不出某些工作有多辛苦。",
+      "pinyin": "yě qǐng zhí jiē wèn dà jiā gǎn shòu ， shù zì kàn bù chū mǒu xiē gōng zuò yǒu duō xīn kǔ 。",
+      "tr": "Herkesin nasıl hissettiğini de sorun; bazı işlerin zorluğu sayılara yansımaz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_037",
+      "speaker": "张伟",
+      "zh": "我刚问过员工，她觉得补杯子和擦台面同时做容易手忙脚乱。",
+      "pinyin": "wǒ gāng wèn guò yuán gōng ， tā jué de bǔ bēi zi hé cā tái miàn tóng shí zuò róng yì shǒu máng jiǎo luàn 。",
+      "tr": "Çalışana sordum; fincanları tamamlarken tezgâhı silmek aynı anda zor geliyormuş."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_038",
+      "speaker": "刘梅",
+      "zh": "那就把擦台面安排在顾客少的时候，不要和补杯子重叠。",
+      "pinyin": "nà jiù bǎ cā tái miàn ān pái zài gù kè shǎo de shí hòu ， bú yào hé bǔ bēi zi chóng dié 。",
+      "tr": "O zaman tezgâhı müşteri azken silelim, fincan tamamlamayla çakıştırmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_039",
+      "speaker": "员工",
+      "zh": "好。我下个空档整理台面，员工先把杯子补齐。",
+      "pinyin": "hǎo 。 wǒ xià gè kōng dàng zhěng lǐ tái miàn ， yuán gōng xiān bǎ bēi zi bǔ qí 。",
+      "tr": "Tamam. İlk boşlukta tezgâhı silerim, çalışan da fincanları tamamlar."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_040",
+      "speaker": "李晨",
+      "zh": "大家都知道谁负责哪一项，配合起来就比刚才顺多了。",
+      "pinyin": "dà jiā dōu zhī dào shuí fù zé nǎ yī xiàng ， pèi hé qǐ lái jiù bǐ gāng cái shùn duō le 。",
+      "tr": "Kimin ne yaptığı belli olunca işimiz az önceye göre çok daha uyumlu ilerliyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_041",
+      "speaker": "张伟",
+      "zh": "刚才有位客人说咖啡太烫，我们先问清楚他希望换一杯还是稍微等凉。",
+      "pinyin": "gāng cái yǒu wèi kè rén shuō kā fēi tài tàng ， wǒ men xiān wèn qīng chǔ tā xī wàng huàn yī bēi hái shì shāo wēi děng liáng 。",
+      "tr": "Bir müşteri kahvenin çok sıcak olduğunu söyledi; önce yeni bir kahve mi istediğini yoksa soğumasını beklemeyi mi tercih ettiğini soralım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_042",
+      "speaker": "刘梅",
+      "zh": "我去问了，他愿意等两分钟；我也提醒吧台下次先确认饮品温度。",
+      "pinyin": "wǒ qù wèn le ， tā yuàn yì děng liǎng fēn zhōng ； wǒ yě tí xǐng bā tái xià cì xiān què rèn yǐn pǐn wēn dù 。",
+      "tr": "Sordum, iki dakika beklemeyi kabul etti; tezgâha da sonraki içecekte sıcaklığı teyit etmesini söyledim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_043",
+      "speaker": "员工",
+      "zh": "我们可以把温度确认加到出杯时的习惯里，但不用再增加一张检查表。",
+      "pinyin": "wǒ men kě yǐ bǎ wēn dù què rèn jiā dào chū bēi shí de xí guàn lǐ ， dàn bù yòng zài zēng jiā yī zhāng jiǎn chá biǎo 。",
+      "tr": "İçecek çıkarken sıcaklığı kontrol etmeyi alışkanlık yapalım ama yeni bir kontrol formu eklemeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_044",
+      "speaker": "李晨",
+      "zh": "对。制作完成后报出饮品名称和特殊要求，送餐的人也能再核对。",
+      "pinyin": "duì 。 zhì zuò wán chéng hòu bào chū yǐn pǐn míng chēng hé tè shū yāo qiú ， sòng cān de rén yě néng zài hé duì 。",
+      "tr": "Evet. Hazırlanınca içeceğin adını ve özel isteği söylemek, serviste tekrar teyit etmeyi sağlar."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_045",
+      "speaker": "张伟",
+      "zh": "今天有两份点心卖完了，菜单上的库存需要马上更新吗？",
+      "pinyin": "jīn tiān yǒu liǎng fèn diǎn xīn mài wán le ， cài dān shàng de kù cún xū yào mǎ shàng gēng xīn ma ？",
+      "tr": "İki tatlı tükendi; menüdeki stoku hemen güncellememiz gerekir mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_046",
+      "speaker": "刘梅",
+      "zh": "先把售罄的牌子放上去，收店后再调整库存记录。",
+      "pinyin": "xiān bǎ shòu qìng de pái zi fàng shàng qù ， shōu diàn hòu zài tiáo zhěng kù cún jì lù 。",
+      "tr": "Önce tükendi işaretini asalım; stok kaydını kapanışta güncelleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_047",
+      "speaker": "员工",
+      "zh": "我可以先去柜台放牌子，李晨继续负责送餐。",
+      "pinyin": "wǒ kě yǐ xiān qù guì tái fàng pái zi ， lǐ chén jì xù fù zé sòng cān 。",
+      "tr": "Ben tabelayı koyarım, Li Chen servise devam etsin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_048",
+      "speaker": "李晨",
+      "zh": "好的。顾客若还想点这两种点心，我会推荐相近的选择。",
+      "pinyin": "hǎo de 。 gù kè ruò hái xiǎng diǎn zhè liǎng zhǒng diǎn xīn ， wǒ huì tuī jiàn xiāng jìn de xuǎn zé 。",
+      "tr": "Tamam. Müşteri yine de isterse benzer bir seçenek önereceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_049",
+      "speaker": "张伟",
+      "zh": "我们是否需要提前准备一个替代品清单？",
+      "pinyin": "wǒ men shì fǒu xū yào tí qián zhǔn bèi yí gè tì dài pǐn qīng dān ？",
+      "tr": "Alternatif ürünler için önceden bir liste yapmalı mıyız?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_050",
+      "speaker": "刘梅",
+      "zh": "不必太复杂，记下常见过敏信息和可以替换的品项就够了。",
+      "pinyin": "bù bì tài fù zá ， jì xià cháng jiàn guò mǐn xìn xī hé kě yǐ tì huàn de pǐn xiàng jiù gòu le 。",
+      "tr": "Çok ayrıntı gerekmez; yaygın alerjenleri ve yerine sunulabilecek ürünleri yazalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_051",
+      "speaker": "员工",
+      "zh": "我会和厨房核实原料，再把可靠的信息告诉员工。",
+      "pinyin": "wǒ huì hé chú fáng hé shí yuán liào ， zài bǎ kě kào de xìn xī gào sù yuán gōng 。",
+      "tr": "Malzemeleri mutfakla teyit edip güvenilir bilgiyi çalışanlara iletirim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_052",
+      "speaker": "李晨",
+      "zh": "谢谢。不能确定时就先询问，不要为了快而猜测。",
+      "pinyin": "xiè xiè 。 bù néng què dìng shí jiù xiān xún wèn ， bú yào wèi le kuài ér cāi cè 。",
+      "tr": "Teşekkürler. Emin olmadığımızda tahmin etmek yerine sormalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_053",
+      "speaker": "张伟",
+      "zh": "这会儿队伍缩短了，大家可以轮流休息五分钟。",
+      "pinyin": "zhè huì er duì wǔ suō duǎn le ， dà jiā kě yǐ lún liú xiū xī wǔ fēn zhōng 。",
+      "tr": "Sıra kısaldı; herkes sırayla beş dakika dinlenebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_054",
+      "speaker": "刘梅",
+      "zh": "我先休息，回来后替李晨看一会儿外带窗口。",
+      "pinyin": "wǒ xiān xiū xī ， huí lái hòu tì lǐ chén kàn yī huì er wài dài chuāng kǒu 。",
+      "tr": "Önce ben dinleneyim; dönünce Li Chen’in paket servis penceresini devralırım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_055",
+      "speaker": "员工",
+      "zh": "我准备好交接单，写明哪些订单还没完成。",
+      "pinyin": "wǒ zhǔn bèi hǎo jiāo jiē dān ， xiě míng nǎ xiē dìng dān hái méi wán chéng 。",
+      "tr": "Devir notu hazırlayıp tamamlanmamış siparişleri yazarım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_056",
+      "speaker": "李晨",
+      "zh": "不用写太多，只说订单编号、特殊要求和预计完成时间。",
+      "pinyin": "bù yòng xiě tài duō ， zhǐ shuō dìng dān biān hào 、 tè shū yāo qiú hé yù jì wán chéng shí jiān 。",
+      "tr": "Fazla ayrıntı gerekmiyor; sipariş numarası, özel istek ve tahmini hazır olma saati yeterli."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_057",
+      "speaker": "张伟",
+      "zh": "我已经把这几项说给同事听，也在系统里标了状态。",
+      "pinyin": "wǒ yǐ jīng bǎ zhè jǐ xiàng shuō gěi tóng shì tīng ， yě zài xì tǒng lǐ biāo le zhuàng tài 。",
+      "tr": "Bu bilgileri çalışma arkadaşıma söyledim, sistemdeki durumu da işaretledim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_058",
+      "speaker": "刘梅",
+      "zh": "那我来接窗口。你先离开岗位休息，不必边休息边看订单。",
+      "pinyin": "nà wǒ lái jiē chuāng kǒu 。 nǐ xiān lí kāi gǎng wèi xiū xī ， bù bì biān xiū xī biān kàn dìng dān 。",
+      "tr": "Pencereyi ben devralayım. Sen mola verirken siparişleri takip etmek zorunda değilsin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_059",
+      "speaker": "员工",
+      "zh": "谢谢。我会休息五分钟，回来再核对窗口的情况。",
+      "pinyin": "xiè xiè 。 wǒ huì xiū xī wǔ fēn zhōng ， huí lái zài hé duì chuāng kǒu de qíng kuàng 。",
+      "tr": "Teşekkürler. Beş dakika dinlenip sonra pencerenin durumunu kontrol ederim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_060",
+      "speaker": "李晨",
+      "zh": "这种短暂交接让每个人都能喘口气，也没有让服务停下来。",
+      "pinyin": "zhè zhǒng duǎn zàn jiāo jiē ràng měi gè rén dōu néng chuǎn kǒu qì ， yě méi yǒu ràng fú wù tíng xià lái 。",
+      "tr": "Kısa devir herkesin nefes almasını sağlıyor, hizmet de durmuyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_061",
+      "speaker": "张伟",
+      "zh": "今天新来的员工还不熟悉烤箱时间，我可以陪她做一轮。",
+      "pinyin": "jīn tiān xīn lái de yuán gōng hái bù shú xī kǎo xiāng shí jiān ， wǒ kě yǐ péi tā zuò yī lún 。",
+      "tr": "Yeni çalışan fırın sürelerini bilmiyor; bir tur hazırlıkta yanında durabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_062",
+      "speaker": "刘梅",
+      "zh": "太好了。请先示范一次，然后让她自己操作，我在旁边确认安全。",
+      "pinyin": "tài hǎo le 。 qǐng xiān shì fàn yī cì ， rán hòu ràng tā zì jǐ cāo zuò ， wǒ zài páng biān què rèn ān quán 。",
+      "tr": "Harika. Önce bir kez göster, sonra güvenliği ben izlerken kendisi denesin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_063",
+      "speaker": "员工",
+      "zh": "我会讲清楚何时检查颜色和温度，也提醒她戴好隔热手套。",
+      "pinyin": "wǒ huì jiǎng qīng chǔ hé shí jiǎn chá yán sè hé wēn dù ， yě tí xǐng tā dài hǎo gé rè shǒu tào 。",
+      "tr": "Rengi ve sıcaklığı ne zaman kontrol edeceğini anlatıp ısı eldivenlerini takmasını hatırlatırım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_064",
+      "speaker": "李晨",
+      "zh": "谢谢。等学会以后，我也可以帮忙备料，让你们有时间休息。",
+      "pinyin": "xiè xiè 。 děng xué huì yǐ hòu ， wǒ yě kě yǐ bāng máng bèi liào ， ràng nǐ men yǒu shí jiān xiū xī 。",
+      "tr": "Teşekkürler. Öğrenince malzeme hazırlığına da yardım ederim; siz de dinlenebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_065",
+      "speaker": "张伟",
+      "zh": "刚才有顾客临时改了桌位，订单会不会送错？",
+      "pinyin": "gāng cái yǒu gù kè lín shí gǎi le zhuō wèi ， dìng dān huì bú huì sòng cuò ？",
+      "tr": "Bir müşteri masasını değiştirdi; sipariş yanlış masaya gider mi?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_066",
+      "speaker": "刘梅",
+      "zh": "我已在订单上改了桌号，也当面告诉了负责送餐的同事。",
+      "pinyin": "wǒ yǐ zài dìng dān shàng gǎi le zhuō hào ， yě dāng miàn gào sù le fù zé sòng cān de tóng shì 。",
+      "tr": "Siparişte masa numarasını değiştirdim ve servisten sorumlu çalışma arkadaşıma doğrudan söyledim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_067",
+      "speaker": "员工",
+      "zh": "我们再读一遍订单号，确认饮品、点心和桌位都对应。",
+      "pinyin": "wǒ men zài dú yī biàn dìng dān hào ， què rèn yǐn pǐn 、 diǎn xīn hé zhuō wèi dōu duì yìng 。",
+      "tr": "Sipariş numarasını tekrar okuyup içecek, tatlı ve masa bilgisini eşleştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_068",
+      "speaker": "李晨",
+      "zh": "核对一致了。送餐时再报一次桌号，客人也能帮忙确认。",
+      "pinyin": "hé duì yí zhì le 。 sòng cān shí zài bào yī cì zhuō hào ， kè rén yě néng bāng máng què rèn 。",
+      "tr": "Bilgiler eşleşti. Serviste masa numarasını tekrar söyleriz; müşteri de teyit edebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_069",
+      "speaker": "张伟",
+      "zh": "有时候多确认一次会慢几秒，但能避免整份订单送错。",
+      "pinyin": "yǒu shí hòu duō què rèn yī cì huì màn jǐ miǎo ， dàn néng bì miǎn zhěng fèn dìng dān sòng cuò 。",
+      "tr": "Bir kez daha kontrol etmek birkaç saniye alır ama yanlış siparişin tamamını önler."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_070",
+      "speaker": "刘梅",
+      "zh": "是的。速度重要，准确也重要；找到平衡才能少返工。",
+      "pinyin": "shì de 。 sù dù zhòng yào ， zhǔn què yě zhòng yào ； zhǎo dào píng héng cái néng shǎo fǎn gōng 。",
+      "tr": "Evet. Hız kadar doğruluk da önemli; dengeyi bulursak işi yeniden yapmayız."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_071",
+      "speaker": "员工",
+      "zh": "这周大家的工作时间有些不平均，我们要不要看一下排班？",
+      "pinyin": "zhè zhōu dà jiā de gōng zuò shí jiān yǒu xiē bù píng jūn ， wǒ men yào bù yào kàn yī xià pái bān ？",
+      "tr": "Bu hafta çalışma saatleri biraz dengesiz dağıldı; vardiya çizelgesine bakalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_072",
+      "speaker": "李晨",
+      "zh": "我可以把本周的班次和临时加班列出来，先了解整体情况。",
+      "pinyin": "wǒ kě yǐ bǎ běn zhōu de bān cì hé lín shí jiā bān liè chū lái ， xiān liǎo jiě zhěng tǐ qíng kuàng 。",
+      "tr": "Bu haftaki vardiyaları ve ek mesaileri listeleyip genel durumu görebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_073",
+      "speaker": "张伟",
+      "zh": "也问问每个人希望调整什么，不要只凭数字决定。",
+      "pinyin": "yě wèn wèn měi gè rén xī wàng tiáo zhěng shén me ， bú yào zhǐ píng shù zì jué dìng 。",
+      "tr": "Yalnızca rakamlara göre karar vermeyelim; herkesin neyi değiştirmek istediğini de soralım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_074",
+      "speaker": "刘梅",
+      "zh": "我最希望周末能提前知道下周安排，方便照顾家里的事。",
+      "pinyin": "wǒ zuì xī wàng zhōu mò néng tí qián zhī dào xià zhōu ān pái ， fāng biàn zhào gù jiā lǐ de shì 。",
+      "tr": "Ben gelecek haftanın programını hafta sonundan önce öğrenmek isterim; aile işlerimi ayarlamam kolaylaşır."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_075",
+      "speaker": "员工",
+      "zh": "我会尽量提前公布班表，临时变化也先征求当事人的意见。",
+      "pinyin": "wǒ huì jǐn liàng tí qián gōng bù bān biǎo ， lín shí biàn huà yě xiān zhēng qiú dāng shì rén de yì jiàn 。",
+      "tr": "Vardiya çizelgesini olabildiğince erken duyurur, son dakika değişikliğinde ilgili kişiye danışırım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_076",
+      "speaker": "李晨",
+      "zh": "如果有人不能接班，我们提前找志愿者，不要默认某个人一定可以。",
+      "pinyin": "rú guǒ yǒu rén bù néng jiē bān ， wǒ men tí qián zhǎo zhì yuàn zhě ， bú yào mò rèn mǒu gè rén yí dìng kě yǐ 。",
+      "tr": "Biri vardiyayı alamıyorsa otomatik olarak aynı kişiye yüklemek yerine önceden gönüllü arayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_077",
+      "speaker": "张伟",
+      "zh": "这公平。员工愿意帮忙时也要确认不会影响他原本的休息。",
+      "pinyin": "zhè gōng píng 。 yuán gōng yuàn yì bāng máng shí yě yào què rèn bú huì yǐng xiǎng tā yuán běn de xiū xī 。",
+      "tr": "Bu adil. Yardım etmeyi kabul edene de bunun kendi dinlenmesini bozmadığını soralım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_078",
+      "speaker": "刘梅",
+      "zh": "我把这个原则加进交班说明，之后调整都照着沟通。",
+      "pinyin": "wǒ bǎ zhè ge yuán zé jiā jìn jiāo bān shuō míng ， zhī hòu tiáo zhěng dōu zhào zhe gōu tōng 。",
+      "tr": "Bu ilkeyi devir notuna ekleyip sonraki düzenlemelerde açıkça konuşacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_079",
+      "speaker": "员工",
+      "zh": "大家愿意坦白说需要，分工就更容易做得合适。",
+      "pinyin": "dà jiā yuàn yì tǎn bái shuō xū yào ， fēn gōng jiù gèng róng yì zuò dé hé shì 。",
+      "tr": "İhtiyaçlarımızı dürüstçe söyleyince görevleri daha uygun paylaşabiliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_080",
+      "speaker": "李晨",
+      "zh": "我们下周再看新的排班有没有改善，必要时继续调整。",
+      "pinyin": "wǒ men xià zhōu zài kàn xīn de pái bān yǒu méi yǒu gǎi shàn ， bì yào shí jì xù tiáo zhěng 。",
+      "tr": "Gelecek hafta yeni çizelgenin işe yarayıp yaramadığına bakar, gerekirse yeniden düzenleriz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_081",
+      "speaker": "张伟",
+      "zh": "我把本周的班表发给大家了，有冲突的人可以今天告诉我。",
+      "pinyin": "wǒ bǎ běn zhōu de bān biǎo fā gěi dà jiā le ， yǒu chōng tū de rén kě yǐ jīn tiān gào sù wǒ 。",
+      "tr": "Haftalık vardiya çizelgesini gönderdim; çakışması olanlar bugün bana bildirebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_082",
+      "speaker": "刘梅",
+      "zh": "我周四晚上有事，可以和别人换班；我会先问对方是否方便。",
+      "pinyin": "wǒ zhōu sì wǎn shàng yǒu shì ， kě yǐ hé bié rén huàn bān ； wǒ huì xiān wèn duì fāng shì fǒu fāng biàn 。",
+      "tr": "Perşembe akşamı işim var; başkasıyla değişebilirim ama önce onun uygunluğunu sorarım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_083",
+      "speaker": "员工",
+      "zh": "谢谢。交换之前把双方的开始和结束时间都核对清楚。",
+      "pinyin": "xiè xiè 。 jiāo huàn zhī qián bǎ shuāng fāng de kāi shǐ hé jié shù shí jiān dōu hé duì qīng chǔ 。",
+      "tr": "Teşekkürler. Değişmeden önce iki tarafın başlangıç ve bitiş saatlerini kontrol edin."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_084",
+      "speaker": "李晨",
+      "zh": "我愿意换，但周五早班前需要保证有足够休息时间。",
+      "pinyin": "wǒ yuàn yì huàn ， dàn zhōu wǔ zǎo bān qián xū yào bǎo zhèng yǒu zú gòu xiū xī shí jiān 。",
+      "tr": "Değiştirmeyi kabul ederim ama cuma sabah vardiyasından önce yeterince dinlenmem gerekiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_085",
+      "speaker": "张伟",
+      "zh": "当然，排班时也要考虑休息间隔，不能只把空缺填满。",
+      "pinyin": "dāng rán ， pái bān shí yě yào kǎo lǜ xiū xī jiàn gé ， bù néng zhǐ bǎ kòng quē tián mǎn 。",
+      "tr": "Elbette; vardiyada yalnızca boşluğu doldurmak değil, dinlenme aralığını da gözetmeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_086",
+      "speaker": "刘梅",
+      "zh": "这样安排我可以。我会在系统里确认交换已经生效。",
+      "pinyin": "zhè yàng ān pái wǒ kě yǐ 。 wǒ huì zài xì tǒng lǐ què rèn jiāo huàn yǐ jīng shēng xiào 。",
+      "tr": "Bu düzen bana uyuyor. Değişikliğin sisteme işlendiğini onaylarım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_087",
+      "speaker": "员工",
+      "zh": "今天忙完了，大家觉得新的轮班和支援方式如何？",
+      "pinyin": "jīn tiān máng wán le ， dà jiā jué de xīn de lún bān hé zhī yuán fāng shì rú hé ？",
+      "tr": "Bugünkü yoğunluğun ardından yeni görev ve destek paylaşımını nasıl buldunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_088",
+      "speaker": "李晨",
+      "zh": "我觉得轻松一些，知道有需要时可以开口，不必一个人扛着。",
+      "pinyin": "wǒ jué de qīng sōng yī xiē ， zhī dào yǒu xū yào shí kě yǐ kāi kǒu ， bù bì yí gè rén káng zhe 。",
+      "tr": "Kendimi daha rahat hissediyorum; gerekince yardım isteyebilirim, her şeyi tek başıma üstlenmiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_089",
+      "speaker": "张伟",
+      "zh": "我也满意。高峰时能互相帮忙，空下来再按职责收尾。",
+      "pinyin": "wǒ yě mǎn yì 。 gāo fēng shí néng hù xiāng bāng máng ， kōng xià lái zài àn zhí zé shōu wěi 。",
+      "tr": "Ben de memnunum. Yoğunken birbirimize yardım ediyor, sakinleşince görevlerimizi tamamlıyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_090",
+      "speaker": "刘梅",
+      "zh": "员工之间提前说清楚，比临时抢着做同一件事有效。",
+      "pinyin": "yuán gōng zhī jiān tí qián shuō qīng chǔ ， bǐ lín shí qiǎng zhe zuò tóng yī jiàn shì yǒu xiào 。",
+      "tr": "İşleri önceden konuşmak, son anda aynı göreve koşmaktan daha etkili."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_091",
+      "speaker": "员工",
+      "zh": "那我们保留这套轮班试行方案，两周后再评估。",
+      "pinyin": "nà wǒ men bǎo liú zhè tào lún bān shì xíng fāng àn ， liǎng zhōu hòu zài píng gū 。",
+      "tr": "O hâlde bu vardiya denemesini iki hafta sürdürüp sonra değerlendirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_092",
+      "speaker": "李晨",
+      "zh": "我会收集意见，也留意有没有人持续承担过多工作。",
+      "pinyin": "wǒ huì shōu jí yì jiàn ， yě liú yì yǒu méi yǒu rén chí xù chéng dān guò duō gōng zuò 。",
+      "tr": "Görüşleri toplar, sürekli fazla iş üstlenen biri var mı diye de izlerim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_093",
+      "speaker": "张伟",
+      "zh": "如果有人觉得分配不合适，我们可以当面聊，不用忍到累积不满。",
+      "pinyin": "rú guǒ yǒu rén jué de fēn pèi bù hé shì ， wǒ men kě yǐ dāng miàn liáo ， bù yòng rěn dào lěi jī bù mǎn 。",
+      "tr": "Dağılımı uygun bulmayan olursa yüz yüze konuşuruz; memnuniyetsizlik birikmesini beklemeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_094",
+      "speaker": "刘梅",
+      "zh": "我以前总觉得负责人必须立刻给出安排，现在更愿意先听大家说。",
+      "pinyin": "wǒ yǐ qián zǒng jué de fù zé rén bì xū lì kè gěi chū ān pái ， xiàn zài gèng yuàn yì xiān tīng dà jiā shuō 。",
+      "tr": "Eskiden sorumlunun hemen bir düzen kurması gerektiğini düşünürdüm; artık önce herkesi dinliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_095",
+      "speaker": "员工",
+      "zh": "听取意见不等于每个请求都能答应，但能让决定更有依据。",
+      "pinyin": "tīng qǔ yì jiàn bù děng yú měi gè qǐng qiú dōu néng dā yìng ， dàn néng ràng jué dìng gèng yǒu yī jù 。",
+      "tr": "Görüş almak her isteğin kabul edileceği anlamına gelmez ama kararın dayanağını güçlendirir."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_096",
+      "speaker": "李晨",
+      "zh": "我会解释哪些条件限制了选择，也尽可能提供别的方案。",
+      "pinyin": "wǒ huì jiě shì nǎ xiē tiáo jiàn xiàn zhì le xuǎn zé ， yě jǐn kě néng tí gōng bié de fāng àn 。",
+      "tr": "Seçenekleri sınırlayan koşulları açıklar, elimden gelirse başka çözüm de sunarım."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_097",
+      "speaker": "张伟",
+      "zh": "顾客今天说服务很快，员工也有时间喝水和短暂休息。",
+      "pinyin": "gù kè jīn tiān shuō fú wù hěn kuài ， yuán gōng yě yǒu shí jiān hē shuǐ hé duǎn zàn xiū xī 。",
+      "tr": "Müşteri bugün hizmetin hızlı olduğunu söyledi; çalışanlar da su içip kısa mola verebildi."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_098",
+      "speaker": "刘梅",
+      "zh": "这说明好的分工不只是把事情做完，也要让人能够持续工作。",
+      "pinyin": "zhè shuō míng hǎo de fēn gōng bù zhǐ shì bǎ shì qíng zuò wán ， yě yào ràng rén néng gòu chí xù gōng zuò 。",
+      "tr": "İyi görev paylaşımı yalnızca işi bitirmek değildir; insanların sürdürülebilir biçimde çalışmasını da sağlar."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_099",
+      "speaker": "员工",
+      "zh": "谢谢大家一起调整。我从你们身上学到如何既负责又不把所有事揽在自己身上。",
+      "pinyin": "xiè xiè dà jiā yì qǐ tiáo zhěng 。 wǒ cóng nǐ men shēn shàng xué dào rú hé jì fù zé yòu bù bǎ suǒ yǒu shì lǎn zài zì jǐ shēn shàng 。",
+      "tr": "Birlikte düzenleme yaptığınız için teşekkürler. Sorumlu olmanın her işi tek başına üstlenmek olmadığını sizden öğrendim."
+    },
+    {
+      "id": "DLG_ZH_HSK6_SC019_100",
+      "speaker": "李晨",
+      "zh": "我们也学到，照顾彼此的节奏，团队才能长久合作。",
+      "pinyin": "wǒ men yě xué dào ， zhào gù bǐ cǐ de jié zòu ， tuán duì cái néng cháng jiǔ hé zuò 。",
+      "tr": "Biz de birbirimizin temposunu gözetmenin ekibin uzun süre birlikte çalışmasını sağladığını öğrendik."
+    }
+  ]
+}

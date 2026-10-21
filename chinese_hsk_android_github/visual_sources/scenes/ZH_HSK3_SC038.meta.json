@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC038",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC038.json",
-  "dialogueSha256": "59acb1bfcf33fc07b247ca1b9d6cda07927669ff5651f0853c10f908121be7bc",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC038.json",
+  "dialogueSha256": "166ff6ebd81eaa1b78af52ae3008b38a939e22ad1741ba16298ad8a00a5c0195",
   "titleTr": "Li Chen ile Gece Yürüyüşü",
   "locationId": "LOC_ZH_WALKWAY_001",
   "scenePurposeTr": "Zhang ve Li Chen gelecek hayallerini açıkça konuşur.",
@@ -106,5 +106,18 @@
     "operationalStatus": "USER_ACCEPTED_NO_FURTHER_GLASSES_REPAIR",
     "reOpenOnlyIfUserRequests": true,
     "actionsRun": false
-  }
+  },
+  "dialogueTextQA": {
+    "status": "PASS",
+    "turns": 100,
+    "coherenceScore": 93.0,
+    "activeVocabularyCoverage": 1.0,
+    "topicWindowCoverage": 1.0,
+    "duplicateUtterances": 0,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
+  },
+  "allDialogueSpeakersVisible": true,
+  "mouthAnchorReviewStatus": "PASS",
+  "mouthAnchorImageSha256": "a773274bbdf69d8a4efb73b7fb7e36f196124b12011868ed5d7eb99399d33fcd"
 }

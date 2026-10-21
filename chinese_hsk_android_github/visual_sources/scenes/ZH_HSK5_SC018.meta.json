@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC018.json",
-  "dialogueSha256": "348874a710c0cad8fa6e541ff1254191d6e02f1319f9663237571fa37e1da65f",
+  "dialogueSha256": "ee78997004a2054381dc3d07a09902909ff94c98500c9895605bb038eb8ff327",
   "titleZh": "咖啡馆少用塑料",
   "titleTr": "Kafe Plastik Kullanımını Azaltıyor",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

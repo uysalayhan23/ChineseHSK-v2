@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC050",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC050.json",
-  "dialogueSha256": "bdf6f292cb0c8c1c906771beae9888277a2cb8cf5adc778d735402719df33130",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC050.json",
+  "dialogueSha256": "ea87541e2e6007dc6d7a2841df4954c4db2a1877c3f85d5b4a94c157284336a5",
   "titleTr": "Yeni Bir Dönem",
   "locationId": "LOC_ZH_GRANDPARENTS_FARM_001",
   "scenePurposeTr": "Zhang’ın anne-babası kasabaya taşınma fikrini ciddi biçimde düşünmeye başlar.",
@@ -69,5 +69,7 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi.",
+  "dialogueQaStatus": "PASS",
+  "dialogueQaNoteTr": "100 tur, kimlik/speaker sırası, aktif sözcükler ve pinyin/Türkçe eşleşmesi doğrulandı. Dört ağız çapası sahne görselinde kontrol edildi."
 }

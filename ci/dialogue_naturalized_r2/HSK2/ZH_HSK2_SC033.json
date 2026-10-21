@@ -1,0 +1,708 @@
+{
+  "naturalizationVersion": 46,
+  "status": "FINAL_REVIEWED_V46",
+  "sceneId": "ZH_HSK2_SC033",
+  "level": "HSK2",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK2_SC033_001",
+      "speaker": "刘梅",
+      "zh": "听说李晨家里有人生病了，我们带了些饭菜来看看。",
+      "pinyin": "Tīng shuō lǐ chén jiā lǐ yǒu rén shēng bìng le ， wǒ men dài le xiē fàn cài lái kàn kàn 。",
+      "tr": "Li Chen’in ailesinden birinin hastalandığını duyduk; biraz yemek getirip uğrayalım dedik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_002",
+      "speaker": "张伟",
+      "zh": "是啊，先看看他们现在需要什么，我们能帮一点是一点。",
+      "pinyin": "Shì a ， xiān kàn kàn tā men xiàn zài xū yào shén me ， wǒ men néng bāng yì diǎn shì yì diǎn 。",
+      "tr": "Önce şu an neye ihtiyaçları var bakalım; elimizden geldiğince yardım ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_003",
+      "speaker": "李晨",
+      "zh": "谢谢你们来看我们，家里人今天不太舒服，不过现在在休息。",
+      "pinyin": "Xiè xiè nǐ men lái kàn wǒ men ， jiā lǐ rén jīn tiān bù tài shū fú ， bù guò xiàn zài zài xiū xī 。",
+      "tr": "Bizi görmeye gelmenize sevindik. Aileden biri bugün pek iyi değil ama şu an dinleniyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_004",
+      "speaker": "李晨妻子",
+      "zh": "让你们跑一趟真不好意思，我们已经好多了。",
+      "pinyin": "Ràng nǐ men pǎo yī tàng zhēn bù hǎo yì sī ， wǒ men yǐ jīng hǎo duō le 。",
+      "tr": "Sizi buraya kadar yorduk, kusura bakmayın. Şimdi biraz daha iyi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_005",
+      "speaker": "刘梅",
+      "zh": "别客气，我们顺路做了些饭，放在桌上就能吃。",
+      "pinyin": "Bié kè qì ， wǒ men shùn lù zuò le xiē fàn ， fàng zài zhuō shàng jiù néng chī 。",
+      "tr": "Estağfurullah, biraz yemek yaptık; masaya koyup yiyebilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_006",
+      "speaker": "张伟",
+      "zh": "我们带了汤和几样菜，希望你们今天少忙一点。",
+      "pinyin": "Wǒ men dài le tāng hé jǐ yàng cài ， xī wàng nǐ men jīn tiān shǎo máng yì diǎn 。",
+      "tr": "Çorba ve birkaç çeşit yemek getirdik; bugün işiniz biraz azalsın istedik."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_007",
+      "speaker": "李晨",
+      "zh": "闻起来真香。你们准备这么多，一定花了不少时间。",
+      "pinyin": "Wén qǐ lái zhēn xiāng 。 nǐ men zhǔn bèi zhè me duō ， yí dìng huā le bù shǎo shí jiān 。",
+      "tr": "Mis gibi kokuyor. Bu kadar hazırlık zamanınızı almış olmalı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_008",
+      "speaker": "李晨妻子",
+      "zh": "没有很麻烦，能和你们一起吃饭，我们也很高兴。",
+      "pinyin": "Méi yǒu hěn má fán ， néng hé nǐ men yì qǐ chī fàn ， wǒ men yě hěn gāo xìng 。",
+      "tr": "Çok zahmet olmadı; sizinle birlikte yemek yemek bizi de mutlu eder."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_009",
+      "speaker": "刘梅",
+      "zh": "饭菜还热着，你们先坐一会儿，我去拿碗。",
+      "pinyin": "Fàn cài hái rè zhe ， nǐ men xiān zuò yī huì er ， wǒ qù ná wǎn 。",
+      "tr": "Yemek hâlâ sıcak. Siz oturun, ben kâse getireyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_010",
+      "speaker": "张伟",
+      "zh": "我来帮你拿吧，碗和筷子放在哪儿？",
+      "pinyin": "Wǒ lái bāng nǐ ná ba ， wǎn hé kuài zi fàng zài nǎ ér ？",
+      "tr": "Kâseleri ben alayım; nerede duruyorlar?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_011",
+      "speaker": "李晨",
+      "zh": "在厨房的柜子里，我平时都放在第二层。",
+      "pinyin": "Zài chú fáng de guì zi lǐ ， wǒ píng shí dōu fàng zài dì èr céng 。",
+      "tr": "Mutfak dolabında, genelde ikinci rafa koyuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_012",
+      "speaker": "李晨妻子",
+      "zh": "我找到了。李晨，你先坐着，不用起来忙。",
+      "pinyin": "Wǒ zhǎo dào le 。 lǐ chén ， nǐ xiān zuò zhe ， bù yòng qǐ lái máng 。",
+      "tr": "Buldum. Li Chen, sen otur; kalkıp uğraşmana gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_013",
+      "speaker": "刘梅",
+      "zh": "谢谢。我本来想自己去拿，今天确实有点累。",
+      "pinyin": "Xiè xiè 。 wǒ běn lái xiǎng zì jǐ qù ná ， jīn tiān què shí yǒu diǎn lèi 。",
+      "tr": "Teşekkürler. Kendim alacaktım ama bugün gerçekten biraz yorgunum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_014",
+      "speaker": "张伟",
+      "zh": "那就好好休息。吃饭的事我们可以一起准备。",
+      "pinyin": "Nà jiù hǎo hǎo xiū xī 。 chī fàn de shì wǒ men kě yǐ yì qǐ zhǔn bèi 。",
+      "tr": "Öyleyse dinlen. Yemek hazırlığını birlikte hallederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_015",
+      "speaker": "李晨",
+      "zh": "桌上还有杯子吗？我给大家倒点水。",
+      "pinyin": "Zhuō shàng hái yǒu bēi zi ma ？ wǒ gěi dà jiā dào diǎn shuǐ 。",
+      "tr": "Masada bardak var mı? Herkese biraz su koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_016",
+      "speaker": "李晨妻子",
+      "zh": "有，在水壶旁边。你们先喝水，饭菜一会儿再吃。",
+      "pinyin": "Yǒu ， zài shuǐ hú páng biān 。 nǐ men xiān hē shuǐ ， fàn cài yī huì er zài chī 。",
+      "tr": "Var, su ısıtıcısının yanında. Siz önce su için, yemeği birazdan yeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_017",
+      "speaker": "刘梅",
+      "zh": "好，我们先把饭菜摆好，等你家人醒了再一起吃。",
+      "pinyin": "Hǎo ， wǒ men xiān bǎ fàn cài bǎi hǎo ， děng nǐ jiā rén xǐng le zài yì qǐ chī 。",
+      "tr": "Tamam, yemekleri masaya koyalım; ailen uyanınca birlikte yeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_018",
+      "speaker": "张伟",
+      "zh": "不用等太久，他刚才说休息一会儿就出来。",
+      "pinyin": "Bù yòng děng tài jiǔ ， tā gāng cái shuō xiū xī yī huì er jiù chū lái 。",
+      "tr": "Çok beklemeyiz; az önce biraz dinlenip geleceğini söyledi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_019",
+      "speaker": "李晨",
+      "zh": "那我们把汤放在桌子中间，大家都方便拿。",
+      "pinyin": "Nà wǒ men bǎ tāng fàng zài zhuō zi zhōng jiān ， dà jiā dōu fāng biàn ná 。",
+      "tr": "Çorbayı masanın ortasına koyalım; herkes kolayca alır."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_020",
+      "speaker": "李晨妻子",
+      "zh": "对，今天你们来陪我们聊聊天，我心里轻松多了。",
+      "pinyin": "Duì ， jīn tiān nǐ men lái péi wǒ men liáo liáo tiān ， wǒ xīn lǐ qīng sōng duō le 。",
+      "tr": "Bugün gelip bizimle sohbet etmeniz bile içimi rahatlattı."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_021",
+      "speaker": "刘梅",
+      "zh": "先别急着摆完，李晨，你现在想先喝汤还是吃点饭？",
+      "pinyin": "Xiān bié jí zhe bǎi wán ， lǐ chén ， nǐ xiàn zài xiǎng xiān hē tāng hái shì chī diǎn fàn ？",
+      "tr": "Yemekleri hemen dizmeyelim; Li Chen, önce çorba mı içmek, biraz pilav mı yemek istersin?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_022",
+      "speaker": "张伟",
+      "zh": "我想先喝点汤，闻起来很香，喝几口应该舒服些。",
+      "pinyin": "Wǒ xiǎng xiān hē diǎn tāng ， wén qǐ lái hěn xiāng ， hē jǐ kǒu yīng gāi shū fú xiē 。",
+      "tr": "Önce biraz çorba içeyim; kokusu güzel, birkaç kaşık iyi gelir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_023",
+      "speaker": "李晨",
+      "zh": "那我给你盛一小碗，桌上还有温水。",
+      "pinyin": "Nà wǒ gěi nǐ shèng yī xiǎo wǎn ， zhuō shàng hái yǒu wēn shuǐ 。",
+      "tr": "Sana küçük bir kâse koyayım; masada ılık su da var."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_024",
+      "speaker": "李晨妻子",
+      "zh": "谢谢，今天胃口不太好，不过汤我可以喝一点。",
+      "pinyin": "Xiè xiè ， jīn tiān wèi kǒu bù tài hǎo ， bù guò tāng wǒ kě yǐ hē yì diǎn 。",
+      "tr": "Teşekkürler, bugün pek iştahım yok ama biraz çorba içebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_025",
+      "speaker": "刘梅",
+      "zh": "我把汤放在你手边，觉得烫的话先等一会儿。",
+      "pinyin": "Wǒ bǎ tāng fàng zài nǐ shǒu biān ， jué de tàng de huà xiān děng yī huì er 。",
+      "tr": "Çorbayı yanına koyuyorum; sıcak gelirse biraz bekle."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_026",
+      "speaker": "张伟",
+      "zh": "菜还热着，我们可以慢慢吃，不用赶时间。",
+      "pinyin": "Cài hái rè zhe ， wǒ men kě yǐ màn màn chī ， bù yòng gǎn shí jiān 。",
+      "tr": "Yemekler hâlâ sıcak; acele etmeden yiyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_027",
+      "speaker": "李晨",
+      "zh": "好，我先喝汤。你们也坐下，别一直忙。",
+      "pinyin": "Hǎo ， wǒ xiān hē tāng 。 nǐ men yě zuò xià ， bié yì zhí máng 。",
+      "tr": "Tamam, önce çorba içeyim. Siz de oturun, sürekli ayakta kalmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_028",
+      "speaker": "李晨妻子",
+      "zh": "碗和筷子都拿来了，我把饭放在桌子中间。",
+      "pinyin": "Wǎn hé kuài zi dōu ná lái le ， wǒ bǎ fàn fàng zài zhuō zi zhōng jiān 。",
+      "tr": "Kâse ve çubukları getirdim, pilavı masanın ortasına koyuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_029",
+      "speaker": "刘梅",
+      "zh": "这样大家都够得到。张伟，你也尝尝这道菜。",
+      "pinyin": "Zhè yàng dà jiā dōu gòu dé dào 。 zhāng wěi ， nǐ yě cháng cháng zhè dào cài 。",
+      "tr": "Böylece herkes uzanabilir. Zhang Wei, şu yemeğin tadına bak."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_030",
+      "speaker": "张伟",
+      "zh": "好，味道不错。李晨，想吃饭的话我帮你盛。",
+      "pinyin": "Hǎo ， wèi dào bù cuò 。 lǐ chén ， xiǎng chī fàn de huà wǒ bāng nǐ shèng 。",
+      "tr": "Olur, tadı güzel. Li Chen, istersen sana pilav koyayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_031",
+      "speaker": "李晨",
+      "zh": "谢谢，我等会儿再吃一点，现在先喝汤。",
+      "pinyin": "Xiè xiè ， wǒ děng huì er zài chī yì diǎn ， xiàn zài xiān hē tāng 。",
+      "tr": "Teşekkürler, birazdan azıcık yerim; şimdilik çorba içeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_032",
+      "speaker": "李晨妻子",
+      "zh": "那就按你舒服的来，吃不下也不用勉强。",
+      "pinyin": "Nà jiù àn nǐ shū fú de lái ， chī bù xià yě bù yòng miǎn qiǎng 。",
+      "tr": "Nasıl rahat ediyorsan öyle yap; yiyemiyorsan kendini zorlama."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_033",
+      "speaker": "刘梅",
+      "zh": "需要我再拿些纸巾吗？就在桌子旁边。",
+      "pinyin": "Xū yào wǒ zài ná xiē zhǐ jīn ma ？ jiù zài zhuō zi páng biān 。",
+      "tr": "Biraz peçete getireyim mi? Masanın yanında duruyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_034",
+      "speaker": "张伟",
+      "zh": "我看到了，已经放在汤碗旁边了。",
+      "pinyin": "Wǒ kàn dào le ， yǐ jīng fàng zài tāng wǎn páng biān le 。",
+      "tr": "Gördüm, çorba kâsesinin yanına koydum bile."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_035",
+      "speaker": "李晨",
+      "zh": "你们这么照顾我，我都不知道该怎么感谢。",
+      "pinyin": "Nǐ men zhè me zhào gù wǒ ， wǒ dōu bù zhī dào gāi zěn me gǎn xiè 。",
+      "tr": "Bana bu kadar iyi bakıyorsunuz, nasıl teşekkür edeceğimi bilemiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_036",
+      "speaker": "李晨妻子",
+      "zh": "不用客气，朋友之间互相帮忙很自然。",
+      "pinyin": "Bù yòng kè qì ， péng yǒu zhī jiān hù xiāng bāng máng hěn zì rán 。",
+      "tr": "Rica ederim, arkadaşların birbirine yardım etmesi çok doğal."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_037",
+      "speaker": "刘梅",
+      "zh": "饭菜是我们一起准备的，份量不多，你们慢慢吃。",
+      "pinyin": "Fàn cài shì wǒ men yì qǐ zhǔn bèi de ， fèn liàng bù duō ， nǐ men màn màn chī 。",
+      "tr": "Yemekleri birlikte hazırladık; çok fazla değil, ağır ağır yiyin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_038",
+      "speaker": "张伟",
+      "zh": "桌上还有米饭吗？我可以给李晨盛一点。",
+      "pinyin": "Zhuō shàng hái yǒu mǐ fàn ma ？ wǒ kě yǐ gěi lǐ chén shèng yì diǎn 。",
+      "tr": "Masada pilav kaldı mı? Li Chen’e biraz koyabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_039",
+      "speaker": "李晨",
+      "zh": "厨房里还有一些，我去拿吧，坐着太久也不好。",
+      "pinyin": "Chú fáng lǐ hái yǒu yī xiē ， wǒ qù ná ba ， zuò zhe tài jiǔ yě bù hǎo 。",
+      "tr": "Mutfakta biraz daha var, ben getireyim; uzun süre oturmak da iyi değil."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_040",
+      "speaker": "李晨妻子",
+      "zh": "我去拿就行，你先陪李晨坐一会儿。",
+      "pinyin": "Wǒ qù ná jiù xíng ， nǐ xiān péi lǐ chén zuò yī huì er 。",
+      "tr": "Ben alırım; sen Li Chen’in yanında otur biraz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_041",
+      "speaker": "刘梅",
+      "zh": "家里现在安静吗？我们小声说话，别打扰正在休息的人。",
+      "pinyin": "Jiā lǐ xiàn zài ān jìng ma ？ wǒ men xiǎo shēng shuō huà ， bié dǎ rǎo zhèng zài xiū xī de rén 。",
+      "tr": "Ev şimdi sakin mi? Dinlenen kişiyi rahatsız etmemek için alçak sesle konuşalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_042",
+      "speaker": "张伟",
+      "zh": "安静多了，饭菜放好以后，我们就坐在客厅聊一会儿。",
+      "pinyin": "Ān jìng duō le ， fàn cài fàng hǎo yǐ hòu ， wǒ men jiù zuò zài kè tīng liáo yī huì er 。",
+      "tr": "Artık daha sakin. Yemekleri koyunca salonda biraz sohbet ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_043",
+      "speaker": "李晨",
+      "zh": "谢谢你们想得这么周到。家里人听到你们来了，刚才还笑了。",
+      "pinyin": "Xiè xiè nǐ men xiǎng dé zhè me zhōu dào 。 jiā lǐ rén tīng dào nǐ men lái le ， gāng cái hái xiào le 。",
+      "tr": "Bu kadar düşünceli olmanız çok güzel. Geldiğinizi duyunca aileden biri gülümsedi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_044",
+      "speaker": "李晨妻子",
+      "zh": "他现在在休息，我一会儿进去看看，不用大家都过去。",
+      "pinyin": "Tā xiàn zài zài xiū xī ， wǒ yī huì er jìn qù kàn kàn ， bù yòng dà jiā dōu guò qù 。",
+      "tr": "Şu an dinleniyor; birazdan gidip bakarım, hepimizin içeri girmesine gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_045",
+      "speaker": "刘梅",
+      "zh": "对，先让他安静休息。我们在这边吃饭、说话就好。",
+      "pinyin": "Duì ， xiān ràng tā ān jìng xiū xī 。 wǒ men zài zhè biān chī fàn 、 shuō huà jiù hǎo 。",
+      "tr": "Evet, önce sessizce dinlensin. Biz burada yiyip sohbet edebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_046",
+      "speaker": "张伟",
+      "zh": "我把门轻轻关上，客厅里也不用开太亮的灯。",
+      "pinyin": "Wǒ bǎ mén qīng qīng guān shàng ， kè tīng lǐ yě bù yòng kāi tài liàng de dēng 。",
+      "tr": "Kapıyı usulca kapatırım; salondaki ışığı da çok açmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_047",
+      "speaker": "李晨",
+      "zh": "谢谢，今天家里气氛好多了，刚才大家都有点担心。",
+      "pinyin": "Xiè xiè ， jīn tiān jiā lǐ qì fēn hǎo duō le ， gāng cái dà jiā dōu yǒu diǎn dān xīn 。",
+      "tr": "Teşekkürler, bugün evin havası düzeldi; az önce herkes biraz endişeliydi."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_048",
+      "speaker": "李晨妻子",
+      "zh": "别担心，我们先陪着你们；有需要的话就告诉我们。",
+      "pinyin": "Bié dān xīn ， wǒ men xiān péi zhe nǐ men ； yǒu xū yào de huà jiù gào sù wǒ men 。",
+      "tr": "Endişelenmeyin, yanınızdayız; bir şeye ihtiyacınız olursa söyleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_049",
+      "speaker": "刘梅",
+      "zh": "我想起来了，桌上还有水果，要不要也拿出来？",
+      "pinyin": "Wǒ xiǎng qǐ lái le ， zhuō shàng hái yǒu shuǐ guǒ ， yào bù yào yě ná chū lái ？",
+      "tr": "Aklıma geldi, masada meyve de var; çıkaralım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_050",
+      "speaker": "张伟",
+      "zh": "可以，洗好放在盘子里，等他醒了也能吃一点。",
+      "pinyin": "Kě yǐ ， xǐ hǎo fàng zài pán zi lǐ ， děng tā xǐng le yě néng chī yì diǎn 。",
+      "tr": "Olur, yıkayıp tabağa koyalım; uyanınca biraz yiyebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_051",
+      "speaker": "李晨",
+      "zh": "那我去洗水果，你们先吃饭，不用等我。",
+      "pinyin": "Nà wǒ qù xǐ shuǐ guǒ ， nǐ men xiān chī fàn ， bù yòng děng wǒ 。",
+      "tr": "Meyveleri ben yıkayayım; siz yemeğinizi yiyin, beni beklemeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_052",
+      "speaker": "李晨妻子",
+      "zh": "我来帮你洗，咱们很快就能弄好。",
+      "pinyin": "Wǒ lái bāng nǐ xǐ ， zán men hěn kuài jiù néng nòng hǎo 。",
+      "tr": "Yardım edeyim, hemen hallederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_053",
+      "speaker": "刘梅",
+      "zh": "你们先坐着吧，我自己去就行，厨房就在旁边。",
+      "pinyin": "Nǐ men xiān zuò zhe ba ， wǒ zì jǐ qù jiù xíng ， chú fáng jiù zài páng biān 。",
+      "tr": "Siz oturun, kendim yaparım; mutfak hemen yanında."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_054",
+      "speaker": "张伟",
+      "zh": "好，那我把桌上的空碗收一下，给水果留地方。",
+      "pinyin": "Hǎo ， nà wǒ bǎ zhuō shàng de kōng wǎn shōu yī xià ， jǐ shuǐ guǒ liú dì fāng 。",
+      "tr": "Peki, boş kâseleri toplayıp meyveye yer açayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_055",
+      "speaker": "李晨",
+      "zh": "这样安排很好，大家都有事做，我也不觉得孤单。",
+      "pinyin": "Zhè yàng ān pái hěn hǎo ， dà jiā dōu yǒu shì zuò ， wǒ yě bù jué dé gū dān 。",
+      "tr": "Böyle çok iyi oldu; herkesin yapacak bir şeyi var, kendimi yalnız hissetmiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_056",
+      "speaker": "李晨妻子",
+      "zh": "我们就是来陪你们的，不必客气。",
+      "pinyin": "Wǒ men jiù shì lái péi nǐ men de ， bù bì kè qì 。",
+      "tr": "Biz zaten size eşlik etmeye geldik, lütfen çekinmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_057",
+      "speaker": "刘梅",
+      "zh": "水果洗好了，我放在桌子的另一边。",
+      "pinyin": "Shuǐ guǒ xǐ hǎo le ， wǒ fàng zài zhuō zi de lìng yī biān 。",
+      "tr": "Meyveleri yıkadım, masanın öbür tarafına koyuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_058",
+      "speaker": "张伟",
+      "zh": "我把盘子移过去，汤碗旁边就不挤了。",
+      "pinyin": "Wǒ bǎ pán zi yí guò qù ， tāng wǎn páng biān jiù bù jǐ le 。",
+      "tr": "Tabağı biraz kaydırayım; çorba kâsesinin yanındaki kalabalık azalsın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_059",
+      "speaker": "李晨",
+      "zh": "看起来舒服多了。你们吃点水果，别光顾着照顾我们。",
+      "pinyin": "Kàn qǐ lái shū fú duō le 。 nǐ men chī diǎn shuǐ guǒ ， bié guāng gù zhe zhào gù wǒ men 。",
+      "tr": "Şimdi daha rahat görünüyor. Siz de biraz meyve yiyin, hep bizi düşünmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_060",
+      "speaker": "李晨妻子",
+      "zh": "好，我们一起吃。今天难得大家能坐在一起聊聊。",
+      "pinyin": "Hǎo ， wǒ men yì qǐ chī 。 jīn tiān nán dé dà jiā néng zuò zài yì qǐ liáo liáo 。",
+      "tr": "Olur, birlikte yiyelim. Bugün hep beraber oturup sohbet etmek güzel."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_061",
+      "speaker": "刘梅",
+      "zh": "今天我们先陪你们吃饭，明天要是还需要帮忙，再给我们打电话。",
+      "pinyin": "Jīn tiān wǒ men xiān péi nǐ men chī fàn ， míng tiān yào shì hái xū yào bāng máng ， zài gěi wǒ men dǎ diàn huà 。",
+      "tr": "Bugün sizinle yemek yiyelim; yarın yine yardıma ihtiyacınız olursa bizi arayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_062",
+      "speaker": "张伟",
+      "zh": "好，我会记着。其实你们今天来，我们已经很感谢了。",
+      "pinyin": "Hǎo ， wǒ huì jì zhe 。 qí shí nǐ men jīn tiān lái ， wǒ men yǐ jīng hěn gǎn xiè le 。",
+      "tr": "Tamam, aklımda tutarım. Bugün gelmeniz bile bizim için çok değerli."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_063",
+      "speaker": "李晨",
+      "zh": "明天我们自己也能准备饭菜，不想再麻烦你们跑一趟。",
+      "pinyin": "Míng tiān wǒ men zì jǐ yě néng zhǔn bèi fàn cài ， bù xiǎng zài má fán nǐ men pǎo yī tàng 。",
+      "tr": "Yarın yemeği kendimiz de hazırlayabiliriz; sizi yeniden yormak istemeyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_064",
+      "speaker": "李晨妻子",
+      "zh": "如果需要什么，我会直接告诉你们，不会客气的。",
+      "pinyin": "Rú guǒ xū yào shén me ， wǒ huì zhí jiē gào sù nǐ men ， bú huì kè qì de 。",
+      "tr": "Bir şeye ihtiyacım olursa doğrudan söylerim, çekinmem."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_065",
+      "speaker": "刘梅",
+      "zh": "那就好。我们不一定要送饭，来陪你们说说话也可以。",
+      "pinyin": "Nà jiù hǎo 。 wǒ men bù yí dìng yào sòng fàn ， lái péi nǐ men shuō shuō huà yě kě yǐ 。",
+      "tr": "Güzel. Yemek getirmemiz şart değil; gelip sohbet etmemiz de yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_066",
+      "speaker": "张伟",
+      "zh": "是啊，有朋友在身边，心里就踏实多了。",
+      "pinyin": "Shì a ， yǒu péng yǒu zài shēn biān ， xīn lǐ jiù tà shí duō le 。",
+      "tr": "Evet, arkadaşların yanında olması insanı rahatlatıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_067",
+      "speaker": "李晨",
+      "zh": "我也觉得轻松不少，刚才大家一起吃饭，气氛好多了。",
+      "pinyin": "Wǒ yě jué de qīng sōng bù shǎo ， gāng cái dà jiā yì qǐ chī fàn ， qì fēn hǎo duō le 。",
+      "tr": "Ben de daha iyi hissediyorum; az önce birlikte yemek yiyince ortam güzelleşti."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_068",
+      "speaker": "李晨妻子",
+      "zh": "你们一来，屋里就热闹起来了，真的谢谢。",
+      "pinyin": "Nǐ men yī lái ， wū lǐ jiù rè nào qǐ lái le ， zhēn de xiè xiè 。",
+      "tr": "Siz gelince ev canlandı, gerçekten teşekkürler."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_069",
+      "speaker": "刘梅",
+      "zh": "明天我给你发消息，问问家里人休息得怎么样。",
+      "pinyin": "Míng tiān wǒ gěi nǐ fā xiāo xī ， wèn wèn jiā lǐ rén xiū xī dé zěn me yàng 。",
+      "tr": "Yarın sana mesaj atıp evdekilerin nasıl dinlendiğini sorarım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_070",
+      "speaker": "张伟",
+      "zh": "好，有消息我再告诉你，不用特意跑来。",
+      "pinyin": "Hǎo ， yǒu xiāo xī wǒ zài gào sù nǐ ， bù yòng tè yì pǎo lái 。",
+      "tr": "Tamam, haber olursa sana söylerim; özellikle gelmene gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_071",
+      "speaker": "李晨",
+      "zh": "这样我们也放心。如果要买东西或带饭，记得跟我们说。",
+      "pinyin": "Zhè yàng wǒ men yě fàng xīn 。 rú guǒ yào mǎi dōng xī huò dài fàn ， jì de gēn wǒ men shuō 。",
+      "tr": "Böylece içimiz rahat eder. Bir şey almamız ya da yemek getirmemiz gerekirse söyleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_072",
+      "speaker": "李晨妻子",
+      "zh": "你们已经带了这么多饭菜，今天帮了我们大忙。",
+      "pinyin": "Nǐ men yǐ jīng dài le zhè me duō fàn cài ， jīn tiān bāng le wǒ men dà máng 。",
+      "tr": "Zaten bu kadar yemek getirerek bugün bize çok yardım ettiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_073",
+      "speaker": "刘梅",
+      "zh": "能帮上忙就好。东西不多，你们慢慢吃。",
+      "pinyin": "Néng bāng shàng máng jiù hǎo 。 dōng xī bù duō ， nǐ men màn màn chī 。",
+      "tr": "Yardımımız dokunduysa ne güzel. Çok değil, ağır ağır yiyin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_074",
+      "speaker": "张伟",
+      "zh": "剩下的饭菜我收好，等一会儿饿了还能吃。",
+      "pinyin": "Shèng xià de fàn cài wǒ shōu hǎo ， děng yī huì er è le hái néng chī 。",
+      "tr": "Kalan yemekleri kaldırırım; sonra acıkırsak yeriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_075",
+      "speaker": "李晨",
+      "zh": "这个主意不错，先别把饭菜都摆出来，保持新鲜一点。",
+      "pinyin": "Zhè ge zhǔ yì bù cuò ， xiān bié bǎ fàn cài dōu bǎi chū lái ， bǎo chí xīn xiān yì diǎn 。",
+      "tr": "İyi fikir; hepsini masaya çıkarmayalım, taze kalsın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_076",
+      "speaker": "李晨妻子",
+      "zh": "我把没吃完的盖好，放在桌子里面。",
+      "pinyin": "Wǒ bǎ méi chī wán de gài hǎo ， fàng zài zhuō zi lǐ miàn 。",
+      "tr": "Kalanların üstünü kapatıp masanın kenarına koyuyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_077",
+      "speaker": "刘梅",
+      "zh": "好，我来收一下杯子和空碗，桌上就整齐了。",
+      "pinyin": "Hǎo ， wǒ lái shōu yī xià bēi zi hé kōng wǎn ， zhuō shàng jiù zhěng qí le 。",
+      "tr": "Ben de bardaklarla boş kâseleri toplayayım, masa düzenli kalsın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_078",
+      "speaker": "张伟",
+      "zh": "我也把水果盘放回厨房，免得占着地方。",
+      "pinyin": "Wǒ yě bǎ shuǐ guǒ pán fàng huí chú fáng ， miǎn de zhàn zhe dì fāng 。",
+      "tr": "Meyve tabağını mutfağa götüreyim; burada yer kaplamasın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_079",
+      "speaker": "李晨",
+      "zh": "你们忙了这么久，坐下歇一会儿再走吧。",
+      "pinyin": "Nǐ men máng le zhè me jiǔ ， zuò xià xiē yī huì er zài zǒu ba 。",
+      "tr": "Bu kadar uğraştınız; gitmeden önce biraz oturup dinlenin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_080",
+      "speaker": "李晨妻子",
+      "zh": "谢谢，我们再坐几分钟，等你们都安顿好。",
+      "pinyin": "Xiè xiè ， wǒ men zài zuò jǐ fēn zhōng ， děng nǐ men dōu ān dùn hǎo 。",
+      "tr": "Teşekkürler, birkaç dakika daha oturup her şey yolunda mı bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_081",
+      "speaker": "刘梅",
+      "zh": "我们差不多该回去了，别让你们太晚休息。",
+      "pinyin": "Wǒ men chà bu duō gāi huí qù le ， bié ràng nǐ men tài wǎn xiū xī 。",
+      "tr": "Artık yavaş yavaş dönelim; dinlenmenizi geciktirmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_082",
+      "speaker": "张伟",
+      "zh": "我送你们到门口吧，今天真的谢谢你们。",
+      "pinyin": "Wǒ sòng nǐ men dào mén kǒu ba ， jīn tiān zhēn de xiè xiè nǐ men 。",
+      "tr": "Sizi kapıya kadar geçireyim; bugün gerçekten teşekkür ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_083",
+      "speaker": "李晨",
+      "zh": "不用送了，你先陪家里人休息，我们自己走就行。",
+      "pinyin": "Bù yòng sòng le ， nǐ xiān péi jiā lǐ rén xiū xī ， wǒ men zì jǐ zǒu jiù xíng 。",
+      "tr": "Gerek yok, sen aileden biriyle kalıp dinlen; biz kendimiz çıkarız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_084",
+      "speaker": "李晨妻子",
+      "zh": "那我把剩下的饭菜收好，也把桌子整理一下。",
+      "pinyin": "Nà wǒ bǎ shèng xià de fàn cài shōu hǎo ， yě bǎ zhuō zi zhěng lǐ yī xià 。",
+      "tr": "O hâlde kalan yemekleri kaldırıp masayı toparlayayım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_085",
+      "speaker": "刘梅",
+      "zh": "明天我再发消息问候，有需要就随时联系我。",
+      "pinyin": "Míng tiān wǒ zài fā xiāo xī wèn hòu ， yǒu xū yào jiù suí shí lián xì wǒ 。",
+      "tr": "Yarın hâlinizi hatırınızı sorarım; bir şeye ihtiyacınız olursa arayın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_086",
+      "speaker": "张伟",
+      "zh": "谢谢，看到你的消息我就知道你们惦记着我们。",
+      "pinyin": "Xiè xiè ， kàn dào nǐ de xiāo xī wǒ jiù zhī dào nǐ men diàn jì zhe wǒ men 。",
+      "tr": "Teşekkürler, mesajını görünce bizi düşündüğünü bilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_087",
+      "speaker": "李晨",
+      "zh": "我也会提醒家里人，朋友今天带了饭菜来看我们。",
+      "pinyin": "Wǒ yě huì tí xǐng jiā lǐ rén ， péng yǒu jīn tiān dài le fàn cài lái kàn wǒ men 。",
+      "tr": "Aileden olana da bugün arkadaşlarımızın yemek getirip uğradığını söylerim."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_088",
+      "speaker": "李晨妻子",
+      "zh": "等他醒了，我会把你们的话告诉他。",
+      "pinyin": "Děng tā xǐng le ， wǒ huì bǎ nǐ men de huà gào sù tā 。",
+      "tr": "Uyandığında söylediklerinizi ona aktarırım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_089",
+      "speaker": "刘梅",
+      "zh": "希望他今晚能好好休息，明天感觉更舒服一些。",
+      "pinyin": "Xī wàng tā jīn wǎn néng hǎo hǎo xiū xī ， míng tiān gǎn jué gèng shū fú yī xiē 。",
+      "tr": "Umarım bu gece güzelce dinlenir ve yarın kendini daha iyi hisseder."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_090",
+      "speaker": "张伟",
+      "zh": "是啊，大家都别太担心，先让他安静休息。",
+      "pinyin": "Shì a ， dà jiā dōu bié tài dān xīn ， xiān ràng tā ān jìng xiū xī 。",
+      "tr": "Evet, fazla endişelenmeyelim; önce sessizce dinlensin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_091",
+      "speaker": "李晨",
+      "zh": "我们回去以后会给你们发个消息，告诉你们到家了。",
+      "pinyin": "Wǒ men huí qù yǐ hòu huì gěi nǐ men fā gè xiāo xī ， gào sù nǐ men dào jiā le 。",
+      "tr": "Eve varınca size mesaj atıp ulaştığımızı haber vereceğiz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_092",
+      "speaker": "李晨妻子",
+      "zh": "好，路上慢一点，到家后也早点休息。",
+      "pinyin": "Hǎo ， lù shàng màn yì diǎn ， dào jiā hòu yě zǎo diǎn xiū xī 。",
+      "tr": "Tamam, yolda dikkatli olun; eve gidince siz de erkenden dinlenin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_093",
+      "speaker": "刘梅",
+      "zh": "今天谢谢你们来，饭菜和陪伴都让我们很开心。",
+      "pinyin": "Jīn tiān xiè xiè nǐ men lái ， fàn cài hé péi bàn dōu ràng wǒ men hěn kāi xīn 。",
+      "tr": "Bugün geldiğiniz için teşekkürler; yemek ve sohbet bizi çok mutlu etti."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_094",
+      "speaker": "张伟",
+      "zh": "朋友之间不用客气，有事记得告诉我们。",
+      "pinyin": "Péng yǒu zhī jiān bù yòng kè qì ， yǒu shì jì de gào sù wǒ men 。",
+      "tr": "Arkadaşlar arasında rica minnet olmaz; bir şey olursa haber verin."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_095",
+      "speaker": "李晨",
+      "zh": "下次有空再来坐坐，到时候我们一起做饭。",
+      "pinyin": "Xià cì yǒu kòng zài lái zuò zuò ， dào shí hòu wǒ men yì qǐ zuò fàn 。",
+      "tr": "Bir dahaki sefere yine uğrayın, o zaman yemeği birlikte yaparız."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_096",
+      "speaker": "李晨妻子",
+      "zh": "好啊，下次换我们请你们来家里吃饭。",
+      "pinyin": "Hǎo a ， xià cì huàn wǒ men qǐng nǐ men lái jiā lǐ chī fàn 。",
+      "tr": "Olur, sonraki sefer sizi biz eve yemeğe çağıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_097",
+      "speaker": "刘梅",
+      "zh": "那我们先走了，明天再联系。",
+      "pinyin": "Nà wǒ men xiān zǒu le ， míng tiān zài lián xì 。",
+      "tr": "Biz artık çıkalım, yarın haberleşiriz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_098",
+      "speaker": "张伟",
+      "zh": "再见，路上小心，到了家给我发消息。",
+      "pinyin": "Zài jiàn ， lù shàng xiǎo xīn ， dào le jiā gěi wǒ fā xiāo xī 。",
+      "tr": "Hoşça kalın, yolda dikkat edin; eve varınca mesaj atın."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_099",
+      "speaker": "李晨",
+      "zh": "再见，今天真的帮了我们不少忙。",
+      "pinyin": "Zài jiàn ， jīn tiān zhēn de bāng le wǒ men bù shǎo máng 。",
+      "tr": "Güle güle, bugün bize çok yardımcı oldunuz."
+    },
+    {
+      "id": "DLG_ZH_HSK2_SC033_100",
+      "speaker": "李晨妻子",
+      "zh": "晚安，回去路上注意安全，明天我们再聊。",
+      "pinyin": "Wǎn ān ， huí qù lù shàng zhù yì ān quán ， míng tiān wǒ men zài liáo 。",
+      "tr": "İyi geceler, eve dönerken dikkat edin; yarın yine konuşuruz."
+    }
+  ]
+}

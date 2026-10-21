@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC013",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC013.json",
-  "dialogueSha256": "568d996728eda80484a958435ad168e201dcf77a6e92c92c4e5830f4bad01e58",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC013.json",
+  "dialogueSha256": "9f5d9686d4d70c7be3171b3ca3f78e18a9f3da68939b2414accb8af14ba521d7",
   "titleTr": "Ruhsat İşlemleri",
   "locationId": "LOC_ZH_GOV_SERVICE_001",
   "scenePurposeTr": "Liu Mei resmî hizmet merkezinde kafe için gerekli ruhsat ve belgeleri tamamlamaya çalışır.",
@@ -40,7 +40,7 @@
     "previousSceneId": "ZH_HSK3_SC012",
     "nextSceneId": "ZH_HSK3_SC014"
   },
-  "sourceGeneratedFilename": "Aileyle Resmî İşlem Günü.png",
+  "sourceGeneratedFilename": "ZH_HSK3_SC013_customer_facing_candidate.png",
   "finalAssetFilename": "ZH_HSK3_SC013.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC013.webp",
   "image": {
@@ -48,8 +48,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "26d1c59cc156d1631bf7cad6339e19d5dafcb02ddbec576dddccb88e28e472f3",
-    "bytes": 200496
+    "sha256": "4c156a53b994cad83f83edc7938475f7e1ce10631c1b88b780880b923732c676",
+    "bytes": 1395356,
+    "gitBlobSha": "7685fd53e268ba179a40e5997e8d7cc62f99088f"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -71,5 +72,15 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: Önceki SC013 WebP binary dosyasının bozuk olduğu doğrulandı. Daha önce onaylanmış orijinal 'Aileyle Resmî İşlem Günü.png' kaynağından 941x1672 WEBP yeniden oluşturuldu; LOCKED_V2 metadata ve binary hash güncellendi."
+  "qaNoteTr": "2026-09-28: Önceki SC013 WebP binary dosyasının bozuk olduğu doğrulandı. Daha önce onaylanmış orijinal 'Aileyle Resmî İşlem Günü.png' kaynağından 941x1672 WEBP yeniden oluşturuldu; LOCKED_V2 metadata ve binary hash güncellendi. 2026-10-21: Diyalogdaki tüm konuşmacıların yüzü ve ağzı görsel QA ile netleştirildi; canonical yüzler, sıcak CGI görünümü, sahne kompozisyonu ve 941x1672 formatı doğrulandı. App/runtime SHA-256 eşleşiyor.",
+  "dialogueSpeakerMouthQA": {
+    "status": "PASS",
+    "allDialogueSpeakersVisible": true,
+    "mouthsVisuallyIdentifiable": true,
+    "canonicalFamilyCharactersPreserved": true,
+    "warmCinematic25D3DCGI": true,
+    "vertical941x1672": true,
+    "noEmbeddedBubblesOrUI": true,
+    "sourceSha256": "4c156a53b994cad83f83edc7938475f7e1ce10631c1b88b780880b923732c676"
+  }
 }

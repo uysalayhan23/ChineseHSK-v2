@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC043.json",
-  "dialogueSha256": "145fca36f75fa92f5f8be1e35f57897e03ccc67fb4771384aa671b9b0b007028",
+  "dialogueSha256": "b15191f5b0a52e404d4d2b0706890813471c993c9ae4fd07e5ff0d7d868e803b",
   "titleZh": "奶奶不想接受帮助",
   "titleTr": "Büyükanne Yardımı Kabul Etmekte Zorlanıyor",
   "locationId": "LOC_ZH_GRANDPARENTS_HOME_001",

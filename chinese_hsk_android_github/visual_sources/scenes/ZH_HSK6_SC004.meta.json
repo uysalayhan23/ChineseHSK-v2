@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC004.json",
-  "dialogueSha256": "2d057f8abf321d63b93325e464439568b1a554bfb8586d871701439ede597f98",
+  "dialogueSha256": "3c3103e57184d00bef4be7f1e524a64db2ec85c63a780eb0a9c1567b1c5db7d5",
   "titleZh": "传统还是简单？",
   "titleTr": "Gelenek mi Sadelik mi?",
   "locationId": "LOC_ZH_NEW_HOME_001",

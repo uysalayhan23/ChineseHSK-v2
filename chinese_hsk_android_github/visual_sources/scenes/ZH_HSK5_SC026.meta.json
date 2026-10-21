@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC026.json",
-  "dialogueSha256": "2df20069349d38df960e4ea1149d595f65cfd25face01d9dd2477c8c3bf39502",
+  "dialogueSha256": "2f2b7734ea26db1e00364edb8cd35a942505b5befc8ba7c3fece95b81cb2d24a",
   "titleZh": "全家运动挑战",
   "titleTr": "Ailece Spor Meydan Okuması",
   "locationId": "LOC_ZH_SPORTS_CENTER_001",

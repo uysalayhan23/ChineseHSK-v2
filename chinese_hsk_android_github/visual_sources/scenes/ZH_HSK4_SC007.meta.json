@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK4_SC007",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC007.json",
-  "dialogueSha256": "57ed1603dbe98c007e26f552100f91a6bcb1273aa42a85dc0e41ba65c047038d",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC007.json",
+  "dialogueSha256": "0134cd9ee41af57ae48af94fe6e2af6a083639033998d182d325b1abcc860986",
   "titleTr": "Büyükanne Kafede",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Büyükanne mutfak düzenini eleştirir ama yararlı değişiklikler önerir.",
@@ -69,5 +69,7 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi."
+  "qaNoteTr": "2026-09-28: HSK4 ilk 10’lu paket; HSK3’ten yaş ilerlemesi, büyükanne/büyükbaba continuity’si ve sahne kadrosu kontrol edilerek kullanıcı onayıyla entegre edildi.",
+  "dialogueQaStatus": "PASS",
+  "dialogueQaNoteTr": "100 turluk sahneye özgü konuşma; ID/speaker sırası, altı aktif hedef ve pinyin/Türkçe doğrulandı. Dört ağız çapası görselde kontrol edildi."
 }

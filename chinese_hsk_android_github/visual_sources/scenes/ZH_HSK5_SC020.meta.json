@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC020.json",
-  "dialogueSha256": "9c6aecdfe2c684f82b2eaed0f648480b08831a05f2879aab1128e7bf528151f6",
+  "dialogueSha256": "77c50af35f0c77ee91928bbd697f9088b5b134e7360e77a5c602efa72eb54a97",
   "titleZh": "要不要涨价？",
   "titleTr": "Fiyat Artışı Tartışması",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",

@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK5_SC011",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC011.json",
-  "dialogueSha256": "c5ca577545404fd1878825985be4436b1c58c6c95632f18ae65430f71f81ebc1",
+  "dialogueSha256": "28d70fb307c01faa0bd7fcf1df5510ed23dc66e89b9701290b4e4d6e59833262",
   "titleZh": "雨桐找实习",
   "titleTr": "Yutong Staj Arıyor",
   "locationId": "LOC_ZH_UNIVERSITY_001",

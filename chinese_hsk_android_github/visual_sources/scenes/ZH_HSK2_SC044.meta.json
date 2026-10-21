@@ -3,8 +3,8 @@
   "sceneId": "ZH_HSK2_SC044",
   "generationSceneId": "ZH_HSK2_SC044",
   "manifestVersion": "LOCKED_V2",
-  "dialogueSource": "ci/dialogue_final_v5/HSK2/ZH_HSK2_SC044.json",
-  "dialogueSha256": "43bbd0947ed8f37afe14c28c0199315edd26682936ea41d0f420edbc4b88acd0",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC044.json",
+  "dialogueSha256": "3e06f608279caa630b65d35661216fd84dc0052c3725498f8d0cce1533b60674",
   "titleTr": "Liu Mei Topluluk Etkinliğinde Yemek Yapıyor",
   "locationId": "LOC_ZH_COMMUNITY_CENTER_001",
   "scenePurposeTr": "Liu Mei ilk kez çok sayıda kişi için yemek hazırlar.",
@@ -30,7 +30,7 @@
     "previousSceneId": "ZH_HSK2_SC043",
     "nextSceneId": "ZH_HSK2_SC045"
   },
-  "sourceGeneratedFilename": "ZH_HSK2_SC044.webp",
+  "sourceGeneratedFilename": "ZH_HSK2_SC044_speakers_visible_candidate.png",
   "finalAssetFilename": "ZH_HSK2_SC044.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK2_SC044.webp",
   "image": {
@@ -38,7 +38,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "62cf5392869509ed74558f941699d9598cdaeda9012adb7ad2aaf631c5dd091f"
+    "sha256": "cbdbfb4c101757dc326a44e156bcf443887cd7b0c9a67e44aed2ea86b215387a",
+    "bytes": 1596230,
+    "gitBlobSha": "d044cd2e458cc2af4a5aff541eba1f551f7da657"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -59,5 +61,15 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: HSK2 SC037-SC046 batch’i, LOCKED_V2 görsel üretim manifestine göre diyalog/kadro/lokasyon ve Lele erkek çocuk kimlik kilidi kontrolünden geçirilerek final override olarak entegre edildi."
+  "qaNoteTr": "2026-09-27: HSK2 SC037-SC046 batch’i, LOCKED_V2 görsel üretim manifestine göre diyalog/kadro/lokasyon ve Lele erkek çocuk kimlik kilidi kontrolünden geçirilerek final override olarak entegre edildi. 2026-10-21: Diyalogdaki tüm konuşmacıların yüzü ve ağzı görsel QA ile netleştirildi; canonical yüzler, sıcak CGI görünümü, sahne kompozisyonu ve 941x1672 formatı doğrulandı. App/runtime SHA-256 eşleşiyor.",
+  "dialogueSpeakerMouthQA": {
+    "status": "PASS",
+    "allDialogueSpeakersVisible": true,
+    "mouthsVisuallyIdentifiable": true,
+    "canonicalFamilyCharactersPreserved": true,
+    "warmCinematic25D3DCGI": true,
+    "vertical941x1672": true,
+    "noEmbeddedBubblesOrUI": true,
+    "sourceSha256": "cbdbfb4c101757dc326a44e156bcf443887cd7b0c9a67e44aed2ea86b215387a"
+  }
 }

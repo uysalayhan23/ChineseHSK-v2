@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK6_SC002",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC002.json",
-  "dialogueSha256": "ab63b2cc0396a9c28815a4668676773202be78752e2521c3161604d5a01dad0f",
+  "dialogueSha256": "06ad3b082474bf6b20cac38808bf6db9d37c0bd36fbab1df037e4c7b28511b63",
   "titleZh": "两家人正式见面",
   "titleTr": "İki Ailenin İlk Resmi Buluşması",
   "locationId": "LOC_ZH_PRIVATE_DINING_001",
@@ -70,5 +70,5 @@
   },
   "narrationPresentation": null,
   "styleReferenceSceneId": "ZH_HSK6_SC001",
-  "qaNoteTr": "Diyalog, konuşmacı kadrosu, yaş sürekliliği ve 1080×1920 WebP kontrolleri geçti. APK build başlatılmadı."
+  "qaNoteTr": "100 tur iki ailenin tanışma yemeğine uygun doğal akışla düzenlendi; konuşmacı sırası ve öğrenme hedefleri korundu, pinyin ve Türkçe eşlemesi doğrulandı. Dört karakterin görsel ağız noktaları kaydedildi."
 }

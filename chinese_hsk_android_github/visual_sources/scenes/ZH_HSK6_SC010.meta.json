@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC010.json",
-  "dialogueSha256": "ec160b9fb1952ffd41beed6b32d5f1e582947b01dfa92f1d340e05e87dc2d94f",
+  "dialogueSha256": "8c733871588cb2e7eab76cbf21335502b76cc1523b02bdfab13186f00990490d",
   "titleZh": "乐乐毕业了",
   "titleTr": "Lele Üniversiteden Mezun Oluyor",
   "locationId": "LOC_ZH_UNIVERSITY_001",

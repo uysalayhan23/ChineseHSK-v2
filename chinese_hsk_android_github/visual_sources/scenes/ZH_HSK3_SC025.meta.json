@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC025",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC025.json",
-  "dialogueSha256": "c48053aa49e8ad65f7334550e28a67e562e4b527d9a91569e9517ad8f6e2ed54",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC025.json",
+  "dialogueSha256": "ca3d63d13fb229cb45592543a3af0f7140303d7fcf4a5f412447f001cdcae0b2",
   "titleTr": "Lele’nin Ödev Köşesi",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Lele için ayrılan eski masa, zamanla çocuk müşterilerin ödev köşesine dönüşür.",
@@ -44,7 +44,7 @@
     "previousSceneId": "ZH_HSK3_SC024",
     "nextSceneId": "ZH_HSK3_SC026"
   },
-  "sourceGeneratedFilename": "sıcak_kafede_ödev_zamanı.png",
+  "sourceGeneratedFilename": "ZH_HSK3_SC025_customer_facing_candidate.png",
   "finalAssetFilename": "ZH_HSK3_SC025.webp",
   "finalAsset": "app/src/main/assets/chinese_course/media/scenes/ZH_HSK3_SC025.webp",
   "image": {
@@ -52,7 +52,9 @@
     "height": 1672,
     "format": "WEBP",
     "orientation": "9:16_vertical",
-    "sha256": "dd06c688a94a80599d4f66c0e49745caa93c8b2d3d9097d18e847b1fae857826"
+    "sha256": "7f96715ae4db4b61b5c977e464cf87172ea8696a09ab9de263e394e591b225ee",
+    "bytes": 1622458,
+    "gitBlobSha": "ffd981187ebe4afcef418714f516839ff714a1ad"
   },
   "manifestChecklist": {
     "dialogueChecked": true,
@@ -74,5 +76,18 @@
   "qaStatus": "PASS",
   "status": "FINAL_SOURCE_OVERRIDE",
   "binaryIntegrityChecked": true,
-  "qaNoteTr": "2026-09-27: Önceki HSK3 final sahnelerinin karakter yüzü, yaş olgunluğu, mekân ve sıcak ışık dili korunarak kullanıcı onayı sonrası entegre edildi."
+  "qaNoteTr": "2026-09-27: Önceki HSK3 final sahnelerinin karakter yüzü, yaş olgunluğu, mekân ve sıcak ışık dili korunarak kullanıcı onayı sonrası entegre edildi. 2026-10-21: Diyalogdaki tüm konuşmacıların yüzü ve ağzı görsel QA ile netleştirildi; canonical yüzler, sıcak CGI görünümü, sahne kompozisyonu ve 941x1672 formatı doğrulandı. App/runtime SHA-256 eşleşiyor.",
+  "postGenerationVisualQA": {
+    "dialogueTextQA": "PASS"
+  },
+  "dialogueSpeakerMouthQA": {
+    "status": "PASS",
+    "allDialogueSpeakersVisible": true,
+    "mouthsVisuallyIdentifiable": true,
+    "canonicalFamilyCharactersPreserved": true,
+    "warmCinematic25D3DCGI": true,
+    "vertical941x1672": true,
+    "noEmbeddedBubblesOrUI": true,
+    "sourceSha256": "7f96715ae4db4b61b5c977e464cf87172ea8696a09ab9de263e394e591b225ee"
+  }
 }

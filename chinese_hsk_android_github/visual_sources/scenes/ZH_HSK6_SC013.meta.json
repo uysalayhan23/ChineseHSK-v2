@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC013.json",
-  "dialogueSha256": "9de6aed48c7cfbf2c54467f5b9e12f69e0b0da8e40dfc4d5b359daff16745348",
+  "dialogueSha256": "b73a7fb1893480c098f5846f6c07f93ad2bf1d40e6ba99c206a56a26c0b73505",
   "titleZh": "照片到底属于谁？",
   "titleTr": "Telif ve Kullanım Anlaşmazlığı",
   "locationId": "LOC_ZH_PHOTO_STUDIO_001",

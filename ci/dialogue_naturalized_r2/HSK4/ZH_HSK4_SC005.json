@@ -1,0 +1,710 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK4_SC005",
+  "level": "HSK4",
+  "sourceTitleZh": "离家近一点",
+  "sourceTitleTr": "Yeni Ev Arayışı",
+  "sourceMiniAdventureTr": "Büyükler yakın ama bağımsız bir ev ister; birkaç seçeneği karşılaştırırlar.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK4_SC005_001",
+      "speaker": "张伟",
+      "zh": "关于住房，大家有几个不同的想法。",
+      "pinyin": "Guānyú zhùfáng, dàjiā yǒu jǐgè bùtóng de xiǎngfǎ.",
+      "tr": "Konut konusunda herkesin birkaç farklı fikri var."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_002",
+      "speaker": "刘梅",
+      "zh": "最近大家越来越重视独立这个问题。",
+      "pinyin": "Zuìjìn dàjiā yuèláiyuè zhòngshì dúlì zhège wèntí.",
+      "tr": "Son zamanlarda herkes bağımsız konusuna giderek daha fazla önem veriyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_003",
+      "speaker": "爷爷",
+      "zh": "我同意方向，不过执行的时候需要留一点余地。",
+      "pinyin": "Wǒ tóngyì fāngxiàng, bùguò zhíxíng de shíhòu xūyào liú yìdiǎn yúdì.",
+      "tr": "Yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_004",
+      "speaker": "奶奶",
+      "zh": "如果出现新情况，我们就根据新的事实调整。",
+      "pinyin": "Rúguǒ chūxiàn xīn qíngkuàng, wǒmen jiù gēnjù xīn de shìshí tiáozhěng.",
+      "tr": "Yeni bir durum çıkarsa yeni olgulara göre ayarlarız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_005",
+      "speaker": "张伟",
+      "zh": "不过，不用追求一次把所有问题都解决，先把下一步走稳。",
+      "pinyin": "Bùguò, bùyòng zhuīqiú yīcì bǎ suǒyǒu wèntí dōu jiějué, xiān bǎ xià yībù zǒuwěn.",
+      "tr": "Ancak, bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_006",
+      "speaker": "刘梅",
+      "zh": "其实，我们至少已经知道彼此最在意什么了。",
+      "pinyin": "Qíshí, wǒmen zhìshǎo yǐjīng zhīdào bǐcǐ zuì zàiyì shénme le.",
+      "tr": "Aslında, en azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_007",
+      "speaker": "爷爷",
+      "zh": "这个住房有优点，也有需要考虑的地方。",
+      "pinyin": "Zhège zhùfáng yǒu yōudiǎn, yě yǒu xūyào kǎolǜ de dìfāng.",
+      "tr": "Bu konut avantajlara sahip ama düşünülmesi gereken yönleri de var."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_008",
+      "speaker": "奶奶",
+      "zh": "房子离家近，平时互相照应很方便，不过也要给年轻人自己的空间。",
+      "pinyin": "Fángzi líjiājìn, píngshí hùxiāng zhàoyìng hěn fāngbiàn, bùguò yě yào gěi niánqīngrén zìjǐ de kōngjiān.",
+      "tr": "Ev eve yakın olursa birbirimize destek olmak kolaylaşır ama gençlere de kendi alanlarını bırakmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_009",
+      "speaker": "张伟",
+      "zh": "没错，年轻人想独立生活，这一点也应该尊重。",
+      "pinyin": "Méicuò, niánqīngrén xiǎng dúlì shēnghuó, zhè yìdiǎn yě yīnggāi zūnzhòng.",
+      "tr": "Doğru; gençlerin bağımsız yaşama isteğine de saygı duymalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_010",
+      "speaker": "刘梅",
+      "zh": "我们先比较租金、交通和附近的生活条件，再决定。",
+      "pinyin": "Wǒmen xiān bǐjiào zūjīn、 jiāotōng hé fùjìn de shēnghuó tiáojiàn, zài juédìng.",
+      "tr": "Karar vermeden önce kirayı, ulaşımı ve çevredeki yaşam koşullarını karşılaştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_011",
+      "speaker": "爷爷",
+      "zh": "另外也要算算通勤时间，离家近不近会影响每天的安排。",
+      "pinyin": "Lìngwài yě yào suànsuàn tōngqín shíjiān, líjiājìn bùjìn huì yǐngxiǎng měitiān de ānpái.",
+      "tr": "İşe gidiş süresini de hesaplayalım; eve yakınlık günlük düzeni etkiler."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_012",
+      "speaker": "奶奶",
+      "zh": "这个决定不是不能改，以后有新情况可以重新评估。",
+      "pinyin": "Zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
+      "tr": "Bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_013",
+      "speaker": "张伟",
+      "zh": "看房时别只看一个优点，租金和交通也要放在一起比较。",
+      "pinyin": "Kànfáng shíbié zhǐ kàn yígè yōudiǎn, zūjīn hé jiāotōng yě yào fàngzài yìqǐ bǐjiào.",
+      "tr": "Ev bakarken tek bir özelliğe odaklanmayalım; kira ile ulaşımı da birlikte karşılaştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_014",
+      "speaker": "刘梅",
+      "zh": "今天先把能确定的部分定下来，剩下的以后继续聊。",
+      "pinyin": "Jīntiān xiān bǎ néng quèdìng de bùfèn dìng xiàlái, shèngxià de yǐhòu jìxù liáo.",
+      "tr": "Bugün netleştirebildiğimiz kısmı kararlaştıralım; kalanını sonra konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_015",
+      "speaker": "爷爷",
+      "zh": "对选择方案还有别的想法吗？",
+      "pinyin": "Duì xuǎnzé fāngàn háiyǒu biéde xiǎngfǎ ma?",
+      "tr": "Seçenek konusunda herkesin fikrini bir kez daha duymak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_016",
+      "speaker": "奶奶",
+      "zh": "好，我把这几项都记下来，明天看房时逐个确认。",
+      "pinyin": "Hǎo, wǒ bǎ zhè jǐxiàng dōu jìxiàlái, míngtiān kànfáng shí zhúgè quèrèn.",
+      "tr": "Peki, bunların hepsini not edeyim; yarın ev bakarken tek tek kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_017",
+      "speaker": "张伟",
+      "zh": "位置也得考虑进去。",
+      "pinyin": "Wèizhì yě dé kǎolǜ jìnqù.",
+      "tr": "Konum göz ardı edemeyeceğimiz bir nokta."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_018",
+      "speaker": "刘梅",
+      "zh": "先把各自真实的感受说出来，别急着替别人做决定。",
+      "pinyin": "Xiān bǎ gèzì zhēnshí de gǎnshòu shuō chūlái, biéjí zhe tì biérén zuò juédìng.",
+      "tr": "Önce herkes gerçek duygusunu söylesin; başkası adına karar vermek için acele etmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_019",
+      "speaker": "爷爷",
+      "zh": "房租和水电费也先问清楚，免得超出预算。",
+      "pinyin": "Fángzū hé shuǐdiànfèi yě xiān wèn qīngchǔ, miǎnde chāochūyùsuàn.",
+      "tr": "Bütçeyi aşmamak için kirayı ve faturaları da önceden öğrenelim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_020",
+      "speaker": "奶奶",
+      "zh": "对，预算先算清楚，之后住得才安心。",
+      "pinyin": "Duì, yùsuàn xiān suànqīngchǔ, zhīhòu zhù dé cái ānxīn.",
+      "tr": "Evet, bütçeyi baştan netleştirirsek sonradan içimiz rahat eder."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_021",
+      "speaker": "张伟",
+      "zh": "如果看过以后还是觉得不合适，我们就再找别的房子。",
+      "pinyin": "Rúguǒ kànguò yǐhòu háishì juéde bù héshì, wǒmen jiù zài zhǎo biéde fángzi.",
+      "tr": "Evi gördükten sonra da uygun olmadığını düşünürsek başka bir yere bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_022",
+      "speaker": "刘梅",
+      "zh": "一家人想法不一样很正常，重要的是把原因说明白。",
+      "pinyin": "Yījiārén xiǎngfǎ bù yīyàng hěn zhèngcháng, zhòngyào de shì bǎ yuányīn shuō míngbái.",
+      "tr": "Bir ailede fikirlerin farklı olması normal; önemli olan nedenlerini açıkça anlatmak."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_023",
+      "speaker": "爷爷",
+      "zh": "现实安排可以慢慢定，先听清楚彼此真正担心什么。",
+      "pinyin": "Xiànshí ānpái kěyǐ mànmàn dìng, xiān tīng qīngchǔ bǐcǐ zhēnzhèng dānxīn shénme.",
+      "tr": "Pratik düzenlemeler zamanla kararlaştırılabilir; önce birbirimizin gerçekten neden kaygılandığını anlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_024",
+      "speaker": "奶奶",
+      "zh": "另外，这件事对每个人的意义不一样，所以反应不同也很正常。",
+      "pinyin": "Lìngwài, zhèjiàn shì duì měigè rén de yìyì bù yīyàng, suǒyǐ fǎnyìng bùtóng yě hěn zhèngcháng.",
+      "tr": "Ayrıca, bu konunun herkes için anlamı farklı; bu yüzden tepkilerin farklı olması da normal."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_025",
+      "speaker": "张伟",
+      "zh": "不过，我们可以不同意，但不要替对方猜他在想什么。",
+      "pinyin": "Bùguò, wǒmen kěyǐ bù tóngyì, dàn búyào tì duìfāng cāi tā zài xiǎng shénme.",
+      "tr": "Ancak, aynı fikirde olmayabiliriz ama karşımızdakinin ne düşündüğünü onun yerine varsaymayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_026",
+      "speaker": "刘梅",
+      "zh": "先把眼前能确定的事情说清楚，其他的以后再慢慢商量。",
+      "pinyin": "Xiān bǎ yǎnqián néng quèdìng de shìqíng shuō qīngchǔ, qítā de yǐhòu zài mànmàn shāngliáng.",
+      "tr": "Önce şu anda netleştirebildiklerimizi konuşalım; diğerlerini sonra yavaş yavaş değerlendiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_027",
+      "speaker": "爷爷",
+      "zh": "换个角度看，我更在意的是，最后的安排能不能让每个人都觉得被尊重。",
+      "pinyin": "Huàngè jiǎodùkàn, wǒ gèng zàiyì de shì, zuìhòu de ānpái néng bùnéng ràng měigè rén dōu juéde bèi zūnzhòng.",
+      "tr": "Başka bir açıdan bakarsak, benim için asıl önemli olan, son düzenlemenin herkesin kendisine saygı duyulduğunu hissettirmesi."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_028",
+      "speaker": "奶奶",
+      "zh": "有些担心不是反对，只是需要一点时间适应。",
+      "pinyin": "Yǒuxiē dānxīn búshì fǎnduì, zhǐshì xūyào yìdiǎn shíjiān shìyìng.",
+      "tr": "Bazı kaygılar karşı çıkmak anlamına gelmez; bazen alışmak için biraz zamana ihtiyaç vardır."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_029",
+      "speaker": "张伟",
+      "zh": "如果谁心里还有顾虑，现在说出来反而更好。",
+      "pinyin": "Rúguǒ shuí xīnlǐ háiyǒu gùlǜ, xiànzài shuō chūlái fǎnér gènghǎo.",
+      "tr": "Birinin içinde hâlâ kaygı varsa şimdi söylemesi daha iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_030",
+      "speaker": "刘梅",
+      "zh": "只要大家愿意继续沟通，很多问题都不用一次解决。",
+      "pinyin": "Zhǐyào dàjiā yuànyì jìxù gōutōng, hěnduō wèntí dōu bùyòng yīcì jiějué.",
+      "tr": "Herkes iletişim kurmaya devam ettiği sürece bütün sorunları tek seferde çözmek gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_031",
+      "speaker": "爷爷",
+      "zh": "这件事不只是安排问题，也跟每个人的感受有关。",
+      "pinyin": "Zhèjiàn shì bù zhǐshì ānpái wèntí, yě gēn měigè rén de gǎnshòu yǒuguān.",
+      "tr": "Bu yalnızca bir düzenleme meselesi değil; herkesin duygularıyla da ilgili."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_032",
+      "speaker": "奶奶",
+      "zh": "我希望我们最后记住的，不是谁说服了谁，而是大家都认真听过彼此。",
+      "pinyin": "Wǒ xīwàng wǒmen zuìhòu jìzhù de, búshì shuí shuōfú le shuí, érshì dàjiā dōu rènzhēn tīngguò bǐcǐ.",
+      "tr": "Sonunda hatırladığımız şeyin kimin kimi ikna ettiği değil, herkesin birbirini gerçekten dinlemiş olması olmasını istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_033",
+      "speaker": "张伟",
+      "zh": "先别把未来想得太满，给彼此一点调整的空间。",
+      "pinyin": "Xiānbié bǎ wèilái xiǎngdé tàimǎn, gěi bǐcǐ yìdiǎn tiáozhěng de kōngjiān.",
+      "tr": "Geleceği şimdiden tamamen doldurmayalım; birbirimize biraz uyum alanı bırakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_034",
+      "speaker": "刘梅",
+      "zh": "不过，有些事情听起来简单，真正落到生活里才会发现细节很多。",
+      "pinyin": "Bùguò, yǒuxiē shìqíng tīng qǐlái jiǎndān, zhēnzhèng luòdào shēnghuó lǐ cái huì fāxiàn xìjié hěnduō.",
+      "tr": "Ancak, bazı şeyler kulağa basit gelir; günlük hayata gelince pek çok ayrıntı ortaya çıkar."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_035",
+      "speaker": "爷爷",
+      "zh": "其实，大家都出于关心，只是表达关心的方式不一样。",
+      "pinyin": "Qíshí, dàjiā dōu chūyú guānxīn, zhǐshì biǎodá guānxīn de fāngshì bù yīyàng.",
+      "tr": "Aslında, herkesin niyeti ilgilenmek; yalnızca bunu ifade etme biçimleri farklı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_036",
+      "speaker": "奶奶",
+      "zh": "换个角度看，我理解你的顾虑，不过也想听听另一边的感受。",
+      "pinyin": "Huàngè jiǎodùkàn, wǒ lǐjiě nǐ de gùlǜ, bùguò yě xiǎng tīngtīng lìngyībiān de gǎnshòu.",
+      "tr": "Başka bir açıdan bakarsak, kaygını anlıyorum ama diğer tarafın duygularını da duymak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_037",
+      "speaker": "张伟",
+      "zh": "先把真正的问题说清楚，别急着找一个漂亮答案。",
+      "pinyin": "Xiān bǎ zhēnzhèng de wèntí shuō qīngchǔ, biéjí zhe zhǎo yígè piàoliàng dáàn.",
+      "tr": "Önce gerçek sorunu netleştirelim; kulağa güzel gelen bir cevap bulmak için acele etmeyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_038",
+      "speaker": "刘梅",
+      "zh": "每个人看到的角度不一样，把这些角度放在一起会更完整。",
+      "pinyin": "Měigè rén kàndào de jiǎodù bù yīyàng, bǎ zhèxiē jiǎodù fàngzài yìqǐ huì gèng wánzhěng.",
+      "tr": "Herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_039",
+      "speaker": "爷爷",
+      "zh": "先确认我们已经知道什么，再说还缺什么信息。",
+      "pinyin": "Xiān quèrèn wǒmen yǐjīng zhīdào shénme, zàishuō hái quēshénme xìnxī.",
+      "tr": "Önce ne bildiğimizi netleştirelim, sonra hangi bilginin eksik olduğunu konuşalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_040",
+      "speaker": "奶奶",
+      "zh": "有不同意见没关系，只要理由说得清楚就能继续谈。",
+      "pinyin": "Yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
+      "tr": "Farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_041",
+      "speaker": "张伟",
+      "zh": "如果现在还不能确定，就先保留一点调整空间。",
+      "pinyin": "Rúguǒ xiànzài hái bùnéng quèdìng, jiù xiān bǎoliú yìdiǎn tiáozhěng kōngjiān.",
+      "tr": "Şu anda kesinleştiremiyorsak biraz uyum payı bırakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_042",
+      "speaker": "刘梅",
+      "zh": "另外，我更关心这个选择实际会带来什么变化。",
+      "pinyin": "Lìngwài, wǒ gèng guānxīn zhège xuǎnzé shíjì huì dàilái shénme biànhuà.",
+      "tr": "Ayrıca, ben daha çok bu seçimin gerçekte neyi değiştireceğini önemsiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_043",
+      "speaker": "爷爷",
+      "zh": "先别把问题想得太抽象，回到具体情况会更容易判断。",
+      "pinyin": "Xiānbié bǎ wèntí xiǎng dé tài chōuxiàng, huídào jùtǐqíngkuàng huì gèng róngyì pànduàn.",
+      "tr": "Sorunu fazla soyutlaştırmayalım; somut duruma dönmek değerlendirmeyi kolaylaştırır."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_044",
+      "speaker": "奶奶",
+      "zh": "其实，我们先处理最关键的一点，再看其他细节。",
+      "pinyin": "Qíshí, wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
+      "tr": "Aslında, önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_045",
+      "speaker": "张伟",
+      "zh": "换个角度看，这个想法可以继续讨论，不过最好再确认一下实际条件。",
+      "pinyin": "Huàngè jiǎodùkàn, zhège xiǎngfǎ kěyǐ jìxù tǎolùn, bùguò zuìhǎo zài quèrèn yīxià shíjì tiáojiàn.",
+      "tr": "Başka bir açıdan bakarsak, bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_046",
+      "speaker": "刘梅",
+      "zh": "另外，现实安排可以慢慢定，先听清楚彼此真正担心什么。",
+      "pinyin": "Lìngwài, xiànshí ānpái kěyǐ mànmàn dìng, xiān tīng qīngchǔ bǐcǐ zhēnzhèng dānxīn shénme.",
+      "tr": "Ayrıca, pratik düzenlemeler zamanla kararlaştırılabilir; önce birbirimizin gerçekten neden kaygılandığını anlayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_047",
+      "speaker": "爷爷",
+      "zh": "不过，这件事对每个人的意义不一样，所以反应不同也很正常。",
+      "pinyin": "Bùguò, zhèjiàn shì duì měigè rén de yìyì bù yīyàng, suǒyǐ fǎnyìng bùtóng yě hěn zhèngcháng.",
+      "tr": "Ancak, bu konunun herkes için anlamı farklı; bu yüzden tepkilerin farklı olması da normal."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_048",
+      "speaker": "奶奶",
+      "zh": "不用追求一次把所有问题都解决，先把下一步走稳。",
+      "pinyin": "Bùyòng zhuīqiú yīcì bǎ suǒyǒu wèntí dōu jiějué, xiān bǎ xià yībù zǒuwěn.",
+      "tr": "Bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_049",
+      "speaker": "张伟",
+      "zh": "我们至少已经知道彼此最在意什么了。",
+      "pinyin": "Wǒmen zhìshǎo yǐjīng zhīdào bǐcǐ zuì zàiyì shénme le.",
+      "tr": "En azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_050",
+      "speaker": "刘梅",
+      "zh": "把责任和时间说清楚，后面执行会容易很多。",
+      "pinyin": "Bǎ zérèn hé shíjiān shuō qīngchǔ, hòumiàn zhíxíng huì róngyì hěnduō.",
+      "tr": "Sorumlulukları ve zamanı netleştirince uygulama çok daha kolay olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_051",
+      "speaker": "爷爷",
+      "zh": "另外，这个决定不是不能改，以后有新情况可以重新评估。",
+      "pinyin": "Lìngwài, zhège juédìng búshì bùnéng gǎi, yǐhòu yǒu xīn qíngkuàng kěyǐ chóngxīn pínggū.",
+      "tr": "Ayrıca, bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_052",
+      "speaker": "奶奶",
+      "zh": "不过，今天先把能确定的部分定下来，剩下的以后继续聊。",
+      "pinyin": "Bùguò, jīntiān xiān bǎ néng quèdìng de bùfèn dìng xiàlái, shèngxià de yǐhòu jìxù liáo.",
+      "tr": "Ancak, bugün netleştirebildiğimiz kısmı kararlaştıralım; kalanını sonra konuşuruz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_053",
+      "speaker": "张伟",
+      "zh": "还有谁想补充吗？",
+      "pinyin": "Háiyǒu shuí xiǎng bǔchōng ma?",
+      "tr": "Eklemek isteyen başka biri var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_054",
+      "speaker": "刘梅",
+      "zh": "其实，我们可以不同意，但不要替对方猜他在想什么。",
+      "pinyin": "Qíshí, wǒmen kěyǐ bù tóngyì, dàn búyào tì duìfāng cāi tā zài xiǎng shénme.",
+      "tr": "Aslında, aynı fikirde olmayabiliriz ama karşımızdakinin ne düşündüğünü onun yerine varsaymayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_055",
+      "speaker": "爷爷",
+      "zh": "换个角度看，一家人想法不一样很正常，重要的是把原因说明白。",
+      "pinyin": "Huàngè jiǎodùkàn, yījiārén xiǎngfǎ bù yīyàng hěn zhèngcháng, zhòngyào de shì bǎ yuányīn shuō míngbái.",
+      "tr": "Başka bir açıdan bakarsak, bir ailede fikirlerin farklı olması normal; önemli olan nedenlerini açıkça anlatmak."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_056",
+      "speaker": "奶奶",
+      "zh": "我更在意的是，最后的安排能不能让每个人都觉得被尊重。",
+      "pinyin": "Wǒ gèng zàiyì de shì, zuìhòu de ānpái néng bùnéng ràng měigè rén dōu juéde bèi zūnzhòng.",
+      "tr": "Benim için asıl önemli olan, son düzenlemenin herkesin kendisine saygı duyulduğunu hissettirmesi."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_057",
+      "speaker": "张伟",
+      "zh": "这件事对每个人的意义不一样，所以反应不同也很正常。",
+      "pinyin": "Zhèjiàn shì duì měigè rén de yìyì bù yīyàng, suǒyǐ fǎnyìng bùtóng yě hěn zhèngcháng.",
+      "tr": "Bu konunun herkes için anlamı farklı; bu yüzden tepkilerin farklı olması da normal."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_058",
+      "speaker": "刘梅",
+      "zh": "我们可以不同意，但不要替对方猜他在想什么。",
+      "pinyin": "Wǒmen kěyǐ bù tóngyì, dàn búyào tì duìfāng cāi tā zài xiǎng shénme.",
+      "tr": "Aynı fikirde olmayabiliriz ama karşımızdakinin ne düşündüğünü onun yerine varsaymayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_059",
+      "speaker": "爷爷",
+      "zh": "另外，我希望我们最后记住的，不是谁说服了谁，而是大家都认真听过彼此。",
+      "pinyin": "Lìngwài, wǒ xīwàng wǒmen zuìhòu jìzhù de, búshì shuí shuōfú le shuí, érshì dàjiā dōu rènzhēn tīngguò bǐcǐ.",
+      "tr": "Ayrıca, sonunda hatırladığımız şeyin kimin kimi ikna ettiği değil, herkesin birbirini gerçekten dinlemiş olması olmasını istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_060",
+      "speaker": "奶奶",
+      "zh": "我希望新家离你们近一点，附近也有地方散步。",
+      "pinyin": "Wǒ xī wàng xīn jiā lí nǐ men jìn yì diǎn, fù jìn yě yǒu dì fāng sàn bù.",
+      "tr": "Yeni evin size yakın ve yürüyüş yapılacak bir yerde olmasını isterim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_061",
+      "speaker": "张伟",
+      "zh": "另外，有些担心不是反对，只是需要一点时间适应。",
+      "pinyin": "Lìngwài, yǒuxiē dānxīn búshì fǎnduì, zhǐshì xūyào yìdiǎn shíjiān shìyìng.",
+      "tr": "Ayrıca, bazı kaygılar karşı çıkmak anlamına gelmez; bazen alışmak için biraz zamana ihtiyaç vardır."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_062",
+      "speaker": "刘梅",
+      "zh": "其实，有些事情听起来简单，真正落到生活里才会发现细节很多。",
+      "pinyin": "Qíshí, yǒuxiē shìqíng tīng qǐlái jiǎndān, zhēnzhèng luòdào shēnghuó lǐ cái huì fāxiàn xìjié hěnduō.",
+      "tr": "Aslında, bazı şeyler kulağa basit gelir; günlük hayata gelince pek çok ayrıntı ortaya çıkar."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_063",
+      "speaker": "爷爷",
+      "zh": "换个角度看，大家都出于关心，只是表达关心的方式不一样。",
+      "pinyin": "Huàngè jiǎodùkàn, dàjiā dōu chūyú guānxīn, zhǐshì biǎodá guānxīn de fāngshì bù yīyàng.",
+      "tr": "Başka bir açıdan bakarsak, herkesin niyeti ilgilenmek; yalnızca bunu ifade etme biçimleri farklı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_064",
+      "speaker": "奶奶",
+      "zh": "换个角度看，这件事不只是安排问题，也跟每个人的感受有关。",
+      "pinyin": "Huàngè jiǎodùkàn, zhèjiàn shì bù zhǐshì ānpái wèntí, yě gēn měigè rén de gǎnshòu yǒuguān.",
+      "tr": "Başka bir açıdan bakarsak, bu yalnızca bir düzenleme meselesi değil; herkesin duygularıyla da ilgili."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_065",
+      "speaker": "张伟",
+      "zh": "我理解你的顾虑，不过也想听听另一边的感受。",
+      "pinyin": "Wǒ lǐjiě nǐ de gùlǜ, bùguò yě xiǎng tīngtīng lìngyībiān de gǎnshòu.",
+      "tr": "Kaygını anlıyorum ama diğer tarafın duygularını da duymak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_066",
+      "speaker": "刘梅",
+      "zh": "另外，我们可以不同意，但不要替对方猜他在想什么。",
+      "pinyin": "Lìngwài, wǒmen kěyǐ bù tóngyì, dàn búyào tì duìfāng cāi tā zài xiǎng shénme.",
+      "tr": "Ayrıca, aynı fikirde olmayabiliriz ama karşımızdakinin ne düşündüğünü onun yerine varsaymayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_067",
+      "speaker": "爷爷",
+      "zh": "有些事情听起来简单，真正落到生活里才会发现细节很多。",
+      "pinyin": "Yǒuxiē shìqíng tīng qǐlái jiǎndān, zhēnzhèng luòdào shēnghuó lǐ cái huì fāxiàn xìjié hěnduō.",
+      "tr": "Bazı şeyler kulağa basit gelir; günlük hayata gelince pek çok ayrıntı ortaya çıkar."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_068",
+      "speaker": "奶奶",
+      "zh": "大家都出于关心，只是表达关心的方式不一样。",
+      "pinyin": "Dàjiā dōu chūyú guānxīn, zhǐshì biǎodá guānxīn de fāngshì bù yīyàng.",
+      "tr": "Herkesin niyeti ilgilenmek; yalnızca bunu ifade etme biçimleri farklı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_069",
+      "speaker": "张伟",
+      "zh": "爸妈的选择和我们的方便都应该放在一起考虑。",
+      "pinyin": "Bà mā de xuǎn zé hé wǒ men de fāng biàn dōu yīng gāi fàng zài yì qǐ kǎo lǜ.",
+      "tr": "Anne babamın seçimiyle bizim rahatlığımızı birlikte değerlendirmeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_070",
+      "speaker": "刘梅",
+      "zh": "其实，我更在意的是，最后的安排能不能让每个人都觉得被尊重。",
+      "pinyin": "Qíshí, wǒ gèng zàiyì de shì, zuìhòu de ānpái néng bùnéng ràng měigè rén dōu juéde bèi zūnzhòng.",
+      "tr": "Aslında, benim için asıl önemli olan, son düzenlemenin herkesin kendisine saygı duyulduğunu hissettirmesi."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_071",
+      "speaker": "爷爷",
+      "zh": "不过，每个人看到的角度不一样，把这些角度放在一起会更完整。",
+      "pinyin": "Bùguò, měigè rén kàndào de jiǎodù bù yīyàng, bǎ zhèxiē jiǎodù fàngzài yìqǐ huì gèng wánzhěng.",
+      "tr": "Ancak, herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_072",
+      "speaker": "奶奶",
+      "zh": "换个角度看，有些担心不是反对，只是需要一点时间适应。",
+      "pinyin": "Huàngè jiǎodùkàn, yǒuxiē dānxīn búshì fǎnduì, zhǐshì xūyào yìdiǎn shíjiān shìyìng.",
+      "tr": "Başka bir açıdan bakarsak, bazı kaygılar karşı çıkmak anlamına gelmez; bazen alışmak için biraz zamana ihtiyaç vardır."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_073",
+      "speaker": "张伟",
+      "zh": "辛苦大家了。",
+      "pinyin": "Xīnkǔ dàjiā le.",
+      "tr": "Herkesin emeğine sağlık."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_074",
+      "speaker": "刘梅",
+      "zh": "换个角度看，有不同意见没关系，只要理由说得清楚就能继续谈。",
+      "pinyin": "Huàngè jiǎodùkàn, yǒu bùtóng yìjiàn méiguānxì, zhǐyào lǐyóu shuō dé qīngchǔ jiù néng jìxù tán.",
+      "tr": "Başka bir açıdan bakarsak, farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_075",
+      "speaker": "爷爷",
+      "zh": "另外，有些事情听起来简单，真正落到生活里才会发现细节很多。",
+      "pinyin": "Lìngwài, yǒuxiē shìqíng tīng qǐlái jiǎndān, zhēnzhèng luòdào shēnghuó lǐ cái huì fāxiàn xìjié hěnduō.",
+      "tr": "Ayrıca, bazı şeyler kulağa basit gelir; günlük hayata gelince pek çok ayrıntı ortaya çıkar."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_076",
+      "speaker": "奶奶",
+      "zh": "我更关心这个选择实际会带来什么变化。",
+      "pinyin": "Wǒ gèng guānxīn zhège xuǎnzé shíjì huì dàilái shénme biànhuà.",
+      "tr": "Ben daha çok bu seçimin gerçekte neyi değiştireceğini önemsiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_077",
+      "speaker": "张伟",
+      "zh": "好，我们保持联系。",
+      "pinyin": "Hǎo, wǒmen bǎochíliánxì.",
+      "tr": "Tamam, iletişimde kalalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_078",
+      "speaker": "刘梅",
+      "zh": "如果选住房，以后会有什么影响？",
+      "pinyin": "Rúguǒ xuǎn zhùfáng, yǐhòu huì yǒu shénme yǐngxiǎng?",
+      "tr": "Konut seçersek ileride ne etkisi olur?"
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_079",
+      "speaker": "爷爷",
+      "zh": "不过，大家都出于关心，只是表达关心的方式不一样。",
+      "pinyin": "Bùguò, dàjiā dōu chūyú guānxīn, zhǐshì biǎodá guānxīn de fāngshì bù yīyàng.",
+      "tr": "Ancak, herkesin niyeti ilgilenmek; yalnızca bunu ifade etme biçimleri farklı."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_080",
+      "speaker": "奶奶",
+      "zh": "如果独立方面出现新情况，原来的安排就得再改。",
+      "pinyin": "Rúguǒ dúlì fāngmiàn chūxiàn xīn qíngkuàng, yuánlái de ānpái jiù dé zài gǎi.",
+      "tr": "Bağımsız değişirse planı da ayarlamak gerekir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_081",
+      "speaker": "张伟",
+      "zh": "我们先处理最关键的一点，再看其他细节。",
+      "pinyin": "Wǒmen xiān chǔlǐ zuì guānjiàn de yìdiǎn, zài kàn qítā xìjié.",
+      "tr": "Önce en kritik noktayı ele alalım, sonra diğer ayrıntılara bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_082",
+      "speaker": "刘梅",
+      "zh": "关于距离，你们怎么看？",
+      "pinyin": "Guānyú jùlí, nǐmen zěnme kàn?",
+      "tr": "Mesafe konusunda herkesin fikrini bir kez daha duymak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_083",
+      "speaker": "爷爷",
+      "zh": "行，我先记着。",
+      "pinyin": "Xíng, wǒ xiānjì zhe.",
+      "tr": "Bu noktayı not edeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_084",
+      "speaker": "奶奶",
+      "zh": "我们还得顾到比较。",
+      "pinyin": "Wǒmen hái dé gùdào bǐjiào.",
+      "tr": "Karşılaştırmak göz ardı edemeyeceğimiz bir nokta."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_085",
+      "speaker": "张伟",
+      "zh": "这个想法可以继续讨论，不过最好再确认一下实际条件。",
+      "pinyin": "Zhège xiǎngfǎ kěyǐ jìxù tǎolùn, bùguò zuìhǎo zài quèrèn yīxià shíjì tiáojiàn.",
+      "tr": "Bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_086",
+      "speaker": "刘梅",
+      "zh": "先选出两三套合适的住房，再按这些条件逐一比较。",
+      "pinyin": "Xiān xuǎnchū liǎng sāntào héshì de zhùfáng, zài àn zhèxiē tiáojiàn zhúyī bǐjiào.",
+      "tr": "Önce iki üç uygun ev seçelim, sonra bu koşullara göre tek tek karşılaştıralım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_087",
+      "speaker": "爷爷",
+      "zh": "对，我也这么看。",
+      "pinyin": "Duì, wǒ yě zhème kàn.",
+      "tr": "Bu noktaya katılıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_088",
+      "speaker": "奶奶",
+      "zh": "如果通勤时间太长，就算房子便宜也未必合适。",
+      "pinyin": "Rúguǒ tōngqín shíjiān tài zhǎng, jiùsuàn fángzi piányi yě wèibì héshì.",
+      "tr": "İşe gidiş çok uzun sürüyorsa ev ucuz olsa bile uygun olmayabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_089",
+      "speaker": "张伟",
+      "zh": "对，你这么一说，我才想到这一层。",
+      "pinyin": "Duì, nǐ zhème yīshuō, wǒ cái xiǎngdào zhè yīcéng.",
+      "tr": "Bu açı daha önce aklıma gelmemişti."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_090",
+      "speaker": "刘梅",
+      "zh": "关于房租，你们怎么看？",
+      "pinyin": "Guānyú fángzū, nǐmen zěnme kàn?",
+      "tr": "Kira konusunda herkesin fikrini bir kez daha duymak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_091",
+      "speaker": "爷爷",
+      "zh": "另外，我同意方向，不过执行的时候需要留一点余地。",
+      "pinyin": "Lìngwài, wǒ tóngyì fāngxiàng, bùguò zhíxíng de shíhòu xūyào liú yìdiǎn yúdì.",
+      "tr": "Ayrıca, yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_092",
+      "speaker": "奶奶",
+      "zh": "关于决定，我们还是结合实际情况来看。",
+      "pinyin": "Guānyú juédìng, wǒmen háishì jiéhéshíjì qíngkuàng láikàn.",
+      "tr": "bu konu konusunda yine gerçek duruma bakmak gerekir."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_093",
+      "speaker": "张伟",
+      "zh": "其实，我理解你的顾虑，不过也想听听另一边的感受。",
+      "pinyin": "Qíshí, wǒ lǐjiě nǐ de gùlǜ, bùguò yě xiǎng tīngtīng lìngyībiān de gǎnshòu.",
+      "tr": "Aslında, kaygını anlıyorum ama diğer tarafın duygularını da duymak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_094",
+      "speaker": "刘梅",
+      "zh": "我们得先看看住房是否真的合适。",
+      "pinyin": "Wǒmen dé xiān kànkàn zhùfáng shìfǒu zhēnde héshì.",
+      "tr": "Önce konut gerçekten uygun mu bakmalıyız."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_095",
+      "speaker": "爷爷",
+      "zh": "其实，不用追求一次把所有问题都解决，先把下一步走稳。",
+      "pinyin": "Qíshí, bùyòng zhuīqiú yīcì bǎ suǒyǒu wèntí dōu jiějué, xiān bǎ xià yībù zǒuwěn.",
+      "tr": "Aslında, bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_096",
+      "speaker": "奶奶",
+      "zh": "换个角度看，我们至少已经知道彼此最在意什么了。",
+      "pinyin": "Huàngè jiǎodùkàn, wǒmen zhìshǎo yǐjīng zhīdào bǐcǐ zuì zàiyì shénme le.",
+      "tr": "Başka bir açıdan bakarsak, en azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_097",
+      "speaker": "张伟",
+      "zh": "另外，我更在意的是，最后的安排能不能让每个人都觉得被尊重。",
+      "pinyin": "Lìngwài, wǒ gèng zàiyì de shì, zuìhòu de ānpái néng bùnéng ràng měigè rén dōu juéde bèi zūnzhòng.",
+      "tr": "Ayrıca, benim için asıl önemli olan, son düzenlemenin herkesin kendisine saygı duyulduğunu hissettirmesi."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_098",
+      "speaker": "刘梅",
+      "zh": "不过，有些担心不是反对，只是需要一点时间适应。",
+      "pinyin": "Bùguò, yǒuxiē dānxīn búshì fǎnduì, zhǐshì xūyào yìdiǎn shíjiān shìyìng.",
+      "tr": "Ancak, bazı kaygılar karşı çıkmak anlamına gelmez; bazen alışmak için biraz zamana ihtiyaç vardır."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_099",
+      "speaker": "爷爷",
+      "zh": "另外，我理解你的顾虑，不过也想听听另一边的感受。",
+      "pinyin": "Lìngwài, wǒ lǐjiě nǐ de gùlǜ, bùguò yě xiǎng tīngtīng lìngyībiān de gǎnshòu.",
+      "tr": "Ayrıca, kaygını anlıyorum ama diğer tarafın duygularını da duymak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK4_SC005_100",
+      "speaker": "奶奶",
+      "zh": "其实，一家人想法不一样很正常，重要的是把原因说明白。",
+      "pinyin": "Qíshí, yījiārén xiǎngfǎ bù yīyàng hěn zhèngcháng, zhòngyào de shì bǎ yuányīn shuō míngbái.",
+      "tr": "Aslında, bir ailede fikirlerin farklı olması normal; önemli olan nedenlerini açıkça anlatmak."
+    }
+  ]
+}

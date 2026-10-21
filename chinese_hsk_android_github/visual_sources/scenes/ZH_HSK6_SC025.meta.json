@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC025.json",
-  "dialogueSha256": "45ecef74ce385e60067bf240b98ecfdb024264fc99d8e51bc739bd693bf0d044",
+  "dialogueSha256": "7ad28b22bb8fd09d34299f40d6bb3e04f59024635c1a8794dc8ba7d3fd10ced1",
   "titleZh": "四代同堂的照片",
   "titleTr": "Dört Kuşağın Fotoğrafı",
   "locationId": "LOC_ZH_NEW_HOME_001",

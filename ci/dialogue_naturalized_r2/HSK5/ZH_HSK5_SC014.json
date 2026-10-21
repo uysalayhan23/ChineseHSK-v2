@@ -1,0 +1,710 @@
+{
+  "naturalizationVersion": 7,
+  "sceneId": "ZH_HSK5_SC014",
+  "level": "HSK5",
+  "sourceTitleZh": "乐乐的数字媒体项目",
+  "sourceTitleTr": "Lele Sosyal Medya Projesi Yapıyor",
+  "sourceMiniAdventureTr": "Lele okul için dijital medya kampanyası hazırlamaya başlar.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK5_SC014_001",
+      "speaker": "张乐乐",
+      "zh": "老师让我们做一个介绍社区生活的数字媒体项目，我想先定好主题和受众。",
+      "pinyin": "lǎo shī ràng wǒ men zuò yí gè jiè shào shè qū shēng huó de shù zì méi tǐ xiàng mù ， wǒ xiǎng xiān dìng hǎo zhǔ tí hé shòu zhòng 。",
+      "tr": "Öğretmenimiz mahalle yaşamını tanıtan bir dijital medya projesi verdi; önce konuyu ve hedef kitleyi belirlemek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_002",
+      "speaker": "同学",
+      "zh": "我们可以拍短视频，也可以做图文报道。你更想让大家了解哪一部分？",
+      "pinyin": "wǒ men kě yǐ pāi duǎn shì pín ， yě kě yǐ zuò tú wén bào dào 。 nǐ gèng xiǎng ràng dà jiā liǎo jiě nǎ yī bù fèn ？",
+      "tr": "Kısa video da çekebiliriz, görsel ve yazılı haber de hazırlayabiliriz. Mahallenin hangi yönünü tanıtmak istiyorsun?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_003",
+      "speaker": "老师",
+      "zh": "先回到项目目标：你们希望观众看完以后知道什么，或者愿意做什么？",
+      "pinyin": "xiān huí dào xiàng mù mù biāo ： nǐ men xī wàng guān zhòng kàn wán yǐ hòu zhī dào shén me ， huò zhě yuàn yì zuò shén me ？",
+      "tr": "Önce projenin hedefine dönün: izleyicilerin gördükten sonra ne öğrenmesini ya da ne yapmasını istiyorsunuz?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_004",
+      "speaker": "张伟",
+      "zh": "你们可以从身边的生活开始，不必一上来就选一个很大的社会话题。",
+      "pinyin": "nǐ men kě yǐ cóng shēn biān de shēng huó kāi shǐ ， bù bì yī shàng lái jiù xuǎn yí gè hěn dà de shè huì huà tí 。",
+      "tr": "Yakınınızdaki gündelik yaşamdan başlayabilirsiniz; en başta çok geniş bir toplumsal konu seçmek zorunda değilsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_005",
+      "speaker": "张乐乐",
+      "zh": "我想介绍社区里的小店和常来的人，让同学看到这里不只是路过的地方。",
+      "pinyin": "wǒ xiǎng jiè shào shè qū lǐ de xiǎo diàn hé cháng lái de rén ， ràng tóng xué kàn dào zhè lǐ bù zhǐ shì lù guò de dì fāng 。",
+      "tr": "Mahalledeki küçük dükkânları ve sık gelen insanları tanıtıp sınıf arkadaşlarıma buranın yalnızca geçilen bir yer olmadığını göstermek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_006",
+      "speaker": "同学",
+      "zh": "这个角度挺有意思。我们主要面向同学，还是也想让附近居民看到？",
+      "pinyin": "zhè ge jiǎo dù tǐng yǒu yì si 。 wǒ men zhǔ yào miàn xiàng tóng xué ， hái shì yě xiǎng ràng fù jìn jū mín kàn dào ？",
+      "tr": "Bu bakış açısı ilginç. Öncelikle öğrencilere mi, yoksa çevredeki sakinlere de mi ulaşmak istiyoruz?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_007",
+      "speaker": "老师",
+      "zh": "目标受众不同，语言、长度和发布渠道都会不同，先把主要对象说清楚。",
+      "pinyin": "mù biāo shòu zhòng bù tóng ， yǔ yán 、 cháng dù hé fā bù qú dào dū huì bù tóng ， xiān bǎ zhǔ yào duì xiàng shuō qīng chǔ 。",
+      "tr": "Hedef kitle değişince dil, uzunluk ve paylaşım kanalı da değişir; önce asıl izleyiciyi netleştirin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_008",
+      "speaker": "张伟",
+      "zh": "也考虑受众是否了解社区背景，不能默认大家都知道店铺和街道的来历。",
+      "pinyin": "yě kǎo lǜ shòu zhòng shì fǒu liǎo jiě shè qū bèi jǐng ， bù néng mò rèn dà jiā dōu zhī dào diàn pù hé jiē dào de lái lì 。",
+      "tr": "İzleyicilerin mahalleyi tanıyıp tanımadığını da düşünün; herkesin dükkânları ve sokağın geçmişini bildiğini varsaymayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_009",
+      "speaker": "张乐乐",
+      "zh": "主要受众是同校学生，他们大多没来过这条街。我会用简单的地图介绍位置。",
+      "pinyin": "zhǔ yào shòu zhòng shì tóng xiào xué shēng ， tā men dà duō méi lái guò zhè tiáo jiē 。 wǒ huì yòng jiǎn dān de dì tú jiè shào wèi zhì 。",
+      "tr": "Asıl hedef kitle aynı okuldaki öğrenciler; çoğu bu sokağa hiç gelmemiş. Yeri basit bir haritayla göstereceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_010",
+      "speaker": "同学",
+      "zh": "如果加上店主的一段采访，大家也能听到他们为什么留在这里。",
+      "pinyin": "rú guǒ jiā shàng diàn zhǔ de yī duàn cǎi fǎng ， dà jiā yě néng tīng dào tā men wèi shén me liú zài zhè lǐ 。",
+      "tr": "Dükkân sahipleriyle kısa bir röportaj eklersek insanların burada neden kaldıklarını da duyabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_011",
+      "speaker": "老师",
+      "zh": "采访前要先说明项目用途，取得同意，并让受访者知道内容会在哪里发布。",
+      "pinyin": "cǎi fǎng qián yào xiān shuō míng xiàng mù yòng tú ， qǔ dé tóng yì ， bìng ràng shòu fǎng zhě zhī dào nèi róng huì zài nǎ lǐ fā bù 。",
+      "tr": "Röportajdan önce projenin amacını açıklayın, izin alın ve katılımcıya içeriğin nerede yayımlanacağını bildirin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_012",
+      "speaker": "张伟",
+      "zh": "如果有人不想出镜，可以录音或只引用经过同意的话，不要勉强。",
+      "pinyin": "rú guǒ yǒu rén bù xiǎng chū jìng ， kě yǐ lù yīn huò zhǐ yǐn yòng jīng guò tóng yì de huà ， bú yào miǎn qiǎng 。",
+      "tr": "Birisi görüntü vermek istemezse ses kaydı alabilir ya da izin verdiği sözleri aktarabilirsiniz; kimseyi zorlamayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_013",
+      "speaker": "张乐乐",
+      "zh": "我会先联系两家小店，问他们是否愿意接受采访，也说明我们只做课堂项目。",
+      "pinyin": "wǒ huì xiān lián xì liǎng jiā xiǎo diàn ， wèn tā men shì fǒu yuàn yì jiē shòu cǎi fǎng ， yě shuō míng wǒ men zhǐ zuò kè táng xiàng mù 。",
+      "tr": "Önce iki küçük dükkânla iletişime geçip röportaj isteyip istemediklerini soracağım; bunun yalnızca ders projesi olduğunu açıklayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_014",
+      "speaker": "同学",
+      "zh": "拍摄时要不要先写好问题？这样我们现场不会想到什么就随便问什么。",
+      "pinyin": "pāi shè shí yào bù yào xiān xiě hǎo wèn tí ？ zhè yàng wǒ men xiàn chǎng bú huì xiǎng dào shén me jiù suí biàn wèn shén me 。",
+      "tr": "Çekimden önce soruları yazalım mı? Böylece orada aklımıza geleni gelişigüzel sormayız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_015",
+      "speaker": "老师",
+      "zh": "准备几个开放问题，同时留出追问空间，别把受访者引向你预设的答案。",
+      "pinyin": "zhǔn bèi jǐ gè kāi fàng wèn tí ， tóng shí liú chū zhuī wèn kōng jiān ， bié bǎ shòu fǎng zhě yǐn xiàng nǐ yù shè de dá àn 。",
+      "tr": "Birkaç açık uçlu soru hazırlayın ve devam sorularına alan bırakın; katılımcıyı önceden düşündüğünüz yanıta yönlendirmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_016",
+      "speaker": "张伟",
+      "zh": "问题可以从日常经历开始，再问店铺和社区这些年发生了什么变化。",
+      "pinyin": "wèn tí kě yǐ cóng rì cháng jīng lì kāi shǐ ， zài wèn diàn pù hé shè qū zhè xiē nián fā shēng le shén me biàn huà 。",
+      "tr": "Sorulara gündelik deneyimlerden başlayıp dükkânın ve mahallenin yıllar içinde nasıl değiştiğini sorabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_017",
+      "speaker": "张乐乐",
+      "zh": "我会问店主哪件日常小事最能代表这条街，而不是直接问他们觉得社区怎么样。",
+      "pinyin": "wǒ huì wèn diàn zhǔ nǎ jiàn rì cháng xiǎo shì zuì néng dài biǎo zhè tiáo jiē ， ér bú shì zhí jiē wèn tā men jué de shè qū zěn me yàng 。",
+      "tr": "Dükkân sahibine mahallenin nasıl olduğunu doğrudan sormak yerine, gündelik hangi küçük şeyin bu sokağı en iyi anlattığını soracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_018",
+      "speaker": "同学",
+      "zh": "这样回答会更具体，也更容易让观众记住人物和地点。",
+      "pinyin": "zhè yàng huí dá huì gèng jù tǐ ， yě gèng róng yì ràng guān zhòng jì zhù rén wù hé dì diǎn 。",
+      "tr": "Bu şekilde yanıtlar somut olur; izleyiciler kişileri ve mekânları daha kolay hatırlar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_019",
+      "speaker": "老师",
+      "zh": "不错。拍摄前先确认光线、背景噪声和设备，避免采访结束才发现听不清。",
+      "pinyin": "bù cuò 。 pāi shè qián xiān què rèn guāng xiàn 、 bèi jǐng zào shēng hé shè bèi ， bì miǎn cǎi fǎng jié shù cái fā xiàn tīng bù qīng 。",
+      "tr": "Güzel. Çekimden önce ışığı, arka plan sesini ve cihazları kontrol edin; röportaj bitince sesin anlaşılmadığını fark etmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_020",
+      "speaker": "张伟",
+      "zh": "再给每次采访留一点备用时间，受访者可能临时有事，别把计划排得太满。",
+      "pinyin": "zài gěi měi cì cǎi fǎng liú yì diǎn bèi yòng shí jiān ， shòu fǎng zhě kě néng lín shí yǒu shì ， bié bǎ jì huà pái dé tài mǎn 。",
+      "tr": "Her röportaj için biraz ek süre bırakın; katılımcının işi çıkabilir, programı fazla sıkıştırmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_021",
+      "speaker": "张乐乐",
+      "zh": "我们联系的店主同意周六采访，但只给二十分钟，问题得选得更准确。",
+      "pinyin": "wǒ men lián xì de diàn zhǔ tóng yì zhōu liù cǎi fǎng ， dàn zhǐ gěi èr shí fēn zhōng ， wèn tí dé xuǎn dé gèng zhǔn què 。",
+      "tr": "İletişim kurduğumuz dükkân sahibi cumartesi röportaja razı ama yalnızca yirmi dakikası var; soruları dikkatle seçmeliyiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_022",
+      "speaker": "同学",
+      "zh": "我先写了八个问题，可能太多了。我们可以删掉意思相近的几题。",
+      "pinyin": "wǒ xiān xiě le bā gè wèn tí ， kě néng tài duō le 。 wǒ men kě yǐ shān diào yì si xiāng jìn de jǐ tí 。",
+      "tr": "Sekiz soru yazdım, fazla olabilir. Anlamı benzer olanları çıkarabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_023",
+      "speaker": "老师",
+      "zh": "按项目目标排序，先问能帮助观众了解人物和社区的内容。",
+      "pinyin": "àn xiàng mù mù biāo pái xù ， xiān wèn néng bāng zhù guān zhòng liǎo jiě rén wù hé shè qū de nèi róng 。",
+      "tr": "Projenin hedefine göre sırala; önce izleyicinin kişiyi ve mahalleyi tanımasına yardım edenleri sor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_024",
+      "speaker": "张伟",
+      "zh": "还要问对方是否愿意使用姓名，是否同意拍摄店铺内部。",
+      "pinyin": "hái yào wèn duì fāng shì fǒu yuàn yì shǐ yòng xìng míng ， shì fǒu tóng yì pāi shè diàn pù nèi bù 。",
+      "tr": "İsimlerinin kullanılmasını ve dükkânın içinin çekilmesini kabul edip etmediklerini de sorun."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_025",
+      "speaker": "张乐乐",
+      "zh": "我把问题减到五个，先请他讲讲开店的原因，再问街区和顾客这些年的变化。",
+      "pinyin": "wǒ bǎ wèn tí jiǎn dào wǔ gè ， xiān qǐng tā jiǎng jiǎng kāi diàn de yuán yīn ， zài wèn jiē qū hé gù kè zhè xiē nián de biàn huà 。",
+      "tr": "Soruları beşe indirdim; önce dükkânı açma nedenini, sonra sokağın ve müşterilerin yıllar içindeki değişimini soracağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_026",
+      "speaker": "同学",
+      "zh": "最后留一个问题，让他自己补充我们没想到的内容，怎么样？",
+      "pinyin": "zuì hòu liú yí gè wèn tí ， ràng tā zì jǐ bǔ chōng wǒ men méi xiǎng dào de nèi róng ， zěn me yàng ？",
+      "tr": "Sonuna, aklımıza gelmeyen bir şeyi eklemesi için açık uçlu bir soru bırakalım mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_027",
+      "speaker": "老师",
+      "zh": "很好。采访不是照着清单念完，认真听回答才能发现合适的追问。",
+      "pinyin": "hěn hǎo 。 cǎi fǎng bú shì zhào zhe qīng dān niàn wán ， rèn zhēn tīng huí dá cái néng fā xiàn hé shì de zhuī wèn 。",
+      "tr": "Güzel. Röportaj soru listesini okumaktan ibaret değil; dikkatle dinlersen uygun devam soruları bulursun."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_028",
+      "speaker": "张伟",
+      "zh": "有人回答得很短时，可以请他举例，不必马上换到下一个问题。",
+      "pinyin": "yǒu rén huí dá dé hěn duǎn shí ， kě yǐ qǐng tā jǔ lì ， bù bì mǎ shàng huàn dào xià yí gè wèn tí 。",
+      "tr": "Birisi kısa yanıt verirse örnek vermesini isteyin; hemen sonraki soruya geçmek zorunda değilsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_029",
+      "speaker": "张乐乐",
+      "zh": "我会根据回答追问，但先记住重点，免得只顾着写字而错过对方的话。",
+      "pinyin": "wǒ huì gēn jù huí dá zhuī wèn ， dàn xiān jì zhù zhòng diǎn ， miǎn de zhǐ gù zhe xiě zì ér cuò guò duì fāng de huà 。",
+      "tr": "Yanıta göre devam sorusu soracağım; ama konuşulanları kaçırmamak için yalnızca anahtar noktaları not edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_030",
+      "speaker": "同学",
+      "zh": "我负责录音和记笔记，你来提问。开始前我们再确认设备和电量。",
+      "pinyin": "wǒ fù zé lù yīn hé jì bǐ jì ， nǐ lái tí wèn 。 kāi shǐ qián wǒ men zài què rèn shè bèi hé diàn liàng 。",
+      "tr": "Kaydı ve notları ben üstleneyim, sen soruları sor. Başlamadan cihazı ve şarjı kontrol edelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_031",
+      "speaker": "老师",
+      "zh": "分工可以，但录音前还要再征求一次同意，说明文件只供课程使用。",
+      "pinyin": "fēn gōng kě yǐ ， dàn lù yīn qián hái yào zài zhēng qiú yī cì tóng yì ， shuō míng wén jiàn zhǐ gōng kè chéng shǐ yòng 。",
+      "tr": "Görev paylaşımı uygun; ancak kayda başlamadan bir kez daha izin alın ve dosyanın yalnızca ders için kullanılacağını açıklayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_032",
+      "speaker": "张伟",
+      "zh": "采访结束后也问问对方愿不愿意先看引用内容，避免断章取义。",
+      "pinyin": "cǎi fǎng jié shù hòu yě wèn wèn duì fāng yuàn bù yuàn yì xiān kàn yǐn yòng nèi róng ， bì miǎn duàn zhāng qǔ yì 。",
+      "tr": "Röportaj bitince alıntılanacak bölümleri önceden görmek isteyip istemediğini de sorun; sözleri bağlamından koparmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_033",
+      "speaker": "张乐乐",
+      "zh": "我会把用途、发布范围和审核引用的方式写在联系信息里，提前发给他。",
+      "pinyin": "wǒ huì bǎ yòng tú 、 fā bù fàn wéi hé shěn hé yǐn yòng de fāng shì xiě zài lián xì xìn xī lǐ ， tí qián fā gěi tā 。",
+      "tr": "Amacı, paylaşım kapsamını ve alıntıları gözden geçirme yöntemini iletişim mesajında yazıp önceden göndereceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_034",
+      "speaker": "同学",
+      "zh": "地图我也做好了，只标出公开的街道和店铺位置，不放任何人的住址。",
+      "pinyin": "dì tú wǒ yě zuò hǎo le ， zhǐ biāo chū gōng kāi de jiē dào hé diàn pù wèi zhì ， bù fàng rèn hé rén de zhù zhǐ 。",
+      "tr": "Haritayı hazırladım; yalnızca halka açık sokakları ve dükkânları işaretledim, kimsenin ev adresini eklemedim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_035",
+      "speaker": "老师",
+      "zh": "很好。地图上只保留完成任务所需的信息，避免分享不相关的个人资料。",
+      "pinyin": "hěn hǎo 。 dì tú shàng zhǐ bǎo liú wán chéng rèn wù suǒ xū de xìn xī ， bì miǎn fēn xiǎng bù xiāng guān de gè rén zī liào 。",
+      "tr": "Güzel. Haritada yalnızca proje için gerekli bilgileri tutun; ilgisiz kişisel verileri paylaşmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_036",
+      "speaker": "张伟",
+      "zh": "如果需要拍到路人，尽量避开他们，或者先取得同意后再使用画面。",
+      "pinyin": "rú guǒ xū yào pāi dào lù rén ， jǐn liàng bì kāi tā men ， huò zhě xiān qǔ dé tóng yì hòu zài shǐ yòng huà miàn 。",
+      "tr": "Yoldan geçenler kadraja girerse onları mümkün olduğunca çekmeyin; görüntüyü kullanacaksanız önce izin alın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_037",
+      "speaker": "张乐乐",
+      "zh": "我们可以主要拍店铺招牌、工作过程和经过确认的物品，再配上采访声音。",
+      "pinyin": "wǒ men kě yǐ zhǔ yào pāi diàn pù zhāo pái 、 gōng zuò guò chéng hé jīng guò què rèn de wù pǐn ， zài pèi shàng cǎi fǎng shēng yīn 。",
+      "tr": "Daha çok dükkân tabelasını, çalışma sürecini ve izin alınmış nesneleri çekip röportaj sesini ekleyebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_038",
+      "speaker": "同学",
+      "zh": "这样画面够丰富，也能减少路人入镜和背景声音的问题。",
+      "pinyin": "zhè yàng huà miàn gòu fēng fù ， yě néng jiǎn shǎo lù rén rù jìng hé bèi jǐng shēng yīn de wèn tí 。",
+      "tr": "Böylece görüntü çeşitlenir; yoldan geçenlerin kadraja girmesi ve arka plan sesi de azalır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_039",
+      "speaker": "老师",
+      "zh": "先做一段试拍，听听声音是否清楚，再决定要不要换位置。",
+      "pinyin": "xiān zuò yī duàn shì pāi ， tīng tīng shēng yīn shì fǒu qīng chǔ ， zài jué dìng yào bù yào huàn wèi zhì 。",
+      "tr": "Önce kısa bir deneme çekimi yapıp sesin anlaşılır olup olmadığını dinleyin; sonra yeri değiştirip değiştirmeyeceğinize karar verin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_040",
+      "speaker": "张伟",
+      "zh": "别忘了备份录音和视频，原文件保留好，剪辑时再另存工作版本。",
+      "pinyin": "bié wàng le bèi fèn lù yīn hé shì pín ， yuán wén jiàn bǎo liú hǎo ， jiǎn jí shí zài lìng cún gōng zuò bǎn běn 。",
+      "tr": "Ses ve videoyu yedeklemeyi unutmayın; özgün dosyaları koruyup düzenleme için ayrı kopya oluşturun."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_041",
+      "speaker": "张乐乐",
+      "zh": "采访已经录好了，店主讲了为什么留下来，也说了附近顾客的变化。",
+      "pinyin": "cǎi fǎng yǐ jīng lù hǎo le ， diàn zhǔ jiǎng le wèi shén me liú xià lái ， yě shuō le fù jìn gù kè de biàn huà 。",
+      "tr": "Röportajı kaydettik. Dükkân sahibi neden burada kaldığını ve yakınlardaki müşterilerin nasıl değiştiğini anlattı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_042",
+      "speaker": "同学",
+      "zh": "声音很清楚，不过后半段有一辆车经过，有几秒听不太见。",
+      "pinyin": "shēng yīn hěn qīng chǔ ， bù guò hòu bàn duàn yǒu yī liàng chē jīng guò ， yǒu jǐ miǎo tīng bù tài jiàn 。",
+      "tr": "Ses net, ancak ikinci yarıda bir araba geçtiği için birkaç saniye iyi duyulmuyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_043",
+      "speaker": "老师",
+      "zh": "先看看上下文能不能补足意思；如果影响理解，就诚实地剪掉或重新确认。",
+      "pinyin": "xiān kàn kàn shàng xià wén néng bù néng bǔ zú yì si ； rú guǒ yǐng xiǎng lǐ jiě ， jiù chéng shí dì jiǎn diào huò chóng xīn què rèn 。",
+      "tr": "Önce bağlamın anlamı tamamlayıp tamamlamadığını inceleyin; anlam etkileniyorsa o kısmı çıkarın ya da yeniden doğrulayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_044",
+      "speaker": "张伟",
+      "zh": "不要用剪辑把对方的话拼成他没说过的意思，保留完整表达最重要。",
+      "pinyin": "bú yào yòng jiǎn jí bǎ duì fāng de huà pīn chéng tā méi shuō guò de yì si ， bǎo liú wán zhěng biǎo dá zuì zhòng yào 。",
+      "tr": "Düzenlemeyle kişinin söylemediği bir anlam yaratmayın; sözlerinin bütünlüğünü korumak önemli."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_045",
+      "speaker": "张乐乐",
+      "zh": "那几秒只是重复了前一句，我会去掉，并在字幕里保留原意，不补新的说法。",
+      "pinyin": "nà jǐ miǎo zhǐ shì chóng fù le qián yī jù ， wǒ huì qù diào ， bìng zài zì mù lǐ bǎo liú yuán yì ， bù bǔ xīn de shuō fǎ 。",
+      "tr": "O birkaç saniye önceki cümlenin tekrarı; çıkaracağım ve yeni bir ifade eklemeden anlamı koruyacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_046",
+      "speaker": "同学",
+      "zh": "画面里有店主同意拍的工作台，也有一张能看见顾客姓名的单据。",
+      "pinyin": "huà miàn lǐ yǒu diàn zhǔ tóng yì pāi de gōng zuò tái ， yě yǒu yī zhāng néng kàn jiàn gù kè xìng míng de dān jù 。",
+      "tr": "Görüntüde dükkân sahibinin çekime izin verdiği çalışma tezgâhı var; ayrıca müşterinin adı görünen bir belge de kadraja girmiş."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_047",
+      "speaker": "老师",
+      "zh": "单据上的姓名要遮住，最好直接换一个不含个人信息的镜头。",
+      "pinyin": "dān jù shàng de xìng míng yào zhē zhù ， zuì hǎo zhí jiē huàn yí gè bù hán gè rén xìn xī de jìng tóu 。",
+      "tr": "Belgedeki adı kapatın; kişisel bilgi içermeyen başka bir görüntü kullanmanız daha iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_048",
+      "speaker": "张伟",
+      "zh": "检查每一帧的背景，有时重要信息不是采访内容本身，而是画面里顺手拍到的东西。",
+      "pinyin": "jiǎn chá měi yī zhēn de bèi jǐng ， yǒu shí zhòng yào xìn xī bú shì cǎi fǎng nèi róng běn shēn ， ér shì huà miàn lǐ shùn shǒu pāi dào de dōng xī 。",
+      "tr": "Her karede arka planı kontrol edin; bazen önemli bilgi röportajda değil, görüntüye istemeden giren bir ayrıntıda olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_049",
+      "speaker": "张乐乐",
+      "zh": "我换成店主整理货架的画面，也确认没有拍到顾客的脸和单据。",
+      "pinyin": "wǒ huàn chéng diàn zhǔ zhěng lǐ huò jià de huà miàn ， yě què rèn méi yǒu pāi dào gù kè de liǎn hé dān jù 。",
+      "tr": "Görüntüyü dükkân sahibinin rafları düzenlediği bir çekimle değiştirdim; müşteri yüzü ya da belge görünmediğini de doğruladım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_050",
+      "speaker": "同学",
+      "zh": "地图的字号有点小，在手机上可能看不清，我们可以删掉不重要的路线。",
+      "pinyin": "dì tú de zì hào yǒu diǎn xiǎo ， zài shǒu jī shàng kě néng kàn bù qīng ， wǒ men kě yǐ shān diào bú zhòng yào de lù xiàn 。",
+      "tr": "Haritadaki yazılar biraz küçük; telefonda okunmayabilir. Önemsiz güzergâhları silebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_051",
+      "speaker": "老师",
+      "zh": "先在手机屏幕上预览，主要地点和方向清楚就行，不需要塞进所有信息。",
+      "pinyin": "xiān zài shǒu jī píng mù shàng yù lǎn ， zhǔ yào dì diǎn hé fāng xiàng qīng chǔ jiù xíng ， bù xū yào sāi jìn suǒ yǒu xìn xī 。",
+      "tr": "Telefon ekranında önizleme yapın; ana konumlar ve yönler anlaşılırsa yeter, her bilgiyi sığdırmak gerekmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_052",
+      "speaker": "张伟",
+      "zh": "再看看图标和文字有没有重叠，颜色也要让不同部分容易区分。",
+      "pinyin": "zài kàn kàn tú biāo hé wén zì yǒu méi yǒu chóng dié ， yán sè yě yào ràng bù tóng bù fèn róng yì qū fēn 。",
+      "tr": "Simgelerle yazıların çakışmadığını ve renklerin bölümleri kolayca ayırdığını da kontrol edin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_053",
+      "speaker": "张乐乐",
+      "zh": "我删掉了两条支线，放大街道名称，现在从学校到采访地点一眼就能看懂。",
+      "pinyin": "wǒ shān diào le liǎng tiáo zhī xiàn ， fàng dà jiē dào míng chēng ， xiàn zài cóng xué xiào dào cǎi fǎng dì diǎn yī yǎn jiù néng kàn dǒng 。",
+      "tr": "İki yan güzergâhı çıkardım ve sokak adlarını büyüttüm; okuldan röportaj yerine gidiş artık kolayca anlaşılıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_054",
+      "speaker": "同学",
+      "zh": "我把采访片段剪成两分钟，先讲人物，再讲社区变化，最后放地图。",
+      "pinyin": "wǒ bǎ cǎi fǎng piàn duàn jiǎn chéng liǎng fēn zhōng ， xiān jiǎng rén wù ， zài jiǎng shè qū biàn huà ， zuì hòu fàng dì tú 。",
+      "tr": "Röportajı iki dakikaya indirdim: önce kişiyi, sonra mahalledeki değişimi anlatıp en son haritayı gösteriyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_055",
+      "speaker": "老师",
+      "zh": "这个顺序合理。开头可以先说项目问题，让观众知道为什么要听这个故事。",
+      "pinyin": "zhè ge shùn xù hé lǐ 。 kāi tóu kě yǐ xiān shuō xiàng mù wèn tí ， ràng guān zhòng zhī dào wèi shén me yào tīng zhè ge gù shì 。",
+      "tr": "Bu sıralama mantıklı. Başta projenin sorusunu söyle ki izleyici bu hikâyeyi neden dinlediğini bilsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_056",
+      "speaker": "张伟",
+      "zh": "结尾也留一个明确的信息，告诉同学怎样找到这条街或继续了解社区。",
+      "pinyin": "jié wěi yě liú yí gè míng què de xìn xī ， gào sù tóng xué zěn yàng zhǎo dào zhè tiáo jiē huò jì xù liǎo jiě shè qū 。",
+      "tr": "Sonunda da sınıf arkadaşlarına bu sokağı nasıl bulacaklarını ya da mahalleyi nasıl daha fazla tanıyacaklarını söyleyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_057",
+      "speaker": "张乐乐",
+      "zh": "我会邀请他们周末来街上走走，但不会说每家店都代表所有居民的想法。",
+      "pinyin": "wǒ huì yāo qǐng tā men zhōu mò lái jiē shàng zǒu zǒu ， dàn bú huì shuō měi jiā diàn dōu dài biǎo suǒ yǒu jū mín de xiǎng fǎ 。",
+      "tr": "Onları hafta sonu sokağı gezmeye çağıracağım ama her dükkânın tüm sakinlerin görüşünü temsil ettiğini söylemeyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_058",
+      "speaker": "同学",
+      "zh": "字幕我会逐句对照录音，尤其是人名、店名和被剪短的句子。",
+      "pinyin": "zì mù wǒ huì zhú jù duì zhào lù yīn ， yóu qí shì rén míng 、 diàn míng hé bèi jiǎn duǎn de jù zi 。",
+      "tr": "Altyazıları ses kaydıyla cümle cümle karşılaştıracağım; özellikle kişi ve dükkân adlarını, kısaltılan cümleleri."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_059",
+      "speaker": "老师",
+      "zh": "再让一个没参加制作的人看一遍，问他能不能说出项目的重点。",
+      "pinyin": "zài ràng yí gè méi cān jiā zhì zuò de rén kàn yī biàn ， wèn tā néng bù néng shuō chū xiàng mù dì zhòng diǎn 。",
+      "tr": "Projeye katılmayan birinden de izlemesini isteyin; projenin ana fikrini anlayıp anlamadığını sorun."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_060",
+      "speaker": "张伟",
+      "zh": "观众看不懂的地方通常值得改，先听他们哪里卡住，再决定怎么调整。",
+      "pinyin": "guān zhòng kàn bù dǒng de dì fāng tōng cháng zhí de gǎi ， xiān tīng tā men nǎ lǐ kǎ zhù ， zài jué dìng zěn me tiáo zhěng 。",
+      "tr": "İzleyicinin anlamadığı yerler genellikle düzeltilmelidir; önce nerede takıldığını dinleyip sonra nasıl değiştireceğinize karar verin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_061",
+      "speaker": "张乐乐",
+      "zh": "我把第一版给没参加项目的同学看了，他记住了店主的故事，却没明白我们为什么做这份内容。",
+      "pinyin": "wǒ bǎ dì yī bǎn gěi méi cān jiā xiàng mù dì tóng xué kàn le ， tā jì zhù le diàn zhǔ de gù shì ， què méi míng bái wǒ men wèi shén me zuò zhè fèn nèi róng 。",
+      "tr": "Projeye katılmayan bir sınıf arkadaşıma ilk sürümü gösterdim; dükkân sahibinin hikâyesini hatırladı ama bu içeriği neden hazırladığımızı anlamadı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_062",
+      "speaker": "同学",
+      "zh": "那就把项目问题提前，在采访前说明我们想了解社区生活如何变化。",
+      "pinyin": "nà jiù bǎ xiàng mù wèn tí tí qián ， zài cǎi fǎng qián shuō míng wǒ men xiǎng liǎo jiě shè qū shēng huó rú hé biàn huà 。",
+      "tr": "O halde proje sorusunu öne alıp röportajdan önce mahalle yaşamının nasıl değiştiğini anlamak istediğimizi söyleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_063",
+      "speaker": "老师",
+      "zh": "开头要简短，把目标说清楚后尽快进入故事，别用太多背景占时间。",
+      "pinyin": "kāi tóu yào jiǎn duǎn ， bǎ mù biāo shuō qīng chǔ hòu jǐn kuài jìn rù gù shì ， bié yòng tài duō bèi jǐng zhàn shí jiān 。",
+      "tr": "Giriş kısa olsun; hedefi açıkladıktan sonra hızla hikâyeye geçin, arka planı uzatmayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_064",
+      "speaker": "张伟",
+      "zh": "也可以请观众想一想自己常去的地方，和受访者的经历形成联系。",
+      "pinyin": "yě kě yǐ qǐng guān zhòng xiǎng yī xiǎng zì jǐ cháng qù de dì fāng ， hé shòu fǎng zhě de jīng lì xíng chéng lián xì 。",
+      "tr": "İzleyicilere sık gittikleri bir yeri düşünmelerini söyleyerek katılımcının deneyimiyle bağ kurabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_065",
+      "speaker": "张乐乐",
+      "zh": "我会用一个问题开场：你常去的地方，有没有一件小事让你觉得这里很特别？",
+      "pinyin": "wǒ huì yòng yí gè wèn tí kāi chǎng ： nǐ cháng qù de dì fāng ， yǒu méi yǒu yī jiàn xiǎo shì ràng nǐ jué de zhè lǐ hěn tè bié ？",
+      "tr": "Şöyle bir soruyla başlayacağım: Sık gittiğin bir yerde burayı özel hissettiren küçük bir şey var mı?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_066",
+      "speaker": "同学",
+      "zh": "这样比较亲切，不过要给出一个具体例子，避免观众不知道怎么回答。",
+      "pinyin": "zhè yàng bǐ jiào qīn qiè ， bù guò yào gěi chū yí gè jù tǐ lì zi ， bì miǎn guān zhòng bù zhī dào zěn me huí dá 。",
+      "tr": "Bu daha samimi; yine de izleyici nasıl yanıt vereceğini bilsin diye somut bir örnek verelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_067",
+      "speaker": "老师",
+      "zh": "你可以用店主每天开门前整理街边花盆的习惯作例子，再进入采访。",
+      "pinyin": "nǐ kě yǐ yòng diàn zhǔ měi tiān kāi mén qián zhěng lǐ jiē biān huā pén de xí guàn zuò lì zi ， zài jìn rù cǎi fǎng 。",
+      "tr": "Röportaja geçmeden önce dükkân sahibinin her gün açılıştan önce saksıları düzenlemesini örnek verebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_068",
+      "speaker": "张伟",
+      "zh": "确认这个细节可以公开，也确认店主愿意让你们这样介绍他的日常。",
+      "pinyin": "què rèn zhè ge xì jié kě yǐ gōng kāi ， yě què rèn diàn zhǔ yuàn yì ràng nǐ men zhè yàng jiè shào tā de rì cháng 。",
+      "tr": "Bu ayrıntının paylaşılabileceğini ve dükkân sahibinin günlük yaşamını bu şekilde anlatmanıza izin verdiğini doğrulayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_069",
+      "speaker": "张乐乐",
+      "zh": "我已经把开场改短，也再次问过店主，他同意使用这个工作习惯作例子。",
+      "pinyin": "wǒ yǐ jīng bǎ kāi chǎng gǎi duǎn ， yě zài cì wèn guò diàn zhǔ ， tā tóng yì shǐ yòng zhè ge gōng zuò xí guàn zuò lì zi 。",
+      "tr": "Girişi kısalttım ve dükkân sahibine yeniden sordum; bu çalışma alışkanlığını örnek olarak kullanmamıza izin verdi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_070",
+      "speaker": "同学",
+      "zh": "现在从问题到采访再到地图，内容之间连得更顺，不像几个片段拼在一起。",
+      "pinyin": "xiàn zài cóng wèn tí dào cǎi fǎng zài dào dì tú ， nèi róng zhī jiān lián dé gèng shùn ， bù xiàng jǐ gè piàn duàn pīn zài yì qǐ 。",
+      "tr": "Artık soru, röportaj ve harita birbirine daha iyi bağlanıyor; ayrı parçalar birleştirilmiş gibi durmuyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_071",
+      "speaker": "老师",
+      "zh": "再检查时长和作业要求，别为了剪得漂亮而漏掉必须说明的资料来源。",
+      "pinyin": "zài jiǎn chá shí cháng hé zuò yè yāo qiú ， bié wèi le jiǎn dé piào liàng ér lòu diào bì xū shuō míng de zī liào lái yuán 。",
+      "tr": "Son kontrol sırasında süreyi ve ödev koşullarını inceleyin; güzel kurgu uğruna kaynakları belirtmeyi atlamayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_072",
+      "speaker": "张伟",
+      "zh": "采访中的事实、地图资料和音乐都要确认来源及使用许可。",
+      "pinyin": "cǎi fǎng zhōng de shì shí 、 dì tú zī liào hé yīn yuè dōu yào què rèn lái yuán jí shǐ yòng xǔ kě 。",
+      "tr": "Röportajdaki bilgilerin, harita verilerinin ve müziğin kaynağını ve kullanım iznini doğrulayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_073",
+      "speaker": "张乐乐",
+      "zh": "地图来自学校提供的公开资料，音乐是老师指定的可用素材，我会在结尾标明来源。",
+      "pinyin": "dì tú lái zì xué xiào tí gōng de gōng kāi zī liào ， yīn yuè shì lǎo shī zhǐ dìng de kě yòng sù cái ， wǒ huì zài jié wěi biāo míng lái yuán 。",
+      "tr": "Harita okulun sağladığı açık veriden, müzik de öğretmenin belirttiği kullanılabilir kaynaklardan; kaynakları sonda belirteceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_074",
+      "speaker": "同学",
+      "zh": "我发现字幕里把店主说的“以前”打成了“最近”，需要重新听一遍核对。",
+      "pinyin": "wǒ fā xiàn zì mù lǐ bǎ diàn zhǔ shuō de “ yǐ qián ” dǎ chéng le “ zuì jìn ” ， xū yào chóng xīn tīng yī biàn hé duì 。",
+      "tr": "Altyazıda dükkân sahibinin “eskiden” dediği yeri “yakın zamanda” yazmışım; kaydı yeniden dinleyip düzeltmeliyim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_075",
+      "speaker": "老师",
+      "zh": "这是改变意思的错误，校对时要听原音，不能只检查字幕读起来通不通。",
+      "pinyin": "zhè shì gǎi biàn yì si de cuò wù ， jiào duì shí yào tīng yuán yīn ， bù néng zhǐ jiǎn chá zì mù dú qǐ lái tōng bù tōng 。",
+      "tr": "Bu, anlamı değiştiren bir hata. Düzeltirken özgün sesi dinleyin; altyazının kulağa akıcı gelmesi yeterli değil."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_076",
+      "speaker": "张伟",
+      "zh": "把引用时间点记下来，之后如果有人问来源，可以准确找到原话。",
+      "pinyin": "bǎ yǐn yòng shí jiān diǎn jì xià lái ， zhī hòu rú guǒ yǒu rén wèn lái yuán ， kě yǐ zhǔn què zhǎo dào yuán huà 。",
+      "tr": "Alıntının zaman kodunu kaydedin; biri kaynağı sorarsa özgün sözü kolayca bulursunuz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_077",
+      "speaker": "张乐乐",
+      "zh": "我改好了，也把每段引用对应的录音时间写进项目记录。",
+      "pinyin": "wǒ gǎi hǎo le ， yě bǎ měi duàn yǐn yòng duì yìng de lù yīn shí jiān xiě jìn xiàng mù jì lù 。",
+      "tr": "Düzelttim ve her alıntının ses kaydındaki zamanını proje notlarına ekledim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_078",
+      "speaker": "同学",
+      "zh": "现在版本更清楚了。我会再用手机耳机听一次，检查人声和背景音乐的音量。",
+      "pinyin": "xiàn zài bǎn běn gèng qīng chǔ le 。 wǒ huì zài yòng shǒu jī ěr jī tīng yī cì ， jiǎn chá rén shēng hé bèi jǐng yīn yuè de yīn liàng 。",
+      "tr": "Sürüm artık daha açık. İnsan sesiyle fon müziğinin düzeyini kontrol etmek için kulaklıkla bir kez daha dinleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_079",
+      "speaker": "老师",
+      "zh": "人声要始终听得清，音乐不要盖住受访者，也不要突然变大。",
+      "pinyin": "rén shēng yào shǐ zhōng tīng dé qīng ， yīn yuè bú yào gài zhù shòu fǎng zhě ， yě bú yào tū rán biàn dà 。",
+      "tr": "Konuşmalar her zaman anlaşılır olmalı; müzik katılımcının sesini bastırmamalı veya aniden yükselmemeli."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_080",
+      "speaker": "张伟",
+      "zh": "最后让店主确认引用和影像使用范围，得到答复后再提交作品。",
+      "pinyin": "zuì hòu ràng diàn zhǔ què rèn yǐn yòng hé yǐng xiàng shǐ yòng fàn wéi ， dé dào dá fù hòu zài tí jiāo zuò pǐn 。",
+      "tr": "Çalışmayı teslim etmeden önce alıntıları ve görüntülerin kullanım kapsamını dükkân sahibine onaylatın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_081",
+      "speaker": "张乐乐",
+      "zh": "店主看过引用了，他同意采访内容，但希望我们删掉能看出具体收入的那句话。",
+      "pinyin": "diàn zhǔ kàn guò yǐn yòng le ， tā tóng yì cǎi fǎng nèi róng ， dàn xī wàng wǒ men shān diào néng kàn chū jù tǐ shōu rù de nà jù huà 。",
+      "tr": "Dükkân sahibi alıntıları inceledi; röportaja izin veriyor ama gelirini belli eden cümleyi çıkarmamızı istedi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_082",
+      "speaker": "同学",
+      "zh": "那句话不是项目重点，删掉后故事也不会断，我们按他的要求处理吧。",
+      "pinyin": "nà jù huà bú shì xiàng mù zhòng diǎn ， shān diào hòu gù shì yě bú huì duàn ， wǒ men àn tā de yāo qiú chǔ lǐ ba 。",
+      "tr": "O cümle projenin ana noktası değil; çıkarınca anlatı kopmaz. İsteğine göre düzenleyelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_083",
+      "speaker": "老师",
+      "zh": "同意。受访者的许可范围要尊重，修改后再确认没有留下其他相关信息。",
+      "pinyin": "tóng yì 。 shòu fǎng zhě de xǔ kě fàn wéi yào zūn zhòng ， xiū gǎi hòu zài què rèn méi yǒu liú xià qí tā xiāng guān xìn xī 。",
+      "tr": "Katılıyorum. Katılımcının izin sınırlarına uyun; düzenlemeden sonra bağlantılı başka bilgi kalmadığını kontrol edin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_084",
+      "speaker": "张伟",
+      "zh": "你们已经做了素材检查，最后也要核对发布平台和观看对象是否符合原先说明。",
+      "pinyin": "nǐ men yǐ jīng zuò le sù cái jiǎn chá ， zuì hòu yě yào hé duì fā bù píng tái hé guān kàn duì xiàng shì fǒu fú hé yuán xiān shuō míng 。",
+      "tr": "İçeriği kontrol ettiniz; son olarak paylaşım platformunun ve izleyicilerin başta açıklanan kapsamla uyumlu olduğunu doğrulayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_085",
+      "speaker": "张乐乐",
+      "zh": "我们只会上传到课程平台，老师和同学能看，不会公开到社交网站。",
+      "pinyin": "wǒ men zhǐ huì shàng chuán dào kè chéng píng tái ， lǎo shī hé tóng xué néng kàn ， bú huì gōng kāi dào shè jiāo wǎng zhàn 。",
+      "tr": "Yalnızca ders platformuna yükleyeceğiz; öğretmen ve sınıf arkadaşları görebilecek, sosyal medyada yayımlamayacağız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_086",
+      "speaker": "同学",
+      "zh": "我把片尾的发布说明改准确了，也保留了资料来源和受访者许可记录。",
+      "pinyin": "wǒ bǎ piàn wěi de fā bù shuō míng gǎi zhǔn què le ， yě bǎo liú le zī liào lái yuán hé shòu fǎng zhě xǔ kě jì lù 。",
+      "tr": "Kapanıştaki paylaşım açıklamasını düzelttim; kaynakları ve katılımcı izin kayıtlarını da ekledim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_087",
+      "speaker": "老师",
+      "zh": "很好。正式导出前再检查一次画面比例、声音、字幕和文件能否正常打开。",
+      "pinyin": "hěn hǎo 。 zhèng shì dǎo chū qián zài jiǎn chá yī cì huà miàn bǐ lì 、 shēng yīn 、 zì mù hé wén jiàn néng fǒu zhèng cháng dǎ kāi 。",
+      "tr": "Güzel. Son çıktıyı almadan önce görüntü oranını, sesi, altyazıyı ve dosyanın açılıp açılmadığını kontrol edin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_088",
+      "speaker": "张伟",
+      "zh": "最好让另一个人从头看完，不要只跳着检查剪辑点。",
+      "pinyin": "zuì hǎo ràng lìng yí gè rén cóng tóu kàn wán ， bú yào zhǐ tiào zhe jiǎn chá jiǎn jí diǎn 。",
+      "tr": "Bir başkası baştan sona izlesin; yalnızca kurgu noktalarına atlayarak kontrol etmeyin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_089",
+      "speaker": "张乐乐",
+      "zh": "我刚从头看过一遍，开场清楚，采访听得见，结尾也告诉大家怎样找到这条街。",
+      "pinyin": "wǒ gāng cóng tóu kàn guò yī biàn ， kāi chǎng qīng chǔ ， cǎi fǎng tīng de jiàn ， jié wěi yě gào sù dà jiā zěn yàng zhǎo dào zhè tiáo jiē 。",
+      "tr": "Baştan sona izledim; giriş açık, röportaj duyuluyor ve sonunda sokağın nasıl bulunacağı anlatılıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_090",
+      "speaker": "同学",
+      "zh": "我检查了字幕和资料来源，没有发现错字；手机上地图也能看清楚。",
+      "pinyin": "wǒ jiǎn chá le zì mù hé zī liào lái yuán ， méi yǒu fā xiàn cuò zì ； shǒu jī shàng dì tú yě néng kàn qīng chǔ 。",
+      "tr": "Altyazıyı ve kaynakları kontrol ettim, yazım hatası bulmadım; harita telefonda da okunuyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_091",
+      "speaker": "老师",
+      "zh": "那就按课程要求提交，并在说明中简要写清你们怎样取得采访许可。",
+      "pinyin": "nà jiù àn kè chéng yāo qiú tí jiāo ， bìng zài shuō míng zhōng jiǎn yào xiě qīng nǐ men zěn yàng qǔ dé cǎi fǎng xǔ kě 。",
+      "tr": "O halde ödev koşullarına göre teslim edin ve notta röportaj iznini nasıl aldığınızı kısaca açıklayın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_092",
+      "speaker": "张伟",
+      "zh": "你们也可以写明删去了哪些个人信息，说明制作时考虑了隐私保护。",
+      "pinyin": "nǐ men yě kě yǐ xiě míng shān qù le nǎ xiē gè rén xìn xī ， shuō míng zhì zuò shí kǎo lǜ le yǐn sī bǎo hù 。",
+      "tr": "Hangi kişisel bilgileri çıkardığınızı da yazarak hazırlık sırasında gizliliği gözettiğinizi belirtin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_093",
+      "speaker": "张乐乐",
+      "zh": "我会把同意记录、修改后的引用和最终版本放在项目文件夹里，方便老师查看。",
+      "pinyin": "wǒ huì bǎ tóng yì jì lù 、 xiū gǎi hòu de yǐn yòng hé zuì zhōng bǎn běn fàng zài xiàng mù wén jiàn jiā lǐ ， fāng biàn lǎo shī chá kàn 。",
+      "tr": "İzin kaydını, düzenlenmiş alıntıları ve son sürümü proje klasörüne koyup öğretmenin incelemesine hazır edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_094",
+      "speaker": "同学",
+      "zh": "这次从访谈到剪辑都由我们自己完成，交之前还留出了检查时间。",
+      "pinyin": "zhè cì cóng fǎng tán dào jiǎn jí dōu yóu wǒ men zì jǐ wán chéng ， jiāo zhī qián hái liú chū le jiǎn chá shí jiān 。",
+      "tr": "Bu kez röportajdan kurguya kadar her şeyi kendimiz yaptık ve teslimden önce kontrol için zaman bıraktık."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_095",
+      "speaker": "老师",
+      "zh": "团队合作也要在作业说明里写清楚每个人负责的部分。",
+      "pinyin": "tuán duì hé zuò yě yào zài zuò yè shuō míng lǐ xiě qīng chǔ měi gè rén fù zé de bù fèn 。",
+      "tr": "Ödev açıklamasında ekipteki her kişinin üstlendiği kısmı da açıkça belirtin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_096",
+      "speaker": "张伟",
+      "zh": "诚实说明贡献，既能公平评价，也能让你们知道自己还想学习什么。",
+      "pinyin": "chéng shí shuō míng gòng xiàn ， jì néng gōng píng píng jià ， yě néng ràng nǐ men zhī dào zì jǐ hái xiǎng xué xí shén me 。",
+      "tr": "Katkıları dürüstçe açıklamak adil değerlendirme sağlar ve öğrenmek istediğiniz yönleri görmenize yardım eder."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_097",
+      "speaker": "张乐乐",
+      "zh": "我负责联系受访者、整理采访和统筹内容，同学负责拍摄、剪辑与字幕。",
+      "pinyin": "wǒ fù zé lián xì shòu fǎng zhě 、 zhěng lǐ cǎi fǎng hé tǒng chóu nèi róng ， tóng xué fù zé pāi shè 、 jiǎn jí yǔ zì mù 。",
+      "tr": "Katılımcıyla iletişimi, röportaj düzenini ve içeriğin koordinasyonunu ben; çekimi, kurguyu ve altyazıyı arkadaşım üstlendi."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_098",
+      "speaker": "同学",
+      "zh": "我们一起讨论了主题和受众，也互相检查了最后的版本。",
+      "pinyin": "wǒ men yì qǐ tǎo lùn le zhǔ tí hé shòu zhòng ， yě hù xiāng jiǎn chá le zuì hòu de bǎn běn 。",
+      "tr": "Konuyu ve hedef kitleyi birlikte tartıştık; son sürümü de karşılıklı kontrol ettik."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_099",
+      "speaker": "老师",
+      "zh": "分工说明得很清楚。下次项目可以试试提前安排试映，让修改时间更充足。",
+      "pinyin": "fēn gōng shuō míng dé hěn qīng chǔ 。 xià cì xiàng mù kě yǐ shì shì tí qián ān pái shì yìng ， ràng xiū gǎi shí jiān gèng chōng zú 。",
+      "tr": "Görev paylaşımı açık. Bir sonraki projede düzeltmeye daha çok zaman kalması için önceden gösterim planlayabilirsiniz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC014_100",
+      "speaker": "张伟",
+      "zh": "这次作品让同学认识了社区，也让你们练习了采访、判断和负责任地使用媒体。",
+      "pinyin": "zhè cì zuò pǐn ràng tóng xué rèn shí le shè qū ， yě ràng nǐ men liàn xí le cǎi fǎng 、 pàn duàn hé fù zé rèn dì shǐ yòng méi tǐ 。",
+      "tr": "Bu çalışma sınıf arkadaşlarınızı mahalleyle tanıştırdı; siz de röportaj, değerlendirme ve medyayı sorumlu kullanma becerilerini çalıştınız."
+    }
+  ]
+}

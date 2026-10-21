@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC042.json",
-  "dialogueSha256": "fd73989937e8ccb2177730a5313a96e35499d4b0eb2714792a6494b491ea54ff",
+  "dialogueSha256": "b9f5da56701abf65f1195ceb4619d997a97c7b767128508c755da45f6a10a3ca",
   "titleZh": "学会慢下来",
   "titleTr": "Hayat Ritmini Yavaşlatmak",
   "locationId": "LOC_ZH_WALKWAY_001",

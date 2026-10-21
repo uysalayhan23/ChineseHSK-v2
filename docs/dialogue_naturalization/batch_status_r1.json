@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "revision": "CONTEXTUAL_SIMPLIFIED_CHINESE_R1",
-  "updatedDate": "2026-10-07",
+  "updatedDate": "2026-10-19",
   "expectedSceneCount": 300,
   "expectedTurnsPerScene": 100,
   "textRevisedSceneIds": [
@@ -33,41 +33,231 @@
     "ZH_HSK1_SC026",
     "ZH_HSK1_SC027",
     "ZH_HSK1_SC028",
-    "ZH_HSK4_SC001"
+    "ZH_HSK1_SC029",
+    "ZH_HSK1_SC030",
+    "ZH_HSK1_SC031",
+    "ZH_HSK1_SC032",
+    "ZH_HSK1_SC033",
+    "ZH_HSK1_SC034",
+    "ZH_HSK1_SC035",
+    "ZH_HSK1_SC036",
+    "ZH_HSK1_SC037",
+    "ZH_HSK1_SC038",
+    "ZH_HSK1_SC039",
+    "ZH_HSK1_SC040",
+    "ZH_HSK1_SC041",
+    "ZH_HSK1_SC042",
+    "ZH_HSK1_SC043",
+    "ZH_HSK1_SC044",
+    "ZH_HSK1_SC045",
+    "ZH_HSK1_SC046",
+    "ZH_HSK1_SC047",
+    "ZH_HSK1_SC048",
+    "ZH_HSK1_SC049",
+    "ZH_HSK1_SC050",
+    "ZH_HSK2_SC001",
+    "ZH_HSK2_SC002",
+    "ZH_HSK2_SC003",
+    "ZH_HSK2_SC004",
+    "ZH_HSK2_SC005",
+    "ZH_HSK2_SC006",
+    "ZH_HSK2_SC007",
+    "ZH_HSK2_SC008",
+    "ZH_HSK2_SC009",
+    "ZH_HSK2_SC010",
+    "ZH_HSK2_SC011",
+    "ZH_HSK2_SC012",
+    "ZH_HSK2_SC013",
+    "ZH_HSK2_SC014",
+    "ZH_HSK2_SC015",
+    "ZH_HSK2_SC016",
+    "ZH_HSK2_SC017",
+    "ZH_HSK2_SC018",
+    "ZH_HSK2_SC020",
+    "ZH_HSK2_SC021",
+    "ZH_HSK2_SC022",
+    "ZH_HSK2_SC023",
+    "ZH_HSK2_SC024",
+    "ZH_HSK2_SC025",
+    "ZH_HSK2_SC026",
+    "ZH_HSK2_SC027",
+    "ZH_HSK2_SC028",
+    "ZH_HSK2_SC029",
+    "ZH_HSK2_SC030",
+    "ZH_HSK2_SC031",
+    "ZH_HSK2_SC032",
+    "ZH_HSK2_SC033",
+    "ZH_HSK2_SC034",
+    "ZH_HSK2_SC035",
+    "ZH_HSK2_SC036",
+    "ZH_HSK2_SC037",
+    "ZH_HSK2_SC038",
+    "ZH_HSK2_SC039",
+    "ZH_HSK2_SC040",
+    "ZH_HSK2_SC041",
+    "ZH_HSK2_SC042",
+    "ZH_HSK2_SC043",
+    "ZH_HSK2_SC044",
+    "ZH_HSK2_SC045",
+    "ZH_HSK2_SC046",
+    "ZH_HSK2_SC047",
+    "ZH_HSK2_SC048",
+    "ZH_HSK2_SC049",
+    "ZH_HSK2_SC050",
+    "ZH_HSK3_SC001",
+    "ZH_HSK3_SC002",
+    "ZH_HSK3_SC004",
+    "ZH_HSK3_SC005",
+    "ZH_HSK3_SC006",
+    "ZH_HSK3_SC007",
+    "ZH_HSK3_SC008",
+    "ZH_HSK3_SC009",
+    "ZH_HSK3_SC010",
+    "ZH_HSK3_SC011",
+    "ZH_HSK3_SC012",
+    "ZH_HSK3_SC013",
+    "ZH_HSK3_SC014",
+    "ZH_HSK3_SC015",
+    "ZH_HSK3_SC016",
+    "ZH_HSK3_SC017",
+    "ZH_HSK3_SC018",
+    "ZH_HSK3_SC019",
+    "ZH_HSK3_SC020",
+    "ZH_HSK3_SC021",
+    "ZH_HSK3_SC022",
+    "ZH_HSK3_SC023",
+    "ZH_HSK3_SC024",
+    "ZH_HSK3_SC025",
+    "ZH_HSK3_SC026",
+    "ZH_HSK3_SC027",
+    "ZH_HSK3_SC028",
+    "ZH_HSK3_SC029",
+    "ZH_HSK3_SC030",
+    "ZH_HSK3_SC031",
+    "ZH_HSK3_SC032",
+    "ZH_HSK4_SC001",
+    "ZH_HSK3_SC033",
+    "ZH_HSK3_SC034",
+    "ZH_HSK3_SC035",
+    "ZH_HSK3_SC036",
+    "ZH_HSK3_SC037",
+    "ZH_HSK3_SC038",
+    "ZH_HSK3_SC039",
+    "ZH_HSK3_SC040",
+    "ZH_HSK3_SC041",
+    "ZH_HSK3_SC042",
+    "ZH_HSK3_SC043",
+    "ZH_HSK3_SC044",
+    "ZH_HSK3_SC045"
   ],
-  "textRevisedSceneCount": 29,
+  "textRevisedSceneCount": 144,
   "audioRegeneratedSceneIds": [],
   "mouthAnchorCalibratedSceneIds": [
-    "ZH_HSK1_SC001",
-    "ZH_HSK1_SC002",
-    "ZH_HSK1_SC003",
-    "ZH_HSK1_SC004",
-    "ZH_HSK1_SC005",
-    "ZH_HSK1_SC006",
-    "ZH_HSK1_SC007",
-    "ZH_HSK1_SC008",
-    "ZH_HSK1_SC009",
-    "ZH_HSK1_SC010",
-    "ZH_HSK1_SC011",
-    "ZH_HSK1_SC012",
-    "ZH_HSK1_SC013",
-    "ZH_HSK1_SC014",
-    "ZH_HSK1_SC015",
-    "ZH_HSK1_SC016",
-    "ZH_HSK1_SC017",
-    "ZH_HSK1_SC018",
-    "ZH_HSK1_SC019",
-    "ZH_HSK1_SC020",
-    "ZH_HSK1_SC021",
-    "ZH_HSK1_SC022",
-    "ZH_HSK1_SC023",
-    "ZH_HSK1_SC024",
-    "ZH_HSK1_SC025",
-    "ZH_HSK1_SC026",
-    "ZH_HSK1_SC027",
-    "ZH_HSK1_SC028"
+    "ZH_HSK1_SC029",
+    "ZH_HSK1_SC030",
+    "ZH_HSK1_SC031",
+    "ZH_HSK1_SC032",
+    "ZH_HSK1_SC033",
+    "ZH_HSK1_SC034",
+    "ZH_HSK1_SC035",
+    "ZH_HSK1_SC036",
+    "ZH_HSK1_SC037",
+    "ZH_HSK1_SC038",
+    "ZH_HSK1_SC039",
+    "ZH_HSK1_SC040",
+    "ZH_HSK1_SC041",
+    "ZH_HSK1_SC042",
+    "ZH_HSK1_SC043",
+    "ZH_HSK1_SC044",
+    "ZH_HSK1_SC045",
+    "ZH_HSK1_SC046",
+    "ZH_HSK1_SC047",
+    "ZH_HSK1_SC048",
+    "ZH_HSK1_SC049",
+    "ZH_HSK1_SC050",
+    "ZH_HSK2_SC001",
+    "ZH_HSK2_SC002",
+    "ZH_HSK2_SC003",
+    "ZH_HSK2_SC004",
+    "ZH_HSK2_SC005",
+    "ZH_HSK2_SC006",
+    "ZH_HSK2_SC007",
+    "ZH_HSK2_SC008",
+    "ZH_HSK2_SC009",
+    "ZH_HSK2_SC010",
+    "ZH_HSK2_SC011",
+    "ZH_HSK2_SC012",
+    "ZH_HSK2_SC013",
+    "ZH_HSK2_SC014",
+    "ZH_HSK2_SC015",
+    "ZH_HSK2_SC016",
+    "ZH_HSK2_SC017",
+    "ZH_HSK2_SC018",
+    "ZH_HSK2_SC020",
+    "ZH_HSK2_SC021",
+    "ZH_HSK2_SC022",
+    "ZH_HSK2_SC024",
+    "ZH_HSK2_SC025",
+    "ZH_HSK2_SC026",
+    "ZH_HSK2_SC027",
+    "ZH_HSK2_SC028",
+    "ZH_HSK2_SC029",
+    "ZH_HSK2_SC030",
+    "ZH_HSK2_SC033",
+    "ZH_HSK2_SC034",
+    "ZH_HSK2_SC035",
+    "ZH_HSK2_SC036",
+    "ZH_HSK2_SC037",
+    "ZH_HSK2_SC038",
+    "ZH_HSK2_SC040",
+    "ZH_HSK2_SC041",
+    "ZH_HSK2_SC042",
+    "ZH_HSK2_SC043",
+    "ZH_HSK2_SC046",
+    "ZH_HSK3_SC001",
+    "ZH_HSK3_SC002",
+    "ZH_HSK3_SC003",
+    "ZH_HSK3_SC004",
+    "ZH_HSK3_SC005",
+    "ZH_HSK3_SC006",
+    "ZH_HSK3_SC007",
+    "ZH_HSK3_SC008",
+    "ZH_HSK3_SC009",
+    "ZH_HSK3_SC010",
+    "ZH_HSK3_SC011",
+    "ZH_HSK3_SC012",
+    "ZH_HSK3_SC014",
+    "ZH_HSK3_SC015",
+    "ZH_HSK3_SC016",
+    "ZH_HSK3_SC017",
+    "ZH_HSK3_SC018",
+    "ZH_HSK3_SC019",
+    "ZH_HSK3_SC020",
+    "ZH_HSK3_SC021",
+    "ZH_HSK3_SC022",
+    "ZH_HSK3_SC023",
+    "ZH_HSK3_SC024",
+    "ZH_HSK3_SC026",
+    "ZH_HSK3_SC027",
+    "ZH_HSK3_SC028",
+    "ZH_HSK3_SC030",
+    "ZH_HSK3_SC031",
+    "ZH_HSK3_SC032",
+    "ZH_HSK3_SC033",
+    "ZH_HSK3_SC035",
+    "ZH_HSK3_SC034",
+    "ZH_HSK3_SC036",
+    "ZH_HSK3_SC037",
+    "ZH_HSK3_SC038",
+    "ZH_HSK3_SC039",
+    "ZH_HSK3_SC040",
+    "ZH_HSK3_SC041",
+    "ZH_HSK3_SC042",
+    "ZH_HSK3_SC043",
+    "ZH_HSK3_SC044",
+    "ZH_HSK3_SC045"
   ],
-  "nextTextSceneId": "ZH_HSK1_SC029",
+  "nextTextSceneId": "ZH_HSK3_SC033",
   "apkStatus": "WAITING_FOR_USER_APPROVAL",
   "constraints": {
     "simplifiedChinese": true,
@@ -460,6 +650,1085 @@
       "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_RUNTIME_TEST_PENDING",
       "gestureCueStatus": "AUTHORED_RENDERING_PENDING",
       "changedTurnCount": 100
+    },
+    "ZH_HSK1_SC029": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 14,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_USES_CURRENT_ZH"
+    },
+    "ZH_HSK1_SC030": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 14,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC040": {
+      "textStatus": "PASS",
+      "changedTurnCount": 75,
+      "dialogueNaturalizationVersion": 16,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC031": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 14,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC032": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 14,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC033": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 14,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC034": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 14,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC035": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 14,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC036": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 14,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC037": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 14,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC038": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 14,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC039": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 14,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC041": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 18,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC042": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 19,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC043": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 20,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC044": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 21,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC045": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 22,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC046": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 23,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC047": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 24,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC048": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "dialogueNaturalizationVersion": 25,
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT"
+    },
+    "ZH_HSK1_SC049": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK1_SC050": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC001": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC002": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC003": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC004": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC005": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC007": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC008": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC009": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC010": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC006": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC011": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC012": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC013": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC014": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC015": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC016": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC017": {
+      "textStatus": "PASS",
+      "audioStatus": "EXISTING_OFFLINE_TTS_CACHE_KEYED_BY_TEXT",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC018": {
+      "textStatus": "PASS",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualImageSha256": "290e7a477ee4862a899d9e3ef286806512bccd0404073d5fdf0392cb6d23db42",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC018.json",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC020": {
+      "textStatus": "PASS",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualImageSha256": "988ec92ec9f2cfae15ccbd6933a646ac93deea0404de19f2a515a17084c5920f",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC020.json",
+      "changedTurnCount": 100
+    },
+    "ZH_HSK2_SC019": {
+      "textStatus": "PENDING_NATURALIZATION",
+      "mouthAnchorStatus": "BLOCKED_CAST_IMAGE_MISMATCH",
+      "visualNoteTr": "Sahne hikâyesinde iş arkadaşı konuşmacı; görselde belirgin biçimde bir çocuk var ve yetişkin iş arkadaşı görünmüyor. Eşleme tahmini yapılmadı.",
+      "bubbleRuntimeStatus": "PENDING_CAST_ART_REVIEW",
+      "audioStatus": "PENDING_EXISTING_PIPELINE"
+    },
+    "ZH_HSK2_SC021": {
+      "textStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC021.json",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualImageSha256": "00739a2798474f10816b12e522c5db95508bb0fb5baa2595e74dad18cb0e697d"
+    },
+    "ZH_HSK2_SC022": {
+      "textStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC022.json",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualImageSha256": "fb67df27e2e1aa4baa8af856d7ffdf2bb820603b9227767efc281db9804e9e4e",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK2_SC023": {
+      "textStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC023.json",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "BLOCKED_CAST_IMAGE_MISMATCH",
+      "visualNoteTr": "Görselde 刘梅、张雨桐 ve 张伟 görülüyor; diyalog konuşmacısı 邻居 için eşleşen kişi görünmüyor. Ağız noktası tahmini yapılmadı.",
+      "bubbleRuntimeStatus": "PENDING_CAST_ART_REVIEW"
+    },
+    "ZH_HSK2_SC024": {
+      "textStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC024.json",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualImageSha256": "b162d69749a555d08c021fcefb45a2989f7668b51ebedca7fa49176f6cd02024",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK2_SC025": {
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualImageSha256": "3d889c1884c03ced8b30e917edfea2c73f8165e449afe8aeee40458bfce9e383",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "textStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC025.json",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE"
+    },
+    "ZH_HSK2_SC026": {
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualImageSha256": "e92b4ef511b43e0aafb14ba998d60c37570dab1c6675c7fd85a424cc313190ad",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "textStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC026.json",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE"
+    },
+    "ZH_HSK2_SC027": {
+      "textStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC027.json",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualImageSha256": "8867030a1d45de631624eb9a3b55c70adbc2066a9f70eeef5ce30630a0013147",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK2_SC028": {
+      "textStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC028.json",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualImageSha256": "e75e17e7230955c7dc80bab5fbd04a070e74b401e0ec4d73a5c626e4ffe41771",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK2_SC029": {
+      "textStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC029.json",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualImageSha256": "3a0ff4a6740376acd24737c4558a08cd7c2e58c6cdf0f0001036ccc625d7ab53",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK2_SC030": {
+      "textStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC030.json",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualImageSha256": "e43ec115e8d511fffce1a26a48a9c2d6b35453975b23ed59972b92506d80b8c5",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK2_SC031": {
+      "mouthAnchorStatus": "BLOCKED_CANONICAL_ART_REVIEW",
+      "visualNoteTr": "Görseldeki 張伟, kilitli canonical görünümdeki siyah dikdörtgen gözlüğü taşımıyor; yüz eşlemesi ve ağız çapası PASS olarak kaydedilmedi.",
+      "bubbleRuntimeStatus": "PENDING_CANONICAL_ART_REVIEW",
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC031.json",
+      "audioStatus": "PENDING_EXISTING_PIPELINE"
+    },
+    "ZH_HSK2_SC032": {
+      "textStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC032.json",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "BLOCKED_CANONICAL_ART_REVIEW",
+      "visualImageSha256": "cc1a11f1e63ee14bc89d49f5495793d8e87982b704cfc2dd50d5578c8d8bd15f",
+      "visualNoteTr": "Sahne görselindeki Zhang Wei kilitli canonical siyah dikdörtgen gözlükleri taşımıyor; bu karakter için ağız çapası PASS kaydedilmedi.",
+      "bubbleRuntimeStatus": "PENDING_CANONICAL_ART_REVIEW"
+    },
+    "ZH_HSK2_SC033": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "941×1672 görselde dört yetişkin ve ağız konumları gözle eşleştirildi.",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC033.json",
+      "visualImageSha256": "50f820f197365a68f37f5a9a63a878b5aa823c8fccb7ab0df41e5d27b4895a1a"
+    },
+    "ZH_HSK2_SC034": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "941×1672 sahnede aile üyeleri ve toplum çalışanının yüzleri, rollerle görsel olarak eşleştirildi.",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "visualImageSha256": "e488222c839af824c21d1220821707bcbcb1077ec45c71d2a3c2f86ddf59186c",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC034.json"
+    },
+    "ZH_HSK2_SC035": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC035.json",
+      "visualImageSha256": "9ffc6c289a410ffe09a6241955b3f6993a55eb5fc3acd38c371591897372aff2"
+    },
+    "ZH_HSK2_SC036": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "visualImageSha256": "0dca486c1a1cbb0fa692169838e623b2d7e87fed1b75dc599ea4b3843074dde0",
+      "visualNoteTr": "Görselde gözlüklü Zhang Wei, yeni kadın çalışan ve yönetici rollerle eşleştirildi; arka plandaki çalışan konuşmacı listesinde değil.",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC036.json"
+    },
+    "ZH_HSK2_SC037": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "visualImageSha256": "c7f42e8aa8fc393f50665f65334742656cc65c42624bf539973d8f9a877a6b25",
+      "visualNoteTr": "941×1672 sahnede Lele ve öğretmen sahnede, Zhang Wei ve Liu Mei izleyicilerde görsel olarak eşleştirildi.",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC037.json"
+    },
+    "ZH_HSK2_SC038": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "visualImageSha256": "5db74a9b766cccb5138d8bef4e531a23697c16076af28abfa0972a280cb11c99",
+      "visualNoteTr": "941×1672 okul koridoru görselinde Zhang Yutong, sınıf arkadaşı ve Liu Mei ayrı yüz/ağız noktalarıyla eşleştirildi.",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC038.json"
+    },
+    "ZH_HSK2_SC039": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "BLOCKED_CANONICAL_ART_REVIEW",
+      "visualNoteTr": "Görseldeki tek yetişkin erkek Zhang Wei kimliğiyle eşleşiyor ancak kilitli siyah dikdörtgen gözlüğü yok; çapa atanmadı.",
+      "bubbleRuntimeStatus": "PENDING_CANONICAL_ART_REVIEW",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC039.json"
+    },
+    "ZH_HSK2_SC040": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "45dde423b49cd14e2d527276a7032cecf6885a859bf8ae40cd18335c8645a6c6",
+      "imageDimensions": [
+        941,
+        1672
+      ],
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC040.json"
+    },
+    "ZH_HSK2_SC041": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC041.json",
+      "imageSha256": "f4a8a3c6e21a61dd9fac545ed55117850e57dda78a99d3c8fc3d4847a8753084",
+      "imageDimensions": [
+        941,
+        1672
+      ]
+    },
+    "ZH_HSK2_SC042": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC042.json",
+      "imageSha256": "260705e5bcfa7948088d3acdb97febd5cec0e12cf0d1138d8b7e79ca1e66ebfe",
+      "imageDimensions": [
+        941,
+        1672
+      ]
+    },
+    "ZH_HSK2_SC043": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC043.json",
+      "imageSha256": "90204984415214a00da2ab8eb5df330db5dfe3fb266ae479aa2414c03d13f2d3",
+      "imageDimensions": [
+        941,
+        1672
+      ]
+    },
+    "ZH_HSK2_SC044": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "BLOCKED_CANONICAL_ART_REVIEW",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC044.json",
+      "visualNoteTr": "Topluluk mutfağı görselindeki genç erkek Zhang Wei’nin kanonik yaş/görünümünü güvenle eşleştirmiyor; yanlış karakter ağzına çapa atamamak için balon konumu onaylanmadı."
+    },
+    "ZH_HSK2_SC045": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "BLOCKED_CANONICAL_ART_REVIEW",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC045.json",
+      "visualNoteTr": "左侧男性 Zhang Wei olarak yerleştirilmiş ancak CHARACTER_CAST_LOCK_TR.md içindeki siyah dikdörtgen gözlük şartını taşımıyor; ortadaki gözlüklü kişi müdür rolüyle eşleştiğinden konuşmacı kimliği belirsiz, sahne çapasına PASS verilmedi."
+    },
+    "ZH_HSK2_SC046": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC046.json",
+      "imageSha256": "d23598bfb459de19a19a1e5d6043d8adf55ea92474b2f2ee79b3f65293eac97a",
+      "imageDimensions": [
+        941,
+        1672
+      ]
+    },
+    "ZH_HSK2_SC047": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "BLOCKED_CANONICAL_ART_REVIEW",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC047.json",
+      "visualNoteTr": "Bisiklet görselinde 張偉 kilitli siyah dikdörtgen gözlüklerini takmıyor; ayrıca Lele kasksız. Karakter çapasına görsel PASS verilmedi."
+    },
+    "ZH_HSK2_SC048": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "BLOCKED_CANONICAL_ART_REVIEW",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC048.json",
+      "visualNoteTr": "Park görselindeki 張偉 kilitli siyah dikdörtgen gözlüklerini takmıyor; ağız çapası doğrulanmış PASS olarak kaydedilmedi."
+    },
+    "ZH_HSK2_SC049": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "BLOCKED_CANONICAL_ART_REVIEW",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC049.json",
+      "visualNoteTr": "Aile fotoğrafı sahnesindeki 張偉 kilitli siyah dikdörtgen gözlüklerini taşımıyor; yanlış kişiye ağız çapasını bağlamamak için görsel PASS verilmedi."
+    },
+    "ZH_HSK2_SC050": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "BLOCKED_CANONICAL_ART_REVIEW",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK2/ZH_HSK2_SC050.json",
+      "visualNoteTr": "Görselde Zhang Wei kilitli siyah dikdörtgen gözlüğü olmadan gösterilmiş; bu yüzden ağız çapası PASS verilmedi."
+    },
+    "ZH_HSK3_SC001": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC001.json",
+      "imageSha256": "dba34a21e8bacdbbae4b9d09985da60d161cb3c55a835ac4dc76e13b632aaa5e",
+      "imageDimensions": [
+        942,
+        1670
+      ]
+    },
+    "ZH_HSK3_SC002": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "PASS",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC002.json",
+      "imageSha256": "dc39f998c807bfe624ee7633e0b96fe56c2557203037ed7c8e929c582d7630e3",
+      "imageDimensions": [
+        941,
+        1672
+      ]
+    },
+    "ZH_HSK3_SC003": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "Görselde Zhang Wei (sol), müdür (orta), ekip arkadaşı (sağ) ve uzaktan katılan Liu Mei dizüstü ekranındaki yüz/ağız konumlarıyla eşleştirildi.",
+      "imageSha256": "b3656290064084ea71a61a21ec68d759b36677818bf35bed153f095f61f5acf9",
+      "imageDimensions": [
+        942,
+        1669
+      ],
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC003.json",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK3_SC004": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "Görselde Yutong (ön/orta), Liu Mei (sol), Zhang Wei (arka/orta) ve öğretmen (sağ) yüzleri ve ağız noktaları ayrı ayrı eşleştirildi.",
+      "imageSha256": "5c7226e0fe1cd9a476ee109ac98b0608b68345d69799cf02ebab6bd63373c339",
+      "imageDimensions": [
+        941,
+        1672
+      ],
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC004.json",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK3_SC005": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "Görselde önde Lele, sağda öğretmen, ortada Zhang Wei ve solda Liu Mei görülüyor; yüz ve ağız noktaları sahne görüntüsüyle eşleştirildi.",
+      "imageSha256": "9610b2bbc11523595e9c0a140b33069371787b1061bb172e07b664a05b745e84",
+      "imageDimensions": [
+        941,
+        1672
+      ],
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC005.json"
+    },
+    "ZH_HSK3_SC006": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "Görselde solda Liu Mei, üst/ortada Zhang Wei, sağda müşteri ve önde ortada Zhang Yutong yüz/ağızları doğrulandı.",
+      "imageSha256": "84a03f66ba787bb36519ec8054bbb7869d900d51b637b14322ab79ed6f533e19",
+      "imageDimensions": [
+        941,
+        1672
+      ],
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC006.json"
+    },
+    "ZH_HSK3_SC007": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "Görselde solda/arkada Zhang Wei, ortada Liu Mei, sağda danışan/müşteri ve önde Zhang Yutong’un ağızları sahneyle eşleştirildi.",
+      "imageSha256": "02e93d3c1e116c2ea9680477f042bb77c604eb205b892a48eb398d3405c4400f",
+      "imageDimensions": [
+        941,
+        1672
+      ],
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC007.json",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK3_SC008": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "Görselde önde solda Zhang Yutong, arkasında Liu Mei, ortada Zhang Wei ve sağda dükkân sahibi/müşteri ağızları eşleştirildi.",
+      "imageSha256": "d440df82229e939cbe42e40c3cf3eb6d8982a5fd3720a3c3d3b20c9219d9396b",
+      "imageDimensions": [
+        941,
+        1672
+      ],
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC008.json",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK3_SC009": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "Görselde solda Liu Mei, ortada Zhang Wei, sağda dükkân danışanı ve önde Zhang Yutong’un ağızları eşleştirildi.",
+      "imageSha256": "ed0db753edf0e753786600503fa9c380747e43b6c6d5ac9c9f0599a5a61efc9e",
+      "imageDimensions": [
+        941,
+        1672
+      ],
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC009.json",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK3_SC010": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "Görselde solda/arkada Zhang Wei, ortada Liu Mei, sağda eski dükkân sahibi ve önde Zhang Yutong’un ağızları eşleştirildi.",
+      "imageSha256": "de0f98080ce21119936cfc5e2d1e4cb0360ac89dcf623f36176887541cb6a083",
+      "imageDimensions": [
+        941,
+        1672
+      ],
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC010.json",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK3_SC011": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "Görselde solda Zhang Wei, ortada Liu Mei, sağdaki yetişkin müşteri/danışan ve sağ-ortada Zhang Yutong ağızları eşleştirildi.",
+      "imageSha256": "5e8aaf6d03aa86d176644d321cc2688be2be15696119c6baaf364630d3cbf0a5",
+      "imageDimensions": [
+        941,
+        1672
+      ],
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC011.json",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK3_SC012": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "Görselde solda Zhang Wei, ortada Liu Mei, sağda Zhang Yutong ve kadrajın sağ kenarında müşteri yüzü/ağız noktaları eşleştirildi; müşteri balonunda kenar taşması ayrıca runtime’da kontrol edilmeli.",
+      "imageSha256": "8fe3d7ab3cc919ce72fe123ffa4f2fb137487a0eee0d8434ce523e70a3d10a78",
+      "imageDimensions": [
+        941,
+        1672
+      ],
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC012.json",
+      "bubbleRuntimeStatus": "EDGE_CLAMP_BUILD_QA_PENDING"
+    },
+    "ZH_HSK3_SC013": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "BLOCKED_SPEAKER_MOUTH_NOT_VISIBLE",
+      "visualNoteTr": "Vezne görevlisi kadraja arkası dönük; ağzı görünmediği için bu konuşmacıya tahmini ağız çapası atanmadı. Diğer üç karakter görünür.",
+      "imageSha256": "26d1c59cc156d1631bf7cad6339e19d5dafcb02ddbec576dddccb88e28e472f3",
+      "imageDimensions": [
+        941,
+        1672
+      ],
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC013.json",
+      "bubbleRuntimeStatus": "BLOCKED_UNTIL_VISIBLE_MOUTH"
+    },
+    "ZH_HSK3_SC014": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "Görselde solda Zhang Wei, ortada Liu Mei, sağ-ortada Zhang Yutong ve sağda tadilat ustasının yüz/ağız noktaları eşleştirildi.",
+      "imageSha256": "2951397741b0bdaad7928af103919408da3bcbf853d68b886f50fa0ffea19bd2",
+      "imageDimensions": [
+        941,
+        1672
+      ],
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC014.json",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK3_SC015": {
+      "textStatus": "PASS",
+      "changedTurnCount": 100,
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "visualNoteTr": "Görselde solda Zhang Wei, orta solda Liu Mei, orta sağda Zhang Yutong ve sağda masa ustasının ağızları eşleştirildi.",
+      "imageSha256": "6bc9a6f0d844549ff39e395c3334fdb6213f5b78150a794395c3d4a65c1ff546",
+      "imageDimensions": [
+        941,
+        1672
+      ],
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC015.json",
+      "bubbleRuntimeStatus": "SOURCE_IMPLEMENTED_BUILD_QA_PENDING"
+    },
+    "ZH_HSK3_SC016": {
+      "textStatus": "PASS",
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "gestureCueStatus": "AUTHORED_RENDERING_PENDING",
+      "changedTurnCount": 100,
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC016.json",
+      "imageSha256": "8a060151b00ea649941455335d0c63a13b35551b5b71a416d931ad8e05c4aa95",
+      "visualNotes": "Original 941x1672 warm 2.5D CGI image inspected; all four speakers have visible mouths. Anchors placed at visible mouth positions. Dialogue aligned to cake tasting shown in source art."
+    },
+    "ZH_HSK3_SC017": {
+      "textStatus": "PASS",
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "gestureCueStatus": "AUTHORED_RENDERING_PENDING",
+      "changedTurnCount": 100,
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC017.json",
+      "imageSha256": "fb694c3b0dc075f9d72b8055fc02031a010f6e4df6e13a7b792a931d5eee9a0a",
+      "visualNotes": "Source image visually checked; four mouths visible in warm CGI cake costing scene, with mouth anchors calibrated to each speaker."
+    },
+    "ZH_HSK3_SC018": {
+      "textStatus": "PASS",
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "gestureCueStatus": "AUTHORED_RENDERING_PENDING",
+      "changedTurnCount": 100,
+      "imageSha256": "d88f5225ae8a7881183486625ef75b0ff84fdbfccb83cbebf0db86ae10f95e66",
+      "visualNotes": "Text and image QA PASS. A localized head-profile repair reveals the applicant mouth; 2.5D/3D CGI and surrounding scene are preserved. SSIM 0.98735; all decoded pixels outside the mouth/head mask are exact. App/runtime mirror SHA and Git blob match.",
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC018.json"
+    },
+    "ZH_HSK3_SC019": {
+      "textStatus": "PASS",
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "gestureCueStatus": "AUTHORED_RENDERING_PENDING",
+      "changedTurnCount": 100,
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC019.json",
+      "imageSha256": "ebd3edd2e5487d9110b2b0efb7686f994061ef6aba5731968615fe2f66ba17a4",
+      "visualNotes": "Source visual manually inspected: four speaking mouths visible and anchors calibrated. Dialogue aligns with correcting the café sign proof, checking and installing it."
+    },
+    "ZH_HSK3_SC020": {
+      "textStatus": "PASS",
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "gestureCueStatus": "AUTHORED_RENDERING_PENDING",
+      "changedTurnCount": 100,
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC020.json",
+      "imageSha256": "d1b7c22b10fcfb5cbfa945ed8cc4ca0916a2b0a222f679d3afc0b5aeeb0b08ad",
+      "visualNotes": "Naturalized trial-opening conversation and visible mouth anchors. Localized profile repair reveals the guest mouth; SSIM 0.98828 and all decoded pixels outside the head mask are exact. App/runtime binary matches."
+    },
+    "ZH_HSK3_SC021": {
+      "textStatus": "PASS",
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "gestureCueStatus": "AUTHORED_RENDERING_PENDING",
+      "changedTurnCount": 100,
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC021.json",
+      "imageSha256": "da6bdb30759c3c1ec722c2bc3ba9ca2e040d6a12cf81177bf4c2ad548d037b92",
+      "visualNotes": "Naturalized first-customer order conversation; localized guest profile edit reveals mouth. SSIM 0.97994, pixels outside mask exact, app/runtime bytes matched."
+    },
+    "ZH_HSK3_SC022": {
+      "textStatus": "PASS",
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "gestureCueStatus": "AUTHORED_RENDERING_PENDING",
+      "changedTurnCount": 100,
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC022.json",
+      "imageSha256": "89b0957b7c33a29b497b63559988791bb2bd16a92d56d87ba429fd3c8955615d",
+      "visualNotes": "Naturalized repair conversation; customer profile mouth revealed with a localized mask. Full-resolution SSIM 0.99960; all decoded pixels outside the mask exact; app/runtime WebP bytes match."
+    },
+    "ZH_HSK3_SC023": {
+      "textStatus": "PASS",
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "gestureCueStatus": "AUTHORED_RENDERING_PENDING",
+      "changedTurnCount": 37,
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC023.json",
+      "imageSha256": "9519775f5a2b0ebc03815cce8341d218d08feefaf5b6418eaa8f420c194eebf7",
+      "visualNotes": "Image-matched anchors for four visible speaking characters; customer profile mouth repaired inside a small mask. Full-resolution SSIM 0.99980, pixels outside mask exact, app/runtime WebP exact."
+    },
+    "ZH_HSK3_SC024": {
+      "textStatus": "PASS",
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "VISUAL_QA_PASS",
+      "gestureCueStatus": "AUTHORED_RENDERING_PENDING",
+      "changedTurnCount": 93,
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC024.json",
+      "imageSha256": "b888851de12ad84a41b60901caff61966a13bae171fb4841a3a23a714d8578cd",
+      "visualNotes": "Cafe-first-shift scene now carries a connected order/service conversation; localized mouth repair, full-resolution SSIM 0.99977, exact pixels outside mask, app/runtime bytes equal."
+    },
+    "ZH_HSK3_SC025": {
+      "textStatus": "PASS",
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "PENDING_VISUAL_QA",
+      "gestureCueStatus": "AUTHORED_RENDERING_PENDING",
+      "changedTurnCount": 85,
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC025.json",
+      "imageSha256": "dd06c688a94a80599d4f66c0e49745caa93c8b2d3d9097d18e847b1fae857826",
+      "visualNotes": "All 100 turns reviewed; coherence score passed; image is unchanged. Customer is seen from behind, so a mouth anchor cannot yet be visually certified."
+    },
+    "ZH_HSK3_SC026": {
+      "textStatus": "PASS",
+      "audioStatus": "PENDING_EXISTING_PIPELINE",
+      "mouthAnchorStatus": "PASS",
+      "gestureCueStatus": "AUTHORED_RENDERING_PENDING",
+      "changedTurnCount": 100,
+      "qaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC026.json",
+      "imageSha256": "fe2d7cf491046fa876b6ee2abb1a6ecc31e2c74151425d437fb80cb8423028a4",
+      "visualNotes": "All 100 turns passed no-duplicate audit, active-vocabulary/topic continuity, Turkish/pinyin and speaker-order checks; anchor manifest visual QA PASS."
+    },
+    "ZH_HSK3_SC032": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "629ae9090637afd9c15a71451a2485a6b1c71fd2ae1e67277de5fc7cd3a99596",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 100.0
+    },
+    "ZH_HSK3_SC030": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "624a3f22e7dfdbca37ac9377dd094bb823a275233f2b8bd859278b2fcb4e12fa",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 100.0
+    },
+    "ZH_HSK3_SC028": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "ea17c03a3eedb024076fdc2772507db9a0ed57a92c24ee7c0cd40ad094d8d501",
+      "visualNotes": "Staff face selectively turned toward camera; local mask 3.245%, SSIM 0.9845, exterior exact; all four mouths anchored.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 100.0
+    },
+    "ZH_HSK3_SC027": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "3b88fdb63b1aefb725cf82e64a232c92caf5dccc13b4c9d8df26c9e210196a58",
+      "visualNotes": "Foreground customer selectively turned to reveal mouth; local mask 2.841%, SSIM 0.9822, exterior exact; all four mouths anchored.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 100.0
+    },
+    "ZH_HSK3_SC035": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "454df181779de2e1d2afa525dfbcac90fd7fbd1137016bac39a7abcce20002de",
+      "visualNotes": "Foreground customer head turned to reveal mouth; local mask 4.915%, SSIM 0.9716, exterior exact; four speaker anchors set. Dialogue finalized: 100 connected turns, score 98, full topic coverage, exact speaker sequence and no repeated utterances.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 98.0,
+      "textQaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC035.json"
+    },
+    "ZH_HSK3_SC029": {
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 100.0
+    },
+    "ZH_HSK3_SC031": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "e2924556214ef042b762122bd8dcfd261ed5f673d8a382f0358d489ad14b7287",
+      "visualNotes": "All four visible mouths calibrated to normalized image anchors; original 941×1672 WebP retained byte-for-byte.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 100.0
+    },
+    "ZH_HSK3_SC033": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "a9459acd09765a85612c43f5e0fb777a07d6a058dd802a3324f75f8252bd77b4",
+      "visualNotes": "Customer face selectively turned; 6.064% mask, 0.950044 windowed SSIM, outside exact; all four mouths anchored. Dialogue reviewed: 100 connected turns, vocabulary coverage and speaker sequence checked.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 94.0,
+      "textQaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC033.json"
+    },
+    "ZH_HSK3_SC034": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "fb5f1266683feffa8e4e3226cc7be618fd363738598b35d0d0f9a6482bdfe0b5",
+      "visualNotes": "Customer head selectively turned to show mouth; local 5.683% mask, SSIM 0.969527, outside exact. All four speaking mouths anchored.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 94.0,
+      "textQaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC034.json"
+    },
+    "ZH_HSK3_SC036": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "b797a8e1e76aa5b12079b73a6568ec5b1353fd561d316bd368b50ef611250d5f",
+      "visualNotes": "All four visible mouths calibrated to source image; source image retained byte-for-byte.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 93.0,
+      "textQaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC036.json"
+    },
+    "ZH_HSK3_SC037": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "24a4ee69177e872a7a77d6223c6fd618370139774d5a4f936139fe9a2108c6b8",
+      "visualNotes": "The three in-room mouths and Liu Mei on the video-call screen have calibrated anchors; original scene image retained byte-for-byte.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 93.0,
+      "textQaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC037.json"
+    },
+    "ZH_HSK3_SC038": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "a773274bbdf69d8a4efb73b7fb7e36f196124b12011868ed5d7eb99399d33fcd",
+      "visualNotes": "Three visible mouths manually calibrated to original scene image; source image retained byte-for-byte.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 93.0,
+      "textQaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC038.json"
+    },
+    "ZH_HSK3_SC039": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "53a07b47b48cdff170765ab990506ae705180d21a4b7b336dedba0f85eb470c5",
+      "visualNotes": "Three visible mouths calibrated to original cafe image; image retained byte-for-byte.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 98.0,
+      "textQaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC039.json"
+    },
+    "ZH_HSK3_SC040": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "f610d7ed38e63a351bb7da22982fd4d8d88239e0c0b99f17fd970e673ef67561",
+      "visualNotes": "All four visible mouths manually calibrated to the existing scene image; original WebP retained.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 93.0,
+      "textQaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC040.json"
+    },
+    "ZH_HSK3_SC041": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "c9c985dadd107cf179fddda8271a720f2ae459964337914a76929157d33ba4b4",
+      "visualNotes": "All four visible mouths calibrated to the original family living-room image; source image retained byte-for-byte.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 98.0,
+      "textQaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC041.json"
+    },
+    "ZH_HSK3_SC042": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "5acbd0a721898fc4a32e883b3d66b95817b46a2a3996676e0aa8a13115fb5d09",
+      "visualNotes": "All four visible cooking-scene mouths manually calibrated; original source image retained.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 93.0,
+      "textQaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC042.json"
+    },
+    "ZH_HSK3_SC043": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "bdd7a9cc5da3cfd44e4aa2a88a179c336a5dda170fc1e111dfa4fdd558053874",
+      "visualNotes": "All four visible mouths calibrated to original cafe scene; source image retained byte-for-byte.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 93.0,
+      "textQaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC043.json"
+    },
+    "ZH_HSK3_SC044": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "d9ff2a83e4d6a64f6d619f58ea1152082d5fa71a39eae8dade0fe1cf3c1c33e8",
+      "visualNotes": "All four visible mouths calibrated to original school/career-planning scene; source image retained byte-for-byte.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 93.0,
+      "textQaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC044.json"
+    },
+    "ZH_HSK3_SC045": {
+      "mouthAnchorStatus": "PASS",
+      "imageSha256": "0bfe259134f3efbdebc0a820bb5a58df57223fd4a1f5aa3d6cfbf720c4b35505",
+      "visualNotes": "All four visible science-fair mouths calibrated to the original scene image; source image retained byte-for-byte.",
+      "textStatus": "PASS",
+      "textTurns": 100,
+      "textQaScore": 98.0,
+      "textQaReport": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC045.json"
     }
   },
   "sceneProcessingOrder": "HSK1_SC001_TO_HSK6_SC050",

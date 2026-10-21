@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK6_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK6/scenes/ZH_HSK6_SC043.json",
-  "dialogueSha256": "6dacee0194b0db767b973a185972bee9775d8fae806b62d1e25c676c01d9f15f",
+  "dialogueSha256": "7b116e8c0ae406e1d68c85ccf017557392ab740e7114a109db3ff93e9702df76",
   "titleZh": "和外孙在公园的一天",
   "titleTr": "Torunla Parkta Bir Gün",
   "locationId": "LOC_ZH_PARK_001",

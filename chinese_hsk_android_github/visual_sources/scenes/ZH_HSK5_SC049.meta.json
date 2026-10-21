@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK5_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC049.json",
-  "dialogueSha256": "f79dd7a7cc4a54ca76efde05b49aea6523feb5fc4d4759878114a0e270f51665",
+  "dialogueSha256": "ad085c5afd8ec4ad2d6495f5bd12857d74d9c274f1adb8ec27183ce448048e9a",
   "titleZh": "两个人的夜路",
   "titleTr": "Zhang ve Liu Mei Yalnız Yürüyüşte",
   "locationId": "LOC_ZH_WALKWAY_001",

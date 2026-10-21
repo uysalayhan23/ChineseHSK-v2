@@ -4,8 +4,8 @@
   "generationSceneId": "ZH_HSK3_SC037",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC037.json",
-  "dialogueSha256": "5ae97efda93f709ddf6cf7792dd4e6fe16feeeab511f210c86c03602031d3fb0",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC037.json",
+  "dialogueSha256": "fb92782c2e3346f51b784867504007710dff6ff257595618d9f51a4af8866e64",
   "titleTr": "Zhang’ın Terfi İhtimali",
   "locationId": "LOC_ZH_WORKPLACE_001",
   "scenePurposeTr": "Zhang’a daha fazla sorumluluk getirecek bir terfi ihtimali doğar.",
@@ -110,5 +110,18 @@
     "reOpenOnlyIfUserRequests": true,
     "strictQaPassAssigned": false,
     "actionsRun": false
-  }
+  },
+  "dialogueTextQA": {
+    "status": "PASS",
+    "turns": 100,
+    "coherenceScore": 93.0,
+    "activeVocabularyCoverage": 1.0,
+    "topicWindowCoverage": 1.0,
+    "duplicateUtterances": 0,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
+  },
+  "allDialogueSpeakersVisible": true,
+  "mouthAnchorReviewStatus": "PASS",
+  "mouthAnchorImageSha256": "24a4ee69177e872a7a77d6223c6fd618370139774d5a4f936139fe9a2108c6b8"
 }

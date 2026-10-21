@@ -1,0 +1,711 @@
+{
+  "naturalizationVersion": 2,
+  "status": "NATURALIZED_REVIEWED",
+  "sceneId": "ZH_HSK5_SC047",
+  "level": "HSK5",
+  "sourceTitleZh": "和李晨谈退休",
+  "sourceTitleTr": "Li Chen ile Emeklilik Sohbeti",
+  "sourceMiniAdventureTr": "İki eski dost emekliliğin sadece işi bırakmak olmadığını konuşur.",
+  "dialogues": [
+    {
+      "id": "DLG_ZH_HSK5_SC047_001",
+      "speaker": "张伟",
+      "zh": "退休以后我想把日常开支算清楚，也想想每天怎么安排。",
+      "pinyin": "tuì xiū yǐ hòu wǒ xiǎng bǎ rì cháng kāi zhī suàn qīng chǔ ， yě xiǎng xiǎng měi tiān zěn me ān pái 。",
+      "tr": "Emekli olduktan sonra günlük giderlerimi netleştirip günlerimi nasıl düzenleyeceğimi de düşünmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_002",
+      "speaker": "李晨",
+      "zh": "先把固定开支和可以调整的部分分开，再看看你最担心什么。",
+      "pinyin": "xiān bǎ gù dìng kāi zhī hé kě yǐ tiáo zhěng de bù fèn fēn kāi ， zài kàn kàn nǐ zuì dān xīn shén me 。",
+      "tr": "Önce sabit giderlerle değiştirebileceğin kalemleri ayıralım; sonra en çok neyi merak ettiğine bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_003",
+      "speaker": "刘梅",
+      "zh": "除了钱，我们也聊聊退休以后你希望保留哪些日常习惯。",
+      "pinyin": "chú le qián ， wǒ men yě liáo liáo tuì xiū yǐ hòu nǐ xī wàng bǎo liú nǎ xiē rì cháng xí guàn 。",
+      "tr": "Paranın yanı sıra emeklilikte hangi günlük alışkanlıklarını sürdürmek istediğini de konuşalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_004",
+      "speaker": "朋友",
+      "zh": "我退休第一年最不习惯的，就是突然没有固定的工作节奏。",
+      "pinyin": "wǒ tuì xiū dì yī nián zuì bù xí guàn de ， jiù shì tū rán méi yǒu gù dìng de gōng zuò jié zòu 。",
+      "tr": "Emekli olduğum ilk yıl en çok sabit iş düzeninin birden ortadan kalkmasına alışamadım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_005",
+      "speaker": "张伟",
+      "zh": "我也担心这个。工作不做了，生活会不会一下子没了方向？",
+      "pinyin": "wǒ yě dān xīn zhè ge 。 gōng zuò bù zuò le ， shēng huó huì bú huì yī xià zi méi le fāng xiàng ？",
+      "tr": "Ben de bundan kaygılıyım. Çalışmayı bırakınca hayatımın yönü birden kaybolur mu?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_006",
+      "speaker": "李晨",
+      "zh": "我当时先给自己定了几个小目标，慢慢找到新的节奏。",
+      "pinyin": "wǒ dāng shí xiān gěi zì jǐ dìng le jǐ gè xiǎo mù biāo ， màn màn zhǎo dào xīn de jié zòu 。",
+      "tr": "Ben o zaman kendime birkaç küçük hedef koyup yavaş yavaş yeni bir düzen kurdum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_007",
+      "speaker": "刘梅",
+      "zh": "比如什么目标？我们也许可以从他的经验里挑适合的。",
+      "pinyin": "bǐ rú shén me mù biāo ？ wǒ men yě xǔ kě yǐ cóng tā de jīng yàn lǐ tiāo shì hé de 。",
+      "tr": "Örneğin ne gibi hedefler? Belki deneyiminden bize uygun olanları seçebiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_008",
+      "speaker": "朋友",
+      "zh": "我每周固定去公园走路，还报名参加了社区的摄影活动。",
+      "pinyin": "wǒ měi zhōu gù dìng qù gōng yuán zǒu lù ， huán bào míng cān jiā le shè qū de shè yǐng huó dòng 。",
+      "tr": "Her hafta düzenli olarak parka yürüyüşe gittim ve mahallenin fotoğraf etkinliğine katıldım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_009",
+      "speaker": "张伟",
+      "zh": "听起来不错。我一直想学摄影，只是总说等有空再开始。",
+      "pinyin": "tīng qǐ lái bù cuò 。 wǒ yì zhí xiǎng xué shè yǐng ， zhǐ shì zǒng shuō děng yǒu kòng zài kāi shǐ 。",
+      "tr": "Kulağa hoş geliyor. Fotoğrafçılığı öğrenmek istiyordum ama hep boş zamanım olunca başlarım diyordum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_010",
+      "speaker": "李晨",
+      "zh": "退休以后时间多一些，不过也得自己安排，不能光等着有兴趣。",
+      "pinyin": "tuì xiū yǐ hòu shí jiān duō yī xiē ， bù guò yě dé zì jǐ ān pái ， bù néng guāng děng zhe yǒu xìng qù 。",
+      "tr": "Emekli olunca daha çok vaktin olur ama onu kendin düzenlemelisin; ilginin kendiliğinden gelmesini bekleyemezsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_011",
+      "speaker": "刘梅",
+      "zh": "你可以先参加一次活动，看看喜欢不喜欢，不用马上作长期决定。",
+      "pinyin": "nǐ kě yǐ xiān cān jiā yī cì huó dòng ， kàn kàn xǐ huān bù xǐ huān ， bù yòng mǎ shàng zuò cháng qī jué dìng 。",
+      "tr": "Önce bir etkinliğe katılıp sevip sevmediğine bakabilirsin; hemen uzun vadeli karar vermene gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_012",
+      "speaker": "朋友",
+      "zh": "对，先试一试再决定，比光在家里想象更容易找到答案。",
+      "pinyin": "duì ， xiān shì yī shì zài jué dìng ， bǐ guāng zài jiā lǐ xiǎng xiàng gèng róng yì zhǎo dào dá àn 。",
+      "tr": "Evet, deneyip sonra karar vermek evde oturup düşünmekten daha kolay yanıt verir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_013",
+      "speaker": "张伟",
+      "zh": "我先把每月固定的房租、水电和交通费列出来，再估算其他开销。",
+      "pinyin": "wǒ xiān bǎ měi yuè gù dìng de fáng zū 、 shuǐ diàn hé jiāo tōng fèi liè chū lái ， zài gū suàn qí tā kāi xiāo 。",
+      "tr": "Önce aylık kira, faturalar ve ulaşım gibi sabit giderleri yazıp diğer masrafları tahmin edeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_014",
+      "speaker": "李晨",
+      "zh": "别忘了把一年交几次的费用也算进去，平均到每个月更清楚。",
+      "pinyin": "bié wàng le bǎ yī nián jiāo jǐ cì de fèi yòng yě suàn jìn qù ， píng jūn dào měi gè yuè gèng qīng chǔ 。",
+      "tr": "Yılda birkaç kez ödenen masrafları da unutma; aylık ortalamaya bölersen daha net görünür."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_015",
+      "speaker": "刘梅",
+      "zh": "吃饭和日用品这些花费，可以先按现在的情况估算。",
+      "pinyin": "chī fàn hé rì yòng pǐn zhè xiē huā fèi ， kě yǐ xiān àn xiàn zài de qíng kuàng gū suàn 。",
+      "tr": "Yemek ve günlük ihtiyaç harcamalarını şimdilik bugünkü duruma göre tahmin edebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_016",
+      "speaker": "朋友",
+      "zh": "我当初漏算了几项年度费用，后来重新整理才看清实际开支。",
+      "pinyin": "wǒ dāng chū lòu suàn le jǐ xiàng nián dù fèi yòng ， hòu lái chóng xīn zhěng lǐ cái kàn qīng shí jì kāi zhī 。",
+      "tr": "Başta yıllık bazı giderleri hesaba katmamıştım; yeniden düzenleyince gerçek masrafları gördüm."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_017",
+      "speaker": "张伟",
+      "zh": "那我再留一栏，记下不常发生、但需要准备的钱。",
+      "pinyin": "nà wǒ zài liú yī lán ， jì xià bù cháng fā shēng 、 dàn xū yào zhǔn bèi de qián 。",
+      "tr": "O hâlde sık ortaya çıkmayan ama hazırlık gerektiren masraflar için ayrı bir sütun açayım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_018",
+      "speaker": "李晨",
+      "zh": "可以，先把大概数写上，之后拿到准确信息再调整。",
+      "pinyin": "kě yǐ ， xiān bǎ dà gài shù xiě shàng ， zhī hòu ná dào zhǔn què xìn xī zài tiáo zhěng 。",
+      "tr": "Olur, şimdilik yaklaşık miktarı yaz; kesin bilgi gelince düzeltirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_019",
+      "speaker": "刘梅",
+      "zh": "我们也需要聊聊退休后的日常，不只是把账算完。",
+      "pinyin": "wǒ men yě xū yào liáo liáo tuì xiū hòu de rì cháng ， bù zhǐ shì bǎ zhàng suàn wán 。",
+      "tr": "Emeklilikten sonraki günlük yaşamı da konuşmalıyız; yalnızca hesap yapmak yetmez."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_020",
+      "speaker": "朋友",
+      "zh": "我刚退休时每天都睡到很晚，过了一阵子反而觉得没精神。",
+      "pinyin": "wǒ gāng tuì xiū shí měi tiān dōu shuì dào hěn wǎn ， guò le yī zhèn zi fǎn ér jué de méi jīng shén 。",
+      "tr": "Emekli olduğum ilk zamanlar her gün geç kalkıyordum; bir süre sonra enerjisiz hissetmeye başladım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_021",
+      "speaker": "张伟",
+      "zh": "我不想把日程排得太满，但也不希望每天都没有安排。",
+      "pinyin": "wǒ bù xiǎng bǎ rì chéng pái dé tài mǎn ， dàn yě bù xī wàng měi tiān dōu méi yǒu ān pái 。",
+      "tr": "Programımı çok doldurmak istemiyorum ama her günün plansız kalmasını da istemem."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_022",
+      "speaker": "李晨",
+      "zh": "可以先固定几件喜欢做的事，其他时间留一点自由。",
+      "pinyin": "kě yǐ xiān gù dìng jǐ jiàn xǐ huān zuò de shì ， qí tā shí jiān liú yì diǎn zì yóu 。",
+      "tr": "Sevdiğin birkaç işi düzenli hâle getirip kalan zamanın bir kısmını serbest bırakabilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_023",
+      "speaker": "刘梅",
+      "zh": "比如每周见朋友、运动几次，再留时间陪家人。",
+      "pinyin": "bǐ rú měi zhōu jiàn péng yǒu 、 yùn dòng jǐ cì ， zài liú shí jiān péi jiā rén 。",
+      "tr": "Örneğin haftada bir arkadaşlarla görüşmek, birkaç kez hareket etmek ve aileye zaman ayırmak."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_024",
+      "speaker": "朋友",
+      "zh": "我试过这种安排，既有规律，也不会觉得每天都一样。",
+      "pinyin": "wǒ shì guò zhè zhǒng ān pái ， jì yǒu guī lǜ ， yě bú huì jué de měi tiān dōu yī yàng 。",
+      "tr": "Bu düzeni denedim; hem rutin sağlıyor hem de her gün aynı geçiyormuş gibi hissettirmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_025",
+      "speaker": "张伟",
+      "zh": "你说的有道理。我可以先从每周去一次摄影活动开始。",
+      "pinyin": "nǐ shuō de yǒu dào lǐ 。 wǒ kě yǐ xiān cóng měi zhōu qù yī cì shè yǐng huó dòng kāi shǐ 。",
+      "tr": "Haklısın. Fotoğraf etkinliğine haftada bir kez katılarak başlayabilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_026",
+      "speaker": "李晨",
+      "zh": "先试一个月吧，觉得合适再继续，不合适也能换别的。",
+      "pinyin": "xiān shì yí gè yuè ba ， jué de hé shì zài jì xù ， bù hé shì yě néng huàn bié de 。",
+      "tr": "Önce bir ay dene; uygun gelirse sürdürürsün, gelmezse başka bir şey seçersin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_027",
+      "speaker": "刘梅",
+      "zh": "你一直说想学摄影，现在正好可以看看自己是不是真的喜欢。",
+      "pinyin": "nǐ yì zhí shuō xiǎng xué shè yǐng ， xiàn zài zhèng hǎo kě yǐ kàn kàn zì jǐ shì bú shì zhēn de xǐ huān 。",
+      "tr": "Fotoğrafçılığı öğrenmek istediğini hep söylüyordun; şimdi gerçekten sevip sevmediğini görebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_028",
+      "speaker": "朋友",
+      "zh": "我也可以陪你去第一次，熟悉以后你再决定要不要自己参加。",
+      "pinyin": "wǒ yě kě yǐ péi nǐ qù dì yī cì ， shú xī yǐ hòu nǐ zài jué dìng yào bù yào zì jǐ cān jiā 。",
+      "tr": "İlk kez sana eşlik edebilirim; alışınca tek başına katılmak isteyip istemediğine karar verirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_029",
+      "speaker": "张伟",
+      "zh": "谢谢。那我先查一下活动时间，再看看离家远不远。",
+      "pinyin": "xiè xiè 。 nà wǒ xiān chá yī xià huó dòng shí jiān ， zài kàn kàn lí jiā yuǎn bù yuǎn 。",
+      "tr": "Teşekkürler. Önce etkinlik saatini ve evden ne kadar uzakta olduğunu araştırayım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_030",
+      "speaker": "李晨",
+      "zh": "路程也要考虑，太远的话坚持起来可能不方便。",
+      "pinyin": "lù chéng yě yào kǎo lǜ ， tài yuǎn de huà jiān chí qǐ lái kě néng bù fāng biàn 。",
+      "tr": "Ulaşımı da düşün; çok uzak olursa düzenli gitmek zorlaşabilir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_031",
+      "speaker": "刘梅",
+      "zh": "如果时间和地点都合适，我们周末就一起去看看。",
+      "pinyin": "rú guǒ shí jiān hé dì diǎn dōu hé shì ， wǒ men zhōu mò jiù yì qǐ qù kàn kàn 。",
+      "tr": "Saat ve yer uygunsa hafta sonu birlikte gidip bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_032",
+      "speaker": "朋友",
+      "zh": "第一次去不用马上报名，先了解内容和费用就行。",
+      "pinyin": "dì yī cì qù bù yòng mǎ shàng bào míng ， xiān liǎo jiě nèi róng hé fèi yòng jiù xíng 。",
+      "tr": "İlk gidişinde hemen kayıt olman gerekmez; içeriği ve ücretini öğrenmen yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_033",
+      "speaker": "张伟",
+      "zh": "预算里我还得留出探望亲友和偶尔旅行的钱。",
+      "pinyin": "yù suàn lǐ wǒ hái dé liú chū tàn wàng qīn yǒu hé ǒu ěr lǚ xíng de qián 。",
+      "tr": "Bütçede akraba ziyaretleri ve ara sıra yapılacak geziler için de pay bırakmalıyım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_034",
+      "speaker": "李晨",
+      "zh": "这些属于你重视的生活安排，最好不要都当成可有可无。",
+      "pinyin": "zhè xiē shǔ yú nǐ zhòng shì de shēng huó ān pái ， zuì hǎo bù yào dōu dàng chéng kě yǒu kě wú 。",
+      "tr": "Bunlar senin değer verdiğin yaşam planları; hepsini gereksiz harcama saymamak iyi olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_035",
+      "speaker": "刘梅",
+      "zh": "不过先估算一个范围，免得计划得很好，实际却难以做到。",
+      "pinyin": "bù guò xiān gū suàn yí gè fàn wéi ， miǎn de jì huà dé hěn hǎo ， shí jì què nán yǐ zuò dào 。",
+      "tr": "Yine de yaklaşık bir aralık hesapla; plan iyi görünüp uygulaması zor olmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_036",
+      "speaker": "朋友",
+      "zh": "我每年会先安排一次探亲，其他出行再看时间和情况。",
+      "pinyin": "wǒ měi nián huì xiān ān pái yī cì tàn qīn ， qí tā chū xíng zài kàn shí jiān hé qíng kuàng 。",
+      "tr": "Her yıl önce bir aile ziyareti planlıyorum; diğer gezileri zamana ve koşullara göre ayarlıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_037",
+      "speaker": "张伟",
+      "zh": "这个办法挺适合我。先确定重要的事，再安排其他选择。",
+      "pinyin": "zhè ge bàn fǎ tǐng shì hé wǒ 。 xiān què dìng zhòng yào de shì ， zài ān pái qí tā xuǎn zé 。",
+      "tr": "Bu yöntem bana uygun. Önce önemli işleri belirleyip diğer seçenekleri sonra düzenleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_038",
+      "speaker": "李晨",
+      "zh": "如果收入或开支后来有变化，计划也可以跟着调整。",
+      "pinyin": "rú guǒ shōu rù huò kāi zhī hòu lái yǒu biàn huà ， jì huà yě kě yǐ gēn zhe tiáo zhěng 。",
+      "tr": "Gelir ya da giderler sonradan değişirse planı da buna göre güncelleyebilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_039",
+      "speaker": "刘梅",
+      "zh": "我们不用今天把每个细节都定下来，先把主要方向想清楚。",
+      "pinyin": "wǒ men bù yòng jīn tiān bǎ měi gè xì jié dōu dìng xià lái ， xiān bǎ zhǔ yào fāng xiàng xiǎng qīng chǔ 。",
+      "tr": "Bugün her ayrıntıyı kesinleştirmek zorunda değiliz; önce ana yönü netleştirelim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_040",
+      "speaker": "朋友",
+      "zh": "退休计划不是一次写好就不能改，生活变化了就重新看。",
+      "pinyin": "tuì xiū jì huà bú shì yī cì xiě hǎo jiù bù néng gǎi ， shēng huó biàn huà le jiù chóng xīn kàn 。",
+      "tr": "Emeklilik planı bir kez yazılınca değişmez değil; yaşam koşulları değişince yeniden bakılır."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_041",
+      "speaker": "张伟",
+      "zh": "我还担心如果突然有一笔大开支，会不会打乱所有安排。",
+      "pinyin": "wǒ hái dān xīn rú guǒ tū rán yǒu yī bǐ dà kāi zhī ， huì bú huì dǎ luàn suǒ yǒu ān pái 。",
+      "tr": "Beklenmedik büyük bir masraf çıkarsa bütün planım bozulur mu diye de kaygılanıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_042",
+      "speaker": "李晨",
+      "zh": "先了解有哪些保障和应急办法，具体数字再向专业人士确认。",
+      "pinyin": "xiān liǎo jiě yǒu nǎ xiē bǎo zhàng hé yìng jí bàn fǎ ， jù tǐ shù zì zài xiàng zhuān yè rén shì què rèn 。",
+      "tr": "Önce hangi güvencelerin ve acil durum seçeneklerinin bulunduğunu öğren; kesin tutarları uzmana danış."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_043",
+      "speaker": "刘梅",
+      "zh": "对，别只听别人怎么说，最好看看自己的资料和实际条件。",
+      "pinyin": "duì ， bié zhǐ tīng bié rén zěn me shuō ， zuì hǎo kàn kàn zì jǐ de zī liào hé shí jì tiáo jiàn 。",
+      "tr": "Evet, yalnızca başkalarının söylediklerine dayanma; kendi belgelerine ve koşullarına bak."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_044",
+      "speaker": "朋友",
+      "zh": "我当时也找相关机构问过，弄清楚以后心里踏实多了。",
+      "pinyin": "wǒ dāng shí yě zhǎo xiāng guān jī gòu wèn guò ， nòng qīng chǔ yǐ hòu xīn lǐ tà shí duō le 。",
+      "tr": "Ben de o zaman ilgili kuruma danıştım; netleşince içim rahatladı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_045",
+      "speaker": "张伟",
+      "zh": "那我把要核实的问题写下来，免得咨询时忘了问。",
+      "pinyin": "nà wǒ bǎ yào hé shí de wèn tí xiě xià lái ， miǎn de zī xún shí wàng le wèn 。",
+      "tr": "Öyleyse danışırken unutmayayım diye doğrulamam gereken soruları yazayım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_046",
+      "speaker": "李晨",
+      "zh": "把不确定的地方标出来，确认之后再放进预算。",
+      "pinyin": "bǎ bù què dìng de dì fāng biāo chū lái ， què rèn zhī hòu zài fàng jìn yù suàn 。",
+      "tr": "Emin olmadığın yerleri işaretle; bütçeye ancak doğruladıktan sonra ekle."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_047",
+      "speaker": "刘梅",
+      "zh": "这样既不会把猜测当成事实，也能知道下一步该做什么。",
+      "pinyin": "zhè yàng jì bú huì bǎ cāi cè dàng chéng shì shí ， yě néng zhī dào xià yī bù gāi zuò shén me 。",
+      "tr": "Böylece tahmini gerçek sanmaz, sıradaki adımın ne olduğunu bilirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_048",
+      "speaker": "朋友",
+      "zh": "你不必一个人把所有事情想完，我们可以一起讨论。",
+      "pinyin": "nǐ bù bì yí gè rén bǎ suǒ yǒu shì qíng xiǎng wán ， wǒ men kě yǐ yì qǐ tǎo lùn 。",
+      "tr": "Her şeyi tek başına düşünüp bitirmek zorunda değilsin; birlikte konuşabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_049",
+      "speaker": "张伟",
+      "zh": "听你们这么说，我觉得退休这件事没有刚才想的那么可怕。",
+      "pinyin": "tīng nǐ men zhè me shuō ， wǒ jué de tuì xiū zhè jiàn shì méi yǒu gāng cái xiǎng de nà me kě pà 。",
+      "tr": "Sizi dinleyince emeklilik konusu az önce düşündüğüm kadar korkutucu gelmiyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_050",
+      "speaker": "李晨",
+      "zh": "因为你开始把担心分成具体问题，每一项都能慢慢处理。",
+      "pinyin": "yīn wèi nǐ kāi shǐ bǎ dān xīn fēn chéng jù tǐ wèn tí ， měi yī xiàng dōu néng màn màn chǔ lǐ 。",
+      "tr": "Çünkü kaygılarını somut sorulara ayırmaya başladın; her birini yavaş yavaş ele alabiliriz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_051",
+      "speaker": "刘梅",
+      "zh": "而且计划里有你喜欢的事情，退休就不只是停止工作。",
+      "pinyin": "ér qiě jì huà lǐ yǒu nǐ xǐ huān de shì qíng ， tuì xiū jiù bù zhǐ shì tíng zhǐ gōng zuò 。",
+      "tr": "Üstelik planda sevdiğin şeylere de yer var; emeklilik yalnızca çalışmayı bırakmak değil."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_052",
+      "speaker": "朋友",
+      "zh": "对我来说，找到新的节奏以后，生活反而比以前更自在。",
+      "pinyin": "duì wǒ lái shuō ， zhǎo dào xīn de jié zòu yǐ hòu ， shēng huó fǎn ér bǐ yǐ qián gèng zì zài 。",
+      "tr": "Ben yeni bir ritim bulduktan sonra yaşamım eskisinden daha rahat oldu."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_053",
+      "speaker": "张伟",
+      "zh": "我先按今天谈的内容做个草稿，下次再请你们帮我看看。",
+      "pinyin": "wǒ xiān àn jīn tiān tán de nèi róng zuò gè cǎo gǎo ， xià cì zài qǐng nǐ men bāng wǒ kàn kàn 。",
+      "tr": "Bugün konuştuklarımıza göre bir taslak hazırlayayım; bir dahaki sefere birlikte gözden geçiririz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_054",
+      "speaker": "李晨",
+      "zh": "好，先写固定开支、重要目标和需要核实的问题。",
+      "pinyin": "hǎo ， xiān xiě gù dìng kāi zhī 、 zhòng yào mù biāo hé xū yào hé shí de wèn tí 。",
+      "tr": "Olur; sabit giderleri, önemli hedefleri ve doğrulamamız gereken soruları yaz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_055",
+      "speaker": "刘梅",
+      "zh": "再写上摄影活动和家庭时间，计划才更像你自己的生活。",
+      "pinyin": "zài xiě shàng shè yǐng huó dòng hé jiā tíng shí jiān ， jì huà cái gèng xiàng nǐ zì jǐ de shēng huó 。",
+      "tr": "Fotoğraf etkinliğini ve aileye ayıracağın zamanı da ekle; plan senin yaşamına daha çok benzesin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_056",
+      "speaker": "朋友",
+      "zh": "下周我们再碰面，一起看看这个安排是不是既现实又让你期待。",
+      "pinyin": "xià zhōu wǒ men zài pèng miàn ， yì qǐ kàn kàn zhè ge ān pái shì bú shì jì xiàn shí yòu ràng nǐ qī dài 。",
+      "tr": "Gelecek hafta tekrar görüşüp planın hem gerçekçi hem de seni heyecanlandırıcı olup olmadığına bakalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_057",
+      "speaker": "张伟",
+      "zh": "我把每月开支重新核对了一遍，固定费用比原来估计的高一点。",
+      "pinyin": "wǒ bǎ měi yuè kāi zhī chóng xīn hé duì le yī biàn ， gù dìng fèi yòng bǐ yuán lái gū jì de gāo yì diǎn 。",
+      "tr": "Aylık giderlerimi yeniden kontrol ettim; sabit masraflar tahminimden biraz yüksek çıktı."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_058",
+      "speaker": "李晨",
+      "zh": "把年度费用也算进去，平均到每个月会更接近实际。",
+      "pinyin": "bǎ nián dù fèi yòng yě suàn jìn qù ， píng jūn dào měi gè yuè huì gèng jiē jìn shí jì 。",
+      "tr": "Yıllık giderleri de hesaba katıp aylara bölersen gerçek duruma daha yakın olur."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_059",
+      "speaker": "刘梅",
+      "zh": "这些数字会影响你哪些安排？",
+      "pinyin": "zhè xiē shù zì huì yǐng xiǎng nǐ nǎ xiē ān pái ？",
+      "tr": "Bu rakamlar hangi planlarını etkileyecek?"
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_060",
+      "speaker": "朋友",
+      "zh": "先别急着放弃喜欢的事，看看有没有更合适的做法。",
+      "pinyin": "xiān bié jí zhe fàng qì xǐ huān de shì ， kàn kàn yǒu méi yǒu gèng hé shì de zuò fǎ 。",
+      "tr": "Sevdiğin şeylerden hemen vazgeçme; daha uygun bir yol var mı bak."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_061",
+      "speaker": "张伟",
+      "zh": "摄影活动的费用不高，我先参加一个月再决定要不要继续。",
+      "pinyin": "shè yǐng huó dòng de fèi yòng bù gāo ， wǒ xiān cān jiā yí gè yuè zài jué dìng yào bù yào jì xù 。",
+      "tr": "Fotoğraf etkinliği pahalı değil; önce bir ay katılıp devam edip etmemeye karar verebilirim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_062",
+      "speaker": "李晨",
+      "zh": "试过以后，你就知道时间和兴趣是否都合适。",
+      "pinyin": "shì guò yǐ hòu ， nǐ jiù zhī dào shí jiān hé xìng qù shì fǒu dōu hé shì 。",
+      "tr": "Deneyince hem zamanının hem ilgilinin uyup uymadığını anlarsın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_063",
+      "speaker": "刘梅",
+      "zh": "你一直想学摄影，现在正好可以开始看看。",
+      "pinyin": "nǐ yì zhí xiǎng xué shè yǐng ， xiàn zài zhèng hǎo kě yǐ kāi shǐ kàn kàn 。",
+      "tr": "Fotoğrafçılığı öğrenmek istiyordun; şimdi denemek için iyi bir zaman."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_064",
+      "speaker": "朋友",
+      "zh": "我可以陪你去第一次，熟悉以后你再自己决定。",
+      "pinyin": "wǒ kě yǐ péi nǐ qù dì yī cì ， shú xī yǐ hòu nǐ zài zì jǐ jué dìng 。",
+      "tr": "İlk gidişinde sana eşlik edebilirim; alışınca kendin karar verirsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_065",
+      "speaker": "张伟",
+      "zh": "谢谢。我先查好时间和地点，再放进日程里。",
+      "pinyin": "xiè xiè 。 wǒ xiān chá hǎo shí jiān hé dì diǎn ， zài fàng jìn rì chéng lǐ 。",
+      "tr": "Teşekkürler. Önce saati ve yeri öğrenip takvimime ekleyeyim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_066",
+      "speaker": "李晨",
+      "zh": "如果活动地点离家近一些，我坚持参加的机会就更大。",
+      "pinyin": "rú guǒ huó dòng dì diǎn lí jiā jìn yī xiē ， wǒ jiān chí cān jiā de jī huì jiù gèng dà 。",
+      "tr": "Etkinlik yeri eve daha yakın olursa düzenli katılma olasılığım artar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_067",
+      "speaker": "刘梅",
+      "zh": "如果合适，我们周末就一起去看看。",
+      "pinyin": "rú guǒ hé shì ， wǒ men zhōu mò jiù yì qǐ qù kàn kàn 。",
+      "tr": "Uygunsa hafta sonu birlikte gidip bakarız."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_068",
+      "speaker": "朋友",
+      "zh": "第一次不用马上报名，先了解活动内容就好。",
+      "pinyin": "dì yī cì bù yòng mǎ shàng bào míng ， xiān liǎo jiě huó dòng nèi róng jiù hǎo 。",
+      "tr": "İlk gidişinde hemen kayıt olman gerekmez; etkinliğin içeriğini öğrenmen yeter."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_069",
+      "speaker": "张伟",
+      "zh": "预算里我还想留出探望亲友和偶尔旅行的钱。",
+      "pinyin": "yù suàn lǐ wǒ hái xiǎng liú chū tàn wàng qīn yǒu hé ǒu ěr lǚ xíng de qián 。",
+      "tr": "Bütçede akraba ziyaretleri ve ara sıra yapılacak geziler için de pay bırakmak istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_070",
+      "speaker": "李晨",
+      "zh": "这些是你重视的生活安排，不必都当成可有可无。",
+      "pinyin": "zhè xiē shì nǐ zhòng shì de shēng huó ān pái ， bù bì dōu dàng chéng kě yǒu kě wú 。",
+      "tr": "Bunlar değer verdiğin yaşam planları; hepsini gereksiz saymak zorunda değilsin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_071",
+      "speaker": "刘梅",
+      "zh": "先估算一个范围，免得计划很好听、实际却难做到。",
+      "pinyin": "xiān gū suàn yí gè fàn wéi ， miǎn de jì huà hěn hǎo tīng 、 shí jì què nán zuò dào 。",
+      "tr": "Önce yaklaşık bir aralık hesapla; plan kâğıt üzerinde iyi görünüp uygulanması zor olmasın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_072",
+      "speaker": "朋友",
+      "zh": "我每年先安排一次探亲，其他出行再看时间和情况。",
+      "pinyin": "wǒ měi nián xiān ān pái yī cì tàn qīn ， qí tā chū xíng zài kàn shí jiān hé qíng kuàng 。",
+      "tr": "Her yıl önce bir aile ziyareti planlıyorum; diğer gezileri zamana ve koşullara göre ayarlıyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_073",
+      "speaker": "张伟",
+      "zh": "我还想每周去社区做半天志愿服务，不过先了解他们需要什么。",
+      "pinyin": "wǒ hái xiǎng měi zhōu qù shè qū zuò bàn tiān zhì yuàn fú wù ， bù guò xiān liǎo jiě tā men xū yào shén me 。",
+      "tr": "Haftada yarım gün toplum merkezinde gönüllü olmak istiyorum; önce neye ihtiyaçları olduğunu öğreneyim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_074",
+      "speaker": "李晨",
+      "zh": "先问清楚工作内容和时间，再决定自己能不能长期参加。",
+      "pinyin": "xiān wèn qīng chǔ gōng zuò nèi róng hé shí jiān ， zài jué dìng zì jǐ néng bù néng cháng qī cān jiā 。",
+      "tr": "Önce işin içeriğini ve saatlerini öğren; sonra uzun süre katılıp katılamayacağına karar ver."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_075",
+      "speaker": "刘梅",
+      "zh": "愿意帮忙很好，但也要给休息和家人留出时间。",
+      "pinyin": "yuàn yì bāng máng hěn hǎo ， dàn yě yào gěi xiū xī hé jiā rén liú chū shí jiān 。",
+      "tr": "Yardım etmek istemen güzel ama dinlenmeye ve ailene de zaman bırak."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_076",
+      "speaker": "朋友",
+      "zh": "我每月去两次，做得不多，却让我认识了不少新朋友。",
+      "pinyin": "wǒ měi yuè qù liǎng cì ， zuò dé bù duō ， què ràng wǒ rèn shí le bù shǎo xīn péng yǒu 。",
+      "tr": "Ayda iki kez gidiyorum; çok şey yapmıyorum ama yeni arkadaşlar edindim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_077",
+      "speaker": "张伟",
+      "zh": "预算草稿我分成了固定开支、个人目标和机动部分。",
+      "pinyin": "yù suàn cǎo gǎo wǒ fēn chéng le gù dìng kāi zhī 、 gè rén mù biāo hé jī dòng bù fèn 。",
+      "tr": "Bütçe taslağını sabit giderler, kişisel hedefler ve esnek pay diye ayırdım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_078",
+      "speaker": "李晨",
+      "zh": "分类以后容易看出哪些可以调整，哪些需要先确认。",
+      "pinyin": "fēn lèi yǐ hòu róng yì kàn chū nǎ xiē kě yǐ tiáo zhěng ， nǎ xiē xū yào xiān què rèn 。",
+      "tr": "Ayırınca nelerin değiştirilebileceğini, nelerin önce doğrulanması gerektiğini görmek kolaylaşıyor."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_079",
+      "speaker": "刘梅",
+      "zh": "这只是一个参考，过一段时间还要按实际情况更新。",
+      "pinyin": "zhè zhǐ shì yí gè cān kǎo ， guò yī duàn shí jiān hái yào àn shí jì qíng kuàng gēng xīn 。",
+      "tr": "Bu yalnızca bir taslak; bir süre sonra gerçek koşullara göre güncellemek gerekir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_080",
+      "speaker": "朋友",
+      "zh": "我通常每半年回头看一次，变化不大就沿用原来的计划。",
+      "pinyin": "wǒ tōng cháng měi bàn nián huí tóu kàn yī cì ， biàn huà bù dà jiù yán yòng yuán lái de jì huà 。",
+      "tr": "Ben genelde altı ayda bir gözden geçiriyorum; büyük değişiklik yoksa aynı planı sürdürüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_081",
+      "speaker": "张伟",
+      "zh": "这样我心里踏实多了，也知道下一步要做什么。",
+      "pinyin": "zhè yàng wǒ xīn lǐ tà shí duō le ， yě zhī dào xià yī bù yào zuò shén me 。",
+      "tr": "Böylece içim rahatladı ve bundan sonra ne yapacağımı biliyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_082",
+      "speaker": "李晨",
+      "zh": "你可以先去摄影活动体验一次，不必立刻决定长期参加。",
+      "pinyin": "nǐ kě yǐ xiān qù shè yǐng huó dòng tǐ yàn yī cì ， bù bì lì kè jué dìng cháng qī cān jiā 。",
+      "tr": "Fotoğraf etkinliğine bir kez katılıp deneyebilirsin; hemen uzun süreli karar vermene gerek yok."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_083",
+      "speaker": "刘梅",
+      "zh": "去之前跟家里人说一声，他们也会更了解你的安排。",
+      "pinyin": "qù zhī qián gēn jiā lǐ rén shuō yī shēng ， tā men yě huì gèng liǎo jiě nǐ de ān pái 。",
+      "tr": "Gitmeden önce ailene haber ver; böylece planını daha iyi anlarlar."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_084",
+      "speaker": "朋友",
+      "zh": "第一次我陪你去，等你熟悉以后再看想不想自己参加。",
+      "pinyin": "dì yī cì wǒ péi nǐ qù ， děng nǐ shú xī yǐ hòu zài kàn xiǎng bù xiǎng zì jǐ cān jiā 。",
+      "tr": "İlk seferinde sana eşlik ederim; alışınca tek başına gitmek isteyip istemediğine bakarsın."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_085",
+      "speaker": "张伟",
+      "zh": "退休以后我最想保留的是和朋友来往，也想学些新东西。",
+      "pinyin": "tuì xiū yǐ hòu wǒ zuì xiǎng bǎo liú de shì hé péng yǒu lái wǎng ， yě xiǎng xué xiē xīn dōng xī 。",
+      "tr": "Emekli olduktan sonra en çok arkadaşlarımla görüşmeyi sürdürmek ve yeni şeyler öğrenmek istiyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_086",
+      "speaker": "李晨",
+      "zh": "那就把这些写进计划里，目标不一定非得和工作有关。",
+      "pinyin": "nà jiù bǎ zhè xiē xiě jìn jì huà lǐ ， mù biāo bù yí dìng fēi děi hé gōng zuò yǒu guān 。",
+      "tr": "Öyleyse bunları plana ekle; hedeflerin işle ilgili olması şart değil."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_087",
+      "speaker": "刘梅",
+      "zh": "慢慢试，觉得合适就继续，不合适再换个方向。",
+      "pinyin": "màn màn shì ， jué de hé shì jiù jì xù ， bù hé shì zài huàn gè fāng xiàng 。",
+      "tr": "Yavaş yavaş dene; uygunsa sürdürür, değilse başka bir yön seçersin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_088",
+      "speaker": "朋友",
+      "zh": "退休不是把生活停下来，而是重新安排时间和精力。",
+      "pinyin": "tuì xiū bú shì bǎ shēng huó tíng xià lái ， ér shì chóng xīn ān pái shí jiān hé jīng lì 。",
+      "tr": "Emeklilik yaşamı durdurmak değil, zamanı ve enerjiyi yeniden düzenlemektir."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_089",
+      "speaker": "张伟",
+      "zh": "我以前只担心开支，现在也开始想每天想过什么样的生活。",
+      "pinyin": "wǒ yǐ qián zhǐ dān xīn kāi zhī ， xiàn zài yě kāi shǐ xiǎng měi tiān xiǎng guò shén me yàng de shēng huó 。",
+      "tr": "Eskiden yalnızca masrafları düşünüyordum; şimdi her gün nasıl bir yaşam istediğimi de düşünüyorum."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_090",
+      "speaker": "李晨",
+      "zh": "每个人情况不同，没有一个计划适合所有人。",
+      "pinyin": "měi gè rén qíng kuàng bù tóng ， méi yǒu yí gè jì huà shì hé suǒ yǒu rén 。",
+      "tr": "Herkesin koşulları farklı; herkese uyan tek bir plan yok."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_091",
+      "speaker": "刘梅",
+      "zh": "重要的是安排符合自己的需要，也给变化留一点空间。",
+      "pinyin": "zhòng yào de shì ān pái fú hé zì jǐ de xū yào ， yě gěi biàn huà liú yì diǎn kōng jiān 。",
+      "tr": "Önemli olan düzenin kendi ihtiyaçlarına uyması ve değişikliklere de yer bırakması."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_092",
+      "speaker": "朋友",
+      "zh": "我找到自己的节奏以后，反而比刚退休时更自在。",
+      "pinyin": "wǒ zhǎo dào zì jǐ de jié zòu yǐ hòu ， fǎn ér bǐ gāng tuì xiū shí gèng zì zài 。",
+      "tr": "Kendi ritmimi bulduktan sonra emekliliğin ilk döneminden daha rahat hissettim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_093",
+      "speaker": "张伟",
+      "zh": "我先把预算和日程草稿给家里人看，听听他们的想法。",
+      "pinyin": "wǒ xiān bǎ yù suàn hé rì chéng cǎo gǎo gěi jiā lǐ rén kàn ， tīng tīng tā men de xiǎng fǎ 。",
+      "tr": "Önce bütçe ve takvim taslağını aileme gösterip düşüncelerini dinleyeceğim."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_094",
+      "speaker": "李晨",
+      "zh": "他们的意见可以参考，最后还是要由你自己决定。",
+      "pinyin": "tā men de yì jiàn kě yǐ cān kǎo ， zuì hòu hái shì yào yóu nǐ zì jǐ jué dìng 。",
+      "tr": "Görüşleri yol gösterici olabilir ama son kararı yine sen vermelisin."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_095",
+      "speaker": "刘梅",
+      "zh": "如果大家有不同看法，就把担心说具体，慢慢商量。",
+      "pinyin": "rú guǒ dà jiā yǒu bù tóng kàn fǎ ， jiù bǎ dān xīn shuō jù tǐ ， màn màn shāng liáng 。",
+      "tr": "Farklı düşünenler olursa kaygılarını somut biçimde anlatsınlar; sonra sakince konuşursunuz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_096",
+      "speaker": "朋友",
+      "zh": "只要愿意继续沟通，很多事情都不用一次解决。",
+      "pinyin": "zhǐ yào yuàn yì jì xù gōu tōng ， hěn duō shì qíng dōu bù yòng yī cì jiě jué 。",
+      "tr": "İletişimi sürdürmeye istekli olursanız pek çok konuyu bir kerede çözmeniz gerekmez."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_097",
+      "speaker": "张伟",
+      "zh": "好，我先整理资料，没确认的费用就标出来再去核实。",
+      "pinyin": "hǎo ， wǒ xiān zhěng lǐ zī liào ， méi què rèn de fèi yòng jiù biāo chū lái zài qù hé shí 。",
+      "tr": "Peki, belgeleri düzenleyip kesinleşmemiş giderleri işaretleyerek doğrulayacağım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_098",
+      "speaker": "李晨",
+      "zh": "等信息齐一些，我们再一起看看预算有没有遗漏。",
+      "pinyin": "děng xìn xī qí yī xiē ， wǒ men zài yì qǐ kàn kàn yù suàn yǒu méi yǒu yí lòu 。",
+      "tr": "Bilgiler biraz daha tamamlanınca bütçede eksik var mı birlikte kontrol ederiz."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_099",
+      "speaker": "刘梅",
+      "zh": "下次见面时也说说摄影活动怎么样，别只谈数字。",
+      "pinyin": "xià cì jiàn miàn shí yě shuō shuō shè yǐng huó dòng zěn me yàng ， bié zhǐ tán shù zì 。",
+      "tr": "Bir dahaki buluşmada fotoğraf etkinliğinin nasıl geçtiğini de anlat; yalnızca rakamları konuşmayalım."
+    },
+    {
+      "id": "DLG_ZH_HSK5_SC047_100",
+      "speaker": "朋友",
+      "zh": "好，我们下周再聊。计划可以慢慢完善，日子也可以慢慢过。",
+      "pinyin": "hǎo ， wǒ men xià zhōu zài liáo 。 jì huà kě yǐ màn màn wán shàn ， rì zi yě kě yǐ màn màn guò 。",
+      "tr": "Olur, gelecek hafta tekrar konuşuruz. Planı zamanla geliştirir, hayatı da kendi akışında yaşarsın."
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "generationSceneId": "ZH_HSK5_SC043",
   "status": "INTEGRATED_QA_PASS",
   "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC043.json",
-  "dialogueSha256": "145fca36f75fa92f5f8be1e35f57897e03ccc67fb4771384aa671b9b0b007028",
+  "dialogueSha256": "5375188f5b8adb52f9624a580aa1163d1794aee7300a3b7bcdcd246f1a3e8551",
   "titleZh": "奶奶不想接受帮助",
   "titleTr": "Büyükanne Yardımı Kabul Etmekte Zorlanıyor",
   "locationId": "LOC_ZH_GRANDPARENTS_HOME_001",
@@ -68,5 +68,5 @@
   },
   "narrationPresentation": null,
   "styleReferenceSceneId": "ZH_HSK5_SC040",
-  "qaNoteTr": "HSK5 SC041-SC050 grubu; SC030 aile/stil referansı ve HSK5 olgunluk kilidi korundu. Kaynak kadrosu, 9:16 WebP ve hash kontrolleri geçti. APK build başlatılmadı."
+  "qaNoteTr": "SC043 diyaloğu, büyükanneye seçim hakkı ve mahremiyet bırakan aile görüşmesi ile iki haftalık takip olarak yenilendi; 100 tur ve konuşmacı kimlikleri korundu."
 }
