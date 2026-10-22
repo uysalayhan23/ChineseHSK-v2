@@ -42,12 +42,16 @@ jobs:
             rm -f "$GITHUB_WORKSPACE/visual_pack_v1.zip.new"
             ( cd "$TMP"; zip -q -r "$GITHUB_WORKSPACE/visual_pack_v1.zip.new" scenes scene_visual_manifest.json )
             mv "$GITHUB_WORKSPACE/visual_pack_v1.zip.new" "$GITHUB_WORKSPACE/visual_pack_v1.zip"
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add visual_pack_v1.zip
-            if ! git diff --cached --quiet; then
-              git commit -m "visuals: refresh runtime pack to canonical finals [skip ci]"
-              git push origin HEAD:main
+            if [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
+              echo "Manual APK build: using refreshed visual pack in the runner without pushing it to main."
+            else
+              git config user.name "github-actions[bot]"
+              git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+              git add visual_pack_v1.zip
+              if ! git diff --cached --quiet; then
+                git commit -m "visuals: refresh runtime pack to canonical finals [skip ci]"
+                git push origin HEAD:main
+              fi
             fi
           else
             echo "visual_pack_v1.zip already matches canonical runtime overrides."
@@ -336,8 +340,12 @@ jobs:
           if count<4: raise SystemExit(f"Expected at least 4 runtime backgrounds, got {count}")
           print(f"Materialized {count} canonical runtime backgrounds.")
           PY
-            git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"; git add ci/runtime_backgrounds
-            if ! git diff --cached --quiet; then git commit -m "visuals: materialize four canonical location masters [skip ci]"; git push origin HEAD:main; fi
+            if [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
+              echo "Manual APK build: using materialized runtime backgrounds in the runner without pushing them to main."
+            else
+              git config user.name "github-actions[bot]"; git config user.email "41898282+github-actions[bot]@users.noreply.github.com"; git add ci/runtime_backgrounds
+              if ! git diff --cached --quiet; then git commit -m "visuals: materialize four canonical location masters [skip ci]"; git push origin HEAD:main; fi
+            fi
           else echo "No runtime background chunk bundle present; using committed canonical backgrounds."; fi
 
       - name: Validate media catalogs
