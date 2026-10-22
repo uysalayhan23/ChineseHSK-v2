@@ -55,7 +55,7 @@
   "manifestChecklist": {
     "dialogueChecked": true,
     "castChecked": true,
-    "allDialogueSpeakersVisible": false,
+    "allDialogueSpeakersVisible": true,
     "requiredNonSpeakerCharactersChecked": true,
     "previousNextContinuityChecked": true,
     "style3d25dCgi": true,

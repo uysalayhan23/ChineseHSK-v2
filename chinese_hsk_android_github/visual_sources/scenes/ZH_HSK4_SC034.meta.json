@@ -67,7 +67,7 @@
     "noMiniSkirt": true,
     "noSexyClothing": true,
     "criticalObjectsVisible": true,
-    "canonicalCharacterContinuityChecked": false,
+    "canonicalCharacterContinuityChecked": true,
     "uniqueSceneIdChecked": true,
     "hsk4MaturityLockChecked": true
   },
