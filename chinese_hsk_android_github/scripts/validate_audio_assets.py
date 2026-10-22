@@ -34,7 +34,9 @@ def main():
         try:
             s = probe(dst)
             if s.get('codec_name') != 'opus': errors.append(f'{aid}: codec={s.get("codec_name")}, expected opus')
-            if int(s.get('sample_rate') or 0) != int(e['sampleRate']): errors.append(f'{aid}: sample rate mismatch')
+            # Opus is decoded at 48 kHz even when the encoder input was 24 kHz.
+            expected_rate = 48_000 if s.get('codec_name') == 'opus' else int(e['sampleRate'])
+            if int(s.get('sample_rate') or 0) != expected_rate: errors.append(f'{aid}: sample rate mismatch')
             if int(s.get('channels') or 0) != int(e['channels']): errors.append(f'{aid}: channel mismatch')
         except Exception as ex:
             errors.append(f'{aid}: unreadable audio: {ex}')
