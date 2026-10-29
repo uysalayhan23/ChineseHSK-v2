@@ -131,18 +131,49 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
     }
 
     private fun configureNativeMandarin(archetype: String) {
-        val candidates = voiceCandidates(archetype)
         val selectedSlotName = prefs.getString(slotPreferenceKey(archetype), null)
         val selectedSlot = selectedSlotName?.let { name -> nativeMandarinVoices.firstOrNull { it.name == name } }
-        // Never distribute voices arbitrarily across characters. A role uses an
-        // explicit user selection, a metadata-matched voice, or the engine default.
-        val selected = selectedSlot ?: candidates.firstOrNull()
+        // Android often exposes Mandarin voices without gender or age labels.
+        // Distribute the installed voices across speaker roles instead of sending
+        // every unclassified role to the same engine default.
+        val selected = selectedSlot ?: automaticRoleVoices()[archetype]
         if (selected != null) {
             tts.voice = selected
         } else {
             tts.setLanguage(Locale.forLanguageTag("zh-CN"))
         }
         tts.setPitch(1.0f)
+    }
+
+    private fun automaticRoleVoices(): Map<String, Voice> {
+        val roles = listOf("male", "female", "boy", "girl")
+        val result = linkedMapOf<String, Voice>()
+        val reserved = roles.mapNotNull { role ->
+            prefs.getString(slotPreferenceKey(role), null)
+                ?.let { name -> nativeMandarinVoices.firstOrNull { it.name == name } }
+                ?.name
+        }.toMutableSet()
+
+        roles.forEach { role ->
+            val manuallySelected = prefs.getString(slotPreferenceKey(role), null)
+                ?.let { name -> nativeMandarinVoices.firstOrNull { it.name == name } }
+            if (manuallySelected != null) {
+                result[role] = manuallySelected
+                return@forEach
+            }
+
+            val preferred = voiceCandidates(role)
+            val selected = preferred.firstOrNull { it.name !in reserved }
+                ?: nativeMandarinVoices.firstOrNull { it.name !in reserved }
+                // Reuse a voice only after the installed inventory is exhausted.
+                ?: preferred.firstOrNull()
+                ?: nativeMandarinVoices.firstOrNull()
+            if (selected != null) {
+                result[role] = selected
+                reserved += selected.name
+            }
+        }
+        return result
     }
 
     private fun slotPreferenceKey(archetype: String): String =
@@ -166,6 +197,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
         val action: () -> Unit = {
             stopPlaybackOnly()
             val voice = voiceName?.let { name -> nativeMandarinVoices.firstOrNull { it.name == name } }
+                ?: automaticRoleVoices()[archetype]
                 ?: voiceCandidates(archetype).firstOrNull()
             if (voice != null) tts.voice = voice else tts.setLanguage(Locale.forLanguageTag("zh-CN"))
             tts.setPitch(1.0f)
