@@ -10,7 +10,7 @@ Kullanıcı JSON, klasör veya sahne dosyalarını elle birleştirmez. İçerik 
 
 ## v2.0.0 — GitHub tek-tık APK ve Sistem Kontrolü
 
-- Dashboard'a **Sistem Kontrolü** ekranı eklendi: kurs bütünlüğü, offline Mandarin TTS sesleri, cihaz-içi Mandarin konuşma tanıma, bildirim izni ve yerel ses cache durumu tek ekranda görünür.
+- Dashboard'a **Sistem Kontrolü** ekranı eklendi: kurs bütünlüğü, telefonun Mandarin TTS sesleri, cihaz-içi Mandarin konuşma tanıma, bildirim izni ve yerel ses cache durumu tek ekranda görünür.
 - `Build Personal APK` workflow'u kullanıcı dostu hale getirildi. Başarılı build sonunda APK `ChineseHSK-v2.0.0-personal.apk` veya kalıcı signing aktifse `ChineseHSK-v2.0.0-release.apk` adıyla artifact içine konur.
 - APK ile birlikte SHA-256 kontrol özeti ve build özeti üretilir.
 - Build başarısız olsa bile validation raporları ayrı artifact olarak yüklenir.
@@ -113,7 +113,7 @@ music       chinese_course/media/music/<SCENE_ID>.opus
 - Kaynak master sesler `audio_sources/` altında tutulur; `scripts/prepare_audio_assets.py` bunları `ffmpeg` ile runtime Opus formatına dönüştürür.
 - Konuşma hedefi: 24 kHz mono 48 kbps Opus; ambience: 48 kHz stereo 64 kbps; müzik: 48 kHz stereo 96 kbps.
 - `scripts/validate_audio_assets.py` varsa authored seslerin codec/sample-rate/channel yapısını doğrular.
-- Gerçek replik sesi eksikse APK offline Mandarin TTS fallback kullanır; ambience/müzik eksikse sessiz devam eder.
+- Diyaloglar, Android telefonda seçili olan Mandarin TTS sesiyle metinden okunur.
 - `MEDIA_READINESS_REPORT_v1.5.0.txt` ve `media/media_readiness.json` her build'de gerçek binary medya sayısını fallback sayısından ayırır.
 - Kişisel APK authored binary medya olmadan da çalışabilir; ticari yayın için gerçek ses/görsel kalite kontrolü ayrı tutulur.
 

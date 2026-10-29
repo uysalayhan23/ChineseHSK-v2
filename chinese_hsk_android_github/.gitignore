@@ -8,6 +8,3 @@ dist/
 *.jks
 *.keystore
 
-.build-cache/mandarin-tts/
-app/src/main/jniLibs/
-app/src/main/assets/mandarin_tts/

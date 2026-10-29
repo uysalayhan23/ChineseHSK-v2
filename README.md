@@ -1,12 +1,9 @@
-# ChineseHSK v2
+# ChineseHSK-v2
 
-Bu depo Chinese HSK Android uygulamasının v2.0.0 derleme deposudur.
+Chinese HSK Android uygulamasının kaynak kodu. HSK1–HSK6 kurs içeriği ve çevrimdışı telaffuz tanıma modeli korunur. Mandarin konuşma, telefonda kurulu Android TTS seslerini kullanır.
 
-## APK oluşturma
-Repo köküne `chinese_hsk_android_github_v2.0.0.zip` dosyasını yükleyin.
-GitHub Actions otomatik olarak ZIP'i açar, içeriği doğrular ve APK'yı derler.
+## APK
 
-Derleme tamamlanınca:
-**Actions → Build Chinese HSK v2 from ZIP → son başarılı çalışma → Artifacts → ChineseHSK-v2.0.0-personal-apk**
+APK üretimi GitHub Actions sayfasındaki **Build Chinese HSK APK from checked-in app** iş akışından elle başlatılır. Depoya yapılan normal kod yüklemeleri Actions çalıştırmaz.
 
-> Not: ZIP dosyasını açmadan, olduğu gibi repo köküne yükleyin.
+Bilgisayarına yedek almak için GitHub deposunu açıp yeşil **Code** düğmesinden **Download ZIP** seçebilirsin.

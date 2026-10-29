@@ -35,7 +35,6 @@ fun SystemCheckScreen(
     var refreshTick by remember { mutableIntStateOf(0) }
     var offlineVoices by remember { mutableIntStateOf(0) }
     var nativeVoices by remember { mutableIntStateOf(0) }
-    var bundledVoices by remember { mutableIntStateOf(0) }
     var nativeVoiceOptions by remember { mutableStateOf(emptyList<NativeMandarinVoiceOption>()) }
     var selectedVoiceSlots by remember { mutableStateOf<Map<String, String?>>(emptyMap()) }
     var cacheFiles by remember { mutableIntStateOf(0) }
@@ -67,7 +66,6 @@ fun SystemCheckScreen(
         audio.refreshNativeVoiceInventory()
         offlineVoices = audio.offlineVoiceCount()
         nativeVoices = audio.nativeMandarinVoiceCount()
-        bundledVoices = audio.bundledVoiceCount()
         nativeVoiceOptions = audio.nativeVoiceOptions()
         selectedVoiceSlots = NATIVE_VOICE_SLOTS.associate { (key, _) -> key to audio.selectedNativeVoiceName(key) }
         cacheFiles = audio.cachedTtsCount()
@@ -97,17 +95,6 @@ fun SystemCheckScreen(
         ) {
             item {
                 StatusCard(
-                    title = "Uygulamadaki Mandarin Ses Paketi",
-                    value = if (bundledVoices >= 4) "$bundledVoices ayrı ses · tamamen çevrimdışı" else "Ses paketi bulunamadı",
-                    ok = bundledVoices >= 4,
-                    detail = if (bundledVoices >= 4)
-                        "Kokoro Mandarin modeli 24 kHz ses üretir; 55 kadın ve 45 erkek sesi sunar."
-                    else
-                        "Bu APK Kokoro Mandarin ses paketini içermiyor. Uygulamanın sesli sürümü gerekir."
-                )
-            }
-            item {
-                StatusCard(
                     title = "Kurs İçeriği",
                     value = "$completeScenes / $totalScenes sahne · $totalDialogues diyalog",
                     ok = completeScenes == 300 && totalDialogues >= 30_000,
@@ -120,10 +107,10 @@ fun SystemCheckScreen(
                     value = if (nativeVoices > 0) "$nativeVoices ses bulundu · $offlineVoices çevrimdışı" else "Mandarin ses paketi henüz bulunamadı",
                     ok = nativeVoices > 0,
                     detail = when {
-                        nativeVoices == 1 -> "Telefonda tek sistem sesi var; uygulamanın kendi paketi 174 ayrı Mandarin konuşmacısı içerir."
-                        nativeVoices in 2..3 -> "Uygulamanın kendi ses paketi telefondan bağımsız olarak farklı konuşmacılar sunar."
-                        nativeVoices >= 4 -> "Uygulama sesleri yanında listelenir; istersen aşağıdan dinleyip değiştirebilirsin."
-                        else -> "Uygulamanın kendi Mandarin sesleri telefona ek ses kurmadan çalışır."
+                        nativeVoices == 1 -> "Telefonda bir Mandarin sistem sesi var; istersen aşağıdan seçip dinleyebilirsin."
+                        nativeVoices in 2..3 -> "Telefonundaki Mandarin sistem seslerini aşağıdan karakterlere eşleyebilirsin."
+                        nativeVoices >= 4 -> "Telefonundaki sesleri aşağıdan dinleyip karakterlere eşleyebilirsin."
+                        else -> "Daha fazla Mandarin sesi için Android'in Metin Okuma / TTS ayarlarını aç."
                     }
                 )
             }
@@ -132,7 +119,7 @@ fun SystemCheckScreen(
                     Column(Modifier.fillMaxWidth().padding(16.dp)) {
                         Text("İsteğe bağlı telefon sesleri", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, fontSize = 18.sp)
                         Text(
-                            "Telefonunun ek sistem seslerini yönetmek istersen Android ayarlarını açabilirsin. Uygulamanın kendi sesleri için buna gerek yok.",
+                            Telefonunun Mandarin seslerini Android ayarlarından yönetebilirsin. Uygulama, seçtiğin telefon sesini kullanır.,
                             color = Color.Gray,
                             fontSize = 13.sp,
                             modifier = Modifier.padding(top = 5.dp, bottom = 10.dp)
@@ -240,12 +227,12 @@ private fun NativeVoiceSetupCard(
         Column(Modifier.fillMaxWidth().padding(16.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
             Text("Karakter seslerini eşleştir", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, fontSize = 18.sp)
             Text(
-                "Uygulamadaki 100 Mandarin sesi internet olmadan çalışır. Otomatik seçim karakterlerin kadın/erkek ve yaş eşleştirmelerini korur. İstersen bu sesleri dinleyip türlere kendin atayabilirsin.",
+                Bu listede telefonunda yüklü olan Mandarin sesleri görünür. İstersen sesleri dinleyip karakter türlerine atayabilirsin; otomatik seçim de kullanılabilir.,
                 color = Color.Gray,
                 fontSize = 13.sp
             )
             if (options.isEmpty()) {
-                Text("Önce yukarıdaki düğmeyle Mandarin ses paketi kur, sonra Yeniden Kontrol Et'e bas.", color = CheckWarn, fontSize = 13.sp)
+                Text(Telefonunda seçilebilir Mandarin sesi görünmüyor. Android Ayarlar içindeki Metin Okuma / TTS bölümünden Mandarin sesi kurup yeniden kontrol et., color = CheckWarn, fontSize = 13.sp)
             }
             NATIVE_VOICE_SLOTS.forEach { (archetype, title) ->
                 var expanded by remember(archetype) { mutableStateOf(false) }
