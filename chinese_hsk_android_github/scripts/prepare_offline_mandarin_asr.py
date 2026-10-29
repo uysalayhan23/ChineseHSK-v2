@@ -49,7 +49,8 @@ def main() -> None:
             safe_extract(archive, staging)
         for rel in REQUIRED:
             file = staging / rel
-            if not file.is_file() or file.stat().st_size < 1024: raise RuntimeError(f"Required model file missing or too small: {rel}")
+            minimum = 1024 if rel == "am/final.mdl" else 1
+            if not file.is_file() or file.stat().st_size < minimum: raise RuntimeError(f"Required model file missing or empty: {rel}")
         if DEST.exists(): shutil.rmtree(DEST)
         DEST.parent.mkdir(parents=True, exist_ok=True)
         shutil.move(str(staging), str(DEST))
