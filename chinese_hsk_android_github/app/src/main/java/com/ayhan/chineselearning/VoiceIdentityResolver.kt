@@ -10,7 +10,7 @@ class VoiceIdentityResolver(context: Context) {
     private data class VoiceMaps(
         val bySpeaker: Map<String, String>,
         val allProfiles: List<String>,
-        val roleBySpeaker: Map<String, String>
+        val archetypeBySpeaker: Map<String, String>
     )
 
     private val maps: VoiceMaps by lazy { loadVoiceMaps() }
@@ -29,21 +29,9 @@ class VoiceIdentityResolver(context: Context) {
         return "VOICE_STABLE_" + (key.hashCode() and Int.MAX_VALUE).toString(16)
     }
 
-    /** A best-effort voice archetype based on explicit course character roles. */
-    fun archetypeForSpeaker(speaker: String): String {
-        val profile = profileForSpeaker(speaker)
-        when (profile) {
-            "VOICE_ZH_ZHANGWEI_001" -> return "male"
-            "VOICE_ZH_ZHANGYUTONG_001", "VOICE_ZH_ZHANGLELE_001" -> return "child"
-        }
-        val role = maps.roleBySpeaker[speaker.trim()].orEmpty().lowercase()
-        return when {
-            "child" in role || "kid" in role || "son" in role || "daughter" in role -> "child"
-            "mother" in role || "wife" in role || "sister" in role || "female" in role -> "female"
-            "father" in role || "husband" in role || "brother" in role || "male" in role -> "male"
-            else -> "neutral"
-        }
-    }
+    /** Uses canonical age and gender metadata for each dialogue speaker. */
+    fun archetypeForSpeaker(speaker: String): String =
+        maps.archetypeBySpeaker[speaker.trim()] ?: "neutral"
 
     private fun loadVoiceMaps(): VoiceMaps {
         return try {
@@ -91,20 +79,39 @@ class VoiceIdentityResolver(context: Context) {
                 }
             }
 
-            val roleBySpeaker = mutableMapOf<String, String>()
-            if (characters != null) {
-                for (i in 0 until characters.length()) {
-                    val item = characters.optJSONObject(i) ?: continue
-                    val nameZh = item.optString("nameZh", "").trim()
-                    val role = item.optString("role", "").trim()
-                    if (nameZh.isNotBlank() && role.isNotBlank()) roleBySpeaker[nameZh] = role
+            val archetypeBySpeaker = mutableMapOf<String, String>()
+            val castText = appContext.assets
+                .open("chinese_course/voice_cast.json")
+                .bufferedReader(Charsets.UTF_8)
+                .use { it.readText() }
+            val cast = JSONObject(castText).optJSONArray("cast")
+            if (cast != null) {
+                for (i in 0 until cast.length()) {
+                    val item = cast.optJSONObject(i) ?: continue
+                    val name = item.optString("speaker", "").trim()
+                    val gender = item.optString("genderPresentation", "").trim().lowercase()
+                    val age = item.optString("ageClass", "").trim().lowercase()
+                    if (name.isBlank()) continue
+                    val type = when {
+                        gender == "female" && age in setOf("child", "child_or_teen", "teen") -> "girl"
+                        gender == "male" && age in setOf("child", "child_or_teen", "teen") -> "boy"
+                        gender == "female" -> "female"
+                        gender == "male" -> "male"
+                        else -> "neutral"
+                    }
+                    archetypeBySpeaker[name] = type
+                    val profile = item.optString("voiceProfileId", "").trim()
+                    if (profile.isNotBlank()) {
+                        bySpeaker[name] = profile
+                        allProfiles += profile
+                    }
                 }
             }
 
             VoiceMaps(
                 bySpeaker = bySpeaker.toMap(),
                 allProfiles = allProfiles.distinct().sorted(),
-                roleBySpeaker = roleBySpeaker.toMap()
+                archetypeBySpeaker = archetypeBySpeaker.toMap()
             )
         } catch (_: Throwable) {
             VoiceMaps(emptyMap(), emptyList(), emptyMap())
