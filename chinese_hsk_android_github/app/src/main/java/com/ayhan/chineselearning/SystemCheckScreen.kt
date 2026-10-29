@@ -35,6 +35,7 @@ fun SystemCheckScreen(
     var refreshTick by remember { mutableIntStateOf(0) }
     var offlineVoices by remember { mutableIntStateOf(0) }
     var nativeVoices by remember { mutableIntStateOf(0) }
+    var bundledVoices by remember { mutableIntStateOf(0) }
     var nativeVoiceOptions by remember { mutableStateOf(emptyList<NativeMandarinVoiceOption>()) }
     var selectedVoiceSlots by remember { mutableStateOf<Map<String, String?>>(emptyMap()) }
     var cacheFiles by remember { mutableIntStateOf(0) }
@@ -66,6 +67,7 @@ fun SystemCheckScreen(
         audio.refreshNativeVoiceInventory()
         offlineVoices = audio.offlineVoiceCount()
         nativeVoices = audio.nativeMandarinVoiceCount()
+        bundledVoices = audio.bundledVoiceCount()
         nativeVoiceOptions = audio.nativeVoiceOptions()
         selectedVoiceSlots = NATIVE_VOICE_SLOTS.associate { (key, _) -> key to audio.selectedNativeVoiceName(key) }
         cacheFiles = audio.cachedTtsCount()
@@ -95,6 +97,17 @@ fun SystemCheckScreen(
         ) {
             item {
                 StatusCard(
+                    title = "Uygulamadaki Mandarin Ses Paketi",
+                    value = if (bundledVoices >= 4) "$bundledVoices ayrı ses · tamamen çevrimdışı" else "Ses paketi bulunamadı",
+                    ok = bundledVoices >= 4,
+                    detail = if (bundledVoices >= 4)
+                        "174 konuşmacı seçeneği. Model 8 kHz ses üretir ve çoğunlukla nötr konuşur."
+                    else
+                        "Bu APK AISHELL-3 ses paketini içermiyor. Uygulamanın sesli sürümü gerekir."
+                )
+            }
+            item {
+                StatusCard(
                     title = "Kurs İçeriği",
                     value = "$completeScenes / $totalScenes sahne · $totalDialogues diyalog",
                     ok = completeScenes == 300 && totalDialogues >= 30_000,
@@ -107,19 +120,19 @@ fun SystemCheckScreen(
                     value = if (nativeVoices > 0) "$nativeVoices ses bulundu · $offlineVoices çevrimdışı" else "Mandarin ses paketi henüz bulunamadı",
                     ok = nativeVoices > 0,
                     detail = when {
-                        nativeVoices == 1 -> "Telefonda yalnızca bir Mandarin sesi var; dört ayrı karakter sesi için ek ses paketi kur."
-                        nativeVoices in 2..3 -> "Otomatik seçim yüklü sesleri farklı karakter türlerine dağıtır. Dört ayrı ses için daha fazla Mandarin sesi kur."
-                        nativeVoices >= 4 -> "Otomatik seçim farklı sesleri karakter türlerine dağıtır. İstersen aşağıdan dinleyip değiştirebilirsin."
-                        else -> "Mandarin ses paketi kurduktan sonra Yeniden Kontrol Et'e bas."
+                        nativeVoices == 1 -> "Telefonda tek sistem sesi var; uygulamanın kendi paketi 174 ayrı Mandarin konuşmacısı içerir."
+                        nativeVoices in 2..3 -> "Uygulamanın kendi ses paketi telefondan bağımsız olarak farklı konuşmacılar sunar."
+                        nativeVoices >= 4 -> "Uygulama sesleri yanında listelenir; istersen aşağıdan dinleyip değiştirebilirsin."
+                        else -> "Uygulamanın kendi Mandarin sesleri telefona ek ses kurmadan çalışır."
                     }
                 )
             }
             item {
                 Card(colors = CardDefaults.cardColors(containerColor = Color.White), shape = RoundedCornerShape(18.dp)) {
                     Column(Modifier.fillMaxWidth().padding(16.dp)) {
-                        Text("Mandarin Ses Paketi", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, fontSize = 18.sp)
+                        Text("İsteğe bağlı telefon sesleri", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, fontSize = 18.sp)
                         Text(
-                            "Telefonun Android TTS ekranından yüksek kaliteli Mandarin seslerini indir. Kurulumdan sonra buraya dönüp Yeniden Kontrol Et'e bas.",
+                            "Telefonunun ek sistem seslerini yönetmek istersen Android ayarlarını açabilirsin. Uygulamanın kendi sesleri için buna gerek yok.",
                             color = Color.Gray,
                             fontSize = 13.sp,
                             modifier = Modifier.padding(top = 5.dp, bottom = 10.dp)
@@ -131,7 +144,7 @@ fun SystemCheckScreen(
                             } catch (_: Exception) {
                                 voiceInstallError = true
                             }
-                        }) { Text("Telefondaki ses paketlerini aç") }
+                        }) { Text("Telefonun TTS ayarlarını aç") }
                         if (voiceInstallError) {
                             Text("Bu telefonda ses paketi ekranı açılamadı. Android Ayarlar içindeki Metin okuma / TTS bölümünü kullan.", color = CheckWarn, fontSize = 13.sp)
                         }
@@ -212,7 +225,7 @@ fun SystemCheckScreen(
 private val NATIVE_VOICE_SLOTS = listOf(
     "male" to "Erkek yetişkin",
     "female" to "Kadın yetişkin",
-    "boy" to "Erkek çocuk",
+    "boy" to "Erkek genç",
     "girl" to "Kız çocuk"
 )
 

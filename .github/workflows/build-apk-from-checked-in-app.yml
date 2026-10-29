@@ -91,6 +91,9 @@ jobs:
           python3 scripts/validate_audio_assets.py
           python3 scripts/build_media_readiness_report.py
 
+      - name: Prepare bundled multi-speaker Mandarin TTS
+        run: python3 scripts/prepare_mandarin_tts_pack.py
+
       - name: Keep archived generated audio out of APK package
         run: |
           archived="$RUNNER_TEMP/chinese-hsk-archived-audio"

@@ -1,0 +1,12 @@
+Chinese multi-speaker text-to-speech voice pack
+
+AISHELL-3 is a Mandarin speech corpus released by Beijing Shell Shell Technology Co., Ltd. The model in this application was published by the sherpa-onnx project as vits-icefall-zh-aishell3 and supports 174 speaker IDs. AISHELL-3 is identified as Apache License 2.0 by OpenSLR resource SLR93. The associated sherpa-onnx runtime is v1.13.8 and is also Apache License 2.0.
+
+AISHELL-3 resource and license: https://www.openslr.org/93/
+AISHELL-3 speaker metadata: https://huggingface.co/datasets/AISHELL/AISHELL-3
+Model files: https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+Runtime source: https://github.com/k2-fsa/sherpa-onnx/tree/v1.13.8
+The full Apache-2.0 license text is included in licenses/Apache-2.0.txt.
+
+The packaged AISHELL-3-derived model emits 8 kHz audio. Speaker IDs are assigned from AISHELL-3's age group, gender, and accent metadata. Its speech style is neutral; speed changes are applied for mild pacing variation. It does not promise expressive emotion synthesis.
+
