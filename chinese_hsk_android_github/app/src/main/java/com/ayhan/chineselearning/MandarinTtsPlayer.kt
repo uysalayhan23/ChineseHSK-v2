@@ -295,7 +295,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
         if (manager.isLowRamDevice) return false
         val memory = ActivityManager.MemoryInfo()
         manager.getMemoryInfo(memory)
-        return !memory.lowMemory && memory.availMem >= 1024L * 1024L * 1024L
+        return !memory.lowMemory && memory.availMem >= 1536L * 1024L * 1024L
     }
 
     private fun createBundledTts(): OfflineTts {
