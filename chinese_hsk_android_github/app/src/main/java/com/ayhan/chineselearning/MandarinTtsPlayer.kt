@@ -11,8 +11,8 @@ import android.speech.tts.UtteranceProgressListener
 import android.speech.tts.Voice
 import com.k2fsa.sherpa.onnx.OfflineTts
 import com.k2fsa.sherpa.onnx.OfflineTtsConfig
+import com.k2fsa.sherpa.onnx.OfflineTtsKokoroModelConfig
 import com.k2fsa.sherpa.onnx.OfflineTtsModelConfig
-import com.k2fsa.sherpa.onnx.OfflineTtsVitsModelConfig
 import java.io.File
 import java.util.Locale
 import java.util.concurrent.ConcurrentHashMap
@@ -37,8 +37,15 @@ private data class BundledVoice(
     val accent: String
 )
 
+private data class ProfileVoiceBinding(
+    val sid: Int,
+    val voice: String,
+    val gender: String,
+    val ageClass: String
+)
+
 /**
- * Bundled offline AISHELL-3 voices, with Android Mandarin TTS as a fallback.
+ * Bundled offline Kokoro Mandarin voices, with Android Mandarin TTS as a fallback.
  * Dialogue audio is generated from current text; no pre-recorded foreign lines.
  */
 class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
@@ -58,6 +65,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
     private var nativeMandarinVoices: List<Voice> = emptyList()
     private var bundledTts: OfflineTts? = null
     private val bundledVoices: List<BundledVoice> by lazy { loadBundledVoices() }
+    private val profileVoiceBindings: Map<String, ProfileVoiceBinding> by lazy { loadProfileVoiceBindings() }
 
     companion object {
         private const val MAX_CACHE_BYTES = 350L * 1024L * 1024L
@@ -194,17 +202,15 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
     }
 
     private fun slotPreferenceKey(archetype: String): String =
-        "native_zh_cn_slot_v3_${safeKey(archetype)}"
+        "native_zh_cn_slot_v4_${safeKey(archetype)}"
 
     fun nativeVoiceOptions(): List<NativeMandarinVoiceOption> = nativeMandarinVoices.map { voice ->
         NativeMandarinVoiceOption(voice.name, voice.name, voiceKind(voice), !voice.isNetworkConnectionRequired, voice.quality)
     } + bundledVoices.map { voice ->
         NativeMandarinVoiceOption(
-            name = "aishell3:${voice.sid}",
-            label = "AISHELL · ${genderLabel(voice.gender)} · ${ageLabel(voice.ageGroup)} · ${voice.accent}",
+            name = "kokoro:${voice.sid}",
+            label = "Kokoro · ${genderLabel(voice.gender)} · ${voice.datasetId}",
             kind = when {
-                voice.ageGroup == "A" && voice.gender == "female" -> "girl"
-                voice.ageGroup == "B" && voice.gender == "male" -> "boy"
                 voice.gender == "female" -> "female"
                 else -> "male"
             },
@@ -216,14 +222,6 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
     fun bundledVoiceCount(): Int = bundledVoices.size
 
     private fun genderLabel(gender: String): String = if (gender == "female") "kadın" else "erkek"
-    private fun ageLabel(group: String): String = when (group) {
-        "A" -> "14 yaş altı"
-        "B" -> "14–25 yaş"
-        "C" -> "26–40 yaş"
-        "D" -> "41 yaş üstü"
-        else -> "yaş bilgisi yok"
-    }
-
     private fun loadBundledVoices(): List<BundledVoice> = runCatching {
         val json = appContext.assets.open("mandarin_voice_inventory.json")
             .bufferedReader(Charsets.UTF_8).use { it.readText() }
@@ -241,6 +239,25 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
         }.filter { it.sid >= 0 && it.datasetId.isNotBlank() }
     }.getOrDefault(emptyList())
 
+    private fun loadProfileVoiceBindings(): Map<String, ProfileVoiceBinding> = runCatching {
+        val json = appContext.assets.open("kokoro_voice_bindings.json")
+            .bufferedReader(Charsets.UTF_8).use { it.readText() }
+        val rows = org.json.JSONObject(json).optJSONObject("bindings") ?: return@runCatching emptyMap()
+        buildMap {
+            val keys = rows.keys()
+            while (keys.hasNext()) {
+                val profile = keys.next()
+                val row = rows.optJSONObject(profile) ?: continue
+                put(profile, ProfileVoiceBinding(
+                    sid = row.optInt("sid", -1),
+                    voice = row.optString("voice", ""),
+                    gender = row.optString("gender", ""),
+                    ageClass = row.optString("ageClass", "")
+                ))
+            }
+        }.filterValues { it.sid >= 0 && it.voice.isNotBlank() }
+    }.getOrDefault(emptyMap())
+
     private fun bundledSpeaker(profileId: String, archetype: String): BundledVoice? {
         if (bundledVoices.isEmpty()) return null
         val normalized = when (archetype) {
@@ -250,20 +267,14 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
             "female" -> "female"
             else -> "neutral"
         }
-        val prefKey = "aishell3_profile_${safeKey(profileId)}"
+        profileVoiceBindings[profileId]?.sid?.let { sid ->
+            bundledVoices.firstOrNull { it.sid == sid }?.let { return it }
+        }
+        val prefKey = "kokoro_profile_${safeKey(profileId)}"
         val saved = prefs.getString(prefKey, null)?.toIntOrNull()
         if (saved != null) bundledVoices.firstOrNull { it.sid == saved }?.let { return it }
-        val candidates = when (normalized) {
-            "boy" -> bundledVoices.filter { it.gender == "male" && it.ageGroup == "B" }
-                .ifEmpty { bundledVoices.filter { it.gender == "male" } }
-            "girl" -> bundledVoices.filter { it.gender == "female" && it.ageGroup == "A" }
-                .ifEmpty { bundledVoices.filter { it.gender == "female" && it.ageGroup == "B" } }
-            "male" -> bundledVoices.filter { it.gender == "male" && it.ageGroup in setOf("C", "D") }
-                .ifEmpty { bundledVoices.filter { it.gender == "male" } }
-            "female" -> bundledVoices.filter { it.gender == "female" && it.ageGroup in setOf("C", "D") }
-                .ifEmpty { bundledVoices.filter { it.gender == "female" && it.ageGroup == "B" } }
-            else -> bundledVoices
-        }
+        val gender = if (normalized in setOf("male", "boy")) "male" else "female"
+        val candidates = bundledVoices.filter { it.gender == gender }.ifEmpty { bundledVoices }
         if (candidates.isEmpty()) return null
         val picked = candidates[Math.floorMod(profileId.hashCode(), candidates.size)]
         prefs.edit().putString(prefKey, picked.sid.toString()).apply()
@@ -272,7 +283,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
 
     private fun selectedBundledSpeaker(archetype: String, profileId: String): BundledVoice? {
         val configured = prefs.getString(slotPreferenceKey(archetype), null)
-        if (configured?.startsWith("aishell3:") == true) {
+        if (configured?.startsWith("kokoro:") == true) {
             val sid = configured.substringAfter(':').toIntOrNull()
             bundledVoices.firstOrNull { it.sid == sid }?.let { return it }
         }
@@ -284,16 +295,18 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
         val root = "mandarin_tts"
         val config = OfflineTtsConfig(
             model = OfflineTtsModelConfig(
-                vits = OfflineTtsVitsModelConfig(
+                kokoro = OfflineTtsKokoroModelConfig(
                     model = "${root}/model.onnx",
-                    lexicon = "${root}/lexicon.txt",
-                    tokens = "${root}/tokens.txt"
+                    voices = "${root}/voices.bin",
+                    tokens = "${root}/tokens.txt",
+                    dataDir = "${root}/espeak-ng-data",
+                    lexicon = "${root}/lexicon-us-en.txt,${root}/lexicon-zh.txt"
                 ),
                 numThreads = 2,
                 provider = "cpu",
                 debug = false
             ),
-            ruleFsts = listOf("phone.fst", "date.fst", "number.fst", "new_heteronym.fst")
+            ruleFsts = listOf("phone-zh.fst", "number-zh.fst", "date-zh.fst")
                 .joinToString(",") { "${root}/$it" },
             maxNumSentences = 1
         )
@@ -315,10 +328,17 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
             else -> 1f
         }
         val modelSpeed = (speed * emotionRate).coerceIn(0.82f, 1.18f)
-        val cacheKey = "MODEL_${speaker.sid}_${text.hashCode().toUInt().toString(16)}_${modelSpeed.toBits()}"
+        val ageClass = profileVoiceBindings[profileId]?.ageClass?.lowercase()
+        val voicePitch = when (ageClass) {
+            "child", "child_or_teen" -> 1.04f
+            "teen" -> 1.025f
+            "senior" -> 0.98f
+            else -> 1.0f
+        }
+        val cacheKey = "KOKORO_V1_1_${speaker.sid}_${text.hashCode().toUInt().toString(16)}_${modelSpeed.toBits()}_${voicePitch.toBits()}"
         val output = File(cacheDir, "${cacheKey}.wav")
         if (output.exists() && output.length() > 1024L) {
-            playFile(output, 1.0f, onDone)
+            playFile(output, 1.0f, onDone, voicePitch)
             return true
         }
         val generation = synthesisGeneration.incrementAndGet()
@@ -328,7 +348,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
             }.onSuccess {
                 mainHandler.post {
                     if (generation == synthesisGeneration.get() && output.exists()) {
-                        playFile(output, 1.0f, onDone)
+                        playFile(output, 1.0f, onDone, voicePitch)
                         pruneCache()
                     }
                 }
@@ -361,13 +381,16 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
     fun assignNativeVoice(archetype: String, voiceName: String?) {
         val edit = prefs.edit()
         if (voiceName == null) edit.remove(slotPreferenceKey(archetype))
+        else if (voiceName.startsWith("kokoro:") && bundledVoices.any { it.sid.toString() == voiceName.substringAfter(':') }) {
+            edit.putString(slotPreferenceKey(archetype), voiceName)
+        }
         else if (nativeMandarinVoices.any { it.name == voiceName }) edit.putString(slotPreferenceKey(archetype), voiceName)
         edit.apply()
     }
 
     fun previewNativeVoice(voiceName: String?, archetype: String) {
         stopPlaybackOnly()
-        if (voiceName?.startsWith("aishell3:") == true) {
+        if (voiceName?.startsWith("kokoro:") == true) {
             speakBundled("你好，今天很高兴和你一起学习中文。", "preview_${voiceName}_${archetype}", archetype, 0.92f, "neutral", null)
             return
         }
@@ -516,7 +539,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
         if (ready) action() else pending = action
     }
 
-    private fun playFile(file: File, speed: Float, onDone: (() -> Unit)?) {
+    private fun playFile(file: File, speed: Float, onDone: (() -> Unit)?, pitch: Float = 1.0f) {
         stopPlaybackOnly()
         try {
             val mp = MediaPlayer()
@@ -525,7 +548,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
                 try {
                     it.playbackParams = PlaybackParams()
                         .setSpeed(speed.coerceIn(0.65f, 1.35f))
-                        .setPitch(1.0f)
+                        .setPitch(pitch.coerceIn(0.96f, 1.05f))
                 } catch (_: Exception) { }
                 file.setLastModified(System.currentTimeMillis())
                 it.start()

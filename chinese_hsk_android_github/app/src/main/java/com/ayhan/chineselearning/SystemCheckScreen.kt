@@ -101,9 +101,9 @@ fun SystemCheckScreen(
                     value = if (bundledVoices >= 4) "$bundledVoices ayrı ses · tamamen çevrimdışı" else "Ses paketi bulunamadı",
                     ok = bundledVoices >= 4,
                     detail = if (bundledVoices >= 4)
-                        "174 konuşmacı seçeneği. Model 8 kHz ses üretir ve çoğunlukla nötr konuşur."
+                        "Kokoro Mandarin modeli 24 kHz ses üretir; 55 kadın ve 45 erkek sesi sunar."
                     else
-                        "Bu APK AISHELL-3 ses paketini içermiyor. Uygulamanın sesli sürümü gerekir."
+                        "Bu APK Kokoro Mandarin ses paketini içermiyor. Uygulamanın sesli sürümü gerekir."
                 )
             }
             item {
@@ -240,7 +240,7 @@ private fun NativeVoiceSetupCard(
         Column(Modifier.fillMaxWidth().padding(16.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
             Text("Karakter seslerini eşleştir", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, fontSize = 18.sp)
             Text(
-                "Otomatik seçim yüklü Mandarin seslerini farklı karakter türlerine dağıtır. Telefonda yalnızca bir Mandarin sesi varsa herkes aynı sesi kullanır; ek paket indir. İstersen sesleri dinleyip türlere kendin atayabilirsin.",
+                "Uygulamadaki 100 Mandarin sesi internet olmadan çalışır. Otomatik seçim karakterlerin kadın/erkek ve yaş eşleştirmelerini korur. İstersen bu sesleri dinleyip türlere kendin atayabilirsin.",
                 color = Color.Gray,
                 fontSize = 13.sp
             )

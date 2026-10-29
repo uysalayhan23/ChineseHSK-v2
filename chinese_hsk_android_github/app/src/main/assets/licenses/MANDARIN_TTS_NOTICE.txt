@@ -1,12 +1,11 @@
-Chinese multi-speaker text-to-speech voice pack
+Offline Mandarin text-to-speech voice pack
 
-AISHELL-3 is a Mandarin speech corpus released by Beijing Shell Shell Technology Co., Ltd. The model in this application was published by the sherpa-onnx project as vits-icefall-zh-aishell3 and supports 174 speaker IDs. AISHELL-3 is identified as Apache License 2.0 by OpenSLR resource SLR93. The associated sherpa-onnx runtime is v1.13.8 and is also Apache License 2.0.
+This application bundles Kokoro v1.1-zh, published by hexgrad, through the sherpa-onnx Kokoro multi-language package. The model card identifies it as Apache License 2.0. The bundled sherpa-onnx Android runtime is v1.13.8 and is also Apache License 2.0. The complete model and runtime license texts are included in this directory.
 
-AISHELL-3 resource and license: https://www.openslr.org/93/
-AISHELL-3 speaker metadata: https://huggingface.co/datasets/AISHELL/AISHELL-3
-Model files: https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+Model card and license: https://huggingface.co/hexgrad/Kokoro-82M-v1.1-zh
+Android-ready package: https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/kokoro-multi-lang-v1_1.tar.bz2
+Model documentation and voice samples: https://k2-fsa.github.io/sherpa/onnx/tts/all/Chinese-English/kokoro-multi-lang-v1_1.html
 Runtime source: https://github.com/k2-fsa/sherpa-onnx/tree/v1.13.8
-The full Apache-2.0 license text is included in licenses/Apache-2.0.txt.
 
-The packaged AISHELL-3-derived model emits 8 kHz audio. Speaker IDs are assigned from AISHELL-3's age group, gender, and accent metadata. Its speech style is neutral; speed changes are applied for mild pacing variation. It does not promise expressive emotion synthesis.
+The full-precision model emits 24 kHz audio. The model package has 103 total speakers; the app exposes only the 100 Mandarin voices (55 female and 45 male). The model does not label speaker ages, so character age is represented with a very small playback-pitch adjustment while preserving the assigned female or male Mandarin voice. Speech is synthesized locally from the current dialogue text; the app does not download replacement lines or depend on paid services.
 
