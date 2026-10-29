@@ -44,7 +44,9 @@ class OfflineMandarinRecognizer(context: Context) {
     private var activeRecognizer: Recognizer? = null
 
     fun isAvailable(): Boolean = runCatching {
-        appContext.assets.list(MODEL_ASSET_DIR)?.isNotEmpty() == true
+        appContext.assets.open("$MODEL_ASSET_DIR/am/final.mdl").use { }
+        appContext.assets.open("$MODEL_ASSET_DIR/conf/mfcc.conf").use { }
+        true
     }.getOrDefault(false)
 
     fun engineLabel(): String = MODEL_DISPLAY_NAME

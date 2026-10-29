@@ -63,7 +63,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
     private var player: MediaPlayer? = null
     private var localVoices: List<Voice> = emptyList()
     private var nativeMandarinVoices: List<Voice> = emptyList()
-    private var bundledTts: OfflineTts? = null
+    @Volatile private var bundledTts: OfflineTts? = null
     private val bundledVoices: List<BundledVoice> by lazy { loadBundledVoices() }
     private val profileVoiceBindings: Map<String, ProfileVoiceBinding> by lazy { loadProfileVoiceBindings() }
 
@@ -290,6 +290,14 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
         return bundledSpeaker(profileId, archetype)
     }
 
+    private fun hasMemoryForBundledModel(): Boolean {
+        val manager = appContext.getSystemService(Context.ACTIVITY_SERVICE) as? ActivityManager ?: return false
+        if (manager.isLowRamDevice) return false
+        val memory = ActivityManager.MemoryInfo()
+        manager.getMemoryInfo(memory)
+        return !memory.lowMemory && memory.availMem >= 1024L * 1024L * 1024L
+    }
+
     private fun createBundledTts(): OfflineTts {
         bundledTts?.let { return it }
         val root = "mandarin_tts"
@@ -322,6 +330,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
         onDone: (() -> Unit)?
     ): Boolean {
         val speaker = selectedBundledSpeaker(archetype, profileId) ?: return false
+        if (bundledTts == null && !hasMemoryForBundledModel()) return false
         val emotionRate = when (emotion.lowercase()) {
             "excited", "enthusiastic", "happy", "surprised" -> 1.04f
             "sad", "tired", "worried" -> 0.96f
