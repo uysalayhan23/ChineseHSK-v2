@@ -14,6 +14,14 @@ import java.util.Locale
 import java.util.concurrent.ConcurrentHashMap
 import kotlin.math.abs
 
+data class NativeMandarinVoiceOption(
+    val name: String,
+    val label: String,
+    val kind: String,
+    val offline: Boolean,
+    val quality: Int
+)
+
 /**
  * Android's installed Mandarin speech engine.
  *
@@ -92,10 +100,15 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
 
     private fun voiceKind(voice: Voice): String {
         val labels = (listOf(voice.name) + voice.features.orEmpty()).joinToString(" ").lowercase()
+        val child = listOf("child", "kid", "teen", "童声", "儿童", "小孩", "女孩", "男孩").any { it in labels }
+        val female = listOf("female", "woman", "girl", "女声", "女性", "女孩").any { it in labels }
+        val male = listOf("male", "man", "boy", "男声", "男性", "男孩").any { it in labels }
         return when {
-            listOf("child", "kid", "teen", "童声", "儿童", "小孩").any { it in labels } -> "child"
-            listOf("female", "woman", "girl", "女声", "女性").any { it in labels } -> "female"
-            listOf("male", "man", "boy", "男声", "男性").any { it in labels } -> "male"
+            child && female -> "girl"
+            child && male -> "boy"
+            child -> "child"
+            female -> "female"
+            male -> "male"
             else -> "neutral"
         }
     }
@@ -104,37 +117,62 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
         if (nativeMandarinVoices.isEmpty()) return emptyList()
         val kinds = nativeMandarinVoices.associateWith(::voiceKind)
         val preferred = when (archetype) {
-            "girl" -> listOf("child", "female")
-            "boy" -> listOf("child", "male")
+            "girl" -> listOf("girl", "female")
+            "boy" -> listOf("boy", "male")
             "child", "young" -> listOf("child")
             "female" -> listOf("female")
             "male" -> listOf("male")
             else -> emptyList()
         }
-        return preferred.firstNotNullOfOrNull { kind ->
+        val match = preferred.firstNotNullOfOrNull { kind ->
             nativeMandarinVoices.filter { kinds[it] == kind }.takeIf { it.isNotEmpty() }
-        } ?: nativeMandarinVoices
+        }
+        return match ?: if (archetype == "neutral") nativeMandarinVoices.take(1) else emptyList()
     }
 
-    private fun configureNativeMandarin(profileId: String, archetype: String) {
+    private fun configureNativeMandarin(archetype: String) {
         val candidates = voiceCandidates(archetype)
-        val preferenceKey = "native_zh_cn_v2_${safeKey(profileId)}"
-        val savedName = prefs.getString(preferenceKey, null)
-        val saved = candidates.firstOrNull { it.name == savedName }
-        val usedNames = prefs.all
-            .filterKeys { it.startsWith("native_zh_cn_v2_") && it != preferenceKey }
-            .values.filterIsInstance<String>().toSet()
-        val unusedCandidates = candidates.filterNot { it.name in usedNames }
-        val pool = unusedCandidates.ifEmpty { candidates }
-        val selected = saved ?: if (pool.isEmpty()) null else
-            pool[(profileId.hashCode() and Int.MAX_VALUE) % pool.size]
+        val selectedSlotName = prefs.getString(slotPreferenceKey(archetype), null)
+        val selectedSlot = selectedSlotName?.let { name -> nativeMandarinVoices.firstOrNull { it.name == name } }
+        // Never distribute voices arbitrarily across characters. A role uses an
+        // explicit user selection, a metadata-matched voice, or the engine default.
+        val selected = selectedSlot ?: candidates.firstOrNull()
         if (selected != null) {
             tts.voice = selected
-            prefs.edit().putString(preferenceKey, selected.name).apply()
         } else {
             tts.setLanguage(Locale.forLanguageTag("zh-CN"))
         }
         tts.setPitch(1.0f)
+    }
+
+    private fun slotPreferenceKey(archetype: String): String =
+        "native_zh_cn_slot_v3_${safeKey(archetype)}"
+
+    fun nativeVoiceOptions(): List<NativeMandarinVoiceOption> = nativeMandarinVoices.map { voice ->
+        NativeMandarinVoiceOption(voice.name, voice.name, voiceKind(voice), !voice.isNetworkConnectionRequired, voice.quality)
+    }
+
+    fun selectedNativeVoiceName(archetype: String): String? =
+        prefs.getString(slotPreferenceKey(archetype), null)
+
+    fun assignNativeVoice(archetype: String, voiceName: String?) {
+        val edit = prefs.edit()
+        if (voiceName == null) edit.remove(slotPreferenceKey(archetype))
+        else if (nativeMandarinVoices.any { it.name == voiceName }) edit.putString(slotPreferenceKey(archetype), voiceName)
+        edit.apply()
+    }
+
+    fun previewNativeVoice(voiceName: String?, archetype: String) {
+        val action: () -> Unit = {
+            stopPlaybackOnly()
+            val voice = voiceName?.let { name -> nativeMandarinVoices.firstOrNull { it.name == name } }
+                ?: voiceCandidates(archetype).firstOrNull()
+            if (voice != null) tts.voice = voice else tts.setLanguage(Locale.forLanguageTag("zh-CN"))
+            tts.setPitch(1.0f)
+            tts.setSpeechRate(0.92f)
+            tts.speak("你好，今天很高兴和你一起学习中文。", TextToSpeech.QUEUE_FLUSH, Bundle(), "VOICE_PREVIEW_${System.nanoTime()}")
+        }
+        if (ready) action() else pending = action
     }
 
     fun refreshNativeVoiceInventory() {
@@ -159,7 +197,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
             if (!ready) {
                 onDone?.invoke()
             } else {
-                configureNativeMandarin(profileId, archetype)
+                configureNativeMandarin(archetype)
                 val emotionRate = when (emotion.lowercase()) {
                     "excited", "enthusiastic", "happy", "surprised" -> 1.03f
                     "sad", "tired", "worried" -> 0.97f
