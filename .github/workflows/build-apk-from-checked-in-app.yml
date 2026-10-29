@@ -121,15 +121,15 @@ jobs:
       - name: Publish APK on GitHub release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: v2.0.2
-          name: Chinese HSK Journey v2.0.2
+          tag_name: v2.0.3
+          name: Chinese HSK Journey v2.0.3
           body: |
             Personal Android APK with the offline Kokoro v1.1 Mandarin speech model.
             100 Mandarin voices, 24 kHz full-precision synthesis, Apache-2.0 licensed.
             The APK and its SHA-256 file are attached below.
           files: |
-            chinese_hsk_android_github/dist/ChineseHSK-v2.0.2-personal.apk
-            chinese_hsk_android_github/dist/ChineseHSK-v2.0.2-personal.apk.sha256.txt
+            chinese_hsk_android_github/dist/ChineseHSK-v2.0.3-personal.apk
+            chinese_hsk_android_github/dist/ChineseHSK-v2.0.3-personal.apk.sha256.txt
             chinese_hsk_android_github/dist/BUILD_SUMMARY_TR.txt
           fail_on_unmatched_files: true
 
