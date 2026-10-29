@@ -1,8 +1,10 @@
 package com.ayhan.chineselearning
 
 import android.Manifest
+import android.content.Intent
 import android.content.pm.PackageManager
 import android.os.Build
+import android.speech.tts.TextToSpeech
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -32,8 +34,10 @@ fun SystemCheckScreen(
     val recognizer = remember { OfflineMandarinRecognizer(context) }
     var refreshTick by remember { mutableIntStateOf(0) }
     var offlineVoices by remember { mutableIntStateOf(0) }
+    var nativeVoices by remember { mutableIntStateOf(0) }
     var cacheFiles by remember { mutableIntStateOf(0) }
     var cacheBytes by remember { mutableLongStateOf(0L) }
+    var voiceInstallError by remember { mutableStateOf(false) }
 
     val levels = remember { repo.loadLevels() }
     val totalScenes = levels.sumOf { it.sceneCount }
@@ -57,7 +61,9 @@ fun SystemCheckScreen(
     LaunchedEffect(refreshTick) {
         // Android TTS voice enumeration is asynchronous; give it a short moment to initialize.
         delay(900)
+        audio.refreshNativeVoiceInventory()
         offlineVoices = audio.offlineVoiceCount()
+        nativeVoices = audio.nativeMandarinVoiceCount()
         cacheFiles = audio.cachedTtsCount()
         cacheBytes = audio.cachedTtsBytes()
     }
@@ -93,11 +99,35 @@ fun SystemCheckScreen(
             }
             item {
                 StatusCard(
-                    title = "Offline Mandarin Sesleri",
-                    value = if (offlineVoices > 0) "$offlineVoices yerel ses bulundu" else "Yerel Mandarin sesi bulunamadı / henüz hazır değil",
-                    ok = offlineVoices > 0,
-                    detail = "Karakter sesleri için internet gerektirmeyen Android TTS kullanılır."
+                    title = "Telefondaki Mandarin Sesleri",
+                    value = if (nativeVoices > 0) "$nativeVoices ses bulundu · $offlineVoices çevrimdışı" else "Mandarin ses paketi henüz bulunamadı",
+                    ok = nativeVoices > 0,
+                    detail = "Uygulama karakterlere telefondaki Mandarin seslerini ayrı ayrı atar. Ses türü bilgisi sistemde varsa kadın, erkek veya çocuk sesi tercih edilir."
                 )
+            }
+            item {
+                Card(colors = CardDefaults.cardColors(containerColor = Color.White), shape = RoundedCornerShape(18.dp)) {
+                    Column(Modifier.fillMaxWidth().padding(16.dp)) {
+                        Text("Mandarin Ses Paketi", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, fontSize = 18.sp)
+                        Text(
+                            "Telefonun Android TTS ekranından yüksek kaliteli Mandarin seslerini indir. Kurulumdan sonra buraya dönüp Yeniden Kontrol Et'e bas.",
+                            color = Color.Gray,
+                            fontSize = 13.sp,
+                            modifier = Modifier.padding(top = 5.dp, bottom = 10.dp)
+                        )
+                        OutlinedButton(onClick = {
+                            try {
+                                context.startActivity(Intent(TextToSpeech.Engine.ACTION_INSTALL_TTS_DATA))
+                                voiceInstallError = false
+                            } catch (_: Exception) {
+                                voiceInstallError = true
+                            }
+                        }) { Text("Telefondaki ses paketlerini aç") }
+                        if (voiceInstallError) {
+                            Text("Bu telefonda ses paketi ekranı açılamadı. Android Ayarlar içindeki Metin okuma / TTS bölümünü kullan.", color = CheckWarn, fontSize = 13.sp)
+                        }
+                    }
+                }
             }
             item {
                 StatusCard(

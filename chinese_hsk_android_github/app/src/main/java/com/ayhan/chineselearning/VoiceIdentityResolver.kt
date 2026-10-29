@@ -9,7 +9,8 @@ class VoiceIdentityResolver(context: Context) {
 
     private data class VoiceMaps(
         val bySpeaker: Map<String, String>,
-        val allProfiles: List<String>
+        val allProfiles: List<String>,
+        val roleBySpeaker: Map<String, String>
     )
 
     private val maps: VoiceMaps by lazy { loadVoiceMaps() }
@@ -26,6 +27,22 @@ class VoiceIdentityResolver(context: Context) {
 
         // Last-resort identifier remains deterministic even if the voice manifest is unavailable.
         return "VOICE_STABLE_" + (key.hashCode() and Int.MAX_VALUE).toString(16)
+    }
+
+    /** A best-effort voice archetype based on explicit course character roles. */
+    fun archetypeForSpeaker(speaker: String): String {
+        val profile = profileForSpeaker(speaker)
+        when (profile) {
+            "VOICE_ZH_ZHANGWEI_001" -> return "male"
+            "VOICE_ZH_ZHANGYUTONG_001", "VOICE_ZH_ZHANGLELE_001" -> return "child"
+        }
+        val role = maps.roleBySpeaker[speaker.trim()].orEmpty().lowercase()
+        return when {
+            "child" in role || "kid" in role || "son" in role || "daughter" in role -> "child"
+            "mother" in role || "wife" in role || "sister" in role || "female" in role -> "female"
+            "father" in role || "husband" in role || "brother" in role || "male" in role -> "male"
+            else -> "neutral"
+        }
     }
 
     private fun loadVoiceMaps(): VoiceMaps {
@@ -74,12 +91,23 @@ class VoiceIdentityResolver(context: Context) {
                 }
             }
 
+            val roleBySpeaker = mutableMapOf<String, String>()
+            if (characters != null) {
+                for (i in 0 until characters.length()) {
+                    val item = characters.optJSONObject(i) ?: continue
+                    val nameZh = item.optString("nameZh", "").trim()
+                    val role = item.optString("role", "").trim()
+                    if (nameZh.isNotBlank() && role.isNotBlank()) roleBySpeaker[nameZh] = role
+                }
+            }
+
             VoiceMaps(
                 bySpeaker = bySpeaker.toMap(),
-                allProfiles = allProfiles.distinct().sorted()
+                allProfiles = allProfiles.distinct().sorted(),
+                roleBySpeaker = roleBySpeaker.toMap()
             )
         } catch (_: Throwable) {
-            VoiceMaps(emptyMap(), emptyList())
+            VoiceMaps(emptyMap(), emptyList(), emptyMap())
         }
     }
 }

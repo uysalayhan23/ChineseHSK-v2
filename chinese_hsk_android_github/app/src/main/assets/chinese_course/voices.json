@@ -5,691 +5,681 @@
       "id": "VOICE_ZH_MIMI_001",
       "characterId": "CHR_ZH_MIMI_001",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_ZHANGWEI_001",
       "characterId": "CHR_ZH_ZHANGWEI_001",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_LICHEN_001",
       "characterId": "CHR_ZH_LICHEN_001",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_ZHANGYUTONG_001",
       "characterId": "CHR_ZH_ZHANGYUTONG_001",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_LIUMEI_001",
       "characterId": "CHR_ZH_LIUMEI_001",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_B9D2559CCA",
       "characterId": "CHR_ZH_AUTO_B9D2559CCA",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_60325A5147",
       "characterId": "CHR_ZH_AUTO_60325A5147",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_5D2E0E5561",
       "characterId": "CHR_ZH_AUTO_5D2E0E5561",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_204FDD1319",
       "characterId": "CHR_ZH_AUTO_204FDD1319",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_703C9EB0F0",
       "characterId": "CHR_ZH_AUTO_703C9EB0F0",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_55C4E3624C",
       "characterId": "CHR_ZH_AUTO_55C4E3624C",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_6245AEC2CC",
       "characterId": "CHR_ZH_AUTO_6245AEC2CC",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_32153CE544",
       "characterId": "CHR_ZH_AUTO_32153CE544",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_9A8BAC8F22",
       "characterId": "CHR_ZH_AUTO_9A8BAC8F22",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_F923F777D5",
       "characterId": "CHR_ZH_AUTO_F923F777D5",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_552CAEB5BD",
       "characterId": "CHR_ZH_AUTO_552CAEB5BD",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_BFB3F16221",
       "characterId": "CHR_ZH_AUTO_BFB3F16221",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_92D8D1A505",
       "characterId": "CHR_ZH_AUTO_92D8D1A505",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_1AAE7AB33E",
       "characterId": "CHR_ZH_AUTO_1AAE7AB33E",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_B1D840EFB8",
       "characterId": "CHR_ZH_AUTO_B1D840EFB8",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_C560C19C26",
       "characterId": "CHR_ZH_AUTO_C560C19C26",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_9834F85DE5",
       "characterId": "CHR_ZH_AUTO_9834F85DE5",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_F127A03273",
       "characterId": "CHR_ZH_AUTO_F127A03273",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_6C4DDE3347",
       "characterId": "CHR_ZH_AUTO_6C4DDE3347",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_2046426951",
       "characterId": "CHR_ZH_AUTO_2046426951",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_805A55CD62",
       "characterId": "CHR_ZH_AUTO_805A55CD62",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_FE4C23D628",
       "characterId": "CHR_ZH_AUTO_FE4C23D628",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_2F40887367",
       "characterId": "CHR_ZH_AUTO_2F40887367",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_6364EB7B27",
       "characterId": "CHR_ZH_AUTO_6364EB7B27",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_F206870601",
       "characterId": "CHR_ZH_AUTO_F206870601",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_A12728F620",
       "characterId": "CHR_ZH_AUTO_A12728F620",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_C65F4144AC",
       "characterId": "CHR_ZH_AUTO_C65F4144AC",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_98DE5A1BF7",
       "characterId": "CHR_ZH_AUTO_98DE5A1BF7",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_81D1C7560E",
       "characterId": "CHR_ZH_AUTO_81D1C7560E",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_2CC2746FBA",
       "characterId": "CHR_ZH_AUTO_2CC2746FBA",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_428ACC9B88",
       "characterId": "CHR_ZH_AUTO_428ACC9B88",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_7F81595D7E",
       "characterId": "CHR_ZH_AUTO_7F81595D7E",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_EC18B850D1",
       "characterId": "CHR_ZH_AUTO_EC18B850D1",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_B1AFF4F424",
       "characterId": "CHR_ZH_AUTO_B1AFF4F424",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_76CC8FCDB2",
       "characterId": "CHR_ZH_AUTO_76CC8FCDB2",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_93243940EA",
       "characterId": "CHR_ZH_AUTO_93243940EA",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_36BF8C76DE",
       "characterId": "CHR_ZH_AUTO_36BF8C76DE",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_786C0074D2",
       "characterId": "CHR_ZH_AUTO_786C0074D2",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_9777C45086",
       "characterId": "CHR_ZH_AUTO_9777C45086",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_E2C47D41FC",
       "characterId": "CHR_ZH_AUTO_E2C47D41FC",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_1A5C6636B5",
       "characterId": "CHR_ZH_AUTO_1A5C6636B5",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_13F3FBF554",
       "characterId": "CHR_ZH_AUTO_13F3FBF554",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_F7415783A6",
       "characterId": "CHR_ZH_AUTO_F7415783A6",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_4E05F85519",
       "characterId": "CHR_ZH_AUTO_4E05F85519",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_1DB2CF7215",
       "characterId": "CHR_ZH_AUTO_1DB2CF7215",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_12B398FE17",
       "characterId": "CHR_ZH_AUTO_12B398FE17",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_F01E3EA28A",
       "characterId": "CHR_ZH_AUTO_F01E3EA28A",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_FB6560225D",
       "characterId": "CHR_ZH_AUTO_FB6560225D",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_09FE351CF0",
       "characterId": "CHR_ZH_AUTO_09FE351CF0",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_ED1D855FC5",
       "characterId": "CHR_ZH_AUTO_ED1D855FC5",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_D490B5FD60",
       "characterId": "CHR_ZH_AUTO_D490B5FD60",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_C31ABCCBF3",
       "characterId": "CHR_ZH_AUTO_C31ABCCBF3",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_78E3EA6550",
       "characterId": "CHR_ZH_AUTO_78E3EA6550",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_BF795B2847",
       "characterId": "CHR_ZH_AUTO_BF795B2847",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_7618DACBB7",
       "characterId": "CHR_ZH_AUTO_7618DACBB7",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_A5DF8F3581",
       "characterId": "CHR_ZH_AUTO_A5DF8F3581",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_78DD9DEA73",
       "characterId": "CHR_ZH_AUTO_78DD9DEA73",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_3997F4C8CB",
       "characterId": "CHR_ZH_AUTO_3997F4C8CB",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_F5F1EF38B5",
       "characterId": "CHR_ZH_AUTO_F5F1EF38B5",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_A14058D70B",
       "characterId": "CHR_ZH_AUTO_A14058D70B",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_506A555294",
       "characterId": "CHR_ZH_AUTO_506A555294",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_9589C7E8D7",
       "characterId": "CHR_ZH_AUTO_9589C7E8D7",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_5B35265D3B",
       "characterId": "CHR_ZH_AUTO_5B35265D3B",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_494F23D624",
       "characterId": "CHR_ZH_AUTO_494F23D624",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_F03D7150DE",
       "characterId": "CHR_ZH_AUTO_F03D7150DE",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_3565841434",
       "characterId": "CHR_ZH_AUTO_3565841434",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_746068397C",
       "characterId": "CHR_ZH_AUTO_746068397C",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_3936DA578D",
       "characterId": "CHR_ZH_AUTO_3936DA578D",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_B34606F759",
       "characterId": "CHR_ZH_AUTO_B34606F759",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_E985EDCD56",
       "characterId": "CHR_ZH_AUTO_E985EDCD56",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_EA7324E618",
       "characterId": "CHR_ZH_AUTO_EA7324E618",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_187B0C5C47",
       "characterId": "CHR_ZH_AUTO_187B0C5C47",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_1714E8E2E7",
       "characterId": "CHR_ZH_AUTO_1714E8E2E7",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_BB1B142996",
       "characterId": "CHR_ZH_AUTO_BB1B142996",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_73DE665A67",
       "characterId": "CHR_ZH_AUTO_73DE665A67",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_E8DC56F318",
       "characterId": "CHR_ZH_AUTO_E8DC56F318",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_AUTO_CD31FEBA04",
       "characterId": "CHR_ZH_AUTO_CD31FEBA04",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "VOICE_ZH_ZHANGLELE_001",
       "characterId": "CHR_ZH_ZHANGLELE_001",
       "language": "zh-CN",
-      "style": "natural_standard_mandarin",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     },
     {
       "id": "NARRATOR_ZH_001",
       "characterId": "NARRATOR",
       "language": "zh-CN",
-      "style": "warm_clear_narrator",
-      "authoredAudioPreferred": true,
+      "style": "android_native_mandarin_voice",
+      "authoredAudioPreferred": false,
       "fallback": "android_tts"
     }
   ],
   "runtimePolicy": {
-    "canonicalEngine": "android_offline_mandarin_tts",
-    "referenceBehavior": "ZH_HSK1_SC001",
-    "characterLock": "characters.json voiceProfileId -> deterministic local zh voice -> persisted SharedPreferences binding",
-    "synthesisMode": "synthesize_once_then_persistent_local_wav_cache",
+    "canonicalEngine": "android_system_mandarin_tts",
+    "characterLock": "character voiceProfileId -> best available zh-CN system voice -> persistent per-device binding",
+    "synthesisMode": "direct_runtime_tts_no_generated_audio_files",
     "sceneDialogueProfileSource": "VoiceIdentityResolver.profileForSpeaker",
-    "narratorProfile": "NARRATOR_ZH_001",
-    "learningProfiles": [
-      "VOCAB",
-      "PRONUNCIATION",
-      "DIALOGUE_PROMPT",
-      "PLACEMENT"
-    ],
-    "exactSameDeviceTimbreExpected": true,
-    "crossDeviceExactTimbreGuaranteed": false,
-    "crossDeviceNote": "Exact timbre depends on the locally installed offline Mandarin TTS voice inventory. Character identity remains deterministic per device.",
-    "kokoroRole": "optional_prebuilt_voice_pack_only"
+    "voiceGenderAndAge": "use explicit installed voice labels when available; Android TTS does not guarantee these labels",
+    "crossDeviceExactTimbreGuaranteed": false
   }
 }

@@ -96,24 +96,35 @@ def main():
         "id": c["voiceProfileId"],
         "characterId": c["id"],
         "language": "zh-CN",
-        "style": "natural_standard_mandarin",
-        "authoredAudioPreferred": True,
+        "style": "android_native_mandarin_voice",
+        "authoredAudioPreferred": False,
         "fallback": "android_tts"
     } for c in characters]
     voices.append({
         "id": "NARRATOR_ZH_001",
         "characterId": "NARRATOR",
         "language": "zh-CN",
-        "style": "warm_clear_narrator",
-        "authoredAudioPreferred": True,
+        "style": "android_native_mandarin_voice",
+        "authoredAudioPreferred": False,
         "fallback": "android_tts"
     })
-    dump(CONTENT / "voices.json", {"schemaVersion": 1, "voices": voices})
+    dump(CONTENT / "voices.json", {
+        "schemaVersion": 1,
+        "voices": voices,
+        "runtimePolicy": {
+            "canonicalEngine": "android_system_mandarin_tts",
+            "characterLock": "character voiceProfileId -> best available zh-CN system voice -> persistent per-device binding",
+            "synthesisMode": "direct_runtime_tts_no_generated_audio_files",
+            "sceneDialogueProfileSource": "VoiceIdentityResolver.profileForSpeaker",
+            "voiceGenderAndAge": "use explicit installed voice labels when available; Android TTS does not guarantee these labels",
+            "crossDeviceExactTimbreGuaranteed": False
+        }
+    })
 
     media = CONTENT / "media"
     dump(media / "audio_manifest.json", {
         "schemaVersion": 1,
-        "policy": "authored_asset_then_offline_tts_fallback",
+        "policy": "android_native_mandarin_tts_from_dialogue_text",
         "dialogueConvention": "chinese_course/media/audio/dialogues/<DIALOGUE_ID>.opus",
         "narratorConvention": "chinese_course/media/audio/narrator/<SCENE_ID>.opus",
         "ambienceConvention": "chinese_course/media/ambience/<LOCATION_ID>.opus",

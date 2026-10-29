@@ -48,14 +48,19 @@ android {
         buildConfig = true
     }
 
+    sourceSets {
+        getByName("main") {
+            // Generated Opus clips and their mapping are retained in the repository
+            // for reference/QA, but dialogue now uses installed Android Mandarin TTS.
+            assets.exclude("chinese_course/media/audio/generated/**")
+            assets.exclude("chinese_course/media/audio_manifest.json")
+        }
+    }
+
     packaging {
         resources.excludes += "/META-INF/{AL2.0,LGPL2.1}"
     }
 
-    androidResources {
-        // Authored voice assets are addressed with AssetManager.openFd; keep Opus uncompressed.
-        noCompress += listOf("opus")
-    }
 }
 
 dependencies {
