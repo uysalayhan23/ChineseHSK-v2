@@ -106,7 +106,12 @@ fun SystemCheckScreen(
                     title = "Telefondaki Mandarin Sesleri",
                     value = if (nativeVoices > 0) "$nativeVoices ses bulundu · $offlineVoices çevrimdışı" else "Mandarin ses paketi henüz bulunamadı",
                     ok = nativeVoices > 0,
-                    detail = "Uygulama her konuşmacının kadro bilgisini kullanır. Telefon sesleri cinsiyet/yaş etiketi vermiyorsa aşağıdan dinleyip karakter türlerine eşleyebilirsin."
+                    detail = when {
+                        nativeVoices == 1 -> "Telefonda yalnızca bir Mandarin sesi var; dört ayrı karakter sesi için ek ses paketi kur."
+                        nativeVoices in 2..3 -> "Otomatik seçim yüklü sesleri farklı karakter türlerine dağıtır. Dört ayrı ses için daha fazla Mandarin sesi kur."
+                        nativeVoices >= 4 -> "Otomatik seçim farklı sesleri karakter türlerine dağıtır. İstersen aşağıdan dinleyip değiştirebilirsin."
+                        else -> "Mandarin ses paketi kurduktan sonra Yeniden Kontrol Et'e bas."
+                    }
                 )
             }
             item {
@@ -222,7 +227,7 @@ private fun NativeVoiceSetupCard(
         Column(Modifier.fillMaxWidth().padding(16.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
             Text("Karakter seslerini eşleştir", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, fontSize = 18.sp)
             Text(
-                "Telefon bazı Mandarin seslerinde kadın/erkek/yaş bilgisini göstermeyebilir. Sesleri dinleyip her karakter türü için doğru olanı seçebilirsin. Seçim telefonda kaydedilir.",
+                "Otomatik seçim yüklü Mandarin seslerini farklı karakter türlerine dağıtır. Telefonda yalnızca bir Mandarin sesi varsa herkes aynı sesi kullanır; ek paket indir. İstersen sesleri dinleyip türlere kendin atayabilirsin.",
                 color = Color.Gray,
                 fontSize = 13.sp
             )
