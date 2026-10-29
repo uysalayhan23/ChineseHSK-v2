@@ -91,6 +91,13 @@ jobs:
           python3 scripts/validate_audio_assets.py
           python3 scripts/build_media_readiness_report.py
 
+      - name: Keep archived generated audio out of APK package
+        run: |
+          archived="$RUNNER_TEMP/chinese-hsk-archived-audio"
+          mkdir -p "$archived"
+          mv app/src/main/assets/chinese_course/media/audio/generated "$archived/generated"
+          mv app/src/main/assets/chinese_course/media/audio_manifest.json "$archived/audio_manifest.json"
+
       - name: Build personal APK
         run: gradle :app:assembleDebug --stacktrace
 
@@ -116,3 +123,4 @@ jobs:
             chinese_hsk_android_github/VISUAL_ASSET_REPORT*.txt
           if-no-files-found: warn
           retention-days: 30
+
