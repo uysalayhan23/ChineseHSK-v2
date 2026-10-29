@@ -35,6 +35,8 @@ fun SystemCheckScreen(
     var refreshTick by remember { mutableIntStateOf(0) }
     var offlineVoices by remember { mutableIntStateOf(0) }
     var nativeVoices by remember { mutableIntStateOf(0) }
+    var nativeVoiceOptions by remember { mutableStateOf(emptyList<NativeMandarinVoiceOption>()) }
+    var selectedVoiceSlots by remember { mutableStateOf<Map<String, String?>>(emptyMap()) }
     var cacheFiles by remember { mutableIntStateOf(0) }
     var cacheBytes by remember { mutableLongStateOf(0L) }
     var voiceInstallError by remember { mutableStateOf(false) }
@@ -64,6 +66,8 @@ fun SystemCheckScreen(
         audio.refreshNativeVoiceInventory()
         offlineVoices = audio.offlineVoiceCount()
         nativeVoices = audio.nativeMandarinVoiceCount()
+        nativeVoiceOptions = audio.nativeVoiceOptions()
+        selectedVoiceSlots = NATIVE_VOICE_SLOTS.associate { (key, _) -> key to audio.selectedNativeVoiceName(key) }
         cacheFiles = audio.cachedTtsCount()
         cacheBytes = audio.cachedTtsBytes()
     }
@@ -130,6 +134,20 @@ fun SystemCheckScreen(
                 }
             }
             item {
+                NativeVoiceSetupCard(
+                    options = nativeVoiceOptions,
+                    selections = selectedVoiceSlots,
+                    onSelect = { archetype, voiceName ->
+                        audio.assignNativeVoice(archetype, voiceName)
+                        selectedVoiceSlots = selectedVoiceSlots + (archetype to voiceName)
+                        audio.previewNativeVoice(voiceName, archetype)
+                    },
+                    onPreview = { archetype ->
+                        audio.previewNativeVoice(selectedVoiceSlots[archetype], archetype)
+                    }
+                )
+            }
+            item {
                 StatusCard(
                     title = "Offline Telaffuz Tanıma",
                     value = if (recognitionAvailable) "Hazır · ${recognizer.engineLabel()}" else "Gömülü model bulunamadı",
@@ -182,6 +200,60 @@ fun SystemCheckScreen(
                 }
             }
             item { Spacer(Modifier.height(24.dp)) }
+        }
+    }
+}
+
+private val NATIVE_VOICE_SLOTS = listOf(
+    "male" to "Erkek yetişkin",
+    "female" to "Kadın yetişkin",
+    "boy" to "Erkek çocuk",
+    "girl" to "Kız çocuk"
+)
+
+@Composable
+private fun NativeVoiceSetupCard(
+    options: List<NativeMandarinVoiceOption>,
+    selections: Map<String, String?>,
+    onSelect: (String, String?) -> Unit,
+    onPreview: (String) -> Unit
+) {
+    Card(colors = CardDefaults.cardColors(containerColor = Color.White), shape = RoundedCornerShape(18.dp)) {
+        Column(Modifier.fillMaxWidth().padding(16.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
+            Text("Karakter seslerini eşleştir", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, fontSize = 18.sp)
+            Text(
+                "Telefon bazı Mandarin seslerinde kadın/erkek/yaş bilgisini göstermeyebilir. Sesleri dinleyip her karakter türü için doğru olanı seçebilirsin. Seçim telefonda kaydedilir.",
+                color = Color.Gray,
+                fontSize = 13.sp
+            )
+            if (options.isEmpty()) {
+                Text("Önce yukarıdaki düğmeyle Mandarin ses paketi kur, sonra Yeniden Kontrol Et'e bas.", color = CheckWarn, fontSize = 13.sp)
+            }
+            NATIVE_VOICE_SLOTS.forEach { (archetype, title) ->
+                var expanded by remember(archetype) { mutableStateOf(false) }
+                val selectedName = selections[archetype]
+                val selectedLabel = options.firstOrNull { it.name == selectedName }?.label
+                Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                    Column(Modifier.weight(1f)) {
+                        Text(title, color = Color.DarkGray, fontWeight = FontWeight.SemiBold)
+                        Text(selectedLabel ?: "Otomatik seçim", color = Color.Gray, fontSize = 12.sp)
+                    }
+                    OutlinedButton(onClick = { expanded = true }, enabled = options.isNotEmpty()) { Text("Seç") }
+                    OutlinedButton(onClick = { onPreview(archetype) }, enabled = options.isNotEmpty()) { Text("Dinle") }
+                    DropdownMenu(expanded = expanded, onDismissRequest = { expanded = false }) {
+                        DropdownMenuItem(
+                            text = { Text("Otomatik seçim") },
+                            onClick = { expanded = false; onSelect(archetype, null) }
+                        )
+                        options.forEach { option ->
+                            DropdownMenuItem(
+                                text = { Text("${option.label} · ${if (option.offline) "çevrimdışı" else "internet"}") },
+                                onClick = { expanded = false; onSelect(archetype, option.name) }
+                            )
+                        }
+                    }
+                }
+            }
         }
     }
 }
