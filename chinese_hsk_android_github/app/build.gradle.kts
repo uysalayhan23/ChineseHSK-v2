@@ -48,15 +48,6 @@ android {
         buildConfig = true
     }
 
-    sourceSets {
-        getByName("main") {
-            // Generated Opus clips and their mapping are retained in the repository
-            // for reference/QA, but dialogue now uses installed Android Mandarin TTS.
-            assets.exclude("chinese_course/media/audio/generated/**")
-            assets.exclude("chinese_course/media/audio_manifest.json")
-        }
-    }
-
     packaging {
         resources.excludes += "/META-INF/{AL2.0,LGPL2.1}"
     }
@@ -79,3 +70,4 @@ dependencies {
     implementation("com.alphacephei:vosk-android:0.3.75@aar")
     debugImplementation("androidx.compose.ui:ui-tooling")
 }
+
