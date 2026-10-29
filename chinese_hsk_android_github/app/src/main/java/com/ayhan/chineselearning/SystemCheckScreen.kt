@@ -106,7 +106,7 @@ fun SystemCheckScreen(
                     title = "Telefondaki Mandarin Sesleri",
                     value = if (nativeVoices > 0) "$nativeVoices ses bulundu · $offlineVoices çevrimdışı" else "Mandarin ses paketi henüz bulunamadı",
                     ok = nativeVoices > 0,
-                    detail = "Uygulama karakterlere telefondaki Mandarin seslerini ayrı ayrı atar. Ses türü bilgisi sistemde varsa kadın, erkek veya çocuk sesi tercih edilir."
+                    detail = "Uygulama her konuşmacının kadro bilgisini kullanır. Telefon sesleri cinsiyet/yaş etiketi vermiyorsa aşağıdan dinleyip karakter türlerine eşleyebilirsin."
                 )
             }
             item {
