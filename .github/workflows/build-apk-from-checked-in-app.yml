@@ -34,9 +34,15 @@ jobs:
           gradle-version: '9.6.0'
           cache-provider: basic
 
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v4
+        with:
+          packages: ''
+          accept-android-sdk-licenses: true
+          log-accepted-android-sdk-licenses: false
+
       - name: Install Android SDK packages
         run: |
-          yes | sdkmanager --licenses >/dev/null || true
           sdkmanager "platforms;android-37" "build-tools;36.0.0"
 
       - name: Install validation tooling
