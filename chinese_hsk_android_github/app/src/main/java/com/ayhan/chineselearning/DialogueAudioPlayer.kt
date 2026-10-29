@@ -26,6 +26,10 @@ class DialogueAudioPlayer(context: Context) {
 
     fun offlineVoiceCount(): Int = tts.offlineVoiceCount()
     fun nativeMandarinVoiceCount(): Int = tts.nativeMandarinVoiceCount()
+    fun nativeVoiceOptions(): List<NativeMandarinVoiceOption> = tts.nativeVoiceOptions()
+    fun selectedNativeVoiceName(archetype: String): String? = tts.selectedNativeVoiceName(archetype)
+    fun assignNativeVoice(archetype: String, voiceName: String?) = tts.assignNativeVoice(archetype, voiceName)
+    fun previewNativeVoice(voiceName: String?, archetype: String) = tts.previewNativeVoice(voiceName, archetype)
     fun refreshNativeVoiceInventory() = tts.refreshNativeVoiceInventory()
     fun cachedTtsCount(): Int = tts.cachedFileCount()
     fun cachedTtsBytes(): Long = tts.cacheBytes()
