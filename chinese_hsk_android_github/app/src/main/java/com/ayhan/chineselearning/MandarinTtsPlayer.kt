@@ -154,7 +154,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
         emotion: String = "neutral",
         onDone: (() -> Unit)? = null
     ) {
-        val action = {
+        val action: () -> Unit = {
             stopPlaybackOnly()
             if (!ready) {
                 onDone?.invoke()
