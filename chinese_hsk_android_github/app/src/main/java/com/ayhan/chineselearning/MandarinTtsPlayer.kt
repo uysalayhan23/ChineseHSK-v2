@@ -1,5 +1,6 @@
 package com.ayhan.chineselearning
 
+import android.app.ActivityManager
 import android.content.Context
 import android.media.MediaPlayer
 import android.media.PlaybackParams
