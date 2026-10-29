@@ -10,14 +10,9 @@ import android.os.Looper
 import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
 import android.speech.tts.Voice
-import com.k2fsa.sherpa.onnx.OfflineTts
-import com.k2fsa.sherpa.onnx.OfflineTtsConfig
-import com.k2fsa.sherpa.onnx.OfflineTtsKokoroModelConfig
-import com.k2fsa.sherpa.onnx.OfflineTtsModelConfig
 import java.io.File
 import java.util.Locale
 import java.util.concurrent.ConcurrentHashMap
-import java.util.concurrent.Executors
 import java.util.concurrent.atomic.AtomicInteger
 import org.json.JSONArray
 import kotlin.math.abs
@@ -54,17 +49,16 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
     private val mainHandler = Handler(Looper.getMainLooper())
     private val tts = TextToSpeech(appContext, this)
     private val prefs = appContext.getSharedPreferences("offline_mandarin_voice_bindings", Context.MODE_PRIVATE)
+    private val kokoroClient = KokoroSynthesisClient(appContext)
     private val cacheDir = File(appContext.filesDir, "mandarin_tts_cache").apply { mkdirs() }
     private val callbacks = ConcurrentHashMap<String, () -> Unit>()
     private val synthErrors = ConcurrentHashMap<String, () -> Unit>()
-    private val synthesisExecutor = Executors.newSingleThreadExecutor()
     private val synthesisGeneration = AtomicInteger(0)
     private var ready = false
     private var pending: (() -> Unit)? = null
     private var player: MediaPlayer? = null
     private var localVoices: List<Voice> = emptyList()
     private var nativeMandarinVoices: List<Voice> = emptyList()
-    @Volatile private var bundledTts: OfflineTts? = null
     private val bundledVoices: List<BundledVoice> by lazy { loadBundledVoices() }
     private val profileVoiceBindings: Map<String, ProfileVoiceBinding> by lazy { loadProfileVoiceBindings() }
 
@@ -299,29 +293,6 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
         return !memory.lowMemory && memory.availMem >= 3072L * 1024L * 1024L
     }
 
-    private fun createBundledTts(): OfflineTts {
-        bundledTts?.let { return it }
-        val root = "mandarin_tts"
-        val config = OfflineTtsConfig(
-            model = OfflineTtsModelConfig(
-                kokoro = OfflineTtsKokoroModelConfig(
-                    model = "${root}/model.onnx",
-                    voices = "${root}/voices.bin",
-                    tokens = "${root}/tokens.txt",
-                    dataDir = "${root}/espeak-ng-data",
-                    lexicon = "${root}/lexicon-us-en.txt,${root}/lexicon-zh.txt"
-                ),
-                numThreads = 2,
-                provider = "cpu",
-                debug = false
-            ),
-            ruleFsts = listOf("phone-zh.fst", "number-zh.fst", "date-zh.fst")
-                .joinToString(",") { "${root}/$it" },
-            maxNumSentences = 1
-        )
-        return OfflineTts(appContext.assets, config).also { bundledTts = it }
-    }
-
     private fun speakBundled(
         text: String,
         profileId: String,
@@ -331,7 +302,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
         onDone: (() -> Unit)?
     ): Boolean {
         val speaker = selectedBundledSpeaker(archetype, profileId) ?: return false
-        if (bundledTts == null && !hasMemoryForBundledModel()) return false
+        if (!hasMemoryForBundledModel()) return false
         val emotionRate = when (emotion.lowercase()) {
             "excited", "enthusiastic", "happy", "surprised" -> 1.04f
             "sad", "tired", "worried" -> 0.96f
@@ -352,21 +323,13 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
             return true
         }
         val generation = synthesisGeneration.incrementAndGet()
-        synthesisExecutor.execute {
-            runCatching {
-                createBundledTts().generate(text, speaker.sid, modelSpeed).save(output.absolutePath)
-            }.onSuccess {
-                mainHandler.post {
-                    if (generation == synthesisGeneration.get() && output.exists()) {
-                        playFile(output, 1.0f, onDone, voicePitch)
-                        pruneCache()
-                    }
-                }
-            }.onFailure {
-                mainHandler.post {
-                    if (generation == synthesisGeneration.get()) {
-                        speakAndroidFallback(text, archetype, speed, onDone)
-                    }
+        kokoroClient.synthesize(text, speaker.sid, modelSpeed, output) { success ->
+            if (generation == synthesisGeneration.get()) {
+                if (success && output.exists() && output.length() > 1024L) {
+                    playFile(output, 1.0f, onDone, voicePitch)
+                    pruneCache()
+                } else {
+                    speakAndroidFallback(text, archetype, speed, onDone)
                 }
             }
         }
@@ -401,7 +364,9 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
     fun previewNativeVoice(voiceName: String?, archetype: String) {
         stopPlaybackOnly()
         if (voiceName?.startsWith("kokoro:") == true) {
-            speakBundled("你好，今天很高兴和你一起学习中文。", "preview_${voiceName}_${archetype}", archetype, 0.92f, "neutral", null)
+            if (!speakBundled("你好，今天很高兴和你一起学习中文。", "preview_${voiceName}_${archetype}", archetype, 0.92f, "neutral", null)) {
+                speakAndroidFallback("你好，今天很高兴和你一起学习中文。", archetype, 0.92f, null)
+            }
             return
         }
         val action: () -> Unit = {
@@ -610,6 +575,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
     }
 
     fun stop() {
+        synthesisGeneration.incrementAndGet()
         pending = null
         callbacks.clear()
         synthErrors.clear()
@@ -619,9 +585,7 @@ class MandarinTtsPlayer(context: Context) : TextToSpeech.OnInitListener {
 
     fun shutdown() {
         stop()
-        synthesisExecutor.shutdownNow()
-        bundledTts?.release()
-        bundledTts = null
+        kokoroClient.shutdown()
         tts.shutdown()
     }
 }

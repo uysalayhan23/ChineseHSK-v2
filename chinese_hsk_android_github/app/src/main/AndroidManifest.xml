@@ -23,5 +23,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <service
+            android:name=".KokoroSynthesisService"
+            android:exported="false"
+            android:process=":kokoro_tts" />
     </application>
 </manifest>
