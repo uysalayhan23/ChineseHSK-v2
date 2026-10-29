@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC013",
   "level": "HSK5",
   "sourceTitleZh": "第二次面试成功",
@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC013_001",
       "speaker": "张雨桐",
-      "zh": "第二次面试的邀请来了，我按照上次的反馈重新准备了项目例子。",
-      "pinyin": "dì èr cì miàn shì de yāo qǐng lái le ， wǒ àn zhào shàng cì de fǎn kuì chóng xīn zhǔn bèi le xiàng mù lì zi 。",
-      "tr": "İkinci mülakat daveti geldi; geçen seferki geri bildirime göre proje örneklerimi yeniden hazırladım."
+      "zh": "第二次面试邀请来了，我按上次反馈重新准备了项目例子，也练习怎样自我展示。",
+      "pinyin": "dì èr cì miàn shì yāo qǐng lái le ， wǒ àn shàng cì fǎn kuì chóng xīn zhǔn bèi le xiàng mù lì zi ， yě liàn xí zěn yàng zì wǒ zhǎn shì 。",
+      "tr": "İkinci mülakat daveti geldi; önceki geri bildirime göre proje örneklerimi hazırladım ve kendimi nasıl tanıtacağımı çalıştım."
     },
     {
       "id": "DLG_ZH_HSK5_SC013_002",
@@ -499,9 +499,9 @@
     {
       "id": "DLG_ZH_HSK5_SC013_071",
       "speaker": "同事",
-      "zh": "刚才的回答比上次有条理，你没有急着说完，而是先回应问题再举例。",
-      "pinyin": "gāng cái de huí dá bǐ shàng cì yǒu tiáo lǐ ， nǐ méi yǒu jí zhe shuō wán ， ér shì xiān huí yìng wèn tí zài jǔ lì 。",
-      "tr": "Yanıtların geçen görüşmeden daha düzenliydi; acele etmeden önce soruyu yanıtlayıp sonra örnek verdin."
+      "zh": "我的评价是，你这次的自我展示更有条理，也把自己的优势讲清楚了，听起来比上次自信。",
+      "pinyin": "wǒ de píng jià shì ， nǐ zhè cì de zì wǒ zhǎn shì gèng yǒu tiáo lǐ ， yě bǎ zì jǐ de yōu shì jiǎng qīng chǔ le ， tīng qǐ lái bǐ shàng cì zì xìn 。",
+      "tr": "Bence bu kez kendini daha düzenli tanıttın, güçlü yanlarını açık anlattın ve öncekinden daha özgüvenliydin."
     },
     {
       "id": "DLG_ZH_HSK5_SC013_072",
@@ -639,9 +639,9 @@
     {
       "id": "DLG_ZH_HSK5_SC013_091",
       "speaker": "同事",
-      "zh": "如果每次都记录一个具体例子，阶段沟通时就容易看出自己的变化。",
-      "pinyin": "rú guǒ měi cì dōu jì lù yí gè jù tǐ lì zi ， jiē duàn gōu tōng shí jiù róng yì kàn chū zì jǐ de biàn huà 。",
-      "tr": "Her seferinde somut bir örnek kaydedersen değerlendirme görüşmesinde gelişimini görmek kolaylaşır."
+      "zh": "如果每次都记录一个具体例子，阶段沟通时容易看出变化，也更清楚职业发展方向。",
+      "pinyin": "rú guǒ měi cì dōu jì lù yí gè jù tǐ lì zi ， jiē duàn gōu tōng shí róng yì kàn chū biàn huà ， yě gèng qīng chǔ zhí yè fā zhǎn fāng xiàng 。",
+      "tr": "Her seferinde somut bir örnek kaydedersen görüşmelerde gelişimini ve kariyer yönünü daha iyi görebilirsin."
     },
     {
       "id": "DLG_ZH_HSK5_SC013_092",

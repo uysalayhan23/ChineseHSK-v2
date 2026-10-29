@@ -4,7 +4,7 @@
   "generationSceneId": "ZH_HSK4_SC050",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC050.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC050.json",
   "titleZh": "孩子们开始飞了",
   "titleTr": "Yeni Nesil Uçmaya Başlıyor",
   "locationId": "LOC_ZH_NEW_HOME_001",

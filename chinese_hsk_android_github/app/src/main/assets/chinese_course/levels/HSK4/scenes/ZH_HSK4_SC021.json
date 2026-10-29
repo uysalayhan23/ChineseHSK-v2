@@ -67,9 +67,9 @@
     {
       "id": "DLG_ZH_HSK4_SC021_009",
       "speaker": "爷爷",
-      "zh": "这些菜不用农药催长，味道和超市买的有点不同。",
-      "pinyin": "zhè xiē cài bù yòng nóng yào cuī zhǎng wèi dào hé chāo shì mǎi de yǒu diǎn bù tóng",
-      "tr": "Bu sebzeleri büyütmek için ilaç kullanmadım; tatları markettekilerden biraz farklı."
+      "zh": "这些菜生长时没用农药，口感和超市买的有些不同。",
+      "pinyin": "Zhèxiē cài shēngzhǎng shí méiyòng nóngyào, kǒugǎn hé chāoshì mǎi de yǒuxiē bùtóng.",
+      "tr": "Bu sebzeler yetişirken tarım ilacı kullanılmadı; tatları markettekilerden biraz farklı."
     },
     {
       "id": "DLG_ZH_HSK4_SC021_010",
@@ -730,9 +730,9 @@
         "zh": "菜摊",
         "pinyin": "cài tān",
         "tr": "sebze tezgâhı",
-        "exampleZh": "菜摊是我们不能忽略的一点。",
-        "examplePinyin": "Cài tān shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Sebze tezgâhı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "先估算一下每种有多少，再决定需要多大的菜摊。",
+        "examplePinyin": "xiān gū suàn yī xià měi zhǒng yǒu duō shǎo zài jué dìng xū yào duō dà de cài tān",
+        "exampleTr": "Önce her üründen ne kadar olduğunu hesaplayıp tezgâhın büyüklüğüne karar verelim.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "农产品",
         "pinyin": "nóngchǎnpǐn",
         "tr": "tarım ürünü",
-        "exampleZh": "我们把农产品也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ nóngchǎnpǐn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Tarım ürünü konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我常来这个市场买菜。你准备摆什么农产品？",
+        "examplePinyin": "wǒ cháng lái zhè ge shì chǎng mǎi cài nǐ zhǔn bèi bǎi shén me nóng chǎn pǐn",
+        "exampleTr": "Bu pazardan sık sık sebze alırım. Hangi tarım ürünlerini tezgâha koyacaksınız?",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "市场",
         "pinyin": "shìchǎng",
         "tr": "pazar",
-        "exampleZh": "如果市场发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ shìchǎng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Pazar değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "如果下雨，市场还照常开吗？",
+        "examplePinyin": "rú guǒ xià yǔ shì chǎng hái zhào cháng kāi ma",
+        "exampleTr": "Yağmur yağarsa pazar yine açık olur mu?",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "价格",
         "pinyin": "jiàgé",
         "tr": "fiyat",
-        "exampleZh": "关于价格，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jiàgé, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Fiyat konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "青菜看起来很新鲜。你们打算怎么定价格？",
+        "examplePinyin": "qīng cài kàn qǐ lái hěn xīn xiān nǐ men dǎ suàn zěn me dìng jià gé",
+        "exampleTr": "Yeşillikler taze görünüyor. Fiyatları nasıl belirlemeyi düşünüyorsunuz?",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "顾客",
         "pinyin": "gùkè",
         "tr": "müşteri",
-        "exampleZh": "顾客是我们不能忽略的一点。",
-        "examplePinyin": "Gùkè shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Müşteri göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "早上七点就可以摆摊，顾客通常八点前后最多。",
+        "examplePinyin": "zǎo shàng qī diǎn jiù kě yǐ bǎi tān gù kè tōng cháng bā diǎn qián hòu zuì duō",
+        "exampleTr": "Sabah yedide tezgâh açılabiliyor; müşteriler genellikle sekiz civarında çoğalıyor.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "农场",
         "pinyin": "nóngchǎng",
         "tr": "çiftlik",
-        "exampleZh": "这个农场有优点，也有需要考虑的地方。",
-        "examplePinyin": "Zhège nóngchǎng yǒu yōudiǎn, yě yǒu xūyào kǎolǜ de dìfang.",
-        "exampleTr": "Bu çiftlik avantajlara sahip ama düşünülmesi gereken yönleri de var.",
+        "exampleZh": "东西都收好了，车也装完了，我们可以回农场了。",
+        "examplePinyin": "dōng xī dōu shōu hǎo le chē yě zhuāng wán le wǒ men kě yǐ huí nóng chǎng le",
+        "exampleTr": "Her şeyi topladık, arabaya da yükledik; çiftliğe dönebiliriz.",
         "kind": "active"
       },
       {

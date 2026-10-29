@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC021.json",
-  "dialogueSha256": "93ea57ac9e1e81b229d7cfd4a4cb3f64d4a38d65259e3d6be8d7193c786278aa",
+  "dialogueSha256": "ac1333fc787d149ccf811622b25fbbd44fbc45d17e5b0be6562483b44443b8cd",
   "titleTr": "İlk Gerçek Müşteri",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "İlk gerçek müşterinin ayrıntılı siparişi karşılanır ve servis akışı gerçek koşullarda sınanır.",

@@ -5,7 +5,7 @@
   "sceneId": "ZH_HSK5_SC002",
   "generationSceneId": "ZH_HSK5_SC002",
   "status": "INTEGRATED_QA_PASS",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC002.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC002.json",
   "dialogueSha256": "753cdcc44f3a1e688036310ffb2e4ef6278fc09ce190c5a933e432e84d74dcb6",
   "titleZh": "支持，但不替她决定",
   "titleTr": "Zhang Destek Oluyor Ama Baskı Yapmıyor",

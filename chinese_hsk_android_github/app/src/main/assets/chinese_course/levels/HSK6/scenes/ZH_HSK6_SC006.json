@@ -333,9 +333,9 @@
     {
       "id": "DLG_ZH_HSK6_SC006_047",
       "speaker": "场地方经理",
-      "zh": "经理说可以加遮光帘，也能把长辈的桌子安排在里面。",
-      "pinyin": "jīng lǐ shuō kě yǐ jiā zhē guāng lián ， yě néng bǎ zhǎng bèi de zhuō zi ān pái zài lǐ miàn 。",
-      "tr": "Müdür perde ekleyebileceklerini söyledi; büyüklerin masasını iç tarafa da koyabiliriz."
+      "zh": "可以加遮光帘，也能把长辈的桌子安排在里面。",
+      "pinyin": "kě yǐ jiā zhē guāng lián ， yě néng bǎ zhǎng bèi de zhuō zi ān pái zài lǐ miàn 。",
+      "tr": "Karartma perdesi ekleyebilir ve büyüklerin masasını içeride ayarlayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK6_SC006_048",
@@ -473,9 +473,9 @@
     {
       "id": "DLG_ZH_HSK6_SC006_067",
       "speaker": "场地方经理",
-      "zh": "经理刚回了邮件，小厅周六下午可以使用，维修检查也能在周五完成。",
-      "pinyin": "jīng lǐ gāng huí le yóu jiàn ， xiǎo tīng zhōu liù xià wǔ kě yǐ shǐ yòng ， wéi xiū jiǎn chá yě néng zài zhōu wǔ wán chéng 。",
-      "tr": "Müdür e-postayla yanıt verdi. Küçük salon cumartesi öğleden sonra uygun; bakım kontrolü de cuma bitebilir."
+      "zh": "我刚才给你们发了邮件，小厅周六下午可以使用，维修检查也能在周五完成。",
+      "pinyin": "wǒ gāng cái gěi nǐ men fā le yóu jiàn ， xiǎo tīng zhōu liù xià wǔ kě yǐ shǐ yòng ， wéi xiū jiǎn chá yě néng zài zhōu wǔ wán chéng 。",
+      "tr": "Az önce size e-posta gönderdim: küçük salon cumartesi öğleden sonra kullanılabilir, bakım kontrolü de cuma tamamlanabilir."
     },
     {
       "id": "DLG_ZH_HSK6_SC006_068",
@@ -585,9 +585,9 @@
     {
       "id": "DLG_ZH_HSK6_SC006_083",
       "speaker": "场地方经理",
-      "zh": "经理已经现场测试过，后排也听得清楚，报告我发给你们了。",
-      "pinyin": "jīng lǐ yǐ jīng xiàn chǎng cè shì guò ， hòu pái yě tīng dé qīng chǔ ， bào gào wǒ fā gěi nǐ men le 。",
-      "tr": "Müdür yerinde deneme yaptı; arka sıradan da net duyuluyor. Raporu size gönderdim."
+      "zh": "我已经现场测试过，后排也听得清楚，报告我发给你们了。",
+      "pinyin": "wǒ yǐ jīng xiàn chǎng cè shì guò ， hòu pái yě tīng dé qīng chǔ ， bào gào wǒ fā gěi nǐ men le 。",
+      "tr": "Mekânda testi yaptım; arka sıralardan da net duyuluyor. Raporu size gönderdim."
     },
     {
       "id": "DLG_ZH_HSK6_SC006_084",
@@ -718,92 +718,89 @@
     "vocabularyTheme": "sözleşme, kriz ve alternatif plan",
     "grammarTheme": "正式/非正式语域转换",
     "pronunciationTheme": "细腻情感表达",
-    "targetActiveVocabularyCount": {
-      "min": 8,
-      "max": 15
-    },
+    "targetActiveVocabularyCount": 8,
     "defaultSpeechSpeed": 1.0,
     "defaultSubtitleMode": "ZH",
     "vocabularyCards": [
       {
         "id": "VOC_ZH_HSK6_SC006_001",
-        "zh": "场地合同",
-        "pinyin": "chǎngdì hétóng",
-        "tr": "mekân sözleşmesi",
-        "exampleZh": "场地合同之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Chǎngdì hétóng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Mekân sözleşmesi önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "备用方案",
+        "pinyin": "bèi yòng fāng àn",
+        "tr": "backup plan",
+        "exampleZh": "我同意。备用方案要真的可行，不能只为保住原来的日子。",
+        "examplePinyin": "wǒ tóng yì 。 bèi yòng fāng àn yào zhēn de kě xíng ， bù néng zhǐ wèi bǎo zhù yuán lái de rì zi 。",
+        "exampleTr": "Katılıyorum. Yedek plan gerçekten uygulanabilir olmalı; yalnızca eski tarihi korumak için seçilmemeli.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC006_002",
-        "zh": "违约",
-        "pinyin": "wéiyuē",
-        "tr": "sözleşme ihlali",
-        "exampleZh": "如果忽略违约，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè wéiyuē, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Sözleşme ihlali göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "场地",
+        "pinyin": "chǎng dì",
+        "tr": "venue",
+        "exampleZh": "可以。我会把维修进度、可用场地和合同处理方式都列清楚。",
+        "examplePinyin": "kě yǐ 。 wǒ huì bǎ wéi xiū jìn dù 、 kě yòng chǎng dì hé hé tóng chǔ lǐ fāng shì dōu liè qīng chǔ 。",
+        "exampleTr": "Olur. Onarım takvimini, kullanılabilir salonları ve sözleşmeyle ilgili seçenekleri yazacağım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC006_003",
-        "zh": "备用方案",
-        "pinyin": "bèiyòng fāng’àn",
-        "tr": "yedek plan",
-        "exampleZh": "我想把备用方案放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ bèiyòng fāng’àn fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Yedek plan konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
+        "zh": "合同",
+        "pinyin": "hé tóng",
+        "tr": "contract",
+        "exampleZh": "可以。我会把维修进度、可用场地和合同处理方式都列清楚。",
+        "examplePinyin": "kě yǐ 。 wǒ huì bǎ wéi xiū jìn dù 、 kě yòng chǎng dì hé hé tóng chǔ lǐ fāng shì dōu liè qīng chǔ 。",
+        "exampleTr": "Olur. Onarım takvimini, kullanılabilir salonları ve sözleşmeyle ilgili seçenekleri yazacağım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC006_004",
-        "zh": "协商",
-        "pinyin": "xiéshāng",
-        "tr": "müzakere etmek",
-        "exampleZh": "谈到协商，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào xiéshāng, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Müzakere etmek konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
+        "zh": "改期",
+        "pinyin": "gǎi qī",
+        "tr": "reschedule",
+        "exampleZh": "我们先看书面方案，再决定换厅还是改期，不想在信息不全时作决定。",
+        "examplePinyin": "wǒ men xiān kàn shū miàn fāng àn ， zài jué dìng huàn tīng hái shì gǎi qī ， bù xiǎng zài xìn xī bù quán shí zuò jué dìng 。",
+        "exampleTr": "Yazılı teklifi gördükten sonra salonu değiştirmeye ya da tarihi ertelemeye karar verelim; eksik bilgiyle karar vermek istemiyoruz.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC006_005",
-        "zh": "语境",
-        "pinyin": "yǔjìng",
-        "tr": "bağlam",
-        "exampleZh": "语境之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Yǔjìng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Bağlam önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "定金",
+        "pinyin": "dìng jīn",
+        "tr": "deposit",
+        "exampleZh": "经理还说，如果改到小厅，原来付的定金可以全部转过去。",
+        "examplePinyin": "jīng lǐ hái shuō ， rú guǒ gǎi dào xiǎo tīng ， yuán lái fù de dìng jīn kě yǐ quán bù zhuǎn guò qù 。",
+        "exampleTr": "Müdür, küçük salona geçersek yatırdığımız kaporanın tamamının aktarılabileceğini de söyledi.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC006_006",
-        "zh": "立场",
-        "pinyin": "lìchǎng",
-        "tr": "tutum / bakış açısı",
-        "exampleZh": "如果忽略立场，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè lìchǎng, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Tutum / bakış açısı göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "维修",
+        "pinyin": "wéi xiū",
+        "tr": "repair",
+        "exampleZh": "维修人员发现主厅上方有漏水，必须先检查电路和天花板，暂时不能开放。",
+        "examplePinyin": "wéi xiū rén yuán fā xiàn zhǔ tīng shàng fāng yǒu lòu shuǐ ， bì xū xiān jiǎn chá diàn lù hé tiān huā bǎn ， zàn shí bù néng kāi fàng 。",
+        "exampleTr": "Bakım ekibi ana salonun tavanında sızıntı buldu. Elektrik ve tavanı kontrol etmeden salonu açamayız.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC006_007",
-        "zh": "权衡",
-        "pinyin": "quánhéng",
-        "tr": "dengeleyerek değerlendirmek",
-        "exampleZh": "我想把权衡放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ quánhéng fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Dengeleyerek değerlendirmek konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
-        "kind": "review"
+        "zh": "安排",
+        "pinyin": "ān pái",
+        "tr": "arrangement",
+        "exampleZh": "我知道这会打乱你们的安排，先别着急，我们一起看看有哪些选择。",
+        "examplePinyin": "wǒ zhī dào zhè huì dǎ luàn nǐ men de ān pái ， xiān bié zháo jí ， wǒ men yì qǐ kàn kàn yǒu nǎ xiē xuǎn zé 。",
+        "exampleTr": "Planınızı bozacağını biliyorum. Önce sakin olalım; seçenekleri birlikte değerlendirelim.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC006_008",
-        "zh": "长期影响",
-        "pinyin": "chángqī yǐngxiǎng",
-        "tr": "uzun vadeli etki",
-        "exampleZh": "谈到长期影响，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào chángqī yǐngxiǎng, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Uzun vadeli etki konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
-        "kind": "review"
+        "zh": "退款",
+        "pinyin": "tuì kuǎn",
+        "tr": "refund",
+        "exampleZh": "经理，合同里写了场地无法使用时可以改期或退款，对吗？",
+        "examplePinyin": "jīng lǐ ， hé tóng lǐ xiě le chǎng dì wú fǎ shǐ yòng shí kě yǐ gǎi qī huò tuì kuǎn ， duì ma ？",
+        "exampleTr": "Müdür, sözleşmede salon kullanılamazsa tarihi değiştirme ya da ücret iadesi seçeneği yazıyor, değil mi?",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

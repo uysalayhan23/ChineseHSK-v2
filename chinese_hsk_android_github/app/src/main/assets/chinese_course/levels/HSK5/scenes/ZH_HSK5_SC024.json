@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK5_SC024_001",
       "speaker": "张伟",
-      "zh": "这次体检，我最想弄清楚的是血压为什么比去年高。",
-      "pinyin": "zhè cì tǐ jiǎn ， wǒ zuì xiǎng nòng qīng chǔ de shì xuè yā wèi shén me bǐ qù nián gāo 。",
-      "tr": "Bu kontrolde en çok tansiyonumun geçen yıla göre neden yükseldiğini anlamak istiyorum."
+      "zh": "这次体检，我最想弄清楚的是血压为什么比去年高，以及这对健康有什么影响。",
+      "pinyin": "zhè cì tǐ jiǎn ， wǒ zuì xiǎng nòng qīng chǔ de shì xuè yā wèi shén me bǐ qù nián gāo ， yǐ jí zhè duì jiàn kāng yǒu shén me yǐng xiǎng 。",
+      "tr": "Bu kontrolde en çok tansiyonumun geçen yıla göre neden yüksek olduğunu ve sağlığımı nasıl etkileyebileceğini anlamak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC024_002",
@@ -146,7 +146,7 @@
       "speaker": "护士",
       "zh": "当然。我也提醒你按时记录；下次复查时，我们把记录带来。",
       "pinyin": "dāng rán 。 wǒ yě tí xǐng nǐ àn shí jì lù ； xià cì fù chá shí ， wǒ men bǎ jì lù dài lái 。",
-      "tr": "Elbette. Ölçümleri zamanında kaydetmeni de hatırlatırım; bir sonraki kontrolde kayıtları yanımızda getiririz。"
+      "tr": "Elbette. Ölçümleri zamanında kaydetmeni de hatırlatırım; bir sonraki kontrolde kayıtları yanımızda getiririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC024_021",
@@ -501,9 +501,9 @@
     {
       "id": "DLG_ZH_HSK5_SC024_071",
       "speaker": "刘梅",
-      "zh": "按时复查、记录血压和逐步调整习惯，这就是目前的预防保健计划。",
-      "pinyin": "àn shí fù chá 、 jì lù xuè yā hé zhú bù diào zhěng xí guàn ， zhè jiù shì mù qián de yù fáng bǎo jiàn jì huà 。",
-      "tr": "Zamanında kontrole gelmek, tansiyonu kaydetmek ve alışkanlıkları aşamalı değiştirmek şu anki koruyucu sağlık planımız."
+      "zh": "按时复查、记录血压和逐步调整生活方式，这就是目前的预防保健计划。",
+      "pinyin": "àn shí fù chá 、 jì lù xuè yā hé zhú bù diào zhěng shēng huó fāng shì ， zhè jiù shì mù qián de yù fáng bǎo jiàn jì huà 。",
+      "tr": "Zamanında kontrole gitmek, tansiyonu kaydetmek ve yaşam tarzını adım adım değiştirmek şu anki koruyucu sağlık planımız."
     },
     {
       "id": "DLG_ZH_HSK5_SC024_072",
@@ -550,9 +550,9 @@
     {
       "id": "DLG_ZH_HSK5_SC024_078",
       "speaker": "医生",
-      "zh": "这样我们就能结合症状和测量结果判断，而不是只凭一个数字。",
-      "pinyin": "zhè yàng wǒ men jiù néng jié hé zhèng zhuàng hé cè liáng jié guǒ pàn duàn ， ér bú shì zhǐ píng yí gè shù zì 。",
-      "tr": "Böylece yalnızca tek bir sayıya bakmadan belirtileri ve ölçüm sonuçlarını birlikte değerlendirebiliriz."
+      "zh": "这样我们就能结合症状和测量结果评估风险，而不是只凭一个数字判断。",
+      "pinyin": "zhè yàng wǒ men jiù néng jié hé zhèng zhuàng hé cè liáng jié guǒ píng gū fēng xiǎn ， ér bú shì zhǐ píng yí gè shù zì pàn duàn 。",
+      "tr": "Böylece yalnızca tek bir sayıya bakmak yerine belirtilerle ölçüm sonuçlarını birlikte değerlendirip riski anlayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC024_079",
@@ -730,9 +730,9 @@
         "zh": "预防保健",
         "pinyin": "yùfáng bǎojiàn",
         "tr": "koruyucu sağlık",
-        "exampleZh": "预防保健是我们不能忽略的一点。",
-        "examplePinyin": "Yùfáng bǎojiàn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Koruyucu sağlık göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "按时复查、记录血压和逐步调整生活方式，这就是目前的预防保健计划。",
+        "examplePinyin": "Àn shí fù chá 、 jì lù xuè yā hé zhú bù diào zhěng shēng huó fāng shì ， zhè jiù shì mù qián de yù fáng bǎo jiàn jì huà 。",
+        "exampleTr": "Zamanında kontrole gitmek, tansiyonu kaydetmek ve yaşam tarzını adım adım değiştirmek şu anki koruyucu sağlık planımız.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "症状",
         "pinyin": "zhèngzhuàng",
         "tr": "belirti",
-        "exampleZh": "我们把症状也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zhèngzhuàng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Belirti konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "对，不能因为怕麻烦就忽略持续出现的症状。",
+        "examplePinyin": "Duì ， bù néng yīn wèi pà má fán jiù hū lüè chí xù chū xiàn de zhèng zhuàng 。",
+        "exampleTr": "Evet, uğraşması zor diye tekrarlayan belirtileri görmezden gelmemeliyiz.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "血压",
         "pinyin": "xuèyā",
         "tr": "tansiyon",
-        "exampleZh": "如果血压发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ xuèyā fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Tansiyon değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "平时的饮食和运动，也会影响血压吗？",
+        "examplePinyin": "Píng shí de yǐn shí hé yùn dòng ， yě huì yǐng xiǎng xuè yā ma ？",
+        "exampleTr": "Günlük beslenme ve hareket de tansiyonu etkiler mi?",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "检查",
         "pinyin": "jiǎnchá",
         "tr": "muayene / kontrol",
-        "exampleZh": "关于检查，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jiǎnchá, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Muayene / kontrol konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "好，先看两周的记录，再决定是否需要进一步检查。",
+        "examplePinyin": "Hǎo ， xiān kàn liǎng zhōu de jì lù ， zài jué dìng shì fǒu xū yào jìn yí bù jiǎn chá 。",
+        "exampleTr": "Peki, önce iki haftalık kayıtlara bakalım; sonra ek bir inceleme gerekip gerekmediğine karar veririz.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "健康",
         "pinyin": "jiànkāng",
         "tr": "sağlık",
-        "exampleZh": "健康是我们不能忽略的一点。",
-        "examplePinyin": "Jiànkāng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Sağlık göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "这次体检，我最想弄清楚的是血压为什么比去年高，以及这对健康有什么影响。",
+        "examplePinyin": "Zhè cì tǐ jiǎn ， wǒ zuì xiǎng nòng qīng chǔ de shì xuè yā wèi shén me bǐ qù nián gāo ， yǐ jí zhè duì jiàn kāng yǒu shén me yǐng xiǎng 。",
+        "exampleTr": "Bu kontrolde en çok tansiyonumun geçen yıla göre neden yüksek olduğunu ve sağlığımı nasıl etkileyebileceğini anlamak istiyorum.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "医生",
         "pinyin": "yīshēng",
         "tr": "doktor",
-        "exampleZh": "我们把医生也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ yīshēng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Doktor konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "医生，除了这些情况，您还建议我注意什么？",
+        "examplePinyin": "Yī shēng ， chú le zhè xiē qíng kuàng ， nín hái jiàn yì wǒ zhù yì shén me ？",
+        "exampleTr": "Doktor, bunlara ek olarak dikkat etmemi önerdiğiniz başka bir şey var mı?",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "生活方式",
         "pinyin": "shēnghuó fāngshì",
         "tr": "yaşam tarzı",
-        "exampleZh": "如果生活方式发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ shēnghuó fāngshì fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Yaşam tarzı değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "按时复查、记录血压和逐步调整生活方式，这就是目前的预防保健计划。",
+        "examplePinyin": "Àn shí fù chá 、 jì lù xuè yā hé zhú bù diào zhěng shēng huó fāng shì ， zhè jiù shì mù qián de yù fáng bǎo jiàn jì huà 。",
+        "exampleTr": "Zamanında kontrole gitmek, tansiyonu kaydetmek ve yaşam tarzını adım adım değiştirmek şu anki koruyucu sağlık planımız.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC024_008",
         "zh": "风险",
         "pinyin": "fēngxiǎn",
         "tr": "risk",
-        "exampleZh": "关于风险，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú fēngxiǎn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Risk konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "这样我们就能结合症状和测量结果评估风险，而不是只凭一个数字判断。",
+        "examplePinyin": "Zhè yàng wǒ men jiù néng jié hé zhèng zhuàng hé cè liáng jié guǒ píng gū fēng xiǎn ， ér bú shì zhǐ píng yí gè shù zì pàn duàn 。",
+        "exampleTr": "Böylece yalnızca tek bir sayıya bakmak yerine belirtilerle ölçüm sonuçlarını birlikte değerlendirip riski anlayabiliriz.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1218,6 +1218,14 @@
     },
     "continuityNoteTr": "Zhang’ın Sağlık Kontrolü olayı HSK5 yaşam çizgisinde sahne 24 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 16,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC024.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

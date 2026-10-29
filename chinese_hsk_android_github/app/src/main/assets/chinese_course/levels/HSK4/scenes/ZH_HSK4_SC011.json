@@ -311,10 +311,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_044",
-      "speaker": "顾客",
-      "zh": "这样好。我能告诉你们自己的感受，但不一定每次都注意到队伍有多长。",
-      "pinyin": "Zhè yàng hǎo 。 wǒ néng gào sù nǐ men zì jǐ de gǎn shòu ， dàn bù yí dìng měi cì dōu zhù yì dào duì wǔ yǒu duō zhǎng 。",
-      "tr": "Bu iyi. Kendi deneyimimi anlatabilirim ama sıranın ne kadar uzadığını her seferinde fark etmeyebilirim."
+      "speaker": "员工",
+      "zh": "我也不一定每次都能观察整条队伍，最好结合每天的记录。",
+      "pinyin": "Wǒ yě bù yídìng měicì dōu néng guānchá zhěngtiáo duìwǔ, zuìhǎo jiéhé měitiān de jìlù.",
+      "tr": "Ben de her seferinde tüm kuyruğu gözlemleyemeyebilirim; günlük kayıtları da dikkate almalıyız."
     },
     {
       "id": "DLG_ZH_HSK4_SC011_045",
@@ -339,10 +339,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_048",
-      "speaker": "顾客",
-      "zh": "只要有人先说明情况，我不介意偶尔多等几分钟。",
-      "pinyin": "Zhǐ yào yǒu rén xiān shuō míng qíng kuàng ， wǒ bú jiè yì ǒu ěr duō děng jǐ fēn zhōng 。",
-      "tr": "Biri önce durumu açıklarsa ara sıra birkaç dakika fazla beklemek beni rahatsız etmez."
+      "speaker": "员工",
+      "zh": "服务高峰偶尔超出预计也会有；我们先主动说明，别让客人一直猜。",
+      "pinyin": "Fúwù gāofēng ǒuěr chāochū yùjì yě huì yǒu； wǒmen xiān zhǔdòng shuōmíng, bié ràng kèrén yìzhí cāi.",
+      "tr": "Yoğun saatlerde bekleme tahmini aşılabilir; önce müşteriye haber verelim, tahmin yürütmek zorunda kalmasın."
     },
     {
       "id": "DLG_ZH_HSK4_SC011_049",
@@ -395,10 +395,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_056",
-      "speaker": "顾客",
+      "speaker": "员工",
       "zh": "那就把晚班写在广告里，免得候选人来了才发现时间不合适。",
-      "pinyin": "Nà jiù bǎ wǎn bān xiě zài guǎng gào lǐ ， miǎn de hòu xuǎn rén lái le cái fā xiàn shí jiān bù hé shì 。",
-      "tr": "Akşam vardiyasını ilana yazın; aday sonradan saatlerin uygun olmadığını fark etmesin."
+      "pinyin": "Nà jiù bǎ wǎnbān xiě zài guǎnggào lǐ, miǎnde hòuxuǎnrén lái le cái fāxiàn shíjiān bù héshì.",
+      "tr": "Öyleyse akşam vardiyasını ilana yazalım; adaylar sonradan saatlerin uymadığını öğrenmesin."
     },
     {
       "id": "DLG_ZH_HSK4_SC011_057",
@@ -423,10 +423,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_060",
-      "speaker": "顾客",
-      "zh": "我常点的那杯少了糖浆，我一下就喝出来了。",
-      "pinyin": "Wǒ cháng diǎn de nà bēi shǎo le táng jiāng ， wǒ yī xià jiù hē chū lái le 。",
-      "tr": "Sık sipariş ettiğim içecekte şurup eksikti; tadından hemen anladım."
+      "speaker": "员工",
+      "zh": "昨天有位熟客说，常点的饮料少了糖浆，他一下就喝出来了。",
+      "pinyin": "Zuótiān yǒuwèi shúkè shuō, chángdiǎn de yǐnliào shǎo le tángjiāng, tā yīxià jiù hē chūlái le.",
+      "tr": "Dün düzenli gelen bir müşteri, her zamanki içeceğinde şurubun eksik olduğunu hemen fark ettiğini söyledi."
     },
     {
       "id": "DLG_ZH_HSK4_SC011_061",
@@ -451,10 +451,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_064",
-      "speaker": "顾客",
-      "zh": "听起来周五面试、下周试班，时间安排很清楚，我下次来再看看。",
-      "pinyin": "Tīng qǐ lái zhōu wǔ miàn shì 、 xià zhōu shì bān ， shí jiān ān pái hěn qīng chǔ ， wǒ xià cì lái zài kàn kàn 。",
-      "tr": "Cuma görüşme, gelecek hafta deneme vardiyası; plan net görünüyor. Bir dahaki gelişimde sonucu görürüm."
+      "speaker": "员工",
+      "zh": "记录等待时间和错单就够了，不需要让顾客额外填表。",
+      "pinyin": "Jìlù děngdàishíjiān hé cuòdān jiù gòu le, bù xūyào ràng gùkè éwài tiánbiǎo.",
+      "tr": "Bekleme süresini ve yanlış siparişleri kaydetmek yeter; müşterilere ayrıca form doldurtmayalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC011_065",
@@ -479,10 +479,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_068",
-      "speaker": "顾客",
-      "zh": "如果你们需要，我愿意说说高峰时的体验；不过最好别让我填很长的表。",
-      "pinyin": "Rú guǒ nǐ men xū yào ， wǒ yuàn yì shuō shuō gāo fēng shí de tǐ yàn ； bú guò zuì hǎo bié ràng wǒ tián hěn zhǎng de biǎo 。",
-      "tr": "Gerekirse yoğun saatlerdeki deneyimimi anlatırım; ama uzun bir form doldurmamı istemeyin."
+      "speaker": "员工",
+      "zh": "工作时间和忙碌程度说清楚，双方都不容易失望。",
+      "pinyin": "Gōngzuò shíjiān hé mánglù chéngdù shuō qīngchǔ, shuāngfāng dōu bù róngyì shīwàng.",
+      "tr": "Çalışma saatlerini ve işin yoğunluğunu açıklarsak iki taraf da hayal kırıklığına uğramaz."
     },
     {
       "id": "DLG_ZH_HSK4_SC011_069",
@@ -507,10 +507,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_072",
-      "speaker": "顾客",
-      "zh": "这样比较公平。工作时间和忙碌程度说清楚，双方都不容易失望。",
-      "pinyin": "Zhè yàng bǐ jiào gōng píng 。 gōng zuò shí jiān hé máng lù chéng dù shuō qīng chǔ ， shuāng fāng dōu bù róng yì shī wàng 。",
-      "tr": "Bu daha adil. Çalışma saatleri ve yoğunluk açık olursa iki tarafın da hayal kırıklığı yaşama ihtimali azalır."
+      "speaker": "员工",
+      "zh": "遇到不熟悉的配方先问清楚，总比猜着做要好。",
+      "pinyin": "Yùdào bù shúxī de pèifāng xiānwèn qīngchǔ, zǒngbǐ cāi zhe zuò yào hǎo.",
+      "tr": "Bir tarifi bilmiyorsak sormak, tahmin ederek yapmaktan iyidir."
     },
     {
       "id": "DLG_ZH_HSK4_SC011_073",
@@ -535,10 +535,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_076",
-      "speaker": "顾客",
-      "zh": "如果他不熟悉某个配方，愿意先问清楚，总比猜着做要好。",
-      "pinyin": "Rú guǒ tā bù shú xī mǒu gè pèi fāng ， yuàn yì xiān wèn qīng chǔ ， zǒng bǐ cāi zháo zuò yào hǎo 。",
-      "tr": "Bir tarifi bilmiyorsa tahmin ederek hazırlamak yerine önce sorması daha iyi."
+      "speaker": "员工",
+      "zh": "我下周二值晚班，到时观察一下等待时间有没有变化。",
+      "pinyin": "Wǒxià zhōuèr zhíwǎnbān, dào shí guānchá yīxià děngdàishíjiān yǒuméiyǒu biànhuà.",
+      "tr": "Gelecek salı akşam vardiyasındayım; bekleme süresinin değişip değişmediğini gözlemlerim."
     },
     {
       "id": "DLG_ZH_HSK4_SC011_077",
@@ -563,10 +563,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_080",
-      "speaker": "顾客",
-      "zh": "我下周大概周二会来，到时候可以看看等待时间有没有变化。",
-      "pinyin": "Wǒ xià zhōu dà gài zhōu èr huì lái ， dào shí hòu ké yǐ kàn kàn děng dài shí jiān yǒu méi yǒu biàn huà 。",
-      "tr": "Gelecek hafta muhtemelen salı gelirim; o zaman bekleme süresinin değişip değişmediğini görürüm."
+      "speaker": "员工",
+      "zh": "培训做得稳，客人也会得到更一致的服务。",
+      "pinyin": "Péixùn zuò dé wěn, kèrén yě huì dédào gèng yízhì de fúwù.",
+      "tr": "Eğitim sağlam olursa müşteriler de daha tutarlı hizmet alır."
     },
     {
       "id": "DLG_ZH_HSK4_SC011_081",
@@ -591,10 +591,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_084",
-      "speaker": "顾客",
-      "zh": "这让我放心。新员工学得稳，客人也会得到更一致的服务。",
-      "pinyin": "Zhè ràng wǒ fàng xīn 。 xīn yuán gōng xué dé wěn ， kè rén yě huì dé dào gèng yí zhì de fú wù 。",
-      "tr": "Bu içimi rahatlattı. Yeni çalışan sağlam öğrenirse müşteriler de daha tutarlı hizmet alır."
+      "speaker": "员工",
+      "zh": "我会照常记录等待情况，有明显变化就告诉你们。",
+      "pinyin": "Wǒhuì zhàocháng jìlù děngdài qíngkuàng, yǒu míngxiǎn biànhuà jiù gàosù nǐmen.",
+      "tr": "Bekleme durumunu her zamanki gibi kaydeder, belirgin bir değişiklik olursa size söylerim."
     },
     {
       "id": "DLG_ZH_HSK4_SC011_085",
@@ -619,10 +619,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_088",
-      "speaker": "顾客",
-      "zh": "我会照常来喝咖啡；如果等待明显变短，我也会告诉你们。",
-      "pinyin": "Wǒ huì zhào cháng lái hē kā fēi ； rú guǒ děng dài míng xiǎn biàn duǎn ， wǒ yě huì gào sù nǐ men 。",
-      "tr": "Kahvemi içmeye her zamanki gibi gelirim; bekleme belirgin biçimde kısalırsa size söylerim."
+      "speaker": "员工",
+      "zh": "排队情况改善后，我也能更专心做订单。",
+      "pinyin": "Páiduì qíngkuàng gǎishàn hòu, wǒ yě néng gèng zhuānxīn zuò dìngdān.",
+      "tr": "Kuyruk kısalınca siparişleri hazırlamaya daha iyi odaklanabilirim."
     },
     {
       "id": "DLG_ZH_HSK4_SC011_089",
@@ -647,10 +647,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_092",
-      "speaker": "顾客",
-      "zh": "那我下周再来时，就不用先担心排队排到门外了。",
-      "pinyin": "Nà wǒ xià zhōu zài lái shí ， jiù bú yòng xiān dān xīn pái duì pái dào mén wài le 。",
-      "tr": "Gelecek hafta geldiğimde sıranın kapının dışına taşmasından kaygılanmam gerekmeyecek."
+      "speaker": "员工",
+      "zh": "安排清楚了，我先把培训材料准备好。",
+      "pinyin": "Ānpái qīngchǔ le, wǒ xiān bǎ péixùn cáiliào zhǔnbèi hǎo.",
+      "tr": "Görevler netleşti; eğitim materyallerini hazırlamaya başlıyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC011_093",
@@ -675,10 +675,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_096",
-      "speaker": "顾客",
-      "zh": "听起来大家都有明确的事要做，我很期待下次来能更快拿到咖啡。",
-      "pinyin": "Tīng qǐ lái dà jiā dōu yǒu míng què de shì yào zuò ， wǒ hěn qī dài xià cì lái néng gèng kuài ná dào kā fēi 。",
-      "tr": "Herkesin ne yapacağı belli görünüyor; bir dahaki gelişimde kahvemi daha çabuk almayı umuyorum."
+      "speaker": "员工",
+      "zh": "改进后的流程要教给新同事，不能只靠一个人记着。",
+      "pinyin": "Gǎijìn hòu de liúchéng yào jiāogěi xīn tóngshì, bùnéng zhǐkào yígè rénjì zhe.",
+      "tr": "Yeni süreç yeni çalışana da öğretilmeli; yalnızca bir kişinin aklında kalmamalı."
     },
     {
       "id": "DLG_ZH_HSK4_SC011_097",
@@ -703,10 +703,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC011_100",
-      "speaker": "顾客",
-      "zh": "好，我下次来再告诉你们实际感受。希望这次排队能短一些。",
-      "pinyin": "Hǎo ， wǒ xià cì lái zài gào sù nǐ men shí jì gǎn shòu 。 xī wàng zhè cì pái duì néng duǎn yì xiē 。",
-      "tr": "Peki, bir dahaki gelişimde gerçek deneyimimi anlatırım. Umarım bu kez sıra daha kısa olur."
+      "speaker": "员工",
+      "zh": "我会按新流程记录情况，交班时再和下一班确认。",
+      "pinyin": "Wǒhuì ànxīn liúchéng jìlù qíngkuàng, jiāobān shí zài hé xià yībān quèrèn.",
+      "tr": "Yeni sürece göre kayıt tutar, vardiya devrinde sonraki çalışanla doğrularım."
     }
   ],
   "productionStatus": "complete",
@@ -730,9 +730,9 @@
         "zh": "招聘",
         "pinyin": "zhāopìn",
         "tr": "işe alım",
-        "exampleZh": "在决定以前，我们最好先招聘。",
-        "examplePinyin": "Zài juédìng yǐqián, wǒmen zuìhǎo xiān zhāopìn.",
-        "exampleTr": "Karar vermeden önce işe alım daha iyi olur.",
+        "exampleZh": "那就先按周二、周四试排。招聘广告里也写明需要晚班。",
+        "examplePinyin": "Nà jiù xiān àn zhōu èr 、 zhōu sì shì pái 。 zhāo pìn guǎng gào lǐ yě xiě míng xū yào wǎn bān 。",
+        "exampleTr": "Öyleyse önce salı ve perşembe için deneme çizelgesi yapalım. İlan da akşam vardiyası gerektiğini söylesin.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "新员工",
         "pinyin": "xīn yuángōng",
         "tr": "yeni çalışan",
-        "exampleZh": "我会跟新员工再确认一次。",
-        "examplePinyin": "Wǒ huì gēn xīn yuángōng zài quèrèn yí cì.",
-        "exampleTr": "Yeni çalışan ile bir kez daha teyit edeceğim.",
+        "exampleZh": "我把培训材料准备好，也会留出时间回答新员工的问题。",
+        "examplePinyin": "Wǒ bǎ péi xùn cái liào zhǔn bèi hǎo ， yě huì liú chū shí jiān huí dá xīn yuán gōng de wèn tí 。",
+        "exampleTr": "Eğitim materyallerini hazırlar, yeni çalışanın sorularını yanıtlamak için de zaman ayırırım.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "高峰时间",
         "pinyin": "gāofēng shíjiān",
         "tr": "yoğun saat",
-        "exampleZh": "如果高峰时间发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ gāofēng shíjiān fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Yoğun saat değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "我记了三天，高峰时间大约是下午五点半到七点半。",
+        "examplePinyin": "Wǒ jì le sān tiān ， gāo fēng shí jiān dà yuē shì xià wǔ wǔ diǎn bàn dào qī diǎn bàn 。",
+        "exampleTr": "Üç gün not tuttum; yoğun saatler yaklaşık 17.30 ile 19.30 arası.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "服务",
         "pinyin": "fúwù",
         "tr": "hizmet",
-        "exampleZh": "关于服务，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú fúwù, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Hizmet konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "培训做得稳，客人也会得到更一致的服务。",
+        "examplePinyin": "Péixùn zuò dé wěn, kèrén yě huì dédào gèng yízhì de fúwù.",
+        "exampleTr": "Eğitim sağlam olursa müşteriler de daha tutarlı hizmet alır.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "工作时间",
         "pinyin": "gōngzuò shíjiān",
         "tr": "çalışma saatleri",
-        "exampleZh": "工作时间是我们不能忽略的一点。",
-        "examplePinyin": "Gōngzuò shíjiān shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Çalışma saatleri göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "工作时间和忙碌程度说清楚，双方都不容易失望。",
+        "examplePinyin": "Gōngzuò shíjiān hé mánglù chéngdù shuō qīngchǔ, shuāngfāng dōu bù róngyì shīwàng.",
+        "exampleTr": "Çalışma saatlerini ve işin yoğunluğunu açıklarsak iki taraf da hayal kırıklığına uğramaz.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "责任",
         "pinyin": "zérèn",
         "tr": "sorumluluk",
-        "exampleZh": "我们把责任也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zérèn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Sorumluluk konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我们内部也会记排队时间，不能把检查服务的责任交给顾客。",
+        "examplePinyin": "Wǒ men nèi bù yě huì jì pái duì shí jiān ， bù néng bǎ jiǎn chá fú wù de zé rèn jiāo gěi gù kè 。",
+        "exampleTr": "Bekleme süresini biz de içeride kaydedeceğiz; hizmeti denetleme sorumluluğunu müşteriye bırakamayız.",
         "kind": "active"
       },
       {

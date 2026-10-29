@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC036_001",
       "speaker": "张雨桐",
-      "zh": "我的毕业项目要研究学生怎么使用图书馆，月底还要做公开汇报。",
-      "pinyin": "wǒ de bì yè xiàng mù yào yán jiū xué shēng zěn me shǐ yòng tú shū guǎn ， yuè dǐ hái yào zuò gōng kāi huì bào 。",
-      "tr": "Mezuniyet projemde öğrencilerin kütüphaneyi nasıl kullandığını araştırıyorum; ay sonunda açık sunum da yapacağım."
+      "zh": "我的毕业项目要研究大学生怎么使用大学图书馆，月底还要做公开汇报。",
+      "pinyin": "wǒ de bì yè xiàng mù yào yán jiū dà xué shēng zěn me shǐ yòng dà xué tú shū guǎn ， yuè dǐ hái yào zuò gōng kāi huì bào 。",
+      "tr": "Mezuniyet projemde üniversite öğrencilerinin kütüphaneyi nasıl kullandığını araştırıyorum; ay sonunda açık sunum da yapacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC036_002",
@@ -128,9 +128,9 @@
     {
       "id": "DLG_ZH_HSK5_SC036_018",
       "speaker": "导师",
-      "zh": "汇报不是把论文念一遍，而是带着听众理解你的论证。",
-      "pinyin": "huì bào bú shì bǎ lùn wén niàn yī biàn ， ér shì dài zhe tīng zhòng lǐ jiě nǐ de lùn zhèng 。",
-      "tr": "Sunum, makaleyi baştan sona okumak değildir; dinleyiciyi gerekçelerini anlamaya yönlendirmektir."
+      "zh": "汇报不是把论文念一遍，而是带着听众理解你的学术论证。",
+      "pinyin": "huì bào bú shì bǎ lùn wén niàn yī biàn ， ér shì dài zhe tīng zhòng lǐ jiě nǐ de xué shù lùn zhèng 。",
+      "tr": "Sunum, makaleyi baştan sona okumak değildir; dinleyiciyi akademik gerekçelendirmeyi anlamaya yönlendirmektir."
     },
     {
       "id": "DLG_ZH_HSK5_SC036_019",
@@ -632,9 +632,9 @@
     {
       "id": "DLG_ZH_HSK5_SC036_090",
       "speaker": "导师",
-      "zh": "明天再完整练一遍，今天先把改好的图表和说明核对好。",
-      "pinyin": "míng tiān zài wán zhěng liàn yī biàn ， jīn tiān xiān bǎ gǎi hǎo de tú biǎo hé shuō míng hé duì hǎo 。",
-      "tr": "Yarın baştan sona bir kez daha prova ederiz; bugün düzeltilmiş grafikleri ve açıklamaları kontrol et."
+      "zh": "明天再完整练一遍，今天先把改好的图表和说明核对好，也确认一下截止日期。",
+      "pinyin": "míng tiān zài wán zhěng liàn yī biàn ， jīn tiān xiān bǎ gǎi hǎo de tú biǎo hé shuō míng hé duì hǎo ， yě què rèn yī xià jié zhǐ rì qī 。",
+      "tr": "Yarın baştan sona bir kez daha prova ederiz; bugün düzeltilmiş grafikleri ve açıklamaları kontrol edip son teslim tarihini de teyit et."
     },
     {
       "id": "DLG_ZH_HSK5_SC036_091",

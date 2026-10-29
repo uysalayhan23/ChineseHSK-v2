@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC032_001",
       "speaker": "张伟",
-      "zh": "公司问我愿不愿意接一个额外项目，做完有奖金，但晚上要多工作几天。",
-      "pinyin": "gōng sī wèn wǒ yuàn bù yuàn yì jiē yí gè é wài xiàng mù ， zuò wán yǒu jiǎng jīn ， dàn wǎn shàng yào duō gōng zuò jǐ tiān 。",
-      "tr": "Şirket ek bir projeyi üstlenip üstlenemeyeceğimi sordu. Proje bitince prim alacağım ama birkaç akşam daha çalışmam gerekecek."
+      "zh": "公司问我愿不愿意接一个额外项目，薪酬会增加，但要做完才有奖金，晚上也要多工作几天。",
+      "pinyin": "gōng sī wèn wǒ yuàn bù yuàn yì jiē yí gè é wài xiàng mù ， xīn chóu huì zēng jiā ， dàn yào zuò wán cái yǒu jiǎng jīn ， wǎn shàng yě yào duō gōng zuò jǐ tiān 。",
+      "tr": "Şirket benden ek bir projeyi üstlenip üstlenemeyeceğimi sordu. Ücretim artacak, ancak prim projeyi bitirmeme bağlı ve birkaç akşam daha çalışmam gerekecek."
     },
     {
       "id": "DLG_ZH_HSK5_SC032_002",
@@ -114,9 +114,9 @@
     {
       "id": "DLG_ZH_HSK5_SC032_016",
       "speaker": "张雨桐",
-      "zh": "我之所以想先讨论时间，是因为钱多一些并不一定能补回错过的家庭时光。",
-      "pinyin": "Wǒ zhī suǒ yǐ xiǎng xiān tǎo lùn shí jiān shì yīn wèi qián duō yī xiē bìng bù yí dìng néng bǔ huí cuò guò de jiā tíng shí guāng",
-      "tr": "Önce zamanı konuşmak istememin nedeni, daha fazla paranın kaçırılan aile zamanını mutlaka telafi edemeyecek olması."
+      "zh": "我之所以想先讨论时间，是因为钱多一些不一定符合我们的价值观，也补不回错过的家庭时光。",
+      "pinyin": "wǒ zhī suǒ yǐ xiǎng xiān tǎo lùn shí jiān ， shì yīn wèi qián duō yī xiē bù yí dìng fú hé wǒ men de jià zhí guān ， yě bǔ bù huí cuò guò de jiā tíng shí guāng 。",
+      "tr": "Önce zamanı konuşmak istememin nedeni, daha fazla paranın değerlerimize uymayabileceği ve kaçırdığımız aile zamanını telafi edemeyeceğidir."
     },
     {
       "id": "DLG_ZH_HSK5_SC032_017",
@@ -219,9 +219,9 @@
     {
       "id": "DLG_ZH_HSK5_SC032_031",
       "speaker": "李晨",
-      "zh": "我觉得这比只看奖金更全面，毕竟我们的生活安排也会一起改变。",
-      "pinyin": "wǒ jué de zhè bǐ zhǐ kàn jiǎng jīn gèng quán miàn ， bì jìng wǒ men de shēng huó ān pái yě huì yì qǐ gǎi biàn 。",
-      "tr": "Bence bu yalnızca prime bakmaktan daha kapsamlı; sonuçta günlük düzenimiz de değişecek."
+      "zh": "我觉得这比只看奖金更全面，毕竟工作和家庭安排也会影响生活质量。",
+      "pinyin": "wǒ jué de zhè bǐ zhǐ kàn jiǎng jīn gèng quán miàn ， bì jìng gōng zuò hé jiā tíng ān pái yě huì yǐng xiǎng shēng huó zhì liàng 。",
+      "tr": "Bence bu, yalnızca prim miktarına bakmaktan daha kapsamlı; sonuçta iş ve aile düzenimiz yaşam kalitemizi de etkiler."
     },
     {
       "id": "DLG_ZH_HSK5_SC032_032",
@@ -254,9 +254,9 @@
     {
       "id": "DLG_ZH_HSK5_SC032_036",
       "speaker": "张雨桐",
-      "zh": "那就把“每周最多两晚、提前一周排班”作为我们可以接受的条件。",
-      "pinyin": "nà jiù bǎ “ měi zhōu zuì duō liǎng wǎn 、 tí qián yī zhōu pái bān ” zuò wéi wǒ men kě yǐ jiē shòu de tiáo jiàn 。",
-      "tr": "O hâlde “haftada en fazla iki akşam ve çizelgenin bir hafta önceden verilmesi” kabul edebileceğimiz koşullar olsun."
+      "zh": "那就把每周最多两晚、提前一周排班和固定家庭时间作为优先考虑的条件。",
+      "pinyin": "nà jiù bǎ měi zhōu zuì duō liǎng wǎn 、 tí qián yī zhōu pái bān hé gù dìng jiā tíng shí jiān zuò wéi yōu xiān kǎo lǜ de tiáo jiàn 。",
+      "tr": "O hâlde haftada en fazla iki akşam, çalışma çizelgesini bir hafta önceden öğrenmek ve aileye ayırdığımız sabit zamanı öncelikle dikkate alacağımız koşullar yapalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC032_037",
@@ -401,9 +401,9 @@
     {
       "id": "DLG_ZH_HSK5_SC032_057",
       "speaker": "张伟",
-      "zh": "这样就不只是为了眼前的奖金，也能照顾我们长期的生活节奏。",
-      "pinyin": "zhè yàng jiù bù zhǐ shì wèi le yǎn qián de jiǎng jīn ， yě néng zhào gù wǒ men cháng qī de shēng huó jié zòu 。",
-      "tr": "Böylece yalnızca kısa vadeli primi düşünmeyip uzun vadeli yaşam düzenimizi de gözetiriz."
+      "zh": "这样就不只是为了眼前的奖金，也符合我们重视家庭的人生目标。",
+      "pinyin": "zhè yàng jiù bù zhǐ shì wèi le yǎn qián de jiǎng jīn ， yě fú hé wǒ men zhòng shì jiā tíng de rén shēng mù biāo 。",
+      "tr": "Böylece yalnızca bugünkü prim için hareket etmeyiz; aileye önem veren yaşam hedeflerimize de uyarız."
     },
     {
       "id": "DLG_ZH_HSK5_SC032_058",
@@ -471,9 +471,9 @@
     {
       "id": "DLG_ZH_HSK5_SC032_067",
       "speaker": "李晨",
-      "zh": "还要看项目经验能不能帮助你以后发展；如果只是重复工作，价值就不一样。",
-      "pinyin": "hái yào kàn xiàng mù jīng yàn néng bù néng bāng zhù nǐ yǐ hòu fā zhǎn ； rú guǒ zhǐ shì chóng fù gōng zuò ， jià zhí jiù bù yí yàng 。",
-      "tr": "Proje deneyiminin gelecekteki gelişimine katkı sağlayıp sağlamayacağını da düşün; iş yalnızca tekrardan ibaretse değeri farklı olur."
+      "zh": "还要看项目经验能不能帮助你的职业发展；如果只是重复工作，价值就不一样。",
+      "pinyin": "hái yào kàn xiàng mù jīng yàn néng bù néng bāng zhù nǐ de zhí yè fā zhǎn ； rú guǒ zhǐ shì chóng fù gōng zuò ， jià zhí jiù bù yí yàng 。",
+      "tr": "Proje deneyiminin mesleki gelişimine katkı sağlayıp sağlamayacağına da bakmalıyız; iş sürekli aynıysa değeri farklı olur."
     },
     {
       "id": "DLG_ZH_HSK5_SC032_068",

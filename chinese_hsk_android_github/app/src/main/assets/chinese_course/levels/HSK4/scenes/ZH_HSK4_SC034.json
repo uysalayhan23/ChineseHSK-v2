@@ -730,9 +730,9 @@
         "zh": "分店",
         "pinyin": "fēndiàn",
         "tr": "şube",
-        "exampleZh": "我们得先看看分店是否真的合适。",
-        "examplePinyin": "Wǒmen děi xiān kànkan fēndiàn shìfǒu zhēn de héshì.",
-        "exampleTr": "Önce şube gerçekten uygun mu bakmalıyız.",
+        "exampleZh": "测试不是为了证明开分店一定成功，而是找出问题和机会。",
+        "examplePinyin": "cè shì bú shì wèi le zhèng míng kāi fēn diàn yí dìng chéng gōng ér shì zhǎo chū wèn tí hé jī huì",
+        "exampleTr": "Denemenin amacı şube açmanın kesin başarılı olacağını kanıtlamak değil, sorunları ve fırsatları bulmak.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "扩张",
         "pinyin": "kuòzhāng",
         "tr": "büyüme / genişleme",
-        "exampleZh": "我们把扩张也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ kuòzhāng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Büyüme / genişleme konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "等这些信息齐了，我们再一起讨论要不要继续扩张。",
+        "examplePinyin": "děng zhè xiē xìn xī qí le wǒ men zài yì qǐ tǎo lùn yào bù yào jì xù kuò zhāng",
+        "exampleTr": "Bilgiler tamamlanınca büyümeye devam edip etmeyeceğimizi birlikte konuşuruz.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "风险",
         "pinyin": "fēngxiǎn",
         "tr": "risk",
-        "exampleZh": "如果风险发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ fēngxiǎn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Risk değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "我赞成。店里稳定下来以后再扩张，风险会小一点。",
+        "examplePinyin": "wǒ zàn chéng diàn lǐ wěn dìng xià lái yǐ hòu zài kuò zhāng fēng xiǎn huì xiǎo yì diǎn",
+        "exampleTr": "Katılıyorum. Dükkânın işleyişi oturduktan sonra büyürsek risk azalır.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "好处",
         "pinyin": "hǎochu",
         "tr": "fayda",
-        "exampleZh": "关于好处，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú hǎochu, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Fayda konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "这说明地点和装修都有好处，也各有风险，不能只看外表。",
+        "examplePinyin": "zhè shuō míng dì diǎn hé zhuāng xiū dōu yǒu hǎo chù yě gè yǒu fēng xiǎn bù néng zhǐ kàn wài biǎo",
+        "exampleTr": "Bu, konum ve dekorasyonun hem avantajı hem riski olduğunu gösteriyor; yalnızca görünüşe bakamayız.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "成本",
         "pinyin": "chéngběn",
         "tr": "maliyet",
-        "exampleZh": "成本是我们不能忽略的一点。",
-        "examplePinyin": "Chéngběn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Maliyet göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "比较时把对顾客、成本和工作量的影响都写清楚。",
+        "examplePinyin": "bǐ jiào shí bǎ duì gù kè chéng běn hé gōng zuò liàng de yǐng xiǎng dōu xiě qīng chǔ",
+        "exampleTr": "Karşılaştırırken müşteri, maliyet ve iş yüküne etkisini açıkça yazalım.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "生意",
         "pinyin": "shēngyi",
         "tr": "iş / ticaret",
-        "exampleZh": "我们把生意也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ shēngyi yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Iş / ticaret konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "这个担心很实际。我们还得估计新店会不会影响老店的生意。",
+        "examplePinyin": "zhè ge dān xīn hěn shí jì wǒ men hái dé gū jì xīn diàn huì bú huì yǐng xiǎng lǎo diàn de shēng yì",
+        "exampleTr": "Bu kaygı gerçekçi. Yeni şube eski mağazanın işini etkiler mi, onu da tahmin etmeliyiz.",
         "kind": "active"
       },
       {

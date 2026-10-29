@@ -160,7 +160,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC032_023",
-      "speaker": "刘梅",
+      "speaker": "邮局工作人员",
       "zh": "可以，寄件人和收件人的地址都要写完整，字也请写清楚。",
       "pinyin": "Kě yǐ ， jì jiàn rén hé shōu jiàn rén de dì zhǐ dōu yào xiě wán zhěng ， zì yě qǐng xiě qīng chǔ 。",
       "tr": "Olur. Gönderenin ve alıcının adreslerini eksiksiz ve okunaklı yazın."
@@ -181,17 +181,17 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC032_026",
-      "speaker": "刘梅",
+      "speaker": "邮局工作人员",
       "zh": "这边列出了不同的寄送服务和费用，您可以先看一下。",
       "pinyin": "Zhè biān liè chū le bù tóng de jì sòng fú wù hé fèi yòng ， nín kě yǐ xiān kàn yī xià 。",
       "tr": "Farklı gönderi hizmetleri ve ücretleri burada listelenmiş; önce bakabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC032_027",
-      "speaker": "邮局工作人员",
+      "speaker": "刘梅",
       "zh": "奶奶最近在家吗？我们希望包裹别太晚到。",
-      "pinyin": "Nǎi nǎi zuì jìn zài jiā ma ？ wǒ men xī wàng bāo guǒ bié tài wǎn dào 。",
-      "tr": "Büyükanne son günlerde evde mi? Paketin çok geç ulaşmasını istemiyoruz."
+      "pinyin": "nǎinai zuìjìn zài jiā ma? wǒmen xīwàng bāoguǒ bié tài wǎn dào.",
+      "tr": "Büyükanneniz son günlerde evde mi? Paketin çok geç ulaşmasını istemiyoruz."
     },
     {
       "id": "DLG_ZH_HSK2_SC032_028",
@@ -202,21 +202,21 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC032_029",
-      "speaker": "刘梅",
+      "speaker": "邮局工作人员",
       "zh": "明白，您可以比较预计时间和费用，再决定哪一种合适。",
       "pinyin": "Míng bái ， nín kě yǐ bǐ jiào yù jì shí jiān hé fèi yòng ， zài jué dìng nǎ yī zhǒng hé shì 。",
       "tr": "Anladım. Size uygun olanı seçmek için tahmini süreyle ücreti karşılaştırabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC032_030",
-      "speaker": "邮局工作人员",
+      "speaker": "张伟",
       "zh": "那您能帮我们看看这几种服务有什么不同吗？",
       "pinyin": "Nà nín néng bāng wǒ men kàn kàn zhè jǐ zhǒng fú wù yǒu shén me bù tóng ma ？",
       "tr": "Bu seçeneklerin farkını anlamamıza yardım eder misiniz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC032_031",
-      "speaker": "张伟",
+      "speaker": "邮局工作人员",
       "zh": "我可以说明单子上列出的内容，具体送达时间还要看寄送情况。",
       "pinyin": "Wǒ kě yǐ shuō míng dān zi shàng liè chū de nèi róng ， jù tǐ sòng dá shí jiān hái yào kàn jì sòng qíng kuàng 。",
       "tr": "Listede yazanları açıklayabilirim; kesin teslim süresi gönderim koşullarına bağlıdır."
@@ -251,14 +251,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC032_036",
-      "speaker": "邮局工作人员",
+      "speaker": "张伟",
       "zh": "收据上会有包裹的号码吗？我们想告诉爷爷奶奶。",
       "pinyin": "Shōu jù shàng huì yǒu bāo guǒ de hào mǎ ma ？ wǒ men xiǎng gào sù yé yé nǎi nǎi 。",
       "tr": "Makbuzda paketin takip numarası olacak mı? Büyükannemle büyükbabamıza haber vermek istiyoruz."
     },
     {
       "id": "DLG_ZH_HSK2_SC032_037",
-      "speaker": "张伟",
+      "speaker": "邮局工作人员",
       "zh": "会有这次寄件的记录信息，您可以按收据上的内容查询。",
       "pinyin": "Huì yǒu zhè cì jì jiàn de jì lù xìn xī ， nín kě yǐ àn shōu jù shàng de nèi róng chá xún 。",
       "tr": "Makbuzda gönderi bilgileri bulunur; üzerindeki bilgilerle sorgulayabilirsiniz."
@@ -377,14 +377,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC032_054",
-      "speaker": "邮局工作人员",
+      "speaker": "刘梅",
       "zh": "这张寄件单的最后一栏需要我们签字吗？",
       "pinyin": "Zhè zhāng jì jiàn dān de zuì hòu yī lán xū yào wǒ men qiān zì ma ？",
       "tr": "Gönderi formunun son bölümünü imzalamamız gerekiyor mu?"
     },
     {
       "id": "DLG_ZH_HSK2_SC032_055",
-      "speaker": "张伟",
+      "speaker": "邮局工作人员",
       "zh": "请在这里签名，签完后把寄件单交给我。",
       "pinyin": "Qǐng zài zhè lǐ qiān míng ， qiān wán hòu bǎ jì jiàn dān jiāo gěi wǒ 。",
       "tr": "Lütfen burayı imzalayın, sonra formu bana verin."
@@ -482,7 +482,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC032_069",
-      "speaker": "邮局工作人员",
+      "speaker": "刘梅",
       "zh": "看得很清楚，我现在就发给爷爷奶奶，让他们知道我们寄出去了。",
       "pinyin": "Kàn dé hěn qīng chǔ ， wǒ xiàn zài jiù fā gěi yé yé nǎi nǎi ， ràng tā men zhī dào wǒ men jì chū qù le 。",
       "tr": "Çok net. Gönderdiğimizi bilsinler diye şimdi büyükanneyle büyükbabaya yolluyorum."
@@ -567,16 +567,16 @@
     {
       "id": "DLG_ZH_HSK2_SC032_081",
       "speaker": "邮局工作人员",
-      "zh": "我们都办好了吧？寄件单、收据和手机都拿着呢。",
-      "pinyin": "Wǒ men dōu bàn hǎo le ba ？ jì jiàn dān 、 shōu jù hé shǒu jī dōu ná zhe ne 。",
-      "tr": "Her şey tamam mı? Gönderi formu, makbuz ve telefon yanımızda."
+      "zh": "寄件单、收据和手机都带好了吗？请再确认一遍。",
+      "pinyin": "jìjiàn dān, shōujù hé shǒujī dōu dài hǎo le ma? qǐng zài quèrèn yí biàn.",
+      "tr": "Gönderi formu, makbuz ve telefon yanınızda mı? Lütfen bir kez daha kontrol edin."
     },
     {
       "id": "DLG_ZH_HSK2_SC032_082",
       "speaker": "张伟",
-      "zh": "都拿好了。收据上有寄件信息，之后需要查询时请保留它。",
-      "pinyin": "Dōu ná hǎo le 。 shōu jù shàng yǒu jì jiàn xìn xī ， zhī hòu xū yào chá xún shí qǐng bǎo liú tā 。",
-      "tr": "Hepsi yanınızda. Makbuzda gönderi bilgileri var; sorgulamak için saklayın."
+      "zh": "都拿好了，我会把收据收好，之后查询时再用。",
+      "pinyin": "dōu ná hǎo le, wǒ huì bǎ shōujù shōu hǎo, zhīhòu cháxún shí zài yòng.",
+      "tr": "Hepsini aldık. Makbuzu saklayıp sonra sorgularken kullanacağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC032_083",
@@ -692,7 +692,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC032_099",
-      "speaker": "邮局工作人员",
+      "speaker": "刘梅",
       "zh": "走吧，回家告诉爷爷奶奶我们已经把礼物寄出去了。",
       "pinyin": "Zǒu ba ， huí jiā gào sù yé yé nǎi nǎi wǒ men yǐ jīng bǎ lǐ wù jì chū qù le 。",
       "tr": "Hadi, eve dönüp büyükanneyle büyükbabaya hediyeyi gönderdiğimizi söyleyelim."

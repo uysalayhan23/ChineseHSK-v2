@@ -179,9 +179,9 @@
     {
       "id": "DLG_ZH_HSK4_SC044_025",
       "speaker": "张雨桐",
-      "zh": "我查过课程安排，除了设计基础，还有材料和项目管理。",
-      "pinyin": "Wǒ chá guò kè chéng ān pái chú le shè jì jī chǔ hái yǒu cái liào hé xiàng mù guǎn lǐ",
-      "tr": "Ders programına baktım; temel tasarımın yanı sıra malzeme ve proje yönetimi de var."
+      "zh": "课程里不但有设计基础，而且还有材料和项目管理。",
+      "pinyin": "kè chéng lǐ bù dàn yǒu shè jì jī chǔ ér qiě hái yǒu cái liào hé xiàng mù guǎn lǐ",
+      "tr": "Derslerde yalnızca tasarımın temelleri değil, malzeme ve proje yönetimi de var."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_026",
@@ -515,9 +515,9 @@
     {
       "id": "DLG_ZH_HSK4_SC044_073",
       "speaker": "张雨桐",
-      "zh": "我可以陪你一起核对信息，确认无误后再由我自己提交。",
-      "pinyin": "wǒ kě yǐ péi nǐ yì qǐ hé duì xìn xī què rèn wú wù hòu zài yóu wǒ zì jǐ tí jiāo",
-      "tr": "Bilgileri seninle kontrol edebilirim; doğru olduklarından emin olunca kendim gönderirim."
+      "zh": "我和你们一起核对信息，确认无误后由我自己提交。",
+      "pinyin": "wǒ hé nǐ men yì qǐ hé duì xìn xīquè rèn wú wù hòu yóu wǒ zì jǐ tí jiāo",
+      "tr": "Bilgileri sizinle birlikte kontrol edip doğruluğundan emin olduktan sonra kendim göndereceğim."
     },
     {
       "id": "DLG_ZH_HSK4_SC044_074",
@@ -730,9 +730,9 @@
         "zh": "录取通知书",
         "pinyin": "lùqǔ tōngzhīshū",
         "tr": "üniversite kabul mektubu",
-        "exampleZh": "录取通知书是我们不能忽略的一点。",
-        "examplePinyin": "Lùqǔ tōngzhīshū shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Üniversite kabul mektubu göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "录取通知书到了，我的名字真的在上面！",
+        "examplePinyin": "Lù qǔ tōng zhī shū dào le wǒ de míng zì zhēn de zài shàng miàn",
+        "exampleTr": "Kabul mektubum geldi; adım gerçekten listede!",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "录取",
         "pinyin": "lùqǔ",
         "tr": "kabul / yerleştirme",
-        "exampleZh": "我们把录取也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ lùqǔ yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Kabul / yerleştirme konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "看到录取两个字时，我手都在发抖。",
+        "examplePinyin": "Kàn dào lù qǔ liǎng gè zì shí wǒ shǒu dōu zài fā dǒu",
+        "exampleTr": "Kabul edildiğimi görünce ellerim titredi.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "大学",
         "pinyin": "dàxué",
         "tr": "üniversite",
-        "exampleZh": "这个大学有优点，也有需要考虑的地方。",
-        "examplePinyin": "Zhège dàxué yǒu yōudiǎn, yě yǒu xūyào kǎolǜ de dìfang.",
-        "exampleTr": "Bu üniversite avantajlara sahip ama düşünülmesi gereken yönleri de var.",
+        "exampleZh": "快打开看看，是你申请的那所大学吗？",
+        "examplePinyin": "Kuài dǎ kāi kàn kàn shì nǐ shēn qǐng de nà suǒ dà xué ma",
+        "exampleTr": "Hemen açıp bakalım; başvurduğun üniversite mi?",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "关于家人，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jiārén, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Aile konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "有家人的支持，你适应大学生活时会更安心。",
+        "examplePinyin": "Yǒu jiā rén de zhī chí nǐ shì yìng dà xué shēng huó shí huì gèng ān xīn",
+        "exampleTr": "Ailenin desteği, üniversite yaşamına alışırken kendini daha güvende hissetmeni sağlayacak.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "未来计划",
         "pinyin": "wèilái jìhuà",
         "tr": "gelecek planı",
-        "exampleZh": "未来计划是我们不能忽略的一点。",
-        "examplePinyin": "Wèilái jìhuà shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Gelecek planı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "你可以把未来计划分成几个阶段，给自己留出调整的空间。",
+        "examplePinyin": "nǐ kě yǐ bǎ wèi lái jì huà fēn chéng jǐ gè jiē duàn gěi zì jǐ liú chū tiáo zhěng de kōng jiān",
+        "exampleTr": "Gelecek planını birkaç aşamaya ayırıp kendine değişiklik yapma alanı bırakabilirsin.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "开心",
         "pinyin": "kāixīn",
         "tr": "mutlu",
-        "exampleZh": "我们把开心也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ kāixīn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Mutlu konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我现在很开心，也觉得终于可以松一口气了。",
+        "examplePinyin": "Wǒ xiàn zài hěn kāi xīn yě jué de zhōng yú kě yǐ sōng yì kǒu qì le",
+        "exampleTr": "Şu an çok mutluyum; sonunda derin bir nefes alabiliyorum.",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "xuéxí",
         "tr": "ders çalışma",
         "exampleZh": "如果学习发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ xuéxí fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ xuéxí fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Ders çalışma değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "xuǎnzé",
         "tr": "seçim",
         "exampleZh": "关于选择，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú xuǎnzé, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú xuǎnzé wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Seçim konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

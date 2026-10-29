@@ -109,9 +109,9 @@
     {
       "id": "DLG_ZH_HSK5_SC039_015",
       "speaker": "刘梅",
-      "zh": "搬家不只是找房子，还要考虑新的生活圈和支持的人。",
-      "pinyin": "bān jiā bù zhǐ shì zhǎo fáng zi ， hái yào kǎo lǜ xīn de shēng huó quān hé zhī chí de rén 。",
-      "tr": "Taşınmak yalnızca ev bulmak değildir; yeni çevreni ve destek alabileceğin kişileri de düşünmelisin."
+      "zh": "搬家不只是找房子，还要考虑新的生活圈、支持的人和归属感。",
+      "pinyin": "bān jiā bù zhǐ shì zhǎo fáng zi ， hái yào kǎo lǜ xīn de shēng huó quān 、 zhī chí de rén hé guī shǔ gǎn 。",
+      "tr": "Taşınmak yalnızca ev bulmak değildir; yeni çevreni, destek alabileceğin kişileri ve aidiyet duygunu da düşünmelisin."
     },
     {
       "id": "DLG_ZH_HSK5_SC039_016",
@@ -354,9 +354,9 @@
     {
       "id": "DLG_ZH_HSK5_SC039_050",
       "speaker": "张伟",
-      "zh": "再比较收入、发展机会、生活成本和离家距离，不要只看一项。",
-      "pinyin": "zài bǐ jiào shōu rù 、 fā zhǎn jī huì 、 shēng huó chéng běn hé lí jiā jù lí ， bú yào zhǐ kàn yī xiàng 。",
-      "tr": "Geliri, gelişim fırsatlarını, yaşam maliyetini ve eve uzaklığı karşılaştırın; tek bir ölçüte bakmayın."
+      "zh": "再比较收入、职业发展机会、生活成本和离家距离，不要只看一项。",
+      "pinyin": "zài bǐ jiào shōu rù 、 zhí yè fā zhǎn jī huì 、 shēng huó chéng běn hé lí jiā jù lí ， bú yào zhǐ kàn yī xiàng 。",
+      "tr": "Geliri, mesleki gelişim fırsatlarını, yaşam maliyetini ve eve uzaklığı karşılaştırın; tek bir ölçüte bakmayın."
     },
     {
       "id": "DLG_ZH_HSK5_SC039_051",
@@ -728,82 +728,82 @@
       {
         "id": "VOC_ZH_HSK5_SC039_001",
         "zh": "搬迁",
-        "pinyin": "bānqiān",
+        "pinyin": "bān qiān",
         "tr": "taşınmak / yer değiştirmek",
-        "exampleZh": "在决定以前，我们最好先搬迁。",
-        "examplePinyin": "Zài juédìng yǐqián, wǒmen zuìhǎo xiān bānqiān.",
-        "exampleTr": "Karar vermeden önce taşınmak / yer değiştirmek daha iyi olur.",
+        "exampleZh": "我可以先查那边的租房信息，也问问公司有没有搬迁补助。",
+        "examplePinyin": "wǒ kě yǐ xiān chá nà biān de zū fáng xìn xī ， yě wèn wèn gōng sī yǒu méi yǒu bān qiān bǔ zhù 。",
+        "exampleTr": "Oradaki kiralık evleri araştırabilir, şirkette taşınma desteği olup olmadığını da sorabilirim.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC039_002",
         "zh": "归属感",
-        "pinyin": "guīshǔgǎn",
+        "pinyin": "guī shǔ gǎn",
         "tr": "aidiyet duygusu",
-        "exampleZh": "我们把归属感也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ guīshǔgǎn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Aidiyet duygusu konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "搬家不只是找房子，还要考虑新的生活圈、支持的人和归属感。",
+        "examplePinyin": "bān jiā bù zhǐ shì zhǎo fáng zi ， hái yào kǎo lǜ xīn de shēng huó quān 、 zhī chí de rén hé guī shǔ gǎn 。",
+        "exampleTr": "Taşınmak yalnızca ev bulmak değildir; yeni çevreni, destek alabileceğin kişileri ve aidiyet duygunu da düşünmelisin.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC039_003",
         "zh": "职业发展",
-        "pinyin": "zhíyè fāzhǎn",
+        "pinyin": "zhí yè fā zhǎn",
         "tr": "kariyer gelişimi",
-        "exampleZh": "如果职业发展发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ zhíyè fāzhǎn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Kariyer gelişimi değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "再比较收入、职业发展机会、生活成本和离家距离，不要只看一项。",
+        "examplePinyin": "zài bǐ jiào shōu rù 、 zhí yè fā zhǎn jī huì 、 shēng huó chéng běn hé lí jiā jù lí ， bú yào zhǐ kàn yī xiàng 。",
+        "exampleTr": "Geliri, mesleki gelişim fırsatlarını, yaşam maliyetini ve eve uzaklığı karşılaştırın; tek bir ölçüte bakmayın.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC039_004",
         "zh": "家人",
-        "pinyin": "jiārén",
+        "pinyin": "jiā rén",
         "tr": "aile",
-        "exampleZh": "关于家人，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jiārén, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Aile konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "家人之间的联系可以继续，关键是提前安排回家的时间。",
+        "examplePinyin": "jiā rén zhī jiān de lián xì kě yǐ jì xù ， guān jiàn shì tí qián ān pái huí jiā de shí jiān 。",
+        "exampleTr": "Aile bağlarınızı sürdürebilirsiniz; önemli olan eve dönüş zamanlarını önceden planlamak.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC039_005",
         "zh": "选择",
-        "pinyin": "xuǎnzé",
+        "pinyin": "xuǎn zé",
         "tr": "seçim",
-        "exampleZh": "选择是我们不能忽略的一点。",
-        "examplePinyin": "Xuǎnzé shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Seçim göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "这份工作能不能先谈远程或晚些入职？多一个选择会好比较。",
+        "examplePinyin": "zhè fèn gōng zuò néng bù néng xiān tán yuǎn chéng huò wǎn xiē rù zhí ？ duō yí gè xuǎn zé huì hǎo bǐ jiào 。",
+        "exampleTr": "Bu iş için uzaktan çalışmayı veya daha geç başlamayı konuşabilir misin? Bir seçenek daha karşılaştırmayı kolaylaştırır.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC039_006",
         "zh": "生活质量",
-        "pinyin": "shēnghuó zhìliàng",
+        "pinyin": "shēng huó zhì liàng",
         "tr": "yaşam kalitesi",
-        "exampleZh": "我们把生活质量也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ shēnghuó zhìliàng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Yaşam kalitesi konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "对，生活质量也要算进去，不是房租便宜就一定合适。",
+        "examplePinyin": "duì ， shēng huó zhì liàng yě yào suàn jìn qù ， bú shì fáng zū pián yi jiù yí dìng hé shì 。",
+        "exampleTr": "Evet, yaşam kalitesini de düşünmelisiniz; kira ucuz diye mutlaka uygun olacak değil.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC039_007",
-        "zh": "未来计划",
-        "pinyin": "wèilái jìhuà",
-        "tr": "gelecek planı",
-        "exampleZh": "如果未来计划发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ wèilái jìhuà fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Gelecek planı değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "zh": "租房信息",
+        "pinyin": "zū fáng xìn xī",
+        "tr": "kiralık ev bilgileri",
+        "exampleZh": "我可以先查那边的租房信息，也问问公司有没有搬迁补助。",
+        "examplePinyin": "wǒ kě yǐ xiān chá nà biān de zū fáng xìn xī ， yě wèn wèn gōng sī yǒu méi yǒu bān qiān bǔ zhù 。",
+        "exampleTr": "Oradaki kiralık evleri araştırabilir, şirkette taşınma desteği olup olmadığını da sorabilirim.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC039_008",
         "zh": "距离",
-        "pinyin": "jùlí",
+        "pinyin": "jù lí",
         "tr": "mesafe",
-        "exampleZh": "关于距离，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jùlí, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Mesafe konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "我会把这些地点标在地图上，周末一起看看实际距离。",
+        "examplePinyin": "wǒ huì bǎ zhè xiē dì diǎn biāo zài dì tú shàng ， zhōu mò yì qǐ kàn kàn shí jì jù lí 。",
+        "exampleTr": "Bu yerleri haritada işaretlerim; hafta sonu gerçek mesafelerine birlikte bakarız.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

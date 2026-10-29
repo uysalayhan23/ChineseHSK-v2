@@ -200,9 +200,9 @@
     {
       "id": "DLG_ZH_HSK3_SC010_028",
       "speaker": "张雨桐",
-      "zh": "先画出尺寸，再把柜台和桌子放进去试试。",
-      "pinyin": "xiān huà chū chǐ cùn ， zài bǎ guì tái hé zhuō zi fàng jìn qù shì shì 。",
-      "tr": "Önce ölçüleri çizip tezgâh ve masaları yerleştirmeyi deneyelim."
+      "zh": "先画出尺寸，然后把柜台和桌子放进去试试。",
+      "pinyin": "Xiān huà chū chǐ cùn ， rán hòu bǎ guì tái hé zhuō zi fàng jìn qù shì shì 。",
+      "tr": "Önce ölçüleri çizelim, sonra tezgâhla masaları yerleştirmeyi deneyelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC010_029",
@@ -730,9 +730,9 @@
         "zh": "街角店铺",
         "pinyin": "jiējiǎo diànpù",
         "tr": "köşe dükkânı",
-        "exampleZh": "我们再看看街角店铺的情况。",
-        "examplePinyin": "Wǒmen zài kànkan jiējiǎo diànpù de qíngkuàng.",
-        "exampleTr": "Köşe dükkânı durumuna bir kez daha bakalım.",
+        "exampleZh": "这间老街角店铺一直空着吗？",
+        "examplePinyin": "zhè jiān lǎo jiē jiǎo diàn pù yì zhí kōng zhe ma ？",
+        "exampleTr": "Bu eski köşe dükkânı uzun zamandır boş mu?",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "潜力",
         "pinyin": "qiánlì",
         "tr": "potansiyel",
-        "exampleZh": "潜力是这次要考虑的重点之一。",
-        "examplePinyin": "Qiánlì shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-        "exampleTr": "Potansiyel bu kez değerlendirmemiz gereken ana noktalardan biri.",
+        "exampleZh": "先看看店面和尺寸，再想想它有没有潜力。",
+        "examplePinyin": "xiān kàn kàn diàn miàn hé chǐ cùn ， zài xiǎng xiǎng tā yǒu méi yǒu qián lì 。",
+        "exampleTr": "Önce dükkânı ve ölçüleri inceleyip potansiyeli var mı düşünelim.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "店面",
         "pinyin": "diànmiàn",
         "tr": "dükkân / iş yeri",
-        "exampleZh": "如果选这个店面，以后会方便一些。",
-        "examplePinyin": "Rúguǒ xuǎn zhège diànmiàn, yǐhòu huì fāngbiàn yìxiē.",
-        "exampleTr": "Bu dükkân / iş yeri seçilirse ileride daha kullanışlı olur.",
+        "exampleZh": "先看看店面和尺寸，再想想它有没有潜力。",
+        "examplePinyin": "xiān kàn kàn diàn miàn hé chǐ cùn ， zài xiǎng xiǎng tā yǒu méi yǒu qián lì 。",
+        "exampleTr": "Önce dükkânı ve ölçüleri inceleyip potansiyeli var mı düşünelim.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "装修",
         "pinyin": "zhuāngxiū",
         "tr": "tadilat",
-        "exampleZh": "这一步需要认真装修。",
-        "examplePinyin": "Zhè yí bù xūyào rènzhēn zhuāngxiū.",
-        "exampleTr": "Bu adımda dikkatlice tadilat gerekiyor.",
+        "exampleZh": "墙上的漆掉了不少，需要重新装修吗？",
+        "examplePinyin": "qiáng shàng de qī diào le bù shǎo ， xū yào chóng xīn zhuāng xiū ma ？",
+        "exampleTr": "Duvarların boyası dökülmüş; yeniden tadilat gerekir mi?",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "墙",
         "pinyin": "qiáng",
         "tr": "duvar",
-        "exampleZh": "关于墙，我们还要再讨论一下。",
-        "examplePinyin": "Guānyú qiáng, wǒmen hái yào zài tǎolùn yíxià.",
-        "exampleTr": "Duvar konusunda biraz daha konuşmalıyız.",
+        "exampleZh": "老板说已经空了半年，不过墙和柜子还在。",
+        "examplePinyin": "lǎo bǎn shuō yǐ jīng kōng le bàn nián ， bù guò qiáng hé guì zi hái zài 。",
+        "exampleTr": "Sahibi yarım yıldır boş olduğunu ama duvarlarla dolapların durduğunu söyledi.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "尺寸",
         "pinyin": "chǐcùn",
         "tr": "ölçü",
-        "exampleZh": "我已经把尺寸记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ chǐcùn jì xiàlái le.",
-        "exampleTr": "Ölçü notunu aldım.",
+        "exampleZh": "先看看店面和尺寸，再想想它有没有潜力。",
+        "examplePinyin": "xiān kàn kàn diàn miàn hé chǐ cùn ， zài xiǎng xiǎng tā yǒu méi yǒu qián lì 。",
+        "exampleTr": "Önce dükkânı ve ölçüleri inceleyip potansiyeli var mı düşünelim.",
         "kind": "active"
       },
       {

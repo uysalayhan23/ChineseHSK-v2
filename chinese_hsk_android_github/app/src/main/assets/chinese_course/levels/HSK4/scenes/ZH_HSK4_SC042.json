@@ -130,9 +130,9 @@
     {
       "id": "DLG_ZH_HSK4_SC042_018",
       "speaker": "志愿者",
-      "zh": "这样可以减少遗漏，也免得大家各自用不同版本。",
-      "pinyin": "Zhè yàng kě yǐ jiǎn shǎo yí lòu yě miǎn de dà jiā gè zì yòng bù tóng bǎn běn",
-      "tr": "Böylece bir şey atlanmaz ve herkes farklı bir liste kullanmaz."
+      "zh": "名单被更新时，我会把新版本交给大家。",
+      "pinyin": "míng dān bèi gēng xīn shí wǒ huì bǎ xīn bǎn běn jiāo gěi dà jiā",
+      "tr": "Liste güncellenince yeni sürümü herkese veririm."
     },
     {
       "id": "DLG_ZH_HSK4_SC042_019",
@@ -730,9 +730,9 @@
         "zh": "统筹",
         "pinyin": "tǒngchóu",
         "tr": "genel koordinasyon",
-        "exampleZh": "统筹是我们不能忽略的一点。",
-        "examplePinyin": "Tǒngchóu shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Genel koordinasyon göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "好，每组的负责人把需要的材料也列出来，我去统筹采购。",
+        "examplePinyin": "Hǎo měi zǔ de fù zé rén bǎ xū yào de cái liào yě liè chū lái wǒ qù tǒng chóu cǎi gòu",
+        "exampleTr": "Güzel. Her grup gereken malzemeleri de yazsın; alışverişi ben koordine edeyim.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "志愿者",
         "pinyin": "zhìyuànzhě",
         "tr": "gönüllü",
-        "exampleZh": "我会跟志愿者再确认一次。",
-        "examplePinyin": "Wǒ huì gēn zhìyuànzhě zài quèrèn yí cì.",
-        "exampleTr": "Gönüllü ile bir kez daha teyit edeceğim.",
+        "exampleZh": "新志愿者问能不能带孩子一起来帮忙。",
+        "examplePinyin": "Xīn zhì yuàn zhě wèn néng bù néng dài hái zi yì qǐ lái bāng máng",
+        "exampleTr": "Yeni gönüllülerden biri çocuğunu da yardıma getirebilir mi diye sordu.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "组织",
         "pinyin": "zǔzhī",
         "tr": "organize etmek",
-        "exampleZh": "我来负责组织这一部分。",
-        "examplePinyin": "Wǒ lái fùzé zǔzhī zhè yí bùfen.",
-        "exampleTr": "Organize etmek kısmını ben üstleneyim.",
+        "exampleZh": "今天的组织比上次顺利，临时变化也没有让大家乱了手脚。",
+        "examplePinyin": "Jīn tiān de zǔ zhī bǐ shàng cì shùn lì lín shí biàn huà yě méi yǒu ràng dà jiā luàn le shǒu jiǎo",
+        "exampleTr": "Bugünkü organizasyon geçen seferden daha iyiydi; son dakika değişikliklerinde de kimse paniklemedi.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "分工",
         "pinyin": "fēngōng",
         "tr": "iş bölümü",
-        "exampleZh": "这件事需要大家一起分工。",
-        "examplePinyin": "Zhè jiàn shì xūyào dàjiā yìqǐ fēngōng.",
-        "exampleTr": "Bu konuda herkesin birlikte iş bölümü gerekiyor.",
+        "exampleZh": "那我先说明流程，再按每个人的经验分工。",
+        "examplePinyin": "Nà wǒ xiān shuō míng liú chéng zài àn měi gè rén de jīng yàn fēn gōng",
+        "exampleTr": "Önce iş akışını anlatayım, sonra herkesin deneyimine göre görev dağıtalım.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "安排",
         "pinyin": "ānpái",
         "tr": "planlama / düzenleme",
-        "exampleZh": "安排是我们不能忽略的一点。",
-        "examplePinyin": "Ānpái shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Planlama / düzenleme göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "好，我会负责把这两项加进下次的安排。",
+        "examplePinyin": "Hǎo wǒ huì fù zé bǎ zhè liǎng xiàng jiā jìn xià cì de ān pái",
+        "exampleTr": "Olur, gelecek seferki planlamaya bu iki maddeyi ekleyeceğim.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "责任感",
         "pinyin": "zérèngǎn",
         "tr": "sorumluluk duygusu",
-        "exampleZh": "我们把责任感也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zérèngǎn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Sorumluluk duygusu konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "明白。把真实情况说清楚，也是一种责任感。",
+        "examplePinyin": "Míng bái bǎ zhēn shí qíng kuàng shuō qīng chǔ yě shì yī zhǒng zé rèn gǎn",
+        "exampleTr": "Anladım. Durumu olduğu gibi anlatmak da sorumluluk sahibi olmanın bir parçası.",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "shèqū",
         "tr": "mahalle / topluluk",
         "exampleZh": "如果社区发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ shèqū fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ shèqū fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Mahalle / topluluk değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "lǐngdǎo nénglì",
         "tr": "liderlik becerisi",
         "exampleZh": "关于领导能力，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú lǐngdǎo nénglì, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú lǐngdǎo nénglì wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Liderlik becerisi konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

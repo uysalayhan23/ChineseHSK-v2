@@ -182,9 +182,9 @@
     {
       "id": "DLG_ZH_HSK2_SC010_026",
       "speaker": "刘梅",
-      "zh": "面包十二块，水果十八块。",
-      "pinyin": "miàn bāo shí èr kuài, shuǐ guǒ shí bā kuài.",
-      "tr": "Ekmek 12, meyveler 18 yuan."
+      "zh": "面包十二块，水果十八块，牛奶六块。",
+      "pinyin": "Miàn bāo shí èr kuài, shuǐ guǒ shí bā kuài, niú nǎi liù kuài.",
+      "tr": "Ekmek 12, meyve 18, süt 6 yuan."
     },
     {
       "id": "DLG_ZH_HSK2_SC010_027",
@@ -196,9 +196,9 @@
     {
       "id": "DLG_ZH_HSK2_SC010_028",
       "speaker": "张乐乐",
-      "zh": "我来付钱，回去再跟爸爸说。",
-      "pinyin": "wǒ lái fù qián, huí qù zài gēn bà bà shuō.",
-      "tr": "Ben ödeyeyim, dönünce babama söylerim."
+      "zh": "我来付钱吧，爸爸回头再给我。",
+      "pinyin": "wǒ lái fù qián ba, bàba huítóu zài gěi wǒ.",
+      "tr": "Ben ödeyeyim, babam sonra parasını verir."
     },
     {
       "id": "DLG_ZH_HSK2_SC010_029",
@@ -266,9 +266,9 @@
     {
       "id": "DLG_ZH_HSK2_SC010_038",
       "speaker": "刘梅",
-      "zh": "我去洗手间旁边找水。",
-      "pinyin": "wǒ qù xǐ shǒu jiān páng biān zhǎo shuǐ.",
-      "tr": "Tuvaletin yanından su bulmaya gideyim."
+      "zh": "我去公园的饮水处找水。",
+      "pinyin": "Wǒ qù gōng yuán de yǐn shuǐ chù zhǎo shuǐ.",
+      "tr": "Parktaki çeşmeden su almaya gideyim."
     },
     {
       "id": "DLG_ZH_HSK2_SC010_039",
@@ -674,7 +674,7 @@
       "speaker": "张乐乐",
       "zh": "好，今天虽然忘了食物，大家还是一起吃了午饭。",
       "pinyin": "hǎo, jīn tiān suī rán wàng le shí wù, dà jiā hái shì yì qǐ chī le wǔ fàn.",
-      "tr": "Peki, bugün yiyecekleri unutmuş olsak da birlikte öğle yemeği yedik。"
+      "tr": "Peki, bugün yiyecekleri unutmuş olsak da birlikte öğle yemeği yedik."
     },
     {
       "id": "DLG_ZH_HSK2_SC010_097",
@@ -702,7 +702,7 @@
       "speaker": "张乐乐",
       "zh": "这次我一定会检查好。",
       "pinyin": "zhè cì wǒ yí dìng huì jiǎn chá hǎo.",
-      "tr": "Bu kez mutlaka kontrol edeceğim。"
+      "tr": "Bu kez mutlaka kontrol edeceğim."
     }
   ],
   "dialogueCount": 100

@@ -242,9 +242,9 @@
     {
       "id": "DLG_ZH_HSK4_SC047_034",
       "speaker": "刘梅",
-      "zh": "你可以试着按退休后的预算生活几个月，看看感觉怎么样。",
-      "pinyin": "Nǐ kě yǐ shì zhe àn tuì xiū hòu de yù suàn shēng huó jǐ gè yuè kàn kàn gǎn jué zěn me yàng",
-      "tr": "Emeklilik bütçesine göre birkaç ay yaşamayı deneyip nasıl hissettiğine bakabilirsin."
+      "zh": "与其只在表格上估算，不如先按退休后的预算生活几个月，看看感觉怎么样。",
+      "pinyin": "yǔ qí zhǐ zài biǎo gé shàng gū suàn bù rú xiān àn tuì xiū hòu de yù suàn shēng huó jǐ gè yuè kàn kàn gǎn jué zěn me yàng",
+      "tr": "Yalnızca tabloda tahmin yürütmektense emeklilik bütçesine göre birkaç ay yaşayıp nasıl hissettirdiğine bakabilirsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC047_035",
@@ -730,9 +730,9 @@
         "zh": "退休计划",
         "pinyin": "tuìxiū jìhuà",
         "tr": "emeklilik planı",
-        "exampleZh": "退休计划是我们不能忽略的一点。",
-        "examplePinyin": "Tuìxiū jìhuà shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Emeklilik planı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "当然。退休计划不是一次定好就永远不能改。",
+        "examplePinyin": "Dāng rán tuì xiū jì huà bú shì yī cì dìng hǎo jiù yǒng yuǎn bù néng gǎi",
+        "exampleTr": "Elbette. Emeklilik planı bir kez belirlenip sonsuza kadar değişmeden kalmaz.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "储蓄",
         "pinyin": "chǔxù",
         "tr": "tasarruf",
-        "exampleZh": "我们把储蓄也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ chǔxù yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Tasarruf konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "还有每月的储蓄要不要继续？",
+        "examplePinyin": "Hái yǒu měi yuè de chǔ xù yào bù yào jì xù",
+        "exampleTr": "Her ay birikim yapmayı sürdürmeli miyim?",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "预算",
         "pinyin": "yùsuàn",
         "tr": "bütçe",
-        "exampleZh": "如果预算发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ yùsuàn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Bütçe değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "如果房子暂时租不出去，预算会差很多吗？",
+        "examplePinyin": "Rú guǒ fáng zi zàn shí zū bù chū qù yù suàn huì chà hěn duō ma",
+        "exampleTr": "Ev bir süre kiralanamazsa bütçemiz çok etkilenir mi?",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "提前退休",
         "pinyin": "tíqián tuìxiū",
         "tr": "erken emeklilik",
-        "exampleZh": "关于提前退休，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú tíqián tuìxiū, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Erken emeklilik konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "爸爸，如果储蓄够了，你会想提前退休吗？",
+        "examplePinyin": "Bà bà rú guǒ chǔ xù gòu le nǐ huì xiǎng tí qián tuì xiū ma",
+        "exampleTr": "Baba, birikimin yeterliyse erken emekli olmak ister misin?",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "咖啡馆的想法",
         "pinyin": "kāfēiguǎn de xiǎngfa",
         "tr": "kafe fikri",
-        "exampleZh": "咖啡馆的想法是我们不能忽略的一点。",
-        "examplePinyin": "Kāfēiguǎn de xiǎngfa shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Kafe fikri göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "咖啡馆的想法就先放在未来计划里，调查后再决定。",
+        "examplePinyin": "Kā fēi guǎn de xiǎng fǎ jiù xiān fàng zài wèi lái jì huà lǐ diào chá hòu zài jué dìng",
+        "exampleTr": "Kafe fikrini gelecek planında tutalım; araştırmadan sonra karar veririz.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "未来计划",
         "pinyin": "wèilái jìhuà",
         "tr": "gelecek planı",
-        "exampleZh": "我们把未来计划也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ wèilái jìhuà yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Gelecek planı konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "咖啡馆的想法就先放在未来计划里，调查后再决定。",
+        "examplePinyin": "Kā fēi guǎn de xiǎng fǎ jiù xiān fàng zài wèi lái jì huà lǐ diào chá hòu zài jué dìng",
+        "exampleTr": "Kafe fikrini gelecek planında tutalım; araştırmadan sonra karar veririz.",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "pínghéng",
         "tr": "denge",
         "exampleZh": "如果平衡发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ pínghéng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ pínghéng fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Denge değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "jiārén",
         "tr": "aile",
         "exampleZh": "关于家人，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jiārén, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú jiārén wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Aile konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

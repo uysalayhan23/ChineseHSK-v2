@@ -32,9 +32,9 @@
     {
       "id": "DLG_ZH_HSK5_SC033_004",
       "speaker": "李晨",
-      "zh": "我觉得只要你认真考虑过，最后的选择就是你的，不必为了让别人满意而改变。",
-      "pinyin": "wǒ jué de zhǐ yào nǐ rèn zhēn kǎo lǜ guò ， zuì hòu de xuǎn zé jiù shì nǐ de ， bù bì wèi le ràng bié rén mǎn yì ér gǎi biàn 。",
-      "tr": "Dikkatle düşündüysen son karar senin; başkalarını memnun etmek için kararını değiştirmen gerekmez."
+      "zh": "我觉得只要你认真考虑过，最后的选择就是你的；按照自己的价值观决定，不必为了让别人满意而改变。",
+      "pinyin": "wǒ jué de zhǐ yào nǐ rèn zhēn kǎo lǜ guò ， zuì hòu de xuǎn zé jiù shì nǐ de ； àn zhào zì jǐ de jià zhí guān jué dìng ， bù bì wèi le ràng bié rén mǎn yì ér gǎi biàn 。",
+      "tr": "Bence bunu ciddi biçimde düşündüysen son karar senin; kendi değerlerine göre karar ver, herkesi memnun etmek için fikrini değiştirme."
     },
     {
       "id": "DLG_ZH_HSK5_SC033_005",
@@ -81,9 +81,9 @@
     {
       "id": "DLG_ZH_HSK5_SC033_011",
       "speaker": "刘梅",
-      "zh": "我也觉得先把自己的优先顺序说清楚很重要，不然容易只盯着薪水。",
-      "pinyin": "wǒ yě jué de xiān bǎ zì jǐ de yōu xiān shùn xù shuō qīng chǔ hěn zhòng yào ， bù rán róng yì zhǐ dīng zhe xīn shuǐ 。",
-      "tr": "Önceliklerimizi netleştirmenin önemli olduğunu düşünüyorum; yoksa yalnızca maaşa odaklanabiliriz."
+      "zh": "我也觉得先说清楚自己优先考虑的事情很重要，不然容易只盯着薪水。",
+      "pinyin": "wǒ yě jué de xiān shuō qīng chǔ zì jǐ yōu xiān kǎo lǜ de shì qíng hěn zhòng yào ， bù rán róng yì zhǐ dīng zhe xīn shuǐ 。",
+      "tr": "Bence öncelik vermek istediğin şeyleri netleştirmek de önemli; yoksa yalnızca maaşa odaklanabilirsin."
     },
     {
       "id": "DLG_ZH_HSK5_SC033_012",
@@ -730,9 +730,9 @@
         "zh": "工作邀请",
         "pinyin": "gōngzuò yāoqǐng",
         "tr": "iş teklifi",
-        "exampleZh": "工作邀请是我们不能忽略的一点。",
-        "examplePinyin": "Gōngzuò yāoqǐng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Iş teklifi göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我想了几天，准备拒绝那份薪酬更高的工作邀请。",
+        "examplePinyin": "wǒ xiǎng le jǐ tiān ， zhǔn bèi jù jué nà fèn xīn chóu gèng gāo de gōng zuò yāo qǐng 。",
+        "exampleTr": "Düşündükten sonra maaşı daha yüksek olan iş teklifini reddetmeye karar verdim.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "价值观",
         "pinyin": "jiàzhíguān",
         "tr": "değerler",
-        "exampleZh": "我们把价值观也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jiàzhíguān yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Değerler konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我觉得只要你认真考虑过，最后的选择就是你的；按照自己的价值观决定，不必为了让别人满意而改变。",
+        "examplePinyin": "wǒ jué de zhǐ yào nǐ rèn zhēn kǎo lǜ guò ， zuì hòu de xuǎn zé jiù shì nǐ de ； àn zhào zì jǐ de jià zhí guān jué dìng ， bù bì wèi le ràng bié rén mǎn yì ér gǎi biàn 。",
+        "exampleTr": "Bence bunu ciddi biçimde düşündüysen son karar senin; kendi değerlerine göre karar ver, herkesi memnun etmek için fikrini değiştirme.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "优先考虑",
         "pinyin": "yōuxiān kǎolǜ",
         "tr": "öncelik vermek",
-        "exampleZh": "如果优先考虑发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ yōuxiān kǎolǜ fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Öncelik vermek değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "我也觉得先说清楚自己优先考虑的事情很重要，不然容易只盯着薪水。",
+        "examplePinyin": "wǒ yě jué de xiān shuō qīng chǔ zì jǐ yōu xiān kǎo lǜ de shì qíng hěn zhòng yào ， bù rán róng yì zhǐ dīng zhe xīn shuǐ 。",
+        "exampleTr": "Bence öncelik vermek istediğin şeyleri netleştirmek de önemli; yoksa yalnızca maaşa odaklanabilirsin.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "职业发展",
         "pinyin": "zhíyè fāzhǎn",
         "tr": "kariyer gelişimi",
-        "exampleZh": "关于职业发展，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zhíyè fāzhǎn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Kariyer gelişimi konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "职业发展很重要，不过也要看新岗位能不能提供实际的学习和支持。",
+        "examplePinyin": "zhí yè fā zhǎn hěn zhòng yào ， bù guò yě yào kàn xīn gǎng wèi néng bù néng tí gōng shí jì de xué xí hé zhī chí 。",
+        "exampleTr": "Kariyer gelişimi önemli ama yeni görevin gerçek öğrenme ve destek imkânı sunup sunmadığına da bakmak gerekir.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "决定",
         "pinyin": "juédìng",
         "tr": "karar vermek",
-        "exampleZh": "决定是我们不能忽略的一点。",
-        "examplePinyin": "Juédìng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Karar vermek göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我支持你的决定，不过也想听听你是怎么权衡收入和时间的。",
+        "examplePinyin": "wǒ zhī chí nǐ de jué dìng ， bù guò yě xiǎng tīng tīng nǐ shì zěn me quán héng shōu rù hé shí jiān de 。",
+        "exampleTr": "Kararını destekliyorum ama gelirle zamanı nasıl tarttığını da duymak isterim.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "如果能提前沟通，后面会顺利很多。",
-        "examplePinyin": "Rúguǒ néng tíqián gōutōng, hòumiàn huì shùnlì hěn duō.",
-        "exampleTr": "Önceden iletişim kurmak mümkün olursa sonrası çok daha rahat ilerler.",
+        "exampleZh": "好。把决定说清楚，也给双方留出体面的后续沟通空间。",
+        "examplePinyin": "hǎo 。 bǎ jué dìng shuō qīng chǔ ， yě gěi shuāng fāng liú chū tǐ miàn de hòu xù gōu tōng kōng jiān 。",
+        "exampleTr": "Peki. Kararını açıkça bildir ve iki tarafa da ileride iletişim kurabilecekleri nazik bir alan bırak.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "尊重",
         "pinyin": "zūnzhòng",
         "tr": "saygı",
-        "exampleZh": "如果尊重发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ zūnzhòng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Saygı değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "我理解。无论你选择留下还是离开，我们都会尊重你的决定。",
+        "examplePinyin": "wǒ lǐ jiě 。 wú lùn nǐ xuǎn zé liú xià hái shì lí kāi ， wǒ men dū huì zūn zhòng nǐ de jué dìng 。",
+        "exampleTr": "Kalsan da ayrılsan da kararına saygı duyarız.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC033_008",
         "zh": "承诺",
         "pinyin": "chéngnuò",
         "tr": "taahhüt / söz",
-        "exampleZh": "关于承诺，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú chéngnuò, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Taahhüt / söz konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "这次我学会了先分清承诺、可能性和还没确认的条件。",
+        "examplePinyin": "zhè cì wǒ xué huì le xiān fēn qīng chéng nuò 、 kě néng xìng hé hái méi què rèn de tiáo jiàn 。",
+        "exampleTr": "Bu kez söz verilmiş koşulları, olasılıkları ve henüz doğrulanmamış maddeleri ayırmayı öğrendim.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

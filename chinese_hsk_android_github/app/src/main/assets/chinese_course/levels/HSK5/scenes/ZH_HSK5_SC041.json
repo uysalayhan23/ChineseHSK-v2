@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK5_SC041_001",
       "speaker": "爷爷",
-      "zh": "这次住院比上次久，我知道大家都在担心我。",
-      "pinyin": "zhè cì zhù yuàn bǐ shàng cì jiǔ ， wǒ zhī dào dà jiā dōu zài dān xīn wǒ 。",
-      "tr": "Bu kez hastanede geçen süre önceki yatışımdan uzun; hepinizin benim için kaygılandığını biliyorum."
+      "zh": "这次住院比上次久，我知道大家都在担心我的健康。",
+      "pinyin": "zhè cì zhù yuàn bǐ shàng cì jiǔ ， wǒ zhī dào dà jiā dōu zài dān xīn wǒ de jiàn kāng 。",
+      "tr": "Bu kez hastanede geçen süre önceki yatışımdan uzun; hepinizin sağlığımla ilgili kaygılandığını biliyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC041_002",
@@ -727,83 +727,83 @@
     "vocabularyCards": [
       {
         "id": "VOC_ZH_HSK5_SC041_001",
-        "zh": "老人照护",
-        "pinyin": "lǎorén zhàohù",
-        "tr": "yaşlı bakımı",
-        "exampleZh": "老人照护是我们不能忽略的一点。",
-        "examplePinyin": "Lǎorén zhàohù shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Yaşlı bakımı göz ardı edemeyeceğimiz bir nokta.",
+        "zh": "照护安排",
+        "pinyin": "zhào hù ān pái",
+        "tr": "bakım düzeni",
+        "exampleZh": "我们先一起回顾最近的情况，再讨论接下来的照护安排。",
+        "examplePinyin": "wǒ men xiān yì qǐ huí gù zuì jìn de qíng kuàng ， zài tǎo lùn jiē xià lái de zhào hù ān pái 。",
+        "exampleTr": "Önce son durumu birlikte gözden geçirelim, sonra sonraki bakım düzenini konuşalım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC041_002",
-        "zh": "医院",
-        "pinyin": "yīyuàn",
-        "tr": "hastane",
-        "exampleZh": "如果选医院，以后会有什么影响？",
-        "examplePinyin": "Rúguǒ xuǎn yīyuàn, yǐhòu huì yǒu shénme yǐngxiǎng?",
-        "exampleTr": "Hastane seçersek ileride ne etkisi olur?",
+        "zh": "住院",
+        "pinyin": "zhù yuàn",
+        "tr": "hastanede yatış",
+        "exampleZh": "这次住院比上次久，我知道大家都在担心我的健康。",
+        "examplePinyin": "zhè cì zhù yuàn bǐ shàng cì jiǔ ， wǒ zhī dào dà jiā dōu zài dān xīn wǒ de jiàn kāng 。",
+        "exampleTr": "Bu kez hastanede geçen süre önceki yatışımdan uzun; hepinizin sağlığımla ilgili kaygılandığını biliyorum.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC041_003",
         "zh": "健康",
-        "pinyin": "jiànkāng",
+        "pinyin": "jiàn kāng",
         "tr": "sağlık",
-        "exampleZh": "如果健康发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jiànkāng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Sağlık değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "这次住院比上次久，我知道大家都在担心我的健康。",
+        "examplePinyin": "zhè cì zhù yuàn bǐ shàng cì jiǔ ， wǒ zhī dào dà jiā dōu zài dān xīn wǒ de jiàn kāng 。",
+        "exampleTr": "Bu kez hastanede geçen süre önceki yatışımdan uzun; hepinizin sağlığımla ilgili kaygılandığını biliyorum.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC041_004",
         "zh": "医生",
-        "pinyin": "yīshēng",
+        "pinyin": "yī shēng",
         "tr": "doktor",
-        "exampleZh": "关于医生，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú yīshēng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Doktor konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "我会配合记录，也会把自己真实的感受告诉医生。",
+        "examplePinyin": "wǒ huì pèi hé jì lù ， yě huì bǎ zì jǐ zhēn shí de gǎn shòu gào sù yī shēng 。",
+        "exampleTr": "Kayıt tutmaya yardımcı olur, gerçek hislerimi de doktora anlatırım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC041_005",
         "zh": "照护计划",
-        "pinyin": "zhàohù jìhuà",
+        "pinyin": "zhào hù jì huà",
         "tr": "bakım planı",
-        "exampleZh": "照护计划是我们不能忽略的一点。",
-        "examplePinyin": "Zhàohù jìhuà shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Bakım planı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "这个想法可以写进照护计划，具体哪些事适合自己做要和团队确认。",
+        "examplePinyin": "zhè ge xiǎng fǎ kě yǐ xiě jìn zhào hù jì huà ， jù tǐ nǎ xiē shì shì hé zì jǐ zuò yào hé tuán duì què rèn 。",
+        "exampleTr": "Bu isteği bakım planına yazabiliriz; hangi işleri tek başınıza yapmanızın uygun olduğunu ekiple doğrulamalıyız.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC041_006",
         "zh": "家人",
-        "pinyin": "jiārén",
+        "pinyin": "jiā rén",
         "tr": "aile",
-        "exampleZh": "我们把家人也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jiārén yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Aile konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我们也想了解需要家人负责的部分，避免重复安排或漏掉事情。",
+        "examplePinyin": "wǒ men yě xiǎng liǎo jiě xū yào jiā rén fù zé de bù fèn ， bì miǎn chóng fù ān pái huò lòu diào shì qíng 。",
+        "exampleTr": "Aile üyelerinin üstlenmesi gerekenleri de öğrenmek istiyoruz; işler tekrarlanmasın veya atlanmasın.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC041_007",
         "zh": "担心",
-        "pinyin": "dānxīn",
+        "pinyin": "dān xīn",
         "tr": "endişe",
-        "exampleZh": "如果担心发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ dānxīn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Endişe değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "这次住院比上次久，我知道大家都在担心我的健康。",
+        "examplePinyin": "zhè cì zhù yuàn bǐ shàng cì jiǔ ， wǒ zhī dào dà jiā dōu zài dān xīn wǒ de jiàn kāng 。",
+        "exampleTr": "Bu kez hastanede geçen süre önceki yatışımdan uzun; hepinizin sağlığımla ilgili kaygılandığını biliyorum.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC041_008",
-        "zh": "责任感",
-        "pinyin": "zérèngǎn",
-        "tr": "sorumluluk duygusu",
-        "exampleZh": "关于责任感，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zérèngǎn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Sorumluluk duygusu konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "zh": "作息",
+        "pinyin": "zuò xī",
+        "tr": "günlük düzen",
+        "exampleZh": "我可以记每天的作息和需要帮忙的事情，但有时分不清哪些重要。",
+        "examplePinyin": "wǒ kě yǐ jì měi tiān de zuò xī hé xū yào bāng máng de shì qíng ， dàn yǒu shí fēn bù qīng nǎ xiē zhòng yào 。",
+        "exampleTr": "Günlük düzeni ve yardım gereken işleri kaydedebilirim ama bazen hangilerinin önemli olduğunu ayırt edemiyorum.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

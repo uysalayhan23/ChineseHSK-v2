@@ -30,10 +30,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_004",
-      "speaker": "孙辈",
-      "zh": "那时候车还没买，我们带着几只箱子就上了车。",
-      "pinyin": "Nà shí hòu chē hái méi mǎi, wǒ men dài zhe jǐ zhī xiāng zi jiù shàng le chē.",
-      "tr": "O sırada arabamız yoktu; birkaç valiz alıp trene binmiştik."
+      "speaker": "张伟",
+      "zh": "那时候我们还没买车，带着几只箱子就上了火车。",
+      "pinyin": "nà shí hòu wǒ men hái méi mǎi chē ， dài zhe jǐ zhī xiāng zi jiù shàng le huǒ chē 。",
+      "tr": "O zaman daha araba almamıştık; birkaç valizle trene bindik."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_005",
@@ -212,10 +212,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_030",
-      "speaker": "刘梅",
-      "zh": "有一点，东西不多，前面的路却完全陌生。",
-      "pinyin": "Yǒu yì diǎn, dōng xī bù duō, qián miàn de lù què wán quán mò shēng.",
-      "tr": "Biraz korkuyordum; eşyamız azdı ama önümüzdeki yol tamamen yabancıydı."
+      "speaker": "张伟",
+      "zh": "有一点。带的东西不多，可前面的路完全陌生。",
+      "pinyin": "yǒu yì diǎn 。 dài de dōng xī bù duō ， kě qián miàn de lù wán quán mò shēng 。",
+      "tr": "Biraz. Eşyamız azdı ama önümüzdeki yol tamamen yabancıydı."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_031",
@@ -226,10 +226,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_032",
-      "speaker": "孙辈",
-      "zh": "我看着你奶奶，她也紧张，我们就约好遇到问题先一起商量。",
-      "pinyin": "Wǒ kàn zhe nǐ nǎi nǎi, tā yě jǐn zhāng, wǒ men jiù yuē hǎo yù dào wèn tí xiān yì qǐ shāng liáng.",
-      "tr": "Büyükannene baktım; o da heyecanlıydı. Bir sorun çıkarsa önce birlikte konuşmaya karar verdik."
+      "speaker": "刘梅",
+      "zh": "我看着你爷爷，他也紧张。我们就约好，遇到问题先一起商量。",
+      "pinyin": "wǒ kàn zhe nǐ yé yé ， tā yě jǐn zhāng 。 wǒ men jiù yuē hǎo ， yù dào wèn tí xiān yì qǐ shāng liáng 。",
+      "tr": "Dedenize baktım, o da gergindi. Bir sorun çıkarsa önce birlikte konuşmaya karar verdik."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_033",
@@ -240,10 +240,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_034",
-      "speaker": "刘梅",
-      "zh": "当然有，只是现在记得的更多是怎么和好的。",
-      "pinyin": "Dāng rán yǒu, zhǐ shì xiàn zài jì de de gèng duō shì zěn me hé hǎo de.",
-      "tr": "Elbette tartıştık; şimdi daha çok nasıl barıştığımızı hatırlıyorum."
+      "speaker": "张伟",
+      "zh": "怎么可能没吵过？只是现在想起来，记得更多的是后来怎么和好的。",
+      "pinyin": "zěn me kě néng méi chǎo guò ？ zhǐ shì xiàn zài xiǎng qǐ lái ， jì de gèng duō de shì hòu lái zěn me hé hǎo de 。",
+      "tr": "Hiç tartışmamış olabilir miyiz? Şimdi düşününce, daha çok sonradan nasıl barıştığımızı hatırlıyorum."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_035",
@@ -254,17 +254,17 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_036",
-      "speaker": "孙辈",
-      "zh": "我记得是你发现的，看来这段记忆也得再核对。",
-      "pinyin": "Wǒ jì de shì nǐ fā xiàn de, kàn lái zhè duàn jì yì yě dé zài hé duì.",
-      "tr": "Ben senin fark ettiğini sanıyordum; demek bu anıyı da doğrulamamız gerek."
+      "speaker": "张伟",
+      "zh": "我想起来了，是你先看见的。刚才我把先后顺序记反了。",
+      "pinyin": "wǒ xiǎng qǐ lái le ， shì nǐ xiān kàn jiàn de 。 gāng cái wǒ bǎ xiān hòu shùn xù jì fǎn le 。",
+      "tr": "Şimdi hatırladım, önce sen görmüştün. Az önce sırayı karıştırdım."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_037",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "日记里写着“到站后先找住处”，那天是不是很累？",
-      "pinyin": "Rì jì lǐ xiě zhe “dào zhàn hòu xiān zhǎo zhù chù ”, nà tiān shì bú shì hěn lèi?",
-      "tr": "Günlükte “varınca önce kalacak yer bul” yazıyor; o gün çok yorulmuş muydunuz?"
+      "pinyin": "rì jì lǐ xiě zhe “ dào zhàn hòu xiān zhǎo zhù chù ” ， nà tiān shì bú shì hěn lèi ？",
+      "tr": "Günlükte “istasyona varınca önce kalacak yer bul” yazıyor; o gün çok yorulmuş muydunuz?"
     },
     {
       "id": "DLG_ZH_HSK6_SC046_038",
@@ -282,10 +282,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_040",
-      "speaker": "孙辈",
-      "zh": "我管车票和证件，你奶奶看行李，我们分工以后就顺多了。",
-      "pinyin": "Wǒ guǎn chē piào hé zhèng jiàn, nǐ nǎi nǎi kàn xíng lǐ, wǒ men fēn gōng yǐ hòu jiù shùn duō le.",
-      "tr": "Biletleri ve belgeleri ben tuttum, büyükannen valizlere baktı; iş bölümü yapınca kolaylaştı."
+      "speaker": "张伟",
+      "zh": "我管车票和证件，你奶奶看行李。分工以后，事情就顺多了。",
+      "pinyin": "wǒ guǎn chē piào hé zhèng jiàn ， nǐ nǎi nǎi kàn xíng lǐ 。 fēn gōng yǐ hòu ， shì qíng jiù shùn duō le 。",
+      "tr": "Biletleri ve belgeleri ben tuttum, babaanneniz de valizlere baktı. İş bölümü yapınca işler kolaylaştı."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_041",
@@ -520,17 +520,17 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_074",
-      "speaker": "刘梅",
+      "speaker": "孙辈",
       "zh": "我没想到你们第一次搬家时也会害怕，还会忘东西。",
-      "pinyin": "Wǒ méi xiǎng dào nǐ men dì yī cì bān jiā shí yě huì hài pà, hái huì wàng dōng xī.",
-      "tr": "İlk taşındığınızda sizin de korktuğunuzu ve eşya unutabildiğinizi düşünmemiştim."
+      "pinyin": "wǒ méi xiǎng dào nǐ men dì yī cì bān jiā shí yě huì hài pà ， hái huì wàng dōng xī 。",
+      "tr": "İlk taşınmanızda sizin de korktuğunuzu, hatta eşya unuttuğunuzu bilmiyordum."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_075",
       "speaker": "张乐乐",
-      "zh": "大人也会紧张，只是会边担心边想下一步怎么办。",
-      "pinyin": "Dà rén yě huì jǐn zhāng, zhǐ shì huì biān dān xīn biān xiǎng xià yī bù zěn me bàn.",
-      "tr": "Büyükler de heyecanlanır; kaygılanırken bir sonraki adımı düşünürler."
+      "zh": "原来大人也会紧张，只是一边担心，一边想着下一步怎么办。",
+      "pinyin": "yuán lái dà rén yě huì jǐn zhāng ， zhǐ shì yī biān dān xīn ， yī biān xiǎng zhe xià yī bù zěn me bàn 。",
+      "tr": "Demek yetişkinler de geriliyor; kaygılanırken bir yandan sonraki adımı düşünüyorlar."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_076",

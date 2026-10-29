@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK5_SC017_001",
       "speaker": "爷爷",
-      "zh": "环保小组请我去分享种植经验，我想先知道大家最想了解哪方面。",
-      "pinyin": "huán bǎo xiǎo zǔ qǐng wǒ qù fēn xiǎng zhòng zhí jīng yàn ， wǒ xiǎng xiān zhī dào dà jiā zuì xiǎng liǎo jiě nǎ fāng miàn 。",
-      "tr": "Çevre kulübü benden yetiştirme deneyimimi paylaşmamı istedi; önce en çok hangi konuyu öğrenmek istediklerini bilmek isterim."
+      "zh": "环保小组这次的公益倡议是改善社区花园，我想先知道大家最想了解哪方面。",
+      "pinyin": "huán bǎo xiǎo zǔ zhè cì de gōng yì chàng yì shì gǎi shàn shè qū huā yuán ， wǒ xiǎng xiān zhī dào dà jiā zuì xiǎng liǎo jiě nǎ fāng miàn 。",
+      "tr": "Çevre grubunun bu kamu yararına girişimi mahalle bahçesini iyileştirmeyi amaçlıyor; önce herkesin en çok neyi öğrenmek istediğini bilmek isterim."
     },
     {
       "id": "DLG_ZH_HSK5_SC017_002",
@@ -39,9 +39,9 @@
     {
       "id": "DLG_ZH_HSK5_SC017_005",
       "speaker": "爷爷",
-      "zh": "我可以讲怎么观察土壤和天气，但每块地不一样，做法要根据现场调整。",
-      "pinyin": "wǒ kě yǐ jiǎng zěn me guān chá tǔ rǎng hé tiān qì ， dàn měi kuài dì bù yí yàng ， zuò fǎ yào gēn jù xiàn chǎng tiáo zhěng 。",
-      "tr": "Toprağı ve havayı nasıl gözlemlediğimi anlatabilirim; ancak her arazi farklıdır, yöntem yerinde uyarlanmalı."
+      "zh": "我可以讲怎么观察土壤和天气；农场每块地不一样，做法要根据现场调整。",
+      "pinyin": "wǒ kě yǐ jiǎng zěn me guān chá tǔ rǎng hé tiān qì ； nóng chǎng měi kuài dì bù yí yàng ， zuò fǎ yào gēn jù xiàn chǎng tiáo zhěng 。",
+      "tr": "Toprağı ve havayı nasıl gözlemlediğimi anlatabilirim; çiftlikte her bölüm farklıdır, yöntem de koşullara göre değişmeli."
     },
     {
       "id": "DLG_ZH_HSK5_SC017_006",
@@ -221,9 +221,9 @@
     {
       "id": "DLG_ZH_HSK5_SC017_031",
       "speaker": "张乐乐",
-      "zh": "开场可以先问大家浇水时最难判断什么，再让爷爷用实际观察来回答。",
-      "pinyin": "kāi chǎng kě yǐ xiān wèn dà jiā jiāo shuǐ shí zuì nán pàn duàn shén me ， zài ràng yé yé yòng shí jì guān chá lái huí dá 。",
-      "tr": "Girişte sulama zamanını belirlerken en çok neyin zor olduğunu sorup dedenizin gözlemlerini yanıt olarak sunabiliriz."
+      "zh": "开场可以先问大家浇水时最难判断什么，再让爷爷用实际观察来回答，沟通起来更自然。",
+      "pinyin": "kāi chǎng kě yǐ xiān wèn dà jiā jiāo shuǐ shí zuì nán pàn duàn shén me ， zài ràng yé yé yòng shí jì guān chá lái huí dá ， gōu tōng qǐ lái gèng zì rán 。",
+      "tr": "Başlangıçta sulamayla ilgili en zor kararı sorup dedemin somut gözlemlerle yanıtlamasını isteyebiliriz; iletişim daha doğal olur."
     },
     {
       "id": "DLG_ZH_HSK5_SC017_032",
@@ -704,9 +704,9 @@
     {
       "id": "DLG_ZH_HSK5_SC017_100",
       "speaker": "刘梅",
-      "zh": "准备已经清楚了：先分享可观察的方法，尊重现场条件，之后再根据反馈继续讨论。",
-      "pinyin": "zhǔn bèi yǐ jīng qīng chǔ le ： xiān fēn xiǎng kě guān chá de fāng fǎ ， zūn chóng xiàn chǎng tiáo jiàn ， zhī hòu zài gēn jù fǎn kuì jì xù tǎo lùn 。",
-      "tr": "Hazırlık netleşti: önce gözlemlenebilir yöntemleri paylaşın, alan koşullarına saygı gösterin ve geri bildirimle konuşmayı sürdürün."
+      "zh": "从试讲和现场反馈来看，这次分享不仅传递了可持续发展的做法，也体现了大家的责任感。",
+      "pinyin": "cóng shì jiǎng hé xiàn chǎng fǎn kuì lái kàn ， zhè cì fēn xiǎng bù jǐn chuán dì le kě chí xù fā zhǎn de zuò fǎ ， yě tǐ xiàn le dà jiā de zé rèn gǎn 。",
+      "tr": "Prova ve katılımcı geri bildirimlerine bakınca bu paylaşım hem sürdürülebilirlik uygulamalarını aktardı hem de herkesin sorumluluk duygusunu gösterdi."
     }
   ],
   "productionStatus": "complete",
@@ -730,9 +730,9 @@
         "zh": "环保小组",
         "pinyin": "huánbǎo xiǎozǔ",
         "tr": "çevre grubu",
-        "exampleZh": "环保小组是我们不能忽略的一点。",
-        "examplePinyin": "Huánbǎo xiǎozǔ shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Çevre grubu göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "环保小组这次的公益倡议是改善社区花园，我想先知道大家最想了解哪方面。",
+        "examplePinyin": "Huán bǎo xiǎo zǔ zhè cì de gōng yì chàng yì shì gǎi shàn shè qū huā yuán ， wǒ xiǎng xiān zhī dào dà jiā zuì xiǎng liǎo jiě nǎ fāng miàn 。",
+        "exampleTr": "Çevre grubunun bu kamu yararına girişimi mahalle bahçesini iyileştirmeyi amaçlıyor; önce herkesin en çok neyi öğrenmek istediğini bilmek isterim.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "可持续发展",
         "pinyin": "kě chíxù fāzhǎn",
         "tr": "sürdürülebilirlik",
-        "exampleZh": "我们把可持续发展也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ kě chíxù fāzhǎn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Sürdürülebilirlik konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "从试讲和现场反馈来看，这次分享不仅传递了可持续发展的做法，也体现了大家的责任感。",
+        "examplePinyin": "Cóng shì jiǎng hé xiàn chǎng fǎn kuì lái kàn ， zhè cì fēn xiǎng bù jǐn chuán dì le kě chí xù fā zhǎn de zuò fǎ ， yě tǐ xiàn le dà jiā de zé rèn gǎn 。",
+        "exampleTr": "Prova ve katılımcı geri bildirimlerine bakınca bu paylaşım hem sürdürülebilirlik uygulamalarını aktardı hem de herkesin sorumluluk duygusunu gösterdi.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "经验",
         "pinyin": "jīngyàn",
         "tr": "deneyim",
-        "exampleZh": "如果经验发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jīngyàn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Deneyim değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "把讲义先发给爷爷核对经验内容，再请老师检查表达是否清楚。",
+        "examplePinyin": "Bǎ jiǎng yì xiān fā gěi yé yé hé duì jīng yàn nèi róng ， zài qǐng lǎo shī jiǎn chá biǎo dá shì fǒu qīng chǔ 。",
+        "exampleTr": "Deneyimle ilgili bölümleri dedene, anlatımın açıklığını öğretmene kontrol ettirip notları sonra yayımlayın.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "公益倡议",
         "pinyin": "gōngyì chàngyì",
         "tr": "toplumsal yardım çağrısı",
-        "exampleZh": "关于公益倡议，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú gōngyì chàngyì, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Toplumsal yardım çağrısı konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "环保小组这次的公益倡议是改善社区花园，我想先知道大家最想了解哪方面。",
+        "examplePinyin": "Huán bǎo xiǎo zǔ zhè cì de gōng yì chàng yì shì gǎi shàn shè qū huā yuán ， wǒ xiǎng xiān zhī dào dà jiā zuì xiǎng liǎo jiě nǎ fāng miàn 。",
+        "exampleTr": "Çevre grubunun bu kamu yararına girişimi mahalle bahçesini iyileştirmeyi amaçlıyor; önce herkesin en çok neyi öğrenmek istediğini bilmek isterim.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "社区",
         "pinyin": "shèqū",
         "tr": "mahalle / topluluk",
-        "exampleZh": "社区是我们不能忽略的一点。",
-        "examplePinyin": "Shèqū shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Mahalle / topluluk göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "这对我们有用。社区花园也有修剪下来的叶子，但不知道怎样处理最合适。",
+        "examplePinyin": "Zhè duì wǒ men yǒu yòng 。 shè qū huā yuán yě yǒu xiū jiǎn xià lái de yè zi ， dàn bù zhī dào zěn yàng chǔ lǐ zuì hé shì 。",
+        "exampleTr": "Bu bizim için yararlı. Mahalle bahçesinde de budanan yapraklar var ama en uygun şekilde nasıl değerlendireceğimizi bilmiyoruz.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "如果能提前沟通，后面会顺利很多。",
-        "examplePinyin": "Rúguǒ néng tíqián gōutōng, hòumiàn huì shùnlì hěn duō.",
-        "exampleTr": "Önceden iletişim kurmak mümkün olursa sonrası çok daha rahat ilerler.",
+        "exampleZh": "开场可以先问大家浇水时最难判断什么，再让爷爷用实际观察来回答，沟通起来更自然。",
+        "examplePinyin": "Kāi chǎng kě yǐ xiān wèn dà jiā jiāo shuǐ shí zuì nán pàn duàn shén me ， zài ràng yé yé yòng shí jì guān chá lái huí dá ， gōu tōng qǐ lái gèng zì rán 。",
+        "exampleTr": "Başlangıçta sulamayla ilgili en zor kararı sorup dedemin somut gözlemlerle yanıtlamasını isteyebiliriz; iletişim daha doğal olur.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "农场",
         "pinyin": "nóngchǎng",
         "tr": "çiftlik",
-        "exampleZh": "我们得先看看农场是否真的合适。",
-        "examplePinyin": "Wǒmen děi xiān kànkan nóngchǎng shìfǒu zhēn de héshì.",
-        "exampleTr": "Önce çiftlik gerçekten uygun mu bakmalıyız.",
-        "kind": "review"
+        "exampleZh": "我可以讲怎么观察土壤和天气；农场每块地不一样，做法要根据现场调整。",
+        "examplePinyin": "Wǒ kě yǐ jiǎng zěn me guān chá tǔ rǎng hé tiān qì ； nóng chǎng měi kuài dì bù yí yàng ， zuò fǎ yào gēn jù xiàn chǎng tiáo zhěng 。",
+        "exampleTr": "Toprağı ve havayı nasıl gözlemlediğimi anlatabilirim; çiftlikte her bölüm farklıdır, yöntem de koşullara göre değişmeli.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC017_008",
         "zh": "责任感",
         "pinyin": "zérèngǎn",
         "tr": "sorumluluk duygusu",
-        "exampleZh": "关于责任感，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zérèngǎn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Sorumluluk duygusu konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "从试讲和现场反馈来看，这次分享不仅传递了可持续发展的做法，也体现了大家的责任感。",
+        "examplePinyin": "Cóng shì jiǎng hé xiàn chǎng fǎn kuì lái kàn ， zhè cì fēn xiǎng bù jǐn chuán dì le kě chí xù fā zhǎn de zuò fǎ ， yě tǐ xiàn le dà jiā de zé rèn gǎn 。",
+        "exampleTr": "Prova ve katılımcı geri bildirimlerine bakınca bu paylaşım hem sürdürülebilirlik uygulamalarını aktardı hem de herkesin sorumluluk duygusunu gösterdi.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1218,6 +1218,14 @@
     },
     "continuityNoteTr": "Çevre Kulübü Büyükbabayı Davet Ediyor olayı HSK5 yaşam çizgisinde sahne 17 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 16,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC017.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

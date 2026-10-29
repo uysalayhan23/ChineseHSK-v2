@@ -730,9 +730,9 @@
         "zh": "分歧",
         "pinyin": "fēnqí",
         "tr": "görüş ayrılığı",
-        "exampleZh": "分歧是我们不能忽略的一点。",
-        "examplePinyin": "Fēnqí shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Görüş ayrılığı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "有分歧不代表不支持，我只是想先把工作和家人之间的平衡谈清楚。",
+        "examplePinyin": "yǒu fēn qí bù dài biǎo bù zhī chí wǒ zhǐ shì xiǎng xiān bǎ gōng zuò hé jiā rén zhī jiān de píng héng tán qīng chǔ",
+        "exampleTr": "Farklı düşünmem desteklemediğim anlamına gelmiyor; yalnızca iş ve aile arasındaki dengeyi önce netleştirmek istiyorum.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "扩张",
         "pinyin": "kuòzhāng",
         "tr": "büyüme / genişleme",
-        "exampleZh": "我们把扩张也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ kuòzhāng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Büyüme / genişleme konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "招聘和培训也有成本，得把它们算进扩张计划。",
+        "examplePinyin": "zhāo pìn hé péi xùn yě yǒu chéng běn dé bǎ tā men suàn jìn kuò zhāng jì huà",
+        "exampleTr": "İşe alım ve eğitim de masraf; büyüme planına eklemeliyiz.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "风险",
         "pinyin": "fēngxiǎn",
         "tr": "risk",
-        "exampleZh": "如果风险发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ fēngxiǎn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Risk değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "这让我放心。这样扩张的风险不会全落在家人身上。",
+        "examplePinyin": "zhè ràng wǒ fàng xīn zhè yàng kuò zhāng de fēng xiǎn bú huì quán luò zài jiā rén shēn shàng",
+        "exampleTr": "Bu içimi rahatlattı. Böylece büyümenin riski yalnızca ailemizin üzerine kalmaz.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "平衡",
         "pinyin": "pínghéng",
         "tr": "denge",
-        "exampleZh": "关于平衡，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú pínghéng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Denge konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "这样比较平衡，我也知道遇到变化时该怎么沟通。",
+        "examplePinyin": "zhè yàng bǐ jiào píng héng wǒ yě zhī dào yù dào biàn huà shí gāi zěn me gōu tōng",
+        "exampleTr": "Bu daha dengeli; bir değişiklik olursa nasıl konuşacağımı da bilirim.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "家人是我们不能忽略的一点。",
-        "examplePinyin": "Jiārén shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Aile göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "这让我放心。这样扩张的风险不会全落在家人身上。",
+        "examplePinyin": "zhè ràng wǒ fàng xīn zhè yàng kuò zhāng de fēng xiǎn bú huì quán luò zài jiā rén shēn shàng",
+        "exampleTr": "Bu içimi rahatlattı. Böylece büyümenin riski yalnızca ailemizin üzerine kalmaz.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "生意",
         "pinyin": "shēngyi",
         "tr": "iş / ticaret",
-        "exampleZh": "我们把生意也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ shēngyi yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Iş / ticaret konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "是的，先把风险降下来，再考虑怎样让生意稳定发展。",
+        "examplePinyin": "shì de xiān bǎ fēng xiǎn jiàng xià lái zài kǎo lǜ zěn yàng ràng shēng yì wěn dìng fā zhǎn",
+        "exampleTr": "Evet, önce riski azaltıp sonra işin nasıl istikrarlı büyüyeceğini düşünelim.",
         "kind": "active"
       },
       {

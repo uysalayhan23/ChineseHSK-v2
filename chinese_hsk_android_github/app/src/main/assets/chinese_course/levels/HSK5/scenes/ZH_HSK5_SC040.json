@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK5_SC040_001",
       "speaker": "张雨桐",
-      "zh": "我认真比较了外地的机会，最后决定先留在本地。",
-      "pinyin": "wǒ rèn zhēn bǐ jiào le wài dì de jī huì ， zuì hòu jué dìng xiān liú zài běn dì 。",
-      "tr": "Şehir dışındaki fırsatı dikkatlice değerlendirdim; sonunda şimdilik burada kalmaya karar verdim."
+      "zh": "我认真比较了外地的机会，最后决定先留在本地；目前我会优先考虑工作内容，也会认真比较生活安排。",
+      "pinyin": "wǒ rèn zhēn bǐ jiào le wài dì de jī huì ， zuì hòu jué dìng xiān liú zài běn dì ； mù qián wǒ huì yōu xiān kǎo lǜ gōng zuò nèi róng ， yě huì rèn zhēn bǐ jiào shēng huó ān pái 。",
+      "tr": "Şehir dışındaki fırsatı dikkatlice değerlendirdim; sonunda şimdilik burada kalmaya karar verdim. Şu an işin içeriğine öncelik verip yaşam düzenini de dikkatlice değerlendireceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC040_002",
@@ -60,9 +60,9 @@
     {
       "id": "DLG_ZH_HSK5_SC040_008",
       "speaker": "伴侣",
-      "zh": "我陪你看过岗位说明，职责很清楚，但合同条件还要再确认。",
-      "pinyin": "wǒ péi nǐ kàn guò gǎng wèi shuō míng ， zhí zé hěn qīng chǔ ， dàn hé tóng tiáo jiàn hái yào zài què rèn 。",
-      "tr": "İş tanımını birlikte inceledik; görevler açık ama sözleşme koşullarını yeniden doğrulamak gerekiyor."
+      "zh": "我陪你看过岗位说明，职责很清楚，但工作条件还要再确认。",
+      "pinyin": "wǒ péi nǐ kàn guò gǎng wèi shuō míng ， zhí zé hěn qīng chǔ ， dàn gōng zuò tiáo jiàn hái yào zài què rèn 。",
+      "tr": "İş tanımına birlikte baktık; görevler açık ama çalışma koşullarını yeniden doğrulamak gerekiyor."
     },
     {
       "id": "DLG_ZH_HSK5_SC040_009",
@@ -74,9 +74,9 @@
     {
       "id": "DLG_ZH_HSK5_SC040_010",
       "speaker": "张伟",
-      "zh": "这样选择有具体理由，不只是因为不想离开熟悉的地方。",
-      "pinyin": "zhè yàng xuǎn zé yǒu jù tǐ lǐ yóu ， bù zhǐ shì yīn wèi bù xiǎng lí kāi shú xī de dì fāng 。",
-      "tr": "Bu seçimin somut gerekçeleri var; yalnızca alışık olduğun yerden ayrılmak istemediğin için değil."
+      "zh": "这样选择有具体理由，也考虑了你对本地的归属感，不只是因为不想离开熟悉的地方。",
+      "pinyin": "zhè yàng xuǎn zé yǒu jù tǐ lǐ yóu ， yě kǎo lǜ le nǐ duì běn dì de guī shǔ gǎn ， bù zhǐ shì yīn wèi bù xiǎng lí kāi shú xī de dì fāng 。",
+      "tr": "Bu seçimin somut gerekçeleri var; yalnızca alıştığın yerden ayrılmak istemediğin için değil, buraya duyduğun aidiyeti de düşündün."
     },
     {
       "id": "DLG_ZH_HSK5_SC040_011",
@@ -214,16 +214,16 @@
     {
       "id": "DLG_ZH_HSK5_SC040_030",
       "speaker": "张伟",
-      "zh": "这听起来有培养空间，但要弄清楚试用期结束后怎么评估。",
-      "pinyin": "zhè tīng qǐ lái yǒu péi yǎng kōng jiān ， dàn yào nòng qīng chǔ shì yòng qī jié shù hòu zěn me píng gū 。",
-      "tr": "Bu, gelişim fırsatı olduğunu gösteriyor; yine de deneme süresi sonunda nasıl değerlendireceklerini öğren."
+      "zh": "这听起来有培养空间，对你的职业发展也有帮助，但要弄清楚试用期结束后怎么评估。",
+      "pinyin": "zhè tīng qǐ lái yǒu péi yǎng kōng jiān ， duì nǐ de zhí yè fā zhǎn yě yǒu bāng zhù ， dàn yào nòng qīng chǔ shì yòng qī jié shù hòu zěn me píng gū 。",
+      "tr": "Bu işte gelişme olanağı var ve mesleki gelişimine katkı sağlayabilir; yine de deneme süresi sonunda nasıl değerlendireceklerini öğren."
     },
     {
       "id": "DLG_ZH_HSK5_SC040_031",
       "speaker": "刘梅",
-      "zh": "附近的工作也有发展机会，而且回家看我们会方便得多。",
-      "pinyin": "fù jìn de gōng zuò yě yǒu fā zhǎn jī huì ， ér qiě huí jiā kàn wǒ men huì fāng biàn dé duō 。",
-      "tr": "Yakındaki işte de gelişim olanağı var; bizi ziyaret etmen de çok daha kolay olur."
+      "zh": "附近的工作也有发展机会，而且这里的社区环境你很熟悉，回家看我们也方便得多。",
+      "pinyin": "fù jìn de gōng zuò yě yǒu fā zhǎn jī huì ， ér qiě zhè lǐ de shè qū huán jìng nǐ hěn shú xī ， huí jiā kàn wǒ men yě fāng biàn dé duō 。",
+      "tr": "Yakındaki işte de gelişim olanağı var; üstelik buradaki mahalle çevresini tanıyorsun ve bizi ziyaret etmen çok daha kolay olur."
     },
     {
       "id": "DLG_ZH_HSK5_SC040_032",
@@ -515,9 +515,9 @@
     {
       "id": "DLG_ZH_HSK5_SC040_073",
       "speaker": "张雨桐",
-      "zh": "等问题都确认，我会根据职业机会和生活安排一起做决定。",
-      "pinyin": "děng wèn tí dōu què rèn ， wǒ huì gēn jù zhí yè jī huì hé shēng huó ān pái yì qǐ zuò jué dìng 。",
-      "tr": "Soruların tümü netleşince kariyer fırsatlarını ve yaşam düzenini birlikte değerlendirerek karar vereceğim."
+      "zh": "等问题都确认，我会综合考虑职业机会、生活质量和生活安排，再做决定。",
+      "pinyin": "děng wèn tí dōu què rèn ， wǒ huì zōng hé kǎo lǜ zhí yè jī huì 、 shēng huó zhì liàng hé shēng huó ān pái ， zài zuò jué dìng 。",
+      "tr": "Soruların tümü netleşince kariyer fırsatlarını, yaşam kalitesini ve günlük düzenimi birlikte değerlendirip karar vereceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC040_074",
@@ -728,82 +728,82 @@
       {
         "id": "VOC_ZH_HSK5_SC040_001",
         "zh": "归属感",
-        "pinyin": "guīshǔgǎn",
+        "pinyin": "guī shǔ gǎn",
         "tr": "aidiyet duygusu",
-        "exampleZh": "归属感是我们不能忽略的一点。",
-        "examplePinyin": "Guīshǔgǎn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Aidiyet duygusu göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "这样选择有具体理由，也考虑了你对本地的归属感，不只是因为不想离开熟悉的地方。",
+        "examplePinyin": "zhè yàng xuǎn zé yǒu jù tǐ lǐ yóu ， yě kǎo lǜ le nǐ duì běn dì de guī shǔ gǎn ， bù zhǐ shì yīn wèi bù xiǎng lí kāi shú xī de dì fāng 。",
+        "exampleTr": "Bu seçimin somut gerekçeleri var; yalnızca alıştığın yerden ayrılmak istemediğin için değil, buraya duyduğun aidiyeti de düşündün.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC040_002",
         "zh": "优先考虑",
-        "pinyin": "yōuxiān kǎolǜ",
+        "pinyin": "yōu xiān kǎo lǜ",
         "tr": "öncelik vermek",
-        "exampleZh": "我们把优先考虑也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ yōuxiān kǎolǜ yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Öncelik vermek konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我认真比较了外地的机会，最后决定先留在本地；目前我会优先考虑工作内容，也会认真比较生活安排。",
+        "examplePinyin": "wǒ rèn zhēn bǐ jiào le wài dì de jī huì ， zuì hòu jué dìng xiān liú zài běn dì ； mù qián wǒ huì yōu xiān kǎo lǜ gōng zuò nèi róng ， yě huì rèn zhēn bǐ jiào shēng huó ān pái 。",
+        "exampleTr": "Şehir dışındaki fırsatı dikkatlice değerlendirdim; sonunda şimdilik burada kalmaya karar verdim. Şu an işin içeriğine öncelik verip yaşam düzenini de dikkatlice değerlendireceğim.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC040_003",
         "zh": "职业发展",
-        "pinyin": "zhíyè fāzhǎn",
+        "pinyin": "zhí yè fā zhǎn",
         "tr": "kariyer gelişimi",
-        "exampleZh": "如果职业发展发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ zhíyè fāzhǎn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Kariyer gelişimi değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "这听起来有培养空间，对你的职业发展也有帮助，但要弄清楚试用期结束后怎么评估。",
+        "examplePinyin": "zhè tīng qǐ lái yǒu péi yǎng kōng jiān ， duì nǐ de zhí yè fā zhǎn yě yǒu bāng zhù ， dàn yào nòng qīng chǔ shì yòng qī jié shù hòu zěn me píng gū 。",
+        "exampleTr": "Bu işte gelişme olanağı var ve mesleki gelişimine katkı sağlayabilir; yine de deneme süresi sonunda nasıl değerlendireceklerini öğren.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC040_004",
         "zh": "家人",
-        "pinyin": "jiārén",
+        "pinyin": "jiā rén",
         "tr": "aile",
-        "exampleZh": "关于家人，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jiārén, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Aile konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "本地工作的通勤短一些，你每天能留下更多时间休息和陪家人。",
+        "examplePinyin": "běn dì gōng zuò de tōng qín duǎn yī xiē ， nǐ měi tiān néng liú xià gèng duō shí jiān xiū xī hé péi jiā rén 。",
+        "exampleTr": "Buradaki işe ulaşım daha kısa; her gün dinlenmeye ve aileye daha fazla zaman kalır.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC040_005",
         "zh": "决定",
-        "pinyin": "juédìng",
+        "pinyin": "jué dìng",
         "tr": "karar vermek",
-        "exampleZh": "决定是我们不能忽略的一点。",
-        "examplePinyin": "Juédìng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Karar vermek göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我认真比较了外地的机会，最后决定先留在本地；目前我会优先考虑工作内容，也会认真比较生活安排。",
+        "examplePinyin": "wǒ rèn zhēn bǐ jiào le wài dì de jī huì ， zuì hòu jué dìng xiān liú zài běn dì ； mù qián wǒ huì yōu xiān kǎo lǜ gōng zuò nèi róng ， yě huì rèn zhēn bǐ jiào shēng huó ān pái 。",
+        "exampleTr": "Şehir dışındaki fırsatı dikkatlice değerlendirdim; sonunda şimdilik burada kalmaya karar verdim. Şu an işin içeriğine öncelik verip yaşam düzenini de dikkatlice değerlendireceğim.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC040_006",
         "zh": "社区",
-        "pinyin": "shèqū",
+        "pinyin": "shè qū",
         "tr": "mahalle / topluluk",
-        "exampleZh": "我们把社区也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ shèqū yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Mahalle / topluluk konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "附近的工作也有发展机会，而且这里的社区环境你很熟悉，回家看我们也方便得多。",
+        "examplePinyin": "fù jìn de gōng zuò yě yǒu fā zhǎn jī huì ， ér qiě zhè lǐ de shè qū huán jìng nǐ hěn shú xī ， huí jiā kàn wǒ men yě fāng biàn dé duō 。",
+        "exampleTr": "Yakındaki işte de gelişim olanağı var; üstelik buradaki mahalle çevresini tanıyorsun ve bizi ziyaret etmen çok daha kolay olur.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC040_007",
         "zh": "生活质量",
-        "pinyin": "shēnghuó zhìliàng",
+        "pinyin": "shēng huó zhì liàng",
         "tr": "yaşam kalitesi",
-        "exampleZh": "如果生活质量发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ shēnghuó zhìliàng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Yaşam kalitesi değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "等问题都确认，我会综合考虑职业机会、生活质量和生活安排，再做决定。",
+        "examplePinyin": "děng wèn tí dōu què rèn ， wǒ huì zōng hé kǎo lǜ zhí yè jī huì 、 shēng huó zhì liàng hé shēng huó ān pái ， zài zuò jué dìng 。",
+        "exampleTr": "Soruların tümü netleşince kariyer fırsatlarını, yaşam kalitesini ve günlük düzenimi birlikte değerlendirip karar vereceğim.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC040_008",
-        "zh": "未来计划",
-        "pinyin": "wèilái jìhuà",
-        "tr": "gelecek planı",
-        "exampleZh": "关于未来计划，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú wèilái jìhuà, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Gelecek planı konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "zh": "工作条件",
+        "pinyin": "gōng zuò tiáo jiàn",
+        "tr": "iş koşulları",
+        "exampleZh": "我陪你看过岗位说明，职责很清楚，但工作条件还要再确认。",
+        "examplePinyin": "wǒ péi nǐ kàn guò gǎng wèi shuō míng ， zhí zé hěn qīng chǔ ， dàn gōng zuò tiáo jiàn hái yào zài què rèn 。",
+        "exampleTr": "İş tanımına birlikte baktık; görevler açık ama çalışma koşullarını yeniden doğrulamak gerekiyor.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

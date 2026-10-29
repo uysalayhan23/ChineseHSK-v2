@@ -24,7 +24,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_003",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "妈，我刚才一直担心你们来不及。",
       "pinyin": "mā ， wǒ gāng cái yì zhí dān xīn nǐ men lái bù jí 。",
       "tr": "Anne, yetişemeyeceksiniz diye endişelendim."
@@ -38,7 +38,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_005",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "你们路上顺利吗？",
       "pinyin": "nǐ men lù shàng shùn lì ma ？",
       "tr": "Yolunuz iyi geçti mi?"
@@ -80,7 +80,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_011",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我已经换好运动鞋了。",
       "pinyin": "wǒ yǐ jīng huàn hǎo yùn dòng xié le 。",
       "tr": "Spor ayakkabılarımı giydim."
@@ -101,14 +101,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_014",
-      "speaker": "张伟",
+      "speaker": "队友",
       "zh": "一百米比赛，跑到终点就行。",
       "pinyin": "yì bǎi mǐ bǐ sài ， pǎo dào zhōng diǎn jiù xíng 。",
       "tr": "100 metre yarışı, bitiş çizgisine kadar koşacağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC022_015",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "这是我第一次参加学校比赛。",
       "pinyin": "zhè shì wǒ dì yī cì cān jiā xué xiào bǐ sài 。",
       "tr": "Okul yarışmasına ilk kez katılıyorum."
@@ -136,7 +136,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_019",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我会尽力跑，不管输赢。",
       "pinyin": "wǒ huì jìn lì pǎo ， bù guǎn shū yíng 。",
       "tr": "Kazanıp kaybetmeme bakmadan elimden geleni yapacağım."
@@ -192,7 +192,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_027",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我也带了毛巾，跑完可以擦汗。",
       "pinyin": "wǒ yě dài le máo jīn ， pǎo wán kě yǐ cā hàn 。",
       "tr": "Havlu da getirdim, koşudan sonra terimi silerim."
@@ -220,7 +220,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_031",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "老师说我在第三道。",
       "pinyin": "lǎo shī shuō wǒ zài dì sān dào 。",
       "tr": "Öğretmen üçüncü kulvarda olduğumu söyledi."
@@ -248,7 +248,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_035",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我会看着前面，不往旁边看。",
       "pinyin": "wǒ huì kàn zhe qián miàn ， bù wǎng páng biān kàn 。",
       "tr": "Önüme bakacağım, yana bakmam."
@@ -276,7 +276,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_039",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我也好了，等会儿一起加油。",
       "pinyin": "wǒ yě hǎo le ， děng huì er yì qǐ jiā yóu 。",
       "tr": "Ben de hazırım, birazdan birbirimize destek olalım."
@@ -304,7 +304,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_043",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我会听裁判说开始再跑。",
       "pinyin": "wǒ huì tīng cái pàn shuō kāi shǐ zài pǎo 。",
       "tr": "Hakem başlayın demeden koşmayacağım."
@@ -346,7 +346,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_049",
-      "speaker": "张雨桐",
+      "speaker": "队友",
       "zh": "开始了！加油，雨桐！",
       "pinyin": "kāi shǐ le ！ jiā yóu ， yǔ tóng ！",
       "tr": "Başladı! Haydi Yutong!"
@@ -360,7 +360,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_051",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我听见你们的声音了！",
       "pinyin": "wǒ tīng jiàn nǐ men de shēng yīn le ！",
       "tr": "Sesinizi duyuyorum!"
@@ -374,7 +374,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_053",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "她超过前面那个人了。",
       "pinyin": "tā chāo guò qián miàn nà ge rén le 。",
       "tr": "Öndeki koşucuyu geçti."
@@ -403,9 +403,9 @@
     {
       "id": "DLG_ZH_HSK2_SC022_057",
       "speaker": "张雨桐",
-      "zh": "到终点了！她完成了比赛。",
-      "pinyin": "dào zhōng diǎn le ！ tā wán chéng le bǐ sài 。",
-      "tr": "Bitişe ulaştı! Yarışı tamamladı."
+      "zh": "到终点了！我完成比赛了。",
+      "pinyin": "dào zhōngdiǎn le! wǒ wánchéng bǐsài le.",
+      "tr": "Bitiş çizgisine geldim! Yarışı tamamladım."
     },
     {
       "id": "DLG_ZH_HSK2_SC022_058",
@@ -416,7 +416,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_059",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "谢谢，我尽力了，也没有摔倒。",
       "pinyin": "xiè xiè ， wǒ jìn lì le ， yě méi yǒu shuāi dǎo 。",
       "tr": "Teşekkürler, elimden geleni yaptım ve düşmedim."
@@ -444,7 +444,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_063",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我有点儿想知道自己跑得怎么样。",
       "pinyin": "wǒ yǒu diǎn ér xiǎng zhī dào zì jǐ pǎo dé zěn me yàng 。",
       "tr": "Nasıl koştuğumu merak ediyorum."
@@ -472,7 +472,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_067",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "第一名跑得很快，我下次再努力。",
       "pinyin": "dì yì míng pǎo dé hěn kuài ， wǒ xià cì zài nǔ lì 。",
       "tr": "Birinci çok hızlı koştu, gelecek sefer daha çok çalışırım."
@@ -486,21 +486,21 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC022_069",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "我觉得她的跑步姿势很稳。",
       "pinyin": "wǒ jué de tā de pǎo bù zī shì hěn wěn 。",
       "tr": "Koşu biçimin çok dengeli bence."
     },
     {
       "id": "DLG_ZH_HSK2_SC022_070",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "我每天练习，慢慢就习惯了。",
       "pinyin": "wǒ měi tiān liàn xí ， màn màn jiù xí guàn le 。",
       "tr": "Her gün antrenman yaptım, zamanla alıştım."
     },
     {
       "id": "DLG_ZH_HSK2_SC022_071",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "以前我跑到一半就想停下来。",
       "pinyin": "yǐ qián wǒ pǎo dào yí bàn jiù xiǎng tíng xià lái 。",
       "tr": "Eskiden yarıda durmak istiyordum."

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC033.json",
-  "dialogueSha256": "a76fc3cb49efeae71b9a796a597f95ad10476e68f6fb97741a009229e4d8a5bc",
+  "dialogueSha256": "95493add1f5013f53ff8320faf19c59b0588874e227851731fe1018514e655c1",
   "titleTr": "Kafede Küçük Bir Tartışma",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "İki müşteri aynı masa konusunda tartışır; Liu Mei arabuluculuk yapar.",

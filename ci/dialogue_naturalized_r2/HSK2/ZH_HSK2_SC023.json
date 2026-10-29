@@ -48,14 +48,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC023_007",
-      "speaker": "刘梅",
+      "speaker": "邻居",
       "zh": "我想要一个草莓蛋糕，可以吗？",
       "pinyin": "wǒ xiǎng yào yí gè cǎo méi dàn gāo ， kě yǐ ma ？",
       "tr": "Çilekli pasta istiyorum, olur mu?"
     },
     {
       "id": "DLG_ZH_HSK2_SC023_008",
-      "speaker": "邻居",
+      "speaker": "刘梅",
       "zh": "可以，草莓和奶油很合适。",
       "pinyin": "kě yǐ ， cǎo méi hé nǎi yóu hěn hé shì 。",
       "tr": "Olur, çilek ve krema güzel gider."
@@ -160,7 +160,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC023_023",
-      "speaker": "邻居",
+      "speaker": "刘梅",
       "zh": "可以，我会放在上面和旁边。",
       "pinyin": "kě yǐ ， wǒ huì fàng zài shàng miàn hé páng biān 。",
       "tr": "Olur, üstüne ve kenarlarına koyarım."
@@ -321,14 +321,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC023_046",
-      "speaker": "刘梅",
+      "speaker": "邻居",
       "zh": "如果路上堵车，可以晚一点儿吗？",
       "pinyin": "rú guǒ lù shàng dǔ chē ， kě yǐ wǎn yì diǎn ér ma ？",
       "tr": "Yolda trafik olursa biraz geç gelebilir miyim?"
     },
     {
       "id": "DLG_ZH_HSK2_SC023_047",
-      "speaker": "邻居",
+      "speaker": "刘梅",
       "zh": "可以，提前给我打个电话就行。",
       "pinyin": "kě yǐ ， tí qián gěi wǒ dǎ gè diàn huà jiù xíng 。",
       "tr": "Olur, önceden beni aramanız yeterli."
@@ -546,9 +546,9 @@
     {
       "id": "DLG_ZH_HSK2_SC023_078",
       "speaker": "张伟",
-      "zh": "谢谢你们愿意听我的想法。",
-      "pinyin": "xiè xiè nǐ men yuàn yì tīng wǒ de xiǎng fǎ 。",
-      "tr": "İsteklerimi dinlediğiniz için sağ olun."
+      "zh": "谢谢你们把要求说得这么清楚。",
+      "pinyin": "xièxie nǐmen bǎ yāoqiú shuō de zhème qīngchu.",
+      "tr": "İsteklerinizi bu kadar açık anlattığınız için sağ olun."
     },
     {
       "id": "DLG_ZH_HSK2_SC023_079",
@@ -609,20 +609,20 @@
     {
       "id": "DLG_ZH_HSK2_SC023_087",
       "speaker": "张伟",
-      "zh": "我已经开始想生日怎么过了。",
-      "pinyin": "wǒ yǐ jīng kāi shǐ xiǎng shēng rì zěn me guò le 。",
-      "tr": "Doğum gününü nasıl kutlayacağımızı şimdiden düşünüyorum."
+      "zh": "我已经开始想怎么把蛋糕做好了。",
+      "pinyin": "wǒ yǐjīng kāishǐ xiǎng zěnme bǎ dàngāo zuò hǎo le.",
+      "tr": "Pastayı nasıl güzel hazırlayacağımı şimdiden düşünüyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC023_088",
-      "speaker": "刘梅",
+      "speaker": "邻居",
       "zh": "谢谢你，星期六见。",
       "pinyin": "xiè xiè nǐ ， xīng qī liù jiàn 。",
       "tr": "Teşekkürler, cumartesi görüşürüz."
     },
     {
       "id": "DLG_ZH_HSK2_SC023_089",
-      "speaker": "邻居",
+      "speaker": "刘梅",
       "zh": "不客气，祝她生日快乐。",
       "pinyin": "bú kè qì ， zhù tā shēng rì kuài lè 。",
       "tr": "Rica ederim, doğum günü kutlu olsun."
@@ -636,14 +636,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC023_091",
-      "speaker": "刘梅",
+      "speaker": "邻居",
       "zh": "星期六我会提前来取蛋糕。",
       "pinyin": "xīng qī liù wǒ huì tí qián lái qǔ dàn gāo 。",
       "tr": "Cumartesi pastayı almaya erken geleceğim."
     },
     {
       "id": "DLG_ZH_HSK2_SC023_092",
-      "speaker": "邻居",
+      "speaker": "刘梅",
       "zh": "我会再检查一下名字和装饰。",
       "pinyin": "wǒ huì zài jiǎn chá yī xià míng zì hé zhuāng shì 。",
       "tr": "Adı ve süslemeyi bir kez daha kontrol ederim."
@@ -692,7 +692,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC023_099",
-      "speaker": "张伟",
+      "speaker": "邻居",
       "zh": "那我们星期六见，辛苦你们了。",
       "pinyin": "nà wǒ men xīng qī liù jiàn ， xīn kǔ nǐ men le 。",
       "tr": "O zaman cumartesi görüşürüz, zahmetinize sağlık."

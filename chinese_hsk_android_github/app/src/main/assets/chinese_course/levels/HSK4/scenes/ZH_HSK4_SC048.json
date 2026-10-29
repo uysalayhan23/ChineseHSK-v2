@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK4_SC048_001",
       "speaker": "刘梅",
-      "zh": "欢迎来店里采访，也听说这次内容会刊登在地方新闻上。",
-      "pinyin": "huān yíng lái diàn lǐ cǎi fǎng yě tīng shuō zhè cì nèi róng huì kān dēng zài dì fāng xīn wén shàng",
-      "tr": "Dükkânımızda röportaj yapmanıza sevindim; içeriğin yerel haberde yayımlanacağını duydum."
+      "zh": "欢迎媒体来采访，也听说这次内容会刊登在地方新闻上。",
+      "pinyin": "huān yíng méi tǐ lái cǎi fǎng yě tīng shuō zhè cì nèi róng huì kān dēng zài dì fāng xīn wén shàng",
+      "tr": "Medyanın röportaj için gelmesine sevindik; bu içeriğin yerel haberde yayımlanacağını da duydum."
     },
     {
       "id": "DLG_ZH_HSK4_SC048_002",
@@ -354,16 +354,16 @@
     {
       "id": "DLG_ZH_HSK4_SC048_050",
       "speaker": "记者",
-      "zh": "活动太多会增加团队的工作量，所以我们得提前安排好时间和人手。",
-      "pinyin": "huó dòng tài duō huì zēng jiā tuán duì de gōng zuò liàng suǒ yǐ wǒ men dé tí qián ān pái hǎo shí jiān hé rén shǒu",
-      "tr": "Çok fazla etkinlik ekibin iş yükünü artırır; bu yüzden zamanı ve personeli önceden planlamalıyız."
+      "zh": "如果活动太多，团队的工作量会增加，所以你们得提前安排好时间和人手。",
+      "pinyin": "rú guǒ huó dòng tài duō tuán duì de gōng zuò liàng huì zēng jiā suǒ yǐ nǐ men dé tí qián ān pái hǎo shí jiān hé rén shǒu",
+      "tr": "Etkinlikler çoğalırsa ekibin işi artar; bu yüzden zaman ve personel planını önceden yapmalısınız."
     },
     {
       "id": "DLG_ZH_HSK4_SC048_051",
       "speaker": "张伟",
-      "zh": "如果活动太多，店里工作会忙不过来，所以要提前安排。",
-      "pinyin": "Rú guǒ huó dòng tài duō diàn lǐ gōng zuò huì máng bù guò lái suǒ yǐ yào tí qián ān pái",
-      "tr": "Etkinlik çok olursa günlük işler aksar; bu yüzden önceden planlamak gerekiyor."
+      "zh": "我们会先确认活动人数和日期，再安排轮班。",
+      "pinyin": "wǒ men huì xiān què rèn huó dòng rén shù hé rì qī zài ān pái lún bān",
+      "tr": "Önce etkinliğe katılacak kişi sayısını ve tarihi netleştirip sonra vardiyaları düzenleriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC048_052",
@@ -431,16 +431,16 @@
     {
       "id": "DLG_ZH_HSK4_SC048_061",
       "speaker": "刘梅",
-      "zh": "报道之后如果客流增加，你们打算怎样应对？",
-      "pinyin": "bào dào zhī hòu rú guǒ kè liú zēng jiā nǐ men dǎ suàn zěn yàng yìng duì",
-      "tr": "Haberde çıktıktan sonra müşteri sayısı artarsa nasıl karşılık vermeyi planlıyorsunuz?"
+      "zh": "报道之后如果客流增加，我们打算怎样应对？",
+      "pinyin": "bào dào zhī hòu rú guǒ kè liú zēng jiā wǒ men dǎ suàn zěn yàng yìng duì",
+      "tr": "Haberde çıktıktan sonra müşteri sayısı artarsa nasıl karşılık vermeyi planlıyoruz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC048_062",
       "speaker": "记者",
-      "zh": "我们会先观察客流，再决定要不要增加活动，不会一下子安排太多。",
-      "pinyin": "wǒ men huì xiān guān chá kè liú zài jué dìng yào bù yào zēng jiā huó dòng bú huì yī xià zi ān pái tài duō",
-      "tr": "Önce müşteri akışını gözleyip etkinlikleri artırıp artırmayacağımıza karar veririz; birden çok etkinlik planlamayız."
+      "zh": "可以先观察客流，再决定要不要增加活动，不用一下子安排太多。",
+      "pinyin": "kě yǐ xiān guān chá kè liú zài jué dìng yào bù yào zēng jiā huó dòng bù yòng yī xià zi ān pái tài duō",
+      "tr": "Önce müşteri sayısını gözlemleyip etkinlikleri artırıp artırmamaya karar verebiliriz; birden çok etkinlik planlamaya gerek yok."
     },
     {
       "id": "DLG_ZH_HSK4_SC048_063",
@@ -564,9 +564,9 @@
     {
       "id": "DLG_ZH_HSK4_SC048_080",
       "speaker": "顾客",
-      "zh": "好，我们会一起看，有不准确的地方就及时告诉你。",
-      "pinyin": "Hǎo wǒ men huì yì qǐ kàn yǒu bù zhǔn què de dì fāng jiù jí shí gào sù nǐ",
-      "tr": "Olur, birlikte okuruz; yanlış bir bilgi görürsek hemen haber veririz."
+      "zh": "我也会看看报道；如果邻居想参加，我就把活动信息告诉他们。",
+      "pinyin": "wǒ yě huì kàn kàn bào dào rú guǒ lín jū xiǎng cān jiā wǒ jiù bǎ huó dòng xìn xī gào sù tā men",
+      "tr": "Haberi ben de okurum; komşular katılmak isterse etkinlik bilgisini onlara iletirim."
     },
     {
       "id": "DLG_ZH_HSK4_SC048_081",
@@ -627,16 +627,16 @@
     {
       "id": "DLG_ZH_HSK4_SC048_089",
       "speaker": "刘梅",
-      "zh": "报道刊出后，你们还会继续在店里办读书会吗？",
-      "pinyin": "bào dào kān chū hòu nǐ men hái huì jì xù zài diàn lǐ bàn dú shū huì ma",
-      "tr": "Haber yayımlandıktan sonra dükkânda kitap kulübü düzenlemeye devam edecek misiniz?"
+      "zh": "报道刊出后，我们还会继续在店里办读书会，您愿意来参加吗？",
+      "pinyin": "bào dào kān chū hòu wǒ men hái huì jì xù zài diàn lǐ bàn dú shū huì nín yuàn yì lái cān jiā ma",
+      "tr": "Haber yayımlandıktan sonra dükkânda kitap kulübüne devam edeceğiz; siz de katılmak ister misiniz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC048_090",
       "speaker": "记者",
-      "zh": "我会在咖啡馆安排一个小型读书会，欢迎新来的居民参加。",
-      "pinyin": "Wǒ huì zài kā fēi guǎn ān pái yí gè xiǎo xíng dú shū huì huān yíng xīn lái de jū mín cān jiā",
-      "tr": "Kafede yeni komşuların da gelebileceği küçük bir kitap kulübü düzenleyeceğim."
+      "zh": "我会在报道里写清读书会的时间和参加方式，欢迎新居民参加。",
+      "pinyin": "wǒ huì zài bào dào lǐ xiě qīng dú shū huì de shí jiān hé cān jiā fāng shì huān yíng xīn jū mín cān jiā",
+      "tr": "Haberde kitap kulübünün saatini ve katılım şeklini açıkça yazacağım; yeni sakinler de katılabilir."
     },
     {
       "id": "DLG_ZH_HSK4_SC048_091",
@@ -655,16 +655,16 @@
     {
       "id": "DLG_ZH_HSK4_SC048_093",
       "speaker": "刘梅",
-      "zh": "活动当天你们打算准备哪些饮品？",
-      "pinyin": "huó dòng dàng tiān nǐ men dǎ suàn zhǔn bèi nǎ xiē yǐn pǐn",
-      "tr": "Etkinlik günü hangi içecekleri hazırlamayı düşünüyorsunuz?"
+      "zh": "报道里也请写上活动会准备哪些饮品，方便居民提前了解。",
+      "pinyin": "bào dào lǐ yě qǐng xiě shàng huó dòng huì zhǔn bèi nǎ xiē yǐn pǐn fāng biàn jū mín tí qián liǎo jiě",
+      "tr": "Sakinlerin önceden bilmesi için etkinlikte hangi içeceklerin sunulacağını da habere ekler misiniz?"
     },
     {
       "id": "DLG_ZH_HSK4_SC048_094",
       "speaker": "记者",
-      "zh": "我们会准备咖啡、茶，也会留一些不含咖啡因的选择。",
-      "pinyin": "wǒ men huì zhǔn bèi kā fēi chá yě huì liú yī xiē bù hán kā fēi yīn de xuǎn zé",
-      "tr": "Kahve ve çayın yanı sıra kafeinsiz seçenekler de hazırlayacağız."
+      "zh": "当然。我会写明现场提供咖啡、茶和不含咖啡因的选择。",
+      "pinyin": "dāng rán wǒ huì xiě míng xiàn chǎng tí gōng kā fēi chá hé bù hán kā fēi yīn de xuǎn zé",
+      "tr": "Elbette. Kahve, çay ve kafeinsiz seçenekler sunulacağını belirteceğim."
     },
     {
       "id": "DLG_ZH_HSK4_SC048_095",
@@ -731,7 +731,7 @@
         "pinyin": "méitǐ cǎifǎng",
         "tr": "medya röportajı",
         "exampleZh": "媒体采访是我们不能忽略的一点。",
-        "examplePinyin": "Méitǐ cǎifǎng shì wǒmen bù néng hūlüè de yìdiǎn.",
+        "examplePinyin": "Méitǐ cǎifǎng shì wǒmen bù néng hūlüè de yìdiǎn",
         "exampleTr": "Medya röportajı göz ardı edemeyeceğimiz bir nokta.",
         "kind": "active"
       },
@@ -740,9 +740,9 @@
         "zh": "社区角色",
         "pinyin": "shèqū juésè",
         "tr": "toplumdaki rol",
-        "exampleZh": "我们把社区角色也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ shèqū juésè yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Toplumdaki rol konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "这也是社区角色的一部分：让大家有机会认识和帮助彼此。",
+        "examplePinyin": "Zhè yě shì shè qū jué sè de yī bù fèn ràng dà jiā yǒu jī huì rèn shí hé bāng zhù bǐ cǐ",
+        "exampleTr": "Bu da kafenin toplumsal rolünün bir parçası; insanların tanışıp birbirine destek olmasını sağlıyor.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "咖啡馆的想法",
         "pinyin": "kāfēiguǎn de xiǎngfa",
         "tr": "kafe fikri",
-        "exampleZh": "如果咖啡馆的想法发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ kāfēiguǎn de xiǎngfa fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Kafe fikri değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "开店之初，咖啡馆的想法就是给邻居一个见面聊天的地方。",
+        "examplePinyin": "Kāi diàn zhī chū kā fēi guǎn de xiǎng fǎ jiù shì gěi lín jū yí gè jiàn miàn liáo tiān de dì fāng",
+        "exampleTr": "Kafeyi açarken amacımız mahalle sakinlerine buluşup sohbet edebilecekleri bir yer sağlamaktı.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "地方新闻",
         "pinyin": "dìfāng xīnwén",
         "tr": "yerel haber",
-        "exampleZh": "关于地方新闻，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú dìfāng xīnwén, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Yerel haber konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "谢谢。地方新闻能让更多人知道社区里正在发生什么。",
+        "examplePinyin": "Xiè xiè dì fāng xīn wén néng ràng gèng duō rén zhī dào shè qū lǐ zhèng zài fā shēng shén me",
+        "exampleTr": "Teşekkürler. Yerel haberler mahallede neler olduğunu daha çok kişinin öğrenmesini sağlıyor.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "服务",
         "pinyin": "fúwù",
         "tr": "hizmet",
-        "exampleZh": "服务是我们不能忽略的一点。",
-        "examplePinyin": "Fúwù shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Hizmet göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "你们的服务有什么特别之处？",
+        "examplePinyin": "Nǐ men de fú wù yǒu shén me tè bié zhī chù",
+        "exampleTr": "Hizmetinizin farklı yanı nedir?",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "社区",
         "pinyin": "shèqū",
         "tr": "mahalle / topluluk",
-        "exampleZh": "我们把社区也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ shèqū yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Mahalle / topluluk konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "这样的合作也让社区商家彼此认识。",
+        "examplePinyin": "Zhè yàng de hé zuò yě ràng shè qū shāng jiā bǐ cǐ rèn shí",
+        "exampleTr": "Bu işbirliği mahalledeki işletmelerin de birbirini tanımasını sağlıyor.",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "huíyì",
         "tr": "anı",
         "exampleZh": "如果回忆发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ huíyì fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ huíyì fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Anı değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "gùkè",
         "tr": "müşteri",
         "exampleZh": "关于顾客，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú gùkè, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú gùkè wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Müşteri konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

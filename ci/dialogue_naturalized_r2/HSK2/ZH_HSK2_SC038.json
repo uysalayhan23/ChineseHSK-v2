@@ -294,9 +294,9 @@
     {
       "id": "DLG_ZH_HSK2_SC038_042",
       "speaker": "刘梅",
-      "zh": "我也该道歉，没问清楚就以为你对我有意见。",
-      "pinyin": "Wǒ yě gāi dào qiàn ， méi wèn qīng chǔ jiù yǐ wéi nǐ duì wǒ yǒu yì jiàn 。",
-      "tr": "Ben de özür dilemeliyim; sormadan senin bana kızdığını sandım."
+      "zh": "我听明白了，你们只是没把时间说清楚。",
+      "pinyin": "wǒ tīng míngbai le, nǐmen zhǐshì méi bǎ shíjiān shuō qīngchu.",
+      "tr": "Anladım; yalnızca saati açıkça belirtmemişsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC038_043",
@@ -314,7 +314,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC038_045",
-      "speaker": "刘梅",
+      "speaker": "同学",
       "zh": "对，我没有退出小组，还是想和你一起完成。",
       "pinyin": "Duì ， wǒ méi yǒu tuì chū xiǎo zǔ ， hái shì xiǎng hé nǐ yì qǐ wán chéng 。",
       "tr": "Evet, gruptan ayrılmadım; hâlâ birlikte tamamlamak istiyorum."
@@ -335,7 +335,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC038_048",
-      "speaker": "刘梅",
+      "speaker": "同学",
       "zh": "我负责找资料和图片，整理好后发给你。",
       "pinyin": "Wǒ fù zé zhǎo zī liào hé tú piàn ， zhěng lǐ hǎo hòu fā gěi nǐ 。",
       "tr": "Kaynaklarla görselleri ben bulup düzenleyince sana gönderirim."
@@ -356,7 +356,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC038_051",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我收到后会先看，有不清楚的地方就问你。",
       "pinyin": "Wǒ shōu dào hòu huì xiān kàn ， yǒu bù qīng chǔ de dì fāng jiù wèn nǐ 。",
       "tr": "Gelince okuyacağım, anlaşılmayan bir yer olursa sana sorarım."
@@ -433,7 +433,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC038_062",
-      "speaker": "同学",
+      "speaker": "张雨桐",
       "zh": "我把你的名字写在开头部分，资料和图片由我来找。",
       "pinyin": "Wǒ bǎ nǐ de míng zì xiě zài kāi tóu bù fèn ， zī liào hé tú piàn yóu wǒ lái zhǎo 。",
       "tr": "Giriş bölümüne senin adını yazayım, kaynak ve görselleri ben bulayım."
@@ -503,7 +503,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC038_072",
-      "speaker": "刘梅",
+      "speaker": "同学",
       "zh": "刘梅阿姨，你觉得我们这样安排清楚吗？",
       "pinyin": "Liú méi ā yí ， nǐ jué de wǒ men zhè yàng ān pái qīng chǔ ma ？",
       "tr": "Liu Mei teyze, bu plan sana anlaşılır geliyor mu?"
@@ -545,10 +545,10 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC038_078",
-      "speaker": "刘梅",
-      "zh": "这次我先道歉，也会更认真听你说话。",
-      "pinyin": "Zhè cì wǒ xiān dào qiàn ， yě huì gèng rèn zhēn tīng nǐ shuō huà 。",
-      "tr": "Bu kez önce özür diledim, bundan sonra seni daha dikkatli dinleyeceğim."
+      "speaker": "同学",
+      "zh": "我会记得先听你把话说完，再回答。",
+      "pinyin": "wǒ huì jìde xiān tīng nǐ bǎ huà shuō wán, zài huídá.",
+      "tr": "Önce sözünü bitirmeni dinleyip sonra cevap vermeyi unutmayacağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC038_079",
@@ -587,7 +587,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC038_084",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我会把分工发到小组里，晚上按计划完成自己的部分。",
       "pinyin": "Wǒ huì bǎ fēn gōng fā dào xiǎo zǔ lǐ ， wǎn shàng àn jì huà wán chéng zì jǐ de bù fèn 。",
       "tr": "Görev paylaşımını gruba yazacağım, akşam planımıza göre kendi bölümümü bitireceğim."
@@ -630,9 +630,9 @@
     {
       "id": "DLG_ZH_HSK2_SC038_090",
       "speaker": "刘梅",
-      "zh": "我现在觉得轻松多了，也很高兴我们和好了。",
-      "pinyin": "Wǒ xiàn zài jué de qīng sōng duō le ， yě hěn gāo xìng wǒ men hé hǎo le 。",
-      "tr": "Şimdi çok rahatladım; barıştığımıza da sevindim."
+      "zh": "看你们把话说开了，我也放心多了。",
+      "pinyin": "kàn nǐmen bǎ huà shuō kāi le, wǒ yě fàngxīn duō le.",
+      "tr": "İkinizin konuşup anlaşmasına ben de sevindim, içim rahatladı."
     },
     {
       "id": "DLG_ZH_HSK2_SC038_091",
@@ -692,7 +692,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC038_099",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "谢谢妈妈提醒我。我会先问清楚，再决定怎么做。",
       "pinyin": "Xiè xiè mā mā tí xǐng wǒ 。 wǒ huì xiān wèn qīng chǔ ， zài jué dìng zěn me zuò 。",
       "tr": "Hatırlattığın için teşekkürler anne. Önce ne demek istediğini soracağım."

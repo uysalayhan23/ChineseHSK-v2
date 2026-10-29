@@ -730,9 +730,9 @@
         "zh": "网上评价",
         "pinyin": "wǎngshàng píngjià",
         "tr": "internet yorumu",
-        "exampleZh": "网上评价是我们不能忽略的一点。",
-        "examplePinyin": "Wǎngshàng píngjià shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Internet yorumu göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我朋友那天也等了很久，不过他没有写网上评价。",
+        "examplePinyin": "Wǒ péng yǒu nà tiān yě děng le hěn jiǔ ， bú guò tā méi yǒu xiě wǎng shàng píng jià 。",
+        "exampleTr": "Arkadaşım da o gün uzun süre bekledi ama çevrimiçi yorum yazmadı.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "口碑",
         "pinyin": "kǒubēi",
         "tr": "itibar / ağızdan ağıza ün",
-        "exampleZh": "我们把口碑也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ kǒubēi yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Itibar / ağızdan ağıza ün konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "这样既尊重顾客，也保护隐私，口碑才有机会慢慢恢复。",
+        "examplePinyin": "Zhè yàng jì zūn zhòng gù kè ， yě bǎo hù yǐn sī ， kǒu bēi cái yǒu jī huì màn màn huī fù 。",
+        "exampleTr": "Bu hem müşteriye saygı gösterir hem gizliliği korur; itibar ancak böyle zamanla düzelebilir.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "回应",
         "pinyin": "huíyìng",
         "tr": "yanıt vermek",
-        "exampleZh": "我来负责回应这一部分。",
-        "examplePinyin": "Wǒ lái fùzé huíyìng zhè yí bùfen.",
-        "exampleTr": "Yanıt vermek kısmını ben üstleneyim.",
+        "exampleZh": "我们可以回应这次体验，但不讨论你的个人订单细节。",
+        "examplePinyin": "Wǒ men ké yǐ huí yìng zhè cì tǐ yàn ， dàn bù tǎo lùn nǐ de gè rén dìng dān xì jié 。",
+        "exampleTr": "Bu deneyime yanıt verebiliriz ama kişisel sipariş ayrıntılarını paylaşmayız.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "顾客",
         "pinyin": "gùkè",
         "tr": "müşteri",
-        "exampleZh": "关于顾客，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú gùkè, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Müşteri konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "你说得对，什么时候来不该成为顾客承担的责任。",
+        "examplePinyin": "Nǐ shuō dé duì ， shén me shí hòu lái bù gāi chéng wéi gù kè chéng dān de zé rèn 。",
+        "exampleTr": "Haklısın; müşterinin ne zaman geldiği onun sorumluluğu olmamalı.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "批评",
         "pinyin": "pīpíng",
         "tr": "eleştiri",
-        "exampleZh": "批评是我们不能忽略的一点。",
-        "examplePinyin": "Pīpíng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Eleştiri göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "但这条批评有订单记录支持，等待时间确实需要改进。",
+        "examplePinyin": "Dàn zhè tiáo pī píng yǒu dìng dān jì lù zhī chí ， děng dài shí jiān què shí xū yào gǎi jìn 。",
+        "exampleTr": "Ama bu eleştiriyi sipariş kayıtları destekliyor; bekleme süresini gerçekten iyileştirmeliyiz.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "改进",
         "pinyin": "gǎijìn",
         "tr": "iyileştirmek",
-        "exampleZh": "如果能提前改进，后面会顺利很多。",
-        "examplePinyin": "Rúguǒ néng tíqián gǎijìn, hòumiàn huì shùnlì hěn duō.",
-        "exampleTr": "Önceden iyileştirmek mümkün olursa sonrası çok daha rahat ilerler.",
+        "exampleZh": "这条改进也要写进交班表，负责的人检查完再签名。",
+        "examplePinyin": "Zhè tiáo gǎi jìn yě yào xiě jìn jiāo bān biǎo ， fù zé de rén jiǎn chá wán zài qiān míng 。",
+        "exampleTr": "Bu iyileştirmeyi vardiya formuna da ekleyelim; sorumlu kişi kontrol ettikten sonra imzalasın.",
         "kind": "active"
       },
       {

@@ -10,9 +10,9 @@
     {
       "id": "DLG_ZH_HSK5_SC043_001",
       "speaker": "奶奶",
-      "zh": "我不是不需要帮助，只是不想什么事都由别人替我决定。",
-      "pinyin": "wǒ bú shì bù xū yào bāng zhù ， zhǐ shì bù xiǎng shén me shì dōu yóu bié rén tì wǒ jué dìng 。",
-      "tr": "Yardıma ihtiyacım olmadığını söylemiyorum; yalnızca her şeye başkalarının benim yerime karar vermesini istemiyorum。"
+      "zh": "我不是不需要帮助，只是不想什么事都由别人替我决定。我也希望保有自己的尊严。",
+      "pinyin": "wǒ bú shì bù xū yào bāng zhù ， zhǐ shì bù xiǎng shén me shì dōu yóu bié rén tì wǒ jué dìng 。 wǒ yě xī wàng bǎo yǒu zì jǐ de zūn yán 。",
+      "tr": "Yardıma ihtiyacım olmadığını söylemiyorum; yalnızca her şeye başkalarının benim yerime karar vermesini istemiyorum. Kendi onurumu da korumak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_002",
@@ -45,9 +45,9 @@
     {
       "id": "DLG_ZH_HSK5_SC043_006",
       "speaker": "张伟",
-      "zh": "有时上下楼拿东西不方便，我也不想总麻烦你们。",
-      "pinyin": "yǒu shí shàng xià lóu ná dōng xī bù fāng biàn ， wǒ yě bù xiǎng zǒng má fán nǐ men 。",
-      "tr": "Bazen merdivenlerden bir şey taşımak zor oluyor; sizi de sürekli rahatsız etmek istemiyorum."
+      "zh": "有时看你上下楼拿东西不方便，我想帮忙，也不想让你觉得我在替你作决定。",
+      "pinyin": "yǒu shí kàn nǐ shàng xià lóu ná dōng xī bù fāng biàn ， wǒ xiǎng bāng máng ， yě bù xiǎng ràng nǐ jué de wǒ zài tì nǐ zuò jué dìng 。",
+      "tr": "Bazen merdiven inip çıkarken eşya taşımanın sana zor geldiğini görüyorum. Yardım etmek istiyorum ama senin yerine karar verdiğimi düşünmeni de istemem."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_007",
@@ -73,9 +73,9 @@
     {
       "id": "DLG_ZH_HSK5_SC043_010",
       "speaker": "张伟",
-      "zh": "比如每周帮我搬一次重东西，其他时候先问我。",
-      "pinyin": "bǐ rú měi zhōu bāng wǒ bān yī cì zhòng dōng xī ， qí tā shí hòu xiān wèn wǒ 。",
-      "tr": "Örneğin ağır eşyaları haftada bir taşımama yardım edin; diğer zamanlarda önce bana sorun."
+      "zh": "比如每周我们帮你搬一次重东西，其他时候先问你。",
+      "pinyin": "bǐ rú měi zhōu wǒ men bāng nǐ bān yī cì zhòng dōng xī ， qí tā shí hòu xiān wèn nǐ 。",
+      "tr": "Örneğin ağır eşyaları haftada bir taşımana yardım eder, diğer zamanlarda önce sana sorarız."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_011",
@@ -108,9 +108,9 @@
     {
       "id": "DLG_ZH_HSK5_SC043_015",
       "speaker": "刘梅",
-      "zh": "我不想让邻居觉得我什么都做不了。",
-      "pinyin": "wǒ bù xiǎng ràng lín jū jué de wǒ shén me dōu zuò bù liǎo 。",
-      "tr": "Komşuların hiçbir şeyi yapamadığımı düşünmesini istemiyorum."
+      "zh": "我也不想让邻居的看法影响你，关键还是按你的意愿安排。",
+      "pinyin": "wǒ yě bù xiǎng ràng lín jū de kàn fǎ yǐng xiǎng nǐ ， guān jiàn hái shì àn nǐ de yì yuàn ān pái 。",
+      "tr": "Komşuların düşüncelerinin seni etkilemesini istemem; önemli olan düzeni senin isteğine göre kurmak."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_016",
@@ -122,16 +122,16 @@
     {
       "id": "DLG_ZH_HSK5_SC043_017",
       "speaker": "奶奶",
-      "zh": "我以前总觉得替你做得越多，就是越关心你。",
-      "pinyin": "wǒ yǐ qián zǒng jué de tì nǐ zuò dé yuè duō ， jiù shì yuè guān xīn nǐ 。",
-      "tr": "Eskiden senin için ne kadar çok şey yaparsam o kadar ilgili olduğumu sanırdım."
+      "zh": "我以前总觉得，替你们多做一些，就是在关心你们。",
+      "pinyin": "wǒ yǐ qián zǒng jué de ， tì nǐ men duō zuò yī xiē ， jiù shì zài guān xīn nǐ men 。",
+      "tr": "Eskiden sizin için daha fazlasını yapmanın size değer verdiğimi gösterdiğini sanırdım."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_018",
       "speaker": "张伟",
-      "zh": "我知道你是好意，可有时我只需要你陪我商量。",
-      "pinyin": "wǒ zhī dào nǐ shì hǎo yì ， kě yǒu shí wǒ zhǐ xū yào nǐ péi wǒ shāng liáng 。",
-      "tr": "İyi niyetli olduğunu biliyorum ama bazen yalnızca benimle konuşmana ihtiyacım var."
+      "zh": "我知道你是好意，可我们更希望你也把自己的想法说出来。",
+      "pinyin": "wǒ zhī dào nǐ shì hǎo yì ， kě wǒ men gèng xī wàng nǐ yě bǎ zì jǐ de xiǎng fǎ shuō chū lái 。",
+      "tr": "İyi niyetli olduğunu biliyorum ama biz de kendi düşüncelerini paylaşmanı isteriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_019",
@@ -145,7 +145,7 @@
       "speaker": "爷爷",
       "zh": "我们可以分成三类：你自己做、需要时搭把手、暂时由家人帮忙。",
       "pinyin": "wǒ men kě yǐ fēn chéng sān lèi ： nǐ zì jǐ zuò 、 xū yào shí dā bǎ shǒu 、 zàn shí yóu jiā rén bāng máng 。",
-      "tr": "İşleri üçe ayırabiliriz: kendin yaptıkların, gerektiğinde destek istediklerin ve şimdilik ailenin üstlendiği işler。"
+      "tr": "İşleri üçe ayırabiliriz: kendin yaptıkların, gerektiğinde destek istediklerin ve şimdilik ailenin üstlendiği işler."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_021",
@@ -227,23 +227,23 @@
     {
       "id": "DLG_ZH_HSK5_SC043_032",
       "speaker": "爷爷",
-      "zh": "谢谢。能自己决定什么时候求助，对我来说很重要。",
-      "pinyin": "Xiè xiè néng zì jǐ jué dìng shén me shí hòu qiú zhù duì wǒ lái shuō hěn zhòng yào",
-      "tr": "Teşekkürler. Ne zaman yardım isteyeceğime kendim karar verebilmek benim için önemli."
+      "zh": "我也觉得，能自己决定什么时候求助很重要，咱们应该把两个人的想法都听进去。",
+      "pinyin": "wǒ yě jué de ， néng zì jǐ jué dìng shén me shí hòu qiú zhù hěn zhòng yào ， zán men yīng gāi bǎ liǎng gè rén de xiǎng fǎ dōu tīng jìn qù 。",
+      "tr": "Ben de ne zaman yardım isteyeceğine kendin karar verebilmenin önemli olduğunu düşünüyorum; ikimizin de düşüncesini dinlemeliyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_033",
       "speaker": "奶奶",
       "zh": "那我们把需要帮忙的几件事写下来，其他事情先不插手。",
-      "pinyin": "Nà wǒ men bǎ xū yào bāng máng de jǐ jiàn shì xiě xià lái qí tā shì qíng xiān bù chā shǒu",
-      "tr": "Öyleyse yardım gerektiren birkaç işi yazalım; diğer işlere şimdilik karışmayalım."
+      "pinyin": "nà wǒ men bǎ xū yào bāng máng de jǐ jiàn shì xiě xià lái ， qí tā shì qíng xiān bù chā shǒu 。",
+      "tr": "Öyleyse yardım gereken birkaç işi yazalım; diğer işlere şimdilik karışmayalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_034",
       "speaker": "张伟",
-      "zh": "可以。搬重物时我们每周帮一次，买菜还是由你自己安排。",
-      "pinyin": "Kě yǐ bān zhòng wù shí wǒ men měi zhōu bāng yī cì mǎi cài hái shì yóu nǐ zì jǐ ān pái",
-      "tr": "Olur. Ağır eşyaları haftada bir taşımana yardım ederiz; alışverişini ise kendin düzenlersin."
+      "zh": "可以。搬重物时你们每周帮我一次，买菜还是由我自己安排。",
+      "pinyin": "kě yǐ 。 bān zhòng wù shí nǐ men měi zhōu bāng wǒ yī cì ， mǎi cài hái shì yóu wǒ zì jǐ ān pái 。",
+      "tr": "Olur. Ağır eşyaları haftada bir taşımanız yeter; alışverişimi ise kendim düzenlerim."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_035",
@@ -395,9 +395,9 @@
     {
       "id": "DLG_ZH_HSK5_SC043_056",
       "speaker": "爷爷",
-      "zh": "这样说我就放心了，也更愿意接受需要的帮助。",
-      "pinyin": "Zhè yàng shuō wǒ jiù fàng xīn le yě gèng yuàn yì jiē shòu xū yào de bāng zhù",
-      "tr": "Bunu böyle söylemeniz içimi rahatlattı; ihtiyaç duyduğum yardımı kabul etmeye de daha istekliyim."
+      "zh": "我听明白了。我们两个都可以按需要接受帮助，不用不好意思。",
+      "pinyin": "wǒ tīng míng bái le 。 wǒ men liǎng gè dōu kě yǐ àn xū yào jiē shòu bāng zhù ， bù yòng bù hǎo yì sī 。",
+      "tr": "Anladım. İkimiz de ihtiyacımız olduğunda yardım kabul edebilir, bundan çekinmeyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_057",
@@ -416,15 +416,15 @@
     {
       "id": "DLG_ZH_HSK5_SC043_059",
       "speaker": "刘梅",
-      "zh": "你先问我要不要拿袋子，这一点让我很舒服。",
-      "pinyin": "nǐ xiān wèn wǒ yào bù yào ná dài zi ， zhè yì diǎn ràng wǒ hěn shū fú 。",
-      "tr": "Önce poşetleri taşımamı isteyip istemediğimi sorman beni rahatlattı."
+      "zh": "听你这样说，我也放心多了；以后我们帮忙前都会先问你。",
+      "pinyin": "tīng nǐ zhè yàng shuō ， wǒ yě fàng xīn duō le ； yǐ hòu wǒ men bāng máng qián dū huì xiān wèn nǐ 。",
+      "tr": "Bunu böyle söylemen beni de rahatlattı; bundan sonra yardım etmeden önce sana soracağız."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_060",
       "speaker": "爷爷",
-      "zh": "我也记住了，帮忙之前先问，东西放回原处。",
-      "pinyin": "wǒ yě jì zhù le ， bāng máng zhī qián xiān wèn ， dōng xī fàng huí yuán chù 。",
+      "zh": "我也记住了：帮忙之前先问，东西放回原处。",
+      "pinyin": "wǒ yě jì zhù le ： bāng máng zhī qián xiān wèn ， dōng xī fàng huí yuán chù 。",
       "tr": "Ben de aklımda tuttum: Yardım etmeden önce sor ve eşyaları yerine koy."
     },
     {
@@ -542,9 +542,9 @@
     {
       "id": "DLG_ZH_HSK5_SC043_077",
       "speaker": "奶奶",
-      "zh": "关键是由你参与决定，安排也能随时商量。",
-      "pinyin": "guān jiàn shì yóu nǐ cān yù jué dìng ， ān pái yě néng suí shí shāng liáng 。",
-      "tr": "Önemli olan karara senin de katılman; düzeni her zaman konuşabiliriz."
+      "zh": "关键是我们都参与决定，安排也能随时商量。",
+      "pinyin": "guān jiàn shì wǒ men dōu cān yù jué dìng ， ān pái yě néng suí shí shāng liáng 。",
+      "tr": "Önemli olan karara hepimizin katılması; düzeni her zaman konuşabiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_078",
@@ -605,9 +605,9 @@
     {
       "id": "DLG_ZH_HSK5_SC043_086",
       "speaker": "张伟",
-      "zh": "这就是我想要的帮助：有人关心，也有人尊重我。",
-      "pinyin": "zhè jiù shì wǒ xiǎng yào de bāng zhù ： yǒu rén guān xīn ， yě yǒu rén zūn zhòng wǒ 。",
-      "tr": "İstediğim yardım tam da bu: İlgilenen ama bana da saygı duyan insanlar."
+      "zh": "这就是我们希望得到的帮助：有人关心，也尊重每个人的选择。",
+      "pinyin": "zhè jiù shì wǒ men xī wàng dé dào de bāng zhù ： yǒu rén guān xīn ， yě zūn zhòng měi gè rén de xuǎn zé 。",
+      "tr": "İstediğimiz yardım tam da bu: İnsanların birbirini önemsemesi ve herkesin seçimine saygı duyması."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_087",
@@ -668,9 +668,9 @@
     {
       "id": "DLG_ZH_HSK5_SC043_095",
       "speaker": "刘梅",
-      "zh": "有需要就告诉我们，不需要的时候我们也会给你自己的空间。",
-      "pinyin": "yǒu xū yào jiù gào sù wǒ men ， bù xū yào de shí hòu wǒ men yě huì gěi nǐ zì jǐ de kōng jiān 。",
-      "tr": "İhtiyacın olursa bize söyle; ihtiyacın olmadığında da sana kendi alanını bırakalım."
+      "zh": "有需要就告诉我们，不需要的时候我们也会给你足够的空间。",
+      "pinyin": "yǒu xū yào jiù gào sù wǒ men ， bù xū yào de shí hòu wǒ men yě huì gěi nǐ zú gòu de kōng jiān 。",
+      "tr": "İhtiyacın olursa bize söyle; ihtiyacın olmadığında da sana yeterince alan bırakırız."
     },
     {
       "id": "DLG_ZH_HSK5_SC043_096",

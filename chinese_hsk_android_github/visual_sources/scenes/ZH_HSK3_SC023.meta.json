@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC023.json",
-  "dialogueSha256": "da239b29bd66d8719dad82bdecb14d72f6c7691713112d78db5ec3086dc214ec",
+  "dialogueSha256": "ea73828a43e748c5eeb9282a8dac4f485119d97c5d1443957c5e563f8af31ffe",
   "titleTr": "Zhang Yardıma Koşuyor",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Zhang iş çıkışı kafeye gelir ve kahve makinesinin basit tamir sürecine yardım eder.",

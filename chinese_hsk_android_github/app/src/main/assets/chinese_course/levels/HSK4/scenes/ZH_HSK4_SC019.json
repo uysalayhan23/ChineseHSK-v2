@@ -730,9 +730,9 @@
         "zh": "摄影",
         "pinyin": "shèyǐng",
         "tr": "fotoğrafçılık",
-        "exampleZh": "摄影是我们不能忽略的一点。",
-        "examplePinyin": "Shèyǐng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Fotoğrafçılık göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "那就从今天这几张开始，慢慢发现你喜欢怎样的摄影。",
+        "examplePinyin": "nà jiù cóng jīn tiān zhè jǐ zhāng kāi shǐ màn màn fā xiàn nǐ xǐ huān zěn yàng de shè yǐng",
+        "exampleTr": "Öyleyse bugünkü karelerle başlayıp nasıl fotoğraf çekmeyi sevdiğini zamanla keşfet.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "镜头",
         "pinyin": "jìngtóu",
         "tr": "objektif / kamera bakışı",
-        "exampleZh": "我们把镜头也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jìngtóu yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Objektif / kamera bakışı konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我带上相机和镜头，也会告诉你怎么检查对焦。",
+        "examplePinyin": "wǒ dài shàng xiàng jī hé jìng tóu yě huì gào sù nǐ zěn me jiǎn chá duì jiāo",
+        "exampleTr": "Kamerayı ve objektifi getiririm; netliği nasıl kontrol edeceğini de gösteririm.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "天赋",
         "pinyin": "tiānfù",
         "tr": "yetenek",
-        "exampleZh": "如果天赋发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ tiānfù fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Yetenek değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "设备当然有影响，不过天赋也不是一开始就能看出来的。",
+        "examplePinyin": "Shè bèi dāng rán yǒu yǐng xiǎng ， bú guò tiān fù yě bú shì yī kāi shǐ jiù néng kàn chū lái de 。",
+        "exampleTr": "Ekipman elbette etkiler ama yetenek de en başta hemen anlaşılmaz.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "爱好",
         "pinyin": "àihào",
         "tr": "hobi",
-        "exampleZh": "关于爱好，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú àihào, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Hobi konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "爱好应该让生活更丰富，不该变成新的压力。",
+        "examplePinyin": "ài hào yīng gāi ràng shēng huó gèng fēng fù bù gāi biàn chéng xīn de yā lì",
+        "exampleTr": "Hobi yaşamını zenginleştirmeli, yeni bir baskıya dönüşmemeli.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "公园",
         "pinyin": "gōngyuán",
         "tr": "park",
-        "exampleZh": "公园是我们不能忽略的一点。",
-        "examplePinyin": "Gōngyuán shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Park göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我周五能做完作业，周六下午去公园应该来得及。",
+        "examplePinyin": "Wǒ zhōu wǔ néng zuò wán zuò yè ， zhōu liù xià wǔ qù gōng yuán yīng gāi lái de jí 。",
+        "exampleTr": "Ödevlerimi cuma bitirebilirim; cumartesi öğleden sonra parka gitmeye vaktim olur.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "学习",
         "pinyin": "xuéxí",
         "tr": "ders çalışma",
-        "exampleZh": "我们把学习也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ xuéxí yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Ders çalışma konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "只要学习和休息都安排好，我们就支持你的爱好。",
+        "examplePinyin": "zhǐ yào xué xí hé xiū xī dōu ān pái hǎo wǒ men jiù zhī chí nǐ de ài hào",
+        "exampleTr": "Derslerini ve dinlenmeni planladığın sürece hobini destekleriz.",
         "kind": "active"
       },
       {

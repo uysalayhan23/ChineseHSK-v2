@@ -165,16 +165,16 @@
     {
       "id": "DLG_ZH_HSK4_SC028_023",
       "speaker": "酒店工作人员",
-      "zh": "您好，隔壁的客人听到了电视声和交谈声，想请您晚上把音量调低一些。",
-      "pinyin": "nín hǎo gé bì de kè rén tīng dào le diàn shì shēng hé jiāo tán shēng xiǎng qǐng nín wǎn shàng bǎ yīn liàng diào dī yī xiē",
-      "tr": "İyi akşamlar, yan odadaki misafirler televizyon ve konuşma sesini duyuyor. Bu gece biraz kısabilir misiniz?"
+      "zh": "您好，我已经敲门说明情况，对方答应把电视音量调低。",
+      "pinyin": "nín hǎo，wǒ yǐ jīng qiāo mén shuō míng qíng kuàng，duì fāng dā yìng bǎ diàn shì yīn liàng diào dī。",
+      "tr": "Merhaba, kapıyı çalıp durumu anlattım; televizyonun sesini kısmayı kabul ettiler."
     },
     {
       "id": "DLG_ZH_HSK4_SC028_024",
       "speaker": "张乐乐",
-      "zh": "如果他们关小电视就好了，其他房间也有人需要休息。",
-      "pinyin": "rú guǒ tā men guān xiǎo diàn shì jiù hǎo le qí tā fáng jiān yě yǒu rén xū yào xiū xī",
-      "tr": "Televizyonu kısarlarsa iyi olur; başka odalarda da dinlenmesi gerekenler var."
+      "zh": "那就好，其他房间也有人需要休息。",
+      "pinyin": "nà jiù hǎo，qí tā fáng jiān yě yǒu rén xū yào xiū xī。",
+      "tr": "İyi o zaman; diğer odalarda da dinlenmeye çalışanlar var."
     },
     {
       "id": "DLG_ZH_HSK4_SC028_025",
@@ -186,9 +186,9 @@
     {
       "id": "DLG_ZH_HSK4_SC028_026",
       "speaker": "刘梅",
-      "zh": "工作人员说他们答应调小音量了，应该很快会安静下来。",
-      "pinyin": "gōng zuò rén yuán shuō tā men dā yìng diào xiǎo yīn liàng le yīng gāi hěn kuài huì ān jìng xià lái",
-      "tr": "Çalışan, ses seviyesini kısmayı kabul ettiklerini söyledi; yakında sakinleşir."
+      "zh": "我们再等几分钟，确认声音真的小下来了。",
+      "pinyin": "wǒ men zài děng jǐ fēn zhōng，què rèn shēng yīn zhēn de xiǎo xià lái le。",
+      "tr": "Sesin gerçekten azaldığından emin olmak için birkaç dakika daha bekleyelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC028_027",
@@ -433,7 +433,7 @@
       "speaker": "张伟",
       "zh": "早上孩子说昨晚后来睡得不错，隔壁的声音没有再影响他。",
       "pinyin": "zǎo shàng hái zi shuō zuó wǎn hòu lái shuì dé bù cuò gé bì de shēng yīn méi yǒu zài yǐng xiǎng tā",
-      "tr": "Çocuk sabah gece sonrasında iyi uyuduğunu söyledi; yan odanın sesi onu artık etkilememiş。"
+      "tr": "Çocuk sabah gece sonrasında iyi uyuduğunu söyledi; yan odanın sesi onu artık etkilememiş."
     },
     {
       "id": "DLG_ZH_HSK4_SC028_062",
@@ -730,9 +730,9 @@
         "zh": "噪音",
         "pinyin": "zàoyīn",
         "tr": "gürültü",
-        "exampleZh": "噪音是我们不能忽略的一点。",
-        "examplePinyin": "Zàoyīn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Gürültü göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "谢谢你们耐心等待。如果过一会儿还有噪音，请再联系前台。",
+        "examplePinyin": "xiè xiè nǐ men nài xīn děng dài rú guǒ guò yī huì er hái yǒu zào yīn qǐng zài lián xì qián tái",
+        "exampleTr": "Sabırla beklediğiniz için teşekkürler. Bir süre sonra yine gürültü olursa resepsiyonu arayın.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "酒店投诉",
         "pinyin": "jiǔdiàn tóusù",
         "tr": "otel şikâyeti",
-        "exampleZh": "我们把酒店投诉也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jiǔdiàn tóusù yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Otel şikâyeti konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我们想确认一下，昨晚的情况需要留下酒店投诉记录吗？",
+        "examplePinyin": "wǒ men xiǎng què rèn yī xià zuó wǎn de qíng kuàng xū yào liú xià jiǔ diàn tóu sù jì lù ma",
+        "exampleTr": "Dünkü durum için otel şikâyeti kaydı bırakmamız gerekiyor mu, teyit etmek istiyoruz.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "预订",
         "pinyin": "yùdìng",
         "tr": "rezervasyon",
-        "exampleZh": "如果预订发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ yùdìng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Rezervasyon değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "酒店预订时写的是安静楼层，如果下次有需要，我们会先向前台说明。",
+        "examplePinyin": "jiǔ diàn yù dìng shí xiě de shì ān jìng lóu céng rú guǒ xià cì yǒu xū yào wǒ men huì xiān xiàng qián tái shuō míng",
+        "exampleTr": "Otel rezervasyonunda sakin kat seçmiştik; sonraki sefer gerekirse bunu resepsiyona önceden söyleriz.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "房型",
         "pinyin": "fángxíng",
         "tr": "oda tipi",
-        "exampleZh": "关于房型，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú fángxíng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Oda tipi konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "我核对了房卡和账单，房型和住宿日期都没有问题。",
+        "examplePinyin": "wǒ hé duì le fáng kǎ hé zhàng dān fáng xíng hé zhù sù rì qī dōu méi yǒu wèn tí",
+        "exampleTr": "Oda kartını ve hesabı kontrol ettim; oda tipiyle konaklama tarihleri doğru.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "在决定以前，我们最好先沟通。",
-        "examplePinyin": "Zài juédìng yǐqián, wǒmen zuìhǎo xiān gōutōng.",
-        "exampleTr": "Karar vermeden önce iletişim kurmak daha iyi olur.",
+        "exampleZh": "再见，谢谢你昨晚帮我们沟通。",
+        "examplePinyin": "zài jiàn xiè xiè nǐ zuó wǎn bāng wǒ men gōu tōng",
+        "exampleTr": "Hoşça kalın, dün gece konuşmamıza yardımcı olduğunuz için teşekkürler.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "尊重",
         "pinyin": "zūnzhòng",
         "tr": "saygı",
-        "exampleZh": "我们把尊重也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zūnzhòng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Saygı konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "是啊，大家互相尊重，事情就比较容易处理。",
+        "examplePinyin": "shì a dà jiā hù xiāng zūn zhòng shì qíng jiù bǐ jiào róng yì chǔ lǐ",
+        "exampleTr": "Evet, herkes birbirine saygı gösterince işler daha kolay çözülüyor.",
         "kind": "active"
       },
       {

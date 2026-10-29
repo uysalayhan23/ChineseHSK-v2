@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC017",
   "level": "HSK5",
   "sourceTitleZh": "环保小组请爷爷讲话",
@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC017_001",
       "speaker": "爷爷",
-      "zh": "环保小组请我去分享种植经验，我想先知道大家最想了解哪方面。",
-      "pinyin": "huán bǎo xiǎo zǔ qǐng wǒ qù fēn xiǎng zhòng zhí jīng yàn ， wǒ xiǎng xiān zhī dào dà jiā zuì xiǎng liǎo jiě nǎ fāng miàn 。",
-      "tr": "Çevre kulübü benden yetiştirme deneyimimi paylaşmamı istedi; önce en çok hangi konuyu öğrenmek istediklerini bilmek isterim."
+      "zh": "环保小组这次的公益倡议是改善社区花园，我想先知道大家最想了解哪方面。",
+      "pinyin": "huán bǎo xiǎo zǔ zhè cì de gōng yì chàng yì shì gǎi shàn shè qū huā yuán ， wǒ xiǎng xiān zhī dào dà jiā zuì xiǎng liǎo jiě nǎ fāng miàn 。",
+      "tr": "Çevre grubunun bu kamu yararına girişimi mahalle bahçesini iyileştirmeyi amaçlıyor; önce herkesin en çok neyi öğrenmek istediğini bilmek isterim."
     },
     {
       "id": "DLG_ZH_HSK5_SC017_002",
@@ -37,9 +37,9 @@
     {
       "id": "DLG_ZH_HSK5_SC017_005",
       "speaker": "爷爷",
-      "zh": "我可以讲怎么观察土壤和天气，但每块地不一样，做法要根据现场调整。",
-      "pinyin": "wǒ kě yǐ jiǎng zěn me guān chá tǔ rǎng hé tiān qì ， dàn měi kuài dì bù yí yàng ， zuò fǎ yào gēn jù xiàn chǎng tiáo zhěng 。",
-      "tr": "Toprağı ve havayı nasıl gözlemlediğimi anlatabilirim; ancak her arazi farklıdır, yöntem yerinde uyarlanmalı."
+      "zh": "我可以讲怎么观察土壤和天气；农场每块地不一样，做法要根据现场调整。",
+      "pinyin": "wǒ kě yǐ jiǎng zěn me guān chá tǔ rǎng hé tiān qì ； nóng chǎng měi kuài dì bù yí yàng ， zuò fǎ yào gēn jù xiàn chǎng tiáo zhěng 。",
+      "tr": "Toprağı ve havayı nasıl gözlemlediğimi anlatabilirim; çiftlikte her bölüm farklıdır, yöntem de koşullara göre değişmeli."
     },
     {
       "id": "DLG_ZH_HSK5_SC017_006",
@@ -219,9 +219,9 @@
     {
       "id": "DLG_ZH_HSK5_SC017_031",
       "speaker": "张乐乐",
-      "zh": "开场可以先问大家浇水时最难判断什么，再让爷爷用实际观察来回答。",
-      "pinyin": "kāi chǎng kě yǐ xiān wèn dà jiā jiāo shuǐ shí zuì nán pàn duàn shén me ， zài ràng yé yé yòng shí jì guān chá lái huí dá 。",
-      "tr": "Girişte sulama zamanını belirlerken en çok neyin zor olduğunu sorup dedenizin gözlemlerini yanıt olarak sunabiliriz."
+      "zh": "开场可以先问大家浇水时最难判断什么，再让爷爷用实际观察来回答，沟通起来更自然。",
+      "pinyin": "kāi chǎng kě yǐ xiān wèn dà jiā jiāo shuǐ shí zuì nán pàn duàn shén me ， zài ràng yé yé yòng shí jì guān chá lái huí dá ， gōu tōng qǐ lái gèng zì rán 。",
+      "tr": "Başlangıçta sulamayla ilgili en zor kararı sorup dedemin somut gözlemlerle yanıtlamasını isteyebiliriz; iletişim daha doğal olur."
     },
     {
       "id": "DLG_ZH_HSK5_SC017_032",
@@ -702,9 +702,9 @@
     {
       "id": "DLG_ZH_HSK5_SC017_100",
       "speaker": "刘梅",
-      "zh": "准备已经清楚了：先分享可观察的方法，尊重现场条件，之后再根据反馈继续讨论。",
-      "pinyin": "zhǔn bèi yǐ jīng qīng chǔ le ： xiān fēn xiǎng kě guān chá de fāng fǎ ， zūn chóng xiàn chǎng tiáo jiàn ， zhī hòu zài gēn jù fǎn kuì jì xù tǎo lùn 。",
-      "tr": "Hazırlık netleşti: önce gözlemlenebilir yöntemleri paylaşın, alan koşullarına saygı gösterin ve geri bildirimle konuşmayı sürdürün."
+      "zh": "从试讲和现场反馈来看，这次分享不仅传递了可持续发展的做法，也体现了大家的责任感。",
+      "pinyin": "cóng shì jiǎng hé xiàn chǎng fǎn kuì lái kàn ， zhè cì fēn xiǎng bù jǐn chuán dì le kě chí xù fā zhǎn de zuò fǎ ， yě tǐ xiàn le dà jiā de zé rèn gǎn 。",
+      "tr": "Prova ve katılımcı geri bildirimlerine bakınca bu paylaşım hem sürdürülebilirlik uygulamalarını aktardı hem de herkesin sorumluluk duygusunu gösterdi."
     }
   ]
 }

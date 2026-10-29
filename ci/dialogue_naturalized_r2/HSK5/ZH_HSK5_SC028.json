@@ -44,9 +44,9 @@
     {
       "id": "DLG_ZH_HSK5_SC028_006",
       "speaker": "社区代表",
-      "zh": "对。请大家尽量说具体地点和时间，这样比较容易核实。",
-      "pinyin": "duì 。 qǐng dà jiā jǐn liàng shuō jù tǐ dì diǎn hé shí jiān ， zhè yàng bǐ jiào róng yì hé shí 。",
-      "tr": "Evet. Lütfen mümkün olduğunca belirli yer ve saatlerden söz edin; böylece doğrulamak kolaylaşır."
+      "zh": "对。请大家尽量说具体地点和时间，这样比较容易核实，也方便我们和各方沟通。",
+      "pinyin": "duì 。 qǐng dà jiā jǐn liàng shuō jù tǐ dì diǎn hé shí jiān ， zhè yàng bǐ jiào róng yì hé shí ， yě fāng biàn wǒ men hé gè fāng gōu tōng 。",
+      "tr": "Evet. Lütfen konum ve zamanı somut biçimde belirtin; böylece doğrulamak ve ilgili taraflarla iletişim kurmak kolaylaşır."
     },
     {
       "id": "DLG_ZH_HSK5_SC028_007",
@@ -212,9 +212,9 @@
     {
       "id": "DLG_ZH_HSK5_SC028_030",
       "speaker": "社区代表",
-      "zh": "我们先把这两类需求列为优先项目，再确认预算和负责部门。",
-      "pinyin": "wǒ men xiān bǎ zhè liǎng lèi xū qiú liè wèi yōu xiān xiàng mù ， zài què rèn yù suàn hé fù zé bù mén 。",
-      "tr": "Önce bu iki ihtiyacı öncelikli başlık olarak listeleyip bütçeyi ve sorumlu birimleri netleştirelim."
+      "zh": "我们先把就医和上学需求列为优先考虑的项目，再确认预算和负责部门。",
+      "pinyin": "wǒ men xiān bǎ jiù yī hé shàng xué xū qiú liè wèi yōu xiān kǎo lǜ de xiàng mù ， zài què rèn yù suàn hé fù zé bù mén 。",
+      "tr": "Önce sağlık ve eğitim ihtiyaçlarını öncelikli konular arasına alıp bütçeyi ve sorumlu birimleri netleştirelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC028_031",
@@ -513,9 +513,9 @@
     {
       "id": "DLG_ZH_HSK5_SC028_073",
       "speaker": "张伟",
-      "zh": "规划方案还会影响周边商户、老人、学生和每天通勤的人。",
-      "pinyin": "guī huà fāng àn hái huì yǐng xiǎng zhōu biān shāng hù 、 lǎo rén 、 xué shēng hé měi tiān tōng qín de rén 。",
-      "tr": "Planlama önerisi çevredeki esnafı, yaşlıları, öğrencileri ve her gün işe gidenleri de etkiler."
+      "zh": "城市规划方案还会影响周边商户、老人、学生和每天通勤的人。",
+      "pinyin": "chéng shì guī huà fāng àn hái huì yǐng xiǎng zhōu biān shāng hù 、 lǎo rén 、 xué shēng hé měi tiān tōng qín de rén 。",
+      "tr": "Kent planlama önerisi çevredeki esnafı, yaşlıları, öğrencileri ve her gün işe gidip gelenleri de etkiler."
     },
     {
       "id": "DLG_ZH_HSK5_SC028_074",

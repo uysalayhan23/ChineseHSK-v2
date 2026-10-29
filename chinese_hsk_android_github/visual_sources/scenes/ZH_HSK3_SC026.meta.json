@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC026.json",
-  "dialogueSha256": "8fdf415304c6f4f6a3ae9c802b3da7479a060c6a9c3ba9cfebe642122058000f",
+  "dialogueSha256": "e2732666ed3b17259a024af23ef80938e14ad3af280dd5d602b382cd30781db4",
   "titleTr": "Kafenin İlk Düzenli Müşterisi",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Yaşlı bir komşu her sabah aynı saatte gelmeye başlar ve düzenli müşteri olur.",

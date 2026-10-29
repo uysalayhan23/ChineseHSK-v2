@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC032.json",
-  "dialogueSha256": "a570a0b43f58bebe677d73037897e43ca2bdf739b6751849289d8cc5f16e58a3",
+  "dialogueSha256": "34c82a75e021c51ecd43a3ac8290cfc345a2d9045894cace3654c89ee6b562e0",
   "titleTr": "Lele Takıma Seçilemedi",
   "locationId": "LOC_ZH_SPORTS_FIELD_001",
   "scenePurposeTr": "Lele futbol takımına giremez ve bir sonraki seçme için çalışmaya karar verir.",

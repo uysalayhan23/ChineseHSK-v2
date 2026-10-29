@@ -60,9 +60,9 @@
     {
       "id": "DLG_ZH_HSK4_SC013_008",
       "speaker": "张伟",
-      "zh": "如果厨房不能避免交叉接触，我们就会坦白说明，不承诺做不到的事。",
-      "pinyin": "Rú guǒ chú fáng bù néng bì miǎn jiāo chā jiē chù ， wǒ men jiù huì tǎn bái shuō míng ， bù chéng nuò zuò bú dào de shì 。",
-      "tr": "Mutfak çapraz teması önleyemiyorsa bunu açıkça söyleriz; yapamayacağımız bir şeyi vaat etmeyiz."
+      "zh": "既然厨房无法避免交叉接触，我们就坦白说明，不承诺做不到的事。",
+      "pinyin": "Jìrán chúfáng wúfǎ bìmiǎn jiāochā jiēchù, wǒmen jiù tǎnbái shuōmíng, bù chéngnuò zuò búdào de shì.",
+      "tr": "Mutfak çapraz teması önleyemiyorsa bunu açıkça söyleyelim; yapamayacağımız bir şey için söz vermeyelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC013_009",
@@ -730,9 +730,9 @@
         "zh": "过敏",
         "pinyin": "guòmǐn",
         "tr": "alerji",
-        "exampleZh": "过敏是我们不能忽略的一点。",
-        "examplePinyin": "Guòmǐn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Alerji göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我对花生严重过敏，想先确认这道点心的食材和做法。",
+        "examplePinyin": "Wǒ duì huā shēng yán zhòng guò mǐn ， xiǎng xiān què rèn zhè dào diǎn xīn de shí cái hé zuò fǎ 。",
+        "exampleTr": "Yer fıstığına karşı ciddi alerjim var; bu tatlının malzemelerini ve hazırlanışını önce doğrulamak istiyorum.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "食材",
         "pinyin": "shícái",
         "tr": "malzeme / gıda içeriği",
-        "exampleZh": "我们把食材也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ shícái yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Malzeme / gıda içeriği konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "水壶刚刚只烧过水，厨房确认没有接触花生食材。",
+        "examplePinyin": "Shuǐ hú gāng gāng zhǐ shāo guò shuǐ ， chú fáng què rèn méi yǒu jiē chù huā shēng shí cái 。",
+        "exampleTr": "Mutfak çaydanlığın az önce yalnızca su kaynattığını ve yer fıstığı içeren malzemelerle temas etmediğini doğruladı.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "负责",
         "pinyin": "fùzé",
         "tr": "sorumlu olmak",
-        "exampleZh": "如果负责发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ fùzé fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Sorumlu olmak değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "这个做法比匆忙答应更负责，也能减少误会。",
+        "examplePinyin": "Zhè ge zuò fǎ bǐ cōng máng dā yìng gèng fù zé ， yě néng jiǎn shǎo wù huì 。",
+        "exampleTr": "Bu yaklaşım aceleyle söz vermekten daha sorumlu ve yanlış anlaşılmaları azaltır.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "顾客",
         "pinyin": "gùkè",
         "tr": "müşteri",
-        "exampleZh": "关于顾客，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú gùkè, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Müşteri konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "我会记住：先听清顾客的过敏信息，再检查食材和器具。",
+        "examplePinyin": "Wǒ huì jì zhù ： xiān tīng qīng gù kè de guò mǐn xìn xī ， zài jiǎn chá shí cái hé qì jù 。",
+        "exampleTr": "Aklımda tutacağım: önce müşterinin alerji bilgisini dikkatle dinle, sonra malzemeleri ve araçları kontrol et.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "服务",
         "pinyin": "fúwù",
         "tr": "hizmet",
-        "exampleZh": "服务是我们不能忽略的一点。",
-        "examplePinyin": "Fúwù shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Hizmet göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我们会把隐私和食材安全都做好，服务才算完整。",
+        "examplePinyin": "Wǒ men huì bǎ yǐn sī hé shí cái ān quán dōu zuò hǎo ， fú wù cái suàn wán zhěng 。",
+        "exampleTr": "Gizliliği ve malzeme güvenliğini birlikte gözetirsek hizmet tamamlanmış olur.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "检查",
         "pinyin": "jiǎnchá",
         "tr": "kontrol etmek",
-        "exampleZh": "我们把检查也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jiǎnchá yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Kontrol etmek konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "夹子已经换好。我们把茶包和杯子也再检查一次。",
+        "examplePinyin": "Jiā zi yǐ jīng huàn hǎo 。 wǒ men bǎ chá bāo hé bēi zi yě zài jiǎn chá yī cì 。",
+        "exampleTr": "Maşa değiştirildi. Çay poşetini ve bardağı da yeniden kontrol edelim.",
         "kind": "active"
       },
       {

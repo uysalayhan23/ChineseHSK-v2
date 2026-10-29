@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC022",
   "status": "ANALYZED_READY_FOR_GENERATION",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC022.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC022.json",
   "titleTr": "Kafeye Yerel Ürünler",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Liu Mei yerel çiftçilerle daha düzenli tedarik anlaşması konuşur.",

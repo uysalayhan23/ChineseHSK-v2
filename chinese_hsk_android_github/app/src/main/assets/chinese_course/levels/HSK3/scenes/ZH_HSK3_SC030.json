@@ -25,9 +25,9 @@
     {
       "id": "DLG_ZH_HSK3_SC030_003",
       "speaker": "同事",
-      "zh": "这周我整理了数据，也参加了客户的讨论。",
-      "pinyin": "zhè zhōu wǒ zhěng lǐ le shù jù ， yě cān jiā le kè hù de tǎo lùn 。",
-      "tr": "Bu hafta verileri düzenledim ve müşteri görüşmesine katıldım."
+      "zh": "我一边整理数据，一边参加客户的讨论。",
+      "pinyin": "Wǒ yībiān zhěnglǐ shùjù, yībiān cānjiā kèhù de tǎolùn.",
+      "tr": "Bir yandan verileri düzenleyip bir yandan müşteri toplantılarına katıldım。"
     },
     {
       "id": "DLG_ZH_HSK3_SC030_004",
@@ -730,9 +730,9 @@
         "zh": "汇报",
         "pinyin": "huìbào",
         "tr": "sunum / raporlama",
-        "exampleZh": "这个时候最好先汇报。",
-        "examplePinyin": "Zhège shíhou zuìhǎo xiān huìbào.",
-        "exampleTr": "Bu durumda önce sunum / raporlama en iyisi.",
+        "exampleZh": "今天我来汇报新项目的进展，先说一下目标。",
+        "examplePinyin": "jīn tiān wǒ lái huì bào xīn xiàng mù dì jìn zhǎn ， xiān shuō yī xià mù biāo 。",
+        "exampleTr": "Bugün yeni projenin ilerlemesini sunacağım; önce hedeften söz edeyim.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "项目",
         "pinyin": "xiàngmù",
         "tr": "proje",
-        "exampleZh": "项目是这次要考虑的重点之一。",
-        "examplePinyin": "Xiàngmù shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-        "exampleTr": "Proje bu kez değerlendirmemiz gereken ana noktalardan biri.",
+        "exampleZh": "今天我来汇报新项目的进展，先说一下目标。",
+        "examplePinyin": "jīn tiān wǒ lái huì bào xīn xiàng mù dì jìn zhǎn ， xiān shuō yī xià mù biāo 。",
+        "exampleTr": "Bugün yeni projenin ilerlemesini sunacağım; önce hedeften söz edeyim.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "结果",
         "pinyin": "jiéguǒ",
         "tr": "sonuç",
-        "exampleZh": "我们最好再确认一下结果。",
-        "examplePinyin": "Wǒmen zuìhǎo zài quèrèn yíxià jiéguǒ.",
-        "exampleTr": "Sonuç konusunu bir kez daha teyit etsek iyi olur.",
+        "exampleZh": "那我们听完以后再一起看结果。",
+        "examplePinyin": "nà wǒ men tīng wán yǐ hòu zài yì qǐ kàn jié guǒ 。",
+        "exampleTr": "O halde sunumdan sonra sonuçlara birlikte bakalım.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "步骤",
         "pinyin": "bùzhòu",
         "tr": "adım",
-        "exampleZh": "如果步骤没有问题，我们就继续。",
-        "examplePinyin": "Rúguǒ bùzhòu méiyǒu wèntí, wǒmen jiù jìxù.",
-        "exampleTr": "Adım konusunda sorun yoksa devam ederiz.",
+        "exampleZh": "项目从上个月开始，到现在一共完成了四个步骤。",
+        "examplePinyin": "xiàng mù cóng shàng gè yuè kāi shǐ ， dào xiàn zài yī gòng wán chéng le sì gè bù zhòu 。",
+        "exampleTr": "Proje geçen ay başladı, şimdiye kadar dört adım tamamlandı.",
         "kind": "active"
       },
       {
@@ -770,19 +770,19 @@
         "zh": "说明清楚",
         "pinyin": "shuōmíng qīngchu",
         "tr": "açıklığa kavuşturmak",
-        "exampleZh": "关于说明清楚，我们还要再讨论一下。",
-        "examplePinyin": "Guānyú shuōmíng qīngchu, wǒmen hái yào zài tǎolùn yíxià.",
-        "exampleTr": "Açıklığa kavuşturmak konusunda biraz daha konuşmalıyız.",
+        "exampleZh": "好，说明清楚以后，讨论会容易一些。",
+        "examplePinyin": "hǎo ， shuō míng qīng chǔ yǐ hòu ， tǎo lùn huì róng yì yī xiē 。",
+        "exampleTr": "Güzel; açık anlatım tartışmayı kolaylaştırır.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK3_SC030_006",
-        "zh": "家庭会议",
-        "pinyin": "jiātíng huìyì",
-        "tr": "aile toplantısı",
-        "exampleZh": "我已经把家庭会议记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ jiātíng huìyì jì xiàlái le.",
-        "exampleTr": "Aile toplantısı notunu aldım.",
+        "zh": "预算",
+        "pinyin": "yùsuàn",
+        "tr": "bütçe",
+        "exampleZh": "没有超出预算，主要费用都在计划里面。",
+        "examplePinyin": "méi yǒu chāo chū yù suàn ， zhǔ yào fèi yòng dōu zài jì huà lǐ miàn 。",
+        "exampleTr": "Bütçeyi aşmadık, temel giderler planın içindeydi.",
         "kind": "active"
       },
       {

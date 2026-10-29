@@ -89,7 +89,7 @@
       "speaker": "旁白",
       "zh": "他们经过桥边，河面映着两岸温暖的灯光。",
       "pinyin": "tā men jīng guò qiáo biān ， hé miàn yìng zhe liǎng àn wēn nuǎn de dēng guāng 。",
-      "tr": "Köprünün yanından geçerken nehir, iki yakadaki sıcak ışıkları yansıtıyordu。"
+      "tr": "Köprünün yanından geçerken nehir, iki yakadaki sıcak ışıkları yansıtıyordu."
     },
     {
       "id": "DLG_ZH_HSK5_SC049_013",
@@ -425,7 +425,7 @@
       "speaker": "旁白",
       "zh": "街道渐渐安静下来，他们的谈话也变得轻松了。",
       "pinyin": "jiē dào jiàn jiàn ān jìng xià lái ， tā men de tán huà yě biàn dé qīng sōng le 。",
-      "tr": "Sokak giderek sessizleşirken sohbetleri de daha rahat bir hâl aldı。"
+      "tr": "Sokak giderek sessizleşirken sohbetleri de daha rahat bir hâl aldı."
     },
     {
       "id": "DLG_ZH_HSK5_SC049_061",
@@ -677,14 +677,14 @@
       "speaker": "旁白",
       "zh": "夜色渐深，三个人带着轻松的心情各自回家。",
       "pinyin": "yè sè jiàn shēn ， sān gè rén dài zhe qīng sōng de xīn qíng gè zì huí jiā 。",
-      "tr": "Gece ilerledi; üçü de içi hafiflemiş bir hâlde evlerine döndü。"
+      "tr": "Gece ilerledi; üçü de içi hafiflemiş bir hâlde evlerine döndü."
     },
     {
       "id": "DLG_ZH_HSK5_SC049_097",
       "speaker": "张伟",
-      "zh": "不过，我理解你的顾虑，不过也想听听另一边的感受。",
-      "pinyin": "bù guò ， wǒ lǐ jiě nǐ de gù lǜ ， bù guò yě xiǎng tīng tīng lìng yī biān de gǎn shòu 。",
-      "tr": "Ancak, kaygını anlıyorum ama diğer tarafın duygularını da duymak istiyorum."
+      "zh": "我理解你的顾虑，也想听听另一边的感受。",
+      "pinyin": "wǒ lǐ jiě nǐ de gù lǜ ， yě xiǎng tīng tīng lìng yī biān de gǎn shòu 。",
+      "tr": "Kaygını anlıyorum; diğer tarafın nasıl hissettiğini de duymak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC049_098",

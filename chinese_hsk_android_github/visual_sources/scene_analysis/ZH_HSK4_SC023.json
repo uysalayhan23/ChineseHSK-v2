@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC023",
   "status": "ANALYZED_READY_FOR_GENERATION",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC023.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC023.json",
   "titleTr": "Bir Müşteri Cüzdanını Unutuyor",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Düzenli bir müşteri cüzdanını unutunca güven meselesi ortaya çıkar.",

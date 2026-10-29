@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK5_SC023_001",
       "speaker": "奶奶",
-      "zh": "刚才桌上忽然安静了，我还以为大家都在等我说话。",
-      "pinyin": "gāng cái zhuō shàng hū rán ān jìng le ， wǒ hái yǐ wéi dà jiā dōu zài děng wǒ shuō huà 。",
-      "tr": "Az önce masa birden sessizleşti; herkes benden söz bekliyor sandım."
+      "zh": "刚才桌上忽然安静，我想讲个笑话给大家解围，又怕没掌握好分寸。",
+      "pinyin": "gāng cái zhuō shàng hū rán ān jìng ， wǒ xiǎng jiǎng gè xiào huà gěi dà jiā jiě wéi ， yòu pà méi zhǎng wò hǎo fēn cùn 。",
+      "tr": "Az önce masada bir sessizlik oldu; herkesi rahatlatmak için şaka yapmak istedim ama ölçüyü kaçırmaktan çekindim."
     },
     {
       "id": "DLG_ZH_HSK5_SC023_002",
@@ -151,9 +151,9 @@
     {
       "id": "DLG_ZH_HSK5_SC023_021",
       "speaker": "奶奶",
-      "zh": "你说得对。今天我只是想让大家喘口气，不想让谁觉得被取笑。",
-      "pinyin": "nǐ shuō dé duì 。 jīn tiān wǒ zhǐ shì xiǎng ràng dà jiā chuǎn kǒu qì ， bù xiǎng ràng shuí jué de bèi qǔ xiào 。",
-      "tr": "Haklısın. Bugün herkese biraz nefes aldırmak istedim; kimsenin alay konusu olmasını değil."
+      "zh": "你说得对。每一代人对玩笑的感觉不一样，我也该留意大家的情绪，不想让谁觉得被取笑。",
+      "pinyin": "nǐ shuō dé duì 。 měi yí dài rén duì wán xiào de gǎn jué bù yí yàng ， wǒ yě gāi liú yì dà jiā de qíng xù ， bù xiǎng ràng shuí jué de bèi qǔ xiào 。",
+      "tr": "Haklısın. Her kuşağın şakalara yaklaşımı farklı; kimsenin alaya alındığını hissetmemesi için duygulara dikkat etmeliydim."
     },
     {
       "id": "DLG_ZH_HSK5_SC023_022",
@@ -221,9 +221,9 @@
     {
       "id": "DLG_ZH_HSK5_SC023_031",
       "speaker": "伴侣",
-      "zh": "当然可以。缓和气氛不等于不让人表达真实想法。",
-      "pinyin": "dāng rán kě yǐ 。 huǎn hé qì fēn bù děng yú bù ràng rén biǎo dá zhēn shí xiǎng fǎ 。",
-      "tr": "Elbette. Ortamı yumuşatmak, insanların gerçek düşüncelerini söylemesini engellemek değildir."
+      "zh": "当然可以。缓和气氛不是不让人表达；家人之间也要好好沟通。",
+      "pinyin": "dāng rán kě yǐ 。 huǎn hé qì fēn bú shì bù ràng rén biǎo dá ； jiā rén zhī jiān yě yào hǎo hǎo gōu tōng 。",
+      "tr": "Elbette. Ortamı yumuşatmak insanların kendini ifade etmesini engellemek değildir; aile içinde de açıkça konuşmalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC023_032",
@@ -641,9 +641,9 @@
     {
       "id": "DLG_ZH_HSK5_SC023_091",
       "speaker": "伴侣",
-      "zh": "我也喜欢那个时机。我们笑完以后，就更容易说出心里的话。",
-      "pinyin": "wǒ yě xǐ huān nà ge shí jī 。 wǒ men xiào wán yǐ hòu ， jiù gèng róng yì shuō chū xīn lǐ de huà 。",
-      "tr": "Zamanlaması hoşuma gitti. Güldükten sonra içimizdekileri söylemek kolaylaştı."
+      "zh": "从刚才大家的反应来看，换个轻松的话题确实让沟通容易了。",
+      "pinyin": "cóng gāng cái dà jiā de fǎn yìng lái kàn ， huàn gè qīng sōng de huà tí què shí ràng gōu tōng róng yì le 。",
+      "tr": "Az önceki tepkilere bakılırsa daha hafif bir konuya geçmek iletişimi gerçekten kolaylaştırdı."
     },
     {
       "id": "DLG_ZH_HSK5_SC023_092",
@@ -730,9 +730,9 @@
         "zh": "解围",
         "pinyin": "jiěwéi",
         "tr": "zor durumu yumuşatmak",
-        "exampleZh": "解围是我们不能忽略的一点。",
-        "examplePinyin": "Jiěwéi shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Zor durumu yumuşatmak göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "刚才桌上忽然安静，我想讲个笑话给大家解围，又怕没掌握好分寸。",
+        "examplePinyin": "Gāng cái zhuō shàng hū rán ān jìng ， wǒ xiǎng jiǎng gè xiào huà gěi dà jiā jiě wéi ， yòu pà méi zhǎng wò hǎo fēn cùn 。",
+        "exampleTr": "Az önce masada bir sessizlik oldu; herkesi rahatlatmak için şaka yapmak istedim ama ölçüyü kaçırmaktan çekindim.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "幽默",
         "pinyin": "yōumò",
         "tr": "mizah",
-        "exampleZh": "我们把幽默也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ yōumò yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Mizah konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "这种幽默是一起笑，不是拿某个人的尴尬开玩笑。",
+        "examplePinyin": "Zhè zhǒng yōu mò shì yì qǐ xiào ， bú shì ná mǒu gè rén de gān gà kāi wán xiào 。",
+        "exampleTr": "Bu tür mizah birlikte gülmektir; birinin mahcubiyetine gülmek değil.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "分寸",
         "pinyin": "fēncùn",
         "tr": "ölçülülük / sosyal incelik",
-        "exampleZh": "如果分寸发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ fēncùn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Ölçülülük / sosyal incelik değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "刚才桌上忽然安静，我想讲个笑话给大家解围，又怕没掌握好分寸。",
+        "examplePinyin": "Gāng cái zhuō shàng hū rán ān jìng ， wǒ xiǎng jiǎng gè xiào huà gěi dà jiā jiě wéi ， yòu pà méi zhǎng wò hǎo fēn cùn 。",
+        "exampleTr": "Az önce masada bir sessizlik oldu; herkesi rahatlatmak için şaka yapmak istedim ama ölçüyü kaçırmaktan çekindim.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "尊重",
         "pinyin": "zūnzhòng",
         "tr": "saygı",
-        "exampleZh": "关于尊重，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zūnzhòng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Saygı konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "我以前怕拒绝建议会显得不尊重，现在知道可以先感谢再解释。",
+        "examplePinyin": "Wǒ yǐ qián pà jù jué jiàn yì huì xiǎn de bù zūn zhòng ， xiàn zài zhī dào kě yǐ xiān gǎn xiè zài jiě shì 。",
+        "exampleTr": "Eskiden öneriyi reddetmenin saygısızlık olacağını sanırdım; şimdi önce teşekkür edip sonra açıklayabileceğimi biliyorum.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "一代人",
         "pinyin": "yí dài rén",
         "tr": "bir kuşak",
-        "exampleZh": "一代人是我们不能忽略的一点。",
-        "examplePinyin": "Yí dài rén shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Bir kuşak göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "你说得对。每一代人对玩笑的感觉不一样，我也该留意大家的情绪，不想让谁觉得被取笑。",
+        "examplePinyin": "Nǐ shuō dé duì 。 měi yí dài rén duì wán xiào de gǎn jué bù yí yàng ， wǒ yě gāi liú yì dà jiā de qíng xù ， bù xiǎng ràng shuí jué de bèi qǔ xiào 。",
+        "exampleTr": "Haklısın. Her kuşağın şakalara yaklaşımı farklı; kimsenin alaya alındığını hissetmemesi için duygulara dikkat etmeliydim.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "如果能提前沟通，后面会顺利很多。",
-        "examplePinyin": "Rúguǒ néng tíqián gōutōng, hòumiàn huì shùnlì hěn duō.",
-        "exampleTr": "Önceden iletişim kurmak mümkün olursa sonrası çok daha rahat ilerler.",
+        "exampleZh": "从刚才大家的反应来看，换个轻松的话题确实让沟通容易了。",
+        "examplePinyin": "Cóng gāng cái dà jiā de fǎn yìng lái kàn ， huàn gè qīng sōng de huà tí què shí ràng gōu tōng róng yì le 。",
+        "exampleTr": "Az önceki tepkilere bakılırsa daha hafif bir konuya geçmek iletişimi gerçekten kolaylaştırdı.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "如果家人发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jiārén fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Aile değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "这样很清楚。家人的意见可以帮助你们考虑得更全面。",
+        "examplePinyin": "Zhè yàng hěn qīng chǔ 。 jiā rén de yì jiàn kě yǐ bāng zhù nǐ men kǎo lǜ dé gèng quán miàn 。",
+        "exampleTr": "Bu çok açık. Ailenin görüşleri konuları daha geniş düşünmenize yardımcı olabilir.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC023_008",
         "zh": "情绪",
         "pinyin": "qíngxù",
         "tr": "duygusal durum",
-        "exampleZh": "关于情绪，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú qíngxù, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Duygusal durum konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "你说得对。每一代人对玩笑的感觉不一样，我也该留意大家的情绪，不想让谁觉得被取笑。",
+        "examplePinyin": "Nǐ shuō dé duì 。 měi yí dài rén duì wán xiào de gǎn jué bù yí yàng ， wǒ yě gāi liú yì dà jiā de qíng xù ， bù xiǎng ràng shuí jué de bèi qǔ xiào 。",
+        "exampleTr": "Haklısın. Her kuşağın şakalara yaklaşımı farklı; kimsenin alaya alındığını hissetmemesi için duygulara dikkat etmeliydim.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1218,6 +1218,14 @@
     },
     "continuityNoteTr": "Büyükannenin Sessiz Müdahalesi olayı HSK5 yaşam çizgisinde sahne 23 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 16,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC023.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

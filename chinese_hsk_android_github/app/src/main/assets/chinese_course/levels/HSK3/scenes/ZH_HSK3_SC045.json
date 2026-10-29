@@ -25,23 +25,23 @@
     {
       "id": "DLG_ZH_HSK3_SC045_003",
       "speaker": "张伟",
-      "zh": "说到实验，你怎么看？",
-      "pinyin": "Shuō dào shí yàn, nǐ zěn me kàn?",
-      "tr": "deney konusunda ne düşünüyorsun?"
+      "zh": "科学展快到了，我的模型想比较两种能源。",
+      "pinyin": "Kēxuézhǎnkuàidàole, wǒdemóxíngxiǎngbǐjiàoliǎngzhǒngnéngyuán.",
+      "tr": "Bilim fuarı yaklaşıyor; modelimde iki enerji kaynağını karşılaştırmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_004",
       "speaker": "刘梅",
-      "zh": "我先说吧，我最担心的是实际情况会不会跟我们想的一样。",
-      "pinyin": "Wǒ xiān shuō ba, wǒ zuì dān xīn de shì shí jì qíng kuàng huì bú huì gēn wǒ men xiǎng de yī yàng.",
-      "tr": "Önce ben söyleyeyim; en çok gerçek durumun düşündüğümüz gibi olup olmayacağını merak ediyorum."
+      "zh": "太阳能板和小风车都能发电，我们看看哪种情况能让灯亮。",
+      "pinyin": "Tàiyángnéngbǎnhéxiǎofēngchēdōunéngfādiàn, wǒmenkànkànnǎzhǒngqíngkuàngnéngràngdēngliàng.",
+      "tr": "Güneş paneliyle küçük türbin de elektrik üretebiliyor; hangi koşulda lambanın yandığına bakalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_005",
       "speaker": "张乐乐",
-      "zh": "对，所以先把重点找出来。",
-      "pinyin": "Duì, suǒ yǐ xiān bǎ zhòng diǎn zhǎo chū lái.",
-      "tr": "Evet, bu yüzden önce ana noktayı bulalım."
+      "zh": "上次接上线以后灯没亮，我还不知道问题在哪里。",
+      "pinyin": "Shàngcìjiēshàngxiànyǐhòudēngméiliàng, wǒháibùzhīdàowèntízàinǎlǐ.",
+      "tr": "Geçen sefer kabloları bağlayınca lamba yanmadı; sorunun nerede olduğunu bilmiyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_006",
@@ -53,9 +53,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_007",
       "speaker": "张伟",
-      "zh": "我觉得问题这一点也不能忽略。",
-      "pinyin": "Wǒ jué de wèn tí zhè yì diǎn yě bù néng hū lüè.",
-      "tr": "Bence sorun konusunu da göz ardı etmemeliyiz."
+      "zh": "先检查电池和开关，再看看电线有没有松。",
+      "pinyin": "Xiānjiǎnchádiànchíhékāiguān, zàikànkàndiànxiànyǒuméiyǒusōng.",
+      "tr": "Önce pili ve düğmeyi, sonra kablonun gevşek olup olmadığını kontrol et."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_008",
@@ -67,9 +67,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_009",
       "speaker": "张乐乐",
-      "zh": "说到结果，你怎么看？",
-      "pinyin": "Shuō dào jié guǒ, nǐ zěn me kàn?",
-      "tr": "sonuç konusunda ne düşünüyorsun?"
+      "zh": "风车旁边的电线没有插紧，问题找到了。",
+      "pinyin": "Fēngchēpángbiāndediànxiànméiyǒuchājǐn, wèntízhǎodàole.",
+      "tr": "Türbinin yanındaki kablo sıkı takılmamış; sorunu bulduk."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_010",
@@ -81,9 +81,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_011",
       "speaker": "张伟",
-      "zh": "对，不然等会儿容易混在一起。",
-      "pinyin": "Duì, bù rán děng huì er róng yì hùn zài yì qǐ.",
-      "tr": "Evet, yoksa birazdan konular birbirine karışabilir."
+      "zh": "先关掉电源，接好以后再试，注意安全。",
+      "pinyin": "Xiānguāndiàodiànyuán, jiēhǎoyǐhòuzàishì, zhùyìānquán.",
+      "tr": "Önce gücü kapat; kabloyu bağlayıp güvenle dene."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_012",
@@ -95,9 +95,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_013",
       "speaker": "张乐乐",
-      "zh": "我觉得因为这一点也不能忽略。",
-      "pinyin": "Wǒ jué de yīn wèi zhè yì diǎn yě bù néng hū lüè.",
-      "tr": "Bence çünkü konusunu da göz ardı etmemeliyiz."
+      "zh": "现在灯亮了，看来刚才是连接不稳。",
+      "pinyin": "Xiànzàidēngliàngle, kànláigāngcáishìliánjiēbùwěn.",
+      "tr": "Şimdi lamba yandı; demek ki bağlantı gevşekmiş."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_014",
@@ -109,9 +109,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_015",
       "speaker": "张伟",
-      "zh": "说到解决办法，你怎么看？",
-      "pinyin": "Shuō dào jiě jué bàn fǎ, nǐ zěn me kàn?",
-      "tr": "çözüm yolu konusunda ne düşünüyorsun?"
+      "zh": "我把问题和解决办法都记下来，做实验记录。",
+      "pinyin": "Wǒbǎwèntíhéjiějuébànfǎdōujìxiàlái, zuòshíyànjìlù.",
+      "tr": "Sorunu ve çözüm yolunu deney notlarıma yazıyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_016",
@@ -123,9 +123,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_017",
       "speaker": "张乐乐",
-      "zh": "嗯，先别急着决定。",
-      "pinyin": "Èn, xiān bié jí zhe jué dìng.",
-      "tr": "Evet, karar vermek için acele etmeyelim."
+      "zh": "再开关几次，确认灯每次都能亮。",
+      "pinyin": "Zàikāiguānjǐcì, quèrèndēngměicìdōunéngliàng.",
+      "tr": "Her seferinde yandığını doğrulamak için düğmeyi birkaç kez açıp kapat."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_018",
@@ -137,9 +137,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_019",
       "speaker": "张伟",
-      "zh": "我们先把情况说清楚。",
-      "pinyin": "Wǒmen xiān bǎ qíngkuàng shuō qīngchu.",
-      "tr": "Önce durumu netleştirelim."
+      "zh": "确认电路没问题后，我想比较不同的风速。",
+      "pinyin": "Quèrèndiànlùméiwèntíhòu, wǒxiǎngbǐjiàobùtóngdefēngsù.",
+      "tr": "Devrenin sağlam olduğunu doğrulayınca farklı rüzgâr hızlarını karşılaştırmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_020",
@@ -151,9 +151,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_021",
       "speaker": "张乐乐",
-      "zh": "对，我就是这个意思。",
-      "pinyin": "Duì, wǒ jiù shì zhège yìsi.",
-      "tr": "Evet, tam olarak bunu demek istiyorum."
+      "zh": "每次只改变风速，其他条件保持一样。",
+      "pinyin": "Měicìzhǐgǎibiànfēngsù, qítātiáojiànbǎochíyīyàng.",
+      "tr": "Her seferinde yalnızca rüzgâr hızını değiştir, diğer koşulları aynı tut."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_022",
@@ -165,9 +165,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_023",
       "speaker": "张伟",
-      "zh": "先别着急，我们一步一步来。",
-      "pinyin": "Xiān bié zháojí, wǒmen yí bù yí bù lái.",
-      "tr": "Önce telaşlanmayalım, adım adım ilerleyelim."
+      "zh": "这样比较结果，才知道风速有没有影响。",
+      "pinyin": "Zhèyàngbǐjiàojiéguǒ, cáizhīdàofēngsùyǒuméiyǒuyǐngxiǎng.",
+      "tr": "Sonuçları böyle karşılaştırınca rüzgâr hızının etkisini anlarız."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_024",
@@ -179,9 +179,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_025",
       "speaker": "张乐乐",
-      "zh": "为什么你这么想？",
-      "pinyin": "Wèishénme nǐ zhème xiǎng?",
-      "tr": "Neden böyle düşünüyorsun?"
+      "zh": "我会把每次的风速和灯光情况都记下来。",
+      "pinyin": "Wǒhuìbǎměicìdefēngsùhédēngguāngqíngkuàngdōujìxiàlái.",
+      "tr": "Her denemenin rüzgâr hızını ve ışığın durumunu kaydedeceğim."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_026",
@@ -193,9 +193,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_027",
       "speaker": "张伟",
-      "zh": "如果这样做，我们就能省一点时间。",
-      "pinyin": "Rúguǒ zhèyàng zuò, wǒmen jiù néng shěng yìdiǎn shíjiān.",
-      "tr": "Böyle yaparsak biraz zaman kazanabiliriz."
+      "zh": "室内的风不稳定，所以结果可能有误差。",
+      "pinyin": "Shìnèidefēngbùwěndìng, suǒyǐjiéguǒkěnéngyǒuwùchà.",
+      "tr": "İçeride rüzgâr sabit olmadığından sonuçlarda hata olabilir."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_028",
@@ -207,9 +207,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_029",
       "speaker": "张乐乐",
-      "zh": "那我们先试试看。",
-      "pinyin": "Nà wǒmen xiān shìshikan.",
-      "tr": "O zaman önce deneyelim."
+      "zh": "我会在说明里写清楚实验的限制。",
+      "pinyin": "Wǒhuìzàishuōmínglǐxiěqīngchǔshíyàndexiànzhì.",
+      "tr": "Deneyin sınırlamalarını açıklamaya yazacağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_030",
@@ -221,9 +221,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_031",
       "speaker": "张伟",
-      "zh": "我先确认一下细节。",
-      "pinyin": "Wǒ xiān quèrèn yíxià xìjié.",
-      "tr": "Önce ayrıntıları teyit edeyim."
+      "zh": "海报分成问题、实验方法和结果三部分。",
+      "pinyin": "Hǎibàofēnchéngwèntí, shíyànfāngfǎhéjiéguǒsānbùfēn.",
+      "tr": "Posteri sorun, deney yöntemi ve sonuç olarak üçe ayıracağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_032",
@@ -235,9 +235,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_033",
       "speaker": "张乐乐",
-      "zh": "我们最好把时间也安排好。",
-      "pinyin": "Wǒmen zuìhǎo bǎ shíjiān yě ānpái hǎo.",
-      "tr": "Zamanı da iyi planlasak iyi olur."
+      "zh": "再放一张电路图，观众就容易看懂连接方法。",
+      "pinyin": "Zàifàngyīzhāngdiànlùtú, guānzhòngjiùróngyìkàndǒngliánjiēfāngfǎ.",
+      "tr": "Bir devre şeması eklersem izleyiciler bağlantıyı kolayca anlar."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_034",
@@ -249,9 +249,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_035",
       "speaker": "张伟",
-      "zh": "那就不会忘了。",
-      "pinyin": "Nà jiù bú huì wàng le.",
-      "tr": "O zaman unutmayız."
+      "zh": "我今晚完成文字，明天请家人听我试讲。",
+      "pinyin": "Wǒjīnwǎnwánchéngwénzì, míngtiānqǐngjiāréntīngwǒshìjiǎng.",
+      "tr": "Bu akşam metni bitirip yarın aileme prova sunumu yapacağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_036",
@@ -263,9 +263,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_037",
       "speaker": "张乐乐",
-      "zh": "关键是先找到原因。",
-      "pinyin": "Guānjiàn shì xiān zhǎodào yuányīn.",
-      "tr": "Önemli olan önce nedeni bulmak."
+      "zh": "如果别人听不懂，我就换更简单的说法。",
+      "pinyin": "Rúguǒbiéréntīngbùdǒng, wǒjiùhuàngèngjiǎndāndeshuōfǎ.",
+      "tr": "Dinleyenler anlamazsa daha sade bir anlatım kullanırım."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_038",
@@ -277,16 +277,16 @@
     {
       "id": "DLG_ZH_HSK3_SC045_039",
       "speaker": "张伟",
-      "zh": "这样说更有道理。",
-      "pinyin": "Zhèyàng shuō gèng yǒu dàolǐ.",
-      "tr": "Böyle söyleyince daha mantıklı."
+      "zh": "我会说明实验结果，不把观察说成准确测量。",
+      "pinyin": "Wǒhuìshuōmíngshíyànjiéguǒ, bùbǎguāncháshuōchéngzhǔnquècèliàng.",
+      "tr": "Deney sonucunu anlatıp gözlemi kesin ölçüm gibi sunmayacağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_040",
       "speaker": "刘梅",
-      "zh": "我们需要一个更实际的办法。",
-      "pinyin": "Wǒmen xūyào yí ge gèng shíjì de bànfǎ.",
-      "tr": "Daha uygulanabilir bir çözüme ihtiyacımız var."
+      "zh": "准备好以后，我们从头到尾试讲一遍。",
+      "pinyin": "Zhǔnbèihǎoyǐhòu, wǒmencóngtóudàowěishìjiǎngyībiàn.",
+      "tr": "Hazır olunca baştan sona bir kez prova edelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_041",
@@ -431,9 +431,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_061",
       "speaker": "张乐乐",
-      "zh": "好，就按这个办法来。",
-      "pinyin": "Hǎo, jiù àn zhège bànfǎ lái.",
-      "tr": "Tamam, bu yönteme göre ilerleyelim."
+      "zh": "开头先问大家：风速会不会影响灯的亮度？",
+      "pinyin": "Kāitóuxiānwèndàjiā: fēngsùhuìbùhuìyǐngxiǎngdēngdeliàngdù?",
+      "tr": "Başta izleyicilere rüzgâr hızının lambanın parlaklığını etkileyip etkilemediğini sor."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_062",
@@ -445,9 +445,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_063",
       "speaker": "张伟",
-      "zh": "确实，比刚才顺利。",
-      "pinyin": "Quèshí, bǐ gāngcái shùnlì.",
-      "tr": "Gerçekten, az öncekinden daha iyi gidiyor."
+      "zh": "然后介绍太阳能板、风车和电线怎么连接。",
+      "pinyin": "Ránhòujièshàotàiyángnéngbǎn, fēngchēhédiànxiànzěnmeliánjiē.",
+      "tr": "Sonra güneş panelinin, türbinin ve kabloların bağlantısını anlat."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_064",
@@ -459,9 +459,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_065",
       "speaker": "张乐乐",
-      "zh": "最后再检查一遍吧。",
-      "pinyin": "Zuìhòu zài jiǎnchá yí biàn ba.",
-      "tr": "Son olarak bir kez daha kontrol edelim."
+      "zh": "结果表里有三次记录，变化很容易看出来。",
+      "pinyin": "Jiéguǒbiǎolǐyǒusāncìjìlù, biànhuàhěnróngyìkànchūlái.",
+      "tr": "Sonuç tablosundaki üç kayıtta değişim kolayca görülüyor."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_066",
@@ -473,9 +473,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_067",
       "speaker": "张伟",
-      "zh": "我负责后面的部分。",
-      "pinyin": "Wǒ fùzé hòumiàn de bùfen.",
-      "tr": "Ben sonraki kısmı kontrol ederim."
+      "zh": "我会注明亮度是观察到的，不是仪器测量的。",
+      "pinyin": "Wǒhuìzhùmíngliàngdùshìguānchádàode, bùshìyíqìcèliàngde.",
+      "tr": "Parlaklığın aletle ölçülmediğini, gözleme dayandığını belirteceğim."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_068",
@@ -487,9 +487,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_069",
       "speaker": "张乐乐",
-      "zh": "太好了，终于可以放心了。",
-      "pinyin": "Tài hǎo le, zhōngyú kěyǐ fàngxīn le.",
-      "tr": "Harika, sonunda rahatlayabiliriz."
+      "zh": "如果现场没有风，模型也能展示太阳能部分。",
+      "pinyin": "Rúguǒxiànchǎngméiyǒufēng, móxíngyěnéngzhǎnshìtàiyángnéngbùfēn.",
+      "tr": "Orada rüzgâr olmazsa model güneş enerjisi kısmını yine gösterebilir."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_070",
@@ -501,9 +501,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_071",
       "speaker": "张伟",
-      "zh": "下次处理起来会更快。",
-      "pinyin": "Xià cì chǔlǐ qǐlái huì gèng kuài.",
-      "tr": "Bir dahaki sefere daha hızlı hallederiz."
+      "zh": "我带备用电池，免得展示时电量不够。",
+      "pinyin": "Wǒdàibèiyòngdiànchí, miǎndézhǎnshìshídiànliàngbùgòu.",
+      "tr": "Sunum sırasında pil yetmez diye yedek pil getireceğim."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_072",
@@ -515,9 +515,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_073",
       "speaker": "张乐乐",
-      "zh": "我的想法也一样。",
-      "pinyin": "Wǒ de xiǎng fǎ yě yī yàng.",
-      "tr": "Ben de öyle düşünüyorum."
+      "zh": "接线前先关电源，展示完再把零件收好。",
+      "pinyin": "Jiēxiànqiánxiānguāndiànyuán, zhǎnshìwánzàibǎlíngjiànshōuhǎo.",
+      "tr": "Kabloları bağlamadan önce gücü kapatıp sunumdan sonra parçaları toplayalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_074",
@@ -529,9 +529,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_075",
       "speaker": "张伟",
-      "zh": "好，接下来按计划继续。",
-      "pinyin": "Hǎo, jiēxiàlái àn jìhuà jìxù.",
-      "tr": "Tamam, bundan sonra plana göre devam edelim."
+      "zh": "老师说海报已经很清楚，我再检查一下错字。",
+      "pinyin": "Lǎoshīshuōhǎibàoyǐjīnghěnqīngchǔ, wǒzàijiǎncháyīxiàcuòzì.",
+      "tr": "Öğretmen posterin anlaşılır olduğunu söyledi; yazım hatalarını yeniden kontrol edeceğim."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_076",
@@ -543,9 +543,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_077",
       "speaker": "张乐乐",
-      "zh": "说到科学展，你怎么看？",
-      "pinyin": "Shuō dào kē xué zhǎn, nǐ zěn me kàn?",
-      "tr": "bilim fuarı konusunda ne düşünüyorsun?"
+      "zh": "我请同学看过，他们能按步骤重复实验。",
+      "pinyin": "Wǒqǐngtóngxuékànguò, tāmennéngànbùzhòuzhòngfùshíyàn.",
+      "tr": "Sınıf arkadaşlarıma gösterdim; adımları izleyerek deneyi tekrarlayabiliyorlar."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_078",
@@ -557,9 +557,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_079",
       "speaker": "张伟",
-      "zh": "对，先把需要做的事情分一下。",
-      "pinyin": "Duì, xiān bǎ xū yào zuò de shì qíng fēn yī xià.",
-      "tr": "Evet, önce yapılacak işleri paylaştıralım."
+      "zh": "这说明实验方法写得够清楚。",
+      "pinyin": "Zhèshuōmíngshíyànfāngfǎxiědégòuqīngchǔ.",
+      "tr": "Bu, deney yönteminin yeterince açık yazıldığını gösteriyor."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_080",
@@ -571,9 +571,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_081",
       "speaker": "张乐乐",
-      "zh": "我觉得实验这一点也不能忽略。",
-      "pinyin": "Wǒ jué de shí yàn zhè yì diǎn yě bù néng hū lüè.",
-      "tr": "Bence deney konusunu da göz ardı etmemeliyiz."
+      "zh": "结果符合预想时，我也要说明实验次数还不多。",
+      "pinyin": "Jiéguǒfúhéyùxiǎngshí, wǒyěyàoshuōmíngshíyàncìshùháibùduō.",
+      "tr": "Sonuç beklentiyle uyuşsa bile deneme sayısının az olduğunu belirtmeliyim."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_082",
@@ -585,9 +585,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_083",
       "speaker": "张伟",
-      "zh": "我同意，不过还得留一点调整空间。",
-      "pinyin": "Wǒ tóng yì, bù guò hái dé liú yì diǎn tiáo zhěng kōng jiān.",
-      "tr": "Katılıyorum, ama biraz ayarlama payı bırakmak gerekiyor."
+      "zh": "这样说更准确，也不会夸大结果。",
+      "pinyin": "Zhèyàngshuōgèngzhǔnquè, yěbùhuìkuādàjiéguǒ.",
+      "tr": "Böyle anlatmak daha doğru olur ve sonucu abartmaz."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_084",
@@ -599,9 +599,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_085",
       "speaker": "张乐乐",
-      "zh": "说到问题，你怎么看？",
-      "pinyin": "Shuō dào wèn tí, nǐ zěn me kàn?",
-      "tr": "sorun konusunda ne düşünüyorsun?"
+      "zh": "展示时有人提问，我会先听清楚再回答。",
+      "pinyin": "Zhǎnshìshíyǒuréntíwèn, wǒhuìxiāntīngqīngchǔzàihuídá.",
+      "tr": "Sunumda biri soru sorarsa önce dikkatle dinleyip sonra yanıtlarım."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_086",
@@ -613,9 +613,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_087",
       "speaker": "张伟",
-      "zh": "那就先试，效果不好再调整。",
-      "pinyin": "Nà jiù xiān shì, xiào guǒ bù hǎo zài tiáo zhěng.",
-      "tr": "O zaman önce deneyelim; sonuç iyi olmazsa yeniden ayarlarız."
+      "zh": "如果我不知道答案，就说还需要做实验确认。",
+      "pinyin": "Rúguǒwǒbùzhīdàodáàn, jiùshuōháixūyàozuòshíyànquèrèn.",
+      "tr": "Yanıtı bilmiyorsam deneyle doğrulamam gerektiğini söylerim."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_088",
@@ -627,9 +627,9 @@
     {
       "id": "DLG_ZH_HSK3_SC045_089",
       "speaker": "张乐乐",
-      "zh": "我觉得结果这一点也不能忽略。",
-      "pinyin": "Wǒ jué de jié guǒ zhè yì diǎn yě bù néng hū lüè.",
-      "tr": "Bence sonuç konusunu da göz ardı etmemeliyiz."
+      "zh": "这次我学会先找问题，再试着解决。",
+      "pinyin": "Zhècìwǒxuéhuìxiānzhǎowèntí, zàishìzhejiějué.",
+      "tr": "Bu kez önce sorunu bulup sonra çözmeyi öğrendim."
     },
     {
       "id": "DLG_ZH_HSK3_SC045_090",
@@ -730,9 +730,9 @@
         "zh": "科学展",
         "pinyin": "kēxué zhǎn",
         "tr": "bilim fuarı",
-        "exampleZh": "我已经把科学展记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ kēxué zhǎn jì xiàlái le.",
-        "exampleTr": "Bilim fuarı notunu aldım.",
+        "exampleZh": "今天正好有时间，我们聊聊科学展这件事吧。",
+        "examplePinyin": "Jīn tiān zhèng hǎo yǒu shí jiān, wǒ men liáo liáo kē xué zhǎn zhè jiàn shì ba.",
+        "exampleTr": "Bugün vaktimiz varken bilim fuarı konusunu konuşalım.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "实验",
         "pinyin": "shíyàn",
         "tr": "deney",
-        "exampleZh": "实验是这次要考虑的重点之一。",
-        "examplePinyin": "Shíyàn shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-        "exampleTr": "Deney bu kez değerlendirmemiz gereken ana noktalardan biri.",
+        "exampleZh": "我把问题和解决办法都记下来，做实验记录。",
+        "examplePinyin": "Wǒbǎwèntíhéjiějuébànfǎdōujìxiàlái, zuòshíyànjìlù.",
+        "exampleTr": "Sorunu ve çözüm yolunu deney notlarıma yazıyorum.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "问题",
         "pinyin": "wèntí",
         "tr": "sorun",
-        "exampleZh": "我们最好再确认一下问题。",
-        "examplePinyin": "Wǒmen zuìhǎo zài quèrèn yíxià wèntí.",
-        "exampleTr": "Sorun konusunu bir kez daha teyit etsek iyi olur.",
+        "exampleZh": "上次接上线以后灯没亮，我还不知道问题在哪里。",
+        "examplePinyin": "Shàngcìjiēshàngxiànyǐhòudēngméiliàng, wǒháibùzhīdàowèntízàinǎlǐ.",
+        "exampleTr": "Geçen sefer kabloları bağlayınca lamba yanmadı; sorunun nerede olduğunu bilmiyorum.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "结果",
         "pinyin": "jiéguǒ",
         "tr": "sonuç",
-        "exampleZh": "如果结果没有问题，我们就继续。",
-        "examplePinyin": "Rúguǒ jiéguǒ méiyǒu wèntí, wǒmen jiù jìxù.",
-        "exampleTr": "Sonuç konusunda sorun yoksa devam ederiz.",
+        "exampleZh": "这样比较结果，才知道风速有没有影响。",
+        "examplePinyin": "Zhèyàngbǐjiàojiéguǒ, cáizhīdàofēngsùyǒuméiyǒuyǐngxiǎng.",
+        "exampleTr": "Sonuçları böyle karşılaştırınca rüzgâr hızının etkisini anlarız.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "因为",
         "pinyin": "yīnwèi",
         "tr": "çünkü",
-        "exampleZh": "因为我们想把事情做好，所以要多准备一点。",
-        "examplePinyin": "Yīnwèi wǒmen xiǎng bǎ shìqing zuò hǎo, suǒyǐ yào duō zhǔnbèi yìdiǎn.",
-        "exampleTr": "İşi iyi yapmak istediğimiz için biraz daha hazırlık yapmalıyız.",
+        "exampleZh": "因为这样更方便，也更清楚。",
+        "examplePinyin": "Yīnwèi zhèyàng gèng fāngbiàn, yě gèng qīngchu.",
+        "exampleTr": "Çünkü böyle hem daha kullanışlı hem de daha net.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "解决办法",
         "pinyin": "jiějué bànfǎ",
         "tr": "çözüm yolu",
-        "exampleZh": "我已经把解决办法记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ jiějué bànfǎ jì xiàlái le.",
-        "exampleTr": "Çözüm yolu notunu aldım.",
+        "exampleZh": "我把问题和解决办法都记下来，做实验记录。",
+        "examplePinyin": "Wǒbǎwèntíhéjiějuébànfǎdōujìxiàlái, zuòshíyànjìlù.",
+        "exampleTr": "Sorunu ve çözüm yolunu deney notlarıma yazıyorum.",
         "kind": "active"
       },
       {

@@ -157,7 +157,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC050_022",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "我舍不得菜地，每天都能看看它们长大。",
       "pinyin": "Wǒ shě bù dé cài dì, měi tiān dōu néng kàn kàn tā men zhǎng dà.",
       "tr": "Sebze bahçesini özleyeceğim; her gün büyümelerini izliyorum."
@@ -213,7 +213,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC050_030",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "早上散散步，下午看看书，偶尔去市场。",
       "pinyin": "Zǎo shàng sàn sàn bù, xià wǔ kàn kàn shū, ǒu ěr qù shì chǎng.",
       "tr": "Sabah yürüyüş yapar, öğleden sonra kitap okur, ara sıra pazara gideriz."
@@ -269,7 +269,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC050_038",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "会想念他们，不过我们可以常常打电话。",
       "pinyin": "Huì xiǎng niàn tā men, bù guò wǒ men kě yǐ cháng cháng dǎ diàn huà.",
       "tr": "Özlerim ama sık sık telefon edebiliriz."
@@ -332,10 +332,10 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC050_047",
-      "speaker": "爷爷",
-      "zh": "我可以周末陪爷爷去跟邻居商量。",
-      "pinyin": "Wǒ kě yǐ zhōu mò péi yé yé qù gēn lín jū shāng liáng.",
-      "tr": "Hafta sonu büyükbabaya komşuyla konuşurken eşlik ederim."
+      "speaker": "张伟",
+      "zh": "我可以陪爷爷去跟邻居商量。",
+      "pinyin": "Wǒkěyǐpéiyéyéqùgēnlínjūshāngliàng.",
+      "tr": "Hafta sonu büyükbabaya komşuyla konuşurken eşlik edebilirim。"
     },
     {
       "id": "DLG_ZH_HSK3_SC050_048",
@@ -417,9 +417,9 @@
     {
       "id": "DLG_ZH_HSK3_SC050_059",
       "speaker": "爷爷",
-      "zh": "爷爷可以带一些自己种的菜去和邻居分享。",
-      "pinyin": "Yé yé kě yǐ dài yī xiē zì jǐ zhǒng de cài qù hé lín jū fēn xiǎng.",
-      "tr": "Büyükbaba kendi sebzelerinden komşularla paylaşabilir."
+      "zh": "我可以带一些自己种的菜去和邻居分享。",
+      "pinyin": "Wǒkěyǐdàiyīxiēzìjǐzhǒngdecàiqùhélínjūfēnxiǎng.",
+      "tr": "Kendi yetiştirdiğim sebzelerden komşularla paylaşmak için götürebilirim。"
     },
     {
       "id": "DLG_ZH_HSK3_SC050_060",
@@ -493,7 +493,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC050_070",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "当然，重要的回忆都可以带过去。",
       "pinyin": "Dāng rán, zhòng yào de huí yì dōu kě yǐ dài guò qù.",
       "tr": "Elbette; önemli anılarımızı yanımızda götürürüz."
@@ -521,7 +521,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC050_074",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "只要你们常来看我们，再认识几个邻居就好了。",
       "pinyin": "Zhǐ yào nǐ men cháng lái kàn wǒ men, zài rèn shí jǐ gè lín jū jiù hǎo le.",
       "tr": "Siz sık gelir, biz de komşularla tanışırsak yeter."
@@ -730,9 +730,9 @@
         "zh": "搬来的想法",
         "pinyin": "bān lái de xiǎngfa",
         "tr": "buraya taşınma fikri",
-        "exampleZh": "我已经把搬来的想法记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ bān lái de xiǎngfa jì xiàlái le.",
-        "exampleTr": "Buraya taşınma fikri notunu aldım.",
+        "exampleZh": "我也是，搬来的想法让我高兴，也有点担心。",
+        "examplePinyin": "Wǒ yě shì, bān lái de xiǎng fǎ ràng wǒ gāo xìng, yě yǒu diǎn dān xīn.",
+        "exampleTr": "Ben de öyleyim; taşınma fikri beni hem sevindiriyor hem kaygılandırıyor.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "爷爷奶奶",
         "pinyin": "yéye nǎinai",
         "tr": "büyükanne ve büyükbaba",
-        "exampleZh": "爷爷奶奶的意见也很重要。",
-        "examplePinyin": "Yéye nǎinai de yìjiàn yě hěn zhòngyào.",
-        "exampleTr": "Büyükanne ve büyükbaba görüşü de önemli.",
+        "exampleZh": "爷爷奶奶，你们真的开始考虑搬来城里了吗？",
+        "examplePinyin": "Yé yé nǎi nǎi, nǐ men zhēn de kāi shǐ kǎo lǜ bān lái chéng lǐ le ma?",
+        "exampleTr": "Büyükanne, büyükbaba, gerçekten şehre taşınmayı düşünmeye başladınız mı?",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "未来计划",
         "pinyin": "wèilái jìhuà",
         "tr": "gelecek planı",
-        "exampleZh": "我们最好再确认一下未来计划。",
-        "examplePinyin": "Wǒmen zuìhǎo zài quèrèn yíxià wèilái jìhuà.",
-        "exampleTr": "Gelecek planı konusunu bir kez daha teyit etsek iyi olur.",
+        "exampleZh": "好，家人一起商量，未来计划就从看房和试住开始。",
+        "examplePinyin": "Hǎo, jiā rén yì qǐ shāng liáng, wèi lái jì huà jiù cóng kàn fáng hé shì zhù kāi shǐ.",
+        "exampleTr": "Güzel; ailece konuşup gelecek planına ev bakma ve deneme süresiyle başlarız.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "农场",
         "pinyin": "nóngchǎng",
         "tr": "çiftlik",
-        "exampleZh": "这个农场还有一个优点。",
-        "examplePinyin": "Zhège nóngchǎng hái yǒu yí ge yōudiǎn.",
-        "exampleTr": "Bu çiftlik bir avantajı daha var.",
+        "exampleZh": "我舍不得农场，不过最近做事确实比以前累。",
+        "examplePinyin": "Wǒ shě bù dé nóng chǎng, bù guò zuì jìn zuò shì què shí bǐ yǐ qián lèi.",
+        "exampleTr": "Çiftlikten ayrılmak istemiyorum ama son zamanlarda işler daha yorucu.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "城市生活",
         "pinyin": "chéngshì shēnghuó",
         "tr": "şehir hayatı",
-        "exampleZh": "关于城市生活，我们还要再讨论一下。",
-        "examplePinyin": "Guānyú chéngshì shēnghuó, wǒmen hái yào zài tǎolùn yíxià.",
-        "exampleTr": "Şehir hayatı konusunda biraz daha konuşmalıyız.",
+        "exampleZh": "城市生活和农场很不一样，你们会不会不习惯？",
+        "examplePinyin": "Chéng shì shēng huó hé nóng chǎng hěn bù yí yàng, nǐ men huì bú huì bù xí guàn?",
+        "exampleTr": "Şehir hayatı çiftlikten çok farklı; alışamaz mısınız?",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "这件事还要跟家人确认。",
-        "examplePinyin": "Zhè jiàn shì hái yào gēn jiārén quèrèn.",
-        "exampleTr": "Bu konuyu aile ile de teyit etmek gerekiyor.",
+        "exampleZh": "我可以把家人的照片整理好，装进一个盒子。",
+        "examplePinyin": "Wǒ kě yǐ bǎ jiā rén de zhào piān zhěng lǐ hǎo, zhuāng jìn yí gè hé zi.",
+        "exampleTr": "Aile fotoğraflarını düzenleyip bir kutuya koyabilirim.",
         "kind": "active"
       },
       {

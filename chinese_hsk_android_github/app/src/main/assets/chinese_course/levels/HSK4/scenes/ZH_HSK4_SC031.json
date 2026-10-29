@@ -730,9 +730,9 @@
         "zh": "旅行回忆",
         "pinyin": "lǚxíng huíyì",
         "tr": "seyahat anısı",
-        "exampleZh": "旅行回忆是我们不能忽略的一点。",
-        "examplePinyin": "Lǚxíng huíyì shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Seyahat anısı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "每个人记住的细节不一样，所以放在一起才是完整的旅行回忆。",
+        "examplePinyin": "měi gè rén jì zhù de xì jié bù yí yàng suǒ yǐ fàng zài yì qǐ cái shì wán zhěng de lǚ xíng huí yì",
+        "exampleTr": "Herkes farklı bir ayrıntıyı hatırlıyor; hepsi bir araya gelince gezi anımız tamamlanıyor.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "我们把家人也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jiārén yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Aile konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我们还要留意家人的体力，不一定每天从早走到晚。",
+        "examplePinyin": "wǒ men hái yào liú yì jiā rén de tǐ lì bù yí dìng měi tiān cóng zǎo zǒu dào wǎn",
+        "exampleTr": "Aile bireylerinin enerjisini de gözetelim; her gün sabahtan akşama kadar yürümek gerekmiyor.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "经验",
         "pinyin": "jīngyàn",
         "tr": "deneyim",
-        "exampleZh": "如果经验发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jīngyàn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Deneyim değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "照片之外，还有什么旅行经验值得记下来？",
+        "examplePinyin": "zhào piān zhī wài hái yǒu shén me lǚ xíng jīng yàn zhí de jì xià lái",
+        "exampleTr": "Fotoğrafların dışında hangi seyahat deneyimlerini not etmeye değer buluyorsunuz?",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "照片",
         "pinyin": "zhàopiàn",
         "tr": "fotoğraf",
-        "exampleZh": "关于照片，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zhàopiàn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Fotoğraf konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "我拍了门牌，应该也能从照片里认出来。",
+        "examplePinyin": "wǒ pāi le mén pái yīng gāi yě néng cóng zhào piān lǐ rèn chū lái",
+        "exampleTr": "Kapı levhasını çekmiştim; fotoğraftan da tanıyabilirim.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "以前",
         "pinyin": "yǐqián",
         "tr": "önceden",
-        "exampleZh": "以前是我们不能忽略的一点。",
-        "examplePinyin": "Yǐqián shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Önceden göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我以前总觉得计划被打乱就很麻烦，那天反而觉得挺轻松。",
+        "examplePinyin": "wǒ yǐ qián zǒng jué de jì huà bèi dǎ luàn jiù hěn má fán nà tiān fǎn ér jué de tǐng qīng sōng",
+        "exampleTr": "Eskiden plan bozulunca bunun çok zahmetli olduğunu düşünürdüm; o günse aksine rahatlamıştım.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "情绪",
         "pinyin": "qíngxù",
         "tr": "duygusal durum",
-        "exampleZh": "我们把情绪也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ qíngxù yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Duygusal durum konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "这些不同的情绪都是旅行回忆的一部分，开心和着急都值得记住。",
+        "examplePinyin": "zhè xiē bù tóng de qíng xù dōu shì lǚ xíng huí yì de yī bù fèn kāi xīn hé zháo jí dōu zhí de jì zhù",
+        "exampleTr": "Bu farklı duygular seyahat anılarının parçası; neşe de telaş da hatırlanmaya değer.",
         "kind": "active"
       },
       {

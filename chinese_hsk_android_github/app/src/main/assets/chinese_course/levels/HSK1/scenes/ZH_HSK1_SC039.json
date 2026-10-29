@@ -457,16 +457,16 @@
     {
       "id": "DLG_ZH_HSK1_SC039_005",
       "speaker": "张伟",
-      "zh": "我们没有带雨伞，今天早上还是晴天。",
-      "pinyin": "Wǒmen méiyǒu dài yǔsǎn, jīntiān zǎoshàng háishì qíngtiān.",
-      "tr": "Yanımıza şemsiye almadık, bu sabah hava güneşliydi."
+      "zh": "今天早上还是晴天，我们都没想到会下雨。",
+      "pinyin": "Jīntiān zǎoshàng háishì qíngtiān， wǒmen dōu méixiǎngdào huì xiàyǔ。",
+      "tr": "Sabah hava hâlâ güneşliydi; yağmur beklemiyorduk."
     },
     {
       "id": "DLG_ZH_HSK1_SC039_006",
       "speaker": "刘梅",
-      "zh": "我还没找出雨伞，今天早上还是晴天。",
-      "pinyin": "Wǒ hái méi zhǎochū yǔsǎn, jīntiān zǎoshàng háishì qíngtiān.",
-      "tr": "Şemsiyeyi henüz çıkarmadım, bu sabah hava güneşliydi."
+      "zh": "我把雨伞放进包里了，可是现在一时找不到。",
+      "pinyin": "Wǒ bǎ yǔsǎn fàngjìn bāolǐ le， kěshì xiànzài yīshí zhǎo búdào。",
+      "tr": "Şemsiyeyi çantama koymuştum ama şu an bulamıyorum."
     },
     {
       "id": "DLG_ZH_HSK1_SC039_007",
@@ -765,16 +765,16 @@
     {
       "id": "DLG_ZH_HSK1_SC039_049",
       "speaker": "张伟",
-      "zh": "这把雨伞是谁的？我在包旁边看见一把。",
-      "pinyin": "Zhè bǎ yǔsǎn shì shuí de? wǒ zài bāo pángbiān kànjiàn yībǎ.",
-      "tr": "Bu şemsiye kimin? Çantanın yanında bir tane gördüm."
+      "zh": "伞找到了，就在包的旁边。",
+      "pinyin": "Sǎn zhǎodào le， jiù zài bāo de pángbiān。",
+      "tr": "Şemsiyeyi buldum; çantanın yanında."
     },
     {
       "id": "DLG_ZH_HSK1_SC039_050",
       "speaker": "刘梅",
-      "zh": "是我的，出门的时候放进包里了，刚才忘了。",
-      "pinyin": "Shì wǒ de, chūmén de shíhòu fàngjìn bāolǐ le, gāngcái wàng le.",
-      "tr": "Benim, çıkarken çantaya koymuştum ama az önce unutmuşum."
+      "zh": "是我的，我出门时把它放在包旁边，刚才没想起来。",
+      "pinyin": "Shì wǒ de， wǒ chūménshí bǎ tā fàngzài bāo pángbiān， gāngcái méi xiǎng qǐlái。",
+      "tr": "Benim. Çıkarken çantanın yanına koymuştum; az önce aklıma gelmedi."
     },
     {
       "id": "DLG_ZH_HSK1_SC039_051",

@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK5_SC011_001",
       "speaker": "张雨桐",
-      "zh": "我想开始找实习了，可是简历上的经历不少，不知道该把哪几项放在前面。",
-      "pinyin": "wǒ xiǎng kāi shǐ zhǎo shí xí le ， kě shì jiǎn lì shàng de jīng lì bù shǎo ， bù zhī dào gāi bǎ nǎ jǐ xiàng fàng zài qián miàn 。",
-      "tr": "Staj aramaya başlamak istiyorum ama özgeçmişimde çok deneyim var; hangilerini öne çıkaracağımı bilmiyorum."
+      "zh": "我想开始找实习，也在考虑未来的职业发展，可简历上的经历不少，不知道先突出哪几项。",
+      "pinyin": "wǒ xiǎng kāi shǐ zhǎo shí xí ， yě zài kǎo lǜ wèi lái de zhí yè fā zhǎn ， kě jiǎn lì shàng de jīng lì bù shǎo ， bù zhī dào xiān tū chū nǎ jǐ xiàng 。",
+      "tr": "Staj aramaya başlamak ve gelecekteki kariyerimi düşünmek istiyorum; özgeçmişimde çok deneyim var, hangilerini öne çıkaracağımı bilemiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC011_002",
@@ -291,9 +291,9 @@
     {
       "id": "DLG_ZH_HSK5_SC011_041",
       "speaker": "张雨桐",
-      "zh": "我把简历初稿写好了，不过看起来像任务清单，没有突出我做出的结果。",
-      "pinyin": "wǒ bǎ jiǎn lì chū gǎo xiě hǎo le ， bù guò kàn qǐ lái xiàng rèn wù qīng dān ， méi yǒu tū chū wǒ zuò chū de jié guǒ 。",
-      "tr": "Özgeçmiş taslağım hazır ama görev listesine benziyor; ortaya koyduğum sonucu öne çıkarmıyor."
+      "zh": "从岗位要求来看，我的优势是做过用户访谈，应该把这段经历放在简历前面。",
+      "pinyin": "cóng gǎng wèi yāo qiú lái kàn ， wǒ de yōu shì shì zuò guò yòng hù fǎng tán ， yīng gāi bǎ zhè duàn jīng lì fàng zài jiǎn lì qián miàn 。",
+      "tr": "Pozisyonun gerekliliklerine bakınca güçlü yanım kullanıcı görüşmeleri yapmış olmam; bu deneyimi özgeçmişte öne çıkarmalıyım."
     },
     {
       "id": "DLG_ZH_HSK5_SC011_042",
@@ -431,9 +431,9 @@
     {
       "id": "DLG_ZH_HSK5_SC011_061",
       "speaker": "张雨桐",
-      "zh": "我按用户研究岗位改好了简历，申请表还要回答为什么对这个实习感兴趣。",
-      "pinyin": "wǒ àn yòng hù yán jiū gǎng wèi gǎi hǎo le jiǎn lì ， shēn qǐng biǎo hái yào huí dá wèi shén me duì zhè ge shí xí gǎn xìng qù 。",
-      "tr": "Kullanıcı araştırması pozisyonuna göre özgeçmişimi düzenledim; başvuru formunda bu stajla neden ilgilendiğimi de açıklamam gerekiyor."
+      "zh": "我按用户研究岗位改好了简历，申请表还要说明兴趣和未来计划。",
+      "pinyin": "wǒ àn yòng hù yán jiū gǎng wèi gǎi hǎo le jiǎn lì ， shēn qǐng biǎo hái yào shuō míng xìng qù hé wèi lái jì huà 。",
+      "tr": "Kullanıcı araştırması pozisyonuna göre özgeçmişimi düzenledim; başvuruda ilgimi ve gelecek planlarımı da anlatmalıyım."
     },
     {
       "id": "DLG_ZH_HSK5_SC011_062",
@@ -501,9 +501,9 @@
     {
       "id": "DLG_ZH_HSK5_SC011_071",
       "speaker": "同学",
-      "zh": "你要不要请别人读一遍？有时自己反复看会漏掉小错误。",
-      "pinyin": "nǐ yào bù yào qǐng bié rén dú yī biàn ？ yǒu shí zì jǐ fǎn fù kàn huì lòu diào xiǎo cuò wù 。",
-      "tr": "Bir başkasından okumasını ister misin? İnsan aynı metne tekrar tekrar bakınca küçük hataları kaçırabiliyor."
+      "zh": "你要不要请别人评价一下？有时自己反复看会漏掉小错误。",
+      "pinyin": "nǐ yào bù yào qǐng bié rén píng jià yī xià ？ yǒu shí zì jǐ fǎn fù kàn huì lòu diào xiǎo cuò wù 。",
+      "tr": "Bir başkasından değerlendirmesini ister misin? İnsan kendi metnine tekrar tekrar bakarken küçük hataları kaçırabiliyor."
     },
     {
       "id": "DLG_ZH_HSK5_SC011_072",
@@ -730,9 +730,9 @@
         "zh": "实习",
         "pinyin": "shíxí",
         "tr": "staj",
-        "exampleZh": "实习是我们不能忽略的一点。",
-        "examplePinyin": "Shíxí shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Staj göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "那可以重点看市场调研、用户研究和内容策划相关的实习。",
+        "examplePinyin": "Nà kě yǐ zhòng diǎn kàn shì chǎng diào yán 、 yòng hù yán jiū hé nèi róng cè huà xiāng guān de shí xí 。",
+        "exampleTr": "O halde pazar araştırması, kullanıcı araştırması ve içerik planlamayla ilgili stajlara öncelik verebilirsin.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "简历",
         "pinyin": "jiǎnlì",
         "tr": "özgeçmiş",
-        "exampleZh": "我们把简历也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jiǎnlì yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Özgeçmiş konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "简历里最好说明你做了什么、用了什么方法、最后有什么结果。",
+        "examplePinyin": "Jiǎn lì lǐ zuì hǎo shuō míng nǐ zuò le shén me 、 yòng le shén me fāng fǎ 、 zuì hòu yǒu shén me jié guǒ 。",
+        "exampleTr": "Özgeçmişinde ne yaptığını, hangi yöntemi kullandığını ve sonucunu açıklaman iyi olur.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "申请",
         "pinyin": "shēnqǐng",
         "tr": "başvuru",
-        "exampleZh": "如果申请发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ shēnqǐng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Başvuru değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "先看你想申请什么岗位，再挑出能证明相关能力的经历。",
+        "examplePinyin": "Xiān kàn nǐ xiǎng shēn qǐng shén me gǎng wèi ， zài tiāo chū néng zhèng míng xiāng guān néng lì de jīng lì 。",
+        "exampleTr": "Önce hangi pozisyonlara başvurmak istediğine bak, sonra ilgili becerilerini kanıtlayan deneyimleri seç.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "职业发展",
         "pinyin": "zhíyè fāzhǎn",
         "tr": "kariyer gelişimi",
-        "exampleZh": "关于职业发展，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zhíyè fāzhǎn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Kariyer gelişimi konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "我想开始找实习，也在考虑未来的职业发展，可简历上的经历不少，不知道先突出哪几项。",
+        "examplePinyin": "Wǒ xiǎng kāi shǐ zhǎo shí xí ， yě zài kǎo lǜ wèi lái de zhí yè fā zhǎn ， kě jiǎn lì shàng de jīng lì bù shǎo ， bù zhī dào xiān tū chū nǎ jǐ xiàng 。",
+        "exampleTr": "Staj aramaya başlamak ve gelecekteki kariyerimi düşünmek istiyorum; özgeçmişimde çok deneyim var, hangilerini öne çıkaracağımı bilemiyorum.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "优势",
         "pinyin": "yōushì",
         "tr": "güçlü yön / avantaj",
-        "exampleZh": "优势是我们不能忽略的一点。",
-        "examplePinyin": "Yōushì shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Güçlü yön / avantaj göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "从岗位要求来看，我的优势是做过用户访谈，应该把这段经历放在简历前面。",
+        "examplePinyin": "Cóng gǎng wèi yāo qiú lái kàn ， wǒ de yōu shì shì zuò guò yòng hù fǎng tán ， yīng gāi bǎ zhè duàn jīng lì fàng zài jiǎn lì qián miàn 。",
+        "exampleTr": "Pozisyonun gerekliliklerine bakınca güçlü yanım kullanıcı görüşmeleri yapmış olmam; bu deneyimi özgeçmişte öne çıkarmalıyım.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "经验",
         "pinyin": "jīngyàn",
         "tr": "deneyim",
-        "exampleZh": "我们把经验也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jīngyàn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Deneyim konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "而且你没有为了申请夸大经验，例子都能说清楚来龙去脉。",
+        "examplePinyin": "Ér qiě nǐ méi yǒu wèi le shēn qǐng kuā dà jīng yàn ， lì zi dōu néng shuō qīng chǔ lái lóng qù mài 。",
+        "exampleTr": "Başvurmak için deneyimini abartmadın; örneklerin hepsini başından sonuna açıklayabiliyorsun.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "评价",
         "pinyin": "píngjià",
         "tr": "değerlendirme",
-        "exampleZh": "如果评价发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ píngjià fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Değerlendirme değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "你要不要请别人评价一下？有时自己反复看会漏掉小错误。",
+        "examplePinyin": "Nǐ yào bù yào qǐng bié rén píng jià yī xià ？ yǒu shí zì jǐ fǎn fù kàn huì lòu diào xiǎo cuò wù 。",
+        "exampleTr": "Bir başkasından değerlendirmesini ister misin? İnsan kendi metnine tekrar tekrar bakarken küçük hataları kaçırabiliyor.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC011_008",
         "zh": "未来计划",
         "pinyin": "wèilái jìhuà",
         "tr": "gelecek planı",
-        "exampleZh": "关于未来计划，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú wèilái jìhuà, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Gelecek planı konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "我按用户研究岗位改好了简历，申请表还要说明兴趣和未来计划。",
+        "examplePinyin": "Wǒ àn yòng hù yán jiū gǎng wèi gǎi hǎo le jiǎn lì ， shēn qǐng biǎo hái yào shuō míng xìng qù hé wèi lái jì huà 。",
+        "exampleTr": "Kullanıcı araştırması pozisyonuna göre özgeçmişimi düzenledim; başvuruda ilgimi ve gelecek planlarımı da anlatmalıyım.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1218,6 +1218,14 @@
     },
     "continuityNoteTr": "Yutong Staj Arıyor olayı HSK5 yaşam çizgisinde sahne 11 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 15,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC011.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

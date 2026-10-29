@@ -144,9 +144,9 @@
     {
       "id": "DLG_ZH_HSK6_SC009_020",
       "speaker": "奶奶",
-      "zh": "奶奶说得对。家里安静了，我们也可以慢慢找到新的生活节奏。",
-      "pinyin": "nǎi nǎi shuō dé duì 。 jiā lǐ ān jìng le ， wǒ men yě kě yǐ màn màn zhǎo dào xīn de shēng huó jié zòu 。",
-      "tr": "Büyükanne haklı. Ev sessizleşti ama yeni yaşam ritmimizi yavaşça bulabiliriz."
+      "zh": "你说得对。家里安静了，我们也可以慢慢找到新的生活节奏。",
+      "pinyin": "nǐ shuō dé duì 。 jiā lǐ ān jìng le ， wǒ men yě kě yǐ màn màn zhǎo dào xīn de shēng huó jié zòu 。",
+      "tr": "Haklısınız. Ev sessizleşince biz de yavaş yavaş yeni bir yaşam düzeni kurabiliriz."
     },
     {
       "id": "DLG_ZH_HSK6_SC009_021",
@@ -186,9 +186,9 @@
     {
       "id": "DLG_ZH_HSK6_SC009_026",
       "speaker": "刘梅",
-      "zh": "刚结婚时我和爷爷也常忙着适应新生活，有时一个月才回一次家。",
-      "pinyin": "gāng jié hūn shí wǒ hé yé yé yě cháng máng zhe shì yìng xīn shēng huó ， yǒu shí yí gè yuè cái huí yī cì jiā 。",
-      "tr": "Dedenle yeni evliyken biz de yeni yaşama alışmakla meşguldük; bazen eve ancak ayda bir gelirdik."
+      "zh": "刚结婚时，我和你爸也常忙着适应新生活，有时一个月才回一次家。",
+      "pinyin": "gāng jié hūn shí ， wǒ hé nǐ bà yě cháng máng zhe shì yìng xīn shēng huó ， yǒu shí yí gè yuè cái huí yī cì jiā 。",
+      "tr": "Yeni evlendiğimizde babanla ben de yeni yaşama alışmaya çalışıyorduk; bazen eve ancak ayda bir geliyorduk."
     },
     {
       "id": "DLG_ZH_HSK6_SC009_027",
@@ -242,9 +242,9 @@
     {
       "id": "DLG_ZH_HSK6_SC009_034",
       "speaker": "刘梅",
-      "zh": "我和爷爷开始安排自己的日子，学着做以前没时间做的事情。",
-      "pinyin": "wǒ hé yé yé kāi shǐ ān pái zì jǐ de rì zi ， xué zhe zuò yǐ qián méi shí jiān zuò de shì qíng 。",
-      "tr": "Dedenle kendi günlerimizi planlamaya, daha önce zaman bulamadığımız şeyleri yapmaya başladık."
+      "zh": "我和你爸开始安排自己的日子，学着做以前没时间做的事情。",
+      "pinyin": "wǒ hé nǐ bà kāi shǐ ān pái zì jǐ de rì zi ， xué zhe zuò yǐ qián méi shí jiān zuò de shì qíng 。",
+      "tr": "Babanla kendi günlerimizi düzenlemeye, eskiden vakit bulamadığımız şeyleri yapmaya başladık."
     },
     {
       "id": "DLG_ZH_HSK6_SC009_035",
@@ -718,92 +718,89 @@
     "vocabularyTheme": "boş yuva duygusu ve içsel değerlendirme",
     "grammarTheme": "让步与反驳",
     "pronunciationTheme": "讽刺与幽默语气",
-    "targetActiveVocabularyCount": {
-      "min": 8,
-      "max": 15
-    },
+    "targetActiveVocabularyCount": 8,
     "defaultSpeechSpeed": 1.0,
     "defaultSubtitleMode": "ZH",
     "vocabularyCards": [
       {
         "id": "VOC_ZH_HSK6_SC009_001",
-        "zh": "空巢",
-        "pinyin": "kōngcháo",
-        "tr": "boş yuva dönemi",
-        "exampleZh": "空巢之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Kōngcháo zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Boş yuva dönemi önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "适应",
+        "pinyin": "shì yìng",
+        "tr": "adapt",
+        "exampleZh": "这种感觉不矛盾。你们为她高兴，也需要时间适应家里的变化。",
+        "examplePinyin": "zhè zhǒng gǎn jué bù máo dùn 。 nǐ men wèi tā gāo xìng ， yě xū yào shí jiān shì yìng jiā lǐ de biàn huà 。",
+        "exampleTr": "Bu iki duygu çelişmiyor. Onun adına mutlusunuz ama evdeki değişikliğe alışmak için zamana ihtiyacınız var.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC009_002",
-        "zh": "失落感",
-        "pinyin": "shīluògǎn",
-        "tr": "boşluk / kayıp hissi",
-        "exampleZh": "如果忽略失落感，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè shīluògǎn, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Boşluk / kayıp hissi göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "生活节奏",
+        "pinyin": "shēng huó jié zòu",
+        "tr": "pace of life",
+        "exampleZh": "你说得对。家里安静了，我们也可以慢慢找到新的生活节奏。",
+        "examplePinyin": "nǐ shuō dé duì 。 jiā lǐ ān jìng le ， wǒ men yě kě yǐ màn màn zhǎo dào xīn de shēng huó jié zòu 。",
+        "exampleTr": "Haklısınız. Ev sessizleşince biz de yavaş yavaş yeni bir yaşam düzeni kurabiliriz.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC009_003",
-        "zh": "适应",
-        "pinyin": "shìyìng",
-        "tr": "uyum sağlamak",
-        "exampleZh": "我想把适应放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ shìyìng fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Uyum sağlamak konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
+        "zh": "安静",
+        "pinyin": "ān jìng",
+        "tr": "quiet",
+        "exampleZh": "婚礼结束以后，家里一下子安静了，我还不太习惯。",
+        "examplePinyin": "hūn lǐ jié shù yǐ hòu ， jiā lǐ yī xià zi ān jìng le ， wǒ hái bù tài xí guàn 。",
+        "exampleTr": "Düğünden sonra ev bir anda sessizleşti; buna henüz alışamadım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC009_004",
-        "zh": "生活节奏",
-        "pinyin": "shēnghuó jiézòu",
-        "tr": "yaşam ritmi",
-        "exampleZh": "谈到生活节奏，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào shēnghuó jiézòu, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Yaşam ritmi konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
+        "zh": "想念",
+        "pinyin": "xiǎng niàn",
+        "tr": "miss someone",
+        "exampleZh": "我倒觉得很清静。只是少了孩子们的声音，确实会有一点想念。",
+        "examplePinyin": "wǒ dào jué de hěn qīng jìng 。 zhǐ shì shǎo le hái zi men de shēng yīn ， què shí huì yǒu yì diǎn xiǎng niàn 。",
+        "exampleTr": "Ben sakin buluyorum. Yalnız çocukların sesleri olmayınca insan özlüyor.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC009_005",
-        "zh": "语境",
-        "pinyin": "yǔjìng",
-        "tr": "bağlam",
-        "exampleZh": "语境之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Yǔjìng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Bağlam önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "公园",
+        "pinyin": "gōng yuán",
+        "tr": "park",
+        "exampleZh": "好啊，我们可以从这周去公园散步开始，慢慢找回自己的节奏。",
+        "examplePinyin": "hǎo a ， wǒ men kě yǐ cóng zhè zhōu qù gōng yuán sàn bù kāi shǐ ， màn màn zhǎo huí zì jǐ de jié zòu 。",
+        "exampleTr": "Olur. Bu hafta parkta yürüyüşle başlayıp kendi düzenimizi yavaş yavaş bulabiliriz.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC009_006",
-        "zh": "立场",
-        "pinyin": "lìchǎng",
-        "tr": "tutum / bakış açısı",
-        "exampleZh": "如果忽略立场，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè lìchǎng, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Tutum / bakış açısı göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "画画班",
+        "pinyin": "huà huà bān",
+        "tr": "painting class",
+        "exampleZh": "好，那我们下周先去散步，再看看附近有没有合适的画画班。",
+        "examplePinyin": "hǎo ， nà wǒ men xià zhōu xiān qù sàn bù ， zài kàn kàn fù jìn yǒu méi yǒu hé shì de huà huà bān 。",
+        "exampleTr": "Güzel. Gelecek hafta önce yürüyüşe çıkar, sonra yakında uygun bir resim kursu var mı bakarız.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC009_007",
-        "zh": "权衡",
-        "pinyin": "quánhéng",
-        "tr": "dengeleyerek değerlendirmek",
-        "exampleZh": "我想把权衡放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ quánhéng fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Dengeleyerek değerlendirmek konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
-        "kind": "review"
+        "zh": "椅子",
+        "pinyin": "yǐ zi",
+        "tr": "chair",
+        "exampleZh": "我没有不高兴，只是看到餐桌旁少了两把椅子，会突然愣一下。",
+        "examplePinyin": "wǒ méi yǒu bù gāo xìng ， zhǐ shì kàn dào cān zhuō páng shǎo le liǎng bǎ yǐ zi ， huì tū rán lèng yī xià 。",
+        "exampleTr": "Üzgün değilim; sadece masada iki sandalye eksik görünce bir an duraksıyorum.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC009_008",
-        "zh": "长期影响",
-        "pinyin": "chángqī yǐngxiǎng",
-        "tr": "uzun vadeli etki",
-        "exampleZh": "谈到长期影响，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào chángqī yǐngxiǎng, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Uzun vadeli etki konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
-        "kind": "review"
+        "zh": "联系",
+        "pinyin": "lián xì",
+        "tr": "keep in touch",
+        "exampleZh": "她搬出去以后，我们还会像以前一样常联系吗？",
+        "examplePinyin": "tā bān chū qù yǐ hòu ， wǒ men hái huì xiàng yǐ qián yī yàng cháng lián xì ma ？",
+        "exampleTr": "Taşındıktan sonra eskisi gibi sık görüşebilecek miyiz?",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

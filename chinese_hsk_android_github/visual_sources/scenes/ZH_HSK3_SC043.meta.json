@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC043.json",
-  "dialogueSha256": "5dae37e0667a39864cea7618ae12a078f5d04cec0c67c97cdc72598bc712a0ff",
+  "dialogueSha256": "0fe326ee20d085e41e7da53978b96020d5ebdda1146a7fb2ed0cb3ca7fdc1e8a",
   "titleTr": "Kafede Aile Tarifi",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Büyükannenin tarifi küçük bir denemeden sonra kafe menüsüne girer.",
@@ -71,12 +71,8 @@
   "binaryIntegrityChecked": true,
   "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi.",
   "dialogueTextQA": {
-    "status": "PASS",
+    "status": "PENDING_LOCAL_REVIEW",
     "turns": 100,
-    "coherenceScore": 93.0,
-    "activeVocabularyCoverage": 1.0,
-    "topicWindowCoverage": 0.8,
-    "duplicateUtterances": 0,
     "speakerOrderPreserved": true,
     "pinyinTurkishChecked": true
   },

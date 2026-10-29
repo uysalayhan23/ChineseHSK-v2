@@ -104,7 +104,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC025_015",
-      "speaker": "顾客",
+      "speaker": "张乐乐",
       "zh": "我可以把书包放在椅子旁边吗？",
       "pinyin": "Wǒ kěyǐ bǎ shūbāo fàngzài yǐzi pángbiān ma?",
       "tr": "Çantamı sandalyenin yanına koyabilir miyim?"
@@ -244,7 +244,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC025_035",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "好，我会写上，也会提醒大家保持安静。",
       "pinyin": "hǎo ， wǒ huì xiě shàng ， yě huì tí xǐng dà jiā bǎo chí ān jìng 。",
       "tr": "Peki, bunu da yazarım ve herkese sessiz olmalarını hatırlatırım."
@@ -272,7 +272,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC025_039",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "这些都记进计划里，试用以后再听听大家的意见。",
       "pinyin": "zhè xiē dōu jì jìn jì huà lǐ ， shì yòng yǐ hòu zài tīng tīng dà jiā de yì jiàn 。",
       "tr": "Bunları plana yazalım; denemeden sonra herkesin fikrini alırız."
@@ -300,7 +300,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC025_043",
-      "speaker": "顾客",
+      "speaker": "张乐乐",
       "zh": "我把书包放在桌子下面，走路的时候不会碰到。",
       "pinyin": "wǒ bǎ shū bāo fàng zài zhuō zi xià miàn ， zǒu lù de shí hòu bú huì pèng dào 。",
       "tr": "Çantayı masanın altına koydum; yürürken takılmıyor."
@@ -321,21 +321,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC025_046",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "挺舒服的，桌子够大，我的书和本子都放得下。",
       "pinyin": "tǐng shū fú de ， zhuō zi gòu dà ， wǒ de shū hé běn zi dōu fàng dé xià 。",
       "tr": "Gayet rahat; masa geniş, kitaplarım ve defterim sığıyor."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_047",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "如果有人说话太大声，你可以告诉我们。",
       "pinyin": "rú guǒ yǒu rén shuō huà tài dà shēng ， nǐ kě yǐ gào sù wǒ men 。",
       "tr": "Birisi çok yüksek sesle konuşursa bize söyleyebilirsin."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_048",
-      "speaker": "张雨桐",
+      "speaker": "张乐乐",
       "zh": "我会的。这里比我想的安静，我能专心学习。",
       "pinyin": "wǒ huì de 。 zhè lǐ bǐ wǒ xiǎng de ān jìng ， wǒ néng zhuān xīn xué xí 。",
       "tr": "Söylerim. Burası düşündüğümden sessiz; dersime odaklanabiliyorum."
@@ -356,7 +356,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC025_051",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "计划写得很清楚，客人一看就知道怎么使用。",
       "pinyin": "jì huà xiě dé hěn qīng chǔ ， kè rén yī kàn jiù zhī dào zěn me shǐ yòng 。",
       "tr": "Plan çok anlaşılır; müşteriler nasıl kullanacaklarını hemen görür."
@@ -427,107 +427,107 @@
     {
       "id": "DLG_ZH_HSK3_SC025_061",
       "speaker": "刘梅",
-      "zh": "好，就按这个办法来。",
-      "pinyin": "Hǎo, jiù àn zhège bànfǎ lái.",
-      "tr": "Tamam, bu yönteme göre ilerleyelim."
+      "zh": "我们先把桌椅摆好，再请乐乐试一试。",
+      "pinyin": "Wǒmen xiān bǎ zhuōyǐ bǎihǎo, zài qǐng lèlè shìyīshì.",
+      "tr": "Önce masa ve sandalyeleri yerleştirelim, sonra Lele denesin."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_062",
       "speaker": "张伟",
-      "zh": "你看，现在好多了。",
-      "pinyin": "Nǐ kàn, xiànzài hǎoduō le.",
-      "tr": "Bak, şimdi çok daha iyi."
+      "zh": "我来检查桌脚和过道，确保桌子稳当。",
+      "pinyin": "Wǒlái jiǎnchá zhuōjiǎo hé guò dào, quèbǎo zhuōzi wěndāng.",
+      "tr": "Masa ayaklarını ve geçiş yolunu kontrol edip masanın sağlam durduğundan emin olayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_063",
       "speaker": "顾客",
-      "zh": "确实，比刚才顺利。",
-      "pinyin": "Quèshí, bǐ gāngcái shùnlì.",
-      "tr": "Gerçekten, az öncekinden daha iyi gidiyor."
+      "zh": "孩子们写作业的时候，我可以在旁边等。",
+      "pinyin": "Háizi men xiě zuòyè de shíhòu, wǒ kěyǐ zài pángbiān děng.",
+      "tr": "Çocuklar ödev yaparken ben yanlarında bekleyebilirim."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_064",
       "speaker": "张雨桐",
-      "zh": "看来我们的方向是对的。",
-      "pinyin": "Kànlái wǒmen de fāngxiàng shì duì de.",
-      "tr": "Görünüşe göre doğru yöndeyiz."
+      "zh": "桌边放个书架，常用的书就不用带来带去。",
+      "pinyin": "Zhuōbiān fànggè shūjià, chángyòng de shū jiù bùyòng dàiláidàiqù.",
+      "tr": "Masanın yanına bir kitaplık koyarsak sık kullanılan kitapları taşıyıp durmayız."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_065",
       "speaker": "刘梅",
-      "zh": "最后再检查一遍吧。",
-      "pinyin": "Zuìhòu zài jiǎnchá yībiàn ba.",
-      "tr": "Son olarak bir kez daha kontrol edelim."
+      "zh": "先准备几本适合孩子看的书。",
+      "pinyin": "Xiān zhǔnbèi jǐběn shìhé háizi kàn de shū.",
+      "tr": "Önce çocukların okuyabileceği birkaç kitap hazırlayalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_066",
       "speaker": "张伟",
-      "zh": "好的，我来检查第一部分。",
-      "pinyin": "Hǎo de, wǒlái jiǎnchá dìyī bùfèn.",
-      "tr": "Tamam, ilk kısmı ben kontrol edeyim."
+      "zh": "台灯和插座都检查过了，可以开始试用。",
+      "pinyin": "Táidēng hé chāzuò dōu jiǎnchá guò le, kěyǐ kāishǐ shìyòng.",
+      "tr": "Masa lambasını ve prizi kontrol ettim; denemeye başlayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_067",
       "speaker": "顾客",
-      "zh": "我负责后面的部分。",
-      "pinyin": "Wǒ fùzé hòumiàn de bùfèn.",
-      "tr": "Ben sonraki kısmı kontrol ederim."
+      "zh": "我下午带孩子来看看，再告诉你们他的感觉。",
+      "pinyin": "Wǒ xiàwǔ dài háizi lái kànkàn, zài gàosù nǐmen tā de gǎnjué.",
+      "tr": "Öğleden sonra çocuğumu getirip baktırayım, sonra ne düşündüğünü size söylerim."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_068",
       "speaker": "张雨桐",
-      "zh": "现在没有发现新的问题。",
-      "pinyin": "Xiànzài méiyǒu fāxiàn xīn de wèntí.",
-      "tr": "Şu anda yeni bir sorun görünmüyor."
+      "zh": "如果他觉得安静，我们就保留这个位置。",
+      "pinyin": "Rúguǒ tā juéde ānjìng, wǒmen jiù bǎoliú zhège wèizhì.",
+      "tr": "Burası ona sakin gelirse bu köşeyi koruruz."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_069",
       "speaker": "刘梅",
-      "zh": "太好了，终于可以放心了。",
-      "pinyin": "Tàihǎole, zhōngyú kěyǐ fàngxīn le.",
-      "tr": "Harika, sonunda rahatlayabiliriz."
+      "zh": "因为我们先试用一周，所以之后再问问其他家长。",
+      "pinyin": "Yīnwèi wǒmen xiān shìyòng yīzhōu, suǒyǐ zhīhòu zài wènwèn qítā jiāzhǎng.",
+      "tr": "Önce bir hafta deneyeceğiz; bu yüzden sonra diğer ebeveynlere de sorarız."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_070",
       "speaker": "张伟",
-      "zh": "今天我们学到不少东西。",
-      "pinyin": "Jīntiān wǒmen xuédào bùshǎo dōngxī.",
-      "tr": "Bugün epey şey öğrendik."
+      "zh": "计划写清楚了，也要记得留出通道。",
+      "pinyin": "Jìhuà xiě qīngchǔ le, yě yào jìde liúchū tōngdào.",
+      "tr": "Planı açıkça yazdık; geçiş yolu bırakmayı da unutmayalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_071",
       "speaker": "顾客",
-      "zh": "下次处理起来会更快。",
-      "pinyin": "Xiàcì chǔlǐ qǐlái huì gèng kuài.",
-      "tr": "Bir dahaki sefere daha hızlı hallederiz."
+      "zh": "有桌子和灯，我的孩子就能在这里做作业。",
+      "pinyin": "Yǒu zhuōzi hé dēng, wǒ de háizi jiù néng zài zhèlǐ zuòzuòyè.",
+      "tr": "Masa ve lamba olursa çocuğum burada ödev yapabilir."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_072",
       "speaker": "张雨桐",
-      "zh": "我觉得今天的结果不错。",
-      "pinyin": "Wǒ juéde jīntiān de jiéguǒ bùcuò.",
-      "tr": "Bence bugünkü sonuç iyi."
+      "zh": "孩子需要喝水或休息时，也可以告诉我们。",
+      "pinyin": "Háizi xūyào hēshuǐ huò xiūxī shí, yě kěyǐ gàosù wǒmen.",
+      "tr": "Çocuk su içmek ya da dinlenmek isterse bize söyleyebilir."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_073",
       "speaker": "刘梅",
-      "zh": "我也是这么想的。",
-      "pinyin": "Wǒ yě shì zhème xiǎng de.",
-      "tr": "Ben de öyle düşünüyorum."
+      "zh": "那我们把开放时间和规则贴出来。",
+      "pinyin": "Nà wǒmen bǎ kāifàng shíjiān hé guīzé tiēchūlái.",
+      "tr": "O zaman açık olduğumuz saatleri ve kuralları asalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_074",
       "speaker": "张伟",
-      "zh": "那就这么决定吧。",
-      "pinyin": "Nà jiù zhème juédìng ba.",
-      "tr": "O zaman böyle karar verelim."
+      "zh": "我把桌子靠墙摆好，也会把过道空出来。",
+      "pinyin": "Wǒ bǎ zhuōzi kàoqiáng bǎihǎo, yě huì bǎ guò dào kōng chūlái.",
+      "tr": "Masayı duvarın yanına çekip geçiş yolunu boş bırakacağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_075",
       "speaker": "顾客",
-      "zh": "好，接下来按计划继续。",
-      "pinyin": "Hǎo, jiēxiàlái ànjìhuà jìxù.",
-      "tr": "Tamam, bundan sonra plana göre devam edelim."
+      "zh": "这么安排挺方便，我周末就带孩子来试试。",
+      "pinyin": "Zhème ānpái tǐng fāngbiàn, wǒ zhōumò jiù dài háizi lái shìshì.",
+      "tr": "Bu düzen kullanışlı görünüyor; hafta sonu çocuğumu deneyip görmesi için getiririm."
     },
     {
       "id": "DLG_ZH_HSK3_SC025_076",
@@ -580,7 +580,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC025_083",
-      "speaker": "顾客",
+      "speaker": "张乐乐",
       "zh": "这里很适合写作业，我能把今天的练习做完。",
       "pinyin": "Zhèlǐ hěn shìhé xiě zuòyè, wǒnéng bǎ jīntiān de liànxí zuò wán.",
       "tr": "Burası ödev yapmak için uygun, bugünkü alıştırmamı bitirebilirim."
@@ -608,7 +608,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC025_087",
-      "speaker": "顾客",
+      "speaker": "张乐乐",
       "zh": "我今天第一次在咖啡馆里学习，感觉挺方便。",
       "pinyin": "Wǒ jīntiān dìyīcì zài kāfēiguǎn lǐ xuéxí, gǎnjué tǐng fāngbiàn.",
       "tr": "Bugün kafede ilk kez ders çalıştım, oldukça kullanışlı."
@@ -622,7 +622,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC025_089",
-      "speaker": "刘梅",
+      "speaker": "张乐乐",
       "zh": "我把书包放好了，桌面上只留作业本和铅笔。",
       "pinyin": "Wǒ bǎ shūbāo fànghǎo le, zhuōmiànshàng zhǐliú zuòyèběn hé qiānbǐ.",
       "tr": "Çantamı koydum; masada yalnızca ödev defterim ve kalemim var."
@@ -636,7 +636,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC025_091",
-      "speaker": "顾客",
+      "speaker": "张乐乐",
       "zh": "这里没有太吵，我可以专心学习。",
       "pinyin": "Zhèlǐ méiyǒu tàichǎo, wǒ kěyǐ zhuānxīn xuéxí.",
       "tr": "Burası çok gürültülü değil, dersime odaklanabiliyorum."
@@ -664,7 +664,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC025_095",
-      "speaker": "顾客",
+      "speaker": "张乐乐",
       "zh": "我朋友来接我了，今天在这里学习很愉快。",
       "pinyin": "Wǒ péngyǒu láijiē wǒ le, jīntiān zài zhèlǐ xuéxí hěn yúkuài.",
       "tr": "Arkadaşım beni almaya geldi; bugün burada ders çalışmak güzeldi."
@@ -692,7 +692,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC025_099",
-      "speaker": "顾客",
+      "speaker": "张乐乐",
       "zh": "谢谢你们，我下次还带作业来。",
       "pinyin": "Xièxiènǐmen, wǒ xiàcì hái dài zuòyè lái.",
       "tr": "Teşekkürler, bir dahaki sefere ödevimi de getiririm."

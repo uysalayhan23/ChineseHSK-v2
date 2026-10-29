@@ -21,72 +21,72 @@
     {
       "id": "DLG_ZH_HSK2_SC002_003",
       "speaker": "刘梅",
-      "zh": "是的，周末有时也出门。",
-      "pinyin": "shì de, zhōu mò yǒu shí yě chū mén.",
-      "tr": "Evet, hafta sonları da bazen dışarı çıkıyorum."
+      "zh": "是的，我先生每天坐车，周末我们也常出门。",
+      "pinyin": "Shì de, wǒ xiān shēng měi tiān zuò chē, zhōu mò wǒ men yě cháng chū mén.",
+      "tr": "Evet, eşim her gün otobüse biniyor; hafta sonları da sık sık dışarı çıkıyoruz."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_004",
       "speaker": "张伟",
-      "zh": "那您可以看看月卡。",
-      "pinyin": "nà nín kě yǐ kàn kàn yuè kǎ.",
-      "tr": "O zaman aylık karta bakabilirsiniz."
+      "zh": "那我先看看月卡吧。",
+      "pinyin": "Nà wǒ xiān kàn kàn yuè kǎ ba.",
+      "tr": "O zaman önce aylık karta bakayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_005",
       "speaker": "工作人员",
-      "zh": "月卡一个月多少钱？",
-      "pinyin": "yuè kǎ yí gè yuè duō shǎo qián?",
-      "tr": "Aylık kartın ücreti ne kadar?"
+      "zh": "店里有日卡和月卡，您想先办哪一种？",
+      "pinyin": "Diàn lǐ yǒu rì kǎ hé yuè kǎ, nín xiǎng xiān bàn nǎ yī zhǒng?",
+      "tr": "Günlük ve aylık kart var; hangisini almak istersiniz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC002_006",
       "speaker": "刘梅",
-      "zh": "我们想先比较每天和每月的价格。",
-      "pinyin": "wǒ men xiǎng xiān bǐ jiào měi tiān hé měi yuè de jià gé.",
-      "tr": "Önce günlük ve aylık ücretleri karşılaştıralım."
+      "zh": "我先生每天坐公交车上班，先看看月卡吧。",
+      "pinyin": "Wǒ xiānshēng měitiān zuò gōngjiāochē shàngbān， xiān kànkàn yuè kǎ ba。",
+      "tr": "Eşim her gün otobüsle işe gidiyor; önce aylık karta bakalım."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_007",
       "speaker": "张伟",
-      "zh": "一天的卡十五块，一个月的是两百块。",
-      "pinyin": "yī tiān de kǎ shí wǔ kuài, yí gè yuè de shì liǎng bǎi kuài.",
-      "tr": "Günlük kart 15, aylık kart 200 yuan."
+      "zh": "一个月坐十五天以上，月卡可能更合算。",
+      "pinyin": "Yígèyuè zuò shíwǔtiān yǐshàng， yuè kǎ kěnéng gèng hésuàn。",
+      "tr": "Ayda on beş günden fazla biniyorsa aylık kart daha hesaplı olabilir."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_008",
       "speaker": "工作人员",
-      "zh": "一个月要坐多少天才合算？",
-      "pinyin": "yí gè yuè yào zuò duō shǎo tiān cái hé suàn?",
-      "tr": "Ayda kaç gün binince daha hesaplı olur?"
+      "zh": "我可以按您平时坐车的次数帮您算一算。",
+      "pinyin": "Wǒ kěyǐ àn nín píngshí zuòchē de cìshù bāng nín suàn yīsuàn。",
+      "tr": "Normalde kaç kez bindiğinize göre sizin için hesaplayabilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_009",
       "speaker": "刘梅",
-      "zh": "我每周上班五天，坐车的次数不少。",
-      "pinyin": "wǒ měi zhōu shàng bān wǔ tiān, zuò chē de cì shù bù shǎo.",
-      "tr": "Haftada beş gün işe gidiyorum, epey biniyorum."
+      "zh": "他每周上班五天，坐车的次数不少。",
+      "pinyin": "Tā měizhōu shàngbān wǔtiān， zuòchē de cìshù bùshǎo。",
+      "tr": "Haftada beş gün işe gidiyor, epey sık otobüse biniyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_010",
       "speaker": "张伟",
-      "zh": "按您的情况，月卡会便宜一些。",
-      "pinyin": "àn nín de qíng kuàng, yuè kǎ huì pián yi yī xiē.",
-      "tr": "Sizin durumunuzda aylık kart daha ucuz olur."
+      "zh": "按这个次数，月卡可能更合适。",
+      "pinyin": "Àn zhège cìshù， yuè kǎ kěnéng gèng héshì。",
+      "tr": "Bu sıklıkta aylık kart daha uygun olabilir."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_011",
       "speaker": "工作人员",
-      "zh": "周末坐车也包括在月卡里吗？",
-      "pinyin": "zhōu mò zuò chē yě bāo kuò zài yuè kǎ lǐ ma?",
-      "tr": "Hafta sonu yolculukları da aylık karta dahil mi?"
+      "zh": "周末你们也坐公交车吗？",
+      "pinyin": "Zhōu mò nǐ men yě zuò gōng jiāo chē ma?",
+      "tr": "Hafta sonları da otobüse biniyor musunuz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC002_012",
       "speaker": "刘梅",
-      "zh": "包括，在这个城市坐公交都可以用。",
-      "pinyin": "bāo kuò, zài zhè ge chéng shì zuò gōng jiāo dōu kě yǐ yòng.",
-      "tr": "Dahil, şehirdeki otobüslerde kullanabilirsiniz."
+      "zh": "有时候会，周末我们也常出门。",
+      "pinyin": "Yǒu shí hòu huì, zhōu mò wǒ men yě cháng chū mén.",
+      "tr": "Bazen biniyoruz; hafta sonları da sık sık dışarı çıkıyoruz."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_013",
@@ -112,23 +112,23 @@
     {
       "id": "DLG_ZH_HSK2_SC002_016",
       "speaker": "张伟",
-      "zh": "没关系，我可以告诉您怎么选。",
-      "pinyin": "méi guān xì, wǒ kě yǐ gào sù nín zěn me xuǎn.",
-      "tr": "Sorun değil, nasıl seçeceğinizi anlatabilirim."
+      "zh": "没关系，我先听听工作人员怎么说。",
+      "pinyin": "Méi guān xì, wǒ xiān tīng tīng gōng zuò rén yuán zěn me shuō.",
+      "tr": "Sorun değil, önce görevlinin ne diyeceğini dinleyelim."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_017",
       "speaker": "工作人员",
-      "zh": "服务台就是在这里办理吗？",
-      "pinyin": "fú wù tái jiù shì zài zhè lǐ bàn lǐ ma?",
-      "tr": "İşlemler bu hizmet masasında mı yapılıyor?"
+      "zh": "您可以在这里办理，我来帮您登记。",
+      "pinyin": "Nín kě yǐ zài zhè lǐ bàn lǐ, wǒ lái bāng nín dēng jì.",
+      "tr": "Kartınızı burada çıkarabilirsiniz, kaydınızı ben yapayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_018",
       "speaker": "刘梅",
-      "zh": "对，先告诉我您想办哪一种。",
-      "pinyin": "duì, xiān gào sù wǒ nín xiǎng bàn nǎ yī zhǒng.",
-      "tr": "Evet, önce hangi türü istediğinizi söyleyin."
+      "zh": "那我们就在这里办吧。",
+      "pinyin": "Nà wǒmen jiù zài zhèlǐ bàn ba。",
+      "tr": "O zaman burada çıkaralım."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_019",
@@ -175,23 +175,23 @@
     {
       "id": "DLG_ZH_HSK2_SC002_025",
       "speaker": "张伟",
-      "zh": "谢谢，我先登记您的信息。",
-      "pinyin": "xiè xiè, wǒ xiān dēng jì nín de xìn xī.",
-      "tr": "Teşekkürler, bilgilerinizi kaydediyorum."
+      "zh": "谢谢，麻烦您帮我登记一下。",
+      "pinyin": "Xièxiè， máfán nín bāng wǒ dēngjì yīxià。",
+      "tr": "Teşekkürler, bilgilerimi kaydeder misiniz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC002_026",
       "speaker": "工作人员",
-      "zh": "手机号也要填吗？",
-      "pinyin": "shǒu jī hào yě yào tián ma?",
-      "tr": "Telefon numarasını da yazacak mıyız?"
+      "zh": "还需要登记您的手机号。",
+      "pinyin": "Hái xū yào dēng jì nín de shǒu jī hào.",
+      "tr": "Telefon numaranızı da kaydetmem gerekiyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_027",
       "speaker": "刘梅",
-      "zh": "需要，办好以后会发一条短信。",
-      "pinyin": "xū yào, bàn hǎo yǐ hòu huì fā yī tiáo duǎn xìn.",
-      "tr": "Evet, işlem bitince mesaj göndeririz."
+      "zh": "好的，办好以后会收到短信吗？",
+      "pinyin": "Hǎo de, bàn hǎo yǐ hòu huì shōu dào duǎn xìn ma?",
+      "tr": "Peki, işlem bitince kısa mesaj gelecek mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC002_028",
@@ -217,16 +217,16 @@
     {
       "id": "DLG_ZH_HSK2_SC002_031",
       "speaker": "张伟",
-      "zh": "您想办月卡还是日卡？",
-      "pinyin": "nín xiǎng bàn yuè kǎ hái shì rì kǎ?",
-      "tr": "Aylık mı günlük kart mı istiyorsunuz?"
+      "zh": "我想办月卡，办之前再确认一下价格。",
+      "pinyin": "Wǒ xiǎng bàn yuè kǎ， bàn zhīqián zài quèrèn yīxià jiàgé。",
+      "tr": "Aylık kart istiyorum; önce fiyatı bir daha doğrulayalım."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_032",
       "speaker": "工作人员",
-      "zh": "月卡适合我，工作日每天都要坐车。",
-      "pinyin": "yuè kǎ shì hé wǒ, gōng zuò rì měi tiān dōu yào zuò chē.",
-      "tr": "Aylık kart bana uygun, hafta içi her gün biniyorum."
+      "zh": "月卡适合您工作日每天坐车的情况。",
+      "pinyin": "Yuè kǎ shìhé nín gōngzuòrì měitiān zuòchē de qíngkuàng。",
+      "tr": "Hafta içi her gün otobüse biniyorsanız aylık kart size uygun."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_033",
@@ -238,23 +238,23 @@
     {
       "id": "DLG_ZH_HSK2_SC002_034",
       "speaker": "张伟",
-      "zh": "月卡从今天开始算三十天。",
-      "pinyin": "yuè kǎ cóng jīn tiān kāi shǐ suàn sān shí tiān.",
-      "tr": "Aylık kart bugünden başlayarak 30 gün geçerli."
+      "zh": "月卡从办理当天开始算三十天吗？",
+      "pinyin": "Yuè kǎ cóng bànlǐ dàngtiān kāishǐ suàn sānshítiān ma？",
+      "tr": "Aylık kart, çıkarıldığı günden itibaren otuz gün mü geçerli?"
     },
     {
       "id": "DLG_ZH_HSK2_SC002_035",
       "speaker": "工作人员",
-      "zh": "不是到这个月最后一天吗？",
-      "pinyin": "bú shì dào zhè ge yuè zuì hòu yī tiān ma?",
-      "tr": "Bu ayın son gününde bitmiyor mu?"
+      "zh": "不是到这个月最后一天，是从今天起连续三十天。",
+      "pinyin": "Búshì dào zhège yuè zuìhòu yītiān， shì cóngjīntiānqǐ liánxù sānshítiān。",
+      "tr": "Bu ayın sonuna kadar değil; bugünden başlayarak art arda otuz gün."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_036",
       "speaker": "刘梅",
-      "zh": "不是，是从今天起连续三十天。",
-      "pinyin": "bú shì, shì cóng jīn tiān qǐ lián xù sān shí tiān.",
-      "tr": "Hayır, bugünden itibaren aralıksız 30 gün."
+      "zh": "明白了，是从今天起算。",
+      "pinyin": "Míngbái le， shì cóngjīntiānqǐ suàn。",
+      "tr": "Anladım, bugünden itibaren sayılıyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_037",
@@ -273,23 +273,23 @@
     {
       "id": "DLG_ZH_HSK2_SC002_039",
       "speaker": "刘梅",
-      "zh": "如果提前用完，可以再办吗？",
-      "pinyin": "rú guǒ tí qián yòng wán, kě yǐ zài bàn ma?",
-      "tr": "Süre bitmeden yenisini alabilir miyim?"
+      "zh": "如果卡里的钱用完了，可以再充值吗？",
+      "pinyin": "Rúguǒ kǎlǐ de qián yòng wán le， kěyǐ zài chōngzhí ma？",
+      "tr": "Karttaki para biterse yeniden yükleme yapabilir miyim?"
     },
     {
       "id": "DLG_ZH_HSK2_SC002_040",
       "speaker": "张伟",
-      "zh": "可以，不过旧卡的钱不会自动转过去。",
-      "pinyin": "kě yǐ, bù guò jiù kǎ de qián bú huì zì dòng zhuǎn guò qù.",
-      "tr": "Olur ama eski kartın bakiyesi aktarılmaz."
+      "zh": "可以，以后我们随时都能充值。",
+      "pinyin": "Kě yǐ, yǐ hòu wǒ men suí shí dōu néng chōng zhí.",
+      "tr": "Evet, daha sonra istediğimiz zaman bakiye yükleyebiliriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_041",
       "speaker": "工作人员",
-      "zh": "那我先记住到期日。",
-      "pinyin": "nà wǒ xiān jì zhù dào qī rì.",
-      "tr": "O zaman bitiş tarihini aklımda tutayım."
+      "zh": "办好以后，我会把到期日记下来。",
+      "pinyin": "Bànhǎo yǐhòu， wǒhuì bǎ dàoqī rìjì xiàlái。",
+      "tr": "Kart çıkınca son geçerlilik tarihini not edeceğim."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_042",
@@ -315,23 +315,23 @@
     {
       "id": "DLG_ZH_HSK2_SC002_045",
       "speaker": "刘梅",
-      "zh": "地铁要另外买票，对吗？",
-      "pinyin": "dì tiě yào lìng wài mǎi piào, duì ma?",
-      "tr": "Metroya ayrıca bilet almak gerekiyor, değil mi?"
+      "zh": "那地铁票要另外买吗？",
+      "pinyin": "Nà dìtiěpiào yào lìngwài mǎi ma？",
+      "tr": "Metro biletini ayrıca mı almak gerekiyor?"
     },
     {
       "id": "DLG_ZH_HSK2_SC002_046",
       "speaker": "张伟",
-      "zh": "对，地铁票要单独买。",
-      "pinyin": "duì, dì tiě piào yào dān dú mǎi.",
-      "tr": "Evet, metro biletini ayrıca almalısınız."
+      "zh": "那我们坐地铁时另外买票就行。",
+      "pinyin": "Nà wǒmen zuòdìtiě shí lìngwài mǎipiào jiùxíng。",
+      "tr": "O zaman metroya binerken ayrıca bilet alırız."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_047",
       "speaker": "工作人员",
-      "zh": "我平时主要坐公交，够用了。",
-      "pinyin": "wǒ píng shí zhǔ yào zuò gōng jiāo, gòu yòng le.",
-      "tr": "Ben genelde otobüse biniyorum, yeter."
+      "zh": "对，普通月卡只坐公交车就够了。",
+      "pinyin": "Duì， pǔtōng yuè kǎ zhǐ zuò gōngjiāochē jiùgòu le。",
+      "tr": "Evet, normal aylık kart yalnızca otobüste geçiyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_048",
@@ -343,72 +343,72 @@
     {
       "id": "DLG_ZH_HSK2_SC002_049",
       "speaker": "张伟",
-      "zh": "您要普通月卡还是学生卡？",
-      "pinyin": "nín yào pǔ tōng yuè kǎ hái shì xué shēng kǎ?",
-      "tr": "Normal aylık kart mı öğrenci kartı mı?"
+      "zh": "我已经工作了，应该选普通月卡吧？",
+      "pinyin": "Wǒ yǐjīng gōngzuò le， yīnggāi xuǎn pǔtōng yuè kǎ ba？",
+      "tr": "Artık çalışıyorum; normal aylık kart seçmeliyim, değil mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC002_050",
       "speaker": "工作人员",
-      "zh": "普通月卡，我是上班用。",
-      "pinyin": "pǔ tōng yuè kǎ, wǒ shì shàng bān yòng.",
-      "tr": "Normal aylık kart, işe gidip gelmek için."
+      "zh": "对，普通月卡适合您上班使用。",
+      "pinyin": "Duì， pǔtōng yuè kǎ shìhé nín shàngbān shǐyòng。",
+      "tr": "Evet, normal aylık kart işe gidip gelmeniz için uygun."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_051",
       "speaker": "刘梅",
-      "zh": "那价格是两百块。",
-      "pinyin": "nà jià gé shì liǎng bǎi kuài.",
-      "tr": "Ücreti 200 yuan."
+      "zh": "普通月卡是两百块，对吗？",
+      "pinyin": "Pǔtōng yuè kǎ shì liǎngbǎikuài， duì ma？",
+      "tr": "Normal aylık kart iki yüz yuan, doğru mu?"
     },
     {
       "id": "DLG_ZH_HSK2_SC002_052",
       "speaker": "张伟",
-      "zh": "这个价格可以，我确定办月卡。",
-      "pinyin": "zhè ge jià gé kě yǐ, wǒ què dìng bàn yuè kǎ.",
-      "tr": "Bu fiyat uygun, aylık kart alacağım."
+      "zh": "我觉得这个价格合适，就办月卡吧。",
+      "pinyin": "Wǒ jué de zhè ge jià gé hé shì, jiù bàn yuè kǎ ba.",
+      "tr": "Bence bu fiyat uygun; aylık kartı alalım."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_053",
       "speaker": "工作人员",
-      "zh": "好，请先付款。",
-      "pinyin": "hǎo, qǐng xiān fù kuǎn.",
-      "tr": "Peki, önce ödeme yapın lütfen."
+      "zh": "对，普通月卡两百块，请先付款。",
+      "pinyin": "Duì, pǔ tōng yuè kǎ liǎng bǎi kuài, qǐng xiān fù kuǎn.",
+      "tr": "Evet, normal aylık kart iki yüz yuan; lütfen önce ödeme yapın."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_054",
       "speaker": "刘梅",
-      "zh": "可以刷卡吗，还是只能付现金？",
-      "pinyin": "kě yǐ shuā kǎ ma, hái shì zhǐ néng fù xiàn jīn?",
-      "tr": "Kartla ödeyebilir miyim, yalnızca nakit mi?"
+      "zh": "可以刷银行卡吗？还是只能付现金？",
+      "pinyin": "Kěyǐ shuā yínhángkǎ ma？ háishì zhǐnéng fùxiànjīn？",
+      "tr": "Banka kartıyla ödeyebilir miyiz, yoksa yalnızca nakit mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC002_055",
       "speaker": "张伟",
-      "zh": "刷卡和现金都可以。",
-      "pinyin": "shuā kǎ hé xiàn jīn dōu kě yǐ.",
-      "tr": "Kartla da nakit de ödeyebilirsiniz."
+      "zh": "我带了银行卡，也可以付现金。",
+      "pinyin": "Wǒ dài le yínhángkǎ， yě kěyǐ fùxiànjīn。",
+      "tr": "Banka kartım yanımda; nakit de ödeyebilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_056",
       "speaker": "工作人员",
-      "zh": "那我刷卡，手机在我这里。",
-      "pinyin": "nà wǒ shuā kǎ, shǒu jī zài wǒ zhè lǐ.",
-      "tr": "Kartla ödeyeyim, telefonum yanımda."
+      "zh": "银行卡和现金都可以，您想怎么付？",
+      "pinyin": "Yínhángkǎ hé xiànjīn dōu kěyǐ， nín xiǎng zěnme fù？",
+      "tr": "Banka kartı da nakit de olur. Nasıl ödemek istersiniz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC002_057",
       "speaker": "刘梅",
-      "zh": "请在这里确认一下金额。",
-      "pinyin": "qǐng zài zhè lǐ què rèn yī xià jīn é.",
-      "tr": "Lütfen tutarı buradan onaylayın."
+      "zh": "我看一下，金额是两百块，对吗？",
+      "pinyin": "Wǒ kàn yīxià， jīné shì liǎngbǎikuài， duì ma？",
+      "tr": "Bir bakayım, tutar iki yüz yuan, doğru mu?"
     },
     {
       "id": "DLG_ZH_HSK2_SC002_058",
       "speaker": "张伟",
-      "zh": "两百块，对吗？",
-      "pinyin": "liǎng bǎi kuài, duì ma?",
-      "tr": "200 yuan, doğru mu?"
+      "zh": "没错，正好两百块。",
+      "pinyin": "Méicuò， zhènghǎo liǎngbǎikuài。",
+      "tr": "Doğru, tam iki yüz yuan."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_059",
@@ -427,9 +427,9 @@
     {
       "id": "DLG_ZH_HSK2_SC002_061",
       "speaker": "张伟",
-      "zh": "我现在就给您办，请稍等。",
-      "pinyin": "wǒ xiàn zài jiù gěi nín bàn, qǐng shāo děng.",
-      "tr": "Şimdi hazırlıyorum, biraz bekleyin."
+      "zh": "那我们等一会儿，办好后再拿卡。",
+      "pinyin": "Nà wǒmen děng yīhuìer， bànhǎo hòu zài ná kǎ。",
+      "tr": "O zaman biraz bekleyelim; kart çıkınca alırız."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_062",
@@ -490,9 +490,9 @@
     {
       "id": "DLG_ZH_HSK2_SC002_070",
       "speaker": "张伟",
-      "zh": "不用，这种卡上车刷一次就行。",
-      "pinyin": "bù yòng, zhè zhǒng kǎ shàng chē shuā yī cì jiù xíng.",
-      "tr": "Gerek yok, bu kartı yalnızca binerken okutun."
+      "zh": "不用，下车时不用再刷。",
+      "pinyin": "Bù yòng, xià chē shí bù yòng zài shuā.",
+      "tr": "Gerek yok, inerken tekrar okutmayın."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_071",
@@ -504,9 +504,9 @@
     {
       "id": "DLG_ZH_HSK2_SC002_072",
       "speaker": "刘梅",
-      "zh": "再试一次，也可以问司机。",
-      "pinyin": "zài shì yī cì, yě kě yǐ wèn sī jī.",
-      "tr": "Bir kez daha deneyin, şoföre de sorabilirsiniz."
+      "zh": "那我再试一次，不行就问司机。",
+      "pinyin": "Nà wǒ zài shì yī cì, bù xíng jiù wèn sī jī.",
+      "tr": "O zaman bir kez daha denerim; olmazsa şoföre sorarım."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_073",
@@ -553,9 +553,9 @@
     {
       "id": "DLG_ZH_HSK2_SC002_079",
       "speaker": "张伟",
-      "zh": "可以按需要选择充值金额。",
-      "pinyin": "kě yǐ àn xū yào xuǎn zé chōng zhí jīn é.",
-      "tr": "İhtiyacınıza göre yükleme miktarı seçebilirsiniz."
+      "zh": "那我到时候按需要充值就可以了。",
+      "pinyin": "Nà wǒ dàoshíhòu àn xūyào chōngzhí jiù kěyǐ le。",
+      "tr": "O zaman gerektiğinde istediğim kadar yüklerim."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_080",
@@ -602,16 +602,16 @@
     {
       "id": "DLG_ZH_HSK2_SC002_086",
       "speaker": "工作人员",
-      "zh": "以后我也能帮同事选卡了。",
-      "pinyin": "yǐ hòu wǒ yě néng bāng tóng shì xuǎn kǎ le.",
-      "tr": "Bundan sonra iş arkadaşlarıma da kart seçiminde yardım ederim."
+      "zh": "以后坐车有问题，也欢迎您再来问我。",
+      "pinyin": "Yǐhòu zuòchē yǒu wèntí， yě huānyíngnín zàilái wèn wǒ。",
+      "tr": "Yolculukla ilgili sorunuz olursa yine danışabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_087",
       "speaker": "刘梅",
-      "zh": "有问题再来服务台问我。",
-      "pinyin": "yǒu wèn tí zài lái fú wù tái wèn wǒ.",
-      "tr": "Sorunuz olursa hizmet masasına yine gelin."
+      "zh": "有问题我们再来服务台问。",
+      "pinyin": "Yǒu wèntí wǒmen zài lái fúwùtái wèn。",
+      "tr": "Bir sorun olursa danışmaya tekrar sorarız."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_088",
@@ -665,9 +665,9 @@
     {
       "id": "DLG_ZH_HSK2_SC002_095",
       "speaker": "工作人员",
-      "zh": "好的，我会注意。",
-      "pinyin": "hǎo de, wǒ huì zhù yì.",
-      "tr": "Tamam, dikkat ederim."
+      "zh": "余额不够时，记得及时充值。",
+      "pinyin": "Yúé bùgòu shí， jìde jíshí chōngzhí。",
+      "tr": "Bakiye yetmediğinde zamanında yükleme yapmayı unutmayın."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_096",
@@ -679,16 +679,16 @@
     {
       "id": "DLG_ZH_HSK2_SC002_097",
       "speaker": "张伟",
-      "zh": "那我就选月卡，请帮我办理。",
-      "pinyin": "nà wǒ jiù xuǎn yuè kǎ, qǐng bāng wǒ bàn lǐ.",
-      "tr": "Aylık kartı seçiyorum, lütfen işlemi yapın."
+      "zh": "谢谢，我们先用这张月卡。",
+      "pinyin": "Xièxiè， wǒmen xiānyòng zhèzhāng yuè kǎ。",
+      "tr": "Teşekkürler, önce bu aylık kartı kullanalım."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_098",
       "speaker": "工作人员",
-      "zh": "好的，我马上给您办理。",
-      "pinyin": "hǎo de, wǒ mǎ shàng gěi nín bàn lǐ.",
-      "tr": "Peki, hemen hazırlıyorum."
+      "zh": "好的，之后也欢迎您再来咨询。",
+      "pinyin": "Hǎo de， zhīhòu yě huānyíngnín zài lái zīxún。",
+      "tr": "Peki, başka zaman da danışabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC002_099",

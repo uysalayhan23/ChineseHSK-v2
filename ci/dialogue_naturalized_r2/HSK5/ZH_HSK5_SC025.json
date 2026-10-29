@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC025",
   "level": "HSK5",
   "sourceTitleZh": "医生不太满意",
@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC025_001",
       "speaker": "医生",
-      "zh": "上次复查以后，您按计划每天测血压了吗？",
-      "pinyin": "shàng cì fù chá yǐ hòu ， nín àn jì huà měi tiān cè xuè yā le ma ？",
-      "tr": "Son kontrolden bu yana tansiyonunuzu plana göre her gün ölçtünüz mü?"
+      "zh": "上次复查以后，您按计划调整生活方式并每天测血压了吗？",
+      "pinyin": "shàng cì fù chá yǐ hòu ， nín àn jì huà tiáo zhěng shēng huó fāng shì bìng měi tiān cè xuè yā le ma ？",
+      "tr": "Önceki kontrolden sonra yaşam tarzınızı plana göre değiştirip her gün tansiyonunuzu ölçtünüz mü?"
     },
     {
       "id": "DLG_ZH_HSK5_SC025_002",
@@ -86,9 +86,9 @@
     {
       "id": "DLG_ZH_HSK5_SC025_012",
       "speaker": "护士",
-      "zh": "家人可以帮您挑选低盐的零食，不过决定和记录还是由您自己来做。",
-      "pinyin": "Jiā rén kě yǐ bāng nín tiāo xuǎn dī yán de líng shí bù guò jué dìng hé jì lù hái shì yóu nín zì jǐ lái zuò",
-      "tr": "Aileniz daha az tuzlu atıştırmalık seçmenize yardım edebilir; ancak kararı ve kaydı kendiniz tutun."
+      "zh": "家人可以帮忙挑选低盐零食，不过决定和记录还是由您自己来做。",
+      "pinyin": "jiā rén kě yǐ bāng máng tiāo xuǎn dī yán líng shí ， bù guò jué dìng hé jì lù hái shì yóu nín zì jǐ lái zuò 。",
+      "tr": "Aileniz az tuzlu atıştırmalık seçmenize yardımcı olabilir; ancak kararı ve kayıtları yine siz tutmalısınız."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_013",
@@ -107,9 +107,9 @@
     {
       "id": "DLG_ZH_HSK5_SC025_015",
       "speaker": "刘梅",
-      "zh": "那先把睡前半小时留给安静的活动，别给自己定一个做不到的时间。",
-      "pinyin": "nà xiān bǎ shuì qián bàn xiǎo shí liú gěi ān jìng de huó dòng ， bié gěi zì jǐ dìng yí gè zuò bú dào de shí jiān 。",
-      "tr": "O hâlde yatmadan önceki yarım saati sakin etkinliklere ayırın; kendinize uygulayamayacağınız bir saat koymayın."
+      "zh": "那先把睡前半小时留给安静的活动，让工作、活动和休息保持平衡。",
+      "pinyin": "nà xiān bǎ shuì qián bàn xiǎo shí liú gěi ān jìng de huó dòng ， ràng gōng zuò 、 huó dòng hé xiū xī bǎo chí píng héng 。",
+      "tr": "O zaman yatmadan önceki yarım saati sakin etkinliklere ayıralım; iş, hareket ve dinlenme arasında denge kuralım."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_016",
@@ -198,9 +198,9 @@
     {
       "id": "DLG_ZH_HSK5_SC025_028",
       "speaker": "护士",
-      "zh": "那先把这周的目标定清楚：测量时坐着休息几分钟，每周散步三次。",
-      "pinyin": "nà xiān bǎ zhè zhōu de mù biāo dìng qīng chǔ ： cè liáng shí zuò zhe xiū xī jǐ fēn zhōng ， měi zhōu sàn bù sān cì 。",
-      "tr": "O hâlde bu haftanın hedefini netleştirelim: ölçümden önce birkaç dakika oturup dinlenmek ve haftada üç kez yürümek."
+      "zh": "那先把这周的健康目标定清楚：测量时坐着休息几分钟，每周散步三次。",
+      "pinyin": "nà xiān bǎ zhè zhōu de jiàn kāng mù biāo dìng qīng chǔ ： cè liáng shí zuò zhe xiū xī jǐ fēn zhōng ， měi zhōu sàn bù sān cì 。",
+      "tr": "O hâlde bu haftanın sağlık hedefini netleştirelim: ölçümden önce birkaç dakika oturup dinlenmek ve haftada üç kez yürümek."
     },
     {
       "id": "DLG_ZH_HSK5_SC025_029",

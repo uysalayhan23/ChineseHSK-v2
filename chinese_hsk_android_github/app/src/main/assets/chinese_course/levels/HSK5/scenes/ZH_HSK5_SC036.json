@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK5_SC036_001",
       "speaker": "张雨桐",
-      "zh": "我的毕业项目要研究学生怎么使用图书馆，月底还要做公开汇报。",
-      "pinyin": "wǒ de bì yè xiàng mù yào yán jiū xué shēng zěn me shǐ yòng tú shū guǎn ， yuè dǐ hái yào zuò gōng kāi huì bào 。",
-      "tr": "Mezuniyet projemde öğrencilerin kütüphaneyi nasıl kullandığını araştırıyorum; ay sonunda açık sunum da yapacağım."
+      "zh": "我的毕业项目要研究大学生怎么使用大学图书馆，月底还要做公开汇报。",
+      "pinyin": "wǒ de bì yè xiàng mù yào yán jiū dà xué shēng zěn me shǐ yòng dà xué tú shū guǎn ， yuè dǐ hái yào zuò gōng kāi huì bào 。",
+      "tr": "Mezuniyet projemde üniversite öğrencilerinin kütüphaneyi nasıl kullandığını araştırıyorum; ay sonunda açık sunum da yapacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC036_002",
@@ -130,9 +130,9 @@
     {
       "id": "DLG_ZH_HSK5_SC036_018",
       "speaker": "导师",
-      "zh": "汇报不是把论文念一遍，而是带着听众理解你的论证。",
-      "pinyin": "huì bào bú shì bǎ lùn wén niàn yī biàn ， ér shì dài zhe tīng zhòng lǐ jiě nǐ de lùn zhèng 。",
-      "tr": "Sunum, makaleyi baştan sona okumak değildir; dinleyiciyi gerekçelerini anlamaya yönlendirmektir."
+      "zh": "汇报不是把论文念一遍，而是带着听众理解你的学术论证。",
+      "pinyin": "huì bào bú shì bǎ lùn wén niàn yī biàn ， ér shì dài zhe tīng zhòng lǐ jiě nǐ de xué shù lùn zhèng 。",
+      "tr": "Sunum, makaleyi baştan sona okumak değildir; dinleyiciyi akademik gerekçelendirmeyi anlamaya yönlendirmektir."
     },
     {
       "id": "DLG_ZH_HSK5_SC036_019",
@@ -634,9 +634,9 @@
     {
       "id": "DLG_ZH_HSK5_SC036_090",
       "speaker": "导师",
-      "zh": "明天再完整练一遍，今天先把改好的图表和说明核对好。",
-      "pinyin": "míng tiān zài wán zhěng liàn yī biàn ， jīn tiān xiān bǎ gǎi hǎo de tú biǎo hé shuō míng hé duì hǎo 。",
-      "tr": "Yarın baştan sona bir kez daha prova ederiz; bugün düzeltilmiş grafikleri ve açıklamaları kontrol et."
+      "zh": "明天再完整练一遍，今天先把改好的图表和说明核对好，也确认一下截止日期。",
+      "pinyin": "míng tiān zài wán zhěng liàn yī biàn ， jīn tiān xiān bǎ gǎi hǎo de tú biǎo hé shuō míng hé duì hǎo ， yě què rèn yī xià jié zhǐ rì qī 。",
+      "tr": "Yarın baştan sona bir kez daha prova ederiz; bugün düzeltilmiş grafikleri ve açıklamaları kontrol edip son teslim tarihini de teyit et."
     },
     {
       "id": "DLG_ZH_HSK5_SC036_091",
@@ -728,82 +728,82 @@
       {
         "id": "VOC_ZH_HSK5_SC036_001",
         "zh": "毕业项目",
-        "pinyin": "bìyè xiàngmù",
+        "pinyin": "bì yè xiàng mù",
         "tr": "mezuniyet projesi",
-        "exampleZh": "毕业项目是我们不能忽略的一点。",
-        "examplePinyin": "Bìyè xiàngmù shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Mezuniyet projesi göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我的毕业项目要研究大学生怎么使用大学图书馆，月底还要做公开汇报。",
+        "examplePinyin": "wǒ de bì yè xiàng mù yào yán jiū dà xué shēng zěn me shǐ yòng dà xué tú shū guǎn ， yuè dǐ hái yào zuò gōng kāi huì bào 。",
+        "exampleTr": "Mezuniyet projemde üniversite öğrencilerinin kütüphaneyi nasıl kullandığını araştırıyorum; ay sonunda açık sunum da yapacağım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC036_002",
         "zh": "学术论证",
-        "pinyin": "xuéshù lùnzhèng",
+        "pinyin": "xué shù lùn zhèng",
         "tr": "akademik argümantasyon",
-        "exampleZh": "我们把学术论证也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ xuéshù lùnzhèng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Akademik argümantasyon konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "汇报不是把论文念一遍，而是带着听众理解你的学术论证。",
+        "examplePinyin": "huì bào bú shì bǎ lùn wén niàn yī biàn ， ér shì dài zhe tīng zhòng lǐ jiě nǐ de xué shù lùn zhèng 。",
+        "exampleTr": "Sunum, makaleyi baştan sona okumak değildir; dinleyiciyi akademik gerekçelendirmeyi anlamaya yönlendirmektir.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC036_003",
         "zh": "汇报",
-        "pinyin": "huìbào",
+        "pinyin": "huì bào",
         "tr": "sunum / raporlama",
-        "exampleZh": "如果汇报发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ huìbào fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Sunum / raporlama değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "我的毕业项目要研究大学生怎么使用大学图书馆，月底还要做公开汇报。",
+        "examplePinyin": "wǒ de bì yè xiàng mù yào yán jiū dà xué shēng zěn me shǐ yòng dà xué tú shū guǎn ， yuè dǐ hái yào zuò gōng kāi huì bào 。",
+        "exampleTr": "Mezuniyet projemde üniversite öğrencilerinin kütüphaneyi nasıl kullandığını araştırıyorum; ay sonunda açık sunum da yapacağım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC036_004",
         "zh": "依据",
-        "pinyin": "yījù",
+        "pinyin": "yī jù",
         "tr": "dayanak / kanıt",
-        "exampleZh": "关于依据，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú yījù, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Dayanak / kanıt konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "很好。每个结论旁边都标出对应的数据或访谈依据。",
+        "examplePinyin": "hěn hǎo 。 měi gè jié lùn páng biān dōu biāo chū duì yìng de shù jù huò fǎng tán yī jù 。",
+        "exampleTr": "Güzel. Her sonucun yanına onu destekleyen veri veya röportaj dayanağını ekle.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC036_005",
         "zh": "研究",
-        "pinyin": "yánjiū",
+        "pinyin": "yán jiū",
         "tr": "araştırma",
-        "exampleZh": "研究是我们不能忽略的一点。",
-        "examplePinyin": "Yánjiū shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Araştırma göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我的毕业项目要研究大学生怎么使用大学图书馆，月底还要做公开汇报。",
+        "examplePinyin": "wǒ de bì yè xiàng mù yào yán jiū dà xué shēng zěn me shǐ yòng dà xué tú shū guǎn ， yuè dǐ hái yào zuò gōng kāi huì bào 。",
+        "exampleTr": "Mezuniyet projemde üniversite öğrencilerinin kütüphaneyi nasıl kullandığını araştırıyorum; ay sonunda açık sunum da yapacağım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC036_006",
         "zh": "大学",
-        "pinyin": "dàxué",
+        "pinyin": "dà xué",
         "tr": "üniversite",
-        "exampleZh": "这个大学有优点，也有需要考虑的地方。",
-        "examplePinyin": "Zhège dàxué yǒu yōudiǎn, yě yǒu xūyào kǎolǜ de dìfang.",
-        "exampleTr": "Bu üniversite avantajlara sahip ama düşünülmesi gereken yönleri de var.",
+        "exampleZh": "我的毕业项目要研究大学生怎么使用大学图书馆，月底还要做公开汇报。",
+        "examplePinyin": "wǒ de bì yè xiàng mù yào yán jiū dà xué shēng zěn me shǐ yòng dà xué tú shū guǎn ， yuè dǐ hái yào zuò gōng kāi huì bào 。",
+        "exampleTr": "Mezuniyet projemde üniversite öğrencilerinin kütüphaneyi nasıl kullandığını araştırıyorum; ay sonunda açık sunum da yapacağım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC036_007",
         "zh": "截止日期",
-        "pinyin": "jiézhǐ rìqī",
+        "pinyin": "jié zhǐ rì qī",
         "tr": "son tarih",
-        "exampleZh": "如果截止日期发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jiézhǐ rìqī fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Son tarih değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "明天再完整练一遍，今天先把改好的图表和说明核对好，也确认一下截止日期。",
+        "examplePinyin": "míng tiān zài wán zhěng liàn yī biàn ， jīn tiān xiān bǎ gǎi hǎo de tú biǎo hé shuō míng hé duì hǎo ， yě què rèn yī xià jié zhǐ rì qī 。",
+        "exampleTr": "Yarın baştan sona bir kez daha prova ederiz; bugün düzeltilmiş grafikleri ve açıklamaları kontrol edip son teslim tarihini de teyit et.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC036_008",
         "zh": "反馈",
-        "pinyin": "fǎnkuì",
+        "pinyin": "fǎn kuì",
         "tr": "geri bildirim",
-        "exampleZh": "关于反馈，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú fǎnkuì, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Geri bildirim konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "反馈要具体到某一页或某一句，才知道怎样修改。",
+        "examplePinyin": "fǎn kuì yào jù tǐ dào mǒu yī yè huò mǒu yī jù ， cái zhī dào zěn yàng xiū gǎi 。",
+        "exampleTr": "Geri bildirim belirli bir slayta veya cümleye yönelik olmalı ki nasıl düzelteceğini bilesin.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

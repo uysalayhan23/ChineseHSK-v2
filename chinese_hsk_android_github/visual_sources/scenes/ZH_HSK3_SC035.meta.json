@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC035.json",
-  "dialogueSha256": "b9f96d3e46fbd53042fd3a2a4c490bc4e470358dce0a5a66f2bf26b0bf9a3621",
+  "dialogueSha256": "68f0c84821db83ecae246c987766b502ac2b63f28cf50ca5362f476db276bf96",
   "titleTr": "İlk Büyük Sipariş",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Okul etkinliği için büyük bir toplu sipariş gelir.",

@@ -79,9 +79,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_011",
       "speaker": "老师",
-      "zh": "可是没写完还是挂科了。",
-      "pinyin": "Kě shì méi xiě wán hái shì guà kē le",
-      "tr": "Ama yine de bitiremedim ve dersten kaldım."
+      "zh": "没写完确实影响了分数，但我们还要看看其他失分的原因。",
+      "pinyin": "méi xiě wán què shí yǐng xiǎng le fēn shù dàn wǒ men hái yào kàn kàn qí tā shī fēn de yuán yīn",
+      "tr": "Bitirememek notunu gerçekten etkilemiş; yine de başka puan kayıplarının nedenlerine bakmalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_012",
@@ -107,9 +107,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_015",
       "speaker": "老师",
-      "zh": "我以为阅读部分准备得够了，结果错了好几题。",
-      "pinyin": "Wǒ yǐ wéi yuè dú bù fèn zhǔn bèi dé gòu le jié guǒ cuò le hǎo jǐ tí",
-      "tr": "Okuma bölümüne yeterince hazırlandığımı sanıyordum ama birkaç soruyu yanlış yaptım."
+      "zh": "从试卷上看，阅读部分有几类题连续失分，我们可以一起看看原因。",
+      "pinyin": "cóng shì juàn shàng kàn yuè dú bù fèn yǒu jǐ lèi tí lián xù shī fēn wǒ men kě yǐ yì qǐ kàn kàn yuán yīn",
+      "tr": "Sınav kağıdına göre okuma bölümünde birkaç soru türünde art arda puan kaybı olmuş; nedenlerine birlikte bakabiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_016",
@@ -261,9 +261,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_037",
       "speaker": "张雨桐",
-      "zh": "休息不是放弃，累着硬撑也不一定学得进去。",
-      "pinyin": "Xiū xī bú shì fàng qì lèi zhe yìng chēng yě bù yí dìng xué dé jìn qù",
-      "tr": "Dinlenmek vazgeçmek değildir; yorgunken zorlamak da öğrenmeni sağlamaz."
+      "zh": "尽管这次没通过，我仍然可以调整方法，继续学习。",
+      "pinyin": "jǐn guǎn zhè cì méi tōng guò wǒ réng rán kě yǐ tiáo zhěng fāng fǎ jì xù xué xí",
+      "tr": "Bu sınavı geçememiş olsam da yöntemimi değiştirip öğrenmeye devam edebilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_038",
@@ -289,9 +289,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_041",
       "speaker": "张雨桐",
-      "zh": "那你可以缩短复习时间，多留些时间练习和回顾错题。",
-      "pinyin": "Nà nǐ kě yǐ suō duǎn fù xí shí jiān duō liú xiē shí jiān liàn xí hé huí gù cuò tí",
-      "tr": "Tekrar süresini kısaltıp alıştırmalara ve yanlışları gözden geçirmeye zaman ayırabilirsin."
+      "zh": "那我可以缩短复习时间，多留些时间练习和回顾错题。",
+      "pinyin": "nà wǒ kě yǐ suō duǎn fù xí shí jiān duō liú xiē shí jiān liàn xí hé huí gù cuò tí",
+      "tr": "O zaman çalışma süremi kısaltıp alıştırmalara ve yanlışları gözden geçirmeye daha fazla zaman ayırabilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_042",
@@ -401,9 +401,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_057",
       "speaker": "张雨桐",
-      "zh": "我可以先陪你找出最具体的问题，再请老师帮忙看看。",
-      "pinyin": "Wǒ kě yǐ xiān péi nǐ zhǎo chū zuì jù tǐ de wèn tí zài qǐng lǎo shī bāng máng kàn kàn",
-      "tr": "Önce en somut sorunu bulmana yardım edip sonra öğretmenden bakmasını isteyebilirim."
+      "zh": "我可以先找出最具体的问题，再请老师帮忙看看。",
+      "pinyin": "wǒ kě yǐ xiān zhǎo chū zuì jù tǐ de wèn tí zài qǐng lǎo shī bāng máng kàn kàn",
+      "tr": "Önce en somut sorunu bulup öğretmenden incelemesini isteyebilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_058",
@@ -429,9 +429,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_061",
       "speaker": "张雨桐",
-      "zh": "你可以问清楚理由，再决定哪条建议适合你。",
-      "pinyin": "Nǐ kě yǐ wèn qīng chǔ lǐ yóu zài jué dìng nǎ tiáo jiàn yì shì hé nǐ",
-      "tr": "Gerekçesini sorup hangi önerinin sana uygun olduğuna karar verebilirsin."
+      "zh": "我可以问清楚理由，再决定哪些建议适合我。",
+      "pinyin": "wǒ kě yǐ wèn qīng chǔ lǐ yóu zài jué dìng nǎ xiē jiàn yì shì hé wǒ",
+      "tr": "Nedenini netleştirip hangi önerilerin bana uyduğuna kendim karar verebilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_062",
@@ -457,9 +457,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_065",
       "speaker": "张雨桐",
-      "zh": "周三我可以和你一起看你整理的错题。",
-      "pinyin": "Zhōu sān wǒ kě yǐ hé nǐ yì qǐ kàn nǐ zhěng lǐ de cuò tí",
-      "tr": "Çarşamba düzenlediğin yanlışlara birlikte bakabiliriz."
+      "zh": "周三我可以把整理好的错题拿来和大家一起看。",
+      "pinyin": "zhōu sān wǒ kě yǐ bǎ zhěng lǐ hǎo de cuò tí ná lái hé dà jiā yì qǐ kàn",
+      "tr": "Çarşamba düzenlediğim yanlışları getirip hep birlikte inceleyebiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_066",
@@ -653,9 +653,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_093",
       "speaker": "张雨桐",
-      "zh": "我也会陪你复习，但按你觉得舒服的节奏来。",
-      "pinyin": "Wǒ yě huì péi nǐ fù xí dàn àn nǐ jué de shū fú de jié zòu lái",
-      "tr": "Ben de seninle tekrar yaparım ama sana uygun tempoda."
+      "zh": "我会按自己觉得舒服的节奏复习，也接受你们陪我。",
+      "pinyin": "wǒ huì àn zì jǐ jué de shū fú de jié zòu fù xí yě jiē shòu nǐ men péi wǒ",
+      "tr": "Kendimi rahat hissettiğim tempoda çalışır, bana eşlik etmenize de izin veririm."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_094",

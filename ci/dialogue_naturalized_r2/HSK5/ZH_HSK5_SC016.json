@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC016",
   "level": "HSK5",
   "sourceTitleZh": "爷爷的老办法",
@@ -23,9 +23,9 @@
     {
       "id": "DLG_ZH_HSK5_SC016_003",
       "speaker": "张乐乐",
-      "zh": "我在学校学过一些现代技术，想比较一下监测工具能不能帮助安排种植。",
-      "pinyin": "wǒ zài xué xiào xué guò yī xiē xiàn dài jì shù ， xiǎng bǐ jiào yī xià jiān cè gōng jù néng bù néng bāng zhù ān pái zhòng zhí 。",
-      "tr": "Okulda modern teknikleri öğrendim; izleme araçlarının ekim zamanını belirlemeye yardım edip edemeyeceğini karşılaştırmak istiyorum."
+      "zh": "我在学校学过一些现代技术，想把它和传统方法放在一起比较，看看能不能帮忙安排种植。",
+      "pinyin": "wǒ zài xué xiào xué guò yī xiē xiàn dài jì shù ， xiǎng bǎ tā hé chuán tǒng fāng fǎ fàng zài yì qǐ bǐ jiào ， kàn kàn néng bù néng bāng máng ān pái zhòng zhí 。",
+      "tr": "Okulda bazı modern teknolojileri öğrendim; geleneksel yöntemlerle karşılaştırıp ekim planlamasına yardımcı olup olamayacaklarını görmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC016_004",
@@ -702,9 +702,9 @@
     {
       "id": "DLG_ZH_HSK5_SC016_100",
       "speaker": "刘梅",
-      "zh": "把两种方法放在一起比较，既尊重爷爷的经验，也让我们知道新工具怎样才真正有帮助。",
-      "pinyin": "bǎ liǎng zhǒng fāng fǎ fàng zài yì qǐ bǐ jiào ， jì zūn zhòng yé yé de jīng yàn ， yě ràng wǒ men zhī dào xīn gōng jù zěn yàng cái zhēn zhèng yǒu bāng zhù 。",
-      "tr": "İki yöntemi birlikte karşılaştırmak dedenizin deneyimine saygı gösterirken yeni aracın nasıl gerçekten yararlı olabileceğini de gösterir."
+      "zh": "把两种方法放在一起比较，不仅尊重爷爷的经验，还能判断新工具是否有助于农场的可持续发展。",
+      "pinyin": "bǎ liǎng zhǒng fāng fǎ fàng zài yì qǐ bǐ jiào ， bù jǐn zūn zhòng yé yé de jīng yàn ， hái néng pàn duàn xīn gōng jù shì fǒu yǒu zhù yú nóng chǎng de kě chí xù fā zhǎn 。",
+      "tr": "İki yöntemi birlikte karşılaştırmak hem dedemin deneyimine saygı duymamızı hem de yeni aracın çiftliğin sürdürülebilir gelişimine katkısını değerlendirmemizi sağlar."
     }
   ]
 }

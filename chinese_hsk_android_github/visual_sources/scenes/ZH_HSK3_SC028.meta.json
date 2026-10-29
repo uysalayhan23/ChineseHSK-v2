@@ -5,15 +5,15 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC028.json",
-  "dialogueSha256": "775babbc447db81f122bea333b161dacaf25fe912f949117a66b31d5e258a266",
+  "dialogueSha256": "f8aa5a16d9fcc0e7a3f21951f96351edcdd775f84781dbdb2e5ac411b5a6cd56",
   "titleTr": "Zhang’ın İş Gezisi",
   "locationId": "LOC_ZH_TRAVEL_STATION_001",
   "scenePurposeTr": "Zhang birkaç günlük iş seyahatine çıkar; Liu Mei onu uğurlar, görevli ve iş arkadaşı yolculuk düzenini konuşur.",
   "dialogueSpeakers": [
     "张伟",
-    "工作人员",
+    "同事",
     "刘梅",
-    "同事"
+    "工作人员"
   ],
   "requiredVisualCharacters": [
     "张伟",

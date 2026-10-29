@@ -291,16 +291,16 @@
     {
       "id": "DLG_ZH_HSK1_SC036_041",
       "speaker": "张乐乐",
-      "zh": "我先推给你，然后你推给张乐乐。",
-      "pinyin": "Wǒxiān tuīgěi nǐ, ránhòu nǐ tuī gěi zhāng lèlè.",
-      "tr": "Önce sana göndereyim, sonra sen Zhang Lele’ye gönder."
+      "zh": "我们按顺序推球：我先推给你，你再推给姐姐。",
+      "pinyin": "Wǒmen àn shùnxù tuī qiú: wǒ xiān tuī gěi nǐ, nǐ zài tuī gěi jiějie.",
+      "tr": "Sırayla topu yuvarlayalım: önce sana atayım, sen de ablama at."
     },
     {
       "id": "DLG_ZH_HSK1_SC036_042",
       "speaker": "小朋友",
-      "zh": "明白了，最后我再把球推回给你。",
-      "pinyin": "Míngbái le, zuìhòu wǒ zài bǎ qiú tuīhuí gěi nǐ.",
-      "tr": "Anladım, en son sana geri yollarım."
+      "zh": "好，雨桐姐姐再把球推给阿姨，阿姨最后推给乐乐。",
+      "pinyin": "Hǎo, Yǔtóng jiějie zài bǎ qiú tuī gěi āyí, āyí zuìhòu tuī gěi Lè lè.",
+      "tr": "Peki, abla Yutong topu teyzeye, teyze de en son Lele’ye yuvarlasın."
     },
     {
       "id": "DLG_ZH_HSK1_SC036_043",
@@ -319,9 +319,9 @@
     {
       "id": "DLG_ZH_HSK1_SC036_045",
       "speaker": "张乐乐",
-      "zh": "球过来了，我接住了，现在轮到张乐乐。",
-      "pinyin": "Qiú guòlái le, wǒ jiēzhù le, xiànzài lúndào zhāng lèlè.",
-      "tr": "Top geliyor, yakaladım; şimdi sıra Zhang Lele’de."
+      "zh": "球又回到我这里了，我接住了！",
+      "pinyin": "Qiú yòu huídào wǒ zhèlǐ le, wǒ jiēzhù le!",
+      "tr": "Top yine bana geldi, yakaladım!"
     },
     {
       "id": "DLG_ZH_HSK1_SC036_046",
@@ -487,9 +487,9 @@
     {
       "id": "DLG_ZH_HSK1_SC036_069",
       "speaker": "张乐乐",
-      "zh": "下一次我来推，张乐乐你准备好接球。",
-      "pinyin": "Xià yīcì wǒlái tuī, zhāng lèlè nǐ zhǔnbèi hǎo jiēqiú.",
-      "tr": "Bir sonraki sefer ben yuvarlayacağım, Zhang Lele yakalamaya hazır ol."
+      "zh": "下一次我来推，你准备好接球。",
+      "pinyin": "Xià yīcì wǒ lái tuī, nǐ zhǔnbèi hǎo jiē qiú.",
+      "tr": "Bir dahaki tur ben yuvarlayayım, sen yakalamaya hazır ol."
     },
     {
       "id": "DLG_ZH_HSK1_SC036_070",

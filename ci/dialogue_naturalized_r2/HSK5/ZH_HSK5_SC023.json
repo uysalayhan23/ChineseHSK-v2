@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC023",
   "level": "HSK5",
   "sourceTitleZh": "奶奶悄悄救场",
@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC023_001",
       "speaker": "奶奶",
-      "zh": "刚才桌上忽然安静了，我还以为大家都在等我说话。",
-      "pinyin": "gāng cái zhuō shàng hū rán ān jìng le ， wǒ hái yǐ wéi dà jiā dōu zài děng wǒ shuō huà 。",
-      "tr": "Az önce masa birden sessizleşti; herkes benden söz bekliyor sandım."
+      "zh": "刚才桌上忽然安静，我想讲个笑话给大家解围，又怕没掌握好分寸。",
+      "pinyin": "gāng cái zhuō shàng hū rán ān jìng ， wǒ xiǎng jiǎng gè xiào huà gěi dà jiā jiě wéi ， yòu pà méi zhǎng wò hǎo fēn cùn 。",
+      "tr": "Az önce masada bir sessizlik oldu; herkesi rahatlatmak için şaka yapmak istedim ama ölçüyü kaçırmaktan çekindim."
     },
     {
       "id": "DLG_ZH_HSK5_SC023_002",
@@ -149,9 +149,9 @@
     {
       "id": "DLG_ZH_HSK5_SC023_021",
       "speaker": "奶奶",
-      "zh": "你说得对。今天我只是想让大家喘口气，不想让谁觉得被取笑。",
-      "pinyin": "nǐ shuō dé duì 。 jīn tiān wǒ zhǐ shì xiǎng ràng dà jiā chuǎn kǒu qì ， bù xiǎng ràng shuí jué de bèi qǔ xiào 。",
-      "tr": "Haklısın. Bugün herkese biraz nefes aldırmak istedim; kimsenin alay konusu olmasını değil."
+      "zh": "你说得对。每一代人对玩笑的感觉不一样，我也该留意大家的情绪，不想让谁觉得被取笑。",
+      "pinyin": "nǐ shuō dé duì 。 měi yí dài rén duì wán xiào de gǎn jué bù yí yàng ， wǒ yě gāi liú yì dà jiā de qíng xù ， bù xiǎng ràng shuí jué de bèi qǔ xiào 。",
+      "tr": "Haklısın. Her kuşağın şakalara yaklaşımı farklı; kimsenin alaya alındığını hissetmemesi için duygulara dikkat etmeliydim."
     },
     {
       "id": "DLG_ZH_HSK5_SC023_022",
@@ -219,9 +219,9 @@
     {
       "id": "DLG_ZH_HSK5_SC023_031",
       "speaker": "伴侣",
-      "zh": "当然可以。缓和气氛不等于不让人表达真实想法。",
-      "pinyin": "dāng rán kě yǐ 。 huǎn hé qì fēn bù děng yú bù ràng rén biǎo dá zhēn shí xiǎng fǎ 。",
-      "tr": "Elbette. Ortamı yumuşatmak, insanların gerçek düşüncelerini söylemesini engellemek değildir."
+      "zh": "当然可以。缓和气氛不是不让人表达；家人之间也要好好沟通。",
+      "pinyin": "dāng rán kě yǐ 。 huǎn hé qì fēn bú shì bù ràng rén biǎo dá ； jiā rén zhī jiān yě yào hǎo hǎo gōu tōng 。",
+      "tr": "Elbette. Ortamı yumuşatmak insanların kendini ifade etmesini engellemek değildir; aile içinde de açıkça konuşmalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC023_032",
@@ -639,9 +639,9 @@
     {
       "id": "DLG_ZH_HSK5_SC023_091",
       "speaker": "伴侣",
-      "zh": "我也喜欢那个时机。我们笑完以后，就更容易说出心里的话。",
-      "pinyin": "wǒ yě xǐ huān nà ge shí jī 。 wǒ men xiào wán yǐ hòu ， jiù gèng róng yì shuō chū xīn lǐ de huà 。",
-      "tr": "Zamanlaması hoşuma gitti. Güldükten sonra içimizdekileri söylemek kolaylaştı."
+      "zh": "从刚才大家的反应来看，换个轻松的话题确实让沟通容易了。",
+      "pinyin": "cóng gāng cái dà jiā de fǎn yìng lái kàn ， huàn gè qīng sōng de huà tí què shí ràng gōu tōng róng yì le 。",
+      "tr": "Az önceki tepkilere bakılırsa daha hafif bir konuya geçmek iletişimi gerçekten kolaylaştırdı."
     },
     {
       "id": "DLG_ZH_HSK5_SC023_092",

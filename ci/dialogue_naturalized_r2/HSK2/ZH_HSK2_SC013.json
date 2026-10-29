@@ -77,9 +77,9 @@
     {
       "id": "DLG_ZH_HSK2_SC013_011",
       "speaker": "同事",
-      "zh": "好了，屏幕上的消息不见了。",
-      "pinyin": "hǎo le, píng mù shàng de xiāo xī bú jiàn le.",
-      "tr": "Tamam, ekrandaki mesaj kayboldu."
+      "zh": "纸盒里的纸放好了，屏幕上的提示也消失了。",
+      "pinyin": "Zhǐ hé lǐ de zhǐ fàng hǎo le, píng mù shàng de tí shì yě xiāo shī le.",
+      "tr": "Kâğıt tepside düzgün duruyor, ekrandaki uyarı da kayboldu."
     },
     {
       "id": "DLG_ZH_HSK2_SC013_012",
@@ -161,16 +161,16 @@
     {
       "id": "DLG_ZH_HSK2_SC013_023",
       "speaker": "同事",
-      "zh": "我不知道怎么清除它们。",
-      "pinyin": "wǒ bù zhī dào zěn me qīng chú tā men.",
-      "tr": "Nasıl kaldıracağımı bilmiyorum."
+      "zh": "我不太会清除列表里的文件。",
+      "pinyin": "Wǒ bù tài huì qīng chú liè biǎo lǐ de wén jiàn.",
+      "tr": "Listedeki dosyaları nasıl sileceğimi pek bilmiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC013_024",
       "speaker": "新同事",
-      "zh": "先取消这些文件，再重新发一次。",
-      "pinyin": "xiān qǔ xiāo zhè xiē wén jiàn, zài chóng xīn fā yī cì.",
-      "tr": "Önce bunları iptal edip yeniden gönderelim."
+      "zh": "先取消这些文件，再重新发送一次。",
+      "pinyin": "Xiān qǔ xiāo zhè xiē wén jiàn, zài chóng xīn fā sòng yī cì.",
+      "tr": "Önce bu dosyaları iptal edip yeniden gönderelim."
     },
     {
       "id": "DLG_ZH_HSK2_SC013_025",
@@ -183,7 +183,7 @@
       "id": "DLG_ZH_HSK2_SC013_026",
       "speaker": "同事",
       "zh": "很好，把要打印的文件再选一次。",
-      "pinyin": "hěn hǎo, bǎ yào dǎ yìn de wén jiàn zài xuǎn yī cì.",
+      "pinyin": "Hěn hǎo, bǎ yào dǎ yìn de wén jiàn zài xuǎn yī cì.",
       "tr": "Güzel, yazdıracağın dosyayı yeniden seç."
     },
     {
@@ -336,9 +336,9 @@
     {
       "id": "DLG_ZH_HSK2_SC013_048",
       "speaker": "新同事",
-      "zh": "难怪你不知道这些步骤。",
-      "pinyin": "nán guài nǐ bù zhī dào zhè xiē bù zhòu.",
-      "tr": "Bu adımları bilmemene şaşmamalı."
+      "zh": "这台机器和我以前用的不一样，难怪不熟悉。",
+      "pinyin": "Zhè tái jī qì hé wǒ yǐ qián yòng de bù yí yàng, nán guài bù shú xī.",
+      "tr": "Bu makine öncekinden farklı; o yüzden alışmamışım."
     },
     {
       "id": "DLG_ZH_HSK2_SC013_049",
@@ -434,9 +434,9 @@
     {
       "id": "DLG_ZH_HSK2_SC013_062",
       "speaker": "同事",
-      "zh": "如果我修不好，会先告诉你具体情况。",
-      "pinyin": "rú guǒ wǒ xiū bù hǎo, huì xiān gào sù nǐ jù tǐ qíng kuàng.",
-      "tr": "Düzeltemezsem sana durumu ayrıntılı anlatırım."
+      "zh": "还有问题的话，我们再一起检查。",
+      "pinyin": "Hái yǒu wèn tí de huà, wǒ men zài yì qǐ jiǎn chá.",
+      "tr": "Yine sorun olursa birlikte tekrar kontrol ederiz."
     },
     {
       "id": "DLG_ZH_HSK2_SC013_063",
@@ -560,9 +560,9 @@
     {
       "id": "DLG_ZH_HSK2_SC013_080",
       "speaker": "同事",
-      "zh": "谢谢，今天我学会了检查和处理的步骤。",
-      "pinyin": "xiè xiè, jīn tiān wǒ xué huì le jiǎn chá hé chǔ lǐ de bù zhòu.",
-      "tr": "Teşekkürler, bugün kontrol ve çözüm adımlarını öğrendim."
+      "zh": "这些步骤我也学会了，以后可以帮别人。",
+      "pinyin": "Zhè xiē bù zhòu wǒ yě xué huì le, yǐ hòu kě yǐ bāng bié rén.",
+      "tr": "Bu adımları ben de öğrendim, bundan sonra başkalarına yardım edebilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC013_081",
@@ -693,9 +693,9 @@
     {
       "id": "DLG_ZH_HSK2_SC013_099",
       "speaker": "新同事",
-      "zh": "以后你也能独立处理。",
-      "pinyin": "yǐ hòu nǐ yě néng dú lì chǔ lǐ.",
-      "tr": "Bundan sonra kendin de çözebilirsin."
+      "zh": "我下次可以自己处理了。",
+      "pinyin": "Wǒ xià cì kě yǐ zì jǐ chǔ lǐ le.",
+      "tr": "Bir dahaki sefere kendim halledebilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC013_100",

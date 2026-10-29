@@ -14,9 +14,9 @@
     {
       "id": "DLG_ZH_HSK2_SC006_002",
       "speaker": "刘梅",
-      "zh": "我会晚一点回家，先打电话告诉你一声。",
-      "pinyin": "wǒ huì wǎn yì diǎn huí jiā, xiān dǎ diàn huà gào sù nǐ yī shēng.",
-      "tr": "Eve biraz geç döneceğim, önceden telefon edip haber vereyim dedim."
+      "zh": "好，回家前我会再打给你，孩子和我先吃饭。",
+      "pinyin": "Hǎo， huíjiā qián wǒhuì zài dǎ gěi nǐ， háizi hé wǒ xiān chīfàn。",
+      "tr": "Peki, eve dönmeden önce yine ararım; çocuklarla ben önce yemek yeriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_003",
@@ -35,9 +35,9 @@
     {
       "id": "DLG_ZH_HSK2_SC006_005",
       "speaker": "刘梅",
-      "zh": "我会晚一点儿回家，先跟你说一声。",
-      "pinyin": "wǒ huì wǎn yì diǎn ér huí jiā, xiān gēn nǐ shuō yī shēng.",
-      "tr": "Eve biraz geç döneceğim, önceden haber vereyim dedim."
+      "zh": "你先专心工作，我和孩子在家等你的消息。",
+      "pinyin": "Nǐ xiān zhuānxīn gōngzuò， wǒ hé háizi zàijiā děng nǐ de xiāoxī。",
+      "tr": "Sen işine odaklan; çocuklarla evde haberini bekleriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_006",
@@ -70,9 +70,9 @@
     {
       "id": "DLG_ZH_HSK2_SC006_010",
       "speaker": "张伟",
-      "zh": "同事说他可以帮我检查。",
-      "pinyin": "tóng shì shuō tā kě yǐ bāng wǒ jiǎn chá.",
-      "tr": "İş arkadaşım kontrol etmeme yardım edebileceğini söyledi."
+      "zh": "你能帮我检查一下吗？",
+      "pinyin": "Nǐ néng bāng wǒ jiǎn chá yī xià ma?",
+      "tr": "Kontrol etmeme yardım eder misin?"
     },
     {
       "id": "DLG_ZH_HSK2_SC006_011",
@@ -98,9 +98,9 @@
     {
       "id": "DLG_ZH_HSK2_SC006_014",
       "speaker": "刘梅",
-      "zh": "谢谢，今天是我第一次加班。",
-      "pinyin": "xiè xiè, jīn tiān shì wǒ dì yī cì jiā bān.",
-      "tr": "Teşekkürler, bugün ilk kez fazla mesai yapıyorum."
+      "zh": "第一次加班，记得起来活动一下，别太累。",
+      "pinyin": "Dìyīcì jiābān， jìde qǐlái huódòng yīxià， biétàilèi。",
+      "tr": "İlk fazla mesain; arada kalkıp hareket et, kendini çok yorma."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_015",
@@ -133,16 +133,16 @@
     {
       "id": "DLG_ZH_HSK2_SC006_019",
       "speaker": "张伟",
-      "zh": "你们现在还差多少？",
-      "pinyin": "nǐ men xiàn zài hái chà duō shǎo?",
-      "tr": "Şimdi ne kadar işiniz kaldı?"
+      "zh": "家里晚饭吃了吗？",
+      "pinyin": "Jiālǐ wǎnfàn chī le ma？",
+      "tr": "Evde akşam yemeği yediniz mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC006_020",
       "speaker": "刘梅",
-      "zh": "数据基本对了，还要再看一遍。",
-      "pinyin": "shù jù jī běn duì le, hái yào zài kàn yī biàn.",
-      "tr": "Veriler büyük ölçüde doğru, bir kez daha bakacağız."
+      "zh": "吃过了，孩子还想给你打电话。",
+      "pinyin": "Chī guò le， háizi hái xiǎng gěi nǐ dǎdiànhuà。",
+      "tr": "Yedik; çocuklar seni aramak istiyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_021",
@@ -161,9 +161,9 @@
     {
       "id": "DLG_ZH_HSK2_SC006_023",
       "speaker": "刘梅",
-      "zh": "我先休息几分钟，然后继续做。",
-      "pinyin": "wǒ xiān xiū xī jǐ fēn zhōng, rán hòu jì xù zuò.",
-      "tr": "Birkaç dakika dinlenip devam edeceğim."
+      "zh": "好，你也休息几分钟，别太累。",
+      "pinyin": "Hǎo， nǐ yě xiūxī jǐfēnzhōng， biétàilèi。",
+      "tr": "Peki, sen de birkaç dakika dinlen, fazla yorulma."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_024",
@@ -182,9 +182,9 @@
     {
       "id": "DLG_ZH_HSK2_SC006_026",
       "speaker": "刘梅",
-      "zh": "我也去洗洗脸，休息一下。",
-      "pinyin": "wǒ yě qù xǐ xǐ liǎn, xiū xī yī xià.",
-      "tr": "Ben de yüzümü yıkayıp biraz dinleneyim."
+      "zh": "我在家也休息一会儿，等你的消息。",
+      "pinyin": "Wǒ zàijiā yě xiūxī yīhuìer， děng nǐ de xiāoxī。",
+      "tr": "Ben de evde biraz dinlenip haberini beklerim."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_027",
@@ -224,9 +224,9 @@
     {
       "id": "DLG_ZH_HSK2_SC006_032",
       "speaker": "刘梅",
-      "zh": "我已经把表格放在文件后面了。",
-      "pinyin": "wǒ yǐ jīng bǎ biǎo gé fàng zài wén jiàn hòu miàn le.",
-      "tr": "Tabloyu dosyanın arkasına ekledim."
+      "zh": "不用太急，先把表格和文字检查好。",
+      "pinyin": "Bùyòng tàijí， xiān bǎ biǎogé hé wénzì jiǎnchá hǎo。",
+      "tr": "Acele etme, önce tabloyu ve metni dikkatlice kontrol et."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_033",
@@ -308,9 +308,9 @@
     {
       "id": "DLG_ZH_HSK2_SC006_044",
       "speaker": "刘梅",
-      "zh": "谢谢，我把最后两页分开检查。",
-      "pinyin": "xiè xiè, wǒ bǎ zuì hòu liǎng yè fēn kāi jiǎn chá.",
-      "tr": "Teşekkürler, son iki sayfayı ayrı ayrı kontrol ederim."
+      "zh": "你们分开检查吧，别漏了数字和文字。",
+      "pinyin": "Nǐmen fēnkāi jiǎnchá ba， biélòu le shùzì hé wénzì。",
+      "tr": "Ayrı ayrı kontrol edin, sayıları ve metni atlamayın."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_045",
@@ -329,9 +329,9 @@
     {
       "id": "DLG_ZH_HSK2_SC006_047",
       "speaker": "刘梅",
-      "zh": "表格里的总数和前面一样。",
-      "pinyin": "biǎo gé lǐ de zǒng shù hé qián miàn yī yàng.",
-      "tr": "Tablodaki toplam öncekiyle aynı."
+      "zh": "改完以后记得把文件再保存一次。",
+      "pinyin": "Gǎiwán yǐhòu jìde bǎ wénjiàn zài bǎocún yīcì。",
+      "tr": "Düzenleyince dosyayı yeniden kaydetmeyi unutma."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_048",
@@ -364,16 +364,16 @@
     {
       "id": "DLG_ZH_HSK2_SC006_052",
       "speaker": "张伟",
-      "zh": "做好以后你先发给经理吗？",
-      "pinyin": "zuò hǎo yǐ hòu nǐ xiān fā gěi jīng lǐ ma?",
-      "tr": "Bitince önce müdüre mi göndereceksin?"
+      "zh": "材料做好以后，我把它发给经理吗？",
+      "pinyin": "Cáiliào zuòhǎo yǐhòu， wǒ bǎ tā fāgěi jīnglǐ ma？",
+      "tr": "Belge hazır olunca müdüre göndereyim mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC006_053",
       "speaker": "刘梅",
-      "zh": "是的，我会先发邮件，再告诉你。",
-      "pinyin": "shì de, wǒ huì xiān fā yóu jiàn, zài gào sù nǐ.",
-      "tr": "Evet, önce e-posta gönderip sana haber vereceğim."
+      "zh": "对，发出去以后告诉我，孩子还在等你回家。",
+      "pinyin": "Duì， fāchū qù yǐhòu gàosù wǒ， háizi hái zài děng nǐ huíjiā。",
+      "tr": "Evet, gönderince bana haber ver; çocuklar eve gelmeni bekliyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_054",
@@ -406,16 +406,16 @@
     {
       "id": "DLG_ZH_HSK2_SC006_058",
       "speaker": "张伟",
-      "zh": "你还在办公室吗？",
-      "pinyin": "nǐ hái zài bàn gōng shì ma?",
-      "tr": "Hâlâ ofiste misin?"
+      "zh": "你和孩子准备睡了吗？",
+      "pinyin": "Nǐ hé háizi zhǔnbèi shuì le ma？",
+      "tr": "Sen ve çocuklar uyumaya hazır mısınız?"
     },
     {
       "id": "DLG_ZH_HSK2_SC006_059",
       "speaker": "刘梅",
-      "zh": "在，文件刚刚发出去了。",
-      "pinyin": "zài, wén jiàn gāng gāng fā chū qù le.",
-      "tr": "Evet, dosyayı şimdi gönderdim."
+      "zh": "孩子已经准备睡了，还在等你回家。",
+      "pinyin": "Háizi yǐjīng zhǔnbèi shuì le， hái zài děng nǐ huíjiā。",
+      "tr": "Çocuklar yatmaya hazır, eve gelmeni bekliyorlar."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_060",
@@ -490,16 +490,16 @@
     {
       "id": "DLG_ZH_HSK2_SC006_070",
       "speaker": "张伟",
-      "zh": "今天第一次加班，感觉怎么样？",
-      "pinyin": "jīn tiān dì yī cì jiā bān, gǎn jué zěn me yàng?",
-      "tr": "İlk fazla mesain nasıldı?"
+      "zh": "第一次加班，比我想的晚。",
+      "pinyin": "Dìyīcì jiābān， bǐ wǒ xiǎng de wǎn。",
+      "tr": "İlk fazla mesaim, düşündüğümden geç bitecek."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_071",
       "speaker": "刘梅",
-      "zh": "有点儿累，不过工作已经完成了。",
-      "pinyin": "yǒu diǎn ér lèi, bù guò gōng zuò yǐ jīng wán chéng le.",
-      "tr": "Biraz yoruldum ama işimi bitirdim."
+      "zh": "你辛苦了，不过工作总算完成了。",
+      "pinyin": "Nǐ xīn kǔ le, bù guò gōng zuò zǒng suàn wán chéng le.",
+      "tr": "Çok yoruldun ama neyse ki iş sonunda bitti."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_072",
@@ -553,23 +553,23 @@
     {
       "id": "DLG_ZH_HSK2_SC006_079",
       "speaker": "张伟",
-      "zh": "文件都发出去了吗？",
-      "pinyin": "wén jiàn dōu fā chū qù le ma?",
-      "tr": "Dosya gönderildi mi?"
+      "zh": "经理收到文件了吗？",
+      "pinyin": "Jīnglǐ shōudào wénjiàn le ma？",
+      "tr": "Müdür dosyayı aldı mı?"
     },
     {
       "id": "DLG_ZH_HSK2_SC006_080",
       "speaker": "刘梅",
-      "zh": "都发了，明早不用再改。",
-      "pinyin": "dōu fā le, míng zǎo bù yòng zài gǎi.",
-      "tr": "Evet, hepsi gönderildi, sabah tekrar düzeltmeye gerek yok."
+      "zh": "收到了，明早不用再改。",
+      "pinyin": "Shōudào le， míngzǎo bùyòng zài gǎi。",
+      "tr": "Aldı, yarın sabah yeniden düzenlemeye gerek yok."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_081",
       "speaker": "同事",
-      "zh": "那我也把桌面收拾一下。",
-      "pinyin": "nà wǒ yě bǎ zhuō miàn shōu shí yī xià.",
-      "tr": "O zaman ben de masamı toparlayayım。"
+      "zh": "我也准备下班了，桌面已经收拾好了。",
+      "pinyin": "Wǒ yě zhǔn bèi xià bān le, zhuō miàn yǐ jīng shōu shí hǎo le.",
+      "tr": "Ben de çıkmaya hazırlanıyorum, masamı topladım."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_082",
@@ -623,9 +623,9 @@
     {
       "id": "DLG_ZH_HSK2_SC006_089",
       "speaker": "刘梅",
-      "zh": "下次我们可以一起快一点儿做完。",
-      "pinyin": "xià cì wǒ men kě yǐ yì qǐ kuài yì diǎn ér zuò wán.",
-      "tr": "Bir dahaki sefere birlikte daha çabuk bitirebiliriz."
+      "zh": "下次我会提醒你早点儿安排工作。",
+      "pinyin": "Xià cì wǒ huì tí xǐng nǐ zǎo diǎn ér ān pái gōng zuò.",
+      "tr": "Bir dahaki sefere işleri daha erken planlamanı hatırlatırım."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_090",
@@ -651,9 +651,9 @@
     {
       "id": "DLG_ZH_HSK2_SC006_093",
       "speaker": "同事",
-      "zh": "我会把今天的工作安排得更清楚。",
-      "pinyin": "wǒ huì bǎ jīn tiān de gōng zuò ān pái dé gèng qīng chǔ.",
-      "tr": "Bugünkü işlerimi daha düzenli planlayacağım."
+      "zh": "以后我会把工作安排得更清楚。",
+      "pinyin": "Yǐ hòu wǒ huì bǎ gōng zuò ān pái dé gèng qīng chǔ.",
+      "tr": "Bundan sonra işleri daha düzenli planlayacağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_094",
@@ -665,16 +665,16 @@
     {
       "id": "DLG_ZH_HSK2_SC006_095",
       "speaker": "刘梅",
-      "zh": "我已经保存了，也发给经理了。",
-      "pinyin": "wǒ yǐ jīng bǎo cún le, yě fā gěi jīng lǐ le.",
-      "tr": "Kaydettim ve müdüre gönderdim."
+      "zh": "文件已经发给经理了，你放心吧。",
+      "pinyin": "Wén jiàn yǐ jīng fā gěi jīng lǐ le, nǐ fàng xīn ba.",
+      "tr": "Dosya müdüre gönderildi, merak etme."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_096",
       "speaker": "同事",
-      "zh": "那就放心了，早点儿回家吧。",
-      "pinyin": "nà jiù fàng xīn le, zǎo diǎn ér huí jiā ba.",
-      "tr": "İyi, içimiz rahatladı; eve erken gel."
+      "zh": "文件发出去了，明天开会再看看结果。",
+      "pinyin": "Wén jiàn fā chū qù le, míng tiān kāi huì zài kàn kàn jié guǒ.",
+      "tr": "Dosya gönderildi; sonucu yarın toplantıda görürüz."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_097",
@@ -686,9 +686,9 @@
     {
       "id": "DLG_ZH_HSK2_SC006_098",
       "speaker": "刘梅",
-      "zh": "今天第一次加班，终于顺利完成了。",
-      "pinyin": "jīn tiān dì yī cì jiā bān, zhōng yú shùn lì wán chéng le.",
-      "tr": "İlk fazla mesaimi bugün yaptım ve sonunda işi tamamladım."
+      "zh": "今天你第一次加班，终于顺利完成了。",
+      "pinyin": "Jīn tiān nǐ dì yī cì jiā bān, zhōng yú shùn lì wán chéng le.",
+      "tr": "Bugünkü ilk fazla mesain sonunda sorunsuz tamamlandı."
     },
     {
       "id": "DLG_ZH_HSK2_SC006_099",

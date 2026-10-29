@@ -90,7 +90,7 @@
       "speaker": "旁白",
       "zh": "他们经过桥边，河面映着两岸温暖的灯光。",
       "pinyin": "tā men jīng guò qiáo biān ， hé miàn yìng zhe liǎng àn wēn nuǎn de dēng guāng 。",
-      "tr": "Köprünün yanından geçerken nehir, iki yakadaki sıcak ışıkları yansıtıyordu。"
+      "tr": "Köprünün yanından geçerken nehir, iki yakadaki sıcak ışıkları yansıtıyordu."
     },
     {
       "id": "DLG_ZH_HSK5_SC049_013",
@@ -426,7 +426,7 @@
       "speaker": "旁白",
       "zh": "街道渐渐安静下来，他们的谈话也变得轻松了。",
       "pinyin": "jiē dào jiàn jiàn ān jìng xià lái ， tā men de tán huà yě biàn dé qīng sōng le 。",
-      "tr": "Sokak giderek sessizleşirken sohbetleri de daha rahat bir hâl aldı。"
+      "tr": "Sokak giderek sessizleşirken sohbetleri de daha rahat bir hâl aldı."
     },
     {
       "id": "DLG_ZH_HSK5_SC049_061",
@@ -678,14 +678,14 @@
       "speaker": "旁白",
       "zh": "夜色渐深，三个人带着轻松的心情各自回家。",
       "pinyin": "yè sè jiàn shēn ， sān gè rén dài zhe qīng sōng de xīn qíng gè zì huí jiā 。",
-      "tr": "Gece ilerledi; üçü de içi hafiflemiş bir hâlde evlerine döndü。"
+      "tr": "Gece ilerledi; üçü de içi hafiflemiş bir hâlde evlerine döndü."
     },
     {
       "id": "DLG_ZH_HSK5_SC049_097",
       "speaker": "张伟",
-      "zh": "不过，我理解你的顾虑，不过也想听听另一边的感受。",
-      "pinyin": "bù guò ， wǒ lǐ jiě nǐ de gù lǜ ， bù guò yě xiǎng tīng tīng lìng yī biān de gǎn shòu 。",
-      "tr": "Ancak, kaygını anlıyorum ama diğer tarafın duygularını da duymak istiyorum."
+      "zh": "我理解你的顾虑，也想听听另一边的感受。",
+      "pinyin": "wǒ lǐ jiě nǐ de gù lǜ ， yě xiǎng tīng tīng lìng yī biān de gǎn shòu 。",
+      "tr": "Kaygını anlıyorum; diğer tarafın nasıl hissettiğini de duymak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC049_098",
@@ -718,92 +718,89 @@
     "vocabularyTheme": "hayat muhasebesi ve yakın ilişki",
     "grammarTheme": "尽管…仍然…",
     "pronunciationTheme": "自然语速",
-    "targetActiveVocabularyCount": {
-      "min": 8,
-      "max": 12
-    },
+    "targetActiveVocabularyCount": 8,
     "defaultSpeechSpeed": 1.0,
     "defaultSubtitleMode": "ZH",
     "vocabularyCards": [
       {
         "id": "VOC_ZH_HSK5_SC049_001",
-        "zh": "人生回顾",
-        "pinyin": "rénshēng huígù",
-        "tr": "hayat muhasebesi",
-        "exampleZh": "人生回顾是我们不能忽略的一点。",
-        "examplePinyin": "Rénshēng huígù shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Hayat muhasebesi göz ardı edemeyeceğimiz bir nokta.",
+        "zh": "回顾",
+        "pinyin": "huí gù",
+        "tr": "geriye dönüp değerlendirmek",
+        "exampleZh": "好啊。最近你常说想回顾这些年的生活，今天愿意聊聊吗？",
+        "examplePinyin": "hǎo a 。 zuì jìn nǐ cháng shuō xiǎng huí gù zhè xiē nián de shēng huó ， jīn tiān yuàn yì liáo liáo ma ？",
+        "exampleTr": "Olur. Son zamanlarda yıllar içindeki yaşamını gözden geçirmek istediğini söylüyorsun; bugün konuşmak ister misin?",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC049_002",
         "zh": "陪伴",
-        "pinyin": "péibàn",
-        "tr": "eşlik / hayat arkadaşlığı",
-        "exampleZh": "我们把陪伴也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ péibàn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Eşlik / hayat arkadaşlığı konusunu da değerlendirme kapsamına alalım.",
+        "pinyin": "péi bàn",
+        "tr": "eşlik etmek",
+        "exampleZh": "那时候我只想着把事情做好，没意识到家人也需要我的陪伴。",
+        "examplePinyin": "nà shí hòu wǒ zhǐ xiǎng zhe bǎ shì qíng zuò hǎo ， méi yì shí dào jiā rén yě xū yào wǒ de péi bàn 。",
+        "exampleTr": "O zaman yalnızca işi iyi yapmaya odaklanmıştım; ailemin de bana ihtiyaç duyduğunu fark etmemiştim.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC049_003",
-        "zh": "往事",
-        "pinyin": "wǎngshì",
-        "tr": "geçmiş anılar",
-        "exampleZh": "如果往事发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ wǎngshì fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Geçmiş anılar değişirse planı da ayarlamak gerekir.",
+        "zh": "家人",
+        "pinyin": "jiā rén",
+        "tr": "aile",
+        "exampleZh": "回头看，我花了很多时间工作，却错过了一些陪家人的机会。",
+        "examplePinyin": "huí tóu kàn ， wǒ huā le hěn duō shí jiān gōng zuò ， què cuò guò le yī xiē péi jiā rén de jī huì 。",
+        "exampleTr": "Geriye bakınca işe çok zaman ayırdığımı ama ailemle geçirebileceğim bazı anları kaçırdığımı görüyorum.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC049_004",
-        "zh": "价值观",
-        "pinyin": "jiàzhíguān",
-        "tr": "değerler",
-        "exampleZh": "关于价值观，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jiàzhíguān, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Değerler konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "zh": "遗憾",
+        "pinyin": "yí hàn",
+        "tr": "pişmanlık",
+        "exampleZh": "我也想听听你这些年有什么遗憾，别只说我自己的。",
+        "examplePinyin": "wǒ yě xiǎng tīng tīng nǐ zhè xiē nián yǒu shén me yí hàn ， bié zhǐ shuō wǒ zì jǐ de 。",
+        "exampleTr": "Ben yalnızca kendi pişmanlıklarımı anlatmayayım; senin bu yıllarda neler hissettiğini de duymak istiyorum.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC049_005",
-        "zh": "家人",
-        "pinyin": "jiārén",
-        "tr": "aile",
-        "exampleZh": "家人是我们不能忽略的一点。",
-        "examplePinyin": "Jiārén shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Aile göz ardı edemeyeceğimiz bir nokta.",
+        "zh": "退休生活",
+        "pinyin": "tuì xiū shēng huó",
+        "tr": "emeklilik yaşamı",
+        "exampleZh": "今天聊完以后，我对退休生活有了更具体的想法。",
+        "examplePinyin": "jīn tiān liáo wán yǐ hòu ， wǒ duì tuì xiū shēng huó yǒu le gèng jù tǐ de xiǎng fǎ 。",
+        "exampleTr": "Bugünkü sohbetten sonra emeklilik yaşamına dair daha somut bir fikrim oldu.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC049_006",
-        "zh": "遗憾",
-        "pinyin": "yíhàn",
-        "tr": "pişmanlık / ukde",
-        "exampleZh": "我们把遗憾也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ yíhàn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Pişmanlık / ukde konusunu da değerlendirme kapsamına alalım.",
+        "zh": "安排",
+        "pinyin": "ān pái",
+        "tr": "düzenleme",
+        "exampleZh": "年轻时我总觉得，只要工作做好，其他事情自然会安排好。",
+        "examplePinyin": "nián qīng shí wǒ zǒng jué de ， zhǐ yào gōng zuò zuò hǎo ， qí tā shì qíng zì rán huì ān pái hǎo 。",
+        "exampleTr": "Gençken işimi iyi yaparsam diğer şeylerin kendiliğinden yoluna gireceğini sanırdım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC049_007",
-        "zh": "谢谢",
-        "pinyin": "xièxie",
-        "tr": "teşekkür",
-        "exampleZh": "如果谢谢发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ xièxie fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Teşekkür değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "zh": "感受",
+        "pinyin": "gǎn shòu",
+        "tr": "his",
+        "exampleZh": "以后我想多问问你的感受，不急着给建议。",
+        "examplePinyin": "yǐ hòu wǒ xiǎng duō wèn wèn nǐ de gǎn shòu ， bù jí zhe gěi jiàn yì 。",
+        "exampleTr": "Bundan sonra duygularını daha çok sormak, hemen öneri vermemek istiyorum.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC049_008",
-        "zh": "人生目标",
-        "pinyin": "rénshēng mùbiāo",
-        "tr": "yaşam amacı",
-        "exampleZh": "关于人生目标，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú rénshēng mùbiāo, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Yaşam amacı konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "zh": "适应",
+        "pinyin": "shì yìng",
+        "tr": "alışmak",
+        "exampleZh": "我会记住今天谈的事，也会允许自己慢慢适应。",
+        "examplePinyin": "wǒ huì jì zhù jīn tiān tán de shì ， yě huì yǔn xǔ zì jǐ màn màn shì yìng 。",
+        "exampleTr": "Bugün konuştuklarımızı aklımda tutup kendime yavaşça alışma fırsatı vereceğim.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

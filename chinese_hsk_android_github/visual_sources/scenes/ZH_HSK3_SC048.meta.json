@@ -5,15 +5,15 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC048.json",
-  "dialogueSha256": "141d92992c2140c45b69afcba8c329c031f60205404d1c73e0d1c7ffa6fe24f2",
+  "dialogueSha256": "16506a726efab7326558e6f9757cacb660e0f5a62f7ec86592204ff87ea849bc",
   "titleTr": "Kafenin İlk Yıldönümü",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Müşteriler ve dostlar kafenin birinci yılı için küçük bir sürpriz hazırlar.",
   "dialogueSpeakers": [
-    "刘梅",
     "张伟",
     "顾客",
-    "张雨桐"
+    "张雨桐",
+    "刘梅"
   ],
   "requiredVisualCharacters": [
     "刘梅",
@@ -71,5 +71,11 @@
   "binaryIntegrityChecked": true,
   "qaNoteTr": "2026-09-28: HSK3 final 10'lu paket; kullanıcı onayı sonrası sahne kadrosu, yaş olgunluğu, mekân ve continuity kontrolünden geçirilerek entegre edildi.",
   "dialogueQaStatus": "PASS",
-  "dialogueQaNoteTr": "100 tur, konuşmacı sırası ve hedef sözcükler doğrulandı; pinyin ve Türkçe eşleşmesi kontrol edildi; görsel ağız çapaları sahne görüntüsünde kontrol edildi."
+  "dialogueQaNoteTr": "100 tur, konuşmacı sırası ve hedef sözcükler doğrulandı; pinyin ve Türkçe eşleşmesi kontrol edildi; görsel ağız çapaları sahne görüntüsünde kontrol edildi.",
+  "dialogueTextQA": {
+    "status": "PENDING_LOCAL_REVIEW",
+    "turns": 100,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
+  }
 }

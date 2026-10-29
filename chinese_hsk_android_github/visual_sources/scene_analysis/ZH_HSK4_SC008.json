@@ -4,10 +4,10 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC008",
   "status": "FINAL_IMAGE_INTEGRATED",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC008.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC008.json",
   "titleTr": "Üç Kuşak Akşam Yemeği",
   "locationId": "LOC_ZH_NEW_HOME_001",
-  "scenePurposeTr": "Üç kuşak ev düzeni ve alışkanlıklar hakkında küçük bir fikir ayrılığı yaşar.",
+  "scenePurposeTr": "Üç kuşaktan aile üyeleri pazar akşamı yemeğinin saatini, menüsünü ve görev paylaşımını konuşur.",
   "dialogueSpeakers": [
     "张伟",
     "刘梅",

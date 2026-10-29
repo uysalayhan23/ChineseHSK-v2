@@ -270,16 +270,16 @@
     {
       "id": "DLG_ZH_HSK2_SC011_038",
       "speaker": "老师",
-      "zh": "我可以给爸爸也讲一讲。",
-      "pinyin": "wǒ kě yǐ gěi bà bà yě jiǎng yī jiǎng.",
-      "tr": "Babamla da paylaşabilirim."
+      "zh": "回家以后也可以给爸爸讲一讲。",
+      "pinyin": "Huí jiā yǐ hòu yě kě yǐ gěi bà bà jiǎng yī jiǎng.",
+      "tr": "Eve gidince babana da anlatabilirsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_039",
       "speaker": "张乐乐",
       "zh": "这样既能练习阅读，也能练习表达。",
-      "pinyin": "zhè yàng jì néng liàn xí yuè dú, yě néng liàn xí biǎo dá.",
-      "tr": "Böylece hem okumayı hem anlatmayı çalışır."
+      "pinyin": "Zhè yàng jì néng liàn xí yuè dú, yě néng liàn xí biǎo dá.",
+      "tr": "Böylece hem okumayı hem kendini anlatmayı çalışırım."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_040",
@@ -312,9 +312,9 @@
     {
       "id": "DLG_ZH_HSK2_SC011_044",
       "speaker": "老师",
-      "zh": "我会再试一次，不懂再问。",
-      "pinyin": "wǒ huì zài shì yī cì, bù dǒng zài wèn.",
-      "tr": "Bir kez daha dener, anlamazsam sorarım."
+      "zh": "遇到不会的题，先试一次，不懂再问。",
+      "pinyin": "Yù dào bú huì de tí, xiān shì yī cì, bù dǒng zài wèn.",
+      "tr": "Yapamadığın sorularda önce bir kez dene, anlamazsan sor."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_045",
@@ -438,16 +438,16 @@
     {
       "id": "DLG_ZH_HSK2_SC011_062",
       "speaker": "老师",
-      "zh": "我最喜欢自然课，能学动物和植物。",
-      "pinyin": "wǒ zuì xǐ huān zì rán kè, néng xué dòng wù hé zhí wù.",
-      "tr": "Hayvanları ve bitkileri öğrendiğimiz fen dersini seviyorum."
+      "zh": "他最喜欢自然课，能学动物和植物。",
+      "pinyin": "Tā zuì xǐ huān zì rán kè, néng xué dòng wù hé zhí wù.",
+      "tr": "En çok fen dersini seviyor; hayvanlarla bitkileri öğreniyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_063",
       "speaker": "张乐乐",
-      "zh": "他会回家跟我们讲课上的内容。",
-      "pinyin": "tā huì huí jiā gēn wǒ men jiǎng kè shàng de nèi róng.",
-      "tr": "Derste öğrendiklerini eve gelip bize anlatıyor."
+      "zh": "我回家会跟你们讲课上的内容。",
+      "pinyin": "Wǒ huí jiā huì gēn nǐ men jiǎng kè shàng de nèi róng.",
+      "tr": "Eve gelince derste öğrendiklerimi size anlatırım."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_064",
@@ -459,9 +459,9 @@
     {
       "id": "DLG_ZH_HSK2_SC011_065",
       "speaker": "老师",
-      "zh": "我还想看看公园里的小动物。",
-      "pinyin": "wǒ hái xiǎng kàn kàn gōng yuán lǐ de xiǎo dòng wù.",
-      "tr": "Parktaki küçük hayvanlara da bakmak istiyorum."
+      "zh": "周末可以和家人去公园看看小动物。",
+      "pinyin": "Zhōu mò kě yǐ hé jiā rén qù gōng yuán kàn kàn xiǎo dòng wù.",
+      "tr": "Hafta sonu ailenle parka gidip küçük hayvanlara bakabilirsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_066",
@@ -522,9 +522,9 @@
     {
       "id": "DLG_ZH_HSK2_SC011_074",
       "speaker": "老师",
-      "zh": "我想自己记住，不想总是别人提醒。",
-      "pinyin": "wǒ xiǎng zì jǐ jì zhù, bù xiǎng zǒng shì bié rén tí xǐng.",
-      "tr": "Başkaları sürekli hatırlatmadan kendim aklımda tutmak istiyorum."
+      "zh": "这样能帮他慢慢记住，不用总是别人提醒。",
+      "pinyin": "Zhè yàng néng bāng tā màn màn jì zhù, bù yòng zǒng shì bié rén tí xǐng.",
+      "tr": "Böylece başkaları sürekli hatırlatmadan yavaş yavaş aklında tutabilir."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_075",
@@ -592,23 +592,23 @@
     {
       "id": "DLG_ZH_HSK2_SC011_084",
       "speaker": "张乐乐",
-      "zh": "不客气，希望他继续进步。",
-      "pinyin": "bù kè qì, xī wàng tā jì xù jìn bù.",
-      "tr": "Rica ederim, umarım ilerlemeye devam eder."
+      "zh": "谢谢老师，我会继续努力。",
+      "pinyin": "Xiè xiè lǎo shī, wǒ huì jì xù nǔ lì.",
+      "tr": "Teşekkürler öğretmenim, çalışmaya devam edeceğim."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_085",
       "speaker": "刘梅",
-      "zh": "我会努力，也会记得检查书包。",
-      "pinyin": "wǒ huì nǔ lì, yě huì jì de jiǎn chá shū bāo.",
-      "tr": "Çabalayacağım ve çantamı kontrol etmeyi hatırlayacağım."
+      "zh": "我们会提醒他自己检查书包。",
+      "pinyin": "Wǒ men huì tí xǐng tā zì jǐ jiǎn chá shū bāo.",
+      "tr": "Çantasını kendisinin kontrol etmesini hatırlatacağız."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_086",
       "speaker": "老师",
-      "zh": "回家以后我们一起读那本动物书。",
-      "pinyin": "huí jiā yǐ hòu wǒ men yì qǐ dú nà běn dòng wù shū.",
-      "tr": "Eve gidince hayvanlarla ilgili kitabı birlikte okuyalım."
+      "zh": "回家以后可以和家人一起读那本动物书。",
+      "pinyin": "Huí jiā yǐ hòu kě yǐ hé jiā rén yì qǐ dú nà běn dòng wù shū.",
+      "tr": "Eve gidince ailenle hayvanlarla ilgili kitabı okuyabilirsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_087",
@@ -627,23 +627,23 @@
     {
       "id": "DLG_ZH_HSK2_SC011_089",
       "speaker": "老师",
-      "zh": "我知道了，今天的家长会很有用。",
-      "pinyin": "wǒ zhī dào le, jīn tiān de jiā zhǎng huì hěn yǒu yòng.",
-      "tr": "Anladım, bugünkü veli toplantısı çok faydalı oldu."
+      "zh": "今天的家长会很有用，谢谢您来参加。",
+      "pinyin": "Jīn tiān de jiā zhǎng huì hěn yǒu yòng, xiè xiè nín lái cān jiā.",
+      "tr": "Bugünkü veli toplantısı çok yararlı oldu, katıldığınız için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_090",
       "speaker": "张乐乐",
-      "zh": "谢谢老师，我们会继续配合。",
-      "pinyin": "xiè xiè lǎo shī, wǒ men huì jì xù pèi hé.",
-      "tr": "Teşekkürler öğretmenim, iş birliğine devam edeceğiz."
+      "zh": "谢谢老师，我会按计划做。",
+      "pinyin": "Xiè xiè lǎo shī, wǒ huì àn jì huà zuò.",
+      "tr": "Teşekkürler öğretmenim, plana uyacağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_091",
       "speaker": "刘梅",
-      "zh": "我也会告诉你们我在学校学了什么。",
-      "pinyin": "wǒ yě huì gào sù nǐ men wǒ zài xué xiào xué le shén me.",
-      "tr": "Okulda ne öğrendiğimi size de anlatacağım."
+      "zh": "你回家也可以告诉爸爸今天的情况。",
+      "pinyin": "Nǐ huí jiā yě kě yǐ gào sù bà bà jīn tiān de qíng kuàng.",
+      "tr": "Eve gidince bugünkü görüşmeyi babana da anlatabilirsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_092",
@@ -669,9 +669,9 @@
     {
       "id": "DLG_ZH_HSK2_SC011_095",
       "speaker": "老师",
-      "zh": "今天我知道自己有进步，也知道还要练什么。",
-      "pinyin": "jīn tiān wǒ zhī dào zì jǐ yǒu jìn bù, yě zhī dào hái yào liàn shén me.",
-      "tr": "Bugün ilerlediğimi ve neleri çalışmam gerektiğini öğrendim."
+      "zh": "今天我们聊了他的进步，也找到了需要练习的地方。",
+      "pinyin": "Jīn tiān wǒ men liáo le tā de jìn bù, yě zhǎo dào le xū yào liàn xí de dì fāng.",
+      "tr": "Bugün ilerlemesini konuştuk ve çalışması gereken yerleri belirledik."
     },
     {
       "id": "DLG_ZH_HSK2_SC011_096",
@@ -706,7 +706,7 @@
       "speaker": "刘梅",
       "zh": "好，我们回家一起把计划定下来。",
       "pinyin": "hǎo, wǒ men huí jiā yì qǐ bǎ jì huà dìng xià lái.",
-      "tr": "Peki, eve gidince planı birlikte yapalım。"
+      "tr": "Peki, eve gidince planı birlikte yapalım."
     }
   ],
   "productionStatus": "complete",

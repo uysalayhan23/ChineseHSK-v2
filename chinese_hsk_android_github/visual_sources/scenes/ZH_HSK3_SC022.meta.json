@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC022.json",
-  "dialogueSha256": "702e25cb0e5a32493c1d6018ee552205651c1b671e0305e8258b189e6070bbf1",
+  "dialogueSha256": "f2a643356e838404f64d0fbf203358d568379171a68936e0a9c6d4254346d98f",
   "titleTr": "Kahve Makinesi Bozuluyor",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Yoğun saatte kahve makinesi durur ve ekip hızlı çözüm arar.",

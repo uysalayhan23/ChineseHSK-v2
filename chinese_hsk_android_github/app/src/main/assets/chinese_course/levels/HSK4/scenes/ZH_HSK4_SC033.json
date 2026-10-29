@@ -123,9 +123,9 @@
     {
       "id": "DLG_ZH_HSK4_SC033_017",
       "speaker": "张雨桐",
-      "zh": "你也可以准备一所录取机会更大的学校，作为备选。",
-      "pinyin": "nǐ yě kě yǐ zhǔn bèi yī suǒ lù qǔ jī huì gèng dà de xué xiào zuò wéi bèi xuǎn",
-      "tr": "Kabul şansı daha yüksek bir okulu da yedek seçenek olarak hazırlayabilirsin."
+      "zh": "我也会准备一所录取机会更大的学校作为备选。",
+      "pinyin": "wǒ yě huì zhǔn bèi yī suǒ lù qǔ jī huì gèng dà de xué xiào zuò wéi bèi xuǎn。",
+      "tr": "Kabul edilme olasılığımın daha yüksek olduğu bir okulu da yedek olarak hazırlayacağım."
     },
     {
       "id": "DLG_ZH_HSK4_SC033_018",
@@ -263,9 +263,9 @@
     {
       "id": "DLG_ZH_HSK4_SC033_037",
       "speaker": "张雨桐",
-      "zh": "第三所离家最近，回家方便，不过专业方向和你的兴趣有些差别。",
-      "pinyin": "dì sān suǒ lí jiā zuì jìn huí jiā fāng biàn bù guò zhuān yè fāng xiàng hé nǐ de xìng qù yǒu xiē chā bié",
-      "tr": "Üçüncü okul eve en yakın; eve gidip gelmek kolay ama bölüm alanı ilginden biraz farklı."
+      "zh": "第三所离家最近，回家方便，不过专业方向和我的兴趣有些差别。",
+      "pinyin": "dì sān suǒ lí jiā zuì jìn，huí jiā fāng biàn，bù guò zhuān yè fāng xiàng hé wǒ de xìng qù yǒu xiē chā bié。",
+      "tr": "Üçüncü üniversite eve en yakın olanı ve eve gidip gelmek kolay; ancak bölümü ilgi alanlarımdan biraz farklı."
     },
     {
       "id": "DLG_ZH_HSK4_SC033_038",
@@ -403,9 +403,9 @@
     {
       "id": "DLG_ZH_HSK4_SC033_057",
       "speaker": "张雨桐",
-      "zh": "周末去校园看看时，也可以顺便试一次从车站走过去。",
-      "pinyin": "zhōu mò qù xiào yuán kàn kàn shí yě kě yǐ shùn biàn shì yī cì cóng chē zhàn zǒu guò qù",
-      "tr": "Hafta sonu kampüsü görmeye gidince istasyondan oraya yürümeyi de deneyebilirsin."
+      "zh": "我会把早晚高峰的路线也查一下，地图上的时间不一定准确。",
+      "pinyin": "wǒ huì bǎ zǎo wǎn gāo fēng de lù xiàn yě chá yī xià，dì tú shàng de shí jiān bù yí dìng zhǔn què。",
+      "tr": "Sabah ve akşam yoğun saatlerdeki güzergâhı da kontrol edeceğim; haritadaki süre her zaman doğru olmayabilir."
     },
     {
       "id": "DLG_ZH_HSK4_SC033_058",
@@ -466,9 +466,9 @@
     {
       "id": "DLG_ZH_HSK4_SC033_066",
       "speaker": "刘梅",
-      "zh": "参观时，我会留意图书馆、工作室和学生做项目的地方。",
-      "pinyin": "cān guān shí wǒ huì liú yì tú shū guǎn gōng zuò shì hé xué shēng zuò xiàng mù dì dì fāng",
-      "tr": "Kampüsü gezerken kütüphaneye, stüdyolara ve öğrencilerin proje yaptığı yerlere dikkat edeceğim."
+      "zh": "我会帮你拍下宿舍和周边环境，回去后我们再一起比较。",
+      "pinyin": "wǒ huì bāng nǐ pāi xià sù shè hé zhōu biān huán jìng，huí qù hòu wǒ men zài yì qǐ bǐ jiào。",
+      "tr": "Yurtların ve çevrenin fotoğraflarını çekmene yardım ederim; dönünce birlikte karşılaştırırız."
     },
     {
       "id": "DLG_ZH_HSK4_SC033_067",
@@ -730,9 +730,9 @@
         "zh": "大学",
         "pinyin": "dàxué",
         "tr": "üniversite",
-        "exampleZh": "我们得先看看大学是否真的合适。",
-        "examplePinyin": "Wǒmen děi xiān kànkan dàxué shìfǒu zhēn de héshì.",
-        "exampleTr": "Önce üniversite gerçekten uygun mu bakmalıyız.",
+        "exampleZh": "另外两所大学也要求交作品吗？",
+        "examplePinyin": "lìng wài liǎng suǒ dà xué yě yāo qiú jiāo zuò pǐn ma",
+        "exampleTr": "Diğer iki üniversite de çalışma örneği istiyor mu?",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "录取",
         "pinyin": "lùqǔ",
         "tr": "kabul / yerleştirme",
-        "exampleZh": "我们把录取也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ lùqǔ yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Kabul / yerleştirme konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "再加上录取机会，申请时也要了解风险。",
+        "examplePinyin": "zài jiā shàng lù qǔ jī huì shēn qǐng shí yě yào liǎo jiě fēng xiǎn",
+        "exampleTr": "Kabul olasılığını da ekle; başvurudaki riski de bilmelisin.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "比较",
         "pinyin": "bǐjiào",
         "tr": "karşılaştırmak",
-        "exampleZh": "如果比较发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ bǐjiào fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Karşılaştırmak değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "那我再比较一下课程，不只看专业名称。",
+        "examplePinyin": "nà wǒ zài bǐ jiào yī xià kè chéng bù zhǐ kàn zhuān yè míng chēng",
+        "exampleTr": "O zaman yalnızca bölüm adına bakmayıp ders içeriklerini de karşılaştırayım.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "专业",
         "pinyin": "zhuānyè",
         "tr": "üniversite alanı / bölüm",
-        "exampleZh": "关于专业，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zhuānyè, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Üniversite alanı / bölüm konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "那我再比较一下课程，不只看专业名称。",
+        "examplePinyin": "nà wǒ zài bǐ jiào yī xià kè chéng bù zhǐ kàn zhuān yè míng chēng",
+        "exampleTr": "O zaman yalnızca bölüm adına bakmayıp ders içeriklerini de karşılaştırayım.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "成本",
         "pinyin": "chéngběn",
         "tr": "maliyet",
-        "exampleZh": "成本是我们不能忽略的一点。",
-        "examplePinyin": "Chéngběn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Maliyet göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我看到了。第二所离家远，交通成本也会高一些。",
+        "examplePinyin": "wǒ kàn dào le dì èr suǒ lí jiā yuǎn jiāo tōng chéng běn yě huì gāo yī xiē",
+        "exampleTr": "Gördüm. İkinci okul eve uzak olduğu için ulaşım masrafı da daha yüksek olacak.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "距离",
         "pinyin": "jùlí",
         "tr": "mesafe",
-        "exampleZh": "我们把距离也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jùlí yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Mesafe konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "第一所可以当备选，录取机会和距离都比较合适。",
+        "examplePinyin": "dì yī suǒ kě yǐ dāng bèi xuǎn lù qǔ jī huì hé jù lí dōu bǐ jiào hé shì",
+        "exampleTr": "İlk okulu yedek seçenek olarak tutabiliriz; kabul olasılığı ve uzaklığı uygun.",
         "kind": "active"
       },
       {

@@ -81,9 +81,9 @@
     {
       "id": "DLG_ZH_HSK6_SC022_011",
       "speaker": "李晨",
-      "zh": "我会问伴侣，不会先替他们决定宝宝要用什么。",
-      "pinyin": "wǒ huì wèn bàn lǚ ， bú huì xiān tì tā men jué dìng bǎo bǎo yào yòng shén me 。",
-      "tr": "Partnerime danışırım; bebek için ne kullanılacağına onlar adına karar vermem."
+      "zh": "我会先问雨桐和她的伴侣，不替他们决定宝宝要用什么。",
+      "pinyin": "wǒ huì xiān wèn yǔ tóng hé tā de bàn lǚ ， bù tì tā men jué dìng bǎo bǎo yào yòng shén me 。",
+      "tr": "Önce Yutong’a ve eşine sorarım; bebeğin ne kullanacağına onlar adına karar vermem."
     },
     {
       "id": "DLG_ZH_HSK6_SC022_012",
@@ -144,9 +144,9 @@
     {
       "id": "DLG_ZH_HSK6_SC022_020",
       "speaker": "奶奶",
-      "zh": "我想做一个能让他们放心求助的爷爷，而不是增加压力的人。",
-      "pinyin": "wǒ xiǎng zuò yí gè néng ràng tā men fàng xīn qiú zhù de yé yé ， ér bú shì zēng jiā yā lì de rén 。",
-      "tr": "Baskı yaratmak yerine ihtiyaç duyduklarında güvenle yardım isteyebilecekleri bir dede olmak istiyorum."
+      "zh": "我想做一个能让他们放心求助的奶奶，而不是增加压力的人。",
+      "pinyin": "wǒ xiǎng zuò yí gè néng ràng tā men fàng xīn qiú zhù de nǎi nǎi ， ér bú shì zēng jiā yā lì de rén 。",
+      "tr": "Onların rahatça yardım isteyebileceği, üzerlerinde baskı yaratmayan bir büyükanne olmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK6_SC022_021",
@@ -718,92 +718,89 @@
     "vocabularyTheme": "yaşlanma, beklenti ve yeni rol",
     "grammarTheme": "抽象因果论证",
     "pronunciationTheme": "演讲韵律",
-    "targetActiveVocabularyCount": {
-      "min": 8,
-      "max": 15
-    },
+    "targetActiveVocabularyCount": 8,
     "defaultSpeechSpeed": 1.0,
     "defaultSubtitleMode": "ZH",
     "vocabularyCards": [
       {
         "id": "VOC_ZH_HSK6_SC022_001",
-        "zh": "爷爷角色",
-        "pinyin": "yéye juésè",
-        "tr": "büyükbaba rolü",
-        "exampleZh": "爷爷角色之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Yéye juésè zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Büyükbaba rolü önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "育儿书",
+        "pinyin": "yù ér shū",
+        "tr": "parenting book",
+        "exampleZh": "我看了这本育儿书，才发现自己对做爷爷这件事还没想清楚。",
+        "examplePinyin": "wǒ kàn le zhè běn yù ér shū ， cái fā xiàn zì jǐ duì zuò yé yé zhè jiàn shì hái méi xiǎng qīng chǔ 。",
+        "exampleTr": "Bu ebeveynlik kitabını okuyunca dede olma konusunda ne kadar az düşündüğümü fark ettim.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC022_002",
-        "zh": "期待",
-        "pinyin": "qīdài",
-        "tr": "beklenti",
-        "exampleZh": "如果忽略期待，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè qīdài, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Beklenti göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "界限",
+        "pinyin": "jiè xiàn",
+        "tr": "boundary",
+        "exampleZh": "先问他们需要什么，再决定怎么帮忙，就不容易越过界限。",
+        "examplePinyin": "xiān wèn tā men xū yào shén me ， zài jué dìng zěn me bāng máng ， jiù bù róng yì yuè guò jiè xiàn 。",
+        "exampleTr": "Önce neye ihtiyaçları olduğunu sorarsan, nasıl yardım edeceğine sınırı aşmadan karar verirsin.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC022_003",
-        "zh": "焦虑",
-        "pinyin": "jiāolǜ",
-        "tr": "kaygı",
-        "exampleZh": "我想把焦虑放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ jiāolǜ fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Kaygı konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
+        "zh": "婴儿护理",
+        "pinyin": "yīng ér hù lǐ",
+        "tr": "infant care",
+        "exampleZh": "我已经开始看婴儿护理的书，但发现不同作者的说法并不完全一样。",
+        "examplePinyin": "wǒ yǐ jīng kāi shǐ kàn yīng ér hù lǐ de shū ， dàn fā xiàn bù tóng zuò zhě de shuō fǎ bìng bù wán quán yī yàng 。",
+        "exampleTr": "Bebek bakımıyla ilgili kitaplar okumaya başladım ama yazarların önerileri her zaman örtüşmüyor.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC022_004",
-        "zh": "代际责任",
-        "pinyin": "dàijì zérèn",
-        "tr": "kuşaklar arası sorumluluk",
-        "exampleZh": "谈到代际责任，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào dàijì zérèn, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Kuşaklar arası sorumluluk konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
+        "zh": "探望",
+        "pinyin": "tàn wàng",
+        "tr": "visit",
+        "exampleZh": "若他们需要安静或休息，我们就把探望改到更合适的时间。",
+        "examplePinyin": "ruò tā men xū yào ān jìng huò xiū xī ， wǒ men jiù bǎ tàn wàng gǎi dào gèng hé shì de shí jiān 。",
+        "exampleTr": "Dinlenmeye ihtiyaç duyarlarsa ziyareti daha uygun bir zamana erteleriz.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC022_005",
-        "zh": "语境",
-        "pinyin": "yǔjìng",
-        "tr": "bağlam",
-        "exampleZh": "语境之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Yǔjìng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Bağlam önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "经验",
+        "pinyin": "jīng yàn",
+        "tr": "experience",
+        "exampleZh": "现在可以先分享经验，同时让他们保留自己的选择。",
+        "examplePinyin": "xiàn zài kě yǐ xiān fēn xiǎng jīng yàn ， tóng shí ràng tā men bǎo liú zì jǐ de xuǎn zé 。",
+        "exampleTr": "Şimdi deneyimini paylaşırken kendi seçimlerini yapmaları için onlara alan bırakabilirsin.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC022_006",
-        "zh": "立场",
-        "pinyin": "lìchǎng",
-        "tr": "tutum / bakış açısı",
-        "exampleZh": "如果忽略立场，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè lìchǎng, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Tutum / bakış açısı göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "资料来源",
+        "pinyin": "zī liào lái yuán",
+        "tr": "source of information",
+        "exampleZh": "很正常。先看资料来源和出版时间，不确定的健康问题再问医生。",
+        "examplePinyin": "hěn zhèng cháng 。 xiān kàn zī liào lái yuán hé chū bǎn shí jiān ， bù què dìng de jiàn kāng wèn tí zài wèn yī shēng 。",
+        "exampleTr": "Bu olağan. Önce kaynağa ve yayımlanma tarihine bak; sağlıkla ilgili emin olmadığını doktora sor.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC022_007",
-        "zh": "权衡",
-        "pinyin": "quánhéng",
-        "tr": "dengeleyerek değerlendirmek",
-        "exampleZh": "我想把权衡放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ quánhéng fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Dengeleyerek değerlendirmek konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
-        "kind": "review"
+        "zh": "代际责任",
+        "pinyin": "dài jì zé rèn",
+        "tr": "intergenerational responsibility",
+        "exampleZh": "我现在明白，代际责任不是替下一代规划人生。",
+        "examplePinyin": "wǒ xiàn zài míng bái ， dài jì zé rèn bú shì tì xià yí dài guī huà rén shēng 。",
+        "exampleTr": "Artık kuşaklar arası sorumluluğun sonraki kuşağın hayatını planlamak olmadığını anlıyorum.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC022_008",
-        "zh": "长期影响",
-        "pinyin": "chángqī yǐngxiǎng",
-        "tr": "uzun vadeli etki",
-        "exampleZh": "谈到长期影响，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào chángqī yǐngxiǎng, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Uzun vadeli etki konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
-        "kind": "review"
+        "zh": "决定权",
+        "pinyin": "jué dìng quán",
+        "tr": "decision-making authority",
+        "exampleZh": "这样既不否认自己的经验，也不会抢走他们的决定权。",
+        "examplePinyin": "zhè yàng jì bù fǒu rèn zì jǐ de jīng yàn ， yě bú huì qiǎng zǒu tā men de jué dìng quán 。",
+        "exampleTr": "Böylece kendi deneyimimi yok saymam ama karar haklarını da ellerinden almam.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK3_SC031_001",
       "speaker": "张雨桐",
-      "zh": "最近考试越来越近，我有考试压力，总觉得复习得不够。",
-      "pinyin": "zuì jìn kǎo shì yuè lái yuè jìn ， wǒ yǒu kǎo shì yā lì ， zǒng jué de fù xí dé bù gòu 。",
-      "tr": "Sınav yaklaştıkça stresim artıyor; yeterince tekrar yapmadığımı düşünüyorum."
+      "zh": "因为考试越来越近，所以我有考试压力，觉得复习得不够。",
+      "pinyin": "Yīnwèi kǎoshì yuèláiyuèjìn, suǒyǐ wǒ yǒu kǎoshì yālì, juéde fùxí dé bùgòu.",
+      "tr": "Sınav yaklaştıkça baskı hissediyorum; bu yüzden yeterince tekrar yapmadığımı düşünüyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC031_002",
@@ -59,7 +59,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_008",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "这样安排以后，我就知道每天先做什么了。",
       "pinyin": "zhè yàng ān pái yǐ hòu ， wǒ jiù zhī dào měi tiān xiān zuò shén me le 。",
       "tr": "Böyle planlayınca her gün önce ne yapacağımı bilirim."
@@ -192,7 +192,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_027",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我把错题放在一边，明天再重新做一次。",
       "pinyin": "wǒ bǎ cuò tí fàng zài yī biān ， míng tiān zài chóng xīn zuò yī cì 。",
       "tr": "Yanlış soruları ayırıp yarın yeniden çözeyim."
@@ -248,17 +248,17 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_035",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "可以，我先告诉同学，复习结束以后再回消息。",
       "pinyin": "kě yǐ ， wǒ xiān gào sù tóng xué ， fù xí jié shù yǐ hòu zài huí xiāo xī 。",
       "tr": "Olur; arkadaşlarıma çalışmam bitince yanıt vereceğimi söylerim."
     },
     {
       "id": "DLG_ZH_HSK3_SC031_036",
-      "speaker": "张伟",
-      "zh": "我也会把桌子收拾好，只留书和今天要用的东西。",
-      "pinyin": "wǒ yě huì bǎ zhuō zi shōu shí hǎo ， zhǐ liú shū hé jīn tiān yào yòng de dōng xī 。",
-      "tr": "Masayı da toparlayıp yalnızca kitapları ve bugünkü malzemeleri bırakırım."
+      "speaker": "刘梅",
+      "zh": "我也帮你把桌子收拾好，只留书和今天要用的东西。",
+      "pinyin": "Wǒ yě bāng nǐ bǎ zhuōzi shōushí hǎo, zhǐ liúshū hé jīntiān yàoyòng de dōngxī.",
+      "tr": "Masayı toparlamana yardım edeyim; yalnızca kitapları ve bugün kullanacaklarını bırakalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC031_037",
@@ -276,7 +276,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_039",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我提醒自己按步骤做，不用一下子想完整场考试。",
       "pinyin": "wǒ tí xǐng zì jǐ àn bù zhòu zuò ， bù yòng yī xià zi xiǎng wán zhěng chǎng kǎo shì 。",
       "tr": "Kendime adım adım ilerlememi, tüm sınavı bir anda düşünmememi hatırlatırım."
@@ -304,7 +304,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_043",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我读了好几遍，没有合上书自己说一遍。",
       "pinyin": "wǒ dú le hǎo jǐ biàn ， méi yǒu hé shàng shū zì jǐ shuō yī biàn 。",
       "tr": "Birkaç kez okudum ama kitabı kapatıp kendim anlatmayı denemedim."
@@ -332,7 +332,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_047",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "如果答错了，我就把那一章再读一遍。",
       "pinyin": "rú guǒ dá cuò le ， wǒ jiù bǎ nà yī zhāng zài dú yī biàn 。",
       "tr": "Yanlış yanıtlarsam o bölümü yeniden okurum."
@@ -360,7 +360,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_051",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我把口语放在晚饭前，单词放在坐公交的时候看。",
       "pinyin": "wǒ bǎ kǒu yǔ fàng zài wǎn fàn qián ， dān cí fàng zài zuò gōng jiāo de shí hòu kàn 。",
       "tr": "Konuşma pratiğini akşam yemeğinden önce, kelimeleri otobüste yapayım."
@@ -388,7 +388,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_055",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "做了八道，最后两道需要我再看看例子。",
       "pinyin": "zuò le bā dào ， zuì hòu liǎng dào xū yào wǒ zài kàn kàn lì zi 。",
       "tr": "Sekiz soru çözdüm; son ikisi için örneğe yeniden bakmam gerekiyor."
@@ -416,7 +416,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_059",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "原来我跳过了条件，所以后面的答案不对。",
       "pinyin": "yuán lái wǒ tiào guò le tiáo jiàn ， suǒ yǐ hòu miàn de dá àn bú duì 。",
       "tr": "Meğer verilen koşulu atlamışım; bu yüzden sonraki yanıtım yanlışmış."
@@ -444,7 +444,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_063",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我现在没那么怕数学了，知道卡住时该怎么做。",
       "pinyin": "wǒ xiàn zài méi nà me pà shù xué le ， zhī dào kǎ zhù shí gāi zěn me zuò 。",
       "tr": "Artık matematikten o kadar korkmuyorum; takılınca ne yapacağımı biliyorum."
@@ -472,7 +472,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_067",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "数学复习了两章，历史也记住了大部分重点。",
       "pinyin": "shù xué fù xí le liǎng zhāng ， lì shǐ yě jì zhù le dà bù fèn zhòng diǎn 。",
       "tr": "İki matematik bölümü çalıştım, tarihin ana noktalarının çoğunu da öğrendim."
@@ -500,7 +500,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_071",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我会早点睡，早上起来再看一遍小卡片。",
       "pinyin": "wǒ huì zǎo diǎn shuì ， zǎo shàng qǐ lái zài kàn yī biàn xiǎo kǎ piàn 。",
       "tr": "Erken yatıp sabah kalkınca kartlara bir kez daha bakarım."
@@ -528,7 +528,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_075",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我可以先做有把握的题，难题留到后面。",
       "pinyin": "wǒ kě yǐ xiān zuò yǒu bǎ wò de tí ， nán tí liú dào hòu miàn 。",
       "tr": "Emin olduğum sorularla başlayıp zorları sona bırakabilirim."
@@ -556,7 +556,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_079",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我会在题号旁边画个小记号提醒自己。",
       "pinyin": "wǒ huì zài tí hào páng biān huà gè xiǎo jì hào tí xǐng zì jǐ 。",
       "tr": "Kendime hatırlatmak için soru numarasının yanına küçük bir işaret koyarım."
@@ -570,14 +570,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_081",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "这几天你每天都按计划学习了吗？",
       "pinyin": "zhè jǐ tiān nǐ měi tiān dōu àn jì huà xué xí le ma ？",
       "tr": "Bu günlerde her gün plana göre çalıştın mı?"
     },
     {
       "id": "DLG_ZH_HSK3_SC031_082",
-      "speaker": "老师",
+      "speaker": "张雨桐",
       "zh": "大部分做到了，有一天太累，就少复习了一项。",
       "pinyin": "dà bù fèn zuò dào le ， yǒu yī tiān tài lèi ， jiù shǎo fù xí le yī xiàng 。",
       "tr": "Çoğunu yaptım; bir gün çok yorulunca bir konuyu daha az çalıştım."
@@ -592,9 +592,9 @@
     {
       "id": "DLG_ZH_HSK3_SC031_084",
       "speaker": "张伟",
-      "zh": "我把那项挪到今天，不再熬夜赶进度。",
-      "pinyin": "wǒ bǎ nà xiàng nuó dào jīn tiān ， bù zài áo yè gǎn jìn dù 。",
-      "tr": "O konuyu bugüne aldım, yetiştirmek için gece geç saate kalmayacağım."
+      "zh": "我帮你把那一项挪到今天，不用熬夜赶进度。",
+      "pinyin": "Wǒ bāng nǐ bǎ nà yīxiàng nuódào jīntiān, bùyòng áoyè gǎn jìndù.",
+      "tr": "O konuyu bugüne alalım; yetiştirmek için gece geç saate kadar çalışmana gerek yok."
     },
     {
       "id": "DLG_ZH_HSK3_SC031_085",
@@ -612,7 +612,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_087",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "读完一节先合上书回忆，再用卡片检查。",
       "pinyin": "dú wán yī jié xiān hé shàng shū huí yì ， zài yòng kǎ piàn jiǎn chá 。",
       "tr": "Bir bölümü okuyup kitabı kapattım, hatırladıklarımı kartlarla kontrol ettim."
@@ -626,14 +626,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_089",
-      "speaker": "张雨桐",
+      "speaker": "老师",
       "zh": "考试结束以后，你想先做什么？",
       "pinyin": "kǎo shì jié shù yǐ hòu ， nǐ xiǎng xiān zuò shén me ？",
       "tr": "Sınav bitince önce ne yapmak istiyorsun?"
     },
     {
       "id": "DLG_ZH_HSK3_SC031_090",
-      "speaker": "老师",
+      "speaker": "张雨桐",
       "zh": "我想回家休息，也想和你们说说考试怎么样。",
       "pinyin": "wǒ xiǎng huí jiā xiū xī ， yě xiǎng hé nǐ men shuō shuō kǎo shì zěn me yàng 。",
       "tr": "Eve gidip dinlenmek ve sınavın nasıl geçtiğini size anlatmak istiyorum."
@@ -668,7 +668,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_095",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我知道了，有问题我会问老师，也会告诉家里。",
       "pinyin": "wǒ zhī dào le ， yǒu wèn tí wǒ huì wèn lǎo shī ， yě huì gào sù jiā lǐ 。",
       "tr": "Anladım; sorun olursa öğretmene sorar ve aileme söylerim."
@@ -696,7 +696,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC031_099",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "谢谢老师，也谢谢你们一直帮我。",
       "pinyin": "xiè xiè lǎo shī ， yě xiè xiè nǐ men yì zhí bāng wǒ 。",
       "tr": "Teşekkürler öğretmenim; bana sürekli yardım ettiğiniz için size de teşekkürler."
@@ -730,9 +730,9 @@
         "zh": "考试压力",
         "pinyin": "kǎoshì yālì",
         "tr": "sınav stresi",
-        "exampleZh": "我已经把考试压力记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ kǎoshì yālì jì xiàlái le.",
-        "exampleTr": "Sınav stresi notunu aldım.",
+        "exampleZh": "因为考试越来越近，所以我有考试压力，觉得复习得不够。",
+        "examplePinyin": "Yīnwèi kǎoshì yuèláiyuèjìn, suǒyǐ wǒ yǒu kǎoshì yālì, juéde fùxí dé bùgòu.",
+        "exampleTr": "Sınav yaklaştıkça baskı hissediyorum; bu yüzden yeterince tekrar yapmadığımı düşünüyorum.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "学习计划",
         "pinyin": "xuéxí jìhuà",
         "tr": "çalışma planı",
-        "exampleZh": "学习计划是这次要考虑的重点之一。",
-        "examplePinyin": "Xuéxí jìhuà shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-        "exampleTr": "Çalışma planı bu kez değerlendirmemiz gereken ana noktalardan biri.",
+        "exampleZh": "我帮你把每天的学习计划写在纸上。",
+        "examplePinyin": "wǒ bāng nǐ bǎ měi tiān de xué xí jì huà xiě zài zhǐ shàng 。",
+        "exampleTr": "Günlük çalışma planını kâğıda yazmana yardım edeyim.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "学习",
         "pinyin": "xuéxí",
         "tr": "ders çalışma",
-        "exampleZh": "我已经准备好学习了。",
-        "examplePinyin": "Wǒ yǐjīng zhǔnbèi hǎo xuéxí le.",
-        "exampleTr": "Ders çalışma için hazırım.",
+        "exampleZh": "我可以陪你看一下课程表，先留出每天的学习时间。",
+        "examplePinyin": "wǒ kě yǐ péi nǐ kàn yī xià kè chéng biǎo ， xiān liú chū měi tiān de xué xí shí jiān 。",
+        "exampleTr": "Ders çizelgene birlikte bakabiliriz; her gün için çalışma zamanı ayıralım.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "安排",
         "pinyin": "ānpái",
         "tr": "planlama / düzenleme",
-        "exampleZh": "如果安排没有问题，我们就继续。",
-        "examplePinyin": "Rúguǒ ānpái méiyǒu wèntí, wǒmen jiù jìxù.",
-        "exampleTr": "Planlama / düzenleme konusunda sorun yoksa devam ederiz.",
+        "exampleZh": "你最担心哪一门？我们先看看时间怎么安排。",
+        "examplePinyin": "nǐ zuì dān xīn nǎ yī mén ？ wǒ men xiān kàn kàn shí jiān zěn me ān pái 。",
+        "exampleTr": "En çok hangi dersten kaygılanıyorsun? Önce zamanı nasıl ayarlayacağımıza bakalım.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "帮忙",
         "pinyin": "bāngmáng",
         "tr": "yardım etmek",
-        "exampleZh": "关于帮忙，我们还要再讨论一下。",
-        "examplePinyin": "Guānyú bāngmáng, wǒmen hái yào zài tǎolùn yíxià.",
-        "exampleTr": "Yardım etmek konusunda biraz daha konuşmalıyız.",
+        "exampleZh": "需要帮忙时就开口，不要一个人承担所有压力。",
+        "examplePinyin": "xū yào bāng máng shí jiù kāi kǒu ， bú yào yí gè rén chéng dān suǒ yǒu yā lì 。",
+        "exampleTr": "Yardıma ihtiyaç duyduğunda söyle; tüm baskıyı tek başına taşıma.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "需要",
         "pinyin": "xūyào",
         "tr": "gerekmek",
-        "exampleZh": "我已经把需要记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ xūyào jì xiàlái le.",
-        "exampleTr": "Gerekmek notunu aldım.",
+        "exampleZh": "错题能告诉我们哪里还需要学习，不代表你不会。",
+        "examplePinyin": "cuò tí néng gào sù wǒ men nǎ lǐ hái xū yào xué xí ， bù dài biǎo nǐ bú huì 。",
+        "exampleTr": "Yanlışlar, nerede çalışman gerektiğini gösterir; yapamayacağın anlamına gelmez.",
         "kind": "active"
       },
       {

@@ -74,9 +74,9 @@
     {
       "id": "DLG_ZH_HSK2_SC014_010",
       "speaker": "张伟",
-      "zh": "您平时想要什么样子？",
-      "pinyin": "nín píng shí xiǎng yào shén me yàng zi?",
-      "tr": "Nasıl bir model tercih edersiniz?"
+      "zh": "您觉得我适合什么样子？",
+      "pinyin": "Nín jué de wǒ shì hé shén me yàng zi?",
+      "tr": "Sizce bana nasıl bir model yakışır?"
     },
     {
       "id": "DLG_ZH_HSK2_SC014_011",
@@ -95,16 +95,16 @@
     {
       "id": "DLG_ZH_HSK2_SC014_013",
       "speaker": "张伟",
-      "zh": "您有照片可以给我看吗？",
-      "pinyin": "nín yǒu zhào piān kě yǐ gěi wǒ kàn ma?",
-      "tr": "Gösterebileceğiniz bir fotoğraf var mı?"
+      "zh": "有类似的照片可以给我看看吗？",
+      "pinyin": "Yǒu lèi sì de zhào piān kě yǐ gěi wǒ kàn kàn ma?",
+      "tr": "Benzer bir fotoğraf gösterebilir misiniz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC014_014",
       "speaker": "理发师",
-      "zh": "手机里有一张以前剪过的照片。",
-      "pinyin": "shǒu jī lǐ yǒu yī zhāng yǐ qián jiǎn guò de zhào piān.",
-      "tr": "Telefonumda daha önce kestirdiğim bir fotoğraf var."
+      "zh": "我可以给您看一张以前剪过的类似发型。",
+      "pinyin": "Wǒ kě yǐ gěi nín kàn yī zhāng yǐ qián jiǎn guò de lèi sì fà xíng.",
+      "tr": "Daha önce yaptığım benzer bir kesimin fotoğrafını gösterebilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_015",
@@ -130,23 +130,23 @@
     {
       "id": "DLG_ZH_HSK2_SC014_018",
       "speaker": "刘梅",
-      "zh": "我先把两边修短，再给您看。",
-      "pinyin": "wǒ xiān bǎ liǎng biān xiū duǎn, zài gěi nín kàn.",
-      "tr": "Önce yanları kısaltıp size göstereyim."
+      "zh": "那先剪两边吧，剪一点儿就停下来给我们看看。",
+      "pinyin": "Nà xiān jiǎn liǎng biān ba, jiǎn yì diǎn ér jiù tíng xià lái gěi wǒ men kàn kàn.",
+      "tr": "O zaman önce yanları kesin; biraz kestikten sonra durup bize gösterin."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_019",
       "speaker": "张伟",
-      "zh": "剪的时候如果不舒服，请告诉我。",
-      "pinyin": "jiǎn de shí hòu rú guǒ bù shū fú, qǐng gào sù wǒ.",
-      "tr": "Keserken rahatsız olursanız söyleyin."
+      "zh": "剪一点儿就停一下，我想先看看长度。",
+      "pinyin": "Jiǎn yì diǎn ér jiù tíng yī xià, wǒ xiǎng xiān kàn kàn cháng dù.",
+      "tr": "Biraz kestikten sonra durun; önce uzunluğunu görmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_020",
       "speaker": "理发师",
-      "zh": "好的，我会告诉您。",
-      "pinyin": "hǎo de, wǒ huì gào sù nín.",
-      "tr": "Tamam, söylerim."
+      "zh": "好的，我剪一点儿就给您看。",
+      "pinyin": "Hǎo de, wǒ jiǎn yì diǎn ér jiù gěi nín kàn.",
+      "tr": "Peki, biraz kestikten sonra size göstereceğim."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_021",
@@ -158,9 +158,9 @@
     {
       "id": "DLG_ZH_HSK2_SC014_022",
       "speaker": "张伟",
-      "zh": "先把头发洗一下，再开始剪。",
-      "pinyin": "xiān bǎ tóu fà xǐ yī xià, zài kāi shǐ jiǎn.",
-      "tr": "Önce saçınızı yıkayıp sonra keselim."
+      "zh": "剪之前要先洗一下头吗？",
+      "pinyin": "Jiǎn zhī qián yào xiān xǐ yī xià tou ma?",
+      "tr": "Kesmeden önce saçımı yıkamak gerekiyor mu?"
     },
     {
       "id": "DLG_ZH_HSK2_SC014_023",
@@ -200,9 +200,9 @@
     {
       "id": "DLG_ZH_HSK2_SC014_028",
       "speaker": "张伟",
-      "zh": "我先剪两边，您看看镜子里的样子。",
-      "pinyin": "wǒ xiān jiǎn liǎng biān, nín kàn kàn jìng zi lǐ de yàng zi.",
-      "tr": "Önce yanları keseyim, aynadaki hâline bakın."
+      "zh": "那先从两边开始，剪完请给我看一下。",
+      "pinyin": "Nà xiān cóng liǎng biān kāi shǐ, jiǎn wán qǐng gěi wǒ kàn yī xià.",
+      "tr": "O zaman önce yanlardan başlayın; kesince lütfen bana gösterin."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_029",
@@ -263,9 +263,9 @@
     {
       "id": "DLG_ZH_HSK2_SC014_037",
       "speaker": "张伟",
-      "zh": "好，我慢慢修，您随时可以看。",
-      "pinyin": "hǎo, wǒ màn màn xiū, nín suí shí kě yǐ kàn.",
-      "tr": "Peki, yavaşça düzelteceğim, istediğiniz zaman bakabilirsiniz."
+      "zh": "好，慢慢来，剪一点儿就让我看看。",
+      "pinyin": "Hǎo, màn màn lái, jiǎn yì diǎn ér jiù ràng wǒ kàn kàn.",
+      "tr": "Peki, yavaşça ilerleyin; biraz kestikten sonra bana gösterin."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_038",
@@ -277,9 +277,9 @@
     {
       "id": "DLG_ZH_HSK2_SC014_039",
       "speaker": "刘梅",
-      "zh": "我们会先确认，再继续。",
-      "pinyin": "wǒ men huì xiān què rèn, zài jì xù.",
-      "tr": "Devam etmeden önce onay alacağız."
+      "zh": "剪一点儿就先确认一下长度。",
+      "pinyin": "Jiǎn yì diǎn ér jiù xiān què rèn yī xià cháng dù.",
+      "tr": "Biraz kestikten sonra önce uzunluğu birlikte kontrol edelim."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_040",
@@ -305,9 +305,9 @@
     {
       "id": "DLG_ZH_HSK2_SC014_043",
       "speaker": "张伟",
-      "zh": "我把前面剪齐一点儿，您看看。",
-      "pinyin": "wǒ bǎ qián miàn jiǎn qí yì diǎn ér, nín kàn kàn.",
-      "tr": "Ön tarafı biraz eşitleyeyim, bakın."
+      "zh": "前面稍微修齐一点儿，再给我看看。",
+      "pinyin": "Qián miàn shāo wēi xiū qí yì diǎn ér, zài gěi wǒ kàn kàn.",
+      "tr": "Ön tarafı biraz eşitleyip bana tekrar gösterin."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_044",
@@ -319,9 +319,9 @@
     {
       "id": "DLG_ZH_HSK2_SC014_045",
       "speaker": "刘梅",
-      "zh": "听起来你们都满意了。",
-      "pinyin": "tīng qǐ lái nǐ men dōu mǎn yì le.",
-      "tr": "İkiniz de memnun görünüyorsunuz."
+      "zh": "这长度看起来正合适。",
+      "pinyin": "Zhè cháng dù kàn qǐ lái zhèng hé shì.",
+      "tr": "Bu uzunluk tam uygun görünüyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_046",
@@ -347,9 +347,9 @@
     {
       "id": "DLG_ZH_HSK2_SC014_049",
       "speaker": "张伟",
-      "zh": "后面也按照两边的长度修吗？",
-      "pinyin": "hòu miàn yě àn zhào liǎng biān de cháng dù xiū ma?",
-      "tr": "Arka tarafı da yanlarla aynı uzunlukta mı keseyim?"
+      "zh": "后面也按两边的长度修一下，可以吗？",
+      "pinyin": "Hòu miàn yě àn liǎng biān de cháng dù xiū yī xià, kě yǐ ma?",
+      "tr": "Arkayı da yanlarla aynı uzunlukta düzeltebilir misiniz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC014_050",
@@ -389,9 +389,9 @@
     {
       "id": "DLG_ZH_HSK2_SC014_055",
       "speaker": "张伟",
-      "zh": "我再检查一下两边是不是一样长。",
-      "pinyin": "wǒ zài jiǎn chá yī xià liǎng biān shì bú shì yī yàng zhǎng.",
-      "tr": "İki taraf aynı uzunlukta mı tekrar kontrol edeyim."
+      "zh": "我从镜子里看看两边是不是一样长。",
+      "pinyin": "Wǒ cóng jìng zi lǐ kàn kàn liǎng biān shì bú shì yī yàng zhǎng.",
+      "tr": "Aynadan iki yanın aynı uzunlukta olup olmadığına bakayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_056",
@@ -403,16 +403,16 @@
     {
       "id": "DLG_ZH_HSK2_SC014_057",
       "speaker": "刘梅",
-      "zh": "您看得很仔细，我再修一点儿。",
-      "pinyin": "nín kàn dé hěn zǐ xì, wǒ zài xiū yì diǎn ér.",
-      "tr": "Çok dikkatli bakıyorsunuz, biraz daha düzelteyim."
+      "zh": "左边好像长一点儿，可以再修一点儿吗？",
+      "pinyin": "Zuǒ biān hǎo xiàng zhǎng yì diǎn ér, kě yǐ zài xiū yì diǎn ér ma?",
+      "tr": "Sol taraf biraz uzun gibi, biraz daha düzeltebilir misiniz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC014_058",
       "speaker": "张伟",
-      "zh": "现在两边一样了。",
-      "pinyin": "xiàn zài liǎng biān yī yàng le.",
-      "tr": "Şimdi iki taraf eşit oldu."
+      "zh": "现在两边看起来一样长了。",
+      "pinyin": "Xiàn zài liǎng biān kàn qǐ lái yī yàng zhǎng le.",
+      "tr": "Şimdi iki taraf aynı uzunlukta görünüyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_059",
@@ -431,9 +431,9 @@
     {
       "id": "DLG_ZH_HSK2_SC014_061",
       "speaker": "张伟",
-      "zh": "还要用吹风机吹干吗？",
-      "pinyin": "hái yào yòng chuī fēng jī chuī gàn má?",
-      "tr": "Saçınızı kurutma makinesiyle kurutayım mı?"
+      "zh": "吹风机可以用低一点儿的温度吗？",
+      "pinyin": "Chuī fēng jī kě yǐ yòng dī yì diǎn ér de wēn dù ma?",
+      "tr": "Saç kurutma makinesini daha düşük ısıda kullanabilir misiniz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC014_062",
@@ -452,16 +452,16 @@
     {
       "id": "DLG_ZH_HSK2_SC014_064",
       "speaker": "张伟",
-      "zh": "这是剪完以后的样子，您满意吗？",
-      "pinyin": "zhè shì jiǎn wán yǐ hòu de yàng zi, nín mǎn yì ma?",
-      "tr": "Kesimden sonraki hâli böyle, memnun musunuz?"
+      "zh": "剪完以后，您觉得这个长度怎么样？",
+      "pinyin": "Jiǎn wán yǐ hòu, nín jué de zhè ge cháng dù zěn me yàng?",
+      "tr": "Kesim bitti; sizce bu uzunluk nasıl?"
     },
     {
       "id": "DLG_ZH_HSK2_SC014_065",
       "speaker": "理发师",
-      "zh": "满意，比刚才清爽，也没有太短。",
-      "pinyin": "mǎn yì, bǐ gāng cái qīng shuǎng, yě méi yǒu tài duǎn.",
-      "tr": "Memnunum, daha düzenli oldu ve çok kısa değil."
+      "zh": "看起来不错，长度也很合适。",
+      "pinyin": "Kàn qǐ lái bù cuò, cháng dù yě hěn hé shì.",
+      "tr": "Güzel görünüyor, uzunluğu da uygun."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_066",
@@ -473,16 +473,16 @@
     {
       "id": "DLG_ZH_HSK2_SC014_067",
       "speaker": "张伟",
-      "zh": "谢谢两位，我很高兴你们满意。",
-      "pinyin": "xiè xiè liǎng wèi, wǒ hěn gāo xìng nǐ men mǎn yì.",
-      "tr": "Teşekkürler, memnun kalmanıza sevindim."
+      "zh": "谢谢，剪得很合适，我很满意。",
+      "pinyin": "Xiè xiè, jiǎn dé hěn hé shì, wǒ hěn mǎn yì.",
+      "tr": "Teşekkürler, tam istediğim gibi kestiniz; çok memnunum."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_068",
       "speaker": "理发师",
-      "zh": "下次来理发，我会把这张照片带来。",
-      "pinyin": "xià cì lái lǐ fà, wǒ huì bǎ zhè zhāng zhào piān dài lái.",
-      "tr": "Bir dahaki sefere saçımı kestirirken bu fotoğrafı getiririm."
+      "zh": "下次来理发，您可以把这张照片带来。",
+      "pinyin": "Xià cì lái lǐ fà, nín kě yǐ bǎ zhè zhāng zhào piān dài lái.",
+      "tr": "Bir dahaki sefere saçınızı kestirmeye gelirken bu fotoğrafı getirebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_069",
@@ -522,9 +522,9 @@
     {
       "id": "DLG_ZH_HSK2_SC014_074",
       "speaker": "理发师",
-      "zh": "我下次会先说清楚，不让你猜。",
-      "pinyin": "wǒ xià cì huì xiān shuō qīng chǔ, bù ràng nǐ cāi.",
-      "tr": "Bir dahaki sefere açıkça söylerim, tahmin etmeni beklemem."
+      "zh": "下次您先告诉我想剪多少，我也会先和您确认。",
+      "pinyin": "Xià cì nín xiān gào sù wǒ xiǎng jiǎn duō shǎo, wǒ yě huì xiān hé nín què rèn.",
+      "tr": "Bir dahaki sefere ne kadar kısaltmak istediğinizi söyleyin, ben de önce sizinle teyit ederim."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_075",
@@ -578,23 +578,23 @@
     {
       "id": "DLG_ZH_HSK2_SC014_082",
       "speaker": "张伟",
-      "zh": "不客气，欢迎下次再来理发。",
-      "pinyin": "bù kè qì, huān yíng xià cì zài lái lǐ fà.",
-      "tr": "Rica ederim, yine bekleriz."
+      "zh": "谢谢你，我把收据收好。",
+      "pinyin": "xièxie nǐ, wǒ bǎ shōujù shōu hǎo.",
+      "tr": "Teşekkürler, fişi ben saklayayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_083",
       "speaker": "理发师",
-      "zh": "下次我会把照片先给理发师看。",
-      "pinyin": "xià cì wǒ huì bǎ zhào piān xiān gěi lǐ fà shī kàn.",
-      "tr": "Bir dahaki sefere fotoğrafı berbere önceden gösteririm."
+      "zh": "下次您把照片带来，我就能剪得更准确。",
+      "pinyin": "Xià cì nín bǎ zhào piān dài lái, wǒ jiù néng jiǎn dé gèng zhǔn què.",
+      "tr": "Bir dahaki sefere fotoğrafı getirirseniz daha doğru kesebilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_084",
       "speaker": "刘梅",
-      "zh": "这样他就知道我想剪短多少。",
-      "pinyin": "zhè yàng tā jiù zhī dào wǒ xiǎng jiǎn duǎn duō shǎo.",
-      "tr": "Böylece ne kadar kısaltmak istediğimi bilir."
+      "zh": "这样理发师就知道你想剪短多少了。",
+      "pinyin": "zhèyàng lǐfàshī jiù zhīdào nǐ xiǎng jiǎn duǎn duōshǎo le.",
+      "tr": "Böylece berber ne kadar kısaltmak istediğini bilir."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_085",
@@ -606,9 +606,9 @@
     {
       "id": "DLG_ZH_HSK2_SC014_086",
       "speaker": "理发师",
-      "zh": "今天剪完以后，我觉得轻松多了。",
-      "pinyin": "jīn tiān jiǎn wán yǐ hòu, wǒ jué de qīng sōng duō le.",
-      "tr": "Bugünkü kesimden sonra kendimi daha rahat hissediyorum."
+      "zh": "剪得很合适，您现在看起来精神多了。",
+      "pinyin": "Jiǎn dé hěn hé shì, nín xiàn zài kàn qǐ lái jīng shén duō le.",
+      "tr": "Kesim çok yakıştı, şimdi daha dinç görünüyorsunuz."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_087",
@@ -627,9 +627,9 @@
     {
       "id": "DLG_ZH_HSK2_SC014_089",
       "speaker": "理发师",
-      "zh": "好，下次我也想把头发修短一点儿。",
-      "pinyin": "hǎo, xià cì wǒ yě xiǎng bǎ tóu fà xiū duǎn yì diǎn ér.",
-      "tr": "Peki, ben de bir dahaki sefere biraz kısaltmak istiyorum."
+      "zh": "下次想修剪时，欢迎再来。",
+      "pinyin": "Xià cì xiǎng xiū jiǎn shí, huān yíng zài lái.",
+      "tr": "Bir dahaki sefere düzeltmek isterseniz yine beklerim."
     },
     {
       "id": "DLG_ZH_HSK2_SC014_090",

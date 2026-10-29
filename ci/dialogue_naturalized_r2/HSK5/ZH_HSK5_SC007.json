@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC007",
   "level": "HSK5",
   "sourceTitleZh": "张伟负责最大的项目",
@@ -51,16 +51,16 @@
     {
       "id": "DLG_ZH_HSK5_SC007_007",
       "speaker": "同事",
-      "zh": "关于项目目标，你觉得先确认哪一部分？",
-      "pinyin": "Guān yú xiàng mù mù biāo nǐ jué de xiān què rèn nǎ yī bù fèn",
-      "tr": "Proje hedefiyle ilgili önce hangi kısmı netleştirelim sence?"
+      "zh": "我们先把客户最急着解决的使用问题定下来，可以吗？",
+      "pinyin": "wǒ men xiān bǎ kè hù zuì jí zhe jiě jué de shǐ yòng wèn tí dìng xià lái ， kě yǐ ma ？",
+      "tr": "Önce müşterinin çözülmesini en çok istediği kullanım sorununu netleştirelim, olur mu?"
     },
     {
       "id": "DLG_ZH_HSK5_SC007_008",
       "speaker": "客户",
-      "zh": "先把真正的问题说清楚，别急着找一个漂亮答案。",
-      "pinyin": "xiān bǎ zhēn zhèng de wèn tí shuō qīng chǔ ， bié jí zhe zhǎo yí gè piào liàng dá àn 。",
-      "tr": "Önce gerçek sorunu netleştirelim; kulağa güzel gelen bir cevap bulmak için acele etmeyelim."
+      "zh": "可以。用户现在最常遇到的是预约后改时间，希望操作别太复杂。",
+      "pinyin": "kě yǐ 。 yòng hù xiàn zài zuì cháng yù dào de shì yù yuē hòu gǎi shí jiān ， xī wàng cāo zuò bié tài fù zá 。",
+      "tr": "Olur. Kullanıcılar en çok randevu aldıktan sonra saati değiştirmekte zorlanıyor; işlemin karmaşık olmamasını istiyoruz."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_009",
@@ -86,9 +86,9 @@
     {
       "id": "DLG_ZH_HSK5_SC007_012",
       "speaker": "客户",
-      "zh": "其实，每个人看到的角度不一样，把这些角度放在一起会更完整。",
-      "pinyin": "qí shí ， měi gè rén kàn dào de jiǎo dù bù yí yàng ， bǎ zhè xiē jiǎo dù fàng zài yì qǐ huì gèng wán zhěng 。",
-      "tr": "Aslında, herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+      "zh": "特别是改约后，旧时段要马上释放，不然别人会以为还能预约。",
+      "pinyin": "tè bié shì gǎi yuē hòu ， jiù shí duàn yào mǎ shàng shì fàng ， bù rán bié rén huì yǐ wéi hái néng yù yuē 。",
+      "tr": "Özellikle randevu saati değişince eski saat hemen boşalmalı; yoksa başkaları hâlâ alınabilir sanır."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_013",
@@ -121,16 +121,16 @@
     {
       "id": "DLG_ZH_HSK5_SC007_017",
       "speaker": "张伟",
-      "zh": "关于责任感，我们还是结合实际情况来看。",
-      "pinyin": "guān yú zé rèn gǎn ， wǒ men hái shì jié hé shí jì qíng kuàng lái kàn 。",
-      "tr": "sorumluluk duygusu konusunda yine gerçek duruma bakmak gerekir."
+      "zh": "每个关键节点都要写清负责人和期限；负责人有责任感，才会主动跟进风险。",
+      "pinyin": "měi gè guān jiàn jié diǎn dōu yào xiě qīng fù zé rén hé qī xiàn ； fù zé rén yǒu zé rèn gǎn ， cái huì zhǔ dòng gēn jìn fēng xiǎn 。",
+      "tr": "Her önemli aşamanın sorumlusu ve süresi açıkça yazılmalı; sorumluluk sahibi kişi riskleri kendiliğinden takip eder."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_018",
       "speaker": "经理",
-      "zh": "有不同意见没关系，只要理由说得清楚就能继续谈。",
-      "pinyin": "yǒu bù tóng yì jiàn méi guān xì ， zhǐ yào lǐ yóu shuō dé qīng chǔ jiù néng jì xù tán 。",
-      "tr": "Farklı görüşlerin olması sorun değil; gerekçeler açık olduğu sürece konuşmaya devam edebiliriz."
+      "zh": "同意。负责人要能协调资源，也要及时告诉大家风险。",
+      "pinyin": "tóng yì 。 fù zé rén yào néng xié tiáo zī yuán ， yě yào jí shí gào sù dà jiā fēng xiǎn 。",
+      "tr": "Katılıyorum. Sorumlu kişi kaynakları eşgüdümlemeli ve riskleri ekibe zamanında bildirmeli."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_019",
@@ -163,16 +163,16 @@
     {
       "id": "DLG_ZH_HSK5_SC007_023",
       "speaker": "同事",
-      "zh": "我更关心这个选择实际会带来什么变化。",
-      "pinyin": "wǒ gèng guān xīn zhè ge xuǎn zé shí jì huì dài lái shén me biàn huà 。",
-      "tr": "Ben daha çok bu seçimin gerçekte neyi değiştireceğini önemsiyorum."
+      "zh": "我建议先做预约、改约和查询，提醒功能可以放到第二阶段。",
+      "pinyin": "wǒ jiàn yì xiān zuò yù yuē 、 gǎi yuē hé chá xún ， tí xǐng gōng néng kě yǐ fàng dào dì èr jiē duàn 。",
+      "tr": "Önce randevu alma, değiştirme ve sorgulamayı yapalım; bildirim özelliği ikinci aşamaya kalabilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_024",
       "speaker": "客户",
-      "zh": "先别把问题想得太抽象，回到具体情况会更容易判断。",
-      "pinyin": "xiān bié bǎ wèn tí xiǎng dé tài chōu xiàng ， huí dào jù tǐ qíng kuàng huì gèng róng yì pàn duàn 。",
-      "tr": "Sorunu fazla soyutlaştırmayalım; somut duruma dönmek değerlendirmeyi kolaylaştırır."
+      "zh": "先保证这三个流程稳定。上线后再加提醒，我们可以接受。",
+      "pinyin": "xiān bǎo zhèng zhè sān gè liú chéng wěn dìng 。 shàng xiàn hòu zài jiā tí xǐng ， wǒ men kě yǐ jiē shòu 。",
+      "tr": "Önce bu üç işlemin sorunsuz çalışmasını sağlayın. Bildirimleri sonradan eklemeniz bizim için uygun."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_025",
@@ -184,37 +184,37 @@
     {
       "id": "DLG_ZH_HSK5_SC007_026",
       "speaker": "经理",
-      "zh": "另外，这个想法可以继续讨论，不过最好再确认一下实际条件。",
-      "pinyin": "lìng wài ， zhè ge xiǎng fǎ kě yǐ jì xù tǎo lùn ， bù guò zuì hǎo zài què rèn yī xià shí jì tiáo jiàn 。",
-      "tr": "Ayrıca, bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+      "zh": "那我会把测试环境和客户试用时间也算进资源表。",
+      "pinyin": "nà wǒ huì bǎ cè shì huán jìng hé kè hù shì yòng shí jiān yě suàn jìn zī yuán biǎo 。",
+      "tr": "O zaman test ortamını ve müşterinin deneme süresini de kaynak planına eklerim."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_027",
       "speaker": "同事",
-      "zh": "我同意这个方向，但执行时还要留一点调整空间。",
-      "pinyin": "Wǒ tóng yì zhè ge fāng xiàng dàn zhí xíng shí hái yào liú yì diǎn tiáo zhěng kōng jiān",
-      "tr": "Bu yönü uygun buluyorum ama uygulamada değişiklik yapmaya da biraz alan bırakmalıyız."
+      "zh": "登录和预约可以并行开发，但改约要等预约数据结构确定。",
+      "pinyin": "dēng lù hé yù yuē kě yǐ bìng xíng kāi fā ， dàn gǎi yuē yào děng yù yuē shù jù jié gòu què dìng 。",
+      "tr": "Giriş ve randevu alma paralel geliştirilebilir; randevu değiştirme ise veri yapısı netleşince başlayabilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_028",
       "speaker": "客户",
-      "zh": "如果出现新情况，我们就根据新的事实调整。",
-      "pinyin": "rú guǒ chū xiàn xīn qíng kuàng ， wǒ men jiù gēn jù xīn de shì shí tiáo zhěng 。",
-      "tr": "Yeni bir durum çıkarsa yeni olgulara göre ayarlarız."
+      "zh": "如果试用中发现步骤太多，我们再根据用户反馈精简。",
+      "pinyin": "rú guǒ shì yòng zhōng fā xiàn bù zhòu tài duō ， wǒ men zài gēn jù yòng hù fǎn kuì jīng jiǎn 。",
+      "tr": "Deneme sırasında adımlar fazla gelirse kullanıcı geri bildirimine göre sadeleştiririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_029",
       "speaker": "张伟",
-      "zh": "换个角度看，不用追求一次把所有问题都解决，先把下一步走稳。",
-      "pinyin": "huàn gè jiǎo dù kàn ， bù yòng zhuī qiú yī cì bǎ suǒ yǒu wèn tí dōu jiě jué ， xiān bǎ xià yī bù zǒu wěn 。",
-      "tr": "Başka bir açıdan bakarsak, bütün sorunları tek seferde çözmeye çalışmayalım; önce sonraki adımı sağlam atalım."
+      "zh": "先把预约和改约走通，再检查两个流程会不会互相影响。",
+      "pinyin": "xiān bǎ yù yuē hé gǎi yuē zǒu tōng ， zài jiǎn chá liǎng gè liú chéng huì bú huì hù xiāng yǐng xiǎng 。",
+      "tr": "Önce randevu alma ve değiştirmeyi tamamlayalım, sonra bu iki işlemin birbirini etkileyip etkilemediğine bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_030",
       "speaker": "经理",
-      "zh": "我们至少已经知道彼此最在意什么了。",
-      "pinyin": "wǒ men zhì shǎo yǐ jīng zhī dào bǐ cǐ zuì zài yì shén me le 。",
-      "tr": "En azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+      "zh": "我来确认客户什么时候能提供测试账号，免得计划只写了我们这边的任务。",
+      "pinyin": "wǒ lái què rèn kè hù shén me shí hòu néng tí gōng cè shì zhàng hào ， miǎn de jì huà zhǐ xiě le wǒ men zhè biān de rèn wù 。",
+      "tr": "Müşterinin test hesaplarını ne zaman sağlayabileceğini ben netleştireyim; planda yalnızca bizim işlerimiz kalmasın."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_031",
@@ -226,9 +226,9 @@
     {
       "id": "DLG_ZH_HSK5_SC007_032",
       "speaker": "客户",
-      "zh": "这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "zhè ge jué dìng bú shì bù néng gǎi ， yǐ hòu yǒu xīn qíng kuàng kě yǐ chóng xīn píng gū 。",
-      "tr": "Bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "范围可以调整，但每次改动都要说明对时间和测试的影响。",
+      "pinyin": "fàn wéi kě yǐ tiáo zhěng ， dàn měi cì gǎi dòng dōu yào shuō míng duì shí jiān hé cè shì de yǐng xiǎng 。",
+      "tr": "Kapsam değişebilir ama her değişikliğin süreyi ve testleri nasıl etkileyeceğini açıklamalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_033",
@@ -240,23 +240,23 @@
     {
       "id": "DLG_ZH_HSK5_SC007_034",
       "speaker": "经理",
-      "zh": "先把事实和责任分开说清楚，再讨论下一步会公平一些。",
-      "pinyin": "xiān bǎ shì shí hé zé rèn fēn kāi shuō qīng chǔ ， zài tǎo lùn xià yī bù huì gōng píng yī xiē 。",
-      "tr": "Önce olguları ve sorumlulukları ayrı ayrı netleştirirsek sonraki adımı konuşmak daha adil olur."
+      "zh": "先把已经确认的需求和还在讨论的内容分开，大家才不会各自理解。",
+      "pinyin": "xiān bǎ yǐ jīng què rèn de xū qiú hé hái zài tǎo lùn de nèi róng fēn kāi ， dà jiā cái bú huì gè zì lǐ jiě 。",
+      "tr": "Kesinleşen gereksinimleri hâlâ görüşülenlerden ayıralım; herkes farklı anlamasın."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_035",
       "speaker": "同事",
-      "zh": "另外，这个决定会影响到谁，最好现在就弄清楚。",
-      "pinyin": "lìng wài ， zhè ge jué dìng huì yǐng xiǎng dào shuí ， zuì hǎo xiàn zài jiù nòng qīng chǔ 。",
-      "tr": "Ayrıca, bu kararın kimi etkileyeceğini şimdiden netleştirmek iyi olur."
+      "zh": "如果试用推迟，我们门店培训也要跟着改期，所以请尽早通知。",
+      "pinyin": "rú guǒ shì yòng tuī chí ， wǒ men mén diàn péi xùn yě yào gēn zhe gǎi qī ， suǒ yǐ qǐng jǐn zǎo tōng zhī 。",
+      "tr": "Deneme ertelenirse mağaza eğitimimizi de ertelememiz gerekir; lütfen erkenden haber verin."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_036",
       "speaker": "客户",
-      "zh": "先别急着找责任人，先看看问题到底出在哪个环节。",
-      "pinyin": "xiān bié jí zhe zhǎo zé rèn rén ， xiān kàn kàn wèn tí dào dǐ chū zài nǎ ge huán jié 。",
-      "tr": "Hemen sorumlu aramayalım; önce sorunun hangi aşamada çıktığını görelim."
+      "zh": "先看改约时旧时段能不能及时释放，再决定怎样安排测试。",
+      "pinyin": "xiān kàn gǎi yuē shí jiù shí duàn néng bù néng jí shí shì fàng ， zài jué dìng zěn yàng ān pái cè shì 。",
+      "tr": "Önce randevu değişince eski saatin hemen boşalıp boşalmadığına bakalım, sonra test planını belirleyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_037",
@@ -268,9 +268,9 @@
     {
       "id": "DLG_ZH_HSK5_SC007_038",
       "speaker": "经理",
-      "zh": "换个角度看，时间、资源和人的负担都要算进去，不然方案落不了地。",
-      "pinyin": "huàn gè jiǎo dù kàn ， shí jiān 、 zī yuán hé rén de fù dān dōu yào suàn jìn qù ， bù rán fāng àn luò bù liǎo dì 。",
-      "tr": "Başka bir açıdan bakarsak, zamanı, kaynakları ve insanların yükünü birlikte hesaba katmalıyız; yoksa plan uygulanamaz."
+      "zh": "后端和测试人员的时间也要留出来，不能只排界面开发。",
+      "pinyin": "hòu duān hé cè shì rén yuán de shí jiān yě yào liú chū lái ， bù néng zhǐ pái jiè miàn kāi fā 。",
+      "tr": "Arka uç ve test ekibine de zaman ayırmalıyız; yalnızca arayüz geliştirmeyi planlayamayız."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_039",
@@ -282,9 +282,9 @@
     {
       "id": "DLG_ZH_HSK5_SC007_040",
       "speaker": "客户",
-      "zh": "有不同意见没关系，关键是把依据说出来。",
-      "pinyin": "yǒu bù tóng yì jiàn méi guān xì ， guān jiàn shì bǎ yī jù shuō chū lái 。",
-      "tr": "Farklı görüşlerin olması sorun değil; önemli olan dayanağını açıklamak."
+      "zh": "验收时请给我们看实际操作记录，口头说能用还不够。",
+      "pinyin": "yàn shōu shí qǐng gěi wǒ men kàn shí jì cāo zuò jì lù ， kǒu tóu shuō néng yòng hái bù gòu 。",
+      "tr": "Kabul testinde gerçek işlem kayıtlarını görmek istiyoruz; sözlü olarak çalıştığını söylemeniz yetmez."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_041",
@@ -303,9 +303,9 @@
     {
       "id": "DLG_ZH_HSK5_SC007_043",
       "speaker": "同事",
-      "zh": "这个风险可以接受，但前提是我们知道怎么应对。",
-      "pinyin": "zhè ge fēng xiǎn kě yǐ jiē shòu ， dàn qián tí shì wǒ men zhī dào zěn me yìng duì 。",
-      "tr": "Bu risk kabul edilebilir; ama nasıl karşılık vereceğimizi bilmemiz şart."
+      "zh": "如果预约数据保存失败，我们要能恢复记录，并知道是谁受到了影响。",
+      "pinyin": "rú guǒ yù yuē shù jù bǎo cún shī bài ， wǒ men yào néng huī fù jì lù ， bìng zhī dào shì shuí shòu dào le yǐng xiǎng 。",
+      "tr": "Randevu verisi kaydedilmezse kayıtları geri yükleyebilmeli ve kimlerin etkilendiğini bilmeliyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_044",
@@ -317,23 +317,23 @@
     {
       "id": "DLG_ZH_HSK5_SC007_045",
       "speaker": "张伟",
-      "zh": "不过，我赞成先试，但要提前约好什么时候复盘。",
-      "pinyin": "bù guò ， wǒ zàn chéng xiān shì ， dàn yào tí qián yuē hǎo shén me shí hòu fù pán 。",
-      "tr": "Ancak, önce denemeye katılıyorum ama ne zaman değerlendirme yapacağımızı baştan belirleyelim."
+      "zh": "尽管需求还有两处待确认，我们仍然可以先完成登录和预约流程。",
+      "pinyin": "jǐn guǎn xū qiú hái yǒu liǎng chù dài què rèn ， wǒ men réng rán kě yǐ xiān wán chéng dēng lù hé yù yuē liú chéng 。",
+      "tr": "İki gereksinim henüz netleşmemiş olsa da giriş ve randevu işlemlerini tamamlayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_046",
       "speaker": "经理",
-      "zh": "其实，把分工说清楚以后，执行起来会顺很多。",
-      "pinyin": "qí shí ， bǎ fēn gōng shuō qīng chǔ yǐ hòu ， zhí xíng qǐ lái huì shùn hěn duō 。",
-      "tr": "Aslında, görev dağılımını netleştirince uygulama çok daha sorunsuz ilerler."
+      "zh": "我会把依赖关系画出来，测试准备晚了就不会影响已经能并行的工作。",
+      "pinyin": "wǒ huì bǎ yī lài guān xì huà chū lái ， cè shì zhǔn bèi wǎn le jiù bú huì yǐng xiǎng yǐ jīng néng bìng xíng de gōng zuò 。",
+      "tr": "Bağımlılıkları göstereceğim; test hazırlığı gecikirse paralel yürüyebilecek işler etkilenmez."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_047",
       "speaker": "同事",
-      "zh": "排进日程的事项要和现有资源对得上，团队才不会被压垮。",
-      "pinyin": "pái jìn rì chéng de shì xiàng yào hé xiàn yǒu zī yuán duì dé shàng ， tuán duì cái bú huì bèi yā kuǎ 。",
-      "tr": "Takvime alınan işler mevcut kaynaklarla uyumlu olmalı; yoksa ekip aşırı yük altında kalır."
+      "zh": "排期时也要给缺陷修复留几天，不能把所有时间都用在开发上。",
+      "pinyin": "pái qī shí yě yào gěi quē xiàn xiū fù liú jǐ tiān ， bù néng bǎ suǒ yǒu shí jiān dōu yòng zài kāi fā shàng 。",
+      "tr": "Takvimde hata düzeltmeleri için de birkaç gün bırakmalıyız; bütün süreyi geliştirmeye ayıramayız."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_048",
@@ -345,9 +345,9 @@
     {
       "id": "DLG_ZH_HSK5_SC007_049",
       "speaker": "张伟",
-      "zh": "我们先解决最紧急的，再处理可以等一等的部分。",
-      "pinyin": "wǒ men xiān jiě jué zuì jǐn jí de ， zài chǔ lǐ kě yǐ děng yī děng de bù fèn 。",
-      "tr": "Önce en acil kısmı çözelim; bekleyebilecek konuları sonra ele alırız."
+      "zh": "登录问题优先处理，因为客户试用前必须先能安全进入系统。",
+      "pinyin": "dēng lù wèn tí yōu xiān chǔ lǐ ， yīn wèi kè hù shì yòng qián bì xū xiān néng ān quán jìn rù xì tǒng 。",
+      "tr": "Önce giriş sorununu ele alalım; müşteri denemesinden önce sisteme güvenli biçimde girebilmeli."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_050",
@@ -359,16 +359,16 @@
     {
       "id": "DLG_ZH_HSK5_SC007_051",
       "speaker": "同事",
-      "zh": "每个人看到的角度不一样，把这些角度放在一起会更完整。",
-      "pinyin": "měi gè rén kàn dào de jiǎo dù bù yí yàng ， bǎ zhè xiē jiǎo dù fàng zài yì qǐ huì gèng wán zhěng 。",
-      "tr": "Herkes farklı bir açı görüyor; bu açıları bir araya getirince tablo daha tamamlanır."
+      "zh": "测试环境要先准备好，否则我们没法核实多人同时保存的情况。",
+      "pinyin": "cè shì huán jìng yào xiān zhǔn bèi hǎo ， fǒu zé wǒ men méi fǎ hé shí duō rén tóng shí bǎo cún de qíng kuàng 。",
+      "tr": "Test ortamı önce hazır olmalı; yoksa birden fazla kişinin aynı anda kayıt yapmasını sınayamayız."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_052",
       "speaker": "客户",
-      "zh": "先小范围试行可以，不过复盘日期和判断标准要一起定下来。",
-      "pinyin": "xiān xiǎo fàn wéi shì xíng kě yǐ ， bù guò fù pán rì qī hé pàn duàn biāo zhǔn yào yì qǐ dìng xià lái 。",
-      "tr": "Önce küçük ölçekte deneyebiliriz; değerlendirme tarihini ve ölçütlerini de belirleyelim."
+      "zh": "小范围试用可以，但要先约定哪些结果算通过，哪些问题必须暂停。",
+      "pinyin": "xiǎo fàn wéi shì yòng kě yǐ ， dàn yào xiān yuē dìng nǎ xiē jié guǒ suàn tōng guò ， nǎ xiē wèn tí bì xū zàn tíng 。",
+      "tr": "Küçük grupla deneme olabilir ama hangi sonuçların başarılı sayılacağını, hangi sorunlarda duracağımızı önceden belirleyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_053",
@@ -380,51 +380,51 @@
     {
       "id": "DLG_ZH_HSK5_SC007_054",
       "speaker": "经理",
-      "zh": "不过，这个决定会影响到谁，最好现在就弄清楚。",
-      "pinyin": "bù guò ， zhè ge jué dìng huì yǐng xiǎng dào shuí ， zuì hǎo xiàn zài jiù nòng qīng chǔ 。",
-      "tr": "Ancak, bu kararın kimi etkileyeceğini şimdiden netleştirmek iyi olur."
+      "zh": "如果需要门店员工参加测试，我来协调班次，避免影响营业。",
+      "pinyin": "rú guǒ xū yào mén diàn yuán gōng cān jiā cè shì ， wǒ lái xié tiáo bān cì ， bì miǎn yǐng xiǎng yíng yè 。",
+      "tr": "Mağaza çalışanlarının teste katılması gerekirse çalışma saatlerini ben ayarlayayım; işletme aksamasın."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_055",
       "speaker": "同事",
-      "zh": "这个调整会增加测试工作，所以需要同步人手和截止时间。",
-      "pinyin": "Zhè ge tiáo zhěng huì zēng jiā cè shì gōng zuò suǒ yǐ xū yào tóng bù rén shǒu hé jié zhǐ shí jiān",
-      "tr": "Bu değişiklik test işini artıracak; bu yüzden personeli ve son tarihi de birlikte ayarlamalıyız."
+      "zh": "多安排一轮并发测试会占用半天，但能早点发现保存冲突。",
+      "pinyin": "duō ān pái yī lún bìng fā cè shì huì zhàn yòng bàn tiān ， dàn néng zǎo diǎn fā xiàn bǎo cún chōng tū 。",
+      "tr": "Bir tur daha eşzamanlılık testi yarım gün alır ama kayıt çakışmalarını erkenden bulabilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_056",
       "speaker": "客户",
-      "zh": "如果试行影响现有业务，我们希望提前知道暂停或回退的办法。",
-      "pinyin": "Rú guǒ shì xíng yǐng xiǎng xiàn yǒu yè wù wǒ men xī wàng tí qián zhī dào zàn tíng huò huí tuì de bàn fǎ",
-      "tr": "Deneme mevcut işi etkilerse durdurma ya da geri alma yöntemini önceden bilmek isteriz."
+      "zh": "那就把测试时间提前告诉我们，我们也安排一位熟悉流程的员工参加。",
+      "pinyin": "nà jiù bǎ cè shì shí jiān tí qián gào sù wǒ men ， wǒ men yě ān pái yī wèi shú xī liú chéng de yuán gōng cān jiā 。",
+      "tr": "Test saatini bize önceden bildirin; biz de işleyişi bilen bir çalışan ayarlayalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_057",
       "speaker": "张伟",
-      "zh": "不过，别只看眼前的效率，长期的合作也很重要。",
-      "pinyin": "bù guò ， bié zhǐ kàn yǎn qián de xiào lǜ ， cháng qī de hé zuò yě hěn zhòng yào 。",
-      "tr": "Ancak, yalnızca kısa vadeli verimliliğe bakmayalım; uzun vadeli iş birliği de önemli."
+      "zh": "长期合作靠的是结果可靠，不能为了赶日期省掉关键检查。",
+      "pinyin": "cháng qī hé zuò kào de shì jié guǒ kě kào ， bù néng wèi le gǎn rì qī shěng diào guān jiàn jiǎn chá 。",
+      "tr": "Uzun vadeli iş birliği güvenilir sonuçlara dayanır; tarihe yetişmek için önemli kontrolleri atlayamayız."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_058",
       "speaker": "经理",
-      "zh": "这个想法可以继续讨论，不过最好再确认一下实际条件。",
-      "pinyin": "zhè ge xiǎng fǎ kě yǐ jì xù tǎo lùn ， bù guò zuì hǎo zài què rèn yī xià shí jì tiáo jiàn 。",
-      "tr": "Bu fikir konuşulabilir ama gerçek koşulları bir kez daha doğrulamak iyi olur."
+      "zh": "我会核对测试人员和环境是否到位，缺一项就及时调整日期。",
+      "pinyin": "wǒ huì hé duì cè shì rén yuán hé huán jìng shì fǒu dào wèi ， quē yī xiàng jiù jí shí diào zhěng rì qī 。",
+      "tr": "Test ekibinin ve ortamın hazır olup olmadığını kontrol ederim; biri eksikse tarihi zamanında ayarlarız."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_059",
       "speaker": "同事",
-      "zh": "我同意方向，不过执行的时候需要留一点余地。",
-      "pinyin": "wǒ tóng yì fāng xiàng ， bù guò zhí xíng de shí hòu xū yào liú yì diǎn yú dì 。",
-      "tr": "Yön konusunda katılıyorum ama uygulamada biraz esneklik bırakmak gerekiyor."
+      "zh": "如果开发和测试都压在同一周，团队可能顾不过来，我会把风险写进计划。",
+      "pinyin": "rú guǒ kāi fā hé cè shì dōu yā zài tóng yī zhōu ， tuán duì kě néng gù bù guò lái ， wǒ huì bǎ fēng xiǎn xiě jìn jì huà 。",
+      "tr": "Geliştirme ve test aynı haftaya yığılırsa ekip yetişemeyebilir; bu riski plana yazacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_060",
       "speaker": "客户",
-      "zh": "其实，我赞成先试，但要提前约好什么时候复盘。",
-      "pinyin": "qí shí ， wǒ zàn chéng xiān shì ， dàn yào tí qián yuē hǎo shén me shí hòu fù pán 。",
-      "tr": "Aslında, önce denemeye katılıyorum ama ne zaman değerlendirme yapacağımızı baştan belirleyelim."
+      "zh": "我们同意先试一小组。只要有回退办法，门店就能控制影响。",
+      "pinyin": "wǒ men tóng yì xiān shì yī xiǎo zǔ 。 zhǐ yào yǒu huí tuì bàn fǎ ， mén diàn jiù néng kòng zhì yǐng xiǎng 。",
+      "tr": "Önce küçük bir grupla denemeyi kabul ediyoruz. Geri dönüş planı olursa mağaza etkileri kontrol edebilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_061",
@@ -436,30 +436,30 @@
     {
       "id": "DLG_ZH_HSK5_SC007_062",
       "speaker": "经理",
-      "zh": "另外，我们至少已经知道彼此最在意什么了。",
-      "pinyin": "lìng wài ， wǒ men zhì shǎo yǐ jīng zhī dào bǐ cǐ zuì zài yì shén me le 。",
-      "tr": "Ayrıca, en azından artık birbirimizin en çok neyi önemsediğini biliyoruz."
+      "zh": "我今天把负责人、依赖任务和客户需要提供的资料发给大家。",
+      "pinyin": "wǒ jīn tiān bǎ fù zé rén 、 yī lài rèn wù hé kè hù xū yào tí gōng de zī liào fā gěi dà jiā 。",
+      "tr": "Sorumluları, birbirine bağlı işleri ve müşterinin sağlayacağı belgeleri bugün herkese göndereceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_063",
       "speaker": "同事",
-      "zh": "不过，把责任和时间说清楚，后面执行会容易很多。",
-      "pinyin": "bù guò ， bǎ zé rèn hé shí jiān shuō qīng chǔ ， hòu miàn zhí xíng huì róng yì hěn duō 。",
-      "tr": "Ancak, sorumlulukları ve zamanı netleştirince uygulama çok daha kolay olur."
+      "zh": "第一阶段完成登录和预约，第二阶段再加提醒，测试贯穿两个阶段。",
+      "pinyin": "dì yī jiē duàn wán chéng dēng lù hé yù yuē ， dì èr jiē duàn zài jiā tí xǐng ， cè shì guàn chuān liǎng gè jiē duàn 。",
+      "tr": "İlk aşamada giriş ve randevu alma tamamlanacak, ikinci aşamada bildirim eklenecek; test ikisinde de sürecek."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_064",
       "speaker": "客户",
-      "zh": "其实，这个决定不是不能改，以后有新情况可以重新评估。",
-      "pinyin": "qí shí ， zhè ge jué dìng bú shì bù néng gǎi ， yǐ hòu yǒu xīn qíng kuàng kě yǐ chóng xīn píng gū 。",
-      "tr": "Aslında, bu karar değiştirilemez değil; ileride yeni durum olursa yeniden değerlendirilebilir."
+      "zh": "如果第一阶段的测试没过，我们先修好再谈新增功能，不要硬赶进度。",
+      "pinyin": "rú guǒ dì yī jiē duàn de cè shì mò guò ， wǒ men xiān xiū hǎo zài tán xīn zēng gōng néng ， bú yào yìng gǎn jìn dù 。",
+      "tr": "İlk aşamanın testleri geçmezse önce düzeltelim, yeni özellikleri sonra konuşalım; takvimi zorlamayalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_065",
       "speaker": "张伟",
-      "zh": "换个角度看，今天先把能确定的部分定下来，剩下的以后继续聊。",
-      "pinyin": "huàn gè jiǎo dù kàn ， jīn tiān xiān bǎ néng què dìng de bù fèn dìng xià lái ， shèng xià de yǐ hòu jì xù liáo 。",
-      "tr": "Başka bir açıdan bakarsak, bugün netleştirebildiğimiz kısmı kararlaştıralım; kalanını sonra konuşuruz."
+      "zh": "尽管两项需求还没最后确认，我们仍然能先把不受影响的部分做好。",
+      "pinyin": "jǐn guǎn liǎng xiàng xū qiú hái méi zuì hòu què rèn ， wǒ men réng rán néng xiān bǎ bù shòu yǐng xiǎng de bù fèn zuò hǎo 。",
+      "tr": "İki gereksinim henüz kesinleşmemiş olsa da etkilenmeyen işleri tamamlayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_066",
@@ -471,72 +471,72 @@
     {
       "id": "DLG_ZH_HSK5_SC007_067",
       "speaker": "同事",
-      "zh": "这个决定会影响到谁，最好现在就弄清楚。",
-      "pinyin": "zhè ge jué dìng huì yǐng xiǎng dào shuí ， zuì hǎo xiàn zài jiù nòng qīng chǔ 。",
-      "tr": "Bu kararın kimi etkileyeceğini şimdiden netleştirmek iyi olur."
+      "zh": "提醒功能如果延后，对培训材料也有影响，我们需要同步更新说明。",
+      "pinyin": "tí xǐng gōng néng rú guǒ yán hòu ， duì péi xùn cái liào yě yǒu yǐng xiǎng ， wǒ men xū yào tóng bù gēng xīn shuō míng 。",
+      "tr": "Bildirim özelliği ertelenirse eğitim materyali de etkilenir; açıklamaları birlikte güncellemeliyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_068",
       "speaker": "客户",
-      "zh": "其实，时间、资源和人的负担都要算进去，不然方案落不了地。",
-      "pinyin": "qí shí ， shí jiān 、 zī yuán hé rén de fù dān dōu yào suàn jìn qù ， bù rán fāng àn luò bù liǎo dì 。",
-      "tr": "Aslında, zamanı, kaynakları ve insanların yükünü birlikte hesaba katmalıyız; yoksa plan uygulanamaz."
+      "zh": "是的，资源、培训和门店工作量都要算进去，试用安排才现实。",
+      "pinyin": "shì de ， zī yuán 、 péi xùn hé mén diàn gōng zuò liàng dōu yào suàn jìn qù ， shì yòng ān pái cái xiàn shí 。",
+      "tr": "Evet, kaynakları, eğitimi ve mağaza iş yükünü hesaba katarsak deneme planı gerçekçi olur."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_069",
       "speaker": "张伟",
-      "zh": "换个角度看，这个方案能不能执行，比听起来漂亮更重要。",
-      "pinyin": "huàn gè jiǎo dù kàn ， zhè ge fāng àn néng bù néng zhí xíng ， bǐ tīng qǐ lái piào liàng gèng zhòng yào 。",
-      "tr": "Başka bir açıdan bakarsak, bu planın uygulanabilir olması, kulağa güzel gelmesinden daha önemli."
+      "zh": "我会把每个阶段的验收条件写清楚，达到条件再进入下一步。",
+      "pinyin": "wǒ huì bǎ měi gè jiē duàn de yàn shōu tiáo jiàn xiě qīng chǔ ， dá dào tiáo jiàn zài jìn rù xià yī bù 。",
+      "tr": "Her aşamanın kabul koşullarını açıkça yazacağım; koşullar sağlanınca sonraki aşamaya geçeriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_070",
       "speaker": "经理",
-      "zh": "资源不足的地方要提前说明，别等到执行时才发现缺口。",
-      "pinyin": "Zī yuán bù zú de dì fāng yào tí qián shuō míng bié děng dào zhí xíng shí cái fā xiàn quē kǒu",
-      "tr": "Kaynağın yetersiz kaldığı noktaları önceden belirtelim; açığı uygulama sırasında fark etmeyelim."
+      "zh": "开发时间不够时要及时说，我们可以调整范围，不能把检查删掉。",
+      "pinyin": "kāi fā shí jiān bù gòu shí yào jí shí shuō ， wǒ men kě yǐ tiáo zhěng fàn wéi ， bù néng bǎ jiǎn chá shān diào 。",
+      "tr": "Geliştirme süresi yetmezse zamanında söyleyin; kapsamı ayarlayabiliriz ama kontrolleri kaldıramayız."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_071",
       "speaker": "同事",
-      "zh": "如果项目目标发生变化，里程碑和后面的安排也要重新评估。",
-      "pinyin": "Rú guǒ xiàng mù mù biāo fā shēng biàn huà lǐ chéng bēi hé hòu miàn de ān pái yě yào chóng xīn píng gū",
-      "tr": "Proje hedefi değişirse kilometre taşlarını ve sonraki planı yeniden değerlendirmeliyiz."
+      "zh": "如果客户试用时间改变，里程碑和测试人员安排都得重新确认。",
+      "pinyin": "rú guǒ kè hù shì yòng shí jiān gǎi biàn ， lǐ chéng bēi hé cè shì rén yuán ān pái dōu dé chóng xīn què rèn 。",
+      "tr": "Müşterinin deneme tarihi değişirse kilometre taşlarını ve test ekibini yeniden netleştirmeliyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_072",
       "speaker": "客户",
-      "zh": "同意，我们先把客户最重视的目标放在前面。",
-      "pinyin": "Tóng yì wǒ men xiān bǎ kè hù zuì zhòng shì de mù biāo fàng zài qián miàn",
-      "tr": "Katılıyorum; önce müşterinin en çok önem verdiği hedefe öncelik verelim."
+      "zh": "我们可以周五安排两家门店试用，周一再一起看操作记录。",
+      "pinyin": "wǒ men kě yǐ zhōu wǔ ān pái liǎng jiā mén diàn shì yòng ， zhōu yī zài yì qǐ kàn cāo zuò jì lù 。",
+      "tr": "Cuma günü iki mağazada deneme yapabilir, pazartesi işlem kayıtlarını birlikte inceleyebiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_073",
       "speaker": "张伟",
-      "zh": "里程碑会对接下来的工作造成什么影响？",
-      "pinyin": "lǐ chéng bēi huì duì jiē xià lái de gōng zuò zào chéng shén me yǐng xiǎng ？",
-      "tr": "Kilometre taşı konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "这个里程碑会不会让客户来不及培训一线员工？",
+      "pinyin": "zhè ge lǐ chéng bēi huì bú huì ràng kè hù lái bù jí péi xùn yī xiàn yuán gōng ？",
+      "tr": "Bu aşama, müşterinin ön saf çalışanlarını eğitmesine yetecek zaman bırakıyor mu?"
     },
     {
       "id": "DLG_ZH_HSK5_SC007_074",
       "speaker": "经理",
-      "zh": "你说的方案是指先试行一部分，还是分阶段交付？",
-      "pinyin": "Nǐ shuō de fāng àn shì zhǐ xiān shì xíng yī bù fèn hái shì fēn jiē duàn jiāo fù",
-      "tr": "Önerdiğin planın bir kısmını önce denemek mi, yoksa aşamalı teslimat mı olduğunu kastediyorsun?"
+      "zh": "先完成核心流程再做小组试用；完整上线仍要等验收通过。",
+      "pinyin": "xiān wán chéng hé xīn liú chéng zài zuò xiǎo zǔ shì yòng ； wán zhěng shàng xiàn réng yào děng yàn shōu tōng guò 。",
+      "tr": "Önce temel işlemleri tamamlayıp küçük grupla deneyelim; tam kullanıma geçiş için kabul testini bekleyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_075",
       "speaker": "同事",
-      "zh": "截止日期这一点也值得认真考虑。",
-      "pinyin": "jié zhǐ rì qī zhè yì diǎn yě zhí de rèn zhēn kǎo lǜ 。",
-      "tr": "son tarih noktası da ciddi biçimde değerlendirmeye değer."
+      "zh": "为了周五试用，账号、测试数据和操作说明必须在周三前准备好。",
+      "pinyin": "wèi le zhōu wǔ shì yòng ， zhàng hào 、 cè shì shù jù hé cāo zuò shuō míng bì xū zài zhōu sān qián zhǔn bèi hǎo 。",
+      "tr": "Cuma günkü deneme için hesaplar, test verileri ve kullanım talimatları çarşambaya kadar hazır olmalı."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_076",
       "speaker": "客户",
-      "zh": "不过，有不同意见没关系，关键是把依据说出来。",
-      "pinyin": "bù guò ， yǒu bù tóng yì jiàn méi guān xì ， guān jiàn shì bǎ yī jù shuō chū lái 。",
-      "tr": "Ancak, farklı görüşlerin olması sorun değil; önemli olan dayanağını açıklamak."
+      "zh": "这个期限可以，但请把需要我们提供的资料单独列出来。",
+      "pinyin": "zhè ge qī xiàn kě yǐ ， dàn qǐng bǎ xū yào wǒ men tí gōng de zī liào dān dú liè chū lái 。",
+      "tr": "Bu süre uygun; bizden istediğiniz belgeleri ayrı bir listede belirtin."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_077",
@@ -548,79 +548,79 @@
     {
       "id": "DLG_ZH_HSK5_SC007_078",
       "speaker": "经理",
-      "zh": "这个季度的效率固然重要，客户关系也得稳步维护。",
-      "pinyin": "zhè ge jì dù de xiào lǜ gù rán zhòng yào ， kè hù guān xì yě dé wěn bù wéi hù 。",
-      "tr": "Bu çeyrekte verimlilik önemli, müşteri ilişkilerini de istikrarlı biçimde sürdürmeliyiz."
+      "zh": "项目负责人要有领导能力，也要听团队意见，不能只催进度。",
+      "pinyin": "xiàng mù fù zé rén yào yǒu lǐng dǎo néng lì ， yě yào tīng tuán duì yì jiàn ， bù néng zhǐ cuī jìn dù 。",
+      "tr": "Proje sorumlusu liderlik becerisi göstermeli ve ekibi dinlemeli; yalnızca hız için baskı yapmamalı."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_079",
       "speaker": "同事",
-      "zh": "如果负责人手上的任务太多，就该及时调整分工，别等节点延误。",
-      "pinyin": "Rú guǒ fù zé rén shǒu shàng de rèn wù tài duō jiù gāi jí shí diào zhěng fēn gōng bié děng jié diǎn yán wù",
-      "tr": "Sorumlunun işi çok fazlaysa aşama gecikene kadar beklemeden görev dağılımını değiştirmeliyiz."
+      "zh": "如果测试人员同时负责别的项目，我会请经理重新安排优先顺序。",
+      "pinyin": "rú guǒ cè shì rén yuán tóng shí fù zé bié de xiàng mù ， wǒ huì qǐng jīng lǐ chóng xīn ān pái yōu xiān shùn xù 。",
+      "tr": "Test ekibi başka projelerden de sorumluysa yöneticiden öncelikleri yeniden düzenlemesini isterim."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_080",
       "speaker": "客户",
-      "zh": "另外，我赞成先试，但要提前约好什么时候复盘。",
-      "pinyin": "lìng wài ， wǒ zàn chéng xiān shì ， dàn yào tí qián yuē hǎo shén me shí hòu fù pán 。",
-      "tr": "Ayrıca, önce denemeye katılıyorum ama ne zaman değerlendirme yapacağımızı baştan belirleyelim."
+      "zh": "谢谢。我们最在意的是试用时数据可靠，操作步骤也要容易教给员工。",
+      "pinyin": "xiè xiè 。 wǒ men zuì zài yì de shì shì yòng shí shù jù kě kào ， cāo zuò bù zhòu yě yào róng yì jiāo gěi yuán gōng 。",
+      "tr": "Teşekkürler. Denemede verilerin güvenilir olması ve işlemlerin çalışanlara kolayca öğretilebilmesi bizim için önemli."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_081",
       "speaker": "张伟",
-      "zh": "关于责任感，你觉得先处理哪一部分？",
-      "pinyin": "guān yú zé rèn gǎn ， nǐ jué de xiān chǔ lǐ nǎ yī bù fèn ？",
-      "tr": "Sorumluluk duygusu konusunda herkesin fikrini bir kez daha duymak istiyorum."
+      "zh": "目标和验收标准已经写进计划了，大家看看还有哪项信息需要补上？",
+      "pinyin": "mù biāo hé yàn shōu biāo zhǔn yǐ jīng xiě jìn jì huà le ， dà jiā kàn kàn hái yǒu nǎ xiàng xìn xī xū yào bǔ shàng ？",
+      "tr": "Hedef ve kabul ölçütlerini plana yazdım; eklememiz gereken başka bilgi var mı?"
     },
     {
       "id": "DLG_ZH_HSK5_SC007_082",
       "speaker": "经理",
-      "zh": "我来确认哪些节点需要客户提供信息，免得双方都以为对方会处理。",
-      "pinyin": "Wǒ lái què rèn nǎ xiē jié diǎn xū yào kè hù tí gōng xìn xī miǎn de shuāng fāng dōu yǐ wéi duì fāng huì chǔ lǐ",
-      "tr": "Hangi aşamalarda müşteriden bilgi gerektiğini ben netleştireyim; iki taraf da diğerinin halledeceğini sanmasın."
+      "zh": "我会确认客户提供账号和测试人员的日期，免得试用前才发现缺资料。",
+      "pinyin": "wǒ huì què rèn kè hù tí gōng zhàng hào hé cè shì rén yuán de rì qī ， miǎn de shì yòng qián cái fā xiàn quē zī liào 。",
+      "tr": "Müşterinin hesapları ve test ekibini ne zaman sağlayacağını netleştiririm; eksik bilgi son güne kalmasın."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_083",
       "speaker": "同事",
-      "zh": "分工表要让整个团队都看得到，有依赖问题就能尽早提醒。",
-      "pinyin": "Fēn gōng biǎo yào ràng zhěng gè tuán duì dōu kàn dé dào yǒu yī lài wèn tí jiù néng jǐn zǎo tí xǐng",
-      "tr": "Görev tablosu tüm ekibin görebileceği yerde olmalı; böylece bağımlılık sorunu varsa erkenden haber veririz."
+      "zh": "分工表里我会标出谁等谁的结果，依赖任务一延误就马上提醒。",
+      "pinyin": "fēn gōng biǎo lǐ wǒ huì biāo chū shuí děng shéi de jié guǒ ， yī lài rèn wù yī yán wù jiù mǎ shàng tí xǐng 。",
+      "tr": "Görev tablosunda kimin kimin sonucunu beklediğini göstereceğim; bağlı bir iş gecikirse hemen uyaracağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_084",
       "speaker": "客户",
-      "zh": "这样说清楚以后，我们也知道什么时候需要配合提供资料。",
-      "pinyin": "Zhè yàng shuō qīng chǔ yǐ hòu wǒ men yě zhī dào shén me shí hòu xū yào pèi hé tí gōng zī liào",
-      "tr": "Bunlar netleşince hangi aşamada bilgi sağlamamız gerektiğini de biliriz."
+      "zh": "培训时请用一笔真实流程示范预约和改期，员工会比较容易上手。",
+      "pinyin": "péi xùn shí qǐng yòng yī bǐ zhēn shí liú chéng shì fàn yù yuē hé gǎi qī ， yuán gōng huì bǐ jiào róng yì shàng shǒu 。",
+      "tr": "Eğitimde gerçek bir örnekle randevu alma ve tarih değiştirmeyi gösterin; çalışanlar daha kolay öğrenir."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_085",
       "speaker": "张伟",
-      "zh": "那把风险也一起考虑进去。",
-      "pinyin": "nà bǎ fēng xiǎn yě yì qǐ kǎo lǜ jìn qù 。",
-      "tr": "Risk konusunu da değerlendirme kapsamına alalım."
+      "zh": "好，数据保存、权限和回退办法也列为试用前必须确认的风险。",
+      "pinyin": "hǎo ， shù jù bǎo cún 、 quán xiàn hé huí tuì bàn fǎ yě liè wèi shì yòng qián bì xū què rèn de fēng xiǎn 。",
+      "tr": "Tamam, veri kaydı, erişim yetkileri ve geri dönüş planını da deneme öncesi kontrol edilecek risklere ekleyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_086",
       "speaker": "经理",
-      "zh": "不过，把分工说清楚以后，执行起来会顺很多。",
-      "pinyin": "bù guò ， bǎ fēn gōng shuō qīng chǔ yǐ hòu ， zhí xíng qǐ lái huì shùn hěn duō 。",
-      "tr": "Ancak, görev dağılımını netleştirince uygulama çok daha sorunsuz ilerler."
+      "zh": "我会把试用名单和验收表发给双方确认，避免当天临时补材料。",
+      "pinyin": "wǒ huì bǎ shì yòng míng dān hé yàn shōu biǎo fā gěi shuāng fāng què rèn ， bì miǎn dàng tiān lín shí bǔ cái liào 。",
+      "tr": "Deneme listesini ve kabul formunu iki tarafın da onayına göndereceğim; son gün evrak tamamlamayalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_087",
       "speaker": "同事",
-      "zh": "项目目标要是出现新变化，我们就得及时调整计划。",
-      "pinyin": "xiàng mù mù biāo yào shì chū xiàn xīn biàn huà ， wǒ men jiù dé jí shí diào zhěng jì huà 。",
-      "tr": "Proje hedefi değişirse planı da ayarlamak gerekir."
+      "zh": "如果范围变化，先评估对测试和培训的影响，再调整里程碑。",
+      "pinyin": "rú guǒ fàn wéi biàn huà ， xiān píng gū duì cè shì hé péi xùn de yǐng xiǎng ， zài tiáo zhěng lǐ chéng bēi 。",
+      "tr": "Kapsam değişirse kilometre taşlarını ayarlamadan önce test ve eğitime etkisini değerlendirelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_088",
       "speaker": "客户",
-      "zh": "别只看眼前的效率，长期的合作也很重要。",
-      "pinyin": "bié zhǐ kàn yǎn qián de xiào lǜ ， cháng qī de hé zuò yě hěn zhòng yào 。",
-      "tr": "Yalnızca kısa vadeli verimliliğe bakmayalım; uzun vadeli iş birliği de önemli."
+      "zh": "门店会安排一名员工负责收集反馈，问题当天整理给你们。",
+      "pinyin": "mén diàn huì ān pái yī míng yuán gōng fù zé shōu jí fǎn kuì ， wèn tí dàng tiān zhěng lǐ gěi nǐ men 。",
+      "tr": "Mağazalar geri bildirimleri toplamak için bir çalışan görevlendirecek; sorunları aynı gün size ileteceğiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_089",
@@ -639,16 +639,16 @@
     {
       "id": "DLG_ZH_HSK5_SC007_091",
       "speaker": "同事",
-      "zh": "关于截止日期，我们还是结合实际情况来看。",
-      "pinyin": "guān yú jié zhǐ rì qī ， wǒ men hái shì jié hé shí jì qíng kuàng lái kàn 。",
-      "tr": "son tarih konusunda yine gerçek duruma bakmak gerekir."
+      "zh": "截止日期要留出修复时间，不能把验收安排在最后一天。",
+      "pinyin": "jié zhǐ rì qī yào liú chū xiū fù shí jiān ， bù néng bǎ yàn shōu ān pái zài zuì hòu yī tiān 。",
+      "tr": "Son tarih için düzeltme süresi bırakmalıyız; kabul testini son güne koyamayız."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_092",
       "speaker": "客户",
-      "zh": "我赞成先试，但要提前约好什么时候复盘。",
-      "pinyin": "wǒ zàn chéng xiān shì ， dàn yào tí qián yuē hǎo shén me shí hòu fù pán 。",
-      "tr": "Önce denemeye katılıyorum ama ne zaman değerlendirme yapacağımızı baştan belirleyelim."
+      "zh": "同意。周五先试用，周一复盘；影响营业的问题马上暂停并联系你们。",
+      "pinyin": "tóng yì 。 zhōu wǔ xiān shì yòng ， zhōu yī fù pán ； yǐng xiǎng yíng yè de wèn tí mǎ shàng zàn tíng bìng lián xì nǐ men 。",
+      "tr": "Katılıyoruz. Cuma deneyip pazartesi değerlendirelim; işletmeyi etkileyen sorun olursa durdurup hemen size ulaşırız."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_093",
@@ -660,51 +660,51 @@
     {
       "id": "DLG_ZH_HSK5_SC007_094",
       "speaker": "经理",
-      "zh": "先把试行结果记下来，再结合新信息决定下一步。",
-      "pinyin": "Xiān bǎ shì xíng jié guǒ jì xià lái zài jié hé xīn xìn xī jué dìng xià yī bù",
-      "tr": "Önce deneme sonuçlarını kaydedelim, sonra yeni bilgilere göre sonraki adıma karar verelim."
+      "zh": "我会记录试用问题、负责人和处理时间，复盘时逐项确认。",
+      "pinyin": "wǒ huì jì lù shì yòng wèn tí 、 fù zé rén hé chǔ lǐ shí jiān ， fù pán shí zhú xiàng què rèn 。",
+      "tr": "Deneme sorunlarını, sorumluları ve çözüm sürelerini kaydedip değerlendirmede tek tek gözden geçiririm."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_095",
       "speaker": "同事",
-      "zh": "项目结果会影响业务，也会影响团队之间的信任。",
-      "pinyin": "Xiàng mù jié guǒ huì yǐng xiǎng yè wù yě huì yǐng xiǎng tuán duì zhī jiān de xìn rèn",
-      "tr": "Projenin sonucu hem işi hem de ekip içindeki güveni etkiler."
+      "zh": "清楚的分工能减少误会，也让团队和客户更放心。",
+      "pinyin": "qīng chǔ de fēn gōng néng jiǎn shǎo wù huì ， yě ràng tuán duì hé kè hù gèng fàng xīn 。",
+      "tr": "Açık görev paylaşımı yanlış anlaşılmaları azaltır, ekibin ve müşterinin güvenini artırır."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_096",
       "speaker": "客户",
-      "zh": "时间、资源和员工的工作量都要考虑，计划才做得到。",
-      "pinyin": "Shí jiān zī yuán hé yuán gōng de gōng zuò liàng dōu yào kǎo lǜ jì huà cái zuò dé dào",
-      "tr": "Planın uygulanabilir olması için zamanı, kaynakları ve çalışanların iş yükünü hesaba katmalıyız."
+      "zh": "我们也会安排培训时间，确保门店员工能独立完成基本操作。",
+      "pinyin": "wǒ men yě huì ān pái péi xùn shí jiān ， què bǎo mén diàn yuán gōng néng dú lì wán chéng jī běn cāo zuò 。",
+      "tr": "Mağaza çalışanlarının temel işlemleri tek başına yapabilmesi için eğitim zamanı da ayarlayacağız."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_097",
       "speaker": "张伟",
-      "zh": "项目结束后，我会和大家一起复盘目标、分工和客户反馈。",
-      "pinyin": "Xiàng mù jié shù hòu wǒ huì hé dà jiā yì qǐ fù pán mù biāo fēn gōng hé kè hù fǎn kuì",
-      "tr": "Proje bitince hedefleri, görev paylaşımını ve müşteri geri bildirimini hep birlikte değerlendireceğim."
+      "zh": "项目结束后，我会比较计划和实际结果，找出估算偏差的原因。",
+      "pinyin": "xiàng mù jié shù hòu ， wǒ huì bǐ jiào jì huà hé shí jì jié guǒ ， zhǎo chū gū suàn piān chā de yuán yīn 。",
+      "tr": "Proje bitince planlanan ve gerçekleşen sonuçları karşılaştırıp süre tahminindeki sapmaların nedenini bulacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_098",
       "speaker": "经理",
-      "zh": "好，我们先按已经确认的部分推进，未定的内容标出负责人和确认时间。",
-      "pinyin": "Hǎo wǒ men xiān àn yǐ jīng què rèn de bù fèn tuī jìn wèi dìng de nèi róng biāo chū fù zé rén hé què rèn shí jiān",
-      "tr": "Peki, onaylanan kısımlarla ilerleyelim; henüz netleşmeyen işler için sorumlu ve teyit tarihini yazalım."
+      "zh": "好，我把未确认事项、负责人和答复日期整理成清单，今天发出。",
+      "pinyin": "hǎo ， wǒ bǎ wèi què rèn shì xiàng 、 fù zé rén hé dá fù rì qī zhěng lǐ chéng qīng dān ， jīn tiān fā chū 。",
+      "tr": "Tamam, kesinleşmeyen konuları, sorumluları ve yanıt tarihlerini listeleyip bugün göndereceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_099",
       "speaker": "同事",
-      "zh": "这个方案能不能执行，比听起来是否漂亮更重要。",
-      "pinyin": "Zhè ge fāng àn néng bù néng zhí xíng bǐ tīng qǐ lái shì fǒu piào liàng gèng zhòng yào",
-      "tr": "Planın kulağa etkileyici gelmesinden çok, gerçekten uygulanabilir olması önemli."
+      "zh": "我先按分工准备测试环境，发现进度有变就马上通知大家。",
+      "pinyin": "wǒ xiān àn fēn gōng zhǔn bèi cè shì huán jìng ， fā xiàn jìn dù yǒu biàn jiù mǎ shàng tōng zhī dà jiā 。",
+      "tr": "Görevime göre test ortamını hazırlıyorum; takvim değişirse hemen herkese haber veririm."
     },
     {
       "id": "DLG_ZH_HSK5_SC007_100",
       "speaker": "客户",
-      "zh": "谢谢。把各方的重点放在一起，我们才能定出可执行的计划。",
-      "pinyin": "Xiè xiè bǎ gè fāng de zhòng diǎn fàng zài yì qǐ wǒ men cái néng dìng chū kě zhí xíng de jì huà",
-      "tr": "Teşekkürler. Herkesin önceliklerini birlikte değerlendirirsek uygulanabilir bir plan çıkarabiliriz."
+      "zh": "这样我们就知道谁负责什么，也知道试用后何时一起看结果。",
+      "pinyin": "zhè yàng wǒ men jiù zhī dào shuí fù zé shén me ， yě zhī dào shì yòng hòu hé shí yì qǐ kàn jié guǒ 。",
+      "tr": "Böylece kimin neyden sorumlu olduğunu ve denemeden sonra sonuçları ne zaman inceleyeceğimizi biliriz."
     }
   ]
 }

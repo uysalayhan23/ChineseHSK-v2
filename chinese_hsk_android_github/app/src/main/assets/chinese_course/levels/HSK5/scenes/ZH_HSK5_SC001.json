@@ -81,9 +81,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_011",
       "speaker": "老师",
-      "zh": "可是没写完还是挂科了。",
-      "pinyin": "Kě shì méi xiě wán hái shì guà kē le",
-      "tr": "Ama yine de bitiremedim ve dersten kaldım."
+      "zh": "没写完确实影响了分数，但我们还要看看其他失分的原因。",
+      "pinyin": "méi xiě wán què shí yǐng xiǎng le fēn shù dàn wǒ men hái yào kàn kàn qí tā shī fēn de yuán yīn",
+      "tr": "Bitirememek notunu gerçekten etkilemiş; yine de başka puan kayıplarının nedenlerine bakmalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_012",
@@ -109,9 +109,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_015",
       "speaker": "老师",
-      "zh": "我以为阅读部分准备得够了，结果错了好几题。",
-      "pinyin": "Wǒ yǐ wéi yuè dú bù fèn zhǔn bèi dé gòu le jié guǒ cuò le hǎo jǐ tí",
-      "tr": "Okuma bölümüne yeterince hazırlandığımı sanıyordum ama birkaç soruyu yanlış yaptım."
+      "zh": "从试卷上看，阅读部分有几类题连续失分，我们可以一起看看原因。",
+      "pinyin": "cóng shì juàn shàng kàn yuè dú bù fèn yǒu jǐ lèi tí lián xù shī fēn wǒ men kě yǐ yì qǐ kàn kàn yuán yīn",
+      "tr": "Sınav kağıdına göre okuma bölümünde birkaç soru türünde art arda puan kaybı olmuş; nedenlerine birlikte bakabiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_016",
@@ -263,9 +263,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_037",
       "speaker": "张雨桐",
-      "zh": "休息不是放弃，累着硬撑也不一定学得进去。",
-      "pinyin": "Xiū xī bú shì fàng qì lèi zhe yìng chēng yě bù yí dìng xué dé jìn qù",
-      "tr": "Dinlenmek vazgeçmek değildir; yorgunken zorlamak da öğrenmeni sağlamaz."
+      "zh": "尽管这次没通过，我仍然可以调整方法，继续学习。",
+      "pinyin": "jǐn guǎn zhè cì méi tōng guò wǒ réng rán kě yǐ tiáo zhěng fāng fǎ jì xù xué xí",
+      "tr": "Bu sınavı geçememiş olsam da yöntemimi değiştirip öğrenmeye devam edebilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_038",
@@ -291,9 +291,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_041",
       "speaker": "张雨桐",
-      "zh": "那你可以缩短复习时间，多留些时间练习和回顾错题。",
-      "pinyin": "Nà nǐ kě yǐ suō duǎn fù xí shí jiān duō liú xiē shí jiān liàn xí hé huí gù cuò tí",
-      "tr": "Tekrar süresini kısaltıp alıştırmalara ve yanlışları gözden geçirmeye zaman ayırabilirsin."
+      "zh": "那我可以缩短复习时间，多留些时间练习和回顾错题。",
+      "pinyin": "nà wǒ kě yǐ suō duǎn fù xí shí jiān duō liú xiē shí jiān liàn xí hé huí gù cuò tí",
+      "tr": "O zaman çalışma süremi kısaltıp alıştırmalara ve yanlışları gözden geçirmeye daha fazla zaman ayırabilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_042",
@@ -403,9 +403,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_057",
       "speaker": "张雨桐",
-      "zh": "我可以先陪你找出最具体的问题，再请老师帮忙看看。",
-      "pinyin": "Wǒ kě yǐ xiān péi nǐ zhǎo chū zuì jù tǐ de wèn tí zài qǐng lǎo shī bāng máng kàn kàn",
-      "tr": "Önce en somut sorunu bulmana yardım edip sonra öğretmenden bakmasını isteyebilirim."
+      "zh": "我可以先找出最具体的问题，再请老师帮忙看看。",
+      "pinyin": "wǒ kě yǐ xiān zhǎo chū zuì jù tǐ de wèn tí zài qǐng lǎo shī bāng máng kàn kàn",
+      "tr": "Önce en somut sorunu bulup öğretmenden incelemesini isteyebilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_058",
@@ -431,9 +431,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_061",
       "speaker": "张雨桐",
-      "zh": "你可以问清楚理由，再决定哪条建议适合你。",
-      "pinyin": "Nǐ kě yǐ wèn qīng chǔ lǐ yóu zài jué dìng nǎ tiáo jiàn yì shì hé nǐ",
-      "tr": "Gerekçesini sorup hangi önerinin sana uygun olduğuna karar verebilirsin."
+      "zh": "我可以问清楚理由，再决定哪些建议适合我。",
+      "pinyin": "wǒ kě yǐ wèn qīng chǔ lǐ yóu zài jué dìng nǎ xiē jiàn yì shì hé wǒ",
+      "tr": "Nedenini netleştirip hangi önerilerin bana uyduğuna kendim karar verebilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_062",
@@ -459,9 +459,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_065",
       "speaker": "张雨桐",
-      "zh": "周三我可以和你一起看你整理的错题。",
-      "pinyin": "Zhōu sān wǒ kě yǐ hé nǐ yì qǐ kàn nǐ zhěng lǐ de cuò tí",
-      "tr": "Çarşamba düzenlediğin yanlışlara birlikte bakabiliriz."
+      "zh": "周三我可以把整理好的错题拿来和大家一起看。",
+      "pinyin": "zhōu sān wǒ kě yǐ bǎ zhěng lǐ hǎo de cuò tí ná lái hé dà jiā yì qǐ kàn",
+      "tr": "Çarşamba düzenlediğim yanlışları getirip hep birlikte inceleyebiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_066",
@@ -655,9 +655,9 @@
     {
       "id": "DLG_ZH_HSK5_SC001_093",
       "speaker": "张雨桐",
-      "zh": "我也会陪你复习，但按你觉得舒服的节奏来。",
-      "pinyin": "Wǒ yě huì péi nǐ fù xí dàn àn nǐ jué de shū fú de jié zòu lái",
-      "tr": "Ben de seninle tekrar yaparım ama sana uygun tempoda."
+      "zh": "我会按自己觉得舒服的节奏复习，也接受你们陪我。",
+      "pinyin": "wǒ huì àn zì jǐ jué de shū fú de jié zòu fù xí yě jiē shòu nǐ men péi wǒ",
+      "tr": "Kendimi rahat hissettiğim tempoda çalışır, bana eşlik etmenize de izin veririm."
     },
     {
       "id": "DLG_ZH_HSK5_SC001_094",
@@ -730,9 +730,9 @@
         "zh": "自我评价",
         "pinyin": "zìwǒ píngjià",
         "tr": "öz değerlendirme",
-        "exampleZh": "自我评价是我们不能忽略的一点。",
-        "examplePinyin": "Zìwǒ píngjià shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Öz değerlendirme göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "这次考试让你发现，自己把成绩看得太像自我评价了，对吗？",
+        "examplePinyin": "Zhè cì kǎo shì ràng nǐ fā xiàn zì jǐ bǎ chéng jì kàn dé tài xiàng zì wǒ píng jià le duì ma",
+        "exampleTr": "Bu sınav notlarını kendini değerlendirmekle fazla özdeşleştirdiğini fark ettirdi, değil mi?",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "挂科",
         "pinyin": "guàkē",
         "tr": "dersten kalmak",
-        "exampleZh": "我们把挂科也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ guàkē yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Dersten kalmak konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我这次考试挂科了，心里一直不舒服。",
+        "examplePinyin": "Wǒ zhè cì kǎo shì guà kē le xīn lǐ yì zhí bù shū fú",
+        "exampleTr": "Bu sınavdan kaldım; içim hâlâ rahat değil.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "挫折",
         "pinyin": "cuòzhé",
         "tr": "aksilik / başarısızlık",
-        "exampleZh": "如果挫折发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ cuòzhé fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Aksilik / başarısızlık değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "我明白你失望，但先别把一次挫折当成全部。",
+        "examplePinyin": "Wǒ míng bái nǐ shī wàng dàn xiān bié bǎ yī cì cuò zhé dàng chéng quán bù",
+        "exampleTr": "Hayal kırıklığını anlıyorum; bu tek aksiliği her şey sayma.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "调整状态",
         "pinyin": "tiáozhěng zhuàngtài",
         "tr": "kendini toparlamak",
-        "exampleZh": "关于调整状态，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú tiáozhěng zhuàngtài, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Kendini toparlamak konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "你那时怎么调整状态的？",
+        "examplePinyin": "Nǐ nà shí zěn me tiáo zhěng zhuàng tài de",
+        "exampleTr": "O zaman nasıl toparlanmıştın?",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "学习",
         "pinyin": "xuéxí",
         "tr": "ders çalışma",
-        "exampleZh": "学习是我们不能忽略的一点。",
-        "examplePinyin": "Xuéxí shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Ders çalışma göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "你通常怎么安排学习时间？",
+        "examplePinyin": "Nǐ tōng cháng zěn me ān pái xué xí shí jiān",
+        "exampleTr": "Çalışma zamanını genelde nasıl düzenliyorsun?",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "反馈",
         "pinyin": "fǎnkuì",
         "tr": "geri bildirim",
-        "exampleZh": "我们把反馈也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ fǎnkuì yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Geri bildirim konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我会继续学习，也记得及时听取反馈。",
+        "examplePinyin": "Wǒ huì jì xù xué xí yě jì de jí shí tīng qǔ fǎn kuì",
+        "exampleTr": "Çalışmaya devam edip geri bildirimi zamanında alacağım.",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "wèilái jìhuà",
         "tr": "gelecek planı",
         "exampleZh": "如果未来计划发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ wèilái jìhuà fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ wèilái jìhuà fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Gelecek planı değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "yōushì",
         "tr": "güçlü yön / avantaj",
         "exampleZh": "关于优势，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú yōushì, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú yōushì wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Güçlü yön / avantaj konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

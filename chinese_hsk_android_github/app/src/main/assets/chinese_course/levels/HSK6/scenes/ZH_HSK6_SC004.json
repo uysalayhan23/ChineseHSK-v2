@@ -17,7 +17,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC004_002",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "这是我结婚时戴的，今天想交给雨桐，希望她愿意留作纪念。",
       "pinyin": "zhè shì wǒ jié hūn shí dài de ， jīn tiān xiǎng jiāo gěi yǔ tóng ， xī wàng tā yuàn yì liú zuò jì niàn 。",
       "tr": "Bunları evlendiğimde takmıştım. Bugün Yutong’a vermek, hatıra olarak saklamasını istedim."
@@ -38,7 +38,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC004_005",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "听您这么说，我放心了。我怕自己选简单的仪式，会让您觉得不重视传统。",
       "pinyin": "tīng nín zhè me shuō ， wǒ fàng xīn le 。 wǒ pà zì jǐ xuǎn jiǎn dān de yí shì ， huì ràng nín jué de bù zhòng shì chuán tǒng 。",
       "tr": "Bunu duymak içimi rahatlattı. Sade bir tören seçersem geleneğe önem vermediğimi düşünürsünüz diye korkmuştum."
@@ -178,7 +178,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC004_025",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "奶奶，您送我的首饰，我想在敬茶时戴上，平时也会好好收着。",
       "pinyin": "nǎi nǎi ， nín sòng wǒ de shǒu shì ， wǒ xiǎng zài jìng chá shí dài shàng ， píng shí yě huì hǎo hǎo shōu zhe 。",
       "tr": "Büyükanne, verdiğiniz takıları çay sunarken takmak, sonra da özenle saklamak istiyorum."
@@ -626,7 +626,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC004_089",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "奶奶，您送的首饰我会好好保管，婚礼后也会常常想起今天。",
       "pinyin": "nǎi nǎi ， nín sòng de shǒu shì wǒ huì hǎo hǎo bǎo guǎn ， hūn lǐ hòu yě huì cháng cháng xiǎng qǐ jīn tiān 。",
       "tr": "Büyükanne, verdiğiniz takıları özenle saklayacağım; düğünden sonra da bugünü hatırlayacağım."
@@ -699,14 +699,14 @@
       "speaker": "张雨桐",
       "zh": "好，今天先到这里。接下来按计划一步一步准备，不必急着一次做完。",
       "pinyin": "hǎo ， jīn tiān xiān dào zhè lǐ 。 jiē xià lái àn jì huà yí bù yí bù zhǔn bèi ， bù bì jí zhe yī cì zuò wán 。",
-      "tr": "Olur, bugünlük burada bırakalım. Sonrasını adım adım hazırlarız; hepsini bir anda bitirmemiz gerekmez."
+      "tr": "Peki, bugünlük burada bırakalım. Bundan sonra plana göre adım adım ilerleriz; her şeyi hemen bitirmemize gerek yok."
     },
     {
       "id": "DLG_ZH_HSK6_SC004_100",
-      "speaker": "奶奶",
-      "zh": "谢谢奶奶愿意和我们一起调整。等日期定下来，我们再正式邀请大家。",
-      "pinyin": "xiè xiè nǎi nǎi yuàn yì hé wǒ men yì qǐ tiáo zhěng 。 děng rì qī dìng xià lái ， wǒ men zài zhèng shì yāo qǐng dà jiā 。",
-      "tr": "Bizimle birlikte uyarlama yapmaya açık olduğunuz için teşekkürler büyükanne. Tarih belli olunca herkesi resmen davet ederiz."
+      "speaker": "张伟",
+      "zh": "谢谢妈愿意和我们一起调整。等日期定下来，我们再正式邀请大家。",
+      "pinyin": "xiè xiè mā yuàn yì hé wǒ men yì qǐ tiáo zhěng 。 děng rì qī dìng xià lái ， wǒ men zài zhèng shì yāo qǐng dà jiā 。",
+      "tr": "Annemizle birlikte düzenleme yapabildiğimiz için teşekkürler. Tarih kesinleşince herkesi resmen davet ederiz."
     }
   ],
   "productionStatus": "complete",
@@ -718,92 +718,89 @@
     "vocabularyTheme": "kültürel değer ve sembolik anlam",
     "grammarTheme": "抽象因果论证",
     "pronunciationTheme": "演讲韵律",
-    "targetActiveVocabularyCount": {
-      "min": 8,
-      "max": 15
-    },
+    "targetActiveVocabularyCount": 8,
     "defaultSpeechSpeed": 1.0,
     "defaultSubtitleMode": "ZH",
     "vocabularyCards": [
       {
         "id": "VOC_ZH_HSK6_SC004_001",
         "zh": "传统",
-        "pinyin": "chuántǒng",
-        "tr": "gelenek",
-        "exampleZh": "传统之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Chuántǒng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Gelenek önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "pinyin": "chuán tǒng",
+        "tr": "tradition",
+        "exampleZh": "听您这么说，我放心了。我怕自己选简单的仪式，会让您觉得不重视传统。",
+        "examplePinyin": "tīng nín zhè me shuō ， wǒ fàng xīn le 。 wǒ pà zì jǐ xuǎn jiǎn dān de yí shì ， huì ràng nín jué de bù zhòng shì chuán tǒng 。",
+        "exampleTr": "Bunu duymak içimi rahatlattı. Sade bir tören seçersem geleneğe önem vermediğimi düşünürsünüz diye korkmuştum.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC004_002",
-        "zh": "简约",
-        "pinyin": "jiǎnyuē",
-        "tr": "sadelik",
-        "exampleZh": "如果忽略简约，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè jiǎnyuē, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Sadelik göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "首饰",
+        "pinyin": "shǒu shì",
+        "tr": "jewelry",
+        "exampleZh": "奶奶，您带来的首饰真漂亮。它有什么特别的来历吗？",
+        "examplePinyin": "nǎi nǎi ， nín dài lái de shǒu shì zhēn piào liàng 。 tā yǒu shén me tè bié de lái lì ma ？",
+        "exampleTr": "Büyükanne, getirdiğiniz takılar çok güzel. Özel bir hikâyesi var mı?",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC004_003",
-        "zh": "仪式感",
-        "pinyin": "yíshìgǎn",
-        "tr": "tören/ritüel hissi",
-        "exampleZh": "我想把仪式感放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ yíshìgǎn fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Tören/ritüel hissi konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
+        "zh": "心意",
+        "pinyin": "xīn yì",
+        "tr": "thoughtfulness",
+        "exampleZh": "奶奶，谢谢您。我很珍惜这份心意，只是婚礼形式还想按我们的想法来。",
+        "examplePinyin": "nǎi nǎi ， xiè xiè nín 。 wǒ hěn zhēn xī zhè fèn xīn yì ， zhǐ shì hūn lǐ xíng shì hái xiǎng àn wǒ men de xiǎng fǎ lái 。",
+        "exampleTr": "Büyükanne, teşekkür ederim. Bu düşünceniz benim için çok değerli; yalnız düğünü kendi istediğimiz biçimde yapmak istiyoruz.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC004_004",
-        "zh": "象征意义",
-        "pinyin": "xiàngzhēng yìyì",
-        "tr": "sembolik anlam",
-        "exampleZh": "谈到象征意义，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào xiàngzhēng yìyì, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Sembolik anlam konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
+        "zh": "敬茶",
+        "pinyin": "jìng chá",
+        "tr": "serve tea respectfully",
+        "exampleZh": "我们想保留交换戒指和向长辈敬茶，其他环节尽量简单。",
+        "examplePinyin": "wǒ men xiǎng bǎo liú jiāo huàn jiè zhǐ hé xiàng zhǎng bèi jìng chá ， qí tā huán jié jǐn liàng jiǎn dān 。",
+        "exampleTr": "Yüzük takmayı ve büyüklere çay sunmayı koruyup diğer bölümleri sade tutmak istiyoruz.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC004_005",
-        "zh": "语境",
-        "pinyin": "yǔjìng",
-        "tr": "bağlam",
-        "exampleZh": "语境之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Yǔjìng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Bağlam önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "礼节",
+        "pinyin": "lǐ jié",
+        "tr": "etiquette",
+        "exampleZh": "敬茶这个环节我很喜欢，既有礼节，也能让两家人表达祝福。",
+        "examplePinyin": "jìng chá zhè ge huán jié wǒ hěn xǐ huān ， jì yǒu lǐ jié ， yě néng ràng liǎng jiā rén biǎo dá zhù fú 。",
+        "exampleTr": "Büyüklere çay sunma geleneğini seviyorum; hem görgüyü yansıtıyor hem ailelerin iyi dileklerini paylaşmasını sağlıyor.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC004_006",
-        "zh": "立场",
-        "pinyin": "lìchǎng",
-        "tr": "tutum / bakış açısı",
-        "exampleZh": "如果忽略立场，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè lìchǎng, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Tutum / bakış açısı göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "来历",
+        "pinyin": "lái lì",
+        "tr": "origin / story",
+        "exampleZh": "奶奶，您带来的首饰真漂亮。它有什么特别的来历吗？",
+        "examplePinyin": "nǎi nǎi ， nín dài lái de shǒu shì zhēn piào liàng 。 tā yǒu shén me tè bié de lái lì ma ？",
+        "exampleTr": "Büyükanne, getirdiğiniz takılar çok güzel. Özel bir hikâyesi var mı?",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC004_007",
-        "zh": "权衡",
-        "pinyin": "quánhéng",
-        "tr": "dengeleyerek değerlendirmek",
-        "exampleZh": "我想把权衡放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ quánhéng fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Dengeleyerek değerlendirmek konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
-        "kind": "review"
+        "zh": "意义",
+        "pinyin": "yì yì",
+        "tr": "meaning",
+        "exampleZh": "这样听起来很合适。传统的意义还在，时间和规模也符合你们的计划。",
+        "examplePinyin": "zhè yàng tīng qǐ lái hěn hé shì 。 chuán tǒng de yì yì hái zài ， shí jiān hé guī mó yě fú hé nǐ men de jì huà 。",
+        "exampleTr": "Bu uygun görünüyor. Geleneğin anlamı korunur, süre ve büyüklük de planınıza uyar.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC004_008",
-        "zh": "长期影响",
-        "pinyin": "chángqī yǐngxiǎng",
-        "tr": "uzun vadeli etki",
-        "exampleZh": "谈到长期影响，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào chángqī yǐngxiǎng, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Uzun vadeli etki konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
-        "kind": "review"
+        "zh": "简单",
+        "pinyin": "jiǎn dān",
+        "tr": "simple",
+        "exampleZh": "听您这么说，我放心了。我怕自己选简单的仪式，会让您觉得不重视传统。",
+        "examplePinyin": "tīng nín zhè me shuō ， wǒ fàng xīn le 。 wǒ pà zì jǐ xuǎn jiǎn dān de yí shì ， huì ràng nín jué de bù zhòng shì chuán tǒng 。",
+        "exampleTr": "Bunu duymak içimi rahatlattı. Sade bir tören seçersem geleneğe önem vermediğimi düşünürsünüz diye korkmuştum.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

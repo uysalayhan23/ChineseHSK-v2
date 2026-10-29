@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC020",
   "level": "HSK5",
   "sourceTitleZh": "要不要涨价？",
@@ -9,16 +9,16 @@
     {
       "id": "DLG_ZH_HSK5_SC020_001",
       "speaker": "刘梅",
-      "zh": "最近原材料和经营成本都涨了，我在考虑菜单价格要不要调整。",
-      "pinyin": "Zuì jìn yuán cái liào hé jīng yíng chéng běn dōu zhǎng le wǒ zài kǎo lǜ cài dān jià gé yào bù yào tiáo zhěng",
-      "tr": "Son zamanlarda hammadde ve işletme maliyetleri arttı; menü fiyatlarını değiştirip değiştirmememiz gerektiğini düşünüyorum."
+      "zh": "最近原材料和经营成本都涨了。我之所以考虑调整菜单，是因为想让店里的生意稳定下来。",
+      "pinyin": "zuì jìn yuán cái liào hé jīng yíng chéng běn dōu zhǎng le 。 wǒ zhī suǒ yǐ kǎo lǜ tiáo zhěng cài dān ， shì yīn wèi xiǎng ràng diàn lǐ de shēng yì wěn dìng xià lái 。",
+      "tr": "Son zamanlarda ham madde ve işletme maliyetleri arttı. Menüyü değiştirmeyi düşünmemin nedeni işletmenin devamlılığını korumak istemem."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_002",
       "speaker": "张伟",
-      "zh": "我整理了近期的数据，也想听听顾客对价格和服务的期待。",
-      "pinyin": "Wǒ zhěng lǐ le jìn qī de shù jù yě xiǎng tīng tīng gù kè duì jià gé hé fú wù de qī dài",
-      "tr": "Yakın dönemin verilerini düzenledim; müşterilerin fiyat ve hizmet beklentilerini de duymak istiyorum."
+      "zh": "我整理了近期的数据，也想听听顾客期待的价格和服务。",
+      "pinyin": "wǒ zhěng lǐ le jìn qī de shù jù ， yě xiǎng tīng tīng gù kè qī dài de jià gé hé fú wù 。",
+      "tr": "Yakın dönem verilerini derledim; müşterilerin fiyat ve hizmet beklentilerini de duymak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_003",
@@ -100,9 +100,9 @@
     {
       "id": "DLG_ZH_HSK5_SC020_014",
       "speaker": "张伟",
-      "zh": "我们需要平衡顾客能接受的价格和店里持续经营的成本。",
-      "pinyin": "Wǒ men xū yào píng héng gù kè néng jiē shòu de jià gé hé diàn lǐ chí xù jīng yíng de chéng běn",
-      "tr": "Müşterilerin kabul edebileceği fiyatla işletmenin sürdürülebilir maliyetleri arasında denge kurmalıyız."
+      "zh": "我们需要平衡顾客能接受的价格和店里维持生意所需的成本。",
+      "pinyin": "wǒ men xū yào píng héng gù kè néng jiē shòu de jià gé hé diàn lǐ wéi chí shēng yì suǒ xū de chéng běn 。",
+      "tr": "Müşterilerin kabul edebileceği fiyatlarla işletmenin devamı için gereken maliyetleri dengelemeliyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_015",

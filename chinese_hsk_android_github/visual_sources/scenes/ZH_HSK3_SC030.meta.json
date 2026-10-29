@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC030.json",
-  "dialogueSha256": "01c521f42baee834726244250ab5f175603cdada6772e9d2b7fb841fc300cba9",
+  "dialogueSha256": "ca4924ad55f69e58feb5cb21cf9829962693995f0a9f316206a6dafd5ec8ff34",
   "titleTr": "İş Sunumu",
   "locationId": "LOC_ZH_CONFERENCE_ROOM_001",
   "scenePurposeTr": "Zhang proje sonuçlarını toplantıda yapılandırılmış biçimde sunar.",

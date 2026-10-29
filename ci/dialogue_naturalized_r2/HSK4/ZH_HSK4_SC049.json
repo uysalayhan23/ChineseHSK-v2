@@ -32,7 +32,7 @@
       "speaker": "奶奶",
       "zh": "看得见，您再往中间一点就好了。",
       "pinyin": "Kàn dé jiàn nín zài wǎng zhōng jiān yì diǎn jiù hǎo le",
-      "tr": "Görünüyorsunuz; biraz ortaya kaymanız yeterli。"
+      "tr": "Görünüyorsunuz; biraz ortaya kaymanız yeterli"
     },
     {
       "id": "DLG_ZH_HSK4_SC049_005",
@@ -79,9 +79,9 @@
     {
       "id": "DLG_ZH_HSK4_SC049_011",
       "speaker": "爷爷",
-      "zh": "奶奶就是在那里认识爷爷的吗？",
-      "pinyin": "Nǎi nǎi jiù shì zài nà lǐ rèn shí yé yé de ma",
-      "tr": "Nineyle orada mı tanıştınız?"
+      "zh": "你还记得我们是在哪里认识的吗？",
+      "pinyin": "nǐ hái jì de wǒ men shì zài nǎ lǐ rèn shí de ma",
+      "tr": "İlk nerede tanıştığımızı hatırlıyor musun?"
     },
     {
       "id": "DLG_ZH_HSK4_SC049_012",
@@ -471,9 +471,9 @@
     {
       "id": "DLG_ZH_HSK4_SC049_067",
       "speaker": "爷爷",
-      "zh": "明年再来，我们把新照片放在旁边比较。",
-      "pinyin": "Míng nián zài lái wǒ men bǎ xīn zhào piān fàng zài páng biān bǐ jiào",
-      "tr": "Gelecek yıl yine gelip yeni fotoğrafı yanına koyarız."
+      "zh": "既然明年还要来，就把新照片放在旁边比较。",
+      "pinyin": "jì rán míng nián hái yào lái jiù bǎ xīn zhào piān fàng zài páng biān bǐ jiào",
+      "tr": "Madem gelecek yıl yine geleceğiz, yeni fotoğrafı yanına koyup karşılaştıralım."
     },
     {
       "id": "DLG_ZH_HSK4_SC049_068",

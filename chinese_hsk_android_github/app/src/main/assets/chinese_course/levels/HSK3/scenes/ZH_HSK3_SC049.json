@@ -115,7 +115,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC049_016",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "谢谢你，这样我就能安心考虑新的机会。",
       "pinyin": "Xiè xiè nǐ, zhè yàng wǒ jiù néng ān xīn kǎo lǜ xīn de jī huì.",
       "tr": "Teşekkürler; böylece yeni fırsatı rahatça değerlendirebilirim."
@@ -129,7 +129,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC049_018",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "我想继续学习，也想看看自己适合什么工作。",
       "pinyin": "Wǒ xiǎng jì xù xué xí, yě xiǎng kàn kàn zì jǐ shì hé shén me gōng zuò.",
       "tr": "Öğrenmeye devam edip hangi işe uygun olduğumu görmek istiyorum."
@@ -157,7 +157,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC049_022",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "有一点想，不过我也舍不得离家太远。",
       "pinyin": "Yǒu yì diǎn xiǎng, bù guò wǒ yě shě bù dé lí jiā tài yuǎn.",
       "tr": "Biraz istiyorum ama evden çok uzaklaşmak istemiyorum."
@@ -514,7 +514,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC049_073",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "我还想知道，书店这个梦想是不是太不现实。",
       "pinyin": "Wǒ hái xiǎng zhī dào, shū diàn zhè ge mèng xiǎng shì bú shì tài bù xiàn shí.",
       "tr": "Kitapçı hayalimin gerçek dışı olup olmadığını merak ediyorum."
@@ -730,9 +730,9 @@
         "zh": "全家的未来",
         "pinyin": "quánjiā de wèilái",
         "tr": "ailenin geleceği",
-        "exampleZh": "我已经把全家的未来记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ quánjiā de wèilái jì xiàlái le.",
-        "exampleTr": "Ailenin geleceği notunu aldım.",
+        "exampleZh": "今晚我们坐下来聊聊全家的未来吧。",
+        "examplePinyin": "Jīn wǎn wǒ men zuò xià lái liáo liáo quán jiā de wèi lái ba.",
+        "exampleTr": "Bu akşam ailemizin geleceğini konuşalım.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "未来计划",
         "pinyin": "wèilái jìhuà",
         "tr": "gelecek planı",
-        "exampleZh": "未来计划是这次要考虑的重点之一。",
-        "examplePinyin": "Wèilái jìhuà shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-        "exampleTr": "Gelecek planı bu kez değerlendirmemiz gereken ana noktalardan biri.",
+        "exampleZh": "这样我们就能一起调整未来计划。",
+        "examplePinyin": "Zhè yàng wǒ men jiù néng yì qǐ tiáo zhěng wèi lái jì huà.",
+        "exampleTr": "Böylece gelecek planını birlikte güncelleriz.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "职业发展",
         "pinyin": "zhíyè fāzhǎn",
         "tr": "kariyer gelişimi",
-        "exampleZh": "我们最好再确认一下职业发展。",
-        "examplePinyin": "Wǒmen zuìhǎo zài quèrèn yíxià zhíyè fāzhǎn.",
-        "exampleTr": "Kariyer gelişimi konusunu bir kez daha teyit etsek iyi olur.",
+        "exampleZh": "这和你的职业发展计划很合适。",
+        "examplePinyin": "Zhè hé nǐ de zhí yè fā zhǎn jì huà hěn hé shì.",
+        "exampleTr": "Bu kariyer planına çok uygun.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "咖啡馆的想法",
         "pinyin": "kāfēiguǎn de xiǎngfa",
         "tr": "kafe fikri",
-        "exampleZh": "如果咖啡馆的想法没有问题，我们就继续。",
-        "examplePinyin": "Rúguǒ kāfēiguǎn de xiǎngfa méiyǒu wèntí, wǒmen jiù jìxù.",
-        "exampleTr": "Kafe fikri konusunda sorun yoksa devam ederiz.",
+        "exampleZh": "这个梦想和咖啡馆的想法很接近。",
+        "examplePinyin": "Zhè ge mèng xiǎng hé kā fēi guǎn de xiǎng fǎ hěn jiē jìn.",
+        "exampleTr": "Bu hayal kafe fikrine de yakın.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "学习",
         "pinyin": "xuéxí",
         "tr": "ders çalışma",
-        "exampleZh": "我们先学习，然后再看下一步。",
-        "examplePinyin": "Wǒmen xiān xuéxí, ránhòu zài kàn xià yí bù.",
-        "exampleTr": "Önce ders çalışma, sonra sonraki adıma bakarız.",
+        "exampleZh": "我先听听大家的计划，再说说我的学习安排。",
+        "examplePinyin": "Wǒ xiān tīng tīng dà jiā de jì huà, zài shuō shuō wǒ de xué xí ān pái.",
+        "exampleTr": "Önce planlarınızı dinleyip eğitim programımı anlatayım.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "梦想",
         "pinyin": "mèngxiǎng",
         "tr": "hayal",
-        "exampleZh": "我已经把梦想记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ mèngxiǎng jì xiàlái le.",
-        "exampleTr": "Hayal notunu aldım.",
+        "exampleZh": "我年轻时也有过一个梦想，可一直没机会试。",
+        "examplePinyin": "Wǒ nián qīng shí yě yǒu guò yí gè mèng xiǎng, kě yì zhí méi jī huì shì.",
+        "exampleTr": "Gençken benim de hayalim vardı ama deneyemedim.",
         "kind": "active"
       },
       {

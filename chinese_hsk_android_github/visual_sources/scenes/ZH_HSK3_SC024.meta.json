@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC024.json",
-  "dialogueSha256": "b03fc7ec192791ee570f8f743707d16b5c7ba878cd4ec957829a1ed7ef626f61",
+  "dialogueSha256": "a61624de4faed571aaaec76646fa26c1b8972ec2d0600028b4bb4b5b6bc8d961",
   "titleTr": "Yutong Kafede Çalışıyor",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Yutong ilk kez ücret karşılığı kafede çalışır ve müşteriyle iletişim kurar.",

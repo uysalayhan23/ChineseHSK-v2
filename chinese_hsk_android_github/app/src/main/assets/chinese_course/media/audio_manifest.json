@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "policy": "kokoro_authored_dialogue_then_android_tts_fallback",
-  "model": "hexgrad/Kokoro-82M",
+  "policy": "mixed_audio_during_verified_local_regeneration_then_android_tts_fallback",
+  "model": "mixed: Kokoro-82M and CosyVoice-300M-Instruct",
   "assets": {
     "DLG_ZH_HSK1_SC001_001": "chinese_course/media/audio/generated/DLG_ZH_HSK1_SC001_001.opus",
     "DLG_ZH_HSK1_SC001_002": "chinese_course/media/audio/generated/DLG_ZH_HSK1_SC001_002.opus",

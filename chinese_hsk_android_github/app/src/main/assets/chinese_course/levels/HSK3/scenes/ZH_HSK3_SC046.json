@@ -25,23 +25,23 @@
     {
       "id": "DLG_ZH_HSK3_SC046_003",
       "speaker": "顾客",
-      "zh": "说到捐款，你怎么看？",
-      "pinyin": "Shuō dào juān kuǎn, nǐ zěn me kàn?",
-      "tr": "Bağış yapmak konusunda ne düşünüyorsun?"
+      "zh": "社区有几户人家需要帮助，我们先确认他们缺什么。",
+      "pinyin": "Shèqūyǒujǐhùrénjiāxūyàobāngzhù, wǒmenxiānquèrèntāmenquēshénme.",
+      "tr": "Mahallede birkaç ailenin yardıma ihtiyacı var; önce neyin eksik olduğunu doğrulayalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_004",
       "speaker": "张雨桐",
-      "zh": "我先说吧，我最担心的是实际情况会不会跟我们想的一样。",
-      "pinyin": "Wǒ xiān shuō ba, wǒ zuì dān xīn de shì shí jì qíng kuàng huì bú huì gēn wǒ men xiǎng de yī yàng.",
-      "tr": "Önce ben söyleyeyim; en çok gerçek durumun düşündüğümüz gibi olup olmayacağını merak ediyorum."
+      "zh": "负责人列了罐头、干净衣服和捐款。",
+      "pinyin": "Fùzérénlièleguàntóu, gànjìngyīfúhéjuānkuǎn.",
+      "tr": "Sorumlu konserve, temiz kıyafet ve para bağışı listeledi."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_005",
       "speaker": "刘梅",
-      "zh": "对，所以先把重点找出来。",
-      "pinyin": "Duì, suǒ yǐ xiān bǎ zhòng diǎn zhǎo chū lái.",
-      "tr": "Evet, bu yüzden önce ana noktayı bulalım."
+      "zh": "那我们把物资和捐款分开登记，记录要清楚。",
+      "pinyin": "Nàwǒmenbǎwùzīhéjuānkuǎnfēnkāidēngjì, jìlùyàoqīngchǔ.",
+      "tr": "O hâlde eşya ve para bağışlarını ayrı kaydedip kayıtları açık tutalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_006",
@@ -53,9 +53,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_007",
       "speaker": "顾客",
-      "zh": "我觉得志愿者这一点也不能忽略。",
-      "pinyin": "Wǒ jué de zhì yuàn zhě zhè yì diǎn yě bù néng hū lüè.",
-      "tr": "Bence gönüllü konusunu da göz ardı etmemeliyiz."
+      "zh": "每个箱子都贴标签，写明里面是什么。",
+      "pinyin": "Měigèxiāngzidōutiēbiāoqiān, xiěmínglǐmiànshìshénme.",
+      "tr": "Her kutuya içindekileri belirten bir etiket yapıştıralım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_008",
@@ -67,9 +67,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_009",
       "speaker": "刘梅",
-      "zh": "说到社区，你怎么看？",
-      "pinyin": "Shuō dào shè qū, nǐ zěn me kàn?",
-      "tr": "Mahalle / topluluk konusunda ne düşünüyorsun?"
+      "zh": "募捐点放在咖啡馆门口，顾客一进来就能看到。",
+      "pinyin": "Mùjuāndiǎnfàngzàikāfēiguǎnménkǒu, gùkèyījìnláijiùnéngkàndào.",
+      "tr": "Bağış masasını kafenin girişine koyalım; müşteriler hemen görsün."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_010",
@@ -81,9 +81,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_011",
       "speaker": "顾客",
-      "zh": "对，不然等会儿容易混在一起。",
-      "pinyin": "Duì, bù rán děng huì er róng yì hùn zài yì qǐ.",
-      "tr": "Evet, yoksa birazdan konular birbirine karışabilir."
+      "zh": "说明牌写清楚用途和社区负责人的名字。",
+      "pinyin": "Shuōmíngpáixiěqīngchǔyòngtúhéshèqūfùzéréndemíngzì.",
+      "tr": "Panoya bağışın amacını ve mahalle sorumlusunun adını yazalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_012",
@@ -95,9 +95,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_013",
       "speaker": "刘梅",
-      "zh": "我觉得先帮忙一下比较好。",
-      "pinyin": "Wǒ jué de xiān bāng máng yī xià bǐ jiào hǎo.",
-      "tr": "Bence önce “yardım etmek” kısmını ele almak daha iyi olur."
+      "zh": "客人不想捐也没关系，我们不要给他们压力。",
+      "pinyin": "Kèrénbùxiǎngjuānyěméiguānxì, wǒmenbùyàogěitāmenyālì.",
+      "tr": "Müşteri bağış yapmak istemezse sorun değil; baskı yapmayalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_014",
@@ -109,9 +109,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_015",
       "speaker": "顾客",
-      "zh": "说到顾客，你怎么看？",
-      "pinyin": "Shuō dào gù kè, nǐ zěn me kàn?",
-      "tr": "Müşteri konusunda ne düşünüyorsun?"
+      "zh": "我愿意做志愿者，也可以把活动告诉邻居。",
+      "pinyin": "Wǒyuànyìzuòzhìyuànzhě, yěkěyǐbǎhuódònggàosùlínjū.",
+      "tr": "Gönüllü olur, kampanyayı komşulara da duyurabilirim."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_016",
@@ -123,9 +123,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_017",
       "speaker": "刘梅",
-      "zh": "嗯，先别急着决定。",
-      "pinyin": "Èn, xiān bié jí zhe jué dìng.",
-      "tr": "Evet, karar vermek için acele etmeyelim."
+      "zh": "我们安排早班和晚班，每班两位志愿者。",
+      "pinyin": "Wǒmenānpáizǎobānhéwǎnbān, měibānliǎngwèizhìyuànzhě.",
+      "tr": "Sabah ve akşam vardiyası yapalım; her birinde iki gönüllü olsun."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_018",
@@ -137,9 +137,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_019",
       "speaker": "顾客",
-      "zh": "我们先把情况说清楚。",
-      "pinyin": "Wǒmen xiān bǎ qíngkuàng shuō qīngchu.",
-      "tr": "Önce durumu netleştirelim."
+      "zh": "我登记大家的名字和时间，临时有事也方便换班。",
+      "pinyin": "Wǒdēngjìdàjiādemíngzìhéshíjiān, línshíyǒushìyěfāngbiànhuànbān.",
+      "tr": "İsimleri ve saatleri kaydederim; son anda işi çıkan vardiya değiştirebilir."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_020",
@@ -151,9 +151,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_021",
       "speaker": "刘梅",
-      "zh": "对，我就是这个意思。",
-      "pinyin": "Duì, wǒ jiù shì zhège yìsi.",
-      "tr": "Evet, tam olarak bunu demek istiyorum."
+      "zh": "衣服先检查干不干净，食品要看包装和日期。",
+      "pinyin": "Yīfúxiānjiǎnchágànbùgànjìng, shípǐnyàokànbāozhuānghérìqī.",
+      "tr": "Önce kıyafetlerin temizliğine, yiyeceklerin ambalajına ve tarihine bakalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_022",
@@ -165,9 +165,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_023",
       "speaker": "顾客",
-      "zh": "先别着急，我们一步一步来。",
-      "pinyin": "Xiān bié zháojí, wǒmen yí bù yí bù lái.",
-      "tr": "Önce telaşlanmayalım, adım adım ilerleyelim."
+      "zh": "捐款箱旁边放登记表，每次清点都记下来。",
+      "pinyin": "Juānkuǎnxiāngpángbiānfàngdēngjìbiǎo, měicìqīngdiǎndōujìxiàlái.",
+      "tr": "Bağış kutusunun yanına çizelge koyalım; her sayımı yazalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_024",
@@ -179,9 +179,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_025",
       "speaker": "刘梅",
-      "zh": "为什么你这么想？",
-      "pinyin": "Wèishénme nǐ zhème xiǎng?",
-      "tr": "Neden böyle düşünüyorsun?"
+      "zh": "开箱时请两位志愿者一起核对，记录更可靠。",
+      "pinyin": "Kāixiāngshíqǐngliǎngwèizhìyuànzhěyīqǐhéduì, jìlùgèngkěkào.",
+      "tr": "Kutuyu açarken iki gönüllü birlikte kontrol etsin; kayıt daha güvenilir olur."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_026",
@@ -193,9 +193,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_027",
       "speaker": "顾客",
-      "zh": "如果这样做，我们就能省一点时间。",
-      "pinyin": "Rúguǒ zhèyàng zuò, wǒmen jiù néng shěng yìdiǎn shíjiān.",
-      "tr": "Böyle yaparsak biraz zaman kazanabiliriz."
+      "zh": "活动结束后请负责人签字，确认已经完成交接。",
+      "pinyin": "Huódòngjiéshùhòuqǐngfùzérénqiānzì, quèrènyǐjīngwánchéngjiāojiē.",
+      "tr": "Kampanya sonunda sorumluya imza attırıp teslimi doğrulayalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_028",
@@ -207,9 +207,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_029",
       "speaker": "刘梅",
-      "zh": "那我们先试试看。",
-      "pinyin": "Nà wǒmen xiān shìshikan.",
-      "tr": "O zaman önce deneyelim."
+      "zh": "我把联系电话也写在牌子上，方便顾客询问。",
+      "pinyin": "Wǒbǎliánxìdiànhuàyěxiězàipáizishàng, fāngbiàngùkèxúnwèn.",
+      "tr": "Müşteriler soru sorabilsin diye panoya telefon numarasını da yazacağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_030",
@@ -221,9 +221,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_031",
       "speaker": "顾客",
-      "zh": "我先确认一下细节。",
-      "pinyin": "Wǒ xiān quèrèn yíxià xìjié.",
-      "tr": "Önce ayrıntıları teyit edeyim."
+      "zh": "今天先准备桌子、标签、登记表和分类箱。",
+      "pinyin": "Jīntiānxiānzhǔnbèizhuōzi, biāoqiān, dēngjìbiǎohéfēnlèixiāng.",
+      "tr": "Bugün masa, etiket, çizelge ve ayırma kutularını hazırlayalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_032",
@@ -235,9 +235,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_033",
       "speaker": "刘梅",
-      "zh": "我们最好把时间也安排好。",
-      "pinyin": "Wǒmen zuìhǎo bǎ shíjiān yě ānpái hǎo.",
-      "tr": "Zamanı da iyi planlasak iyi olur."
+      "zh": "我去联系负责人，确认明天来取物资的时间。",
+      "pinyin": "Wǒqùliánxìfùzérén, quèrènmíngtiānláiqǔwùzīdeshíjiān.",
+      "tr": "Yarın eşyaları alacağı saati doğrulamak için sorumluyu arayayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_034",
@@ -249,9 +249,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_035",
       "speaker": "顾客",
-      "zh": "那就不会忘了。",
-      "pinyin": "Nà jiù bú huì wàng le.",
-      "tr": "O zaman unutmayız."
+      "zh": "我把活动消息发到社区群里，告诉大家怎么帮忙。",
+      "pinyin": "Wǒbǎhuódòngxiāoxīfādàoshèqūqúnlǐ, gàosùdàjiāzěnmebāngmáng.",
+      "tr": "Nasıl yardım edebileceklerini anlatmak için kampanya haberini mahalle grubuna yazacağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_036",
@@ -263,9 +263,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_037",
       "speaker": "刘梅",
-      "zh": "关键是先找到原因。",
-      "pinyin": "Guānjiàn shì xiān zhǎodào yuányīn.",
-      "tr": "Önemli olan önce nedeni bulmak."
+      "zh": "准备好以后，我们再照着清单检查一遍。",
+      "pinyin": "Zhǔnbèihǎoyǐhòu, wǒmenzàizhàozheqīngdānjiǎncháyībiàn.",
+      "tr": "Hazırlık bitince listeye bakıp bir kez daha kontrol edelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_038",
@@ -277,16 +277,16 @@
     {
       "id": "DLG_ZH_HSK3_SC046_039",
       "speaker": "顾客",
-      "zh": "这样说更有道理。",
-      "pinyin": "Zhèyàng shuō gèng yǒu dàolǐ.",
-      "tr": "Böyle söyleyince daha mantıklı."
+      "zh": "规则说明清楚，顾客就能自愿决定要不要捐。",
+      "pinyin": "Guīzéshuōmíngqīngchǔ, gùkèjiùnéngzìyuànjuédìngyàobùyàojuān.",
+      "tr": "Kuralları açıkça anlatırsak müşteriler bağış yapıp yapmamaya kendileri karar verir."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_040",
       "speaker": "张雨桐",
-      "zh": "我们需要一个更实际的办法。",
-      "pinyin": "Wǒmen xūyào yí ge gèng shíjì de bànfǎ.",
-      "tr": "Daha uygulanabilir bir çözüme ihtiyacımız var."
+      "zh": "分工和记录都安排好，募捐当天就不会乱。",
+      "pinyin": "Fēngōnghéjìlùdōuānpáihǎo, mùjuāndāngtiānjiùbùhuìluàn.",
+      "tr": "Görevleri ve kayıtları düzenlersek kampanya günü karışıklık olmaz."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_041",
@@ -431,9 +431,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_061",
       "speaker": "刘梅",
-      "zh": "好，就按这个办法来。",
-      "pinyin": "Hǎo, jiù àn zhège bànfǎ lái.",
-      "tr": "Tamam, bu yönteme göre ilerleyelim."
+      "zh": "募捐开始后，顾客陆续送来了衣服和罐头。",
+      "pinyin": "Mùjuānkāishǐhòu, gùkèlùxùsòngláileyīfúhéguàntóu.",
+      "tr": "Kampanya başlayınca müşteriler sırayla kıyafet ve konserve getirdi."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_062",
@@ -445,9 +445,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_063",
       "speaker": "顾客",
-      "zh": "确实，比刚才顺利。",
-      "pinyin": "Quèshí, bǐ gāngcái shùnlì.",
-      "tr": "Gerçekten, az öncekinden daha iyi gidiyor."
+      "zh": "我先检查衣服，再按种类分开放。",
+      "pinyin": "Wǒxiānjiǎncháyīfú, zàiànzhǒnglèifēnkāifàng.",
+      "tr": "Önce kıyafetleri kontrol edip türlerine göre ayırıyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_064",
@@ -459,9 +459,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_065",
       "speaker": "刘梅",
-      "zh": "最后再检查一遍吧。",
-      "pinyin": "Zuìhòu zài jiǎnchá yí biàn ba.",
-      "tr": "Son olarak bir kez daha kontrol edelim."
+      "zh": "食品包装完好，日期也没有过期。",
+      "pinyin": "Shípǐnbāozhuāngwánhǎo, rìqīyěméiyǒuguòqī.",
+      "tr": "Yiyeceklerin ambalajı sağlam ve tarihleri geçmemiş."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_066",
@@ -473,9 +473,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_067",
       "speaker": "顾客",
-      "zh": "我负责后面的部分。",
-      "pinyin": "Wǒ fùzé hòumiàn de bùfen.",
-      "tr": "Ben sonraki kısmı kontrol ederim."
+      "zh": "每箱的物品和数量都写进登记表了。",
+      "pinyin": "Měixiāngdewùpǐnhéshùliàngdōuxiějìndēngjìbiǎole.",
+      "tr": "Her kutunun içindekini ve miktarını çizelgeye yazdım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_068",
@@ -487,9 +487,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_069",
       "speaker": "刘梅",
-      "zh": "太好了，终于可以放心了。",
-      "pinyin": "Tài hǎo le, zhōngyú kěyǐ fàngxīn le.",
-      "tr": "Harika, sonunda rahatlayabiliriz."
+      "zh": "两位志愿者一起数过捐款，结果也记好了。",
+      "pinyin": "Liǎngwèizhìyuànzhěyīqǐshùguòjuānkuǎn, jiéguǒyějìhǎole.",
+      "tr": "İki gönüllü para bağışlarını birlikte saydı; sonucu da kaydettik."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_070",
@@ -501,9 +501,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_071",
       "speaker": "顾客",
-      "zh": "下次处理起来会更快。",
-      "pinyin": "Xià cì chǔlǐ qǐlái huì gèng kuài.",
-      "tr": "Bir dahaki sefere daha hızlı hallederiz."
+      "zh": "负责人半小时后到，我们先把通道清出来。",
+      "pinyin": "Fùzérénbànxiǎoshíhòudào, wǒmenxiānbǎtōngdàoqīngchūlái.",
+      "tr": "Sorumlu yarım saate gelecek; önce geçiş yolunu açalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_072",
@@ -515,9 +515,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_073",
       "speaker": "刘梅",
-      "zh": "嗯，我也是这么想的。",
-      "pinyin": "Èn, wǒ yě shì zhè me xiǎng de.",
-      "tr": "Ben de öyle düşünüyorum."
+      "zh": "晚班志愿者来了，我把登记表和注意事项交给他们。",
+      "pinyin": "Wǎnbānzhìyuànzhěláile, wǒbǎdēngjìbiǎohézhùyìshìxiàngjiāogěitāmen.",
+      "tr": "Akşam vardiyası gönüllüleri geldi; çizelgeyi ve notları onlara veriyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_074",
@@ -529,9 +529,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_075",
       "speaker": "顾客",
-      "zh": "好，接下来按计划继续。",
-      "pinyin": "Hǎo, jiēxiàlái àn jìhuà jìxù.",
-      "tr": "Tamam, bundan sonra plana göre devam edelim."
+      "zh": "他们会按清单核对，确保交接没有遗漏。",
+      "pinyin": "Tāmenhuìànqīngdānhéduì, quèbǎojiāojiēméiyǒuyílòu.",
+      "tr": "Teslimde eksik kalmaması için listeye göre kontrol edecekler."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_076",
@@ -543,9 +543,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_077",
       "speaker": "刘梅",
-      "zh": "说到募捐，你怎么看？",
-      "pinyin": "Shuō dào mù juān, nǐ zěn me kàn?",
-      "tr": "Bağış kampanyası konusunda ne düşünüyorsun?"
+      "zh": "负责人到了，请大家一起检查物资和记录。",
+      "pinyin": "Fùzéréndàole, qǐngdàjiāyīqǐjiǎncháwùzīhéjìlù.",
+      "tr": "Sorumlu geldi; malzemeleri ve kayıtları birlikte kontrol edelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_078",
@@ -557,9 +557,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_079",
       "speaker": "顾客",
-      "zh": "对，先把需要做的事情分一下。",
-      "pinyin": "Duì, xiān bǎ xū yào zuò de shì qíng fēn yī xià.",
-      "tr": "Evet, önce yapılacak işleri paylaştıralım."
+      "zh": "数目都对，请您在交接表上签字。",
+      "pinyin": "Shùmùdōuduì, qǐngnínzàijiāojiēbiǎoshàngqiānzì.",
+      "tr": "Miktarlar tutuyor; lütfen teslim formunu imzalayın."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_080",
@@ -571,9 +571,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_081",
       "speaker": "刘梅",
-      "zh": "我觉得捐款这一点也不能忽略。",
-      "pinyin": "Wǒ jué de juān kuǎn zhè yì diǎn yě bù néng hū lüè.",
-      "tr": "Bence bağış yapmak konusunu da göz ardı etmemeliyiz."
+      "zh": "捐款用途和交接情况也会发到社区群里。",
+      "pinyin": "Juānkuǎnyòngtúhéjiāojiēqíngkuàngyěhuìfādàoshèqūqúnlǐ.",
+      "tr": "Bağışın amacıyla teslim bilgilerini mahalle grubunda da paylaşacağız."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_082",
@@ -585,9 +585,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_083",
       "speaker": "顾客",
-      "zh": "我同意，不过还得留一点调整空间。",
-      "pinyin": "Wǒ tóng yì, bù guò hái dé liú yì diǎn tiáo zhěng kōng jiān.",
-      "tr": "Katılıyorum, ama biraz ayarlama payı bırakmak gerekiyor."
+      "zh": "这样大家都能知道捐来的东西去了哪里。",
+      "pinyin": "Zhèyàngdàjiādōunéngzhīdàojuānláidedōngxīqùlenǎlǐ.",
+      "tr": "Böylece herkes bağışların nereye gittiğini öğrenir."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_084",
@@ -599,9 +599,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_085",
       "speaker": "刘梅",
-      "zh": "说到志愿者，你怎么看？",
-      "pinyin": "Shuō dào zhì yuàn zhě, nǐ zěn me kàn?",
-      "tr": "Gönüllü konusunda ne düşünüyorsun?"
+      "zh": "今天分工很清楚，募捐过程也很顺利。",
+      "pinyin": "Jīntiānfēngōnghěnqīngchǔ, mùjuānguòchéngyěhěnshùnlì.",
+      "tr": "Bugün görev paylaşımı açıktı ve kampanya sorunsuz yürüdü."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_086",
@@ -613,9 +613,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_087",
       "speaker": "顾客",
-      "zh": "那就先试，效果不好再调整。",
-      "pinyin": "Nà jiù xiān shì, xiào guǒ bù hǎo zài tiáo zhěng.",
-      "tr": "O zaman önce deneyelim; sonuç iyi olmazsa yeniden ayarlarız."
+      "zh": "下次社区需要帮助，我们可以照这张清单准备。",
+      "pinyin": "Xiàcìshèqūxūyàobāngzhù, wǒmenkěyǐzhàozhèzhāngqīngdānzhǔnbèi.",
+      "tr": "Mahalle yeniden yardıma ihtiyaç duyarsa bu listeye göre hazırlanabiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_088",
@@ -627,9 +627,9 @@
     {
       "id": "DLG_ZH_HSK3_SC046_089",
       "speaker": "刘梅",
-      "zh": "我觉得社区这一点也不能忽略。",
-      "pinyin": "Wǒ jué de shè qū zhè yì diǎn yě bù néng hū lüè.",
-      "tr": "Bence mahalle / topluluk konusunu da göz ardı etmemeliyiz."
+      "zh": "谢谢志愿者和顾客，大家一起帮忙很有用。",
+      "pinyin": "Xièxièzhìyuànzhěhégùkè, dàjiāyīqǐbāngmánghěnyǒuyòng.",
+      "tr": "Gönüllülere ve müşterilere teşekkürler; birlikte yardım etmek çok işe yaradı."
     },
     {
       "id": "DLG_ZH_HSK3_SC046_090",
@@ -730,9 +730,9 @@
         "zh": "募捐",
         "pinyin": "mùjuān",
         "tr": "bağış kampanyası",
-        "exampleZh": "我已经把募捐记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ mùjuān jì xiàlái le.",
-        "exampleTr": "Bağış kampanyası notunu aldım.",
+        "exampleZh": "今天正好有时间，我们聊聊募捐这件事吧。",
+        "examplePinyin": "Jīn tiān zhèng hǎo yǒu shí jiān, wǒ men liáo liáo mù juān zhè jiàn shì ba.",
+        "exampleTr": "Bugün vaktimiz varken bağış kampanyası konusunu konuşalım.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "捐款",
         "pinyin": "juānkuǎn",
         "tr": "bağış yapmak",
-        "exampleZh": "如果现在捐款，会更方便。",
-        "examplePinyin": "Rúguǒ xiànzài juānkuǎn, huì gèng fāngbiàn.",
-        "exampleTr": "Şimdi bağış yapmak daha kullanışlı olur.",
+        "exampleZh": "负责人列了罐头、干净衣服和捐款。",
+        "examplePinyin": "Fùzérénlièleguàntóu, gànjìngyīfúhéjuānkuǎn.",
+        "exampleTr": "Sorumlu konserve, temiz kıyafet ve para bağışı listeledi.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "志愿者",
         "pinyin": "zhìyuànzhě",
         "tr": "gönüllü",
-        "exampleZh": "等志愿者来了以后再决定。",
-        "examplePinyin": "Děng zhìyuànzhě lái le yǐhòu zài juédìng.",
-        "exampleTr": "Gönüllü geldikten sonra karar verelim.",
+        "exampleZh": "我愿意做志愿者，也可以把活动告诉邻居。",
+        "examplePinyin": "Wǒyuànyìzuòzhìyuànzhě, yěkěyǐbǎhuódònggàosùlínjū.",
+        "exampleTr": "Gönüllü olur, kampanyayı komşulara da duyurabilirim.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "社区",
         "pinyin": "shèqū",
         "tr": "mahalle / topluluk",
-        "exampleZh": "这个社区还有一个优点。",
-        "examplePinyin": "Zhège shèqū hái yǒu yí ge yōudiǎn.",
-        "exampleTr": "Bu mahalle / topluluk bir avantajı daha var.",
+        "exampleZh": "社区有几户人家需要帮助，我们先确认他们缺什么。",
+        "examplePinyin": "Shèqūyǒujǐhùrénjiāxūyàobāngzhù, wǒmenxiānquèrèntāmenquēshénme.",
+        "exampleTr": "Mahallede birkaç ailenin yardıma ihtiyacı var; önce neyin eksik olduğunu doğrulayalım.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "帮忙",
         "pinyin": "bāngmáng",
         "tr": "yardım etmek",
-        "exampleZh": "我们先帮忙，然后再看下一步。",
-        "examplePinyin": "Wǒmen xiān bāngmáng, ránhòu zài kàn xià yí bù.",
-        "exampleTr": "Önce yardım etmek, sonra sonraki adıma bakarız.",
+        "exampleZh": "我把活动消息发到社区群里，告诉大家怎么帮忙。",
+        "examplePinyin": "Wǒbǎhuódòngxiāoxīfādàoshèqūqúnlǐ, gàosùdàjiāzěnmebāngmáng.",
+        "exampleTr": "Nasıl yardım edebileceklerini anlatmak için kampanya haberini mahalle grubuna yazacağım.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "顾客",
         "pinyin": "gùkè",
         "tr": "müşteri",
-        "exampleZh": "这件事还要跟顾客确认。",
-        "examplePinyin": "Zhè jiàn shì hái yào gēn gùkè quèrèn.",
-        "exampleTr": "Bu konuyu müşteri ile de teyit etmek gerekiyor.",
+        "exampleZh": "募捐点放在咖啡馆门口，顾客一进来就能看到。",
+        "examplePinyin": "Mùjuāndiǎnfàngzàikāfēiguǎnménkǒu, gùkèyījìnláijiùnéngkàndào.",
+        "exampleTr": "Bağış masasını kafenin girişine koyalım; müşteriler hemen görsün.",
         "kind": "active"
       },
       {

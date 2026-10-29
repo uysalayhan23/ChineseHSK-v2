@@ -431,107 +431,107 @@
     {
       "id": "DLG_ZH_HSK4_SC027_061",
       "speaker": "张伟",
-      "zh": "各位旅客请注意，列车已经进站，请先下后上，按车厢号排队。",
-      "pinyin": "gè wèi lǚ kè qǐng zhù yì liè chē yǐ jīng jìn zhàn qǐng xiān xià hòu shàng àn chē xiāng hào pái duì",
-      "tr": "Yolcuların dikkatine: Tren istasyona girdi. Önce inenlere yol verin, sonra vagon numaranıza göre sıraya girin."
+      "zh": "广播说列车快到终点站了，大家准备好行李。",
+      "pinyin": "guǎng bō shuō liè chē kuài dào zhōng diǎn zhàn le，dà jiā zhǔn bèi hǎo xíng lǐ。",
+      "tr": "Anons trenin son istasyona yaklaştığını söylüyor; herkes bagajını hazırlasın."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_062",
       "speaker": "刘梅",
-      "zh": "广播说车已经到了。我们先看屏幕上的车厢位置，再排队。",
-      "pinyin": "guǎng bō shuō chē yǐ jīng dào le wǒ men xiān kàn píng mù shàng de chē xiāng wèi zhì zài pái duì",
-      "tr": "Anons trenin geldiğini söyledi. Önce ekrandaki vagon konumuna bakıp sonra sıraya girelim."
+      "zh": "广播说快到站了，我们先检查座位和行李。",
+      "pinyin": "guǎng bō shuō kuài dào zhàn le，wǒ men xiān jiǎn chá zuò wèi hé xíng lǐ。",
+      "tr": "Anons yakında varacağımızı söylüyor; önce koltukları ve bagajı kontrol edelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_063",
       "speaker": "工作人员",
-      "zh": "请带好行李，按地面标记排队，不要堵住旁边的通道。",
-      "pinyin": "qǐng dài hǎo xíng lǐ àn dì miàn biāo jì pái duì bú yào dǔ zhù páng biān de tōng dào",
-      "tr": "Lütfen bagajınızı alın ve yerdeki işaretlere göre sıraya girin; yan geçişi kapatmayın."
+      "zh": "下车时请按顺序走，不要在车门口停留。",
+      "pinyin": "xià chē shí qǐng àn shùn xù zǒu，bú yào zài chē mén kǒu tíng liú。",
+      "tr": "Lütfen inerken sırayla ilerleyin ve kapı önünde durmayın."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_064",
       "speaker": "张乐乐",
-      "zh": "车票上写着六号车厢，我们在这里等，不用急着挤上去。",
-      "pinyin": "chē piào shàng xiě zhe liù hào chē xiāng wǒ men zài zhè lǐ děng bù yòng jí zhe jǐ shàng qù",
-      "tr": "Bilette altıncı vagon yazıyor. Burada bekleyelim, binmek için acele edip itişmeyelim."
+      "zh": "我们在六号车厢，出站以后跟着指示牌走就行。",
+      "pinyin": "wǒ men zài liù hào chē xiāng，chū zhàn yǐ hòu gēn zhe zhǐ shì pái zǒu jiù xíng。",
+      "tr": "Altıncı vagondayız; indikten sonra çıkış tabelalarını izlememiz yeterli."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_065",
       "speaker": "张伟",
-      "zh": "对，先让下车旅客出来，轮到我们时再上车。",
-      "pinyin": "duì xiān ràng xià chē lǚ kè chū lái lún dào wǒ men shí zài shàng chē",
-      "tr": "Evet, önce inecek yolcular çıksın; sıra bize gelince bineriz."
+      "zh": "先等车停稳，再拿行李，不用着急。",
+      "pinyin": "xiān děng chē tíng wěn，zài ná xíng lǐ，bù yòng zháo jí。",
+      "tr": "Önce tren tamamen dursun, sonra bagajı alırız; acele etmeye gerek yok."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_066",
       "speaker": "刘梅",
-      "zh": "我给酒店发消息，说我们正在检票，预计到达后再联系。",
-      "pinyin": "wǒ gěi jiǔ diàn fā xiāo xī shuō wǒ men zhèng zài jiǎn piào yù jì dào dá hòu zài lián xì",
-      "tr": "Otele, biniş kontrolünde olduğumuzu yazıp varış saatimiz netleşince yeniden haber vereceğim."
+      "zh": "到站后我给酒店发消息，告诉他们我们晚到了。",
+      "pinyin": "dào zhàn hòu wǒ gěi jiǔ diàn fā xiāo xī，gào sù tā men wǒ men wǎn dào le。",
+      "tr": "Varınca otele mesaj atıp geciktiğimizi haber vereceğim."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_067",
       "speaker": "工作人员",
-      "zh": "请提前准备好车票，工作人员会逐一核验。",
-      "pinyin": "qǐng tí qián zhǔn bèi hǎo chē piào gōng zuò rén yuán huì zhú yī hé yàn",
-      "tr": "Lütfen biletinizi önceden hazırlayın; görevliler tek tek kontrol edecek."
+      "zh": "列车停稳后再走近车门，下车时请注意台阶。",
+      "pinyin": "liè chē tíng wěn hòu zài zǒu jìn chē mén，xià chē shí qǐng zhù yì tái jiē。",
+      "tr": "Tren tamamen durduktan sonra kapıya yaklaşın; inerken basamaklara dikkat edin."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_068",
       "speaker": "张乐乐",
-      "zh": "我的二维码已经打开，行李也都拿好了。",
-      "pinyin": "wǒ de èr wéi mǎ yǐ jīng dǎ kāi xíng lǐ yě dōu ná hǎo le",
-      "tr": "QR kodumu açtım, bagajım da hazır."
+      "zh": "我先把公交卡放在外层口袋，出站后比较容易拿。",
+      "pinyin": "wǒ xiān bǎ gōng jiāo kǎ fàng zài wài céng kǒu dài，chū zhàn hòu bǐ jiào róng yì ná。",
+      "tr": "Otobüs kartımı dış cebime koyayım; çıkınca kolayca alırım."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_069",
       "speaker": "张伟",
-      "zh": "我把票和身份证放在一起，过闸以后就收回包里。",
-      "pinyin": "wǒ bǎ piào hé shēn fèn zhèng fàng zài yì qǐ guò zhá yǐ hòu jiù shōu huí bāo lǐ",
-      "tr": "Biletle kimliğimi birlikte tuttum; turnikeden geçince çantama koyarım."
+      "zh": "票和身份证都收好了，行李也检查过了。",
+      "pinyin": "piào hé shēn fèn zhèng dōu shōu hǎo le，xíng lǐ yě jiǎn chá guò le。",
+      "tr": "Biletleri ve kimlikleri kaldırdım; bagajı da kontrol ettim."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_070",
       "speaker": "刘梅",
-      "zh": "车厢号和座位号都核对过了，大家别走散。",
-      "pinyin": "chē xiāng hào hé zuò wèi hào dōu hé duì guò le dà jiā bié zǒu sàn",
-      "tr": "Vagon ve koltuk numaralarını kontrol ettik. Birbirimizden ayrılmayalım."
+      "zh": "我们的东西都在，等前面的旅客下完再走。",
+      "pinyin": "wǒ men de dōng xī dōu zài，děng qián miàn de lǚ kè xià wán zài zǒu。",
+      "tr": "Eşyalarımız tamam; öndeki yolcular indikten sonra biz de ilerleriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_071",
       "speaker": "工作人员",
-      "zh": "请旅客依次上车，先找到自己的车厢和座位。",
-      "pinyin": "qǐng lǚ kè yī cì shàng chē xiān zhǎo dào zì jǐ de chē xiāng hé zuò wèi",
-      "tr": "Yolcular sırayla trene binsin ve önce kendi vagonuyla koltuğunu bulsun."
+      "zh": "列车已经停稳，请旅客依次下车。",
+      "pinyin": "liè chē yǐ jīng tíng wěn，qǐng lǚ kè yī cì xià chē。",
+      "tr": "Tren tamamen durdu; yolcular lütfen sırayla insin."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_072",
       "speaker": "张乐乐",
-      "zh": "我们上车了，我找到座位了，行李也放到架子上了。",
-      "pinyin": "wǒ men shàng chē le wǒ zhǎo dào zuò wèi le xíng lǐ yě fàng dào jià zi shàng le",
-      "tr": "Trene bindik; yerimi buldum, bagajı da rafa koydum."
+      "zh": "我们下车了，六号车厢的出口就在前面。",
+      "pinyin": "wǒ men xià chē le，liù hào chē xiāng de chū kǒu jiù zài qián miàn。",
+      "tr": "İndik; altıncı vagonun çıkışı hemen ileride."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_073",
       "speaker": "张伟",
-      "zh": "我把酒店的预计到达时间发过去，免得他们担心。",
-      "pinyin": "wǒ bǎ jiǔ diàn de yù jì dào dá shí jiān fā guò qù miǎn de tā men dān xīn",
-      "tr": "Otel kaygılanmasın diye tahmini varış saatimizi göndereyim."
+      "zh": "我打开酒店的位置，先看看出站口和公交站在哪里。",
+      "pinyin": "wǒ dǎ kāi jiǔ diàn de wèi zhì，xiān kàn kàn chū zhàn kǒu hé gōng jiāo zhàn zài nǎ lǐ。",
+      "tr": "Otelin konumunu açıp önce çıkışın ve otobüs durağının nerede olduğuna bakayım."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_074",
       "speaker": "刘梅",
-      "zh": "我再检查一遍座位和行李，确定没有东西落在站台。",
-      "pinyin": "wǒ zài jiǎn chá yī biàn zuò wèi hé xíng lǐ què dìng méi yǒu dōng xī luò zài zhàn tái",
-      "tr": "Peronda bir şey kalmadığından emin olmak için koltukları ve bagajı bir kez daha kontrol edeyim."
+      "zh": "我再数一下行李，确认没有东西留在车上。",
+      "pinyin": "wǒ zài shù yī xià xíng lǐ，què rèn méi yǒu dōng xī liú zài chē shàng。",
+      "tr": "Trende bir şey kalmadığından emin olmak için bagajı tekrar sayıyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_075",
       "speaker": "工作人员",
-      "zh": "请注意脚下台阶，行李放稳以后不要占用过道。",
-      "pinyin": "qǐng zhù yì jiǎo xià tái jiē xíng lǐ fàng wěn yǐ hòu bú yào zhàn yòng guò dào",
-      "tr": "Lütfen basamaklara dikkat edin; bagajınızı yerleştirince geçiş yolunu kapatmayın."
+      "zh": "出站请跟着指示牌走，需要帮助可以联系站内工作人员。",
+      "pinyin": "chū zhàn qǐng gēn zhe zhǐ shì pái zǒu，xū yào bāng zhù kě yǐ lián xì zhàn nèi gōng zuò rén yuán。",
+      "tr": "Çıkış için tabelaları izleyin; yardıma ihtiyacınız olursa istasyon görevlilerine başvurabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_076",
@@ -557,16 +557,16 @@
     {
       "id": "DLG_ZH_HSK4_SC027_079",
       "speaker": "工作人员",
-      "zh": "列车即将发车，请不要站在车门附近，注意安全。",
-      "pinyin": "liè chē jí jiāng fā chē qǐng bú yào zhàn zài chē mén fù jìn zhù yì ān quán",
-      "tr": "Tren kalkmak üzere; lütfen kapıların yanında ayakta durmayın ve güvenliğinize dikkat edin."
+      "zh": "列车已到站，请旅客下车时注意台阶并带好行李。",
+      "pinyin": "liè chē yǐ dào zhàn，qǐng lǚ kè xià chē shí zhù yì tái jiē bìng dài hǎo xíng lǐ。",
+      "tr": "Tren istasyona ulaştı; inerken basamaklara dikkat edin ve eşyalarınızı alın."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_080",
       "speaker": "张乐乐",
       "zh": "酒店已经看到我们的消息，房间还留着。我们先办入住再找晚饭。",
-      "pinyin": "jiǔ diàn yǐ jīng kàn dào wǒ men de xiāo xī fáng jiān hái liú zhe wǒ men xiān bàn rù zhù zài zhǎo wǎn fàn",
-      "tr": "Otel mesajımızı görmüş, oda hâlâ ayrılmış. Önce giriş yapıp sonra yemek arayabiliriz."
+      "pinyin": "jiǔ diàn yǐ jīng kàn dào wǒ men de xiāo xī，fáng jiān hái liú zhe。wǒ men xiān bàn rù zhù zài zhǎo wǎn fàn。",
+      "tr": "Otel mesajımızı görmüş, odamızı ayırmış. Önce giriş yapıp sonra akşam yemeği bulalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_081",
@@ -585,9 +585,9 @@
     {
       "id": "DLG_ZH_HSK4_SC027_083",
       "speaker": "工作人员",
-      "zh": "请确认行李放稳，车门关闭后不要再上下车。",
-      "pinyin": "qǐng què rèn xíng lǐ fàng wěn chē mén guān bì hòu bú yào zài shàng xià chē",
-      "tr": "Bagajınızın sabitlendiğinden emin olun; kapılar kapandıktan sonra trene binip inmeyin."
+      "zh": "请不要在出站通道停留，注意给其他旅客让路。",
+      "pinyin": "qǐng bú yào zài chū zhàn tōng dào tíng liú，zhù yì gěi qí tā lǚ kè ràng lù。",
+      "tr": "Lütfen çıkış koridorunda durmayın ve diğer yolculara yol verin."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_084",
@@ -613,9 +613,9 @@
     {
       "id": "DLG_ZH_HSK4_SC027_087",
       "speaker": "工作人员",
-      "zh": "列车即将发车，请坐在座位上，照看好随身物品。",
-      "pinyin": "liè chē jí jiāng fā chē qǐng zuò zài zuò wèi shàng zhào kàn hǎo suí shēn wù pǐn",
-      "tr": "Tren kalkmak üzere; lütfen yerinize oturun ve kişisel eşyalarınıza dikkat edin."
+      "zh": "出站后请留意公交和出租车的指示牌，再选择合适的路线。",
+      "pinyin": "chū zhàn hòu qǐng liú yì gōng jiāo hé chū zū chē de zhǐ shì pái，zài xuǎn zé hé shì de lù xiàn。",
+      "tr": "Çıkıştan sonra otobüs ve taksi tabelalarına bakıp uygun güzergâhı seçin."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_088",
@@ -634,16 +634,16 @@
     {
       "id": "DLG_ZH_HSK4_SC027_090",
       "speaker": "刘梅",
-      "zh": "酒店房间已经确认，大家的行李也都放好了。我们可以去吃饭了。",
-      "pinyin": "jiǔ diàn fáng jiān yǐ jīng què rèn dà jiā de xíng lǐ yě dōu fàng hǎo le wǒ men kě yǐ qù chī fàn le",
-      "tr": "Otel odası teyit edildi, valizler de yerleşti. Yemeğe gidebiliriz."
+      "zh": "酒店房间已经确认，行李也收好了。我们先办入住，再去附近吃饭。",
+      "pinyin": "jiǔ diàn fáng jiān yǐ jīng què rèn，xíng lǐ yě shōu hǎo le。wǒ men xiān bàn rù zhù，zài qù fù jìn chī fàn。",
+      "tr": "Otel odamız kesinleşti, bagajımız da hazır. Önce giriş yapıp sonra yakında yemek yiyelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_091",
       "speaker": "工作人员",
-      "zh": "列车开车后，请通过车厢内的工作人员咨询行程问题。",
-      "pinyin": "liè chē kāi chē hòu qǐng tōng guò chē xiāng nèi de gōng zuò rén yuán zī xún xíng chéng wèn tí",
-      "tr": "Tren hareket ettikten sonra yolculukla ilgili sorularınızı vagon görevlisine iletebilirsiniz."
+      "zh": "需要帮助时，请到出站口旁边的服务台咨询。",
+      "pinyin": "xū yào bāng zhù shí，qǐng dào chū zhàn kǒu páng biān de fú wù tái zī xún。",
+      "tr": "Yardıma ihtiyacınız olursa çıkışın yanındaki danışma masasına başvurun."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_092",
@@ -669,9 +669,9 @@
     {
       "id": "DLG_ZH_HSK4_SC027_095",
       "speaker": "工作人员",
-      "zh": "请旅客尽快上车，列车将按调整后的时间发车。",
-      "pinyin": "qǐng lǚ kè jǐn kuài shàng chē liè chē jiāng àn tiáo zhěng hòu de shí jiān fā chē",
-      "tr": "Yolcular lütfen trene binsin; tren güncellenen saate göre hareket edecek."
+      "zh": "请从出站通道有序离站，注意脚下台阶。",
+      "pinyin": "qǐng cóng chū zhàn tōng dào yǒu xù lí zhàn，zhù yì jiǎo xià tái jiē。",
+      "tr": "Lütfen çıkış koridorundan sırayla ilerleyin ve basamaklara dikkat edin."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_096",
@@ -683,9 +683,9 @@
     {
       "id": "DLG_ZH_HSK4_SC027_097",
       "speaker": "张伟",
-      "zh": "等列车开动后，我们再慢慢吃点东西，不用现在赶。",
-      "pinyin": "děng liè chē kāi dòng hòu wǒ men zài màn màn chī diǎn dōng xī bù yòng xiàn zài gǎn",
-      "tr": "Tren hareket edince yiyecek bir şeyler yeriz; şimdi acele etmeyelim."
+      "zh": "到了酒店办好入住，我们就能安心吃饭休息了。",
+      "pinyin": "dào le jiǔ diàn bàn hǎo rù zhù，wǒ men jiù néng ān xīn chī fàn xiū xī le。",
+      "tr": "Otele varıp giriş işlemlerini tamamlayınca rahatça yemek yiyip dinlenebiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC027_098",
@@ -704,9 +704,9 @@
     {
       "id": "DLG_ZH_HSK4_SC027_100",
       "speaker": "张乐乐",
-      "zh": "火车终于要开了。我们先坐好，明天再按计划慢慢玩。",
-      "pinyin": "huǒ chē zhōng yú yào kāi le wǒ men xiān zuò hǎo míng tiān zài àn jì huà màn màn wán",
-      "tr": "Nihayet tren kalkıyor. Önce yerimize oturalım; yarın planımızı acele etmeden uygularız."
+      "zh": "到酒店办好入住后，我们就能安心吃饭休息了。",
+      "pinyin": "dào jiǔ diàn bàn hǎo rù zhù hòu，wǒ men jiù néng ān xīn chī fàn xiū xī le。",
+      "tr": "Otele giriş yaptıktan sonra rahatça yemek yiyip dinlenebiliriz."
     }
   ],
   "productionStatus": "complete",
@@ -730,9 +730,9 @@
         "zh": "晚点",
         "pinyin": "wǎndiǎn",
         "tr": "gecikme",
-        "exampleZh": "晚点是我们不能忽略的一点。",
-        "examplePinyin": "Wǎndiǎn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Gecikme göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "晚点让计划变了，但没有影响我们一起旅行的心情。",
+        "examplePinyin": "wǎn diǎn ràng jì huà biàn le dàn méi yǒu yǐng xiǎng wǒ men yì qǐ lǚ xíng de xīn qíng",
+        "exampleTr": "Gecikme planı değiştirdi ama birlikte tatil yapma keyfimizi bozmadı.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "站台",
         "pinyin": "zhàntái",
         "tr": "peron",
-        "exampleZh": "我们把站台也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zhàntái yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Peron konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我们现在就在候车区，不需要换站台吧？",
+        "examplePinyin": "wǒ men xiàn zài jiù zài hòu chē qū bù xū yào huàn zhàn tái ba",
+        "exampleTr": "Şu anda bekleme alanındayız; peron değiştirmemiz gerekmiyor, değil mi?",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "公交卡",
         "pinyin": "gōngjiāo kǎ",
         "tr": "otobüs kartı",
-        "exampleZh": "如果公交卡发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ gōngjiāo kǎ fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Otobüs kartı değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "我把公交卡收回钱包了，明天还要坐车去老街。",
+        "examplePinyin": "wǒ bǎ gōng jiāo kǎ shōu huí qián bāo le míng tiān hái yào zuò chē qù lǎo jiē",
+        "exampleTr": "Otobüs kartımı cüzdanıma koydum; yarın eski sokağa giderken yine gerekecek.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "安排",
         "pinyin": "ānpái",
         "tr": "planlama / düzenleme",
-        "exampleZh": "关于安排，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú ānpái, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Planlama / düzenleme konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "感谢配合车站安排，祝您和家人旅途愉快。",
+        "examplePinyin": "gǎn xiè pèi hé chē zhàn ān pái zhù nín hé jiā rén lǚ tú yú kuài",
+        "exampleTr": "İstasyon düzenine uyduğunuz için teşekkürler. Ailenizle iyi yolculuklar.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "出差",
         "pinyin": "chūchāi",
         "tr": "iş seyahati",
-        "exampleZh": "出差是我们不能忽略的一点。",
-        "examplePinyin": "Chūchāi shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Iş seyahati göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "工作出差时我常常自己处理改签，这次和家人一起商量更轻松。",
+        "examplePinyin": "gōng zuò chū chāi shí wǒ cháng cháng zì jǐ chǔ lǐ gǎi qiān zhè cì hé jiā rén yì qǐ shāng liáng gèng qīng sōng",
+        "exampleTr": "İş seyahatinde değişiklikleri genelde kendim hallederim; bu kez ailemle konuşmak daha rahattı.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "确认",
         "pinyin": "quèrèn",
         "tr": "teyit etmek",
-        "exampleZh": "我们把确认也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ quèrèn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Teyit etmek konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我再数一下行李，确认没有东西留在车上。",
+        "examplePinyin": "wǒ zài shù yī xià xíng lǐ，què rèn méi yǒu dōng xī liú zài chē shàng。",
+        "exampleTr": "Trende bir şey kalmadığından emin olmak için bagajı tekrar sayıyorum.",
         "kind": "active"
       },
       {

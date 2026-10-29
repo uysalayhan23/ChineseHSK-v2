@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC009",
   "level": "HSK5",
   "sourceTitleZh": "艰难的客户会议",
@@ -16,9 +16,9 @@
     {
       "id": "DLG_ZH_HSK5_SC009_002",
       "speaker": "客户",
-      "zh": "我们最担心日期一再往后推，也想知道拿到版本后能不能尽快试用。",
-      "pinyin": "wǒ men zuì dān xīn rì qī yī zài wǎng hòu tuī ， yě xiǎng zhī dào ná dào bǎn běn hòu néng bù néng jǐn kuài shì yòng 。",
-      "tr": "Tarihin sürekli ertelenmesinden endişeliyiz; sürümü alınca kısa sürede deneyip deneyemeyeceğimizi de bilmek istiyoruz。"
+      "zh": "我们理解，客户期待的是可靠的日期和能尽快试用的版本。",
+      "pinyin": "wǒ men lǐ jiě ， kè hù qī dài de shì kě kào de rì qī hé néng jǐn kuài shì yòng de bǎn běn 。",
+      "tr": "Müşterinin güvenilir bir tarih ve mümkün olan en kısa sürede deneyebileceği bir sürüm beklediğini anlıyoruz."
     },
     {
       "id": "DLG_ZH_HSK5_SC009_003",
@@ -37,9 +37,9 @@
     {
       "id": "DLG_ZH_HSK5_SC009_005",
       "speaker": "张伟",
-      "zh": "之前给出的日期比实际进度乐观，这是我们沟通不够谨慎，我向您道歉。",
-      "pinyin": "zhī qián gěi chū de rì qī bǐ shí jì jìn dù lè guān ， zhè shì wǒ men gōu tōng bù gòu jǐn shèn ， wǒ xiàng nín dào qiàn 。",
-      "tr": "Daha önce verdiğimiz tarih gerçek ilerlemeye göre fazla iyimserdi; iletişimde yeterince temkinli davranmadık, özür dilerim。"
+      "zh": "之前给出的日期过于乐观；这次项目延期，是我们沟通不够谨慎，我向您道歉。",
+      "pinyin": "zhī qián gěi chū de rì qī guò yú lè guān ； zhè cì xiàng mù yán qī ， shì wǒ men gōu tōng bù gòu jǐn shèn ， wǒ xiàng nín dào qiàn 。",
+      "tr": "Önceden verdiğimiz tarih fazla iyimserdi; projenin gecikmesi temkinli iletişim kurmamamızdan kaynaklandı. Özür dilerim."
     },
     {
       "id": "DLG_ZH_HSK5_SC009_006",
@@ -107,9 +107,9 @@
     {
       "id": "DLG_ZH_HSK5_SC009_015",
       "speaker": "经理",
-      "zh": "如果周三完成核心测试，周四可以复核，周五交付就有一天缓冲。",
-      "pinyin": "rú guǒ zhōu sān wán chéng hé xīn cè shì ， zhōu sì kě yǐ fù hé ， zhōu wǔ jiāo fù jiù yǒu yī tiān huǎn chōng 。",
-      "tr": "Temel testleri çarşamba bitirirsek perşembe son kontrolü yapabilir, cuma teslimi için bir günlük pay bırakabiliriz。"
+      "zh": "如果周三完成核心测试，周四可以复核，周五的截止日期就留有一天缓冲。",
+      "pinyin": "rú guǒ zhōu sān wán chéng hé xīn cè shì ， zhōu sì kě yǐ fù hé ， zhōu wǔ de jié zhǐ rì qī jiù liú yǒu yī tiān huǎn chōng 。",
+      "tr": "Temel testler çarşamba biterse perşembe yeniden kontrol eder, cuma son tarihi için bir gün pay bırakırız."
     },
     {
       "id": "DLG_ZH_HSK5_SC009_016",
@@ -226,9 +226,9 @@
     {
       "id": "DLG_ZH_HSK5_SC009_032",
       "speaker": "同事",
-      "zh": "已知问题清单会标注影响范围、临时处理办法以及计划修复的日期。",
-      "pinyin": "yǐ zhī wèn tí qīng dān huì biāo zhù yǐng xiǎng fàn wéi 、 lín shí chǔ lǐ bàn fǎ yǐ jí jì huà xiū fù de rì qī 。",
-      "tr": "Bilinen sorunlar listesinde etki alanını, geçici çözümü ve planlanan düzeltme tarihini belirteceğim。"
+      "zh": "已知问题清单会标注影响范围、临时解决办法以及计划修复的日期。",
+      "pinyin": "yǐ zhī wèn tí qīng dān huì biāo zhù yǐng xiǎng fàn wéi 、 lín shí jiě jué bàn fǎ yǐ jí jì huà xiū fù de rì qī 。",
+      "tr": "Bilinen sorunlar listesinde etki alanı, geçici çözüm ve planlanan düzeltme tarihi yer alacak."
     },
     {
       "id": "DLG_ZH_HSK5_SC009_033",
@@ -401,9 +401,9 @@
     {
       "id": "DLG_ZH_HSK5_SC009_057",
       "speaker": "张伟",
-      "zh": "这样双方都有明确任务，时间风险也更容易提前看见。",
-      "pinyin": "zhè yàng shuāng fāng dōu yǒu míng què rèn wù ， shí jiān fēng xiǎn yě gèng róng yì tí qián kàn jiàn 。",
-      "tr": "Böylece iki tarafın da görevi belli olur ve zaman riskini önceden görmek kolaylaşır。"
+      "zh": "我们不是要说服贵方接受不确定的日期，而是先把证据和可选方案说明白。",
+      "pinyin": "wǒ men bú shì yào shuō fú guì fāng jiē shòu bù què dìng de rì qī ， ér shì xiān bǎ zhèng jù hé kě xuǎn fāng àn shuō míng bái 。",
+      "tr": "Amacımız sizi belirsiz bir tarihi kabul etmeye ikna etmek değil; önce kanıtları ve seçenekleri açıkça anlatmak."
     },
     {
       "id": "DLG_ZH_HSK5_SC009_058",
@@ -457,9 +457,9 @@
     {
       "id": "DLG_ZH_HSK5_SC009_065",
       "speaker": "张伟",
-      "zh": "我们不会隐瞒这个风险，也不会因为一个测试项就放弃其他准备工作。",
-      "pinyin": "wǒ men bú huì yǐn mán zhè ge fēng xiǎn ， yě bú huì yīn wèi yí gè cè shì xiàng jiù fàng qì qí tā zhǔn bèi gōng zuò 。",
-      "tr": "Bu riski gizlemeyeceğiz; tek bir test maddesi yüzünden diğer hazırlıkları da bırakmayacağız。"
+      "zh": "无论今晚复测结果如何，我们都先把试用限制和反馈渠道写清楚。",
+      "pinyin": "wú lùn jīn wǎn fù cè jié guǒ rú hé ， wǒ men dōu xiān bǎ shì yòng xiàn zhì hé fǎn kuì qú dào xiě qīng chǔ 。",
+      "tr": "Bu akşamki tekrar testinin sonucu ne olursa olsun deneme sınırlarını ve geri bildirim kanalını açıkça yazalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC009_066",

@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC036.json",
-  "dialogueSha256": "ae4f71b86fbc442d7d48772be54d22c3a085fa27da557e9f4e7b28b25469b529",
+  "dialogueSha256": "73faa9a8103f2ab8198f78b4eb4fc1405afdcb1010b7bf1dcafa09ec5ccbe665",
   "titleTr": "Malzeme Eksikliği",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Büyük sipariş hazırlanırken un biter ve ekip alternatif tedarik arar.",

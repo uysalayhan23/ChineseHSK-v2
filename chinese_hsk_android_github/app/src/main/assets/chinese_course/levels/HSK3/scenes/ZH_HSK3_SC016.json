@@ -730,9 +730,9 @@
         "zh": "菜单",
         "pinyin": "càidān",
         "tr": "menü",
-        "exampleZh": "我已经把菜单记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ càidān jì xiàlái le.",
-        "exampleTr": "Menü notunu aldım.",
+        "exampleZh": "我们可以把两种都放进菜单，让客人自己选择。",
+        "examplePinyin": "Wǒ men kě yǐ bǎ liǎng zhǒng dōu fàng jìn cài dān ， ràng kè rén zì jǐ xuǎn zé 。",
+        "exampleTr": "İkisini de menüye koyup müşterilerin kendilerinin seçmesini sağlayabiliriz.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "味道",
         "pinyin": "wèidào",
         "tr": "tat",
-        "exampleZh": "味道是这次要考虑的重点之一。",
-        "examplePinyin": "Wèidào shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-        "exampleTr": "Tat bu kez değerlendirmemiz gereken ana noktalardan biri.",
+        "exampleZh": "好啊，先尝一小块，再说味道。",
+        "examplePinyin": "Hǎo a ， xiān cháng yī xiǎo kuài ， zài shuō wèi dào 。",
+        "exampleTr": "Olur, önce küçük bir parça tadıp sonra tadını konuşalım.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "打分",
         "pinyin": "dǎfēn",
         "tr": "puan vermek",
-        "exampleZh": "我已经准备好打分了。",
-        "examplePinyin": "Wǒ yǐjīng zhǔnbèi hǎo dǎfēn le.",
-        "exampleTr": "Puan vermek için hazırım.",
+        "exampleZh": "我们把每种蛋糕都打分，最后再决定。",
+        "examplePinyin": "Wǒ men bǎ měi zhǒng dàn gāo dōu dǎ fēn ， zuì hòu zài jué dìng 。",
+        "exampleTr": "Her pastaya puan verip en son karar verelim.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "好吃",
         "pinyin": "hǎochī",
         "tr": "lezzetli",
-        "exampleZh": "如果好吃没有问题，我们就继续。",
-        "examplePinyin": "Rúguǒ hǎochī méiyǒu wèntí, wǒmen jiù jìxù.",
-        "exampleTr": "Lezzetli konusunda sorun yoksa devam ederiz.",
+        "exampleZh": "这两种都好吃，今天要选一种有点难。",
+        "examplePinyin": "Zhè liǎng zhǒng dōu hǎo chī ， jīn tiān yào xuǎn yī zhǒng yǒu diǎn nán 。",
+        "exampleTr": "İkisi de lezzetli; bugün birini seçmek zor olacak.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "选择",
         "pinyin": "xuǎnzé",
         "tr": "seçmek",
-        "exampleZh": "我们先选择，然后再看下一步。",
-        "examplePinyin": "Wǒmen xiān xuǎnzé, ránhòu zài kàn xià yí bù.",
-        "exampleTr": "Önce seçmek, sonra sonraki adıma bakarız.",
+        "exampleZh": "这样不错，大家可以自己选择要不要吃奶油。",
+        "examplePinyin": "Zhè yàng bù cuò ， dà jiā kě yǐ zì jǐ xuǎn zé yào bú yào chī nǎi yóu 。",
+        "exampleTr": "Bu iyi; isteyen kremayı yiyip istemeyen yemeyebilir.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "比较",
         "pinyin": "bǐjiào",
         "tr": "karşılaştırmak",
-        "exampleZh": "这个时候最好先比较。",
-        "examplePinyin": "Zhège shíhou zuìhǎo xiān bǐjiào.",
-        "exampleTr": "Bu durumda önce karşılaştırmak en iyisi.",
+        "exampleZh": "那我们先比较草莓和巧克力的味道。",
+        "examplePinyin": "Nà wǒ men xiān bǐ jiào cǎo méi hé qiǎo kè lì de wèi dào 。",
+        "exampleTr": "O zaman önce çilekliyle çikolatalının tadını karşılaştıralım.",
         "kind": "active"
       },
       {

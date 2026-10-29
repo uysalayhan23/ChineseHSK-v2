@@ -730,9 +730,9 @@
         "zh": "导游",
         "pinyin": "dǎoyóu",
         "tr": "rehber",
-        "exampleZh": "导游在这件事里很重要。",
-        "examplePinyin": "Dǎoyóu zài zhè jiàn shì lǐ hěn zhòngyào.",
-        "exampleTr": "Rehber bu konuda önemli.",
+        "exampleZh": "导游姐姐，节日活动现在还在这条街举行吗？",
+        "examplePinyin": "dǎo yóu jiě jiě jié rì huó dòng xiàn zài hái zài zhè tiáo jiē jǔ xíng ma",
+        "exampleTr": "Rehber abla, bayram etkinliği hâlâ bu sokakta mı düzenleniyor?",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "当地历史",
         "pinyin": "dāngdì lìshǐ",
         "tr": "yerel tarih",
-        "exampleZh": "我们把当地历史也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ dāngdì lìshǐ yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Yerel tarih konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "当地历史听起来很丰富。除了老街，还有什么地方能继续了解？",
+        "examplePinyin": "dāng dì lì shǐ tīng qǐ lái hěn fēng fù chú le lǎo jiē hái yǒu shén me dì fāng néng jì xù liǎo jiě",
+        "exampleTr": "Yerel tarih zengin görünüyor. Eski sokak dışında nerede öğrenmeye devam edebiliriz?",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "游客",
         "pinyin": "yóukè",
         "tr": "turist",
-        "exampleZh": "如果游客发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ yóukè fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Turist değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "谢谢说明。我们会尊重当地的规定，也不影响其他游客。",
+        "examplePinyin": "xiè xiè shuō míng wǒ men huì zūn zhòng dāng dì de guī dìng yě bù yǐng xiǎng qí tā yóu kè",
+        "exampleTr": "Bilgi için teşekkürler. Yerel kurallara uyar, diğer ziyaretçileri rahatsız etmeyiz.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "出差",
         "pinyin": "chūchāi",
         "tr": "iş seyahati",
-        "exampleZh": "关于出差，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú chūchāi, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Iş seyahati konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "我平时出差常常直接去开会，难得有机会慢慢了解一座城。",
+        "examplePinyin": "wǒ píng shí chū chāi cháng cháng zhí jiē qù kāi huì nán dé yǒu jī huì màn màn liǎo jiě yī zuò chéng",
+        "exampleTr": "İş seyahatlerinde genelde doğrudan toplantıya giderim; bir şehri ağır ağır tanıma fırsatım pek olmaz.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "文化",
         "pinyin": "wénhuà",
         "tr": "kültür",
-        "exampleZh": "文化是我们不能忽略的一点。",
-        "examplePinyin": "Wénhuà shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Kültür göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我喜欢从日常生活来了解文化，比只记年代更容易记住。",
+        "examplePinyin": "wǒ xǐ huān cóng rì cháng shēng huó lái liǎo jiě wén huà bǐ zhǐ jì nián dài gèng róng yì jì zhù",
+        "exampleTr": "Kültürü günlük yaşam üzerinden öğrenmeyi seviyorum; yalnızca tarihleri ezberlemekten daha akılda kalıcı.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "选择",
         "pinyin": "xuǎnzé",
         "tr": "seçim",
-        "exampleZh": "我们把选择也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ xuǎnzé yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Seçim konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "谢谢你让我们按自己的兴趣选择路线，没有催着大家赶景点。",
+        "examplePinyin": "xiè xiè nǐ ràng wǒ men àn zì jǐ de xìng qù xuǎn zé lù xiàn méi yǒu cuī zhe dà jiā gǎn jǐng diǎn",
+        "exampleTr": "İlgi alanımıza göre rota seçmemize izin verip bizi gezilecek yerlere yetiştirmediğin için teşekkürler.",
         "kind": "active"
       },
       {

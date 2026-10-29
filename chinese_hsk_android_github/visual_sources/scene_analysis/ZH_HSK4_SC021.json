@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC021",
   "status": "ANALYZED_READY_FOR_GENERATION",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC021.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC021.json",
   "titleTr": "Büyükbabanın Pazarı",
   "locationId": "LOC_ZH_MARKET_001",
   "scenePurposeTr": "Büyükbaba yetiştirdiği ürünleri mahalle pazarında paylaşır ve satar.",

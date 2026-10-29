@@ -730,9 +730,9 @@
         "zh": "家庭会议",
         "pinyin": "jiātíng huìyì",
         "tr": "aile toplantısı",
-        "exampleZh": "我已经把家庭会议记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ jiātíng huìyì jì xiàlái le.",
-        "exampleTr": "Aile toplantısı notunu aldım.",
+        "exampleZh": "今天的家庭会议先谈什么？",
+        "examplePinyin": "jīn tiān de jiā tíng huì yì xiān tán shén me ？",
+        "exampleTr": "Bugünkü aile toplantısında önce neyi konuşacağız?",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "风险",
         "pinyin": "fēngxiǎn",
         "tr": "risk",
-        "exampleZh": "风险是这次要考虑的重点之一。",
-        "examplePinyin": "Fēngxiǎn shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-        "exampleTr": "Risk bu kez değerlendirmemiz gereken ana noktalardan biri.",
+        "exampleZh": "这是风险，可以先准备三个月的房租。",
+        "examplePinyin": "zhè shì fēng xiǎn ， kě yǐ xiān zhǔn bèi sān gè yuè de fáng zū 。",
+        "exampleTr": "Bu bir risk; üç aylık kirayı önceden ayırabiliriz.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "好处",
         "pinyin": "hǎochu",
         "tr": "fayda",
-        "exampleZh": "我们最好再确认一下好处。",
-        "examplePinyin": "Wǒmen zuìhǎo zài quèrèn yíxià hǎochu.",
-        "exampleTr": "Fayda konusunu bir kez daha teyit etsek iyi olur.",
+        "exampleZh": "这是好处，路过的人容易看到招牌。",
+        "examplePinyin": "zhè shì hǎo chù ， lù guò de rén róng yì kàn dào zhāo pái 。",
+        "exampleTr": "Bu avantaj; yoldan geçenler tabelayı görür.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "生意",
         "pinyin": "shēngyi",
         "tr": "iş / ticaret",
-        "exampleZh": "如果生意没有问题，我们就继续。",
-        "examplePinyin": "Rúguǒ shēngyi méiyǒu wèntí, wǒmen jiù jìxù.",
-        "exampleTr": "Iş / ticaret konusunda sorun yoksa devam ederiz.",
+        "exampleZh": "我们能做喜欢的生意，也能见到邻居。",
+        "examplePinyin": "wǒ men néng zuò xǐ huān de shēng yì ， yě néng jiàn dào lín jū 。",
+        "exampleTr": "Sevdiğimiz işi yapıp komşularla görüşebiliriz.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "预算",
         "pinyin": "yùsuàn",
         "tr": "bütçe",
-        "exampleZh": "关于预算，我们还要再讨论一下。",
-        "examplePinyin": "Guānyú yùsuàn, wǒmen hái yào zài tǎolùn yíxià.",
-        "exampleTr": "Bütçe konusunda biraz daha konuşmalıyız.",
+        "exampleZh": "先说清楚咖啡馆的计划，再看看预算。",
+        "examplePinyin": "xiān shuō qīng chǔ kā fēi guǎn de jì huà ， zài kàn kàn yù suàn 。",
+        "exampleTr": "Önce kafe planını netleştirip bütçeye bakalım.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "决定",
         "pinyin": "juédìng",
         "tr": "karar vermek",
-        "exampleZh": "这个时候最好先决定。",
-        "examplePinyin": "Zhège shíhou zuìhǎo xiān juédìng.",
-        "exampleTr": "Bu durumda önce karar vermek en iyisi.",
+        "exampleZh": "先找原因，再决定要不要改菜单。",
+        "examplePinyin": "xiān zhǎo yuán yīn ， zài jué dìng yào bù yào gǎi cài dān 。",
+        "exampleTr": "Önce nedeni bulup menüyü değiştirmeye karar veririz.",
         "kind": "active"
       },
       {

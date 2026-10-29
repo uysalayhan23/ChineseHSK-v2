@@ -354,9 +354,9 @@
     {
       "id": "DLG_ZH_HSK6_SC029_050",
       "speaker": "老顾客",
-      "zh": "难怪你临走时把杯子看了好几眼，我当时还以为你在检查有没有水渍。",
-      "pinyin": "nán guài nǐ lín zǒu shí bǎ bēi zi kàn le hǎo jǐ yǎn ， wǒ dāng shí hái yǐ wéi nǐ zài jiǎn chá yǒu méi yǒu shuǐ zì 。",
-      "tr": "Giderken fincana birkaç kez bakmana şaşmamalı; ben lekesi var mı diye kontrol ediyorsun sanmıştım."
+      "zh": "是啊，我那时确实有些舍不得，只是不知道该怎么开口。",
+      "pinyin": "shì a ， wǒ nà shí què shí yǒu xiē shě bù dé ， zhǐ shì bù zhī dào gāi zěn me kāi kǒu 。",
+      "tr": "Evet, o zaman ayrılmaya gerçekten üzülmüştüm ama nasıl söyleyeceğimi bilememiştim."
     },
     {
       "id": "DLG_ZH_HSK6_SC029_051",
@@ -426,14 +426,14 @@
       "speaker": "李晨",
       "zh": "一点也不生分。你一进门，我们就认出你的笑声了。",
       "pinyin": "yì diǎn yě bù shēng fēn 。 nǐ yī jìn mén ， wǒ men jiù rèn chū nǐ de xiào shēng le 。",
-      "tr": "Hiç de yabancı değilsin. İçeri girer girmez gülüşünden seni tanıdık."
+      "tr": "Hiç yabancılık yok. İçeri girer girmez gülüşünden seni tanıdık."
     },
     {
       "id": "DLG_ZH_HSK6_SC029_061",
       "speaker": "刘梅",
-      "zh": "听见你的笑声时，我一下就认出是你了。",
-      "pinyin": "tīng jiàn nǐ de xiào shēng shí ， wǒ yī xià jiù rèn chū shì nǐ le 。",
-      "tr": "Gülüşünü duyunca seni hemen tanıdım."
+      "zh": "你以前每次进门都会先跟我们打招呼，这个习惯我还记得。",
+      "pinyin": "nǐ yǐ qián měi cì jìn mén dū huì xiān gēn wǒ men dǎ zhāo hū ， zhè ge xí guàn wǒ hái jì de 。",
+      "tr": "Eskiden her gelişinde önce bize selam verirdin; bu alışkanlığını hâlâ hatırlıyorum."
     },
     {
       "id": "DLG_ZH_HSK6_SC029_062",
@@ -571,9 +571,9 @@
     {
       "id": "DLG_ZH_HSK6_SC029_081",
       "speaker": "刘梅",
-      "zh": "我可以先在店里坐一会儿，等你们不忙的时候再聊。",
-      "pinyin": "wǒ kě yǐ xiān zài diàn lǐ zuò yī huì er ， děng nǐ men bù máng de shí hòu zài liáo 。",
-      "tr": "Önce burada biraz oturabilir, siz sakinleşince konuşabilirim."
+      "zh": "店里这会儿不忙，我们坐下来慢慢聊吧。",
+      "pinyin": "diàn lǐ zhè huì er bù máng ， wǒ men zuò xià lái màn màn liáo ba 。",
+      "tr": "Dükkân şu an sakin; gel oturup rahatça konuşalım."
     },
     {
       "id": "DLG_ZH_HSK6_SC029_082",
@@ -727,83 +727,83 @@
     "vocabularyCards": [
       {
         "id": "VOC_ZH_HSK6_SC029_001",
-        "zh": "重逢",
-        "pinyin": "chóngféng",
-        "tr": "yeniden buluşma",
-        "exampleZh": "重逢之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Chóngféng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Yeniden buluşma önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "老朋友",
+        "pinyin": "lǎo péng yǒu",
+        "tr": "eski müşteri",
+        "exampleZh": "我刚来时就听你们提过这位老朋友，今天终于见到了。",
+        "examplePinyin": "wǒ gāng lái shí jiù tīng nǐ men tí guò zhè wèi lǎo péng yǒu ， jīn tiān zhōng yú jiàn dào le 。",
+        "exampleTr": "İşe başlayınca eski dostunuzdan söz edildiğini duymuştum; bugün sonunda tanıştım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC029_002",
-        "zh": "怀旧",
-        "pinyin": "huáijiù",
-        "tr": "nostalji",
-        "exampleZh": "如果忽略怀旧，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè huáijiù, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Nostalji göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "缺口",
+        "pinyin": "quē kǒu",
+        "tr": "çentik / çatlak",
+        "exampleZh": "它有一道小缺口，所以我们一直没把它和别的杯子弄混。",
+        "examplePinyin": "tā yǒu yī dào xiǎo quē kǒu ， suǒ yǐ wǒ men yì zhí méi bǎ tā hé bié de bēi zi nòng hùn 。",
+        "exampleTr": "Üzerinde küçük bir çentik var; bu yüzden onu diğer fincanlarla hiç karıştırmadık.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC029_003",
-        "zh": "共同记忆",
-        "pinyin": "gòngtóng jìyì",
-        "tr": "ortak anılar",
-        "exampleZh": "我想把共同记忆放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ gòngtóng jìyì fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Ortak anılar konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
+        "zh": "习惯",
+        "pinyin": "xí guàn",
+        "tr": "alışkanlık",
+        "exampleZh": "你搬走以后，生活还习惯吗？我一直想问，又怕显得太冒失。",
+        "examplePinyin": "nǐ bān zǒu yǐ hòu ， shēng huó hái xí guàn ma ？ wǒ yì zhí xiǎng wèn ， yòu pà xiǎn de tài mào shī 。",
+        "exampleTr": "Taşındıktan sonra yaşama alışabildin mi? Hep sormak istedim ama fazla özel olur diye çekindim.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC029_004",
-        "zh": "情感纽带",
-        "pinyin": "qínggǎn niǔdài",
-        "tr": "duygusal bağ",
-        "exampleZh": "谈到情感纽带，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào qínggǎn niǔdài, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Duygusal bağ konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
+        "zh": "想念",
+        "pinyin": "xiǎng niàn",
+        "tr": "özlemek",
+        "exampleZh": "对。那时候我没意识到，离开以后才发现自己会想念。",
+        "examplePinyin": "duì 。 nà shí hòu wǒ méi yì shí dào ， lí kāi yǐ hòu cái fā xiàn zì jǐ huì xiǎng niàn 。",
+        "exampleTr": "Evet. O zaman fark etmedim; ayrılınca özlediğimi anladım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC029_005",
-        "zh": "语境",
-        "pinyin": "yǔjìng",
-        "tr": "bağlam",
-        "exampleZh": "语境之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Yǔjìng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Bağlam önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "重逢",
+        "pinyin": "chóng féng",
+        "tr": "yeniden karşılaşma",
+        "exampleZh": "这正是重逢的意思：不是把时间倒回去，而是让过去和现在碰个面。",
+        "examplePinyin": "zhè zhèng shì chóng féng de yì si ： bú shì bǎ shí jiān dào huí qù ， ér shì ràng guò qù hé xiàn zài pèng gè miàn 。",
+        "exampleTr": "Yeniden buluşmak zamanı geri almak değil; geçmişle bugünün karşılaşmasını sağlamaktır.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC029_006",
-        "zh": "立场",
-        "pinyin": "lìchǎng",
-        "tr": "tutum / bakış açısı",
-        "exampleZh": "如果忽略立场，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè lìchǎng, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Tutum / bakış açısı göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "菜单",
+        "pinyin": "cài dān",
+        "tr": "menü",
+        "exampleZh": "当然。菜单上有新饮品，也保留了几种大家常点的。",
+        "examplePinyin": "dāng rán 。 cài dān shàng yǒu xīn yǐn pǐn ， yě bǎo liú le jǐ zhǒng dà jiā cháng diǎn de 。",
+        "exampleTr": "Elbette. Menüye yeni içecekler eklendi ama sık sipariş edilenlerden bazıları duruyor.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC029_007",
-        "zh": "权衡",
-        "pinyin": "quánhéng",
-        "tr": "dengeleyerek değerlendirmek",
-        "exampleZh": "我想把权衡放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ quánhéng fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Dengeleyerek değerlendirmek konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
-        "kind": "review"
+        "zh": "熟悉感",
+        "pinyin": "shú xī gǎn",
+        "tr": "tanıdıklık hissi",
+        "exampleZh": "这句话说得很准。熟悉感不是把变化挡在门外。",
+        "examplePinyin": "zhè jù huà shuō dé hěn zhǔn 。 shú xī gǎn bú shì bǎ biàn huà dǎng zài mén wài 。",
+        "exampleTr": "Çok doğru söyledin. Tanıdıklık değişimi kapının dışında bırakmak değildir.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC029_008",
-        "zh": "长期影响",
-        "pinyin": "chángqī yǐngxiǎng",
-        "tr": "uzun vadeli etki",
-        "exampleZh": "谈到长期影响，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào chángqī yǐngxiǎng, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Uzun vadeli etki konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
-        "kind": "review"
+        "zh": "新故事",
+        "pinyin": "xīn gù shì",
+        "tr": "yeni hikâye",
+        "exampleZh": "有新故事就讲，没有也没关系，我们照样可以安静地喝咖啡。",
+        "examplePinyin": "yǒu xīn gù shì jiù jiǎng ， méi yǒu yě méi guān xì ， wǒ men zhào yàng kě yǐ ān jìng dì hē kā fēi 。",
+        "exampleTr": "Yeni hikâye varsa anlatırsın; yoksa da sorun değil, yine sakince kahve içeriz.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

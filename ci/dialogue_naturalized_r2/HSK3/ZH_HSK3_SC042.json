@@ -6,283 +6,283 @@
   "dialogues": [
     {
       "id": "DLG_ZH_HSK3_SC042_001",
-      "speaker": "张伟",
-      "zh": "今天正好有时间，我们聊聊家传菜这件事吧。",
-      "pinyin": "Jīn tiān zhèng hǎo yǒu shí jiān, wǒ men liáo liáo jiā chuán cài zhè jiàn shì ba.",
-      "tr": "Bugün vaktimiz varken aile tarifi konusunu konuşalım."
+      "speaker": "奶奶",
+      "zh": "今天我教你们做家传菜，先把菜谱和材料放到桌上。",
+      "pinyin": "Jīntiān wǒjiào nǐmen zuò jiāchuán cài, xiān bǎ càipǔ hé cáiliào fàngdào zhuōshàng.",
+      "tr": "Bugün size aile tarifimizi öğreteceğim; önce tarifi ve malzemeleri masaya koyalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_002",
       "speaker": "刘梅",
-      "zh": "好，先听听大家怎么想。",
-      "pinyin": "Hǎo, xiān tīng tīng dà jiā zěn me xiǎng.",
-      "tr": "Tamam, önce herkesin ne düşündüğünü dinleyelim."
+      "zh": "这张菜谱是你以前写的吧？纸都被翻旧了。",
+      "pinyin": "Zhèzhāng càipǔ shì nǐ yǐqián xiě de ba? zhǐ dōu bèi fānjiù le.",
+      "tr": "Bu tarifi eskiden sen mi yazmıştın? Kâğıdı epey yıpranmış."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_003",
-      "speaker": "爷爷",
-      "zh": "说到菜谱，你怎么看？",
-      "pinyin": "Shuō dào cài pǔ, nǐ zěn me kàn?",
-      "tr": "tarif konusunda ne düşünüyorsun?"
+      "speaker": "奶奶",
+      "zh": "是我记的，不过有些步骤只写了大概的分量。",
+      "pinyin": "Shì wǒ jì de, bùguò yǒuxiē bùzhòu zhǐ xiě le dàgài de fènliàng.",
+      "tr": "Ben yazdım ama bazı adımlarda miktarları yaklaşık belirttim."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_004",
-      "speaker": "奶奶",
-      "zh": "我先说吧，我最担心的是实际情况会不会跟我们想的一样。",
-      "pinyin": "Wǒ xiān shuō ba, wǒ zuì dān xīn de shì shí jì qíng kuàng huì bú huì gēn wǒ men xiǎng de yī yàng.",
-      "tr": "Önce ben söyleyeyim; en çok gerçek durumun düşündüğümüz gibi olup olmayacağını merak ediyorum."
+      "speaker": "张伟",
+      "zh": "那我们一边看菜谱，一边把不清楚的地方问明白。",
+      "pinyin": "Nà wǒmen yībiān kàn càipǔ, yībiān bǎ bù qīngchǔ de dìfāng wèn míngbái.",
+      "tr": "O hâlde tarife bakarken anlaşılmayan yerleri de soralım."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_005",
-      "speaker": "张伟",
-      "zh": "对，所以先把重点找出来。",
-      "pinyin": "Duì, suǒ yǐ xiān bǎ zhòng diǎn zhǎo chū lái.",
-      "tr": "Evet, bu yüzden önce ana noktayı bulalım."
+      "speaker": "爷爷",
+      "zh": "我把蔬菜洗好了，下一步是切还是先烧水？",
+      "pinyin": "Wǒ bǎ shūcài xǐhǎo le, xià yībù shì qiè háishì xiān shāoshuǐ?",
+      "tr": "Sebzeleri yıkadım; sırada doğramak mı var, yoksa önce su mu kaynatacağız?"
     },
     {
       "id": "DLG_ZH_HSK3_SC042_006",
-      "speaker": "刘梅",
-      "zh": "那就一项一项看。",
-      "pinyin": "Nà jiù yī xiàng yī xiàng kàn.",
-      "tr": "O zaman maddeleri tek tek ele alalım."
+      "speaker": "奶奶",
+      "zh": "先切菜，大小尽量一样，等会儿才容易一起熟。",
+      "pinyin": "Xiān qiècài, dàxiǎo jǐnliàng yīyàng, děnghuìer cái róngyì yìqǐ shú.",
+      "tr": "Önce sebzeleri doğrayalım; boyları eşit olursa sonra aynı anda pişerler."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_007",
-      "speaker": "爷爷",
-      "zh": "我觉得步骤这一点也不能忽略。",
-      "pinyin": "Wǒ jué de bù zhòu zhè yì diǎn yě bù néng hū lüè.",
-      "tr": "Bence adım konusunu da göz ardı etmemeliyiz."
+      "speaker": "刘梅",
+      "zh": "我来切胡萝卜，你帮我把豆腐切成小块吧。",
+      "pinyin": "Wǒláiqiè húluóbo, nǐ bāng wǒ bǎ dòufǔ qièchéng xiǎokuài ba.",
+      "tr": "Havuçları ben doğrayayım; sen de tofuyu küçük parçalara ayır."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_008",
-      "speaker": "奶奶",
-      "zh": "这点我同意，先记下来。",
-      "pinyin": "Zhè diǎn wǒ tóng yì, xiān jì xià lái.",
-      "tr": "Bu noktaya katılıyorum, önce not edelim."
+      "speaker": "张伟",
+      "zh": "好，刀有点钝，我换一把再切。",
+      "pinyin": "Hǎo, dāo yǒudiǎn dùn, wǒhuàn yībǎ zàiqiè.",
+      "tr": "Olur; bıçak biraz körelmiş, başka bir tane alıp doğrayayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_009",
-      "speaker": "张伟",
-      "zh": "说到做饭，你怎么看？",
-      "pinyin": "Shuō dào zuò fàn, nǐ zěn me kàn?",
-      "tr": "yemek yapmak konusunda ne düşünüyorsun?"
+      "speaker": "爷爷",
+      "zh": "以前家里没有计时器，做菜要靠闻味道和看颜色。",
+      "pinyin": "Yǐqián jiālǐ méiyǒu jìshíqì, zuòcài yào kào wén wèidào hé kàn yánsè.",
+      "tr": "Eskiden evde zamanlayıcı yoktu; yemeği kokusundan ve renginden anlardık."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_010",
-      "speaker": "刘梅",
-      "zh": "我觉得先把这一点说清楚比较好。",
-      "pinyin": "Wǒ jué de xiān bǎ zhè yì diǎn shuō qīng chǔ bǐ jiào hǎo.",
-      "tr": "Bence önce bu noktayı netleştirmek daha iyi."
+      "speaker": "奶奶",
+      "zh": "现在也一样，工具能帮忙，最后还得看菜的变化。",
+      "pinyin": "Xiànzài yě yīyàng, gōngjù néng bāngmáng, zuìhòu hái dé kàn cài de biànhuà.",
+      "tr": "Şimdi de aynı; araçlar yardımcı olur ama son kararı yemeğin değişimine bakarak veririz."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_011",
-      "speaker": "爷爷",
-      "zh": "对，不然等会儿容易混在一起。",
-      "pinyin": "Duì, bù rán děng huì er róng yì hùn zài yì qǐ.",
-      "tr": "Evet, yoksa birazdan konular birbirine karışabilir."
+      "speaker": "刘梅",
+      "zh": "锅里的水烧开了，要不要先把豆腐放进去？",
+      "pinyin": "Guōlǐ de shuǐ shāokāi le, yào búyào xiān bǎ dòufǔ fàngjìnqù?",
+      "tr": "Tenceredeki su kaynadı; tofuyu önce içine koyalım mı?"
     },
     {
       "id": "DLG_ZH_HSK3_SC042_012",
       "speaker": "奶奶",
-      "zh": "那就先确认大家的想法。",
-      "pinyin": "Nà jiù xiān què rèn dà jiā de xiǎng fǎ.",
-      "tr": "O zaman önce herkesin fikrini netleştirelim."
+      "zh": "先放胡萝卜，煮软一点以后再放豆腐。",
+      "pinyin": "Xiānfàng húluóbo, zhǔ ruǎn yìdiǎn yǐhòu zàifàng dòufǔ.",
+      "tr": "Önce havuçları koy; biraz yumuşayınca tofuyu ekle."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_013",
       "speaker": "张伟",
-      "zh": "我觉得传统这一点也不能忽略。",
-      "pinyin": "Wǒ jué de chuán tǒng zhè yì diǎn yě bù néng hū lüè.",
-      "tr": "Bence gelenek konusunu da göz ardı etmemeliyiz."
+      "zh": "我一边搅一边看火，免得锅底粘住。",
+      "pinyin": "Wǒ yībiān jiǎo yībiān kànhuǒ, miǎnde guōdǐ zhānzhù.",
+      "tr": "Karıştırırken ateşe de bakıyorum, tencerenin dibi tutmasın."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_014",
-      "speaker": "刘梅",
-      "zh": "好，这一项先放在这里。",
-      "pinyin": "Hǎo, zhè yī xiàng xiān fàng zài zhè lǐ.",
-      "tr": "Tamam, bu maddeyi şimdilik burada bırakalım."
+      "speaker": "爷爷",
+      "zh": "火别太大，家传菜慢慢做才有味道。",
+      "pinyin": "Huǒbié tàidà, jiāchuán cài mànmàn zuò cái yǒu wèidào.",
+      "tr": "Ateşi çok açma; aile tarifinin tadı yavaş pişince güzelleşir."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_015",
-      "speaker": "爷爷",
-      "zh": "说到味道，你怎么看？",
-      "pinyin": "Shuō dào wèi dào, nǐ zěn me kàn?",
-      "tr": "tat konusunda ne düşünüyorsun?"
+      "speaker": "奶奶",
+      "zh": "盐先少放，最后尝过以后再决定要不要加。",
+      "pinyin": "Yán xiānshǎofàng, zuìhòu chángguò yǐhòu zài juédìng yào búyào jiā.",
+      "tr": "Tuzu önce az koy; en son tadıp artırıp artırmayacağımıza karar veririz."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_016",
-      "speaker": "奶奶",
-      "zh": "我觉得这部分也需要认真考虑。",
-      "pinyin": "Wǒ jué de zhè bù fèn yě xū yào rèn zhēn kǎo lǜ.",
-      "tr": "Bence bu kısmı da ciddi biçimde değerlendirmek gerekiyor."
+      "speaker": "刘梅",
+      "zh": "菜谱上写的时间比现在短，可能是当时火比较旺。",
+      "pinyin": "Càipǔ shàng xiě de shíjiān bǐ xiànzài duǎn, kěnéng shì dāngshí huǒ bǐjiào wàng.",
+      "tr": "Tarifteki süre şimdikinden kısa; belki o zaman ateş daha yüksekti."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_017",
-      "speaker": "张伟",
-      "zh": "嗯，先别急着决定。",
-      "pinyin": "Èn, xiān bié jí zhe jué dìng.",
-      "tr": "Evet, karar vermek için acele etmeyelim."
+      "speaker": "奶奶",
+      "zh": "有可能，每个炉子不一样，所以别只看时间。",
+      "pinyin": "Yǒu kěnéng, měigè lúzi bù yīyàng, suǒyǐ bié zhǐ kàn shíjiān.",
+      "tr": "Olabilir; her ocağın ısısı farklıdır, bu yüzden yalnızca süreye bakma."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_018",
-      "speaker": "刘梅",
-      "zh": "好，我们把这些都说清楚以后再看下一步。",
-      "pinyin": "Hǎo, wǒ men bǎ zhè xiē dōu shuō qīng chǔ yǐ hòu zài kàn xià yī bù.",
-      "tr": "Tamam, bunları netleştirdikten sonra sonraki adıma bakalım."
+      "speaker": "张伟",
+      "zh": "我把今天用的分量写在旁边，下次就知道怎么调整。",
+      "pinyin": "Wǒ bǎ jīntiān yòng de fènliàng xiě zài pángbiān, xiàcì jiù zhīdào zěnme tiáozhěng.",
+      "tr": "Bugün kullandığımız miktarı kenara yazayım; bir dahaki sefere nasıl ayarlayacağımızı biliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_019",
       "speaker": "爷爷",
-      "zh": "我们先把情况说清楚。",
-      "pinyin": "Wǒmen xiān bǎ qíngkuàng shuō qīngchu.",
-      "tr": "Önce durumu netleştirelim."
+      "zh": "我还记得这道菜以前过年才做，大家都围着桌子等。",
+      "pinyin": "Wǒ hái jìde zhè dàocài yǐqián guònián cái zuò, dàjiā dōu wéizhe zhuōzi děng.",
+      "tr": "Bu yemeğin eskiden yalnızca bayramda yapıldığını hatırlıyorum; herkes masanın çevresinde beklerdi."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_020",
-      "speaker": "奶奶",
-      "zh": "你的意思是这样，对吗？",
-      "pinyin": "Nǐ de yìsi shì zhèyàng, duì ma?",
-      "tr": "Demek istediğin bu, değil mi?"
+      "speaker": "刘梅",
+      "zh": "听你这么说，我更想把这道菜学会，留给孩子们。",
+      "pinyin": "Tīng nǐ zhème shuō, wǒ gèng xiǎng bǎ zhè dàocài xuéhuì, liúgěi háizi men.",
+      "tr": "Böyle anlatınca bu tarifi öğrenip çocuklara aktarmayı daha çok istiyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_021",
-      "speaker": "张伟",
-      "zh": "对，我就是这个意思。",
-      "pinyin": "Duì, wǒ jiù shì zhège yìsi.",
-      "tr": "Evet, tam olarak bunu demek istiyorum."
+      "speaker": "奶奶",
+      "zh": "材料都准备好了，先把锅烧热，再放一点油。",
+      "pinyin": "Cáiliào dōu zhǔnbèi hǎo le, xiān bǎ guō shāorè, zàifàng yìdiǎn yóu.",
+      "tr": "Malzemeler hazır; önce tavayı ısıtıp biraz yağ koyalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_022",
-      "speaker": "刘梅",
-      "zh": "这件事比我想的复杂一点。",
-      "pinyin": "Zhè jiàn shì bǐ wǒ xiǎng de fùzá yìdiǎn.",
-      "tr": "Bu iş düşündüğümden biraz daha karmaşık."
+      "speaker": "张伟",
+      "zh": "油热了以后，我把葱和姜放进去吗？",
+      "pinyin": "Yóurè le yǐhòu, wǒ bǎ cōng hé jiāng fàngjìnqù ma?",
+      "tr": "Yağ ısınınca soğanla zencefili ekleyeyim mi?"
     },
     {
       "id": "DLG_ZH_HSK3_SC042_023",
-      "speaker": "爷爷",
-      "zh": "先别着急，我们一步一步来。",
-      "pinyin": "Xiān bié zháojí, wǒmen yí bù yí bù lái.",
-      "tr": "Önce telaşlanmayalım, adım adım ilerleyelim."
+      "speaker": "奶奶",
+      "zh": "对，炒出香味以后，再放切好的胡萝卜。",
+      "pinyin": "Duì, chǎochū xiāngwèi yǐhòu, zàifàngqiè hǎo de húluóbo.",
+      "tr": "Evet; kokusu çıkınca doğranmış havuçları ekle."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_024",
-      "speaker": "奶奶",
-      "zh": "我觉得这个办法比较合适。",
-      "pinyin": "Wǒ juéde zhège bànfǎ bǐjiào héshì.",
-      "tr": "Bence bu yöntem daha uygun."
+      "speaker": "刘梅",
+      "zh": "我一边递材料，一边帮你看火，可以吗？",
+      "pinyin": "Wǒ yībiān dì cáiliào, yībiān bāng nǐ kànhuǒ, kěyǐ ma?",
+      "tr": "Malzemeleri verirken ateşe de bakayım mı?"
     },
     {
       "id": "DLG_ZH_HSK3_SC042_025",
-      "speaker": "张伟",
-      "zh": "为什么你这么想？",
-      "pinyin": "Wèishénme nǐ zhème xiǎng?",
-      "tr": "Neden böyle düşünüyorsun?"
+      "speaker": "爷爷",
+      "zh": "火现在有点大，我把炉子调小一点。",
+      "pinyin": "Huǒ xiànzài yǒudiǎn dà, wǒ bǎ lúzi diàoxiǎo yìdiǎn.",
+      "tr": "Ateş biraz yüksek; ocağı kısayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_026",
-      "speaker": "刘梅",
-      "zh": "因为这样更方便，也更清楚。",
-      "pinyin": "Yīnwèi zhèyàng gèng fāngbiàn, yě gèng qīngchu.",
-      "tr": "Çünkü böyle hem daha kullanışlı hem de daha net."
+      "speaker": "张伟",
+      "zh": "胡萝卜开始变软了，下一步放什么？",
+      "pinyin": "Húluóbo kāishǐ biànruǎn le, xià yībù fàng shénme?",
+      "tr": "Havuçlar yumuşamaya başladı; sırada ne var?"
     },
     {
       "id": "DLG_ZH_HSK3_SC042_027",
-      "speaker": "爷爷",
-      "zh": "如果这样做，我们就能省一点时间。",
-      "pinyin": "Rúguǒ zhèyàng zuò, wǒmen jiù néng shěng yìdiǎn shíjiān.",
-      "tr": "Böyle yaparsak biraz zaman kazanabiliriz."
+      "speaker": "奶奶",
+      "zh": "先加一点水，然后盖上锅盖焖几分钟。",
+      "pinyin": "Xiān jiāyìdiǎn shuǐ, ránhòu gàishàng guōgài mèn jǐfēnzhōng.",
+      "tr": "Önce biraz su ekle, sonra kapağı kapatıp birkaç dakika pişir."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_028",
-      "speaker": "奶奶",
-      "zh": "虽然有点麻烦，但是可以解决。",
-      "pinyin": "Suīrán yǒudiǎn máfan, dànshì kěyǐ jiějué.",
-      "tr": "Biraz zahmetli olsa da çözülebilir."
+      "speaker": "刘梅",
+      "zh": "时间到了，我打开锅盖看看颜色。",
+      "pinyin": "Shíjiān dào le, wǒ dǎkāi guōgài kànkàn yánsè.",
+      "tr": "Süre doldu; kapağı açıp rengine bakayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_029",
-      "speaker": "张伟",
-      "zh": "那我们先试试看。",
-      "pinyin": "Nà wǒmen xiān shìshikan.",
-      "tr": "O zaman önce deneyelim."
+      "speaker": "奶奶",
+      "zh": "还要再焖一会儿，颜色变亮就可以放豆腐。",
+      "pinyin": "Háiyào zài mèn yīhuìer, yánsè biànliàng jiù kěyǐ fàng dòufǔ.",
+      "tr": "Biraz daha pişmeli; rengi canlanınca tofuyu koyabilirsin."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_030",
-      "speaker": "刘梅",
-      "zh": "好，有问题我们再调整。",
-      "pinyin": "Hǎo, yǒu wèntí wǒmen zài tiáozhěng.",
-      "tr": "Tamam, sorun olursa yeniden ayarlarız."
+      "speaker": "爷爷",
+      "zh": "我把豆腐切好了，大小一样，应该容易入味。",
+      "pinyin": "Wǒ bǎ dòufǔ qièhǎo le, dàxiǎo yīyàng, yīnggāi róngyì rùwèi.",
+      "tr": "Tofuyu doğradım; parçalar eşit, lezzeti iyi çeker."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_031",
-      "speaker": "爷爷",
-      "zh": "我先确认一下细节。",
-      "pinyin": "Wǒ xiān quèrèn yíxià xìjié.",
-      "tr": "Önce ayrıntıları teyit edeyim."
+      "speaker": "张伟",
+      "zh": "我一边把豆腐放进去，一边慢慢搅，不让它碎。",
+      "pinyin": "Wǒ yībiān bǎ dòufǔ fàngjìnqù, yībiān mànmàn jiǎo, bùràng tā suì.",
+      "tr": "Tofuyu eklerken yavaşça karıştırıyorum ki dağılmasın."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_032",
       "speaker": "奶奶",
-      "zh": "你说得对，这个细节很重要。",
-      "pinyin": "Nǐ shuō de duì, zhège xìjié hěn zhòngyào.",
-      "tr": "Haklısın, bu ayrıntı önemli."
+      "zh": "很好，动作轻一点，家传菜要保留食材的样子。",
+      "pinyin": "Hěn hǎo, dòngzuò qīng yìdiǎn, jiāchuán càiyào bǎoliú shícái de yàngzi.",
+      "tr": "Güzel; nazikçe karıştır, aile tarifinde malzemelerin biçimi korunsun."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_033",
-      "speaker": "张伟",
-      "zh": "我们最好把时间也安排好。",
-      "pinyin": "Wǒmen zuìhǎo bǎ shíjiān yě ānpái hǎo.",
-      "tr": "Zamanı da iyi planlasak iyi olur."
+      "speaker": "刘梅",
+      "zh": "菜谱上写“少许盐”，我们先放多少？",
+      "pinyin": "Càipǔ shàng xiě “ shǎoxǔ yán ”, wǒmen xiānfàng duōshǎo?",
+      "tr": "Tarifte “az tuz” yazıyor; önce ne kadar koyalım?"
     },
     {
       "id": "DLG_ZH_HSK3_SC042_034",
-      "speaker": "刘梅",
-      "zh": "我已经写下来了。",
-      "pinyin": "Wǒ yǐjīng xiě xiàlái le.",
-      "tr": "Not aldım bile."
+      "speaker": "奶奶",
+      "zh": "先放半勺，尝过以后再决定。",
+      "pinyin": "Xiānfàng bànsháo, chángguò yǐhòu zài juédìng.",
+      "tr": "Önce yarım kaşık koy, tadınca karar veririz."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_035",
       "speaker": "爷爷",
-      "zh": "那就不会忘了。",
-      "pinyin": "Nà jiù bú huì wàng le.",
-      "tr": "O zaman unutmayız."
+      "zh": "我小时候最喜欢看奶奶做这一步，香味很快就出来。",
+      "pinyin": "Wǒ xiǎoshíhòu zuì xǐhuān kàn nǎinǎi zuò zhè yībù, xiāngwèi hěnkuài jiù chūlái.",
+      "tr": "Çocukken babaannemin bu adımı yapmasını izlemeyi severdim; kokusu hemen çıkardı."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_036",
-      "speaker": "奶奶",
-      "zh": "现在最重要的问题是什么？",
-      "pinyin": "Xiànzài zuì zhòngyào de wèntí shì shénme?",
-      "tr": "Şimdi en önemli sorun ne?"
+      "speaker": "张伟",
+      "zh": "我闻到了，和你说的小时候的味道很像。",
+      "pinyin": "Wǒ wéndào le, hé nǐ shuō de xiǎoshíhòu de wèidào hěn xiàng.",
+      "tr": "Kokusunu aldım; anlattığın çocukluk anısındaki gibi."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_037",
-      "speaker": "张伟",
-      "zh": "关键是先找到原因。",
-      "pinyin": "Guānjiàn shì xiān zhǎodào yuányīn.",
-      "tr": "Önemli olan önce nedeni bulmak."
+      "speaker": "刘梅",
+      "zh": "等会儿我想一边尝味道，一边把分量记在菜谱上。",
+      "pinyin": "Děnghuìer wǒ xiǎng yībiān cháng wèidào, yībiān bǎ fènliàng jìzài càipǔ shàng.",
+      "tr": "Birazdan tadına bakarken miktarları da tarife yazmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_038",
-      "speaker": "刘梅",
-      "zh": "我同意，不过我们还要考虑别的情况。",
-      "pinyin": "Wǒ tóngyì, búguò wǒmen hái yào kǎolǜ bié de qíngkuàng.",
-      "tr": "Katılıyorum ama başka durumları da düşünmeliyiz."
+      "speaker": "奶奶",
+      "zh": "可以，记下今天的分量，下次就知道从哪里调整。",
+      "pinyin": "Kěyǐ, jìxià jīntiān de fènliàng, xiàcì jiù zhīdào cóng nǎlǐ tiáozhěng.",
+      "tr": "Olur; bugünkü miktarları yazarsan bir dahaki sefere neyi değiştireceğini bilirsin."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_039",
       "speaker": "爷爷",
-      "zh": "这样说更有道理。",
-      "pinyin": "Zhèyàng shuō gèng yǒu dàolǐ.",
-      "tr": "Böyle söyleyince daha mantıklı."
+      "zh": "锅边的汤汁也别浪费，拌饭正合适。",
+      "pinyin": "Guōbiān de tāngzhī yě bié làngfèi, bàn fàn zhènghéshì.",
+      "tr": "Tencerenin kenarındaki sosu da ziyan etmeyin; pilavla çok güzel olur."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_040",
-      "speaker": "奶奶",
-      "zh": "我们需要一个更实际的办法。",
-      "pinyin": "Wǒmen xūyào yí ge gèng shíjì de bànfǎ.",
-      "tr": "Daha uygulanabilir bir çözüme ihtiyacımız var."
+      "speaker": "张伟",
+      "zh": "好，再煮两分钟我们就关火。",
+      "pinyin": "Hǎo, zài zhǔ liǎngfēnzhōng wǒmen jiù guānhuǒ.",
+      "tr": "Peki, iki dakika daha pişirip ocağı kapatalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_041",
@@ -426,213 +426,213 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC042_061",
-      "speaker": "张伟",
-      "zh": "好，就按这个办法来。",
-      "pinyin": "Hǎo, jiù àn zhège bànfǎ lái.",
-      "tr": "Tamam, bu yönteme göre ilerleyelim."
+      "speaker": "奶奶",
+      "zh": "等胡萝卜变软以后，再把豆腐和调好的酱汁放进去。",
+      "pinyin": "Děng húluóbo biànruǎn yǐhòu, zài bǎ dòufǔ hé diàohǎo de jiàngzhī fàngjìnqù.",
+      "tr": "Havuç yumuşayınca tofuyla hazırladığımız sosu ekle."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_062",
-      "speaker": "刘梅",
-      "zh": "你看，现在好多了。",
-      "pinyin": "Nǐ kàn, xiànzài hǎo duō le.",
-      "tr": "Bak, şimdi çok daha iyi."
+      "speaker": "张伟",
+      "zh": "我一边倒酱汁一边搅，锅里的颜色变深了。",
+      "pinyin": "Wǒ yībiāndǎo jiàngzhī yībiān jiǎo, guōlǐ de yánsè biànshēn le.",
+      "tr": "Sosu dökerken karıştırıyorum; tenceredeki renk koyulaştı."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_063",
       "speaker": "爷爷",
-      "zh": "确实，比刚才顺利。",
-      "pinyin": "Quèshí, bǐ gāngcái shùnlì.",
-      "tr": "Gerçekten, az öncekinden daha iyi gidiyor."
+      "zh": "闻起来和以前很像，我小时候常在厨房等这道菜。",
+      "pinyin": "Wén qǐlái hé yǐqián hěn xiàng, wǒ xiǎoshíhòu chángzài chúfáng děng zhè dàocài.",
+      "tr": "Kokusu eskisi gibi; çocukken bu yemeği beklemek için mutfakta dururdum."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_064",
-      "speaker": "奶奶",
-      "zh": "看来我们的方向是对的。",
-      "pinyin": "Kànlái wǒmen de fāngxiàng shì duì de.",
-      "tr": "Görünüşe göre doğru yöndeyiz."
+      "speaker": "刘梅",
+      "zh": "奶奶，菜谱里写的那种酱油，现在还买得到吗？",
+      "pinyin": "Nǎinǎi, càipǔ lǐ xiě de nàzhǒng jiàngyóu, xiànzài hái mǎi dédào ma?",
+      "tr": "Büyükanne, tarifteki soya sosunu hâlâ bulabiliyor muyuz?"
     },
     {
       "id": "DLG_ZH_HSK3_SC042_065",
-      "speaker": "张伟",
-      "zh": "最后再检查一遍吧。",
-      "pinyin": "Zuìhòu zài jiǎnchá yí biàn ba.",
-      "tr": "Son olarak bir kez daha kontrol edelim."
+      "speaker": "奶奶",
+      "zh": "买得到，不过味道比以前淡一点，所以我今天少放水。",
+      "pinyin": "Mǎi dédào, bùguò wèidào bǐ yǐqián dàn yìdiǎn, suǒyǐ wǒ jīntiān shǎo fàngshuǐ.",
+      "tr": "Bulunuyor ama tadı eskisinden biraz hafif; bu yüzden bugün daha az su koydum."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_066",
-      "speaker": "刘梅",
-      "zh": "好的，我来检查第一部分。",
-      "pinyin": "Hǎo de, wǒ lái jiǎnchá dì yí bùfen.",
-      "tr": "Tamam, ilk kısmı ben kontrol edeyim."
+      "speaker": "张伟",
+      "zh": "我先尝一点，咸味刚好，胡萝卜也够软了。",
+      "pinyin": "Wǒ xiāncháng yìdiǎn, xiánwèi gānghǎo, húluóbo yě gòu ruǎn le.",
+      "tr": "Biraz tadayım; tuzu tam, havuç da yeterince yumuşamış."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_067",
       "speaker": "爷爷",
-      "zh": "我负责后面的部分。",
-      "pinyin": "Wǒ fùzé hòumiàn de bùfen.",
-      "tr": "Ben sonraki kısmı kontrol ederim."
+      "zh": "再煮一会儿，味道会更匀，别急着关火。",
+      "pinyin": "Zài zhǔ yīhuìer, wèidào huì gèngyún, biéjí zhe guānhuǒ.",
+      "tr": "Biraz daha pişerse lezzet dengelenir; ocağı kapatmak için acele etme."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_068",
-      "speaker": "奶奶",
-      "zh": "现在没有发现新的问题。",
-      "pinyin": "Xiànzài méiyǒu fāxiàn xīn de wèntí.",
-      "tr": "Şu anda yeni bir sorun görünmüyor."
+      "speaker": "刘梅",
+      "zh": "我把菜谱上缺的分量补上，也写下今天的火候。",
+      "pinyin": "Wǒ bǎ càipǔ shàngquē de fènliàng bǔ shàng, yě xiěxià jīntiān de huǒhòu.",
+      "tr": "Tarifte eksik olan miktarları ekleyip bugünkü ateş ayarını da yazayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_069",
-      "speaker": "张伟",
-      "zh": "太好了，终于可以放心了。",
-      "pinyin": "Tài hǎo le, zhōngyú kěyǐ fàngxīn le.",
-      "tr": "Harika, sonunda rahatlayabiliriz."
+      "speaker": "奶奶",
+      "zh": "很好，做饭时一边观察一边记录，下次就更容易。",
+      "pinyin": "Hěn hǎo, zuòfàn shí yībiān guānchá yībiān jìlù, xiàcì jiù gèng róngyì.",
+      "tr": "Güzel; yemek yaparken hem gözlemleyip hem not alırsan bir dahaki sefere kolaylaşır."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_070",
-      "speaker": "刘梅",
-      "zh": "今天我们学到不少东西。",
-      "pinyin": "Jīntiān wǒmen xuédào bù shǎo dōngxi.",
-      "tr": "Bugün epey şey öğrendik."
+      "speaker": "张伟",
+      "zh": "桌子已经摆好，菜再焖两分钟就能吃了。",
+      "pinyin": "Zhuōzi yǐjīng bǎihǎo, cài zài mèn liǎngfēnzhōng jiù néng chī le.",
+      "tr": "Masa hazır; yemek iki dakika daha demlenince yiyebiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_071",
       "speaker": "爷爷",
-      "zh": "下次处理起来会更快。",
-      "pinyin": "Xià cì chǔlǐ qǐlái huì gèng kuài.",
-      "tr": "Bir dahaki sefere daha hızlı hallederiz."
+      "zh": "我先盛一小碗，看看今天的味道是不是和记忆里一样。",
+      "pinyin": "Wǒ xiānshèng yīxiǎo wǎn, kànkàn jīntiān de wèidào shìbúshì hé jìyìlǐ yīyàng.",
+      "tr": "Önce küçük bir kâse koyayım; bugünkü tadı hatırladığımla aynı mı bakayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_072",
       "speaker": "奶奶",
-      "zh": "我觉得今天的结果不错。",
-      "pinyin": "Wǒ juéde jīntiān de jiéguǒ búcuò.",
-      "tr": "Bence bugünkü sonuç iyi."
+      "zh": "你尝尝，今天我按你说的少放了些盐。",
+      "pinyin": "Nǐ chángcháng, jīntiān wǒ àn nǐ shuō de shǎofàng le xiē yán.",
+      "tr": "Tadına bak; bugün dediğin gibi daha az tuz koydum."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_073",
-      "speaker": "张伟",
-      "zh": "对，我也这么觉得。",
-      "pinyin": "Duì, wǒ yě zhè me jué de.",
-      "tr": "Ben de öyle düşünüyorum."
+      "speaker": "刘梅",
+      "zh": "味道很熟悉，也没有以前那么咸，正合适。",
+      "pinyin": "Wèidào hěn shúxī, yě méiyǒu yǐqián nàme xián, zhènghéshì.",
+      "tr": "Tadı çok tanıdık ve eskisi kadar tuzlu değil; tam olmuş."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_074",
-      "speaker": "刘梅",
-      "zh": "那就这么决定吧。",
-      "pinyin": "Nà jiù zhème juédìng ba.",
-      "tr": "O zaman böyle karar verelim."
+      "speaker": "张伟",
+      "zh": "那我们把这个做法也写进菜谱，留作今天的版本。",
+      "pinyin": "Nà wǒmen bǎ zhège zuòfǎ yě xiě jìn càipǔ, liú zuò jīntiān de bǎnběn.",
+      "tr": "O hâlde bu yöntemi de bugünkü sürüm olarak tarife yazalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_075",
       "speaker": "爷爷",
-      "zh": "好，接下来按计划继续。",
-      "pinyin": "Hǎo, jiēxiàlái àn jìhuà jìxù.",
-      "tr": "Tamam, bundan sonra plana göre devam edelim."
+      "zh": "等雨桐回来，我们再做一次给她吃，也让她记住这味道。",
+      "pinyin": "Děngyǔtóng huílái, wǒmen zài zuò yīcì gěi tā chī, yě ràng tā jìzhù zhè wèidào.",
+      "tr": "Yutong dönünce ona da yapar, bu tadı hatırlamasını sağlarız."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_076",
       "speaker": "奶奶",
-      "zh": "刚才的办法基本可行，不过最后还要把几件事确认清楚。",
-      "pinyin": "Gāng cái de bàn fǎ jī běn kě xíng, bù guò zuì hòu hái yào bǎ jǐ jiàn shì què rèn qīng chǔ.",
-      "tr": "Az önceki yöntem genel olarak uygulanabilir; ama son olarak birkaç noktayı netleştirmeliyiz."
+      "zh": "今天一起做饭很开心，菜谱也比以前清楚多了。",
+      "pinyin": "Jīntiān yìqǐ zuòfàn hěn kāixīn, càipǔ yě bǐ yǐqián qīngchǔ duō le.",
+      "tr": "Bugün birlikte yemek yapmak güzeldi; tarif de eskisinden çok daha net oldu."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_077",
       "speaker": "张伟",
-      "zh": "说到家传菜，你怎么看？",
-      "pinyin": "Shuō dào jiā chuán cài, nǐ zěn me kàn?",
-      "tr": "aile tarifi konusunda ne düşünüyorsun?"
+      "zh": "我一边收拾厨房，一边把做菜的顺序再念一遍。",
+      "pinyin": "Wǒ yībiān shōushí chúfáng, yībiān bǎ zuòcài de shùnxù zàiniàn yībiàn.",
+      "tr": "Mutfağı toplarken yemek sırasını bir kez daha tekrarlıyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_078",
       "speaker": "刘梅",
-      "zh": "我觉得这一点现在已经比刚开始清楚多了。",
-      "pinyin": "Wǒ jué de zhè yì diǎn xiàn zài yǐ jīng bǐ gāng kāi shǐ qīng chǔ duō le.",
-      "tr": "Bence bu nokta başlangıca göre artık çok daha net."
+      "zh": "我把写好的菜谱放进文件夹，下次找起来方便。",
+      "pinyin": "Wǒ bǎ xiě hǎo de càipǔ fàngjìn wénjiànjiā, xiàcì zhǎo qǐlái fāngbiàn.",
+      "tr": "Yazdığımız tarifi dosyaya koyayım; bir dahaki sefere bulmak kolay olur."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_079",
       "speaker": "爷爷",
-      "zh": "对，先把需要做的事情分一下。",
-      "pinyin": "Duì, xiān bǎ xū yào zuò de shì qíng fēn yī xià.",
-      "tr": "Evet, önce yapılacak işleri paylaştıralım."
+      "zh": "锅和刀我来洗，你们把剩下的菜放进冰箱。",
+      "pinyin": "Guō hé dāo wǒ lái xǐ, nǐmen bǎ shèngxià de cài fàngjìn bīngxiāng.",
+      "tr": "Tencereyle bıçakları ben yıkayayım; kalan sebzeleri buzdolabına koyun."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_080",
       "speaker": "奶奶",
-      "zh": "好，有变化就及时说。",
-      "pinyin": "Hǎo, yǒu biàn huà jiù jí shí shuō.",
-      "tr": "Tamam, değişiklik olursa hemen söyleyelim."
+      "zh": "剩下的酱汁也别倒掉，明天可以拌面。",
+      "pinyin": "Shèngxià de jiàngzhī yě bié dàodiào, míngtiān kěyǐ bànmiàn.",
+      "tr": "Kalan sosu da dökmeyin; yarın erişteyle kullanabiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_081",
       "speaker": "张伟",
-      "zh": "我觉得菜谱这一点也不能忽略。",
-      "pinyin": "Wǒ jué de cài pǔ zhè yì diǎn yě bù néng hū lüè.",
-      "tr": "Bence tarif konusunu da göz ardı etmemeliyiz."
+      "zh": "我记下保存方法，免得明天忘了。",
+      "pinyin": "Wǒ jìxià bǎocún fāngfǎ, miǎnde míngtiān wàng le.",
+      "tr": "Saklama biçimini not edeyim; yarın unutmayayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_082",
       "speaker": "刘梅",
-      "zh": "这样安排以后，后面会顺利很多。",
-      "pinyin": "Zhè yàng ān pái yǐ hòu, hòu miàn huì shùn lì hěn duō.",
-      "tr": "Böyle düzenleyince sonrası çok daha sorunsuz ilerler."
+      "zh": "一边做一边听你们讲以前的事，这顿饭特别有意义。",
+      "pinyin": "Yībiān zuò yībiān tīng nǐmen jiǎng yǐqián de shì, zhè dùnfàn tèbié yǒu yìyì.",
+      "tr": "Yemek yaparken eski anılarınızı dinlemek bu yemeği özel kıldı."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_083",
       "speaker": "爷爷",
-      "zh": "我同意，不过还得留一点调整空间。",
-      "pinyin": "Wǒ tóng yì, bù guò hái dé liú yì diǎn tiáo zhěng kōng jiān.",
-      "tr": "Katılıyorum, ama biraz ayarlama payı bırakmak gerekiyor."
+      "zh": "这些故事也该写下来，以后孩子们就知道菜的来历。",
+      "pinyin": "Zhèxiē gùshì yě gāi xiě xiàlái, yǐhòu háizi men jiù zhīdào cài de láilì.",
+      "tr": "Bu hikâyeleri de yazmalıyız; çocuklar yemeğin nereden geldiğini bilir."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_084",
       "speaker": "奶奶",
-      "zh": "没问题，遇到情况再改。",
-      "pinyin": "Méi wèn tí, yù dào qíng kuàng zài gǎi.",
-      "tr": "Sorun değil, durum çıkarsa yeniden değiştiririz."
+      "zh": "我可以把菜谱和故事一起整理，慢慢补充完整。",
+      "pinyin": "Wǒ kěyǐ bǎ càipǔ hé gùshì yìqǐ zhěnglǐ, mànmàn bǔchōng wánzhěng.",
+      "tr": "Tarifle hikâyeleri birlikte düzenleyip yavaş yavaş tamamlayabilirim."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_085",
       "speaker": "张伟",
-      "zh": "说到步骤，你怎么看？",
-      "pinyin": "Shuō dào bù zhòu, nǐ zěn me kàn?",
-      "tr": "adım konusunda ne düşünüyorsun?"
+      "zh": "下次我们再做一道简单的菜，让雨桐也学会。",
+      "pinyin": "Xiàcì wǒmen zài zuò yīdào jiǎndān de cài, ràng yǔtóng yě xuéhuì.",
+      "tr": "Bir dahaki sefere Yutong da öğrensin diye kolay bir yemek daha yapalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_086",
       "speaker": "刘梅",
-      "zh": "我觉得这部分可以先按现在的想法来。",
-      "pinyin": "Wǒ jué de zhè bù fèn kě yǐ xiān àn xiàn zài de xiǎng fǎ lái.",
-      "tr": "Bence bu kısmı şimdilik mevcut fikrimize göre yapabiliriz."
+      "zh": "好，我先把食材列出来，然后周末去买。",
+      "pinyin": "Hǎo, wǒ xiān bǎ shícái lièchūlái, ránhòu zhōumò qù mǎi.",
+      "tr": "Olur; önce malzemeleri listeleyip hafta sonu alırım."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_087",
       "speaker": "爷爷",
-      "zh": "那就先试，效果不好再调整。",
-      "pinyin": "Nà jiù xiān shì, xiào guǒ bù hǎo zài tiáo zhěng.",
-      "tr": "O zaman önce deneyelim; sonuç iyi olmazsa yeniden ayarlarız."
+      "zh": "今天我也学会了用手机拍下每一步。",
+      "pinyin": "Jīntiān wǒ yě xuéhuì le yòng shǒujī pāixià měi yībù.",
+      "tr": "Bugün her adımı telefonla çekmeyi de öğrendim."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_088",
       "speaker": "奶奶",
-      "zh": "好，我把这个也记下来。",
-      "pinyin": "Hǎo, wǒ bǎ zhè ge yě jì xià lái.",
-      "tr": "Tamam, bunu da not ediyorum."
+      "zh": "照片和菜谱放在一起，做法就不容易忘。",
+      "pinyin": "Zhàopiān hé càipǔ fàngzài yìqǐ, zuòfǎ jiù bù róngyì wàng.",
+      "tr": "Fotoğrafları tarifle birlikte saklarsak yapılışını unutmayız."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_089",
       "speaker": "张伟",
-      "zh": "我觉得做饭这一点也不能忽略。",
-      "pinyin": "Wǒ jué de zuò fàn zhè yì diǎn yě bù néng hū lüè.",
-      "tr": "Bence yemek yapmak konusunu da göz ardı etmemeliyiz."
+      "zh": "谢谢奶奶教我们，这道家传菜以后我们也会做。",
+      "pinyin": "Xièxiè nǎinǎi jiào wǒmen, zhèdào jiāchuán cài yǐhòu wǒmen yě huì zuò.",
+      "tr": "Bize öğrettiğin için teşekkürler büyükanne; bu aile tarifini bundan sonra biz de yapacağız."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_090",
       "speaker": "刘梅",
-      "zh": "现在主要问题已经基本说清楚了。",
-      "pinyin": "Xiàn zài zhǔ yào wèn tí yǐ jīng jī běn shuō qīng chǔ le.",
-      "tr": "Ana sorun artık büyük ölçüde netleşti."
+      "zh": "下次全家一起吃这道菜，再聊聊今天的回忆。",
+      "pinyin": "Xiàcì quánjiā yìqǐ chī zhè dàocài, zài liáoliáo jīntiān de huíyì.",
+      "tr": "Bir dahaki sefere bu yemeği ailece yer, bugünkü anılarımızı yine konuşuruz."
     },
     {
       "id": "DLG_ZH_HSK3_SC042_091",

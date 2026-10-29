@@ -95,9 +95,9 @@
     {
       "id": "DLG_ZH_HSK3_SC023_013",
       "speaker": "刘梅",
-      "zh": "我已经准备好修好了。",
-      "pinyin": "Wǒ yǐjīng zhǔnbèi hǎo xiūhǎo le.",
-      "tr": "Tamir etmek için hazırım."
+      "zh": "维修需要的工具我已经准备好了。",
+      "pinyin": "Wéixiū xūyào de gōngjù wǒ yǐjīng zhǔnbèi hǎo le.",
+      "tr": "Tamir için gereken aletleri hazırladım."
     },
     {
       "id": "DLG_ZH_HSK3_SC023_014",
@@ -304,7 +304,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_043",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "那我负责这一部分。",
       "pinyin": "Nà wǒ fùzé zhè yībùfèn.",
       "tr": "O zaman bu kısmı ben üstleneyim."
@@ -332,7 +332,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_047",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "事情越来越清楚了。",
       "pinyin": "Shìqíng yuèláiyuè qīngchǔ le.",
       "tr": "Durum giderek netleşiyor."
@@ -360,7 +360,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_051",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "这个问题其实不难。",
       "pinyin": "Zhège wèntí qíshí bùnán.",
       "tr": "Bu sorun aslında zor değil."
@@ -388,7 +388,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_055",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "中间还是出了一个小问题。",
       "pinyin": "Zhōngjiān háishì chū le yígè xiǎo wèntí.",
       "tr": "Arada yine küçük bir sorun çıktı."
@@ -416,7 +416,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_059",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "我们可以一边做，一边检查。",
       "pinyin": "Wǒmen kěyǐ yībiān zuò, yībiān jiǎnchá.",
       "tr": "Yaparken aynı anda kontrol edebiliriz."
@@ -444,7 +444,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_063",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "确实，比刚才顺利。",
       "pinyin": "Quèshí, bǐ gāngcái shùnlì.",
       "tr": "Gerçekten, az öncekinden daha iyi gidiyor."
@@ -465,14 +465,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_066",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "好的，我来检查第一部分。",
       "pinyin": "Hǎo de, wǒlái jiǎnchá dìyī bùfèn.",
       "tr": "Tamam, ilk kısmı ben kontrol edeyim."
     },
     {
       "id": "DLG_ZH_HSK3_SC023_067",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "我负责后面的部分。",
       "pinyin": "Wǒ fùzé hòumiàn de bùfèn.",
       "tr": "Ben sonraki kısmı kontrol ederim."
@@ -500,7 +500,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_071",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "下次处理起来会更快。",
       "pinyin": "Xiàcì chǔlǐ qǐlái huì gèng kuài.",
       "tr": "Bir dahaki sefere daha hızlı hallederiz."
@@ -528,7 +528,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_075",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "好，接下来按计划继续。",
       "pinyin": "Hǎo, jiēxiàlái ànjìhuà jìxù.",
       "tr": "Tamam, bundan sonra plana göre devam edelim."
@@ -730,9 +730,9 @@
         "zh": "维修",
         "pinyin": "wéixiū",
         "tr": "tamir",
-        "exampleZh": "这个时候最好先维修。",
-        "examplePinyin": "Zhège shíhou zuìhǎo xiān wéixiū.",
-        "exampleTr": "Bu durumda önce tamir en iyisi.",
+        "exampleZh": "张伟下班以后来帮忙维修。",
+        "examplePinyin": "Zhāngwěi xiàbān yǐhòu lái bāngmáng wéixiū.",
+        "exampleTr": "Zhang Wei işten sonra tamire yardım etmeye geldi.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "步骤",
         "pinyin": "bùzhòu",
         "tr": "adım",
-        "exampleZh": "步骤是这次要考虑的重点之一。",
-        "examplePinyin": "Bùzhòu shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-        "exampleTr": "Adım bu kez değerlendirmemiz gereken ana noktalardan biri.",
+        "exampleZh": "今天我们先谈谈步骤。",
+        "examplePinyin": "Jīntiān wǒmen xiān tántán bùzhòu.",
+        "exampleTr": "Bugün önce adım hakkında konuşalım.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "检查",
         "pinyin": "jiǎnchá",
         "tr": "kontrol etmek",
-        "exampleZh": "我已经准备好检查了。",
-        "examplePinyin": "Wǒ yǐjīng zhǔnbèi hǎo jiǎnchá le.",
-        "exampleTr": "Kontrol etmek için hazırım.",
+        "exampleZh": "电源已经断开，我们先检查机器里面。",
+        "examplePinyin": "Diànyuán yǐjīng duànkāi, wǒmen xiān jiǎnchá jīqì lǐmiàn.",
+        "exampleTr": "Elektriği kestik, önce makinenin içini kontrol edelim.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "修好",
         "pinyin": "xiūhǎo",
         "tr": "tamir etmek",
-        "exampleZh": "这一步需要认真修好。",
-        "examplePinyin": "Zhè yí bù xūyào rènzhēn xiūhǎo.",
-        "exampleTr": "Bu adımda dikkatlice tamir etmek gerekiyor.",
+        "exampleZh": "谢谢您等我们修好，我现在给您做原来的那杯。",
+        "examplePinyin": "Xièxiènín děng wǒmen xiūhǎo, wǒ xiànzài gěi nín zuò yuánlái de nàbēi.",
+        "exampleTr": "Tamir etmemizi beklediğiniz için teşekkürler, şimdi önceki kahvenizi hazırlıyorum.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "咖啡机",
         "pinyin": "kāfēijī",
         "tr": "kahve makinesi",
-        "exampleZh": "咖啡机刚才突然停了。",
-        "examplePinyin": "Kāfēijī gāngcái tūrán tíng le.",
-        "exampleTr": "Kahve makinesi az önce aniden durdu.",
+        "exampleZh": "如果咖啡机没有问题，我们就继续。",
+        "examplePinyin": "Rúguǒ kāfēijī méiyǒu wèntí, wǒmen jiù jìxù.",
+        "exampleTr": "Kahve makinesi konusunda sorun yoksa devam ederiz.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "帮忙",
         "pinyin": "bāngmáng",
         "tr": "yardım etmek",
-        "exampleZh": "这个时候最好先帮忙。",
-        "examplePinyin": "Zhège shíhou zuìhǎo xiān bāngmáng.",
-        "exampleTr": "Bu durumda önce yardım etmek en iyisi.",
+        "exampleZh": "张伟下班以后来帮忙维修。",
+        "examplePinyin": "Zhāngwěi xiàbān yǐhòu lái bāngmáng wéixiū.",
+        "exampleTr": "Zhang Wei işten sonra tamire yardım etmeye geldi.",
         "kind": "active"
       },
       {

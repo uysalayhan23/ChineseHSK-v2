@@ -402,9 +402,9 @@
     {
       "id": "DLG_ZH_HSK6_SC018_057",
       "speaker": "刘梅",
-      "zh": "我会和刘梅一起核对班次，确保调整不会把负担推给同一个人。",
-      "pinyin": "wǒ huì hé liú méi yì qǐ hé duì bān cì ， què bǎo tiáo zhěng bú huì bǎ fù dān tuī gěi tóng yī gè rén 。",
-      "tr": "Düzenlemenin aynı kişiye yük bindirmemesi için Liu Mei’yle vardiyaları kontrol ederim."
+      "zh": "我会和你一起核对班次，确保调整不会把负担推给同一个人。",
+      "pinyin": "wǒ huì hé nǐ yì qǐ hé duì bān cì ， què bǎo tiáo zhěng bú huì bǎ fù dān tuī gěi tóng yī gè rén 。",
+      "tr": "Vardiyaları seninle birlikte kontrol edip yükün hep aynı kişiye binmemesini sağlayacağım."
     },
     {
       "id": "DLG_ZH_HSK6_SC018_058",
@@ -478,7 +478,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC018_068",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "我来帮你招呼客人。有人问菜单，我就介绍两种最常点的饮品。",
       "pinyin": "wǒ lái bāng nǐ zhāo hū kè rén 。 yǒu rén wèn cài dān ， wǒ jiù jiè shào liǎng zhǒng zuì cháng diǎn de yǐn pǐn 。",
       "tr": "Müşterileri ben karşılayayım. Menü soranlara en çok tercih edilen iki içeceği anlatırım."

@@ -79,9 +79,9 @@
     {
       "id": "DLG_ZH_HSK5_SC030_011",
       "speaker": "张伟",
-      "zh": "社区里的顾客平时会互相推荐店铺，路线清楚以后也更愿意过来。",
-      "pinyin": "shè qū lǐ de gù kè píng shí huì hù xiāng tuī jiàn diàn pù ， lù xiàn qīng chǔ yǐ hòu yě gèng yuàn yì guò lái 。",
-      "tr": "Mahalledeki müşteriler genellikle dükkânları birbirine öneriyor; güzergâh netleşince gelmeleri de kolaylaşır."
+      "zh": "社区里的顾客平时会互相推荐店铺，路线清楚以后也更愿意过来，生意就能互相带动。",
+      "pinyin": "shè qū lǐ de gù kè píng shí huì hù xiāng tuī jiàn diàn pù ， lù xiàn qīng chǔ yǐ hòu yě gèng yuàn yì guò lái ， shēng yì jiù néng hù xiāng dài dòng 。",
+      "tr": "Mahalle sakinleri dükkânları birbirine öneriyor; güzergâh netleşince gelip alışveriş yapmaları kolaylaşır ve işlerimiz birbirini destekler."
     },
     {
       "id": "DLG_ZH_HSK5_SC030_012",
@@ -128,9 +128,9 @@
     {
       "id": "DLG_ZH_HSK5_SC030_018",
       "speaker": "刘梅",
-      "zh": "我赞成。商户先确认各自信息，社区办公室再负责统一发布。",
-      "pinyin": "wǒ zàn chéng 。 shāng hù xiān què rèn gè zì xìn xī ， shè qū bàn gōng shì zài fù zé tǒng yī fā bù 。",
-      "tr": "Katılıyorum. Esnaf önce kendi bilgilerini doğrulasın, ardından ortak duyuruyu mahalle ofisi yayımlasın."
+      "zh": "商户先确认各自信息，社区办公室再负责统一发布，双方要保持沟通。",
+      "pinyin": "shāng hù xiān què rèn gè zì xìn xī ， shè qū bàn gōng shì zài fù zé tǒng yī fā bù ， shuāng fāng yào bǎo chí gōu tōng 。",
+      "tr": "Esnaf kendi bilgilerini doğrulasın, mahalle ofisi de bunları toplu olarak yayımlasın; iki taraf iletişimi sürdürsün."
     },
     {
       "id": "DLG_ZH_HSK5_SC030_019",
@@ -233,9 +233,9 @@
     {
       "id": "DLG_ZH_HSK5_SC030_033",
       "speaker": "商户",
-      "zh": "如果有人觉得自家位置不明显，我们先调整布局，不急着增加宣传开支。",
-      "pinyin": "rú guǒ yǒu rén jué de zì jiā wèi zhì bù míng xiǎn ， wǒ men xiān tiáo zhěng bù jú ， bù jí zhe zēng jiā xuān chuán kāi zhī 。",
-      "tr": "Birisi dükkânının konumunun yeterince görünür olmadığını düşünürse önce yerleşimi düzeltelim; hemen tanıtım masrafını artırmayalım."
+      "zh": "如果有人觉得自家位置不明显，我们先讨论解决办法，不急着增加宣传开支。",
+      "pinyin": "rú guǒ yǒu rén jué de zì jiā wèi zhì bù míng xiǎn ， wǒ men xiān tǎo lùn jiě jué bàn fǎ ， bù jí zhe zēng jiā xuān chuán kāi zhī 。",
+      "tr": "Dükkânın yeri belirgin değilse önce bir çözüm bulalım; hemen tanıtım masrafını artırmayalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC030_034",
@@ -247,16 +247,16 @@
     {
       "id": "DLG_ZH_HSK5_SC030_035",
       "speaker": "张伟",
-      "zh": "我们先说清楚共同地图要解决什么：让人知道哪里能进、哪些店照常营业。",
-      "pinyin": "wǒ men xiān shuō qīng chǔ gòng tóng dì tú yào jiě jué shén me ： ràng rén zhī dào nǎ lǐ néng jìn 、 nǎ xiē diàn zhào cháng yíng yè 。",
-      "tr": "Ortak haritanın neyi çözeceğini netleştirelim: nereden girileceği ve hangi dükkânların açık olduğu."
+      "zh": "我们先说清楚共同地图要解决什么：让人知道哪里能进、哪些店照常营业；这也是商户和顾客的共同利益。",
+      "pinyin": "wǒ men xiān shuō qīng chǔ gòng tóng dì tú yào jiě jué shén me ： ràng rén zhī dào nǎ lǐ néng jìn 、 nǎ xiē diàn zhào cháng yíng yè ； zhè yě shì shāng hù hé gù kè de gòng tóng lì yì 。",
+      "tr": "Önce ortak haritanın neyi çözmesini istediğimizi netleştirelim: girişleri ve hangi dükkânların açık olduğunu göstermesi esnafın ve müşterilerin ortak yararına."
     },
     {
       "id": "DLG_ZH_HSK5_SC030_036",
       "speaker": "社区代表",
-      "zh": "我再补充一个目标：让顾客看完以后知道附近还有哪些服务。",
-      "pinyin": "wǒ zài bǔ chōng yí gè mù biāo ： ràng gù kè kàn wán yǐ hòu zhī dào fù jìn hái yǒu nǎ xiē fú wù 。",
-      "tr": "Bir hedef daha ekleyeyim: Müşteriler haritaya baktıktan sonra yakında hangi hizmetlerin olduğunu da bilsin."
+      "zh": "我再补充一个目标：让顾客看完以后知道附近有哪些商户和公共服务。",
+      "pinyin": "wǒ zài bǔ chōng yí gè mù biāo ： ràng gù kè kàn wán yǐ hòu zhī dào fù jìn yǒu nǎ xiē shāng hù hé gōng gòng fú wù 。",
+      "tr": "Bir hedef daha ekleyeyim: Müşteriler haritaya bakınca yakındaki esnafı ve kamu hizmetlerini de bulabilsin."
     },
     {
       "id": "DLG_ZH_HSK5_SC030_037",

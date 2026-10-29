@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC034_001",
       "speaker": "张伟",
-      "zh": "我做了几种预算，想和大家谈谈是不是三年后退休。",
-      "pinyin": "wǒ zuò le jǐ zhǒng yù suàn ， xiǎng hé dà jiā tán tán shì bú shì sān nián hòu tuì xiū 。",
-      "tr": "Birkaç bütçe hesabı yaptım; üç yıl sonra emekli olmanın uygun olup olmadığını sizinle konuşmak istiyorum."
+      "zh": "我们做了几种财务规划方案，想和大家谈谈是不是三年后提前退休。",
+      "pinyin": "wǒ men zuò le jǐ zhǒng cái wù guī huà fāng àn ， xiǎng hé dà jiā tán tán shì bú shì sān nián hòu tí qián tuì xiū 。",
+      "tr": "Birkaç finansal planlama seçeneği hazırladım; üç yıl içinde erken emekli olmanın uygun olup olmadığını sizinle konuşmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_002",
@@ -44,9 +44,9 @@
     {
       "id": "DLG_ZH_HSK5_SC034_006",
       "speaker": "刘梅",
-      "zh": "那我们先把“三年后退休”和“逐渐减少工作”当成两个不同的方案来比较。",
-      "pinyin": "nà wǒ men xiān bǎ “ sān nián hòu tuì xiū ” hé “ zhú jiàn jiǎn shǎo gōng zuò ” dàng chéng liǎng gè bù tóng de fāng àn lái bǐ jiào 。",
-      "tr": "O hâlde “üç yıl sonra emeklilik” ile “işi aşamalı azaltma” seçeneklerini ayrı ayrı karşılaştıralım."
+      "zh": "那我们先把“三年后提前退休”和“逐渐减少工作”当成两个不同的方案来比较。",
+      "pinyin": "nà wǒ men xiān bǎ “ sān nián hòu tí qián tuì xiū ” hé “ zhú jiàn jiǎn shǎo gōng zuò ” dàng chéng liǎng gè bù tóng de fāng àn lái bǐ jiào 。",
+      "tr": "O hâlde “üç yıl sonra erken emeklilik” ile “işi aşamalı azaltma” seçeneklerini karşılaştıralım."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_007",
@@ -149,9 +149,9 @@
     {
       "id": "DLG_ZH_HSK5_SC034_021",
       "speaker": "张伟",
-      "zh": "如果医疗费用或收入情况变化，退休日期也可以重新计算，不用把三年当成不能改的承诺。",
-      "pinyin": "rú guǒ yī liáo fèi yòng huò shōu rù qíng kuàng biàn huà ， tuì xiū rì qī yě kě yǐ chóng xīn jì suàn ， bù yòng bǎ sān nián dàng chéng bù néng gǎi de chéng nuò 。",
-      "tr": "Sağlık giderleri ya da gelir değişirse emeklilik tarihini yeniden hesaplayabiliriz; üç yılı değişmez bir söz gibi görmemeliyiz."
+      "zh": "如果医疗费用或收入情况发生变化，提前退休的风险就要重新评估，不用把三年当成不能改的承诺。",
+      "pinyin": "rú guǒ yī liáo fèi yòng huò shōu rù qíng kuàng fā shēng biàn huà ， tí qián tuì xiū de fēng xiǎn jiù yào chóng xīn píng gū ， bù yòng bǎ sān nián dàng chéng bù néng gǎi de chéng nuò 。",
+      "tr": "Sağlık giderleri ya da gelir değişirse erken emekliliğin riskini yeniden değerlendirelim; üç yılı değiştirilemez bir söz gibi görmeyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_022",
@@ -247,9 +247,9 @@
     {
       "id": "DLG_ZH_HSK5_SC034_035",
       "speaker": "理财顾问",
-      "zh": "退休日期可以先暂定三年后，但每年根据储蓄、开支和身体情况复核。",
-      "pinyin": "tuì xiū rì qī kě yǐ xiān zàn dìng sān nián hòu ， dàn měi nián gēn jù chǔ xù 、 kāi zhī hé shēn tǐ qíng kuàng fù hé 。",
-      "tr": "Emeklilik tarihini şimdilik üç yıl sonrası olarak belirleyebiliriz ama her yıl birikim, gider ve sağlık durumuna göre tekrar kontrol edelim."
+      "zh": "退休日期可以先暂定三年后，但把它当成长期目标，每年根据储蓄、开支和身体情况复核。",
+      "pinyin": "tuì xiū rì qī kě yǐ xiān zàn dìng sān nián hòu ， dàn bǎ tā dàng chéng cháng qī mù biāo ， měi nián gēn jù chǔ xù 、 kāi zhī hé shēn tǐ qíng kuàng fù hé 。",
+      "tr": "Emeklilik tarihini şimdilik üç yıl sonrası olarak tasarlayabiliriz; ancak bunu uzun vadeli hedef sayıp birikim, gider ve sağlık durumuna göre her yıl gözden geçirelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_036",
@@ -291,140 +291,140 @@
       "speaker": "张伟",
       "zh": "钱当然重要，但退休后每天怎么过也一样重要。",
       "pinyin": "qián dāng rán zhòng yào ， dàn tuì xiū hòu měi tiān zěn me guò yě yī yàng zhòng yào 。",
-      "tr": "Para elbette önemli ama emeklilikten sonra günlerin nasıl geçeceği de önemli。"
+      "tr": "Para elbette önemli ama emeklilikten sonra günlerin nasıl geçeceği de önemli."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_042",
       "speaker": "刘梅",
       "zh": "我们先按最保守的收入和支出算一遍，看看底线在哪里。",
       "pinyin": "wǒ men xiān àn zuì bǎo shǒu de shōu rù hé zhī chū suàn yī biàn ， kàn kàn dǐ xiàn zài nǎ lǐ 。",
-      "tr": "Önce en temkinli gelir ve gider varsayımlarıyla hesaplayıp sınırın nerede olduğuna bakalım。"
+      "tr": "Önce en temkinli gelir ve gider varsayımlarıyla hesaplayıp sınırın nerede olduğuna bakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_043",
       "speaker": "理财顾问",
       "zh": "可以。我会把住房、日常开销和医疗费用分开列出来。",
       "pinyin": "kě yǐ 。 wǒ huì bǎ zhù fáng 、 rì cháng kāi xiāo hé yī liáo fèi yòng fēn kāi liè chū lái 。",
-      "tr": "Olur. Konut, günlük giderler ve sağlık masraflarını ayrı ayrı sıralayacağım。"
+      "tr": "Olur. Konut, günlük giderler ve sağlık masraflarını ayrı ayrı sıralayacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_044",
       "speaker": "李晨",
       "zh": "旅行的钱也算进去吧，不然预算看起来会比实际轻松。",
       "pinyin": "lǚ xíng de qián yě suàn jìn qù ba ， bù rán yù suàn kàn qǐ lái huì bǐ shí jì qīng sōng 。",
-      "tr": "Seyahat masrafını da ekleyelim; yoksa bütçe gerçekte olduğundan daha rahat görünür。"
+      "tr": "Seyahat masrafını da ekleyelim; yoksa bütçe gerçekte olduğundan daha rahat görünür."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_045",
       "speaker": "张伟",
       "zh": "好，我把每年想旅行几次和大概花费都写下来。",
       "pinyin": "hǎo ， wǒ bǎ měi nián xiǎng lǚ xíng jǐ cì hé dà gài huā fèi dōu xiě xià lái 。",
-      "tr": "Tamam, yılda kaç kez seyahat etmek istediğimizi ve yaklaşık masrafı yazayım。"
+      "tr": "Tamam, yılda kaç kez seyahat etmek istediğimizi ve yaklaşık masrafı yazayım."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_046",
       "speaker": "刘梅",
       "zh": "还有房子的小修小补，不能只按平常月份来算。",
       "pinyin": "hái yǒu fáng zi de xiǎo xiū xiǎo bǔ ， bù néng zhǐ àn píng cháng yuè fèn lái suàn 。",
-      "tr": "Evin ufak tefek tamirlerini de ekleyelim; yalnızca sıradan aylara göre hesap yapamayız。"
+      "tr": "Evin ufak tefek tamirlerini de ekleyelim; yalnızca sıradan aylara göre hesap yapamayız."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_047",
       "speaker": "理财顾问",
       "zh": "这些不固定的开销可以单独留一笔备用金。",
       "pinyin": "zhè xiē bù gù dìng de kāi xiāo kě yǐ dān dú liú yī bǐ bèi yòng jīn 。",
-      "tr": "Bu değişken giderler için ayrıca bir kenara yedek para ayırabiliriz。"
+      "tr": "Bu değişken giderler için ayrıca bir kenara yedek para ayırabiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_048",
       "speaker": "李晨",
       "zh": "这样算出来的数字可能高一些，但心里会更有底。",
       "pinyin": "zhè yàng suàn chū lái de shù zì kě néng gāo yī xiē ， dàn xīn lǐ huì gèng yǒu dǐ 。",
-      "tr": "Böyle hesaplayınca rakam biraz yüksek çıkabilir ama insan kendini daha güvende hisseder。"
+      "tr": "Böyle hesaplayınca rakam biraz yüksek çıkabilir ama insan kendini daha güvende hisseder."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_049",
       "speaker": "张伟",
       "zh": "我不想为了赶在三年后退休，把现在的生活压得太紧。",
       "pinyin": "wǒ bù xiǎng wèi le gǎn zài sān nián hòu tuì xiū ， bǎ xiàn zài de shēng huó yā dé tài jǐn 。",
-      "tr": "Üç yıl sonra emekli olacağım diye bugünkü hayatımızı fazla kısmak istemiyorum。"
+      "tr": "Üç yıl sonra emekli olacağım diye bugünkü hayatımızı fazla kısmak istemiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_050",
       "speaker": "刘梅",
       "zh": "我也不想只盯着存款数字，忘了我们退休后真正想做什么。",
       "pinyin": "wǒ yě bù xiǎng zhǐ dīng zhe cún kuǎn shù zì ， wàng le wǒ men tuì xiū hòu zhēn zhèng xiǎng zuò shén me 。",
-      "tr": "Ben de yalnızca birikim rakamına odaklanıp emeklilikte gerçekten ne yapmak istediğimizi unutmak istemiyorum。"
+      "tr": "Ben de yalnızca birikim rakamına odaklanıp emeklilikte gerçekten ne yapmak istediğimizi unutmak istemiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_051",
       "speaker": "理财顾问",
       "zh": "退休规划不仅要看存款，还要看你们希望怎样安排时间和生活。",
       "pinyin": "tuì xiū guī huà bù jǐn yào kàn cún kuǎn ， hái yào kàn nǐ men xī wàng zěn yàng ān pái shí jiān hé shēng huó 。",
-      "tr": "Emeklilik planı yalnızca birikime değil, zamanınızı ve hayatınızı nasıl düzenlemek istediğinize de bakmalı。"
+      "tr": "Emeklilik planı yalnızca birikime değil, zamanınızı ve hayatınızı nasıl düzenlemek istediğinize de bakmalı."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_052",
       "speaker": "李晨",
       "zh": "那我们各自写下最想保留的三件事，再一起比较预算。",
       "pinyin": "nà wǒ men gè zì xiě xià zuì xiǎng bǎo liú de sān jiàn shì ， zài yì qǐ bǐ jiào yù suàn 。",
-      "tr": "O hâlde herkes korumak istediği üç şeyi yazsın, sonra bütçeyle birlikte değerlendirelim。"
+      "tr": "O hâlde herkes korumak istediği üç şeyi yazsın, sonra bütçeyle birlikte değerlendirelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_053",
       "speaker": "张伟",
       "zh": "我想保留每周运动、偶尔旅行，还有和朋友见面的时间。",
       "pinyin": "wǒ xiǎng bǎo liú měi zhōu yùn dòng 、 ǒu ěr lǚ xíng ， hái yǒu hé péng yǒu jiàn miàn de shí jiān 。",
-      "tr": "Haftalık sporumu, ara sıra seyahat etmeyi ve arkadaşlarımla görüşme zamanımı korumak istiyorum。"
+      "tr": "Haftalık sporumu, ara sıra seyahat etmeyi ve arkadaşlarımla görüşme zamanımı korumak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_054",
       "speaker": "刘梅",
       "zh": "我希望能多陪家人，也想继续参加社区的活动。",
       "pinyin": "wǒ xī wàng néng duō péi jiā rén ， yě xiǎng jì xù cān jiā shè qū de huó dòng 。",
-      "tr": "Ailemle daha çok vakit geçirmek ve mahalle etkinliklerine katılmayı sürdürmek istiyorum。"
+      "tr": "Ailemle daha çok vakit geçirmek ve mahalle etkinliklerine katılmayı sürdürmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_055",
       "speaker": "理财顾问",
       "zh": "这些都可以放进计划里，再看哪些开销需要提前准备。",
       "pinyin": "zhè xiē dōu kě yǐ fàng jìn jì huà lǐ ， zài kàn nǎ xiē kāi xiāo xū yào tí qián zhǔn bèi 。",
-      "tr": "Bunların hepsini plana ekleyebilir, hangi masraflar için önceden hazırlık gerektiğine bakabiliriz。"
+      "tr": "Bunların hepsini plana ekleyebilir, hangi masraflar için önceden hazırlık gerektiğine bakabiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_056",
       "speaker": "李晨",
       "zh": "如果三年后全退不合适，先减少工作时间行不行？",
       "pinyin": "rú guǒ sān nián hòu quán tuì bù hé shì ， xiān jiǎn shǎo gōng zuò shí jiān xíng bù xíng ？",
-      "tr": "Üç yıl sonra tamamen emekli olmak uygun olmazsa önce çalışma saatlerini azaltabilir miyiz？"
+      "tr": "Üç yıl sonra tamamen emekli olmak uygun olmazsa önce çalışma saatlerini azaltabilir miyiz?"
     },
     {
       "id": "DLG_ZH_HSK5_SC034_057",
       "speaker": "张伟",
       "zh": "我愿意试试每周少工作一天，看看收入和生活有什么变化。",
       "pinyin": "wǒ yuàn yì shì shì měi zhōu shǎo gōng zuò yī tiān ， kàn kàn shōu rù hé shēng huó yǒu shén me biàn huà 。",
-      "tr": "Haftada bir gün daha az çalışmayı deneyip gelir ve yaşamın nasıl değiştiğini görmek isterim。"
+      "tr": "Haftada bir gün daha az çalışmayı deneyip gelir ve yaşamın nasıl değiştiğini görmek isterim."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_058",
       "speaker": "刘梅",
       "zh": "先试半年吧，这样我们不会一下子做太大的决定。",
       "pinyin": "xiān shì bàn nián ba ， zhè yàng wǒ men bú huì yī xià zi zuò tài dà de jué dìng 。",
-      "tr": "Önce altı ay deneyelim; böylece birdenbire çok büyük bir karar vermemiş oluruz。"
+      "tr": "Önce altı ay deneyelim; böylece birdenbire çok büyük bir karar vermemiş oluruz."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_059",
       "speaker": "理财顾问",
       "zh": "试行期间记下实际开销和感受，之后再用真实情况调整预算。",
       "pinyin": "shì xíng qī jiān jì xià shí jì kāi xiāo hé gǎn shòu ， zhī hòu zài yòng zhēn shí qíng kuàng tiáo zhěng yù suàn 。",
-      "tr": "Deneme süresinde gerçek harcamaları ve nasıl hissettiğinizi not edin; sonra bütçeyi gerçek duruma göre ayarlarız。"
+      "tr": "Deneme süresinde gerçek harcamaları ve nasıl hissettiğinizi not edin; sonra bütçeyi gerçek duruma göre ayarlarız."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_060",
       "speaker": "李晨",
       "zh": "我可以帮你们做一张简单的月度记录表。",
       "pinyin": "wǒ kě yǐ bāng nǐ men zuò yī zhāng jiǎn dān de yuè dù jì lù biǎo 。",
-      "tr": "Sizin için basit bir aylık takip tablosu hazırlayabilirim。"
+      "tr": "Sizin için basit bir aylık takip tablosu hazırlayabilirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_061",
@@ -592,7 +592,7 @@
       "speaker": "李晨",
       "zh": "每一项注明数字来源，也标出还没确认的地方。",
       "pinyin": "měi yī xiàng zhù míng shù zì lái yuán ， yě biāo chū hái méi què rèn de dì fāng 。",
-      "tr": "Her kalemin rakam kaynağını belirtelim, henüz doğrulanmayan yerleri de işaretleyelim。"
+      "tr": "Her kalemin rakam kaynağını belirtelim, henüz doğrulanmayan yerleri de işaretleyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC034_085",
@@ -704,7 +704,7 @@
       "speaker": "李晨",
       "zh": "那就先按这个办法准备，半年后再坐下来谈退休安排。",
       "pinyin": "nà jiù xiān àn zhè ge bàn fǎ zhǔn bèi ， bàn nián hòu zài zuò xià lái tán tuì xiū ān pái 。",
-      "tr": "O hâlde şimdilik bu şekilde hazırlanalım; emeklilik düzenini altı ay sonra yeniden konuşuruz。"
+      "tr": "O hâlde şimdilik bu şekilde hazırlanalım; emeklilik düzenini altı ay sonra yeniden konuşuruz."
     }
   ]
 }

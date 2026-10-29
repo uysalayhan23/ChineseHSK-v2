@@ -39,9 +39,9 @@
     {
       "id": "DLG_ZH_HSK5_SC027_005",
       "speaker": "刘梅",
-      "zh": "我希望活动有文化交流的感觉，不只是加一场表演。",
-      "pinyin": "wǒ xī wàng huó dòng yǒu wén huà jiāo liú de gǎn jué ， bù zhǐ shì jiā yī cháng biǎo yǎn 。",
-      "tr": "Etkinliğin yalnızca bir gösteriden ibaret kalmayıp kültürel paylaşım havası taşımasını istiyorum."
+      "zh": "我希望这场文化活动能让不同年龄的受众交流，而不只是加一场表演。",
+      "pinyin": "wǒ xī wàng zhè chǎng wén huà huó dòng néng ràng bù tóng nián líng de shòu zhòng jiāo liú ， ér bù zhǐ shì jiā yī cháng biǎo yǎn 。",
+      "tr": "Bu kültür etkinliğinin yalnızca bir gösteriden ibaret kalmayıp farklı yaşlardan katılımcıları bir araya getirmesini istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC027_006",
@@ -88,9 +88,9 @@
     {
       "id": "DLG_ZH_HSK5_SC027_012",
       "speaker": "张伟",
-      "zh": "我可以准备一张简单的报名表，也在店门口放活动说明。",
-      "pinyin": "wǒ kě yǐ zhǔn bèi yī zhāng jiǎn dān de bào míng biǎo ， yě zài diàn mén kǒu fàng huó dòng shuō míng 。",
-      "tr": "Basit bir katılım formu hazırlayıp etkinlik bilgisini kafenin girişine koyabilirim."
+      "zh": "报名我来安排：准备一张简单的报名表，也在店门口放活动说明。",
+      "pinyin": "bào míng wǒ lái ān pái ： zhǔn bèi yī zhāng jiǎn dān de bào míng biǎo ， yě zài diàn mén kǒu fàng huó dòng shuō míng 。",
+      "tr": "Kayıt işini ben üstlenebilirim: basit bir başvuru formu hazırlayıp etkinlik bilgisini dükkânın girişine koyarım."
     },
     {
       "id": "DLG_ZH_HSK5_SC027_013",
@@ -172,9 +172,9 @@
     {
       "id": "DLG_ZH_HSK5_SC027_024",
       "speaker": "张伟",
-      "zh": "好，具体节目还可以商量，但结束时间最好先定下来。",
-      "pinyin": "hǎo ， jù tǐ jié mù hái kě yǐ shāng liáng ， dàn jié shù shí jiān zuì hǎo xiān dìng xià lái 。",
-      "tr": "Peki, programın ayrıntılarını daha sonra konuşabiliriz ama bitiş saatini şimdiden belirlemek iyi olur."
+      "zh": "好，这场文化活动的具体节目还可以商量，但结束时间最好先定下来。",
+      "pinyin": "hǎo ， zhè chǎng wén huà huó dòng de jù tǐ jié mù hái kě yǐ shāng liáng ， dàn jié shù shí jiān zuì hǎo xiān dìng xià lái 。",
+      "tr": "Peki, bu kültür etkinliğinin programını konuşabiliriz; ancak bitiş saatini önceden belirlemek iyi olur."
     },
     {
       "id": "DLG_ZH_HSK5_SC027_025",
@@ -228,9 +228,9 @@
     {
       "id": "DLG_ZH_HSK5_SC027_032",
       "speaker": "张伟",
-      "zh": "我会先告诉员工当天的安排，让他们知道谁负责接待、谁负责收款。",
-      "pinyin": "wǒ huì xiān gào sù yuán gōng dàng tiān de ān pái ， ràng tā men zhī dào shuí fù zé jiē dài 、 shuí fù zé shōu kuǎn 。",
-      "tr": "Çalışanlara o günün planını önceden anlatıp kimin konukları karşılayacağını, kimin ödemeyi alacağını belirteceğim."
+      "zh": "我会先组织一次简短说明，让员工知道当天谁负责接待、谁负责收款。",
+      "pinyin": "wǒ huì xiān zǔ zhī yī cì jiǎn duǎn shuō míng ， ràng yuán gōng zhī dào dàng tiān shuí fù zé jiē dài 、 shuí fù zé shōu kuǎn 。",
+      "tr": "Önce çalışanlara kısa bir bilgilendirme yapıp o gün kimin karşılama, kimin ödeme işinden sorumlu olduğunu açıklayacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC027_033",
@@ -242,9 +242,9 @@
     {
       "id": "DLG_ZH_HSK5_SC027_034",
       "speaker": "表演者",
-      "zh": "可以把表演区放在里面靠墙的位置，既听得清楚，也不挡住通道。",
-      "pinyin": "kě yǐ bǎ biǎo yǎn qū fàng zài lǐ miàn kào qiáng de wèi zhì ， jì tīng dé qīng chǔ ， yě bù dǎng zhù tōng dào 。",
-      "tr": "Performans alanını içeride duvar kenarına kuralım; ses duyulur ama geçiş kapanmaz."
+      "zh": "可以把表演区放在里面靠墙的位置，让表演者和顾客都听得清楚，也不挡住通道。",
+      "pinyin": "kě yǐ bǎ biǎo yǎn qū fàng zài lǐ miàn kào qiáng de wèi zhì ， ràng biǎo yǎn zhě hé gù kè dōu tīng dé qīng chǔ ， yě bù dǎng zhù tōng dào 。",
+      "tr": "Sahne alanını içeride, duvarın yanına kurabiliriz; böylece hem sanatçılar hem konuklar iyi duyar ve geçiş yolu kapanmaz."
     },
     {
       "id": "DLG_ZH_HSK5_SC027_035",
@@ -730,9 +730,9 @@
         "zh": "文化活动",
         "pinyin": "wénhuà huódòng",
         "tr": "kültür etkinliği",
-        "exampleZh": "文化活动是我们不能忽略的一点。",
-        "examplePinyin": "Wénhuà huódòng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Kültür etkinliği göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我希望这场文化活动能让不同年龄的受众交流，而不只是加一场表演。",
+        "examplePinyin": "wǒ xī wàng zhè chǎng wén huà huó dòng néng ràng bù tóng nián líng de shòu zhòng jiāo liú ， ér bù zhǐ shì jiā yī cháng biǎo yǎn 。",
+        "exampleTr": "Bu kültür etkinliğinin yalnızca bir gösteriden ibaret kalmayıp farklı yaşlardan katılımcıları bir araya getirmesini istiyorum.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "表演者",
         "pinyin": "biǎoyǎnzhě",
         "tr": "sanatçı / performansçı",
-        "exampleZh": "我会跟表演者再确认一次。",
-        "examplePinyin": "Wǒ huì gēn biǎoyǎnzhě zài quèrèn yí cì.",
-        "exampleTr": "Sanatçı / performansçı ile bir kez daha teyit edeceğim.",
+        "exampleZh": "那我们先考虑下个月的第一个周五，给顾客和表演者留些准备时间。",
+        "examplePinyin": "nà wǒ men xiān kǎo lǜ xià gè yuè de dì yí gè zhōu wǔ ， gěi gù kè hé biǎo yǎn zhě liú xiē zhǔn bèi shí jiān 。",
+        "exampleTr": "O hâlde müşterilere ve sanatçılara hazırlık zamanı bırakmak için gelecek ayın ilk cumasını düşünelim.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "受众",
         "pinyin": "shòuzhòng",
         "tr": "hedef kitle",
-        "exampleZh": "我们也应该听听受众的意见。",
-        "examplePinyin": "Wǒmen yě yīnggāi tīngting shòuzhòng de yìjiàn.",
-        "exampleTr": "Hedef kitle görüşünü de dinlemeliyiz.",
+        "exampleZh": "我希望这场文化活动能让不同年龄的受众交流，而不只是加一场表演。",
+        "examplePinyin": "wǒ xī wàng zhè chǎng wén huà huó dòng néng ràng bù tóng nián líng de shòu zhòng jiāo liú ， ér bù zhǐ shì jiā yī cháng biǎo yǎn 。",
+        "exampleTr": "Bu kültür etkinliğinin yalnızca bir gösteriden ibaret kalmayıp farklı yaşlardan katılımcıları bir araya getirmesini istiyorum.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "社区",
         "pinyin": "shèqū",
         "tr": "mahalle / topluluk",
-        "exampleZh": "关于社区，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú shèqū, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Mahalle / topluluk konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "社区里还有几位会弹传统乐器的人，我可以问问他们有没有兴趣。",
+        "examplePinyin": "shè qū lǐ hái yǒu jǐ wèi huì dàn chuán tǒng yuè qì de rén ， wǒ kě yǐ wèn wèn tā men yǒu méi yǒu xìng qù 。",
+        "exampleTr": "Mahallede geleneksel çalgı çalan birkaç kişi daha var; ilgilenip ilgilenmediklerini sorabilirim.",
         "kind": "active"
       },
       {
@@ -770,19 +770,19 @@
         "zh": "文化",
         "pinyin": "wénhuà",
         "tr": "kültür",
-        "exampleZh": "文化是我们不能忽略的一点。",
-        "examplePinyin": "Wénhuà shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Kültür göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "最近几位常客问我，咖啡馆能不能办一场小型文化夜。",
+        "examplePinyin": "zuì jìn jǐ wèi cháng kè wèn wǒ ， kā fēi guǎn néng bù néng bàn yī cháng xiǎo xíng wén huà yè 。",
+        "exampleTr": "Son zamanlarda birkaç müdavim, kafede küçük bir kültür gecesi düzenleyip düzenleyemeyeceğimizi sordu.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC027_006",
-        "zh": "咖啡馆的想法",
-        "pinyin": "kāfēiguǎn de xiǎngfa",
-        "tr": "kafe fikri",
-        "exampleZh": "我们把咖啡馆的想法也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ kāfēiguǎn de xiǎngfa yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Kafe fikri konusunu da değerlendirme kapsamına alalım.",
+        "zh": "报名",
+        "pinyin": "bàomíng",
+        "tr": "kayıt / başvuru",
+        "exampleZh": "报名我来安排：准备一张简单的报名表，也在店门口放活动说明。",
+        "examplePinyin": "bào míng wǒ lái ān pái ： zhǔn bèi yī zhāng jiǎn dān de bào míng biǎo ， yě zài diàn mén kǒu fàng huó dòng shuō míng 。",
+        "exampleTr": "Kayıt işini ben üstlenebilirim: basit bir başvuru formu hazırlayıp etkinlik bilgisini dükkânın girişine koyarım.",
         "kind": "active"
       },
       {
@@ -790,10 +790,10 @@
         "zh": "组织",
         "pinyin": "zǔzhī",
         "tr": "organize etmek",
-        "exampleZh": "我来负责组织这一部分。",
-        "examplePinyin": "Wǒ lái fùzé zǔzhī zhè yí bùfen.",
-        "exampleTr": "Organize etmek kısmını ben üstleneyim.",
-        "kind": "review"
+        "exampleZh": "我会先组织一次简短说明，让员工知道当天谁负责接待、谁负责收款。",
+        "examplePinyin": "wǒ huì xiān zǔ zhī yī cì jiǎn duǎn shuō míng ， ràng yuán gōng zhī dào dàng tiān shuí fù zé jiē dài 、 shuí fù zé shōu kuǎn 。",
+        "exampleTr": "Önce çalışanlara kısa bir bilgilendirme yapıp o gün kimin karşılama, kimin ödeme işinden sorumlu olduğunu açıklayacağım.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC027_008",
@@ -804,6 +804,16 @@
         "examplePinyin": "Guānyú gōngyì chàngyì, wǒ xiǎng zài tīngting dàjiā de kànfa.",
         "exampleTr": "Toplumsal yardım çağrısı konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
+      },
+      {
+        "id": "VOC_ZH_HSK5_SC027_009",
+        "zh": "志愿者",
+        "pinyin": "zhìyuànzhě",
+        "tr": "gönüllü",
+        "exampleZh": "那我请一位志愿者负责签到和引导，员工只按平常流程工作。",
+        "examplePinyin": "nà wǒ qǐng yī wèi zhì yuàn zhě fù zé qiān dào hé yǐn dǎo ， yuán gōng zhǐ àn píng cháng liú chéng gōng zuò 。",
+        "exampleTr": "O hâlde kayıt ve yönlendirmeyle bir gönüllü ilgilensin; çalışanlar normal iş akışını sürdürsün.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

@@ -730,9 +730,9 @@
         "zh": "停电",
         "pinyin": "tíngdiàn",
         "tr": "elektrik kesintisi",
-        "exampleZh": "停电是我们不能忽略的一点。",
-        "examplePinyin": "Tíngdiàn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Elektrik kesintisi göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "厨房里的电器都关了吗？停电以后不要反复按开关。",
+        "examplePinyin": "chú fáng lǐ de diàn qì dōu guān le ma tíng diàn yǐ hòu bú yào fǎn fù àn kāi guān",
+        "exampleTr": "Mutfağın cihazları kapatıldı mı? Elektrik kesilince düğmelere tekrar tekrar basmayın.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "紧急情况",
         "pinyin": "jǐnjí qíngkuàng",
         "tr": "acil durum",
-        "exampleZh": "我们把紧急情况也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jǐnjí qíngkuàng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Acil durum konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "以后遇到紧急情况，我们还会先确保安全，再清楚说明服务安排。",
+        "examplePinyin": "yǐ hòu yù dào jǐn jí qíng kuàng wǒ men hái huì xiān què bǎo ān quán zài qīng chǔ shuō míng fú wù ān pái",
+        "exampleTr": "Bir acil durumda önce güvenliği sağlayıp hizmet planını açıkça anlatmaya devam edeceğiz.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "高峰时间",
         "pinyin": "gāofēng shíjiān",
         "tr": "yoğun saat",
-        "exampleZh": "如果高峰时间发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ gāofēng shíjiān fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Yoğun saat değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "现在正是高峰时间，厨房停电后订单一下子多了，我们先暂停接单。",
+        "examplePinyin": "xiàn zài zhèng shì gāo fēng shí jiān chú fáng tíng diàn hòu dìng dān yī xià zi duō le wǒ men xiān zàn tíng jiē dān",
+        "exampleTr": "Tam yoğun saat; mutfak elektriksiz kalınca siparişler birikti. Şimdilik sipariş almayı durduralım.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "顾客",
         "pinyin": "gùkè",
         "tr": "müşteri",
-        "exampleZh": "关于顾客，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú gùkè, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Müşteri konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "标好了，我也把顾客的桌号写在旁边，方便恢复以后核对。",
+        "examplePinyin": "biāo hǎo le wǒ yě bǎ gù kè de zhuō hào xiě zài páng biān fāng biàn huī fù yǐ hòu hé duì",
+        "exampleTr": "İşaretledim; elektrik gelince eşleştirmek için müşteri masa numarasını da yanına yazdım.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "服务",
         "pinyin": "fúwù",
         "tr": "hizmet",
-        "exampleZh": "服务是我们不能忽略的一点。",
-        "examplePinyin": "Fúwù shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Hizmet göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我以前在餐厅遇到过停电，他们也是先暂停厨房服务。",
+        "examplePinyin": "wǒ yǐ qián zài cān tīng yù dào guò tíng diàn tā men yě shì xiān zàn tíng chú fáng fú wù",
+        "exampleTr": "Daha önce bir restoranda elektrik kesintisi yaşamıştım; onlar da önce mutfak hizmetini durdurmuştu.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "维修",
         "pinyin": "wéixiū",
         "tr": "tamir",
-        "exampleZh": "我们把维修也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ wéixiū yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Tamir konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "物业说维修人员到了附近，正在找出故障位置。",
+        "examplePinyin": "wù yè shuō wéi xiū rén yuán dào le fù jìn zhèng zài zhǎo chū gù zhàng wèi zhì",
+        "exampleTr": "Yönetim, tamircilerin yakına geldiğini ve arızanın yerini aradıklarını söyledi.",
         "kind": "active"
       },
       {

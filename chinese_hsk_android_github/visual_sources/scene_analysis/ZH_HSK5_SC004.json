@@ -5,7 +5,7 @@
   "sceneId": "ZH_HSK5_SC004",
   "generationSceneId": "ZH_HSK5_SC004",
   "status": "INTEGRATED_QA_PASS",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC004.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC004.json",
   "dialogueSha256": "265adec73dd843139283e855c6c1e7aae21cf4e91377e4cbea571d8f0e0b5303",
   "titleZh": "咖啡馆有了经理",
   "titleTr": "Kafeye Yeni Müdür",

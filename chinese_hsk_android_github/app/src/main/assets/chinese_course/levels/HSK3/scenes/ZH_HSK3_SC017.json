@@ -730,9 +730,9 @@
         "zh": "成本",
         "pinyin": "chéngběn",
         "tr": "maliyet",
-        "exampleZh": "我已经把成本记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ chéngběn jì xiàlái le.",
-        "exampleTr": "Maliyet notunu aldım.",
+        "exampleZh": "我们先算成本，再决定卖多少钱。",
+        "examplePinyin": "Wǒ men xiān suàn chéng běn ， zài jué dìng mài duō shǎo qián 。",
+        "exampleTr": "Önce maliyeti hesaplayıp sonra kaça satacağımıza karar verelim.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "定价",
         "pinyin": "dìngjià",
         "tr": "fiyat belirleme",
-        "exampleZh": "如果现在定价，会更方便。",
-        "examplePinyin": "Rúguǒ xiànzài dìngjià, huì gèng fāngbiàn.",
-        "exampleTr": "Şimdi fiyat belirleme daha kullanışlı olur.",
+        "exampleZh": "材料都确认了，现在可以开始定价。",
+        "examplePinyin": "Cái liào dōu què rèn le ， xiàn zài kě yǐ kāi shǐ dìng jià 。",
+        "exampleTr": "Malzemeleri netleştirdik; şimdi fiyat belirleyebiliriz.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "预算",
         "pinyin": "yùsuàn",
         "tr": "bütçe",
-        "exampleZh": "我们最好再确认一下预算。",
-        "examplePinyin": "Wǒmen zuìhǎo zài quèrèn yíxià yùsuàn.",
-        "exampleTr": "Bütçe konusunu bir kez daha teyit etsek iyi olur.",
+        "exampleZh": "不过预算有限，我们还得留出买包装的钱。",
+        "examplePinyin": "Bù guò yù suàn yǒu xiàn ， wǒ men hái dé liú chū mǎi bāo zhuāng de qián 。",
+        "exampleTr": "Ama bütçemiz sınırlı; ambalaj için de para ayırmalıyız.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "价格",
         "pinyin": "jiàgé",
         "tr": "fiyat",
-        "exampleZh": "如果价格没有问题，我们就继续。",
-        "examplePinyin": "Rúguǒ jiàgé méiyǒu wèntí, wǒmen jiù jìxù.",
-        "exampleTr": "Fiyat konusunda sorun yoksa devam ederiz.",
+        "exampleZh": "我来记数，你们告诉我每样材料的价格。",
+        "examplePinyin": "Wǒ lái jì shù ， nǐ men gào sù wǒ měi yàng cái liào de jià gé 。",
+        "exampleTr": "Ben hesapları yazayım; siz her malzemenin fiyatını söyleyin.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "顾客",
         "pinyin": "gùkè",
         "tr": "müşteri",
-        "exampleZh": "我们先听听顾客怎么说。",
-        "examplePinyin": "Wǒmen xiān tīngting gùkè zěnme shuō.",
-        "exampleTr": "Önce müşteri ne diyor dinleyelim.",
+        "exampleZh": "这样定价就有根据了，也能照顾客人的需要。",
+        "examplePinyin": "Zhè yàng dìng jià jiù yǒu gēn jù le ， yě néng zhào gù kè rén de xū yào 。",
+        "exampleTr": "Böylece fiyatları gerekçeyle belirler ve müşterilerin ihtiyaçlarını da gözetiriz.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "必要",
         "pinyin": "bìyào",
         "tr": "gerekli",
-        "exampleZh": "别担心，必要的问题可以慢慢解决。",
-        "examplePinyin": "Bié dānxīn, bìyào de wèntí kěyǐ mànmàn jiějué.",
-        "exampleTr": "Endişelenme, gerekli ile ilgili sorun yavaş yavaş çözülebilir.",
+        "exampleZh": "先把必要的费用算清楚，其他的以后再看。",
+        "examplePinyin": "Xiān bǎ bì yào de fèi yòng suàn qīng chǔ ， qí tā de yǐ hòu zài kàn 。",
+        "exampleTr": "Önce gerekli masrafları netleştirelim, diğerlerine sonra bakarız.",
         "kind": "active"
       },
       {

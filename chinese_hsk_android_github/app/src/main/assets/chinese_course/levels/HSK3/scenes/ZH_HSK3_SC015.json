@@ -730,9 +730,9 @@
         "zh": "二手",
         "pinyin": "èrshǒu",
         "tr": "ikinci el",
-        "exampleZh": "我已经把二手记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ èrshǒu jì xiàlái le.",
-        "exampleTr": "Ikinci el notunu aldım.",
+        "exampleZh": "老板说这张桌子是二手的，价格不高。",
+        "examplePinyin": "lǎo bǎn shuō zhè zhāng zhuō zi shì èr shǒu de ， jià gé bù gāo 。",
+        "exampleTr": "Sahibi masanın ikinci el olduğunu ve fiyatının yüksek olmadığını söyledi.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "老桌子",
         "pinyin": "lǎo zhuōzi",
         "tr": "eski masa",
-        "exampleZh": "老桌子是这次要考虑的重点之一。",
-        "examplePinyin": "Lǎo zhuōzi shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-        "exampleTr": "Eski masa bu kez değerlendirmemiz gereken ana noktalardan biri.",
+        "exampleZh": "这张老桌子看起来用了很多年。",
+        "examplePinyin": "zhè zhāng lǎo zhuō zi kàn qǐ lái yòng le hěn duō nián 。",
+        "exampleTr": "Bu eski masa uzun yıllardır kullanılmış gibi görünüyor.",
         "kind": "active"
       },
       {
@@ -750,19 +750,19 @@
         "zh": "以前",
         "pinyin": "yǐqián",
         "tr": "önceden",
-        "exampleZh": "我们最好再确认一下以前。",
-        "examplePinyin": "Wǒmen zuìhǎo zài quèrèn yíxià yǐqián.",
-        "exampleTr": "Önceden konusunu bir kez daha teyit etsek iyi olur.",
+        "exampleZh": "它以前在街角的茶馆里，老板最近才卖出来。",
+        "examplePinyin": "tā yǐ qián zài jiē jiǎo de chá guǎn lǐ ， lǎo bǎn zuì jìn cái mài chū lái 。",
+        "exampleTr": "Önceden köşedeki çay evindeymiş; sahibi kısa süre önce satışa çıkarmış.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK3_SC015_004",
-        "zh": "以前",
-        "pinyin": "yǐqián",
-        "tr": "önceden",
-        "exampleZh": "如果以前没有问题，我们就继续。",
-        "examplePinyin": "Rúguǒ yǐqián méiyǒu wèntí, wǒmen jiù jìxù.",
-        "exampleTr": "Önceden konusunda sorun yoksa devam ederiz.",
+        "zh": "故事",
+        "pinyin": "gùshi",
+        "tr": "hikâye",
+        "exampleZh": "我们先听听它以前的故事，再决定要不要买。",
+        "examplePinyin": "wǒ men xiān tīng tīng tā yǐ qián de gù shì ， zài jué dìng yào bù yào mǎi 。",
+        "exampleTr": "Önce geçmişinin hikâyesini dinleyip sonra alıp almayacağımıza karar verelim.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "买",
         "pinyin": "mǎi",
         "tr": "satın almak",
-        "exampleZh": "我们先买，然后再看下一步。",
-        "examplePinyin": "Wǒmen xiān mǎi, ránhòu zài kàn xià yí bù.",
-        "exampleTr": "Önce satın almak, sonra sonraki adıma bakarız.",
+        "exampleZh": "我们先听听它以前的故事，再决定要不要买。",
+        "examplePinyin": "wǒ men xiān tīng tīng tā yǐ qián de gù shì ， zài jué dìng yào bù yào mǎi 。",
+        "exampleTr": "Önce geçmişinin hikâyesini dinleyip sonra alıp almayacağımıza karar verelim.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "价格",
         "pinyin": "jiàgé",
         "tr": "fiyat",
-        "exampleZh": "我已经把价格记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ jiàgé jì xiàlái le.",
-        "exampleTr": "Fiyat notunu aldım.",
+        "exampleZh": "老板说这张桌子是二手的，价格不高。",
+        "examplePinyin": "lǎo bǎn shuō zhè zhāng zhuō zi shì èr shǒu de ， jià gé bù gāo 。",
+        "exampleTr": "Sahibi masanın ikinci el olduğunu ve fiyatının yüksek olmadığını söyledi.",
         "kind": "active"
       },
       {

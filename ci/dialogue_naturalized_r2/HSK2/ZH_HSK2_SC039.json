@@ -41,21 +41,21 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC039_006",
-      "speaker": "张乐乐",
+      "speaker": "兽医",
       "zh": "好，数字出来了。我会结合她的情况给你们建议。",
       "pinyin": "Hǎo ， shù zì chū lái le 。 wǒ huì jié hé tā de qíng kuàng gěi nǐ men jiàn yì 。",
       "tr": "Tamam, ölçüm çıktı. Durumunu değerlendirirken başka bilgileri de dikkate alacağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC039_007",
-      "speaker": "兽医",
+      "speaker": "张伟",
       "zh": "这个体重算高吗？我们不太会看。",
       "pinyin": "Zhè ge tǐ zhòng suàn gāo ma ？ wǒ men bù tài huì kàn 。",
       "tr": "Bu kilo yüksek mi? Nasıl değerlendireceğimizi bilmiyoruz."
     },
     {
       "id": "DLG_ZH_HSK2_SC039_008",
-      "speaker": "张伟",
+      "speaker": "兽医",
       "zh": "单看一个数字不够，我还要考虑她的体型和健康情况。",
       "pinyin": "Dān kàn yí gè shù zì bù gòu ， wǒ hái yào kǎo lǜ tā de tǐ xíng hé jiàn kāng qíng kuàng 。",
       "tr": "Tek bir sayı yeterli değil; vücut yapısını ve sağlık durumunu da göz önüne almalıyım."
@@ -132,17 +132,17 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC039_019",
-      "speaker": "兽医",
-      "zh": "再过一段时间可以回来复查吗？",
-      "pinyin": "Zài guò yī duàn shí jiān kě yǐ huí lái fù chá ma ？",
-      "tr": "Bir süre sonra tekrar kontrol için gelebilir miyiz?"
+      "speaker": "刘梅",
+      "zh": "过一段时间可以回来复查吗？",
+      "pinyin": "Guò yī duàn shí jiān kě yǐ huí lái fù chá ma ？",
+      "tr": "Bir süre sonra kontrol için tekrar gelebilir miyiz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC039_020",
-      "speaker": "张伟",
-      "zh": "可以，按今天讨论的计划观察一段时间，再联系我们复查。",
-      "pinyin": "Kě yǐ ， àn jīn tiān tǎo lùn de jì huà guān chá yī duàn shí jiān ， zài lián xì wǒ men fù chá 。",
-      "tr": "Olur, bugün konuştuklarımızı bir süre uygulayıp sonra kontrol için tekrar gelin."
+      "speaker": "兽医",
+      "zh": "可以，按今天讨论的计划观察一段时间，再联系我复查。",
+      "pinyin": "Kě yǐ ， àn jīn tiān tǎo lùn de jì huà guān chá yī duàn shí jiān ， zài lián xì wǒ fù chá 。",
+      "tr": "Olur. Bugün konuştuğumuz planı bir süre uygulayın, sonra kontrol için benimle iletişime geçin."
     },
     {
       "id": "DLG_ZH_HSK2_SC039_021",
@@ -153,14 +153,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC039_022",
-      "speaker": "张乐乐",
+      "speaker": "兽医",
       "zh": "先别突然换食物。把现在吃的种类和包装说明记下来，我再结合体重帮你们看。",
       "pinyin": "Xiān bié tū rán huàn shí wù 。 bǎ xiàn zài chī de zhǒng lèi hé bāo zhuāng shuō míng jì xià lái ， wǒ zài jié hé tǐ zhòng bāng nǐ men kàn 。",
       "tr": "Mamayı birden değiştirmeyin. Şu an yediği ürünleri ve paket talimatlarını not edin; kilosuna göre birlikte değerlendirelim."
     },
     {
       "id": "DLG_ZH_HSK2_SC039_023",
-      "speaker": "兽医",
+      "speaker": "张乐乐",
       "zh": "如果她一直要零食，我可以马上再给她一点吗？",
       "pinyin": "Rú guǒ tā yì zhí yào líng shí ， wǒ kě yǐ mǎ shàng zài gěi tā yì diǎn ma ？",
       "tr": "Sürekli ödül istiyorsa hemen biraz daha verebilir miyim?"
@@ -182,9 +182,9 @@
     {
       "id": "DLG_ZH_HSK2_SC039_026",
       "speaker": "张乐乐",
-      "zh": "我来记次数，乐乐可以记咪咪每天玩了多久。",
-      "pinyin": "Wǒ lái jì cì shù ， lè lè kě yǐ jì mī mī měi tiān wán le duō jiǔ 。",
-      "tr": "Sıklığını ben yazayım, Lele de Mimi’nin ne kadar oynadığını not etsin."
+      "zh": "我来记次数，爸爸帮我记咪咪每天玩了多久。",
+      "pinyin": "Wǒ lái jì cì shù ， bà bà bāng wǒ jì mī mī měi tiān wán le duō jiǔ 。",
+      "tr": "Ben ödül sayısını kaydedeyim, babam da Mimi’nin her gün ne kadar oynadığını yazsın."
     },
     {
       "id": "DLG_ZH_HSK2_SC039_027",
@@ -210,13 +210,13 @@
     {
       "id": "DLG_ZH_HSK2_SC039_030",
       "speaker": "张乐乐",
-      "zh": "很好，让她慢慢活动，不要一下子玩得太久。",
-      "pinyin": "Hěn hǎo ， ràng tā màn màn huó dòng ， bú yào yī xià zi wán dé tài jiǔ 。",
-      "tr": "Güzel; yavaşça hareket etsin, birden uzun süre oynatmayın."
+      "zh": "好，我们陪她慢慢活动，不让她一下子玩太久。",
+      "pinyin": "Hǎo ， wǒ men péi tā màn màn huó dòng ， bù ràng tā yī xià zi wán tài jiǔ 。",
+      "tr": "Tamam, onunla yavaş yavaş ilgilenelim; çok uzun süre oynamayalım."
     },
     {
       "id": "DLG_ZH_HSK2_SC039_031",
-      "speaker": "兽医",
+      "speaker": "张伟",
       "zh": "我们平时坐在家里的时间比较多，咪咪可能也跟着不爱动。",
       "pinyin": "Wǒ men píng shí zuò zài jiā lǐ de shí jiān bǐ jiào duō ， mī mī kě néng yě gēn zhe bù ài dòng 。",
       "tr": "Biz de evde çok oturuyoruz, Mimi de bu yüzden az hareket ediyor olabilir."
@@ -244,14 +244,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC039_035",
-      "speaker": "兽医",
+      "speaker": "刘梅",
       "zh": "过几天要是她不想玩，我们就让她休息，对吗？",
       "pinyin": "Guò jǐ tiān yào shì tā bù xiǎng wán ， wǒ men jiù ràng tā xiū xī ， duì ma ？",
       "tr": "Birkaç gün sonra oynamak istemezse dinlenmesine izin veriyoruz, değil mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC039_036",
-      "speaker": "张伟",
+      "speaker": "兽医",
       "zh": "对，观察她的反应。如果有不舒服的情况，及时联系我。",
       "pinyin": "Duì ， guān chá tā de fǎn yìng 。 rú guǒ yǒu bù shū fú de qíng kuàng ， jí shí lián xì wǒ 。",
       "tr": "Evet, tepkilerini gözlemleyin. Rahatsızlık belirtisi olursa benimle iletişime geçin."
@@ -293,7 +293,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC039_042",
-      "speaker": "张乐乐",
+      "speaker": "兽医",
       "zh": "不用每天称。我们按约好的时间记录，别让称重变成她的压力。",
       "pinyin": "Bù yòng měi tiān chēng 。 wǒ men àn yuē hǎo de shí jiān jì lù ， bié ràng chēng zhòng biàn chéng tā de yā lì 。",
       "tr": "Her gün tartmanız gerekmez. Kararlaştırdığımız zamanlarda kaydedin; tartılmak onun için stres olmasın."
@@ -328,14 +328,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC039_047",
-      "speaker": "兽医",
+      "speaker": "刘梅",
       "zh": "以后要是她的体重没有变化，我们该怎么办？",
       "pinyin": "Yǐ hòu yào shì tā de tǐ zhòng méi yǒu biàn huà ， wǒ men gāi zěn me bàn ？",
       "tr": "İleride kilosu değişmezse ne yapmalıyız?"
     },
     {
       "id": "DLG_ZH_HSK2_SC039_048",
-      "speaker": "张伟",
+      "speaker": "兽医",
       "zh": "先继续记录食物和活动，再按计划复查，不要自己突然改变喂养方式。",
       "pinyin": "Xiān jì xù jì lù shí wù hé huó dòng ， zài àn jì huà fù chá ， bú yào zì jǐ tū rán gǎi biàn wèi yǎng fāng shì 。",
       "tr": "Mama ve hareket kayıtlarını sürdürüp planlanan kontrole gelin; beslenmesini kendiniz birden değiştirmeyin."
@@ -349,21 +349,21 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC039_050",
-      "speaker": "张乐乐",
+      "speaker": "兽医",
       "zh": "对，记下日期和情况，联系我时说明白就行。",
       "pinyin": "Duì ， jì xià rì qī hé qíng kuàng ， lián xì wǒ shí shuō míng bái jiù xíng 。",
       "tr": "Evet, tarih ve durumu not edin; aradığınızda açıkça anlatabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC039_051",
-      "speaker": "兽医",
+      "speaker": "刘梅",
       "zh": "医生，我们是不是应该把零食完全停掉？",
       "pinyin": "Shòu yī ， wǒ men shì bú shì yīng gāi bǎ líng shí wán quán tíng diào ？",
       "tr": "Doktor, ödül mamalarını tamamen bırakmalı mıyız?"
     },
     {
       "id": "DLG_ZH_HSK2_SC039_052",
-      "speaker": "张伟",
+      "speaker": "兽医",
       "zh": "不用自己一下子全停。先把零食量记下来，再按她的情况调整。",
       "pinyin": "Bù yòng zì jǐ yī xià zi quán tíng 。 xiān bǎ líng shí liàng jì xià lái ， zài àn tā de qíng kuàng tiáo zhěng 。",
       "tr": "Kendi başınıza birden tamamen kesmeyin. Önce miktarını not edip durumuna göre ayarlayalım."
@@ -412,14 +412,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC039_059",
-      "speaker": "兽医",
+      "speaker": "张伟",
       "zh": "我们是不是也要留意她每天走动的样子？",
       "pinyin": "Wǒ men shì bú shì yě yào liú yì tā měi tiān zǒu dòng de yàng zi ？",
       "tr": "Her gün ne kadar dolaştığını da takip etmemiz gerekir mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC039_060",
-      "speaker": "张伟",
+      "speaker": "兽医",
       "zh": "可以观察她愿不愿意玩、走动有没有变化，有问题就告诉我。",
       "pinyin": "Kě yǐ guān chá tā yuàn bù yuàn yì wán 、 zǒu dòng yǒu méi yǒu biàn huà ， yǒu wèn tí jiù gào sù wǒ 。",
       "tr": "Oynamak isteyip istemediğini ve hareketindeki değişiklikleri gözleyin; bir sorun olursa bana bildirin."
@@ -440,10 +440,10 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC039_063",
-      "speaker": "兽医",
-      "zh": "我会把咪咪的食物袋和玩具放在一起，提醒自己记录。",
-      "pinyin": "Wǒ huì bǎ mī mī de shí wù dài hé wán jù fàng zài yì qǐ ， tí xǐng zì jǐ jì lù 。",
-      "tr": "Mimi’nin mamasını ve oyuncağını birlikte koyayım; böylece kayıt tutmayı hatırlarım."
+      "speaker": "刘梅",
+      "zh": "我们把咪咪的食物袋和玩具放在合适的地方，提醒自己记录。",
+      "pinyin": "Wǒ men bǎ mī mī de shí wù dài hé wán jù fàng zài hé shì de dì fāng ， tí xǐng zì jǐ jì lù 。",
+      "tr": "Mimi’nin mama paketini ve oyuncaklarını uygun bir yere koyup kayıt tutmayı hatırlayalım."
     },
     {
       "id": "DLG_ZH_HSK2_SC039_064",
@@ -489,14 +489,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC039_070",
-      "speaker": "张乐乐",
+      "speaker": "兽医",
       "zh": "很好，改变要适合咪咪，遇到问题就联系我。",
       "pinyin": "Hěn hǎo ， gǎi biàn yào shì hé mī mī ， yù dào wèn tí jiù lián xì wǒ 。",
       "tr": "Güzel. Değişiklik Mimi’ye uygun olmalı; bir sorun olursa bana ulaşın."
     },
     {
       "id": "DLG_ZH_HSK2_SC039_071",
-      "speaker": "兽医",
+      "speaker": "刘梅",
       "zh": "我会把今天的建议贴在冰箱上，让大家都能看见。",
       "pinyin": "Wǒ huì bǎ jīn tiān de jiàn yì tiē zài bīng xiāng shàng ， ràng dà jiā dōu néng kàn jiàn 。",
       "tr": "Bugünkü önerileri buzdolabına asayım, evdekiler de görsün."
@@ -524,7 +524,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC039_075",
-      "speaker": "兽医",
+      "speaker": "刘梅",
       "zh": "如果咪咪不喜欢新的安排，我们再跟您说。",
       "pinyin": "Rú guǒ mī mī bù xǐ huān xīn de ān pái ， wǒ men zài gēn nín shuō 。",
       "tr": "Mimi yeni düzene alışmazsa size haber veririz."
@@ -545,14 +545,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC039_078",
-      "speaker": "张乐乐",
-      "zh": "谢谢你，乐乐。咪咪喜欢和你一起玩。",
-      "pinyin": "Xiè xiè nǐ ， lè lè 。 mī mī xǐ huān hé nǐ yì qǐ wán 。",
-      "tr": "Teşekkürler Lele, Mimi seninle oynamayı seviyor."
+      "speaker": "刘梅",
+      "zh": "谢谢乐乐，你陪咪咪玩，她也很喜欢和你在一起。",
+      "pinyin": "Xiè xiè lè lè ， nǐ péi mī mī wán ， tā yě hěn xǐ huān hé nǐ zài yì qǐ 。",
+      "tr": "Lele, sağ ol. Mimi seninle oynamayı ve yanında olmayı seviyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC039_079",
-      "speaker": "兽医",
+      "speaker": "张伟",
       "zh": "我们回家以后先拿出小球，看看她今天想不想玩。",
       "pinyin": "Wǒ men huí jiā yǐ hòu xiān ná chū xiǎo qiú ， kàn kàn tā jīn tiān xiǎng bù xiǎng wán 。",
       "tr": "Eve gidince önce topu çıkaralım, bugün oynamak istiyor mu bakalım."
@@ -636,7 +636,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC039_091",
-      "speaker": "兽医",
+      "speaker": "张乐乐",
       "zh": "咪咪，我们回家吧。今天你很乖，想玩的时候我们再拿球。",
       "pinyin": "mī mī ， wǒ men huí jiā ba 。 jīn tiān nǐ hěn guāi ， xiǎng wán de shí hòu wǒ men zài ná qiú 。",
       "tr": "Mimi, eve gidelim. Bugün çok usluydun; topu ancak oynamak istersen çıkarırız."

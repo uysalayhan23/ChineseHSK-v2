@@ -46,9 +46,9 @@
     {
       "id": "DLG_ZH_HSK2_SC044_006",
       "speaker": "社区工作人员",
-      "zh": "工作人员说一份饭加一份菜就可以。",
-      "pinyin": "gōng zuò rén yuán shuō yī fèn fàn jiā yī fèn cài jiù kě yǐ 。",
-      "tr": "Görevli, bir porsiyon pilavla bir porsiyon sebzenin yeterli olacağını söyledi."
+      "zh": "一份饭加一份菜就可以。",
+      "pinyin": "yī fèn fàn jiā yī fèn cài jiù kě yǐ 。",
+      "tr": "Bir porsiyon pilav ve bir çeşit yemek yeterli."
     },
     {
       "id": "DLG_ZH_HSK2_SC044_007",
@@ -458,14 +458,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC044_065",
-      "speaker": "刘梅",
+      "speaker": "志愿者",
       "zh": "你准备的饭菜看起来很新鲜，大家一定会喜欢。",
       "pinyin": "nǐ zhǔn bèi de fàn cài kàn qǐ lái hěn xīn xiān ， dà jiā yí dìng huì xǐ huān 。",
       "tr": "Hazırladığın yemekler çok taze görünüyor, herkes sever."
     },
     {
       "id": "DLG_ZH_HSK2_SC044_066",
-      "speaker": "社区工作人员",
+      "speaker": "刘梅",
       "zh": "谢谢你们帮忙。我一个人很难在这么短时间里做好。",
       "pinyin": "xiè xiè nǐ men bāng máng 。 wǒ yí gè rén hěn nán zài zhè me duǎn shí jiān lǐ zuò hǎo 。",
       "tr": "Yardım ettiğiniz için sağ olun. Tek başıma bu kadar kısa sürede yetiştiremezdim."

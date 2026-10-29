@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK3_SC044",
   "status": "FINAL_IMAGE_INTEGRATED",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC044.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC044.json",
   "titleTr": "Yutong’un İlk Ciddi Kararı",
   "locationId": "LOC_ZH_HIGH_SCHOOL_001",
   "scenePurposeTr": "Yutong hangi alanda okumak istediğini ilk kez ciddi biçimde düşünür.",

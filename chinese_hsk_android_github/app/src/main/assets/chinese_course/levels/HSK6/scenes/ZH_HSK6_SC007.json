@@ -220,7 +220,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC007_031",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "奶奶刚才把首饰交给我时，我差点又哭了。",
       "pinyin": "nǎi nǎi gāng cái bǎ shǒu shì jiāo gěi wǒ shí ， wǒ chà diǎn yòu kū le 。",
       "tr": "Büyükanne takıları verirken neredeyse yeniden ağlayacaktım."
@@ -522,9 +522,9 @@
     {
       "id": "DLG_ZH_HSK6_SC007_074",
       "speaker": "伴侣",
-      "zh": "我没事，看到大家都在一起，我一点也不觉得累。",
-      "pinyin": "wǒ méi shì ， kàn dào dà jiā dōu zài yì qǐ ， wǒ yì diǎn yě bù jué dé lèi 。",
-      "tr": "İyiyim; hepiniz bir aradayken yorulduğumu hissetmiyorum."
+      "zh": "我去把茶端过去，请奶奶坐着慢慢喝。这样大家也能边喝边聊。",
+      "pinyin": "wǒ qù bǎ chá duān guò qù ， qǐng nǎi nǎi zuò zhe màn màn hē 。 zhè yàng dà jiā yě néng biān hē biān liáo 。",
+      "tr": "Çayı götürüp büyükanneyi otururken yavaşça içmeye davet edeyim. Böylece herkes oturup sohbet edebilir."
     },
     {
       "id": "DLG_ZH_HSK6_SC007_075",
@@ -640,10 +640,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC007_091",
-      "speaker": "张伟",
-      "zh": "我会把首饰收好，等以后再戴时，也会想起奶奶今天的祝福。",
-      "pinyin": "wǒ huì bǎ shǒu shì shōu hǎo ， děng yǐ hòu zài dài shí ， yě huì xiǎng qǐ nǎi nǎi jīn tiān de zhù fú 。",
-      "tr": "Takıları özenle saklayacağım; ileride taktığımda büyükannenin bugünkü iyi dileklerini hatırlarım."
+      "speaker": "张雨桐",
+      "zh": "我会把首饰收好，以后再拿出来时，也会想起奶奶今天的祝福。",
+      "pinyin": "wǒ huì bǎ shǒu shì shōu hǎo ， yǐ hòu zài ná chū lái shí ， yě huì xiǎng qǐ nǎi nǎi jīn tiān de zhù fú 。",
+      "tr": "Takıyı güvenle saklayacağım; ileride yeniden çıkardığımda büyükannenin bugünkü iyi dileklerini hatırlayacağım."
     },
     {
       "id": "DLG_ZH_HSK6_SC007_092",
@@ -718,92 +718,89 @@
     "vocabularyTheme": "tören, kutlama ve duygusal konuşma",
     "grammarTheme": "多层复句与衔接",
     "pronunciationTheme": "母语化语流",
-    "targetActiveVocabularyCount": {
-      "min": 8,
-      "max": 15
-    },
+    "targetActiveVocabularyCount": 8,
     "defaultSpeechSpeed": 1.0,
     "defaultSubtitleMode": "ZH",
     "vocabularyCards": [
       {
         "id": "VOC_ZH_HSK6_SC007_001",
-        "zh": "婚礼仪式",
-        "pinyin": "hūnlǐ yíshì",
-        "tr": "düğün töreni",
-        "exampleZh": "婚礼仪式之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Hūnlǐ yíshì zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Düğün töreni önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "誓言",
+        "pinyin": "shì yán",
+        "tr": "vow",
+        "exampleZh": "昨晚我们还在确认流程，没想到今天很快就要交换誓言了。",
+        "examplePinyin": "zuó wǎn wǒ men hái zài què rèn liú chéng ， méi xiǎng dào jīn tiān hěn kuài jiù yào jiāo huàn shì yán le 。",
+        "exampleTr": "Dün gece hâlâ programı kontrol ediyorduk; bugün yeminlerimizi edeceğimiz aklıma gelmiyor.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC007_002",
-        "zh": "誓言",
-        "pinyin": "shìyán",
-        "tr": "yemin / söz",
-        "exampleZh": "如果忽略誓言，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè shìyán, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Yemin / söz göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "照片",
+        "pinyin": "zhào piān",
+        "tr": "photo",
+        "exampleZh": "好主意。她一直拿着老照片，今天一定特别有感触。",
+        "examplePinyin": "hǎo zhǔ yì 。 tā yì zhí ná zhe lǎo zhào piān ， jīn tiān yí dìng tè bié yǒu gǎn chù 。",
+        "exampleTr": "Güzel fikir. Eski fotoğrafı hep yanında taşıdı; bugün çok duygulanmıştır.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC007_003",
-        "zh": "宾客",
-        "pinyin": "bīnkè",
-        "tr": "davetliler",
-        "exampleZh": "我想把宾客放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ bīnkè fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Davetliler konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
+        "zh": "首饰",
+        "pinyin": "shǒu shì",
+        "tr": "jewelry",
+        "exampleZh": "她一定很开心。你们把她送的首饰戴上，她刚才看见时眼睛都亮了。",
+        "examplePinyin": "tā yí dìng hěn kāi xīn 。 nǐ men bǎ tā sòng de shǒu shì dài shàng ， tā gāng cái kàn jiàn shí yǎn jīng dōu liàng le 。",
+        "exampleTr": "Çok mutlu olmuştur. Verdiği takıları takınca az önce gözleri parladı.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC007_004",
-        "zh": "祝酒",
-        "pinyin": "zhùjiǔ",
-        "tr": "kadeh kaldırıp kutlamak",
-        "exampleZh": "谈到祝酒，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào zhùjiǔ, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Kadeh kaldırıp kutlamak konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
+        "zh": "流程",
+        "pinyin": "liú chéng",
+        "tr": "schedule / sequence",
+        "exampleZh": "昨晚我们还在确认流程，没想到今天很快就要交换誓言了。",
+        "examplePinyin": "zuó wǎn wǒ men hái zài què rèn liú chéng ， méi xiǎng dào jīn tiān hěn kuài jiù yào jiāo huàn shì yán le 。",
+        "exampleTr": "Dün gece hâlâ programı kontrol ediyorduk; bugün yeminlerimizi edeceğimiz aklıma gelmiyor.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC007_005",
-        "zh": "语境",
-        "pinyin": "yǔjìng",
-        "tr": "bağlam",
-        "exampleZh": "语境之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Yǔjìng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Bağlam önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "合影",
+        "pinyin": "hé yǐng",
+        "tr": "group photo",
+        "exampleZh": "好，我们想和大家合影，也想听听奶奶今天的感受。",
+        "examplePinyin": "hǎo ， wǒ men xiǎng hé dà jiā hé yǐng ， yě xiǎng tīng tīng nǎi nǎi jīn tiān de gǎn shòu 。",
+        "exampleTr": "Olur. Herkesle fotoğraf çektirmek, büyükannemin bugün neler hissettiğini de dinlemek istiyoruz.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC007_006",
-        "zh": "立场",
-        "pinyin": "lìchǎng",
-        "tr": "tutum / bakış açısı",
-        "exampleZh": "如果忽略立场，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè lìchǎng, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Tutum / bakış açısı göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "祝福",
+        "pinyin": "zhù fú",
+        "tr": "good wishes",
+        "exampleZh": "听到奶奶和家人的祝福，我才发现刚才一直在担心流程会不会出错。",
+        "examplePinyin": "tīng dào nǎi nǎi hé jiā rén de zhù fú ， wǒ cái fā xiàn gāng cái yì zhí zài dān xīn liú chéng huì bú huì chū cuò 。",
+        "exampleTr": "Büyükannemin ve ailemizin iyi dileklerini duyunca bütün zaman boyunca programın aksamasından kaygılandığımı fark ettim.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC007_007",
-        "zh": "权衡",
-        "pinyin": "quánhéng",
-        "tr": "dengeleyerek değerlendirmek",
-        "exampleZh": "我想把权衡放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ quánhéng fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Dengeleyerek değerlendirmek konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
-        "kind": "review"
+        "zh": "敬茶",
+        "pinyin": "jìng chá",
+        "tr": "serve tea respectfully",
+        "exampleZh": "等会儿敬茶时，我们会把两边长辈都请到前面来。",
+        "examplePinyin": "děng huì er jìng chá shí ， wǒ men huì bǎ liǎng biān zhǎng bèi dōu qǐng dào qián miàn lái 。",
+        "exampleTr": "Birazdan çay sunma töreninde iki tarafın büyüklerini de öne davet ederiz.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC007_008",
-        "zh": "长期影响",
-        "pinyin": "chángqī yǐngxiǎng",
-        "tr": "uzun vadeli etki",
-        "exampleZh": "谈到长期影响，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào chángqī yǐngxiǎng, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Uzun vadeli etki konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
-        "kind": "review"
+        "zh": "亲友",
+        "pinyin": "qīn yǒu",
+        "tr": "family and friends",
+        "exampleZh": "刚才看到亲友们都到了，我才真正感觉到大家陪着我们。",
+        "examplePinyin": "gāng cái kàn dào qīn yǒu men dōu dào le ， wǒ cái zhēn zhèng gǎn jué dào dà jiā péi zhe wǒ men 。",
+        "exampleTr": "Yakınlarımızın geldiğini görünce herkesin yanımızda olduğunu gerçekten hissettim.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

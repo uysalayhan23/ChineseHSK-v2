@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK5_SC013_001",
       "speaker": "张雨桐",
-      "zh": "第二次面试的邀请来了，我按照上次的反馈重新准备了项目例子。",
-      "pinyin": "dì èr cì miàn shì de yāo qǐng lái le ， wǒ àn zhào shàng cì de fǎn kuì chóng xīn zhǔn bèi le xiàng mù lì zi 。",
-      "tr": "İkinci mülakat daveti geldi; geçen seferki geri bildirime göre proje örneklerimi yeniden hazırladım."
+      "zh": "第二次面试邀请来了，我按上次反馈重新准备了项目例子，也练习怎样自我展示。",
+      "pinyin": "dì èr cì miàn shì yāo qǐng lái le ， wǒ àn shàng cì fǎn kuì chóng xīn zhǔn bèi le xiàng mù lì zi ， yě liàn xí zěn yàng zì wǒ zhǎn shì 。",
+      "tr": "İkinci mülakat daveti geldi; önceki geri bildirime göre proje örneklerimi hazırladım ve kendimi nasıl tanıtacağımı çalıştım."
     },
     {
       "id": "DLG_ZH_HSK5_SC013_002",
@@ -501,9 +501,9 @@
     {
       "id": "DLG_ZH_HSK5_SC013_071",
       "speaker": "同事",
-      "zh": "刚才的回答比上次有条理，你没有急着说完，而是先回应问题再举例。",
-      "pinyin": "gāng cái de huí dá bǐ shàng cì yǒu tiáo lǐ ， nǐ méi yǒu jí zhe shuō wán ， ér shì xiān huí yìng wèn tí zài jǔ lì 。",
-      "tr": "Yanıtların geçen görüşmeden daha düzenliydi; acele etmeden önce soruyu yanıtlayıp sonra örnek verdin."
+      "zh": "我的评价是，你这次的自我展示更有条理，也把自己的优势讲清楚了，听起来比上次自信。",
+      "pinyin": "wǒ de píng jià shì ， nǐ zhè cì de zì wǒ zhǎn shì gèng yǒu tiáo lǐ ， yě bǎ zì jǐ de yōu shì jiǎng qīng chǔ le ， tīng qǐ lái bǐ shàng cì zì xìn 。",
+      "tr": "Bence bu kez kendini daha düzenli tanıttın, güçlü yanlarını açık anlattın ve öncekinden daha özgüvenliydin."
     },
     {
       "id": "DLG_ZH_HSK5_SC013_072",
@@ -641,9 +641,9 @@
     {
       "id": "DLG_ZH_HSK5_SC013_091",
       "speaker": "同事",
-      "zh": "如果每次都记录一个具体例子，阶段沟通时就容易看出自己的变化。",
-      "pinyin": "rú guǒ měi cì dōu jì lù yí gè jù tǐ lì zi ， jiē duàn gōu tōng shí jiù róng yì kàn chū zì jǐ de biàn huà 。",
-      "tr": "Her seferinde somut bir örnek kaydedersen değerlendirme görüşmesinde gelişimini görmek kolaylaşır."
+      "zh": "如果每次都记录一个具体例子，阶段沟通时容易看出变化，也更清楚职业发展方向。",
+      "pinyin": "rú guǒ měi cì dōu jì lù yí gè jù tǐ lì zi ， jiē duàn gōu tōng shí róng yì kàn chū biàn huà ， yě gèng qīng chǔ zhí yè fā zhǎn fāng xiàng 。",
+      "tr": "Her seferinde somut bir örnek kaydedersen görüşmelerde gelişimini ve kariyer yönünü daha iyi görebilirsin."
     },
     {
       "id": "DLG_ZH_HSK5_SC013_092",
@@ -730,9 +730,9 @@
         "zh": "自我展示",
         "pinyin": "zìwǒ zhǎnshì",
         "tr": "kendini sunma",
-        "exampleZh": "自我展示是我们不能忽略的一点。",
-        "examplePinyin": "Zìwǒ zhǎnshì shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Kendini sunma göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "第二次面试邀请来了，我按上次反馈重新准备了项目例子，也练习怎样自我展示。",
+        "examplePinyin": "Dì èr cì miàn shì yāo qǐng lái le ， wǒ àn shàng cì fǎn kuì chóng xīn zhǔn bèi le xiàng mù lì zi ， yě liàn xí zěn yàng zì wǒ zhǎn shì 。",
+        "exampleTr": "İkinci mülakat daveti geldi; önceki geri bildirime göre proje örneklerimi hazırladım ve kendimi nasıl tanıtacağımı çalıştım.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "评价",
         "pinyin": "píngjià",
         "tr": "değerlendirme",
-        "exampleZh": "我们把评价也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ píngjià yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Değerlendirme konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我的评价是，你这次的自我展示更有条理，也把自己的优势讲清楚了，听起来比上次自信。",
+        "examplePinyin": "Wǒ de píng jià shì ， nǐ zhè cì de zì wǒ zhǎn shì gèng yǒu tiáo lǐ ， yě bǎ zì jǐ de yōu shì jiǎng qīng chǔ le ， tīng qǐ lái bǐ shàng cì zì xìn 。",
+        "exampleTr": "Bence bu kez kendini daha düzenli tanıttın, güçlü yanlarını açık anlattın ve öncekinden daha özgüvenliydin.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "优势",
         "pinyin": "yōushì",
         "tr": "güçlü yön / avantaj",
-        "exampleZh": "如果优势发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ yōushì fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Güçlü yön / avantaj değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "我的评价是，你这次的自我展示更有条理，也把自己的优势讲清楚了，听起来比上次自信。",
+        "examplePinyin": "Wǒ de píng jià shì ， nǐ zhè cì de zì wǒ zhǎn shì gèng yǒu tiáo lǐ ， yě bǎ zì jǐ de yōu shì jiǎng qīng chǔ le ， tīng qǐ lái bǐ shàng cì zì xìn 。",
+        "exampleTr": "Bence bu kez kendini daha düzenli tanıttın, güçlü yanlarını açık anlattın ve öncekinden daha özgüvenliydin.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "经验",
         "pinyin": "jīngyàn",
         "tr": "deneyim",
-        "exampleZh": "关于经验，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jīngyàn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Deneyim konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "等你开始以后，我们可以继续互相交流申请和实习中的经验。",
+        "examplePinyin": "Děng nǐ kāi shǐ yǐ hòu ， wǒ men kě yǐ jì xù hù xiāng jiāo liú shēn qǐng hé shí xí zhōng de jīng yàn 。",
+        "exampleTr": "Başladıktan sonra başvuru ve staj deneyimlerimizi paylaşmayı sürdürebiliriz.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "实习",
         "pinyin": "shíxí",
         "tr": "staj",
-        "exampleZh": "实习是我们不能忽略的一点。",
-        "examplePinyin": "Shíxí shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Staj göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "很好。实习工作中，你希望怎样接受指导和反馈？",
+        "examplePinyin": "Hěn hǎo 。 shí xí gōng zuò zhōng ， nǐ xī wàng zěn yàng jiē shòu zhǐ dǎo hé fǎn kuì ？",
+        "exampleTr": "Güzel. Stajda nasıl bir rehberlik ve geri bildirim almak istersin?",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "自信",
         "pinyin": "zìxìn",
         "tr": "özgüven",
-        "exampleZh": "我们把自信也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zìxìn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Özgüven konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我的评价是，你这次的自我展示更有条理，也把自己的优势讲清楚了，听起来比上次自信。",
+        "examplePinyin": "Wǒ de píng jià shì ， nǐ zhè cì de zì wǒ zhǎn shì gèng yǒu tiáo lǐ ， yě bǎ zì jǐ de yōu shì jiǎng qīng chǔ le ， tīng qǐ lái bǐ shàng cì zì xìn 。",
+        "exampleTr": "Bence bu kez kendini daha düzenli tanıttın, güçlü yanlarını açık anlattın ve öncekinden daha özgüvenliydin.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "我来负责沟通这一部分。",
-        "examplePinyin": "Wǒ lái fùzé gōutōng zhè yí bùfen.",
-        "exampleTr": "Iletişim kurmak kısmını ben üstleneyim.",
-        "kind": "review"
+        "exampleZh": "保持这样的主动性，也记得及时沟通进度和困难。",
+        "examplePinyin": "Bǎo chí zhè yàng de zhǔ dòng xìng ， yě jì de jí shí gōu tōng jìn dù hé kùn nán 。",
+        "exampleTr": "Bu girişkenliği sürdür; ilerlemeyi ve zorlukları da zamanında paylaş.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC013_008",
         "zh": "职业发展",
         "pinyin": "zhíyè fāzhǎn",
         "tr": "kariyer gelişimi",
-        "exampleZh": "关于职业发展，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zhíyè fāzhǎn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Kariyer gelişimi konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "如果每次都记录一个具体例子，阶段沟通时容易看出变化，也更清楚职业发展方向。",
+        "examplePinyin": "Rú guǒ měi cì dōu jì lù yí gè jù tǐ lì zi ， jiē duàn gōu tōng shí róng yì kàn chū biàn huà ， yě gèng qīng chǔ zhí yè fā zhǎn fāng xiàng 。",
+        "exampleTr": "Her seferinde somut bir örnek kaydedersen görüşmelerde gelişimini ve kariyer yönünü daha iyi görebilirsin.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1230,6 +1230,14 @@
     },
     "continuityNoteTr": "İkinci Görüşmede Başarı olayı HSK5 yaşam çizgisinde sahne 13 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 15,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC013.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

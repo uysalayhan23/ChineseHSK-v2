@@ -83,35 +83,35 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC046_012",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "太好了，我可以带上我的本子和颜色。",
       "pinyin": "tài hǎo le ， wǒ kě yǐ dài shàng wǒ de běn zi hé yán sè 。",
       "tr": "Harika, defterimi ve boya kalemlerimi getirebilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC046_013",
-      "speaker": "张雨桐",
-      "zh": "我也带我的画册，我们画完以后互相看看。",
-      "pinyin": "wǒ yě dài wǒ de huà cè ， wǒ men huà wán yǐ hòu hù xiāng kàn kàn 。",
-      "tr": "Ben de resim kitabımı getiririm; bitirince birbirimize gösteririz."
+      "speaker": "好朋友",
+      "zh": "我也会带上我的画册，画完以后我们互相看看。",
+      "pinyin": "wǒ yě huì dài shàng wǒ de huà cè ， huà wán yǐ hòu wǒ men hù xiāng kàn kàn 。",
+      "tr": "Ben de resim defterimi getireceğim; bitirince birbirimizin resimlerine bakarız."
     },
     {
       "id": "DLG_ZH_HSK2_SC046_014",
-      "speaker": "好朋友",
+      "speaker": "刘梅",
       "zh": "你们一起做喜欢的事，很快就会成为好朋友。",
       "pinyin": "nǐ men yì qǐ zuò xǐ huān de shì ， hěn kuài jiù huì chéng wéi hǎo péng yǒu 。",
       "tr": "Sevdiğiniz şeyleri birlikte yaparsanız yakın arkadaş olursunuz."
     },
     {
       "id": "DLG_ZH_HSK2_SC046_015",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我们已经是好朋友了，我觉得和你聊天很轻松。",
       "pinyin": "wǒ men yǐ jīng shì hǎo péng yǒu le ， wǒ jué de hé nǐ liáo tiān hěn qīng sōng 。",
       "tr": "Zaten iyi arkadaşız; seninle konuşurken rahat hissediyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC046_016",
-      "speaker": "张雨桐",
+      "speaker": "好朋友",
       "zh": "我也觉得很开心。放学后我们常常一起走吧。",
       "pinyin": "wǒ yě jué de hěn kāi xīn 。 fàng xué hòu wǒ men cháng cháng yì qǐ zǒu ba 。",
       "tr": "Ben de mutluyum. Okuldan sonra sık sık birlikte yürüyelim."
@@ -161,9 +161,9 @@
     {
       "id": "DLG_ZH_HSK2_SC046_023",
       "speaker": "好朋友",
-      "zh": "你们先说说想听什么，我帮你们找一个合适的地方。",
-      "pinyin": "nǐ men xiān shuō shuō xiǎng tīng shén me ， wǒ bāng nǐ men zhǎo yí gè hé shì de dì fāng 。",
-      "tr": "Ne dinlemek istediğinizi söyleyin, size uygun bir yer bulmanıza yardım edeyim."
+      "zh": "你们先说说想听什么，我帮你们找一首合适的歌。",
+      "pinyin": "nǐ men xiān shuō shuō xiǎng tīng shén me ， wǒ bāng nǐ men zhǎo yī shǒu hé shì de gē 。",
+      "tr": "Önce ne dinlemek istediğinizi söyleyin; size uygun bir şarkı bulayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC046_024",
@@ -175,9 +175,9 @@
     {
       "id": "DLG_ZH_HSK2_SC046_025",
       "speaker": "张雨桐",
-      "zh": "听起来你们真的很投缘。",
-      "pinyin": "tīng qǐ lái nǐ men zhēn de hěn tóu yuán 。",
-      "tr": "Gerçekten iyi anlaşıyorsunuz."
+      "zh": "我们真的很投缘。",
+      "pinyin": "wǒ men zhēn de hěn tóu yuán 。",
+      "tr": "Gerçekten çok iyi anlaşıyoruz."
     },
     {
       "id": "DLG_ZH_HSK2_SC046_026",
@@ -315,9 +315,9 @@
     {
       "id": "DLG_ZH_HSK2_SC046_045",
       "speaker": "刘梅",
-      "zh": "我喜欢蓝色，她喜欢紫色。",
-      "pinyin": "wǒ xǐ huān lán sè ， tā xǐ huān zǐ sè 。",
-      "tr": "Ben maviyi, arkadaşım moru seviyor."
+      "zh": "我喜欢蓝色，雨桐喜欢紫色。",
+      "pinyin": "wǒ xǐ huān lán sè ， yǔ tóng xǐ huān zǐ sè 。",
+      "tr": "Ben maviyi, Yutong moru seviyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC046_046",
@@ -671,14 +671,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC046_096",
-      "speaker": "刘梅",
+      "speaker": "好朋友",
       "zh": "谢谢刘梅今天陪我们聊了这么久。",
       "pinyin": "xiè xiè liú méi jīn tiān péi wǒ men liáo le zhè me jiǔ 。",
       "tr": "Bugün bizimle uzun uzun sohbet ettiğin için teşekkürler Liu Mei."
     },
     {
       "id": "DLG_ZH_HSK2_SC046_097",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "不客气。看到你们交到好朋友，我也很开心。",
       "pinyin": "bú kè qì 。 kàn dào nǐ men jiāo dào hǎo péng yǒu ， wǒ yě hěn kāi xīn 。",
       "tr": "Rica ederim. Yeni bir arkadaş edindiğini görmek beni de mutlu etti."

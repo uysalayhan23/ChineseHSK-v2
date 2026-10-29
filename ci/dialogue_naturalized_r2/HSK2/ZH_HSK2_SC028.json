@@ -34,35 +34,35 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_005",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "妈妈，我在公园旁边的公交车站。",
       "pinyin": "mā mā ， wǒ zài gōng yuán páng biān de gōng jiāo chē zhàn 。",
       "tr": "Anne, parkın yanındaki otobüs durağındayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_006",
-      "speaker": "路人",
+      "speaker": "刘梅",
       "zh": "我看见你的位置了，你离家还不太远。",
       "pinyin": "wǒ kàn jiàn nǐ de wèi zhì le ， nǐ lí jiā hái bù tài yuǎn 。",
       "tr": "Konumunu gördüm, evden çok uzakta değilsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_007",
-      "speaker": "张雨桐",
+      "speaker": "路人",
       "zh": "你家是不是在前面那条大路上？",
       "pinyin": "nǐ jiā shì bú shì zài qián miàn nà tiáo dà lù shàng ？",
       "tr": "Evin ilerideki ana caddede mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC028_008",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我不确定，刚才坐车的时候没有看清楚。",
       "pinyin": "wǒ bù què dìng ， gāng cái zuò chē de shí hòu méi yǒu kàn qīng chǔ 。",
       "tr": "Emin değilim, otobüste giderken dikkat etmedim."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_009",
-      "speaker": "路人",
+      "speaker": "刘梅",
       "zh": "你先别过马路，站在安全的地方。",
       "pinyin": "nǐ xiān bié guò mǎ lù ， zhàn zài ān quán de dì fāng 。",
       "tr": "Önce karşıya geçme, güvenli bir yerde dur."
@@ -76,14 +76,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_011",
-      "speaker": "刘梅",
+      "speaker": "路人",
       "zh": "如果你愿意，我可以帮你看一下地图。",
       "pinyin": "rú guǒ nǐ yuàn yì ， wǒ kě yǐ bāng nǐ kàn yī xià dì tú 。",
       "tr": "İstersen haritaya bakmana yardım edebilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_012",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "谢谢阿姨，我正在和妈妈打电话。",
       "pinyin": "xiè xiè ā yí ， wǒ zhèng zài hé mā mā dǎ diàn huà 。",
       "tr": "Teşekkürler teyze, annemle telefonda konuşuyorum."
@@ -139,7 +139,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_020",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我看见了，我现在就在它前面。",
       "pinyin": "wǒ kàn jiàn le ， wǒ xiàn zài jiù zài tā qián miàn 。",
       "tr": "Gördüm, şu an önündeyim."
@@ -167,21 +167,21 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_024",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "那我刚才可能坐错方向了。",
       "pinyin": "nà wǒ gāng cái kě néng zuò cuò fāng xiàng le 。",
       "tr": "O zaman az önce ters yöne binmiş olabilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_025",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "没关系，知道方向以后就好办了。",
       "pinyin": "méi guān xì ， zhī dào fāng xiàng yǐ hòu jiù hǎo bàn le 。",
       "tr": "Önemli değil, yönü öğrenince işimiz kolaylaşır."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_026",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我想先确认一下路名，免得又走错。",
       "pinyin": "wǒ xiǎng xiān què rèn yī xià lù míng ， miǎn de yòu zǒu cuò 。",
       "tr": "Yine yanlış gitmemek için önce sokağın adını doğrulayayım."
@@ -209,21 +209,21 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_030",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "桥在地图上也有，我看见了。",
       "pinyin": "qiáo zài dì tú shàng yě yǒu ， wǒ kàn jiàn le 。",
       "tr": "Köprü haritada da var, gördüm."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_031",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "过桥以后不要转弯，沿着河边一直走。",
       "pinyin": "guò qiáo yǐ hòu bú yào zhuǎn wān ， yán zhe hé biān yì zhí zǒu 。",
       "tr": "Köprüyü geçince dönme, nehir boyunca dümdüz git."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_032",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "好的，我会注意路牌。",
       "pinyin": "hǎo de ， wǒ huì zhù yì lù pái 。",
       "tr": "Peki, tabelalara dikkat edeceğim."
@@ -251,7 +251,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_036",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "我把手机收起来，先看路。",
       "pinyin": "wǒ bǎ shǒu jī shōu qǐ lái ， xiān kàn lù 。",
       "tr": "Telefonu kaldırıp yola bakacağım."
@@ -314,14 +314,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_045",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "我看到小区的大门了。",
       "pinyin": "wǒ kàn dào xiǎo qū de dà mén le 。",
       "tr": "Apartmanınızın girişini görüyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_046",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "太好了，你就在门口等我一下。",
       "pinyin": "tài hǎo le ， nǐ jiù zài mén kǒu děng wǒ yī xià 。",
       "tr": "Harika, kapının önünde biraz bekle."
@@ -335,21 +335,21 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_048",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "没有，这次我一直看着地图和路牌。",
       "pinyin": "méi yǒu ， zhè cì wǒ yì zhí kàn zhe dì tú hé lù pái 。",
       "tr": "Hayır, bu kez haritaya ve tabelalara baktım."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_049",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "我马上下楼来接你。",
       "pinyin": "wǒ mǎ shàng xià lóu lái jiē nǐ 。",
       "tr": "Hemen aşağı inip seni karşılayacağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_050",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "不用着急，我已经到家门口了。",
       "pinyin": "bù yòng zháo jí ， wǒ yǐ jīng dào jiā mén kǒu le 。",
       "tr": "Acele etme, evin kapısına geldim bile."
@@ -377,21 +377,21 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_054",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "我开始有点儿害怕，后来就安心多了。",
       "pinyin": "wǒ kāi shǐ yǒu diǎn ér hài pà ， hòu lái jiù ān xīn duō le 。",
       "tr": "Önce biraz korktum, sonra rahatladım."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_055",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "你先停下来打电话，这个办法很安全。",
       "pinyin": "nǐ xiān tíng xià lái dǎ diàn huà ， zhè ge bàn fǎ hěn ān quán 。",
       "tr": "Durup telefon etmen güvenli bir yöntemdi."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_056",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我也记住了，遇到问题要先找安全的地方。",
       "pinyin": "wǒ yě jì zhù le ， yù dào wèn tí yào xiān zhǎo ān quán de dì fāng 。",
       "tr": "Aklımda, sorun olunca önce güvenli bir yer bulmalıyım."
@@ -419,7 +419,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_060",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "这样就不会坐到相反的方向了。",
       "pinyin": "zhè yàng jiù bú huì zuò dào xiāng fǎn de fāng xiàng le 。",
       "tr": "Böylece ters yöne gitmem."
@@ -461,21 +461,21 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_066",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "有一点儿熟悉了，我认得桥和面包店。",
       "pinyin": "yǒu yì diǎn ér shú xī le ， wǒ rèn de qiáo huó miàn bāo diàn 。",
       "tr": "Biraz, köprüyü ve fırını tanıdım."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_067",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "那以后从这里经过就不会担心了。",
       "pinyin": "nà yǐ hòu cóng zhè lǐ jīng guò jiù bú huì dān xīn le 。",
       "tr": "Bir dahaki geçişinde endişelenmezsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_068",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我想下次自己再走一次，记住方向。",
       "pinyin": "wǒ xiǎng xià cì zì jǐ zài zǒu yī cì ， jì zhù fāng xiàng 。",
       "tr": "Yönü hatırlamak için bir dahaki sefere kendim yürümek istiyorum."
@@ -503,14 +503,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_072",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "我也把这些话记在小本子上。",
       "pinyin": "wǒ yě bǎ zhè xiē huà jì zài xiǎo běn zi shàng 。",
       "tr": "Bunları küçük defterime de not edeyim."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_073",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "现在你知道从车站怎么回家了。",
       "pinyin": "xiàn zài nǐ zhī dào cóng chē zhàn zěn me huí jiā le 。",
       "tr": "Artık duraktan eve nasıl gidileceğini biliyorsun."
@@ -545,28 +545,28 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_078",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "是啊，她还提醒我看车，不要只看手机。",
       "pinyin": "shì a ， tā hái tí xǐng wǒ kàn chē ， bú yào zhǐ kàn shǒu jī 。",
       "tr": "Evet, trafiğe bakmamı ve yalnızca telefona bakmamamı hatırlattı."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_079",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "有人帮忙的时候，记得说谢谢。",
       "pinyin": "yǒu rén bāng máng de shí hòu ， jì de shuō xiè xiè 。",
       "tr": "Biri yardım edince teşekkür etmeyi unutma."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_080",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我已经跟她说过谢谢了。",
       "pinyin": "wǒ yǐ jīng gēn tā shuō guò xiè xiè le 。",
       "tr": "Ona zaten teşekkür ettim."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_081",
-      "speaker": "路人",
+      "speaker": "刘梅",
       "zh": "你到家以后先喝点儿水吧。",
       "pinyin": "nǐ dào jiā yǐ hòu xiān hē diǎn ér shuǐ ba 。",
       "tr": "Eve varınca biraz su iç."
@@ -587,28 +587,28 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_084",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "谢谢妈妈，我现在已经不紧张了。",
       "pinyin": "xiè xiè mā mā ， wǒ xiàn zài yǐ jīng bù jǐn zhāng le 。",
       "tr": "Teşekkürler anne, artık gergin değilim."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_085",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "你愿意把今天的事告诉爸爸吗？",
       "pinyin": "nǐ yuàn yì bǎ jīn tiān de shì gào sù bà bà ma ？",
       "tr": "Bugün olanları babana anlatmak ister misin?"
     },
     {
       "id": "DLG_ZH_HSK2_SC028_086",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "愿意，我要告诉他我下错站了。",
       "pinyin": "yuàn yì ， wǒ yào gào sù tā wǒ xià cuò zhàn le 。",
       "tr": "Evet, yanlış durakta indiğimi anlatacağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_087",
-      "speaker": "路人",
+      "speaker": "刘梅",
       "zh": "也告诉他你怎么打电话找到方向。",
       "pinyin": "yě gào sù tā nǐ zěn me dǎ diàn huà zhǎo dào fāng xiàng 。",
       "tr": "Telefonla yönünü nasıl bulduğunu da anlat."
@@ -629,28 +629,28 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_090",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "我会先找一个安全的地方，再问路。",
       "pinyin": "wǒ huì xiān zhǎo yí gè ān quán de dì fāng ， zài wèn lù 。",
       "tr": "Önce güvenli bir yere gider, sonra yol sorardım."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_091",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "也可以到附近的商店打电话。",
       "pinyin": "yě kě yǐ dào fù jìn de shāng diàn dǎ diàn huà 。",
       "tr": "Yakındaki bir dükkândan da telefon edebilirsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_092",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我记住了，不会一个人着急乱走。",
       "pinyin": "wǒ jì zhù le ， bú huì yí gè rén zháo jí luàn zǒu 。",
       "tr": "Aklımda, telaşla tek başıma dolaşmam."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_093",
-      "speaker": "路人",
+      "speaker": "刘梅",
       "zh": "今天你第一次自己坐车回家。",
       "pinyin": "jīn tiān nǐ dì yī cì zì jǐ zuò chē huí jiā 。",
       "tr": "Bugün ilk kez tek başına eve otobüsle geldin."
@@ -664,28 +664,28 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC028_095",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我学会了看地图、认路牌和问路。",
       "pinyin": "wǒ xué huì le kàn dì tú 、 rèn lù pái hé wèn lù 。",
       "tr": "Haritaya bakmayı, tabelaları okumayı ve yol sormayı öğrendim."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_096",
-      "speaker": "路人",
+      "speaker": "张雨桐",
       "zh": "而且遇到问题时，家人会帮助我。",
       "pinyin": "ér qiě yù dào wèn tí shí ， jiā rén huì bāng zhù wǒ 。",
       "tr": "Sorun yaşayınca ailem bana yardım ediyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_097",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "你已经到家了，今天做得很好。",
       "pinyin": "nǐ yǐ jīng dào jiā le ， jīn tiān zuò dé hěn hǎo 。",
       "tr": "Eve vardın, bugün çok iyi iş çıkardın."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_098",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "谢谢你们，我现在知道该怎么走了。",
       "pinyin": "xiè xiè nǐ men ， wǒ xiàn zài zhī dào gāi zěn me zǒu le 。",
       "tr": "Teşekkürler, artık nasıl gideceğimi biliyorum."
@@ -693,16 +693,16 @@
     {
       "id": "DLG_ZH_HSK2_SC028_099",
       "speaker": "路人",
-      "zh": "下次你也可以带我走一遍这条路。",
-      "pinyin": "xià cì nǐ yě kě yǐ dài wǒ zǒu yī biàn zhè tiáo lù 。",
-      "tr": "Bir dahaki sefere bu yolu bana da gösterebilirsin."
+      "zh": "下次走这条路，你会更熟悉。",
+      "pinyin": "xià cì zǒu zhè tiáo lù, nǐ huì gèng shúxī.",
+      "tr": "Bir dahaki sefere bu yoldan geçince yolu daha iyi tanıyacaksın."
     },
     {
       "id": "DLG_ZH_HSK2_SC028_100",
-      "speaker": "张雨桐",
-      "zh": "好，我们找个周末一起走到公交车站。",
-      "pinyin": "hǎo ， wǒ men zhǎo gè zhōu mò yì qǐ zǒu dào gōng jiāo chē zhàn 。",
-      "tr": "Olur, hafta sonu birlikte durağa kadar yürürüz."
+      "speaker": "刘梅",
+      "zh": "好，我周末陪你再走一次这条路。",
+      "pinyin": "hǎo, wǒ zhōumò péi nǐ zài zǒu yí cì zhè tiáo lù.",
+      "tr": "Olur, hafta sonu bu yolu seninle bir kez daha yürürüm."
     }
   ]
 }

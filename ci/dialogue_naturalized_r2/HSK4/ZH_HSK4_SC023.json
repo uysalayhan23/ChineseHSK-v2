@@ -596,17 +596,17 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC023_085",
-      "speaker": "顾客",
-      "zh": "我到家以后会把钱包放回固定的位置，免得下次又找不到。",
-      "pinyin": "wǒ dào jiā yǐ hòu huì bǎ qián bāo fàng huí gù dìng de wèi zhì miǎn de xià cì yòu zhǎo bú dào",
-      "tr": "Eve gidince cüzdanı hep aynı yere koyacağım; bir daha aramayım."
+      "speaker": "员工",
+      "zh": "交班时提醒大家，顾客离开前可以再确认一下随身物品。",
+      "pinyin": "Jiāobān shí tíxǐng dàjiā, gùkè líkāi qián kěyǐ zài quèrèn yīxià suíshēn wùpǐn.",
+      "tr": "Vardiya devrinde, müşterilerin çıkmadan önce eşyalarını kontrol edebileceklerini hatırlatalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_086",
       "speaker": "刘梅",
-      "zh": "固定放在包的内层也不错，出门前可以顺手确认一下。",
-      "pinyin": "gù dìng fàng zài bāo de nèi céng yě bù cuò chū mén qián kě yǐ shùn shǒu què rèn yī xià",
-      "tr": "Çantanın iç gözüne koymak iyi olur; çıkarken kolayca kontrol edebilirsiniz."
+      "zh": "这是个好提醒，不过说法温和一点，别让顾客觉得被责怪。",
+      "pinyin": "Zhè shì gè hǎo tíxǐng, bùguò shuōfǎ wēnhé yìdiǎn, bié ràng gùkè juéde bèi zéguài.",
+      "tr": "Bu iyi bir hatırlatma; ancak müşterinin suçlandığını hissetmemesi için yumuşak söyleyelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_087",
@@ -624,10 +624,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC023_089",
-      "speaker": "顾客",
-      "zh": "我很感谢你们没有把我的着急当成不愿意付款。",
-      "pinyin": "wǒ hěn gǎn xiè nǐ men méi yǒu bǎ wǒ de zháo jí dàng chéng bù yuàn yì fù kuǎn",
-      "tr": "Telaşımı ödeme yapmak istememem olarak yorumlamadığınız için minnettarım."
+      "speaker": "张伟",
+      "zh": "如果把顾客的着急当成不愿付款，信任就会受影响。",
+      "pinyin": "Rúguǒ bǎ gùkè de zháojí dàngchéng bùyuàn fùkuǎn, xìnrèn jiù huì shòu yǐngxiǎng.",
+      "tr": "Müşterinin telaşını ödeme yapmak istememek sanırsak güven zarar görür."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_090",
@@ -652,17 +652,17 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC023_093",
-      "speaker": "顾客",
-      "zh": "我下次来还会点平常那杯咖啡，希望你们继续顺利。",
-      "pinyin": "wǒ xià cì lái hái huì diǎn píng cháng nà bēi kā fēi xī wàng nǐ men jì xù shùn lì",
-      "tr": "Bir dahaki gelişimde her zamanki kahvemi alacağım; işleriniz yolunda gitsin."
+      "speaker": "员工",
+      "zh": "按流程处理问题，熟客遇到情况时也会愿意继续沟通。",
+      "pinyin": "Àn liúchéng chǔlǐ wèntí, shúkè yùdào qíngkuàng shí yě huì yuànyì jìxù gōutōng.",
+      "tr": "Sorunları sürece göre ele alırsak, düzenli müşteriler de yaşadıklarını bizimle konuşmayı sürdürür."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_094",
       "speaker": "刘梅",
-      "zh": "一定给你留好。谢谢你今天也愿意和我们一起把事情说清楚。",
-      "pinyin": "yí dìng gěi nǐ liú hǎo xiè xiè nǐ jīn tiān yě yuàn yì hé wǒ men yì qǐ bǎ shì qíng shuō qīng chǔ",
-      "tr": "Elbette hazırlarız. Bugün durumu açıkça konuşmaya istekli olduğunuz için teşekkürler."
+      "zh": "以后遇到类似情况，我们按同一套流程处理。",
+      "pinyin": "Yǐhòu yùdào lèisì qíngkuàng, wǒmen àntóng yītào liúchéng chǔlǐ.",
+      "tr": "Bundan sonra benzer bir durumla karşılaşırsak aynı süreci izleriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_095",
@@ -680,24 +680,24 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC023_097",
-      "speaker": "顾客",
-      "zh": "再见，今天的事让我更愿意相信这家店。",
-      "pinyin": "zài jiàn jīn tiān de shì ràng wǒ gèng yuàn yì xiāng xìn zhè jiā diàn",
-      "tr": "Hoşça kalın; bugünkü olay bu kafeye güvenimi artırdı."
+      "speaker": "张伟",
+      "zh": "这次虽然多花了些时间，但流程清楚，顾客也安心了。",
+      "pinyin": "Zhècì suīrán duōhuā le xiē shíjiān, dàn liúchéng qīngchǔ, gùkè yě ānxīn le.",
+      "tr": "Bu kez biraz daha zaman aldı ama süreç açıktı ve müşteri de rahatladı."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_098",
-      "speaker": "刘梅",
-      "zh": "谢谢，再见。愿你今天剩下的时间过得轻松。",
-      "pinyin": "xiè xiè zài jiàn yuàn nǐ jīn tiān shèng xià de shí jiān guò dé qīng sōng",
-      "tr": "Teşekkürler, hoşça kalın. Gününüzün kalanı rahat geçsin."
+      "speaker": "员工",
+      "zh": "我先去准备下一桌，记录已经归档了。",
+      "pinyin": "Wǒ xiān qù zhǔnbèi xià yīzhuō, jìlù yǐjīng guīdàng le.",
+      "tr": "Sonraki masayı hazırlayayım; kayıtları da dosyaladım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_099",
       "speaker": "员工",
-      "zh": "我去准备下一桌了，有需要随时叫我。",
-      "pinyin": "wǒ qù zhǔn bèi xià yī zhuō le yǒu xū yào suí shí jiào wǒ",
-      "tr": "Sonraki masayı hazırlamaya gidiyorum; bir şeye ihtiyaç olursa seslenin."
+      "zh": "交班时我会提醒下一班照同一套流程处理失物。",
+      "pinyin": "Jiāobān shí wǒhuì tíxǐng xià yībān zhàotóng yītào liúchéng chǔlǐ shīwù.",
+      "tr": "Vardiya devrinde sonraki ekibe kayıp eşyaları aynı sürece göre ele almasını hatırlatacağım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_100",

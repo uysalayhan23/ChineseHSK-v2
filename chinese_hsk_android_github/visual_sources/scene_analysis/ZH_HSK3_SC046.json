@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK3_SC046",
   "status": "FINAL_IMAGE_INTEGRATED",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC046.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC046.json",
   "titleTr": "Mahalle Yardım Kampanyası",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Kafe yerel yardım kampanyasında bağış toplama noktası olur.",

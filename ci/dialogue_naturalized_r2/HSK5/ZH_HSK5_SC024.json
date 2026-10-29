@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC024",
   "level": "HSK5",
   "sourceTitleZh": "张伟的中年体检",
@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC024_001",
       "speaker": "张伟",
-      "zh": "这次体检，我最想弄清楚的是血压为什么比去年高。",
-      "pinyin": "zhè cì tǐ jiǎn ， wǒ zuì xiǎng nòng qīng chǔ de shì xuè yā wèi shén me bǐ qù nián gāo 。",
-      "tr": "Bu kontrolde en çok tansiyonumun geçen yıla göre neden yükseldiğini anlamak istiyorum."
+      "zh": "这次体检，我最想弄清楚的是血压为什么比去年高，以及这对健康有什么影响。",
+      "pinyin": "zhè cì tǐ jiǎn ， wǒ zuì xiǎng nòng qīng chǔ de shì xuè yā wèi shén me bǐ qù nián gāo ， yǐ jí zhè duì jiàn kāng yǒu shén me yǐng xiǎng 。",
+      "tr": "Bu kontrolde en çok tansiyonumun geçen yıla göre neden yüksek olduğunu ve sağlığımı nasıl etkileyebileceğini anlamak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC024_002",
@@ -144,7 +144,7 @@
       "speaker": "护士",
       "zh": "当然。我也提醒你按时记录；下次复查时，我们把记录带来。",
       "pinyin": "dāng rán 。 wǒ yě tí xǐng nǐ àn shí jì lù ； xià cì fù chá shí ， wǒ men bǎ jì lù dài lái 。",
-      "tr": "Elbette. Ölçümleri zamanında kaydetmeni de hatırlatırım; bir sonraki kontrolde kayıtları yanımızda getiririz。"
+      "tr": "Elbette. Ölçümleri zamanında kaydetmeni de hatırlatırım; bir sonraki kontrolde kayıtları yanımızda getiririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC024_021",
@@ -499,9 +499,9 @@
     {
       "id": "DLG_ZH_HSK5_SC024_071",
       "speaker": "刘梅",
-      "zh": "按时复查、记录血压和逐步调整习惯，这就是目前的预防保健计划。",
-      "pinyin": "àn shí fù chá 、 jì lù xuè yā hé zhú bù diào zhěng xí guàn ， zhè jiù shì mù qián de yù fáng bǎo jiàn jì huà 。",
-      "tr": "Zamanında kontrole gelmek, tansiyonu kaydetmek ve alışkanlıkları aşamalı değiştirmek şu anki koruyucu sağlık planımız."
+      "zh": "按时复查、记录血压和逐步调整生活方式，这就是目前的预防保健计划。",
+      "pinyin": "àn shí fù chá 、 jì lù xuè yā hé zhú bù diào zhěng shēng huó fāng shì ， zhè jiù shì mù qián de yù fáng bǎo jiàn jì huà 。",
+      "tr": "Zamanında kontrole gitmek, tansiyonu kaydetmek ve yaşam tarzını adım adım değiştirmek şu anki koruyucu sağlık planımız."
     },
     {
       "id": "DLG_ZH_HSK5_SC024_072",
@@ -548,9 +548,9 @@
     {
       "id": "DLG_ZH_HSK5_SC024_078",
       "speaker": "医生",
-      "zh": "这样我们就能结合症状和测量结果判断，而不是只凭一个数字。",
-      "pinyin": "zhè yàng wǒ men jiù néng jié hé zhèng zhuàng hé cè liáng jié guǒ pàn duàn ， ér bú shì zhǐ píng yí gè shù zì 。",
-      "tr": "Böylece yalnızca tek bir sayıya bakmadan belirtileri ve ölçüm sonuçlarını birlikte değerlendirebiliriz."
+      "zh": "这样我们就能结合症状和测量结果评估风险，而不是只凭一个数字判断。",
+      "pinyin": "zhè yàng wǒ men jiù néng jié hé zhèng zhuàng hé cè liáng jié guǒ píng gū fēng xiǎn ， ér bú shì zhǐ píng yí gè shù zì pàn duàn 。",
+      "tr": "Böylece yalnızca tek bir sayıya bakmak yerine belirtilerle ölçüm sonuçlarını birlikte değerlendirip riski anlayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC024_079",

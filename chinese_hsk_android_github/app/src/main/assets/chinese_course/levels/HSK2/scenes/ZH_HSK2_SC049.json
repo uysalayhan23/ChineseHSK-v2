@@ -46,9 +46,9 @@
     {
       "id": "DLG_ZH_HSK2_SC049_006",
       "speaker": "刘梅",
-      "zh": "你们刚搬来这个城市的时候，我还不太认识路。",
-      "pinyin": "nǐ men gāng bān lái zhè ge chéng shì de shí hòu ， wǒ hái bù tài rèn shí lù 。",
-      "tr": "Bu şehre ilk taşındığınızda yolları pek bilmiyordum."
+      "zh": "刚搬来这座城市时，我也不太认识路。",
+      "pinyin": "gāng bān lái zhè zuò chéng shì shí ， wǒ yě bù tài rèn shí lù 。",
+      "tr": "Bu şehre ilk taşındığımızda ben de yolları pek bilmiyordum."
     },
     {
       "id": "DLG_ZH_HSK2_SC049_007",
@@ -241,9 +241,9 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC049_034",
-      "speaker": "刘梅",
+      "speaker": "张乐乐",
       "zh": "对，我每周都去上课，进步很快。",
-      "pinyin": "duì ， wǒ měi zhōu dōu qù shàng kè ， jìn bù hěn kuài 。",
+      "pinyin": "Duì, wǒ měizhōu dōu qù shàngkè, jìnbù hěnkuài.",
       "tr": "Evet, her hafta derse gittim ve çabuk ilerledim."
     },
     {
@@ -409,14 +409,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC049_058",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我想和朋友一起参加学校的音乐活动。",
-      "pinyin": "wǒ xiǎng hé péng yǒu yì qǐ cān jiā xué xiào de yīn yuè huó dòng 。",
+      "pinyin": "Wǒ xiǎng hé péngyǒu yìqǐ cānjiā xuéxiào de yīnyuè huódòng.",
       "tr": "Arkadaşlarımla okulun müzik etkinliğine katılmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC049_059",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "那我们也可以拍照，记录你参加活动的样子。",
       "pinyin": "nà wǒ men yě kě yǐ pāi zhào ， jì lù nǐ cān jiā huó dòng de yàng zi 。",
       "tr": "O zaman etkinlikteki hâlini de fotoğraflayıp saklarız."

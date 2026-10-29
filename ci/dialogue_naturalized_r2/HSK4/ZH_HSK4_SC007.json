@@ -289,9 +289,9 @@
     {
       "id": "DLG_ZH_HSK4_SC007_041",
       "speaker": "奶奶",
-      "zh": "奶奶，你愿意再说说哪一处最需要改进吗？",
-      "pinyin": "Nǎi nǎi, nǐ yuàn yì zài shuō shuō nǎ yī chù zuì xū yào gǎi jìn ma?",
-      "tr": "Büyükanne, en çok nerelerin iyileştirilmesi gerektiğini söyler misin?"
+      "zh": "刚才说到的地方里，你们觉得哪一处最需要改进？",
+      "pinyin": "Gāngcái shuō dào de dìfāng lǐ, nǐmen juéde nǎ yīchù zuì xūyào gǎijìn?",
+      "tr": "Az önce konuştuğumuz yerlerden sizce hangisi en çok iyileştirilmeli?"
     },
     {
       "id": "DLG_ZH_HSK4_SC007_042",
@@ -492,9 +492,9 @@
     {
       "id": "DLG_ZH_HSK4_SC007_070",
       "speaker": "刘梅",
-      "zh": "先移桌子、挪垃圾桶，这两件今天就能做。",
-      "pinyin": "Xiān yí zhuō zi、 nuó lā jī tǒng, zhè liǎng jiàn jīn tiān jiù néng zuò.",
-      "tr": "Masayı ve çöp kutusunu taşımak bugün yapılabilir."
+      "zh": "既然大家都同意先试几天，我们就先移桌子、挪垃圾桶。",
+      "pinyin": "Jìrán dàjiā dōu tóngyì xiānshì jǐtiān, wǒmen jiù xiānyí zhuōzi、 nuó lājītǒng.",
+      "tr": "Madem herkes birkaç gün denemeyi kabul etti, önce masayı ve çöp kutusunu taşıyalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC007_071",
@@ -597,9 +597,9 @@
     {
       "id": "DLG_ZH_HSK4_SC007_085",
       "speaker": "奶奶",
-      "zh": "奶奶，你今天看到的变化满意吗？",
-      "pinyin": "Nǎi nǎi, nǐ jīn tiān kàn dào de biàn huà mǎn yì ma?",
-      "tr": "Büyükanne, bugün yapılan değişiklikler içine sindi mi?"
+      "zh": "今天改完以后，你们用起来觉得方便吗？",
+      "pinyin": "Jīntiān gǎiwán yǐhòu, nǐmen yòng qǐlái juéde fāngbiàn ma?",
+      "tr": "Bugünkü düzenlemeden sonra mutfağı kullanmak daha kolay oldu mu?"
     },
     {
       "id": "DLG_ZH_HSK4_SC007_086",

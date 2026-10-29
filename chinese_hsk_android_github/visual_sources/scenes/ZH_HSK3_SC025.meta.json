@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC025.json",
-  "dialogueSha256": "ca3d63d13fb229cb45592543a3af0f7140303d7fcf4a5f412447f001cdcae0b2",
+  "dialogueSha256": "56b4b37665c1d7e58fc9977198979b65f4edacbf5acdb9d5407e9551d8301ba3",
   "titleTr": "Lele’nin Ödev Köşesi",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Lele için ayrılan eski masa, zamanla çocuk müşterilerin ödev köşesine dönüşür.",
@@ -13,18 +13,17 @@
     "刘梅",
     "张伟",
     "顾客",
-    "张雨桐"
+    "张雨桐",
+    "张乐乐"
   ],
   "requiredVisualCharacters": [
     "刘梅",
     "张伟",
-    "顾客",
     "张雨桐",
-    "张乐乐"
+    "张乐乐",
+    "顾客"
   ],
-  "requiredNonSpeakerCharacters": [
-    "张乐乐"
-  ],
+  "requiredNonSpeakerCharacters": [],
   "forbiddenExtraCharacters": [],
   "characterAgeLock": {
     "刘梅": "mature_adult",

@@ -5,7 +5,7 @@
   "sceneId": "ZH_HSK5_SC003",
   "generationSceneId": "ZH_HSK5_SC003",
   "status": "INTEGRATED_QA_PASS",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC003.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC003.json",
   "dialogueSha256": "d819ff2183a5c162a0108d0c25ffe4dce42431e03b7c3f2eeed278ef44cab98b",
   "titleZh": "乐乐选择高中方向",
   "titleTr": "Lele Lise Seçiyor",

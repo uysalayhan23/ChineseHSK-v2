@@ -95,9 +95,9 @@
     {
       "id": "DLG_ZH_HSK5_SC003_013",
       "speaker": "张乐乐",
-      "zh": "可以，我带了课程介绍，你可以先标出感兴趣的部分。",
-      "pinyin": "Kě yǐ wǒ dài le kè chéng jiè shào nǐ kě yǐ xiān biāo chū gǎn xìng qù de bù fèn",
-      "tr": "Olur, ders tanıtımlarını getirdim; ilgini çeken bölümleri işaretleyebilirsin."
+      "zh": "可以，我带了课程介绍，先把感兴趣的部分标出来。",
+      "pinyin": "kě yǐ wǒ dài le kè chéng jiè shào xiān bǎ gǎn xìng qù de bù fèn biāo chū lái",
+      "tr": "Olur, ders tanıtımlarını getirdim; önce ilgimi çeken bölümleri işaretleyeyim."
     },
     {
       "id": "DLG_ZH_HSK5_SC003_014",
@@ -123,9 +123,9 @@
     {
       "id": "DLG_ZH_HSK5_SC003_017",
       "speaker": "张乐乐",
-      "zh": "我可以听听他们的想法，但最后要看自己的兴趣和情况。",
-      "pinyin": "Wǒ kě yǐ tīng tīng tā men de xiǎng fǎ dàn zuì hòu yào kàn zì jǐ de xìng qù hé qíng kuàng",
-      "tr": "Onların düşüncelerini dinleyebilirim ama sonunda kendi ilgi ve durumuma bakmalıyım."
+      "zh": "无论听到什么建议，我都要结合自己的兴趣和情况作决定。",
+      "pinyin": "wú lùn tīng dào shén me jiàn yì wǒ dōu yào jié hé zì jǐ de xìng qù hé qíng kuàng zuò jué dìng",
+      "tr": "Hangi önerileri duyarsam duyayım kararımı ilgi alanlarımı ve koşullarımı dikkate alarak vereceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC003_018",
@@ -669,9 +669,9 @@
     {
       "id": "DLG_ZH_HSK5_SC003_095",
       "speaker": "刘梅",
-      "zh": "谢谢你愿意听她讨论，也尊重她的选择。",
-      "pinyin": "Xiè xiè nǐ yuàn yì tīng tā tǎo lùn yě zūn zhòng tā de xuǎn zé",
-      "tr": "Onunla konuşmaya açık olduğun ve seçimine saygı duyduğun için teşekkür ederim."
+      "zh": "谢谢你愿意听乐乐讨论，也尊重他的选择。",
+      "pinyin": "xiè xiè nǐ yuàn yì tīng lè lè tǎo lùn yě zūn zhòng tā de xuǎn zé",
+      "tr": "Lele’nin konuşmasını dinleyip seçimine saygı duyduğun için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK5_SC003_096",
@@ -730,9 +730,9 @@
         "zh": "学业方向",
         "pinyin": "xuéyè fāngxiàng",
         "tr": "eğitim yönü",
-        "exampleZh": "学业方向是我们不能忽略的一点。",
-        "examplePinyin": "Xuéyè fāngxiàng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Eğitim yönü göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "这两个特点好像都能用在不同的学业方向。",
+        "examplePinyin": "Zhè liǎng gè tè diǎn hǎo xiàng dōu néng yòng zài bù tóng de xué yè fāng xiàng",
+        "exampleTr": "Bu iki özellik farklı eğitim alanlarında da işe yarayabilir.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "优势",
         "pinyin": "yōushì",
         "tr": "güçlü yön / avantaj",
-        "exampleZh": "我们把优势也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ yōushì yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Güçlü yön / avantaj konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "你觉得我的优势更接近哪一类课程？",
+        "examplePinyin": "Nǐ jué de wǒ de yōu shì gèng jiē jìn nǎ yī lèi kè chéng",
+        "exampleTr": "Sizce güçlü yanlarım hangi tür derslere daha yakın?",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "匹配",
         "pinyin": "pǐpèi",
         "tr": "uyum / eşleşme",
-        "exampleZh": "如果匹配发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ pǐpèi fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Uyum / eşleşme değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "再找找哪些课程和这些特点匹配，好吗？",
+        "examplePinyin": "Zài zhǎo zhǎo nǎ xiē kè chéng hé zhè xiē tè diǎn pǐ pèi hǎo ma",
+        "exampleTr": "Sonra bu özelliklerle hangi derslerin örtüştüğüne bakalım, olur mu?",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "爱好",
         "pinyin": "àihào",
         "tr": "hobi",
-        "exampleZh": "关于爱好，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú àihào, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Hobi konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "你也可以继续保留阅读和写作的爱好。",
+        "examplePinyin": "Nǐ yě kě yǐ jì xù bǎo liú yuè dú hé xiě zuò de ài hào",
+        "exampleTr": "Okuma ve yazma ilgini de sürdürebilirsin.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "未来计划",
         "pinyin": "wèilái jìhuà",
         "tr": "gelecek planı",
-        "exampleZh": "未来计划是我们不能忽略的一点。",
-        "examplePinyin": "Wèilái jìhuà shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Gelecek planı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我怕选错以后，未来计划就会受影响。",
+        "examplePinyin": "Wǒ pà xuǎn cuò yǐ hòu wèi lái jì huà jiù huì shòu yǐng xiǎng",
+        "exampleTr": "Yanlış seçim yaparsam gelecek planım etkilenir diye korkuyorum.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "选择",
         "pinyin": "xuǎnzé",
         "tr": "seçim",
-        "exampleZh": "我们把选择也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ xuǎnzé yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Seçim konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "这样你就不是凭一时感觉作选择了。",
+        "examplePinyin": "Zhè yàng nǐ jiù bú shì píng yī shí gǎn jué zuò xuǎn zé le",
+        "exampleTr": "Böylece anlık duygularına göre karar vermemiş olursun.",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "zhíyè fāzhǎn",
         "tr": "kariyer gelişimi",
         "exampleZh": "如果职业发展发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ zhíyè fāzhǎn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ zhíyè fāzhǎn fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Kariyer gelişimi değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "jiārén",
         "tr": "aile",
         "exampleZh": "关于家人，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jiārén, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú jiārén wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Aile konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

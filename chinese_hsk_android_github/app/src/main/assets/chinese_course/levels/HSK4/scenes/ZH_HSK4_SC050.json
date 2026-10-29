@@ -13,7 +13,7 @@
       "speaker": "张伟",
       "zh": "行李箱都收好了？",
       "pinyin": "Xíng lǐ xiāng dōu shōu hǎo le",
-      "tr": "Valizini topladın mı？"
+      "tr": "Valizini topladın mı"
     },
     {
       "id": "DLG_ZH_HSK4_SC050_002",
@@ -25,16 +25,16 @@
     {
       "id": "DLG_ZH_HSK4_SC050_003",
       "speaker": "张雨桐",
-      "zh": "你第一次离开家住，心里是什么感觉？",
-      "pinyin": "Nǐ dì yī cì lí kāi jiā zhù xīn lǐ shì shén me gǎn jué",
-      "tr": "İlk kez evden uzakta yaşayacaksın; ne hissediyorsun?"
+      "zh": "我第一次离开家住，心里有点期待，也有一点舍不得。",
+      "pinyin": "wǒ dì yī cì lí kāi jiā zhù xīn lǐ yǒu diǎn qī dài yě yǒu yì diǎn shě bù dé",
+      "tr": "İlk kez evden ayrılıp yurtta kalacağım; hem heyecanlıyım hem de biraz üzgünüm."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_004",
       "speaker": "张乐乐",
-      "zh": "有点期待，也有一点舍不得。",
-      "pinyin": "Yǒu diǎn qī dài yě yǒu yì diǎn shě bù dé",
-      "tr": "Biraz heyecanlıyım ama evden ayrılmaya da üzülüyorum."
+      "zh": "姐姐第一次住校了，我也有点舍不得，不过还是替你高兴。",
+      "pinyin": "jiě jiě dì yī cì zhù xiào le wǒ yě yǒu diǎn shě bù dé bù guò hái shì tì nǐ gāo xìng",
+      "tr": "Ablam ilk kez yurtta kalacak; biraz özleyeceğim ama onun adına seviniyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_005",
@@ -46,23 +46,23 @@
     {
       "id": "DLG_ZH_HSK4_SC050_006",
       "speaker": "刘梅",
-      "zh": "我知道，不过我也想试试独立生活。",
-      "pinyin": "Wǒ zhī dào bù guò wǒ yě xiǎng shì shì dú lì shēng huó",
-      "tr": "Biliyorum ama bağımsız yaşamayı da denemek istiyorum."
+      "zh": "我知道，不过我也想给你一些独立生活的空间。",
+      "pinyin": "wǒ zhī dào bù guò wǒ yě xiǎng gěi nǐ yī xiē dú lì shēng huó de kōng jiān",
+      "tr": "Biliyorum; ama bağımsız yaşamayı denemen için sana biraz alan da bırakmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_007",
       "speaker": "张雨桐",
-      "zh": "独立不是所有事都自己扛，有需要就开口。",
-      "pinyin": "Dú lì bú shì suǒ yǒu shì dōu zì jǐ káng yǒu xū yào jiù kāi kǒu",
-      "tr": "Bağımsız olmak her şeyi tek başına üstlenmek değil; ihtiyacın olursa söyle."
+      "zh": "我也明白，独立不是所有事都自己扛；有需要时我会开口。",
+      "pinyin": "wǒ yě míng bái dú lì bú shì suǒ yǒu shì dōu zì jǐ káng yǒu xū yào shí wǒ huì kāi kǒu",
+      "tr": "Bağımsızlığın her şeyi tek başına yüklenmek olmadığını biliyorum; yardıma ihtiyacım olursa söylerim."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_008",
       "speaker": "张乐乐",
-      "zh": "好，我会先自己想办法，再告诉你们情况。",
-      "pinyin": "Hǎo wǒ huì xiān zì jǐ xiǎng bàn fǎ zài gào sù nǐ men qíng kuàng",
-      "tr": "Peki, önce kendim çözmeye çalışır, sonra size haber veririm."
+      "zh": "姐姐可以先自己试试，需要帮忙时再告诉我们。",
+      "pinyin": "jiě jiě kě yǐ xiān zì jǐ shì shì xū yào bāng máng shí zài gào sù wǒ men",
+      "tr": "Ablam önce kendi başına deneyebilir; yardıma ihtiyacı olursa bize söyler."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_009",
@@ -74,30 +74,30 @@
     {
       "id": "DLG_ZH_HSK4_SC050_010",
       "speaker": "刘梅",
-      "zh": "你们问没关系，只要给我一点自己安排的空间。",
-      "pinyin": "Nǐ men wèn méi guān xì zhǐ yào gěi wǒ yì diǎn zì jǐ ān pái de kōng jiān",
-      "tr": "Sormanız sorun değil, yalnızca kendi işlerimi düzenlemem için alan bırakın."
+      "zh": "你们问没关系，只要给雨桐一点自己安排的空间。",
+      "pinyin": "nǐ men wèn méi guān xì zhǐ yào gěi yǔ tóng yì diǎn zì jǐ ān pái de kōng jiān",
+      "tr": "Sormanız sorun değil; yalnızca Yutong’a kendi düzenini kurması için biraz alan tanıyın."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_011",
       "speaker": "张雨桐",
-      "zh": "说得对，支持你不等于替你做决定。",
-      "pinyin": "Shuō dé duì zhī chí nǐ bù děng yú tì nǐ zuò jué dìng",
-      "tr": "Haklısın; destek olmak senin yerine karar vermek demek değil."
+      "zh": "说得对，支持我不等于替我做决定。",
+      "pinyin": "shuō dé duì zhī chí wǒ bù děng yú tì wǒ zuò jué dìng",
+      "tr": "Haklısın; beni desteklemeniz benim yerime karar vermeniz demek değil."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_012",
       "speaker": "张乐乐",
-      "zh": "谢谢，这样我更敢试着处理新问题。",
-      "pinyin": "Xiè xiè zhè yàng wǒ gèng gǎn shì zhe chǔ lǐ xīn wèn tí",
-      "tr": "Teşekkürler; böylece yeni sorunları çözmeyi denemeye daha cesur olurum."
+      "zh": "这样姐姐更敢自己处理新问题，我们也知道怎么支持她。",
+      "pinyin": "zhè yàng jiě jiě gèng gǎn zì jǐ chǔ lǐ xīn wèn tí wǒ men yě zhī dào zěn me zhī chí tā",
+      "tr": "Böylece ablam yeni sorunları kendi başına çözmeye daha çok cesaret eder; biz de onu nasıl destekleyeceğimizi biliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_013",
       "speaker": "张伟",
-      "zh": "我也想知道，大学生活和高中差别大吗？",
-      "pinyin": "Wǒ yě xiǎng zhī dào dà xué shēng huó hé gāo zhōng chā bié dà ma",
-      "tr": "Üniversite hayatıyla lise arasında çok fark var mı, merak ediyorum."
+      "zh": "你觉得大学生活和高中差别大吗？",
+      "pinyin": "nǐ jué de dà xué shēng huó hé gāo zhōng chā bié dà ma",
+      "tr": "Sence üniversite yaşamı liseye göre çok farklı mı?"
     },
     {
       "id": "DLG_ZH_HSK4_SC050_014",
@@ -109,16 +109,16 @@
     {
       "id": "DLG_ZH_HSK4_SC050_015",
       "speaker": "张雨桐",
-      "zh": "那你准备怎么管理每天的时间？",
-      "pinyin": "Nà nǐ zhǔn bèi zěn me guǎn lǐ měi tiān de shí jiān",
-      "tr": "Peki, günlük zamanını nasıl düzenleyeceksin?"
+      "zh": "那我该怎么管理每天的时间？",
+      "pinyin": "nà wǒ gāi zěn me guǎn lǐ měi tiān de shí jiān",
+      "tr": "Peki günlük zamanımı nasıl düzenlemeliyim?"
     },
     {
       "id": "DLG_ZH_HSK4_SC050_016",
       "speaker": "张乐乐",
-      "zh": "我打算先用日历记课程，再留出休息时间。",
-      "pinyin": "Wǒ dǎ suàn xiān yòng rì lì jì kè chéng zài liú chū xiū xī shí jiān",
-      "tr": "Önce dersleri takvime yazıp dinlenmeye de zaman ayıracağım."
+      "zh": "可以先用日历记课程，再留出休息时间。",
+      "pinyin": "kě yǐ xiān yòng rì lì jì kè chéng zài liú chū xiū xī shí jiān",
+      "tr": "Önce derslerini takvime yazıp dinlenmek için de zaman ayırabilirsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_017",
@@ -130,16 +130,16 @@
     {
       "id": "DLG_ZH_HSK4_SC050_018",
       "speaker": "刘梅",
-      "zh": "嗯，我会观察几周，再调整学习计划。",
-      "pinyin": "Ń wǒ huì guān chá jǐ zhōu zài tiáo zhěng xué xí jì huà",
-      "tr": "Tamam, birkaç hafta gözleyip çalışma planımı ayarlarım."
+      "zh": "先观察几周，再按实际情况调整学习计划，别一下子排得太满。",
+      "pinyin": "xiān guān chá jǐ zhōu zài àn shí jì qíng kuàng tiáo zhěng xué xí jì huà bié yī xià zi pái dé tài mǎn",
+      "tr": "Önce birkaç hafta gözlemleyip çalışma planını duruma göre ayarla; baştan fazla doldurma."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_019",
       "speaker": "张雨桐",
-      "zh": "一个人住也要照顾好吃饭和睡觉。",
-      "pinyin": "Yí gè rén zhù yě yào zhào gù hǎo chī fàn hé shuì jiào",
-      "tr": "Yalnız yaşarken yemek ve uyku düzenine de dikkat etmelisin."
+      "zh": "一个人住也要照顾好吃饭和睡觉，我会记得。",
+      "pinyin": "yí gè rén zhù yě yào zhào gù hǎo chī fàn hé shuì jiào wǒ huì jì de",
+      "tr": "Tek başıma yaşarken yemek ve uykuma da dikkat etmem gerektiğini biliyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_020",
@@ -158,23 +158,23 @@
     {
       "id": "DLG_ZH_HSK4_SC050_022",
       "speaker": "刘梅",
-      "zh": "你们当年第一次离家时，最不习惯什么？",
-      "pinyin": "Nǐ men dāng nián dì yī cì lí jiā shí zuì bù xí guàn shén me",
-      "tr": "Siz evden ilk ayrıldığınızda en çok neye alışamamıştınız?"
+      "zh": "搬去宿舍后，你最可能想念家里的什么？",
+      "pinyin": "bān qù sù shè hòu nǐ zuì kě néng xiǎng niàn jiā lǐ de shén me",
+      "tr": "Yurda taşındıktan sonra evde en çok neyi özleyeceğini düşünüyorsun?"
     },
     {
       "id": "DLG_ZH_HSK4_SC050_023",
       "speaker": "张雨桐",
-      "zh": "我最想念家里的饭，后来才学会自己安排。",
-      "pinyin": "Wǒ zuì xiǎng niàn jiā lǐ de fàn hòu lái cái xué huì zì jǐ ān pái",
-      "tr": "En çok ev yemeklerini özlemiştim; zamanla kendi düzenimi kurdum."
+      "zh": "我想我最想念家里的饭，所以想先学几道简单的菜。",
+      "pinyin": "wǒ xiǎng wǒ zuì xiǎng niàn jiā lǐ de fàn suǒ yǐ xiǎng xiān xué jǐ dào jiǎn dān de cài",
+      "tr": "Sanırım en çok ev yemeklerini özleyeceğim; bu yüzden birkaç kolay yemek öğrenmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_024",
       "speaker": "张乐乐",
-      "zh": "那我先记下几道家常菜，想家时自己做。",
-      "pinyin": "Nà wǒ xiān jì xià jǐ dào jiā cháng cài xiǎng jiā shí zì jǐ zuò",
-      "tr": "Birkaç ev yemeğinin tarifini not edeyim; özleyince yaparım."
+      "zh": "那我把几道家常菜写给你，想家时可以自己做。",
+      "pinyin": "nà wǒ bǎ jǐ dào jiā cháng cài xiě gěi nǐ xiǎng jiā shí kě yǐ zì jǐ zuò",
+      "tr": "O zaman sana birkaç ev yemeğinin tarifini yazayım; evini özleyince kendin yaparsın."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_025",
@@ -186,23 +186,23 @@
     {
       "id": "DLG_ZH_HSK4_SC050_026",
       "speaker": "刘梅",
-      "zh": "我会把房租、吃饭和交通费分开记录。",
-      "pinyin": "Wǒ huì bǎ fáng zū chī fàn hé jiāo tōng fèi fēn kāi jì lù",
-      "tr": "Kira, yemek ve ulaşım giderlerini ayrı ayrı yazacağım."
+      "zh": "我帮你把房租、吃饭和交通费分开记录。",
+      "pinyin": "wǒ bāng nǐ bǎ fáng zū chī fàn hé jiāo tōng fèi fēn kāi jì lù",
+      "tr": "Kira, yemek ve ulaşım giderlerini ayrı ayrı kaydetmene yardım ederim."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_027",
       "speaker": "张雨桐",
-      "zh": "如果月底不够用，我们可以一起看看哪里超了。",
-      "pinyin": "Rú guǒ yuè dǐ bù gòu yòng wǒ men kě yǐ yì qǐ kàn kàn nǎ lǐ chāo le",
-      "tr": "Ay sonunda yetmezse hangi harcamanın arttığına birlikte bakarız."
+      "zh": "如果我月底不够用，我们可以一起看看哪里超了。",
+      "pinyin": "rú guǒ wǒ yuè dǐ bù gòu yòng wǒ men kě yǐ yì qǐ kàn kàn nǎ lǐ chāo le",
+      "tr": "Ay sonunda param yetmezse nerede bütçeyi aştığıma birlikte bakabiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_028",
       "speaker": "张乐乐",
-      "zh": "先让我自己试一个月，之后再跟你们商量。",
-      "pinyin": "Xiān ràng wǒ zì jǐ shì yí gè yuè zhī hòu zài gēn nǐ men shāng liáng",
-      "tr": "Önce bir ay kendim deneyeyim, sonra sizinle konuşurum."
+      "zh": "姐姐先自己试一个月，之后再跟你们商量。",
+      "pinyin": "jiě jiě xiān zì jǐ shì yí gè yuè zhī hòu zài gēn nǐ men shāng liáng",
+      "tr": "Ablam önce bir ay kendi başına denesin, sonra sizinle konuşur."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_029",
@@ -235,9 +235,9 @@
     {
       "id": "DLG_ZH_HSK4_SC050_033",
       "speaker": "张伟",
-      "zh": "我会先听对方怎么想，再找我们都能接受的办法。",
-      "pinyin": "Wǒ huì xiān tīng duì fāng zěn me xiǎng zài zhǎo wǒ men dōu néng jiē shòu de bàn fǎ",
-      "tr": "Önce onun ne düşündüğünü dinleyip ikimizin de kabul edeceği bir yol bulurum."
+      "zh": "和室友相处时，先听听对方怎么想，再一起找办法。",
+      "pinyin": "hé shì yǒu xiāng chǔ shí xiān tīng tīng duì fāng zěn me xiǎng zài yì qǐ zhǎo bàn fǎ",
+      "tr": "Oda arkadaşlarınla yaşarken önce onların ne düşündüğünü dinleyip sonra birlikte çözüm bul."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_034",
@@ -263,9 +263,9 @@
     {
       "id": "DLG_ZH_HSK4_SC050_037",
       "speaker": "张伟",
-      "zh": "好，我不会因为怕麻烦就一直拖着。",
-      "pinyin": "Hǎo wǒ bú huì yīn wèi pà má fán jiù yì zhí tuō zhe",
-      "tr": "Peki, sorun çıkar diye korkup ertelemem."
+      "zh": "遇到困难别怕麻烦，早点问清楚会更容易解决。",
+      "pinyin": "yù dào kùn nán bié pà má fán zǎo diǎn wèn qīng chǔ huì gèng róng yì jiě jué",
+      "tr": "Zorlandığında yardım istemekten çekinme; erken sorarsan çözüm bulmak kolaylaşır."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_038",
@@ -278,8 +278,8 @@
       "id": "DLG_ZH_HSK4_SC050_039",
       "speaker": "张雨桐",
       "zh": "我会主动给家里打电话，不让你们总担心。",
-      "pinyin": "Wǒ huì zhǔ dòng gěi jiā lǐ dǎ diàn huà bù ràng nǐ men zǒng dān xīn",
-      "tr": "Sizi merakta bırakmamak için ben arayıp haber veririm."
+      "pinyin": "wǒ huì zhǔ dòng gěi jiā lǐ dǎ diàn huà bù ràng nǐ men zǒng dān xīn",
+      "tr": "Ailemi kendim arayıp sizi sürekli endişelendirmeyeceğim."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_040",
@@ -354,16 +354,16 @@
     {
       "id": "DLG_ZH_HSK4_SC050_050",
       "speaker": "刘梅",
-      "zh": "你们不用替我们选，只要愿意听就够了。",
-      "pinyin": "Nǐ men bù yòng tì wǒ men xuǎn zhǐ yào yuàn yì tīng jiù gòu le",
-      "tr": "Bizim yerimize seçim yapmanıza gerek yok; dinlemeniz yeter."
+      "zh": "你们自己作决定，我们会听你们的想法，也会按需要给建议。",
+      "pinyin": "nǐ men zì jǐ zuò jué dìng wǒ men huì tīng nǐ men de xiǎng fǎ yě huì àn xū yào gěi jiàn yì",
+      "tr": "Kararlarınızı kendiniz verin; düşüncelerinizi dinler, gerektiğinde öneri sunarız."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_051",
       "speaker": "张雨桐",
-      "zh": "我们会听，也会在你想讨论时给意见。",
-      "pinyin": "Wǒ men huì tīng yě huì zài nǐ xiǎng tǎo lùn shí gěi yì jiàn",
-      "tr": "Dinleriz; konuşmak istediğinde fikrimizi de söyleriz."
+      "zh": "我会听乐乐的想法，也会在他想讨论时陪他分析。",
+      "pinyin": "wǒ huì tīng lè lè de xiǎng fǎ yě huì zài tā xiǎng tǎo lùn shí péi tā fēn xī",
+      "tr": "Lele’nin düşüncelerini dinler, konuşmak istediğinde birlikte değerlendiririm."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_052",
@@ -403,9 +403,9 @@
     {
       "id": "DLG_ZH_HSK4_SC050_057",
       "speaker": "张伟",
-      "zh": "谢谢，我也会记得关心你们，不只顾着自己的事。",
-      "pinyin": "Xiè xiè wǒ yě huì jì de guān xīn nǐ men bù zhǐ gù zhe zì jǐ de shì",
-      "tr": "Teşekkürler; yalnızca kendi işlerime dalmayıp sizi de ararım."
+      "zh": "好，我们会记得关心你们，也给你们自己安排的空间。",
+      "pinyin": "hǎo wǒ men huì jì de guān xīn nǐ men yě gěi nǐ men zì jǐ ān pái de kōng jiān",
+      "tr": "Peki, sizi önemsemeyi ve kendi düzeninizi kurmanız için alan bırakmayı unutmayacağız."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_058",
@@ -424,9 +424,9 @@
     {
       "id": "DLG_ZH_HSK4_SC050_060",
       "speaker": "张乐乐",
-      "zh": "我知道，家人之间有距离，也可以互相支持。",
-      "pinyin": "Wǒ zhī dào jiā rén zhī jiān yǒu jù lí yě kě yǐ hù xiāng zhī chí",
-      "tr": "Biliyorum; aile bireyleri uzakta olsalar da birbirlerini destekleyebilir."
+      "zh": "家人之间留些空间，也能互相支持。",
+      "pinyin": "jiā rén zhī jiān liú xiē kōng jiān yě néng hù xiāng zhī chí",
+      "tr": "Aile üyeleri birbirine alan tanırken yine de destek olabilir."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_061",
@@ -466,16 +466,16 @@
     {
       "id": "DLG_ZH_HSK4_SC050_066",
       "speaker": "刘梅",
-      "zh": "我会把新住址和宿舍电话发给你们。",
-      "pinyin": "Wǒ huì bǎ xīn zhù zhǐ hé sù shè diàn huà fā gěi nǐ men",
-      "tr": "Yeni adresimi ve yurt telefonunu size gönderirim."
+      "zh": "到宿舍后把新住址和宿舍电话发给我们，我们也存好。",
+      "pinyin": "dào sù shè hòu bǎ xīn zhù zhǐ hé sù shè diàn huà fā gěi wǒ men wǒ men yě cún hǎo",
+      "tr": "Yurda yerleşince yeni adresini ve yurt telefonunu bize gönder; biz de kaydedelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_067",
       "speaker": "张雨桐",
-      "zh": "我们把重要信息存好，平时就不反复问你。",
-      "pinyin": "Wǒ men bǎ zhòng yào xìn xī cún hǎo píng shí jiù bù fǎn fù wèn nǐ",
-      "tr": "Önemli bilgileri kaydederiz; durmadan sormayız."
+      "zh": "我会把重要信息都存好，你们就不用反复问我。",
+      "pinyin": "wǒ huì bǎ zhòng yào xìn xī dōu cún hǎo nǐ men jiù bù yòng fǎn fù wèn wǒ",
+      "tr": "Önemli bilgileri kaydederim; böylece bana tekrar tekrar sormanız gerekmez."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_068",
@@ -550,16 +550,16 @@
     {
       "id": "DLG_ZH_HSK4_SC050_078",
       "speaker": "刘梅",
-      "zh": "你们可以关心我，但不用替我检查每件小事。",
-      "pinyin": "Nǐ men kě yǐ guān xīn wǒ dàn bù yòng tì wǒ jiǎn chá měi jiàn xiǎo shì",
-      "tr": "Beni merak edebilirsiniz ama her küçük şeyi denetlemeniz gerekmez."
+      "zh": "我们会关心你，但不会替你检查每件小事。",
+      "pinyin": "wǒ men huì guān xīn nǐ dàn bú huì tì nǐ jiǎn chá měi jiàn xiǎo shì",
+      "tr": "Seni önemseriz ama her küçük şeyi senin yerine kontrol etmeyiz."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_079",
       "speaker": "张雨桐",
-      "zh": "好，我们尊重你的节奏，有事你再找我们。",
-      "pinyin": "Hǎo wǒ men zūn zhòng nǐ de jié zòu yǒu shì nǐ zài zhǎo wǒ men",
-      "tr": "Peki, senin tempona saygı duyarız; bir şey olursa bize ulaşırsın."
+      "zh": "好，我会告诉你们我的节奏，有事也会主动说。",
+      "pinyin": "hǎo wǒ huì gào sù nǐ men wǒ de jié zòu yǒu shì yě huì zhǔ dòng shuō",
+      "tr": "Peki, kendi düzenimi size anlatır; bir şey olursa kendim haber veririm."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_080",
@@ -641,9 +641,9 @@
     {
       "id": "DLG_ZH_HSK4_SC050_091",
       "speaker": "张雨桐",
-      "zh": "我们提醒你一次，之后让你自己负责，可以吗？",
-      "pinyin": "Wǒ men tí xǐng nǐ yī cì zhī hòu ràng nǐ zì jǐ fù zé kě yǐ ma",
-      "tr": "Seni bir kez hatırlatalım, sonrasını sen üstlen, olur mu?"
+      "zh": "乐乐，我们约好：我提醒你一次，之后你自己负责，可以吗？",
+      "pinyin": "lè lè wǒ men yuē hǎo wǒ tí xǐng nǐ yī cì zhī hòu nǐ zì jǐ fù zé kě yǐ ma",
+      "tr": "Lele, şöyle anlaşalım: Sana bir kez hatırlatacağım, sonra kendin sorumluluk alacaksın, olur mu?"
     },
     {
       "id": "DLG_ZH_HSK4_SC050_092",
@@ -669,9 +669,9 @@
     {
       "id": "DLG_ZH_HSK4_SC050_095",
       "speaker": "张雨桐",
-      "zh": "那我们今晚一起吃饭，庆祝你的人生新阶段。",
-      "pinyin": "Nà wǒ men jīn wǎn yì qǐ chī fàn qìng zhù nǐ de rén shēng xīn jiē duàn",
-      "tr": "Bu akşam birlikte yemek yiyip hayatındaki yeni aşamayı kutlayalım."
+      "zh": "那我们今晚一起吃饭，庆祝我开始新的生活。",
+      "pinyin": "nà wǒ men jīn wǎn yì qǐ chī fàn qìng zhù wǒ kāi shǐ xīn de shēng huó",
+      "tr": "O zaman bu akşam birlikte yemek yiyip benim yeni hayatımın başlangıcını kutlayalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC050_096",
@@ -730,9 +730,9 @@
         "zh": "独立生活",
         "pinyin": "dúlì shēnghuó",
         "tr": "bağımsız yaşam",
-        "exampleZh": "独立生活是我们不能忽略的一点。",
-        "examplePinyin": "Dúlì shēnghuó shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Bağımsız yaşam göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我会的。谢谢你们支持我开始独立生活。",
+        "examplePinyin": "Wǒ huì de xiè xiè nǐ men zhī chí wǒ kāi shǐ dú lì shēng huó",
+        "exampleTr": "Elbette. Bağımsız yaşama başlarken beni desteklediğiniz için sağ olun.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "人生新阶段",
         "pinyin": "rénshēng xīn jiēduàn",
         "tr": "hayatın yeni aşaması",
-        "exampleZh": "我们把人生新阶段也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ rénshēng xīn jiēduàn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Hayatın yeni aşaması konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我们也在适应人生新阶段，可能会忍不住多问几句。",
+        "examplePinyin": "Wǒ men yě zài shì yìng rén shēng xīn jiē duàn kě néng huì rěn bú zhù duō wèn jǐ jù",
+        "exampleTr": "Biz de hayatımızdaki bu yeni aşamaya alışıyoruz; fazla soru sorabiliriz.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "如果家人发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jiārén fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Aile değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "家人之间留些空间，也能互相支持。",
+        "examplePinyin": "jiā rén zhī jiān liú xiē kōng jiān yě néng hù xiāng zhī chí",
+        "exampleTr": "Aile üyeleri birbirine alan tanırken yine de destek olabilir.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "未来计划",
         "pinyin": "wèilái jìhuà",
         "tr": "gelecek planı",
-        "exampleZh": "关于未来计划，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú wèilái jìhuà, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Gelecek planı konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "大学毕业后，你对未来计划有什么想法？",
+        "examplePinyin": "Dà xué bì yè hòu nǐ duì wèi lái jì huà yǒu shén me xiǎng fǎ",
+        "exampleTr": "Üniversiteden sonra gelecek planınla ilgili ne düşünüyorsun?",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "大学",
         "pinyin": "dàxué",
         "tr": "üniversite",
-        "exampleZh": "如果选大学，以后会有什么影响？",
-        "examplePinyin": "Rúguǒ xuǎn dàxué, yǐhòu huì yǒu shénme yǐngxiǎng?",
-        "exampleTr": "Üniversite seçersek ileride ne etkisi olur?",
+        "exampleZh": "你现在最期待大学里的什么？",
+        "examplePinyin": "Nǐ xiàn zài zuì qī dài dà xué lǐ de shén me",
+        "exampleTr": "Üniversitede en çok neyi heyecanla bekliyorsun?",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "职业发展",
         "pinyin": "zhíyè fāzhǎn",
         "tr": "kariyer gelişimi",
-        "exampleZh": "我们把职业发展也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zhíyè fāzhǎn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Kariyer gelişimi konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "现在还不确定，我想先了解不同的职业发展方向。",
+        "examplePinyin": "Xiàn zài hái bù què dìng wǒ xiǎng xiān liǎo jiě bù tóng de zhí yè fā zhǎn fāng xiàng",
+        "exampleTr": "Henüz emin değilim; önce farklı kariyer yollarını tanımak istiyorum.",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "qíngxù",
         "tr": "duygusal durum",
         "exampleZh": "如果情绪发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ qíngxù fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ qíngxù fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Duygusal durum değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "biànhuà",
         "tr": "değişim",
         "exampleZh": "关于变化，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú biànhuà, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú biànhuà wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Değişim konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

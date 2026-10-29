@@ -9,23 +9,23 @@
     {
       "id": "DLG_ZH_HSK5_SC038_001",
       "speaker": "张雨桐",
-      "zh": "今天是我第一天正式上班，我有点紧张，也很期待。",
-      "pinyin": "jīn tiān shì wǒ dì yī tiān zhèng shì shàng bān ， wǒ yǒu diǎn jǐn zhāng ， yě hěn qī dài 。",
-      "tr": "Bugün ilk resmî iş günüm; biraz heyecanlıyım ama aynı zamanda sabırsızlanıyorum."
+      "zh": "今天是我正式工作的第一天，我有点紧张，也很期待。",
+      "pinyin": "jīn tiān shì wǒ zhèng shì gōng zuò de dì yī tiān ， wǒ yǒu diǎn jǐn zhāng ， yě hěn qī dài 。",
+      "tr": "Bugün resmî işimin ilk günü; biraz heyecanlıyım ama aynı zamanda sabırsızlanıyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC038_002",
       "speaker": "经理",
-      "zh": "欢迎加入团队。上午先熟悉工作流程，有问题随时问。",
-      "pinyin": "huān yíng jiā rù tuán duì 。 shàng wǔ xiān shú xī gōng zuò liú chéng ， yǒu wèn tí suí shí wèn 。",
-      "tr": "Ekibe hoş geldin. Sabah önce iş akışını tanı; soruların olursa istediğin zaman sor."
+      "zh": "欢迎你入职。上午先熟悉工作流程，有问题随时问。",
+      "pinyin": "huān yíng nǐ rù zhí 。 shàng wǔ xiān shú xī gōng zuò liú chéng ， yǒu wèn tí suí shí wèn 。",
+      "tr": "İşe başlama gününde hoş geldin. Sabah önce iş akışını tanı; soruların olursa istediğin zaman sor."
     },
     {
       "id": "DLG_ZH_HSK5_SC038_003",
       "speaker": "同事",
-      "zh": "我带你看看办公区，也介绍一下常用的系统和资料。",
-      "pinyin": "wǒ dài nǐ kàn kàn bàn gōng qū ， yě jiè shào yī xià cháng yòng de xì tǒng hé zī liào 。",
-      "tr": "Sana ofisi gezdireyim, sık kullandığımız sistemleri ve dosyaları da tanıtayım."
+      "zh": "我带你认识几位新同事，也介绍一下常用的系统和资料。",
+      "pinyin": "wǒ dài nǐ rèn shí jǐ wèi xīn tóng shì ， yě jiè shào yī xià cháng yòng de xì tǒng hé zī liào 。",
+      "tr": "Seni birkaç yeni iş arkadaşıyla tanıştırıp sık kullanılan sistemleri ve dosyaları da göstereyim."
     },
     {
       "id": "DLG_ZH_HSK5_SC038_004",
@@ -114,9 +114,9 @@
     {
       "id": "DLG_ZH_HSK5_SC038_016",
       "speaker": "刘梅",
-      "zh": "有不清楚的地方及时问，是认真负责，不是给别人添麻烦。",
-      "pinyin": "yǒu bù qīng chǔ de dì fāng jí shí wèn ， shì rèn zhēn fù zé ， bú shì gěi bié rén tiān má fán 。",
-      "tr": "Anlamadığın bir şeyi zamanında sormak sorumluluk göstergesidir, başkasına yük olmak değil."
+      "zh": "有不清楚的地方及时问，说明你有责任感，不是在给别人添麻烦。",
+      "pinyin": "yǒu bù qīng chǔ de dì fāng jí shí wèn ， shuō míng nǐ yǒu zé rèn gǎn ， bú shì zài gěi bié rén tiān má fán 。",
+      "tr": "Anlamadığın bir şeyi zamanında sorman sorumluluk sahibi olduğunu gösterir; başkasına yük olmazsın."
     },
     {
       "id": "DLG_ZH_HSK5_SC038_017",

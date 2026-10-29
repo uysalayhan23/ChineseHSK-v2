@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC019",
   "level": "HSK5",
   "sourceTitleZh": "成本涨得太快",
@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC019_001",
       "speaker": "刘梅",
-      "zh": "最近原材料报价上调了，今天先把成本变化弄清楚，再讨论店里怎么应对。",
-      "pinyin": "Zuì jìn yuán cái liào bào jià shàng diào le jīn tiān xiān bǎ chéng běn biàn huà nòng qīng chǔ zài tǎo lùn diàn lǐ zěn me yìng duì",
-      "tr": "Son zamanlarda hammadde fiyatları yükseldi; bugün önce maliyet değişimini netleştirip sonra işletmenin ne yapacağını konuşalım."
+      "zh": "最近原材料报价上调了，店里的经营成本也在增加；今天先弄清变化，再讨论应对。",
+      "pinyin": "zuì jìn yuán cái liào bào jià shàng diào le ， diàn lǐ de jīng yíng chéng běn yě zài zēng jiā ； jīn tiān xiān nòng qīng biàn huà ， zài tǎo lùn yìng duì 。",
+      "tr": "Son zamanlarda ham madde fiyatları arttı ve işletme maliyetleri de yükseliyor; bugün önce değişimi anlayıp sonra önlemleri konuşalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC019_002",
@@ -149,9 +149,9 @@
     {
       "id": "DLG_ZH_HSK5_SC019_021",
       "speaker": "刘梅",
-      "zh": "除了采购价，我还想看看库存和营业额；我们这季的销量也有变化。",
-      "pinyin": "Chú le cǎi gòu jià wǒ hái xiǎng kàn kàn kù cún hé yíng yè é wǒ men zhè jì de xiāo liàng yě yǒu biàn huà",
-      "tr": "Satın alma fiyatlarının yanında stoklara ve ciroya da bakmak istiyorum; bu çeyrekte satışlarımız da değişti."
+      "zh": "除了采购价，我还想看看库存和营业额；这季店里的生意也有变化。",
+      "pinyin": "chú le cǎi gòu jià ， wǒ hái xiǎng kàn kàn kù cún hé yíng yè é ； zhè jì diàn lǐ de shēng yì yě yǒu biàn huà 。",
+      "tr": "Satın alma fiyatlarının yanında stok ve ciroya da bakmak istiyorum; bu sezon işletmenin işi de değişti."
     },
     {
       "id": "DLG_ZH_HSK5_SC019_022",
@@ -499,9 +499,9 @@
     {
       "id": "DLG_ZH_HSK5_SC019_071",
       "speaker": "经理",
-      "zh": "如果经营数据变化，我们再调整计划，不把今天的估算当成固定结论。",
-      "pinyin": "Rú guǒ jīng yíng shù jù biàn huà wǒ men zài tiáo zhěng jì huà bù bǎ jīn tiān de gū suàn dàng chéng gù dìng jié lùn",
-      "tr": "İşletme verileri değişirse planı yeniden düzenleriz; bugünkü tahmini kesin sonuç saymayız."
+      "zh": "尽管经营成本上升，我们仍然先核对预算和实际销量，再决定要不要调整菜单。",
+      "pinyin": "jǐn guǎn jīng yíng chéng běn shàng shēng ， wǒ men réng rán xiān hé duì yù suàn hé shí jì xiāo liàng ， zài jué dìng yào bù yào tiáo zhěng cài dān 。",
+      "tr": "İşletme maliyetleri artsa da menüyü değiştirip değiştirmemeye karar vermeden önce bütçeyi ve gerçek satışları kontrol edelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC019_072",

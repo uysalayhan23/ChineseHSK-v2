@@ -5,20 +5,20 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC013.json",
-  "dialogueSha256": "9f5d9686d4d70c7be3171b3ca3f78e18a9f3da68939b2414accb8af14ba521d7",
+  "dialogueSha256": "ffe6207b14874877ace0a8019ed59bf5efaa2a21236f05664a1b41a3de08fc8a",
   "titleTr": "Ruhsat İşlemleri",
   "locationId": "LOC_ZH_GOV_SERVICE_001",
   "scenePurposeTr": "Liu Mei resmî hizmet merkezinde kafe için gerekli ruhsat ve belgeleri tamamlamaya çalışır.",
   "dialogueSpeakers": [
     "刘梅",
     "张伟",
-    "顾客",
+    "工作人员",
     "张雨桐"
   ],
   "requiredVisualCharacters": [
     "刘梅",
     "张伟",
-    "顾客",
+    "工作人员",
     "张雨桐"
   ],
   "forbiddenExtraCharacters": [

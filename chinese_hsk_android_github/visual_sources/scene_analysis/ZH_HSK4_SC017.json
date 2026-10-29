@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC017",
   "status": "ANALYZED_READY_FOR_GENERATION",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC017.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC017.json",
   "titleTr": "Yutong’un İlk Aşkı",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Yutong romantik ilişki ve mahremiyet hakkında ailesi ve bir arkadaşıyla konuşur.",

@@ -254,14 +254,14 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC017_036",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "先确认顾客的新选择，再通知咖啡师并修改收银记录。",
       "pinyin": "xiān què rèn gù kè de xīn xuǎn zé ， zài tōng zhī kā fēi shī bìng xiū gǎi shōu yín jì lù 。",
       "tr": "Önce yeni tercihi teyit edip baristaya haber verelim ve kasa kaydını değiştirelim."
     },
     {
       "id": "DLG_ZH_HSK6_SC017_037",
-      "speaker": "张伟",
+      "speaker": "员工",
       "zh": "我已经和顾客确认了，也把变化告诉吧台了。",
       "pinyin": "wǒ yǐ jīng hé gù kè què rèn le ， yě bǎ biàn huà gào sù bā tái le 。",
       "tr": "Müşteriyle teyit ettim, değişikliği kahve tezgâhına da ilettim."
@@ -527,14 +527,14 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC017_075",
-      "speaker": "员工",
+      "speaker": "张伟",
       "zh": "傍晚客人多起来了，还是按刚才的分工处理吧。",
       "pinyin": "bàng wǎn kè rén duō qǐ lái le ， hái shì àn gāng cái de fēn gōng chǔ lǐ ba 。",
       "tr": "Akşam kalabalığı başladı; az önceki görev paylaşımını sürdürelim."
     },
     {
       "id": "DLG_ZH_HSK6_SC017_076",
-      "speaker": "顾客",
+      "speaker": "员工",
       "zh": "我负责点单和收银，刘梅看柜台，员工专心制作饮品。",
       "pinyin": "wǒ fù zé diǎn dān hé shōu yín ， liú méi kàn guì tái ， yuán gōng zhuān xīn zhì zuò yǐn pǐn 。",
       "tr": "Ben sipariş ve kasaya bakarım, Liu Mei tezgâhı izler, çalışan içecekleri hazırlar."

@@ -598,17 +598,17 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC023_085",
-      "speaker": "顾客",
-      "zh": "我到家以后会把钱包放回固定的位置，免得下次又找不到。",
-      "pinyin": "wǒ dào jiā yǐ hòu huì bǎ qián bāo fàng huí gù dìng de wèi zhì miǎn de xià cì yòu zhǎo bú dào",
-      "tr": "Eve gidince cüzdanı hep aynı yere koyacağım; bir daha aramayım."
+      "speaker": "员工",
+      "zh": "交班时提醒大家，顾客离开前可以再确认一下随身物品。",
+      "pinyin": "Jiāobān shí tíxǐng dàjiā, gùkè líkāi qián kěyǐ zài quèrèn yīxià suíshēn wùpǐn.",
+      "tr": "Vardiya devrinde, müşterilerin çıkmadan önce eşyalarını kontrol edebileceklerini hatırlatalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_086",
       "speaker": "刘梅",
-      "zh": "固定放在包的内层也不错，出门前可以顺手确认一下。",
-      "pinyin": "gù dìng fàng zài bāo de nèi céng yě bù cuò chū mén qián kě yǐ shùn shǒu què rèn yī xià",
-      "tr": "Çantanın iç gözüne koymak iyi olur; çıkarken kolayca kontrol edebilirsiniz."
+      "zh": "这是个好提醒，不过说法温和一点，别让顾客觉得被责怪。",
+      "pinyin": "Zhè shì gè hǎo tíxǐng, bùguò shuōfǎ wēnhé yìdiǎn, bié ràng gùkè juéde bèi zéguài.",
+      "tr": "Bu iyi bir hatırlatma; ancak müşterinin suçlandığını hissetmemesi için yumuşak söyleyelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_087",
@@ -626,10 +626,10 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC023_089",
-      "speaker": "顾客",
-      "zh": "我很感谢你们没有把我的着急当成不愿意付款。",
-      "pinyin": "wǒ hěn gǎn xiè nǐ men méi yǒu bǎ wǒ de zháo jí dàng chéng bù yuàn yì fù kuǎn",
-      "tr": "Telaşımı ödeme yapmak istememem olarak yorumlamadığınız için minnettarım."
+      "speaker": "张伟",
+      "zh": "如果把顾客的着急当成不愿付款，信任就会受影响。",
+      "pinyin": "Rúguǒ bǎ gùkè de zháojí dàngchéng bùyuàn fùkuǎn, xìnrèn jiù huì shòu yǐngxiǎng.",
+      "tr": "Müşterinin telaşını ödeme yapmak istememek sanırsak güven zarar görür."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_090",
@@ -654,17 +654,17 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC023_093",
-      "speaker": "顾客",
-      "zh": "我下次来还会点平常那杯咖啡，希望你们继续顺利。",
-      "pinyin": "wǒ xià cì lái hái huì diǎn píng cháng nà bēi kā fēi xī wàng nǐ men jì xù shùn lì",
-      "tr": "Bir dahaki gelişimde her zamanki kahvemi alacağım; işleriniz yolunda gitsin."
+      "speaker": "员工",
+      "zh": "按流程处理问题，熟客遇到情况时也会愿意继续沟通。",
+      "pinyin": "Àn liúchéng chǔlǐ wèntí, shúkè yùdào qíngkuàng shí yě huì yuànyì jìxù gōutōng.",
+      "tr": "Sorunları sürece göre ele alırsak, düzenli müşteriler de yaşadıklarını bizimle konuşmayı sürdürür."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_094",
       "speaker": "刘梅",
-      "zh": "一定给你留好。谢谢你今天也愿意和我们一起把事情说清楚。",
-      "pinyin": "yí dìng gěi nǐ liú hǎo xiè xiè nǐ jīn tiān yě yuàn yì hé wǒ men yì qǐ bǎ shì qíng shuō qīng chǔ",
-      "tr": "Elbette hazırlarız. Bugün durumu açıkça konuşmaya istekli olduğunuz için teşekkürler."
+      "zh": "以后遇到类似情况，我们按同一套流程处理。",
+      "pinyin": "Yǐhòu yùdào lèisì qíngkuàng, wǒmen àntóng yītào liúchéng chǔlǐ.",
+      "tr": "Bundan sonra benzer bir durumla karşılaşırsak aynı süreci izleriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_095",
@@ -682,24 +682,24 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC023_097",
-      "speaker": "顾客",
-      "zh": "再见，今天的事让我更愿意相信这家店。",
-      "pinyin": "zài jiàn jīn tiān de shì ràng wǒ gèng yuàn yì xiāng xìn zhè jiā diàn",
-      "tr": "Hoşça kalın; bugünkü olay bu kafeye güvenimi artırdı."
+      "speaker": "张伟",
+      "zh": "这次虽然多花了些时间，但流程清楚，顾客也安心了。",
+      "pinyin": "Zhècì suīrán duōhuā le xiē shíjiān, dàn liúchéng qīngchǔ, gùkè yě ānxīn le.",
+      "tr": "Bu kez biraz daha zaman aldı ama süreç açıktı ve müşteri de rahatladı."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_098",
-      "speaker": "刘梅",
-      "zh": "谢谢，再见。愿你今天剩下的时间过得轻松。",
-      "pinyin": "xiè xiè zài jiàn yuàn nǐ jīn tiān shèng xià de shí jiān guò dé qīng sōng",
-      "tr": "Teşekkürler, hoşça kalın. Gününüzün kalanı rahat geçsin."
+      "speaker": "员工",
+      "zh": "我先去准备下一桌，记录已经归档了。",
+      "pinyin": "Wǒ xiān qù zhǔnbèi xià yīzhuō, jìlù yǐjīng guīdàng le.",
+      "tr": "Sonraki masayı hazırlayayım; kayıtları da dosyaladım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_099",
       "speaker": "员工",
-      "zh": "我去准备下一桌了，有需要随时叫我。",
-      "pinyin": "wǒ qù zhǔn bèi xià yī zhuō le yǒu xū yào suí shí jiào wǒ",
-      "tr": "Sonraki masayı hazırlamaya gidiyorum; bir şeye ihtiyaç olursa seslenin."
+      "zh": "交班时我会提醒下一班照同一套流程处理失物。",
+      "pinyin": "Jiāobān shí wǒhuì tíxǐng xià yībān zhàotóng yītào liúchéng chǔlǐ shīwù.",
+      "tr": "Vardiya devrinde sonraki ekibe kayıp eşyaları aynı sürece göre ele almasını hatırlatacağım."
     },
     {
       "id": "DLG_ZH_HSK4_SC023_100",
@@ -730,9 +730,9 @@
         "zh": "钱包",
         "pinyin": "qiánbāo",
         "tr": "cüzdan",
-        "exampleZh": "钱包是我们不能忽略的一点。",
-        "examplePinyin": "Qiánbāo shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Cüzdan göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "要是钱包里有银行卡，你们会帮忙联系银行吗？",
+        "examplePinyin": "yào shì qián bāo lǐ yǒu yín háng kǎ nǐ men huì bāng máng lián xì yín háng ma",
+        "exampleTr": "Cüzdanda banka kartı olsaydı bankayla iletişim kurmaya yardım eder miydiniz?",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "信任",
         "pinyin": "xìnrèn",
         "tr": "güven",
-        "exampleZh": "我们把信任也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ xìnrèn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Güven konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "如果把顾客的着急当成不愿付款，信任就会受影响。",
+        "examplePinyin": "Rúguǒ bǎ gùkè de zháojí dàngchéng bùyuàn fùkuǎn, xìnrèn jiù huì shòu yǐngxiǎng.",
+        "exampleTr": "Müşterinin telaşını ödeme yapmak istememek sanırsak güven zarar görür.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "诚信",
         "pinyin": "chéngxìn",
         "tr": "dürüstlük / güvenilirlik",
-        "exampleZh": "如果诚信发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ chéngxìn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Dürüstlük / güvenilirlik değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "我也学到了，诚信有时候就是把小事认真做好。",
+        "examplePinyin": "wǒ yě xué dào le chéng xìn yǒu shí hòu jiù shì bǎ xiǎo shì rèn zhēn zuò hǎo",
+        "exampleTr": "Ben de dürüstlüğün bazen küçük işleri özenle yapmak olduğunu öğrendim.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "顾客",
         "pinyin": "gùkè",
         "tr": "müşteri",
-        "exampleZh": "关于顾客，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú gùkè, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Müşteri konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "是的，顾客愿意回来，靠的是每次都能感到被尊重。",
+        "examplePinyin": "shì de gù kè yuàn yì huí lái kào de shì měi cì dōu néng gǎn dào bèi zūn zhòng",
+        "exampleTr": "Evet, müşterinin geri gelmesi her seferinde saygı gördüğünü hissetmesine bağlı.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "付款",
         "pinyin": "fùkuǎn",
         "tr": "ödeme",
-        "exampleZh": "付款是我们不能忽略的一点。",
-        "examplePinyin": "Fùkuǎn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Ödeme göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "再见，路上小心。您的付款记录已经在收据上了。",
+        "examplePinyin": "zài jiàn lù shàng xiǎo xīn nín de fù kuǎn jì lù yǐ jīng zài shōu jù shàng le",
+        "exampleTr": "Hoşça kalın, yolda dikkat edin. Ödeme kaydınız fişte yer alıyor.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "负责",
         "pinyin": "fùzé",
         "tr": "sorumlu olmak",
-        "exampleZh": "我们把负责也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ fùzé yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Sorumlu olmak konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "遇到不确定的情况就先问负责人，不要为了快而跳过核实。",
+        "examplePinyin": "yù dào bù què dìng de qíng kuàng jiù xiān wèn fù zé rén bú yào wèi le kuài ér tiào guò hé shí",
+        "exampleTr": "Emin olmadığın durumda sorumluya danış; hızlı olsun diye doğrulamayı atlama.",
         "kind": "active"
       },
       {

@@ -105,9 +105,9 @@
     {
       "id": "DLG_ZH_HSK2_SC029_015",
       "speaker": "经理",
-      "zh": "经理，请问您要检查哪一部分？",
-      "pinyin": "jīng lǐ ， qǐng wèn nín yào jiǎn chá nǎ yī bù fèn ？",
-      "tr": "Müdürüm, hangi kısmı kontrol etmemi istersiniz?"
+      "zh": "我们先检查哪一部分？",
+      "pinyin": "wǒmen xiān jiǎnchá nǎ yí bùfen?",
+      "tr": "Önce hangi bölümü kontrol edelim?"
     },
     {
       "id": "DLG_ZH_HSK2_SC029_016",
@@ -168,9 +168,9 @@
     {
       "id": "DLG_ZH_HSK2_SC029_024",
       "speaker": "经理",
-      "zh": "我再对照一下经理刚才说的部分。",
-      "pinyin": "wǒ zài duì zhào yī xià jīng lǐ gāng cái shuō de bù fèn 。",
-      "tr": "Müdürün söylediği kısmı da karşılaştırayım."
+      "zh": "我再对照一下刚才提到的部分。",
+      "pinyin": "wǒ zài duìzhào yíxià gāngcái tídào de bùfen.",
+      "tr": "Az önce sözü edilen bölümü bir daha karşılaştırayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC029_025",

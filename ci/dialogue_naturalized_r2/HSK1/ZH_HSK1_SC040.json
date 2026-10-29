@@ -242,9 +242,9 @@
     {
       "id": "DLG_ZH_HSK1_SC040_034",
       "speaker": "刘梅",
-      "zh": "看清楚了，收件人是我，门牌也没错。",
-      "pinyin": "Kànqīngchǔ le, shōujiànrén shì wǒ, ménpái yě méicuò.",
-      "tr": "Okunuyor; alıcı benim, kapı numarası da doğru."
+      "zh": "看清楚了，收件人是邻居，门牌也没错。",
+      "pinyin": "Kànqīngchǔ le， shōujiànrén shì línjū， ménpái yě méicuò。",
+      "tr": "Evet, alıcı komşumuz; kapı numarası da doğru."
     },
     {
       "id": "DLG_ZH_HSK1_SC040_035",
@@ -431,9 +431,9 @@
     {
       "id": "DLG_ZH_HSK1_SC040_061",
       "speaker": "张伟",
-      "zh": "包裹已经收到了，我们就不耽误你了。",
-      "pinyin": "Bāoguǒ yǐjīng shōudào le, wǒmen jiù bù dānwù nǐ le.",
-      "tr": "Paketimi aldım, artık seni tutmayalım."
+      "zh": "邻居已经收到包裹，我们就不耽误你了。",
+      "pinyin": "Línjū yǐjīng shōudào bāoguǒ， wǒmen jiù bù dānwù nǐ le。",
+      "tr": "Komşumuz paketi aldı, seni daha fazla tutmayalım."
     },
     {
       "id": "DLG_ZH_HSK1_SC040_062",
@@ -599,9 +599,9 @@
     {
       "id": "DLG_ZH_HSK1_SC040_085",
       "speaker": "张伟",
-      "zh": "我把包裹放好，就告诉家人它到了。",
-      "pinyin": "Wǒ bǎ bāoguǒ fàng hǎo, jiù gàosù jiārén tā dào le.",
-      "tr": "Paketi yerleştirip aileme geldiğini söyleyeceğim."
+      "zh": "包裹已经交给你了，回去告诉家人吧。",
+      "pinyin": "Bāoguǒ yǐjīng jiāogěi nǐ le， huíqù gàosù jiārén ba。",
+      "tr": "Paketi sana teslim ettik; eve gidince ailene haber ver."
     },
     {
       "id": "DLG_ZH_HSK1_SC040_086",

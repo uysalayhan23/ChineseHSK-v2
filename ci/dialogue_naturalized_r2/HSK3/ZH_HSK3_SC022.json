@@ -76,7 +76,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_011",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "我去看一下插头有没有松。",
       "pinyin": "Wǒ qù kàn yīxià chātóu yǒuméiyǒu sōng.",
       "tr": "Fiş gevşemiş mi diye bakıyorum."
@@ -160,7 +160,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_023",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "我看着呢，水箱边上没有漏水。",
       "pinyin": "Wǒ kànzhe ne, shuǐxiāng biānshàng méiyǒu lòushuǐ.",
       "tr": "Bakıyorum, haznenin kenarından su sızmıyor."
@@ -188,7 +188,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_027",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "要不要先试一杯热水，看看水泵能不能动？",
       "pinyin": "Yào búyào xiānshì yībēi rèshuǐ, kànkàn shuǐbèng néng bùnéng dòng?",
       "tr": "Pompanın çalışıp çalışmadığını görmek için önce sıcak su deneyelim mi?"
@@ -216,7 +216,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_031",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "只出来一点儿，然后又停了。",
       "pinyin": "Zhǐ chūlái yìdiǎnér, ránhòu yòu tíng le.",
       "tr": "Biraz su çıktı, sonra yine durdu."
@@ -244,7 +244,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_035",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "麻烦您把热水壶移开，其他东西先不用动。",
       "pinyin": "Máfán nín bǎ rè shuǐhú yíkāi, qítā dōngxī xiān bùyòng dòng.",
       "tr": "Lütfen sıcak su ısıtıcısını kenara alın, diğer şeylere şimdilik dokunmayın."
@@ -272,7 +272,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_039",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "里面有咖啡粉吗？会不会卡住了？",
       "pinyin": "Lǐmiàn yǒu kāfēifěn ma? huì búhuì kǎzhù le?",
       "tr": "İçeride kahve tozu var mı? Sıkışmış olabilir mi?"
@@ -300,7 +300,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_043",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "谢谢，先把粉末清干净，别碰里面的电线。",
       "pinyin": "Xièxiè, xiān bǎ fěnmò qīng gānjìng, biépèng lǐmiàn de diànxiàn.",
       "tr": "Teşekkürler, önce tozu temizleyelim; içerideki kablolara dokunmayalım."
@@ -328,7 +328,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_047",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "这次声音正常一些，但还没有出咖啡。",
       "pinyin": "Zhècì shēngyīn zhèngcháng yīxiē, dàn hái méiyǒu chū kāfēi.",
       "tr": "Bu kez sesi daha normal ama hâlâ kahve vermedi."
@@ -356,7 +356,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_051",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "我把菜单上暂时不能做的咖啡告诉客人。",
       "pinyin": "Wǒ bǎ càidān shàng zànshí bùnéng zuò de kāfēi gàosù kèrén.",
       "tr": "Menüde şimdilik hazırlayamadığımız kahveleri müşterilere söyleyeyim."
@@ -384,7 +384,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_055",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "师傅什么时候能到？",
       "pinyin": "Shīfù shénme shíhòu néng dào?",
       "tr": "Usta ne zaman gelebilir?"
@@ -412,7 +412,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_059",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "这样师傅到了就能直接检查重点。",
       "pinyin": "Zhèyàng shīfù dào le jiù néng zhíjiē jiǎnchá zhòngdiǎn.",
       "tr": "Böylece usta gelince doğrudan önemli yerlere bakabilir."
@@ -440,7 +440,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_063",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "这是我们应该做的，给您添麻烦了。",
       "pinyin": "Zhèshì wǒmen yīnggāi zuò de, gěi nín tiānmáfán le.",
       "tr": "Bu bizim yapmamız gereken; size zahmet verdik."
@@ -468,7 +468,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_067",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "记下了，一杯不加糖的拿铁。",
       "pinyin": "Jìxià le, yībēi bù jiātáng de ná tiě.",
       "tr": "Not aldım, şekersiz bir latte."
@@ -496,7 +496,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_071",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "明白，我只把外面能安全清理的地方擦干净。",
       "pinyin": "Míngbái, wǒ zhǐ bǎ wàimiàn néng ānquán qīnglǐ de dìfāng cā gānjìng.",
       "tr": "Anladım, yalnızca güvenle temizleyebileceğimiz dış kısmı sileceğim."
@@ -524,7 +524,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_075",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "这些情况都记好了，其他异常声音也写上了。",
       "pinyin": "Zhèxiē qíngkuàng dōu jìhǎo le, qítā yìcháng shēngyīn yě xiě shàng le.",
       "tr": "Bunları not ettim, olağandışı sesleri de ekledim."
@@ -545,14 +545,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_078",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "您好，刚才的步骤我都写在纸上了。",
       "pinyin": "Nínhǎo, gāngcái de bùzhòu wǒ dōu xiě zài zhǐ shàng le.",
       "tr": "Merhaba, az önceki adımları kâğıda yazdım."
     },
     {
       "id": "DLG_ZH_HSK3_SC022_079",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "谢谢，我先检查水泵，再决定怎么维修。",
       "pinyin": "Xièxiè, wǒxiān jiǎnchá shuǐbèng, zài juédìng zěnme wéixiū.",
       "tr": "Teşekkürler, önce pompayı kontrol edip sonra nasıl tamir edeceğime karar vereceğim."
@@ -566,7 +566,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_081",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "水泵里有一点儿堵塞，清理以后应该能用。",
       "pinyin": "Shuǐbèng lǐ yǒu yìdiǎnér dǔsè, qīnglǐ yǐhòu yīnggāi néng yòng.",
       "tr": "Su pompası biraz tıkanmış; temizledikten sonra çalışması gerekir."
@@ -580,7 +580,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC022_083",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "不用换，我清理一下，再做一次检查。",
       "pinyin": "Bùyòng huàn, wǒ qīnglǐ yīxià, zài zuò yīcì jiǎnchá.",
       "tr": "Değiştirmek gerekmiyor, temizleyip bir kez daha kontrol edeceğim."
@@ -609,9 +609,9 @@
     {
       "id": "DLG_ZH_HSK3_SC022_087",
       "speaker": "顾客",
-      "zh": "我再做一杯测试咖啡，看看味道和温度。",
-      "pinyin": "Wǒ zài zuò yībēi cèshì kāfēi, kànkàn wèidào hé wēndù.",
-      "tr": "Tadını ve sıcaklığını görmek için bir test kahvesi daha yapayım."
+      "zh": "我可以尝一口，看看味道和温度。",
+      "pinyin": "Wǒ kěyǐ cháng yīkǒu, kànkàn wèidào hé wēndù.",
+      "tr": "Bir yudum alıp tadına ve sıcaklığına bakabilir miyim?"
     },
     {
       "id": "DLG_ZH_HSK3_SC022_088",
@@ -637,9 +637,9 @@
     {
       "id": "DLG_ZH_HSK3_SC022_091",
       "speaker": "顾客",
-      "zh": "太好了，您的订单我现在为您做好。",
-      "pinyin": "Tàihǎole, nín de dìngdān wǒ xiànzài wèi nín zuòhǎo.",
-      "tr": "Harika, siparişinizi şimdi hazırlıyorum."
+      "zh": "太好了，修好了以后我就能拿到拿铁了。",
+      "pinyin": "Tàihǎole, xiūhǎo le yǐhòu wǒ jiù néng nádào ná tiě le.",
+      "tr": "Harika, tamir edilince latte siparişimi alabileceğim."
     },
     {
       "id": "DLG_ZH_HSK3_SC022_092",

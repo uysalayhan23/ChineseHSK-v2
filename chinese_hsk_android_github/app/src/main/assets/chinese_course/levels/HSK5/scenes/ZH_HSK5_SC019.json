@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK5_SC019_001",
       "speaker": "刘梅",
-      "zh": "最近原材料报价上调了，今天先把成本变化弄清楚，再讨论店里怎么应对。",
-      "pinyin": "Zuì jìn yuán cái liào bào jià shàng diào le jīn tiān xiān bǎ chéng běn biàn huà nòng qīng chǔ zài tǎo lùn diàn lǐ zěn me yìng duì",
-      "tr": "Son zamanlarda hammadde fiyatları yükseldi; bugün önce maliyet değişimini netleştirip sonra işletmenin ne yapacağını konuşalım."
+      "zh": "最近原材料报价上调了，店里的经营成本也在增加；今天先弄清变化，再讨论应对。",
+      "pinyin": "zuì jìn yuán cái liào bào jià shàng diào le ， diàn lǐ de jīng yíng chéng běn yě zài zēng jiā ； jīn tiān xiān nòng qīng biàn huà ， zài tǎo lùn yìng duì 。",
+      "tr": "Son zamanlarda ham madde fiyatları arttı ve işletme maliyetleri de yükseliyor; bugün önce değişimi anlayıp sonra önlemleri konuşalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC019_002",
@@ -151,9 +151,9 @@
     {
       "id": "DLG_ZH_HSK5_SC019_021",
       "speaker": "刘梅",
-      "zh": "除了采购价，我还想看看库存和营业额；我们这季的销量也有变化。",
-      "pinyin": "Chú le cǎi gòu jià wǒ hái xiǎng kàn kàn kù cún hé yíng yè é wǒ men zhè jì de xiāo liàng yě yǒu biàn huà",
-      "tr": "Satın alma fiyatlarının yanında stoklara ve ciroya da bakmak istiyorum; bu çeyrekte satışlarımız da değişti."
+      "zh": "除了采购价，我还想看看库存和营业额；这季店里的生意也有变化。",
+      "pinyin": "chú le cǎi gòu jià ， wǒ hái xiǎng kàn kàn kù cún hé yíng yè é ； zhè jì diàn lǐ de shēng yì yě yǒu biàn huà 。",
+      "tr": "Satın alma fiyatlarının yanında stok ve ciroya da bakmak istiyorum; bu sezon işletmenin işi de değişti."
     },
     {
       "id": "DLG_ZH_HSK5_SC019_022",
@@ -501,9 +501,9 @@
     {
       "id": "DLG_ZH_HSK5_SC019_071",
       "speaker": "经理",
-      "zh": "如果经营数据变化，我们再调整计划，不把今天的估算当成固定结论。",
-      "pinyin": "Rú guǒ jīng yíng shù jù biàn huà wǒ men zài tiáo zhěng jì huà bù bǎ jīn tiān de gū suàn dàng chéng gù dìng jié lùn",
-      "tr": "İşletme verileri değişirse planı yeniden düzenleriz; bugünkü tahmini kesin sonuç saymayız."
+      "zh": "尽管经营成本上升，我们仍然先核对预算和实际销量，再决定要不要调整菜单。",
+      "pinyin": "jǐn guǎn jīng yíng chéng běn shàng shēng ， wǒ men réng rán xiān hé duì yù suàn hé shí jì xiāo liàng ， zài jué dìng yào bù yào tiáo zhěng cài dān 。",
+      "tr": "İşletme maliyetleri artsa da menüyü değiştirip değiştirmemeye karar vermeden önce bütçeyi ve gerçek satışları kontrol edelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC019_072",
@@ -730,9 +730,9 @@
         "zh": "经营成本",
         "pinyin": "jīngyíng chéngběn",
         "tr": "işletme maliyeti",
-        "exampleZh": "经营成本是我们不能忽略的一点。",
-        "examplePinyin": "Jīngyíng chéngběn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Işletme maliyeti göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "尽管经营成本上升，我们仍然先核对预算和实际销量，再决定要不要调整菜单。",
+        "examplePinyin": "Jǐn guǎn jīng yíng chéng běn shàng shēng ， wǒ men réng rán xiān hé duì yù suàn hé shí jì xiāo liàng ， zài jué dìng yào bù yào tiáo zhěng cài dān 。",
+        "exampleTr": "İşletme maliyetleri artsa da menüyü değiştirip değiştirmemeye karar vermeden önce bütçeyi ve gerçek satışları kontrol edelim.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "原材料",
         "pinyin": "yuáncáiliào",
         "tr": "ham madde",
-        "exampleZh": "我们把原材料也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ yuáncáiliào yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Ham madde konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "不同原材料的涨幅对菜单影响多大，我们还要逐项核对。",
+        "examplePinyin": "Bù tóng yuán cái liào de zhǎng fú duì cài dān yǐng xiǎng duō dà ， wǒ men hái yào zhú xiàng hé duì 。",
+        "exampleTr": "Farklı hammaddelerdeki artışın menüyü ne kadar etkilediğini kalem kalem doğrulamamız gerekiyor.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "成本",
         "pinyin": "chéngběn",
         "tr": "maliyet",
-        "exampleZh": "如果成本发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ chéngběn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Maliyet değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "这次成本变化主要会影响哪些经营风险？",
+        "examplePinyin": "Zhè cì chéng běn biàn huà zhǔ yào huì yǐng xiǎng nǎ xiē jīng yíng fēng xiǎn ？",
+        "exampleTr": "Bu maliyet değişikliği işletme açısından en çok hangi riskleri etkiler?",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "营业额",
         "pinyin": "yíngyè’é",
         "tr": "ciro",
-        "exampleZh": "关于营业额，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú yíngyè’é, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Ciro konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "营业额和销量也要一起核对，不能只看采购单上的数字。",
+        "examplePinyin": "Yíng yè é hé xiāo liàng yě yào yì qǐ hé duì ， bù néng zhǐ kàn cǎi gòu dān shàng de shù zì 。",
+        "exampleTr": "Yalnızca satın alma siparişlerine bakmayalım; ciro ve satış miktarlarını da doğrulayalım.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "生意",
         "pinyin": "shēngyi",
         "tr": "iş / ticaret",
-        "exampleZh": "生意是我们不能忽略的一点。",
-        "examplePinyin": "Shēngyi shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Iş / ticaret göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "除了采购价，我还想看看库存和营业额；这季店里的生意也有变化。",
+        "examplePinyin": "Chú le cǎi gòu jià ， wǒ hái xiǎng kàn kàn kù cún hé yíng yè é ； zhè jì diàn lǐ de shēng yì yě yǒu biàn huà 。",
+        "exampleTr": "Satın alma fiyatlarının yanında stok ve ciroya da bakmak istiyorum; bu sezon işletmenin işi de değişti.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "风险",
         "pinyin": "fēngxiǎn",
         "tr": "risk",
-        "exampleZh": "我们把风险也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ fēngxiǎn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Risk konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "这次成本变化主要会影响哪些经营风险？",
+        "examplePinyin": "Zhè cì chéng běn biàn huà zhǔ yào huì yǐng xiǎng nǎ xiē jīng yíng fēng xiǎn ？",
+        "exampleTr": "Bu maliyet değişikliği işletme açısından en çok hangi riskleri etkiler?",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "价格",
         "pinyin": "jiàgé",
         "tr": "fiyat",
-        "exampleZh": "如果价格发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jiàgé fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Fiyat değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "那我们周五再讨论报价和试用安排，先不改菜单价格。",
+        "examplePinyin": "Nà wǒ men zhōu wǔ zài tǎo lùn bào jià hé shì yòng ān pái ， xiān bù gǎi cài dān jià gé 。",
+        "exampleTr": "Öyleyse cuma fiyat teklifini ve deneme planını yeniden konuşalım; şimdilik menü fiyatlarını değiştirmeyelim.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC019_008",
         "zh": "预算",
         "pinyin": "yùsuàn",
         "tr": "bütçe",
-        "exampleZh": "关于预算，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú yùsuàn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Bütçe konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "如果某种材料的价格继续变动，我们下个月再更新预算。",
+        "examplePinyin": "Rú guǒ mǒu zhǒng cái liào de jià gé jì xù biàn dòng ， wǒ men xià gè yuè zài gēng xīn yù suàn 。",
+        "exampleTr": "Bir malzemenin fiyatı değişmeye devam ederse bütçeyi gelecek ay yeniden güncelleriz.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1230,6 +1230,14 @@
     },
     "continuityNoteTr": "Maliyetler Yükseliyor olayı HSK5 yaşam çizgisinde sahne 19 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 16,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC019.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

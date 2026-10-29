@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK3_SC047",
   "status": "FINAL_IMAGE_INTEGRATED",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC047.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC047.json",
   "titleTr": "Zhang’ın Terfisi",
   "locationId": "LOC_ZH_WORKPLACE_001",
   "scenePurposeTr": "Zhang yeni görevini kabul eder ve ilk sorumluluklarını konuşur.",

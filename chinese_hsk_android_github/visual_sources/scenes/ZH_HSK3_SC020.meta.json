@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC020.json",
-  "dialogueSha256": "a04fc6108c27695e0ac73b36e8313ebe99df57bda57c57dc140d8fe89ba47268",
+  "dialogueSha256": "893eab645cd80f35471aee22a7375fe9b1b575fab1448076b974770a1943d407",
   "titleTr": "Sessiz Açılış Denemesi",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Kafe yalnızca dostlara açılır; servis akışı ilk kez gerçek ortamda test edilir.",

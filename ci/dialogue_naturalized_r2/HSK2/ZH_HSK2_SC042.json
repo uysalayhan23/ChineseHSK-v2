@@ -20,10 +20,10 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC042_003",
-      "speaker": "爷爷",
-      "zh": "我也想跟爷爷奶奶说话，可以坐在你们旁边吗？",
-      "pinyin": "wǒ yě xiǎng gēn yé yé nǎi nǎi shuō huà ， kě yǐ zuò zài nǐ men páng biān ma ？",
-      "tr": "Ben de büyükanneyle büyükbabamla konuşmak istiyorum. Yanınıza oturabilir miyim?"
+      "speaker": "张伟",
+      "zh": "爸妈，我也想和你们多聊一会儿。",
+      "pinyin": "bà mā ， wǒ yě xiǎng hé nǐ men duō liáo yī huì er 。",
+      "tr": "Anne, baba, ben de sizinle biraz daha konuşmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC042_004",
@@ -160,10 +160,10 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC042_023",
-      "speaker": "爷爷",
-      "zh": "爷爷，你想先看看哪里？",
-      "pinyin": "yé yé ， nǐ xiǎng xiān kàn kàn nǎ lǐ ？",
-      "tr": "Dede, önce nereyi görmek istersin?"
+      "speaker": "张伟",
+      "zh": "爸，你想先看看哪里？",
+      "pinyin": "bà ， nǐ xiǎng xiān kàn kàn nǎ lǐ ？",
+      "tr": "Baba, önce nereyi görmek istersin?"
     },
     {
       "id": "DLG_ZH_HSK2_SC042_024",
@@ -195,10 +195,10 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC042_028",
-      "speaker": "奶奶",
+      "speaker": "刘梅",
       "zh": "我慢慢转过去，你们看得清楚吗？",
-      "pinyin": "wǒ màn màn zhuǎn guò qù ， nǐ men kàn de qīng chǔ ma ？",
-      "tr": "Yavaşça çeviriyorum, net görebiliyor musunuz?"
+      "pinyin": "wǒ mànmàn zhuǎn guòqù, nǐmen kàn de qīngchu ma?",
+      "tr": "Yavaşça çevireyim; net görebiliyor musunuz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC042_029",
@@ -210,23 +210,23 @@
     {
       "id": "DLG_ZH_HSK2_SC042_030",
       "speaker": "刘梅",
-      "zh": "那张桌子是刘梅挑的，早上可以在那里喝茶。",
-      "pinyin": "nà zhāng zhuō zi shì liú méi tiāo de ， zǎo shàng kě yǐ zài nà lǐ hē chá 。",
-      "tr": "O masayı Liu Mei seçti; sabahları orada çay içiyoruz."
+      "zh": "那张桌子是我挑的，早上可以在那里喝茶。",
+      "pinyin": "nà zhāng zhuō zi shì wǒ tiāo de ， zǎo shàng kě yǐ zài nà lǐ hē chá 。",
+      "tr": "O masayı ben seçtim; sabahları orada çay içebiliriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC042_031",
       "speaker": "爷爷",
-      "zh": "我每天早上都在那儿喝茶，阳光照进来很舒服。",
-      "pinyin": "wǒ měi tiān zǎo shàng dōu zài nà ér hē chá ， yáng guāng zhào jìn lái hěn shū fú 。",
-      "tr": "Her sabah orada çay içiyorum; güneş içeri girince çok güzel oluyor."
+      "zh": "那张桌子很适合喝茶，阳光照进来一定很舒服。",
+      "pinyin": "nà zhāng zhuō zi hěn shì hé hē chá ， yáng guāng zhào jìn lái yí dìng hěn shū fú 。",
+      "tr": "O masa çay içmek için çok uygun; güneş vurunca çok keyifli oluyordur."
     },
     {
       "id": "DLG_ZH_HSK2_SC042_032",
       "speaker": "奶奶",
-      "zh": "我们家也有个靠窗的位置，你奶奶最喜欢坐在那里。",
-      "pinyin": "wǒ men jiā yě yǒu gè kào chuāng de wèi zhì ， nǐ nǎi nǎi zuì xǐ huān zuò zài nà lǐ 。",
-      "tr": "Bizim evde de pencere kenarında bir yer var; büyükannen orada oturmayı sever."
+      "zh": "我们家也有个靠窗的位置，我最喜欢坐在那里。",
+      "pinyin": "wǒ men jiā yě yǒu gè kào chuāng de wèi zhì ， wǒ zuì xǐ huān zuò zài nà lǐ 。",
+      "tr": "Bizim evde de pencere kenarında bir yer var; en çok orada oturmayı seviyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC042_033",
@@ -251,16 +251,16 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC042_036",
-      "speaker": "奶奶",
-      "zh": "奶奶，你能看到我做的画吗？我想给你看。",
-      "pinyin": "nǎi nǎi ， nǐ néng kàn dào wǒ zuò de huà ma ？ wǒ xiǎng gěi nǐ kàn 。",
-      "tr": "Büyükanne, çizdiğim resmi görebiliyor musun? Sana göstermek istiyorum."
+      "speaker": "刘梅",
+      "zh": "妈，你能看到我画的画吗？我想给你看看。",
+      "pinyin": "mā ， nǐ néng kàn dào wǒ huà de huà ma ？ wǒ xiǎng gěi nǐ kàn kàn 。",
+      "tr": "Anne, yaptığım resmi görebiliyor musun? Sana göstermek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC042_037",
-      "speaker": "张伟",
-      "zh": "看到了，颜色真漂亮。你是画新家的阳台吗？",
-      "pinyin": "kàn dào le ， yán sè zhēn piào liàng 。 nǐ shì huà xīn jiā de yáng tái ma ？",
+      "speaker": "奶奶",
+      "zh": "看到了，颜色真漂亮。你画的是新家的阳台吗？",
+      "pinyin": "kàn dào le ， yán sè zhēn piào liàng 。 nǐ huà de shì xīn jiā de yáng tái ma ？",
       "tr": "Görüyorum, renkleri çok güzel. Yeni evin balkonunu mu çizdin?"
     },
     {
@@ -293,7 +293,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC042_042",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "常去，早上人少，空气也很好。",
       "pinyin": "cháng qù ， zǎo shàng rén shǎo ， kōng qì yě hěn hǎo 。",
       "tr": "Evet, sabahları giderdim; hem sakin hem de havası güzel olur."
@@ -363,7 +363,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC042_052",
-      "speaker": "奶奶",
+      "speaker": "刘梅",
       "zh": "走路十分钟就到，出门坐车很方便。",
       "pinyin": "zǒu lù shí fēn zhōng jiù dào ， chū mén zuò chē hěn fāng biàn 。",
       "tr": "Yürüyerek on dakika; toplu taşımaya erişmek kolay."
@@ -399,9 +399,9 @@
     {
       "id": "DLG_ZH_HSK2_SC042_057",
       "speaker": "张伟",
-      "zh": "我们一起收拾的，张伟也帮了很多忙。",
-      "pinyin": "wǒ men yì qǐ shōu shí de ， zhāng wěi yě bāng le hěn duō máng 。",
-      "tr": "Birlikte topladık, Zhang Wei de çok yardım etti."
+      "zh": "我们一起收拾的，我也帮了不少忙。",
+      "pinyin": "wǒ men yì qǐ shōu shí de ， wǒ yě bāng le bù shǎo máng 。",
+      "tr": "Birlikte topladık, ben de epey yardım ettim."
     },
     {
       "id": "DLG_ZH_HSK2_SC042_058",
@@ -412,10 +412,10 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC042_059",
-      "speaker": "爷爷",
-      "zh": "谢谢爷爷奶奶关心。等你们来了，我们再慢慢参观。",
-      "pinyin": "xiè xiè yé yé nǎi nǎi guān xīn 。 děng nǐ men lái le ， wǒ men zài màn màn cān guān 。",
-      "tr": "İlginiz için teşekkürler. Gelince evi sakince gezersiniz."
+      "speaker": "张伟",
+      "zh": "谢谢你们关心。等你们来了，我们再慢慢参观。",
+      "pinyin": "xiè xiè nǐ men guān xīn 。 děng nǐ men lái le ， wǒ men zài màn màn cān guān 。",
+      "tr": "İlginiz için teşekkürler. Geldiğinizde evi birlikte gezebiliriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC042_060",
@@ -433,7 +433,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC042_062",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "下个月第二个周末怎么样？我们周五下午出发。",
       "pinyin": "xià gè yuè dì èr gè zhōu mò zěn me yàng ？ wǒ men zhōu wǔ xià wǔ chū fā 。",
       "tr": "Gelecek ayın ikinci hafta sonu olur mu? Cuma öğleden sonra yola çıkarız."
@@ -475,10 +475,10 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC042_068",
-      "speaker": "奶奶",
-      "zh": "我也会提前准备好客房的床单和毛巾。",
-      "pinyin": "wǒ yě huì tí qián zhǔn bèi hào kè fáng de chuáng dān hé máo jīn 。",
-      "tr": "Misafir odasının çarşaflarını ve havlularını da önceden hazırlarım."
+      "speaker": "刘梅",
+      "zh": "我会提前把客房的床单和毛巾准备好。",
+      "pinyin": "wǒ huì tí qián bǎ kè fáng de chuáng dān hé máo jīn zhǔn bèi hǎo 。",
+      "tr": "Misafir odasının çarşaflarını ve havlularını önceden hazırlayacağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC042_069",
@@ -588,9 +588,9 @@
     {
       "id": "DLG_ZH_HSK2_SC042_084",
       "speaker": "奶奶",
-      "zh": "我来换床单，张伟负责把客房的东西摆好。",
-      "pinyin": "wǒ lái huàn chuáng dān ， zhāng wěi fù zé bǎ kè fáng de dōng xī bǎi hǎo 。",
-      "tr": "Çarşafları ben değiştireyim, Zhang Wei de eşyaları yerleştirsin."
+      "zh": "到了以后我来帮你们换床单，张伟负责把客房的东西摆好。",
+      "pinyin": "dào le yǐ hòu wǒ lái bāng nǐ men huàn chuáng dān ， zhāng wěi fù zé bǎ kè fáng de dōng xī bǎi hǎo 。",
+      "tr": "Geldiğinizde çarşafları değiştirmeye yardım ederim, Zhang Wei de odadakileri yerleştirir."
     },
     {
       "id": "DLG_ZH_HSK2_SC042_085",

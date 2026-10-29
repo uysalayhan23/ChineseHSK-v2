@@ -34,7 +34,7 @@
       "speaker": "奶奶",
       "zh": "看得见，您再往中间一点就好了。",
       "pinyin": "Kàn dé jiàn nín zài wǎng zhōng jiān yì diǎn jiù hǎo le",
-      "tr": "Görünüyorsunuz; biraz ortaya kaymanız yeterli。"
+      "tr": "Görünüyorsunuz; biraz ortaya kaymanız yeterli"
     },
     {
       "id": "DLG_ZH_HSK4_SC049_005",
@@ -81,9 +81,9 @@
     {
       "id": "DLG_ZH_HSK4_SC049_011",
       "speaker": "爷爷",
-      "zh": "奶奶就是在那里认识爷爷的吗？",
-      "pinyin": "Nǎi nǎi jiù shì zài nà lǐ rèn shí yé yé de ma",
-      "tr": "Nineyle orada mı tanıştınız?"
+      "zh": "你还记得我们是在哪里认识的吗？",
+      "pinyin": "nǐ hái jì de wǒ men shì zài nǎ lǐ rèn shí de ma",
+      "tr": "İlk nerede tanıştığımızı hatırlıyor musun?"
     },
     {
       "id": "DLG_ZH_HSK4_SC049_012",
@@ -473,9 +473,9 @@
     {
       "id": "DLG_ZH_HSK4_SC049_067",
       "speaker": "爷爷",
-      "zh": "明年再来，我们把新照片放在旁边比较。",
-      "pinyin": "Míng nián zài lái wǒ men bǎ xīn zhào piān fàng zài páng biān bǐ jiào",
-      "tr": "Gelecek yıl yine gelip yeni fotoğrafı yanına koyarız."
+      "zh": "既然明年还要来，就把新照片放在旁边比较。",
+      "pinyin": "jì rán míng nián hái yào lái jiù bǎ xīn zhào piān fàng zài páng biān bǐ jiào",
+      "tr": "Madem gelecek yıl yine geleceğiz, yeni fotoğrafı yanına koyup karşılaştıralım."
     },
     {
       "id": "DLG_ZH_HSK4_SC049_068",
@@ -730,9 +730,9 @@
         "zh": "三代人",
         "pinyin": "sān dài rén",
         "tr": "üç kuşak",
-        "exampleZh": "三代人是我们不能忽略的一点。",
-        "examplePinyin": "Sān dài rén shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Üç kuşak göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "叫“公园里的三代人”怎么样？",
+        "examplePinyin": "Jiào gōng yuán lǐ de sān dài rén zěn me yàng",
+        "exampleTr": "“Parktaki Üç Kuşak” nasıl?",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "全家福",
         "pinyin": "quánjiāfú",
         "tr": "aile fotoğrafı",
-        "exampleZh": "我们把全家福也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ quánjiāfú yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Aile fotoğrafı konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "这张全家福要不要起个名字？",
+        "examplePinyin": "Zhè zhāng quán jiā fú yào bù yào qǐ gè míng zì",
+        "exampleTr": "Bu aile fotoğrafına bir ad verelim mi?",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "一代人",
         "pinyin": "yí dài rén",
         "tr": "bir kuşak",
-        "exampleZh": "如果一代人发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ yí dài rén fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Bir kuşak değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "那我们就把这张全家福留给以后的一代人。",
+        "examplePinyin": "Nà wǒ men jiù bǎ zhè zhāng quán jiā fú liú gěi yǐ hòu de yí dài rén",
+        "exampleTr": "Öyleyse bu aile fotoğrafını gelecek kuşaklara bırakalım.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "往事",
         "pinyin": "wǎngshì",
         "tr": "geçmiş anılar",
-        "exampleZh": "关于往事，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú wǎngshì, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Geçmiş anılar konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "所以这段往事你们一直记得。",
+        "examplePinyin": "Suǒ yǐ zhè duàn wǎng shì nǐ men yì zhí jì de",
+        "exampleTr": "Bu yüzden o anıyı hep hatırlıyorsunuz.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "家人是我们不能忽略的一点。",
-        "examplePinyin": "Jiārén shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Aile göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "听你们讲过去，让我更懂家人。",
+        "examplePinyin": "Tīng nǐ men jiǎng guò qù ràng wǒ gèng dǒng jiā rén",
+        "exampleTr": "Geçmişi anlatmanızı dinlemek ailemi daha iyi anlamamı sağlıyor.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "照片",
         "pinyin": "zhàopiàn",
         "tr": "fotoğraf",
-        "exampleZh": "我们把照片也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zhàopiàn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Fotoğraf konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "那就把今天的笑声也留在照片里。",
+        "examplePinyin": "Nà jiù bǎ jīn tiān de xiào shēng yě liú zài zhào piān lǐ",
+        "exampleTr": "O hâlde bugünkü kahkahaları da fotoğrafa katalım.",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "biànhuà",
         "tr": "değişim",
         "exampleZh": "如果变化发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ biànhuà fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ biànhuà fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Değişim değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "qíngxù",
         "tr": "duygusal durum",
         "exampleZh": "关于情绪，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú qíngxù, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú qíngxù wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Duygusal durum konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

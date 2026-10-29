@@ -527,9 +527,9 @@
     {
       "id": "DLG_ZH_HSK1_SC050_015",
       "speaker": "李晨",
-      "zh": "我喜欢学校，离家很近。",
-      "pinyin": "wǒ xǐ huān xué xiào, lí jiā hěn jìn.",
-      "tr": "Okulumu seviyorum, eve çok yakın."
+      "zh": "我在附近的学校工作，离家很近。",
+      "pinyin": "Wǒ zài fù jìn de xué xiào gōng zuò, lí jiā hěn jìn.",
+      "tr": "Okulda çalışıyorum, iş yerim eve yakın."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_016",
@@ -549,22 +549,22 @@
       "id": "DLG_ZH_HSK1_SC050_018",
       "speaker": "刘梅",
       "zh": "不远，坐车几站就到了。",
-      "pinyin": "bù yuǎn, zuò chē jǐ zhàn jiù dào le.",
+      "pinyin": "Bùyuǎn， zuòchē jǐzhàn jiù dào le。",
       "tr": "Uzak değil, otobüsle birkaç durak."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_019",
       "speaker": "李晨",
-      "zh": "爸爸每天都比以前早回家。",
-      "pinyin": "bà bà měi tiān dōu bǐ yǐ qián zǎo huí jiā.",
-      "tr": "Babam her gün eskisinden erken eve geliyor."
+      "zh": "我现在下班比以前早，晚上能多陪陪家人。",
+      "pinyin": "Wǒ xiànzài xiàbān bǐ yǐqián zǎo， wǎnshàng néng duō péipéi jiārén。",
+      "tr": "Artık işten eskisinden erken çıkıyorum, akşamları ailemle daha çok vakit geçiriyorum."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_020",
       "speaker": "李晨妻子",
       "zh": "这样我们就能一起吃晚饭。",
-      "pinyin": "zhè yàng wǒ men jiù néng yì qǐ chī wǎn fàn.",
-      "tr": "Böylece birlikte akşam yemeği yiyebiliyoruz."
+      "pinyin": "Zhèyàng wǒmen jiù néng yìqǐ chīwǎnfàn。",
+      "tr": "Böylece akşam yemeğini birlikte yiyebiliriz."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_021",
@@ -590,9 +590,9 @@
     {
       "id": "DLG_ZH_HSK1_SC050_024",
       "speaker": "李晨妻子",
-      "zh": "放学以后有时一起做作业。",
-      "pinyin": "fàng xué yǐ hòu yǒu shí yì qǐ zuò zuò yè.",
-      "tr": "Okuldan sonra bazen birlikte ödev yapıyoruz."
+      "zh": "周末我们有时一起做饭。",
+      "pinyin": "Zhōumò wǒmen yǒushí yìqǐ zuòfàn。",
+      "tr": "Hafta sonları bazen birlikte yemek yapıyoruz."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_025",
@@ -611,15 +611,15 @@
     {
       "id": "DLG_ZH_HSK1_SC050_027",
       "speaker": "李晨",
-      "zh": "这是妈妈做的，我最喜欢。",
-      "pinyin": "zhè shì mā mā zuò de, wǒ zuì xǐ huān.",
-      "tr": "Bunu annem yaptı, en sevdiğim yemek."
+      "zh": "这是我妻子做的，我最喜欢。",
+      "pinyin": "Zhè shì wǒ qīzǐ zuò de， wǒ zuì xǐhuān。",
+      "tr": "Bunu eşim yaptı; en sevdiğim yemek."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_028",
       "speaker": "李晨妻子",
-      "zh": "你喜欢的话，我下次再做。",
-      "pinyin": "nǐ xǐ huān de huà, wǒ xià cì zài zuò.",
+      "zh": "你喜欢的话，下次我再做。",
+      "pinyin": "Nǐ xǐhuān dehuà， xiàcì wǒ zài zuò。",
       "tr": "Beğendiysen bir dahaki sefere yine yaparım."
     },
     {
@@ -681,30 +681,30 @@
     {
       "id": "DLG_ZH_HSK1_SC050_037",
       "speaker": "张伟",
-      "zh": "你在学校最喜欢什么？",
-      "pinyin": "nǐ zài xué xiào zuì xǐ huān shén me?",
-      "tr": "Okulda en çok neyi seviyorsun?"
+      "zh": "你平时喜欢和朋友一起做什么？",
+      "pinyin": "Nǐ píngshí xǐhuān hé péngyǒu yìqǐ zuò shénme？",
+      "tr": "Arkadaşlarınla birlikte genelde ne yapmayı seversin?"
     },
     {
       "id": "DLG_ZH_HSK1_SC050_038",
       "speaker": "刘梅",
       "zh": "我喜欢和朋友一起学中文。",
-      "pinyin": "wǒ xǐ huān hé péng yǒu yì qǐ xué zhōng wén.",
-      "tr": "Arkadaşlarımla Çince öğrenmeyi seviyorum."
+      "pinyin": "Wǒ xǐhuān hé péngyǒu yìqǐ xué zhōngwén。",
+      "tr": "Arkadaşlarımla birlikte Çince öğrenmeyi seviyorum."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_039",
       "speaker": "李晨",
-      "zh": "我喜欢体育课，可以在外面跑。",
-      "pinyin": "wǒ xǐ huān tǐ yù kè, kě yǐ zài wài miàn pǎo.",
-      "tr": "Beden dersini seviyorum, dışarıda koşabiliyoruz."
+      "zh": "我喜欢周末出去跑步。",
+      "pinyin": "Wǒ xǐhuān zhōumò chūqù pǎobù。",
+      "tr": "Hafta sonları dışarı çıkıp koşmayı seviyorum."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_040",
       "speaker": "李晨妻子",
-      "zh": "听你们说，我也想回学校了。",
-      "pinyin": "tīng nǐ men shuō, wǒ yě xiǎng huí xué xiào le.",
-      "tr": "Sizi dinleyince benim de okula dönesim geldi."
+      "zh": "听你们说，我也想去公园走走。",
+      "pinyin": "Tīng nǐmen shuō， wǒ yě xiǎng qù gōngyuán zǒuzǒu。",
+      "tr": "Sizi dinleyince ben de parka yürüyüşe gitmek istedim."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_041",
@@ -723,9 +723,9 @@
     {
       "id": "DLG_ZH_HSK1_SC050_043",
       "speaker": "李晨",
-      "zh": "你回家以后还会帮我做饭。",
-      "pinyin": "nǐ huí jiā yǐ hòu hái huì bāng wǒ zuò fàn.",
-      "tr": "Eve gelince yemek yapmama da yardım ediyorsun."
+      "zh": "我们下班以后一起做饭。",
+      "pinyin": "Wǒmen xiàbān yǐhòu yìqǐ zuòfàn。",
+      "tr": "İşten sonra birlikte yemek yapıyoruz."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_044",
@@ -751,9 +751,9 @@
     {
       "id": "DLG_ZH_HSK1_SC050_047",
       "speaker": "李晨",
-      "zh": "我的书和玩具都放在房间里。",
-      "pinyin": "wǒ de shū hé wán jù dōu fàng zài fáng jiān lǐ.",
-      "tr": "Kitaplarım ve oyuncaklarım odamda duruyor."
+      "zh": "我的书和工作文件都放在房间里。",
+      "pinyin": "Wǒ de shū hé gōngzuòwénjiàn dōu fàngzài fángjiān lǐ。",
+      "tr": "Kitaplarım ve iş dosyalarım odada duruyor."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_048",
@@ -779,23 +779,23 @@
     {
       "id": "DLG_ZH_HSK1_SC050_051",
       "speaker": "李晨",
-      "zh": "这张是上个月在学校门口拍的。",
-      "pinyin": "zhè zhāng shì shàng gè yuè zài xué xiào mén kǒu pāi de.",
-      "tr": "Bu, geçen ay okulun önünde çekildi."
+      "zh": "这张是上个月在公园门口拍的。",
+      "pinyin": "Zhèzhāng shì shànggèyuè zài gōngyuán ménkǒu pāi de。",
+      "tr": "Bu fotoğrafı geçen ay parkın girişinde çektik."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_052",
       "speaker": "李晨妻子",
-      "zh": "看起来你已经认识很多同学了。",
-      "pinyin": "kàn qǐ lái nǐ yǐ jīng rèn shí hěn duō tóng xué le.",
-      "tr": "Görünüşe göre birçok arkadaşını tanımışsın."
+      "zh": "那天大家看起来都很开心。",
+      "pinyin": "Nàtiān dàjiā kànqǐlái dōu hěn kāixīn。",
+      "tr": "O gün herkes çok mutlu görünüyordu."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_053",
       "speaker": "张伟",
-      "zh": "是啊，他们常常和我一起回家。",
-      "pinyin": "shì a, tā men cháng cháng hé wǒ yì qǐ huí jiā.",
-      "tr": "Evet, sık sık benimle eve yürüyorlar."
+      "zh": "是啊，那天我们全家都去了公园。",
+      "pinyin": "Shì a， nàtiān wǒmen quánjiā dōu qù le gōngyuán。",
+      "tr": "Evet, o gün ailece parka gitmiştik."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_054",
@@ -863,9 +863,9 @@
     {
       "id": "DLG_ZH_HSK1_SC050_063",
       "speaker": "李晨",
-      "zh": "以前爸爸下班很晚。",
-      "pinyin": "yǐ qián bà bà xià bān hěn wǎn.",
-      "tr": "Eskiden babam işten geç çıkardı."
+      "zh": "以前我下班很晚。",
+      "pinyin": "Yǐqián wǒ xiàbān hěn wǎn。",
+      "tr": "Eskiden işten çok geç çıkardım."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_064",
@@ -891,9 +891,9 @@
     {
       "id": "DLG_ZH_HSK1_SC050_067",
       "speaker": "李晨",
-      "zh": "我想邀请同学来我们家。",
-      "pinyin": "wǒ xiǎng yāo qǐng tóng xué lái wǒ men jiā.",
-      "tr": "Arkadaşlarımı eve çağırmak istiyorum."
+      "zh": "我想邀请朋友来我们家。",
+      "pinyin": "Wǒ xiǎng yāoqǐng péngyǒu lái wǒmen jiā。",
+      "tr": "Arkadaşlarımı evimize davet etmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_068",
@@ -919,9 +919,9 @@
     {
       "id": "DLG_ZH_HSK1_SC050_071",
       "speaker": "李晨",
-      "zh": "好，我可以叫上我的同学。",
-      "pinyin": "hǎo, wǒ kě yǐ jiào shàng wǒ de tóng xué.",
-      "tr": "Olur, sınıf arkadaşımı da çağırabilirim."
+      "zh": "好，我可以叫上我的朋友。",
+      "pinyin": "Hǎo， wǒ kěyǐ jiào shàng wǒ de péngyǒu。",
+      "tr": "Olur, arkadaşlarımı da çağırabilirim."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_072",
@@ -947,9 +947,9 @@
     {
       "id": "DLG_ZH_HSK1_SC050_075",
       "speaker": "李晨",
-      "zh": "我们可以一起玩球。",
-      "pinyin": "wǒ men kě yǐ yì qǐ wán qiú.",
-      "tr": "Birlikte top oynayabiliriz."
+      "zh": "我们也可以一起散步。",
+      "pinyin": "Wǒmen yě kěyǐ yìqǐ sànbù。",
+      "tr": "Birlikte yürüyüşe de çıkabiliriz."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_076",
@@ -1024,9 +1024,9 @@
     {
       "id": "DLG_ZH_HSK1_SC050_086",
       "speaker": "刘梅",
-      "zh": "谢谢你们准备了这么多好吃的。",
-      "pinyin": "xiè xiè nǐ men zhǔn bèi le zhè me duō hǎo chī de.",
-      "tr": "Bu kadar güzel yemek hazırladığınız için teşekkürler."
+      "zh": "谢谢你们带来了这么多好吃的菜。",
+      "pinyin": "Xièxiènǐmen dàilái le zhème duō hǎochī de cài。",
+      "tr": "Bu kadar güzel yemek getirdiğiniz için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_087",
@@ -1102,15 +1102,15 @@
       "id": "DLG_ZH_HSK1_SC050_097",
       "speaker": "张伟",
       "zh": "今天谢谢你们来我们家。",
-      "pinyin": "jīn tiān xiè xiè nǐ men lái wǒ men jiā.",
+      "pinyin": "Jīntiān xièxiènǐmen lái wǒmen jiā。",
       "tr": "Bugün evimize geldiğiniz için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_098",
       "speaker": "刘梅",
-      "zh": "谢谢招待，我们吃得很开心。",
-      "pinyin": "xiè xiè zhāo dài, wǒ men chī dé hěn kāi xīn.",
-      "tr": "Misafirperverliğiniz için teşekkürler, çok keyif aldık."
+      "zh": "你们招待得真周到，我们吃得很开心。",
+      "pinyin": "Nǐmen zhāodài dé zhēn zhōudào， wǒmen chī dé hěn kāixīn。",
+      "tr": "Bizi çok güzel ağırladınız, çok keyif aldık."
     },
     {
       "id": "DLG_ZH_HSK1_SC050_099",
@@ -1122,9 +1122,9 @@
     {
       "id": "DLG_ZH_HSK1_SC050_100",
       "speaker": "李晨妻子",
-      "zh": "这里是我们的家，你们随时都可以来。",
-      "pinyin": "zhè lǐ shì wǒ men de jiā, nǐ men suí shí dōu kě yǐ lái.",
-      "tr": "Burası bizim evimiz, istediğiniz zaman gelebilirsiniz."
+      "zh": "谢谢你们，这里像我们的第二个家，随时都想来。",
+      "pinyin": "Xiè xiè nǐ men, zhè lǐ xiàng wǒ men de dì èr gè jiā, suí shí dōu xiǎng lái.",
+      "tr": "Teşekkürler, burası ikinci evimiz gibi; her zaman gelmek isteriz."
     }
   ],
   "production": {

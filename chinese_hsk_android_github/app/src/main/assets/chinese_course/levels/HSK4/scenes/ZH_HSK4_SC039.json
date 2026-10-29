@@ -193,9 +193,9 @@
     {
       "id": "DLG_ZH_HSK4_SC039_027",
       "speaker": "张伟",
-      "zh": "先按我给你的说明来，有不确定的食物或安排就问医护人员，不要自己猜。",
-      "pinyin": "xiān àn wǒ gěi nǐ de shuō míng lái yǒu bù què dìng de shí wù huò ān pái jiù wèn yī hù rén yuán bú yào zì jǐ cāi",
-      "tr": "Önce verdiğim açıklamaya uyun. Emin olmadığınız yiyecek veya düzen varsa tahmin yürütmek yerine sağlık ekibine sorun."
+      "zh": "先按医生给你的说明来，有不确定的饮食或安排就问医护人员，不要自己猜。",
+      "pinyin": "xiān àn yī shēng gěi nǐ de shuō míng láiyǒu bù què dìng de yǐn shí huò ān pái jiù wèn yī hù rén yuánbú yào zì jǐ cāi",
+      "tr": "Önce doktorun verdiği açıklamaya uy; beslenme ya da düzenlemelerle ilgili emin olmadığın bir şey olursa sağlık ekibine sor, kendin tahmin etme."
     },
     {
       "id": "DLG_ZH_HSK4_SC039_028",
@@ -263,9 +263,9 @@
     {
       "id": "DLG_ZH_HSK4_SC039_037",
       "speaker": "医生",
-      "zh": "如果爷爷觉得累，就先休息并按医生说的处理，不为了完成计划硬撑。",
-      "pinyin": "rú guǒ yé yé jué de lèi jiù xiān xiū xī bìng àn yī shēng shuō de chǔ lǐ bù wèi le wán chéng jì huà yìng chēng",
-      "tr": "Dedem yorulursa dinlenir ve doktorun önerdiği şekilde hareket eder; planı tamamlamak için kendini zorlamaz."
+      "zh": "日常安排不用变成必须完成的目标，身体的感受更重要。",
+      "pinyin": "rì cháng ān pái bù yòng biàn chéng bì xū wán chéng de mù biāoshēn tǐ de gǎn shòu gèng zhòng yào",
+      "tr": "Günlük planı mutlaka tamamlanması gereken bir hedefe dönüştürmemek gerekir; bedeninin nasıl hissettiği daha önemli."
     },
     {
       "id": "DLG_ZH_HSK4_SC039_038",
@@ -382,16 +382,16 @@
     {
       "id": "DLG_ZH_HSK4_SC039_054",
       "speaker": "爷爷",
-      "zh": "我会先问你需不需要帮忙，不会什么都替你做。",
-      "pinyin": "wǒ huì xiān wèn nǐ xū bù xū yào bāng máng bú huì shén me dōu tì nǐ zuò",
-      "tr": "Önce yardıma ihtiyacın var mı sorarım; her şeyi senin yerine yapmam."
+      "zh": "常用的东西放在手边就好，我需要帮忙时会告诉你们，也想自己做些力所能及的事。",
+      "pinyin": "cháng yòng de dōng xī fàng zài shǒu biān jiù hǎowǒ xū yào bāng máng shí huì gào sù nǐ menyě xiǎng zì jǐ zuò xiē lì suǒ néng jí de shì",
+      "tr": "Sık kullandığım eşyalar elimizin altında olsun yeter. Yardıma ihtiyacım olursa size söylerim; gücümün yettiği şeyleri kendim yapmak da istiyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC039_055",
       "speaker": "张伟",
-      "zh": "这样最好。我需要帮忙时会说，也会告诉你们什么时候想自己做。",
-      "pinyin": "zhè yàng zuì hǎo wǒ xū yào bāng máng shí huì shuō yě huì gào sù nǐ men shén me shí hòu xiǎng zì jǐ zuò",
-      "tr": "Bu en iyisi. Yardım gerektiğinde söyler, bir şeyi kendim yapmak istediğim zamanı da belirtirim."
+      "zh": "好，我们会先问你需不需要帮忙，不会什么都替你做。",
+      "pinyin": "hǎowǒ men huì xiān wèn nǐ xū bù xū yào bāng mángbú huì shén me dōu tì nǐ zuò",
+      "tr": "Peki, önce yardıma ihtiyacın olup olmadığını sorarız; her şeyi senin yerine yapmayız."
     },
     {
       "id": "DLG_ZH_HSK4_SC039_056",
@@ -424,9 +424,9 @@
     {
       "id": "DLG_ZH_HSK4_SC039_060",
       "speaker": "刘梅",
-      "zh": "很好。等我把说明写完整，会再和你们核对一次。",
-      "pinyin": "hěn hǎo děng wǒ bǎ shuō míng xiě wán zhěng huì zài hé nǐ men hé duì yī cì",
-      "tr": "Güzel. Açıklamayı tamamlayınca sizinle bir kez daha üzerinden geçerim."
+      "zh": "好，等我把今天的记录整理好，再和你们核对一遍。",
+      "pinyin": "hǎoděng wǒ bǎ jīn tiān de jì lù zhěng lǐ hǎozài hé nǐ men hé duì yī biàn",
+      "tr": "Peki, bugünkü notları toparlayınca sizinle bir kez daha kontrol ederim."
     },
     {
       "id": "DLG_ZH_HSK4_SC039_061",
@@ -438,9 +438,9 @@
     {
       "id": "DLG_ZH_HSK4_SC039_062",
       "speaker": "爷爷",
-      "zh": "我陪你去，路上慢慢走。我们按预约时间出门，不用赶。",
-      "pinyin": "wǒ péi nǐ qù lù shàng màn màn zǒu wǒ men àn yù yuē shí jiān chū mén bù yòng gǎn",
-      "tr": "Ben de gelirim; yolda yavaş yürürüz. Randevu saatine göre çıkar, acele etmeyiz."
+      "zh": "我知道了。复查那天我们一起去，路上慢慢走，不用赶。",
+      "pinyin": "wǒ zhī dào lefù chá nà tiān wǒ men yì qǐ qùlù shàng màn màn zǒubù yòng gǎn",
+      "tr": "Anladım. Kontrol günü birlikte gideriz; yolda yavaşça yürür, acele etmeyiz."
     },
     {
       "id": "DLG_ZH_HSK4_SC039_063",
@@ -480,9 +480,9 @@
     {
       "id": "DLG_ZH_HSK4_SC039_068",
       "speaker": "刘梅",
-      "zh": "如果生活方式的计划很难做到，复诊时告诉我，我们可以根据实际情况调整。",
-      "pinyin": "rú guǒ shēng huó fāng shì de jì huà hěn nán zuò dào fù zhěn shí gào sù wǒ wǒ men kě yǐ gēn jù shí jì qíng kuàng tiáo zhěng",
-      "tr": "Yaşam tarzı planını uygulamak zor olursa kontrolde söyleyin; gerçek duruma göre değiştirebiliriz."
+      "zh": "回家后我们按说明试试，哪些地方不方便就先记下来。",
+      "pinyin": "huí jiā hòu wǒ men àn shuō míng shì shìnǎ xiē dì fāng bù fāng biàn jiù xiān jì xià lái",
+      "tr": "Eve dönünce açıklamadaki plana göre deneyelim; zor gelen noktaları not edelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC039_069",
@@ -620,9 +620,9 @@
     {
       "id": "DLG_ZH_HSK4_SC039_088",
       "speaker": "刘梅",
-      "zh": "我会按说明做，也会把自己的感觉告诉你们，不再硬撑。",
-      "pinyin": "wǒ huì àn shuō míng zuò yě huì bǎ zì jǐ de gǎn jué gào sù nǐ men bù zài yìng chēng",
-      "tr": "Açıklamaya uyar ve nasıl hissettiğimi size söylerim; kendimi zorlamam."
+      "zh": "我会提醒爷爷按说明休息，也留意他的感受；有变化就告诉医生。",
+      "pinyin": "wǒ huì tí xǐng yé yé àn shuō míng xiū xīyě liú yì tā de gǎn shòuyǒu biàn huà jiù gào sù yī shēng",
+      "tr": "Dedeme açıklamadaki gibi dinlenmesini hatırlatır, nasıl hissettiğine de dikkat ederim; bir değişiklik olursa doktora söylerim."
     },
     {
       "id": "DLG_ZH_HSK4_SC039_089",
@@ -641,16 +641,16 @@
     {
       "id": "DLG_ZH_HSK4_SC039_091",
       "speaker": "张伟",
-      "zh": "回家以后我先把房间整理好，常用的东西放在容易拿到的地方。",
-      "pinyin": "huí jiā yǐ hòu wǒ xiān bǎ fáng jiān zhěng lǐ hǎo cháng yòng de dōng xī fàng zài róng yì ná dào de dì fāng",
-      "tr": "Eve gidince odayı düzenleyip sık kullanılan eşyaları kolay ulaşılacak yere koyarım."
+      "zh": "回家后我先把爷爷常用的东西整理好，放在容易拿到的地方。",
+      "pinyin": "huí jiā hòu wǒ xiān bǎ yé yé cháng yòng de dōng xī zhěng lǐ hǎofàng zài róng yì ná dào de dì fāng",
+      "tr": "Eve dönünce dedemin sık kullandığı eşyaları düzenleyip kolayca ulaşabileceği yere koyarım."
     },
     {
       "id": "DLG_ZH_HSK4_SC039_092",
       "speaker": "刘梅",
-      "zh": "谢谢你们。我也会试着按自己能做到的节奏安排每天。",
-      "pinyin": "xiè xiè nǐ men wǒ yě huì shì zhe àn zì jǐ néng zuò dào de jié zòu ān pái měi tiān",
-      "tr": "Teşekkür ederim. Her günümü yapabildiğim tempoya göre düzenlemeye çalışacağım."
+      "zh": "有你们一起安排，我也放心多了。我们会按出院说明配合，也给爷爷自己安排的空间。",
+      "pinyin": "yǒu nǐ men yì qǐ ān páiwǒ yě fàng xīn duō lewǒ men huì àn chū yuàn shuō míng pèi héyě gěi yé yé zì jǐ ān pái de kōng jiān",
+      "tr": "Birlikte plan yapmanız içimi rahatlattı. Taburculuk açıklamasına uyar, dedemin kendi düzenini kurmasına da alan tanırız."
     },
     {
       "id": "DLG_ZH_HSK4_SC039_093",
@@ -676,9 +676,9 @@
     {
       "id": "DLG_ZH_HSK4_SC039_096",
       "speaker": "刘梅",
-      "zh": "我会先休息好，等复查时再和医生说说这段时间的情况。",
-      "pinyin": "wǒ huì xiān xiū xī hǎo děng fù chá shí zài hé yī shēng shuō shuō zhè duàn shí jiān de qíng kuàng",
-      "tr": "Önce dinleneceğim; kontrolde bu sürede neler olduğunu doktora anlatırım."
+      "zh": "我会记下爷爷这段时间的感受，复查时提醒他告诉医生。",
+      "pinyin": "wǒ huì jì xià yé yé zhè duàn shí jiān de gǎn shòufù chá shí tí xǐng tā gào sù yī shēng",
+      "tr": "Dedemin bu dönemde nasıl hissettiğini not edip kontrolde doktora anlatmasını hatırlatırım."
     },
     {
       "id": "DLG_ZH_HSK4_SC039_097",
@@ -704,9 +704,9 @@
     {
       "id": "DLG_ZH_HSK4_SC039_100",
       "speaker": "刘梅",
-      "zh": "好，今天我知道该怎么配合，也知道家人会在旁边帮忙。",
-      "pinyin": "hǎo jīn tiān wǒ zhī dào gāi zěn me pèi hé yě zhī dào jiā rén huì zài páng biān bāng máng",
-      "tr": "Olur. Bugün nasıl uyacağımı ve ailemin yanımda olacağını biliyorum。"
+      "zh": "好，今天我知道家里该怎么配合了，也会给爷爷自己安排的空间。",
+      "pinyin": "hǎojīn tiān wǒ zhī dào jiā lǐ gāi zěn me pèi hé leyě huì gěi yé yé zì jǐ ān pái de kōng jiān",
+      "tr": "Peki, bugün evde nasıl destek olacağımızı anladım; dedemin kendi düzenini kurmasına da alan bırakacağım."
     }
   ],
   "productionStatus": "complete",
@@ -730,9 +730,9 @@
         "zh": "生活方式",
         "pinyin": "shēnghuó fāngshì",
         "tr": "yaşam tarzı",
-        "exampleZh": "生活方式是我们不能忽略的一点。",
-        "examplePinyin": "Shēnghuó fāngshì shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Yaşam tarzı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "很好。生活方式的调整先以能坚持为主，有疑问及时联系医院。",
+        "examplePinyin": "hěn hǎo shēng huó fāng shì de tiáo zhěng xiān yǐ néng jiān chí wéi zhǔ yǒu yí wèn jí shí lián xì yī yuàn",
+        "exampleTr": "Güzel. Yaşam tarzı değişikliklerinde sürdürebileceğiniz adımları seçin; sorunuz olursa hastaneye başvurun.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "检查",
         "pinyin": "jiǎnchá",
         "tr": "muayene / kontrol",
-        "exampleZh": "我们把检查也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jiǎnchá yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Muayene / kontrol konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我会把用药和检查的说明放在一起，免得回家后找不到。",
+        "examplePinyin": "wǒ huì bǎ yòng yào hé jiǎn chá de shuō míng fàng zài yì qǐ miǎn de huí jiā hòu zhǎo bú dào",
+        "exampleTr": "Eve dönünce kaybolmaması için ilaç ve muayene bilgilerini bir arada vereceğim.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "医生",
         "pinyin": "yīshēng",
         "tr": "doktor",
-        "exampleZh": "如果医生发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ yīshēng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Doktor değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "那我们先不替爷爷定时间，等医生说清楚适合做什么。",
+        "examplePinyin": "nà wǒ men xiān bù tì yé yé dìng shí jiān děng yī shēng shuō qīng chǔ shì hé zuò shén me",
+        "exampleTr": "O zaman dedem adına saat belirlemeyelim; doktor hangi etkinliğin uygun olduğunu açıklasın.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "健康",
         "pinyin": "jiànkāng",
         "tr": "sağlık",
-        "exampleZh": "关于健康，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jiànkāng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Sağlık konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "我现在明白了，照顾健康不是一下子做很多事，而是按合适的安排慢慢来。",
+        "examplePinyin": "wǒ xiàn zài míng bái le zhào gù jiàn kāng bú shì yī xià zi zuò hěn duō shì ér shì àn hé shì de ān pái màn màn lái",
+        "exampleTr": "Artık sağlığa dikkat etmenin bir anda çok şey yapmak değil, uygun düzene adım adım uymak olduğunu anlıyorum.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "帮忙",
         "pinyin": "bāngmáng",
         "tr": "yardım etmek",
-        "exampleZh": "帮忙是我们不能忽略的一点。",
-        "examplePinyin": "Bāngmáng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Yardım etmek göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我不想每件小事都让你们帮忙，能自己记的我会记。",
+        "examplePinyin": "wǒ bù xiǎng měi jiàn xiǎo shì dōu ràng nǐ men bāng máng néng zì jǐ jì de wǒ huì jì",
+        "exampleTr": "Her küçük işte size ihtiyaç duymak istemiyorum; kendim hatırlayabildiğim şeyleri not ederim.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "运动",
         "pinyin": "yùndòng",
         "tr": "egzersiz",
-        "exampleZh": "我们把运动也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ yùndòng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Egzersiz konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "运动也是一样，先问清楚适合什么活动和大概的安排。",
+        "examplePinyin": "yùn dòng yě shì yī yàng xiān wèn qīng chǔ shì hé shén me huó dòng hé dà gài de ān pái",
+        "exampleTr": "Egzersiz için de aynısı geçerli; hangi etkinliğin uygun olduğunu ve nasıl planlanacağını soralım.",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "xiūxi",
         "tr": "dinlenmek",
         "exampleZh": "如果休息发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ xiūxi fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ xiūxi fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Dinlenmek değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "biànhuà",
         "tr": "değişim",
         "exampleZh": "关于变化，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú biànhuà, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú biànhuà wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Değişim konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

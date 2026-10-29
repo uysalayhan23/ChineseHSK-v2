@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC006",
   "level": "HSK5",
   "sourceTitleZh": "刘梅先调查再决定",
@@ -79,16 +79,16 @@
     {
       "id": "DLG_ZH_HSK5_SC006_011",
       "speaker": "员工",
-      "zh": "也请给提出问题的员工机会，把他的感受说完整。",
-      "pinyin": "Yě qǐng gěi tí chū wèn tí de yuán gōng jī huì bǎ tā de gǎn shòu shuō wán zhěng",
-      "tr": "Sorunu dile getiren çalışana da duygularını bütünüyle anlatma fırsatı verelim."
+      "zh": "我提出这个问题时，希望大家也能听听我的具体感受。",
+      "pinyin": "wǒ tí chū zhè ge wèn tí shí ， xī wàng dà jiā yě néng tīng tīng wǒ de jù tǐ gǎn shòu 。",
+      "tr": "Bu konuyu gündeme getirdiğimde herkesin benim yaşadıklarımı da dinlemesini istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC006_012",
       "speaker": "张伟",
-      "zh": "我会单独和他谈，避免大家在场时觉得有压力。",
-      "pinyin": "Wǒ huì dān dú hé tā tán bì miǎn dà jiā zài chǎng shí jué de yǒu yā lì",
-      "tr": "Onunla ayrı konuşurum; herkesin önünde baskı hissetmesin."
+      "zh": "我会和提出问题的员工单独谈，免得他当着大家不好开口。",
+      "pinyin": "wǒ huì hé tí chū wèn tí de yuán gōng dān dú tán ， miǎn de tā dāng zhe dà jiā bù hǎo kāi kǒu 。",
+      "tr": "Sorunu dile getiren çalışanla ayrıca konuşurum; herkesin önünde rahat konuşamayabilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC006_013",
@@ -254,9 +254,9 @@
     {
       "id": "DLG_ZH_HSK5_SC006_036",
       "speaker": "张伟",
-      "zh": "对，知道原因以后，我比较能接受结果。",
-      "pinyin": "Duì zhī dào yuán yīn yǐ hòu wǒ bǐ jiào néng jiē shòu jié guǒ",
-      "tr": "Evet; gerekçeyi bildiğimde sonucu daha kolay kabul ederim."
+      "zh": "标准清楚、规则一致，员工就更容易接受结果。",
+      "pinyin": "biāo zhǔn qīng chǔ 、 guī zé yí zhì ， yuán gōng jiù gèng róng yì jiē shòu jié guǒ 。",
+      "tr": "Ölçütler açık, kurallar tutarlı olursa çalışanlar sonucu daha kolay kabul eder."
     },
     {
       "id": "DLG_ZH_HSK5_SC006_037",
@@ -275,9 +275,9 @@
     {
       "id": "DLG_ZH_HSK5_SC006_039",
       "speaker": "员工",
-      "zh": "意见收齐后，我再决定最后怎么修改。",
-      "pinyin": "Yì jiàn shōu qí hòu wǒ zài jué dìng zuì hòu zěn me xiū gǎi",
-      "tr": "Görüşler geldikten sonra son düzenlemeye karar veririm."
+      "zh": "我再核对自己的时间要求，看看汇总里有没有漏掉。",
+      "pinyin": "wǒ zài hé duì zì jǐ de shí jiān yāo qiú ， kàn kàn huì zǒng lǐ yǒu méi yǒu lòu diào 。",
+      "tr": "Çizelgede eksik kalmış mı diye kendi uygun olduğum saatleri yeniden kontrol edeyim."
     },
     {
       "id": "DLG_ZH_HSK5_SC006_040",
@@ -289,9 +289,9 @@
     {
       "id": "DLG_ZH_HSK5_SC006_041",
       "speaker": "刘梅",
-      "zh": "我把四周的记录整理好了，晚班次数确实有些差距。",
-      "pinyin": "Wǒ bǎ sì zhōu de jì lù zhěng lǐ hǎo le wǎn bān cì shù què shí yǒu xiē chā jù",
-      "tr": "Dört haftalık kayıtları düzenledim; akşam vardiyalarında gerçekten fark var."
+      "zh": "与上个月的安排相比，这四周的晚班次数差距更明显。",
+      "pinyin": "yǔ shàng gè yuè de ān pái xiāng bǐ ， zhè sì zhōu de wǎn bān cì shù chā jù gèng míng xiǎn 。",
+      "tr": "Geçen ayki programa kıyasla bu dört haftadaki akşam vardiyası farkı daha belirgin."
     },
     {
       "id": "DLG_ZH_HSK5_SC006_042",
@@ -478,9 +478,9 @@
     {
       "id": "DLG_ZH_HSK5_SC006_068",
       "speaker": "张伟",
-      "zh": "我们把这一步加入管理流程，避免只靠口头传达。",
-      "pinyin": "Wǒ men bǎ zhè yī bù jiā rù guǎn lǐ liú chéng bì miǎn zhǐ kào kǒu tóu chuán dá",
-      "tr": "Yalnızca sözlü iletişime bağlı kalmamak için bunu yönetim sürecine ekleyelim."
+      "zh": "把确认消息加入管理流程，沟通时留下记录，避免只靠口头传达。",
+      "pinyin": "bǎ què rèn xiāo xī jiā rù guǎn lǐ liú chéng ， gōu tōng shí liú xià jì lù ， bì miǎn zhǐ kào kǒu tóu chuán dá 。",
+      "tr": "Onay mesajını yönetim sürecine ekleyelim; iletişim kayıtlı olsun ve yalnızca sözlü bilgiye dayanmayalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC006_069",
@@ -569,9 +569,9 @@
     {
       "id": "DLG_ZH_HSK5_SC006_081",
       "speaker": "刘梅",
-      "zh": "现在我知道这次调查的结论了，也清楚下一步怎么做。",
-      "pinyin": "Xiàn zài wǒ zhī dào zhè cì diào chá de jié lùn le yě qīng chǔ xià yī bù zěn me zuò",
-      "tr": "Artık incelemenin sonucunu ve sonraki adımı biliyorum."
+      "zh": "调查结论和下一步都清楚了，接下来按计划执行就好。",
+      "pinyin": "diào chá jié lùn hé xià yī bù dōu qīng chǔ le ， jiē xià lái àn jì huà zhí xíng jiù hǎo 。",
+      "tr": "Araştırmanın sonucu ve sonraki adımlar artık net; şimdi plana göre ilerleyebiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC006_082",
@@ -625,9 +625,9 @@
     {
       "id": "DLG_ZH_HSK5_SC006_089",
       "speaker": "刘梅",
-      "zh": "这样处理让我觉得申诉真的被认真对待了。",
-      "pinyin": "Zhè yàng chǔ lǐ ràng wǒ jué de shēn sù zhēn de bèi rèn zhēn duì dài le",
-      "tr": "Bu yaklaşım itirazımın gerçekten ciddiye alındığını hissettiriyor."
+      "zh": "申诉有明确回复时限，员工就不会觉得意见交出去后没下文。",
+      "pinyin": "shēn sù yǒu míng què huí fù shí xiàn ， yuán gōng jiù bú huì jué de yì jiàn jiāo chū qù hòu méi xià wén 。",
+      "tr": "İtirazlara yanıt süresi belli olursa çalışanlar görüşlerinin yanıtsız kaldığını düşünmez."
     },
     {
       "id": "DLG_ZH_HSK5_SC006_090",
@@ -681,9 +681,9 @@
     {
       "id": "DLG_ZH_HSK5_SC006_097",
       "speaker": "刘梅",
-      "zh": "那我先回去核对下个月的时间表。",
-      "pinyin": "Nà wǒ xiān huí qù hé duì xià gè yuè de shí jiān biǎo",
-      "tr": "Öyleyse gelecek ayın çizelgesini kontrol etmeye döneyim."
+      "zh": "我先把下个月的班表草案发给员工确认，再发布最终安排。",
+      "pinyin": "wǒ xiān bǎ xià gè yuè de bān biǎo cǎo àn fā gěi yuán gōng què rèn ， zài fā bù zuì zhōng ān pái 。",
+      "tr": "Önce gelecek ayın vardiya taslağını çalışanların onayına gönderip ardından kesin programı yayımlayacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC006_098",

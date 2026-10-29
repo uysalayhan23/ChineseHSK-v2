@@ -5,15 +5,15 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC042.json",
-  "dialogueSha256": "19a343910e478bfb8906eb63db66cb5cc6a0e6cc97be8aedcf4cf690cd70c063",
+  "dialogueSha256": "6724463d84e5164001f7f65581bbe502ad5f24f70a55bbc5bfefb2098856118c",
   "titleTr": "Büyükannenin Mutfak Dersi",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Büyükanne aileye eski bir tarifi adım adım öğretir.",
   "dialogueSpeakers": [
-    "张伟",
+    "奶奶",
     "刘梅",
-    "爷爷",
-    "奶奶"
+    "张伟",
+    "爷爷"
   ],
   "requiredVisualCharacters": [
     "张伟",
@@ -156,12 +156,8 @@
     "originalFailureNoteTr": "LOCKED_V2 görsel QA FAIL: LiuMei_missing_Yutong_substituted_in_grandmother_kitchen_scene. Exact cast ve character bible ile düzeltilmiş final asset gerekli. 2026-10-12: Original image reviewed; precise targeted character region recorded. No WebP binary or QA PASS change; pixel-preserving repair still unperformed."
   },
   "dialogueTextQA": {
-    "status": "PASS",
+    "status": "PENDING_LOCAL_REVIEW",
     "turns": 100,
-    "coherenceScore": 93.0,
-    "activeVocabularyCoverage": 1.0,
-    "topicWindowCoverage": 0.8,
-    "duplicateUtterances": 0,
     "speakerOrderPreserved": true,
     "pinyinTurkishChecked": true
   },

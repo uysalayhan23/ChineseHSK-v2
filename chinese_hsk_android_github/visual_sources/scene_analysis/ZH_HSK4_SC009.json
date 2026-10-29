@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC009",
   "status": "FINAL_IMAGE_INTEGRATED",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC009.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC009.json",
   "titleTr": "Yutong Üniversite Sınavına Hazırlanıyor",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Yutong önemli sınavlara hazırlanırken baskı hissetmeye başlar.",

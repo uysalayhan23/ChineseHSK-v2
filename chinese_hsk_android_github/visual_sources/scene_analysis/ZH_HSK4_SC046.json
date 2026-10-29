@@ -4,7 +4,7 @@
   "generationSceneId": "ZH_HSK4_SC046",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC046.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC046.json",
   "titleZh": "大学第一天",
   "titleTr": "İlk Üniversite Günü",
   "locationId": "LOC_ZH_UNIVERSITY_001",

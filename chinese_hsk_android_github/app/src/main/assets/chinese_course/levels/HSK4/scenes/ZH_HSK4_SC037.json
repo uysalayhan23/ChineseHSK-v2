@@ -620,9 +620,9 @@
     {
       "id": "DLG_ZH_HSK4_SC037_088",
       "speaker": "顾客",
-      "zh": "我们先把这段时间的营业额、成本和顾客反馈完整记录下来。",
-      "pinyin": "wǒ men xiān bǎ zhè duàn shí jiān de yíng yè é chéng běn hé gù kè fǎn kuì wán zhěng jì lù xià lái",
-      "tr": "Bu dönemin cirosunu, masraflarını ve müşteri görüşlerini eksiksiz kaydedelim."
+      "zh": "我下次来时会留意等候时间和菜单说明有没有改善。",
+      "pinyin": "wǒ xià cì lái shí huì liú yì děng hòu shí jiān hé cài dān shuō míng yǒu méi yǒu gǎi shàn",
+      "tr": "Gelecek gelişimde bekleme süresinin ve menü açıklamalarının iyileşip iyileşmediğine dikkat edeceğim."
     },
     {
       "id": "DLG_ZH_HSK4_SC037_089",
@@ -648,9 +648,9 @@
     {
       "id": "DLG_ZH_HSK4_SC037_092",
       "speaker": "顾客",
-      "zh": "谢谢。每项改动都写上日期，之后才知道变化从什么时候开始。",
-      "pinyin": "xiè xiè měi xiàng gǎi dòng dōu xiě shàng rì qī zhī hòu cái zhī dào biàn huà cóng shén me shí hòu kāi shǐ",
-      "tr": "Sağ ol. Her değişikliğin tarihini yazalım ki etkisinin ne zaman başladığını bilelim."
+      "zh": "这样很好，下次我来时也能看出菜单和服务有什么变化。",
+      "pinyin": "zhè yàng hěn hǎoxià cì wǒ lái shí yě néng kàn chū cài dān hé fú wù yǒu shén me biàn huà",
+      "tr": "Bu iyi olur; bir dahaki gelişimde menüde ve hizmette neyin değiştiğini ben de görebilirim."
     },
     {
       "id": "DLG_ZH_HSK4_SC037_093",
@@ -730,9 +730,9 @@
         "zh": "改进",
         "pinyin": "gǎijìn",
         "tr": "iyileştirmek",
-        "exampleZh": "在决定以前，我们最好先改进。",
-        "examplePinyin": "Zài juédìng yǐqián, wǒmen zuìhǎo xiān gǎijìn.",
-        "exampleTr": "Karar vermeden önce iyileştirmek daha iyi olur.",
+        "exampleZh": "好，我下个月还会来，看看你们改进后的效果。",
+        "examplePinyin": "hǎo wǒ xià gè yuè hái huì lái kàn kàn nǐ men gǎi jìn hòu de xiào guǒ",
+        "exampleTr": "Olur. Gelecek ay yine gelip yaptığınız iyileştirmelerin sonucuna bakarım.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "质量",
         "pinyin": "zhìliàng",
         "tr": "kalite",
-        "exampleZh": "我们把质量也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zhìliàng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Kalite konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "豆子、研磨和水温都会影响咖啡质量。",
+        "examplePinyin": "dòu zi yán mó hé shuǐ wēn dū huì yǐng xiǎng kā fēi zhì liàng",
+        "exampleTr": "Kahvenin kalitesini çekirdek, öğütme ve su sıcaklığı etkiler.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "咖啡馆的想法",
         "pinyin": "kāfēiguǎn de xiǎngfa",
         "tr": "kafe fikri",
-        "exampleZh": "如果咖啡馆的想法发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ kāfēiguǎn de xiǎngfa fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Kafe fikri değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "我一开始把咖啡馆的想法和扩张放在一起，现在看先改好这家店更实际。",
+        "examplePinyin": "wǒ yī kāi shǐ bǎ kā fēi guǎn de xiǎng fǎ hé kuò zhāng fàng zài yì qǐ xiàn zài kàn xiān gǎi hǎo zhè jiā diàn gèng shí jì",
+        "exampleTr": "Başta kafe fikrini büyümeyle birlikte düşünüyordum; şimdi önce bu dükkânı iyileştirmek daha gerçekçi geliyor.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "顾客",
         "pinyin": "gùkè",
         "tr": "müşteri",
-        "exampleZh": "关于顾客，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú gùkè, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Müşteri konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "价格稳定、品质可靠，老顾客才更愿意继续来。",
+        "examplePinyin": "jià gé wěn dìng pǐn zhì kě kào lǎo gù kè cái gèng yuàn yì jì xù lái",
+        "exampleTr": "Fiyatlar istikrarlı ve kalite güvenilir olursa düzenli müşteriler gelmeye devam eder.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "服务",
         "pinyin": "fúwù",
         "tr": "hizmet",
-        "exampleZh": "服务是我们不能忽略的一点。",
-        "examplePinyin": "Fúwù shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Hizmet göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "桌面清洁也关系到服务质量，餐具应该及时收走。",
+        "examplePinyin": "zhuō miàn qīng jié yě guān xì dào fú wù zhì liàng cān jù yīng gāi jí shí shōu zǒu",
+        "exampleTr": "Masa temizliği de hizmet kalitesini etkiler; tabaklar zamanında kaldırılmalı.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "生意",
         "pinyin": "shēngyi",
         "tr": "iş / ticaret",
-        "exampleZh": "我们把生意也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ shēngyi yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Iş / ticaret konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我原来以为生意好就该扩张，现在觉得先把品质做好更重要。",
+        "examplePinyin": "wǒ yuán lái yǐ wéi shēng yì hǎo jiù gāi kuò zhāng xiàn zài jué de xiān bǎ pǐn zhì zuò hǎo gèng zhòng yào",
+        "exampleTr": "İşler iyiyse büyümek gerekir sanıyordum; şimdi önce kaliteyi sağlamlaştırmanın daha önemli olduğunu düşünüyorum.",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "yōuxiān kǎolǜ",
         "tr": "öncelik vermek",
         "exampleZh": "如果优先考虑发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ yōuxiān kǎolǜ fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ yōuxiān kǎolǜ fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Öncelik vermek değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "juédìng",
         "tr": "karar vermek",
         "exampleZh": "关于决定，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú juédìng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú juédìng wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Karar vermek konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

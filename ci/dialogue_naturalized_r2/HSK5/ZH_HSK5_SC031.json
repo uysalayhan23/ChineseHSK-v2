@@ -30,9 +30,9 @@
     {
       "id": "DLG_ZH_HSK5_SC031_004",
       "speaker": "刘梅",
-      "zh": "先别只看一个数字。通勤、工作时间和家里的安排也会受影响。",
-      "pinyin": "xiān bié zhǐ kàn yí gè shù zì 。 tōng qín 、 gōng zuò shí jiān hé jiā lǐ de ān pái yě huì shòu yǐng xiǎng 。",
-      "tr": "Tek bir rakama bakarak karar verme. Ulaşım, çalışma saatleri ve evdeki düzen de etkilenecek."
+      "zh": "先别只看一个数字。通勤、工作时间和家里的安排也会影响生活质量。",
+      "pinyin": "xiān bié zhǐ kàn yí gè shù zì 。 tōng qín 、 gōng zuò shí jiān hé jiā lǐ de ān pái yě huì yǐng xiǎng shēng huó zhì liàng 。",
+      "tr": "Tek bir rakama bakmayalım. Ulaşım, çalışma saatleri ve evdeki düzen de yaşam kalitesini etkiler."
     },
     {
       "id": "DLG_ZH_HSK5_SC031_005",
@@ -149,9 +149,9 @@
     {
       "id": "DLG_ZH_HSK5_SC031_021",
       "speaker": "张伟",
-      "zh": "尽管新岗位的工资更高，我仍然想先弄清楚奖金要达到什么目标。",
-      "pinyin": "jǐn guǎn xīn gǎng wèi de gōng zī gèng gāo ， wǒ réng rán xiǎng xiān nòng qīng chǔ jiǎng jīn yào dá dào shén me mù biāo 。",
-      "tr": "Yeni görevin maaşı daha yüksek olsa da, ikramiye için hangi hedeflere ulaşmam gerektiğini önce netleştirmek istiyorum."
+      "zh": "尽管新岗位的工资更高，这个好处还不足以让我答应；我仍然想先弄清楚奖金目标。",
+      "pinyin": "jǐn guǎn xīn gǎng wèi de gōng zī gèng gāo ， zhè ge hǎo chù hái bù zú yǐ ràng wǒ dā yìng ； wǒ réng rán xiǎng xiān nòng qīng chǔ jiǎng jīn mù biāo 。",
+      "tr": "Yeni görevin maaşı daha yüksek olsa da bu avantaj kabul etmem için yetmiyor; prim hedeflerini önce anlamak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC031_022",
@@ -205,9 +205,9 @@
     {
       "id": "DLG_ZH_HSK5_SC031_029",
       "speaker": "张伟",
-      "zh": "我会把两边的条件放进同一张表，逐项比较，不只比较税前工资。",
-      "pinyin": "wǒ huì bǎ liǎng biān de tiáo jiàn fàng jìn tóng yī zhāng biǎo ， zhú xiàng bǐ jiào ， bù zhǐ bǐ jiào shuì qián gōng zī 。",
-      "tr": "İki tarafın koşullarını aynı tabloya yazıp yalnızca brüt maaşı değil, her maddeyi karşılaştıracağım."
+      "zh": "我会把两边的条件放进同一张表，作为比较选择方案的依据，不只比较税前工资。",
+      "pinyin": "wǒ huì bǎ liǎng biān de tiáo jiàn fàng jìn tóng yī zhāng biǎo ， zuò wéi bǐ jiào xuǎn zé fāng àn de yī jù ， bù zhǐ bǐ jiào shuì qián gōng zī 。",
+      "tr": "İki işin koşullarını aynı tabloya koyup seçenekleri değerlendirmek için dayanak yapacağım; yalnızca vergi öncesi maaşı karşılaştırmayacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC031_030",

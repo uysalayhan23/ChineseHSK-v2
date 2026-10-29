@@ -730,9 +730,9 @@
         "zh": "装修",
         "pinyin": "zhuāngxiū",
         "tr": "tadilat",
-        "exampleZh": "这个时候最好先装修。",
-        "examplePinyin": "Zhège shíhou zuìhǎo xiān zhuāngxiū.",
-        "exampleTr": "Bu durumda önce tadilat en iyisi.",
+        "exampleZh": "今天开始装修，先看看店里的尺寸吧。",
+        "examplePinyin": "jīn tiān kāi shǐ zhuāng xiū ， xiān kàn kàn diàn lǐ de chǐ cùn ba 。",
+        "exampleTr": "Bugün tadilata başlıyoruz; önce dükkânın ölçülerine bakalım.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "墙",
         "pinyin": "qiáng",
         "tr": "duvar",
-        "exampleZh": "墙是这次要考虑的重点之一。",
-        "examplePinyin": "Qiáng shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-        "exampleTr": "Duvar bu kez değerlendirmemiz gereken ana noktalardan biri.",
+        "exampleZh": "我把墙、门和窗户都量过了。",
+        "examplePinyin": "wǒ bǎ qiáng 、 mén hé chuāng hù dōu liàng guò le 。",
+        "exampleTr": "Duvarı, kapıyı ve pencereleri ölçtüm.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "颜色",
         "pinyin": "yánsè",
         "tr": "renk",
-        "exampleZh": "我们最好再确认一下颜色。",
-        "examplePinyin": "Wǒmen zuìhǎo zài quèrèn yíxià yánsè.",
-        "exampleTr": "Renk konusunu bir kez daha teyit etsek iyi olur.",
+        "exampleZh": "这面墙刷什么颜色比较好？",
+        "examplePinyin": "zhè miàn qiáng shuā shén me yán sè bǐ jiào hǎo ？",
+        "exampleTr": "Bu duvarı hangi renge boyamak uygun olur?",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "尺寸",
         "pinyin": "chǐcùn",
         "tr": "ölçü",
-        "exampleZh": "如果尺寸没有问题，我们就继续。",
-        "examplePinyin": "Rúguǒ chǐcùn méiyǒu wèntí, wǒmen jiù jìxù.",
-        "exampleTr": "Ölçü konusunda sorun yoksa devam ederiz.",
+        "exampleZh": "今天开始装修，先看看店里的尺寸吧。",
+        "examplePinyin": "jīn tiān kāi shǐ zhuāng xiū ， xiān kàn kàn diàn lǐ de chǐ cùn ba 。",
+        "exampleTr": "Bugün tadilata başlıyoruz; önce dükkânın ölçülerine bakalım.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "老桌子",
         "pinyin": "lǎo zhuōzi",
         "tr": "eski masa",
-        "exampleZh": "关于老桌子，我们还要再讨论一下。",
-        "examplePinyin": "Guānyú lǎo zhuōzi, wǒmen hái yào zài tǎolùn yíxià.",
-        "exampleTr": "Eski masa konusunda biraz daha konuşmalıyız.",
+        "exampleZh": "老桌子也要留下吗？",
+        "examplePinyin": "lǎo zhuō zi yě yào liú xià ma ？",
+        "exampleTr": "Eski masayı da bırakacak mıyız?",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "选择",
         "pinyin": "xuǎnzé",
         "tr": "seçmek",
-        "exampleZh": "这个时候最好先选择。",
-        "examplePinyin": "Zhège shíhou zuìhǎo xiān xuǎnzé.",
-        "exampleTr": "Bu durumda önce seçmek en iyisi.",
+        "exampleZh": "好，实际放在一起比较，选择会更准确。",
+        "examplePinyin": "hǎo ， shí jì fàng zài yì qǐ bǐ jiào ， xuǎn zé huì gèng zhǔn què 。",
+        "exampleTr": "Güzel; yan yana görünce daha doğru seçeriz.",
         "kind": "active"
       },
       {

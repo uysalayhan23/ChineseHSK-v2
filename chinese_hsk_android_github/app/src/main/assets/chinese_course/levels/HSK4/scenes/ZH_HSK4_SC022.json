@@ -730,9 +730,9 @@
         "zh": "本地供应商",
         "pinyin": "běndì gōngyìngshāng",
         "tr": "yerel tedarikçi",
-        "exampleZh": "本地供应商是我们不能忽略的一点。",
-        "examplePinyin": "Běndì gōngyìngshāng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Yerel tedarikçi göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "新菜单也要标出食材来源，让顾客看得见本地供应商的名字。",
+        "examplePinyin": "xīn cài dān yě yào biāo chū shí cái lái yuán ràng gù kè kàn dé jiàn běn dì gōng yìng shāng de míng zì",
+        "exampleTr": "Yeni menüde malzemenin kaynağını da gösterelim; müşteriler yerel tedarikçiyi görsün.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "食材",
         "pinyin": "shícái",
         "tr": "malzeme / gıda içeriği",
-        "exampleZh": "我们把食材也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ shícái yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Malzeme / gıda içeriği konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我每天记录销量和剩下的食材，周末把结果整理出来。",
+        "examplePinyin": "wǒ měi tiān jì lù xiāo liàng hé shèng xià de shí cái zhōu mò bǎ jié guǒ zhěng lǐ chū lái",
+        "exampleTr": "Satış miktarını ve kalan malzemeyi her gün kaydeder, hafta sonunda sonuçları toparlarım.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "质量",
         "pinyin": "zhìliàng",
         "tr": "kalite",
-        "exampleZh": "如果质量发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ zhìliàng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Kalite değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "质量标准也要先说清楚，比如新鲜度、包装和送到的时间。",
+        "examplePinyin": "zhì liàng biāo zhǔn yě yào xiān shuō qīng chǔ bǐ rú xīn xiān dù bāo zhuāng hé sòng dào de shí jiān",
+        "exampleTr": "Tazelik, paketleme ve teslim saati gibi kalite ölçütlerini de baştan netleştirelim.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "供应商",
         "pinyin": "gōngyìngshāng",
         "tr": "tedarikçi",
-        "exampleZh": "关于供应商，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú gōngyìngshāng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Tedarikçi konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "我会把空箱子留好，下次送货时还给供应商。",
+        "examplePinyin": "wǒ huì bǎ kōng xiāng zi liú hǎo xià cì sòng huò shí huán gěi gōng yìng shāng",
+        "exampleTr": "Boş kolileri saklar, sonraki teslimatta tedarikçiye geri veririm.",
         "kind": "active"
       },
       {
@@ -770,19 +770,19 @@
         "zh": "成本",
         "pinyin": "chéngběn",
         "tr": "maliyet",
-        "exampleZh": "成本是我们不能忽略的一点。",
-        "examplePinyin": "Chéngběn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Maliyet göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我们先按实际成本算一遍，再看菜单价格要不要调整。",
+        "examplePinyin": "wǒ men xiān àn shí jì chéng běn suàn yī biàn zài kàn cài dān jià gé yào bù yào tiáo zhěng",
+        "exampleTr": "Önce gerçek maliyeti hesaplayıp menü fiyatını değiştirip değiştirmeyeceğimize bakalım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK4_SC022_006",
-        "zh": "咖啡馆的想法",
-        "pinyin": "kāfēiguǎn de xiǎngfa",
-        "tr": "kafe fikri",
-        "exampleZh": "我们把咖啡馆的想法也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ kāfēiguǎn de xiǎngfa yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Kafe fikri konusunu da değerlendirme kapsamına alalım.",
+        "zh": "季节菜单",
+        "pinyin": "Jìjié càidān",
+        "tr": "mevsimlik menü",
+        "exampleZh": "咖啡馆的想法是做一份季节菜单，让顾客知道食材来自附近。",
+        "examplePinyin": "kā fēi guǎn de xiǎng fǎ shì zuò yī fèn jì jié cài dān ràng gù kè zhī dào shí cái lái zì fù jìn",
+        "exampleTr": "Kafenin fikri, müşterilere malzemenin yakından geldiğini gösteren mevsimlik bir menü sunmak.",
         "kind": "active"
       },
       {

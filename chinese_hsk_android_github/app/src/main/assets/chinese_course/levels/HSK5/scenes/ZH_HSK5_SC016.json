@@ -25,9 +25,9 @@
     {
       "id": "DLG_ZH_HSK5_SC016_003",
       "speaker": "张乐乐",
-      "zh": "我在学校学过一些现代技术，想比较一下监测工具能不能帮助安排种植。",
-      "pinyin": "wǒ zài xué xiào xué guò yī xiē xiàn dài jì shù ， xiǎng bǐ jiào yī xià jiān cè gōng jù néng bù néng bāng zhù ān pái zhòng zhí 。",
-      "tr": "Okulda modern teknikleri öğrendim; izleme araçlarının ekim zamanını belirlemeye yardım edip edemeyeceğini karşılaştırmak istiyorum."
+      "zh": "我在学校学过一些现代技术，想把它和传统方法放在一起比较，看看能不能帮忙安排种植。",
+      "pinyin": "wǒ zài xué xiào xué guò yī xiē xiàn dài jì shù ， xiǎng bǎ tā hé chuán tǒng fāng fǎ fàng zài yì qǐ bǐ jiào ， kàn kàn néng bù néng bāng máng ān pái zhòng zhí 。",
+      "tr": "Okulda bazı modern teknolojileri öğrendim; geleneksel yöntemlerle karşılaştırıp ekim planlamasına yardımcı olup olamayacaklarını görmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC016_004",
@@ -704,9 +704,9 @@
     {
       "id": "DLG_ZH_HSK5_SC016_100",
       "speaker": "刘梅",
-      "zh": "把两种方法放在一起比较，既尊重爷爷的经验，也让我们知道新工具怎样才真正有帮助。",
-      "pinyin": "bǎ liǎng zhǒng fāng fǎ fàng zài yì qǐ bǐ jiào ， jì zūn zhòng yé yé de jīng yàn ， yě ràng wǒ men zhī dào xīn gōng jù zěn yàng cái zhēn zhèng yǒu bāng zhù 。",
-      "tr": "İki yöntemi birlikte karşılaştırmak dedenizin deneyimine saygı gösterirken yeni aracın nasıl gerçekten yararlı olabileceğini de gösterir."
+      "zh": "把两种方法放在一起比较，不仅尊重爷爷的经验，还能判断新工具是否有助于农场的可持续发展。",
+      "pinyin": "bǎ liǎng zhǒng fāng fǎ fàng zài yì qǐ bǐ jiào ， bù jǐn zūn zhòng yé yé de jīng yàn ， hái néng pàn duàn xīn gōng jù shì fǒu yǒu zhù yú nóng chǎng de kě chí xù fā zhǎn 。",
+      "tr": "İki yöntemi birlikte karşılaştırmak hem dedemin deneyimine saygı duymamızı hem de yeni aracın çiftliğin sürdürülebilir gelişimine katkısını değerlendirmemizi sağlar."
     }
   ],
   "productionStatus": "complete",
@@ -730,9 +730,9 @@
         "zh": "传统方法",
         "pinyin": "chuántǒng fāngfǎ",
         "tr": "geleneksel yöntem",
-        "exampleZh": "传统方法是我们不能忽略的一点。",
-        "examplePinyin": "Chuántǒng fāngfǎ shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Geleneksel yöntem göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我在学校学过一些现代技术，想把它和传统方法放在一起比较，看看能不能帮忙安排种植。",
+        "examplePinyin": "Wǒ zài xué xiào xué guò yī xiē xiàn dài jì shù ， xiǎng bǎ tā hé chuán tǒng fāng fǎ fàng zài yì qǐ bǐ jiào ， kàn kàn néng bù néng bāng máng ān pái zhòng zhí 。",
+        "exampleTr": "Okulda bazı modern teknolojileri öğrendim; geleneksel yöntemlerle karşılaştırıp ekim planlamasına yardımcı olup olamayacaklarını görmek istiyorum.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "现代技术",
         "pinyin": "xiàndài jìshù",
         "tr": "modern teknoloji",
-        "exampleZh": "我们把现代技术也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ xiàndài jìshù yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Modern teknoloji konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我在学校学过一些现代技术，想把它和传统方法放在一起比较，看看能不能帮忙安排种植。",
+        "examplePinyin": "Wǒ zài xué xiào xué guò yī xiē xiàn dài jì shù ， xiǎng bǎ tā hé chuán tǒng fāng fǎ fàng zài yì qǐ bǐ jiào ， kàn kàn néng bù néng bāng máng ān pái zhòng zhí 。",
+        "exampleTr": "Okulda bazı modern teknolojileri öğrendim; geleneksel yöntemlerle karşılaştırıp ekim planlamasına yardımcı olup olamayacaklarını görmek istiyorum.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "农场",
         "pinyin": "nóngchǎng",
         "tr": "çiftlik",
-        "exampleZh": "这个农场有优点，也有需要考虑的地方。",
-        "examplePinyin": "Zhège nóngchǎng yǒu yōudiǎn, yě yǒu xūyào kǎolǜ de dìfang.",
-        "exampleTr": "Bu çiftlik avantajlara sahip ama düşünülmesi gereken yönleri de var.",
+        "exampleZh": "也把爷爷的意见注明是使用体验，不要写成适用于所有农场的结论。",
+        "examplePinyin": "Yě bǎ yé yé de yì jiàn zhù míng shì shǐ yòng tǐ yàn ， bú yào xiě chéng shì yòng yú suǒ yǒu nóng chǎng de jié lùn 。",
+        "exampleTr": "Dedenizin görüşünü kullanım deneyimi olarak belirtin; tüm çiftliklerde geçerli bir sonuç gibi sunmayın.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "经验",
         "pinyin": "jīngyàn",
         "tr": "deneyim",
-        "exampleZh": "关于经验，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jīngyàn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Deneyim konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "这样既保留了经验，也让新的测量过程更容易核对。",
+        "examplePinyin": "Zhè yàng jì bǎo liú le jīng yàn ， yě ràng xīn de cè liáng guò chéng gèng róng yì hé duì 。",
+        "exampleTr": "Böylece hem deneyimi koruruz hem de yeni ölçüm sürecini doğrulamak kolaylaşır.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "比较",
         "pinyin": "bǐjiào",
         "tr": "karşılaştırmak",
-        "exampleZh": "比较是我们不能忽略的一点。",
-        "examplePinyin": "Bǐjiào shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Karşılaştırmak göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "决定之前先问清原因，也比较省下的时间和成本是否值得。",
+        "examplePinyin": "Jué dìng zhī qián xiān wèn qīng yuán yīn ， yě bǐ jiào shěng xià de shí jiān hé chéng běn shì fǒu zhí de 。",
+        "exampleTr": "Karar vermeden önce nedeni netleştirin; kazanılan zaman ve maliyetin değip değmediğini de değerlendirin.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "可持续发展",
         "pinyin": "kě chíxù fāzhǎn",
         "tr": "sürdürülebilirlik",
-        "exampleZh": "我们把可持续发展也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ kě chíxù fāzhǎn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Sürdürülebilirlik konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "把两种方法放在一起比较，不仅尊重爷爷的经验，还能判断新工具是否有助于农场的可持续发展。",
+        "examplePinyin": "Bǎ liǎng zhǒng fāng fǎ fàng zài yì qǐ bǐ jiào ， bù jǐn zūn zhòng yé yé de jīng yàn ， hái néng pàn duàn xīn gōng jù shì fǒu yǒu zhù yú nóng chǎng de kě chí xù fā zhǎn 。",
+        "exampleTr": "İki yöntemi birlikte karşılaştırmak hem dedemin deneyimine saygı duymamızı hem de yeni aracın çiftliğin sürdürülebilir gelişimine katkısını değerlendirmemizi sağlar.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "依据",
         "pinyin": "yījù",
         "tr": "dayanak / kanıt",
-        "exampleZh": "如果依据发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ yījù fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Dayanak / kanıt değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "讨论时先听清彼此的依据，不要把“传统”和“现代”说成只能选一个。",
+        "examplePinyin": "tǎo lùn shí xiān tīng qīng bǐ cǐ de yī jù ， bú yào bǎ “ chuán tǒng ” hé “ xiàn dài ” shuō chéng zhǐ néng xuǎn yí gè 。",
+        "exampleTr": "Konuşurken önce herkesin dayanağını anlayın; geleneksel ve modern yöntemleri tek seçenekmiş gibi karşı karşıya koymayın.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC016_008",
         "zh": "尊重",
         "pinyin": "zūnzhòng",
         "tr": "saygı",
-        "exampleZh": "关于尊重，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zūnzhòng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Saygı konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "把两种方法放在一起比较，不仅尊重爷爷的经验，还能判断新工具是否有助于农场的可持续发展。",
+        "examplePinyin": "bǎ liǎng zhǒng fāng fǎ fàng zài yì qǐ bǐ jiào ， bù jǐn zūn zhòng yé yé de jīng yàn ， hái néng pàn duàn xīn gōng jù shì fǒu yǒu zhù yú nóng chǎng de kě chí xù fā zhǎn 。",
+        "exampleTr": "İki yöntemi birlikte karşılaştırmak hem dedemin deneyimine saygı duymamızı hem de yeni aracın çiftliğin sürdürülebilir gelişimine katkısını değerlendirmemizi sağlar.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1224,6 +1224,14 @@
     },
     "continuityNoteTr": "Büyükbabanın Eski Tarım Yöntemleri olayı HSK5 yaşam çizgisinde sahne 16 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 16,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC016.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

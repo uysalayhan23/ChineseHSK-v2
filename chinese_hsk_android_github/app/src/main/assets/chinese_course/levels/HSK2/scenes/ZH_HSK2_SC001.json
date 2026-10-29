@@ -74,16 +74,16 @@
     {
       "id": "DLG_ZH_HSK2_SC001_010",
       "speaker": "张伟",
-      "zh": "好，谢谢爸爸，我先刷牙。",
-      "pinyin": "hǎo, xiè xiè bà bà, wǒ xiān shuā yá.",
-      "tr": "Tamam, teşekkürler baba, önce dişlerimi fırçalayayım."
+      "zh": "好，谢谢你们，我等雨桐出来再用。",
+      "pinyin": "Hǎo, xiè xiè nǐ men, wǒ děng yǔ tóng chū lái zài yòng.",
+      "tr": "Tamam, teşekkürler. Yutong çıktıktan sonra ben kullanırım."
     },
     {
       "id": "DLG_ZH_HSK2_SC001_011",
       "speaker": "张雨桐",
-      "zh": "我等她出来再进去。",
-      "pinyin": "wǒ děng tā chū lái zài jìn qù.",
-      "tr": "O çıkınca ben girerim."
+      "zh": "我等爸爸出来再进去。",
+      "pinyin": "Wǒ děng bà bà chū lái zài jìn qù.",
+      "tr": "Babamın çıkmasını bekleyip sonra gireceğim."
     },
     {
       "id": "DLG_ZH_HSK2_SC001_012",
@@ -123,16 +123,16 @@
     {
       "id": "DLG_ZH_HSK2_SC001_017",
       "speaker": "刘梅",
-      "zh": "我用好了，雨桐可以进来了。",
-      "pinyin": "wǒ yòng hǎo le, yǔ tóng kě yǐ jìn lái le.",
-      "tr": "İşim bitti, Yutong girebilir."
+      "zh": "爸爸用好了，雨桐可以进来了。",
+      "pinyin": "Bà bà yòng hǎo le, yǔ tóng kě yǐ jìn lái le.",
+      "tr": "Baban işini bitirdi; Yutong, şimdi sen girebilirsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC001_018",
       "speaker": "张伟",
-      "zh": "我马上来，先拿一下毛巾。",
-      "pinyin": "wǒ mǎ shàng lái, xiān ná yī xià máo jīn.",
-      "tr": "Hemen geliyorum, önce havlumu alayım."
+      "zh": "我等你们用完，再进去拿毛巾。",
+      "pinyin": "Wǒ děng nǐ men yòng wán, zài jìn qù ná máo jīn.",
+      "tr": "Siz işiniz bitirince girip havlumu alacağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC001_019",
@@ -152,22 +152,22 @@
       "id": "DLG_ZH_HSK2_SC001_021",
       "speaker": "刘梅",
       "zh": "爸爸，你还需要用洗手间吗？",
-      "pinyin": "bà bà, nǐ hái xū yào yòng xǐ shǒu jiān ma?",
+      "pinyin": "Bà bà, nǐ hái xū yào yòng xǐ shǒu jiān ma?",
       "tr": "Baba, banyoyu kullanman gerekiyor mu?"
     },
     {
       "id": "DLG_ZH_HSK2_SC001_022",
       "speaker": "张伟",
       "zh": "需要，不过我可以等你们都洗漱完。",
-      "pinyin": "xū yào, bù guò wǒ kě yǐ děng nǐ men dōu xǐ shù wán.",
-      "tr": "Gerekiyor ama siz hazırlanana kadar bekleyebilirim."
+      "pinyin": "Xū yào, bù guò wǒ kě yǐ děng nǐ men dōu xǐ shù wán.",
+      "tr": "Evet, ama siz yıkanana kadar bekleyebilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC001_023",
       "speaker": "张雨桐",
       "zh": "爸爸先用吧，我已经洗完脸了。",
-      "pinyin": "bà bà xiān yòng ba, wǒ yǐ jīng xǐ wán liǎn le.",
-      "tr": "Baba önce sen kullan, yüzümü yıkadım."
+      "pinyin": "Bà bà xiān yòng ba, wǒ yǐ jīng xǐ wán liǎn le.",
+      "tr": "Baba, önce sen kullan; ben yüzümü yıkadım zaten."
     },
     {
       "id": "DLG_ZH_HSK2_SC001_024",
@@ -207,16 +207,16 @@
     {
       "id": "DLG_ZH_HSK2_SC001_029",
       "speaker": "刘梅",
-      "zh": "我先进去洗脸，马上出来。",
-      "pinyin": "wǒ xiān jìn qù xǐ liǎn, mǎ shàng chū lái.",
-      "tr": "Önce yüzümü yıkamaya giriyorum, hemen çıkarım."
+      "zh": "我去厨房看看早饭好了没有。",
+      "pinyin": "Wǒ qù chú fáng kàn kàn zǎo fàn hǎo le méi yǒu.",
+      "tr": "Ben mutfağa gidip kahvaltı hazır mı diye bakayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC001_030",
       "speaker": "张伟",
-      "zh": "好，我在门口等你。",
-      "pinyin": "hǎo, wǒ zài mén kǒu děng nǐ.",
-      "tr": "Tamam, kapıda beklerim."
+      "zh": "好，我在洗手间门口等着。",
+      "pinyin": "Hǎo, wǒ zài xǐ shǒu jiān mén kǒu děng zhe.",
+      "tr": "Tamam, banyonun kapısında bekliyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC001_031",
@@ -236,7 +236,7 @@
       "id": "DLG_ZH_HSK2_SC001_033",
       "speaker": "刘梅",
       "zh": "雨桐出来了，洗手间空了。",
-      "pinyin": "yǔ tóng chū lái le, xǐ shǒu jiān kōng le.",
+      "pinyin": "Yǔ tóng chū lái le, xǐ shǒu jiān kōng le.",
       "tr": "Yutong çıktı, banyo boş."
     },
     {

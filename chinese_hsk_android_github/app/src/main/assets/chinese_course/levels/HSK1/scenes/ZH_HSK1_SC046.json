@@ -457,9 +457,9 @@
     {
       "id": "DLG_ZH_HSK1_SC046_005",
       "speaker": "刘梅",
-      "zh": "好啊，看起来真好吃。",
-      "pinyin": "Hǎo a, kànqǐlái zhēn hǎochī.",
-      "tr": "Olur, çok lezzetli görünüyor."
+      "zh": "你们来得正好，先坐下，我把蛋糕切开。",
+      "pinyin": "Nǐmen láide zhènghǎo， xiān zuòxià， wǒ bǎ dàngāo qièkāi。",
+      "tr": "Tam zamanında geldiniz; önce oturun, keki keseyim."
     },
     {
       "id": "DLG_ZH_HSK1_SC046_006",
@@ -632,16 +632,16 @@
     {
       "id": "DLG_ZH_HSK1_SC046_030",
       "speaker": "张伟",
-      "zh": "谢谢，不过我家里还要准备晚饭。",
-      "pinyin": "Xièxiè, bùguò wǒ jiālǐ háiyào zhǔnbèi wǎnfàn.",
-      "tr": "Teşekkürler ama evde akşam yemeği hazırlamam gerekiyor."
+      "zh": "好啊，晚饭快准备好了，留下来一起吃吧。",
+      "pinyin": "Hǎo a， wǎnfàn kuài zhǔnbèi hǎo le， liúxiàlái yìqǐ chī ba。",
+      "tr": "Olur, akşam yemeği de birazdan hazır; bizimle kalıp yiyin."
     },
     {
       "id": "DLG_ZH_HSK1_SC046_031",
       "speaker": "邻居",
-      "zh": "那你先吃一块蛋糕，带一块回家也可以。",
-      "pinyin": "Nà nǐ xiān chī yīkuài dàngāo, dài yīkuài huíjiā yě kěyǐ.",
-      "tr": "O zaman önce bir dilim ye, istersen eve de bir dilim götür."
+      "zh": "谢谢，我先带一块蛋糕回家给家人尝尝。",
+      "pinyin": "Xièxiè， wǒ xiāndài yīkuài dàngāo huíjiā gěi jiārén chángcháng。",
+      "tr": "Teşekkürler. Önce ailemin tatması için bir parça kek götüreyim."
     },
     {
       "id": "DLG_ZH_HSK1_SC046_032",
@@ -723,9 +723,9 @@
     {
       "id": "DLG_ZH_HSK1_SC046_043",
       "speaker": "邻居",
-      "zh": "这次我想做得简单一点儿，大家都能吃。",
-      "pinyin": "Zhècì wǒ xiǎng zuò dé jiǎndān yìdiǎnér, dàjiā dōu néng chī.",
-      "tr": "Bu kez basit olsun istedim, herkes yiyebilsin."
+      "zh": "我也想学着做一个简单一点儿的，大家都能吃。",
+      "pinyin": "Wǒ yě xiǎngxué zhe zuò yígè jiǎndān yìdiǎnér de， dàjiā dōu néng chī。",
+      "tr": "Ben de herkesin yiyebileceği daha sade bir kek yapmayı öğrenmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK1_SC046_044",
@@ -744,9 +744,9 @@
     {
       "id": "DLG_ZH_HSK1_SC046_046",
       "speaker": "张伟",
-      "zh": "我喜欢，爸爸喜欢，乐乐也喜欢。",
-      "pinyin": "Wǒ xǐhuān, bàbà xǐhuān, lèlè yě xǐhuān.",
-      "tr": "Ben, babası ve Lele seviyor."
+      "zh": "我们家都喜欢，尤其是乐乐。",
+      "pinyin": "Wǒmen jiā dōu xǐhuān， yóuqí shì lèlè。",
+      "tr": "Bizim ailede herkes sever, özellikle Lele."
     },
     {
       "id": "DLG_ZH_HSK1_SC046_047",
@@ -765,9 +765,9 @@
     {
       "id": "DLG_ZH_HSK1_SC046_049",
       "speaker": "刘梅",
-      "zh": "好啊，你可以教我怎么做。",
-      "pinyin": "Hǎo a, nǐ kěyǐ jiào wǒ zěnme zuò.",
-      "tr": "Olur, bana nasıl yapıldığını öğretebilirsin."
+      "zh": "好啊，下次我教你怎么做。",
+      "pinyin": "Hǎo a， xiàcì wǒjiào nǐ zěnme zuò。",
+      "tr": "Tabii, bir dahaki sefere sana nasıl yapıldığını öğretirim."
     },
     {
       "id": "DLG_ZH_HSK1_SC046_050",
@@ -877,9 +877,9 @@
     {
       "id": "DLG_ZH_HSK1_SC046_065",
       "speaker": "刘梅",
-      "zh": "这块蛋糕够我们四个人一起吃。",
-      "pinyin": "Zhèkuài dàngāo gòu wǒmen sìgè rén yìqǐ chī.",
-      "tr": "Bu kek dördümüze de yeter."
+      "zh": "这块蛋糕够大家分着吃。",
+      "pinyin": "Zhèkuài dàngāo gòu dàjiā fēnzhe chī。",
+      "tr": "Bu kek hepimize paylaşmaya yeter."
     },
     {
       "id": "DLG_ZH_HSK1_SC046_066",
@@ -933,9 +933,9 @@
     {
       "id": "DLG_ZH_HSK1_SC046_073",
       "speaker": "刘梅",
-      "zh": "谢谢，今天来你们家我很开心。",
-      "pinyin": "Xièxiè, jīntiān lái nǐmen jiā wǒ hěn kāixīn.",
-      "tr": "Teşekkürler, bugün evinize geldiğim için mutluyum."
+      "zh": "你今天能来，我们也很开心。",
+      "pinyin": "Nǐ jīntiān néng lái， wǒmen yě hěn kāixīn。",
+      "tr": "Bugün gelebildiğine biz de çok sevindik."
     },
     {
       "id": "DLG_ZH_HSK1_SC046_074",
@@ -1045,9 +1045,9 @@
     {
       "id": "DLG_ZH_HSK1_SC046_089",
       "speaker": "刘梅",
-      "zh": "今天谢谢你们请我来，晚饭也祝你们吃得开心。",
-      "pinyin": "Jīntiān xièxiènǐmen qǐng wǒ lái, wǎnfàn yě zhùnǐmen chīdekāi xīn.",
-      "tr": "Beni davet ettiğiniz için sağ olun, afiyet olsun."
+      "zh": "今天谢谢你来，回家后也祝你和家人晚饭吃得开心。",
+      "pinyin": "Jīntiān xièxiè nǐ lái， huíjiā hòu yě zhù nǐ hé jiārén wǎnfàn chī de kāixīn。",
+      "tr": "Bugün geldiğin için teşekkürler. Eve dönünce ailene de afiyet olsun."
     },
     {
       "id": "DLG_ZH_HSK1_SC046_090",
@@ -1073,16 +1073,16 @@
     {
       "id": "DLG_ZH_HSK1_SC046_093",
       "speaker": "刘梅",
-      "zh": "好，明天见，记得把盒子带回来。",
-      "pinyin": "Hǎo, míngtiān jiàn, jìde bǎ hézi dài huílái.",
-      "tr": "Olur, yarın görüşürüz, kutuyu geri getirmeyi unutmayın."
+      "zh": "盒子不着急，明天见面时再还就好。",
+      "pinyin": "Hézi bù zháojí， míngtiān jiànmiàn shí zài hái jiù hǎo。",
+      "tr": "Kutuyu dert etme; yarın görüşünce geri vermen yeter."
     },
     {
       "id": "DLG_ZH_HSK1_SC046_094",
       "speaker": "张伟",
-      "zh": "我会记住，明天给你送回来。",
-      "pinyin": "Wǒhuì jìzhù, míngtiān gěi nǐ sòng huílái.",
-      "tr": "Aklımda, yarın getiririm."
+      "zh": "对，明天再带回来就行。",
+      "pinyin": "Duì， míngtiān zàidài huílái jiùxíng。",
+      "tr": "Evet, yarın getirmen yeter."
     },
     {
       "id": "DLG_ZH_HSK1_SC046_095",

@@ -94,9 +94,9 @@
     {
       "id": "DLG_ZH_HSK6_SC021_013",
       "speaker": "张雨桐",
-      "zh": "明白。我们先听你和伴侣的打算，需要意见时再一起讨论。",
-      "pinyin": "míng bái 。 wǒ men xiān tīng nǐ hé bàn lǚ de dǎ suàn ， xū yào yì jiàn shí zài yì qǐ tǎo lùn 。",
-      "tr": "Anlaşıldı. Önce seninle partnerinin planını dinleyelim; fikir isterseniz birlikte konuşuruz."
+      "zh": "我们先按自己的节奏商量，需要意见时再一起讨论。",
+      "pinyin": "wǒ men xiān àn zì jǐ de jié zòu shāng liáng ， xū yào yì jiàn shí zài yì qǐ tǎo lùn 。",
+      "tr": "Biz kendi hızımızda konuşup karar verir, görüşe ihtiyaç duyduğumuzda birlikte değerlendiririz."
     },
     {
       "id": "DLG_ZH_HSK6_SC021_014",
@@ -107,7 +107,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC021_015",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "目前先告诉家里人就好，等我们准备好了再告诉其他人。",
       "pinyin": "mù qián xiān gào sù jiā lǐ rén jiù hǎo ， děng wǒ men zhǔn bèi hǎo le zài gào sù qí tā rén 。",
       "tr": "Şimdilik yalnızca aile bilsin; hazır olduğumuzda başkalarına da söyleriz."
@@ -163,10 +163,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC021_023",
-      "speaker": "张伟",
-      "zh": "我明白大家都很开心，但希望先不要马上讨论名字和教育计划。",
-      "pinyin": "wǒ míng bái dà jiā dōu hěn kāi xīn ， dàn xī wàng xiān bú yào mǎ shàng tǎo lùn míng zì hé jiào yù jì huà 。",
-      "tr": "Hepinizin sevindiğini anlıyorum ama şimdilik isim ve eğitim planlarını konuşmayalım."
+      "speaker": "伴侣",
+      "zh": "我知道大家都很开心，不过我们想先不谈孩子的名字和教育计划。",
+      "pinyin": "wǒ zhī dào dà jiā dōu hěn kāi xīn ， bù guò wǒ men xiǎng xiān bù tán hái zi de míng zì hé jiào yù jì huà 。",
+      "tr": "Herkesin çok mutlu olduğunu biliyorum ama şimdilik bebeğin adı ve eğitim planı hakkında konuşmak istemiyoruz."
     },
     {
       "id": "DLG_ZH_HSK6_SC021_024",
@@ -198,14 +198,14 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC021_028",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我很感激。等需要帮助时，我会直接说，不会勉强自己。",
       "pinyin": "wǒ hěn gǎn jī 。 děng xū yào bāng zhù shí ， wǒ huì zhí jiē shuō ， bú huì miǎn qiǎng zì jǐ 。",
       "tr": "Buna minnettarım. Yardım gerektiğinde kendim söylerim, kendimi zorlamam."
     },
     {
       "id": "DLG_ZH_HSK6_SC021_029",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "你们已经想好要不要告诉朋友了吗？",
       "pinyin": "nǐ men yǐ jīng xiǎng hǎo yào bù yào gào sù péng yǒu le ma ？",
       "tr": "Arkadaşlarınıza söyleyip söylememeye karar verdiniz mi?"
@@ -247,7 +247,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC021_035",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "谢谢。知道边界会被尊重，我就更能安心地享受这个时刻。",
       "pinyin": "xiè xiè 。 zhī dào biān jiè huì bèi zūn zhòng ， wǒ jiù gèng néng ān xīn dì xiǎng shòu zhè ge shí kè 。",
       "tr": "Teşekkürler. Sınırlarıma saygı duyulacağını bilmek bu anı daha huzurlu yaşamamı sağlıyor."
@@ -275,10 +275,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC021_039",
-      "speaker": "张伟",
-      "zh": "伴侣和我已经商量过谁来协调工作安排，我们也会定期检查是否合适。",
-      "pinyin": "bàn lǚ hé wǒ yǐ jīng shāng liáng guò shuí lái xié tiáo gōng zuò ān pái ， wǒ men yě huì dìng qī jiǎn chá shì fǒu hé shì 。",
-      "tr": "Partnerimle iş düzenini kimin koordine edeceğini konuştuk; uygunluğunu düzenli aralıklarla kontrol edeceğiz."
+      "speaker": "张雨桐",
+      "zh": "我和伴侣已经商量过谁来协调工作安排，我们也会定期检查是否合适。",
+      "pinyin": "wǒ hé bàn lǚ yǐ jīng shāng liáng guò shuí lái xié tiáo gōng zuò ān pái ， wǒ men yě huì dìng qī jiǎn chá shì fǒu hé shì 。",
+      "tr": "Eşimle iş düzenini kimin koordine edeceğini konuştuk; planın uygun olup olmadığını düzenli olarak gözden geçireceğiz."
     },
     {
       "id": "DLG_ZH_HSK6_SC021_040",
@@ -310,10 +310,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC021_044",
-      "speaker": "刘梅",
-      "zh": "这样更好。有需要时我会告诉你们，不用猜我想要什么。",
-      "pinyin": "zhè yàng gèng hǎo 。 yǒu xū yào shí wǒ huì gào sù nǐ men ， bù yòng cāi wǒ xiǎng yào shén me 。",
-      "tr": "Böylesi daha iyi. İhtiyacım olursa söylerim; ne istediğimi tahmin etmek zorunda değilsiniz."
+      "speaker": "张雨桐",
+      "zh": "需要时我会直接告诉你们，不会勉强自己。",
+      "pinyin": "xū yào shí wǒ huì zhí jiē gào sù nǐ men ， bú huì miǎn qiǎng zì jǐ 。",
+      "tr": "İhtiyacım olduğunda size doğrudan söylerim; kendimi zorlamam."
     },
     {
       "id": "DLG_ZH_HSK6_SC021_045",
@@ -338,7 +338,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC021_048",
-      "speaker": "刘梅",
+      "speaker": "伴侣",
       "zh": "谢谢。物品先放着就好，我们准备好了再一起整理。",
       "pinyin": "xiè xiè 。 wù pǐn xiān fàng zhe jiù hǎo ， wǒ men zhǔn bèi hǎo le zài yì qǐ zhěng lǐ 。",
       "tr": "Teşekkürler. Şimdilik kaldırmanız yeter; hazır olunca birlikte düzenleriz."
@@ -415,7 +415,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC021_059",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "谢谢。你们愿意站在我们这边，让我感到很安心。",
       "pinyin": "xiè xiè 。 nǐ men yuàn yì zhàn zài wǒ men zhè biān ， ràng wǒ gǎn dào hěn ān xīn 。",
       "tr": "Teşekkürler. Yanımızda olduğunuzu bilmek beni rahatlatıyor."
@@ -429,7 +429,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC021_061",
-      "speaker": "张雨桐",
+      "speaker": "张伟",
       "zh": "我们也在调整自己的角色，从照顾女儿变成支持你们的小家庭。",
       "pinyin": "wǒ men yě zài tiáo zhěng zì jǐ de jué sè ， cóng zhào gù nǚ ér biàn chéng zhī chí nǐ men de xiǎo jiā tíng 。",
       "tr": "Biz de rolümüzü değiştiriyoruz; kızımıza bakmaktan sizin kurduğunuz küçük aileyi desteklemeye geçiyoruz."
@@ -464,7 +464,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC021_066",
-      "speaker": "伴侣",
+      "speaker": "刘梅",
       "zh": "我周二和周四比较空，可以陪你们其中一天。",
       "pinyin": "wǒ zhōu èr hé zhōu sì bǐ jiào kōng ， kě yǐ péi nǐ men qí zhōng yī tiān 。",
       "tr": "Salı ve perşembe daha boşum; o günlerden birinde size eşlik edebilirim."
@@ -478,7 +478,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC021_068",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我和伴侣先对一下日程，再告诉你们哪天需要帮忙。",
       "pinyin": "wǒ hé bàn lǚ xiān duì yī xià rì chéng ， zài gào sù nǐ men nǎ tiān xū yào bāng máng 。",
       "tr": "Önce partnerimle takvimi karşılaştırıp hangi gün yardım istediğimizi size söyleriz."
@@ -618,10 +618,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC021_088",
-      "speaker": "刘梅",
-      "zh": "谢谢。以后若想公开分享，我会自己再告诉你们。",
-      "pinyin": "xiè xiè 。 yǐ hòu ruò xiǎng gōng kāi fēn xiǎng ， wǒ huì zì jǐ zài gào sù nǐ men 。",
-      "tr": "Teşekkürler. İleride paylaşmak istersem size kendim söylerim."
+      "speaker": "张雨桐",
+      "zh": "谢谢。若以后我们想公开分享，会提前告诉你们。",
+      "pinyin": "xiè xiè 。 ruò yǐ hòu wǒ men xiǎng gōng kāi fēn xiǎng ， huì tí qián gào sù nǐ men 。",
+      "tr": "Teşekkürler. İleride paylaşmak istersek size önceden haber veririz."
     },
     {
       "id": "DLG_ZH_HSK6_SC021_089",

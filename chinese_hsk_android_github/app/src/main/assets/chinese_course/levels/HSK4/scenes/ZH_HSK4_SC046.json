@@ -95,9 +95,9 @@
     {
       "id": "DLG_ZH_HSK4_SC046_013",
       "speaker": "张雨桐",
-      "zh": "材料齐全。你们领完校园卡后，到礼堂参加新生说明会。",
-      "pinyin": "Cái liào qí quán nǐ men lǐng wán xiào yuán kǎ hòu dào lǐ táng cān jiā xīn shēng shuō míng huì",
-      "tr": "Belgeleriniz tam. Kartınızı alınca yeni öğrenci bilgilendirmesi için salona gidin."
+      "zh": "我的材料已经交好了。你领完校园卡后，我们一起去礼堂参加说明会。",
+      "pinyin": "wǒ de cái liào yǐ jīng jiāo hǎo le nǐ lǐng wán xiào yuán kǎ hòu wǒ men yì qǐ qù lǐ táng cān jiā shuō míng huì",
+      "tr": "Evraklarımı teslim ettim. Sen kampüs kartını aldıktan sonra tanıtım toplantısına birlikte gidelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC046_014",
@@ -536,9 +536,9 @@
     {
       "id": "DLG_ZH_HSK4_SC046_076",
       "speaker": "刘梅",
-      "zh": "别把课表排得太满，留一点时间适应大学的学习方式。",
-      "pinyin": "Bié bǎ kè biǎo pái dé tài mǎn liú yì diǎn shí jiān shì yìng dà xué de xué xí fāng shì",
-      "tr": "Programı fazla doldurma; üniversite düzenine alışmak için de zaman bırak."
+      "zh": "一方面要留时间适应课程，另一方面也别忘了休息和认识朋友。",
+      "pinyin": "yì fāng miàn yào liú shí jiān shì yìng kè chéng lìng yì fāng miàn yě bié wàng le xiū xī hé rèn shí péng yǒu",
+      "tr": "Bir yandan derslere alışmak için zaman bırakmalı, diğer yandan dinlenmeyi ve arkadaş edinmeyi de unutmamalısın."
     },
     {
       "id": "DLG_ZH_HSK4_SC046_077",
@@ -730,9 +730,9 @@
         "zh": "新生报到",
         "pinyin": "xīnshēng bàodào",
         "tr": "üniversite kayıt/oryantasyonu",
-        "exampleZh": "新生报到是我们不能忽略的一点。",
-        "examplePinyin": "Xīnshēng bàodào shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Üniversite kayıt/oryantasyonu göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "是的，你们先完成新生报到，再去领取校园卡。",
+        "examplePinyin": "Shì de nǐ men xiān wán chéng xīn shēng bào dào zài qù lǐng qǔ xiào yuán kǎ",
+        "exampleTr": "Evet. Önce kayıt işlemini tamamlayın, sonra kampüs kartınızı alın.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "校园",
         "pinyin": "xiàoyuán",
         "tr": "kampüs",
-        "exampleZh": "如果选校园，以后会有什么影响？",
-        "examplePinyin": "Rúguǒ xuǎn xiàoyuán, yǐhòu huì yǒu shénme yǐngxiǎng?",
-        "exampleTr": "Kampüs seçersek ileride ne etkisi olur?",
+        "exampleZh": "这就是熟悉校园的好办法，别怕开口。",
+        "examplePinyin": "Zhè jiù shì shú xī xiào yuán de hǎo bàn fǎ bié pà kāi kǒu",
+        "exampleTr": "Kampüsü öğrenmenin iyi bir yolu bu; soru sormaktan çekinme.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "大学",
         "pinyin": "dàxué",
         "tr": "üniversite",
-        "exampleZh": "这个大学有优点，也有需要考虑的地方。",
-        "examplePinyin": "Zhège dàxué yǒu yōudiǎn, yě yǒu xūyào kǎolǜ de dìfang.",
-        "exampleTr": "Bu üniversite avantajlara sahip ama düşünülmesi gereken yönleri de var.",
+        "exampleZh": "你在大学里可以慢慢学着自己作决定，也主动认识朋友。",
+        "examplePinyin": "nǐ zài dà xué lǐ kě yǐ màn màn xué zhe zì jǐ zuò jué dìng yě zhǔ dòng rèn shí péng yǒu",
+        "exampleTr": "Üniversitede kendi kararlarını vermeyi yavaş yavaş öğrenebilir ve yeni arkadaşlarla tanışabilirsin.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "独立生活",
         "pinyin": "dúlì shēnghuó",
         "tr": "bağımsız yaşam",
-        "exampleZh": "关于独立生活，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú dúlì shēnghuó, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Bağımsız yaşam konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "独立生活不代表什么事都要一个人做，互相帮助很重要。",
+        "examplePinyin": "Dú lì shēng huó bù dài biǎo shén me shì dōu yào yí gè rén zuò hù xiāng bāng zhù hěn zhòng yào",
+        "exampleTr": "Bağımsız yaşamak her şeyi tek başına yapmak değildir; birbirine destek olmak da önemlidir.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "朋友",
         "pinyin": "péngyou",
         "tr": "arkadaş",
-        "exampleZh": "朋友是我们不能忽略的一点。",
-        "examplePinyin": "Péngyou shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Arkadaş göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我会和新朋友一起对照课表，也互相提醒截止日期。",
+        "examplePinyin": "Wǒ huì hé xīn péng yǒu yì qǐ duì zhào kè biǎo yě hù xiāng tí xǐng jié zhǐ rì qī",
+        "exampleTr": "Ders programını yeni arkadaşlarımla karşılaştırıp son tarihleri birbirimize hatırlatırız.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "安排",
         "pinyin": "ānpái",
         "tr": "planlama / düzenleme",
-        "exampleZh": "我们把安排也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ ānpái yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Planlama / düzenleme konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "你们已经安排好今晚见面的时间了吗？",
+        "examplePinyin": "Nǐ men yǐ jīng ān pái hǎo jīn wǎn jiàn miàn de shí jiān le ma",
+        "exampleTr": "Bu akşam buluşma saatini ayarladınız mı?",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "xuéxí",
         "tr": "ders çalışma",
         "exampleZh": "如果学习发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ xuéxí fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ xuéxí fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Ders çalışma değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "rénshēng xīn jiēduàn",
         "tr": "hayatın yeni aşaması",
         "exampleZh": "关于人生新阶段，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú rénshēng xīn jiēduàn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú rénshēng xīn jiēduàn wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Hayatın yeni aşaması konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

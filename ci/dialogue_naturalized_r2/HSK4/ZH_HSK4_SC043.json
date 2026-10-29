@@ -93,23 +93,23 @@
     {
       "id": "DLG_ZH_HSK4_SC043_013",
       "speaker": "张乐乐",
-      "zh": "你是什么时候开始对摄影感兴趣的？",
-      "pinyin": "Nǐ shì shén me shí hòu kāi shǐ duì shè yǐng gǎn xìng qù de",
-      "tr": "Fotoğrafçılığa ne zaman ilgi duymaya başladın?"
+      "zh": "我大概是去年开始对摄影感兴趣的。",
+      "pinyin": "wǒ dà gài shì qù nián kāi shǐ duì shè yǐng gǎn xìng qù de",
+      "tr": "Fotoğrafçılığa ilgim sanırım geçen yıl başladı."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_014",
       "speaker": "记者",
-      "zh": "去年爸爸借给我一台旧相机，我就开始拍家附近的风景。",
-      "pinyin": "qù nián bà bà jiè gěi wǒ yī tái jiù xiàng jī wǒ jiù kāi shǐ pāi jiā fù jìn de fēng jǐng",
-      "tr": "Geçen yıl babam bana eski bir fotoğraf makinesi ödünç verdi; ben de evimizin yakınındaki manzaraları çekmeye başladım."
+      "zh": "去年你爸爸借给你一台旧相机，这是不是你开始拍家附近风景的原因？",
+      "pinyin": "qù nián nǐ bà bà jiè gěi nǐ yī tái jiù xiàng jīzhè shì bú shì nǐ kāi shǐ pāi jiā fù jìn fēng jǐng de yuán yīn",
+      "tr": "Geçen yıl baban sana eski bir fotoğraf makinesi ödünç vermiş; yakın çevrenin manzaralarını çekmeye başlamanın nedeni bu muydu?"
     },
     {
       "id": "DLG_ZH_HSK4_SC043_015",
       "speaker": "张伟",
-      "zh": "那台旧相机让你开始留意身边的风景了，是吗？",
-      "pinyin": "nà tái jiù xiàng jī ràng nǐ kāi shǐ liú yì shēn biān de fēng jǐng le shì ma",
-      "tr": "O eski fotoğraf makinesi çevrendeki manzaralara dikkat etmeye başlamanı sağladı, öyle mi?"
+      "zh": "我记得你第一次拿相机出门时，只拍了家门口那棵树。",
+      "pinyin": "wǒ jì de nǐ dì yī cì ná xiàng jī chū mén shízhǐ pāi le jiā mén kǒu nà kē shù",
+      "tr": "Fotoğraf makinesiyle ilk çıktığında yalnızca evin önündeki ağacı çektiğini hatırlıyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_016",
@@ -121,9 +121,9 @@
     {
       "id": "DLG_ZH_HSK4_SC043_017",
       "speaker": "张乐乐",
-      "zh": "我不知道自己有没有天赋，不过多练习以后，我确实更会观察了。",
-      "pinyin": "wǒ bù zhī dào zì jǐ yǒu méi yǒu tiān fù bù guò duō liàn xí yǐ hòu wǒ què shí gèng huì guān chá le",
-      "tr": "Yetenekli miyim bilmiyorum ama bol bol pratik yaptıktan sonra daha iyi gözlemlediğimi fark ettim."
+      "zh": "既然多练习能让我更会观察，我就继续拍下去，不必太担心天赋。",
+      "pinyin": "jì rán duō liàn xí néng ràng wǒ gèng huì guān chá wǒ jiù jì xù pāi xià qù bù bì tài dān xīn tiān fù",
+      "tr": "Daha çok pratik yapmak gözlem yeteneğimi geliştiriyorsa fotoğraf çekmeye devam eder, yetenek konusunda da fazla kaygılanmam."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_018",
@@ -135,9 +135,9 @@
     {
       "id": "DLG_ZH_HSK4_SC043_019",
       "speaker": "张伟",
-      "zh": "我陪他去湖边试拍了几次，他也参考了老师给的建议。",
-      "pinyin": "wǒ péi tā qù hú biān shì pāi le jǐ cì tā yě cān kǎo le lǎo shī gěi de jiàn yì",
-      "tr": "Onunla göl kenarına birkaç kez deneme çekimine gittim; öğretmenin önerilerinden de yararlandı."
+      "zh": "第一次去湖边时你拍得很快，后来开始等光线，这个变化我记得很清楚。",
+      "pinyin": "dì yī cì qù hú biān shí nǐ pāi dé hěn kuàihòu lái kāi shǐ děng guāng xiànzhè ge biàn huà wǒ jì de hěn qīng chǔ",
+      "tr": "Göl kenarına ilk gidişinde hızlıca fotoğraf çekmiştin; sonra ışığı beklemeye başladın, bu değişimi iyi hatırlıyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_020",
@@ -261,23 +261,23 @@
     {
       "id": "DLG_ZH_HSK4_SC043_037",
       "speaker": "张乐乐",
-      "zh": "我想问问，家人对你练习摄影有什么帮助？",
-      "pinyin": "Wǒ xiǎng wèn wèn jiā rén duì nǐ liàn xí shè yǐng yǒu shén me bāng zhù",
-      "tr": "Ailenden fotoğrafçılık çalışmalarında nasıl destek aldığını sormak istiyorum."
+      "zh": "平时练习时，爸爸妈妈会听我讲拍照的想法，也给我建议。",
+      "pinyin": "píng shí liàn xí shíbà bà mā mā huì tīng wǒ jiǎng pāi zhào de xiǎng fǎyě gěi wǒ jiàn yì",
+      "tr": "Alıştırma yaparken annemle babam fotoğraf çekme fikirlerimi dinler ve önerilerde bulunur."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_038",
       "speaker": "记者",
-      "zh": "家人的陪伴和鼓励，对你练习摄影有什么帮助？",
-      "pinyin": "jiā rén de péi bàn hé gǔ lì duì nǐ liàn xí shè yǐng yǒu shén me bāng zhù",
-      "tr": "Ailenin yanında olması ve seni desteklemesi fotoğraf çalışmana nasıl katkıda bulundu?"
+      "zh": "他们的支持具体帮了你什么？",
+      "pinyin": "tā men de zhī chí jù tǐ bāng le nǐ shén me",
+      "tr": "Destekleri sana özellikle nasıl yardımcı oldu?"
     },
     {
       "id": "DLG_ZH_HSK4_SC043_039",
       "speaker": "张伟",
-      "zh": "爸爸借我相机，妈妈陪我看照片，他们都鼓励我继续练习。",
-      "pinyin": "bà bà jiè wǒ xiàng jī mā mā péi wǒ kàn zhào piān tā men dōu gǔ lì wǒ jì xù liàn xí",
-      "tr": "Babam fotoğraf makinesini ödünç verdi, annem fotoğraflara benimle baktı; ikisi de çalışmayı sürdürmem için beni destekledi."
+      "zh": "我借给他相机，梅姐陪他看照片，我们都鼓励他继续练习。",
+      "pinyin": "wǒ jiè gěi tā xiàng jīméi jiě péi tā kàn zhào piānwǒ men dōu gǔ lì tā jì xù liàn xí",
+      "tr": "Ona fotoğraf makinesini ben ödünç verdim, Mei de fotoğraflarına onunla baktı; ikimiz de çalışmayı sürdürmesi için onu destekledik."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_040",
@@ -289,23 +289,23 @@
     {
       "id": "DLG_ZH_HSK4_SC043_041",
       "speaker": "张乐乐",
-      "zh": "我们的支持让你更愿意尝试，也不用担心一开始拍得不够好。",
-      "pinyin": "wǒ men de zhī chí ràng nǐ gèng yuàn yì cháng shì yě bù yòng dān xīn yī kāi shǐ pāi dé bù gòu hǎo",
-      "tr": "Desteğimiz denemeye daha istekli olmana yardımcı oldu; başlangıçta iyi çekememekten korkmana gerek yoktu."
+      "zh": "你们的支持让我更愿意尝试，也不用担心一开始拍得不够好。",
+      "pinyin": "nǐ men de zhī chí ràng wǒ gèng yuàn yì cháng shìyě bù yòng dān xīn yī kāi shǐ pāi dé bù gòu hǎo",
+      "tr": "Desteğiniz yeni şeyler denememi kolaylaştırdı; ilk başta iyi çekememekten de korkmadım."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_042",
       "speaker": "记者",
-      "zh": "拍照时，我通常先看光线，再想画面里什么最重要。",
-      "pinyin": "pāi zhào shí wǒ tōng cháng xiān kàn guāng xiàn zài xiǎng huà miàn lǐ shén me zuì zhòng yào",
-      "tr": "Fotoğraf çekerken önce ışığa, sonra kadrajda neyin en önemli olduğuna bakarım."
+      "zh": "拍照时你通常先看光线，再想画面里什么最重要，对吗？",
+      "pinyin": "pāi zhào shí nǐ tōng cháng xiān kàn guāng xiànzài xiǎng huà miàn lǐ shén me zuì zhòng yàoduì ma",
+      "tr": "Fotoğraf çekerken önce ışığa, sonra karede neyin önemli olduğuna bakıyorsun, değil mi?"
     },
     {
       "id": "DLG_ZH_HSK4_SC043_043",
       "speaker": "张伟",
-      "zh": "你先观察光线和主体。构图不如预想时，你会怎么做？",
-      "pinyin": "nǐ xiān guān chá guāng xiàn hé zhǔ tǐ gòu tú bù rú yù xiǎng shí nǐ huì zěn me zuò",
-      "tr": "Önce ışığı ve ana konuyu gözlüyorsun. Kadraj düşündüğün gibi olmadığında ne yaparsın?"
+      "zh": "他会先观察光线和主体；构图不理想时，就换个位置再看。",
+      "pinyin": "tā huì xiān guān chá guāng xiàn hé zhǔ tǐgòu tú bù lǐ xiǎng shíjiù huàn gè wèi zhì zài kàn",
+      "tr": "Önce ışığı ve ana konuyu gözlemler; kadraj istediği gibi değilse yerini değiştirip yeniden bakar."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_044",
@@ -366,9 +366,9 @@
     {
       "id": "DLG_ZH_HSK4_SC043_052",
       "speaker": "刘梅",
-      "zh": "允许简单调整，不过我还是觉得保留当时的样子更好。",
-      "pinyin": "yǔn xǔ jiǎn dān tiáo zhěng bù guò wǒ hái shì jué de bǎo liú dāng shí de yàng zi gèng hǎo",
-      "tr": "Basit düzenlemeler serbest ama ben o anki görüntüyü korumanın daha iyi olduğunu düşünüyorum."
+      "zh": "规则允许简单调整。你更想保留原片的感觉，还是裁掉边缘的杂物？",
+      "pinyin": "guī zé yǔn xǔ jiǎn dān tiáo zhěngnǐ gèng xiǎng bǎo liú yuán piàn de gǎn juéhái shì cái diào biān yuán de zá wù",
+      "tr": "Kurallar basit düzenlemelere izin veriyor. Orijinal fotoğrafın hissini korumak mı, yoksa kenardaki fazlalıkları kırpmak mı istersin?"
     },
     {
       "id": "DLG_ZH_HSK4_SC043_053",
@@ -429,9 +429,9 @@
     {
       "id": "DLG_ZH_HSK4_SC043_061",
       "speaker": "张乐乐",
-      "zh": "采访快结束了，获奖消息和照片会一起刊登吗？",
-      "pinyin": "Cǎi fǎng kuài jié shù le huò jiǎng xiāo xī hé zhào piān huì yì qǐ kān dēng ma",
-      "tr": "Röportaj bitmek üzere; ödül haberiyle fotoğraf birlikte yayımlanacak mı?"
+      "zh": "采访快结束前，我还想确认一下，获奖消息和照片会一起刊登吗？",
+      "pinyin": "cǎi fǎng kuài jié shù qiánwǒ hái xiǎng què rèn yī xiàhuò jiǎng xiāo xī hé zhào piān huì yì qǐ kān dēng ma",
+      "tr": "Röportaj bitmeden önce şunu da öğrenmek istiyorum: Ödül haberiyle fotoğraf birlikte yayımlanacak mı?"
     },
     {
       "id": "DLG_ZH_HSK4_SC043_062",
@@ -499,9 +499,9 @@
     {
       "id": "DLG_ZH_HSK4_SC043_071",
       "speaker": "张伟",
-      "zh": "他会继续参加，不过不一定每次都要拿奖。",
-      "pinyin": "Tā huì jì xù cān jiā bù guò bù yí dìng měi cì dōu yào ná jiǎng",
-      "tr": "Katılmaya devam edecek ama her seferinde ödül alması gerekmiyor."
+      "zh": "我支持他继续参加，不过不一定每次都要拿奖。",
+      "pinyin": "wǒ zhī chí tā jì xù cān jiābù guò bù yí dìng měi cì dōu yào ná jiǎng",
+      "tr": "Katılmayı sürdürmesini destekliyorum; ama her seferinde ödül alması gerekmiyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_072",
@@ -527,9 +527,9 @@
     {
       "id": "DLG_ZH_HSK4_SC043_075",
       "speaker": "张伟",
-      "zh": "我只是提醒他检查电池，最后还是他自己准备好了。",
-      "pinyin": "Wǒ zhǐ shì tí xǐng tā jiǎn chá diàn chí zuì hòu hái shì tā zì jǐ zhǔn bèi hǎo le",
-      "tr": "Pilini kontrol etmesini yalnızca hatırlattım; hazırlığını yine kendisi yaptı."
+      "zh": "我也常提醒他出门前检查电池和存储卡，免得到了现场才发现不能用。",
+      "pinyin": "wǒ yě cháng tí xǐng tā chū mén qián jiǎn chá diàn chí hé cún chǔ kǎmiǎn de dào le xiàn chǎng cái fā xiàn bù néng yòng",
+      "tr": "Dışarı çıkmadan önce pili ve hafıza kartını kontrol etmesini ben de sık sık hatırlatırım; çekim yerine varınca çalışmadığını fark etmesin diye."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_076",
@@ -562,9 +562,9 @@
     {
       "id": "DLG_ZH_HSK4_SC043_080",
       "speaker": "刘梅",
-      "zh": "好，我们回家会一起读。谢谢你认真听乐乐讲摄影。",
-      "pinyin": "Hǎo wǒ men huí jiā huì yì qǐ dú xiè xiè nǐ rèn zhēn tīng lè lè jiǎng shè yǐng",
-      "tr": "Güzel, eve gidince birlikte okuruz. Lele’nin fotoğrafçılığını dinlediğin için teşekkürler."
+      "zh": "好，报道出来后我们会一起读。谢谢你认真听乐乐讲摄影。",
+      "pinyin": "hǎobào dào chū lái hòu wǒ men huì yì qǐ dúxiè xiè nǐ rèn zhēn tīng lè lè jiǎng shè yǐng",
+      "tr": "Peki, haber yayımlanınca birlikte okuruz. Lele’nin fotoğrafçılığını dikkatle dinlediğin için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_081",
@@ -583,9 +583,9 @@
     {
       "id": "DLG_ZH_HSK4_SC043_083",
       "speaker": "张伟",
-      "zh": "这听起来很有意思。你可以从同一个角度开始，每个月拍一次。",
-      "pinyin": "Zhè tīng qǐ lái hěn yǒu yì si nǐ kě yǐ cóng tóng yī gè jiǎo dù kāi shǐ měi gè yuè pāi yī cì",
-      "tr": "Bu ilginç bir fikir. Aynı noktadan başlayıp her ay bir fotoğraf çekebilirsin."
+      "zh": "家附近四季变化很丰富，我可以帮他记下适合拍摄的时间。",
+      "pinyin": "jiā fù jìn sì jì biàn huà hěn fēng fùwǒ kě yǐ bāng tā jì xià shì hé pāi shè de shí jiān",
+      "tr": "Evin yakınında mevsimler çok güzel değişiyor; uygun çekim zamanlarını not etmesine yardım edebilirim."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_084",
@@ -618,9 +618,9 @@
     {
       "id": "DLG_ZH_HSK4_SC043_088",
       "speaker": "刘梅",
-      "zh": "我还想学会写简短的说明，让看照片的人知道我注意到了什么。",
-      "pinyin": "wǒ hái xiǎng xué huì xiě jiǎn duǎn de shuō míng ràng kàn zhào piān de rén zhī dào wǒ zhù yì dào le shén me",
-      "tr": "Fotoğrafı görenlerin neye dikkat ettiğimi anlaması için kısa açıklamalar yazmayı da öğrenmek istiyorum."
+      "zh": "你也可以试着写简短的说明，让看照片的人知道自己注意到了什么。",
+      "pinyin": "nǐ yě kě yǐ shì zhe xiě jiǎn duǎn de shuō míngràng kàn zhào piān de rén zhī dào zì jǐ zhù yì dào le shén me",
+      "tr": "Fotoğrafa bakanların neleri fark ettiğini anlaması için kısa açıklamalar yazmayı da deneyebilirsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_089",
@@ -639,16 +639,16 @@
     {
       "id": "DLG_ZH_HSK4_SC043_091",
       "speaker": "张伟",
-      "zh": "我以前不太敢给别人看自己的照片，怕他们觉得不好。",
-      "pinyin": "Wǒ yǐ qián bù tài gǎn gěi bié rén kàn zì jǐ de zhào piān pà tā men jué de bù hǎo",
-      "tr": "Önceden fotoğraflarımı başkalarına göstermekten çekinirdim; beğenmezler diye korkardım."
+      "zh": "我以前也怕别人评价自己的作品，后来才发现有用的意见能帮我看见盲点。",
+      "pinyin": "wǒ yǐ qián yě pà bié rén píng jià zì jǐ de zuò pǐnhòu lái cái fā xiàn yǒu yòng de yì jiàn néng bāng wǒ kàn jiàn máng diǎn",
+      "tr": "Ben de eskiden başkalarının çalışmalarımı değerlendirmesinden çekinirdim; sonra işe yarar görüşlerin göremediğim noktaları fark ettirdiğini anladım."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_092",
       "speaker": "刘梅",
-      "zh": "现在你愿意听意见，也能自己决定哪些建议适合你。",
-      "pinyin": "Xiàn zài nǐ yuàn yì tīng yì jiàn yě néng zì jǐ jué dìng nǎ xiē jiàn yì shì hé nǐ",
-      "tr": "Artık görüşleri dinliyor, hangi önerilerin sana uyduğuna kendin karar veriyorsun."
+      "zh": "你现在愿意听意见，也能自己决定哪些建议适合自己。",
+      "pinyin": "nǐ xiàn zài yuàn yì tīng yì jiànyě néng zì jǐ jué dìng nǎ xiē jiàn yì shì hé zì jǐ",
+      "tr": "Artık görüşleri dinlemeye ve hangi önerilerin sana uyduğuna kendin karar vermeye açıksın."
     },
     {
       "id": "DLG_ZH_HSK4_SC043_093",

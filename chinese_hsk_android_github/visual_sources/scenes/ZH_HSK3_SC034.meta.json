@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC034.json",
-  "dialogueSha256": "afec3cf58202d47c1f292d0712dc2818f1d20307294c789282b711cbe818ee6a",
+  "dialogueSha256": "a5deb3ec0fe842e1dd498819ab643273d16e8ce07f7474093bb965f83967006b",
   "titleTr": "Sokak Festivali",
   "locationId": "LOC_ZH_FESTIVAL_SQUARE_001",
   "scenePurposeTr": "Kafe yerel festivalde dışarıda küçük bir stant açar.",

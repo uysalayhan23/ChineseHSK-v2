@@ -95,9 +95,9 @@
     {
       "id": "DLG_ZH_HSK5_SC021_013",
       "speaker": "张雨桐",
-      "zh": "谢谢。我们交往一段时间了，觉得是时候让家里人认识彼此。",
-      "pinyin": "xiè xiè 。 wǒ men jiāo wǎng yī duàn shí jiān le ， jué de shì shí hòu ràng jiā lǐ rén rèn shí bǐ cǐ 。",
-      "tr": "Teşekkürler. Bir süredir birlikteyiz; ailelerimizin tanışma zamanı geldi diye düşündük."
+      "zh": "我们认真对待这段恋爱关系，也觉得是时候让家里人认识彼此。",
+      "pinyin": "wǒ men rèn zhēn duì dài zhè duàn liàn ài guān xì ， yě jué de shì shí hòu ràng jiā lǐ rén rèn shí bǐ cǐ 。",
+      "tr": "Bu ilişkimizi ciddiye alıyoruz ve artık ailelerimizin birbirini tanımasının zamanı geldi diye düşünüyoruz."
     },
     {
       "id": "DLG_ZH_HSK5_SC021_014",
@@ -221,9 +221,9 @@
     {
       "id": "DLG_ZH_HSK5_SC021_031",
       "speaker": "刘梅",
-      "zh": "谢谢你直接告诉我们。我们只是好奇，也会注意别让你们有压力。",
-      "pinyin": "xiè xiè nǐ zhí jiē gào sù wǒ men 。 wǒ men zhǐ shì hào qí ， yě huì zhù yì bié ràng nǐ men yǒu yā lì 。",
-      "tr": "Bunu açıkça söylediğin için teşekkürler. Yalnızca merak ediyoruz; sizi baskı altında bırakmamaya dikkat ederiz."
+      "zh": "谢谢你直接告诉我们。我们只是好奇，也会注意分寸，不追问你们的隐私。",
+      "pinyin": "xiè xiè nǐ zhí jiē gào sù wǒ men 。 wǒ men zhǐ shì hào qí ， yě huì zhù yì fēn cùn ， bù zhuī wèn nǐ men de yǐn sī 。",
+      "tr": "Bunu açıkça söylediğin için teşekkürler. Merak ettik ama ölçülü davranıp özel hayatınızı kurcalamayacağız."
     },
     {
       "id": "DLG_ZH_HSK5_SC021_032",
@@ -298,9 +298,9 @@
     {
       "id": "DLG_ZH_HSK5_SC021_042",
       "speaker": "伴侣",
-      "zh": "独立和亲近并不冲突，重要的是彼此知道需要什么。",
-      "pinyin": "dú lì hé qīn jìn bìng bù chōng tū ， zhòng yào de shì bǐ cǐ zhī dào xū yào shén me 。",
-      "tr": "Bağımsızlık ve yakınlık çelişmez; önemli olan birbirimizin neye ihtiyaç duyduğunu bilmek."
+      "zh": "独立和亲近并不冲突，及时沟通才能建立信任，也能知道彼此需要什么。",
+      "pinyin": "dú lì hé qīn jìn bìng bù chōng tū ， jí shí gōu tōng cái néng jiàn lì xìn rèn ， yě néng zhī dào bǐ cǐ xū yào shén me 。",
+      "tr": "Bağımsızlık ve yakınlık çelişmez; zamanında iletişim güven kurar ve birbirimizin ihtiyaçlarını anlamamızı sağlar."
     },
     {
       "id": "DLG_ZH_HSK5_SC021_043",
@@ -641,9 +641,9 @@
     {
       "id": "DLG_ZH_HSK5_SC021_091",
       "speaker": "刘梅",
-      "zh": "你们的节奏由你们决定，我们愿意听，也愿意等。",
-      "pinyin": "nǐ men de jié zòu yóu nǐ men jué dìng ， wǒ men yuàn yì tīng ， yě yuàn yì děng 。",
-      "tr": "Temponuza siz karar verin; dinlemeye de beklemeye de hazırız."
+      "zh": "无论你们什么时候作决定，我们都会尊重你们的节奏，也愿意听。",
+      "pinyin": "wú lùn nǐ men shén me shí hòu zuò jué dìng ， wǒ men dū huì zūn zhòng nǐ men de jié zòu ， yě yuàn yì tīng 。",
+      "tr": "Ne zaman karar verirseniz verin, temponuza saygı duyar ve sizi dinlemeye hazır oluruz."
     },
     {
       "id": "DLG_ZH_HSK5_SC021_092",
@@ -730,9 +730,9 @@
         "zh": "伴侣",
         "pinyin": "bànlǚ",
         "tr": "partner / eş adayı",
-        "exampleZh": "伴侣在这件事里很重要。",
-        "examplePinyin": "Bànlǚ zài zhè jiàn shì lǐ hěn zhòngyào.",
-        "exampleTr": "Partner / eş adayı bu konuda önemli.",
+        "exampleZh": "爸、妈，今天我想正式介绍一下我的伴侣。",
+        "examplePinyin": "Bà 、 mā ， jīn tiān wǒ xiǎng zhèng shì jiè shào yī xià wǒ de bàn lǚ 。",
+        "exampleTr": "Baba, anne, bugün partnerimi size resmen tanıtmak istiyorum.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "恋爱关系",
         "pinyin": "liàn’ài guānxì",
         "tr": "romantik ilişki",
-        "exampleZh": "我们把恋爱关系也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ liàn’ài guānxì yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Romantik ilişki konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我们认真对待这段恋爱关系，也觉得是时候让家里人认识彼此。",
+        "examplePinyin": "Wǒ men rèn zhēn duì dài zhè duàn liàn ài guān xì ， yě jué de shì shí hòu ràng jiā lǐ rén rèn shí bǐ cǐ 。",
+        "exampleTr": "Bu ilişkimizi ciddiye alıyoruz ve artık ailelerimizin birbirini tanımasının zamanı geldi diye düşünüyoruz.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "隐私",
         "pinyin": "yǐnsī",
         "tr": "mahremiyet",
-        "exampleZh": "如果隐私发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ yǐnsī fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Mahremiyet değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "谢谢你直接告诉我们。我们只是好奇，也会注意分寸，不追问你们的隐私。",
+        "examplePinyin": "Xiè xiè nǐ zhí jiē gào sù wǒ men 。 wǒ men zhǐ shì hào qí ， yě huì zhù yì fēn cùn ， bù zhuī wèn nǐ men de yǐn sī 。",
+        "exampleTr": "Bunu açıkça söylediğin için teşekkürler. Merak ettik ama ölçülü davranıp özel hayatınızı kurcalamayacağız.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "信任",
         "pinyin": "xìnrèn",
         "tr": "güven",
-        "exampleZh": "关于信任，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú xìnrèn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Güven konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "独立和亲近并不冲突，及时沟通才能建立信任，也能知道彼此需要什么。",
+        "examplePinyin": "Dú lì hé qīn jìn bìng bù chōng tū ， jí shí gōu tōng cái néng jiàn lì xìn rèn ， yě néng zhī dào bǐ cǐ xū yào shén me 。",
+        "exampleTr": "Bağımsızlık ve yakınlık çelişmez; zamanında iletişim güven kurar ve birbirimizin ihtiyaçlarını anlamamızı sağlar.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "家人是我们不能忽略的一点。",
-        "examplePinyin": "Jiārén shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Aile göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "对，别紧张。今天就是一家人一起吃顿饭。",
+        "examplePinyin": "Duì ， bié jǐn zhāng 。 jīn tiān jiù shì yī jiā rén yì qǐ chī dùn fàn 。",
+        "exampleTr": "Evet, gerilme. Bugün yalnızca ailece yemek yiyeceğiz.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "尊重",
         "pinyin": "zūnzhòng",
         "tr": "saygı",
-        "exampleZh": "我们把尊重也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zūnzhòng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Saygı konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "无论你们什么时候作决定，我们都会尊重你们的节奏，也愿意听。",
+        "examplePinyin": "Wú lùn nǐ men shén me shí hòu zuò jué dìng ， wǒ men dū huì zūn zhòng nǐ men de jié zòu ， yě yuàn yì tīng 。",
+        "exampleTr": "Ne zaman karar verirseniz verin, temponuza saygı duyar ve sizi dinlemeye hazır oluruz.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "我来负责沟通这一部分。",
-        "examplePinyin": "Wǒ lái fùzé gōutōng zhè yí bùfen.",
-        "exampleTr": "Iletişim kurmak kısmını ben üstleneyim.",
-        "kind": "review"
+        "exampleZh": "独立和亲近并不冲突，及时沟通才能建立信任，也能知道彼此需要什么。",
+        "examplePinyin": "Dú lì hé qīn jìn bìng bù chōng tū ， jí shí gōu tōng cái néng jiàn lì xìn rèn ， yě néng zhī dào bǐ cǐ xū yào shén me 。",
+        "exampleTr": "Bağımsızlık ve yakınlık çelişmez; zamanında iletişim güven kurar ve birbirimizin ihtiyaçlarını anlamamızı sağlar.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC021_008",
         "zh": "分寸",
         "pinyin": "fēncùn",
         "tr": "ölçülülük / sosyal incelik",
-        "exampleZh": "关于分寸，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú fēncùn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Ölçülülük / sosyal incelik konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "谢谢你直接告诉我们。我们只是好奇，也会注意分寸，不追问你们的隐私。",
+        "examplePinyin": "Xiè xiè nǐ zhí jiē gào sù wǒ men 。 wǒ men zhǐ shì hào qí ， yě huì zhù yì fēn cùn ， bù zhuī wèn nǐ men de yǐn sī 。",
+        "exampleTr": "Bunu açıkça söylediğin için teşekkürler. Merak ettik ama ölçülü davranıp özel hayatınızı kurcalamayacağız.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1224,6 +1224,14 @@
     },
     "continuityNoteTr": "Yutong’un Ciddi İlişkisi olayı HSK5 yaşam çizgisinde sahne 21 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 16,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC021.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

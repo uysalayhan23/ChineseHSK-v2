@@ -16,7 +16,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC004_002",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "这是我结婚时戴的，今天想交给雨桐，希望她愿意留作纪念。",
       "pinyin": "zhè shì wǒ jié hūn shí dài de ， jīn tiān xiǎng jiāo gěi yǔ tóng ， xī wàng tā yuàn yì liú zuò jì niàn 。",
       "tr": "Bunları evlendiğimde takmıştım. Bugün Yutong’a vermek, hatıra olarak saklamasını istedim."
@@ -37,7 +37,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC004_005",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "听您这么说，我放心了。我怕自己选简单的仪式，会让您觉得不重视传统。",
       "pinyin": "tīng nín zhè me shuō ， wǒ fàng xīn le 。 wǒ pà zì jǐ xuǎn jiǎn dān de yí shì ， huì ràng nín jué de bù zhòng shì chuán tǒng 。",
       "tr": "Bunu duymak içimi rahatlattı. Sade bir tören seçersem geleneğe önem vermediğimi düşünürsünüz diye korkmuştum."
@@ -177,7 +177,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC004_025",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "奶奶，您送我的首饰，我想在敬茶时戴上，平时也会好好收着。",
       "pinyin": "nǎi nǎi ， nín sòng wǒ de shǒu shì ， wǒ xiǎng zài jìng chá shí dài shàng ， píng shí yě huì hǎo hǎo shōu zhe 。",
       "tr": "Büyükanne, verdiğiniz takıları çay sunarken takmak, sonra da özenle saklamak istiyorum."
@@ -625,7 +625,7 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC004_089",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "奶奶，您送的首饰我会好好保管，婚礼后也会常常想起今天。",
       "pinyin": "nǎi nǎi ， nín sòng de shǒu shì wǒ huì hǎo hǎo bǎo guǎn ， hūn lǐ hòu yě huì cháng cháng xiǎng qǐ jīn tiān 。",
       "tr": "Büyükanne, verdiğiniz takıları özenle saklayacağım; düğünden sonra da bugünü hatırlayacağım."
@@ -698,14 +698,14 @@
       "speaker": "张雨桐",
       "zh": "好，今天先到这里。接下来按计划一步一步准备，不必急着一次做完。",
       "pinyin": "hǎo ， jīn tiān xiān dào zhè lǐ 。 jiē xià lái àn jì huà yí bù yí bù zhǔn bèi ， bù bì jí zhe yī cì zuò wán 。",
-      "tr": "Olur, bugünlük burada bırakalım. Sonrasını adım adım hazırlarız; hepsini bir anda bitirmemiz gerekmez."
+      "tr": "Peki, bugünlük burada bırakalım. Bundan sonra plana göre adım adım ilerleriz; her şeyi hemen bitirmemize gerek yok."
     },
     {
       "id": "DLG_ZH_HSK6_SC004_100",
-      "speaker": "奶奶",
-      "zh": "谢谢奶奶愿意和我们一起调整。等日期定下来，我们再正式邀请大家。",
-      "pinyin": "xiè xiè nǎi nǎi yuàn yì hé wǒ men yì qǐ tiáo zhěng 。 děng rì qī dìng xià lái ， wǒ men zài zhèng shì yāo qǐng dà jiā 。",
-      "tr": "Bizimle birlikte uyarlama yapmaya açık olduğunuz için teşekkürler büyükanne. Tarih belli olunca herkesi resmen davet ederiz."
+      "speaker": "张伟",
+      "zh": "谢谢妈愿意和我们一起调整。等日期定下来，我们再正式邀请大家。",
+      "pinyin": "xiè xiè mā yuàn yì hé wǒ men yì qǐ tiáo zhěng 。 děng rì qī dìng xià lái ， wǒ men zài zhèng shì yāo qǐng dà jiā 。",
+      "tr": "Annemizle birlikte düzenleme yapabildiğimiz için teşekkürler. Tarih kesinleşince herkesi resmen davet ederiz."
     }
   ]
 }

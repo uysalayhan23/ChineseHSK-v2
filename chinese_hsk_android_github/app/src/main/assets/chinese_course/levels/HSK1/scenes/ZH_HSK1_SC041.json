@@ -590,16 +590,16 @@
     {
       "id": "DLG_ZH_HSK1_SC041_024",
       "speaker": "张乐乐",
-      "zh": "那我们需要给她吃药吗？",
-      "pinyin": "Nà wǒmen xūyào gěi tā chīyào ma?",
-      "tr": "Ona ilaç vermemiz gerekiyor mu?"
+      "zh": "她今天需要吃药吗？",
+      "pinyin": "Tā jīntiān xūyào chīyào ma？",
+      "tr": "Bugün ilaç alması gerekiyor mu?"
     },
     {
       "id": "DLG_ZH_HSK1_SC041_025",
       "speaker": "刘梅",
-      "zh": "那她需要吃药吗？",
-      "pinyin": "Nà tā xūyào chīyào ma?",
-      "tr": "Peki ilaç alması gerekiyor mu?"
+      "zh": "如果需要吃药，要怎么给她吃？",
+      "pinyin": "Rúguǒ xūyào chīyào， yào zěnme gěi tā chī？",
+      "tr": "İlaç gerekiyorsa ona nasıl vermeliyiz?"
     },
     {
       "id": "DLG_ZH_HSK1_SC041_026",
@@ -611,9 +611,9 @@
     {
       "id": "DLG_ZH_HSK1_SC041_027",
       "speaker": "兽医",
-      "zh": "可以先给她一点儿，不要放太多。",
-      "pinyin": "Kěyǐ xiāngěi tā yìdiǎnér, búyào fàngtàiduō.",
-      "tr": "Önce biraz verin, çok koymayın."
+      "zh": "她现在不用吃药，先给她一点儿平时的猫粮就好。",
+      "pinyin": "Tā xiànzài bùyòng chīyào， xiān gěi tā yìdiǎnr píngshí de māoliáng jiù hǎo。",
+      "tr": "Şimdilik ilaca ihtiyacı yok; önce her zamanki mamasından biraz verin."
     },
     {
       "id": "DLG_ZH_HSK1_SC041_028",

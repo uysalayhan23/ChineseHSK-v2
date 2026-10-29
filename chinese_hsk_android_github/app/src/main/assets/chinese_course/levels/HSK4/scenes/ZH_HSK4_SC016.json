@@ -730,9 +730,9 @@
         "zh": "矛盾",
         "pinyin": "máodùn",
         "tr": "anlaşmazlık",
-        "exampleZh": "矛盾是我们不能忽略的一点。",
-        "examplePinyin": "Máodùn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Anlaşmazlık göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "同事甲，你最担心这次矛盾会带来什么影响？",
+        "examplePinyin": "Tóng shì jiǎ ， nǐ zuì dān xīn zhè cì máo dùn huì dài lái shén me yǐng xiǎng ？",
+        "exampleTr": "Çalışma arkadaşı A, bu anlaşmazlığın neye yol açmasından en çok kaygılanıyorsun?",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "协调",
         "pinyin": "xiétiáo",
         "tr": "uzlaştırmak / koordine etmek",
-        "exampleZh": "如果能提前协调，后面会顺利很多。",
-        "examplePinyin": "Rúguǒ néng tíqián xiétiáo, hòumiàn huì shùnlì hěn duō.",
-        "exampleTr": "Önceden uzlaştırmak / koordine etmek mümkün olursa sonrası çok daha rahat ilerler.",
+        "exampleZh": "好，先试一周。下次协调时我们看重复版本有没有减少。",
+        "examplePinyin": "Hǎo ， xiān shì yī zhōu 。 xià cì xié tiáo shí wǒ men kàn zhòng fù bǎn běn yǒu méi yǒu jiǎn shǎo 。",
+        "exampleTr": "Peki, bir hafta deneyelim. Sonraki değerlendirmede yinelenen sürümlerin azalıp azalmadığına bakalım.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "我来负责沟通这一部分。",
-        "examplePinyin": "Wǒ lái fùzé gōutōng zhè yí bùfen.",
-        "exampleTr": "Iletişim kurmak kısmını ben üstleneyim.",
+        "exampleZh": "这样沟通就有来有往，不会只剩下抱怨和猜测。",
+        "examplePinyin": "Zhè yàng gōu tōng jiù yóu lái yǒu wǎng ， bú huì zhǐ shèng xià bào yuàn hé cāi cè 。",
+        "exampleTr": "Böylece iletişim karşılıklı olur; yalnızca yakınma ve tahminden ibaret kalmaz.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "尊重",
         "pinyin": "zūnzhòng",
         "tr": "saygı",
-        "exampleZh": "关于尊重，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zūnzhòng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Saygı konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "把具体行为说清楚，比给对方贴上不负责的标签更尊重。",
+        "examplePinyin": "Bǎ jù tǐ xíng wéi shuō qīng chǔ ， bǐ gěi duì fāng tiē shàng bù fù zé de biāo qiān gèng zūn zhòng 。",
+        "exampleTr": "Somut davranışı açıklamak, karşı tarafı sorumsuz diye etiketlemekten daha saygılıdır.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "新同事",
         "pinyin": "xīn tóngshì",
         "tr": "yeni iş arkadaşı",
-        "exampleZh": "新同事是我们不能忽略的一点。",
-        "examplePinyin": "Xīn tóngshì shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Yeni iş arkadaşı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我来检查说明是否好懂，新同事明天照着做一遍。",
+        "examplePinyin": "Wǒ lái jiǎn chá shuō míng shì fǒu háo dǒng ， xīn tóng shì míng tiān zhào zhe zuò yī biàn 。",
+        "exampleTr": "Açıklamaların anlaşılır olup olmadığını ben kontrol ederim; yeni çalışma arkadaşı yarın adımları uygular.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "妥协",
         "pinyin": "tuǒxié",
         "tr": "uzlaşma",
-        "exampleZh": "我们把妥协也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ tuǒxié yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Uzlaşma konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "这就是妥协：不是删掉问题，而是用准确的方式说明问题。",
+        "examplePinyin": "Zhè jiù shì tuǒ xié ： bú shì shān diào wèn tí ， ér shì yòng zhǔn què de fāng shì shuō míng wèn tí 。",
+        "exampleTr": "Uzlaşma böyle olur: sorunu silmek değil, doğru biçimde açıklamak.",
         "kind": "active"
       },
       {

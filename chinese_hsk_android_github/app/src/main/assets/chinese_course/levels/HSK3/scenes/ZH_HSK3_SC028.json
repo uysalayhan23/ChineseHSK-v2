@@ -17,14 +17,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_002",
-      "speaker": "工作人员",
+      "speaker": "同事",
       "zh": "这次去几天？行程安排好了吗？",
       "pinyin": "zhè cì qù jǐ tiān ？ xíng chéng ān pái hǎo le ma ？",
       "tr": "Bu kez kaç gün kalacaksın? Programını ayarladın mı?."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_003",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "三天，周五晚上回来，家里已经知道了。",
       "pinyin": "sān tiān ， zhōu wǔ wǎn shàng huí lái ， jiā lǐ yǐ jīng zhī dào le 。",
       "tr": "Üç gün. Cuma akşamı döneceğim; ailem biliyor."
@@ -45,14 +45,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_006",
-      "speaker": "工作人员",
+      "speaker": "同事",
       "zh": "酒店离开会的地方远不远？",
       "pinyin": "jiǔ diàn lí kāi huì de dì fāng yuǎn bù yuǎn ？",
       "tr": "Otel toplantı yerine uzak mı?."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_007",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "不远，坐公交车大约二十分钟。",
       "pinyin": "bù yuǎn ， zuò gōng jiāo chē dà yuē èr shí fēn zhōng 。",
       "tr": "Uzak değil; otobüsle yaklaşık yirmi dakika."
@@ -67,20 +67,20 @@
     {
       "id": "DLG_ZH_HSK3_SC028_009",
       "speaker": "张伟",
-      "zh": "带了，卡里还有钱，不用再买新的。",
-      "pinyin": "dài le ， kǎ lǐ hái yǒu qián ， bù yòng zài mǎi xīn de 。",
-      "tr": "Aldım; içinde bakiye var, yenisini almam gerekmiyor."
+      "zh": "带了，卡里还有钱。我先看看余额，然后再出门。",
+      "pinyin": "Dài le, kǎlǐ háiyǒu qián. wǒxiān kànkàn yúé, ránhòu zài chūmén.",
+      "tr": "Yanımda. Kartta hâlâ para var. Önce bakiyeyi kontrol edip sonra çıkacağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_010",
-      "speaker": "工作人员",
+      "speaker": "同事",
       "zh": "很好，出发前我们再核对一下时间。",
       "pinyin": "hěn hǎo ， chū fā qián wǒ men zài hé duì yī xià shí jiān 。",
       "tr": "Güzel. Yola çıkmadan saati yeniden kontrol edelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_011",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "飞机是上午九点半，八点以前要到机场。",
       "pinyin": "fēi jī shì shàng wǔ jiǔ diǎn bàn ， bā diǎn yǐ qián yào dào jī chǎng 。",
       "tr": "Uçağım sabah dokuz buçukta; sekizden önce havaalanında olmalıyım."
@@ -101,14 +101,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_014",
-      "speaker": "工作人员",
+      "speaker": "同事",
       "zh": "如果路上堵车呢？要不要再提前一点？",
       "pinyin": "rú guǒ lù shàng dǔ chē ne ？ yào bù yào zài tí qián yì diǎn ？",
       "tr": "Trafik sıkışırsa ne olacak? Biraz daha erken mi çıksan?."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_015",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "可以，我把时间改成六点二十，留些余地。",
       "pinyin": "kě yǐ ， wǒ bǎ shí jiān gǎi chéng liù diǎn èr shí ， liú xiē yú dì 。",
       "tr": "Olur, saati altı yirmiye çekeyim; biraz pay kalsın."
@@ -122,14 +122,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_017",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "谢谢。你也要把酒店地址存在手机里。",
       "pinyin": "xiè xiè 。 nǐ yě yào bǎ jiǔ diàn dì zhǐ cún zài shǒu jī lǐ 。",
       "tr": "Teşekkürler. Otelin adresini telefonuna kaydet."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_018",
-      "speaker": "工作人员",
+      "speaker": "同事",
       "zh": "地址已经存好了，地图也能打开。",
       "pinyin": "dì zhǐ yǐ jīng cún hǎo le ， dì tú yě néng dǎ kāi 。",
       "tr": "Adresi kaydettim; harita da açılıyor."
@@ -143,21 +143,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_020",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "我带了充电器，也把充电宝放进包里了。",
       "pinyin": "wǒ dài le chōng diàn qì ， yě bǎ chōng diàn bǎo fàng jìn bāo lǐ le 。",
       "tr": "Şarj aletimi aldım, taşınabilir şarj cihazını da çantama koydum."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_021",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "你到上海以后先给家人打电话吧。",
       "pinyin": "nǐ dào shàng hǎi yǐ hòu xiān gěi jiā rén dǎ diàn huà ba 。",
       "tr": "Şanghay’a varınca önce aileni ara."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_022",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "我下飞机以后就打，告诉他们我到了。",
       "pinyin": "wǒ xià fēi jī yǐ hòu jiù dǎ ， gào sù tā men wǒ dào le 。",
       "tr": "Uçaktan inince arayıp vardığımı söylerim."
@@ -171,21 +171,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_024",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "我会说周五晚上回来，行程没有变化。",
       "pinyin": "wǒ huì shuō zhōu wǔ wǎn shàng huí lái ， xíng chéng méi yǒu biàn huà 。",
       "tr": "Cuma akşamı döneceğimi, programın değişmediğini söylerim."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_025",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "这次出差主要要做什么？",
       "pinyin": "zhè cì chū chāi zhǔ yào yào zuò shén me ？",
       "tr": "Bu iş seyahatinde asıl ne yapacaksın?."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_026",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "我去见客户，介绍我们新做的计划。",
       "pinyin": "wǒ qù jiàn kè hù ， jiè shào wǒ men xīn zuò de jì huà 。",
       "tr": "Müşteriyle görüşüp hazırladığımız yeni planı tanıtacağım."
@@ -199,21 +199,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_028",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "都准备好了，我把电子文件和纸上的都带上。",
       "pinyin": "dōu zhǔn bèi hǎo le ， wǒ bǎ diàn zi wén jiàn hé zhǐ shàng de dōu dài shàng 。",
       "tr": "Hazır. Hem dijital dosyaları hem basılı kopyaları alacağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_029",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "放在两个地方比较安全，别只带一份。",
       "pinyin": "fàng zài liǎng gè dì fāng bǐ jiào ān quán ， bié zhǐ dài yī fèn 。",
       "tr": "İki ayrı yerde tutmak daha güvenli; tek kopyaya güvenme."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_030",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "好，我把一份放进电脑包，另一份放行李箱。",
       "pinyin": "hǎo ， wǒ bǎ yī fèn fàng jìn diàn nǎo bāo ， lìng yī fèn fàng xíng lǐ xiāng 。",
       "tr": "Peki; birini bilgisayar çantama, diğerini valize koyarım."
@@ -227,21 +227,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_032",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "我先打电话确认，再调整当天的安排。",
       "pinyin": "wǒ xiān dǎ diàn huà què rèn ， zài tiáo zhěng dàng tiān de ān pái 。",
       "tr": "Önce arayıp teyit eder, sonra o günkü programımı değiştiririm."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_033",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "记得把客户的电话也存下来。",
       "pinyin": "jì de bǎ kè hù de diàn huà yě cún xià lái 。",
       "tr": "Müşterinin telefon numarasını da kaydet."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_034",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "已经存好了，到了以后我会先联系他。",
       "pinyin": "yǐ jīng cún hǎo le ， dào le yǐ hòu wǒ huì xiān lián xì tā 。",
       "tr": "Kaydettim; varınca önce onunla iletişim kurarım."
@@ -255,21 +255,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_036",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "下午要去办公室，晚上和同事一起吃饭。",
       "pinyin": "xià wǔ yào qù bàn gōng shì ， wǎn shàng hé tóng shì yì qǐ chī fàn 。",
       "tr": "Öğleden sonra ofise gideceğim; akşam iş arkadaşlarımla yemek yiyeceğim."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_037",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "那你别把时间排得太满，路上要留点时间。",
       "pinyin": "nà nǐ bié bǎ shí jiān pái dé tài mǎn ， lù shàng yào liú diǎn shí jiān 。",
       "tr": "Programını çok sıkıştırma; yol için de zaman bırak."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_038",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "我留了半小时，晚饭也订在办公室附近。",
       "pinyin": "wǒ liú le bàn xiǎo shí ， wǎn fàn yě dìng zài bàn gōng shì fù jìn 。",
       "tr": "Yarım saat boşluk bıraktım; akşam yemeği de ofisin yakınında."
@@ -283,21 +283,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_040",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "早上九点，我八点半到会议室就来得及。",
       "pinyin": "zǎo shàng jiǔ diǎn ， wǒ bā diǎn bàn dào huì yì shì jiù lái de jí 。",
       "tr": "Sabah dokuzda; sekiz buçukta toplantı odasında olursam yetişirim."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_041",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "你可以先查一下酒店到办公室的公交车。",
       "pinyin": "nǐ kě yǐ xiān chá yī xià jiǔ diàn dào bàn gōng shì de gōng jiāo chē 。",
       "tr": "Otelden ofise giden otobüsü önceden kontrol edebilirsin."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_042",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "我看过了，坐三站就到，车也很多。",
       "pinyin": "wǒ kàn guò le ， zuò sān zhàn jiù dào ， chē yě hěn duō 。",
       "tr": "Baktım; üç durak sürüyor ve sık otobüs var."
@@ -311,7 +311,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_044",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "好，我也把公交卡放在容易拿的口袋里。",
       "pinyin": "hǎo ， wǒ yě bǎ gōng jiāo kǎ fàng zài róng yì ná de kǒu dài lǐ 。",
       "tr": "Peki, otobüs kartını kolay ulaşacağım cebe koyarım."
@@ -332,14 +332,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_047",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "谢谢，我的行李可以直接送到上海吗？",
       "pinyin": "xiè xiè ， wǒ de xíng lǐ kě yǐ zhí jiē sòng dào shàng hǎi ma ？",
       "tr": "Teşekkürler. Valizim doğrudan Şanghay’a gönderilecek mi?."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_048",
-      "speaker": "同事",
+      "speaker": "工作人员",
       "zh": "可以，请把行李牌留好，到了以后再取行李。",
       "pinyin": "kě yǐ ， qǐng bǎ xíng lǐ pái liú hǎo ， dào le yǐ hòu zài qǔ xíng lǐ 。",
       "tr": "Evet. Bagaj fişinizi saklayın, varınca valizinizi alırsınız."
@@ -360,14 +360,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_051",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "明白了，过了安检以后有地方买水吗？",
       "pinyin": "míng bái le ， guò le ān jiǎn yǐ hòu yǒu dì fāng mǎi shuǐ ma ？",
       "tr": "Anladım. Güvenlikten sonra su alacak bir yer var mı?."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_052",
-      "speaker": "同事",
+      "speaker": "工作人员",
       "zh": "有，里面有商店和休息区，登机口也有提示。",
       "pinyin": "yǒu ， lǐ miàn yǒu shāng diàn hé xiū xī qū ， dēng jī kǒu yě yǒu tí shì 。",
       "tr": "Var; içeride dükkân ve dinlenme alanı bulunuyor, kapı numarası da gösterilir."
@@ -395,21 +395,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_056",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "不用了，你们送到这里就好，进去后我会联系你们。",
       "pinyin": "bù yòng le ， nǐ men sòng dào zhè lǐ jiù hǎo ， jìn qù hòu wǒ huì lián xì nǐ men 。",
       "tr": "Gerek yok, buraya kadar gelmeniz yeterli. İçeri girince sizi ararım."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_057",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "别忘了把护照和登机牌放在一起。",
       "pinyin": "bié wàng le bǎ hù zhào hé dēng jī pái fàng zài yì qǐ 。",
       "tr": "Pasaportunla biniş kartını birlikte koymayı unutma."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_058",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "我放在外套口袋里了，拿起来很方便。",
       "pinyin": "wǒ fàng zài wài tào kǒu dài lǐ le ， ná qǐ lái hěn fāng biàn 。",
       "tr": "Ceketimin cebine koydum; kolayca çıkarabilirim."
@@ -423,35 +423,35 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_060",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "好，我过安检以前先把手机和钥匙放进盒子里。",
       "pinyin": "hǎo ， wǒ guò ān jiǎn yǐ qián xiān bǎ shǒu jī hé yào shi fàng jìn hé zi lǐ 。",
       "tr": "Peki; kontrolden önce telefonumu ve anahtarlarımı kutuya koyarım."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_061",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "工作人员说右边就是入口，我们现在过去吧。",
       "pinyin": "gōng zuò rén yuán shuō yòu biān jiù shì rù kǒu ， wǒ men xiàn zài guò qù ba 。",
       "tr": "Görevli girişin sağda olduğunu söyledi; şimdi gidelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_062",
-      "speaker": "工作人员",
+      "speaker": "刘梅",
       "zh": "等一下，我先看一眼登机牌上的号码。",
       "pinyin": "děng yí xià ， wǒ xiān kàn yī yǎn dēng jī pái shàng de hào mǎ 。",
       "tr": "Bir dakika, biniş kartımdaki numaraya bakayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_063",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "三号柜台办手续，登机口是十二号，对吗？",
       "pinyin": "sān hào guì tái bàn shǒu xù ， dēng jī kǒu shì shí èr hào ， duì ma ？",
       "tr": "İşlem bankosu üçüncü, biniş kapısı on ikinci; doğru mu?."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_064",
-      "speaker": "同事",
+      "speaker": "工作人员",
       "zh": "对，登机时间是九点，别等到最后才过去。",
       "pinyin": "duì ， dēng jī shí jiān shì jiǔ diǎn ， bié děng dào zuì hòu cái guò qù 。",
       "tr": "Evet, uçağa biniş dokuzda; son ana kadar bekleme."
@@ -465,21 +465,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_066",
-      "speaker": "工作人员",
+      "speaker": "同事",
       "zh": "如果航班晚点，机场会通知你吗？",
       "pinyin": "rú guǒ háng bān wǎn diǎn ， jī chǎng huì tōng zhī nǐ ma ？",
       "tr": "Uçuş gecikirse havaalanı sana haber verir mi?."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_067",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "会看屏幕，也会听广播，我还可以打电话问。",
       "pinyin": "huì kàn píng mù ， yě huì tīng guǎng bō ， wǒ hái kě yǐ dǎ diàn huà wèn 。",
       "tr": "Ekrana ve anonslara bakarım; gerekirse telefon edip sorarım."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_068",
-      "speaker": "同事",
+      "speaker": "刘梅",
       "zh": "要是时间变了，马上告诉我们，家里也会担心。",
       "pinyin": "yào shì shí jiān biàn le ， mǎ shàng gào sù wǒ men ， jiā lǐ yě huì dān xīn 。",
       "tr": "Saat değişirse hemen bize haber ver; ailen de merak eder."
@@ -493,21 +493,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_070",
-      "speaker": "工作人员",
+      "speaker": "刘梅",
       "zh": "你行李里带了几件衣服？上海这几天会下雨。",
       "pinyin": "nǐ xíng lǐ lǐ dài le jǐ jiàn yī fú ？ shàng hǎi zhè jǐ tiān huì xià yǔ 。",
       "tr": "Valizinde kaç parça giysi var? Şanghay’da bu günlerde yağmur yağacak."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_071",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "带了两件外套和一把伞，天气变化也不怕。",
       "pinyin": "dài le liǎng jiàn wài tào hé yī bǎ sǎn ， tiān qì biàn huà yě bù pà 。",
       "tr": "İki ceketle bir şemsiye aldım; hava değişse de sorun olmaz."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_072",
-      "speaker": "同事",
+      "speaker": "刘梅",
       "zh": "伞放在外面的小袋子里，别放太深。",
       "pinyin": "sǎn fàng zài wài miàn de xiǎo dài zi lǐ ， bié fàng tài shēn 。",
       "tr": "Şemsiyeyi dış cebine koy; çok alta yerleştirme."
@@ -521,7 +521,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_074",
-      "speaker": "工作人员",
+      "speaker": "刘梅",
       "zh": "出差三天，家里的事情都安排好了吗？",
       "pinyin": "chū chāi sān tiān ， jiā lǐ de shì qíng dōu ān pái hǎo le ma ？",
       "tr": "Üç gün gideceksin; evdeki işleri ayarladın mı?."
@@ -549,21 +549,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_078",
-      "speaker": "工作人员",
+      "speaker": "刘梅",
       "zh": "你不在家时，家人可能会想你。",
       "pinyin": "nǐ bù zài jiā shí ， jiā rén kě néng huì xiǎng nǐ 。",
       "tr": "Evde olmadığında ailen seni özleyebilir."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_079",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "我也会想他们，不过这次工作很重要。",
       "pinyin": "wǒ yě huì xiǎng tā men ， bù guò zhè cì gōng zuò hěn zhòng yào 。",
       "tr": "Ben de onları özlerim ama bu iş seyahati önemli."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_080",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "工作做完以后，周五晚上就能回家。",
       "pinyin": "gōng zuò zuò wán yǐ hòu ， zhōu wǔ wǎn shàng jiù néng huí jiā 。",
       "tr": "İşim bitince cuma akşamı eve dönebileceğim."
@@ -577,14 +577,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_082",
-      "speaker": "工作人员",
+      "speaker": "刘梅",
       "zh": "酒店的预订可以免费取消吗？",
       "pinyin": "jiǔ diàn de yù dìng kě yǐ miǎn fèi qǔ xiāo ma ？",
       "tr": "Otel rezervasyonunu ücretsiz iptal edebilir misin?."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_083",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "我看过条件了，今天晚上以前可以改。",
       "pinyin": "wǒ kàn guò tiáo jiàn le ， jīn tiān wǎn shàng yǐ qián kě yǐ gǎi 。",
       "tr": "Koşulları kontrol ettim; bu akşamdan önce değiştirebilirim."
@@ -605,35 +605,35 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_086",
-      "speaker": "工作人员",
+      "speaker": "刘梅",
       "zh": "还是把他的电话留着，有事情容易联系。",
       "pinyin": "hái shì bǎ tā de diàn huà liú zhe ， yǒu shì qíng róng yì lián xì 。",
       "tr": "Yine de numarasını yanında tut; bir şey olursa kolayca ulaşırsın."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_087",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "我也记下办公室的地址和联系人姓名了。",
       "pinyin": "wǒ yě jì xià bàn gōng shì de dì zhǐ hé lián xì rén xìng míng le 。",
       "tr": "Ofisin adresini ve ilgili kişinin adını da not ettim."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_088",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "这些信息存在手机里，还写在本子上。",
       "pinyin": "zhè xiē xìn xī cún zài shǒu jī lǐ ， hái xiě zài běn zi shàng 。",
       "tr": "Bu bilgileri telefona kaydettim, deftere de yazdım."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_089",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "你准备得很仔细，我就放心了。",
       "pinyin": "nǐ zhǔn bèi dé hěn zǐ xì ， wǒ jiù fàng xīn le 。",
       "tr": "Çok dikkatli hazırlanmışsın; içim rahatladı."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_090",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "谢谢你帮我检查行程和行李。",
       "pinyin": "xiè xiè nǐ bāng wǒ jiǎn chá xíng chéng hé xíng lǐ 。",
       "tr": "Programımı ve valizimi kontrol etmeme yardım ettiğin için sağ ol."
@@ -647,21 +647,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_092",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "现在时间差不多了，我该进安检了。",
       "pinyin": "xiàn zài shí jiān chà bù duō le ， wǒ gāi jìn ān jiǎn le 。",
       "tr": "Artık vakit geldi; güvenlik kontrolüne geçmeliyim."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_093",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "去吧，到了上海给我们打电话。",
       "pinyin": "qù ba ， dào le shàng hǎi gěi wǒ men dǎ diàn huà 。",
       "tr": "Git; Şanghay’a varınca bizi ara."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_094",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "我会的。你们回家路上也小心。",
       "pinyin": "wǒ huì de 。 nǐ men huí jiā lù shàng yě xiǎo xīn 。",
       "tr": "Ararım. Siz de eve dönerken dikkat edin."
@@ -675,21 +675,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_096",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "都在，车票和酒店预订信息也存好了。",
       "pinyin": "dōu zài ， chē piào hé jiǔ diàn yù dìng xìn xī yě cún hǎo le 。",
       "tr": "Hepsi yanımda; bilet ve otel rezervasyon bilgilerini de kaydettim."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_097",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "那就没问题了，祝你这次出差顺利。",
       "pinyin": "nà jiù méi wèn tí le ， zhù nǐ zhè cì chū chāi shùn lì 。",
       "tr": "O halde sorun yok. İş seyahatin iyi geçsin."
     },
     {
       "id": "DLG_ZH_HSK3_SC028_098",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "谢谢，周五晚上见，路上我再给家人打电话。",
       "pinyin": "xiè xiè ， zhōu wǔ wǎn shàng jiàn ， lù shàng wǒ zài gěi jiā rén dǎ diàn huà 。",
       "tr": "Teşekkürler. Cuma akşamı görüşürüz; yolda ailemi ararım."
@@ -703,7 +703,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC028_100",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "好，我到了就打电话告诉你们。",
       "pinyin": "hǎo ， wǒ dào le jiù dǎ diàn huà gào sù nǐ men 。",
       "tr": "Peki, varınca sizi arayıp haber veririm."
@@ -730,9 +730,9 @@
         "zh": "出差",
         "pinyin": "chūchāi",
         "tr": "iş seyahati",
-        "exampleZh": "这个时候最好先出差。",
-        "examplePinyin": "Zhège shíhou zuìhǎo xiān chūchāi.",
-        "exampleTr": "Bu durumda önce iş seyahati en iyisi.",
+        "exampleZh": "我明天要去上海出差，今天先把行李整理好。",
+        "examplePinyin": "wǒ míng tiān yào qù shàng hǎi chū chāi ， jīn tiān xiān bǎ xíng lǐ zhěng lǐ hǎo 。",
+        "exampleTr": "Yarın iş için Şanghay’a gideceğim; bugün valizimi hazırlayayım.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "安排",
         "pinyin": "ānpái",
         "tr": "planlama / düzenleme",
-        "exampleZh": "安排是这次要考虑的重点之一。",
-        "examplePinyin": "Ānpái shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-        "exampleTr": "Planlama / düzenleme bu kez değerlendirmemiz gereken ana noktalardan biri.",
+        "exampleZh": "这次去几天？行程安排好了吗？",
+        "examplePinyin": "zhè cì qù jǐ tiān ？ xíng chéng ān pái hǎo le ma ？",
+        "exampleTr": "Bu kez kaç gün kalacaksın? Programını ayarladın mı?.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "公交卡",
         "pinyin": "gōngjiāo kǎ",
         "tr": "otobüs kartı",
-        "exampleZh": "我们最好再确认一下公交卡。",
-        "examplePinyin": "Wǒmen zuìhǎo zài quèrèn yíxià gōngjiāo kǎ.",
-        "exampleTr": "Otobüs kartı konusunu bir kez daha teyit etsek iyi olur.",
+        "exampleZh": "那你的公交卡带了吗？到时候会方便些。",
+        "examplePinyin": "nà nǐ de gōng jiāo kǎ dài le ma ？ dào shí hòu huì fāng biàn xiē 。",
+        "exampleTr": "Otobüs kartını aldın mı? Orada işine yarar.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "预订",
         "pinyin": "yùdìng",
         "tr": "rezervasyon",
-        "exampleZh": "如果预订没有问题，我们就继续。",
-        "examplePinyin": "Rúguǒ yùdìng méiyǒu wèntí, wǒmen jiù jìxù.",
-        "exampleTr": "Rezervasyon konusunda sorun yoksa devam ederiz.",
+        "exampleZh": "车票和酒店都预订了吗？",
+        "examplePinyin": "chē piào hé jiǔ diàn dōu yù dìng le ma ？",
+        "exampleTr": "Biletini ve otelini ayırttın mı?.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "打电话",
         "pinyin": "dǎ diànhuà",
         "tr": "telefon etmek",
-        "exampleZh": "我们先打电话，然后再看下一步。",
-        "examplePinyin": "Wǒmen xiān dǎ diànhuà, ránhòu zài kàn xià yí bù.",
-        "exampleTr": "Önce telefon etmek, sonra sonraki adıma bakarız.",
+        "exampleZh": "你到上海以后先给家人打电话吧。",
+        "examplePinyin": "nǐ dào shàng hǎi yǐ hòu xiān gěi jiā rén dǎ diàn huà ba 。",
+        "exampleTr": "Şanghay’a varınca önce aileni ara.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "这件事还要跟家人确认。",
-        "examplePinyin": "Zhè jiàn shì hái yào gēn jiārén quèrèn.",
-        "exampleTr": "Bu konuyu aile ile de teyit etmek gerekiyor.",
+        "exampleZh": "你到上海以后先给家人打电话吧。",
+        "examplePinyin": "nǐ dào shàng hǎi yǐ hòu xiān gěi jiā rén dǎ diàn huà ba 。",
+        "exampleTr": "Şanghay’a varınca önce aileni ara.",
         "kind": "active"
       },
       {

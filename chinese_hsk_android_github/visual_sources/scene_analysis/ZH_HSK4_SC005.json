@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC005",
   "status": "FINAL_IMAGE_INTEGRATED",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC005.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC005.json",
   "titleTr": "Yeni Ev Arayışı",
   "locationId": "LOC_ZH_NEIGHBORHOOD_001",
   "scenePurposeTr": "Büyükler yakın ama bağımsız bir ev ister; birkaç seçeneği karşılaştırırlar.",

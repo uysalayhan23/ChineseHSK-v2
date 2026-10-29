@@ -44,7 +44,7 @@
       "speaker": "工作人员",
       "zh": "在这里，名字是张伟，今天入住，周五退房。",
       "pinyin": "zài zhè lǐ ， míng zì shì zhāng wěi ， jīn tiān rù zhù ， zhōu wǔ tuì fáng 。",
-      "tr": "Buyurun. Adım Zhang Wei; bugün giriş, cuma çıkış."
+      "tr": "Burada Zhang Wei adı yazıyor; giriş bugün, çıkış cuma."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_007",
@@ -62,21 +62,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_009",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "不用着急，我先看现在还有没有两张床的房间。",
       "pinyin": "bù yòng zháo jí ， wǒ xiān kàn xiàn zài hái yǒu méi yǒu liǎng zhāng chuáng de fáng jiān 。",
       "tr": "Acele etmeyin; önce iki yataklı boş oda var mı bakayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_010",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "谢谢。如果有的话，我们愿意换一个房间。",
       "pinyin": "xiè xiè 。 rú guǒ yǒu de huà ， wǒ men yuàn yì huàn yí gè fáng jiān 。",
       "tr": "Teşekkürler. Varsa başka bir odaya geçebiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_011",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "我查到了，今天还有一间双床房。",
       "pinyin": "wǒ chá dào le ， jīn tiān hái yǒu yī jiān shuāng chuáng fáng 。",
       "tr": "Baktım; bugün bir çift tek yataklı odamız boş."
@@ -90,7 +90,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_013",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "面积差不多，价格也一样，不需要补钱。",
       "pinyin": "miàn jī chà bu duō ， jià gé yě yī yàng ， bù xū yào bǔ qián 。",
       "tr": "Alanı hemen hemen aynı, fiyatı da aynı; fark ödemeniz gerekmiyor."
@@ -104,7 +104,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_015",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "可以，后两晚我也会一起改好。",
       "pinyin": "kě yǐ ， hòu liǎng wǎn wǒ yě huì yì qǐ gǎi hǎo 。",
       "tr": "Olur, sonraki iki geceyi de aynı şekilde düzelteceğim."
@@ -118,7 +118,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_017",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "我会查看整个订单，确保三晚的房型一致。",
       "pinyin": "wǒ huì chá kàn zhěng gè dìng dān ， què bǎo sān wǎn de fáng xíng yí zhì 。",
       "tr": "Tüm rezervasyonu kontrol edip üç gecenin de aynı oda tipi olmasını sağlayacağım."
@@ -153,7 +153,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_022",
-      "speaker": "工作人员",
+      "speaker": "刘梅",
       "zh": "我们在网站上预订，后来又给酒店打电话确认过。",
       "pinyin": "wǒ men zài wǎng zhàn shàng yù dìng ， hòu lái yòu gěi jiǔ diàn dǎ diàn huà què rèn guò 。",
       "tr": "İnternet sitesinden ayırttık, sonra teyit için oteli aradık."
@@ -174,7 +174,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_025",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "好的，我现在更新订单，并重新打印确认单。",
       "pinyin": "hǎo de ， wǒ xiàn zài gēng xīn dìng dān ， bìng zhòng xīn dǎ yìn què rèn dān 。",
       "tr": "Peki, şimdi rezervasyonu güncelleyip yeni bir teyit belgesi çıkarıyorum."
@@ -188,7 +188,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_027",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "可以先留着，新的文件会写明房型和入住日期。",
       "pinyin": "kě yǐ xiān liú zhe ， xīn de wén jiàn huì xiě míng fáng xíng hé rù zhù rì qī 。",
       "tr": "Şimdilik saklayabilirsiniz; yeni belgede oda tipi ve giriş tarihi yazacak."
@@ -202,7 +202,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_029",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "我看过了，姓名、日期和房型现在都正确。",
       "pinyin": "wǒ kàn guò le ， xìng míng 、 rì qī hé fáng xíng xiàn zài dōu zhèng què 。",
       "tr": "Kontrol ettim; ad, tarih ve oda tipi artık doğru."
@@ -216,182 +216,182 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_031",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "您看，三晚都是双床房，周五上午退房。",
       "pinyin": "nín kàn ， sān wǎn dōu shì shuāng chuáng fáng ， zhōu wǔ shàng wǔ tuì fáng 。",
       "tr": "Buyurun; üç gece de iki yataklı oda, cuma sabahı çıkış."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_032",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "这次没问题了，谢谢您帮我们重新安排。",
       "pinyin": "zhè cì méi wèn tí le ， xiè xiè nín bāng wǒ men chóng xīn ān pái 。",
       "tr": "Şimdi sorun yok. Yeniden ayarladığınız için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_033",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "不用客气，这是我们应该做的。",
       "pinyin": "bù yòng kè qì ， zhè shì wǒ men yīng gāi zuò de 。",
       "tr": "Rica ederim, görevimiz."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_034",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "我们还需要为换房支付费用吗？",
       "pinyin": "wǒ men hái xū yào wèi huàn fáng zhī fù fèi yòng ma ？",
       "tr": "Oda değişikliği için ücret ödememiz gerekiyor mu?"
     },
     {
       "id": "DLG_ZH_HSK3_SC029_035",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "不需要，原来的预订记录已经说明了您的要求。",
       "pinyin": "bù xū yào ， yuán lái de yù dìng jì lù yǐ jīng shuō míng le nín de yāo qiú 。",
       "tr": "Gerek yok; eski rezervasyon kaydınız isteğinizi gösteriyor."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_036",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "那就好，我们担心要多付一晚的钱。",
       "pinyin": "nà jiù hǎo ， wǒ men dān xīn yào duō fù yī wǎn de qián 。",
       "tr": "İyi oldu; bir gecelik ek ücret çıkmasından endişelenmiştik."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_037",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "不会多收费，三晚的总价保持不变。",
       "pinyin": "bú huì duō shōu fèi ， sān wǎn de zǒng jià bǎo chí bù biàn 。",
       "tr": "Ek ücret alınmayacak; üç gecenin toplam fiyatı değişmiyor."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_038",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "早餐也包括在原来的预订里，对吗？",
       "pinyin": "zǎo cān yě bāo kuò zài yuán lái de yù dìng lǐ ， duì ma ？",
       "tr": "Kahvaltı da eski rezervasyona dahildi, değil mi?"
     },
     {
       "id": "DLG_ZH_HSK3_SC029_039",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "对，两位客人每天都有早餐。",
       "pinyin": "duì ， liǎng wèi kè rén měi tiān dōu yǒu zǎo cān 。",
       "tr": "Evet, iki misafir için her gün kahvaltı dahil."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_040",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "请问早餐几点开始？",
       "pinyin": "qǐng wèn zǎo cān jǐ diǎn kāi shǐ ？",
       "tr": "Kahvaltı saat kaçta başlıyor?"
     },
     {
       "id": "DLG_ZH_HSK3_SC029_041",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "早上七点开始，到十点结束，在一楼餐厅。",
       "pinyin": "zǎo shàng qī diǎn kāi shǐ ， dào shí diǎn jié shù ， zài yī lóu cān tīng 。",
       "tr": "Sabah yedide başlıyor, onda bitiyor; birinci kattaki restoranda."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_042",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "我们明天一早要出门，能早点吃吗？",
       "pinyin": "wǒ men míng tiān yī zǎo yào chū mén ， néng zǎo diǎn chī ma ？",
       "tr": "Yarın sabah erken çıkacağız; kahvaltıyı daha erken yapabilir miyiz?"
     },
     {
       "id": "DLG_ZH_HSK3_SC029_043",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "餐厅七点开门，如果需要打包，请今晚告诉我。",
       "pinyin": "cān tīng qī diǎn kāi mén ， rú guǒ xū yào dǎ bāo ， qǐng jīn wǎn gào sù wǒ 。",
       "tr": "Restoran yedide açılıyor; paket isterseniz bu akşam bana söyleyin."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_044",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "谢谢，我们先按正常时间吃，不需要打包。",
       "pinyin": "xiè xiè ， wǒ men xiān àn zhèng cháng shí jiān chī ， bù xū yào dǎ bāo 。",
       "tr": "Teşekkürler. Şimdilik normal saatte yeriz, paket gerekmez."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_045",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "我把早餐时间和新的房型都写在入住说明里。",
       "pinyin": "wǒ bǎ zǎo cān shí jiān hé xīn de fáng xíng dōu xiě zài rù zhù shuō míng lǐ 。",
       "tr": "Kahvaltı saatini ve yeni oda tipini giriş bilgilendirmesine yazıyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_046",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "房间现在准备好了吗？我们可以先放行李吗？",
       "pinyin": "fáng jiān xiàn zài zhǔn bèi hǎo le ma ？ wǒ men kě yǐ xiān fàng xíng lǐ ma ？",
       "tr": "Oda hazır mı? Valizlerimizi önce bırakabilir miyiz?"
     },
     {
       "id": "DLG_ZH_HSK3_SC029_047",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "我查一下。房间已经打扫好了，可以马上入住。",
       "pinyin": "wǒ chá yī xià 。 fáng jiān yǐ jīng dǎ sǎo hǎo le ， kě yǐ mǎ shàng rù zhù 。",
       "tr": "Kontrol edeyim. Oda temizlenmiş, hemen giriş yapabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_048",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "太好了，我们带着行李走了一上午。",
       "pinyin": "tài hǎo le ， wǒ men dài zhe xíng lǐ zǒu le yī shàng wǔ 。",
       "tr": "Harika; bütün sabah valizlerle dolaştık."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_049",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "这是两张房卡，电梯在大堂右边。",
       "pinyin": "zhè shì liǎng zhāng fáng kǎ ， diàn tī zài dà táng yòu biān 。",
       "tr": "İki oda kartınız. Asansör lobinin sağında."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_050",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "房间在几楼？",
       "pinyin": "fáng jiān zài jǐ lóu ？",
       "tr": "Oda kaçıncı katta?"
     },
     {
       "id": "DLG_ZH_HSK3_SC029_051",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "八楼，出电梯以后往左边走。",
       "pinyin": "bā lóu ， chū diàn tī yǐ hòu wǎng zuǒ biān zǒu 。",
       "tr": "Sekizinci katta; asansörden çıkınca sola gidin."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_052",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "如果房卡打不开，应该找谁？",
       "pinyin": "rú guǒ fáng kǎ dǎ bù kāi ， yīng gāi zhǎo shuí ？",
       "tr": "Kart kapıyı açmazsa kime başvurmalıyız?"
     },
     {
       "id": "DLG_ZH_HSK3_SC029_053",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "请打房卡上的前台电话，或者直接下来找我。",
       "pinyin": "qǐng dǎ fáng kǎ shàng de qián tái diàn huà ， huò zhě zhí jiē xià lái zhǎo wǒ 。",
       "tr": "Karttaki resepsiyon numarasını arayın ya da aşağı inip beni bulun."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_054",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "好的，我们先上去看看房间。",
       "pinyin": "hǎo de ， wǒ men xiān shàng qù kàn kàn fáng jiān 。",
       "tr": "Peki, önce çıkıp odaya bakalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_055",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "等一下，我把新的确认单交给您。",
       "pinyin": "děng yí xià ， wǒ bǎ xīn dí què rèn dān jiāo gěi nín 。",
       "tr": "Bir dakika, yeni teyit belgenizi vereyim."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_056",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "谢谢，我会把它和发票放在一起。",
       "pinyin": "xiè xiè ， wǒ huì bǎ tā hé fā piào fàng zài yì qǐ 。",
       "tr": "Teşekkürler; bunu faturayla birlikte saklayacağım."
@@ -419,7 +419,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_060",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "没问题，我会在前台等一会儿。",
       "pinyin": "méi wèn tí ， wǒ huì zài qián tái děng yī huì er 。",
       "tr": "Sorun değil, bir süre resepsiyonda bekleyeceğim."
@@ -440,7 +440,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_063",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "可以打开一点，旁边有一个安全锁。",
       "pinyin": "kě yǐ dǎ kāi yì diǎn ， páng biān yǒu yí gè ān quán suǒ 。",
       "tr": "Biraz açabilirsiniz; yanında güvenlik kilidi var."
@@ -454,49 +454,49 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_065",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "遥控器在桌子上，按这里就能调高或调低。",
       "pinyin": "yáo kòng qì zài zhuō zi shàng ， àn zhè lǐ jiù néng diào gāo huò diào dī 。",
       "tr": "Kumanda masada; buraya basarak sıcaklığı artırıp azaltabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_066",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "谢谢，其他东西都正常。",
       "pinyin": "xiè xiè ， qí tā dōng xī dōu zhèng cháng 。",
       "tr": "Teşekkürler, diğer şeyler de normal."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_067",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "我把新的房型和房间检查结果一起记在订单上。",
       "pinyin": "wǒ bǎ xīn de fáng xíng hé fáng jiān jiǎn chá jié guǒ yì qǐ jì zài dìng dān shàng 。",
       "tr": "Yeni oda tipini ve oda kontrol sonucunu rezervasyona birlikte kaydedeyim."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_068",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "我还想确认一下，退房时间是几点？",
       "pinyin": "wǒ hái xiǎng què rèn yī xià ， tuì fáng shí jiān shì jǐ diǎn ？",
       "tr": "Çıkış saatini de teyit etmek istiyorum; saat kaçta?"
     },
     {
       "id": "DLG_ZH_HSK3_SC029_069",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "周五上午十一点以前退房就可以。",
       "pinyin": "zhōu wǔ shàng wǔ shí yì diǎn yǐ qián tuì fáng jiù kě yǐ 。",
       "tr": "Cuma sabahı saat on birden önce çıkış yapmanız yeterli."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_070",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "如果我们想多住一晚，应该提前多久说？",
       "pinyin": "rú guǒ wǒ men xiǎng duō zhù yī wǎn ， yīng gāi tí qián duō jiǔ shuō ？",
       "tr": "Bir gece daha kalmak istersek ne kadar önce haber vermeliyiz?"
     },
     {
       "id": "DLG_ZH_HSK3_SC029_071",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "最好提前一天告诉前台，我们会看房间安排。",
       "pinyin": "zuì hǎo tí qián yī tiān gào sù qián tái ， wǒ men huì kàn fáng jiān ān pái 。",
       "tr": "Bir gün önceden resepsiyona söyleyin; oda durumuna bakarız."
@@ -510,56 +510,56 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_073",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "希望会议顺利，也希望您住得舒服。",
       "pinyin": "xī wàng huì yì shùn lì ， yě xī wàng nín zhù dé shū fú 。",
       "tr": "Toplantınızın iyi geçmesini, rahat konaklamanızı dilerim."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_074",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "谢谢。对了，酒店附近有公交车站吗？",
       "pinyin": "xiè xiè 。 duì le ， jiǔ diàn fù jìn yǒu gōng jiāo chē zhàn ma ？",
       "tr": "Teşekkürler. Bu arada otelin yakınında otobüs durağı var mı?"
     },
     {
       "id": "DLG_ZH_HSK3_SC029_075",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "有，出门向右走两分钟就到。",
       "pinyin": "yǒu ， chū mén xiàng yòu zǒu liǎng fēn zhōng jiù dào 。",
       "tr": "Var; kapıdan çıkıp sağa dönün, iki dakikada ulaşırsınız."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_076",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "公交卡可以在车上用吗？",
       "pinyin": "gōng jiāo kǎ kě yǐ zài chē shàng yòng ma ？",
       "tr": "Otobüs kartını araçta kullanabilir miyim?"
     },
     {
       "id": "DLG_ZH_HSK3_SC029_077",
-      "speaker": "张伟",
+      "speaker": "工作人员",
       "zh": "可以，上车时刷一下就行。",
       "pinyin": "kě yǐ ， shàng chē shí shuā yī xià jiù xíng 。",
       "tr": "Evet, binerken okutmanız yeterli."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_078",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "那我明天坐公交去客户办公室。",
       "pinyin": "nà wǒ míng tiān zuò gōng jiāo qù kè hù bàn gōng shì 。",
       "tr": "O halde yarın müşteri ofisine otobüsle giderim."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_079",
-      "speaker": "刘梅",
+      "speaker": "工作人员",
       "zh": "如果找不到站，可以给前台打电话。",
       "pinyin": "rú guǒ zhǎo bú dào zhàn ， kě yǐ gěi qián tái dǎ diàn huà 。",
       "tr": "Durağı bulamazsanız resepsiyonu arayabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_080",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "我把路线也存在手机里，应该不会迷路。",
       "pinyin": "wǒ bǎ lù xiàn yě cún zài shǒu jī lǐ ， yīng gāi bú huì mí lù 。",
       "tr": "Rotayı da telefona kaydettim; kaybolmam sanırım."
@@ -580,7 +580,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_083",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "谢谢，我们只是想确保预订信息正确。",
       "pinyin": "xiè xiè ， wǒ men zhǐ shì xiǎng què bǎo yù dìng xìn xī zhèng què 。",
       "tr": "Teşekkürler; yalnızca rezervasyon bilgilerinin doğru olduğundan emin olmak istedik."
@@ -595,9 +595,9 @@
     {
       "id": "DLG_ZH_HSK3_SC029_085",
       "speaker": "张伟",
-      "zh": "这次是我发错了旧文件，以后会先检查日期和房型。",
-      "pinyin": "zhè cì shì wǒ fā cuò le jiù wén jiàn ， yǐ hòu huì xiān jiǎn chá rì qī hé fáng xíng 。",
-      "tr": "Bu kez eski belgeyi yanlış gönderdim; bundan sonra tarih ve oda tipini kontrol edeceğim."
+      "zh": "这次按原记录改好了，以后我们会先检查日期和房型。",
+      "pinyin": "Zhècì ànyuán jìlù gǎihǎo le, yǐhòu wǒmen huìxiān jiǎnchá rìqī hé fángxíng.",
+      "tr": "Bu kez eski kayda göre düzelttik; bundan sonra tarih ve oda tipini önceden kontrol edeceğiz."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_086",
@@ -615,7 +615,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_088",
-      "speaker": "同事",
+      "speaker": "工作人员",
       "zh": "如果还需要帮助，您随时可以来前台。",
       "pinyin": "rú guǒ hái xū yào bāng zhù ， nín suí shí kě yǐ lái qián tái 。",
       "tr": "Yardıma ihtiyacınız olursa istediğiniz zaman resepsiyona gelebilirsiniz."
@@ -623,9 +623,9 @@
     {
       "id": "DLG_ZH_HSK3_SC029_089",
       "speaker": "张伟",
-      "zh": "谢谢，您处理得很快，我们现在放心了。",
-      "pinyin": "xiè xiè ， nín chǔ lǐ dé hěn kuài ， wǒ men xiàn zài fàng xīn le 。",
-      "tr": "Teşekkürler, çok hızlı çözdünüz; artık içimiz rahat."
+      "zh": "问题解决以后，我们越来越放心了。",
+      "pinyin": "Wèntí jiějué yǐhòu, wǒmen yuèláiyuè fàngxīn le.",
+      "tr": "Sorun çözüldükçe içimiz daha da rahatladı."
     },
     {
       "id": "DLG_ZH_HSK3_SC029_090",
@@ -643,7 +643,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_092",
-      "speaker": "同事",
+      "speaker": "工作人员",
       "zh": "房间在八楼，出电梯后向左走。",
       "pinyin": "fáng jiān zài bā lóu ， chū diàn tī hòu xiàng zuǒ zǒu 。",
       "tr": "Oda sekizinci katta; asansörden çıkınca sola dönün."
@@ -657,7 +657,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_094",
-      "speaker": "工作人员",
+      "speaker": "张伟",
       "zh": "我先拿电脑包，其他行李你们拿吧。",
       "pinyin": "wǒ xiān ná diàn nǎo bāo ， qí tā xíng lǐ nǐ men ná ba 。",
       "tr": "Önce bilgisayar çantasını alayım, diğer valizleri siz alın."
@@ -671,7 +671,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_096",
-      "speaker": "同事",
+      "speaker": "工作人员",
       "zh": "如果有问题，前台电话就在房卡套上。",
       "pinyin": "rú guǒ yǒu wèn tí ， qián tái diàn huà jiù zài fáng kǎ tào shàng 。",
       "tr": "Sorun olursa resepsiyon numarası oda kartı kılıfında yazıyor."
@@ -685,7 +685,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_098",
-      "speaker": "工作人员",
+      "speaker": "同事",
       "zh": "客户已经确认时间，上午九点在办公室见。",
       "pinyin": "kè hù yǐ jīng què rèn shí jiān ， shàng wǔ jiǔ diǎn zài bàn gōng shì jiàn 。",
       "tr": "Müşteri saati teyit etti; sabah dokuzda ofiste buluşacağız."
@@ -699,7 +699,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC029_100",
-      "speaker": "同事",
+      "speaker": "工作人员",
       "zh": "早餐七点开始，来得及吃完再出门。",
       "pinyin": "zǎo cān qī diǎn kāi shǐ ， lái de jí chī wán zài chū mén 。",
       "tr": "Kahvaltı yedide başlıyor; yiyip sonra çıkmaya yetişirsiniz."

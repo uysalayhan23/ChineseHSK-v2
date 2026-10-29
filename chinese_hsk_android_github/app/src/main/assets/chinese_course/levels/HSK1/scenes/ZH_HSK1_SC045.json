@@ -597,30 +597,30 @@
     {
       "id": "DLG_ZH_HSK1_SC045_025",
       "speaker": "张伟",
-      "zh": "你工作累不累？最近每天都很忙吗？",
-      "pinyin": "Nǐ gōngzuò lèibùlèi? zuìjìn měitiān dōu hěn máng ma?",
-      "tr": "İşin yorucu mu? Son zamanlarda her gün yoğun musun?"
+      "zh": "最近工作有点儿忙，我每天都回来得很晚。",
+      "pinyin": "Zuìjìn gōngzuò yǒudiǎnér máng， wǒ měitiān dōu huílái dé hěn wǎn。",
+      "tr": "İşler son zamanlarda yoğun; her gün eve çok geç geliyorum."
     },
     {
       "id": "DLG_ZH_HSK1_SC045_026",
       "speaker": "刘梅",
-      "zh": "刚开始有一点儿忙，不过同事会帮我。",
-      "pinyin": "Gāng kāishǐ yǒu yìdiǎnér máng, bùguò tóngshì huì bāng wǒ.",
-      "tr": "Başlarda biraz yoğundu ama iş arkadaşlarım yardım ediyor."
+      "zh": "刚开始一定很忙吧？幸好同事会帮你。",
+      "pinyin": "Gāng kāishǐ yídìng hěnmáng ba？ xìnghǎo tóngshì huì bāng nǐ。",
+      "tr": "Başta çok yoğundur. Neyse ki iş arkadaşların yardım ediyordur."
     },
     {
       "id": "DLG_ZH_HSK1_SC045_027",
       "speaker": "张雨桐",
-      "zh": "同事对你好吗？你喜欢这份工作吗？",
-      "pinyin": "Tóngshì duì nǐhǎo ma? nǐ xǐhuān zhèfèn gōngzuò ma?",
-      "tr": "İş arkadaşların iyi mi, işini seviyor musun?"
+      "zh": "爸爸，同事对你好吗？你喜欢这份工作吗？",
+      "pinyin": "Bàbà， tóngshì duì nǐhǎo ma？ nǐ xǐhuān zhèfèn gōngzuò ma？",
+      "tr": "Baba, iş arkadaşların sana iyi davranıyor mu? İşini seviyor musun?"
     },
     {
       "id": "DLG_ZH_HSK1_SC045_028",
       "speaker": "张乐乐",
-      "zh": "爸爸每天回来得很晚，我想他了。",
-      "pinyin": "Bàbà měitiān huílái dé hěn wǎn, wǒ xiǎng tā le.",
-      "tr": "Babam her gün geç geliyor, onu özledim."
+      "zh": "爸爸每天回来得很晚，我有点儿想他。",
+      "pinyin": "Bàbà měitiān huílái dé hěn wǎn， wǒ yǒudiǎnér xiǎng tā。",
+      "tr": "Babam her gün çok geç geliyor; onu özlüyorum."
     },
     {
       "id": "DLG_ZH_HSK1_SC045_029",
@@ -772,23 +772,23 @@
     {
       "id": "DLG_ZH_HSK1_SC045_050",
       "speaker": "刘梅",
-      "zh": "你最近在工作上学到了什么？",
-      "pinyin": "Nǐ zuìjìn zài gōngzuò shàngxué dào le shénme?",
-      "tr": "Son zamanlarda işinde neler öğrendin?"
+      "zh": "你今天在学校学到什么？",
+      "pinyin": "Nǐ jīntiān zài xuéxiào xuédào shénme？",
+      "tr": "Bugün okulda ne öğrendin?"
     },
     {
       "id": "DLG_ZH_HSK1_SC045_051",
       "speaker": "张雨桐",
-      "zh": "我学会了和同事一起做事，也学会了安排时间。",
-      "pinyin": "Wǒ xuéhuì le hé tóngshì yìqǐ zuòshì, yě xuéhuì le ānpái shíjiān.",
-      "tr": "İş arkadaşlarımla çalışmayı ve zamanı planlamayı öğrendim."
+      "zh": "我学会了和同学一起做事，也学会了安排时间。",
+      "pinyin": "Wǒ xuéhuì le hé tóngxué yìqǐ zuòshì， yě xuéhuì le ānpái shíjiān。",
+      "tr": "Arkadaşlarımla birlikte çalışmayı ve zamanımı düzenlemeyi öğrendim."
     },
     {
       "id": "DLG_ZH_HSK1_SC045_052",
       "speaker": "张乐乐",
-      "zh": "听起来你越来越会工作了。",
-      "pinyin": "Tīng qǐlái nǐ yuèláiyuè huì gōngzuò le.",
-      "tr": "İşinde gittikçe daha iyi oluyorsun gibi."
+      "zh": "听起来你越来越会安排时间了。",
+      "pinyin": "Tīng qǐlái nǐ yuèláiyuè huì ānpái shíjiān le。",
+      "tr": "Görünüşe göre zamanını giderek daha iyi düzenliyorsun."
     },
     {
       "id": "DLG_ZH_HSK1_SC045_053",
@@ -884,16 +884,16 @@
     {
       "id": "DLG_ZH_HSK1_SC045_066",
       "speaker": "刘梅",
-      "zh": "同事教了你什么？",
-      "pinyin": "Tóngshì jiào le nǐ shénme?",
-      "tr": "İş arkadaşların sana ne öğretti?"
+      "zh": "老师今天教了你什么？",
+      "pinyin": "Lǎoshī jīntiān jiào le nǐ shénme？",
+      "tr": "Öğretmenin bugün sana ne öğretti?"
     },
     {
       "id": "DLG_ZH_HSK1_SC045_067",
       "speaker": "张雨桐",
-      "zh": "他们告诉我先听清楚，再开始做。",
-      "pinyin": "Tāmen gàosù wǒ xiān tīng qīngchǔ, zài kāishǐ zuò.",
-      "tr": "Önce dikkatle dinleyip sonra işe başlamamı söylediler."
+      "zh": "老师告诉我们先听清楚，再开始做。",
+      "pinyin": "Lǎoshī gàosù wǒmen xiān tīng qīngchǔ， zài kāishǐ zuò。",
+      "tr": "Öğretmen önce dikkatle dinlememizi, sonra işe başlamamızı söyledi."
     },
     {
       "id": "DLG_ZH_HSK1_SC045_068",
@@ -912,16 +912,16 @@
     {
       "id": "DLG_ZH_HSK1_SC045_070",
       "speaker": "刘梅",
-      "zh": "你拿到第一份工资，心里是什么感觉？",
-      "pinyin": "Nǐ nádào dìyīfèn gōngzī, xīnlǐ shì shénme gǎnjué?",
-      "tr": "İlk maaşını alınca ne hissettin?"
+      "zh": "爸爸拿到第一份工资，你们是什么感觉？",
+      "pinyin": "Bàbà nádào dìyīfèn gōngzī， nǐmen shì shénme gǎnjué？",
+      "tr": "Babanız ilk maaşını alınca ne hissettiniz?"
     },
     {
       "id": "DLG_ZH_HSK1_SC045_071",
       "speaker": "张雨桐",
-      "zh": "我很高兴，也觉得以后要更认真工作。",
-      "pinyin": "Wǒ hěn gāoxìng, yě juéde yǐhòu yào gèng rènzhēn gōngzuò.",
-      "tr": "Çok sevindim, bundan sonra daha dikkatli çalışmam gerektiğini de düşünüyorum."
+      "zh": "我很高兴，也觉得爸爸以后会更认真工作。",
+      "pinyin": "Wǒ hěn gāoxìng， yě juéde bàbà yǐhòu huì gèng rènzhēn gōngzuò。",
+      "tr": "Çok sevindim; babamın bundan sonra işine daha çok özen göstereceğini düşünüyorum."
     },
     {
       "id": "DLG_ZH_HSK1_SC045_072",
@@ -996,23 +996,23 @@
     {
       "id": "DLG_ZH_HSK1_SC045_082",
       "speaker": "刘梅",
-      "zh": "这份工作离家远吗？每天怎么去？",
-      "pinyin": "Zhèfèn gōngzuò líjiā yuǎn ma? měitiān zěnme qù?",
-      "tr": "İşin evden uzak mı? Her gün nasıl gidiyorsun?"
+      "zh": "爸爸，你的新工作离家远吗？每天怎么去？",
+      "pinyin": "Bàbà， nǐ de xīn gōngzuò líjiā yuǎn ma？ měitiān zěnme qù？",
+      "tr": "Baba, yeni işin eve uzak mı? Her gün nasıl gidiyorsun?"
     },
     {
       "id": "DLG_ZH_HSK1_SC045_083",
       "speaker": "张雨桐",
-      "zh": "不太远，我坐车去，早上要早点儿出门。",
-      "pinyin": "Bùtàiyuǎn, wǒ zuòchēqù, zǎoshàng yào zǎodiǎnér chūmén.",
-      "tr": "Çok uzak değil, araçla gidiyorum ve sabah erken çıkmam gerekiyor."
+      "zh": "不太远，爸爸坐车去，早上要早点儿出门。",
+      "pinyin": "Bùtàiyuǎn， bàbà zuòchēqù， zǎoshàng yào zǎodiǎnér chūmén。",
+      "tr": "Çok uzak değil; babam otobüsle gidiyor ve sabah erken çıkıyor."
     },
     {
       "id": "DLG_ZH_HSK1_SC045_084",
       "speaker": "张乐乐",
-      "zh": "那你每天早上要早点儿睡觉。",
-      "pinyin": "Nà nǐ měitiān zǎoshàng yào zǎodiǎnér shuìjiào.",
-      "tr": "O zaman her gece erken uyumalısın."
+      "zh": "那爸爸每天早上要早点儿起床。",
+      "pinyin": "Nà bàbà měitiān zǎoshàng yào zǎodiǎnér qǐchuáng。",
+      "tr": "O zaman babamın her sabah erken kalkması gerekiyor."
     },
     {
       "id": "DLG_ZH_HSK1_SC045_085",
@@ -1038,16 +1038,16 @@
     {
       "id": "DLG_ZH_HSK1_SC045_088",
       "speaker": "张乐乐",
-      "zh": "我会记住，明天也带饭去工作。",
-      "pinyin": "Wǒhuì jìzhù, míngtiān yě dàifàn qù gōngzuò.",
-      "tr": "Aklımda, yarın işe yemek de götüreceğim."
+      "zh": "爸爸，明天也记得带饭去公司。",
+      "pinyin": "Bàbà， míngtiān yě jìde dàifàn qù gōngsī。",
+      "tr": "Baba, yarın işe yemek götürmeyi de unutma."
     },
     {
       "id": "DLG_ZH_HSK1_SC045_089",
       "speaker": "张伟",
-      "zh": "下次我可以给你准备一点儿水果。",
-      "pinyin": "Xiàcì wǒ kěyǐ gěi nǐ zhǔnbèi yìdiǎnér shuǐguǒ.",
-      "tr": "Bir dahaki sefere sana biraz meyve hazırlayabilirim."
+      "zh": "谢谢，我明天会带一点儿水果去公司。",
+      "pinyin": "Xièxiè， wǒ míngtiān huìdài yìdiǎnér shuǐguǒ qù gōngsī。",
+      "tr": "Teşekkürler, yarın işe biraz meyve götüreceğim."
     },
     {
       "id": "DLG_ZH_HSK1_SC045_090",

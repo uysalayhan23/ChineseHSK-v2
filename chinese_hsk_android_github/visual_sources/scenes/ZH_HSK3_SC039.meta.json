@@ -5,14 +5,14 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC039.json",
-  "dialogueSha256": "289fcb8438956fdc0516504fa0f20c2400db506d2a68767d11112586b29c20f5",
+  "dialogueSha256": "7f270ea84eb58dbb32c9f0bf0156bd919c615dadbf0d77fbf847d57017e4a81d",
   "titleTr": "Erken Emeklilik Fikri",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Zhang bir gün işi bırakıp Liu Mei ile kafede çalışmak istediğini ilk kez açıkça söyler.",
   "dialogueSpeakers": [
     "张伟",
-    "李晨",
-    "刘梅"
+    "刘梅",
+    "李晨"
   ],
   "requiredVisualCharacters": [
     "张伟",
@@ -109,12 +109,8 @@
     "actionsRun": false
   },
   "dialogueTextQA": {
-    "status": "PASS",
+    "status": "PENDING_LOCAL_REVIEW",
     "turns": 100,
-    "coherenceScore": 98.0,
-    "activeVocabularyCoverage": 1.0,
-    "topicWindowCoverage": 1.0,
-    "duplicateUtterances": 0,
     "speakerOrderPreserved": true,
     "pinyinTurkishChecked": true
   },

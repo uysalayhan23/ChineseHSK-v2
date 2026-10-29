@@ -163,16 +163,16 @@
     {
       "id": "DLG_ZH_HSK4_SC028_023",
       "speaker": "酒店工作人员",
-      "zh": "您好，隔壁的客人听到了电视声和交谈声，想请您晚上把音量调低一些。",
-      "pinyin": "nín hǎo gé bì de kè rén tīng dào le diàn shì shēng hé jiāo tán shēng xiǎng qǐng nín wǎn shàng bǎ yīn liàng diào dī yī xiē",
-      "tr": "İyi akşamlar, yan odadaki misafirler televizyon ve konuşma sesini duyuyor. Bu gece biraz kısabilir misiniz?"
+      "zh": "您好，我已经敲门说明情况，对方答应把电视音量调低。",
+      "pinyin": "nín hǎo，wǒ yǐ jīng qiāo mén shuō míng qíng kuàng，duì fāng dā yìng bǎ diàn shì yīn liàng diào dī。",
+      "tr": "Merhaba, kapıyı çalıp durumu anlattım; televizyonun sesini kısmayı kabul ettiler."
     },
     {
       "id": "DLG_ZH_HSK4_SC028_024",
       "speaker": "张乐乐",
-      "zh": "如果他们关小电视就好了，其他房间也有人需要休息。",
-      "pinyin": "rú guǒ tā men guān xiǎo diàn shì jiù hǎo le qí tā fáng jiān yě yǒu rén xū yào xiū xī",
-      "tr": "Televizyonu kısarlarsa iyi olur; başka odalarda da dinlenmesi gerekenler var."
+      "zh": "那就好，其他房间也有人需要休息。",
+      "pinyin": "nà jiù hǎo，qí tā fáng jiān yě yǒu rén xū yào xiū xī。",
+      "tr": "İyi o zaman; diğer odalarda da dinlenmeye çalışanlar var."
     },
     {
       "id": "DLG_ZH_HSK4_SC028_025",
@@ -184,9 +184,9 @@
     {
       "id": "DLG_ZH_HSK4_SC028_026",
       "speaker": "刘梅",
-      "zh": "工作人员说他们答应调小音量了，应该很快会安静下来。",
-      "pinyin": "gōng zuò rén yuán shuō tā men dā yìng diào xiǎo yīn liàng le yīng gāi hěn kuài huì ān jìng xià lái",
-      "tr": "Çalışan, ses seviyesini kısmayı kabul ettiklerini söyledi; yakında sakinleşir."
+      "zh": "我们再等几分钟，确认声音真的小下来了。",
+      "pinyin": "wǒ men zài děng jǐ fēn zhōng，què rèn shēng yīn zhēn de xiǎo xià lái le。",
+      "tr": "Sesin gerçekten azaldığından emin olmak için birkaç dakika daha bekleyelim."
     },
     {
       "id": "DLG_ZH_HSK4_SC028_027",
@@ -431,7 +431,7 @@
       "speaker": "张伟",
       "zh": "早上孩子说昨晚后来睡得不错，隔壁的声音没有再影响他。",
       "pinyin": "zǎo shàng hái zi shuō zuó wǎn hòu lái shuì dé bù cuò gé bì de shēng yīn méi yǒu zài yǐng xiǎng tā",
-      "tr": "Çocuk sabah gece sonrasında iyi uyuduğunu söyledi; yan odanın sesi onu artık etkilememiş。"
+      "tr": "Çocuk sabah gece sonrasında iyi uyuduğunu söyledi; yan odanın sesi onu artık etkilememiş."
     },
     {
       "id": "DLG_ZH_HSK4_SC028_062",

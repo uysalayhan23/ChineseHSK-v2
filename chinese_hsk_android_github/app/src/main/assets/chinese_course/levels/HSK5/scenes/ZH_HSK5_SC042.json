@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK5_SC042_001",
       "speaker": "张伟",
-      "zh": "爷爷出院以后，家里的照护安排得重新分一下，不能都让一个人负责。",
-      "pinyin": "yé yé chū yuàn yǐ hòu ， jiā lǐ de zhào hù ān pái dé chóng xīn fēn yī xià ， bù néng dōu ràng yí gè rén fù zé 。",
-      "tr": "Büyükbaba taburcu olduktan sonra evdeki bakım görevlerini yeniden paylaşmalıyız; her şeyi tek kişiye bırakamayız."
+      "zh": "爷爷出院以后，家里的照护计划得重新安排，不能都让一个人负责。",
+      "pinyin": "yé yé chū yuàn yǐ hòu ， jiā lǐ de zhào hù jì huà dé chóng xīn ān pái ， bù néng dōu ràng yí gè rén fù zé 。",
+      "tr": "Büyükbaba taburcu olduktan sonra evdeki bakım planını yeniden düzenlemeliyiz; her şeyi tek kişiye bırakamayız."
     },
     {
       "id": "DLG_ZH_HSK5_SC042_002",
@@ -123,9 +123,9 @@
     {
       "id": "DLG_ZH_HSK5_SC042_017",
       "speaker": "张伟",
-      "zh": "很好，每个人都有固定任务，也知道什么时候需要商量。",
-      "pinyin": "hěn hǎo ， měi gè rén dōu yǒu gù dìng rèn wù ， yě zhī dào shén me shí hòu xū yào shāng liáng 。",
-      "tr": "Güzel; herkesin sabit bir görevi olur ve ne zaman konuşmamız gerektiğini biliriz."
+      "zh": "很好，每个人都有固定任务，遇到变化也要及时沟通，还得平衡照护、工作和休息。",
+      "pinyin": "hěn hǎo ， měi gè rén dōu yǒu gù dìng rèn wù ， yù dào biàn huà yě yào jí shí gōu tōng ， hái dé píng héng zhào hù 、 gōng zuò hé xiū xī 。",
+      "tr": "Güzel; herkesin sabit bir görevi olur. Koşullar değişirse zamanında haberleşmeli, bakım, iş ve dinlenme arasında da denge kurmalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC042_018",
@@ -634,9 +634,9 @@
     {
       "id": "DLG_ZH_HSK5_SC042_090",
       "speaker": "刘梅",
-      "zh": "这样既有固定安排，也不会因为情况变了就没人知道。",
-      "pinyin": "zhè yàng jì yǒu gù dìng ān pái ， yě bú huì yīn wèi qíng kuàng biàn le jiù méi rén zhī dào 。",
-      "tr": "Böylece hem sabit bir plan olur hem de koşullar değiştiğinde kimse habersiz kalmaz."
+      "zh": "这样既有固定安排，也体现了每个人的责任感；情况变了，大家也能及时沟通。",
+      "pinyin": "zhè yàng jì yǒu gù dìng ān pái ， yě tǐ xiàn le měi gè rén de zé rèn gǎn ； qíng kuàng biàn le ， dà jiā yě néng jí shí gōu tōng 。",
+      "tr": "Böylece hem sabit bir düzen olur hem de herkesin sorumluluk duygusu ortaya çıkar. Koşullar değişince de zamanında haberleşebiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC042_091",
@@ -704,9 +704,9 @@
     {
       "id": "DLG_ZH_HSK5_SC042_100",
       "speaker": "张雨桐",
-      "zh": "那就先照这张表试一周，周日晚上全家再一起看效果。",
-      "pinyin": "nà jiù xiān zhào zhè zhāng biǎo shì yī zhōu ， zhōu rì wǎn shàng quán jiā zài yì qǐ kàn xiào guǒ 。",
-      "tr": "O hâlde bu çizelgeyi bir hafta deneyelim; pazar akşamı ailece nasıl gittiğine bakalım."
+      "zh": "那就先照这张表试一周，周日晚上全家人再一起看效果。",
+      "pinyin": "nà jiù xiān zhào zhè zhāng biǎo shì yī zhōu ， zhōu rì wǎn shàng quán jiā rén zài yì qǐ kàn xiào guǒ 。",
+      "tr": "O hâlde bu çizelgeyi bir hafta deneyelim; pazar akşamı bütün ailece nasıl gittiğine bakalım."
     }
   ],
   "productionStatus": "complete",
@@ -728,82 +728,82 @@
       {
         "id": "VOC_ZH_HSK5_SC042_001",
         "zh": "照护计划",
-        "pinyin": "zhàohù jìhuà",
+        "pinyin": "zhào hù jì huà",
         "tr": "bakım planı",
-        "exampleZh": "照护计划是我们不能忽略的一点。",
-        "examplePinyin": "Zhàohù jìhuà shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Bakım planı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "爷爷出院以后，家里的照护计划得重新安排，不能都让一个人负责。",
+        "examplePinyin": "yé yé chū yuàn yǐ hòu ， jiā lǐ de zhào hù jì huà dé chóng xīn ān pái ， bù néng dōu ràng yí gè rén fù zé 。",
+        "exampleTr": "Büyükbaba taburcu olduktan sonra evdeki bakım planını yeniden düzenlemeliyiz; her şeyi tek kişiye bırakamayız.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC042_002",
         "zh": "分工",
-        "pinyin": "fēngōng",
+        "pinyin": "fēn gōng",
         "tr": "iş bölümü",
-        "exampleZh": "如果能提前分工，后面会顺利很多。",
-        "examplePinyin": "Rúguǒ néng tíqián fēngōng, hòumiàn huì shùnlì hěn duō.",
-        "exampleTr": "Önceden iş bölümü mümkün olursa sonrası çok daha rahat ilerler.",
+        "exampleZh": "那我们先听听大家的时间，再决定怎么分工，好吗？",
+        "examplePinyin": "nà wǒ men xiān tīng tīng dà jiā de shí jiān ， zài jué dìng zěn me fēn gōng ， hǎo ma ？",
+        "exampleTr": "O hâlde görevleri belirlemeden önce herkesin zamanını dinleyelim, olur mu?",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC042_003",
-        "zh": "老人照护",
-        "pinyin": "lǎorén zhàohù",
-        "tr": "yaşlı bakımı",
-        "exampleZh": "如果老人照护发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ lǎorén zhàohù fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Yaşlı bakımı değişirse planı da ayarlamak gerekir.",
+        "zh": "出院",
+        "pinyin": "chū yuàn",
+        "tr": "taburcu olma",
+        "exampleZh": "爷爷出院以后，家里的照护计划得重新安排，不能都让一个人负责。",
+        "examplePinyin": "yé yé chū yuàn yǐ hòu ， jiā lǐ de zhào hù jì huà dé chóng xīn ān pái ， bù néng dōu ràng yí gè rén fù zé 。",
+        "exampleTr": "Büyükbaba taburcu olduktan sonra evdeki bakım planını yeniden düzenlemeliyiz; her şeyi tek kişiye bırakamayız.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC042_004",
         "zh": "责任感",
-        "pinyin": "zérèngǎn",
+        "pinyin": "zé rèn gǎn",
         "tr": "sorumluluk duygusu",
-        "exampleZh": "关于责任感，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zérèngǎn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Sorumluluk duygusu konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "这样既有固定安排，也体现了每个人的责任感；情况变了，大家也能及时沟通。",
+        "examplePinyin": "zhè yàng jì yǒu gù dìng ān pái ， yě tǐ xiàn le měi gè rén de zé rèn gǎn ； qíng kuàng biàn le ， dà jiā yě néng jí shí gōu tōng 。",
+        "exampleTr": "Böylece hem sabit bir düzen olur hem de herkesin sorumluluk duygusu ortaya çıkar. Koşullar değişince de zamanında haberleşebiliriz.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC042_005",
         "zh": "家人",
-        "pinyin": "jiārén",
+        "pinyin": "jiā rén",
         "tr": "aile",
-        "exampleZh": "家人是我们不能忽略的一点。",
-        "examplePinyin": "Jiārén shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Aile göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "那就先照这张表试一周，周日晚上全家人再一起看效果。",
+        "examplePinyin": "nà jiù xiān zhào zhè zhāng biǎo shì yī zhōu ， zhōu rì wǎn shàng quán jiā rén zài yì qǐ kàn xiào guǒ 。",
+        "exampleTr": "O hâlde bu çizelgeyi bir hafta deneyelim; pazar akşamı bütün ailece nasıl gittiğine bakalım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC042_006",
         "zh": "安排",
-        "pinyin": "ānpái",
+        "pinyin": "ān pái",
         "tr": "planlama / düzenleme",
-        "exampleZh": "我们把安排也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ ānpái yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Planlama / düzenleme konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "爷爷出院以后，家里的照护计划得重新安排，不能都让一个人负责。",
+        "examplePinyin": "yé yé chū yuàn yǐ hòu ， jiā lǐ de zhào hù jì huà dé chóng xīn ān pái ， bù néng dōu ràng yí gè rén fù zé 。",
+        "exampleTr": "Büyükbaba taburcu olduktan sonra evdeki bakım planını yeniden düzenlemeliyiz; her şeyi tek kişiye bırakamayız.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC042_007",
         "zh": "沟通",
-        "pinyin": "gōutōng",
+        "pinyin": "gōu tōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "我来负责沟通这一部分。",
-        "examplePinyin": "Wǒ lái fùzé gōutōng zhè yí bùfen.",
-        "exampleTr": "Iletişim kurmak kısmını ben üstleneyim.",
-        "kind": "review"
+        "exampleZh": "很好，每个人都有固定任务，遇到变化也要及时沟通，还得平衡照护、工作和休息。",
+        "examplePinyin": "hěn hǎo ， měi gè rén dōu yǒu gù dìng rèn wù ， yù dào biàn huà yě yào jí shí gōu tōng ， hái dé píng héng zhào hù 、 gōng zuò hé xiū xī 。",
+        "exampleTr": "Güzel; herkesin sabit bir görevi olur. Koşullar değişirse zamanında haberleşmeli, bakım, iş ve dinlenme arasında da denge kurmalıyız.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC042_008",
         "zh": "平衡",
-        "pinyin": "pínghéng",
+        "pinyin": "píng héng",
         "tr": "denge",
-        "exampleZh": "关于平衡，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú pínghéng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Denge konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "很好，每个人都有固定任务，遇到变化也要及时沟通，还得平衡照护、工作和休息。",
+        "examplePinyin": "hěn hǎo ， měi gè rén dōu yǒu gù dìng rèn wù ， yù dào biàn huà yě yào jí shí gōu tōng ， hái dé píng héng zhào hù 、 gōng zuò hé xiū xī 。",
+        "exampleTr": "Güzel; herkesin sabit bir görevi olur. Koşullar değişirse zamanında haberleşmeli, bakım, iş ve dinlenme arasında da denge kurmalıyız.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

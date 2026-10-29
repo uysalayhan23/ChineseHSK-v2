@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC014",
   "level": "HSK5",
   "sourceTitleZh": "乐乐的数字媒体项目",
@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC014_001",
       "speaker": "张乐乐",
-      "zh": "老师让我们做一个介绍社区生活的数字媒体项目，我想先定好主题和受众。",
-      "pinyin": "lǎo shī ràng wǒ men zuò yí gè jiè shào shè qū shēng huó de shù zì méi tǐ xiàng mù ， wǒ xiǎng xiān dìng hǎo zhǔ tí hé shòu zhòng 。",
-      "tr": "Öğretmenimiz mahalle yaşamını tanıtan bir dijital medya projesi verdi; önce konuyu ve hedef kitleyi belirlemek istiyorum."
+      "zh": "老师让我们用现代技术做一份介绍社区生活的数字媒体作品，我想先定好主题和受众。",
+      "pinyin": "lǎo shī ràng wǒ men yòng xiàn dài jì shù zuò yī fèn jiè shào shè qū shēng huó de shù zì méi tǐ zuò pǐn ， wǒ xiǎng xiān dìng hǎo zhǔ tí hé shòu zhòng 。",
+      "tr": "Öğretmen bizden modern teknolojiyi kullanarak mahalle yaşamını anlatan bir dijital medya çalışması istedi; önce konu ve hedef kitleyi belirlemek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC014_002",
@@ -79,9 +79,9 @@
     {
       "id": "DLG_ZH_HSK5_SC014_011",
       "speaker": "老师",
-      "zh": "采访前要先说明项目用途，取得同意，并让受访者知道内容会在哪里发布。",
-      "pinyin": "cǎi fǎng qián yào xiān shuō míng xiàng mù yòng tú ， qǔ dé tóng yì ， bìng ràng shòu fǎng zhě zhī dào nèi róng huì zài nǎ lǐ fā bù 。",
-      "tr": "Röportajdan önce projenin amacını açıklayın, izin alın ve katılımcıya içeriğin nerede yayımlanacağını bildirin."
+      "zh": "之所以要在采访前说明用途，是因为受访者有权知道内容会在哪里发布。",
+      "pinyin": "zhī suǒ yǐ yào zài cǎi fǎng qián shuō míng yòng tú ， shì yīn wèi shòu fǎng zhě yǒu quán zhī dào nèi róng huì zài nǎ lǐ fā bù 。",
+      "tr": "Röportajdan önce kullanım amacını açıklamamızın nedeni, konuğun içeriğin nerede yayımlanacağını bilme hakkı olmasıdır."
     },
     {
       "id": "DLG_ZH_HSK5_SC014_012",
@@ -219,9 +219,9 @@
     {
       "id": "DLG_ZH_HSK5_SC014_031",
       "speaker": "老师",
-      "zh": "分工可以，但录音前还要再征求一次同意，说明文件只供课程使用。",
-      "pinyin": "fēn gōng kě yǐ ， dàn lù yīn qián hái yào zài zhēng qiú yī cì tóng yì ， shuō míng wén jiàn zhǐ gōng kè chéng shǐ yòng 。",
-      "tr": "Görev paylaşımı uygun; ancak kayda başlamadan bir kez daha izin alın ve dosyanın yalnızca ders için kullanılacağını açıklayın."
+      "zh": "分工可以，但采访前后都要和店主沟通；录音前还要再征求一次同意。",
+      "pinyin": "fēn gōng kě yǐ ， dàn cǎi fǎng qián hòu dōu yào hé diàn zhǔ gōu tōng ； lù yīn qián hái yào zài zhēng qiú yī cì tóng yì 。",
+      "tr": "Görev paylaşımı olabilir ama röportajdan önce ve sonra dükkân sahibiyle iletişim kuralım; kayıt öncesinde yeniden izin isteyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC014_032",
@@ -639,9 +639,9 @@
     {
       "id": "DLG_ZH_HSK5_SC014_091",
       "speaker": "老师",
-      "zh": "那就按课程要求提交，并在说明中简要写清你们怎样取得采访许可。",
-      "pinyin": "nà jiù àn kè chéng yāo qiú tí jiāo ， bìng zài shuō míng zhōng jiǎn yào xiě qīng nǐ men zěn yàng qǔ dé cǎi fǎng xǔ kě 。",
-      "tr": "O halde ödev koşullarına göre teslim edin ve notta röportaj iznini nasıl aldığınızı kısaca açıklayın."
+      "zh": "按课程要求提交，并在说明里写清传播内容的信息来源和采访许可是怎样取得的。",
+      "pinyin": "àn kè chéng yāo qiú tí jiāo ， bìng zài shuō míng lǐ xiě qīng chuán bō nèi róng de xìn xī lái yuán hé cǎi fǎng xǔ kě shì zěn yàng qǔ dé de 。",
+      "tr": "Dersin gerekliliklerine göre teslim edin; açıklamada yayımlanacak içeriğin kaynaklarını ve röportaj iznini nasıl aldığınızı belirtin."
     },
     {
       "id": "DLG_ZH_HSK5_SC014_092",

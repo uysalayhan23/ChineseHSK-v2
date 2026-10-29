@@ -730,9 +730,9 @@
         "zh": "手机丢失",
         "pinyin": "shǒujī diūshī",
         "tr": "telefon kaybı",
-        "exampleZh": "手机丢失是我们不能忽略的一点。",
-        "examplePinyin": "Shǒujī diūshī shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Telefon kaybı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我已经在值班记录里注明手机丢失的时间和区域，方便同事查找。",
+        "examplePinyin": "wǒ yǐ jīng zài zhí bān jì lù lǐ zhù míng shǒu jī diū shī de shí jiān hé qū yù fāng biàn tóng shì chá zhǎo",
+        "exampleTr": "Nöbetçi kaydına telefonun kaybolduğu saati ve alanı yazdım; çalışma arkadaşlarım daha kolay arar.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "安全",
         "pinyin": "ānquán",
         "tr": "güvenlik",
-        "exampleZh": "我们把安全也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ ānquán yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Güvenlik konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "对，先确保安全，再找工作人员和合适的解决办法。",
+        "examplePinyin": "duì xiān què bǎo ān quán zài zhǎo gōng zuò rén yuán hé hé shì de jiě jué bàn fǎ",
+        "exampleTr": "Evet, önce güvenliği sağla; sonra görevliye ve uygun çözüme ulaş.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "游客",
         "pinyin": "yóukè",
         "tr": "turist",
-        "exampleZh": "如果游客发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ yóukè fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Turist değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "谢谢你们帮忙，也谢谢捡到手机的游客。",
+        "examplePinyin": "xiè xiè nǐ men bāng máng yě xiè xiè jiǎn dào shǒu jī de yóu kè",
+        "exampleTr": "Yardımınız için ve telefonu bulan ziyaretçiye teşekkürler.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "打电话",
         "pinyin": "dǎ diànhuà",
         "tr": "telefon etmek",
-        "exampleZh": "关于打电话，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú dǎ diànhuà, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Telefon etmek konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "乐乐，你先用我的手机给自己的号码打电话，听听有没有铃声。",
+        "examplePinyin": "lè lè nǐ xiān yòng wǒ de shǒu jī gěi zì jǐ de hào mǎ dǎ diàn huà tīng tīng yǒu méi yǒu líng shēng",
+        "exampleTr": "Lele, önce benim telefonumdan kendi numaranı ara; zil sesi geliyor mu dinleyelim.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "警察",
         "pinyin": "jǐngchá",
         "tr": "polis",
-        "exampleZh": "警察是我们不能忽略的一点。",
-        "examplePinyin": "Jǐngchá shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Polis göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "如果你们怀疑手机是被人拿走的，可以联系警察；我们也会保留场馆的登记信息。",
+        "examplePinyin": "rú guǒ nǐ men huái yí shǒu jī shì bèi rén ná zǒu de kě yǐ lián xì jǐng chá wǒ men yě huì bǎo liú chǎng guǎn de dēng jì xìn xī",
+        "exampleTr": "Telefonun biri tarafından alındığından şüpheleniyorsanız polisi arayabilirsiniz; biz de salonun kayıt bilgilerini saklarız.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "解决办法",
         "pinyin": "jiějué bànfǎ",
         "tr": "çözüm yolu",
-        "exampleZh": "我们把解决办法也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jiějué bànfǎ yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Çözüm yolu konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "对，先确保安全，再找工作人员和合适的解决办法。",
+        "examplePinyin": "duì xiān què bǎo ān quán zài zhǎo gōng zuò rén yuán hé hé shì de jiě jué bàn fǎ",
+        "exampleTr": "Evet, önce güvenliği sağla; sonra görevliye ve uygun çözüme ulaş.",
         "kind": "active"
       },
       {

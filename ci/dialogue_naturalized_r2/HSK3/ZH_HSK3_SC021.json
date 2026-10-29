@@ -34,7 +34,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_005",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "这里的饮料和点心看起来都不错。",
       "pinyin": "Zhè lǐ de yǐn liào hé diǎn xīn kàn qǐ lái dōu bù cuò 。",
       "tr": "Buradaki içecekler ve tatlılar güzel görünüyor."
@@ -69,7 +69,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_010",
-      "speaker": "张伟",
+      "speaker": "顾客",
       "zh": "先不加糖，谢谢。",
       "pinyin": "Xiān bù jiā táng ， xiè xiè 。",
       "tr": "Şimdilik şekersiz olsun, teşekkürler."
@@ -90,7 +90,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_013",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "所以我的订单是一杯热咖啡和一小块草莓蛋糕。",
       "pinyin": "Suǒ yǐ wǒ de dìng dān shì yī bēi rè kā fēi hé yī xiǎo kuài cǎo méi dàn gāo 。",
       "tr": "Yani siparişim bir sıcak kahve ve küçük bir dilim çilekli pasta."
@@ -118,7 +118,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_017",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "没有错，写得很清楚。",
       "pinyin": "Méi yǒu cuò ， xiě dé hěn qīng chǔ 。",
       "tr": "Yanlış yok; çok açık yazmışsın."
@@ -153,7 +153,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_022",
-      "speaker": "张伟",
+      "speaker": "顾客",
       "zh": "明白，我会先试一下温度，再送到桌上。",
       "pinyin": "Míng bái ， wǒ huì xiān shì yī xià wēn dù ， zài sòng dào zhuō shàng 。",
       "tr": "Anladım; masaya getirmeden önce sıcaklığını kontrol ederim."
@@ -230,7 +230,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_033",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "我看到了，价格没有问题。",
       "pinyin": "Wǒ kàn dào le ， jià gé méi yǒu wèn tí 。",
       "tr": "Gördüm; fiyatlar uygun."
@@ -265,7 +265,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_038",
-      "speaker": "张伟",
+      "speaker": "顾客",
       "zh": "谢谢，牛奶也在旁边，这样正合适。",
       "pinyin": "Xiè xiè ， niú nǎi yě zài páng biān ， zhè yàng zhèng hé shì 。",
       "tr": "Teşekkürler; süt de yanında, tam istediğim gibi."
@@ -273,20 +273,20 @@
     {
       "id": "DLG_ZH_HSK3_SC021_039",
       "speaker": "顾客",
-      "zh": "蛋糕没有加奶油，我也把盘子擦干净了。",
-      "pinyin": "Dàn gāo méi yǒu jiā nǎi yóu ， wǒ yě bǎ pán zi cā gān jìng le 。",
-      "tr": "Pastaya krema eklemedim, tabağı da temizledim."
+      "zh": "蛋糕没有额外加奶油，正合我意。",
+      "pinyin": "Dàngāo méiyǒu éwài jiā nǎiyóu, zhènghéwǒyì.",
+      "tr": "Pastaya ayrıca krema eklenmemiş; tam istediğim gibi."
     },
     {
       "id": "DLG_ZH_HSK3_SC021_040",
-      "speaker": "张雨桐",
+      "speaker": "顾客",
       "zh": "看起来很不错，我先尝一口蛋糕。",
       "pinyin": "Kàn qǐ lái hěn bù cuò ， wǒ xiān cháng yī kǒu dàn gāo 。",
       "tr": "Çok güzel görünüyor; önce pastadan bir lokma alayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC021_041",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "味道很好，草莓很新鲜。",
       "pinyin": "Wèi dào hěn hǎo ， cǎo méi hěn xīn xiān 。",
       "tr": "Tadı çok güzel; çilekler taze."
@@ -314,7 +314,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_045",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "咖啡有点热，我等一会儿再喝。",
       "pinyin": "Kā fēi yǒu diǎn rè ， wǒ děng yī huì er zài hē 。",
       "tr": "Kahve biraz sıcak; içmeden önce biraz bekleyeceğim."
@@ -342,7 +342,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_049",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "请给我一张，谢谢。",
       "pinyin": "Qǐng gěi wǒ yī zhāng ， xiè xiè 。",
       "tr": "Bir tane peçete alabilir miyim, teşekkürler."
@@ -370,7 +370,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_053",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "我想再确认一下，这块蛋糕里有什么？",
       "pinyin": "Wǒ xiǎng zài què rèn yī xià ， zhè kuài dàn gāo lǐ yǒu shén me ？",
       "tr": "Bir kez daha sorayım: bu pastanın içinde neler var?"
@@ -398,7 +398,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_057",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "对，就是这个意思，谢谢你再问一次。",
       "pinyin": "Duì ， jiù shì zhè ge yì si ， xiè xiè nǐ zài wèn yī cì 。",
       "tr": "Evet, tam olarak bunu demek istedim; tekrar sorduğun için teşekkürler."
@@ -412,7 +412,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_059",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "我也会把这个说明加到订单里。",
       "pinyin": "Wǒ yě huì bǎ zhè ge shuō míng jiā dào dìng dān lǐ 。",
       "tr": "Bu açıklamayı siparişe ben de ekleyeyim."
@@ -454,7 +454,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_065",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "我暂时不用别的了，咖啡和蛋糕已经够了。",
       "pinyin": "Wǒ zàn shí bù yòng bié de le ， kā fēi hé dàn gāo yǐ jīng gòu le 。",
       "tr": "Şimdilik başka bir şey istemiyorum; kahveyle pasta yeterli."
@@ -482,7 +482,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_069",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "我可能下次会点巧克力蛋糕。",
       "pinyin": "Wǒ kě néng xià cì huì diǎn qiǎo kè lì dàn gāo 。",
       "tr": "Bir dahaki sefere çikolatalı pasta söyleyebilirim."
@@ -510,7 +510,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_073",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "我喝完了，麻烦帮我结账。",
       "pinyin": "Wǒ hē wán le ， má fán bāng wǒ jié zhàng 。",
       "tr": "İçeceğimi bitirdim; hesabı alabilir miyim?"
@@ -538,7 +538,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_077",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "那总共多少钱？",
       "pinyin": "Nà zǒng gòng duō shǎo qián ？",
       "tr": "Toplam ne kadar?"
@@ -594,7 +594,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC021_085",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "我觉得这家店很舒服，下次还会来。",
       "pinyin": "Wǒ jué de zhè jiā diàn hěn shū fú ， xià cì hái huì lái 。",
       "tr": "Dükkânınız çok rahat; bir dahaki sefere yine gelirim."

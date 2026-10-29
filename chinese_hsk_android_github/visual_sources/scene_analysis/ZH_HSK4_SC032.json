@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC032",
   "status": "ANALYZED_AND_PARTIALLY_INTEGRATED",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC032.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC032.json",
   "titleTr": "Yutong Sınav Sonucunu Alıyor",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Sonuç beklenenden farklı gelir ve aile yeni seçenekleri konuşur.",

@@ -730,9 +730,9 @@
         "zh": "固执",
         "pinyin": "gùzhí",
         "tr": "inatçı",
-        "exampleZh": "固执是我们不能忽略的一点。",
-        "examplePinyin": "Gùzhí shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Inatçı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我不喜欢别人总说我固执，好像我什么都听不进去一样。",
+        "examplePinyin": "wǒ bù xǐ huān bié rén zǒng shuō wǒ gù zhí hǎo xiàng wǒ shén me dōu tīng bù jìn qù yī yàng",
+        "exampleTr": "Bana sürekli inatçı denmesini sevmiyorum; sanki hiçbir şeyi dinlemiyormuşum gibi oluyor.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "休息",
         "pinyin": "xiūxi",
         "tr": "dinlenmek",
-        "exampleZh": "我们把休息也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ xiūxi yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Dinlenmek konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "除了休息，医生还提到其他生活方式的建议吗？",
+        "examplePinyin": "chú le xiū xī yī shēng huán tí dào qí tā shēng huó fāng shì de jiàn yì ma",
+        "exampleTr": "Dinlenmenin dışında doktor başka yaşam tarzı önerisinden söz etti mi?",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "健康",
         "pinyin": "jiànkāng",
         "tr": "sağlık",
-        "exampleZh": "如果健康发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jiànkāng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Sağlık değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "关心健康和尊重选择可以同时做到，不一定只能选一边。",
+        "examplePinyin": "guān xīn jiàn kāng hé zūn chóng xuǎn zé kě yǐ tóng shí zuò dào bù yí dìng zhǐ néng xuǎn yī biān",
+        "exampleTr": "Sağlığı önemseyip seçime saygı duymak aynı anda mümkün; birini seçmek zorunda değiliz.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "说服",
         "pinyin": "shuōfú",
         "tr": "ikna etmek",
-        "exampleZh": "这件事需要大家一起说服。",
-        "examplePinyin": "Zhè jiàn shì xūyào dàjiā yìqǐ shuōfú.",
-        "exampleTr": "Bu konuda herkesin birlikte ikna etmek gerekiyor.",
+        "exampleZh": "我知道你们想说服我，是因为担心我的健康。我会听建议，但也想自己参与决定。",
+        "examplePinyin": "wǒ zhī dào nǐ men xiǎng shuō fú wǒ shì yīn wèi dān xīn wǒ de jiàn kāng wǒ huì tīng jiàn yì dàn yě xiǎng zì jǐ cān yù jué dìng",
+        "exampleTr": "Sağlığım için kaygılandığınızdan beni ikna etmeye çalıştığınızı biliyorum. Önerileri dinlerim ama karara ben de katılmak istiyorum.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "家人是我们不能忽略的一点。",
-        "examplePinyin": "Jiārén shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Aile göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "家人帮忙时也要有分寸，不把关心变成压力。",
+        "examplePinyin": "jiā rén bāng máng shí yě yào yǒu fēn cùn bù bǎ guān xīn biàn chéng yā lì",
+        "exampleTr": "Ailenin yardımı da ölçülü olmalı; ilgimizi baskıya dönüştürmemeliyiz.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "生活方式",
         "pinyin": "shēnghuó fāngshì",
         "tr": "yaşam tarzı",
-        "exampleZh": "我们把生活方式也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ shēnghuó fāngshì yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Yaşam tarzı konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "除了休息，医生还提到其他生活方式的建议吗？",
+        "examplePinyin": "chú le xiū xī yī shēng huán tí dào qí tā shēng huó fāng shì de jiàn yì ma",
+        "exampleTr": "Dinlenmenin dışında doktor başka yaşam tarzı önerisinden söz etti mi?",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "zūnzhòng",
         "tr": "saygı",
         "exampleZh": "如果尊重发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ zūnzhòng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ zūnzhòng fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Saygı değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "tuǒxié",
         "tr": "uzlaşma",
         "exampleZh": "关于妥协，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú tuǒxié, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú tuǒxié wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Uzlaşma konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK3_SC049",
   "status": "FINAL_IMAGE_INTEGRATED",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC049.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC049.json",
   "titleTr": "Aile Geleceği Konuşuyor",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Aile kafe, iş ve çocukların hedeflerini aynı masada değerlendirir.",

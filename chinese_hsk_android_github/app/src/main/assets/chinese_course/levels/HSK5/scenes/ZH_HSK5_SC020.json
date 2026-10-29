@@ -11,16 +11,16 @@
     {
       "id": "DLG_ZH_HSK5_SC020_001",
       "speaker": "刘梅",
-      "zh": "最近原材料和经营成本都涨了，我在考虑菜单价格要不要调整。",
-      "pinyin": "Zuì jìn yuán cái liào hé jīng yíng chéng běn dōu zhǎng le wǒ zài kǎo lǜ cài dān jià gé yào bù yào tiáo zhěng",
-      "tr": "Son zamanlarda hammadde ve işletme maliyetleri arttı; menü fiyatlarını değiştirip değiştirmememiz gerektiğini düşünüyorum."
+      "zh": "最近原材料和经营成本都涨了。我之所以考虑调整菜单，是因为想让店里的生意稳定下来。",
+      "pinyin": "zuì jìn yuán cái liào hé jīng yíng chéng běn dōu zhǎng le 。 wǒ zhī suǒ yǐ kǎo lǜ tiáo zhěng cài dān ， shì yīn wèi xiǎng ràng diàn lǐ de shēng yì wěn dìng xià lái 。",
+      "tr": "Son zamanlarda ham madde ve işletme maliyetleri arttı. Menüyü değiştirmeyi düşünmemin nedeni işletmenin devamlılığını korumak istemem."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_002",
       "speaker": "张伟",
-      "zh": "我整理了近期的数据，也想听听顾客对价格和服务的期待。",
-      "pinyin": "Wǒ zhěng lǐ le jìn qī de shù jù yě xiǎng tīng tīng gù kè duì jià gé hé fú wù de qī dài",
-      "tr": "Yakın dönemin verilerini düzenledim; müşterilerin fiyat ve hizmet beklentilerini de duymak istiyorum."
+      "zh": "我整理了近期的数据，也想听听顾客期待的价格和服务。",
+      "pinyin": "wǒ zhěng lǐ le jìn qī de shù jù ， yě xiǎng tīng tīng gù kè qī dài de jià gé hé fú wù 。",
+      "tr": "Yakın dönem verilerini derledim; müşterilerin fiyat ve hizmet beklentilerini de duymak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_003",
@@ -102,9 +102,9 @@
     {
       "id": "DLG_ZH_HSK5_SC020_014",
       "speaker": "张伟",
-      "zh": "我们需要平衡顾客能接受的价格和店里持续经营的成本。",
-      "pinyin": "Wǒ men xū yào píng héng gù kè néng jiē shòu de jià gé hé diàn lǐ chí xù jīng yíng de chéng běn",
-      "tr": "Müşterilerin kabul edebileceği fiyatla işletmenin sürdürülebilir maliyetleri arasında denge kurmalıyız."
+      "zh": "我们需要平衡顾客能接受的价格和店里维持生意所需的成本。",
+      "pinyin": "wǒ men xū yào píng héng gù kè néng jiē shòu de jià gé hé diàn lǐ wéi chí shēng yì suǒ xū de chéng běn 。",
+      "tr": "Müşterilerin kabul edebileceği fiyatlarla işletmenin devamı için gereken maliyetleri dengelemeliyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC020_015",
@@ -730,9 +730,9 @@
         "zh": "涨价",
         "pinyin": "zhǎngjià",
         "tr": "fiyat artırmak",
-        "exampleZh": "涨价以前，我们得先把成本变化算清楚。",
-        "examplePinyin": "Zhǎngjià yǐqián, wǒmen děi xiān bǎ chéngběn biànhuà suàn qīngchu.",
-        "exampleTr": "Fiyat artırmadan önce maliyet değişimini net hesaplamalıyız.",
+        "exampleZh": "如果涨价后服务反而变差，顾客也很难接受。",
+        "examplePinyin": "Rú guǒ zhǎng jià hòu fú wù fǎn ér biàn chà ， gù kè yě hěn nán jiē shòu 。",
+        "exampleTr": "Zamdan sonra hizmet kötüleşirse müşterilerin kabul etmesi de zor olur.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "顾客期待",
         "pinyin": "gùkè qīdài",
         "tr": "müşteri beklentisi",
-        "exampleZh": "我们把顾客期待也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ gùkè qīdài yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Müşteri beklentisi konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我整理了近期的数据，也想听听顾客期待的价格和服务。",
+        "examplePinyin": "Wǒ zhěng lǐ le jìn qī de shù jù ， yě xiǎng tīng tīng gù kè qī dài de jià gé hé fú wù 。",
+        "exampleTr": "Yakın dönem verilerini derledim; müşterilerin fiyat ve hizmet beklentilerini de duymak istiyorum.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "经营成本",
         "pinyin": "jīngyíng chéngběn",
         "tr": "işletme maliyeti",
-        "exampleZh": "如果经营成本发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jīngyíng chéngběn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Işletme maliyeti değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "最近原材料和经营成本都涨了。我之所以考虑调整菜单，是因为想让店里的生意稳定下来。",
+        "examplePinyin": "Zuì jìn yuán cái liào hé jīng yíng chéng běn dōu zhǎng le 。 wǒ zhī suǒ yǐ kǎo lǜ tiáo zhěng cài dān ， shì yīn wèi xiǎng ràng diàn lǐ de shēng yì wěn dìng xià lái 。",
+        "exampleTr": "Son zamanlarda ham madde ve işletme maliyetleri arttı. Menüyü değiştirmeyi düşünmemin nedeni işletmenin devamlılığını korumak istemem.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "价格",
         "pinyin": "jiàgé",
         "tr": "fiyat",
-        "exampleZh": "关于价格，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jiàgé, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Fiyat konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "我们可以先评估几种办法，不急着定最终价格。",
+        "examplePinyin": "Wǒ men kě yǐ xiān píng gū jǐ zhǒng bàn fǎ ， bù jí zhe dìng zuì zhōng jià gé 。",
+        "exampleTr": "Birkaç seçeneği önce değerlendirebiliriz; son fiyatı hemen belirlemeyelim.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "公平",
         "pinyin": "gōngpíng",
         "tr": "adalet / hakkaniyet",
-        "exampleZh": "公平是我们不能忽略的一点。",
-        "examplePinyin": "Gōngpíng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Adalet / hakkaniyet göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "先看具体饮品和价格变化，抽象地谈公平不容易判断。",
+        "examplePinyin": "Xiān kàn jù tǐ yǐn pǐn hé jià gé biàn huà ， chōu xiàng dì tán gōng píng bù róng yì pàn duàn 。",
+        "exampleTr": "Soyut biçimde adaleti tartışmak yerine belirli içeceklere ve fiyat değişikliklerine bakalım.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "生意",
         "pinyin": "shēngyi",
         "tr": "iş / ticaret",
-        "exampleZh": "我们把生意也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ shēngyi yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Iş / ticaret konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我们需要平衡顾客能接受的价格和店里维持生意所需的成本。",
+        "examplePinyin": "Wǒ men xū yào píng héng gù kè néng jiē shòu de jià gé hé diàn lǐ wéi chí shēng yì suǒ xū de chéng běn 。",
+        "exampleTr": "Müşterilerin kabul edebileceği fiyatlarla işletmenin devamı için gereken maliyetleri dengelemeliyiz.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "我来负责沟通这一部分。",
-        "examplePinyin": "Wǒ lái fùzé gōutōng zhè yí bùfen.",
-        "exampleTr": "Iletişim kurmak kısmını ben üstleneyim.",
-        "kind": "review"
+        "exampleZh": "如果最后决定调价，我们要把生效时间和顾客沟通安排好。",
+        "examplePinyin": "Rú guǒ zuì hòu jué dìng diào jià ， wǒ men yào bǎ shēng xiào shí jiān hé gù kè gōu tōng ān pái hǎo 。",
+        "exampleTr": "Sonunda fiyatı değiştirmeye karar verirsek yürürlük tarihini ve müşterilere nasıl duyuracağımızı planlamalıyız.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC020_008",
         "zh": "信任",
         "pinyin": "xìnrèn",
         "tr": "güven",
-        "exampleZh": "关于信任，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú xìnrèn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Güven konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "价格调整也会影响顾客信任，说明方式和时间都要考虑。",
+        "examplePinyin": "Jià gé tiáo zhěng yě huì yǐng xiǎng gù kè xìn rèn ， shuō míng fāng shì hé shí jiān dōu yào kǎo lǜ 。",
+        "exampleTr": "Fiyat değişikliği müşteri güvenini de etkiler; açıklamanın biçimini ve zamanını düşünmeliyiz.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1218,6 +1218,14 @@
     },
     "continuityNoteTr": "Fiyat Artışı Tartışması olayı HSK5 yaşam çizgisinde sahne 20 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 16,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC020.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

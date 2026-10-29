@@ -730,9 +730,9 @@
         "zh": "组长",
         "pinyin": "zǔzhǎng",
         "tr": "ekip lideri",
-        "exampleZh": "组长在这件事里很重要。",
-        "examplePinyin": "Zǔzhǎng zài zhè jiàn shì lǐ hěn zhòngyào.",
-        "exampleTr": "Ekip lideri bu konuda önemli.",
+        "exampleZh": "这表现出责任感。组长不是什么都自己做，而是让分工清楚。",
+        "examplePinyin": "Zhè biǎo xiàn chū zé rèn gǎn 。 zú zhǎng bú shì shén me dōu zì jǐ zuò ， ér shì ràng fēn gōng qīng chǔ 。",
+        "exampleTr": "Bu, sorumluluk duygusu gösterir. Ekip lideri her şeyi kendi yapmaz; görevleri netleştirir.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "领导能力",
         "pinyin": "lǐngdǎo nénglì",
         "tr": "liderlik becerisi",
-        "exampleZh": "我们把领导能力也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ lǐngdǎo nénglì yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Liderlik becerisi konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "领导能力也包括听意见，而不是只把自己的安排宣布出来。",
+        "examplePinyin": "Lǐng dǎo néng lì yě bāo kuò tīng yì jiàn ， ér bú shì zhǐ bǎ zì jǐ de ān pái xuān bù chū lái 。",
+        "exampleTr": "Liderlik becerisi kendi planını duyurmanın yanı sıra görüşleri dinlemeyi de kapsar.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "责任感",
         "pinyin": "zérèngǎn",
         "tr": "sorumluluk duygusu",
-        "exampleZh": "如果责任感发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ zérèngǎn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Sorumluluk duygusu değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "这表现出责任感。组长不是什么都自己做，而是让分工清楚。",
+        "examplePinyin": "Zhè biǎo xiàn chū zé rèn gǎn 。 zú zhǎng bú shì shén me dōu zì jǐ zuò ， ér shì ràng fēn gōng qīng chǔ 。",
+        "exampleTr": "Bu, sorumluluk duygusu gösterir. Ekip lideri her şeyi kendi yapmaz; görevleri netleştirir.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "项目组",
         "pinyin": "xiàngmù zǔ",
         "tr": "proje ekibi",
-        "exampleZh": "关于项目组，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú xiàngmù zǔ, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Proje ekibi konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "我把这个时间写进项目组日历，大家都能看到。",
+        "examplePinyin": "Wǒ bǎ zhè ge shí jiān xiě jìn xiàng mù zǔ rì lì ， dà jiā dōu néng kàn dào 。",
+        "exampleTr": "Bu saati proje takvimine yazıyorum; herkes görebilir.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "家庭会议",
         "pinyin": "jiātíng huìyì",
         "tr": "aile toplantısı",
-        "exampleZh": "家庭会议是我们不能忽略的一点。",
-        "examplePinyin": "Jiātíng huìyì shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Aile toplantısı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "项目组的合作和家庭会议不一样，但认真听人说话这一点相同。",
+        "examplePinyin": "Xiàng mù zǔ de hé zuò hé jiā tíng huì yì bù yí yàng ， dàn rèn zhēn tīng rén shuō huà zhè yì diǎn xiāng tóng 。",
+        "exampleTr": "Proje ekibindeki iş birliği aile toplantısından farklıdır ama insanları dikkatle dinlemek ikisinde de önemlidir.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "如果能提前沟通，后面会顺利很多。",
-        "examplePinyin": "Rúguǒ néng tíqián gōutōng, hòumiàn huì shùnlì hěn duō.",
-        "exampleTr": "Önceden iletişim kurmak mümkün olursa sonrası çok daha rahat ilerler.",
+        "exampleZh": "我会按新的安排开始测试，有困难就尽早沟通。",
+        "examplePinyin": "Wǒ huì àn xīn de ān pái kāi shǐ cè shì ， yǒu kùn nán jiù jín zǎo gōu tōng 。",
+        "exampleTr": "Yeni düzene göre testlere başlarım; zorluk olursa erken iletişim kurarım.",
         "kind": "active"
       },
       {

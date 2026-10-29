@@ -5,7 +5,7 @@
   "sceneId": "ZH_HSK5_SC001",
   "generationSceneId": "ZH_HSK5_SC001",
   "status": "INTEGRATED_QA_PASS",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK5/scenes/ZH_HSK5_SC001.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC001.json",
   "dialogueSha256": "14956446ba5539da4a55cb87c570c32ef13c9a49de3fcb2ce217836d6cfc4675",
   "titleZh": "雨桐第一次挂科",
   "titleTr": "Yutong Üniversitede Zorlanıyor",

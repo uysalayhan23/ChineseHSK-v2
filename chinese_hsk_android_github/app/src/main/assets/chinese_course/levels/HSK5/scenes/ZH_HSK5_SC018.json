@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK5_SC018_001",
       "speaker": "刘梅",
-      "zh": "最近我一直在想塑料用品这件事。",
-      "pinyin": "Zuìjìn wǒ yìzhí zài xiǎng sùliào yòngpǐn zhèjiàn shì.",
-      "tr": "Son zamanlarda plastik ürünler meselesini düşünüyorum."
+      "zh": "最近我一直在想塑料用品这件事，想减少一次性用品，也看看顾客是否愿意配合。",
+      "pinyin": "zuì jìn wǒ yì zhí zài xiǎng sù liào yòng pǐn zhè jiàn shì ， xiǎng jiǎn shǎo yí cì xìng yòng pǐn ， yě kàn kàn gù kè shì fǒu yuàn yì pèi hé 。",
+      "tr": "Son zamanlarda plastik ürünleri düşünüyorum; tek kullanımlık ürünleri azaltıp müşterilerin katılmaya istekli olup olmadığını görmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC018_002",
@@ -151,9 +151,9 @@
     {
       "id": "DLG_ZH_HSK5_SC018_021",
       "speaker": "刘梅",
-      "zh": "如果试行影响出杯速度，我们就先暂停扩大范围。",
-      "pinyin": "Rú guǒ shì xíng yǐng xiǎng chū bēi sù dù wǒ men jiù xiān zàn tíng kuò dà fàn wéi",
-      "tr": "Deneme içecek hazırlama hızını etkilerse kapsamı genişletmeyi durdururuz."
+      "zh": "为了可持续发展，我们想减少塑料；如果试行影响出杯速度，就先暂停扩大范围。",
+      "pinyin": "wèi le kě chí xù fā zhǎn ， wǒ men xiǎng jiǎn shǎo sù liào ； rú guǒ shì xíng yǐng xiǎng chū bēi sù dù ， jiù xiān zàn tíng kuò dà fàn wéi 。",
+      "tr": "Sürdürülebilirlik için plastik kullanımını azaltmak istiyoruz; deneme servis hızını etkilerse kapsamı büyütmeyi durdururuz."
     },
     {
       "id": "DLG_ZH_HSK5_SC018_022",
@@ -291,9 +291,9 @@
     {
       "id": "DLG_ZH_HSK5_SC018_041",
       "speaker": "刘梅",
-      "zh": "其实，可以先小范围试一试，再根据顾客反应调整。",
-      "pinyin": "Qíshí, kěyǐ xiānxiǎo fànwéi shìyīshì, zài gēnjù gùkè fǎnyìng tiáozhěng.",
-      "tr": "Aslında, önce küçük ölçekte deneyip müşteri tepkisine göre ayarlayabiliriz."
+      "zh": "与一下子取消所有一次性用品相比，先试一周自带杯制度，再根据顾客反应调整更稳妥。",
+      "pinyin": "yǔ yī xià zi qǔ xiāo suǒ yǒu yí cì xìng yòng pǐn xiāng bǐ ， xiān shì yī zhōu zì dài bēi zhì dù ， zài gēn jù gù kè fǎn yìng tiáo zhěng gèng wěn tuǒ 。",
+      "tr": "Tüm tek kullanımlık ürünleri bir anda kaldırmak yerine, bir hafta kendi bardağını getirme kuralını deneyip müşteri tepkisine göre ayarlamak daha sağlıklı."
     },
     {
       "id": "DLG_ZH_HSK5_SC018_042",
@@ -730,9 +730,9 @@
         "zh": "塑料用品",
         "pinyin": "sùliào yòngpǐn",
         "tr": "plastik ürünler",
-        "exampleZh": "塑料用品是我们不能忽略的一点。",
-        "examplePinyin": "Sùliào yòngpǐn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Plastik ürünler göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "减少塑料用品以后，顾客和店里的成本分别会有什么变化？",
+        "examplePinyin": "Jiǎn shǎo sù liào yòng pǐn yǐ hòu ， gù kè hé diàn lǐ de chéng běn fèn bié huì yǒu shén me biàn huà ？",
+        "exampleTr": "Plastik ürünleri azaltınca müşteriler ve işletme maliyetleri nasıl etkilenir?",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "一次性用品",
         "pinyin": "yícìxìng yòngpǐn",
         "tr": "tek kullanımlık ürünler",
-        "exampleZh": "我们把一次性用品也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ yícìxìng yòngpǐn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Tek kullanımlık ürünler konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "最近我一直在想一次性用品这件事。",
+        "examplePinyin": "Zuì jìn wǒ yì zhí zài xiǎng yí cì xìng yòng pǐn zhè jiàn shì 。",
+        "exampleTr": "Son zamanlarda tek kullanımlık ürünler meselesini düşünüyorum.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "可持续发展",
         "pinyin": "kě chíxù fāzhǎn",
         "tr": "sürdürülebilirlik",
-        "exampleZh": "如果可持续发展发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ kě chíxù fāzhǎn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Sürdürülebilirlik değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "为了可持续发展，我们想减少塑料；如果试行影响出杯速度，就先暂停扩大范围。",
+        "examplePinyin": "Wèi le kě chí xù fā zhǎn ， wǒ men xiǎng jiǎn shǎo sù liào ； rú guǒ shì xíng yǐng xiǎng chū bēi sù dù ， jiù xiān zàn tíng kuò dà fàn wéi 。",
+        "exampleTr": "Sürdürülebilirlik için plastik kullanımını azaltmak istiyoruz; deneme servis hızını etkilerse kapsamı büyütmeyi durdururuz.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "成本",
         "pinyin": "chéngběn",
         "tr": "maliyet",
-        "exampleZh": "关于成本，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú chéngběn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Maliyet konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "如果成本的情况变了，后面的计划也得重新评估。",
+        "examplePinyin": "Rú guǒ chéng běn de qíng kuàng biàn le ， hòu miàn de jì huà yě dé chóng xīn píng gū 。",
+        "exampleTr": "Maliyet değişirse planı da ayarlamak gerekir.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "顾客期待",
         "pinyin": "gùkè qīdài",
         "tr": "müşteri beklentisi",
-        "exampleZh": "顾客期待是我们不能忽略的一点。",
-        "examplePinyin": "Gùkè qīdài shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Müşteri beklentisi göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "说到顾客期待，我们也得看看顾客和成本两方面。",
+        "examplePinyin": "Shuō dào gù kè qī dài ， wǒ men yě dé kàn kàn gù kè hé chéng běn liǎng fāng miàn 。",
+        "exampleTr": "Müşteri beklentilerini konuşurken hem müşteriyi hem de maliyeti dikkate almalıyız.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "制度",
         "pinyin": "zhìdù",
         "tr": "kural / sistem / politika",
-        "exampleZh": "我们把制度也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zhìdù yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Kural / sistem / politika konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "与一下子取消所有一次性用品相比，先试一周自带杯制度，再根据顾客反应调整更稳妥。",
+        "examplePinyin": "Yǔ yī xià zi qǔ xiāo suǒ yǒu yí cì xìng yòng pǐn xiāng bǐ ， xiān shì yī zhōu zì dài bēi zhì dù ， zài gēn jù gù kè fǎn yìng tiáo zhěng gèng wěn tuǒ 。",
+        "exampleTr": "Tüm tek kullanımlık ürünleri bir anda kaldırmak yerine, bir hafta kendi bardağını getirme kuralını deneyip müşteri tepkisine göre ayarlamak daha sağlıklı.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "生意",
         "pinyin": "shēngyi",
         "tr": "iş / ticaret",
-        "exampleZh": "如果生意发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ shēngyi fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Iş / ticaret değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "关于生意，我们还是结合实际情况来看。",
+        "examplePinyin": "Guān yú shēng yì ， wǒ men hái shì jié hé shí jì qíng kuàng lái kàn 。",
+        "exampleTr": "İşletmeyle ilgili konularda gerçek koşulları göz önünde bulunduralım.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC018_008",
         "zh": "影响",
         "pinyin": "yǐngxiǎng",
         "tr": "etki",
-        "exampleZh": "关于影响，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú yǐngxiǎng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Etki konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "只要品质不受影响，细节上可以慢慢调整。",
+        "examplePinyin": "Zhǐ yào pǐn zhì bù shòu yǐng xiǎng ， xì jié shàng kě yǐ màn màn tiáo zhěng 。",
+        "exampleTr": "Kalite etkilenmediği sürece ayrıntıları zamanla ayarlayabiliriz.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1218,6 +1218,14 @@
     },
     "continuityNoteTr": "Kafe Plastik Kullanımını Azaltıyor olayı HSK5 yaşam çizgisinde sahne 18 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 16,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC018.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

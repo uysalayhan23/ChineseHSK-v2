@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC029_001",
       "speaker": "刘梅",
-      "zh": "施工通知上说，从下周一开始，咖啡馆门前的人行道要封闭三周。",
-      "pinyin": "shī gōng tōng zhī shàng shuō ， cóng xià zhōu yī kāi shǐ ， kā fēi guǎn mén qián de rén xíng dào yào fēng bì sān zhōu 。",
-      "tr": "Duyuruya göre gelecek pazartesiden başlayarak kafenin önündeki kaldırım üç hafta kapalı olacak."
+      "zh": "这次城市规划项目会改造咖啡馆门前的道路；通知上说，人行道下周一开始封闭三周。",
+      "pinyin": "zhè cì chéng shì guī huà xiàng mù huì gǎi zào kā fēi guǎn mén qián de dào lù ； tōng zhī shàng shuō ， rén xíng dào xià zhōu yī kāi shǐ fēng bì sān zhōu 。",
+      "tr": "Bu şehir planlama projesinde kafenin önündeki yol yenilenecek; duyuruya göre kaldırım gelecek pazartesiden başlayarak üç hafta kapalı olacak."
     },
     {
       "id": "DLG_ZH_HSK5_SC029_002",
@@ -51,9 +51,9 @@
     {
       "id": "DLG_ZH_HSK5_SC029_007",
       "speaker": "张伟",
-      "zh": "道路施工对客人进店和送货分别有什么影响？",
-      "pinyin": "dào lù shī gōng duì kè rén jìn diàn hé sòng huò fēn bié yǒu shén me yǐng xiǎng ？",
-      "tr": "Yol çalışması müşterilerin kafeye girişini ve ürün teslimatını ayrı ayrı nasıl etkiliyor?"
+      "zh": "道路施工对客人进店和送货有什么影响？我们需要提前评估哪些风险？",
+      "pinyin": "dào lù shī gōng duì kè rén jìn diàn hé sòng huò yǒu shén me yǐng xiǎng ？ wǒ men xū yào tí qián píng gū nǎ xiē fēng xiǎn ？",
+      "tr": "Yol çalışması müşterilerin dükkâna girişini ve teslimatları nasıl etkileyecek? Önceden hangi riskleri değerlendirmeliyiz?"
     },
     {
       "id": "DLG_ZH_HSK5_SC029_008",
@@ -289,9 +289,9 @@
     {
       "id": "DLG_ZH_HSK5_SC029_041",
       "speaker": "刘梅",
-      "zh": "我先比较施工前后的营业额、客流和送货费用，别只看一天的变化。",
-      "pinyin": "wǒ xiān bǐ jiào shī gōng qián hòu de yíng yè é 、 kè liú hé sòng huò fèi yòng ， bié zhǐ kàn yī tiān de biàn huà 。",
-      "tr": "Çalışma öncesi ve sonrasındaki ciroyu, müşteri trafiğini ve teslimat masrafını karşılaştırayım; yalnızca tek bir güne bakmayalım."
+      "zh": "我先比较施工前后的生意情况、客流和送货费用，别只看一天的变化。",
+      "pinyin": "wǒ xiān bǐ jiào shī gōng qián hòu de shēng yì qíng kuàng 、 kè liú hé sòng huò fèi yòng ， bié zhǐ kàn yī tiān de biàn huà 。",
+      "tr": "İnşaat öncesiyle sonrasındaki işlerin durumunu, müşteri trafiğini ve teslimat masraflarını karşılaştıralım; tek bir günün değişimine bakmayalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC029_042",
@@ -415,9 +415,9 @@
     {
       "id": "DLG_ZH_HSK5_SC029_059",
       "speaker": "张伟",
-      "zh": "如果大家觉得绕行太远，我们就把路线反馈给施工方，请他们缩短距离。",
-      "pinyin": "rú guǒ dà jiā jué de rào xíng tài yuǎn ， wǒ men jiù bǎ lù xiàn fǎn kuì gěi shī gōng fāng ， qǐng tā men suō duǎn jù lí 。",
-      "tr": "Herkes alternatif yolu çok uzun bulursa güzergâhı şantiye ekibine iletip kısaltmalarını isteriz."
+      "zh": "如果大家觉得绕行太远，我们就把问题和解决办法一起反馈给施工方，请他们缩短距离。",
+      "pinyin": "rú guǒ dà jiā jué de rào xíng tài yuǎn ， wǒ men jiù bǎ wèn tí hé jiě jué bàn fǎ yì qǐ fǎn kuì gěi shī gōng fāng ， qǐng tā men suō duǎn jù lí 。",
+      "tr": "Herkes dolambaçlı yolu fazla uzak bulursa sorunu ve çözüm önerisini yükleniciye iletip mesafeyi kısaltmalarını isteyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC029_060",

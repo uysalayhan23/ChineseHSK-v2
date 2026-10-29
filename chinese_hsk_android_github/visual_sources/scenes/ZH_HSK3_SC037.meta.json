@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC037.json",
-  "dialogueSha256": "fb92782c2e3346f51b784867504007710dff6ff257595618d9f51a4af8866e64",
+  "dialogueSha256": "28e00fb3bd388851a642d2f3e4afbd18c0fa8130cd4efb8cbf206949d7b73f6a",
   "titleTr": "Zhang’ın Terfi İhtimali",
   "locationId": "LOC_ZH_WORKPLACE_001",
   "scenePurposeTr": "Zhang’a daha fazla sorumluluk getirecek bir terfi ihtimali doğar.",

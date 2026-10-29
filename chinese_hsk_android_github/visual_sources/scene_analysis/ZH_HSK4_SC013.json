@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC013",
   "status": "ANALYZED_READY_FOR_GENERATION",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC013.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC013.json",
   "titleTr": "Müşteri Alerjisi",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Bir müşteri gıda alerjisini belirtir; ekip içerikleri dikkatle kontrol eder.",

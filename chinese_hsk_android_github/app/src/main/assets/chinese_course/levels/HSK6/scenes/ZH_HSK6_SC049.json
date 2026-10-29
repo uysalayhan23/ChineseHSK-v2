@@ -10,45 +10,45 @@
   "dialogues": [
     {
       "id": "DLG_ZH_HSK6_SC049_001",
-      "speaker": "张伟",
+      "speaker": "旁白",
       "zh": "咖啡馆打烊后，街上的声音也渐渐远了。",
-      "pinyin": "Kā fēi guǎn dǎ yàng hòu, jiē shàng de shēng yīn yě jiàn jiàn yuǎn le.",
+      "pinyin": "kā fēi guǎn dǎ yàng hòu ， jiē shàng de shēng yīn yě jiàn jiàn yuǎn le 。",
       "tr": "Kafe kapandıktan sonra sokaktaki sesler de yavaş yavaş uzaklaştı."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_002",
       "speaker": "刘梅",
-      "zh": "灯光暗下来，三个人终于不用赶着说下一件事。",
-      "pinyin": "Dēng guāng àn xià lái, sān gè rén zhōng yú bù yòng gǎn zhe shuō xià yī jiàn shì.",
-      "tr": "Işıkların yarısı sönünce nihayet sakince konuşabilecekmişiz gibi geldi."
+      "zh": "店里安静下来了，我们终于能不赶时间地聊聊近况。",
+      "pinyin": "diàn lǐ ān jìng xià lái le ， wǒ men zhōng yú néng bù gǎn shí jiān dì liáo liáo jìn kuàng 。",
+      "tr": "Dükkân sakinleşti; sonunda acele etmeden son zamanlarda neler yaptığımızı konuşabiliriz."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_003",
-      "speaker": "旁白",
-      "zh": "李晨看他们还坐着，便问今晚是不是有什么心事。",
-      "pinyin": "Lǐ chén kàn tā men hái zuò zhe, biàn wèn jīn wǎn shì bú shì yǒu shén me xīn shì.",
-      "tr": "Li Chen, hâlâ oturduklarını görünce bu akşam akıllarını kurcalayan bir şey olup olmadığını sordu."
+      "speaker": "李晨",
+      "zh": "你们还坐着，是不是有些心事想聊？",
+      "pinyin": "nǐ men hái zuò zhe ， shì bú shì yǒu xiē xīn shì xiǎng liáo ？",
+      "tr": "Hâlâ oturuyorsunuz; konuşmak istediğiniz bir şey mi var?"
     },
     {
       "id": "DLG_ZH_HSK6_SC049_004",
-      "speaker": "李晨",
-      "zh": "张伟笑了笑，说只是很久没聊聊这些年的生活。",
-      "pinyin": "Zhāng wěi xiào le xiào, shuō zhǐ shì hěn jiǔ méi liáo liáo zhè xiē nián de shēng huó.",
-      "tr": "Zhang Wei gülümsedi ve yıllardır yaşamlarından doğru dürüst söz etmediklerini söyledi."
+      "speaker": "张伟",
+      "zh": "是啊，平时碰面总在谈工作和家里的安排，很少聊这些年的生活。",
+      "pinyin": "shì a ， píng shí pèng miàn zǒng zài tán gōng zuò hé jiā lǐ de ān pái ， hěn shǎo liáo zhè xiē nián de shēng huó 。",
+      "tr": "Evet. Genelde buluşunca işten ve evdeki planlardan konuşuyoruz; bu yıllarda nasıl yaşadığımızı pek konuşmuyoruz."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_005",
-      "speaker": "张伟",
-      "zh": "平时我们碰面，总是在谈工作和家里的安排。",
-      "pinyin": "Píng shí wǒ men pèng miàn, zǒng shì zài tán gōng zuò hé jiā lǐ de ān pái.",
-      "tr": "Buluştuğumuzda genellikle işten ve evdeki düzenlemelerden söz ediyoruz."
+      "speaker": "刘梅",
+      "zh": "那今晚就慢慢聊，想起什么说什么，不用急着下结论。",
+      "pinyin": "nà jīn wǎn jiù màn màn liáo ， xiǎng qǐ shén me shuō shén me ， bù yòng jí zhe xià jié lùn 。",
+      "tr": "O hâlde bu akşam ağır ağır konuşalım; aklımıza ne gelirse söyleyelim, hemen sonuca varmamız gerekmiyor."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_006",
-      "speaker": "刘梅",
-      "zh": "很少有人停下来问一句：你最近过得怎么样？",
-      "pinyin": "Hěn shǎo yǒu rén tíng xià lái wèn yī jù： nǐ zuì jìn guò dé zěn me yàng?",
-      "tr": "İnsanlar nadiren durup “Son zamanlarda nasılsın?” diye soruyor."
+      "speaker": "李晨",
+      "zh": "好。那你们最近过得怎么样？有没有什么事一直放在心上？",
+      "pinyin": "hǎo 。 nà nǐ men zuì jìn guò dé zěn me yàng ？ yǒu méi yǒu shén me shì yì zhí fàng zài xīn shàng ？",
+      "tr": "Peki. Son zamanlarda nasılsınız? Aklınızda kalan bir şey var mı?"
     },
     {
       "id": "DLG_ZH_HSK6_SC049_007",
@@ -60,9 +60,9 @@
     {
       "id": "DLG_ZH_HSK6_SC049_008",
       "speaker": "李晨",
-      "zh": "那就别急着走，今晚想起什么就说什么吧。",
-      "pinyin": "Nà jiù bié jí zhe zǒu, jīn wǎn xiǎng qǐ shén me jiù shuō shén me ba.",
-      "tr": "O zaman hemen gitmeyin; bu akşam aklınıza ne gelirse sakince konuşun."
+      "zh": "我先听你们聊，想起什么再补充。",
+      "pinyin": "wǒ xiān tīng nǐ men liáo ， xiǎng qǐ shén me zài bǔ chōng 。",
+      "tr": "Önce sizi dinleyeyim; aklıma bir şey gelirse eklerim."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_009",
@@ -80,10 +80,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_011",
-      "speaker": "旁白",
+      "speaker": "张伟",
       "zh": "都有。有人在我最没信心的时候，仍然愿意相信我。",
-      "pinyin": "Dōu yǒu. yǒu rén zài wǒ zuì méi xìn xīn de shí hòu, réng rán yuàn yì xiāng xìn wǒ.",
-      "tr": "İkisi de. Kendime en az güvendiğim dönemde biri bana inanmaya devam etti."
+      "pinyin": "dōu yǒu 。 yǒu rén zài wǒ zuì méi xìn xīn de shí hòu ， réng rán yuàn yì xiāng xìn wǒ 。",
+      "tr": "İkisi de. Kendime en az güvendiğim zamanlarda bile bana inananlar oldu."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_012",
@@ -108,10 +108,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_015",
-      "speaker": "旁白",
+      "speaker": "张伟",
       "zh": "两种都有。那时我太怕选错，所以一直拖着。",
-      "pinyin": "Liǎng zhǒng dōu yǒu. nà shí wǒ tài pà xuǎn cuò, suǒ yǐ yì zhí tuō zhe.",
-      "tr": "İkisine de. O zaman yanlış seçim yapmaktan çok korktuğum için sürekli erteledim."
+      "pinyin": "liǎng zhǒng dōu yǒu 。 nà shí wǒ tài pà xuǎn cuò ， suǒ yǐ yì zhí tuō zhe 。",
+      "tr": "İkisi de. O zaman yanlış seçim yapmaktan çok korktuğum için sürekli erteledim."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_016",
@@ -136,10 +136,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_019",
-      "speaker": "旁白",
-      "zh": "人们常把幸福想成一个很远、很大的目标。",
-      "pinyin": "Rén men cháng bǎ xìng fú xiǎng chéng yí gè hěn yuǎn、 hěn dà de mù biāo.",
-      "tr": "İnsanlar mutluluğu çoğu zaman uzak ve büyük bir hedef gibi düşünür."
+      "speaker": "张伟",
+      "zh": "我以前总以为，幸福得等到生活稳定、什么都准备好才会来。",
+      "pinyin": "wǒ yǐ qián zǒng yǐ wéi ， xìng fú dé děng dào shēng huó wěn dìng 、 shén me dōu zhǔn bèi hǎo cái huì lái 。",
+      "tr": "Eskiden mutluluğun ancak hayat düzene girip her şey hazır olduğunda geleceğini sanırdım."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_020",
@@ -164,10 +164,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_023",
-      "speaker": "旁白",
-      "zh": "那人生意义是不是不一定要有一个标准答案？",
-      "pinyin": "Nà rén shēng yì yì shì bú shì bù yí dìng yào yǒu yí gè biāo zhǔn dá àn?",
-      "tr": "Öyleyse hayatın anlamının mutlaka tek bir doğru cevabı olması gerekmiyor mu?"
+      "speaker": "张伟",
+      "zh": "那人生的意义是不是也没有一个标准答案？",
+      "pinyin": "nà rén shēng de yì yì shì bú shì yě méi yǒu yí gè biāo zhǔn dá àn ？",
+      "tr": "O hâlde hayatın anlamının da tek bir doğru cevabı yok mu?"
     },
     {
       "id": "DLG_ZH_HSK6_SC049_024",
@@ -220,10 +220,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_031",
-      "speaker": "旁白",
-      "zh": "当然犹豫过，但我更想知道自己为什么要接受它。",
-      "pinyin": "Dāng rán yóu yù guò, dàn wǒ gèng xiǎng zhī dào zì jǐ wèi shén me yào jiē shòu tā.",
-      "tr": "Elbette tereddüt ettim ama onu neden kabul etmek istediğimi anlamak istedim."
+      "speaker": "张伟",
+      "zh": "当然犹豫过，不过我更想弄清楚自己为什么要接受那份工作。",
+      "pinyin": "dāng rán yóu yù guò ， bù guò wǒ gèng xiǎng nòng qīng chǔ zì jǐ wèi shén me yào jiē shòu nà fèn gōng zuò 。",
+      "tr": "Elbette tereddüt ettim ama o işi neden kabul etmek istediğimi anlamak benim için daha önemliydi."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_032",
@@ -276,9 +276,9 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_039",
-      "speaker": "旁白",
+      "speaker": "张伟",
       "zh": "是。他们怕我太累，并不是不相信我的能力。",
-      "pinyin": "Shì. tā men pà wǒ tài lèi, bìng bú shì bù xiāng xìn wǒ de néng lì.",
+      "pinyin": "shì 。 tā men pà wǒ tài lèi ， bìng bú shì bù xiāng xìn wǒ de néng lì 。",
       "tr": "Evet. Çok yorulacağımdan korkuyorlardı; yeteneğime güvenmediklerinden değil."
     },
     {
@@ -374,10 +374,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_053",
-      "speaker": "张伟",
-      "zh": "说到这里，他没有再解释，只把杯子轻轻放回桌上。",
-      "pinyin": "Shuō dào zhè lǐ, tā méi yǒu zài jiě shì, zhǐ bǎ bēi zi qīng qīng fàng huí zhuō shàng.",
-      "tr": "Bunu söyleyince başka bir açıklama yapmadı; bardağını usulca masaya bıraktı."
+      "speaker": "旁白",
+      "zh": "说到这里，李晨没有再解释，只把杯子轻轻放回桌上。",
+      "pinyin": "shuō dào zhè lǐ ， lǐ chén méi yǒu zài jiě shì ， zhǐ bǎ bēi zi qīng qīng fàng huí zhuō shàng 。",
+      "tr": "Li Chen burada daha fazla açıklama yapmadı, yalnızca bardağı yavaşça masaya bıraktı."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_054",
@@ -388,10 +388,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_055",
-      "speaker": "旁白",
+      "speaker": "李晨",
       "zh": "谈过。我以为他们会怪我，没想到他们只是说想多见见我。",
-      "pinyin": "Tán guò. wǒ yǐ wéi tā men huì guài wǒ, méi xiǎng dào tā men zhǐ shì shuō xiǎng duō jiàn jiàn wǒ.",
-      "tr": "Konuştum. Bana kızacaklarını sanmıştım; yalnızca beni daha sık görmek istediklerini söylediler."
+      "pinyin": "tán guò 。 wǒ yǐ wéi tā men huì guài wǒ ， méi xiǎng dào tā men zhǐ shì shuō xiǎng duō jiàn jiàn wǒ 。",
+      "tr": "Konuştum. Beni suçlayacaklarını sanıyordum ama yalnızca beni daha sık görmek istediklerini söylediler."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_056",
@@ -416,10 +416,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_059",
-      "speaker": "旁白",
+      "speaker": "张伟",
       "zh": "周末这样调整以后，你觉得轻松些了吗？",
-      "pinyin": "Zhōu mò zhè yàng tiáo zhěng yǐ hòu, nǐ jué de qīng sōng xiē le ma?",
-      "tr": "Hafta sonlarını böyle düzenleyince biraz rahatladın mı?"
+      "pinyin": "zhōu mò zhè yàng tiáo zhěng yǐ hòu ， nǐ jué de qīng sōng xiē le ma ？",
+      "tr": "Hafta sonlarını böyle düzenleyince kendini daha rahat hissettin mi?"
     },
     {
       "id": "DLG_ZH_HSK6_SC049_060",
@@ -430,10 +430,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_061",
-      "speaker": "张伟",
-      "zh": "她听见这句话，脸上的神情也柔和了下来。",
-      "pinyin": "Tā tīng jiàn zhè jù huà, liǎn shàng de shén qíng yě róu hé le xià lái.",
-      "tr": "Bunu duyunca yüzündeki ifade yumuşadı."
+      "speaker": "旁白",
+      "zh": "张伟听了点点头，也想起自己曾经错过的时光。",
+      "pinyin": "zhāng wěi tīng le diǎn diǎn tóu ， yě xiǎng qǐ zì jǐ céng jīng cuò guò de shí guāng 。",
+      "tr": "Zhang Wei başını salladı ve kaçırdığı zamanları hatırladı."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_062",
@@ -444,10 +444,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_063",
-      "speaker": "旁白",
+      "speaker": "张伟",
       "zh": "现在回头看，你觉得幸福是什么？",
-      "pinyin": "Xiàn zài huí tóu kàn, nǐ jué de xìng fú shì shén me?",
-      "tr": "Şimdi geriye baktığında mutluluğun ne olduğunu düşünüyorsun?"
+      "pinyin": "xiàn zài huí tóu kàn ， nǐ jué de xìng fú shì shén me ？",
+      "tr": "Şimdi geriye dönüp bakınca mutluluk sence nedir?"
     },
     {
       "id": "DLG_ZH_HSK6_SC049_064",
@@ -472,10 +472,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_067",
-      "speaker": "旁白",
-      "zh": "只看眼前方便不方便，有时会错过真正重要的东西。",
-      "pinyin": "Zhǐ kàn yǎn qián fāng biàn bù fāng biàn, yǒu shí huì cuò guò zhēn zhèng zhòng yào de dōng xī.",
-      "tr": "Sadece şu an kolay olup olmadığına bakarsak gerçekten önemli şeyleri kaçırabiliriz."
+      "speaker": "张伟",
+      "zh": "有时候只看眼前方不方便，会错过真正重要的东西。",
+      "pinyin": "yǒu shí hòu zhǐ kàn yǎn qián fāng bù fāng biàn ， huì cuò guò zhēn zhèng zhòng yào de dōng xī 。",
+      "tr": "Bazen yalnızca şu an neyin kolay olduğuna bakarsak gerçekten önemli şeyleri kaçırabiliriz."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_068",
@@ -500,10 +500,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_071",
-      "speaker": "旁白",
-      "zh": "那时我和朋友有了误会，谁都不肯先开口。",
-      "pinyin": "Nà shí wǒ hé péng yǒu yǒu le wù huì, shuí dōu bù kěn xiān kāi kǒu.",
-      "tr": "O zaman bir arkadaşımla yanlış anlaşılmıştık; ikimiz de ilk adımı atmamıştık."
+      "speaker": "刘梅",
+      "zh": "以前我和朋友有过误会，谁都不肯先开口。",
+      "pinyin": "yǐ qián wǒ hé péng yǒu yǒu guò wù huì ， shéi dōu bù kěn xiān kāi kǒu 。",
+      "tr": "Eskiden bir arkadaşımla yanlış anlaşılmıştık; ikimiz de önce konuşmak istememiştik."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_072",
@@ -514,17 +514,17 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_073",
-      "speaker": "张伟",
-      "zh": "有天我只发了一句“最近还好吗”，对方马上打了电话来。",
-      "pinyin": "Yǒu tiān wǒ zhǐ fā le yī jù “ zuì jìn hái hǎo ma ”, duì fāng mǎ shàng dǎ le diàn huà lái.",
-      "tr": "Bir gün sadece “Son zamanlarda nasılsın?” diye yazdım; hemen beni aradı."
+      "speaker": "刘梅",
+      "zh": "有一天我只发了一句“最近还好吗”，对方马上就给我打了电话。",
+      "pinyin": "yǒu yī tiān wǒ zhǐ fā le yī jù “ zuì jìn hái hǎo ma ” ， duì fāng mǎ shàng jiù gěi wǒ dǎ le diàn huà 。",
+      "tr": "Bir gün yalnızca “Son zamanlarda nasılsın?” diye yazdım, o da hemen beni aradı."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_074",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "原来一句简单的问候，也能给关系留一个重新开始的机会。",
-      "pinyin": "Yuán lái yī jù jiǎn dān de wèn hòu, yě néng gěi guān xì liú yí gè chóng xīn kāi shǐ de jī huì.",
-      "tr": "Basit bir hâl hatır sormak bile bir ilişkiye yeniden başlama fırsatı verebiliyor."
+      "pinyin": "yuán lái yī jù jiǎn dān de wèn hòu ， yě néng gěi guān xì liú yí gè chóng xīn kāi shǐ de jī huì 。",
+      "tr": "Demek basit bir hâl hatır sorma bile ilişkiye yeniden başlama fırsatı verebiliyor."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_075",
@@ -542,10 +542,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_077",
-      "speaker": "张伟",
-      "zh": "桌边没人急着接话，三个人都安静地想了一会儿。",
-      "pinyin": "Zhuō biān méi rén jí zhe jiē huà, sān gè rén dōu ān jìng dì xiǎng le yī huì er.",
-      "tr": "Masada kimse hemen söze girmedi; üçü de bir süre sessizce düşündü."
+      "speaker": "旁白",
+      "zh": "桌边安静下来，三个人都想了一会儿，没人急着接话。",
+      "pinyin": "zhuō biān ān jìng xià lái ， sān gè rén dōu xiǎng le yī huì er ， méi rén jí zhe jiē huà 。",
+      "tr": "Masadaki konuşma duruldu; üçü de bir süre düşündü, kimse aceleyle söze girmedi."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_078",
@@ -556,10 +556,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_079",
-      "speaker": "旁白",
-      "zh": "因为我知道，过去改不了，但我还能决定接下来怎么做。",
-      "pinyin": "Yīn wèi wǒ zhī dào, guò qù gǎi bù liǎo, dàn wǒ hái néng jué dìng jiē xià lái zěn me zuò.",
-      "tr": "Çünkü geçmişi değiştiremem ama bundan sonra ne yapacağıma karar verebilirim."
+      "speaker": "李晨",
+      "zh": "过去改不了，不过我还可以决定接下来怎么做。",
+      "pinyin": "guò qù gǎi bù liǎo ， bù guò wǒ hái kě yǐ jué dìng jiē xià lái zěn me zuò 。",
+      "tr": "Geçmişi değiştiremem ama bundan sonra ne yapacağıma karar verebilirim."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_080",
@@ -584,10 +584,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_083",
-      "speaker": "旁白",
-      "zh": "我也想谢谢你们，今天没有把我的犹豫当成软弱。",
-      "pinyin": "Wǒ yě xiǎng xiè xiè nǐ men, jīn tiān méi yǒu bǎ wǒ de yóu yù dàng chéng ruǎn ruò.",
-      "tr": "Bu akşam tereddüdümü zayıflık saymayıp beni dinlediğiniz için teşekkür ederim."
+      "speaker": "李晨",
+      "zh": "我也想谢谢你们，今晚没有把我的犹豫当成软弱。",
+      "pinyin": "wǒ yě xiǎng xiè xiè nǐ men ， jīn wǎn méi yǒu bǎ wǒ de yóu yù dàng chéng ruǎn ruò 。",
+      "tr": "Ben de teşekkür ederim; bu akşam tereddüdümü zayıflık saymadınız."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_084",
@@ -598,10 +598,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_085",
-      "speaker": "张伟",
+      "speaker": "旁白",
       "zh": "李晨把桌上的杯子收好，提醒他们外面已经很晚了。",
-      "pinyin": "Lǐ chén bǎ zhuō shàng de bēi zi shōu hǎo, tí xǐng tā men wài miàn yǐ jīng hěn wǎn le.",
-      "tr": "Li Chen masadaki bardakları topladı ve dışarının çok geç olduğunu hatırlattı."
+      "pinyin": "lǐ chén bǎ zhuō shàng de bēi zi shōu hǎo ， tí xǐng tā men wài miàn yǐ jīng hěn wǎn le 。",
+      "tr": "Li Chen masadaki bardakları topladı ve dışarının geç olduğunu hatırlattı."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_086",
@@ -612,10 +612,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_087",
-      "speaker": "旁白",
+      "speaker": "张伟",
       "zh": "不用急着总结。回去路上想起什么，改天再告诉我们。",
-      "pinyin": "Bù yòng jí zhe zǒng jié. huí qù lù shàng xiǎng qǐ shén me, gǎi tiān zài gào sù wǒ men.",
-      "tr": "Acele edip bir sonuca varma. Yolda aklına bir şey gelirse başka gün anlatırsın."
+      "pinyin": "bù yòng jí zhe zǒng jié 。 huí qù lù shàng xiǎng qǐ shén me ， gǎi tiān zài gào sù wǒ men 。",
+      "tr": "Hemen bir sonuca varman gerekmiyor. Eve giderken aklına bir şey gelirse başka gün anlatırsın."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_088",
@@ -626,10 +626,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_089",
-      "speaker": "张伟",
-      "zh": "她笑了笑，说这次终于没有把关心听成责备。",
-      "pinyin": "Tā xiào le xiào, shuō zhè cì zhōng yú méi yǒu bǎ guān xīn tīng chéng zé bèi.",
-      "tr": "Gülümsedi; bu kez ilgiyi sitem sanmadığını söyledi."
+      "speaker": "旁白",
+      "zh": "刘梅笑了笑，说这次终于没有把关心听成责备。",
+      "pinyin": "liú méi xiào le xiào ， shuō zhè cì zhōng yú méi yǒu bǎ guān xīn tīng chéng zé bèi 。",
+      "tr": "Liu Mei gülümsedi; bu kez ilgiyi sonunda sitem gibi duymadığını söyledi."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_090",
@@ -641,9 +641,9 @@
     {
       "id": "DLG_ZH_HSK6_SC049_091",
       "speaker": "旁白",
-      "zh": "李晨收起桌上最后几个杯子，提醒他们外面已经很晚了。",
-      "pinyin": "Lǐ chén shōu qǐ zhuō shàng zuì hòu jǐ gè bēi zi, tí xǐng tā men wài miàn yǐ jīng hěn wǎn le.",
-      "tr": "Montlarını alıp ayağa kalktılar; kapıda bir kez daha birbirlerine iyi geceler dilediler."
+      "zh": "三个人站起身，把桌边的椅子轻轻推回原位。",
+      "pinyin": "sān gè rén zhàn qǐ shēn ， bǎ zhuō biān de yǐ zi qīng qīng tuī huí yuán wèi 。",
+      "tr": "Üçü ayağa kalkıp masanın yanındaki sandalyeleri usulca yerine itti."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_092",
@@ -668,10 +668,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC049_095",
-      "speaker": "旁白",
-      "zh": "我以前常觉得只有我一个人拿不定主意。",
-      "pinyin": "Wǒ yǐ qián cháng jué de zhǐ yǒu wǒ yí gè rén ná bù dìng zhǔ yì.",
-      "tr": "Önceden kararsız kalan tek kişinin kendim olduğunu sanırdım."
+      "speaker": "张伟",
+      "zh": "我以前也常觉得，只有自己一个人会拿不定主意。",
+      "pinyin": "wǒ yǐ qián yě cháng jué de ， zhǐ yǒu zì jǐ yí gè rén huì ná bù dìng zhǔ yì 。",
+      "tr": "Ben de eskiden kararsız kalan tek kişinin kendim olduğunu sanırdım."
     },
     {
       "id": "DLG_ZH_HSK6_SC049_096",
@@ -683,9 +683,9 @@
     {
       "id": "DLG_ZH_HSK6_SC049_097",
       "speaker": "张伟",
-      "zh": "这样考虑长期影响，也能让眼前的生活轻松一点。",
-      "pinyin": "Zhè yàng kǎo lǜ cháng qī yǐng xiǎng, yě néng ràng yǎn qián de shēng huó qīng sōng yì diǎn.",
-      "tr": "Böylece uzun vadeli etkileri düşünürken bugünkü yaşamı da biraz rahatlatırız."
+      "zh": "你不用一个人消化这些事。我们愿意继续听你说，也会尊重你的节奏。",
+      "pinyin": "nǐ bù yòng yí gè rén xiāo huà zhè xiē shì 。 wǒ men yuàn yì jì xù tīng nǐ shuō ， yě huì zūn zhòng nǐ de jié zòu 。",
+      "tr": "Bunları tek başına çözmek zorunda değilsin. Seni dinlemeye devam eder, kendi hızına saygı duyarız。"
     },
     {
       "id": "DLG_ZH_HSK6_SC049_098",
@@ -727,83 +727,83 @@
     "vocabularyCards": [
       {
         "id": "VOC_ZH_HSK6_SC049_001",
-        "zh": "感恩",
-        "pinyin": "gǎn’ēn",
-        "tr": "şükran",
-        "exampleZh": "感恩之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Gǎn’ēn zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Şükran önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "打烊",
+        "pinyin": "dǎ yàng",
+        "tr": "dükkânı kapatmak",
+        "exampleZh": "咖啡馆打烊后，街上的声音也渐渐远了。",
+        "examplePinyin": "kā fēi guǎn dǎ yàng hòu ， jiē shàng de shēng yīn yě jiàn jiàn yuǎn le 。",
+        "exampleTr": "Kafe kapandıktan sonra sokaktaki sesler de yavaş yavaş uzaklaştı.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC049_002",
-        "zh": "遗憾",
-        "pinyin": "yíhàn",
-        "tr": "pişmanlık / ukde",
-        "exampleZh": "如果忽略遗憾，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè yíhàn, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Pişmanlık / ukde göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "感恩",
+        "pinyin": "gǎn ēn",
+        "tr": "minnettarlık",
+        "exampleZh": "回头看这些年，我最先想到的还是感恩。",
+        "examplePinyin": "Huí tóu kàn zhè xiē nián, wǒ zuì xiān xiǎng dào de hái shì gǎn ēn.",
+        "exampleTr": "Bu yılları düşününce ilk aklıma gelen yine minnettarlık oluyor.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC049_003",
-        "zh": "幸福",
-        "pinyin": "xìngfú",
-        "tr": "mutluluk",
-        "exampleZh": "我想把幸福放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ xìngfú fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Mutluluk konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
+        "zh": "遗憾",
+        "pinyin": "yí hàn",
+        "tr": "pişmanlık / burukluk",
+        "exampleZh": "我常想到错过的机会，有时还是会觉得遗憾。",
+        "examplePinyin": "Wǒ cháng xiǎng dào cuò guò de jī huì, yǒu shí hái shì huì jué de yí hàn.",
+        "exampleTr": "Kaçırdığım fırsatları sık sık düşünüyorum; bazen hâlâ pişmanlık duyuyorum.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC049_004",
-        "zh": "人生意义",
-        "pinyin": "rénshēng yìyì",
-        "tr": "hayatın anlamı",
-        "exampleZh": "谈到人生意义，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào rénshēng yìyì, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Hayatın anlamı konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
+        "zh": "犹豫",
+        "pinyin": "yóu yù",
+        "tr": "tereddüt etmek",
+        "exampleZh": "当然犹豫过，不过我更想弄清楚自己为什么要接受那份工作。",
+        "examplePinyin": "dāng rán yóu yù guò ， bù guò wǒ gèng xiǎng nòng qīng chǔ zì jǐ wèi shén me yào jiē shòu nà fèn gōng zuò 。",
+        "exampleTr": "Elbette tereddüt ettim ama o işi neden kabul etmek istediğimi anlamak benim için daha önemliydi.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC049_005",
-        "zh": "语境",
-        "pinyin": "yǔjìng",
-        "tr": "bağlam",
-        "exampleZh": "语境之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Yǔjìng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Bağlam önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "幸福",
+        "pinyin": "xìng fú",
+        "tr": "mutluluk",
+        "exampleZh": "我以前总以为，幸福得等到生活稳定、什么都准备好才会来。",
+        "examplePinyin": "wǒ yǐ qián zǒng yǐ wéi ， xìng fú dé děng dào shēng huó wěn dìng 、 shén me dōu zhǔn bèi hǎo cái huì lái 。",
+        "exampleTr": "Eskiden mutluluğun ancak hayat düzene girip her şey hazır olduğunda geleceğini sanırdım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC049_006",
-        "zh": "立场",
-        "pinyin": "lìchǎng",
-        "tr": "tutum / bakış açısı",
-        "exampleZh": "如果忽略立场，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè lìchǎng, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Tutum / bakış açısı göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "选择",
+        "pinyin": "xuǎn zé",
+        "tr": "seçim",
+        "exampleZh": "听起来，你不是只看结果，也在看那份选择适不适合自己。",
+        "examplePinyin": "Tīng qǐ lái, nǐ bú shì zhǐ kàn jié guǒ, yě zài kàn nà fèn xuǎn zé shì bù shì hé zì jǐ.",
+        "exampleTr": "Yani yalnızca sonuca değil, seçimin sana uygun olup olmadığına da baktın.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC049_007",
-        "zh": "权衡",
-        "pinyin": "quánhéng",
-        "tr": "dengeleyerek değerlendirmek",
-        "exampleZh": "我想把权衡放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ quánhéng fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Dengeleyerek değerlendirmek konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
-        "kind": "review"
+        "zh": "语境",
+        "pinyin": "yǔ jìng",
+        "tr": "bağlam",
+        "exampleZh": "同一句话放在不同语境里，听起来确实会变。",
+        "examplePinyin": "Tóng yī jù huà fàng zài bù tóng yǔ jìng lǐ, tīng qǐ lái què shí huì biàn.",
+        "exampleTr": "Aynı cümle farklı bağlamlarda söylendiğinde gerçekten farklı duyulabiliyor.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC049_008",
-        "zh": "长期影响",
-        "pinyin": "chángqī yǐngxiǎng",
-        "tr": "uzun vadeli etki",
-        "exampleZh": "谈到长期影响，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào chángqī yǐngxiǎng, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Uzun vadeli etki konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
-        "kind": "review"
+        "zh": "支持",
+        "pinyin": "zhī chí",
+        "tr": "eşlik / yanında olma",
+        "exampleZh": "这种支持当时像小事，后来才知道一直影响着我。",
+        "examplePinyin": "Zhè zhǒng zhī chí dāng shí xiàng xiǎo shì, hòu lái cái zhī dào yì zhí yǐng xiǎng zhe wǒ.",
+        "exampleTr": "O destek o zaman küçük bir şey gibi görünüyordu; etkisinin sürdüğünü sonradan anladım.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

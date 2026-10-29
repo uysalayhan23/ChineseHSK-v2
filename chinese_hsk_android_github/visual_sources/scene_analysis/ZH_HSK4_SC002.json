@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC002",
   "status": "FINAL_IMAGE_INTEGRATED",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC002.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC002.json",
   "titleTr": "Çiftlikte Son Hasat",
   "locationId": "LOC_ZH_GRANDPARENTS_FARM_001",
   "scenePurposeTr": "Aile son hasada yardım eder; büyükbaba toprağa veda eder.",

@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC030",
   "status": "ANALYZED_READY_FOR_GENERATION",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC030.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC030.json",
   "titleTr": "Tatilde Kaybolan Telefon",
   "locationId": "LOC_ZH_TOURIST_SITE_001",
   "scenePurposeTr": "Lele telefonunu kaybeder ve güvenlik adımlarını izler.",

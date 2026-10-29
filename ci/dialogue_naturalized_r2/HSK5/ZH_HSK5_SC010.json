@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC010",
   "level": "HSK5",
   "sourceTitleZh": "张伟承担责任",
@@ -65,9 +65,9 @@
     {
       "id": "DLG_ZH_HSK5_SC010_009",
       "speaker": "张伟",
-      "zh": "是我作了最后批准，也低估了测试所需的时间，这一点我不推给团队。",
-      "pinyin": "shì wǒ zuò le zuì hòu pī zhǔn ， yě dī gū le cè shì suǒ xū de shí jiān ， zhè yì diǎn wǒ bù tuī gěi tuán duì 。",
-      "tr": "Son onayı ben verdim ve test için gereken süreyi de az tahmin ettim; bunu ekibin üzerine atmayacağım。"
+      "zh": "最终批准是我作的；作为负责人，我愿意担当这次决定的责任，不把问题推给团队。",
+      "pinyin": "zuì zhōng pī zhǔn shì wǒ zuò de ； zuò wéi fù zé rén ， wǒ yuàn yì dān dāng zhè cì jué dìng de zé rèn ， bù bǎ wèn tí tuī gěi tuán duì 。",
+      "tr": "Son onayı ben verdim; sorumlu kişi olarak kararın sorumluluğunu üstleniyorum ve suçu ekibe atmıyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC010_010",
@@ -93,9 +93,9 @@
     {
       "id": "DLG_ZH_HSK5_SC010_013",
       "speaker": "张伟",
-      "zh": "我会马上联系客户，说明发生了什么、数据恢复到哪一步，以及我们还在检查什么。",
-      "pinyin": "wǒ huì mǎ shàng lián xì kè hù ， shuō míng fā shēng le shén me 、 shù jù huī fù dào nǎ yī bù ， yǐ jí wǒ men hái zài jiǎn chá shén me 。",
-      "tr": "Müşteriyle hemen iletişim kurup ne olduğunu, verilerin ne ölçüde geri geldiğini ve hâlâ neyi kontrol ettiğimizi açıklayacağım。"
+      "zh": "我会马上联系客户，说明发生经过、数据恢复情况，也确认客户期待的补救安排。",
+      "pinyin": "wǒ huì mǎ shàng lián xì kè hù ， shuō míng fā shēng jīng guò 、 shù jù huī fù qíng kuàng ， yě què rèn kè hù qī dài de bǔ jiù ān pái 。",
+      "tr": "Müşteriyle hemen iletişime geçip olayı ve verilerin kurtarılma durumunu anlatacak, bekledikleri telafiyi de netleştireceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC010_014",
@@ -205,9 +205,9 @@
     {
       "id": "DLG_ZH_HSK5_SC010_029",
       "speaker": "张伟",
-      "zh": "我会安排团队检查最近一周的日志，确认影响范围，而不是只处理已报告的记录。",
-      "pinyin": "wǒ huì ān pái tuán duì jiǎn chá zuì jìn yī zhōu de rì zhì ， què rèn yǐng xiǎng fàn wéi ， ér bú shì zhǐ chǔ lǐ yǐ bào gào de jì lù 。",
-      "tr": "Yalnızca bildirilen kayıtları düzeltmek yerine ekibe son bir haftanın günlüklerini inceletip etki alanını belirleyeceğim。"
+      "zh": "客户期待我们尽快查清影响范围，我会安排团队检查最近一周的操作记录。",
+      "pinyin": "kè hù qī dài wǒ men jǐn kuài chá qīng yǐng xiǎng fàn wéi ， wǒ huì ān pái tuán duì jiǎn chá zuì jìn yī zhōu de cāo zuò jì lù 。",
+      "tr": "Müşteri etki alanını en kısa sürede öğrenmek istiyor; ekibe son bir haftanın işlem kayıtlarını inceletirim."
     },
     {
       "id": "DLG_ZH_HSK5_SC010_030",
@@ -289,9 +289,9 @@
     {
       "id": "DLG_ZH_HSK5_SC010_041",
       "speaker": "张伟",
-      "zh": "调查确认受影响的是六条记录，客户联系人已经核实其中五条内容正确。",
-      "pinyin": "diào chá què rèn shòu yǐng xiǎng de shì liù tiáo jì lù ， kè hù lián xì rén yǐ jīng hé shí qí zhōng wǔ tiáo nèi róng zhèng què 。",
-      "tr": "İnceleme, altı kaydın etkilendiğini doğruladı; müşteri irtibat kişisi bunlardan beşinin içeriğini kontrol etti。"
+      "zh": "确认受影响的是六条记录后，我会担当后续协调责任，并等客户联系人核实内容。",
+      "pinyin": "què rèn shòu yǐng xiǎng de shì liù tiáo jì lù hòu ， wǒ huì dān dāng hòu xù xié tiáo zé rèn ， bìng děng kè hù lián xì rén hé shí nèi róng 。",
+      "tr": "Altı kaydın etkilendiği doğrulandı; bundan sonraki koordinasyonu üstlenip müşteri temsilcisinin içeriği doğrulamasını bekleyeceğim。"
     },
     {
       "id": "DLG_ZH_HSK5_SC010_042",
@@ -625,16 +625,16 @@
     {
       "id": "DLG_ZH_HSK5_SC010_089",
       "speaker": "张伟",
-      "zh": "这次我学到，承担责任不只是道歉，还要把决定的后果处理好并改进流程。",
-      "pinyin": "zhè cì wǒ xué dào ， chéng dān zé rèn bù zhǐ shì dào qiàn ， hái yào bǎ jué dìng de hòu guǒ chǔ lǐ hǎo bìng gǎi jìn liú chéng 。",
-      "tr": "Bu olaydan sorumluluk almanın yalnızca özür dilemek olmadığını; kararın sonuçlarını ele alıp süreci iyileştirmek gerektiğini öğrendim。"
+      "zh": "有责任感的人不仅会道歉，还要处理好后果并推动流程改进。",
+      "pinyin": "yǒu zé rèn gǎn de rén bù jǐn huì dào qiàn ， hái yào chǔ lǐ hǎo hòu guǒ bìng tuī dòng liú chéng gǎi jìn 。",
+      "tr": "Sorumluluk sahibi kişi yalnızca özür dilemez; sonuçları giderir ve işleyişin iyileştirilmesini de sağlar."
     },
     {
       "id": "DLG_ZH_HSK5_SC010_090",
       "speaker": "经理",
-      "zh": "对，可靠的负责人既要承认自己的判断，也要让团队从问题中学到东西。",
-      "pinyin": "duì ， kě kào de fù zé rén jì yào chéng rèn zì jǐ de pàn duàn ， yě yào ràng tuán duì cóng wèn tí zhōng xué dào dōng xī 。",
-      "tr": "Doğru. Güvenilir bir sorumlu kendi kararını kabul etmeli ve ekibin sorundan ders çıkarmasını sağlamalı。"
+      "zh": "真正的领导能力，是承认判断失误，也带着团队把改进落实下去。",
+      "pinyin": "zhēn zhèng de lǐng dǎo néng lì ， shì chéng rèn pàn duàn shī wù ， yě dài zhe tuán duì bǎ gǎi jìn luò shí xià qù 。",
+      "tr": "Gerçek liderlik becerisi, yanlış kararı kabul edip ekiple birlikte iyileştirmeyi uygulamaya koymaktır."
     },
     {
       "id": "DLG_ZH_HSK5_SC010_091",
@@ -646,9 +646,9 @@
     {
       "id": "DLG_ZH_HSK5_SC010_092",
       "speaker": "刘梅",
-      "zh": "这样讨论就不是互相推责，而是一起找到可执行的解决方法。",
-      "pinyin": "zhè yàng tǎo lùn jiù bú shì hù xiāng tuī zé ， ér shì yì qǐ zhǎo dào kě zhí xíng de jiě jué fāng fǎ 。",
-      "tr": "Böylece birbirimizi suçlamak yerine uygulanabilir çözümü birlikte buluruz。"
+      "zh": "把责任讲清楚并及时沟通，团队才能建立信任，而不是互相推责。",
+      "pinyin": "bǎ zé rèn jiǎng qīng chǔ bìng jí shí gōu tōng ， tuán duì cái néng jiàn lì xìn rèn ， ér bú shì hù xiāng tuī zé 。",
+      "tr": "Sorumlulukları açıklayıp zamanında iletişim kurarsak ekipte güven oluşur; birbirimizi suçlamayız."
     },
     {
       "id": "DLG_ZH_HSK5_SC010_093",

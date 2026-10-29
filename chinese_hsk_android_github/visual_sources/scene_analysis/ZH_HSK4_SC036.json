@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC036",
   "status": "INTEGRATED_QA_PASS",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC036.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC036.json",
   "titleTr": "Aile Toplantısı",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Aile masada gelir, gider, zaman ve yaşam kalitesini birlikte değerlendirir.",

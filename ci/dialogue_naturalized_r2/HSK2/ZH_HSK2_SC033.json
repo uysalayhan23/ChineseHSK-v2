@@ -91,9 +91,9 @@
     {
       "id": "DLG_ZH_HSK2_SC033_013",
       "speaker": "刘梅",
-      "zh": "谢谢。我本来想自己去拿，今天确实有点累。",
-      "pinyin": "Xiè xiè 。 wǒ běn lái xiǎng zì jǐ qù ná ， jīn tiān què shí yǒu diǎn lèi 。",
-      "tr": "Teşekkürler. Kendim alacaktım ama bugün gerçekten biraz yorgunum."
+      "zh": "谢谢，今天让你们忙了半天，真不好意思。",
+      "pinyin": "xièxie, jīntiān ràng nǐmen máng le bàntiān, zhēn bù hǎoyìsi.",
+      "tr": "Teşekkürler, sizi bugün epey uğraştırdık; kusura bakmayın."
     },
     {
       "id": "DLG_ZH_HSK2_SC033_014",
@@ -147,9 +147,9 @@
     {
       "id": "DLG_ZH_HSK2_SC033_021",
       "speaker": "刘梅",
-      "zh": "先别急着摆完，李晨，你现在想先喝汤还是吃点饭？",
-      "pinyin": "Xiān bié jí zhe bǎi wán ， lǐ chén ， nǐ xiàn zài xiǎng xiān hē tāng hái shì chī diǎn fàn ？",
-      "tr": "Yemekleri hemen dizmeyelim; Li Chen, önce çorba mı içmek, biraz pilav mı yemek istersin?"
+      "zh": "大家现在想先喝汤还是吃点饭？",
+      "pinyin": "dàjiā xiànzài xiǎng xiān hē tāng háishì chī diǎn fàn?",
+      "tr": "Önce çorba mı yoksa biraz pilav mı istersiniz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC033_022",
@@ -489,7 +489,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC033_070",
-      "speaker": "张伟",
+      "speaker": "李晨",
       "zh": "好，有消息我再告诉你，不用特意跑来。",
       "pinyin": "Hǎo ， yǒu xiāo xī wǒ zài gào sù nǐ ， bù yòng tè yì pǎo lái 。",
       "tr": "Tamam, haber olursa sana söylerim; özellikle gelmene gerek yok."
@@ -636,7 +636,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC033_091",
-      "speaker": "李晨",
+      "speaker": "张伟",
       "zh": "我们回去以后会给你们发个消息，告诉你们到家了。",
       "pinyin": "Wǒ men huí qù yǐ hòu huì gěi nǐ men fā gè xiāo xī ， gào sù nǐ men dào jiā le 。",
       "tr": "Eve varınca size mesaj atıp ulaştığımızı haber vereceğiz."
@@ -650,7 +650,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC033_093",
-      "speaker": "刘梅",
+      "speaker": "李晨",
       "zh": "今天谢谢你们来，饭菜和陪伴都让我们很开心。",
       "pinyin": "Jīn tiān xiè xiè nǐ men lái ， fàn cài hé péi bàn dōu ràng wǒ men hěn kāi xīn 。",
       "tr": "Bugün geldiğiniz için teşekkürler; yemek ve sohbet bizi çok mutlu etti."

@@ -276,7 +276,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC026_039",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "我放在洗衣房的门后面了。",
       "pinyin": "wǒ fàng zài xǐ yī fáng de mén hòu miàn le 。",
       "tr": "Çamaşır odasının kapısının arkasına astım."
@@ -290,21 +290,21 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC026_041",
-      "speaker": "刘梅",
+      "speaker": "张乐乐",
       "zh": "这就是我的雨衣，谢谢姐姐。",
       "pinyin": "zhè jiù shì wǒ de yǔ yī ， xiè xiè jiě jiě 。",
       "tr": "İşte yağmurluğum, teşekkürler abla."
     },
     {
       "id": "DLG_ZH_HSK2_SC026_042",
-      "speaker": "张乐乐",
+      "speaker": "张雨桐",
       "zh": "穿上看看，袖子有没有弄反？",
       "pinyin": "chuān shàng kàn kàn ， xiù zi yǒu méi yǒu nòng fǎn ？",
       "tr": "Giy bakayım, kolları ters mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC026_043",
-      "speaker": "张雨桐",
+      "speaker": "张乐乐",
       "zh": "没有，正好合适，我现在可以出门了。",
       "pinyin": "méi yǒu ， zhèng hǎo hé shì ， wǒ xiàn zài kě yǐ chū mén le 。",
       "tr": "Hayır, tam oldu, şimdi çıkabilirim."
@@ -606,9 +606,9 @@
     {
       "id": "DLG_ZH_HSK2_SC026_086",
       "speaker": "张乐乐",
-      "zh": "你找到雨衣以后，大家就不用担心了。",
-      "pinyin": "nǐ zhǎo dào yǔ yī yǐ hòu ， dà jiā jiù bù yòng dān xīn le 。",
-      "tr": "Yağmurluğu bulunca hepimiz rahatladık."
+      "zh": "雨衣找到了，大家就不用担心了。",
+      "pinyin": "yǔyī zhǎodào le, dàjiā jiù búyòng dānxīn le.",
+      "tr": "Yağmurluğu bulduk, artık kimsenin endişelenmesine gerek yok."
     },
     {
       "id": "DLG_ZH_HSK2_SC026_087",

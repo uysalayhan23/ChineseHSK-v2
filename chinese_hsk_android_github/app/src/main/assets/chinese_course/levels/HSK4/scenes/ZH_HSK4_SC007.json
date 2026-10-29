@@ -291,9 +291,9 @@
     {
       "id": "DLG_ZH_HSK4_SC007_041",
       "speaker": "奶奶",
-      "zh": "奶奶，你愿意再说说哪一处最需要改进吗？",
-      "pinyin": "Nǎi nǎi, nǐ yuàn yì zài shuō shuō nǎ yī chù zuì xū yào gǎi jìn ma?",
-      "tr": "Büyükanne, en çok nerelerin iyileştirilmesi gerektiğini söyler misin?"
+      "zh": "刚才说到的地方里，你们觉得哪一处最需要改进？",
+      "pinyin": "Gāngcái shuō dào de dìfāng lǐ, nǐmen juéde nǎ yīchù zuì xūyào gǎijìn?",
+      "tr": "Az önce konuştuğumuz yerlerden sizce hangisi en çok iyileştirilmeli?"
     },
     {
       "id": "DLG_ZH_HSK4_SC007_042",
@@ -494,9 +494,9 @@
     {
       "id": "DLG_ZH_HSK4_SC007_070",
       "speaker": "刘梅",
-      "zh": "先移桌子、挪垃圾桶，这两件今天就能做。",
-      "pinyin": "Xiān yí zhuō zi、 nuó lā jī tǒng, zhè liǎng jiàn jīn tiān jiù néng zuò.",
-      "tr": "Masayı ve çöp kutusunu taşımak bugün yapılabilir."
+      "zh": "既然大家都同意先试几天，我们就先移桌子、挪垃圾桶。",
+      "pinyin": "Jìrán dàjiā dōu tóngyì xiānshì jǐtiān, wǒmen jiù xiānyí zhuōzi、 nuó lājītǒng.",
+      "tr": "Madem herkes birkaç gün denemeyi kabul etti, önce masayı ve çöp kutusunu taşıyalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC007_071",
@@ -599,9 +599,9 @@
     {
       "id": "DLG_ZH_HSK4_SC007_085",
       "speaker": "奶奶",
-      "zh": "奶奶，你今天看到的变化满意吗？",
-      "pinyin": "Nǎi nǎi, nǐ jīn tiān kàn dào de biàn huà mǎn yì ma?",
-      "tr": "Büyükanne, bugün yapılan değişiklikler içine sindi mi?"
+      "zh": "今天改完以后，你们用起来觉得方便吗？",
+      "pinyin": "Jīntiān gǎiwán yǐhòu, nǐmen yòng qǐlái juéde fāngbiàn ma?",
+      "tr": "Bugünkü düzenlemeden sonra mutfağı kullanmak daha kolay oldu mu?"
     },
     {
       "id": "DLG_ZH_HSK4_SC007_086",
@@ -730,9 +730,9 @@
         "zh": "批评",
         "pinyin": "pīpíng",
         "tr": "eleştiri",
-        "exampleZh": "批评是我们不能忽略的一点。",
-        "examplePinyin": "Pīpíng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Eleştiri göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我年轻时也不太会接受批评。",
+        "examplePinyin": "Wǒ nián qīng shí yě bù tài huì jiē shòu pī píng.",
+        "exampleTr": "Gençken eleştiriyi kabul etmekte ben de zorlanırdım.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "建议",
         "pinyin": "jiànyì",
         "tr": "öneri",
-        "exampleZh": "我们把建议也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jiànyì yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Öneri konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "以后我会先问清楚情况，再提出建议。",
+        "examplePinyin": "Yǐ hòu wǒ huì xiān wèn qīng chǔ qíng kuàng, zài tí chū jiàn yì.",
+        "exampleTr": "Bundan sonra öneri sunmadan önce durumu sorup anlayacağım.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "厨房布局",
         "pinyin": "chúfáng bùjú",
         "tr": "mutfak düzeni",
-        "exampleZh": "如果厨房布局发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ chúfáng bùjú fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Mutfak düzeni değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "我可以画一张简单的厨房布局图。",
+        "examplePinyin": "Wǒ kě yǐ huà yī zhāng jiǎn dān de chú fáng bù jú tú.",
+        "exampleTr": "Basit bir mutfak planı çizebilirim.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "改进",
         "pinyin": "gǎijìn",
         "tr": "iyileştirmek",
-        "exampleZh": "这件事需要大家一起改进。",
-        "examplePinyin": "Zhè jiàn shì xūyào dàjiā yìqǐ gǎijìn.",
-        "exampleTr": "Bu konuda herkesin birlikte iyileştirmek gerekiyor.",
+        "exampleZh": "我们更想知道怎样改进才有用。",
+        "examplePinyin": "Wǒ men gèng xiǎng zhī dào zěn yàng gǎi jìn cái yǒu yòng.",
+        "exampleTr": "Nasıl iyileştirebileceğimizi öğrenmek daha yararlı.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "尊重",
         "pinyin": "zūnzhòng",
         "tr": "saygı",
-        "exampleZh": "尊重是我们不能忽略的一点。",
-        "examplePinyin": "Zūnzhòng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Saygı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "关键是说问题的时候，也要尊重对方。",
+        "examplePinyin": "Guān jiàn shì shuō wèn tí de shí hòu, yě yào zūn zhòng duì fāng.",
+        "exampleTr": "Önemli olan sorunu anlatırken karşı tarafa saygı göstermek.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "如果能提前沟通，后面会顺利很多。",
-        "examplePinyin": "Rúguǒ néng tíqián gōutōng, hòumiàn huì shùnlì hěn duō.",
-        "exampleTr": "Önceden iletişim kurmak mümkün olursa sonrası çok daha rahat ilerler.",
+        "exampleZh": "我希望以后我们能继续这样沟通。",
+        "examplePinyin": "Wǒ xī wàng yǐ hòu wǒ men néng jì xù zhè yàng gōu tōng.",
+        "exampleTr": "Bundan sonra da böyle iletişim kurmamızı isterim.",
         "kind": "active"
       },
       {

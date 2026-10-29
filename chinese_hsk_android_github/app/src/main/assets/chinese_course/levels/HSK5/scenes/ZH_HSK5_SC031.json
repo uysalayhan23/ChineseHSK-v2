@@ -32,9 +32,9 @@
     {
       "id": "DLG_ZH_HSK5_SC031_004",
       "speaker": "刘梅",
-      "zh": "先别只看一个数字。通勤、工作时间和家里的安排也会受影响。",
-      "pinyin": "xiān bié zhǐ kàn yí gè shù zì 。 tōng qín 、 gōng zuò shí jiān hé jiā lǐ de ān pái yě huì shòu yǐng xiǎng 。",
-      "tr": "Tek bir rakama bakarak karar verme. Ulaşım, çalışma saatleri ve evdeki düzen de etkilenecek."
+      "zh": "先别只看一个数字。通勤、工作时间和家里的安排也会影响生活质量。",
+      "pinyin": "xiān bié zhǐ kàn yí gè shù zì 。 tōng qín 、 gōng zuò shí jiān hé jiā lǐ de ān pái yě huì yǐng xiǎng shēng huó zhì liàng 。",
+      "tr": "Tek bir rakama bakmayalım. Ulaşım, çalışma saatleri ve evdeki düzen de yaşam kalitesini etkiler."
     },
     {
       "id": "DLG_ZH_HSK5_SC031_005",
@@ -151,9 +151,9 @@
     {
       "id": "DLG_ZH_HSK5_SC031_021",
       "speaker": "张伟",
-      "zh": "尽管新岗位的工资更高，我仍然想先弄清楚奖金要达到什么目标。",
-      "pinyin": "jǐn guǎn xīn gǎng wèi de gōng zī gèng gāo ， wǒ réng rán xiǎng xiān nòng qīng chǔ jiǎng jīn yào dá dào shén me mù biāo 。",
-      "tr": "Yeni görevin maaşı daha yüksek olsa da, ikramiye için hangi hedeflere ulaşmam gerektiğini önce netleştirmek istiyorum."
+      "zh": "尽管新岗位的工资更高，这个好处还不足以让我答应；我仍然想先弄清楚奖金目标。",
+      "pinyin": "jǐn guǎn xīn gǎng wèi de gōng zī gèng gāo ， zhè ge hǎo chù hái bù zú yǐ ràng wǒ dā yìng ； wǒ réng rán xiǎng xiān nòng qīng chǔ jiǎng jīn mù biāo 。",
+      "tr": "Yeni görevin maaşı daha yüksek olsa da bu avantaj kabul etmem için yetmiyor; prim hedeflerini önce anlamak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC031_022",
@@ -207,9 +207,9 @@
     {
       "id": "DLG_ZH_HSK5_SC031_029",
       "speaker": "张伟",
-      "zh": "我会把两边的条件放进同一张表，逐项比较，不只比较税前工资。",
-      "pinyin": "wǒ huì bǎ liǎng biān de tiáo jiàn fàng jìn tóng yī zhāng biǎo ， zhú xiàng bǐ jiào ， bù zhǐ bǐ jiào shuì qián gōng zī 。",
-      "tr": "İki tarafın koşullarını aynı tabloya yazıp yalnızca brüt maaşı değil, her maddeyi karşılaştıracağım."
+      "zh": "我会把两边的条件放进同一张表，作为比较选择方案的依据，不只比较税前工资。",
+      "pinyin": "wǒ huì bǎ liǎng biān de tiáo jiàn fàng jìn tóng yī zhāng biǎo ， zuò wéi bǐ jiào xuǎn zé fāng àn de yī jù ， bù zhǐ bǐ jiào shuì qián gōng zī 。",
+      "tr": "İki işin koşullarını aynı tabloya koyup seçenekleri değerlendirmek için dayanak yapacağım; yalnızca vergi öncesi maaşı karşılaştırmayacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC031_030",
@@ -730,9 +730,9 @@
         "zh": "工作邀请",
         "pinyin": "gōngzuò yāoqǐng",
         "tr": "iş teklifi",
-        "exampleZh": "工作邀请是我们不能忽略的一点。",
-        "examplePinyin": "Gōngzuò yāoqǐng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Iş teklifi göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我收到另一家公司的工作邀请，薪酬比现在高一些，还没决定要不要去。",
+        "examplePinyin": "wǒ shōu dào lìng yī jiā gōng sī de gōng zuò yāo qǐng ， xīn chóu bǐ xiàn zài gāo yī xiē ， hái méi jué dìng yào bù yào qù 。",
+        "exampleTr": "Başka bir şirketten iş teklifi aldım. Ücreti şu ankinden biraz yüksek ama gidip gitmemeye henüz karar vermedim.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "薪酬",
         "pinyin": "xīnchóu",
         "tr": "ücret / maaş paketi",
-        "exampleZh": "我们把薪酬也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ xīnchóu yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Ücret / maaş paketi konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我收到另一家公司的工作邀请，薪酬比现在高一些，还没决定要不要去。",
+        "examplePinyin": "wǒ shōu dào lìng yī jiā gōng sī de gōng zuò yāo qǐng ， xīn chóu bǐ xiàn zài gāo yī xiē ， hái méi jué dìng yào bù yào qù 。",
+        "exampleTr": "Başka bir şirketten iş teklifi aldım. Ücreti şu ankinden biraz yüksek ama gidip gitmemeye henüz karar vermedim.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "职业发展",
         "pinyin": "zhíyè fāzhǎn",
         "tr": "kariyer gelişimi",
-        "exampleZh": "如果职业发展发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ zhíyè fāzhǎn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Kariyer gelişimi değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "职业发展也要看清楚。新岗位有没有培训，之后能往什么方向走？",
+        "examplePinyin": "zhí yè fā zhǎn yě yào kàn qīng chǔ 。 xīn gǎng wèi yǒu méi yǒu péi xùn ， zhī hòu néng wǎng shén me fāng xiàng zǒu ？",
+        "exampleTr": "Kariyer gelişimini de netleştirmek gerekir. Yeni görevde eğitim var mı, sonrasında hangi yöne ilerleyebilirsin?",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "选择方案",
         "pinyin": "xuǎnzé fāng’àn",
         "tr": "seçenek",
-        "exampleZh": "关于选择方案，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú xuǎnzé fāng’àn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Seçenek konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "我会把两边的条件放进同一张表，作为比较选择方案的依据，不只比较税前工资。",
+        "examplePinyin": "wǒ huì bǎ liǎng biān de tiáo jiàn fàng jìn tóng yī zhāng biǎo ， zuò wéi bǐ jiào xuǎn zé fāng àn de yī jù ， bù zhǐ bǐ jiào shuì qián gōng zī 。",
+        "exampleTr": "İki işin koşullarını aynı tabloya koyup seçenekleri değerlendirmek için dayanak yapacağım; yalnızca vergi öncesi maaşı karşılaştırmayacağım.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "好处",
         "pinyin": "hǎochu",
         "tr": "fayda",
-        "exampleZh": "好处是我们不能忽略的一点。",
-        "examplePinyin": "Hǎochu shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Fayda göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "尽管新岗位的工资更高，这个好处还不足以让我答应；我仍然想先弄清楚奖金目标。",
+        "examplePinyin": "jǐn guǎn xīn gǎng wèi de gōng zī gèng gāo ， zhè ge hǎo chù hái bù zú yǐ ràng wǒ dā yìng ； wǒ réng rán xiǎng xiān nòng qīng chǔ jiǎng jīn mù biāo 。",
+        "exampleTr": "Yeni görevin maaşı daha yüksek olsa da bu avantaj kabul etmem için yetmiyor; prim hedeflerini önce anlamak istiyorum.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "风险",
         "pinyin": "fēngxiǎn",
         "tr": "risk",
-        "exampleZh": "我们把风险也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ fēngxiǎn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Risk konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "如果职责更大但没有培训或支持，那就要考虑风险，不只看升职机会。",
+        "examplePinyin": "rú guǒ zhí zé gèng dà dàn méi yǒu péi xùn huò zhī chí ， nà jiù yào kǎo lǜ fēng xiǎn ， bù zhǐ kàn shēng zhí jī huì 。",
+        "exampleTr": "Sorumluluklar artıp eğitim ya da destek olmazsa yalnızca yükselme fırsatına bakmayıp riski de düşünmelisin.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "生活质量",
         "pinyin": "shēnghuó zhìliàng",
         "tr": "yaşam kalitesi",
-        "exampleZh": "如果生活质量发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ shēnghuó zhìliàng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Yaşam kalitesi değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "先别只看一个数字。通勤、工作时间和家里的安排也会影响生活质量。",
+        "examplePinyin": "xiān bié zhǐ kàn yí gè shù zì 。 tōng qín 、 gōng zuò shí jiān hé jiā lǐ de ān pái yě huì yǐng xiǎng shēng huó zhì liàng 。",
+        "exampleTr": "Tek bir rakama bakmayalım. Ulaşım, çalışma saatleri ve evdeki düzen de yaşam kalitesini etkiler.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC031_008",
         "zh": "选择",
         "pinyin": "xuǎnzé",
         "tr": "seçim",
-        "exampleZh": "关于选择，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú xuǎnzé, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Seçim konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "我会把两边的条件放进同一张表，作为比较选择方案的依据，不只比较税前工资。",
+        "examplePinyin": "wǒ huì bǎ liǎng biān de tiáo jiàn fàng jìn tóng yī zhāng biǎo ， zuò wéi bǐ jiào xuǎn zé fāng àn de yī jù ， bù zhǐ bǐ jiào shuì qián gōng zī 。",
+        "exampleTr": "İki işin koşullarını aynı tabloya koyup seçenekleri değerlendirmek için dayanak yapacağım; yalnızca vergi öncesi maaşı karşılaştırmayacağım.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

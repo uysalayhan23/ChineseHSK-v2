@@ -32,16 +32,16 @@
     {
       "id": "DLG_ZH_HSK2_SC004_004",
       "speaker": "张乐乐",
-      "zh": "你今天怎么出来晚了？",
-      "pinyin": "nǐ jīn tiān zěn me chū lái wǎn le?",
-      "tr": "Bugün neden geç çıktın?"
+      "zh": "我刚才还在找语文书，没听见校车开走。",
+      "pinyin": "Wǒ gāngcái hái zài zhǎo yǔwén shū， méi tīngjiàn xiàochē kāizǒu。",
+      "tr": "Az önce hâlâ Çince kitabımı arıyordum; okul servisinin gittiğini duymadım."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_005",
       "speaker": "刘梅",
-      "zh": "我找不到语文书，刚才一直在找。",
-      "pinyin": "wǒ zhǎo bú dào yǔ wén shū, gāng cái yì zhí zài zhǎo.",
-      "tr": "Çince kitabımı bulamadım, az önceye kadar arıyordum."
+      "zh": "你是不是在找语文书？我刚才听见你在房间里找。",
+      "pinyin": "Nǐ shìbúshì zài zhǎo yǔwén shū？ wǒ gāngcái tīngjiàn nǐ zài fángjiān lǐ zhǎo。",
+      "tr": "Çince kitabını mı arıyordun? Az önce odanda aradığını duydum."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_006",
@@ -88,9 +88,9 @@
     {
       "id": "DLG_ZH_HSK2_SC004_012",
       "speaker": "邻居",
-      "zh": "当然，我来帮你找号码。",
-      "pinyin": "dāng rán, wǒ lái bāng nǐ zhǎo hào mǎ.",
-      "tr": "Elbette, numarayı bulmana yardım edeyim."
+      "zh": "找到老师的号码后，你就打过去吧。",
+      "pinyin": "Zhǎodào lǎoshī de hàomǎ hòu， nǐ jiù dǎ guòqù ba。",
+      "tr": "Öğretmenin numarasını bulunca ara."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_013",
@@ -102,9 +102,9 @@
     {
       "id": "DLG_ZH_HSK2_SC004_014",
       "speaker": "刘梅",
-      "zh": "老师您好，我是张乐乐。",
-      "pinyin": "lǎo shī nín hǎo, wǒ shì zhāng lè lè.",
-      "tr": "Öğretmenim merhaba, ben Zhang Lele."
+      "zh": "老师您好，我是张乐乐的妈妈。",
+      "pinyin": "Lǎoshī nínhǎo， wǒ shì zhāng lèlè de māmā。",
+      "tr": "Merhaba öğretmenim, ben Zhang Lele’nin annesiyim."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_015",
@@ -130,23 +130,23 @@
     {
       "id": "DLG_ZH_HSK2_SC004_018",
       "speaker": "邻居",
-      "zh": "太好了，谢谢老师。",
-      "pinyin": "tài hǎo le, xiè xiè lǎo shī.",
-      "tr": "Harika, teşekkür ederim öğretmenim."
+      "zh": "那就好，老师同意晚一点儿到就行。",
+      "pinyin": "Nàjiùhǎo， lǎoshī tóngyì wǎn yìdiǎnér dào jiù xíng。",
+      "tr": "İyi, öğretmenin biraz geç gelmesine izin vermiş."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_019",
       "speaker": "张乐乐",
-      "zh": "你打算怎么去学校？",
-      "pinyin": "nǐ dǎ suàn zěn me qù xué xiào?",
-      "tr": "Okula nasıl gitmeyi düşünüyorsun?"
+      "zh": "我现在还来得及去学校吗？",
+      "pinyin": "Wǒ xiànzài hái láidejí qù xuéxiào ma？",
+      "tr": "Şimdi okula yetişebilir miyim?"
     },
     {
       "id": "DLG_ZH_HSK2_SC004_020",
       "speaker": "刘梅",
-      "zh": "我可以等下一班校车吗？",
-      "pinyin": "wǒ kě yǐ děng xià yī bān xiào chē ma?",
-      "tr": "Bir sonraki okul servisini bekleyebilir miyim?"
+      "zh": "来得及，不过下一班校车可能要等很久。",
+      "pinyin": "Láidejí， bùguò xià yībān xiàochē kěnéng yào děng hěn jiǔ。",
+      "tr": "Yetişirsin ama sonraki servisi beklemek uzun sürebilir."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_021",
@@ -158,9 +158,9 @@
     {
       "id": "DLG_ZH_HSK2_SC004_022",
       "speaker": "张乐乐",
-      "zh": "我可以送你去，车就在楼下。",
-      "pinyin": "wǒ kě yǐ sòng nǐ qù, chē jiù zài lóu xià.",
-      "tr": "Seni götürebilirim, arabam aşağıda."
+      "zh": "阿姨，您能送我去学校吗？",
+      "pinyin": "Āyí， nín néng sòng wǒ qù xuéxiào ma？",
+      "tr": "Teyze, beni okula bırakabilir misiniz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC004_023",
@@ -193,9 +193,9 @@
     {
       "id": "DLG_ZH_HSK2_SC004_027",
       "speaker": "邻居",
-      "zh": "水杯和作业本都在里面。",
-      "pinyin": "shuǐ bēi hé zuò yè běn dōu zài lǐ miàn.",
-      "tr": "Su şişem ve ödev defterim içinde."
+      "zh": "都装好了，你再看看语文书在不在。",
+      "pinyin": "Dōu zhuānghǎo le， nǐ zài kànkàn yǔwén shū zài bù zài。",
+      "tr": "Hepsi hazır, bir de Çince kitabını kontrol et."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_028",
@@ -207,9 +207,9 @@
     {
       "id": "DLG_ZH_HSK2_SC004_029",
       "speaker": "刘梅",
-      "zh": "我还在房间里找书。",
-      "pinyin": "wǒ hái zài fáng jiān lǐ zhǎo shū.",
-      "tr": "Hâlâ odamda kitabı arıyordum."
+      "zh": "我刚才在帮你找书，也没注意时间。",
+      "pinyin": "Wǒ gāngcái zài bāng nǐ zhǎo shū， yě méi zhùyì shíjiān。",
+      "tr": "Az önce sana kitap ararken saate de bakmadım."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_030",
@@ -235,23 +235,23 @@
     {
       "id": "DLG_ZH_HSK2_SC004_033",
       "speaker": "邻居",
-      "zh": "我以后把每天要带的书放在一起。",
-      "pinyin": "wǒ yǐ hòu bǎ měi tiān yào dài de shū fàng zài yì qǐ.",
-      "tr": "Bundan sonra her gün götüreceğim kitapları bir arada tutarım."
+      "zh": "你可以把每天要带的书放在一起。",
+      "pinyin": "Nǐ kěyǐ bǎ měitiān yào dài de shū fàngzài yìqǐ。",
+      "tr": "Her gün götüreceğin kitapları bir arada tutabilirsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_034",
       "speaker": "张乐乐",
-      "zh": "你还来得及吃早饭吗？",
-      "pinyin": "nǐ hái lái de jí chī zǎo fàn ma?",
-      "tr": "Kahvaltı etmeye vaktin var mı?"
+      "zh": "我还来得及吃早饭吗？",
+      "pinyin": "Wǒ hái láidejí chī zǎofàn ma？",
+      "tr": "Kahvaltı etmeye vaktim kaldı mı?"
     },
     {
       "id": "DLG_ZH_HSK2_SC004_035",
       "speaker": "刘梅",
-      "zh": "来不及了，我带个面包路上吃。",
-      "pinyin": "lái bù jí le, wǒ dài gè miàn bāo lù shàng chī.",
-      "tr": "Yetişemem, yolda yemek için ekmek alırım."
+      "zh": "时间有点儿紧，带个面包到学校，下课再吃。",
+      "pinyin": "Shíjiān yǒudiǎnér jǐn， dàigè miànbāo dào xuéxiào， xiàkè zài chī。",
+      "tr": "Vakit biraz az; yanına ekmek al, okulda ders arasında yersin."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_036",
@@ -291,30 +291,30 @@
     {
       "id": "DLG_ZH_HSK2_SC004_041",
       "speaker": "刘梅",
-      "zh": "我先给你妈妈打个电话说一声。",
-      "pinyin": "wǒ xiān gěi nǐ mā mā dǎ gè diàn huà shuō yī shēng.",
-      "tr": "Önce annene haber vermek için arayayım."
+      "zh": "我先给爸爸打个电话，说我们晚一点儿到学校。",
+      "pinyin": "Wǒ xiān gěi bàbà dǎgè diànhuà， shuō wǒmen wǎn yìdiǎnér dào xuéxiào。",
+      "tr": "Önce babanı arayıp okula biraz geç varacağımızı söyleyeyim."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_042",
       "speaker": "邻居",
-      "zh": "妈妈可能已经发现我不在家了。",
-      "pinyin": "mā mā kě néng yǐ jīng fā xiàn wǒ bù zài jiā le.",
-      "tr": "Annem evde olmadığımı fark etmiş olabilir."
+      "zh": "好，告诉爸爸一声，免得他担心。",
+      "pinyin": "Hǎo， gàosù bàbà yīshēng， miǎnde tā dānxīn。",
+      "tr": "Olur, endişelenmesin diye babana haber ver."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_043",
       "speaker": "张乐乐",
-      "zh": "我跟她说你错过了校车，我送你去。",
-      "pinyin": "wǒ gēn tā shuō nǐ cuò guò le xiào chē, wǒ sòng nǐ qù.",
-      "tr": "Ona servisi kaçırdığını ve seni götüreceğimi söylerim."
+      "zh": "我也给爸爸发个消息，说阿姨送我去学校。",
+      "pinyin": "Wǒ yě gěi bàbà fāgè xiāoxī， shuō āyí sòng wǒ qù xuéxiào。",
+      "tr": "Babamıza da mesaj atayım; teyzemin beni okula bırakacağını söylerim."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_044",
       "speaker": "刘梅",
-      "zh": "谢谢你帮我打电话。",
-      "pinyin": "xiè xiè nǐ bāng wǒ dǎ diàn huà.",
-      "tr": "Aradığın için teşekkür ederim."
+      "zh": "谢谢你愿意送乐乐去学校。",
+      "pinyin": "Xièxiè nǐ yuànyì sòng lèlè qù xuéxiào。",
+      "tr": "Lele’yi okula bırakmayı kabul ettiğin için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_045",
@@ -347,44 +347,44 @@
     {
       "id": "DLG_ZH_HSK2_SC004_049",
       "speaker": "张乐乐",
-      "zh": "你每天都坐校车吗？",
-      "pinyin": "nǐ měi tiān dōu zuò xiào chē ma?",
-      "tr": "Her gün okul servisine mi biniyorsun?"
+      "zh": "我平时每天都坐校车，今天只是起晚了两分钟。",
+      "pinyin": "Wǒ píngshí měitiān dōu zuò xiàochē， jīntiān zhǐshì qǐwǎn le liǎngfēnzhōng。",
+      "tr": "Normalde her gün okul servisine biniyorum; bugün yalnızca iki dakika geç kalktım."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_050",
       "speaker": "刘梅",
-      "zh": "是的，平时我在楼下等车。",
-      "pinyin": "shì de, píng shí wǒ zài lóu xià děng chē.",
-      "tr": "Evet, normalde aşağıda servisi bekliyorum."
+      "zh": "是啊，平时我在楼下看着你上车。",
+      "pinyin": "Shì a， píngshí wǒ zài lóuxià kànzhe nǐ shàngchē。",
+      "tr": "Evet, normalde aşağıda servise bindiğini görüyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_051",
       "speaker": "邻居",
-      "zh": "今天我起晚了两分钟。",
-      "pinyin": "jīn tiān wǒ qǐ wǎn le liǎng fēn zhōng.",
-      "tr": "Bugün iki dakika geç kalktım."
+      "zh": "今天你只晚起了两分钟，下次把闹钟调早一点儿。",
+      "pinyin": "Jīntiān nǐ zhǐ wǎnqǐ le liǎngfēnzhōng， xiàcì bǎ nàozhōng diàozǎo yìdiǎnér。",
+      "tr": "Bugün yalnızca iki dakika geç kalktın; bir dahaki sefere alarmı biraz erkene kur."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_052",
       "speaker": "张乐乐",
-      "zh": "以后可以把闹钟调早一点儿。",
-      "pinyin": "yǐ hòu kě yǐ bǎ nào zhōng diào zǎo yì diǎn ér.",
-      "tr": "Bundan sonra alarmı biraz erkene kurabilirsin."
+      "zh": "我会把闹钟调早一点儿。",
+      "pinyin": "Wǒhuì bǎ nàozhōng diàozǎo yìdiǎnér。",
+      "tr": "Alarmı biraz erkene kuracağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_053",
       "speaker": "刘梅",
-      "zh": "我还可以让姐姐叫我起床。",
-      "pinyin": "wǒ hái kě yǐ ràng jiě jiě jiào wǒ qǐ chuáng.",
-      "tr": "Ablamdan beni uyandırmasını da isteyebilirim."
+      "zh": "我也会早点儿叫你起床。",
+      "pinyin": "Wǒ yě huì zǎodiǎnér jiào nǐ qǐchuáng。",
+      "tr": "Ben de seni biraz daha erken kaldırırım."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_054",
       "speaker": "邻居",
-      "zh": "最好先试试自己早点儿起。",
-      "pinyin": "zuì hǎo xiān shì shì zì jǐ zǎo diǎn ér qǐ.",
-      "tr": "Önce kendin erken kalkmayı denesen iyi olur."
+      "zh": "还是自己早点儿起更放心。",
+      "pinyin": "Háishì zìjǐ zǎodiǎnér qǐ gèng fàngxīn。",
+      "tr": "Yine de kendin erken kalkarsan daha garanti olur."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_055",
@@ -424,23 +424,23 @@
     {
       "id": "DLG_ZH_HSK2_SC004_060",
       "speaker": "邻居",
-      "zh": "我会在学校门口下车。",
-      "pinyin": "wǒ huì zài xué xiào mén kǒu xià chē.",
-      "tr": "Okulun kapısında inerim."
+      "zh": "我把车停在学校门口。",
+      "pinyin": "Wǒ bǎ chē tíng zài xuéxiào ménkǒu。",
+      "tr": "Arabayı okulun girişine park edeceğim."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_061",
       "speaker": "张乐乐",
-      "zh": "到了以后你先去办公室找老师。",
-      "pinyin": "dào le yǐ hòu nǐ xiān qù bàn gōng shì zhǎo lǎo shī.",
-      "tr": "Varınca önce öğretmenini odasında bul."
+      "zh": "到了以后，我先去办公室找老师。",
+      "pinyin": "Dào le yǐhòu， wǒ xiān qù bàngōngshì zhǎo lǎoshī。",
+      "tr": "Varınca önce öğretmenler odasına gidip öğretmeni bulacağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_062",
       "speaker": "刘梅",
-      "zh": "我把迟到的原因告诉老师。",
-      "pinyin": "wǒ bǎ chí dào de yuán yīn gào sù lǎo shī.",
-      "tr": "Öğretmenime neden geç kaldığımı söylerim."
+      "zh": "我陪你去，把迟到的原因告诉老师。",
+      "pinyin": "Wǒ péinǐqù， bǎ chídào de yuányīn gàosù lǎoshī。",
+      "tr": "Seninle gelip öğretmene neden geç kaldığını anlatırım."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_063",
@@ -466,9 +466,9 @@
     {
       "id": "DLG_ZH_HSK2_SC004_066",
       "speaker": "邻居",
-      "zh": "语文书、作业本和水杯都在。",
-      "pinyin": "yǔ wén shū 、 zuò yè běn hé shuǐ bēi dōu zài.",
-      "tr": "Çince kitabım, ödev defterim ve su şişem yanımda."
+      "zh": "语文书、作业本和水杯都在书包里，刚才我们检查过了。",
+      "pinyin": "Yǔwén shū、 zuòyèběn hé shuǐbēi dōu zài shūbāo lǐ， gāngcái wǒmen jiǎnchá guò le。",
+      "tr": "Çince kitabın, ödev defterin ve su matarası çantanda; az önce kontrol ettik."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_067",
@@ -480,9 +480,9 @@
     {
       "id": "DLG_ZH_HSK2_SC004_068",
       "speaker": "刘梅",
-      "zh": "我记住了，谢谢你送我。",
-      "pinyin": "wǒ jì zhù le, xiè xiè nǐ sòng wǒ.",
-      "tr": "Aklımda, beni götürdüğünüz için teşekkürler."
+      "zh": "谢谢你送乐乐过来。",
+      "pinyin": "Xièxiè nǐ sòng lèlè guòlái。",
+      "tr": "Lele’yi getirdiğin için teşekkür ederim."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_069",
@@ -494,23 +494,23 @@
     {
       "id": "DLG_ZH_HSK2_SC004_070",
       "speaker": "张乐乐",
-      "zh": "我到学校了，时间刚好。",
-      "pinyin": "wǒ dào xué xiào le, shí jiān gāng hǎo.",
-      "tr": "Okula vardım, tam zamanında."
+      "zh": "我到学校了，马上去找老师。",
+      "pinyin": "Wǒ dào xué xiào le, mǎ shàng qù zhǎo lǎo shī.",
+      "tr": "Okula vardım, hemen öğretmeni bulmaya gidiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_071",
       "speaker": "刘梅",
-      "zh": "进去吧，放学后告诉妈妈一声。",
-      "pinyin": "jìn qù ba, fàng xué hòu gào sù mā mā yī shēng.",
-      "tr": "Hadi gir, okul çıkışı annene haber ver."
+      "zh": "快进去吧，放学后记得给爸爸打电话。",
+      "pinyin": "Kuàijìnqù ba， fàngxué hòu jìde gěi bàbà dǎdiànhuà。",
+      "tr": "Hadi içeri gir; okuldan sonra babanı aramayı unutma."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_072",
       "speaker": "邻居",
-      "zh": "我会告诉她，也会谢谢您。",
-      "pinyin": "wǒ huì gào sù tā, yě huì xiè xiè nín.",
-      "tr": "Ona haber veririm, size de teşekkür ederim."
+      "zh": "不客气，我先把车停好。",
+      "pinyin": "Bù kèqì， wǒ xiān bǎ chē tíng hǎo。",
+      "tr": "Rica ederim, önce arabayı park edeyim."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_073",
@@ -543,16 +543,16 @@
     {
       "id": "DLG_ZH_HSK2_SC004_077",
       "speaker": "刘梅",
-      "zh": "今天先进去上课，书带来了吧？",
-      "pinyin": "jīn tiān xiān jìn qù shàng kè, shū dài lái le ba?",
-      "tr": "Şimdi derse gir, kitabını getirdin değil mi?"
+      "zh": "邻居，书包里的东西都检查过了吧？",
+      "pinyin": "Lín jū, shū bāo lǐ de dōng xī dōu jiǎn chá guò le ba?",
+      "tr": "Komşumuz, çantadaki eşyaları kontrol ettik, değil mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC004_078",
       "speaker": "邻居",
-      "zh": "带来了，已经放进书包了。",
-      "pinyin": "dài lái le, yǐ jīng fàng jìn shū bāo le.",
-      "tr": "Getirdim, çantama koydum."
+      "zh": "检查过了，语文书在书包里。",
+      "pinyin": "Jiǎn chá guò le, yǔ wén shū zài shū bāo lǐ.",
+      "tr": "Kontrol ettik; Çince kitabı çantada."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_079",
@@ -571,9 +571,9 @@
     {
       "id": "DLG_ZH_HSK2_SC004_081",
       "speaker": "邻居",
-      "zh": "我还要早点儿睡，不再赖床。",
-      "pinyin": "wǒ hái yào zǎo diǎn ér shuì, bù zài lài chuáng.",
-      "tr": "Daha erken yatacağım, yatakta oyalanmayacağım."
+      "zh": "今天晚上早点儿睡，明天就不会赖床。",
+      "pinyin": "Jīntiān wǎnshàng zǎodiǎnér shuì， míngtiān jiù búhuì làichuáng。",
+      "tr": "Bu akşam erken yatarsan yarın yatakta oyalanmazsın."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_082",
@@ -585,58 +585,58 @@
     {
       "id": "DLG_ZH_HSK2_SC004_083",
       "speaker": "刘梅",
-      "zh": "我也会把闹钟放远一点儿。",
-      "pinyin": "wǒ yě huì bǎ nào zhōng fàng yuǎn yì diǎn ér.",
-      "tr": "Alarmı da biraz uzağa koyacağım."
+      "zh": "我今晚把你的闹钟放远一点儿。",
+      "pinyin": "Wǒ jīnwǎn bǎ nǐ de nàozhōng fàngyuǎn yìdiǎnér。",
+      "tr": "Bu akşam alarmını biraz uzağa koyacağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_084",
       "speaker": "邻居",
-      "zh": "这样我得起来关闹钟。",
-      "pinyin": "zhè yàng wǒ dé qǐ lái guān nào zhōng.",
-      "tr": "Böylece alarmı kapatmak için kalkmam gerekir."
+      "zh": "闹钟一响，你就得起来关掉。",
+      "pinyin": "Nàozhōng yīxiǎng， nǐ jiù dé qǐlái guāndiào。",
+      "tr": "Alarm çalınca kapatmak için kalkman gerekecek."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_085",
       "speaker": "张乐乐",
-      "zh": "你妈妈说她已经放心了。",
-      "pinyin": "nǐ mā mā shuō tā yǐ jīng fàng xīn le.",
-      "tr": "Annen artık rahatladığını söyledi."
+      "zh": "爸爸知道我没事，也就放心了。",
+      "pinyin": "Bà bà zhī dào wǒ méi shì, yě jiù fàng xīn le.",
+      "tr": "Babam iyi olduğumu öğrenince rahatlayacak."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_086",
       "speaker": "刘梅",
-      "zh": "我下午会给她打电话。",
-      "pinyin": "wǒ xià wǔ huì gěi tā dǎ diàn huà.",
-      "tr": "Öğleden sonra onu ararım."
+      "zh": "放学后你给爸爸打个电话吧。",
+      "pinyin": "Fàngxué hòu nǐ gěi bàbà dǎgè diànhuà ba。",
+      "tr": "Okuldan sonra babanı ara."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_087",
       "speaker": "邻居",
-      "zh": "也告诉她你今天准时到了。",
-      "pinyin": "yě gào sù tā nǐ jīn tiān zhǔn shí dào le.",
-      "tr": "Bugün zamanında vardığını da söyle."
+      "zh": "到了以后给爸爸发个消息，让他放心。",
+      "pinyin": "Dào le yǐhòu gěi bàbà fāgè xiāoxī， ràng tā fàngxīn。",
+      "tr": "Varınca babana mesaj at, içi rahat etsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_088",
       "speaker": "张乐乐",
-      "zh": "我下课以后就打给她。",
-      "pinyin": "wǒ xià kè yǐ hòu jiù dǎ gěi tā.",
-      "tr": "Ders bitince hemen ararım."
+      "zh": "我下课以后就给他打电话。",
+      "pinyin": "Wǒ xià kè yǐ hòu jiù gěi tā dǎ diàn huà.",
+      "tr": "Ders bitince hemen onu, yani babamı ararım."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_089",
       "speaker": "刘梅",
-      "zh": "阿姨，我也会跟妈妈说谢谢。",
-      "pinyin": "ā yí, wǒ yě huì gēn mā mā shuō xiè xiè.",
-      "tr": "Teyze, anneme de teşekkür ettiğinizi söylerim."
+      "zh": "今天谢谢你帮忙，改天请你来家里坐坐。",
+      "pinyin": "Jīntiān xièxiè nǐ bāngmáng， gǎitiān qǐng nǐ lái jiālǐ zuòzuò。",
+      "tr": "Bugün yardım ettiğin için teşekkürler; bir ara bize gel."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_090",
       "speaker": "邻居",
-      "zh": "好，放学后在门口等校车。",
-      "pinyin": "hǎo, fàng xué hòu zài mén kǒu děng xiào chē.",
-      "tr": "Peki, okul çıkışı kapıda servisi bekle."
+      "zh": "好，放学后我在门口等你们，再一起回家。",
+      "pinyin": "Hǎo， fàngxué hòu wǒ zài ménkǒu děng nǐmen， zài yìqǐ huíjiā。",
+      "tr": "Olur, okul çıkışı kapıda beklerim, sonra birlikte döneriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_091",
@@ -676,9 +676,9 @@
     {
       "id": "DLG_ZH_HSK2_SC004_096",
       "speaker": "邻居",
-      "zh": "好，放学后我再联系妈妈。",
-      "pinyin": "hǎo, fàng xué hòu wǒ zài lián xì mā mā.",
-      "tr": "Tamam, okul çıkışı annemi arayacağım."
+      "zh": "我先回去了，有事再给我打电话。",
+      "pinyin": "Wǒ xiānhuíqù le， yǒushì zài gěi wǒ dǎdiànhuà。",
+      "tr": "Ben önce döneyim; bir şey olursa beni ara."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_097",
@@ -697,9 +697,9 @@
     {
       "id": "DLG_ZH_HSK2_SC004_099",
       "speaker": "邻居",
-      "zh": "我会记住，也会告诉妈妈我到了。",
-      "pinyin": "wǒ huì jì zhù, yě huì gào sù mā mā wǒ dào le.",
-      "tr": "Aklımda, anneme de vardığımı söylerim."
+      "zh": "我会给你爸爸发个消息，说你已经到学校了。",
+      "pinyin": "Wǒ huì gěi nǐ bà bà fā gè xiāo xī, shuō nǐ yǐ jīng dào xué xiào le.",
+      "tr": "Babanıza mesaj atıp okula vardığını söyleyeceğim."
     },
     {
       "id": "DLG_ZH_HSK2_SC004_100",

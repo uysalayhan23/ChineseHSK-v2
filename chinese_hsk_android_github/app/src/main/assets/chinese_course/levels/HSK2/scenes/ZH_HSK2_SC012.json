@@ -11,23 +11,23 @@
     {
       "id": "DLG_ZH_HSK2_SC012_001",
       "speaker": "张雨桐",
-      "zh": "小雨，今天我同学第一次来家里。",
-      "pinyin": "xiǎo yǔ, jīn tiān wǒ tóng xué dì yī cì lái jiā lǐ.",
-      "tr": "Anne, bugün arkadaşım ilk kez bize geliyor."
+      "zh": "妈妈，今天我的同学第一次来我们家。",
+      "pinyin": "Mā mā, jīn tiān wǒ de tóng xué dì yī cì lái wǒ men jiā.",
+      "tr": "Anne, bugün sınıf arkadaşım ilk kez bize geliyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_002",
       "speaker": "同学",
-      "zh": "太好了，我们先把客厅收拾一下。",
-      "pinyin": "tài hǎo le, wǒ men xiān bǎ kè tīng shōu shí yī xià.",
-      "tr": "Ne güzel, önce oturma odasını toparlayalım."
+      "zh": "谢谢你邀请我，我第一次来你家，有一点儿不好意思。",
+      "pinyin": "Xiè xiè nǐ yāo qǐng wǒ, wǒ dì yī cì lái nǐ jiā, yǒu yì diǎn ér bù hǎo yì sī.",
+      "tr": "Beni davet ettiğin için teşekkürler; evinize ilk kez geliyorum, biraz çekiniyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_003",
       "speaker": "刘梅",
-      "zh": "你好，我第一次来你家，有一点儿不好意思。",
-      "pinyin": "nǐ hǎo, wǒ dì yī cì lái nǐ jiā, yǒu yì diǎn ér bù hǎo yì sī.",
-      "tr": "Merhaba, evinize ilk kez geliyorum, biraz çekiniyorum."
+      "zh": "欢迎你来，别紧张，进来坐吧。",
+      "pinyin": "Huān yíng nǐ lái, bié jǐn zhāng, jìn lái zuò ba.",
+      "tr": "Hoş geldin, çekinme; içeri gelip otur."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_004",
@@ -81,9 +81,9 @@
     {
       "id": "DLG_ZH_HSK2_SC012_011",
       "speaker": "刘梅",
-      "zh": "她上课很认真，也会帮我。",
-      "pinyin": "tā shàng kè hěn rèn zhēn, yě huì bāng wǒ.",
-      "tr": "Derste çok dikkatli, bana da yardım ediyor."
+      "zh": "你们在学校互相帮助，真好。",
+      "pinyin": "Nǐ men zài xué xiào hù xiāng bāng zhù, zhēn hǎo.",
+      "tr": "Okulda birbirinize yardım etmeniz ne güzel."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_012",
@@ -116,9 +116,9 @@
     {
       "id": "DLG_ZH_HSK2_SC012_016",
       "speaker": "张伟",
-      "zh": "好啊，我下次带来。",
-      "pinyin": "hǎo a, wǒ xià cì dài lái.",
-      "tr": "Olur, bir dahaki sefere getiririm."
+      "zh": "有机会我也想看看你的画。",
+      "pinyin": "Yǒu jī huì wǒ yě xiǎng kàn kàn nǐ de huà.",
+      "tr": "Fırsat olursa ben de resimlerini görmek isterim."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_017",
@@ -200,9 +200,9 @@
     {
       "id": "DLG_ZH_HSK2_SC012_028",
       "speaker": "张伟",
-      "zh": "不用麻烦，我已经认识路了。",
-      "pinyin": "bù yòng má fán, wǒ yǐ jīng rèn shí lù le.",
-      "tr": "Zahmet etme, artık yolu öğrendim."
+      "zh": "下次再来时，记得提前告诉我们。",
+      "pinyin": "Xià cì zài lái shí, jì de tí qián gào sù wǒ men.",
+      "tr": "Bir dahaki sefere gelirken bize önceden haber ver."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_029",
@@ -221,9 +221,9 @@
     {
       "id": "DLG_ZH_HSK2_SC012_031",
       "speaker": "刘梅",
-      "zh": "所以我们早上可以一起走。",
-      "pinyin": "suǒ yǐ wǒ men zǎo shàng kě yǐ yì qǐ zǒu.",
-      "tr": "O yüzden sabah birlikte yürüyebiliriz."
+      "zh": "那以后你们上学可以一起走。",
+      "pinyin": "Nà yǐ hòu nǐ men shàng xué kě yǐ yì qǐ zǒu.",
+      "tr": "O zaman bundan sonra okula birlikte yürüyebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_032",
@@ -249,16 +249,16 @@
     {
       "id": "DLG_ZH_HSK2_SC012_035",
       "speaker": "刘梅",
-      "zh": "她刚来学校时，我带她看了教室。",
-      "pinyin": "tā gāng lái xué xiào shí, wǒ dài tā kàn le jiào shì.",
-      "tr": "Okula yeni geldiğinde ona sınıfı göstermiştim."
+      "zh": "她刚来学校时，雨桐就带她熟悉了教室。",
+      "pinyin": "Tā gāng lái xué xiào shí, yǔ tóng jiù dài tā shú xī le jiào shì.",
+      "tr": "Okula yeni geldiğinde Yutong ona sınıfları tanıtmıştı."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_036",
       "speaker": "张伟",
-      "zh": "我那天还担心找不到老师。",
-      "pinyin": "wǒ nà tiān hái dān xīn zhǎo bú dào lǎo shī.",
-      "tr": "O gün öğretmeni bulamamaktan endişelenmiştim."
+      "zh": "听起来，她刚来时也有一点儿紧张。",
+      "pinyin": "Tīng qǐ lái, tā gāng lái shí yě yǒu yì diǎn ér jǐn zhāng.",
+      "tr": "Anlaşılan ilk geldiğinde o da biraz heyecanlıymış."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_037",
@@ -284,9 +284,9 @@
     {
       "id": "DLG_ZH_HSK2_SC012_040",
       "speaker": "张伟",
-      "zh": "是你先跟我说话，我才没那么紧张。",
-      "pinyin": "shì nǐ xiān gēn wǒ shuō huà, wǒ cái méi nà me jǐn zhāng.",
-      "tr": "Benimle ilk sen konuşunca o kadar gerilmedim."
+      "zh": "你们成了好朋友以后，她就没那么紧张了。",
+      "pinyin": "Nǐ men chéng le hǎo péng yǒu yǐ hòu, tā jiù méi nà me jǐn zhāng le.",
+      "tr": "İyi arkadaş olduktan sonra o kadar heyecanlanmamışsın."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_041",
@@ -312,9 +312,9 @@
     {
       "id": "DLG_ZH_HSK2_SC012_044",
       "speaker": "张伟",
-      "zh": "谢谢，我也欢迎你来我家。",
-      "pinyin": "xiè xiè, wǒ yě huān yíng nǐ lái wǒ jiā.",
-      "tr": "Teşekkürler, seni de bize beklerim."
+      "zh": "以后欢迎你常来。",
+      "pinyin": "Yǐ hòu huān yíng nǐ cháng lái.",
+      "tr": "Bundan sonra yine bekleriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_045",
@@ -340,9 +340,9 @@
     {
       "id": "DLG_ZH_HSK2_SC012_048",
       "speaker": "张伟",
-      "zh": "谢谢，我自己来就好。",
-      "pinyin": "xiè xiè, wǒ zì jǐ lái jiù hǎo.",
-      "tr": "Teşekkürler, kendim alabilirim."
+      "zh": "你们慢慢吃，想拿什么就告诉我。",
+      "pinyin": "Nǐ men màn màn chī, xiǎng ná shén me jiù gào sù wǒ.",
+      "tr": "Rahatça yiyin; başka bir şey isterseniz söyleyin."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_049",
@@ -375,16 +375,16 @@
     {
       "id": "DLG_ZH_HSK2_SC012_053",
       "speaker": "张雨桐",
-      "zh": "你们真客气，我都不知道该说什么。",
-      "pinyin": "nǐ men zhēn kè qì, wǒ dōu bù zhī dào gāi shuō shén me.",
-      "tr": "Çok naziksiniz, ne diyeceğimi bilemedim."
+      "zh": "还想吃点儿什么吗？别客气。",
+      "pinyin": "Hái xiǎng chī diǎn ér shén me ma? bié kè qì.",
+      "tr": "Biraz daha bir şey ister misin? Çekinme."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_054",
       "speaker": "同学",
-      "zh": "别客气，今天你是客人。",
-      "pinyin": "bié kè qì, jīn tiān nǐ shì kè rén.",
-      "tr": "Çekinme, bugün bizim misafirimizsin."
+      "zh": "谢谢，我今天吃得很开心。",
+      "pinyin": "Xiè xiè, wǒ jīn tiān chī dé hěn kāi xīn.",
+      "tr": "Teşekkürler, bugün çok güzel vakit geçirdim."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_055",
@@ -424,9 +424,9 @@
     {
       "id": "DLG_ZH_HSK2_SC012_060",
       "speaker": "张伟",
-      "zh": "下次我可以带一张画给你们看。",
-      "pinyin": "xià cì wǒ kě yǐ dài yī zhāng huà gěi nǐ men kàn.",
-      "tr": "Bir dahaki sefere size bir resmimi getirebilirim."
+      "zh": "你们喜欢画画，可以一起画，挺好的。",
+      "pinyin": "Nǐ men xǐ huān huà huà, kě yǐ yì qǐ huà, tǐng hǎo de.",
+      "tr": "Resim yapmayı seviyorsunuz; birlikte çizmeniz güzel olur."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_061",
@@ -508,9 +508,9 @@
     {
       "id": "DLG_ZH_HSK2_SC012_072",
       "speaker": "张伟",
-      "zh": "我下次还想来，今天很开心。",
-      "pinyin": "wǒ xià cì hái xiǎng lái, jīn tiān hěn kāi xīn.",
-      "tr": "Bir dahaki sefere yine gelmek isterim, bugün çok güzeldi."
+      "zh": "欢迎你下次再来，今天大家都很开心。",
+      "pinyin": "Huān yíng nǐ xià cì zài lái, jīn tiān dà jiā dōu hěn kāi xīn.",
+      "tr": "Bir dahaki sefere yine bekleriz; bugün hepimiz çok eğlendik."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_073",
@@ -536,9 +536,9 @@
     {
       "id": "DLG_ZH_HSK2_SC012_076",
       "speaker": "张伟",
-      "zh": "我说好了，妈妈来接我。",
-      "pinyin": "wǒ shuō hǎo le, mā mā lái jiē wǒ.",
-      "tr": "Haber verdim, annem beni almaya gelecek."
+      "zh": "你妈妈来接你吗？我陪你到门口等她。",
+      "pinyin": "Nǐ mā mā lái jiē nǐ ma? wǒ péi nǐ dào mén kǒu děng tā.",
+      "tr": "Annen seni almaya mı geliyor? Kapıda birlikte bekleyelim."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_077",
@@ -564,9 +564,9 @@
     {
       "id": "DLG_ZH_HSK2_SC012_080",
       "speaker": "张伟",
-      "zh": "谢谢，回家路上可以吃。",
-      "pinyin": "xiè xiè, huí jiā lù shàng kě yǐ chī.",
-      "tr": "Teşekkürler, eve giderken yerim."
+      "zh": "路上饿了可以吃，拿着吧。",
+      "pinyin": "Lù shàng è le kě yǐ chī, ná zhe ba.",
+      "tr": "Yolda acıkırsan yersin, al."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_081",
@@ -585,37 +585,37 @@
     {
       "id": "DLG_ZH_HSK2_SC012_083",
       "speaker": "刘梅",
-      "zh": "路上小心，到家告诉小雨一声。",
-      "pinyin": "lù shàng xiǎo xīn, dào jiā gào sù xiǎo yǔ yī shēng.",
-      "tr": "Yolda dikkat et, eve varınca Yutong’a haber ver."
+      "zh": "到家后给家里回个消息，免得他们担心。",
+      "pinyin": "Dào jiā hòu gěi jiā lǐ huí gè xiāo xī, miǎn de tā men dān xīn.",
+      "tr": "Eve varınca ailene haber ver, merak etmesinler."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_084",
       "speaker": "张伟",
-      "zh": "好，我到了就给她发消息。",
-      "pinyin": "hǎo, wǒ dào le jiù gěi tā fā xiāo xī.",
-      "tr": "Tamam, varınca ona mesaj atarım."
+      "zh": "好，我会提醒她到家后给你发消息。",
+      "pinyin": "Hǎo, wǒ huì tí xǐng tā dào jiā hòu gěi nǐ fā xiāo xī.",
+      "tr": "Peki, eve varınca sana mesaj atmasını hatırlatırım."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_085",
       "speaker": "张雨桐",
-      "zh": "她走以后，我们把桌子收拾一下吧。",
-      "pinyin": "tā zǒu yǐ hòu, wǒ men bǎ zhuō zi shōu shí yī xià ba.",
-      "tr": "Gittikten sonra masayı toplayalım."
+      "zh": "我去门口看看你妈妈到了没有。",
+      "pinyin": "Wǒ qù mén kǒu kàn kàn nǐ mā mā dào le méi yǒu.",
+      "tr": "Annen geldi mi diye kapıya bakayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_086",
       "speaker": "同学",
-      "zh": "好，盘子我拿去厨房。",
-      "pinyin": "hǎo, pán zi wǒ ná qù chú fáng.",
-      "tr": "Olur, tabakları mutfağa götüreyim."
+      "zh": "好，我也把书包拿上。",
+      "pinyin": "Hǎo, wǒ yě bǎ shū bāo ná shàng.",
+      "tr": "Olur, çantamı da alayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_087",
       "speaker": "刘梅",
-      "zh": "我把杯子洗好，再擦桌子。",
-      "pinyin": "wǒ bǎ bēi zi xǐ hǎo, zài cā zhuō zi.",
-      "tr": "Bardakları yıkayıp masayı sileyim."
+      "zh": "你们慢慢走，路上小心。",
+      "pinyin": "Nǐ men màn màn zǒu, lù shàng xiǎo xīn.",
+      "tr": "Acele etmeyin, yolda dikkat edin."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_088",
@@ -634,9 +634,9 @@
     {
       "id": "DLG_ZH_HSK2_SC012_090",
       "speaker": "同学",
-      "zh": "她是我的好朋友，我很开心她来了。",
-      "pinyin": "tā shì wǒ de hǎo péng yǒu, wǒ hěn kāi xīn tā lái le.",
-      "tr": "O benim iyi arkadaşım, gelmesine sevindim."
+      "zh": "她是我的好朋友，今天我很开心。",
+      "pinyin": "Tā shì wǒ de hǎo péng yǒu, jīn tiān wǒ hěn kāi xīn.",
+      "tr": "O benim iyi arkadaşım; bugün çok mutlu oldum."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_091",
@@ -662,23 +662,23 @@
     {
       "id": "DLG_ZH_HSK2_SC012_094",
       "speaker": "同学",
-      "zh": "好，我问问她喜欢吃什么。",
-      "pinyin": "hǎo, wǒ wèn wèn tā xǐ huān chī shén me.",
-      "tr": "Olur, ne yemeyi sevdiğini sorarım."
+      "zh": "好啊，我也可以带点儿点心来。",
+      "pinyin": "Hǎo a, wǒ yě kě yǐ dài diǎn ér diǎn xīn lái.",
+      "tr": "Olur, ben de biraz atıştırmalık getirebilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_095",
       "speaker": "刘梅",
-      "zh": "今天我学会了怎么欢迎客人。",
-      "pinyin": "jīn tiān wǒ xué huì le zěn me huān yíng kè rén.",
-      "tr": "Bugün misafiri nasıl karşılayacağımı öğrendim."
+      "zh": "今天认识你的朋友，我也很高兴。",
+      "pinyin": "Jīn tiān rèn shí nǐ de péng yǒu, wǒ yě hěn gāo xìng.",
+      "tr": "Bugün arkadaşınla tanıştığıma ben de sevindim."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_096",
       "speaker": "张伟",
-      "zh": "大家自然一点儿，客人就会觉得舒服。",
-      "pinyin": "dà jiā zì rán yì diǎn ér, kè rén jiù huì jué de shū fú.",
-      "tr": "Herkes doğal davranınca misafir de rahat eder."
+      "zh": "以后家里还可以常请朋友来玩。",
+      "pinyin": "Yǐ hòu jiā lǐ hái kě yǐ cháng qǐng péng yǒu lái wán.",
+      "tr": "Bundan sonra arkadaşlarını eve sık sık çağırabilirsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_097",
@@ -697,16 +697,16 @@
     {
       "id": "DLG_ZH_HSK2_SC012_099",
       "speaker": "刘梅",
-      "zh": "我去门口看看妈妈到了没有。",
-      "pinyin": "wǒ qù mén kǒu kàn kàn mā mā dào le méi yǒu.",
-      "tr": "Annem geldi mi diye kapıya bakayım."
+      "zh": "我去门口看看你妈妈到了没有。",
+      "pinyin": "Wǒ qù mén kǒu kàn kàn nǐ mā mā dào le méi yǒu.",
+      "tr": "Annen kapıya geldi mi diye bakayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC012_100",
       "speaker": "张伟",
-      "zh": "她到了，我现在就下去。",
-      "pinyin": "tā dào le, wǒ xiàn zài jiù xià qù.",
-      "tr": "Geldi, şimdi aşağı iniyorum."
+      "zh": "你妈妈到了，我陪你下去吧。",
+      "pinyin": "Nǐ mā mā dào le, wǒ péi nǐ xià qù ba.",
+      "tr": "Annen geldi, seninle aşağı ineyim."
     }
   ],
   "productionStatus": "complete",

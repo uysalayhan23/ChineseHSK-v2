@@ -25,16 +25,16 @@
     {
       "id": "DLG_ZH_HSK2_SC009_003",
       "speaker": "店员",
-      "zh": "我上网比较多，你常常打电话。",
-      "pinyin": "wǒ shàng wǎng bǐ jiào duō, nǐ cháng cháng dǎ diàn huà.",
-      "tr": "Ben interneti daha çok kullanıyorum, sen sık telefon ediyorsun."
+      "zh": "我们先看看你们近几个月的用量，再选套餐。",
+      "pinyin": "Wǒ men xiān kàn kàn nǐ men jìn jǐ gè yuè de yòng liàng, zài xuǎn tào cān.",
+      "tr": "Önce son birkaç aydaki kullanımınıza bakıp sonra tarife seçelim."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_004",
       "speaker": "张伟",
-      "zh": "那我们先看看每月的套餐。",
-      "pinyin": "nà wǒ men xiān kàn kàn měi yuè de tào cān.",
-      "tr": "O zaman önce aylık paketlere bakalım."
+      "zh": "我上网比较多，通话不多。",
+      "pinyin": "Wǒ shàng wǎng bǐ jiào duō, tōng huà bù duō.",
+      "tr": "İnterneti daha çok kullanıyorum, fazla telefon etmiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_005",
@@ -46,16 +46,16 @@
     {
       "id": "DLG_ZH_HSK2_SC009_006",
       "speaker": "店员",
-      "zh": "我们要比较价格和用量。",
-      "pinyin": "wǒ men yào bǐ jiào jià gé hé yòng liàng.",
-      "tr": "Fiyatı ve kullanım miktarını karşılaştıralım."
+      "zh": "这款套餐每月有十个G流量和三百分钟。",
+      "pinyin": "Zhè kuǎn tào cān měi yuè yǒu shí gè G liú liàng hé sān bǎi fēn zhōng.",
+      "tr": "Bu tarifede ayda 10 GB internet ve 300 dakika var."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_007",
       "speaker": "张伟",
-      "zh": "这个月套餐有十个G流量和三百分钟。",
-      "pinyin": "zhè ge yuè tào cān yǒu shí gè G liú liàng hé sān bǎi fēn zhōng.",
-      "tr": "Bu aylık pakette 10 GB internet ve 300 dakika var."
+      "zh": "我上个月用了八个G，差一点儿不够。",
+      "pinyin": "Wǒ shàng gè yuè yòng le bā gè G, yì diǎn er bù gòu 。",
+      "tr": "Geçen ay 8 GB kullandım, neredeyse yetmedi."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_008",
@@ -74,9 +74,9 @@
     {
       "id": "DLG_ZH_HSK2_SC009_010",
       "speaker": "张伟",
-      "zh": "我上个月用了八个G，差一点儿不够。",
-      "pinyin": "wǒ shàng gè yuè yòng le bā gè G, chà yì diǎn er bù gòu.",
-      "tr": "Geçen ay 8 GB kullandım, neredeyse yetmedi."
+      "zh": "每月一百二十块，价格可以接受。",
+      "pinyin": "Měi yuè yì bǎi èr shí kuài, jià gé kě yǐ jiē shòu.",
+      "tr": "Ayda 120 yuan, fiyatı kabul edilebilir."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_011",
@@ -109,16 +109,16 @@
     {
       "id": "DLG_ZH_HSK2_SC009_015",
       "speaker": "店员",
-      "zh": "多出来的分钟可以留到下个月吗？",
-      "pinyin": "duō chū lái de fēn zhōng kě yǐ liú dào xià gè yuè ma?",
-      "tr": "Artan dakikalar gelecek aya aktarılır mı?"
+      "zh": "套餐里没用完的分钟不能留到下个月。",
+      "pinyin": "Tào cān lǐ méi yòng wán de fēn zhōng bù néng liú dào xià gè yuè.",
+      "tr": "Tarifedeki kullanılmamış dakikalar gelecek aya aktarılmıyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_016",
       "speaker": "张伟",
-      "zh": "不可以，每个月的分钟会重新计算。",
-      "pinyin": "bù kě yǐ, měi gè yuè de fēn zhōng huì chóng xīn jì suàn.",
-      "tr": "Hayır, dakika hakkı her ay yeniden hesaplanır."
+      "zh": "明白了，每个月都会重新计算。",
+      "pinyin": "Míng bái le, měi gè yuè dū huì chóng xīn jì suàn.",
+      "tr": "Anladım, her ay yeniden hesaplanıyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_017",
@@ -130,16 +130,16 @@
     {
       "id": "DLG_ZH_HSK2_SC009_018",
       "speaker": "店员",
-      "zh": "还有流量更多的套餐吗？",
-      "pinyin": "hái yǒu liú liàng gèng duō de tào cān ma?",
-      "tr": "Daha fazla interneti olan paket var mı?"
+      "zh": "如果担心流量不够，还有流量更多的套餐。",
+      "pinyin": "Rú guǒ dān xīn liú liàng bù gòu, hái yǒu liú liàng gèng duō de tào cān.",
+      "tr": "İnternetin yetmemesinden endişeleniyorsanız daha yüksek kotalı tarifeler de var."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_019",
       "speaker": "张伟",
-      "zh": "有，十五个G流量，四百分钟。",
-      "pinyin": "yǒu, shí wǔ gè G liú liàng, sì bǎi fēn zhōng.",
-      "tr": "Var, 15 GB internet ve 400 dakika."
+      "zh": "那请您介绍一下流量更多的套餐吧。",
+      "pinyin": "Nà qǐng nín jiè shào yī xià liú liàng gèng duō de tào cān ba.",
+      "tr": "O zaman daha yüksek kotalı tarifeyi anlatır mısınız?"
     },
     {
       "id": "DLG_ZH_HSK2_SC009_020",
@@ -228,44 +228,44 @@
     {
       "id": "DLG_ZH_HSK2_SC009_032",
       "speaker": "刘梅",
-      "zh": "现在换不用交钱。",
-      "pinyin": "xiàn zài huàn bù yòng jiāo qián.",
-      "tr": "Şimdi değiştirirseniz ücret yok."
+      "zh": "没有其他月费，那我们现在办理吧。",
+      "pinyin": "méiyǒu qítā yuèfèi, nà wǒmen xiànzài bànlǐ ba.",
+      "tr": "Başka aylık ücret yoksa şimdi başvuralım."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_033",
       "speaker": "店员",
-      "zh": "那就省事了。",
-      "pinyin": "nà jiù shěng shì le.",
-      "tr": "Bu iyi oldu."
+      "zh": "好的，我现在帮您办理。",
+      "pinyin": "hǎo de, wǒ xiànzài bāng nín bànlǐ.",
+      "tr": "Peki, işleminizi şimdi yapayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_034",
       "speaker": "张伟",
-      "zh": "套餐什么时候开始？",
-      "pinyin": "tào cān shén me shí hòu kāi shǐ?",
-      "tr": "Paket ne zaman başlar?"
+      "zh": "费用没有问题的话，我们就换这个套餐。",
+      "pinyin": "fèiyòng méiyǒu wèntí de huà, wǒmen jiù huàn zhège tàocān.",
+      "tr": "Ücret uygunsa bu pakete geçelim."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_035",
       "speaker": "刘梅",
-      "zh": "今天办理，今天就开始使用。",
-      "pinyin": "jīn tiān bàn lǐ, jīn tiān jiù kāi shǐ shǐ yòng.",
-      "tr": "Bugün başvurursanız bugün kullanmaya başlarsınız."
+      "zh": "换了套餐以后，新套餐从什么时候开始？",
+      "pinyin": "huàn le tàocān yǐhòu, xīn tàocān cóng shénme shíhou kāishǐ?",
+      "tr": "Tarifeyi değiştirdikten sonra yeni paket ne zaman başlıyor?"
     },
     {
       "id": "DLG_ZH_HSK2_SC009_036",
       "speaker": "店员",
-      "zh": "原来的套餐今天就停吗？",
-      "pinyin": "yuán lái de tào cān jīn tiān jiù tíng ma?",
-      "tr": "Eski paket bugün durur mu?"
+      "zh": "原来的套餐月底结束，今天办理也不会提前停。",
+      "pinyin": "Yuán lái de tào cān yuè dǐ jié shù, jīn tiān bàn lǐ yě bú huì tí qián tíng.",
+      "tr": "Mevcut tarifeniz ay sonunda biter; bugün başvursanız da erken kesilmez."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_037",
       "speaker": "张伟",
-      "zh": "原来的套餐月底结束，新套餐下个月开始。",
-      "pinyin": "yuán lái de tào cān yuè dǐ jié shù, xīn tào cān xià gè yuè kāi shǐ.",
-      "tr": "Eski paket ay sonunda biter, yenisi gelecek ay başlar."
+      "zh": "那新套餐下个月开始，正好接上。",
+      "pinyin": "Nà xīn tào cān xià gè yuè kāi shǐ, zhèng hǎo jiē shàng.",
+      "tr": "O zaman yeni tarife gelecek ay başlar ve arada boşluk olmaz."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_038",
@@ -291,23 +291,23 @@
     {
       "id": "DLG_ZH_HSK2_SC009_041",
       "speaker": "刘梅",
-      "zh": "可以，请给我看一下手机号码。",
-      "pinyin": "kě yǐ, qǐng gěi wǒ kàn yī xià shǒu jī hào mǎ.",
-      "tr": "Evet, telefon numaranızı gösterin lütfen."
+      "zh": "那我们就在这里办理吧，手机号是这个。",
+      "pinyin": "Nà wǒ men jiù zài zhè lǐ bàn lǐ ba, shǒu jī hào shì zhè ge.",
+      "tr": "O zaman burada başvuralım; telefon numaram bu."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_042",
       "speaker": "店员",
-      "zh": "号码在这里，登记的是张伟。",
-      "pinyin": "hào mǎ zài zhè lǐ, dēng jì de shì zhāng wěi.",
-      "tr": "Numaram burada, Zhang Wei adına kayıtlı."
+      "zh": "好的，我查一下，号码登记在张伟名下。",
+      "pinyin": "Hǎo de, wǒ chá yī xià, hào mǎ dēng jì zài zhāng wěi míng xià.",
+      "tr": "Peki, kontrol edeyim; numara Zhang Wei adına kayıtlı."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_043",
       "speaker": "张伟",
-      "zh": "我查到了，您现在用的是旧套餐。",
-      "pinyin": "wǒ chá dào le, nín xiàn zài yòng de shì jiù tào cān.",
-      "tr": "Buldum, şu anda eski paketi kullanıyorsunuz."
+      "zh": "号码是我的，您可以查一下现在的套餐。",
+      "pinyin": "Hào mǎ shì wǒ de, nín kě yǐ chá yī xià xiàn zài de tào cān.",
+      "tr": "Numara benim adıma; şu anki tarifeyi kontrol edebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_044",
@@ -319,9 +319,9 @@
     {
       "id": "DLG_ZH_HSK2_SC009_045",
       "speaker": "店员",
-      "zh": "我们想换成十个G的套餐。",
-      "pinyin": "wǒ men xiǎng huàn chéng shí gè G de tào cān.",
-      "tr": "10 GB’lık pakete geçmek istiyoruz."
+      "zh": "您想换成十个G流量的套餐，对吗？",
+      "pinyin": "Nín xiǎng huàn chéng shí gè G liú liàng de tào cān, duì ma?",
+      "tr": "10 GB internetli pakete geçmek istiyorsunuz, doğru mu?"
     },
     {
       "id": "DLG_ZH_HSK2_SC009_046",
@@ -340,23 +340,23 @@
     {
       "id": "DLG_ZH_HSK2_SC009_048",
       "speaker": "店员",
-      "zh": "对，适合我们现在的用量。",
-      "pinyin": "duì, shì hé wǒ men xiàn zài de yòng liàng.",
-      "tr": "Evet, şu anki kullanımımıza uygun."
+      "zh": "对，十个G流量和三百分钟，每月一百二十块。",
+      "pinyin": "Duì, shí gè G liú liàng hé sān bǎi fēn zhōng, měi yuè yì bǎi èr shí kuài.",
+      "tr": "Evet, 10 GB internet ve 300 dakika; ayda 120 yuan."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_049",
       "speaker": "张伟",
-      "zh": "需要用身份证确认一下。",
-      "pinyin": "xū yào yòng shēn fèn zhèng què rèn yī xià.",
-      "tr": "Kimliğinizle doğrulama yapmam gerekiyor."
+      "zh": "办理时需要用身份证确认吗？",
+      "pinyin": "Bàn lǐ shí xū yào yòng shēn fèn zhèng què rèn ma?",
+      "tr": "Başvuru sırasında kimlik doğrulaması gerekiyor mu?"
     },
     {
       "id": "DLG_ZH_HSK2_SC009_050",
       "speaker": "刘梅",
-      "zh": "我带了身份证，请看。",
-      "pinyin": "wǒ dài le shēn fèn zhèng, qǐng kàn.",
-      "tr": "Kimliğim yanımda, buyurun."
+      "zh": "他的身份证我也带了，请看。",
+      "pinyin": "tā de shēnfènzhèng wǒ yě dài le, qǐng kàn.",
+      "tr": "Onun kimliğini de getirdim, buyurun."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_051",
@@ -375,23 +375,23 @@
     {
       "id": "DLG_ZH_HSK2_SC009_053",
       "speaker": "刘梅",
-      "zh": "一般几分钟就能办好。",
-      "pinyin": "yì bān jǐ fēn zhōng jiù néng bàn hǎo.",
-      "tr": "Genellikle birkaç dakika içinde tamamlanır."
+      "zh": "那我们在这里等几分钟吧。",
+      "pinyin": "Nà wǒ men zài zhè lǐ děng jǐ fēn zhōng ba.",
+      "tr": "O zaman burada birkaç dakika bekleyelim."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_054",
       "speaker": "店员",
-      "zh": "那我们在这里等一会儿。",
-      "pinyin": "nà wǒ men zài zhè lǐ děng yī huì er.",
-      "tr": "O zaman biraz burada bekleyelim."
+      "zh": "好的，提交以后我会马上通知您。",
+      "pinyin": "Hǎo de, tí jiāo yǐ hòu wǒ huì mǎ shàng tōng zhī nín.",
+      "tr": "Peki, başvuruyu gönderince size hemen haber vereceğim."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_055",
       "speaker": "张伟",
-      "zh": "已经办好了，短信也发到手机上了。",
-      "pinyin": "yǐ jīng bàn hǎo le, duǎn xìn yě fā dào shǒu jī shàng le.",
-      "tr": "İşlem tamamlandı, telefonunuza mesaj da geldi."
+      "zh": "办好以后会收到短信，对吗？",
+      "pinyin": "Bàn hǎo yǐ hòu huì shōu dào duǎn xìn, duì ma?",
+      "tr": "İşlem bitince kısa mesaj gelecek, değil mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC009_056",
@@ -403,9 +403,9 @@
     {
       "id": "DLG_ZH_HSK2_SC009_057",
       "speaker": "店员",
-      "zh": "那今天换了也不会断网。",
-      "pinyin": "nà jīn tiān huàn le yě bú huì duàn wǎng.",
-      "tr": "O zaman bugün değiştirdiğimiz için internetimiz kesilmez."
+      "zh": "对，今天办理不会影响旧套餐，新套餐下个月生效。",
+      "pinyin": "Duì, jīn tiān bàn lǐ bú huì yǐng xiǎng jiù tào cān, xīn tào cān xià gè yuè shēng xiào.",
+      "tr": "Evet, bugün başvurmak eski tarifenizi etkilemez; yenisi gelecek ay başlar."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_058",
@@ -417,16 +417,16 @@
     {
       "id": "DLG_ZH_HSK2_SC009_059",
       "speaker": "刘梅",
-      "zh": "您可以另外买流量，也可以等下个月。",
-      "pinyin": "nín kě yǐ lìng wài mǎi liú liàng, yě kě yǐ děng xià gè yuè.",
-      "tr": "Ek internet alabilir ya da gelecek ayı bekleyebilirsiniz."
+      "zh": "那我们这个月少看一些视频，尽量用到下个月。",
+      "pinyin": "Nà wǒ men zhè ge yuè shǎo kàn yī xiē shì pín, jǐn liàng yòng dào xià gè yuè.",
+      "tr": "O zaman bu ay daha az video izleyip gelecek aya kadar idare edelim."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_060",
       "speaker": "店员",
-      "zh": "我会看看用量，不随便看视频。",
-      "pinyin": "wǒ huì kàn kàn yòng liàng, bù suí biàn kàn shì pín.",
-      "tr": "Kullanımı takip eder, gereksiz video izlemem."
+      "zh": "如果流量提前用完，您也可以另外购买流量包。",
+      "pinyin": "Rú guǒ liú liàng tí qián yòng wán, nín yě kě yǐ lìng wài gòu mǎi liú liàng bāo.",
+      "tr": "İnternet kotanız erken biterse ek paket de satın alabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_061",
@@ -438,16 +438,16 @@
     {
       "id": "DLG_ZH_HSK2_SC009_062",
       "speaker": "刘梅",
-      "zh": "可以，不过套餐外的电话要另外收费。",
-      "pinyin": "kě yǐ, bù guò tào cān wài de diàn huà yào lìng wài shōu fèi.",
-      "tr": "Evet ama paket dışındaki aramalar ayrıca ücretlendirilir."
+      "zh": "套餐外的电话要另外收费，最好先看清楚分钟数。",
+      "pinyin": "Tào cān wài de diàn huà yào lìng wài shōu fèi, zuì hǎo xiān kàn qīng chǔ fēn zhōng shù.",
+      "tr": "Paket dışındaki aramalar ayrıca ücretlendirilir; dakika hakkını kontrol etmek iyi olur."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_063",
       "speaker": "店员",
-      "zh": "那我尽量用消息联系同事。",
-      "pinyin": "nà wǒ jǐn liàng yòng xiāo xī lián xì tóng shì.",
-      "tr": "O zaman iş arkadaşlarımla mesajlaşarak haberleşirim."
+      "zh": "如果经常打电话，可以选择分钟数多一点儿的套餐。",
+      "pinyin": "Rú guǒ jīng cháng dǎ diàn huà, kě yǐ xuǎn zé fēn zhōng shù duō yì diǎn ér de tào cān.",
+      "tr": "Sık telefon ediyorsanız dakika hakkı daha yüksek bir paket seçebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_064",
@@ -459,23 +459,23 @@
     {
       "id": "DLG_ZH_HSK2_SC009_065",
       "speaker": "刘梅",
-      "zh": "办理时的价格会保持不变。",
-      "pinyin": "bàn lǐ shí de jià gé huì bǎo chí bù biàn.",
-      "tr": "Başvurudaki fiyat sabit kalır."
+      "zh": "我们办理以前再确认一下价格就好。",
+      "pinyin": "Wǒ men bàn lǐ yǐ qián zài què rèn yī xià jià gé jiù hǎo.",
+      "tr": "Başvurmadan önce fiyatı bir kez daha doğrulayalım."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_066",
       "speaker": "店员",
-      "zh": "以后想换，还能再来比较吗？",
-      "pinyin": "yǐ hòu xiǎng huàn, hái néng zài lái bǐ jiào ma?",
-      "tr": "İleride değiştirmek istersek yeniden karşılaştırabilir miyiz?"
+      "zh": "以后用量变了，也可以再来比较套餐。",
+      "pinyin": "Yǐ hòu yòng liàng biàn le, yě kě yǐ zài lái bǐ jiào tào cān.",
+      "tr": "İleride kullanımınız değişirse tarifeleri yeniden karşılaştırabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_067",
       "speaker": "张伟",
-      "zh": "当然可以，您随时可以来问。",
-      "pinyin": "dāng rán kě yǐ, nín suí shí kě yǐ lái wèn.",
-      "tr": "Elbette, istediğiniz zaman sorabilirsiniz."
+      "zh": "那就好，有需要我们再来咨询。",
+      "pinyin": "Nà jiù hǎo, yǒu xū yào wǒ men zài lái zī xún.",
+      "tr": "Güzel, gerekirse yeniden danışırız."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_068",
@@ -487,9 +487,9 @@
     {
       "id": "DLG_ZH_HSK2_SC009_069",
       "speaker": "店员",
-      "zh": "下个月再看看实际用了多少。",
-      "pinyin": "xià gè yuè zài kàn kàn shí jì yòng le duō shǎo.",
-      "tr": "Gelecek ay ne kadar kullandığımıza tekrar bakarız."
+      "zh": "下个月可以看看实际用量，再决定要不要换。",
+      "pinyin": "Xià gè yuè kě yǐ kàn kàn shí jì yòng liàng, zài jué dìng yào bù yào huàn.",
+      "tr": "Gelecek ay gerçek kullanıma bakıp değiştirip değiştirmemeye karar verebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_070",
@@ -508,9 +508,9 @@
     {
       "id": "DLG_ZH_HSK2_SC009_072",
       "speaker": "店员",
-      "zh": "这样我们都知道每月多少钱。",
-      "pinyin": "zhè yàng wǒ men dōu zhī dào měi yuè duō shǎo qián.",
-      "tr": "Böylece ikimiz de aylık ücreti biliriz."
+      "zh": "流量和分钟数都写在套餐说明里。",
+      "pinyin": "Liú liàng hé fēn zhōng shù dōu xiě zài tào cān shuō míng lǐ.",
+      "tr": "İnternet kotasıyla dakika miktarı tarife açıklamasında yazıyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_073",
@@ -529,9 +529,9 @@
     {
       "id": "DLG_ZH_HSK2_SC009_075",
       "speaker": "店员",
-      "zh": "我回家就设置一个提醒。",
-      "pinyin": "wǒ huí jiā jiù shè zhì yí gè tí xǐng.",
-      "tr": "Eve gidince hatırlatıcı kurarım."
+      "zh": "您可以在手机上设置用量提醒。",
+      "pinyin": "Nín kě yǐ zài shǒu jī shàng shè zhì yòng liàng tí xǐng.",
+      "tr": "Telefonunuzdan kullanım hatırlatıcısı kurabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_076",
@@ -571,9 +571,9 @@
     {
       "id": "DLG_ZH_HSK2_SC009_081",
       "speaker": "店员",
-      "zh": "现在我们把价格和用量都比较了。",
-      "pinyin": "xiàn zài wǒ men bǎ jià gé hé yòng liàng dōu bǐ jiào le.",
-      "tr": "Şimdi hem fiyatı hem kullanımı karşılaştırdık."
+      "zh": "您已经把价格和用量都比较过了。",
+      "pinyin": "Nín yǐ jīng bǎ jià gé hé yòng liàng dōu bǐ jiào guò le.",
+      "tr": "Fiyatı ve kullanım miktarını karşılaştırdınız."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_082",
@@ -592,9 +592,9 @@
     {
       "id": "DLG_ZH_HSK2_SC009_084",
       "speaker": "店员",
-      "zh": "我们回家以后再看短信说明。",
-      "pinyin": "wǒ men huí jiā yǐ hòu zài kàn duǎn xìn shuō míng.",
-      "tr": "Eve gidince mesajdaki açıklamayı tekrar okuruz."
+      "zh": "短信里写着生效日期，回去后您可以再确认。",
+      "pinyin": "Duǎn xìn lǐ xiě zhe shēng xiào rì qī, huí qù hòu nín kě yǐ zài què rèn.",
+      "tr": "Mesajda başlangıç tarihi yazıyor; eve gidince tekrar kontrol edebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_085",
@@ -613,30 +613,30 @@
     {
       "id": "DLG_ZH_HSK2_SC009_087",
       "speaker": "店员",
-      "zh": "谢谢，我们回去会留意每月价格。",
-      "pinyin": "xiè xiè, wǒ men huí qù huì liú yì měi yuè jià gé.",
-      "tr": "Teşekkürler, aylık ücreti takip ederiz."
+      "zh": "办理好了，祝您使用顺利。",
+      "pinyin": "Bàn lǐ hǎo le, zhù nín shǐ yòng shùn lì.",
+      "tr": "İşlem tamamlandı, iyi günlerde kullanın."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_088",
       "speaker": "张伟",
-      "zh": "不用客气，有需要再来问。",
-      "pinyin": "bù yòng kè qì, yǒu xū yào zài lái wèn.",
-      "tr": "Rica ederim, ihtiyacınız olursa yine sorun."
+      "zh": "谢谢您，有问题我们再来问。",
+      "pinyin": "Xiè xiè nín, yǒu wèn tí wǒ men zài lái wèn.",
+      "tr": "Teşekkürler, bir sorumuz olursa yine geliriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_089",
       "speaker": "刘梅",
       "zh": "那我们先回家，短信我也保存好了。",
       "pinyin": "nà wǒ men xiān huí jiā, duǎn xìn wǒ yě bǎo cún hǎo le.",
-      "tr": "O zaman eve dönelim, mesajı da kaydettim。"
+      "tr": "O zaman eve dönelim, mesajı da kaydettim."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_090",
       "speaker": "店员",
-      "zh": "我会看看每月的流量够不够。",
-      "pinyin": "wǒ huì kàn kàn měi yuè de liú liàng gòu bù gòu.",
-      "tr": "Aylık internetin yetip yetmediğini kontrol edeceğim."
+      "zh": "下个月记得查看用量，方便以后选择套餐。",
+      "pinyin": "Xià gè yuè jì de chá kàn yòng liàng, fāng biàn yǐ hòu xuǎn zé tào cān.",
+      "tr": "Gelecek ay kullanım miktarını kontrol edin; sonraki tarife seçiminiz kolaylaşır."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_091",
@@ -699,7 +699,7 @@
       "speaker": "店员",
       "zh": "以后打电话也要注意分钟数。",
       "pinyin": "yǐ hòu dǎ diàn huà yě yào zhù yì fēn zhōng shù.",
-      "tr": "Bundan sonra aramalarda da dakika miktarına dikkat ederiz."
+      "tr": "Bundan sonra aramalarda dakika miktarına da dikkat edin."
     },
     {
       "id": "DLG_ZH_HSK2_SC009_100",

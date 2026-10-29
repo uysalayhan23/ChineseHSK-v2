@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC011",
   "status": "ANALYZED_READY_FOR_GENERATION",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC011.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC011.json",
   "titleTr": "Kafe Çok Yoğun",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Kafe aşırı yoğunlaşır; ekip yeni çalışan ihtiyacını değerlendirir.",

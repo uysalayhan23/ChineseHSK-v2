@@ -87,9 +87,9 @@
     {
       "id": "DLG_ZH_HSK6_SC023_012",
       "speaker": "护士",
-      "zh": "我想替她做点什么，可是现在只能在外面等，心里有些无力。",
-      "pinyin": "wǒ xiǎng tì tā zuò diǎn shén me ， kě shì xiàn zài zhǐ néng zài wài miàn děng ， xīn lǐ yǒu xiē wú lì 。",
-      "tr": "Onun için bir şey yapmak istiyorum ama şu an dışarıda bekleyebiliyorum; kendimi çaresiz hissediyorum."
+      "zh": "我去确认一下里面的情况。你们先坐着等，有消息我会马上过来。",
+      "pinyin": "wǒ qù què rèn yī xià lǐ miàn de qíng kuàng 。 nǐ men xiān zuò zhe děng ， yǒu xiāo xī wǒ huì mǎ shàng guò lái 。",
+      "tr": "İçerideki durumu teyit edeyim. Siz oturup bekleyin; haber olursa hemen gelirim."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_013",
@@ -143,9 +143,9 @@
     {
       "id": "DLG_ZH_HSK6_SC023_020",
       "speaker": "护士",
-      "zh": "这个办法好。我们等的时候也可以互相提醒，别把沉默误会成坏消息。",
-      "pinyin": "zhè ge bàn fǎ hǎo 。 wǒ men děng de shí hòu yě kě yǐ hù xiāng tí xǐng ， bié bǎ chén mò wù huì chéng huài xiāo xī 。",
-      "tr": "Güzel fikir. Beklerken sessizliği kötü haber sanmamamız için birbirimizi uyarabiliriz."
+      "zh": "等待的时候先休息一下。有新的消息，我会及时告诉你们。",
+      "pinyin": "děng dài de shí hòu xiān xiū xī yī xià 。 yǒu xīn de xiāo xī ， wǒ huì jí shí gào sù nǐ men 。",
+      "tr": "Beklerken biraz dinlenin. Yeni bir haber olursa size hemen söylerim."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_021",
@@ -311,9 +311,9 @@
     {
       "id": "DLG_ZH_HSK6_SC023_044",
       "speaker": "护士",
-      "zh": "等待时容易把沉默想成很多意思，我们先别急着下结论。",
-      "pinyin": "děng dài shí róng yì bǎ chén mò xiǎng chéng hěn duō yì si ， wǒ men xiān bié jí zhe xià jié lùn 。",
-      "tr": "Beklerken sessizliğe türlü anlamlar yüklemek kolaydır; hemen sonuç çıkarmayalım."
+      "zh": "我明白你们着急。现在还没有新消息，我一有消息就会过来通知你们。",
+      "pinyin": "wǒ míng bái nǐ men zháo jí 。 xiàn zài hái méi yǒu xīn xiāo xī ， wǒ yī yǒu xiāo xī jiù huì guò lái tōng zhī nǐ men 。",
+      "tr": "Telaşınızı anlıyorum. Şimdilik yeni haber yok; gelir gelmez size bildireceğim."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_045",
@@ -366,10 +366,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC023_052",
-      "speaker": "护士",
-      "zh": "家人之间也一样，先问对方需要什么，再决定怎么帮忙。",
-      "pinyin": "jiā rén zhī jiān yě yī yàng ， xiān wèn duì fāng xū yào shén me ， zài jué dìng zěn me bāng máng 。",
-      "tr": "Aile içinde de aynı: önce karşı tarafın neye ihtiyacı olduğunu sorun, sonra nasıl yardım edeceğinize karar verin."
+      "speaker": "张伟",
+      "zh": "嗯。等见到她，我先问问她现在最需要什么，再看我们能帮上什么。",
+      "pinyin": "ń 。 děng jiàn dào tā ， wǒ xiān wèn wèn tā xiàn zài zuì xū yào shén me ， zài kàn wǒ men néng bāng shàng shén me 。",
+      "tr": "Evet. Onu görünce önce şu anda en çok neye ihtiyacı olduğunu sorarım; sonra nasıl yardımcı olabileceğimize bakarız."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_053",
@@ -423,9 +423,9 @@
     {
       "id": "DLG_ZH_HSK6_SC023_060",
       "speaker": "护士",
-      "zh": "你们能互相照看，等候时就会轻松一些。",
-      "pinyin": "nǐ men néng hù xiāng zhào kàn ， děng hòu shí jiù huì qīng sōng yī xiē 。",
-      "tr": "Birbirinize destek olmanız bekleyişi biraz daha kolaylaştırır."
+      "zh": "休息区就在前面。你们可以轮流过去，记得留一个人在这里等通知。",
+      "pinyin": "xiū xī qū jiù zài qián miàn 。 nǐ men kě yǐ lún liú guò qù ， jì de liú yí gè rén zài zhè lǐ děng tōng zhī 。",
+      "tr": "Dinlenme alanı ileride. Sırayla gidebilirsiniz; yalnız burada bir kişi haber beklesin."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_061",
@@ -507,9 +507,9 @@
     {
       "id": "DLG_ZH_HSK6_SC023_072",
       "speaker": "护士",
-      "zh": "等候确实不容易。你们能彼此陪伴，对她也是一种支持。",
-      "pinyin": "děng hòu què shí bù róng yì 。 nǐ men néng bǐ cǐ péi bàn ， duì tā yě shì yī zhǒng zhī chí 。",
-      "tr": "Beklemek gerçekten zor. Birbirinize eşlik etmeniz onun için de bir destek."
+      "zh": "等消息确实不容易。你们先照顾好自己，有需要就来找我。",
+      "pinyin": "děng xiāo xī què shí bù róng yì 。 nǐ men xiān zhào gù hǎo zì jǐ ， yǒu xū yào jiù lái zhǎo wǒ 。",
+      "tr": "Haber beklemek gerçekten zor. Önce kendinize dikkat edin; bir şeye ihtiyacınız olursa bana seslenin."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_073",
@@ -542,16 +542,16 @@
     {
       "id": "DLG_ZH_HSK6_SC023_077",
       "speaker": "张伟",
-      "zh": "真的吗？听到这个消息，我一下子不知道该说什么。",
-      "pinyin": "zhēn de ma ？ tīng dào zhè ge xiāo xī ， wǒ yī xià zi bù zhī dào gāi shuō shén me 。",
-      "tr": "Gerçekten mi? Bu haberi duyunca ne diyeceğimi bilemedim."
+      "zh": "真的吗？太好了……我刚才一直攥着手机，手心都出汗了。",
+      "pinyin": "zhēn de ma ？ tài hǎo le … … wǒ gāng cái yì zhí zuàn zhuó shǒu jī ， shǒu xīn dōu chū hàn le 。",
+      "tr": "Gerçekten mi? Çok şükür… Az önce telefonu öyle sıkmışım ki avucum terlemiş."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_078",
       "speaker": "刘梅",
-      "zh": "我也是。先让消息落下来，再问她现在需要什么。",
-      "pinyin": "wǒ yě shì 。 xiān ràng xiāo xī là xià lái ， zài wèn tā xiàn zài xū yào shén me 。",
-      "tr": "Ben de öyleyim. Önce haberi sindirelim, sonra şu anda neye ihtiyacı olduğunu sorarız."
+      "zh": "你先坐下喝口水吧。我给家里发条消息，说孩子平安出生了。",
+      "pinyin": "nǐ xiān zuò xià hē kǒu shuǐ ba 。 wǒ gěi jiā lǐ fā tiáo xiāo xī ， shuō hái zi píng ān chū shēng le 。",
+      "tr": "Önce oturup biraz su iç. Aileye bebeğin sağ salim doğduğunu yazayım."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_079",
@@ -563,23 +563,23 @@
     {
       "id": "DLG_ZH_HSK6_SC023_080",
       "speaker": "护士",
-      "zh": "你们先在这里稍等，我去确认探视安排。",
-      "pinyin": "nǐ men xiān zài zhè lǐ shāo děng ， wǒ qù què rèn tàn shì ān pái 。",
-      "tr": "Lütfen burada biraz bekleyin; ziyaret düzenini teyit edeyim."
+      "zh": "我去确认探视安排，请你们在这里稍等。",
+      "pinyin": "wǒ qù què rèn tàn shì ān pái ， qǐng nǐ men zài zhè lǐ shāo děng 。",
+      "tr": "Ziyaret düzenini teyit edeyim; lütfen burada biraz bekleyin."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_081",
       "speaker": "张伟",
-      "zh": "听到孩子出生，我一下子不知道该说什么，只觉得心里很热。",
-      "pinyin": "tīng dào hái zi chū shēng ， wǒ yī xià zi bù zhī dào gāi shuō shén me ， zhǐ jué de xīn lǐ hěn rè 。",
-      "tr": "Bebeğin doğduğunu duyunca ne diyeceğimi bilemedim; içim sevinçle doldu."
+      "zh": "好。等医生说明情况，我们再把详细消息告诉家里。",
+      "pinyin": "hǎo 。 děng yī shēng shuō míng qíng kuàng ， wǒ men zài bǎ xiáng xì xiāo xī gào sù jiā lǐ 。",
+      "tr": "Peki. Doktor durumu açıkladıktan sonra ayrıntıları aileye aktarırız."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_082",
       "speaker": "刘梅",
-      "zh": "我也是。先让消息落下来，等见到她再慢慢表达。",
-      "pinyin": "wǒ yě shì 。 xiān ràng xiāo xī là xià lái ， děng jiàn dào tā zài màn màn biǎo dá 。",
-      "tr": "Ben de öyleyim. Önce haberi sindirelim; onu görünce duygularımızı anlatırız."
+      "zh": "我先发一句“母女平安”，让大家放心，也请他们暂时别打电话。",
+      "pinyin": "wǒ xiān fā yī jù “ mǔ nǚ píng ān ” ， ràng dà jiā fàng xīn ， yě qǐng tā men zàn shí bié dǎ diàn huà 。",
+      "tr": "Önce “Anneyle bebek iyi” diye yazıp herkesi rahatlatayım, bir de şimdilik aramamalarını rica edeyim."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_083",
@@ -591,9 +591,9 @@
     {
       "id": "DLG_ZH_HSK6_SC023_084",
       "speaker": "护士",
-      "zh": "我现在替你们确认探视安排，请在这里稍等片刻。",
-      "pinyin": "wǒ xiàn zài tì nǐ men què rèn tàn shì ān pái ， qǐng zài zhè lǐ shāo děng piàn kè 。",
-      "tr": "Ziyaret düzenini şimdi sizin için teyit ediyorum; lütfen burada biraz bekleyin."
+      "zh": "我确认过了，可以两位家属先进去看看。她要是累了，你们就让她休息。",
+      "pinyin": "wǒ què rèn guò le ， kě yǐ liǎng wèi jiā shǔ xiān jìn qù kàn kàn 。 tā yào shì lèi le ， nǐ men jiù ràng tā xiū xī 。",
+      "tr": "Teyit ettim; önce iki yakınınız içeri girip görebilir. Yorulursa dinlenmesine izin verin."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_085",
@@ -612,16 +612,16 @@
     {
       "id": "DLG_ZH_HSK6_SC023_087",
       "speaker": "张雨桐伴侣",
-      "zh": "我想先给家里报个平安，但只告诉他们已经有消息了。",
-      "pinyin": "wǒ xiǎng xiān gěi jiā lǐ bào gè píng ān ， dàn zhǐ gào sù tā men yǐ jīng yǒu xiāo xī le 。",
-      "tr": "Aileye iyi haber vereyim ama şimdilik yalnızca haber aldığımızı söyleyeyim."
+      "zh": "我也给家里报个平安吧，详细情况等医生说明后再说。",
+      "pinyin": "wǒ yě gěi jiā lǐ bào gè píng ān ba ， xiáng xì qíng kuàng děng yī shēng shuō míng hòu zài shuō 。",
+      "tr": "Ben de aileme iyi haberi vereyim; ayrıntıları doktor açıkladıktan sonra anlatırız."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_088",
       "speaker": "护士",
-      "zh": "可以，具体情况等医生讲清楚后再分享，尊重她的隐私。",
-      "pinyin": "kě yǐ ， jù tǐ qíng kuàng děng yī shēng jiǎng qīng chǔ hòu zài fēn xiǎng ， zūn zhòng tā de yǐn sī 。",
-      "tr": "Olur. Ayrıntıları doktor açıkladıktan sonra paylaşırız; onun mahremiyetine saygı gösterelim."
+      "zh": "可以先说母女平安。其他情况等医生说明后，再问问她愿不愿意分享。",
+      "pinyin": "kě yǐ xiān shuō mǔ nǚ píng ān 。 qí tā qíng kuàng děng yī shēng shuō míng hòu ， zài wèn wèn tā yuàn bù yuàn yì fēn xiǎng 。",
+      "tr": "Anneyle bebeğin iyi olduğunu söyleyebilirsiniz. Diğer ayrıntıları doktor açıkladıktan sonra, paylaşmak isteyip istemediğini ona sorun."
     },
     {
       "id": "DLG_ZH_HSK6_SC023_089",

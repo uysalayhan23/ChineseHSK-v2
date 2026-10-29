@@ -5,21 +5,21 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC019.json",
-  "dialogueSha256": "ca25ca849161db8b4f552eb48308336cebfc11206a94846596bb00fbd11553e7",
+  "dialogueSha256": "58bdd3f29c5d1c6bab5ae7c9bca9d6b878c1a5a3626af8e244ec64fb350c076c",
   "titleTr": "Kafenin Tabelası",
   "locationId": "LOC_ZH_CAFE_PREMISES_001",
   "scenePurposeTr": "Yeni tabela asılmadan hemen önce küçük bir yazım hatası fark edilir ve düzeltilmesi istenir.",
   "dialogueSpeakers": [
     "刘梅",
     "张伟",
-    "顾客",
+    "王师傅",
     "张雨桐"
   ],
   "requiredVisualCharacters": [
     "刘梅",
     "张伟",
-    "顾客",
-    "张雨桐"
+    "张雨桐",
+    "王师傅"
   ],
   "forbiddenExtraCharacters": [
     "张乐乐"
@@ -28,7 +28,7 @@
     "张伟": "mature_adult",
     "刘梅": "mature_adult",
     "张雨桐": "young_adult",
-    "顾客": "adult_third_party"
+    "王师傅": "adult_third_party"
   },
   "criticalObjects": [
     "kafe tabela paneli (okunabilir yazı yok)",

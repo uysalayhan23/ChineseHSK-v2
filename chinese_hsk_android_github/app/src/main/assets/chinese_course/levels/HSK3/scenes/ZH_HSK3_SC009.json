@@ -730,9 +730,9 @@
         "zh": "位置",
         "pinyin": "wèizhi",
         "tr": "konum",
-        "exampleZh": "我们再看看位置的情况。",
-        "examplePinyin": "Wǒmen zài kànkan wèizhi de qíngkuàng.",
-        "exampleTr": "Konum durumuna bir kez daha bakalım.",
+        "exampleZh": "这家店的位置很好，离学校和车站都近。",
+        "examplePinyin": "zhè jiā diàn de wèi zhì hěn hǎo ， lí xué xiào hé chē zhàn dōu jìn 。",
+        "exampleTr": "Bu dükkânın konumu iyi; okula ve durağa yakın.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "房租",
         "pinyin": "fángzū",
         "tr": "kira",
-        "exampleZh": "房租是这次要考虑的重点之一。",
-        "examplePinyin": "Fángzū shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-        "exampleTr": "Kira bu kez değerlendirmemiz gereken ana noktalardan biri.",
+        "exampleZh": "可是房租比我们的预算高不少。",
+        "examplePinyin": "kě shì fáng zū bǐ wǒ men de yù suàn gāo bù shǎo 。",
+        "exampleTr": "Ama kirası bütçemizi epey aşıyor.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "预算",
         "pinyin": "yùsuàn",
         "tr": "bütçe",
-        "exampleZh": "我们最好再确认一下预算。",
-        "examplePinyin": "Wǒmen zuìhǎo zài quèrèn yíxià yùsuàn.",
-        "exampleTr": "Bütçe konusunu bir kez daha teyit etsek iyi olur.",
+        "exampleZh": "可是房租比我们的预算高不少。",
+        "examplePinyin": "kě shì fáng zū bǐ wǒ men de yù suàn gāo bù shǎo 。",
+        "exampleTr": "Ama kirası bütçemizi epey aşıyor.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "定价",
         "pinyin": "dìngjià",
         "tr": "fiyat belirleme",
-        "exampleZh": "这一步需要认真定价。",
-        "examplePinyin": "Zhè yí bù xūyào rènzhēn dìngjià.",
-        "exampleTr": "Bu adımda dikkatlice fiyat belirleme gerekiyor.",
+        "exampleZh": "如果定价太高，顾客还是可能不进来。",
+        "examplePinyin": "rú guǒ dìng jià tài gāo ， gù kè hái shì kě néng bù jìn lái 。",
+        "exampleTr": "Fiyatları çok yüksek belirlersek müşteriler yine de gelmeyebilir.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "比较",
         "pinyin": "bǐjiào",
         "tr": "karşılaştırmak",
-        "exampleZh": "我们先比较，然后再看下一步。",
-        "examplePinyin": "Wǒmen xiān bǐjiào, ránhòu zài kàn xià yí bù.",
-        "exampleTr": "Önce karşılaştırmak, sonra sonraki adıma bakarız.",
+        "exampleZh": "对，房租、材料费和收入都要比较。",
+        "examplePinyin": "duì ， fáng zū 、 cái liào fèi hé shōu rù dōu yào bǐ jiào 。",
+        "exampleTr": "Evet, kirayı, malzeme masrafını ve geliri karşılaştırmalıyız.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "优点",
         "pinyin": "yōudiǎn",
         "tr": "avantaj",
-        "exampleZh": "我已经把优点记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ yōudiǎn jì xiàlái le.",
-        "exampleTr": "Avantaj notunu aldım.",
+        "exampleZh": "这是位置带来的优点。",
+        "examplePinyin": "zhè shì wèi zhì dài lái de yōu diǎn 。",
+        "exampleTr": "Bu, konumun sağladığı bir avantaj.",
         "kind": "active"
       },
       {

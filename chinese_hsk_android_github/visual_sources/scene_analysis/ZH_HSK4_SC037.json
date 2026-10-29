@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC037",
   "status": "INTEGRATED_QA_PASS",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC037.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC037.json",
   "titleTr": "İkinci Şube Yerine Daha İyi Kafe",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Aile büyümek yerine mevcut kafeyi geliştirmeye karar verir.",

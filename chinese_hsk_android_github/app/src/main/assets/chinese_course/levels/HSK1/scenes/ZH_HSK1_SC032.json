@@ -443,9 +443,9 @@
     {
       "id": "DLG_ZH_HSK1_SC032_003",
       "speaker": "同事",
-      "zh": "我叫小周，也在这个办公室工作。",
-      "pinyin": "Wǒ jiào xiǎozhōu, yě zài zhège bàngōngshì gōngzuò.",
-      "tr": "Ben Xiaozhou, ben de bu ofiste çalışıyorum."
+      "zh": "我先带你去食堂吧，午饭时再聊。",
+      "pinyin": "Wǒ xiān dài nǐ qù shítáng ba, wǔfàn shí zài liáo.",
+      "tr": "Önce seni yemekhaneye götüreyim; öğle yemeğinde sohbet ederiz."
     },
     {
       "id": "DLG_ZH_HSK1_SC032_004",
@@ -464,16 +464,16 @@
     {
       "id": "DLG_ZH_HSK1_SC032_006",
       "speaker": "同事",
-      "zh": "南京是个大城市吗？",
-      "pinyin": "Nánjīng shì gè dàchéngshì ma?",
-      "tr": "Nanjing büyük bir şehir mi?"
+      "zh": "我以前也住在南京。",
+      "pinyin": "Wǒ yǐqián yě zhù zài Nánjīng.",
+      "tr": "Ben de daha önce Nanjing’de yaşadım."
     },
     {
       "id": "DLG_ZH_HSK1_SC032_007",
       "speaker": "同事",
-      "zh": "我以前住在上海，后来来这儿工作。",
-      "pinyin": "Wǒ yǐqián zhù zài shànghǎi, hòulái lái zhèér gōngzuò.",
-      "tr": "Ben eskiden Şanghay’da yaşıyordum, sonra burada çalışmaya geldim."
+      "zh": "后来搬到这里工作，慢慢熟悉了这座城市。",
+      "pinyin": "Hòulái bān dào zhèlǐ gōngzuò, mànmàn shúxī le zhè zuò chéngshì.",
+      "tr": "Sonra çalışmak için buraya taşındım ve şehri yavaş yavaş tanıdım."
     },
     {
       "id": "DLG_ZH_HSK1_SC032_008",
@@ -485,23 +485,23 @@
     {
       "id": "DLG_ZH_HSK1_SC032_009",
       "speaker": "张伟",
-      "zh": "你们的名字我先记下来，小林和小周。",
-      "pinyin": "Nǐmen de míngzì wǒxiān jìxiàlái, xiǎolín hé xiǎozhōu.",
-      "tr": "Önce isimlerinizi aklımda tutayım: Xiaolin ve Xiaozhou."
+      "zh": "我先记下你们的名字，免得一会儿忘了。",
+      "pinyin": "Wǒ xiān jìxià nǐmen de míngzi, miǎnde yíhuìr wàng le.",
+      "tr": "Adlarınızı önce not edeyim, birazdan unutmayayım."
     },
     {
       "id": "DLG_ZH_HSK1_SC032_010",
       "speaker": "同事",
-      "zh": "你们以前住在哪个城市？",
-      "pinyin": "Nǐmen yǐqián zhù zài nǎge chéngshì?",
-      "tr": "Siz daha önce hangi şehirde yaşadınız?"
+      "zh": "先坐下吧，电脑就在桌上。",
+      "pinyin": "Xiān zuòxià ba, diànnǎo jiù zài zhuōshàng.",
+      "tr": "Önce otur; bilgisayar masanın üstünde."
     },
     {
       "id": "DLG_ZH_HSK1_SC032_011",
       "speaker": "同事",
-      "zh": "我坐在窗边，电脑就在桌上。",
-      "pinyin": "Wǒ zuòzài chuāngbiān, diànnǎo jiù zài zhuōshàng.",
-      "tr": "Pencerenin yanında oturuyorum, bilgisayar da masada."
+      "zh": "你有问题的话，可以随时问我。",
+      "pinyin": "Nǐ yǒu wèntí dehuà, kěyǐ suíshí wèn wǒ.",
+      "tr": "Bir sorun olursa bana istediğin zaman sorabilirsin."
     },
     {
       "id": "DLG_ZH_HSK1_SC032_012",
@@ -527,9 +527,9 @@
     {
       "id": "DLG_ZH_HSK1_SC032_015",
       "speaker": "同事",
-      "zh": "我们可以边吃边认识。",
-      "pinyin": "Wǒmen kěyǐ biān chī biān rènshí.",
-      "tr": "Yemek yerken birbirimizi daha iyi tanırız."
+      "zh": "我们可以边吃边聊，慢慢认识大家。",
+      "pinyin": "Wǒmen kěyǐ biān chī biān liáo, mànmàn rènshi dàjiā.",
+      "tr": "Yemek yerken sohbet edip herkesi yavaş yavaş tanıyabiliriz."
     },
     {
       "id": "DLG_ZH_HSK1_SC032_016",
@@ -772,16 +772,16 @@
     {
       "id": "DLG_ZH_HSK1_SC032_050",
       "speaker": "同事",
-      "zh": "对，小林在你旁边，有事可以问我。",
-      "pinyin": "Duì, xiǎolín zài nǐ pángbiān, yǒushì kěyǐ wèn wǒ.",
-      "tr": "Evet, Xiaolin yanında oturuyor; bir şey olursa bana sorabilirsin."
+      "zh": "我就在你旁边，有事可以问我。",
+      "pinyin": "Wǒ jiù zài nǐ pángbiān, yǒu shì kěyǐ wèn wǒ.",
+      "tr": "Hemen yanında oturuyorum; bir şey olursa bana sor."
     },
     {
       "id": "DLG_ZH_HSK1_SC032_051",
       "speaker": "同事",
-      "zh": "小周在窗边，电脑就在桌上。",
-      "pinyin": "Xiǎozhōu zài chuāngbiān, diànnǎo jiù zài zhuōshàng.",
-      "tr": "Xiaozhou pencerenin yanında, bilgisayar da masada."
+      "zh": "窗边的桌子是给你的，电脑也在那里。",
+      "pinyin": "Chuāngbiān de zhuōzi shì gěi nǐ de, diànnǎo yě zài nàlǐ.",
+      "tr": "Pencere kenarındaki masa senin; bilgisayar da orada."
     },
     {
       "id": "DLG_ZH_HSK1_SC032_052",
@@ -968,9 +968,9 @@
     {
       "id": "DLG_ZH_HSK1_SC032_078",
       "speaker": "同事",
-      "zh": "你已经认识了几位同事。",
-      "pinyin": "Nǐ yǐjīng rènshí le jǐwèi tóngshì.",
-      "tr": "Birkaç iş arkadaşınla tanıştın."
+      "zh": "你已经认识我和王经理了。",
+      "pinyin": "Nǐ yǐjīng rènshi wǒ hé Wáng jīnglǐ le.",
+      "tr": "Artık beni ve Müdür Wang’ı tanıyorsun."
     },
     {
       "id": "DLG_ZH_HSK1_SC032_079",
@@ -1024,23 +1024,23 @@
     {
       "id": "DLG_ZH_HSK1_SC032_086",
       "speaker": "同事",
-      "zh": "小林坐在你旁边，别记错了。",
-      "pinyin": "Xiǎolín zuòzài nǐ pángbiān, bié jìcuò le.",
-      "tr": "Xiaolin yanında otur, karıştırma."
+      "zh": "我就坐在你旁边，有事直接问我。",
+      "pinyin": "Wǒ jiù zuò zài nǐ pángbiān, yǒu shì zhíjiē wèn wǒ.",
+      "tr": "Hemen yanında oturuyorum; bir şey olursa doğrudan bana sor."
     },
     {
       "id": "DLG_ZH_HSK1_SC032_087",
       "speaker": "同事",
-      "zh": "小周在窗边，电脑在桌上。",
-      "pinyin": "Xiǎozhōu zài chuāngbiān, diànnǎo zài zhuōshàng.",
-      "tr": "Xiaozhou pencere kenarında, bilgisayar masada."
+      "zh": "窗边的电脑是你的，明天来就能用。",
+      "pinyin": "Chuāngbiān de diànnǎo shì nǐ de, míngtiān lái jiù néng yòng.",
+      "tr": "Pencere kenarındaki bilgisayar senin; yarın geldiğinde kullanabilirsin."
     },
     {
       "id": "DLG_ZH_HSK1_SC032_088",
       "speaker": "经理",
-      "zh": "王经理在办公室里面，有事来问我。",
-      "pinyin": "Wángjīnglǐ zài bàngōngshì lǐmiàn, yǒushì lái wèn wǒ.",
-      "tr": "Müdür Wang ofisin içinde, bir şey olursa bana sor."
+      "zh": "我在办公室里面，有事来问我。",
+      "pinyin": "Wǒ zài bàngōngshì lǐmiàn, yǒu shì lái wèn wǒ.",
+      "tr": "Ofisin içindeyim; bir şey olursa yanıma gelip sor."
     },
     {
       "id": "DLG_ZH_HSK1_SC032_089",

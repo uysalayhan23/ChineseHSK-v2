@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC021",
   "level": "HSK5",
   "sourceTitleZh": "雨桐带伴侣回家",
@@ -93,9 +93,9 @@
     {
       "id": "DLG_ZH_HSK5_SC021_013",
       "speaker": "张雨桐",
-      "zh": "谢谢。我们交往一段时间了，觉得是时候让家里人认识彼此。",
-      "pinyin": "xiè xiè 。 wǒ men jiāo wǎng yī duàn shí jiān le ， jué de shì shí hòu ràng jiā lǐ rén rèn shí bǐ cǐ 。",
-      "tr": "Teşekkürler. Bir süredir birlikteyiz; ailelerimizin tanışma zamanı geldi diye düşündük."
+      "zh": "我们认真对待这段恋爱关系，也觉得是时候让家里人认识彼此。",
+      "pinyin": "wǒ men rèn zhēn duì dài zhè duàn liàn ài guān xì ， yě jué de shì shí hòu ràng jiā lǐ rén rèn shí bǐ cǐ 。",
+      "tr": "Bu ilişkimizi ciddiye alıyoruz ve artık ailelerimizin birbirini tanımasının zamanı geldi diye düşünüyoruz."
     },
     {
       "id": "DLG_ZH_HSK5_SC021_014",
@@ -219,9 +219,9 @@
     {
       "id": "DLG_ZH_HSK5_SC021_031",
       "speaker": "刘梅",
-      "zh": "谢谢你直接告诉我们。我们只是好奇，也会注意别让你们有压力。",
-      "pinyin": "xiè xiè nǐ zhí jiē gào sù wǒ men 。 wǒ men zhǐ shì hào qí ， yě huì zhù yì bié ràng nǐ men yǒu yā lì 。",
-      "tr": "Bunu açıkça söylediğin için teşekkürler. Yalnızca merak ediyoruz; sizi baskı altında bırakmamaya dikkat ederiz."
+      "zh": "谢谢你直接告诉我们。我们只是好奇，也会注意分寸，不追问你们的隐私。",
+      "pinyin": "xiè xiè nǐ zhí jiē gào sù wǒ men 。 wǒ men zhǐ shì hào qí ， yě huì zhù yì fēn cùn ， bù zhuī wèn nǐ men de yǐn sī 。",
+      "tr": "Bunu açıkça söylediğin için teşekkürler. Merak ettik ama ölçülü davranıp özel hayatınızı kurcalamayacağız."
     },
     {
       "id": "DLG_ZH_HSK5_SC021_032",
@@ -296,9 +296,9 @@
     {
       "id": "DLG_ZH_HSK5_SC021_042",
       "speaker": "伴侣",
-      "zh": "独立和亲近并不冲突，重要的是彼此知道需要什么。",
-      "pinyin": "dú lì hé qīn jìn bìng bù chōng tū ， zhòng yào de shì bǐ cǐ zhī dào xū yào shén me 。",
-      "tr": "Bağımsızlık ve yakınlık çelişmez; önemli olan birbirimizin neye ihtiyaç duyduğunu bilmek."
+      "zh": "独立和亲近并不冲突，及时沟通才能建立信任，也能知道彼此需要什么。",
+      "pinyin": "dú lì hé qīn jìn bìng bù chōng tū ， jí shí gōu tōng cái néng jiàn lì xìn rèn ， yě néng zhī dào bǐ cǐ xū yào shén me 。",
+      "tr": "Bağımsızlık ve yakınlık çelişmez; zamanında iletişim güven kurar ve birbirimizin ihtiyaçlarını anlamamızı sağlar."
     },
     {
       "id": "DLG_ZH_HSK5_SC021_043",
@@ -639,9 +639,9 @@
     {
       "id": "DLG_ZH_HSK5_SC021_091",
       "speaker": "刘梅",
-      "zh": "你们的节奏由你们决定，我们愿意听，也愿意等。",
-      "pinyin": "nǐ men de jié zòu yóu nǐ men jué dìng ， wǒ men yuàn yì tīng ， yě yuàn yì děng 。",
-      "tr": "Temponuza siz karar verin; dinlemeye de beklemeye de hazırız."
+      "zh": "无论你们什么时候作决定，我们都会尊重你们的节奏，也愿意听。",
+      "pinyin": "wú lùn nǐ men shén me shí hòu zuò jué dìng ， wǒ men dū huì zūn zhòng nǐ men de jié zòu ， yě yuàn yì tīng 。",
+      "tr": "Ne zaman karar verirseniz verin, temponuza saygı duyar ve sizi dinlemeye hazır oluruz."
     },
     {
       "id": "DLG_ZH_HSK5_SC021_092",

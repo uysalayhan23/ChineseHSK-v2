@@ -10,7 +10,7 @@
   "dialogues": [
     {
       "id": "DLG_ZH_HSK3_SC002_001",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "你好，我想反映一下，今天收到的蛋糕比我订的小。",
       "pinyin": "nǐ hǎo ， wǒ xiǎng fǎn yìng yī xià ， jīn tiān shōu dào de dàn gāo bǐ wǒ dìng de xiǎo 。",
       "tr": "Merhaba, bugün aldığım pastanın sipariş ettiğimden küçük olduğunu bildirmek istiyorum."
@@ -45,14 +45,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_006",
-      "speaker": "张伟",
+      "speaker": "顾客",
       "zh": "对，家里有很多人来庆祝，这个蛋糕不够分。",
       "pinyin": "duì ， jiā lǐ yǒu hěn duō rén lái qìng zhù ， zhè ge dàn gāo bù gòu fēn 。",
       "tr": "Evet, evde kutlama için kalabalık var; bu pasta yetmeyecek."
     },
     {
       "id": "DLG_ZH_HSK3_SC002_007",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "明白了。给您带来麻烦，真的对不起。",
       "pinyin": "míng bái le 。 gěi nín dài lái má fán ， zhēn de duì bù qǐ 。",
       "tr": "Anladım. Size sorun çıkardığımız için gerçekten özür dileriz."
@@ -94,7 +94,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_013",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "我很赶时间，客人已经在家里等着了。",
       "pinyin": "wǒ hěn gǎn shí jiān ， kè rén yǐ jīng zài jiā lǐ děng zhe le 。",
       "tr": "Acele ediyorum, misafirlerim evde bekliyor."
@@ -220,10 +220,10 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_031",
-      "speaker": "顾客",
-      "zh": "我们也可以先准备盒子和装饰，省一点时间。",
-      "pinyin": "wǒ men yě kě yǐ xiān zhǔn bèi hé zi hé zhuāng shì ， shěng yì diǎn shí jiān 。",
-      "tr": "Zaman kazanmak için kutu ve süsleri de hazırlayabiliriz."
+      "speaker": "刘梅",
+      "zh": "我来准备盒子和装饰，这样能省一点时间。",
+      "pinyin": "wǒ lái zhǔn bèi hé zi hé zhuāng shì ， zhè yàng néng shěng yì diǎn shí jiān 。",
+      "tr": "Kutuyla süslemeleri ben hazırlayayım; böylece biraz zaman kazanırız."
     },
     {
       "id": "DLG_ZH_HSK3_SC002_032",
@@ -234,7 +234,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_033",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "请问你们现在知道多久能做好吗？",
       "pinyin": "qǐng wèn nǐ men xiàn zài zhī dào duō jiǔ néng zuò hǎo ma ？",
       "tr": "Ne kadar sürede hazır olacağını biliyor musunuz?"
@@ -304,7 +304,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_043",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "我已经在订单表上标出尺寸错误和重新制作。",
       "pinyin": "wǒ yǐ jīng zài dìng dān biǎo shàng biāo chū chǐ cùn cuò wù hé chóng xīn zhì zuò 。",
       "tr": "Sipariş listesine boy hatasını ve yeniden hazırlama bilgisini yazdım."
@@ -325,7 +325,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_046",
-      "speaker": "张伟",
+      "speaker": "顾客",
       "zh": "好，我会等电话。你们不用担心，我现在在附近。",
       "pinyin": "hǎo ， wǒ huì děng diàn huà 。 nǐ men bù yòng dān xīn ， wǒ xiàn zài zài fù jìn 。",
       "tr": "Tamam, telefonu beklerim. Endişelenmeyin, yakında olacağım."
@@ -353,14 +353,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_050",
-      "speaker": "张伟",
+      "speaker": "顾客",
       "zh": "谢谢。处理问题时你们解释得很清楚。",
       "pinyin": "xiè xiè 。 chǔ lǐ wèn tí shí nǐ men jiě shì dé hěn qīng chǔ 。",
       "tr": "Teşekkürler. Sorunu çözerken her şeyi açıkça anlattınız."
     },
     {
       "id": "DLG_ZH_HSK3_SC002_051",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "这次是我们没有按订单准备，对不起。",
       "pinyin": "zhè cì shì wǒ men méi yǒu àn dìng dān zhǔn bèi ， duì bù qǐ 。",
       "tr": "Bu kez siparişi doğru hazırlayamadığımız için özür dileriz."
@@ -465,14 +465,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_066",
-      "speaker": "张伟",
+      "speaker": "顾客",
       "zh": "知道了，谢谢你们及时告诉我进度。",
       "pinyin": "zhī dào le ， xiè xiè nǐ men jí shí gào sù wǒ jìn dù 。",
       "tr": "Hızlı haber verdiğiniz için teşekkür ederim."
     },
     {
       "id": "DLG_ZH_HSK3_SC002_067",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "这次我们会在交付前再量一次，保证尺寸正确。",
       "pinyin": "zhè cì wǒ men huì zài jiāo fù qián zài liàng yī cì ， bǎo zhèng chǐ cùn zhèng què 。",
       "tr": "Teslim etmeden önce yeniden ölçüp boyutun doğru olduğundan emin olacağız."
@@ -500,7 +500,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_071",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "蛋糕已经出炉了，我们现在量一下直径。",
       "pinyin": "dàn gāo yǐ jīng chū lú le ， wǒ men xiàn zài liàng yī xià zhí jìng 。",
       "tr": "Pasta fırından çıktı; şimdi çapını ölçelim."
@@ -528,10 +528,10 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_075",
-      "speaker": "顾客",
-      "zh": "装盒以后还要检查盒子是否盖紧，路上才不会碰坏。",
-      "pinyin": "zhuāng hé yǐ hòu hái yào jiǎn chá hé zi shì fǒu gài jǐn ， lù shàng cái bú huì pèng huài 。",
-      "tr": "Kutuyu kapattıktan sonra kapağını kontrol edelim; taşırken zarar görmesin."
+      "speaker": "刘梅",
+      "zh": "装盒以后还要检查盒盖是否盖紧，免得路上碰坏。",
+      "pinyin": "zhuāng hé yǐ hòu hái yào jiǎn chá hé gài shì fǒu gài jǐn ， miǎn de lù shàng pèng huài 。",
+      "tr": "Kutuladıktan sonra kapağın sıkıca kapandığını da kontrol etmeliyiz ki yolda zarar görmesin."
     },
     {
       "id": "DLG_ZH_HSK3_SC002_076",
@@ -549,21 +549,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_078",
-      "speaker": "张伟",
+      "speaker": "顾客",
       "zh": "谢谢。我马上过去，半小时内到。",
       "pinyin": "xiè xiè 。 wǒ mǎ shàng guò qù ， bàn xiǎo shí nèi dào 。",
       "tr": "Teşekkürler, hemen yola çıkıyorum; yarım saate oradayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC002_079",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "我们会把蛋糕放在平稳的地方，等您来取。",
       "pinyin": "wǒ men huì bǎ dàn gāo fàng zài píng wěn de dì fāng ， děng nín lái qǔ 。",
       "tr": "Pasta gelene kadar düz bir yerde bekleyecek."
     },
     {
       "id": "DLG_ZH_HSK3_SC002_080",
-      "speaker": "张雨桐",
+      "speaker": "顾客",
       "zh": "好的，我到的时候会再检查一次。",
       "pinyin": "hǎo de ， wǒ dào de shí hòu huì zài jiǎn chá yī cì 。",
       "tr": "Tamam, gelince ben de bir kez daha kontrol ederim."
@@ -598,7 +598,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_085",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "谢谢你们认真处理，还主动通知了我制作进度。",
       "pinyin": "xiè xiè nǐ men rèn zhēn chǔ lǐ ， hái zhǔ dòng tōng zhī le wǒ zhì zuò jìn dù 。",
       "tr": "Sorunu dikkatle çözüp hazırlık sürecini haber verdiğiniz için sağ olun."
@@ -633,14 +633,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_090",
-      "speaker": "张伟",
+      "speaker": "顾客",
       "zh": "谢谢。你们也可以把订单信息再写清楚一点。",
       "pinyin": "xiè xiè 。 nǐ men yě kě yǐ bǎ dìng dān xìn xī zài xiě qīng chǔ yì diǎn 。",
       "tr": "Teşekkürler. Sipariş bilgilerini daha açık yazmanız da iyi olur."
     },
     {
       "id": "DLG_ZH_HSK3_SC002_091",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "我们已经把尺寸和取货时间放在订单表的显眼位置。",
       "pinyin": "wǒ men yǐ jīng bǎ chǐ cùn hé qǔ huò shí jiān fàng zài dìng dān biǎo de xiǎn yǎn wèi zhì 。",
       "tr": "Boyutla teslim saatini listede kolay görülecek yere yazdık."
@@ -668,7 +668,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_095",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "如果以后发现问题，也可以尽早打电话告诉我们。",
       "pinyin": "rú guǒ yǐ hòu fā xiàn wèn tí ， yě kě yǐ jǐn zǎo dǎ diàn huà gào sù wǒ men 。",
       "tr": "İleride bir sorun fark ederseniz bizi hemen arayın."
@@ -696,14 +696,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC002_099",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "以后我们会更仔细地看订单，也会把每一步安排清楚。",
       "pinyin": "yǐ hòu wǒ men huì gèng zǐ xì dì kàn dìng dān ， yě huì bǎ měi yī bù ān pái qīng chǔ 。",
       "tr": "Bundan sonra siparişleri daha dikkatli inceleyip her adımı net planlayacağız."
     },
     {
       "id": "DLG_ZH_HSK3_SC002_100",
-      "speaker": "张雨桐",
+      "speaker": "顾客",
       "zh": "谢谢。下次我还会来订蛋糕，希望再见面时一切顺利。",
       "pinyin": "xiè xiè 。 xià cì wǒ hái huì lái dìng dàn gāo ， xī wàng zài jiàn miàn shí yī qiè shùn lì 。",
       "tr": "Teşekkürler. Bir dahaki siparişimde görüşmek üzere; umarım her şey sorunsuz olur."

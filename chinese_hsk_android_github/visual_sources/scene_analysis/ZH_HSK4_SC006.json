@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC006",
   "status": "FINAL_IMAGE_INTEGRATED",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC006.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC006.json",
   "titleTr": "Büyükbabanın Bahçe Planı",
   "locationId": "LOC_ZH_GARDEN_001",
   "scenePurposeTr": "Büyükbaba küçük bir alanı sebze bahçesine dönüştürmek ister.",

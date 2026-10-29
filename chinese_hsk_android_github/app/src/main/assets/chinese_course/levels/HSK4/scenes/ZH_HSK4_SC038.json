@@ -95,9 +95,9 @@
     {
       "id": "DLG_ZH_HSK4_SC038_013",
       "speaker": "爷爷",
-      "zh": "我主要担心抽血。能不能提前告诉我大概什么时候做？",
-      "pinyin": "wǒ zhǔ yào dān xīn chōu xuè néng bù néng tí qián gào sù wǒ dà gài shén me shí hòu zuò",
-      "tr": "En çok kan alınmasından kaygılanıyorum. Yaklaşık ne zaman yapılacağını önceden öğrenebilir miyim?"
+      "zh": "谢谢。知道大概时间，我就能提前做好准备，不会一直惦记。",
+      "pinyin": "xiè xièzhī dào dà gài shí jiānwǒ jiù néng tí qián zuò hǎo zhǔn bèibú huì yì zhí diàn jì",
+      "tr": "Teşekkürler. Yaklaşık zamanı bilirsem önceden hazırlanırım, aklımda sürekli kalmaz."
     },
     {
       "id": "DLG_ZH_HSK4_SC038_014",
@@ -730,9 +730,9 @@
         "zh": "医院",
         "pinyin": "yīyuàn",
         "tr": "hastane",
-        "exampleZh": "我们得先看看医院是否真的合适。",
-        "examplePinyin": "Wǒmen děi xiān kànkan yīyuàn shìfǒu zhēn de héshì.",
-        "exampleTr": "Önce hastane gerçekten uygun mu bakmalıyız.",
+        "exampleZh": "知道了。医院晚上应该安静一些，我也能早点休息。",
+        "examplePinyin": "zhī dào le yī yuàn wǎn shàng yīng gāi ān jìng yī xiē wǒ yě néng zǎo diǎn xiū xī",
+        "exampleTr": "Anladım. Hastane geceleri daha sessiz olmalı; daha erken dinlenebilirim.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "检查",
         "pinyin": "jiǎnchá",
         "tr": "muayene / kontrol",
-        "exampleZh": "我们把检查也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jiǎnchá yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Muayene / kontrol konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我想知道每项检查要做什么，会不会很麻烦？",
+        "examplePinyin": "wǒ xiǎng zhī dào měi xiàng jiǎn chá yào zuò shén me huì bú huì hěn má fán",
+        "exampleTr": "Her muayenede ne yapılacağını ve zor olup olmayacağını öğrenmek istiyorum.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "健康",
         "pinyin": "jiànkāng",
         "tr": "sağlık",
-        "exampleZh": "如果健康发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jiànkāng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Sağlık değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "谢谢。我以前觉得健康问题忍一忍就行，现在知道要早点告诉家人。",
+        "examplePinyin": "xiè xiè wǒ yǐ qián jué de jiàn kāng wèn tí rěn yī rěn jiù xíng xiàn zài zhī dào yào zǎo diǎn gào sù jiā rén",
+        "exampleTr": "Teşekkürler. Eskiden sağlık sorunlarına biraz dayanmanın yeterli olduğunu sanırdım; artık aileme erken söylemem gerektiğini biliyorum.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "关于家人，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jiārén, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Aile konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "家人之间互相照顾很正常，你也一直在照顾我们。",
+        "examplePinyin": "jiā rén zhī jiān hù xiāng zhào gù hěn zhèng cháng nǐ yě yì zhí zài zhào gù wǒ men",
+        "exampleTr": "Aile bireylerinin birbirine bakması doğal; sen de hep bizimle ilgilendin.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "担心",
         "pinyin": "dānxīn",
         "tr": "endişe",
-        "exampleZh": "担心是我们不能忽略的一点。",
-        "examplePinyin": "Dānxīn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Endişe göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我以为忍一忍就过去了，不想让家里人担心。",
+        "examplePinyin": "wǒ yǐ wéi rěn yī rěn jiù guò qù le bù xiǎng ràng jiā lǐ rén dān xīn",
+        "exampleTr": "Dayanırsam geçer sandım; ailemi kaygılandırmak istemedim.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "医生",
         "pinyin": "yīshēng",
         "tr": "doktor",
-        "exampleZh": "我们把医生也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ yīshēng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Doktor konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "那你先休息，等医生来看结果。",
+        "examplePinyin": "nà nǐ xiān xiū xī děng yī shēng lái kàn jié guǒ",
+        "exampleTr": "O zaman dinlen; doktorun sonuçları açıklamasını bekleyelim.",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "xiūxi",
         "tr": "dinlenmek",
         "exampleZh": "如果休息发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ xiūxi fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ xiūxi fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Dinlenmek değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "bāngmáng",
         "tr": "yardım etmek",
         "exampleZh": "关于帮忙，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú bāngmáng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú bāngmáng wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Yardım etmek konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

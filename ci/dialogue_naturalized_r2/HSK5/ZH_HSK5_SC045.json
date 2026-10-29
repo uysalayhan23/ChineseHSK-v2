@@ -10,9 +10,9 @@
     {
       "id": "DLG_ZH_HSK5_SC045_001",
       "speaker": "刘梅",
-      "zh": "社区打算办一场大型募捐活动，今天先把计划谈清楚。",
-      "pinyin": "shè qū dǎ suàn bàn yī cháng dà xíng mù juān huó dòng ， jīn tiān xiān bǎ jì huà tán qīng chǔ 。",
-      "tr": "Mahalle büyük bir bağış etkinliği düzenlemeyi planlıyor; bugün önce ayrıntıları konuşalım。"
+      "zh": "社区组织打算办一场大型募捐活动，今天先把计划谈清楚。",
+      "pinyin": "shè qū zǔ zhī dǎ suàn bàn yī cháng dà xíng mù juān huó dòng ， jīn tiān xiān bǎ jì huà tán qīng chǔ 。",
+      "tr": "Mahalle örgütü büyük bir bağış etkinliği düzenlemeyi planlıyor; bugün önce ayrıntıları konuşalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC045_002",
@@ -66,9 +66,9 @@
     {
       "id": "DLG_ZH_HSK5_SC045_009",
       "speaker": "刘梅",
-      "zh": "在发通知以前，我们先列出已确认的内容和还要核实的部分。",
-      "pinyin": "zài fā tōng zhī yǐ qián ， wǒ men xiān liè chū yǐ què rèn de nèi róng hé hái yào hé shí de bù fèn 。",
-      "tr": "Duyuru yapmadan önce kesinleşenleri ve henüz doğrulamamız gerekenleri listeleyelim."
+      "zh": "这次募捐也是一项公益倡议，发通知以前我们先列出已确认的内容和还要核实的部分。",
+      "pinyin": "zhè cì mù juān yě shì yī xiàng gōng yì chàng yì ， fā tōng zhī yǐ qián wǒ men xiān liè chū yǐ què rèn de nèi róng hé hái yào hé shí de bù fèn 。",
+      "tr": "Bu bağış kampanyası aynı zamanda bir sosyal yardım girişimi; duyuru yapmadan önce kesinleşenleri ve henüz doğrulamamız gerekenleri listeleyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC045_010",
@@ -89,7 +89,7 @@
       "speaker": "社区代表",
       "zh": "等地点确认后，我们再通过社区公告和咖啡馆通知大家。",
       "pinyin": "děng dì diǎn què rèn hòu ， wǒ men zài tōng guò shè qū gōng gào hé kā fēi guǎn tōng zhī dà jiā 。",
-      "tr": "Yer kesinleşince mahalle duyurusu ve kafe aracılığıyla herkese haber veririz。"
+      "tr": "Yer kesinleşince mahalle duyurusu ve kafe aracılığıyla herkese haber veririz."
     },
     {
       "id": "DLG_ZH_HSK5_SC045_013",
@@ -173,7 +173,7 @@
       "speaker": "社区代表",
       "zh": "我去联系中心。若那里不方便，我们再用咖啡馆前面的空地。",
       "pinyin": "wǒ qù lián xì zhōng xīn 。 ruò nà lǐ bù fāng biàn ， wǒ men zài yòng kā fēi guǎn qián miàn de kòng dì 。",
-      "tr": "Merkezle ben iletişime geçeyim. Orası uygun değilse kafenin önündeki boş alanı kullanırız。"
+      "tr": "Merkezle ben iletişime geçeyim. Orası uygun değilse kafenin önündeki boş alanı kullanırız."
     },
     {
       "id": "DLG_ZH_HSK5_SC045_025",

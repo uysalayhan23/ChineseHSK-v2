@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC031.json",
-  "dialogueSha256": "eb9c0c32e2b3296d9a107465182c6e34f1af507d5a3000defc5257ac43a46e27",
+  "dialogueSha256": "bb9d7791c8211c9a7a6f24f39dda663a7ce5e4d11d46b37f4ede5304bbd5c56e",
   "titleTr": "Yutong’un Sınav Stresi",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Yutong sınavlara yetişemediğini düşünür; aile birlikte çalışma planı oluşturur.",

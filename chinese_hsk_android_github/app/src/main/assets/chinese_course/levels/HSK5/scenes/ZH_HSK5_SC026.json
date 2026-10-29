@@ -417,9 +417,9 @@
     {
       "id": "DLG_ZH_HSK5_SC026_059",
       "speaker": "张雨桐",
-      "zh": "我们把安全、时间和活动内容都考虑进去，计划才更容易坚持。",
-      "pinyin": "wǒ men bǎ ān quán 、 shí jiān hé huó dòng nèi róng dōu kǎo lǜ jìn qù ， jì huà cái gèng róng yì jiān chí 。",
-      "tr": "Güvenliği, zamanı ve etkinlik türünü birlikte hesaba katarsak planı sürdürmek kolaylaşır."
+      "zh": "我们把安全、时间和活动内容都考虑进去，保护健康，计划才更容易坚持。",
+      "pinyin": "wǒ men bǎ ān quán 、 shí jiān hé huó dòng nèi róng dōu kǎo lǜ jìn qù ， bǎo hù jiàn kāng ， jì huà cái gèng róng yì jiān chí 。",
+      "tr": "Güvenliği, zamanı ve etkinlik türünü hesaba katıp sağlığımızı korursak planı sürdürmek kolaylaşır."
     },
     {
       "id": "DLG_ZH_HSK5_SC026_060",
@@ -641,9 +641,9 @@
     {
       "id": "DLG_ZH_HSK5_SC026_091",
       "speaker": "张雨桐",
-      "zh": "我觉得一起活动让我们更愿意出门，也更容易互相鼓励。",
-      "pinyin": "wǒ jué de yì qǐ huó dòng ràng wǒ men gèng yuàn yì chū mén ， yě gèng róng yì hù xiāng gǔ lì 。",
-      "tr": "Birlikte etkinlik yapmanın dışarı çıkma isteğimizi artırdığını ve birbirimizi cesaretlendirmeyi kolaylaştırdığını düşünüyorum."
+      "zh": "我觉得一起运动让我们更愿意出门，也更容易互相鼓励；累的时候给彼此加油。",
+      "pinyin": "wǒ jué de yì qǐ yùn dòng ràng wǒ men gèng yuàn yì chū mén ， yě gèng róng yì hù xiāng gǔ lì ； lèi de shí hòu gěi bǐ cǐ jiā yóu 。",
+      "tr": "Bence birlikte spor yapınca dışarı çıkmaya daha istekli oluyoruz ve birbirimizi daha kolay motive ediyoruz; yorulduğumuzda da birbirimize moral verebiliriz."
     },
     {
       "id": "DLG_ZH_HSK5_SC026_092",
@@ -704,9 +704,9 @@
     {
       "id": "DLG_ZH_HSK5_SC026_100",
       "speaker": "张乐乐",
-      "zh": "说好了。两周后我们再看成果，决定要不要继续或增加活动时间。",
-      "pinyin": "shuō hǎo le 。 liǎng zhōu hòu wǒ men zài kàn chéng guǒ ， jué dìng yào bù yào jì xù huò zēng jiā huó dòng shí jiān 。",
-      "tr": "Anlaştık. İki hafta sonra sonucu gözden geçirip devam edip etmeyeceğimize ya da süreyi artırmaya karar veririz."
+      "zh": "说好了。两周后我们再看成果和大家的进步，决定要不要继续或增加活动时间。",
+      "pinyin": "shuō hǎo le 。 liǎng zhōu hòu wǒ men zài kàn chéng guǒ hé dà jiā de jìn bù ， jué dìng yào bù yào jì xù huò zēng jiā huó dòng shí jiān 。",
+      "tr": "Anlaştık. İki hafta sonra sonuçlara ve herkesin ilerlemesine bakıp devam edip etmeyeceğimize ya da süreyi artırmaya karar veririz."
     }
   ],
   "productionStatus": "complete",
@@ -730,9 +730,9 @@
         "zh": "运动目标",
         "pinyin": "yùndòng mùbiāo",
         "tr": "egzersiz hedefi",
-        "exampleZh": "运动目标是我们不能忽略的一点。",
-        "examplePinyin": "Yùndòng mùbiāo shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Egzersiz hedefi göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我想和大家商量一个全家的运动目标，别各做各的。",
+        "examplePinyin": "wǒ xiǎng hé dà jiā shāng liáng yí gè quán jiā de yùn dòng mù biāo ， bié gè zuò gè de 。",
+        "exampleTr": "Ailece bir egzersiz hedefi belirlemek istiyorum; herkes ayrı ayrı yapmasın.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "运动",
         "pinyin": "yùndòng",
         "tr": "egzersiz",
-        "exampleZh": "我们把运动也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ yùndòng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Egzersiz konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我想和大家商量一个全家的运动目标，别各做各的。",
+        "examplePinyin": "wǒ xiǎng hé dà jiā shāng liáng yí gè quán jiā de yùn dòng mù biāo ， bié gè zuò gè de 。",
+        "exampleTr": "Ailece bir egzersiz hedefi belirlemek istiyorum; herkes ayrı ayrı yapmasın.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "进步",
         "pinyin": "jìnbù",
         "tr": "ilerleme",
-        "exampleZh": "如果进步发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jìnbù fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Ilerleme değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "说好了。两周后我们再看成果和大家的进步，决定要不要继续或增加活动时间。",
+        "examplePinyin": "shuō hǎo le 。 liǎng zhōu hòu wǒ men zài kàn chéng guǒ hé dà jiā de jìn bù ， jué dìng yào bù yào jì xù huò zēng jiā huó dòng shí jiān 。",
+        "exampleTr": "Anlaştık. İki hafta sonra sonuçlara ve herkesin ilerlemesine bakıp devam edip etmeyeceğimize ya da süreyi artırmaya karar veririz.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "习惯",
         "pinyin": "xíguàn",
         "tr": "alışkanlık",
-        "exampleZh": "关于习惯，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú xíguàn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Alışkanlık konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "对，目标是养成习惯，不是每次都做到最好。",
+        "examplePinyin": "duì ， mù biāo shì yǎng chéng xí guàn ， bú shì měi cì dōu zuò dào zuì hǎo 。",
+        "exampleTr": "Evet, hedef alışkanlık kazanmak; her seferinde en iyisini yapmak değil.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "健康",
         "pinyin": "jiànkāng",
         "tr": "sağlık",
-        "exampleZh": "健康是我们不能忽略的一点。",
-        "examplePinyin": "Jiànkāng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Sağlık göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我们把安全、时间和活动内容都考虑进去，保护健康，计划才更容易坚持。",
+        "examplePinyin": "wǒ men bǎ ān quán 、 shí jiān hé huó dòng nèi róng dōu kǎo lǜ jìn qù ， bǎo hù jiàn kāng ， jì huà cái gèng róng yì jiān chí 。",
+        "exampleTr": "Güvenliği, zamanı ve etkinlik türünü hesaba katıp sağlığımızı korursak planı sürdürmek kolaylaşır.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "加油",
         "pinyin": "jiāyóu",
         "tr": "haydi / başarılar",
-        "exampleZh": "我们把加油也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jiāyóu yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Haydi / başarılar konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我觉得一起运动让我们更愿意出门，也更容易互相鼓励；累的时候给彼此加油。",
+        "examplePinyin": "wǒ jué de yì qǐ yùn dòng ràng wǒ men gèng yuàn yì chū mén ， yě gèng róng yì hù xiāng gǔ lì ； lèi de shí hòu gěi bǐ cǐ jiā yóu 。",
+        "exampleTr": "Bence birlikte spor yapınca dışarı çıkmaya daha istekli oluyoruz ve birbirimizi daha kolay motive ediyoruz; yorulduğumuzda da birbirimize moral verebiliriz.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "如果家人发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jiārén fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Aile değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "对我来说，平衡就是运动以后还有时间休息、做作业和陪家人。",
+        "examplePinyin": "duì wǒ lái shuō ， píng héng jiù shì yùn dòng yǐ hòu hái yǒu shí jiān xiū xī 、 zuò zuò yè hé péi jiā rén 。",
+        "exampleTr": "Benim için denge, egzersizden sonra dinlenmeye, ödev yapmaya ve aileyle vakit geçirmeye de zaman kalması demek.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC026_008",
         "zh": "平衡",
         "pinyin": "pínghéng",
         "tr": "denge",
-        "exampleZh": "关于平衡，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú pínghéng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Denge konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "对我来说，平衡就是运动以后还有时间休息、做作业和陪家人。",
+        "examplePinyin": "duì wǒ lái shuō ， píng héng jiù shì yùn dòng yǐ hòu hái yǒu shí jiān xiū xī 、 zuò zuò yè hé péi jiā rén 。",
+        "exampleTr": "Benim için denge, egzersizden sonra dinlenmeye, ödev yapmaya ve aileyle vakit geçirmeye de zaman kalması demek.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

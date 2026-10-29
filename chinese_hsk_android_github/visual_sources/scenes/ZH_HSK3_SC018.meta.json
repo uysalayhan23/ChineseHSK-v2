@@ -5,15 +5,13 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC018.json",
-  "dialogueSha256": "4c72d1704261c7a3227c7fe2b5844b04c49daaacf6fee0fe6d5d3770e190889e",
+  "dialogueSha256": "024f2244368602e0e46b52a25320683932999d978dcfb349371f171869310eb9",
   "titleTr": "İlk Çalışan Adayı",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Liu Mei ilk çalışan adayıyla kısa bir iş görüşmesi yapar.",
   "dialogueSpeakers": [
     "刘梅",
-    "张伟",
-    "顾客",
-    "张雨桐"
+    "顾客"
   ],
   "requiredVisualCharacters": [
     "刘梅",
@@ -91,5 +89,15 @@
     "ssim": 0.98735,
     "pixelsOutsideMaskExact": true,
     "mouthVisibleForApplicant": true
+  },
+  "dialogueSpeakerMouthQA": {
+    "status": "PASS",
+    "allDialogueSpeakersVisible": true,
+    "mouthsVisuallyIdentifiable": true,
+    "canonicalFamilyCharactersPreserved": true,
+    "warmCinematic25D3DCGI": true,
+    "vertical941x1672": true,
+    "noEmbeddedBubblesOrUI": true,
+    "sourceSha256": "d88f5225ae8a7881183486625ef75b0ff84fdbfccb83cbebf0db86ae10f95e66"
   }
 }

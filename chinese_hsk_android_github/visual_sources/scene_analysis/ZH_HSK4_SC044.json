@@ -4,7 +4,7 @@
   "generationSceneId": "ZH_HSK4_SC044",
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC044.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC044.json",
   "titleZh": "雨桐被大学录取",
   "titleTr": "Yutong Üniversiteye Kabul Ediliyor",
   "locationId": "LOC_ZH_NEW_HOME_001",

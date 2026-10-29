@@ -91,9 +91,9 @@
     {
       "id": "DLG_ZH_HSK2_SC017_013",
       "speaker": "刘梅",
-      "zh": "我去年穿一百三十，现在可能要大一点。",
-      "pinyin": "wǒ qù nián chuān yì bǎi sān shí, xiàn zài kě néng yào dà yì diǎn.",
-      "tr": "Geçen yıl 130 giyiyordum, şimdi belki bir beden büyük gerekir."
+      "zh": "乐乐去年穿一百三十，现在可能要大一点儿。",
+      "pinyin": "Lè lè qù nián chuān yì bǎi sān shí, xiàn zài kě néng yào dà yī diǎn ér.",
+      "tr": "Lele geçen yıl 130 giyiyordu, şimdi belki bir beden büyüğü gerekir."
     },
     {
       "id": "DLG_ZH_HSK2_SC017_014",
@@ -105,9 +105,9 @@
     {
       "id": "DLG_ZH_HSK2_SC017_015",
       "speaker": "张乐乐",
-      "zh": "先试穿一下，站在镜子前看看。",
-      "pinyin": "xiān shì chuān yī xià, zhàn zài jìng zi qián kàn kàn.",
-      "tr": "Önce giyip aynanın karşısında bakalım."
+      "zh": "我先试穿一下，在镜子前看看。",
+      "pinyin": "Wǒ xiān shì chuān yī xià, zài jìng zi qián kàn kàn.",
+      "tr": "Önce giyip aynanın karşısında bakayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC017_016",
@@ -119,9 +119,9 @@
     {
       "id": "DLG_ZH_HSK2_SC017_017",
       "speaker": "刘梅",
-      "zh": "袖子太长了，手都看不见。",
-      "pinyin": "xiù zi tài zhǎng le, shǒu dōu kàn bú jiàn.",
-      "tr": "Kolları çok uzun, ellerim görünmüyor."
+      "zh": "这件袖子太长，乐乐的手都被遮住了。",
+      "pinyin": "Zhè jiàn xiù zi tài zhǎng, lè lè de shǒu dōu bèi zhē zhù le.",
+      "tr": "Bu montun kolları fazla uzun, Lele’nin elleri kapanıyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC017_018",
@@ -147,9 +147,9 @@
     {
       "id": "DLG_ZH_HSK2_SC017_021",
       "speaker": "刘梅",
-      "zh": "这个尺码刚好，袖子也合适。",
-      "pinyin": "zhè ge chǐ mǎ gāng hǎo, xiù zi yě hé shì.",
-      "tr": "Bu beden tam oldu, kolları da uygun."
+      "zh": "乐乐，这个尺码刚好，袖子也合适。",
+      "pinyin": "Lè lè, zhè ge chǐ mǎ gāng hǎo, xiù zi yě hé shì.",
+      "tr": "Lele, bu beden tam oldu, kolları da uygun."
     },
     {
       "id": "DLG_ZH_HSK2_SC017_022",
@@ -231,16 +231,16 @@
     {
       "id": "DLG_ZH_HSK2_SC017_033",
       "speaker": "刘梅",
-      "zh": "我的帽子可以拆下来吗？",
-      "pinyin": "wǒ de mào zi kě yǐ chāi xià lái ma?",
-      "tr": "Benimkinin kapüşonu çıkarılabiliyor mu?"
+      "zh": "这件外套的帽子可以拆下来吗？",
+      "pinyin": "Zhè jiàn wài tào de mào zi kě yǐ chāi xià lái ma?",
+      "tr": "Bu montun kapüşonu çıkarılabiliyor mu?"
     },
     {
       "id": "DLG_ZH_HSK2_SC017_034",
       "speaker": "张雨桐",
-      "zh": "可以，这个拉链拉开就能拆。",
-      "pinyin": "kě yǐ, zhè ge lā liàn lā kāi jiù néng chāi.",
-      "tr": "Evet, fermuarını açınca çıkarabilirsiniz."
+      "zh": "我看看，这里有拉链，应该可以拆下来。",
+      "pinyin": "Wǒ kàn kàn, zhè lǐ yǒu lā liàn, yīng gāi kě yǐ chāi xià lái.",
+      "tr": "Bakayım; burada fermuar var, çıkarılabilir sanırım."
     },
     {
       "id": "DLG_ZH_HSK2_SC017_035",
@@ -259,9 +259,9 @@
     {
       "id": "DLG_ZH_HSK2_SC017_037",
       "speaker": "刘梅",
-      "zh": "我想试试刚才的小一点的尺码。",
-      "pinyin": "wǒ xiǎng shì shì gāng cái de xiǎo yì diǎn de chǐ mǎ.",
-      "tr": "Az önceki küçük bedeni denemek istiyorum."
+      "zh": "乐乐，再试试小一号的，看袖子会不会太短。",
+      "pinyin": "Lè lè, zài shì shì xiǎo yī hào de, kàn xiù zi huì bú huì tài duǎn.",
+      "tr": "Lele, bir küçük bedeni daha dene; kolları çok kısa mı bak."
     },
     {
       "id": "DLG_ZH_HSK2_SC017_038",
@@ -350,9 +350,9 @@
     {
       "id": "DLG_ZH_HSK2_SC017_050",
       "speaker": "张雨桐",
-      "zh": "好的，收据在这里，请收好。",
-      "pinyin": "hǎo de, shōu jù zài zhè lǐ, qǐng shōu hǎo.",
-      "tr": "Tabii, fiş burada, saklayın lütfen."
+      "zh": "收据拿到了，我先放进袋子里。",
+      "pinyin": "Shōu jù ná dào le, wǒ xiān fàng jìn dài zi lǐ.",
+      "tr": "Fişi aldım, önce poşete koyayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC017_051",
@@ -483,9 +483,9 @@
     {
       "id": "DLG_ZH_HSK2_SC017_069",
       "speaker": "刘梅",
-      "zh": "我也需要一双手套吗？",
-      "pinyin": "wǒ yě xū yào yī shuāng shǒu tào ma?",
-      "tr": "Benim de bir çift eldivene ihtiyacım var mı?"
+      "zh": "你们还需要手套吗？",
+      "pinyin": "Nǐ men hái xū yào shǒu tào ma?",
+      "tr": "Çocuklar, eldivene de ihtiyacınız var mı?"
     },
     {
       "id": "DLG_ZH_HSK2_SC017_070",
@@ -672,9 +672,9 @@
     {
       "id": "DLG_ZH_HSK2_SC017_096",
       "speaker": "店员",
-      "zh": "我也会看清楚名字，不会拿错。",
-      "pinyin": "wǒ yě huì kàn qīng chǔ míng zì, bú huì ná cuò.",
-      "tr": "İsme bakıp karıştırmam."
+      "zh": "我已经把两件衣服分开放好了。",
+      "pinyin": "Wǒ yǐ jīng bǎ liǎng jiàn yī fú fēn kāi fàng hǎo le.",
+      "tr": "İki montu ayrı ayrı yerleştirdim."
     },
     {
       "id": "DLG_ZH_HSK2_SC017_097",
@@ -700,9 +700,9 @@
     {
       "id": "DLG_ZH_HSK2_SC017_100",
       "speaker": "店员",
-      "zh": "好，明天早上我们一起穿新衣服。",
-      "pinyin": "hǎo, míng tiān zǎo shàng wǒ men yì qǐ chuān xīn yī fú.",
-      "tr": "Peki, yarın sabah yeni kıyafetlerimizi giyeriz."
+      "zh": "祝你们明天穿新衣服暖暖和和的。",
+      "pinyin": "Zhù nǐ men míng tiān chuān xīn yī fú nuǎn nuǎn huo hé de.",
+      "tr": "Yarın yeni kıyafetlerinizle sıcacık olmanız dileğiyle."
     }
   ],
   "dialogueCount": 100

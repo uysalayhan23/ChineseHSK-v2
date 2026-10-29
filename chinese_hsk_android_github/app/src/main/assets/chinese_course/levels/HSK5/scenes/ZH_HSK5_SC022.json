@@ -74,16 +74,16 @@
     {
       "id": "DLG_ZH_HSK5_SC022_010",
       "speaker": "伴侣",
-      "zh": "没关系，我愿意聊。只是有些计划还在商量，没有最后决定。",
-      "pinyin": "méi guān xì ， wǒ yuàn yì liáo 。 zhǐ shì yǒu xiē jì huà hái zài shāng liáng ， méi yǒu zuì hòu jué dìng 。",
-      "tr": "Sorun değil, konuşabilirim. Yalnızca bazı planları hâlâ görüşüyoruz, kesinleşmedi."
+      "zh": "没关系，我愿意聊。我们的恋爱关系很认真，只是一些未来计划还在商量，还没最后决定。",
+      "pinyin": "méi guān xì ， wǒ yuàn yì liáo 。 wǒ men de liàn ài guān xì hěn rèn zhēn ， zhǐ shì yī xiē wèi lái jì huà hái zài shāng liang ， hái méi zuì hòu jué dìng 。",
+      "tr": "Sorun değil, konuşabilirim. İlişkimiz ciddi; yalnızca gelecekle ilgili bazı planları hâlâ görüşüyoruz ve henüz kesin bir karar vermedik."
     },
     {
       "id": "DLG_ZH_HSK5_SC022_011",
       "speaker": "张伟",
-      "zh": "我明白，是我问得太快了。你们想好了再告诉我们就行。",
-      "pinyin": "wǒ míng bái ， shì wǒ wèn dé tài kuài le 。 nǐ men xiǎng hǎo le zài gào sù wǒ men jiù xíng 。",
-      "tr": "Anladım; çok hızlı sordum. Karar verince bize anlatırsınız."
+      "zh": "我明白，是我问得太快了。以后会注意分寸，也尊重你们的隐私；想好再告诉我们就行。",
+      "pinyin": "wǒ míng bái ， shì wǒ wèn dé tài kuài le 。 yǐ hòu huì zhù yì fēn cùn ， yě zūn zhòng nǐ men de yǐn sī ； xiǎng hǎo zài gào sù wǒ men jiù xíng 。",
+      "tr": "Anladım, çok hızlı sordum. Bundan sonra ölçülü davranıp özel hayatınıza saygı göstereceğim; hazır olduğunuzda anlatırsınız."
     },
     {
       "id": "DLG_ZH_HSK5_SC022_012",
@@ -95,9 +95,9 @@
     {
       "id": "DLG_ZH_HSK5_SC022_013",
       "speaker": "张雨桐",
-      "zh": "这样我就不紧张了。刚才我还怕这顿饭变成问题大会。",
-      "pinyin": "zhè yàng wǒ jiù bù jǐn zhāng le 。 gāng cái wǒ hái pà zhè dùn fàn biàn chéng wèn tí dà huì 。",
-      "tr": "Böyle olunca rahatladım. Az önce bu yemeğin soru-cevap toplantısına dönüşmesinden korktum."
+      "zh": "这样我就不紧张了。刚才我还怕这顿饭让大家的情绪都绷起来。",
+      "pinyin": "zhè yàng wǒ jiù bù jǐn zhāng le 。 gāng cái wǒ hái pà zhè dùn fàn ràng dà jiā de qíng xù dōu bēng qǐ lái 。",
+      "tr": "Şimdi daha rahatım. Az önce bu yemeğin herkesin gerilmesine yol açacağından korkuyordum."
     },
     {
       "id": "DLG_ZH_HSK5_SC022_014",
@@ -158,9 +158,9 @@
     {
       "id": "DLG_ZH_HSK5_SC022_022",
       "speaker": "伴侣",
-      "zh": "有时候换个话题不是逃避，只是让大家先放松一点。",
-      "pinyin": "yǒu shí hòu huàn gè huà tí bú shì táo bì ， zhǐ shì ràng dà jiā xiān fàng sōng yì diǎn 。",
-      "tr": "Bazen konuyu değiştirmek kaçmak değildir; herkesin biraz rahatlamasını sağlar."
+      "zh": "我们不仅会停下来让彼此冷静，还会等情绪平复后再继续谈。",
+      "pinyin": "wǒ men bù jǐn huì tíng xià lái ràng bǐ cǐ lěng jìng ， hái huì děng qíng xù píng fù hòu zài jì xù tán 。",
+      "tr": "Sadece durup sakinleşmekle kalmayız, duygular yatışınca konuşmaya devam ederiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC022_023",
@@ -291,9 +291,9 @@
     {
       "id": "DLG_ZH_HSK5_SC022_041",
       "speaker": "张雨桐",
-      "zh": "爸妈，你们以后如果担心什么，可以直接问我，不用自己猜。",
-      "pinyin": "bà mā ， nǐ men yǐ hòu rú guǒ dān xīn shén me ， kě yǐ zhí jiē wèn wǒ ， bù yòng zì jǐ cāi 。",
-      "tr": "Anne-baba, ileride bir konuda kaygılanırsanız tahmin yürütmek yerine doğrudan bana sorabilirsiniz."
+      "zh": "爸妈，你们以后如果担心什么，可以直接跟我沟通，不用自己猜。",
+      "pinyin": "bà mā ， nǐ men yǐ hòu rú guǒ dān xīn shén me ， kě yǐ zhí jiē gēn wǒ gōu tōng ， bù yòng zì jǐ cāi 。",
+      "tr": "Anne, baba, ileride bir şey için kaygılanırsanız tahmin yürütmek yerine benimle doğrudan konuşabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK5_SC022_042",
@@ -361,9 +361,9 @@
     {
       "id": "DLG_ZH_HSK5_SC022_051",
       "speaker": "张伟",
-      "zh": "好。需要意见时就打电话，我们不会催你们给结果。",
-      "pinyin": "hǎo 。 xū yào yì jiàn shí jiù dǎ diàn huà ， wǒ men bú huì cuī nǐ men gěi jié guǒ 。",
-      "tr": "Peki. Görüşe ihtiyacınız olunca arayın; sonuç için sizi sıkıştırmayız."
+      "zh": "我们不仅关心你们的安排，也尊重你们的决定；需要意见时就打电话，我们不会催结果。",
+      "pinyin": "wǒ men bù jǐn guān xīn nǐ men de ān pái ， yě zūn zhòng nǐ men de jué dìng ； xū yào yì jiàn shí jiù dǎ diàn huà ， wǒ men bú huì cuī jié guǒ 。",
+      "tr": "Planlarınızı önemsiyor, kararlarınıza da saygı duyuyoruz; fikrimize ihtiyaç olursa arayın, sizi acele ettirmeyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC022_052",
@@ -730,9 +730,9 @@
         "zh": "尴尬",
         "pinyin": "gāngà",
         "tr": "mahcup / gergin",
-        "exampleZh": "尴尬是我们不能忽略的一点。",
-        "examplePinyin": "Gāngà shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Mahcup / gergin göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "谢谢你们。刚才我怕气氛尴尬，现在好多了。",
+        "examplePinyin": "Xiè xiè nǐ men 。 gāng cái wǒ pà qì fēn gān gà ， xiàn zài hǎo duō le 。",
+        "exampleTr": "Teşekkürler. Az önce ortamın gerilmesinden korkuyordum, şimdi çok daha rahatım.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "分寸",
         "pinyin": "fēncùn",
         "tr": "ölçülülük / sosyal incelik",
-        "exampleZh": "我们把分寸也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ fēncùn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Ölçülülük / sosyal incelik konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我明白，是我问得太快了。以后会注意分寸，也尊重你们的隐私；想好再告诉我们就行。",
+        "examplePinyin": "Wǒ míng bái ， shì wǒ wèn dé tài kuài le 。 yǐ hòu huì zhù yì fēn cùn ， yě zūn zhòng nǐ men de yǐn sī ； xiǎng hǎo zài gào sù wǒ men jiù xíng 。",
+        "exampleTr": "Anladım, çok hızlı sordum. Bundan sonra ölçülü davranıp özel hayatınıza saygı göstereceğim; hazır olduğunuzda anlatırsınız.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "恋爱关系",
         "pinyin": "liàn’ài guānxì",
         "tr": "romantik ilişki",
-        "exampleZh": "如果恋爱关系发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ liàn’ài guānxì fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Romantik ilişki değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "没关系，我愿意聊。我们的恋爱关系很认真，只是一些未来计划还在商量，还没最后决定。",
+        "examplePinyin": "méi guān xì ， wǒ yuàn yì liáo 。 wǒ men de liàn ài guān xì hěn rèn zhēn ， zhǐ shì yī xiē wèi lái jì huà hái zài shāng liang ， hái méi zuì hòu jué dìng 。",
+        "exampleTr": "Sorun değil, konuşabilirim. İlişkimiz ciddi; yalnızca gelecekle ilgili bazı planları hâlâ görüşüyoruz ve henüz kesin bir karar vermedik.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "关于家人，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jiārén, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Aile konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "一家人不用说得特别客气，真心话慢慢讲就好。",
+        "examplePinyin": "Yī jiā rén bú yòng shuō dé tè bié kè qì ， zhēn xīn huà màn màn jiǎng jiù hǎo 。",
+        "exampleTr": "Aile içinde aşırı resmî olmaya gerek yok; içten konuşmak yeter.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "隐私",
         "pinyin": "yǐnsī",
         "tr": "mahremiyet",
-        "exampleZh": "隐私是我们不能忽略的一点。",
-        "examplePinyin": "Yǐnsī shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Mahremiyet göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我明白，是我问得太快了。以后会注意分寸，也尊重你们的隐私；想好再告诉我们就行。",
+        "examplePinyin": "Wǒ míng bái ， shì wǒ wèn dé tài kuài le 。 yǐ hòu huì zhù yì fēn cùn ， yě zūn zhòng nǐ men de yǐn sī ； xiǎng hǎo zài gào sù wǒ men jiù xíng 。",
+        "exampleTr": "Anladım, çok hızlı sordum. Bundan sonra ölçülü davranıp özel hayatınıza saygı göstereceğim; hazır olduğunuzda anlatırsınız.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "尊重",
         "pinyin": "zūnzhòng",
         "tr": "saygı",
-        "exampleZh": "我们把尊重也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zūnzhòng yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Saygı konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我明白，是我问得太快了。以后会注意分寸，也尊重你们的隐私；想好再告诉我们就行。",
+        "examplePinyin": "Wǒ míng bái ， shì wǒ wèn dé tài kuài le 。 yǐ hòu huì zhù yì fēn cùn ， yě zūn zhòng nǐ men de yǐn sī ； xiǎng hǎo zài gào sù wǒ men jiù xíng 。",
+        "exampleTr": "Anladım, çok hızlı sordum. Bundan sonra ölçülü davranıp özel hayatınıza saygı göstereceğim; hazır olduğunuzda anlatırsınız.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "我来负责沟通这一部分。",
-        "examplePinyin": "Wǒ lái fùzé gōutōng zhè yí bùfen.",
-        "exampleTr": "Iletişim kurmak kısmını ben üstleneyim.",
-        "kind": "review"
+        "exampleZh": "爸妈，你们以后如果担心什么，可以直接跟我沟通，不用自己猜。",
+        "examplePinyin": "Bà mā ， nǐ men yǐ hòu rú guǒ dān xīn shén me ， kě yǐ zhí jiē gēn wǒ gōu tōng ， bù yòng zì jǐ cāi 。",
+        "exampleTr": "Anne, baba, ileride bir şey için kaygılanırsanız tahmin yürütmek yerine benimle doğrudan konuşabilirsiniz.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC022_008",
         "zh": "情绪",
         "pinyin": "qíngxù",
         "tr": "duygusal durum",
-        "exampleZh": "关于情绪，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú qíngxù, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Duygusal durum konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "我们不仅会停下来让彼此冷静，还会等情绪平复后再继续谈。",
+        "examplePinyin": "Wǒ men bù jǐn huì tíng xià lái ràng bǐ cǐ lěng jìng ， hái huì děng qíng xù píng fù hòu zài jì xù tán 。",
+        "exampleTr": "Sadece durup sakinleşmekle kalmayız, duygular yatışınca konuşmaya devam ederiz.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1224,6 +1224,14 @@
     },
     "continuityNoteTr": "İlk Aile Yemeği Gerginliği olayı HSK5 yaşam çizgisinde sahne 22 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 16,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC022.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

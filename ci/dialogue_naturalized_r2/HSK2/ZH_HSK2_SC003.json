@@ -56,9 +56,9 @@
     {
       "id": "DLG_ZH_HSK2_SC003_008",
       "speaker": "摊主",
-      "zh": "先给我半公斤吧。",
-      "pinyin": "xiān gěi wǒ bàn gōng jīn ba.",
-      "tr": "Önce yarım kilo verin lütfen."
+      "zh": "半公斤差不多，做汤够了。",
+      "pinyin": "Bàngōngjīn chàbuduō， zuò tānggòu le。",
+      "tr": "Yarım kilo aşağı yukarı yeter, çorba için uygun."
     },
     {
       "id": "DLG_ZH_HSK2_SC003_009",
@@ -98,9 +98,9 @@
     {
       "id": "DLG_ZH_HSK2_SC003_014",
       "speaker": "摊主",
-      "zh": "我还想买一点儿水果。",
-      "pinyin": "wǒ hái xiǎng mǎi yì diǎn ér shuǐ guǒ.",
-      "tr": "Biraz meyve de almak istiyorum."
+      "zh": "水果摊就在前面，您还可以买一点儿。",
+      "pinyin": "Shuǐguǒtān jiù zài qiánmiàn， nín hái kěyǐ mǎi yìdiǎnér。",
+      "tr": "Meyve tezgâhı ileride; isterseniz biraz meyve de alabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC003_015",
@@ -196,16 +196,16 @@
     {
       "id": "DLG_ZH_HSK2_SC003_028",
       "speaker": "刘梅",
-      "zh": "香蕉五块半公斤，今天有活动。",
-      "pinyin": "xiāng jiāo wǔ kuài bàn gōng jīn, jīn tiān yǒu huó dòng.",
-      "tr": "Muzun yarım kilosu 5 yuan, bugün indirim de var."
+      "zh": "香蕉半公斤多少钱？",
+      "pinyin": "Xiāngjiāo bàngōngjīn duōshǎo qián？",
+      "tr": "Muzun yarım kilosu ne kadar?"
     },
     {
       "id": "DLG_ZH_HSK2_SC003_029",
       "speaker": "摊主",
-      "zh": "买半公斤吧，明天早上可以吃。",
-      "pinyin": "mǎi bàn gōng jīn ba, míng tiān zǎo shàng kě yǐ chī.",
-      "tr": "Yarın sabah yemek için yarım kilo alalım."
+      "zh": "半公斤就够了，明天早上吃正好。",
+      "pinyin": "Bàn gōng jīn jiù gòu le, míng tiān zǎo shàng chī zhèng hǎo.",
+      "tr": "Yarım kilo yeter; yarın sabah yemek için tam olur."
     },
     {
       "id": "DLG_ZH_HSK2_SC003_030",
@@ -217,16 +217,16 @@
     {
       "id": "DLG_ZH_HSK2_SC003_031",
       "speaker": "刘梅",
-      "zh": "您要熟一点儿的还是青一点儿的？",
-      "pinyin": "nín yào shú yì diǎn ér de hái shì qīng yì diǎn ér de?",
-      "tr": "Daha olgun mu yeşil mi istersiniz?"
+      "zh": "你想要熟一点儿的还是青一点儿的？",
+      "pinyin": "Nǐ xiǎngyào shú yìdiǎnér de háishì qīng yìdiǎnér de？",
+      "tr": "Daha olgun olanlardan mı, daha yeşil olanlardan mı istersin?"
     },
     {
       "id": "DLG_ZH_HSK2_SC003_032",
       "speaker": "摊主",
-      "zh": "不要太熟的，今天吃不完。",
-      "pinyin": "bú yào tài shú de, jīn tiān chī bù wán.",
-      "tr": "Çok olgun olmasın, bugün hepsini bitirmeyiz."
+      "zh": "您可以挑熟一点儿的，也可以挑青一点儿的。",
+      "pinyin": "Nín kěyǐ tiāoshú yìdiǎnér de， yě kěyǐ tiāoqīng yìdiǎnér de。",
+      "tr": "Daha olgun ya da daha yeşil olanları seçebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC003_033",
@@ -245,9 +245,9 @@
     {
       "id": "DLG_ZH_HSK2_SC003_035",
       "speaker": "摊主",
-      "zh": "七百五十克多少钱？",
-      "pinyin": "qī bǎi wǔ shí kè duō shǎo qián?",
-      "tr": "750 gram ne kadar?"
+      "zh": "七百五十克，正好可以买一些。",
+      "pinyin": "Qībǎi wǔshíkè， zhènghǎo kěyǐ mǎi yīxiē。",
+      "tr": "Yedi yüz elli gram, birkaç tane almak için yeterli."
     },
     {
       "id": "DLG_ZH_HSK2_SC003_036",
@@ -350,9 +350,9 @@
     {
       "id": "DLG_ZH_HSK2_SC003_050",
       "speaker": "摊主",
-      "zh": "看起来不错，就买这一把。",
-      "pinyin": "kàn qǐ lái bù cuò, jiù mǎi zhè yī bǎ.",
-      "tr": "Güzel görünüyor, bu demeti alalım."
+      "zh": "葱叶子也很新鲜，您看要不要多拿一点儿？",
+      "pinyin": "Cōng yèzi yě hěn xīnxiān， nín kàn yào búyào duō ná yìdiǎnér？",
+      "tr": "Taze soğanların yaprakları da taze; biraz daha ister misiniz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC003_051",
@@ -371,9 +371,9 @@
     {
       "id": "DLG_ZH_HSK2_SC003_053",
       "speaker": "摊主",
-      "zh": "我想买土豆，家里没有了。",
-      "pinyin": "wǒ xiǎng mǎi tǔ dòu, jiā lǐ méi yǒu le.",
-      "tr": "Patates alayım, evde kalmamış."
+      "zh": "土豆在那边，您要的话我帮您称。",
+      "pinyin": "Tǔdòu zài nàbiān， nín yào dehuà wǒ bāng nín chēng。",
+      "tr": "Patatesler şurada; isterseniz tartayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC003_054",
@@ -455,9 +455,9 @@
     {
       "id": "DLG_ZH_HSK2_SC003_065",
       "speaker": "摊主",
-      "zh": "我以为会更贵，价格还可以。",
-      "pinyin": "wǒ yǐ wéi huì gèng guì, jià gé hái kě yǐ.",
-      "tr": "Daha pahalı sanmıştım, fiyatı uygunmuş."
+      "zh": "对，一共四十八块。",
+      "pinyin": "Duì， yīgòng sìshíbā kuài。",
+      "tr": "Evet, toplam kırk sekiz yuan."
     },
     {
       "id": "DLG_ZH_HSK2_SC003_066",
@@ -476,9 +476,9 @@
     {
       "id": "DLG_ZH_HSK2_SC003_068",
       "speaker": "摊主",
-      "zh": "我用手机付，麻烦给我看一下码。",
-      "pinyin": "wǒ yòng shǒu jī fù, má fán gěi wǒ kàn yī xià mǎ.",
-      "tr": "Telefonla ödeyeceğim, kodu gösterir misiniz?"
+      "zh": "手机支付和现金都可以，您想用哪一种？",
+      "pinyin": "Shǒujī zhīfù hé xiànjīn dōu kěyǐ， nín xiǎng yòng nǎ yīzhǒng？",
+      "tr": "Telefonla ödeme de nakit de olur; hangisini istersiniz?"
     },
     {
       "id": "DLG_ZH_HSK2_SC003_069",
@@ -539,9 +539,9 @@
     {
       "id": "DLG_ZH_HSK2_SC003_077",
       "speaker": "摊主",
-      "zh": "是啊，摊主还告诉我们怎么做。",
-      "pinyin": "shì a, tān zhǔ hái gào sù wǒ men zěn me zuò.",
-      "tr": "Evet, satıcı nasıl pişireceğimizi de söyledi."
+      "zh": "这些菜都是今天刚送来的，很新鲜。",
+      "pinyin": "Zhèxiē cài dōu shì jīntiān gāng sònglái de， hěn xīnxiān。",
+      "tr": "Bu sebzeler bugün geldi, çok tazeler."
     },
     {
       "id": "DLG_ZH_HSK2_SC003_078",
@@ -560,9 +560,9 @@
     {
       "id": "DLG_ZH_HSK2_SC003_080",
       "speaker": "摊主",
-      "zh": "好，再切一点儿黄瓜做凉菜。",
-      "pinyin": "hǎo, zài qiè yì diǎn ér huáng guā zuò liáng cài.",
-      "tr": "Olur, biraz salatalık kesip soğuk salata yaparız."
+      "zh": "这几样菜做汤、炒菜都很合适。",
+      "pinyin": "Zhè jǐ yàng cài zuò tāng, chǎo cài dōu hěn hé shì.",
+      "tr": "Bu sebzeler hem çorba hem de kavurma için uygun."
     },
     {
       "id": "DLG_ZH_HSK2_SC003_081",
@@ -602,9 +602,9 @@
     {
       "id": "DLG_ZH_HSK2_SC003_086",
       "speaker": "摊主",
-      "zh": "因为我们先看价格，再决定买多少。",
-      "pinyin": "yīn wèi wǒ men xiān kàn jià gé, zài jué dìng mǎi duō shǎo.",
-      "tr": "Çünkü önce fiyatlara baktık, sonra miktarı seçtik."
+      "zh": "东西都装好了，您慢走。",
+      "pinyin": "Dōng xī dōu zhuāng hǎo le, nín màn zǒu.",
+      "tr": "Her şeyi poşete koydum, iyi günler."
     },
     {
       "id": "DLG_ZH_HSK2_SC003_087",
@@ -623,9 +623,9 @@
     {
       "id": "DLG_ZH_HSK2_SC003_089",
       "speaker": "摊主",
-      "zh": "这些水果够我们吃几天了。",
-      "pinyin": "zhè xiē shuǐ guǒ gòu wǒ men chī jǐ tiān le.",
-      "tr": "Bu meyveler birkaç gün yeter."
+      "zh": "这些水果够你们吃几天了。",
+      "pinyin": "Zhè xiē shuǐ guǒ gòu nǐ men chī jǐ tiān le.",
+      "tr": "Bu meyveler birkaç gün size yeter."
     },
     {
       "id": "DLG_ZH_HSK2_SC003_090",
@@ -644,9 +644,9 @@
     {
       "id": "DLG_ZH_HSK2_SC003_092",
       "speaker": "摊主",
-      "zh": "水果放在桌上，明天早上再洗。",
-      "pinyin": "shuǐ guǒ fàng zài zhuō shàng, míng tiān zǎo shàng zài xǐ.",
-      "tr": "Meyveleri masaya koyalım, sabah yıkarız."
+      "zh": "水果先放在桌上，回家记得清洗。",
+      "pinyin": "Shuǐ guǒ xiān fàng zài zhuō shàng, huí jiā jì de qīng xǐ.",
+      "tr": "Meyveleri önce masaya koyun; eve gidince yıkamayı unutmayın."
     },
     {
       "id": "DLG_ZH_HSK2_SC003_093",
@@ -702,7 +702,7 @@
       "speaker": "刘梅",
       "zh": "谢谢，今天买得很顺利。",
       "pinyin": "xiè xiè, jīn tiān mǎi dé hěn shùn lì.",
-      "tr": "Teşekkürler, bugün alışverişimiz iyi geçti。"
+      "tr": "Tamam, artık ne alacağımızı biliyoruz."
     }
   ],
   "dialogueCount": 100

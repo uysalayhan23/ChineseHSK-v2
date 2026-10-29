@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC029.json",
-  "dialogueSha256": "a46575c22163a69190422cace2e58ac4ace5faf7e0ec79e609277f7ec5be4806",
+  "dialogueSha256": "c2daf5d4de76d044bec80a2e464f27610a46e46279a2e590138ce4e9dfe26942",
   "titleTr": "Otelde Yanlış Rezervasyon",
   "locationId": "LOC_ZH_HOTEL_001",
   "scenePurposeTr": "Zhang otele vardığında oda tipinin yanlış olduğunu fark eder ve görevliyle düzeltmeye çalışır.",

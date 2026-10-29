@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC047.json",
-  "dialogueSha256": "a83757da45bfe2cb1e95812d98bcac12455ffc9ca5fe9483692f26d9ebec719f",
+  "dialogueSha256": "44ab1e13b3888658dc93b4bd701678492f9472bd932aed48b8c17aef3017f933",
   "titleTr": "Zhang’ın Terfisi",
   "locationId": "LOC_ZH_WORKPLACE_001",
   "scenePurposeTr": "Zhang yeni görevini kabul eder ve ilk sorumluluklarını konuşur.",
@@ -160,5 +160,11 @@
     "reOpenOnlyIfUserRequests": true,
     "strictQaPassAssigned": false,
     "actionsRun": false
+  },
+  "dialogueTextQA": {
+    "status": "PENDING_LOCAL_REVIEW",
+    "turns": 100,
+    "speakerOrderPreserved": true,
+    "pinyinTurkishChecked": true
   }
 }

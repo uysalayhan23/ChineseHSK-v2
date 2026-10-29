@@ -620,9 +620,9 @@
     {
       "id": "DLG_ZH_HSK6_SC039_088",
       "speaker": "朋友",
-      "zh": "你也可以先旁听，不用现场就决定报名。",
-      "pinyin": "nǐ yě kě yǐ xiān páng tīng， bù yòng xiàn chǎng jiù jué dìng bào míng。",
-      "tr": "Önce izleyici olarak katılabilirsin; orada hemen kaydolmaya karar vermen gerekmez."
+      "zh": "我可以先问清楚体验课要准备什么，再发给你，免得你临时找不到东西。",
+      "pinyin": "wǒ kě yǐ xiān wèn qīng chǔ tǐ yàn kè yào zhǔn bèi shén me ， zài fā gěi nǐ ， miǎn de nǐ lín shí zhǎo bú dào dōng xī 。",
+      "tr": "Deneme dersine neler getirmen gerektiğini önceden öğrenip sana yazarım; son anda aramak zorunda kalmazsın."
     },
     {
       "id": "DLG_ZH_HSK6_SC039_089",
@@ -704,9 +704,9 @@
     {
       "id": "DLG_ZH_HSK6_SC039_100",
       "speaker": "朋友",
-      "zh": "那就先从一节课和一次散步开始，其他的以后再说。",
-      "pinyin": "nà jiù xiān cóng yī jié kè hé yī cì sàn bù kāi shǐ， qí tā de yǐ hòu zài shuō。",
-      "tr": "Öyleyse bir ders ve bir yürüyüşle başlayalım; gerisini sonra düşünürüz."
+      "zh": "那就下周末见。你去过体验课以后，再告诉我们真实感受就好。",
+      "pinyin": "nà jiù xià zhōu mò jiàn 。 nǐ qù guò tǐ yàn kè yǐ hòu ， zài gào sù wǒ men zhēn shí gǎn shòu jiù hǎo 。",
+      "tr": "Öyleyse gelecek hafta sonu görüşürüz. Deneme dersine gittikten sonra bize nasıl hissettiğini anlatırsın."
     }
   ],
   "productionStatus": "complete",
@@ -727,83 +727,83 @@
     "vocabularyCards": [
       {
         "id": "VOC_ZH_HSK6_SC039_001",
-        "zh": "退休身份",
-        "pinyin": "tuìxiū shēnfèn",
-        "tr": "emekli kimliği",
-        "exampleZh": "退休身份之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Tuìxiū shēnfèn zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Emekli kimliği önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "退休手续",
+        "pinyin": "tuì xiū shǒu xù",
+        "tr": "emeklilik işlemleri",
+        "exampleZh": "退休手续办完了，大家都说该轻松了，我反而有点不知道从哪天开始算。",
+        "examplePinyin": "tuì xiū shǒu xù bàn wán le， dà jiā dōu shuō gāi qīng sōng le， wǒ fǎn ér yǒu diǎn bù zhī dào cóng nǎ tiān kāi shǐ suàn。",
+        "exampleTr": "Emeklilik işlemlerim bitti. Herkes artık rahatlayacağımı söylüyor ama ben yeni dönemin hangi gün başladığını bilemiyorum.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC039_002",
-        "zh": "友情",
-        "pinyin": "yǒuqíng",
-        "tr": "dostluk",
-        "exampleZh": "如果忽略友情，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè yǒuqíng, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Dostluk göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "日历",
+        "pinyin": "rì lì",
+        "tr": "takvim",
+        "exampleZh": "我刚退休时也这样。日历突然空下来，反而让人有点不习惯。",
+        "examplePinyin": "wǒ gāng tuì xiū shí yě zhè yàng。 rì lì tū rán kōng xià lái， fǎn ér ràng rén yǒu diǎn bù xí guàn。",
+        "exampleTr": "Ben emekli olduğumda da öyleydim. Takvimin birden boşalması insanı alışkanlık dışına itiyor.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC039_003",
-        "zh": "空闲",
-        "pinyin": "kòngxián",
-        "tr": "boş zaman",
-        "exampleZh": "我想把空闲放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ kòngxián fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Boş zaman konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
+        "zh": "体验课",
+        "pinyin": "tǐ yàn kè",
+        "tr": "deneme dersi",
+        "exampleZh": "我认识一个社区工坊，周三有体验课。要不要我把联系方式发给你？",
+        "examplePinyin": "wǒ rèn shí yí gè shè qū gōng fāng， zhōu sān yǒu tǐ yàn kè。 yào bù yào wǒ bǎ lián xì fāng shì fā gěi nǐ？",
+        "exampleTr": "Bir mahalle atölyesi tanıyorum; çarşamba günü deneme dersi var. İletişim bilgilerini göndereyim mi?",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC039_004",
-        "zh": "新生活",
-        "pinyin": "xīn shēnghuó",
-        "tr": "yeni yaşam",
-        "exampleZh": "谈到新生活，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào xīn shēnghuó, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Yeni yaşam konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
+        "zh": "预算",
+        "pinyin": "yù suàn",
+        "tr": "bütçe",
+        "exampleZh": "不过，想做的事情也要照顾身体和预算。喜欢不等于马上答应所有课程。",
+        "examplePinyin": "bù guò， xiǎng zuò de shì qíng yě yào zhào gù shēn tǐ hé yù suàn。 xǐ huān bù děng yú mǎ shàng dā yìng suǒ yǒu kè chéng。",
+        "exampleTr": "Yine de yapmak istediklerin bedenini ve bütçeni gözetmeli. Bir şeyi sevmek her kursa hemen yazılmak demek değil.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC039_005",
-        "zh": "语境",
-        "pinyin": "yǔjìng",
-        "tr": "bağlam",
-        "exampleZh": "语境之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Yǔjìng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Bağlam önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "职位",
+        "pinyin": "zhí wèi",
+        "tr": "görev / pozisyon",
+        "exampleZh": "我退休后最难适应的不是空闲，而是别人还用以前的职位称呼我。",
+        "examplePinyin": "wǒ tuì xiū hòu zuì nán shì yìng de bú shì kòng xián， ér shì bié rén hái yòng yǐ qián de zhí wèi chēng hū wǒ。",
+        "exampleTr": "Emekli olduktan sonra alışmakta en çok zorlandığım şey boş zaman değil, insanların bana eski unvanımla hitap etmesiydi.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC039_006",
-        "zh": "立场",
-        "pinyin": "lìchǎng",
-        "tr": "tutum / bakış açısı",
-        "exampleZh": "如果忽略立场，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè lìchǎng, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Tutum / bakış açısı göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "分工",
+        "pinyin": "fēn gōng",
+        "tr": "iş bölümü",
+        "exampleZh": "我去过的图书室正好缺人整理旧书。大家先从小事做起，熟悉以后再分工。",
+        "examplePinyin": "wǒ qù guò de tú shū shì zhèng hǎo quē rén zhěng lǐ jiù shū。 dà jiā xiān cóng xiǎo shì zuò qǐ， shú xī yǐ hòu zài fēn gōng。",
+        "exampleTr": "Gittiğim kütüphanede eski kitapları düzenlemeye yardım gerekiyordu. Önce küçük işlerden başlayıp alışınca görevleri paylaştık.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC039_007",
-        "zh": "权衡",
-        "pinyin": "quánhéng",
-        "tr": "dengeleyerek değerlendirmek",
-        "exampleZh": "我想把权衡放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ quánhéng fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Dengeleyerek değerlendirmek konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
-        "kind": "review"
+        "zh": "睡不好",
+        "pinyin": "shuì bù hǎo",
+        "tr": "iyi uyuyamamak",
+        "exampleZh": "退休后心情有起伏很正常。要是一直睡不好或特别低落，也别觉得只能自己扛。",
+        "examplePinyin": "tuì xiū hòu xīn qíng yǒu qǐ fú hěn zhèng cháng。 yào shì yì zhí shuì bù hǎo huò tè bié dī luò， yě bié jué de zhǐ néng zì jǐ káng。",
+        "exampleTr": "Emeklilikte duyguların iniş çıkış yaşaması normal. Uzun süre uyuyamaz ya da çok çökkün hissedersen bunu tek başına taşımak zorunda değilsin.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC039_008",
-        "zh": "长期影响",
-        "pinyin": "chángqī yǐngxiǎng",
-        "tr": "uzun vadeli etki",
-        "exampleZh": "谈到长期影响，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào chángqī yǐngxiǎng, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Uzun vadeli etki konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
-        "kind": "review"
+        "zh": "新节奏",
+        "pinyin": "xīn jié zòu",
+        "tr": "yeni tempo",
+        "exampleZh": "这已经是个不错的开始了。新节奏不是一天定下来的。",
+        "examplePinyin": "zhè yǐ jīng shì gè bù cuò de kāi shǐ le。 xīn jié zòu bú shì yī tiān dìng xià lái de。",
+        "exampleTr": "Bu iyi bir başlangıç. Yeni bir düzen bir günde oluşmaz.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

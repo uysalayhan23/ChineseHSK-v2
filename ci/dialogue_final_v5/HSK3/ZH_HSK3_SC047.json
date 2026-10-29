@@ -25,9 +25,9 @@
     {
       "id": "DLG_ZH_HSK3_SC047_003",
       "speaker": "同事",
-      "zh": "我也觉得你进步很大，尤其是处理客户问题的时候。",
-      "pinyin": "Wǒ yě jué de nǐ jìn bù hěn dà yóu qí shì chǔ lǐ kè hù wèn tí de shí hòu",
-      "tr": "Ben de çok geliştiğini düşünüyorum; özellikle müşteri sorunlarını ele alışını beğeniyorum."
+      "zh": "我也觉得你进步越来越明显，尤其是处理客户问题的时候。",
+      "pinyin": "Wǒ yě juéde nǐ jìnbù yuèláiyuè míngxiǎn, yóuqí shì chǔlǐ kèhù wèntí de shíhòu.",
+      "tr": "Ben de özellikle müşteri sorunlarını çözme konusunda giderek daha çok ilerlediğini düşünüyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC047_004",
@@ -60,9 +60,9 @@
     {
       "id": "DLG_ZH_HSK3_SC047_008",
       "speaker": "刘梅",
-      "zh": "那我就放心一些了。你最希望我先做好什么？",
-      "pinyin": "Nà wǒ jiù fàng xīn yī xiē le nǐ zuì xī wàng wǒ xiān zuò hǎo shén me",
-      "tr": "İçim biraz rahatladı. Önce hangi konuda iyi olmamı bekliyorsun?"
+      "zh": "我先把家里的事情安排好，你最希望我怎样支持你？",
+      "pinyin": "Wǒ xiān bǎ jiālǐ de shìqíng ānpái hǎo, nǐ zuì xīwàng wǒ zěnyàng zhīchí nǐ?",
+      "tr": "Evdeki işleri ben ayarlayayım; sana en çok nasıl destek olmamı istersin?"
     },
     {
       "id": "DLG_ZH_HSK3_SC047_009",
@@ -87,7 +87,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_012",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "我刚开始带团队时也有同样的习惯，后来才慢慢改过来。",
       "pinyin": "Wǒ gāng kāi shǐ dài tuán duì shí yě yǒu tóng yàng de xí guàn hòu lái cái màn màn gǎi guò lái",
       "tr": "Ben de ekibi yönetmeye ilk başladığımda öyleydim; zamanla bu alışkanlığımı değiştirdim."
@@ -115,14 +115,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_016",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "那我会负责哪些项目？我想提前了解一下。",
       "pinyin": "Nà wǒ huì fù zé nǎ xiē xiàng mù wǒ xiǎng tí qián liǎo jiě yī xià",
       "tr": "Peki hangi projelerden sorumlu olacağım? Önceden öğrenmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC047_017",
-      "speaker": "张伟",
+      "speaker": "经理",
       "zh": "从下个月开始，你要负责新产品的筹备工作。",
       "pinyin": "Cóng xià gè yuè kāi shǐ nǐ yào fù zé xīn chǎn pǐn de chóu bèi gōng zuò",
       "tr": "Gelecek aydan itibaren yeni ürünün hazırlık çalışmalarını yürüteceksin."
@@ -136,7 +136,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_019",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "太好了。有了这些资料，我就能先熟悉情况。",
       "pinyin": "Tài hǎo le yǒu le zhè xiē zī liào wǒ jiù néng xiān shú xī qíng kuàng",
       "tr": "Harika. Bu bilgilerle önce mevcut durumu öğrenebilirim."
@@ -171,7 +171,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_024",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "你也可以问问大家最近最需要什么支持。",
       "pinyin": "Nǐ yě kě yǐ wèn wèn dà jiā zuì jìn zuì xū yào shén me zhī chí",
       "tr": "Son zamanlarda en çok hangi desteğe ihtiyaç duyduklarını da sorabilirsin."
@@ -199,7 +199,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_028",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "那就把决定和原因说明白，大家心里就有数了。",
       "pinyin": "Nà jiù bǎ jué dìng hé yuán yīn shuō míng bái dà jiā xīn lǐ jiù yǒu shù le",
       "tr": "O halde kararları ve nedenlerini açıkça anlatalım ki herkes ne olduğunu bilsin."
@@ -227,7 +227,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_032",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "先把这些意见分分类，看看是不是都和新功能有关。",
       "pinyin": "Xiān bǎ zhè xiē yì jiàn fēn fēn lèi kàn kàn shì bú shì dōu hé xīn gōng néng yǒu guān",
       "tr": "Önce bu görüşleri sınıflandıralım; hepsi yeni özellikle mi ilgili bakalım."
@@ -255,7 +255,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_036",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "可以。你把理由告诉团队，大家就知道为什么这样排。",
       "pinyin": "Kě yǐ nǐ bǎ lǐ yóu gào sù tuán duì dà jiā jiù zhī dào wèi shén me zhè yàng pái",
       "tr": "Olur. Neden böyle sıraladığını ekibe açıklarsan herkes anlar."
@@ -283,7 +283,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_040",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "好，我会把资料准备好，也留时间回答大家的问题。",
       "pinyin": "Hǎo wǒ huì bǎ zī liào zhǔn bèi hǎo yě liú shí jiān huí dá dà jiā de wèn tí",
       "tr": "Tamam. Belgeleri hazırlar, ekip arkadaşlarının soruları için de zaman ayırırım."
@@ -311,7 +311,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_044",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "那就把可能需要调整的时间也列进计划里。",
       "pinyin": "Nà jiù bǎ kě néng xū yào tiáo zhěng de shí jiān yě liè jìn jì huà lǐ",
       "tr": "Olası düzenlemeler için gereken zamanı da plana ekleyelim."
@@ -339,7 +339,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_048",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "这些地方我会和负责内容的同事一起确认。",
       "pinyin": "Zhè xiē dì fāng wǒ huì hé fù zé nèi róng de tóng shì yì qǐ què rèn",
       "tr": "İçerikten sorumlu ekip arkadaşlarımla bu kısımları birlikte gözden geçireceğim."
@@ -367,7 +367,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_052",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "周四我有空，可以帮忙记录大家遇到的问题。",
       "pinyin": "Zhōu sì wǒ yǒu kòng kě yǐ bāng máng jì lù dà jiā yù dào de wèn tí",
       "tr": "Perşembe vaktim var; insanların karşılaştığı sorunları not alabilirim."
@@ -395,7 +395,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_056",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "这样既能按时完成，也不会漏掉重要意见。",
       "pinyin": "Zhè yàng jì néng àn shí wán chéng yě bú huì lòu diào zhòng yào yì jiàn",
       "tr": "Böylece hem zamanında bitirir hem de önemli noktaları atlamayız."
@@ -423,7 +423,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_060",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "稳妥一点很好，有进展时及时更新就行。",
       "pinyin": "Wěn tuǒ yì diǎn hěn hǎo yǒu jìn zhǎn shí jí shí gēng xīn jiù xíng",
       "tr": "Tedbirli olmak iyi; gelişme oldukça herkesi bilgilendiririz."
@@ -451,7 +451,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_064",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "那我们先想想怎么让入口更容易被看到。",
       "pinyin": "Nà wǒ men xiān xiǎng xiǎng zěn me ràng rù kǒu gèng róng yì bèi kàn dào",
       "tr": "O halde bağlantının daha kolay fark edilmesini nasıl sağlayacağımızı konuşalım."
@@ -479,7 +479,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_068",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "测试前记得说明这次只检查入口，不要提前提示他们。",
       "pinyin": "Cè shì qián jì de shuō míng zhè cì zhǐ jiǎn chá rù kǒu bú yào tí qián tí shì tā men",
       "tr": "Testten önce yalnızca bağlantının yerini kontrol ettiklerini belirt; ipucu verme."
@@ -507,7 +507,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_072",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "谢谢。我会准备两个版本，方便大家直接比较。",
       "pinyin": "Xiè xiè wǒ huì zhǔn bèi liǎng gè bǎn běn fāng biàn dà jiā zhí jiē bǐ jiào",
       "tr": "Teşekkürler. Karşılaştırmaları için iki sürümü de hazırlayacağım."
@@ -535,7 +535,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_076",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "对，也要把最后选择这个版本的理由讲清楚。",
       "pinyin": "Duì yě yào bǎ zuì hòu xuǎn zé zhè ge bǎn běn de lǐ yóu jiǎng qīng chǔ",
       "tr": "Aynen; bu sürümü neden seçtiğimizi de açıklamalıyız."
@@ -563,7 +563,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_080",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "有了这次经验，以后带新项目你会更有把握。",
       "pinyin": "Yǒu le zhè cì jīng yàn yǐ hòu dài xīn xiàng mù nǐ huì gèng yǒu bǎ wò",
       "tr": "Bu deneyimle bir sonraki projeyi yönetirken daha güvenli hissedeceksin."
@@ -591,7 +591,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_084",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "很好。这样以后回头看，也知道每一步为什么这样决定。",
       "pinyin": "Hěn hǎo zhè yàng yǐ hòu huí tóu kàn yě zhī dào měi yī bù wèi shén me zhè yàng jué dìng",
       "tr": "Güzel. Böylece daha sonra her kararı neden aldığımızı görebiliriz."
@@ -619,7 +619,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_088",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "开始前先和组员确认目标，遇到变化就及时沟通。",
       "pinyin": "Kāi shǐ qián xiān hé zǔ yuán què rèn mù biāo yù dào biàn huà jiù jí shí gōu tōng",
       "tr": "Başlamadan önce hedefi ekiple netleştirmek, değişiklik olursa da zamanında konuşmak gerek."
@@ -627,9 +627,9 @@
     {
       "id": "DLG_ZH_HSK3_SC047_089",
       "speaker": "张伟",
-      "zh": "我的未来计划是先做好新产品项目，为以后的职业发展打好基础。",
-      "pinyin": "Wǒ de wèi lái jì huà shì xiān zuò hǎo xīn chǎn pǐn xiàng mù wèi yǐ hòu de zhí yè fā zhǎn dǎ hǎo jī chǔ",
-      "tr": "Gelecek planım önce yeni ürün projesini tamamlamak, sonra bütçe ve kaynak planlamasını öğrenmek."
+      "zh": "我的未来计划是先做好新产品项目，让职业发展越来越扎实。",
+      "pinyin": "Wǒ de wèilái jìhuà shì xiān zuòhǎo xīn chǎnpǐn xiàngmù, ràng zhíyè fāzhǎn yuèláiyuè zhāshí.",
+      "tr": "Gelecek planım önce yeni ürün projesini tamamlayıp kariyerimde giderek daha sağlam ilerlemek."
     },
     {
       "id": "DLG_ZH_HSK3_SC047_090",
@@ -661,21 +661,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC047_094",
-      "speaker": "经理",
+      "speaker": "张伟",
       "zh": "有你们帮忙，我对这次升职更有信心了。",
       "pinyin": "Yǒu nǐ men bāng máng wǒ duì zhè cì shēng zhí gèng yǒu xìn xīn le",
       "tr": "Desteğiniz sayesinde bu terfi konusunda kendime daha çok güveniyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC047_095",
-      "speaker": "同事",
+      "speaker": "张伟",
       "zh": "我会记得先听团队的想法，再一起找办法。",
       "pinyin": "Wǒ huì jì de xiān tīng tuán duì de xiǎng fǎ zài yì qǐ zhǎo bàn fǎ",
       "tr": "Ekibin görüşlerini önce dinleyip çözümü birlikte arayacağımı unutmayacağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC047_096",
-      "speaker": "刘梅",
+      "speaker": "同事",
       "zh": "这就是我希望看到的变化。期待你带大家完成新项目。",
       "pinyin": "Zhè jiù shì wǒ xī wàng kàn dào de biàn huà qī dài nǐ dài dà jiā wán chéng xīn xiàng mù",
       "tr": "Tam da bunu görmek istiyordum. Yeni projeyi ekibinle tamamlamanı bekliyorum."

@@ -730,9 +730,9 @@
         "zh": "新员工",
         "pinyin": "xīn yuángōng",
         "tr": "yeni çalışan",
-        "exampleZh": "新员工在这件事里很重要。",
-        "examplePinyin": "Xīn yuángōng zài zhè jiàn shì lǐ hěn zhòngyào.",
-        "exampleTr": "Yeni çalışan bu konuda önemli.",
+        "exampleZh": "这条也加进培训材料，之后新员工都按同一套沟通方法来做。",
+        "examplePinyin": "Zhè tiáo yě jiā jìn péi xùn cái liào ， zhī hòu xīn yuán gōng dōu àn tóng yī tào gōu tōng fāng fǎ lái zuò 。",
+        "exampleTr": "Bunu eğitim materyaline de ekleyelim; bundan sonra yeni çalışanlar aynı iletişim yöntemini izlesin.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "培训",
         "pinyin": "péixùn",
         "tr": "eğitim",
-        "exampleZh": "如果能提前培训，后面会顺利很多。",
-        "examplePinyin": "Rúguǒ néng tíqián péixùn, hòumiàn huì shùnlì hěn duō.",
-        "exampleTr": "Önceden eğitim mümkün olursa sonrası çok daha rahat ilerler.",
+        "exampleZh": "这样安排比较公平，也能让培训真正解决问题。",
+        "examplePinyin": "Zhè yàng ān pái bǐ jiào gōng píng ， yě néng ràng péi xùn zhēn zhèng jiě jué wèn tí 。",
+        "exampleTr": "Bu düzenleme daha adil ve eğitimin gerçekten sorunu çözmesini sağlar.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "错误",
         "pinyin": "cuòwù",
         "tr": "hata",
-        "exampleZh": "如果错误发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ cuòwù fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Hata değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "这样既能减少错误，也能让服务更让人放心。",
+        "examplePinyin": "Zhè yàng jì néng jiǎn shǎo cuò wù ， yě néng ràng fú wù gèng ràng rén fàng xīn 。",
+        "exampleTr": "Böylece hem hatalar azalır hem de hizmet müşteriye daha güven verir.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "负责",
         "pinyin": "fùzé",
         "tr": "sorumlu olmak",
-        "exampleZh": "关于负责，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú fùzé, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Sorumlu olmak konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "以后谁负责改单，谁就要确认相关的人都收到消息。",
+        "examplePinyin": "Yǐ hòu shuí fù zé gǎi dān ， shuí jiù yào què rèn xiāng guān de rén dōu shōu dào xiāo xī 。",
+        "exampleTr": "Bundan sonra siparişi kim değiştirirse ilgili herkesin haberi aldığını o doğrulasın.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "服务",
         "pinyin": "fúwù",
         "tr": "hizmet",
-        "exampleZh": "服务是我们不能忽略的一点。",
-        "examplePinyin": "Fúwù shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Hizmet göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "这样既能减少错误，也能让服务更让人放心。",
+        "examplePinyin": "Zhè yàng jì néng jiǎn shǎo cuò wù ， yě néng ràng fú wù gèng ràng rén fàng xīn 。",
+        "exampleTr": "Böylece hem hatalar azalır hem de hizmet müşteriye daha güven verir.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "如果能提前沟通，后面会顺利很多。",
-        "examplePinyin": "Rúguǒ néng tíqián gōutōng, hòumiàn huì shùnlì hěn duō.",
-        "exampleTr": "Önceden iletişim kurmak mümkün olursa sonrası çok daha rahat ilerler.",
+        "exampleZh": "我没那么怕出错了，因为知道不确定时可以先沟通。",
+        "examplePinyin": "Wǒ méi nà me pà chū cuò le ， yīn wèi zhī dào bú què dìng shí ké yǐ xiān gōu tōng 。",
+        "exampleTr": "Hata yapmaktan daha az korkuyorum; emin olmadığımda önce konuşabileceğimi biliyorum.",
         "kind": "active"
       },
       {

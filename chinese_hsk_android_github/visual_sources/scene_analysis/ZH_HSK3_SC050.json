@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK3_SC050",
   "status": "FINAL_IMAGE_INTEGRATED",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC050.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC050.json",
   "titleTr": "Yeni Bir Dönem",
   "locationId": "LOC_ZH_GRANDPARENTS_FARM_001",
   "scenePurposeTr": "Zhang’ın anne-babası kasabaya taşınma fikrini ciddi biçimde düşünmeye başlar.",

@@ -730,9 +730,9 @@
         "zh": "假期",
         "pinyin": "jiàqī",
         "tr": "tatil",
-        "exampleZh": "假期是我们不能忽略的一点。",
-        "examplePinyin": "Jiàqī shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Tatil göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "那我今晚先把作业做完，假期里就能放心玩。",
+        "examplePinyin": "nà wǒ jīn wǎn xiān bǎ zuò yè zuò wán jià qī lǐ jiù néng fàng xīn wán",
+        "exampleTr": "Öyleyse bu akşam ödevimi bitireyim; tatilde içim rahat olur.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "目的地",
         "pinyin": "mùdìdì",
         "tr": "varış yeri",
-        "exampleZh": "我们把目的地也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ mùdìdì yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Varış yeri konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "看来大家想做的事不太一样。我们先选几个目的地，再比较交通和预算。",
+        "examplePinyin": "kàn lái dà jiā xiǎng zuò de shì bù tài yī yàng wǒ men xiān xuǎn jǐ gè mù dì dì zài bǐ jiào jiāo tōng hé yù suàn",
+        "exampleTr": "Görünüşe göre isteklerimiz farklı. Önce birkaç yer seçip ulaşımı ve bütçeyi karşılaştıralım.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "比较",
         "pinyin": "bǐjiào",
         "tr": "karşılaştırmak",
-        "exampleZh": "如果比较发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ bǐjiào fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Karşılaştırmak değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "如果住两晚，预算会比较合适，也不会让行程太赶。",
+        "examplePinyin": "rú guǒ zhù liǎng wǎn yù suàn huì bǐ jiào hé shì yě bú huì ràng xíng chéng tài gǎn",
+        "exampleTr": "İki gece kalırsak bütçeye daha uygun olur, gezi de çok sıkışmaz.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "家人",
         "pinyin": "jiārén",
         "tr": "aile",
-        "exampleZh": "关于家人，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jiārén, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Aile konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "老街上店很多，我们不用先订餐，到了再看哪家人少、大家都想吃。",
+        "examplePinyin": "lǎo jiē shàng diàn hěn duō wǒ men bù yòng xiān dìng cān dào le zài kàn nǎ jiā rén shǎo dà jiā dōu xiǎng chī",
+        "exampleTr": "Eski sokakta çok yer var; önceden ayırtmayalım, varınca sakine ve hepimizin istediğine bakarız.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "预算",
         "pinyin": "yùsuàn",
         "tr": "bütçe",
-        "exampleZh": "预算是我们不能忽略的一点。",
-        "examplePinyin": "Yùsuàn shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Bütçe göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "如果住两晚，预算会比较合适，也不会让行程太赶。",
+        "examplePinyin": "rú guǒ zhù liǎng wǎn yù suàn huì bǐ jiào hé shì yě bú huì ràng xíng chéng tài gǎn",
+        "exampleTr": "İki gece kalırsak bütçeye daha uygun olur, gezi de çok sıkışmaz.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "计划",
         "pinyin": "jìhuà",
         "tr": "plan",
-        "exampleZh": "我们把计划也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jìhuà yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Plan konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "计划已经清楚了，大家有新的想法随时在群里说。",
+        "examplePinyin": "jì huà yǐ jīng qīng chǔ le dà jiā yǒu xīn de xiǎng fǎ suí shí zài qún lǐ shuō",
+        "exampleTr": "Plan artık açık; yeni bir fikri olan gruba istediği zaman yazsın.",
         "kind": "active"
       },
       {

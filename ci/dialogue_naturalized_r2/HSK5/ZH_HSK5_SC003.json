@@ -93,9 +93,9 @@
     {
       "id": "DLG_ZH_HSK5_SC003_013",
       "speaker": "张乐乐",
-      "zh": "可以，我带了课程介绍，你可以先标出感兴趣的部分。",
-      "pinyin": "Kě yǐ wǒ dài le kè chéng jiè shào nǐ kě yǐ xiān biāo chū gǎn xìng qù de bù fèn",
-      "tr": "Olur, ders tanıtımlarını getirdim; ilgini çeken bölümleri işaretleyebilirsin."
+      "zh": "可以，我带了课程介绍，先把感兴趣的部分标出来。",
+      "pinyin": "kě yǐ wǒ dài le kè chéng jiè shào xiān bǎ gǎn xìng qù de bù fèn biāo chū lái",
+      "tr": "Olur, ders tanıtımlarını getirdim; önce ilgimi çeken bölümleri işaretleyeyim."
     },
     {
       "id": "DLG_ZH_HSK5_SC003_014",
@@ -121,9 +121,9 @@
     {
       "id": "DLG_ZH_HSK5_SC003_017",
       "speaker": "张乐乐",
-      "zh": "我可以听听他们的想法，但最后要看自己的兴趣和情况。",
-      "pinyin": "Wǒ kě yǐ tīng tīng tā men de xiǎng fǎ dàn zuì hòu yào kàn zì jǐ de xìng qù hé qíng kuàng",
-      "tr": "Onların düşüncelerini dinleyebilirim ama sonunda kendi ilgi ve durumuma bakmalıyım."
+      "zh": "无论听到什么建议，我都要结合自己的兴趣和情况作决定。",
+      "pinyin": "wú lùn tīng dào shén me jiàn yì wǒ dōu yào jié hé zì jǐ de xìng qù hé qíng kuàng zuò jué dìng",
+      "tr": "Hangi önerileri duyarsam duyayım kararımı ilgi alanlarımı ve koşullarımı dikkate alarak vereceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC003_018",
@@ -667,9 +667,9 @@
     {
       "id": "DLG_ZH_HSK5_SC003_095",
       "speaker": "刘梅",
-      "zh": "谢谢你愿意听她讨论，也尊重她的选择。",
-      "pinyin": "Xiè xiè nǐ yuàn yì tīng tā tǎo lùn yě zūn zhòng tā de xuǎn zé",
-      "tr": "Onunla konuşmaya açık olduğun ve seçimine saygı duyduğun için teşekkür ederim."
+      "zh": "谢谢你愿意听乐乐讨论，也尊重他的选择。",
+      "pinyin": "xiè xiè nǐ yuàn yì tīng lè lè tǎo lùn yě zūn zhòng tā de xuǎn zé",
+      "tr": "Lele’nin konuşmasını dinleyip seçimine saygı duyduğun için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK5_SC003_096",

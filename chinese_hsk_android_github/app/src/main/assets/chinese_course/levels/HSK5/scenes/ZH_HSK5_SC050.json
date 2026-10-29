@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK5_SC050_001",
       "speaker": "张伟",
-      "zh": "你们都长大了，有自己的计划。我想和你们谈谈以后怎么互相支持。",
-      "pinyin": "nǐ men dōu zhǎng dà le ， yǒu zì jǐ de jì huà 。 wǒ xiǎng hé nǐ men tán tán yǐ hòu zěn me hù xiāng zhī chí 。",
-      "tr": "Artık büyüdünüz ve kendi planlarınız var. Bundan sonra birbirimizi nasıl destekleyeceğimizi konuşmak istiyorum."
+      "zh": "你们都长大了，有自己的未来计划。我想和你们谈谈以后怎么互相支持。",
+      "pinyin": "nǐ men dōu zhǎng dà le ， yǒu zì jǐ de wèi lái jì huà 。 wǒ xiǎng hé nǐ men tán tán yǐ hòu zěn me hù xiāng zhī chí 。",
+      "tr": "Artık büyüdünüz ve kendi gelecek planlarınız var. Bundan sonra birbirimizi nasıl destekleyeceğimizi konuşmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC050_002",
@@ -95,9 +95,9 @@
     {
       "id": "DLG_ZH_HSK5_SC050_013",
       "speaker": "张伟",
-      "zh": "等你们各自有了新的生活安排，我们也要学着适应家里不总是那么热闹。",
-      "pinyin": "děng nǐ men gè zì yǒu le xīn de shēng huó ān pái ， wǒ men yě yào xué zhe shì yìng jiā lǐ bù zǒng shì nà me rè nào 。",
-      "tr": "Kendi yaşam düzeniniz oluşunca evin her zaman kalabalık olmayacağına biz de alışmalıyız."
+      "zh": "等你们各自进入人生新阶段，我们也要学着适应家里不总是那么热闹。",
+      "pinyin": "děng nǐ men gè zì jìn rù rén shēng xīn jiē duàn ， wǒ men yě yào xué zhe shì yìng jiā lǐ bù zǒng shì nà me rè nào 。",
+      "tr": "Her biriniz hayatınızın yeni bir aşamasına geçtiğinizde, evin her zaman kalabalık olmayacağına biz de alışmalıyız."
     },
     {
       "id": "DLG_ZH_HSK5_SC050_014",
@@ -165,9 +165,9 @@
     {
       "id": "DLG_ZH_HSK5_SC050_023",
       "speaker": "张雨桐",
-      "zh": "比如找工作时，我想先自己决定要不要换城市，再和你们商量。",
-      "pinyin": "bǐ rú zhǎo gōng zuò shí ， wǒ xiǎng xiān zì jǐ jué dìng yào bù yào huàn chéng shì ， zài hé nǐ men shāng liáng 。",
-      "tr": "Örneğin iş ararken önce başka bir şehre taşınıp taşınmayacağıma kendim karar vermek, sonra sizinle konuşmak istiyorum."
+      "zh": "比如找工作时，我想先考虑自己的职业发展，也自己决定要不要换城市，再和你们商量。",
+      "pinyin": "bǐ rú zhǎo gōng zuò shí ， wǒ xiǎng xiān kǎo lǜ zì jǐ de zhí yè fā zhǎn ， yě zì jǐ jué dìng yào bù yào huàn chéng shì ， zài hé nǐ men shāng liáng 。",
+      "tr": "Örneğin iş ararken önce kariyer gelişimimi düşünmek ve başka bir şehre taşınıp taşınmayacağıma kendim karar vermek, sonra sizinle konuşmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC050_024",
@@ -382,9 +382,9 @@
     {
       "id": "DLG_ZH_HSK5_SC050_054",
       "speaker": "刘梅",
-      "zh": "听你们把想法说出来，我也更明白该怎么支持你们了。",
-      "pinyin": "tīng nǐ men bǎ xiǎng fǎ shuō chū lái ， wǒ yě gèng míng bái gāi zěn me zhī chí nǐ men le 。",
-      "tr": "Düşüncelerinizi açıkça anlatmanız, sizi nasıl destekleyeceğimi anlamama yardım etti."
+      "zh": "我之所以更明白该怎么支持你们，是因为你们愿意把想法说出来。",
+      "pinyin": "wǒ zhī suǒ yǐ gèng míng bái gāi zěn me zhī chí nǐ men ， shì yīn wèi nǐ men yuàn yì bǎ xiǎng fǎ shuō chū lái 。",
+      "tr": "Sizi nasıl destekleyeceğimi daha iyi anlamamın nedeni, düşüncelerinizi açıkça paylaşmanız."
     },
     {
       "id": "DLG_ZH_HSK5_SC050_055",
@@ -718,92 +718,89 @@
     "vocabularyTheme": "dönem kapanışı ve nesil değişimi",
     "grammarTheme": "之所以…是因为…",
     "pronunciationTheme": "复杂句信息重音",
-    "targetActiveVocabularyCount": {
-      "min": 8,
-      "max": 12
-    },
+    "targetActiveVocabularyCount": 8,
     "defaultSpeechSpeed": 1.0,
     "defaultSubtitleMode": "ZH",
     "vocabularyCards": [
       {
         "id": "VOC_ZH_HSK5_SC050_001",
-        "zh": "代际交接",
-        "pinyin": "dàijì jiāojiē",
-        "tr": "kuşak devri",
-        "exampleZh": "代际交接是我们不能忽略的一点。",
-        "examplePinyin": "Dàijì jiāojiē shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Kuşak devri göz ardı edemeyeceğimiz bir nokta.",
+        "zh": "界限",
+        "pinyin": "jiè xiàn",
+        "tr": "sınır",
+        "exampleZh": "我也放心了。原来我们可以把界限说清楚，不用因为不同意见吵起来。",
+        "examplePinyin": "wǒ yě fàng xīn le 。 yuán lái wǒ men kě yǐ bǎ jiè xiàn shuō qīng chǔ ， bù yòng yīn wèi bù tóng yì jiàn chǎo qǐ lái 。",
+        "exampleTr": "Ben de rahatladım. Farklı düşünsek bile tartışmadan sınırlarımızı netleştirebiliriz.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC050_002",
         "zh": "人生新阶段",
-        "pinyin": "rénshēng xīn jiēduàn",
+        "pinyin": "rén shēng xīn jiē duàn",
         "tr": "hayatın yeni aşaması",
-        "exampleZh": "我们把人生新阶段也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ rénshēng xīn jiēduàn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Hayatın yeni aşaması konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "等你们各自进入人生新阶段，我们也要学着适应家里不总是那么热闹。",
+        "examplePinyin": "děng nǐ men gè zì jìn rù rén shēng xīn jiē duàn ， wǒ men yě yào xué zhe shì yìng jiā lǐ bù zǒng shì nà me rè nào 。",
+        "exampleTr": "Her biriniz hayatınızın yeni bir aşamasına geçtiğinizde, evin her zaman kalabalık olmayacağına biz de alışmalıyız.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC050_003",
         "zh": "家人",
-        "pinyin": "jiārén",
+        "pinyin": "jiā rén",
         "tr": "aile",
-        "exampleZh": "如果家人发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jiārén fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Aile değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "我最希望你们知道，独立不是不需要家人，而是想自己承担选择的结果。",
+        "examplePinyin": "wǒ zuì xī wàng nǐ men zhī dào ， dú lì bú shì bù xū yào jiā rén ， ér shì xiǎng zì jǐ chéng dān xuǎn zé de jié guǒ 。",
+        "exampleTr": "En çok şunu bilmenizi isterim: Bağımsız olmak aileye ihtiyaç duymamak değil, seçimlerimin sonucunu kendim üstlenmek demek.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC050_004",
         "zh": "职业发展",
-        "pinyin": "zhíyè fāzhǎn",
+        "pinyin": "zhí yè fā zhǎn",
         "tr": "kariyer gelişimi",
-        "exampleZh": "关于职业发展，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zhíyè fāzhǎn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Kariyer gelişimi konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "比如找工作时，我想先考虑自己的职业发展，也自己决定要不要换城市，再和你们商量。",
+        "examplePinyin": "bǐ rú zhǎo gōng zuò shí ， wǒ xiǎng xiān kǎo lǜ zì jǐ de zhí yè fā zhǎn ， yě zì jǐ jué dìng yào bù yào huàn chéng shì ， zài hé nǐ men shāng liáng 。",
+        "exampleTr": "Örneğin iş ararken önce kariyer gelişimimi düşünmek ve başka bir şehre taşınıp taşınmayacağıma kendim karar vermek, sonra sizinle konuşmak istiyorum.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC050_005",
         "zh": "未来计划",
-        "pinyin": "wèilái jìhuà",
+        "pinyin": "wèi lái jì huà",
         "tr": "gelecek planı",
-        "exampleZh": "未来计划是我们不能忽略的一点。",
-        "examplePinyin": "Wèilái jìhuà shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Gelecek planı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "你们都长大了，有自己的未来计划。我想和你们谈谈以后怎么互相支持。",
+        "examplePinyin": "nǐ men dōu zhǎng dà le ， yǒu zì jǐ de wèi lái jì huà 。 wǒ xiǎng hé nǐ men tán tán yǐ hòu zěn me hù xiāng zhī chí 。",
+        "exampleTr": "Artık büyüdünüz ve kendi gelecek planlarınız var. Bundan sonra birbirimizi nasıl destekleyeceğimizi konuşmak istiyorum.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC050_006",
-        "zh": "责任感",
-        "pinyin": "zérèngǎn",
-        "tr": "sorumluluk duygusu",
-        "exampleZh": "我们把责任感也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zérèngǎn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Sorumluluk duygusu konusunu da değerlendirme kapsamına alalım.",
+        "zh": "责任",
+        "pinyin": "zé rèn",
+        "tr": "sorumluluk",
+        "exampleZh": "如果结果不理想，我也会想办法解决，不会把责任都推给别人。",
+        "examplePinyin": "rú guǒ jié guǒ bù lǐ xiǎng ， wǒ yě huì xiǎng bàn fǎ jiě jué ， bú huì bǎ zé rèn dōu tuī gěi bié rén 。",
+        "exampleTr": "Sonuç iyi olmazsa çözüm ararım; bütün sorumluluğu başkasına yüklemem.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC050_007",
         "zh": "变化",
-        "pinyin": "biànhuà",
+        "pinyin": "biàn huà",
         "tr": "değişim",
-        "exampleZh": "如果变化发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ biànhuà fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Değişim değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "对，约好以后我们会记下来，有变化也会早点告诉你们。",
+        "examplePinyin": "duì ， yuē hǎo yǐ hòu wǒ men huì jì xià lái ， yǒu biàn huà yě huì zǎo diǎn gào sù nǐ men 。",
+        "exampleTr": "Evet, anlaştığımız zamanı kaydeder, bir değişiklik olursa erkenden haber veririz.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC050_008",
         "zh": "希望",
-        "pinyin": "xīwàng",
-        "tr": "umut etmek",
-        "exampleZh": "关于希望，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú xīwàng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Umut etmek konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "pinyin": "xī wàng",
+        "tr": "ummak",
+        "exampleZh": "比如希望你们常回来吃饭，但不要求每个周末都回来。",
+        "examplePinyin": "bǐ rú xī wàng nǐ men cháng huí lái chī fàn ， dàn bú yào qiú měi gè zhōu mò dōu huí lái 。",
+        "exampleTr": "Örneğin sık sık yemeğe gelmenizi isteriz ama her hafta sonu gelmeniz gerekmez.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

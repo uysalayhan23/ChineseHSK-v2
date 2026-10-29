@@ -730,9 +730,9 @@
         "zh": "摄影比赛",
         "pinyin": "shèyǐng bǐsài",
         "tr": "fotoğraf yarışması",
-        "exampleZh": "摄影比赛是我们不能忽略的一点。",
-        "examplePinyin": "Shèyǐng bǐsài shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Fotoğraf yarışması göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "社区摄影比赛的主题是“我生活的地方”，我想拍公园，可是不知道从哪里开始。",
+        "examplePinyin": "shè qū shè yǐng bǐ sài de zhǔ tí shì wǒ shēng huó de dì fāng wǒ xiǎng pāi gōng yuán kě shì bù zhī dào cóng nǎ lǐ kāi shǐ",
+        "exampleTr": "Mahalle fotoğraf yarışmasının teması “Yaşadığım yer”. Parkı çekmek istiyorum ama nereden başlayacağımı bilmiyorum.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "参赛作品",
         "pinyin": "cānsài zuòpǐn",
         "tr": "yarışma eseri",
-        "exampleZh": "我们把参赛作品也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ cānsài zuòpǐn yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Yarışma eseri konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "这个想法符合主题。参赛作品要由你自己拍摄和提交。",
+        "examplePinyin": "zhè ge xiǎng fǎ fú hé zhǔ tí cān sài zuò pǐn yào yóu nǐ zì jǐ pāi shè hé tí jiāo",
+        "exampleTr": "Bu fikir temaya uyuyor. Yarışma eserini kendin çekip göndermelisin.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "摄影",
         "pinyin": "shèyǐng",
         "tr": "fotoğrafçılık",
-        "exampleZh": "如果摄影发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ shèyǐng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Fotoğrafçılık değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "就这么安排。先完成报名，之后再享受摄影这个爱好。",
+        "examplePinyin": "jiù zhè me ān pái xiān wán chéng bào míng zhī hòu zài xiǎng shòu shè yǐng zhè ge ài hào",
+        "exampleTr": "Öyle yapalım. Önce kaydı tamamla, sonra fotoğrafçılık hobinin keyfini çıkar.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "镜头",
         "pinyin": "jìngtóu",
         "tr": "objektif / kamera bakışı",
-        "exampleZh": "关于镜头，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú jìngtóu, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Objektif / kamera bakışı konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "相机和镜头不用买，我可以借给你，先熟悉一下就行。",
+        "examplePinyin": "xiàng jī hé jìng tóu bù yòng mǎi wǒ kě yǐ jiè gěi nǐ xiān shú xī yī xià jiù xíng",
+        "exampleTr": "Kamera ve objektif almana gerek yok; ödünç verebilirim, önce alışman yeter.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "质量",
         "pinyin": "zhìliàng",
         "tr": "kalite",
-        "exampleZh": "质量是我们不能忽略的一点。",
-        "examplePinyin": "Zhìliàng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Kalite göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "作品质量不只看清晰度，拍摄方式也要合适。",
+        "examplePinyin": "zuò pǐn zhì liàng bù zhǐ kàn qīng xī dù pāi shè fāng shì yě yào hé shì",
+        "exampleTr": "Eserin kalitesi yalnızca netliğe bağlı değil; çekim biçimi de uygun olmalı.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "准备",
         "pinyin": "zhǔnbèi",
         "tr": "hazırlamak",
-        "exampleZh": "我们把准备也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zhǔnbèi yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Hazırlamak konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "你准备什么时候去公园？别赶在作业多的时候。",
+        "examplePinyin": "nǐ zhǔn bèi shén me shí hòu qù gōng yuán bié gǎn zài zuò yè duō de shí hòu",
+        "exampleTr": "Parka ne zaman gitmeyi planlıyorsun? Ödevlerinin yoğun olduğu zamana denk getirme.",
         "kind": "active"
       },
       {

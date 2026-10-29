@@ -11,142 +11,142 @@
     {
       "id": "DLG_ZH_HSK3_SC027_001",
       "speaker": "刘梅",
-      "zh": "今天正好有时间，我们聊聊优惠这件事吧。",
-      "pinyin": "Jīn tiān zhèng hǎo yǒu shí jiān, wǒ men liáo liáo yōu huì zhè jiàn shì ba.",
-      "tr": "Bugün vaktimiz varken indirim / kampanya konusunu konuşalım."
+      "zh": "今天一直下雨，下午客人少了，我们要不要试个优惠？",
+      "pinyin": "Jīntiān yìzhí xiàyǔ, xiàwǔ kèrén shǎo le, wǒmen yào búyào shìgè yōuhuì?",
+      "tr": "Bugün durmadan yağmur yağıyor, öğleden sonra müşteri azaldı. Bir indirim denesek mi?"
     },
     {
       "id": "DLG_ZH_HSK3_SC027_002",
       "speaker": "张伟",
-      "zh": "好，先听听大家怎么想。",
-      "pinyin": "Hǎo, xiān tīng tīng dà jiā zěn me xiǎng.",
-      "tr": "Tamam, önce herkesin ne düşündüğünü dinleyelim."
+      "zh": "可以，先想想做什么套餐，价格也得合适。",
+      "pinyin": "Kěyǐ, xiān xiǎngxiǎng zuò shénme tàocān, jiàgé yě dé héshì.",
+      "tr": "Olur. Önce nasıl bir menü hazırlayacağımızı düşünelim; fiyatı da uygun olmalı."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_003",
       "speaker": "顾客",
       "zh": "说到促销，你怎么看？",
-      "pinyin": "Shuō dào cù xiāo, nǐ zěn me kàn?",
-      "tr": "promosyon konusunda ne düşünüyorsun?"
+      "pinyin": "Shuō dào cùxiāo, nǐ zěnme kàn?",
+      "tr": "Promosyondan söz etmişken, sen ne düşünüyorsun?"
     },
     {
       "id": "DLG_ZH_HSK3_SC027_004",
       "speaker": "张雨桐",
-      "zh": "我先说吧，我最担心的是实际情况会不会跟我们想的一样。",
-      "pinyin": "Wǒ xiān shuō ba, wǒ zuì dān xīn de shì shí jì qíng kuàng huì bú huì gēn wǒ men xiǎng de yī yàng.",
-      "tr": "Önce ben söyleyeyim; en çok gerçek durumun düşündüğümüz gibi olup olmayacağını merak ediyorum."
+      "zh": "我担心活动太复杂，客人看不懂。",
+      "pinyin": "Wǒ dānxīn huódòng tài fùzá, kèrén kànbùdǒng.",
+      "tr": "Kampanyanın fazla karmaşık olmasından, müşterilerin anlamamasından endişeleniyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_005",
       "speaker": "刘梅",
-      "zh": "对，所以先把重点找出来。",
-      "pinyin": "Duì, suǒ yǐ xiān bǎ zhòng diǎn zhǎo chū lái.",
-      "tr": "Evet, bu yüzden önce ana noktayı bulalım."
+      "zh": "对，我们把饮料和点心搭配好就行。",
+      "pinyin": "Duì, wǒmen bǎ yǐnliào hé diǎnxīn dāpèi hǎo jiù xíng.",
+      "tr": "Evet, içecekle atıştırmalığı eşleştirmemiz yeterli."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_006",
       "speaker": "张伟",
-      "zh": "那就一项一项看。",
-      "pinyin": "Nà jiù yī xiàng yī xiàng kàn.",
-      "tr": "O zaman maddeleri tek tek ele alalım."
+      "zh": "先选一种大家常点的组合吧。",
+      "pinyin": "Xiānxuǎn yīzhǒng dàjiā chángdiǎn de zǔhé ba.",
+      "tr": "Önce herkesin sık sipariş ettiği bir ikili seçelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_007",
       "speaker": "顾客",
-      "zh": "我觉得下雨这一点也不能忽略。",
-      "pinyin": "Wǒ jué de xià yǔ zhè yì diǎn yě bù néng hū lüè.",
-      "tr": "Bence yağmur yağmak konusunu da göz ardı etmemeliyiz."
+      "zh": "下雨这一点也不能忽略。",
+      "pinyin": "Xiàyǔ zhè yìdiǎn yě bùnéng hūlüè.",
+      "tr": "Yağmur yağdığını da göz ardı etmemeliyiz."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_008",
       "speaker": "张雨桐",
-      "zh": "这点我同意，先记下来。",
-      "pinyin": "Zhè diǎn wǒ tóng yì, xiān jì xià lái.",
-      "tr": "Bu noktaya katılıyorum, önce not edelim."
+      "zh": "可以给带伞的客人准备个干净的放伞处。",
+      "pinyin": "Kěyǐ gěi dài sǎn de kèrén zhǔnbèi gè gānjìng de fàngsǎnchù.",
+      "tr": "Şemsiyeyle gelen müşteriler için temiz bir şemsiye yeri hazırlayabiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_009",
       "speaker": "刘梅",
-      "zh": "说到顾客，你怎么看？",
-      "pinyin": "Shuō dào gù kè, nǐ zěn me kàn?",
-      "tr": "müşteri konusunda ne düşünüyorsun?"
+      "zh": "说到顾客，你觉得他们最在意什么？",
+      "pinyin": "Shuō dào gùkè, nǐ juéde tāmen zuì zàiyì shénme?",
+      "tr": "Müşterilerden söz etmişken, sence en çok neye önem veriyorlar?"
     },
     {
       "id": "DLG_ZH_HSK3_SC027_010",
       "speaker": "张伟",
-      "zh": "我觉得先把这一点说清楚比较好。",
-      "pinyin": "Wǒ jué de xiān bǎ zhè yì diǎn shuō qīng chǔ bǐ jiào hǎo.",
-      "tr": "Bence önce bu noktayı netleştirmek daha iyi."
+      "zh": "价格和份量都要说清楚。",
+      "pinyin": "Jiàgé hé fènliàng dōu yàoshuō qīngchǔ.",
+      "tr": "Fiyatı ve porsiyonu açıkça belirtmeliyiz."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_011",
       "speaker": "顾客",
-      "zh": "对，不然等会儿容易混在一起。",
-      "pinyin": "Duì, bù rán děng huì er róng yì hùn zài yì qǐ.",
-      "tr": "Evet, yoksa birazdan konular birbirine karışabilir."
+      "zh": "如果还要等很久，优惠也不一定吸引人。",
+      "pinyin": "Rúguǒ háiyào děng hěn jiǔ, yōuhuì yě bù yídìng xīyǐn rén.",
+      "tr": "Çok beklemek gerekiyorsa indirim de pek cazip gelmeyebilir."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_012",
       "speaker": "张雨桐",
-      "zh": "那就先确认大家的想法。",
-      "pinyin": "Nà jiù xiān què rèn dà jiā de xiǎng fǎ.",
-      "tr": "O zaman önce herkesin fikrini netleştirelim."
+      "zh": "那我们准备几份套餐，尽量减少等待时间。",
+      "pinyin": "Nà wǒmen zhǔnbèi jǐfèn tàocān, jǐnliàngjiǎnshǎo děngdàishíjiān.",
+      "tr": "O zaman birkaç menüyü önceden hazırlayıp bekleme süresini kısaltalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_013",
       "speaker": "刘梅",
-      "zh": "我觉得生意这一点也不能忽略。",
-      "pinyin": "Wǒ jué de shēng yì zhè yì diǎn yě bù néng hū lüè.",
-      "tr": "Bence iş / ticaret konusunu da göz ardı etmemeliyiz."
+      "zh": "生意少一点时，也不要准备太多。",
+      "pinyin": "Shēngyì shǎo yìdiǎn shí, yě búyào zhǔnbèi tài duō.",
+      "tr": "İşlerin az olduğu günlerde de fazla hazırlık yapmayalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_014",
       "speaker": "张伟",
-      "zh": "说到促销，你有什么想法？",
-      "pinyin": "shuō dào cù xiāo ， nǐ yǒu shén me xiǎng fǎ ？",
-      "tr": "Promosyonla ilgili senin fikrin ne?"
+      "zh": "可以先做少量，卖完再补。",
+      "pinyin": "Kěyǐ xiān zuò shǎoliàng, màiwán zài bǔ.",
+      "tr": "Önce az miktarda yapar, satılınca yenisini hazırlarız."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_015",
       "speaker": "顾客",
       "zh": "如果客人还想要优惠，你会建议哪一种？",
-      "pinyin": "rú guǒ kè rén hái xiǎng yào yōu huì ， nǐ huì jiàn yì nǎ yī zhǒng ？",
-      "tr": "Müşteriler yine indirim isterse hangi seçeneği önerirsin?"
+      "pinyin": "Rúguǒ kèrén hái xiǎngyào yōuhuì, nǐ huì jiànyì nǎ yīzhǒng?",
+      "tr": "Müşteri yine indirim isterse sence hangisini önerirsin?"
     },
     {
       "id": "DLG_ZH_HSK3_SC027_016",
       "speaker": "张雨桐",
-      "zh": "我觉得这部分也需要认真考虑。",
-      "pinyin": "Wǒ jué de zhè bù fèn yě xū yào rèn zhēn kǎo lǜ.",
-      "tr": "Bence bu kısmı da ciddi biçimde değerlendirmek gerekiyor."
+      "zh": "我们可以让客人在咖啡和茶之间选择。",
+      "pinyin": "Wǒmen kěyǐ ràng kèrén zài kāfēi hé chá zhījiān xuǎnzé.",
+      "tr": "Müşterilere kahveyle çay arasında seçim sunabiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_017",
       "speaker": "刘梅",
-      "zh": "嗯，先别急着决定。",
-      "pinyin": "Èn, xiān bié jí zhe jué dìng.",
-      "tr": "Evet, karar vermek için acele etmeyelim."
+      "zh": "嗯，先别急着定价。",
+      "pinyin": "En, xiān biéjí zhe dìngjià.",
+      "tr": "Bir dakika, fiyatı belirlemek için acele etmeyelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_018",
       "speaker": "张伟",
-      "zh": "好，我们把这些都说清楚以后再看下一步。",
-      "pinyin": "Hǎo, wǒ men bǎ zhè xiē dōu shuō qīng chǔ yǐ hòu zài kàn xià yī bù.",
-      "tr": "Tamam, bunları netleştirdikten sonra sonraki adıma bakalım."
+      "zh": "我先算成本，再看看能不能做。",
+      "pinyin": "Wǒ xiānsuàn chéngběn, zài kànkàn néng bùnéng zuò.",
+      "tr": "Önce maliyeti hesaplayıp bunun uygun olup olmadığına bakayım."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_019",
       "speaker": "顾客",
-      "zh": "我们先把情况说清楚。",
-      "pinyin": "Wǒmen xiān bǎ qíngkuàng shuō qīngchu.",
-      "tr": "Önce durumu netleştirelim."
+      "zh": "先把活动时间和内容说清楚。",
+      "pinyin": "Xiān bǎ huódòng shíjiān hé nèiróng shuō qīngchǔ.",
+      "tr": "Önce kampanyanın süresini ve içeriğini netleştirelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_020",
       "speaker": "张雨桐",
-      "zh": "你的意思是这样，对吗？",
-      "pinyin": "Nǐ de yìsi shì zhèyàng, duì ma?",
-      "tr": "Demek istediğin bu, değil mi?"
+      "zh": "价钱确定以后，我把这些写在卡片上。",
+      "pinyin": "Jiàqián quèdìng yǐhòu, wǒ bǎ zhèxiē xiě zài kǎpiàn shàng.",
+      "tr": "Fiyatı belirleyince bunları karta yazacağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_021",
@@ -220,7 +220,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC027_031",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "门口的雨伞有点挡路，我先挪一下。",
       "pinyin": "mén kǒu de yǔ sǎn yǒu diǎn dǎng lù ， wǒ xiān nuó yī xià 。",
       "tr": "Kapıdaki şemsiyeler biraz yolu kapatıyor; biraz kenara çekeyim."
@@ -269,14 +269,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC027_038",
-      "speaker": "张伟",
+      "speaker": "顾客",
       "zh": "套餐也能带走吗？我今天得去接孩子。",
       "pinyin": "tào cān yě néng dài zǒu ma ？ wǒ jīn tiān dé qù jiē hái zi 。",
       "tr": "Menüyü paket yaptırabilir miyim? Bugün çocuğumu almam gerekiyor."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_039",
-      "speaker": "顾客",
+      "speaker": "张雨桐",
       "zh": "可以，我把咖啡和蛋糕分开装。",
       "pinyin": "kě yǐ ， wǒ bǎ kā fēi hé dàn gāo fēn kāi zhuāng 。",
       "tr": "Olur, kahveyle pastayı ayrı ayrı paketlerim."
@@ -304,7 +304,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC027_043",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "我来把地擦干，客人进门会更安全。",
       "pinyin": "wǒ lái bǎ dì cā gàn ， kè rén jìn mén huì gèng ān quán 。",
       "tr": "Yeri kurulayacağım; böylece müşteriler içeri daha güvenli girer."
@@ -332,7 +332,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC027_047",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "我把这个价格写清楚，免得大家看错。",
       "pinyin": "wǒ bǎ zhè ge jià gé xiě qīng chǔ ， miǎn de dà jiā kàn cuò 。",
       "tr": "Müşteriler yanlış okumasın diye fiyatı açıkça yazacağım."
@@ -416,7 +416,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC027_059",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "好，我去通知厨房，也会说明活动时间。",
       "pinyin": "hǎo ， wǒ qù tōng zhī chú fáng ， yě huì shuō míng huó dòng shí jiān 。",
       "tr": "Peki, mutfağa haber verip kampanyanın saatini de açıklayayım."
@@ -500,7 +500,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC027_071",
-      "speaker": "顾客",
+      "speaker": "张雨桐",
       "zh": "我会提醒刚来的客人，七点前要下单。",
       "pinyin": "wǒ huì tí xǐng gāng lái de kè rén ， qī diǎn qián yào xià dān 。",
       "tr": "Yeni gelen müşteriye yediden önce sipariş vermesi gerektiğini hatırlatırım."
@@ -528,7 +528,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC027_075",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "今天卖了十二份，成本和顾客意见也记好了。",
       "pinyin": "jīn tiān mài le shí èr fèn ， chéng běn hé gù kè yì jiàn yě jì hǎo le 。",
       "tr": "Bugün on iki menü sattık; maliyeti ve müşteri görüşlerini de kaydettim."
@@ -633,14 +633,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC027_090",
-      "speaker": "张伟",
+      "speaker": "顾客",
       "zh": "我也愿意再来，价格和时间都很清楚。",
       "pinyin": "wǒ yě yuàn yì zài lái ， jià gé hé shí jiān dōu hěn qīng chǔ 。",
       "tr": "Ben de tekrar gelirim; fiyat ve saatler açıkça belirtilmiş."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_091",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "谢谢你告诉我们顾客最关心什么。",
       "pinyin": "xiè xiè nǐ gào sù wǒ men gù kè zuì guān xīn shén me 。",
       "tr": "Müşterilerin en çok neye önem verdiğini anlattığın için teşekkürler."
@@ -669,9 +669,9 @@
     {
       "id": "DLG_ZH_HSK3_SC027_095",
       "speaker": "顾客",
-      "zh": "今天的优惠让更多人进店，也没有增加太多成本。",
-      "pinyin": "jīn tiān de yōu huì ràng gèng duō rén jìn diàn ， yě méi yǒu zēng jiā tài duō chéng běn 。",
-      "tr": "Bugünkü kampanya daha fazla müşteriyi dükkâna çekti, maliyeti de çok artırmadı."
+      "zh": "虽然今天下雨，但是活动让更多人进店，也没有增加太多成本。",
+      "pinyin": "Suīrán jīntiān xiàyǔ, dànshì huódòng ràng gèng duō rén jìndiàn, yě méiyǒu zēngjiā tài duō chéngběn.",
+      "tr": "Bugün yağmur yağmasına rağmen kampanya daha çok kişiyi içeri çekti ve maliyeti de fazla artırmadı."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_096",
@@ -689,21 +689,21 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC027_098",
-      "speaker": "张伟",
+      "speaker": "顾客",
       "zh": "谢谢你们听意见，也把条件说得这么清楚。",
       "pinyin": "xiè xiè nǐ men tīng yì jiàn ， yě bǎ tiáo jiàn shuō dé zhè me qīng chǔ 。",
       "tr": "Görüşümü dinleyip kampanya koşullarını açıkça anlattığınız için teşekkür ederim."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_099",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "欢迎你下次再来，下雨天我们再见。",
       "pinyin": "huān yíng nǐ xià cì zài lái ， xià yǔ tiān wǒ men zài jiàn 。",
       "tr": "Yine bekleriz; yağmurlu günlerde görüşürüz."
     },
     {
       "id": "DLG_ZH_HSK3_SC027_100",
-      "speaker": "张雨桐",
+      "speaker": "顾客",
       "zh": "好，下次下雨我还会来看看。",
       "pinyin": "hǎo ， xià cì xià yǔ wǒ hái huì lái kàn kàn 。",
       "tr": "Peki, bir dahaki yağmurda yine uğrarım."
@@ -730,9 +730,9 @@
         "zh": "优惠",
         "pinyin": "yōuhuì",
         "tr": "indirim / kampanya",
-        "exampleZh": "我已经把优惠记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ yōuhuì jì xiàlái le.",
-        "exampleTr": "Indirim / kampanya notunu aldım.",
+        "exampleZh": "今天一直下雨，下午客人少了，我们要不要试个优惠？",
+        "examplePinyin": "Jīntiān yìzhí xiàyǔ, xiàwǔ kèrén shǎo le, wǒmen yào búyào shìgè yōuhuì?",
+        "exampleTr": "今天一直下雨，下午客人少了，我们要不要试个优惠？",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "促销",
         "pinyin": "cùxiāo",
         "tr": "promosyon",
-        "exampleZh": "如果现在促销，会更方便。",
-        "examplePinyin": "Rúguǒ xiànzài cùxiāo, huì gèng fāngbiàn.",
-        "exampleTr": "Şimdi promosyon daha kullanışlı olur.",
+        "exampleZh": "说到促销，你怎么看？",
+        "examplePinyin": "Shuō dào cùxiāo, nǐ zěnme kàn?",
+        "exampleTr": "说到促销，你怎么看？",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "下雨",
         "pinyin": "xiàyǔ",
         "tr": "yağmur yağmak",
-        "exampleZh": "我们最好再确认一下下雨。",
-        "examplePinyin": "Wǒmen zuìhǎo zài quèrèn yíxià xiàyǔ.",
-        "exampleTr": "Yağmur yağmak konusunu bir kez daha teyit etsek iyi olur.",
+        "exampleZh": "今天一直下雨，下午客人少了，我们要不要试个优惠？",
+        "examplePinyin": "Jīntiān yìzhí xiàyǔ, xiàwǔ kèrén shǎo le, wǒmen yào búyào shìgè yōuhuì?",
+        "exampleTr": "今天一直下雨，下午客人少了，我们要不要试个优惠？",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "顾客",
         "pinyin": "gùkè",
         "tr": "müşteri",
-        "exampleZh": "我已经跟顾客说过了。",
-        "examplePinyin": "Wǒ yǐjīng gēn gùkè shuōguo le.",
-        "exampleTr": "Müşteri ile zaten konuştum.",
+        "exampleZh": "说到顾客，你觉得他们最在意什么？",
+        "examplePinyin": "Shuō dào gùkè, nǐ juéde tāmen zuì zàiyì shénme?",
+        "exampleTr": "说到顾客，你觉得他们最在意什么？",
         "kind": "active"
       },
       {
@@ -770,19 +770,19 @@
         "zh": "生意",
         "pinyin": "shēngyi",
         "tr": "iş / ticaret",
-        "exampleZh": "关于生意，我们还要再讨论一下。",
-        "examplePinyin": "Guānyú shēngyi, wǒmen hái yào zài tǎolùn yíxià.",
-        "exampleTr": "Iş / ticaret konusunda biraz daha konuşmalıyız.",
+        "exampleZh": "生意少一点时，也不要准备太多。",
+        "examplePinyin": "Shēngyì shǎo yìdiǎn shí, yě búyào zhǔnbèi tài duō.",
+        "exampleTr": "生意少一点时，也不要准备太多。",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK3_SC027_006",
-        "zh": "优惠",
-        "pinyin": "yōuhuì",
-        "tr": "indirim / kampanya",
-        "exampleZh": "我已经把优惠记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ yōuhuì jì xiàlái le.",
-        "exampleTr": "Indirim / kampanya notunu aldım.",
+        "zh": "成本",
+        "pinyin": "chéngběn",
+        "tr": "maliyet",
+        "exampleZh": "我先算成本，再看看能不能做。",
+        "examplePinyin": "Wǒ xiānsuàn chéngběn, zài kànkàn néng bùnéng zuò.",
+        "exampleTr": "Önce maliyeti hesaplayıp bunun uygun olup olmadığına bakayım.",
         "kind": "active"
       },
       {

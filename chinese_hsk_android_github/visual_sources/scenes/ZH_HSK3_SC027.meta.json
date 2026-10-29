@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC027.json",
-  "dialogueSha256": "ca1b768e1cbfca3b2f7e5be6295f21cfaf23d9625c9905ecb008e7dbe473f141",
+  "dialogueSha256": "1106015497ca93ae9705be9ae373f1f90729b0b932f51a19c5aa928582c5a08d",
   "titleTr": "Yağmurlu Gün Kampanyası",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Yağmurlu günde müşteri azlığına karşı küçük bir kampanya planlanır.",

@@ -52,10 +52,10 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_007",
-      "speaker": "顾客",
-      "zh": "我想把顾客的电话和取货时间也写进订单表。",
-      "pinyin": "wǒ xiǎng bǎ gù kè de diàn huà hé qǔ huò shí jiān yě xiě jìn dìng dān biǎo 。",
-      "tr": "Müşterilerin telefonunu ve teslim alma saatini de listeye eklemek istiyorum."
+      "speaker": "张伟",
+      "zh": "订单表上还可以加上顾客的电话和取货时间。",
+      "pinyin": "dìng dān biǎo shàng hái kě yǐ jiā shàng gù kè de diàn huà hé qǔ huò shí jiān 。",
+      "tr": "Sipariş listesine müşterilerin telefon numaralarını ve teslim saatlerini de ekleyebiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC001_008",
@@ -80,7 +80,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_011",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "那我把顾客的名字、电话、数量和日期分开写。",
       "pinyin": "nà wǒ bǎ gù kè de míng zì 、 diàn huà 、 shù liàng hé rì qī fēn kāi xiě 。",
       "tr": "Müşteri adını, telefonunu, miktarı ve tarihi ayrı ayrı yazayım."
@@ -108,7 +108,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_015",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "那我今天晚上先做明天的点心。",
       "pinyin": "nà wǒ jīn tiān wǎn shàng xiān zuò míng tiān de diǎn xīn 。",
       "tr": "O zaman bu akşam yarınki atıştırmalıkları hazırlayayım."
@@ -129,14 +129,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_018",
-      "speaker": "张伟",
+      "speaker": "顾客",
       "zh": "我明天下午下班后去取，到了以前会先打电话。",
       "pinyin": "wǒ míng tiān xià wǔ xià bān hòu qù qǔ ， dào le yǐ qián huì xiān dǎ diàn huà 。",
       "tr": "Yarın işten sonra, öğleden sonra almaya geleceğim; gelmeden ararım."
     },
     {
       "id": "DLG_ZH_HSK3_SC001_019",
-      "speaker": "顾客",
+      "speaker": "张雨桐",
       "zh": "好，我在订单表上写下你的取货时间。",
       "pinyin": "hǎo ， wǒ zài dìng dān biǎo shàng xiě xià nǐ de qǔ huò shí jiān 。",
       "tr": "Tamam, teslim alma saatini listeye ekliyorum."
@@ -192,7 +192,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_027",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "我看了一下，材料够，三盒也能按时准备。",
       "pinyin": "wǒ kàn le yī xià ， cái liào gòu ， sān hé yě néng àn shí zhǔn bèi 。",
       "tr": "Kontrol ettim; malzeme yeterli, üç kutuyu da zamanında hazırlayabiliriz."
@@ -248,7 +248,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_035",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "那我们可以把明天的制作时间安排得更准确。",
       "pinyin": "nà wǒ men kě yǐ bǎ míng tiān de zhì zuò shí jiān ān pái dé gèng zhǔn què 。",
       "tr": "Böylece yarınki hazırlık saatini daha iyi ayarlayabiliriz."
@@ -318,7 +318,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_045",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "太好了。我马上就下楼去拿。",
       "pinyin": "tài hǎo le 。 wǒ mǎ shàng jiù xià lóu qù ná 。",
       "tr": "Harika, şimdi aşağı inip alayım."
@@ -360,7 +360,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_051",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "我可以帮忙打电话，确认大家会不会准时来。",
       "pinyin": "wǒ kě yǐ bāng máng dǎ diàn huà ， què rèn dà jiā huì bú huì zhǔn shí lái 。",
       "tr": "Ben de müşterileri arayıp zamanında gelip gelemeyeceklerini sorabilirim."
@@ -416,7 +416,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_059",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "我已经给明天的顾客打过电话了，时间都确认好了。",
       "pinyin": "wǒ yǐ jīng gěi míng tiān de gù kè dǎ guò diàn huà le ， shí jiān dōu què rèn hǎo le 。",
       "tr": "Yarın gelecek müşterileri aradım, saatleri hepsi teyit etti."
@@ -444,7 +444,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_063",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "我现在打电话告诉她，确认她能不能十点半来。",
       "pinyin": "wǒ xiàn zài dǎ diàn huà gào sù tā ， què rèn tā néng bù néng shí diǎn bàn lái 。",
       "tr": "Şimdi arayıp on buçukta gelip gelemeyeceğini teyit edeyim."
@@ -472,7 +472,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_067",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "这样也能看出订单什么时候改过。",
       "pinyin": "zhè yàng yě néng kàn chū dìng dān shén me shí hòu gǎi guò 。",
       "tr": "Böylece siparişin ne zaman değiştiği de anlaşılır."
@@ -500,7 +500,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_071",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "这样比较礼貌，也能避免把订单交错。",
       "pinyin": "zhè yàng bǐ jiào lǐ mào ， yě néng bì miǎn bǎ dìng dān jiāo cuò 。",
       "tr": "Böyle yapmak nazik olur ve siparişleri karıştırmayı önler."
@@ -528,7 +528,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_075",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "遇到不确定的事情，就先查清楚，不用马上猜。",
       "pinyin": "yù dào bù què dìng de shì qíng ， jiù xiān chá qīng chǔ ， bù yòng mǎ shàng cāi 。",
       "tr": "Emin olmadığın bir şey olursa tahmin etme, önce kontrol et."
@@ -598,7 +598,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_085",
-      "speaker": "刘梅",
+      "speaker": "顾客",
       "zh": "谢谢。我下次还会提前打电话确认时间。",
       "pinyin": "xiè xiè 。 wǒ xià cì hái huì tí qián dǎ diàn huà què rèn shí jiān 。",
       "tr": "Teşekkürler, bir dahaki siparişte de saati önceden arayıp teyit ederim."
@@ -612,10 +612,10 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_087",
-      "speaker": "顾客",
-      "zh": "今天我学会了怎么写清楚订单和变化。",
-      "pinyin": "jīn tiān wǒ xué huì le zěn me xiě qīng chǔ dìng dān hé biàn huà 。",
-      "tr": "Bugün siparişi ve değişiklikleri açıkça kaydetmeyi öğrendim."
+      "speaker": "张雨桐",
+      "zh": "我今天学会了怎样把订单和修改的信息写清楚。",
+      "pinyin": "wǒ jīn tiān xué huì le zěn yàng bǎ dìng dān hé xiū gǎi de xìn xī xiě qīng chǔ 。",
+      "tr": "Bugün siparişleri ve değişiklikleri anlaşılır biçimde kaydetmeyi öğrendim."
     },
     {
       "id": "DLG_ZH_HSK3_SC001_088",
@@ -640,7 +640,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_091",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "订单表已经整理好了，我把最新的一份放在文件夹里。",
       "pinyin": "dìng dān biǎo yǐ jīng zhěng lǐ hǎo le ， wǒ bǎ zuì xīn de yī fèn fàng zài wén jiàn jiā lǐ 。",
       "tr": "Sipariş listesini düzenleyip en güncel kopyayı dosyaya koydum."
@@ -668,7 +668,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_095",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "谢谢。顾客的资料要好好保管。",
       "pinyin": "xiè xiè 。 gù kè de zī liào yào hǎo hǎo bǎo guǎn 。",
       "tr": "Teşekkürler. Müşteri bilgilerini dikkatle korumalıyız."
@@ -696,7 +696,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC001_099",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "这张表帮我们安排了工作，也让顾客更安心。",
       "pinyin": "zhè zhāng biǎo bāng wǒ men ān pái le gōng zuò ， yě ràng gù kè gèng ān xīn 。",
       "tr": "Bu liste hem işlerimizi düzenledi hem de müşterilere güven verdi."

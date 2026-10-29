@@ -1,0 +1,112 @@
+name: Build Chinese HSK APK from checked-in app
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: chinese-hsk-checked-in-apk-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    defaults:
+      run:
+        working-directory: chinese_hsk_android_github
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup Java 17
+        uses: actions/setup-java@v6
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Setup Gradle 9.6
+        uses: gradle/actions/setup-gradle@v6
+        with:
+          gradle-version: '9.6.0'
+          cache-provider: basic
+
+      - name: Install Android SDK packages
+        run: |
+          yes | sdkmanager --licenses >/dev/null || true
+          sdkmanager "platforms;android-37" "build-tools;36.0.0"
+
+      - name: Install validation tooling
+        run: |
+          python3 -m pip install --disable-pip-version-check "Pillow>=12,<13"
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Compile and validate course content
+        env:
+          GENERATED_AUDIO_MANIFEST: ${{ runner.temp }}/checked-in-audio-manifest.json
+        run: |
+          cp app/src/main/assets/chinese_course/media/audio_manifest.json "$GENERATED_AUDIO_MANIFEST"
+          python3 scripts/compile_authoring.py
+          python3 scripts/build_media_catalog.py
+          cp "$GENERATED_AUDIO_MANIFEST" app/src/main/assets/chinese_course/media/audio_manifest.json
+          python3 - "$GENERATED_AUDIO_MANIFEST" app/src/main/assets <<'PY'
+          import json, sys
+          from pathlib import Path
+          manifest=Path(sys.argv[1]); assets_root=Path(sys.argv[2])
+          data=json.loads(manifest.read_text(encoding='utf-8')); assets=data.get('assets',{})
+          if len(assets) != 30000: raise SystemExit(f'Expected 30000 checked-in dialogue audio mappings, got {len(assets)}')
+          missing=[]
+          for dialogue_id, rel in assets.items():
+              p=assets_root/rel
+              if not p.is_file() or p.stat().st_size < 256:
+                  missing.append((dialogue_id,rel))
+                  if len(missing) >= 20: break
+          if missing: raise SystemExit(f'Checked-in dialogue audio missing: {missing}')
+          print(f'Restored and verified {len(assets)} checked-in dialogue audio mappings.')
+          PY
+          python3 scripts/validate_content.py --strict
+          python3 scripts/audit_content_quality.py
+          python3 scripts/validate_app_flow.py
+
+      - name: Validate checked-in visual and audio assets
+        run: |
+          python3 scripts/build_visual_bible.py
+          python3 scripts/build_visual_asset_queue.py
+          python3 scripts/prepare_visual_assets.py
+          python3 scripts/validate_visual_assets.py
+          python3 scripts/validate_visual_runtime_mapping.py
+          python3 scripts/validate_visual_binaries.py
+          python3 scripts/build_audio_asset_queue.py
+          python3 scripts/prepare_audio_assets.py
+          python3 scripts/validate_audio_assets.py
+          python3 scripts/build_media_readiness_report.py
+
+      - name: Build personal APK
+        run: gradle :app:assembleDebug --stacktrace
+
+      - name: Package APK
+        run: python3 scripts/package_apk_artifact.py app/build/outputs/apk/debug/app-debug.apk dist personal
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ChineseHSK-v2-personal-apk
+          path: chinese_hsk_android_github/dist/
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Upload validation reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ChineseHSK-v2-validation-reports
+          path: |
+            chinese_hsk_android_github/VALIDATION_REPORT*.txt
+            chinese_hsk_android_github/MEDIA_READINESS_REPORT*.txt
+            chinese_hsk_android_github/VISUAL_ASSET_REPORT*.txt
+          if-no-files-found: warn
+          retention-days: 30

@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC028",
   "status": "INTEGRATED_QA_PASS",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC028.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC028.json",
   "titleTr": "Otelde Komşu Oda Gürültüsü",
   "locationId": "LOC_ZH_HOTEL_001",
   "scenePurposeTr": "Gece gürültüsü nedeniyle resepsiyona nazik şikâyet yapılır.",

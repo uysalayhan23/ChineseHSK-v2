@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC012",
   "level": "HSK5",
   "sourceTitleZh": "第一次面试失败",
@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC012_001",
       "speaker": "张雨桐",
-      "zh": "今天收到面试结果了，我没有通过，心里还是有点失落。",
-      "pinyin": "jīn tiān shōu dào miàn shì jié guǒ le ， wǒ méi yǒu tōng guò ， xīn lǐ hái shì yǒu diǎn shī luò 。",
-      "tr": "Bugün mülakat sonucu geldi; kabul edilmedim ve hâlâ biraz hayal kırıklığı yaşıyorum."
+      "zh": "今天收到面试结果了，我被拒绝了，心里还是有点失落。",
+      "pinyin": "jīn tiān shōu dào miàn shì jié guǒ le ， wǒ bèi jù jué le ， xīn lǐ hái shì yǒu diǎn shī luò 。",
+      "tr": "Bugün mülakat sonucunu aldım; reddedildim ve hâlâ biraz üzgünüm."
     },
     {
       "id": "DLG_ZH_HSK5_SC012_002",
@@ -79,9 +79,9 @@
     {
       "id": "DLG_ZH_HSK5_SC012_011",
       "speaker": "刘梅",
-      "zh": "这样她能把收到的意见和自己的复盘对照，而不是只听一句“再自信一点”。",
-      "pinyin": "zhè yàng tā néng bǎ shōu dào de yì jiàn hé zì jǐ de fù pán duì zhào ， ér bú shì zhǐ tīng yī jù “ zài zì xìn yì diǎn ” 。",
-      "tr": "Böylece yalnızca “daha özgüvenli ol” sözünü duymak yerine geri bildirimle kendi değerlendirmesini karşılaştırabilir."
+      "zh": "这样你可以把收到的意见和自己的复盘对照起来，而不是只听一句“再自信一点”。",
+      "pinyin": "zhè yàng nǐ kě yǐ bǎ shōu dào de yì jiàn hé zì jǐ de fù pán duì zhào qǐ lái ， ér bú shì zhǐ tīng yī jù “ zài zì xìn yì diǎn ” 。",
+      "tr": "Böylece yalnızca “daha özgüvenli ol” sözünü duymak yerine, aldığın geri bildirimi kendi değerlendirmenle karşılaştırabilirsin."
     },
     {
       "id": "DLG_ZH_HSK5_SC012_012",
@@ -219,9 +219,9 @@
     {
       "id": "DLG_ZH_HSK5_SC012_031",
       "speaker": "刘梅",
-      "zh": "记下来：不仅要会做，还要解释为什么这样分析，以及结论能说明什么。",
-      "pinyin": "jì xià lái ： bù jǐn yào huì zuò ， hái yào jiě shì wèi shén me zhè yàng fēn xī ， yǐ jí jié lùn néng shuō míng shén me 。",
-      "tr": "Şunu not et: yalnızca işlemi yapmak değil, neden o analizi yaptığını ve sonucun ne gösterdiğini açıklamak da gerekiyor."
+      "zh": "记下来：不仅要会做，还要解释分析策略、为什么这样判断，以及结论能说明什么。",
+      "pinyin": "jì xià lái ： bù jǐn yào huì zuò ， hái yào jiě shì fēn xī cè lüè 、 wèi shén me zhè yàng pàn duàn ， yǐ jí jié lùn néng shuō míng shén me 。",
+      "tr": "Şunu not et: işi yapmanın yanında analiz stratejini, bu karara neden vardığını ve sonucun ne gösterdiğini de açıklamalısın."
     },
     {
       "id": "DLG_ZH_HSK5_SC012_032",
@@ -429,9 +429,9 @@
     {
       "id": "DLG_ZH_HSK5_SC012_061",
       "speaker": "张雨桐",
-      "zh": "这样讲确实清楚多了。我之前紧张时总想把所有背景一次说完。",
-      "pinyin": "zhè yàng jiǎng què shí qīng chǔ duō le 。 wǒ zhī qián jǐn zhāng shí zǒng xiǎng bǎ suǒ yǒu bèi jǐng yī cì shuō wán 。",
-      "tr": "Bu şekilde anlatınca gerçekten daha açık oldu. Gerildiğimde arka planın tamamını bir kerede anlatmaya çalışıyordum."
+      "zh": "与上一次面试相比，我这次先作了自我评价，再补充最重要的背景。",
+      "pinyin": "yǔ shàng yī cì miàn shì xiāng bǐ ， wǒ zhè cì xiān zuò le zì wǒ píng jià ， zài bǔ chōng zuì zhòng yào de bèi jǐng 。",
+      "tr": "Önceki mülakata kıyasla bu kez önce kendi performansımı değerlendirdim, sonra önemli arka planı ekledim."
     },
     {
       "id": "DLG_ZH_HSK5_SC012_062",
@@ -569,9 +569,9 @@
     {
       "id": "DLG_ZH_HSK5_SC012_081",
       "speaker": "张雨桐",
-      "zh": "谢谢你们没有只说“别难过”，现在我知道这次面试具体要改进什么。",
-      "pinyin": "xiè xiè nǐ men méi yǒu zhǐ shuō “ bié nán guò ” ， xiàn zài wǒ zhī dào zhè cì miàn shì jù tǐ yào gǎi jìn shén me 。",
-      "tr": "Yalnızca “üzülme” demediğiniz için teşekkürler; şimdi bu mülakatta tam olarak neyi geliştirmem gerektiğini biliyorum."
+      "zh": "这次面试的挫折确实让我难过，不过我已经知道下一次要改进什么。",
+      "pinyin": "zhè cì miàn shì de cuò zhé què shí ràng wǒ nán guò ， bù guò wǒ yǐ jīng zhī dào xià yī cì yào gǎi jìn shén me 。",
+      "tr": "Bu mülakatın yarattığı başarısızlık beni gerçekten üzdü ama bir sonraki sefer neyi geliştireceğimi biliyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC012_082",
@@ -639,9 +639,9 @@
     {
       "id": "DLG_ZH_HSK5_SC012_091",
       "speaker": "刘梅",
-      "zh": "同时看看岗位是否真的符合你的兴趣和时间，不要只为了拿到机会而勉强自己。",
-      "pinyin": "tóng shí kàn kàn gǎng wèi shì fǒu zhēn de fú hé nǐ de xìng qù hé shí jiān ， bú yào zhǐ wèi le ná dào jī huì ér miǎn qiǎng zì jǐ 。",
-      "tr": "Fırsat elde etmek uğruna kendini zorlamak yerine pozisyonun ilgi alanına ve zamanına uyup uymadığına da bak."
+      "zh": "先给自己一点时间调整状态，再判断这个岗位是否适合你的兴趣和时间。",
+      "pinyin": "xiān gěi zì jǐ yì diǎn shí jiān tiáo zhěng zhuàng tài ， zài pàn duàn zhè ge gǎng wèi shì fǒu shì hé nǐ de xìng qù hé shí jiān 。",
+      "tr": "Önce toparlanmak için kendine biraz zaman ver, sonra bu pozisyonun ilgi alanına ve zamanına uyup uymadığını değerlendir."
     },
     {
       "id": "DLG_ZH_HSK5_SC012_092",

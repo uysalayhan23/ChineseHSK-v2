@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK6_SC048_001",
       "speaker": "张伟",
-      "zh": "我希望我们最后记住的，不是谁说服了谁，而是大家都认真听过彼此。",
-      "pinyin": "Wǒ xīwàng wǒmen zuìhòu jìzhù de, búshì shuí shuōfú le shuí, érshì dàjiā dōu rènzhēn tīngguò bǐcǐ.",
-      "tr": "Sonunda hatırladığımız şeyin kimin kimi ikna ettiği değil, herkesin birbirini gerçekten dinlemiş olması olmasını istiyorum."
+      "zh": "刚才我们谈了半天家里的安排，我更希望大家记住的是彼此认真听过，而不是谁说服了谁。",
+      "pinyin": "gāng cái wǒ men tán le bàn tiān jiā lǐ de ān pái ， wǒ gèng xī wàng dà jiā jì zhù de shì bǐ cǐ rèn zhēn tīng guò ， ér bú shì shuí shuō fú le shuí 。",
+      "tr": "Az önce aile içindeki düzeni uzun uzun konuştuk. Aklımızda kalsın istediğim, kimin kimi ikna ettiği değil, birbirimizi dikkatle dinlemiş olmamız."
     },
     {
       "id": "DLG_ZH_HSK6_SC048_002",
@@ -25,16 +25,16 @@
     {
       "id": "DLG_ZH_HSK6_SC048_003",
       "speaker": "张雨桐",
-      "zh": "有些事情听起来简单，真正落到生活里才会发现细节很多。",
-      "pinyin": "Yǒuxiē shìqíng tīng qǐlái jiǎndān, zhēnzhèng luòdào shēnghuó lǐ cái huì fāxiàn xìjié hěnduō.",
-      "tr": "Bazı şeyler kulağa basit gelir; günlük hayata gelince pek çok ayrıntı ortaya çıkar."
+      "zh": "有些安排听起来简单，真正放进日常生活里，细节还挺多。",
+      "pinyin": "yǒu xiē ān pái tīng qǐ lái jiǎn dān ， zhēn zhèng fàng jìn rì cháng shēng huó lǐ ， xì jié hái tǐng duō 。",
+      "tr": "Bazı düzenlemeler basit görünüyor ama gündelik hayata geçirince ayrıntısı çok oluyor."
     },
     {
       "id": "DLG_ZH_HSK6_SC048_004",
       "speaker": "张乐乐",
-      "zh": "大家都出于关心，只是表达关心的方式不一样。",
-      "pinyin": "Dàjiā dōu chūyú guānxīn, zhǐshì biǎodá guānxīn de fāngshì bù yīyàng.",
-      "tr": "Herkesin niyeti ilgilenmek; yalnızca bunu ifade etme biçimleri farklı."
+      "zh": "大家都是出于关心，只是表达的方式不太一样。",
+      "pinyin": "dà jiā dōu shì chū yú guān xīn ， zhǐ shì biǎo dá de fāng shì bù tài yī yàng 。",
+      "tr": "Herkes bunu önem verdiği için yapıyor; yalnızca bunu ifade etme biçimleri farklı."
     },
     {
       "id": "DLG_ZH_HSK6_SC048_005",
@@ -728,82 +728,82 @@
       {
         "id": "VOC_ZH_HSK6_SC048_001",
         "zh": "大家庭",
-        "pinyin": "dà jiātíng",
-        "tr": "geniş aile",
-        "exampleZh": "大家庭之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Dà jiātíng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Geniş aile önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "pinyin": "dà jiā tíng",
+        "tr": "büyük aile",
+        "exampleZh": "大家庭里每个人习惯不同，把边界说清楚反而更轻松。",
+        "examplePinyin": "Dàjiātíng lǐ měigè rén xíguàn bùtóng, bǎ biānjiè shuō qīngchǔ fǎnér gèng qīngsōng.",
+        "exampleTr": "Geniş ailede herkesin alışkanlığı farklı; sınırları netleştirmek işleri kolaylaştırır.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC048_002",
-        "zh": "多代同堂",
-        "pinyin": "duō dài tóng táng",
-        "tr": "çok kuşağın bir arada olması",
-        "exampleZh": "如果忽略多代同堂，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè duō dài tóng táng, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Çok kuşağın bir arada olması göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "边界",
+        "pinyin": "biān jiè",
+        "tr": "sınır",
+        "exampleZh": "大家庭里每个人习惯不同，把边界说清楚反而更轻松。",
+        "examplePinyin": "Dàjiātíng lǐ měigè rén xíguàn bùtóng, bǎ biānjiè shuō qīngchǔ fǎnér gèng qīngsōng.",
+        "exampleTr": "Geniş ailede herkesin alışkanlığı farklı; sınırları netleştirmek işleri kolaylaştırır.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC048_003",
         "zh": "话题转换",
-        "pinyin": "huàtí zhuǎnhuàn",
-        "tr": "konu geçişi",
-        "exampleZh": "我想把话题转换放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ huàtí zhuǎnhuàn fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Konu geçişi konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
+        "pinyin": "huà tí zhuǎn huàn",
+        "tr": "konu değiştirme",
+        "exampleZh": "需要话题转换的时候，我们就自然地换个话题，别一直绕在同一个点上。",
+        "examplePinyin": "Xūyào huàtí zhuǎnhuàn de shíhòu, wǒmen jiù zìrán dìhuàngè huàtí, bié yìzhí rào zài tóngyīgè diǎnshàng.",
+        "exampleTr": "Konu geçişi gerektiğinde doğal biçimde başka bir konuya geçelim; aynı noktada dönüp durmayalım.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC048_004",
         "zh": "家庭氛围",
-        "pinyin": "jiātíng fēnwéi",
-        "tr": "aile atmosferi",
-        "exampleZh": "谈到家庭氛围，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào jiātíng fēnwéi, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Aile atmosferi konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
+        "pinyin": "jiā tíng fēn wéi",
+        "tr": "aile ortamı",
+        "exampleZh": "家庭氛围轻松一点，大家才更愿意说真话。",
+        "examplePinyin": "Jiātíng fēnwéi qīngsōng yìdiǎn, dàjiā cái gèng yuànyì shuō zhēnhuà.",
+        "exampleTr": "Aile ortamı daha rahat olursa herkes gerçek düşüncesini daha kolay söyler.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC048_005",
-        "zh": "语境",
-        "pinyin": "yǔjìng",
-        "tr": "bağlam",
-        "exampleZh": "语境之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Yǔjìng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Bağlam önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "责任",
+        "pinyin": "zé rèn",
+        "tr": "sorumluluk",
+        "exampleZh": "把责任和时间说清楚，后面执行会容易很多。",
+        "examplePinyin": "Bǎ zérèn hé shíjiān shuō qīngchǔ, hòumiàn zhíxíng huì róngyì hěnduō.",
+        "exampleTr": "Sorumlulukları ve zamanı netleştirince uygulama çok daha kolay olur.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC048_006",
-        "zh": "立场",
-        "pinyin": "lìchǎng",
-        "tr": "tutum / bakış açısı",
-        "exampleZh": "如果忽略立场，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè lìchǎng, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Tutum / bakış açısı göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "分担",
+        "pinyin": "fēn dān",
+        "tr": "paylaşmak / üstlenmek",
+        "exampleZh": "地点轮流选，准备的事也一起分担，这样不容易把责任都压在一个人身上。",
+        "examplePinyin": "Dì diǎn lún liú xuǎn, zhǔn bèi de shì yě yì qǐ fēn dān, zhè yàng bù róng yì bǎ zé rèn dōu yā zài yí gè rén shēn shàng.",
+        "exampleTr": "Yeri sırayla seçer, hazırlıkları da paylaşırız. Böylece sorumluluk tek kişinin üzerine yığılmaz.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC048_007",
-        "zh": "权衡",
-        "pinyin": "quánhéng",
-        "tr": "dengeleyerek değerlendirmek",
-        "exampleZh": "我想把权衡放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ quánhéng fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Dengeleyerek değerlendirmek konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
-        "kind": "review"
+        "zh": "投票",
+        "pinyin": "tóu piào",
+        "tr": "oy vermek",
+        "exampleZh": "我会提醒大家投票，不过不催你们，等每个人有空再回复。",
+        "examplePinyin": "Wǒ huì tí xǐng dà jiā tóu piào, bù guò bù cuī nǐ men, děng měi gè rén yǒu kòng zài huí fù.",
+        "exampleTr": "Herkese oy vermeyi hatırlatırım ama acele ettirmem; herkes müsait olduğunda yanıtlar.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC048_008",
-        "zh": "长期影响",
-        "pinyin": "chángqī yǐngxiǎng",
-        "tr": "uzun vadeli etki",
-        "exampleZh": "谈到长期影响，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào chángqī yǐngxiǎng, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Uzun vadeli etki konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
-        "kind": "review"
+        "zh": "节奏",
+        "pinyin": "jié zòu",
+        "tr": "tempo",
+        "exampleZh": "每次聚会后我们再问问大家舒不舒服，长期下来也能找到合适的节奏。",
+        "examplePinyin": "Měi cì jù huì hòu wǒ men zài wèn wèn dà jiā shū bù shū fú, cháng qī xià lái yě néng zhǎo dào hé shì de jié zòu.",
+        "exampleTr": "Her buluşmadan sonra herkesin rahat edip etmediğini sorarız; zamanla uygun tempoyu buluruz.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

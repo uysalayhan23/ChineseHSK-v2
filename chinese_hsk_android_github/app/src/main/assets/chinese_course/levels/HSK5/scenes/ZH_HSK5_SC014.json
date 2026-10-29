@@ -11,9 +11,9 @@
     {
       "id": "DLG_ZH_HSK5_SC014_001",
       "speaker": "张乐乐",
-      "zh": "老师让我们做一个介绍社区生活的数字媒体项目，我想先定好主题和受众。",
-      "pinyin": "lǎo shī ràng wǒ men zuò yí gè jiè shào shè qū shēng huó de shù zì méi tǐ xiàng mù ， wǒ xiǎng xiān dìng hǎo zhǔ tí hé shòu zhòng 。",
-      "tr": "Öğretmenimiz mahalle yaşamını tanıtan bir dijital medya projesi verdi; önce konuyu ve hedef kitleyi belirlemek istiyorum."
+      "zh": "老师让我们用现代技术做一份介绍社区生活的数字媒体作品，我想先定好主题和受众。",
+      "pinyin": "lǎo shī ràng wǒ men yòng xiàn dài jì shù zuò yī fèn jiè shào shè qū shēng huó de shù zì méi tǐ zuò pǐn ， wǒ xiǎng xiān dìng hǎo zhǔ tí hé shòu zhòng 。",
+      "tr": "Öğretmen bizden modern teknolojiyi kullanarak mahalle yaşamını anlatan bir dijital medya çalışması istedi; önce konu ve hedef kitleyi belirlemek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC014_002",
@@ -81,9 +81,9 @@
     {
       "id": "DLG_ZH_HSK5_SC014_011",
       "speaker": "老师",
-      "zh": "采访前要先说明项目用途，取得同意，并让受访者知道内容会在哪里发布。",
-      "pinyin": "cǎi fǎng qián yào xiān shuō míng xiàng mù yòng tú ， qǔ dé tóng yì ， bìng ràng shòu fǎng zhě zhī dào nèi róng huì zài nǎ lǐ fā bù 。",
-      "tr": "Röportajdan önce projenin amacını açıklayın, izin alın ve katılımcıya içeriğin nerede yayımlanacağını bildirin."
+      "zh": "之所以要在采访前说明用途，是因为受访者有权知道内容会在哪里发布。",
+      "pinyin": "zhī suǒ yǐ yào zài cǎi fǎng qián shuō míng yòng tú ， shì yīn wèi shòu fǎng zhě yǒu quán zhī dào nèi róng huì zài nǎ lǐ fā bù 。",
+      "tr": "Röportajdan önce kullanım amacını açıklamamızın nedeni, konuğun içeriğin nerede yayımlanacağını bilme hakkı olmasıdır."
     },
     {
       "id": "DLG_ZH_HSK5_SC014_012",
@@ -221,9 +221,9 @@
     {
       "id": "DLG_ZH_HSK5_SC014_031",
       "speaker": "老师",
-      "zh": "分工可以，但录音前还要再征求一次同意，说明文件只供课程使用。",
-      "pinyin": "fēn gōng kě yǐ ， dàn lù yīn qián hái yào zài zhēng qiú yī cì tóng yì ， shuō míng wén jiàn zhǐ gōng kè chéng shǐ yòng 。",
-      "tr": "Görev paylaşımı uygun; ancak kayda başlamadan bir kez daha izin alın ve dosyanın yalnızca ders için kullanılacağını açıklayın."
+      "zh": "分工可以，但采访前后都要和店主沟通；录音前还要再征求一次同意。",
+      "pinyin": "fēn gōng kě yǐ ， dàn cǎi fǎng qián hòu dōu yào hé diàn zhǔ gōu tōng ； lù yīn qián hái yào zài zhēng qiú yī cì tóng yì 。",
+      "tr": "Görev paylaşımı olabilir ama röportajdan önce ve sonra dükkân sahibiyle iletişim kuralım; kayıt öncesinde yeniden izin isteyelim."
     },
     {
       "id": "DLG_ZH_HSK5_SC014_032",
@@ -641,9 +641,9 @@
     {
       "id": "DLG_ZH_HSK5_SC014_091",
       "speaker": "老师",
-      "zh": "那就按课程要求提交，并在说明中简要写清你们怎样取得采访许可。",
-      "pinyin": "nà jiù àn kè chéng yāo qiú tí jiāo ， bìng zài shuō míng zhōng jiǎn yào xiě qīng nǐ men zěn yàng qǔ dé cǎi fǎng xǔ kě 。",
-      "tr": "O halde ödev koşullarına göre teslim edin ve notta röportaj iznini nasıl aldığınızı kısaca açıklayın."
+      "zh": "按课程要求提交，并在说明里写清传播内容的信息来源和采访许可是怎样取得的。",
+      "pinyin": "àn kè chéng yāo qiú tí jiāo ， bìng zài shuō míng lǐ xiě qīng chuán bō nèi róng de xìn xī lái yuán hé cǎi fǎng xǔ kě shì zěn yàng qǔ dé de 。",
+      "tr": "Dersin gerekliliklerine göre teslim edin; açıklamada yayımlanacak içeriğin kaynaklarını ve röportaj iznini nasıl aldığınızı belirtin."
     },
     {
       "id": "DLG_ZH_HSK5_SC014_092",
@@ -730,9 +730,9 @@
         "zh": "数字媒体",
         "pinyin": "shùzì méitǐ",
         "tr": "dijital medya",
-        "exampleZh": "数字媒体是我们不能忽略的一点。",
-        "examplePinyin": "Shùzì méitǐ shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Dijital medya göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "老师让我们用现代技术做一份介绍社区生活的数字媒体作品，我想先定好主题和受众。",
+        "examplePinyin": "Lǎo shī ràng wǒ men yòng xiàn dài jì shù zuò yī fèn jiè shào shè qū shēng huó de shù zì méi tǐ zuò pǐn ， wǒ xiǎng xiān dìng hǎo zhǔ tí hé shòu zhòng 。",
+        "exampleTr": "Öğretmen bizden modern teknolojiyi kullanarak mahalle yaşamını anlatan bir dijital medya çalışması istedi; önce konu ve hedef kitleyi belirlemek istiyorum.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "受众",
         "pinyin": "shòuzhòng",
         "tr": "hedef kitle",
-        "exampleZh": "我会跟受众再确认一次。",
-        "examplePinyin": "Wǒ huì gēn shòuzhòng zài quèrèn yí cì.",
-        "exampleTr": "Hedef kitle ile bir kez daha teyit edeceğim.",
+        "exampleZh": "我们一起讨论了主题和受众，也互相检查了最后的版本。",
+        "examplePinyin": "Wǒ men yì qǐ tǎo lùn le zhǔ tí hé shòu zhòng ， yě hù xiāng jiǎn chá le zuì hòu de bǎn běn 。",
+        "exampleTr": "Konuyu ve hedef kitleyi birlikte tartıştık; son sürümü de karşılıklı kontrol ettik.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "信息来源",
         "pinyin": "xìnxī láiyuán",
         "tr": "bilgi kaynağı",
-        "exampleZh": "如果信息来源发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ xìnxī láiyuán fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Bilgi kaynağı değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "按课程要求提交，并在说明里写清传播内容的信息来源和采访许可是怎样取得的。",
+        "examplePinyin": "Àn kè chéng yāo qiú tí jiāo ， bìng zài shuō míng lǐ xiě qīng chuán bō nèi róng de xìn xī lái yuán hé cǎi fǎng xǔ kě shì zěn yàng qǔ dé de 。",
+        "exampleTr": "Dersin gerekliliklerine göre teslim edin; açıklamada yayımlanacak içeriğin kaynaklarını ve röportaj iznini nasıl aldığınızı belirtin.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "这件事需要大家一起沟通。",
-        "examplePinyin": "Zhè jiàn shì xūyào dàjiā yìqǐ gōutōng.",
-        "exampleTr": "Bu konuda herkesin birlikte iletişim kurmak gerekiyor.",
+        "exampleZh": "分工可以，但采访前后都要和店主沟通；录音前还要再征求一次同意。",
+        "examplePinyin": "Fēn gōng kě yǐ ， dàn cǎi fǎng qián hòu dōu yào hé diàn zhǔ gōu tōng ； lù yīn qián hái yào zài zhēng qiú yī cì tóng yì 。",
+        "exampleTr": "Görev paylaşımı olabilir ama röportajdan önce ve sonra dükkân sahibiyle iletişim kuralım; kayıt öncesinde yeniden izin isteyelim.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "项目",
         "pinyin": "xiàngmù",
         "tr": "proje",
-        "exampleZh": "项目是我们不能忽略的一点。",
-        "examplePinyin": "Xiàngmù shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Proje göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我改好了，也把每段引用对应的录音时间写进项目记录。",
+        "examplePinyin": "Wǒ gǎi hǎo le ， yě bǎ měi duàn yǐn yòng duì yìng de lù yīn shí jiān xiě jìn xiàng mù jì lù 。",
+        "exampleTr": "Düzelttim ve her alıntının ses kaydındaki zamanını proje notlarına ekledim.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "现代技术",
         "pinyin": "xiàndài jìshù",
         "tr": "modern teknoloji",
-        "exampleZh": "我们把现代技术也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ xiàndài jìshù yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Modern teknoloji konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "老师让我们用现代技术做一份介绍社区生活的数字媒体作品，我想先定好主题和受众。",
+        "examplePinyin": "Lǎo shī ràng wǒ men yòng xiàn dài jì shù zuò yī fèn jiè shào shè qū shēng huó de shù zì méi tǐ zuò pǐn ， wǒ xiǎng xiān dìng hǎo zhǔ tí hé shòu zhòng 。",
+        "exampleTr": "Öğretmen bizden modern teknolojiyi kullanarak mahalle yaşamını anlatan bir dijital medya çalışması istedi; önce konu ve hedef kitleyi belirlemek istiyorum.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "传播内容",
         "pinyin": "chuánbō nèiróng",
         "tr": "iletişim içeriği",
-        "exampleZh": "如果传播内容发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ chuánbō nèiróng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Iletişim içeriği değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "按课程要求提交，并在说明里写清传播内容的信息来源和采访许可是怎样取得的。",
+        "examplePinyin": "Àn kè chéng yāo qiú tí jiāo ， bìng zài shuō míng lǐ xiě qīng chuán bō nèi róng de xìn xī lái yuán hé cǎi fǎng xǔ kě shì zěn yàng qǔ dé de 。",
+        "exampleTr": "Dersin gerekliliklerine göre teslim edin; açıklamada yayımlanacak içeriğin kaynaklarını ve röportaj iznini nasıl aldığınızı belirtin.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC014_008",
         "zh": "影响",
         "pinyin": "yǐngxiǎng",
         "tr": "etki",
-        "exampleZh": "关于影响，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú yǐngxiǎng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Etki konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "先看看上下文能不能补足意思；如果影响理解，就诚实地剪掉或重新确认。",
+        "examplePinyin": "Xiān kàn kàn shàng xià wén néng bù néng bǔ zú yì si ； rú guǒ yǐng xiǎng lǐ jiě ， jiù chéng shí dì jiǎn diào huò chóng xīn què rèn 。",
+        "exampleTr": "Önce bağlamın anlamı tamamlayıp tamamlamadığını inceleyin; anlam etkileniyorsa o kısmı çıkarın ya da yeniden doğrulayın.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1218,6 +1218,14 @@
     },
     "continuityNoteTr": "Lele Sosyal Medya Projesi Yapıyor olayı HSK5 yaşam çizgisinde sahne 14 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 15,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC014.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

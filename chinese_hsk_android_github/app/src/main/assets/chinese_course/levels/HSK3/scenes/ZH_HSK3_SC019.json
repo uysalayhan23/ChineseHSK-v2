@@ -24,7 +24,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_003",
-      "speaker": "顾客",
+      "speaker": "王师傅",
       "zh": "我还没把招牌固定好，现在可以改。",
       "pinyin": "Wǒ hái méi bǎ zhāo pái gù dìng hǎo ， xiàn zài kě yǐ gǎi 。",
       "tr": "Tabelayı henüz sabitlemedim; şimdi düzeltebiliriz."
@@ -52,10 +52,10 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_007",
-      "speaker": "顾客",
-      "zh": "不好意思，是我检查得不够仔细。",
-      "pinyin": "Bù hǎo yì sī ， shì wǒ jiǎn chá dé bù gòu zǐ xì 。",
-      "tr": "Kusura bakmayın, yeterince dikkatli kontrol etmemişim."
+      "speaker": "王师傅",
+      "zh": "对不起，是我检查得不够仔细。",
+      "pinyin": "Duìbùqǐ, shì wǒ jiǎnchá dé bùgòu zǐxì.",
+      "tr": "Özür dilerim, yeterince dikkatli kontrol etmemişim."
     },
     {
       "id": "DLG_ZH_HSK3_SC019_008",
@@ -80,7 +80,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_011",
-      "speaker": "顾客",
+      "speaker": "王师傅",
       "zh": "请问要改成哪一个字？",
       "pinyin": "Qǐng wèn yào gǎi chéng nǎ yí gè zì ？",
       "tr": "Hangi karakterle değiştirmem gerekiyor?"
@@ -108,7 +108,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_015",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "谢谢，改完以后请先放在地上给我们看。",
       "pinyin": "Xiè xiè ， gǎi wán yǐ hòu qǐng xiān fàng zài dì shàng gěi wǒ men kàn 。",
       "tr": "Teşekkürler; düzelttikten sonra önce yerde bize gösterin."
@@ -136,7 +136,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_019",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "那就是制作的时候看错了，不是我们改了店名。",
       "pinyin": "Nà jiù shì zhì zuò de shí hòu kàn cuò le ， bú shì wǒ men gǎi le diàn míng 。",
       "tr": "Demek ki üretim sırasında yanlış okunmuş; kafe adını biz değiştirmedik."
@@ -164,7 +164,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_023",
-      "speaker": "顾客",
+      "speaker": "王师傅",
       "zh": "颜色也要跟旁边的字一样，别太亮。",
       "pinyin": "Yán sè yě yào gēn páng biān de zì yī yàng ， bié tài liàng 。",
       "tr": "Rengi de yanındaki karakterlerle aynı olsun, çok parlak olmasın."
@@ -192,7 +192,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_027",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "那时间够了，不过做完要让我们看清楚。",
       "pinyin": "Nà shí jiān gòu le ， bù guò zuò wán yào ràng wǒ men kàn qīng chǔ 。",
       "tr": "O zaman vakit yeter; ama bitince net biçimde görmemiz gerekiyor."
@@ -220,7 +220,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_031",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "我看过记录了，确实是这个写法。",
       "pinyin": "Wǒ kàn guò jì lù le ， què shí shì zhè ge xiě fǎ 。",
       "tr": "Kaydı kontrol ettim; yazım gerçekten böyle."
@@ -234,10 +234,10 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_033",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "师傅说字已经改好了，可以过来看。",
-      "pinyin": "Shī fù shuō zì yǐ jīng gǎi hǎo le ， kě yǐ guò lái kàn 。",
-      "tr": "Usta karakteri düzelttiğini söyledi; gidip bakabiliriz."
+      "pinyin": "Shīfù shuō zì yǐjīng gǎihǎo le, kěyǐ guòlái kàn.",
+      "tr": "Usta, harfleri düzelttiğini söyledi; gelip bakabilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK3_SC019_034",
@@ -248,7 +248,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_035",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "我再从远处看一下，大小和颜色都合适。",
       "pinyin": "Wǒ zài cóng yuǎn chù kàn yī xià ， dà xiǎo hé yán sè dōu hé shì 。",
       "tr": "Bir de uzaktan bakayım; boyutu ve rengi uygun."
@@ -276,7 +276,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_039",
-      "speaker": "顾客",
+      "speaker": "王师傅",
       "zh": "好了，字旁边现在很干净。",
       "pinyin": "Hǎo le ， zì páng biān xiàn zài hěn gān jìng 。",
       "tr": "Tamam, karakterin çevresi artık temiz."
@@ -304,7 +304,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_043",
-      "speaker": "顾客",
+      "speaker": "王师傅",
       "zh": "螺丝都在，挂上去应该很稳。",
       "pinyin": "Luó sī dōu zài ， guà shàng qù yīng gāi hěn wěn 。",
       "tr": "Vidalar yerinde; asınca sağlam durmalı."
@@ -332,7 +332,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_047",
-      "speaker": "顾客",
+      "speaker": "王师傅",
       "zh": "这边已经固定好了，另一边还要对齐。",
       "pinyin": "Zhè biān yǐ jīng gù dìng hǎo le ， lìng yī biān hái yào duì qí 。",
       "tr": "Bu tarafı sabitledim; öteki tarafı hizalamam gerekiyor."
@@ -360,7 +360,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_051",
-      "speaker": "顾客",
+      "speaker": "王师傅",
       "zh": "招牌挂好了，店名也在合适的位置。",
       "pinyin": "Zhāo pái guà hǎo le ， diàn míng yě zài hé shì de wèi zhì 。",
       "tr": "Tabela asıldı; kafe adı da uygun yerde duruyor."
@@ -388,7 +388,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_055",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "不过灯下面有一点影子，换个角度看看。",
       "pinyin": "Bù guò dēng xià miàn yǒu yì diǎn yǐng zi ， huàn gè jiǎo dù kàn kàn 。",
       "tr": "Ama ışığın altında biraz gölge var; başka bir açıdan bakalım."
@@ -416,7 +416,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_059",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "远处的照片也很清楚，招牌没有歪。",
       "pinyin": "Yuǎn chù de zhào piān yě hěn qīng chǔ ， zhāo pái méi yǒu wāi 。",
       "tr": "Uzaktan çekilen fotoğraf da net; tabela eğri değil."
@@ -444,7 +444,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_063",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "因为马上改正了，所以不用重新做整块招牌。",
       "pinyin": "Yīn wèi mǎ shàng gǎi zhèng le ， suǒ yǐ bù yòng chóng xīn zuò zhěng kuài zhāo pái 。",
       "tr": "Hemen düzelttiğimiz için tabelayı baştan yapmak zorunda kalmadık."
@@ -472,10 +472,10 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_067",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "谢谢你马上帮我们改正，也帮忙检查了安装。",
-      "pinyin": "Xiè xiè nǐ mǎ shàng bāng wǒ men gǎi zhèng ， yě bāng máng jiǎn chá le ān zhuāng 。",
-      "tr": "Hemen düzeltip montajı da kontrol ettiğin için teşekkürler."
+      "pinyin": "Xièxiè nǐ mǎshàng bāng wǒmen gǎizhèng, yě bāngmáng jiǎnchá le ānzhuāng.",
+      "tr": "Hemen düzeltip montajı da kontrol ettiğiniz için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK3_SC019_068",
@@ -500,7 +500,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_071",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "我们把检查结果记下来，明天开店前再看一次。",
       "pinyin": "Wǒ men bǎ jiǎn chá jié guǒ jì xià lái ， míng tiān kāi diàn qián zài kàn yī cì 。",
       "tr": "Kontrol sonucunu not edip yarın açılıştan önce bir kez daha bakalım."
@@ -528,7 +528,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_075",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "以后招牌和菜单做好以后，我们都要互相检查。",
       "pinyin": "Yǐ hòu zhāo pái hé cài dān zuò hǎo yǐ hòu ， wǒ men dōu yào hù xiāng jiǎn chá 。",
       "tr": "Bundan sonra tabela ya da menü hazır olduğunda birbirimizle kontrol edelim."
@@ -556,7 +556,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_079",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "我把正确的店名和照片一起存起来了。",
       "pinyin": "Wǒ bǎ zhèng què de diàn míng hé zhào piān yì qǐ cún qǐ lái le 。",
       "tr": "Doğru kafe adını fotoğrafla birlikte kaydettim."
@@ -584,7 +584,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_083",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "都收好了，门口没有东西挡着。",
       "pinyin": "Dōu shōu hǎo le ， mén kǒu méi yǒu dōng xī dǎng zhe 。",
       "tr": "Hepsini topladık; girişte yolu kapatan bir şey kalmadı."
@@ -612,10 +612,10 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_087",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "这个办法很实用，以后也可以这样做。",
-      "pinyin": "Zhè ge bàn fǎ hěn shí yòng ， yǐ hòu yě kě yǐ zhè yàng zuò 。",
-      "tr": "Bu yöntem işe yarıyor; bundan sonra da böyle yapabiliriz."
+      "pinyin": "Zhège bànfǎ hěn shíyòng, yǐhòu yě kěyǐ zhèyàng zuò.",
+      "tr": "Bu yöntem çok işe yarıyor; bundan sonra da böyle yapabiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC019_088",
@@ -640,7 +640,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_091",
-      "speaker": "顾客",
+      "speaker": "王师傅",
       "zh": "安装记录我会留在工具箱旁边，方便你们查看。",
       "pinyin": "Ān zhuāng jì lù wǒ huì liú zài gōng jù xiāng páng biān ， fāng biàn nǐ men chá kàn 。",
       "tr": "Montaj kaydını kolayca bakabilmeniz için alet çantasının yanında bırakırım."
@@ -668,7 +668,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_095",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "好，我会把这个办法也记下来。",
       "pinyin": "Hǎo ， wǒ huì bǎ zhè ge bàn fǎ yě jì xià lái 。",
       "tr": "Tamam, bu yöntemi de not edeceğim."
@@ -696,7 +696,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC019_099",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "好，大家用同一个写法，以后就不会弄错了。",
       "pinyin": "Hǎo ， dà jiā yòng tóng yī gè xiě fǎ ， yǐ hòu jiù bú huì nòng cuò le 。",
       "tr": "Güzel; herkes aynı yazımı kullanırsa bir daha karışıklık olmaz."
@@ -730,9 +730,9 @@
         "zh": "招牌",
         "pinyin": "zhāopai",
         "tr": "tabela",
-        "exampleZh": "我已经把招牌记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ zhāopai jì xiàlái le.",
-        "exampleTr": "Tabela notunu aldım.",
+        "exampleZh": "等一下，招牌的校样上好像有个错字。",
+        "examplePinyin": "Děng yī xià ， zhāo pái de jiào yàng shàng hǎo xiàng yǒu gè cuò zì 。",
+        "exampleTr": "Bir dakika, tabela provasındaki yazım hatasını fark ettim.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "错字",
         "pinyin": "cuòzì",
         "tr": "yazım hatası",
-        "exampleZh": "错字是这次要考虑的重点之一。",
-        "examplePinyin": "Cuòzì shì zhè cì yào kǎolǜ de zhòngdiǎn zhī yī.",
-        "exampleTr": "Yazım hatası bu kez değerlendirmemiz gereken ana noktalardan biri.",
+        "exampleZh": "等一下，招牌的校样上好像有个错字。",
+        "examplePinyin": "Děng yī xià ， zhāo pái de jiào yàng shàng hǎo xiàng yǒu gè cuò zì 。",
+        "exampleTr": "Bir dakika, tabela provasındaki yazım hatasını fark ettim.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "改正",
         "pinyin": "gǎizhèng",
         "tr": "düzeltmek",
-        "exampleZh": "我已经准备好改正了。",
-        "examplePinyin": "Wǒ yǐjīng zhǔnbèi hǎo gǎizhèng le.",
-        "exampleTr": "Düzeltmek için hazırım.",
+        "exampleZh": "现在发现还来得及，我们马上请师傅改正。",
+        "examplePinyin": "Xiàn zài fā xiàn hái lái de jí ， wǒ men mǎ shàng qǐng shī fù gǎi zhèng 。",
+        "exampleTr": "Şimdi fark ettiğimiz iyi oldu; ustadan hemen düzeltmesini isteyelim.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "检查",
         "pinyin": "jiǎnchá",
         "tr": "kontrol etmek",
-        "exampleZh": "这一步需要认真检查。",
-        "examplePinyin": "Zhè yí bù xūyào rènzhēn jiǎnchá.",
-        "exampleTr": "Bu adımda dikkatlice kontrol etmek gerekiyor.",
+        "exampleZh": "对不起，是我检查得不够仔细。",
+        "examplePinyin": "Duìbùqǐ, shì wǒ jiǎnchá dé bùgòu zǐxì.",
+        "exampleTr": "Özür dilerim, yeterince dikkatli kontrol etmemişim.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "马上",
         "pinyin": "mǎshàng",
         "tr": "hemen",
-        "exampleZh": "关于马上，我们还要再讨论一下。",
-        "examplePinyin": "Guānyú mǎshàng, wǒmen hái yào zài tǎolùn yíxià.",
-        "exampleTr": "Hemen konusunda biraz daha konuşmalıyız.",
+        "exampleZh": "现在发现还来得及，我们马上请师傅改正。",
+        "examplePinyin": "Xiàn zài fā xiàn hái lái de jí ， wǒ men mǎ shàng qǐng shī fù gǎi zhèng 。",
+        "exampleTr": "Şimdi fark ettiğimiz iyi oldu; ustadan hemen düzeltmesini isteyelim.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "对不起",
         "pinyin": "duìbuqǐ",
         "tr": "özür dilerim",
-        "exampleZh": "我已经把对不起记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ duìbuqǐ jì xiàlái le.",
-        "exampleTr": "Özür dilerim notunu aldım.",
+        "exampleZh": "对不起，是我检查得不够仔细。",
+        "examplePinyin": "Duìbùqǐ, shì wǒ jiǎnchá dé bùgòu zǐxì.",
+        "exampleTr": "Özür dilerim, yeterince dikkatli kontrol etmemişim.",
         "kind": "active"
       },
       {
@@ -1196,8 +1196,8 @@
     "characters": [
       "刘梅",
       "张伟",
-      "顾客",
-      "张雨桐"
+      "张雨桐",
+      "王师傅"
     ],
     "locationId": "LOC_ZH_CAFE_PREMISES_001",
     "visual": {

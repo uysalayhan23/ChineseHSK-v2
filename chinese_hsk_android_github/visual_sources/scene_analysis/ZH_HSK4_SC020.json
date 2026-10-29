@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC020",
   "status": "ANALYZED_READY_FOR_GENERATION",
-  "dialogueSource": "ci/dialogue_final_v5/HSK4/ZH_HSK4_SC020.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC020.json",
   "titleTr": "Kasaba Fotoğraf Yarışması",
   "locationId": "LOC_ZH_TOWN_CENTER_001",
   "scenePurposeTr": "Lele fotoğraf yarışmasına katılır; görevli ve ailesi çalışmasını değerlendirir.",

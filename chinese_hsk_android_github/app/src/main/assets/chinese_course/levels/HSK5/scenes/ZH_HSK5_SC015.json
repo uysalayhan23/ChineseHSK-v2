@@ -151,9 +151,9 @@
     {
       "id": "DLG_ZH_HSK5_SC015_021",
       "speaker": "张乐乐",
-      "zh": "我找到了社区公众号，没有发布停水或水质异常的通知，但这还不能单独证明消息是假的。",
-      "pinyin": "wǒ zhǎo dào le shè qū gōng zhòng hào ， méi yǒu fā bù tíng shuǐ huò shuǐ zhì yì cháng de tōng zhī ， dàn zhè hái bù néng dān dú zhèng míng xiāo xī shì jiǎ de 。",
-      "tr": "Mahalle hesabında su kesintisi ya da kalite sorunu duyurusu yok; ancak bu tek başına iddianın yanlış olduğunu kanıtlamaz."
+      "zh": "我找到了社区公众号，也看了几条网上评价；没有停水通知，但这还不能证明消息是假的。",
+      "pinyin": "wǒ zhǎo dào le shè qū gōng zhòng hào ， yě kàn le jǐ tiáo wǎng shàng píng jià ； méi yǒu tíng shuǐ tōng zhī ， dàn zhè hái bù néng zhèng míng xiāo xī shì jiǎ de 。",
+      "tr": "Mahallenin resmî hesabını buldum ve çevrim içi yorumlara da baktım; su kesintisi duyurusu yok ama bu, haberin yanlış olduğunu kanıtlamaz."
     },
     {
       "id": "DLG_ZH_HSK5_SC015_022",
@@ -221,9 +221,9 @@
     {
       "id": "DLG_ZH_HSK5_SC015_031",
       "speaker": "刘梅",
-      "zh": "把引用关系画出来，会更容易看出哪些页面其实来自同一个来源。",
-      "pinyin": "bǎ yǐn yòng guān xì huà chū lái ， huì gèng róng yì kàn chū nǎ xiē yè miàn qí shí lái zì tóng yī gè lái yuán 。",
-      "tr": "Kaynak ilişkilerini şema hâline getirirsen hangi sayfaların aynı kaynağa dayandığını görmek kolaylaşır."
+      "zh": "把引用关系画出来，核对每条信息来源；同一条内容被多处转载，也不会提高这条消息的可信度。",
+      "pinyin": "bǎ yǐn yòng guān xì huà chū lái ， hé duì měi tiáo xìn xī lái yuán ； tóng yī tiáo nèi róng bèi duō chù zhuǎn zǎi ， yě bú huì tí gāo zhè tiáo xiāo xī de kě xìn dù 。",
+      "tr": "Alıntı ilişkilerini gösterip her bilginin kaynağını doğrulayalım; aynı içerik birçok yerde paylaşılsa da bu haberin güvenilirliği artmaz."
     },
     {
       "id": "DLG_ZH_HSK5_SC015_032",
@@ -431,9 +431,9 @@
     {
       "id": "DLG_ZH_HSK5_SC015_061",
       "speaker": "张乐乐",
-      "zh": "我按这个结构完成了初稿：先讲传言，再追溯图片和帖子，最后说明哪些问题还没有答案。",
-      "pinyin": "wǒ àn zhè ge jié gòu wán chéng le chū gǎo ： xiān jiǎng chuán yán ， zài zhuī sù tú piàn hé tiě zi ， zuì hòu shuō míng nǎ xiē wèn tí hái méi yǒu dá àn 。",
-      "tr": "Taslağı bu yapıyla hazırladım: önce söylentiyi, sonra görselin ve gönderinin kaynağını, en son da hangi soruların yanıtsız kaldığını anlatıyorum."
+      "zh": "我按这个结构完成了初稿，没有直接把传言称为假消息，而是说明核实到什么程度。",
+      "pinyin": "wǒ àn zhè ge jié gòu wán chéng le chū gǎo ， méi yǒu zhí jiē bǎ chuán yán chēng wéi jiǎ xiāo xī ， ér shì shuō míng hé shí dào shén me chéng dù 。",
+      "tr": "İlk taslağı bu yapıyla tamamladım; söylentiyi doğrudan yanlış haber diye adlandırmadım, ne ölçüde doğrulayabildiğimizi anlattım."
     },
     {
       "id": "DLG_ZH_HSK5_SC015_062",
@@ -641,9 +641,9 @@
     {
       "id": "DLG_ZH_HSK5_SC015_091",
       "speaker": "刘梅",
-      "zh": "如果之后出现正式检测结果，项目也可以更新，但要写清楚更新的依据和时间。",
-      "pinyin": "rú guǒ zhī hòu chū xiàn zhèng shì jiǎn cè jié guǒ ， xiàng mù yě kě yǐ gēng xīn ， dàn yào xiě qīng chǔ gēng xīn de yī jù hé shí jiān 。",
-      "tr": "Daha sonra resmî test sonucu çıkarsa projeyi güncelleyebilirsiniz; dayanağı ve tarihi açıkça yazın."
+      "zh": "无论正式检测结果何时出来，我们都要标明更新依据和时间。",
+      "pinyin": "wú lùn zhèng shì jiǎn cè jié guǒ hé shí chū lái ， wǒ men dōu yào biāo míng gēng xīn yī jù hé shí jiān 。",
+      "tr": "Resmî test sonucu ne zaman gelirse gelsin, güncellemenin dayanağını ve tarihini belirtmeliyiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC015_092",
@@ -704,9 +704,9 @@
     {
       "id": "DLG_ZH_HSK5_SC015_100",
       "speaker": "老师",
-      "zh": "可以提交了。记住，负责任的媒体作品既要吸引人，也要尊重证据和观众。",
-      "pinyin": "kě yǐ tí jiāo le 。 jì zhù ， fù zé rèn de méi tǐ zuò pǐn jì yào xī yǐn rén ， yě yào zūn zhòng zhèng jù hé guān zhòng 。",
-      "tr": "Teslime hazır. Sorumlu medya çalışması ilgi çekici olmalı, ama kanıta ve izleyiciye de saygı göstermeli."
+      "zh": "可以提交了。媒体创作者有责任感，就要核实来源、说明不确定之处，并及时沟通更新。",
+      "pinyin": "kě yǐ tí jiāo le 。 méi tǐ chuàng zuò zhě yǒu zé rèn gǎn ， jiù yào hé shí lái yuán 、 shuō míng bù què dìng zhī chù ， bìng jí shí gōu tōng gēng xīn 。",
+      "tr": "Teslim edebilirsiniz. Sorumluluk sahibi medya üreticisi kaynakları doğrular, belirsizlikleri açıklar ve güncellemeleri zamanında paylaşır."
     }
   ],
   "productionStatus": "complete",
@@ -730,9 +730,9 @@
         "zh": "假消息",
         "pinyin": "jiǎ xiāoxi",
         "tr": "yanlış haber / yanlış bilgi",
-        "exampleZh": "假消息是我们不能忽略的一点。",
-        "examplePinyin": "Jiǎ xiāoxi shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Yanlış haber / yanlış bilgi göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "结论不要写“网上全是假消息”，只评价我们核实过的这条内容。",
+        "examplePinyin": "Jié lùn bú yào xiě “ wǎng shàng quán shì jiǎ xiāo xī ” ， zhǐ píng jià wǒ men hé shí guò de zhè tiáo nèi róng 。",
+        "exampleTr": "Sonuçta “İnternetteki her şey yalan” demeyin; yalnızca doğruladığınız bu içeriği değerlendirin.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "信息来源",
         "pinyin": "xìnxī láiyuán",
         "tr": "bilgi kaynağı",
-        "exampleZh": "我们把信息来源也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ xìnxī láiyuán yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Bilgi kaynağı konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "把引用关系画出来，核对每条信息来源；同一条内容被多处转载，也不会提高这条消息的可信度。",
+        "examplePinyin": "Bǎ yǐn yòng guān xì huà chū lái ， hé duì měi tiáo xìn xī lái yuán ； tóng yī tiáo nèi róng bèi duō chù zhuǎn zǎi ， yě bú huì tí gāo zhè tiáo xiāo xī de kě xìn dù 。",
+        "exampleTr": "Alıntı ilişkilerini gösterip her bilginin kaynağını doğrulayalım; aynı içerik birçok yerde paylaşılsa da bu haberin güvenilirliği artmaz.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "核实",
         "pinyin": "héshí",
         "tr": "doğrulamak",
-        "exampleZh": "我来负责核实这一部分。",
-        "examplePinyin": "Wǒ lái fùzé héshí zhè yí bùfen.",
-        "exampleTr": "Doğrulamak kısmını ben üstleneyim.",
+        "exampleZh": "结论不要写“网上全是假消息”，只评价我们核实过的这条内容。",
+        "examplePinyin": "Jié lùn bú yào xiě “ wǎng shàng quán shì jiǎ xiāo xī ” ， zhǐ píng jià wǒ men hé shí guò de zhè tiáo nèi róng 。",
+        "exampleTr": "Sonuçta “İnternetteki her şey yalan” demeyin; yalnızca doğruladığınız bu içeriği değerlendirin.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "可信度",
         "pinyin": "kěxìndù",
         "tr": "güvenilirlik",
-        "exampleZh": "关于可信度，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú kěxìndù, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Güvenilirlik konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "把引用关系画出来，核对每条信息来源；同一条内容被多处转载，也不会提高这条消息的可信度。",
+        "examplePinyin": "Bǎ yǐn yòng guān xì huà chū lái ， hé duì měi tiáo xìn xī lái yuán ； tóng yī tiáo nèi róng bèi duō chù zhuǎn zǎi ， yě bú huì tí gāo zhè tiáo xiāo xī de kě xìn dù 。",
+        "exampleTr": "Alıntı ilişkilerini gösterip her bilginin kaynağını doğrulayalım; aynı içerik birçok yerde paylaşılsa da bu haberin güvenilirliği artmaz.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "依据",
         "pinyin": "yījù",
         "tr": "dayanak / kanıt",
-        "exampleZh": "依据是我们不能忽略的一点。",
-        "examplePinyin": "Yījù shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Dayanak / kanıt göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "无论正式检测结果何时出来，我们都要标明更新依据和时间。",
+        "examplePinyin": "Wú lùn zhèng shì jiǎn cè jié guǒ hé shí chū lái ， wǒ men dōu yào biāo míng gēng xīn yī jù hé shí jiān 。",
+        "exampleTr": "Resmî test sonucu ne zaman gelirse gelsin, güncellemenin dayanağını ve tarihini belirtmeliyiz.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "网上评价",
         "pinyin": "wǎngshàng píngjià",
         "tr": "internet yorumu",
-        "exampleZh": "我们把网上评价也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ wǎngshàng píngjià yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Internet yorumu konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我找到了社区公众号，也看了几条网上评价；没有停水通知，但这还不能证明消息是假的。",
+        "examplePinyin": "Wǒ zhǎo dào le shè qū gōng zhòng hào ， yě kàn le jǐ tiáo wǎng shàng píng jià ； méi yǒu tíng shuǐ tōng zhī ， dàn zhè hái bù néng zhèng míng xiāo xī shì jiǎ de 。",
+        "exampleTr": "Mahallenin resmî hesabını buldum ve çevrim içi yorumlara da baktım; su kesintisi duyurusu yok ama bu, haberin yanlış olduğunu kanıtlamaz.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "我来负责沟通这一部分。",
-        "examplePinyin": "Wǒ lái fùzé gōutōng zhè yí bùfen.",
-        "exampleTr": "Iletişim kurmak kısmını ben üstleneyim.",
-        "kind": "review"
+        "exampleZh": "可以提交了。媒体创作者有责任感，就要核实来源、说明不确定之处，并及时沟通更新。",
+        "examplePinyin": "Kě yǐ tí jiāo le 。 méi tǐ chuàng zuò zhě yǒu zé rèn gǎn ， jiù yào hé shí lái yuán 、 shuō míng bù què dìng zhī chù ， bìng jí shí gōu tōng gēng xīn 。",
+        "exampleTr": "Teslim edebilirsiniz. Sorumluluk sahibi medya üreticisi kaynakları doğrular, belirsizlikleri açıklar ve güncellemeleri zamanında paylaşır.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC015_008",
         "zh": "责任感",
         "pinyin": "zérèngǎn",
         "tr": "sorumluluk duygusu",
-        "exampleZh": "关于责任感，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zérèngǎn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Sorumluluk duygusu konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "可以提交了。媒体创作者有责任感，就要核实来源、说明不确定之处，并及时沟通更新。",
+        "examplePinyin": "Kě yǐ tí jiāo le 。 méi tǐ chuàng zuò zhě yǒu zé rèn gǎn ， jiù yào hé shí lái yuán 、 shuō míng bù què dìng zhī chù ， bìng jí shí gōu tōng gēng xīn 。",
+        "exampleTr": "Teslim edebilirsiniz. Sorumluluk sahibi medya üreticisi kaynakları doğrular, belirsizlikleri açıklar ve güncellemeleri zamanında paylaşır.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1224,6 +1224,14 @@
     },
     "continuityNoteTr": "İnternette Yanlış Bilgi olayı HSK5 yaşam çizgisinde sahne 15 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 15,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC015.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

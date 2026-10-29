@@ -114,23 +114,23 @@
     {
       "id": "DLG_ZH_HSK5_SC002_016",
       "speaker": "张乐乐",
-      "zh": "我也想谈谈这次挂科，不想让它变成全家的焦点。",
-      "pinyin": "Wǒ yě xiǎng tán tán zhè cì guà kē bù xiǎng ràng tā biàn chéng quán jiā de jiāo diǎn",
-      "tr": "Bu dersten kalmamı da konuşmak istiyorum; ailedeki tek gündem bu olmasın."
+      "zh": "我也想帮姐姐，但不想让这次挂科变成全家的焦点。",
+      "pinyin": "wǒ yě xiǎng bāng jiě jiě dàn bù xiǎng ràng zhè cì guà kē biàn chéng quán jiā de jiāo diǎn",
+      "tr": "Ablama yardım etmek istiyorum ama bu başarısızlığın bütün ailenin tek konusu olmasını istemiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_017",
       "speaker": "张伟",
-      "zh": "你希望我们怎么回应你？",
-      "pinyin": "Nǐ xī wàng wǒ men zěn me huí yìng nǐ",
-      "tr": "Sana nasıl karşılık vermemizi istersin?"
+      "zh": "乐乐，你觉得我们怎样回应雨桐会让她感觉被支持？",
+      "pinyin": "lè lè nǐ jué de wǒ men zěn yàng huí yìng yǔ tóng huì ràng tā gǎn jué bèi zhī chí",
+      "tr": "Lele, Yutong’a nasıl karşılık verirsek desteğimizi hissettiririz sence?"
     },
     {
       "id": "DLG_ZH_HSK5_SC002_018",
       "speaker": "张雨桐",
-      "zh": "她希望我们先听她说完，再问她需要什么，不要马上批评。",
-      "pinyin": "Tā xī wàng wǒ men xiān tīng tā shuō wán zài wèn tā xū yào shén me bú yào mǎ shàng pī píng",
-      "tr": "Önce onun sözünü bitirmesini beklememizi, sonra neye ihtiyacı olduğunu sormamızı; hemen eleştirmememizi istiyor."
+      "zh": "我希望你们先听我说完，再问我需要什么，不要马上批评。",
+      "pinyin": "wǒ xī wàng nǐ men xiān tīng wǒ shuō wán zài wèn wǒ xū yào shén me bú yào mǎ shàng pī píng",
+      "tr": "Önce sözümü bitirene kadar dinleyip sonra neye ihtiyacım olduğunu sorun; hemen eleştirmeyin istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_019",
@@ -149,16 +149,16 @@
     {
       "id": "DLG_ZH_HSK5_SC002_021",
       "speaker": "张伟",
-      "zh": "乐乐，这件事和你也有关系吗？",
-      "pinyin": "Lè lè zhè jiàn shì hé nǐ yě yǒu guān xì ma",
-      "tr": "Lele, bu konunun seninle de ilgisi var mı?"
+      "zh": "雨桐，这件事还有什么让你为难的地方？",
+      "pinyin": "yǔ tóng zhè jiàn shì hái yǒu shén me ràng nǐ wéi nán de dì fāng",
+      "tr": "Yutong, bu konuda seni zorlayan başka bir şey var mı?"
     },
     {
       "id": "DLG_ZH_HSK5_SC002_022",
       "speaker": "张雨桐",
-      "zh": "有一点。我想帮姐姐，但不知道怎么开口。",
-      "pinyin": "Yǒu yì diǎn wǒ xiǎng bāng jiě jiě dàn bù zhī dào zěn me kāi kǒu",
-      "tr": "Biraz var. Ablama yardım etmek istiyorum ama nasıl başlayacağımı bilmiyorum."
+      "zh": "有一点。我不想让乐乐替我讲给爸妈听，我想自己说明。",
+      "pinyin": "yǒu yì diǎn wǒ bù xiǎng ràng lè lè tì wǒ jiǎng gěi bà mā tīng wǒ xiǎng zì jǐ shuō míng",
+      "tr": "Biraz var. Lele’nin benim adıma annemle babama konuşmasını değil, kendim açıklamayı istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_023",
@@ -177,16 +177,16 @@
     {
       "id": "DLG_ZH_HSK5_SC002_025",
       "speaker": "张伟",
-      "zh": "谢谢你愿意跟我们说。有些想法可以先自己理清，不用马上回答。",
-      "pinyin": "Xiè xiè nǐ yuàn yì gēn wǒ men shuō yǒu xiē xiǎng fǎ kě yǐ xiān zì jǐ lǐ qīng bù yòng mǎ shàng huí dá",
-      "tr": "Bizimle konuşmaya açık olduğun için sağ ol. Bazı düşüncelerini önce kendin netleştirebilirsin; hemen yanıt vermen gerekmiyor."
+      "zh": "你们可以慢慢说，没想好的地方不用勉强回答。",
+      "pinyin": "nǐ men kě yǐ màn màn shuō méi xiǎng hǎo de dì fāng bù yòng miǎn qiǎng huí dá",
+      "tr": "Yavaş yavaş anlatabilirsiniz; henüz düşünmediğiniz şeylere cevap vermek zorunda değilsiniz."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_026",
       "speaker": "张雨桐",
-      "zh": "你不需要马上给出答案，想好了再告诉我们。",
-      "pinyin": "Nǐ bù xū yào mǎ shàng gěi chū dá àn xiǎng hǎo le zài gào sù wǒ men",
-      "tr": "Hemen yanıt vermen gerekmiyor; düşündükten sonra anlatırsın."
+      "zh": "我也不用现在就给出答案，想清楚以后再告诉你们。",
+      "pinyin": "wǒ yě bù yòng xiàn zài jiù gěi chū dá àn xiǎng qīng chǔ yǐ hòu zài gào sù nǐ men",
+      "tr": "Benim de hemen cevap vermem gerekmiyor; düşündükten sonra size söylerim."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_027",
@@ -212,9 +212,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_030",
       "speaker": "张雨桐",
-      "zh": "先让她写一版吧，我们再帮她看看有没有漏项。",
-      "pinyin": "Xiān ràng tā xiě yī bǎn ba wǒ men zài bāng tā kàn kàn yǒu méi yǒu lòu xiàng",
-      "tr": "Önce bir taslak yazsın, sonra eksik bir şey var mı birlikte kontrol ederiz."
+      "zh": "我先写一版，你们再帮我看看有没有漏项。",
+      "pinyin": "wǒ xiān xiě yī bǎn nǐ men zài bāng wǒ kàn kàn yǒu méi yǒu lòu xiàng",
+      "tr": "Önce bir taslak yazayım, sonra eksik var mı birlikte kontrol ederiz."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_031",
@@ -240,9 +240,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_034",
       "speaker": "张雨桐",
-      "zh": "先把课程、作业和复习分开写，计划会清楚一些。",
-      "pinyin": "Xiān bǎ kè chéng zuò yè hé fù xí fēn kāi xiě jì huà huì qīng chǔ yī xiē",
-      "tr": "Dersleri, ödevleri ve tekrarı ayrı yazarsan plan daha anlaşılır olur."
+      "zh": "我先把课程、作业和复习分开写，计划会清楚一些。",
+      "pinyin": "wǒ xiān bǎ kè chéng zuò yè hé fù xí fēn kāi xiě jì huà huì qīng chǔ yī xiē",
+      "tr": "Dersleri, ödevleri ve tekrar çalışmalarını ayrı yazarsam planım daha net olur."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_035",
@@ -254,9 +254,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_036",
       "speaker": "张乐乐",
-      "zh": "我会先试一周，再看这个方法适不适合我。",
-      "pinyin": "Wǒ huì xiān shì yī zhōu zài kàn zhè ge fāng fǎ shì bú shì hé wǒ",
-      "tr": "Önce bir hafta dener, sonra yöntemin bana uyup uymadığına bakarım."
+      "zh": "姐姐先试一周，再看这个方法适不适合。",
+      "pinyin": "jiě jiě xiān shì yī zhōu zài kàn zhè ge fāng fǎ shì bú shì hé",
+      "tr": "Ablam önce bir hafta denesin, sonra yöntemin uyup uymadığına bakarız."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_037",
@@ -296,9 +296,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_042",
       "speaker": "张雨桐",
-      "zh": "她希望这次考试的事先不要告诉亲戚。",
-      "pinyin": "Tā xī wàng zhè cì kǎo shì de shì xiān bú yào gào sù qīn qī",
-      "tr": "Bu sınav konusunu şimdilik akrabalarımıza anlatmamamızı istiyor."
+      "zh": "我希望这次挂科的事先不要告诉亲戚。",
+      "pinyin": "wǒ xī wàng zhè cì guà kē de shì xiān bú yào gào sù qīn qī",
+      "tr": "Bu sınavı geçemediğimi şimdilik akrabalarımıza söylememenizi istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_043",
@@ -310,9 +310,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_044",
       "speaker": "张乐乐",
-      "zh": "谢谢，这个边界对我很重要。",
-      "pinyin": "Xiè xiè zhè ge biān jiè duì wǒ hěn zhòng yào",
-      "tr": "Teşekkürler; bu sınır benim için önemli."
+      "zh": "明白，姐姐愿意分享时再告诉大家。",
+      "pinyin": "míng bái jiě jiě yuàn yì fēn xiǎng shí zài gào sù dà jiā",
+      "tr": "Anladım; ablam paylaşmak istediğinde herkese anlatır."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_045",
@@ -324,9 +324,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_046",
       "speaker": "张雨桐",
-      "zh": "你可以每周日跟我们说说进度，不用汇报每个细节。",
-      "pinyin": "Nǐ kě yǐ měi zhōu rì gēn wǒ men shuō shuō jìn dù bù yòng huì bào měi gè xì jié",
-      "tr": "Her pazar bize nasıl gittiğini anlatabilirsin; her ayrıntıyı bildirmek zorunda değilsin."
+      "zh": "我每周日和你们说说进度，不用汇报每个细节。",
+      "pinyin": "wǒ měi zhōu rì hé nǐ men shuō shuō jìn dù bù yòng huì bào měi gè xì jié",
+      "tr": "Her pazar size nasıl gittiğini anlatırım; her ayrıntıyı raporlamam gerekmez."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_047",
@@ -352,9 +352,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_050",
       "speaker": "张雨桐",
-      "zh": "她想要建议时会说；如果没开口，我们先听她讲就好。",
-      "pinyin": "Tā xiǎng yào jiàn yì shí huì shuō rú guǒ méi kāi kǒu wǒ men xiān tīng tā jiǎng jiù hǎo",
-      "tr": "Öneri istediğinde söyler; konuşmaya başlamadıysa önce onu dinleyelim."
+      "zh": "我需要建议时会说；如果没开口，你们先听我讲就好。",
+      "pinyin": "wǒ xū yào jiàn yì shí huì shuō rú guǒ méi kāi kǒu nǐ men xiān tīng wǒ jiǎng jiù hǎo",
+      "tr": "Öneriye ihtiyacım olursa söylerim; söylemezsem önce beni dinlemeniz yeterli."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_051",
@@ -380,9 +380,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_054",
       "speaker": "张雨桐",
-      "zh": "你可以告诉我你在怕什么，我也会说我现在能做什么。",
-      "pinyin": "Nǐ kě yǐ gào sù wǒ nǐ zài pà shén me wǒ yě huì shuō wǒ xiàn zài néng zuò shén me",
-      "tr": "Neden kaygılandığını anlatabilir, benim de şu an ne yapabileceğimi söylerim."
+      "zh": "我也会说清楚自己在担心什么，让你们知道我现在能接受哪种帮助。",
+      "pinyin": "wǒ yě huì shuō qīng chǔ zì jǐ zài dān xīn shén me ràng nǐ men zhī dào wǒ xiàn zài néng jiē shòu nǎ zhǒng bāng zhù",
+      "tr": "Neyden endişelendiğimi açıkça anlatıp şu an nasıl bir yardımı kabul edebileceğimi söylerim."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_055",
@@ -415,30 +415,30 @@
     {
       "id": "DLG_ZH_HSK5_SC002_059",
       "speaker": "刘梅",
-      "zh": "我现在知道怎么帮了：先问，再听，不替她决定。",
-      "pinyin": "Wǒ xiàn zài zhī dào zěn me bāng le xiān wèn zài tīng bù tì tā jué dìng",
-      "tr": "Şimdi nasıl yardım edeceğimi anladım: önce sor, dinle, onun yerine karar verme."
+      "zh": "我现在知道怎么帮了：先问，再听，不替你决定。",
+      "pinyin": "wǒ xiàn zài zhī dào zěn me bāng le xiān wèn zài tīng bù tì nǐ jué dìng",
+      "tr": "Artık nasıl destek olacağımı biliyorum: önce sorup dinleyeceğim, senin yerine karar vermeyeceğim."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_060",
       "speaker": "张乐乐",
-      "zh": "我列了四件事：问老师、补词汇、练阅读、每周复盘。",
-      "pinyin": "Wǒ liè le sì jiàn shì wèn lǎo shī bǔ cí huì liàn yuè dú měi zhōu fù pán",
-      "tr": "Dört şey yazdım: öğretmene sormak, kelime tamamlamak, okuma çalışmak ve haftalık değerlendirme."
+      "zh": "我也记下了怎么支持姐姐：陪她问老师、练词汇和阅读、每周聊一次。",
+      "pinyin": "wǒ yě jì xià le zěn me zhī chí jiě jiě péi tā wèn lǎo shī liàn cí huì hé yuè dú měi zhōu liáo yī cì",
+      "tr": "Ablama nasıl destek olacağımı da not ettim: öğretmene sormasına eşlik etmek, sözcük ve okuma çalışmak, haftada bir konuşmak."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_061",
       "speaker": "张伟",
-      "zh": "这个顺序是你自己定的吗？",
-      "pinyin": "Zhè ge shùn xù shì nǐ zì jǐ dìng de ma",
-      "tr": "Bu sırayı kendin mi belirledin?"
+      "zh": "雨桐，这个顺序是你自己定的吗？",
+      "pinyin": "yǔ tóng zhè ge shùn xù shì nǐ zì jǐ dìng de ma",
+      "tr": "Yutong, bu sırayı kendin mi belirledin?"
     },
     {
       "id": "DLG_ZH_HSK5_SC002_062",
       "speaker": "张雨桐",
-      "zh": "对，她会先弄清补考要求，再按时间安排练习。",
-      "pinyin": "Duì tā huì xiān nòng qīng bǔ kǎo yāo qiú zài àn shí jiān ān pái liàn xí",
-      "tr": "Evet, önce telafi sınavının koşullarını öğrenip sonra zamanına göre çalışmasını planlayacak."
+      "zh": "对，我会先弄清补考要求，再按时间安排练习。",
+      "pinyin": "duì wǒ huì xiān nòng qīng bǔ kǎo yāo qiú zài àn shí jiān ān pái liàn xí",
+      "tr": "Evet, önce telafi sınavının koşullarını öğrenip sonra alıştırmaları zamana göre planlayacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_063",
@@ -450,9 +450,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_064",
       "speaker": "张乐乐",
-      "zh": "我留了两晚不学习，这样应该不会太满。",
-      "pinyin": "Wǒ liú le liǎng wǎn bù xué xí zhè yàng yīng gāi bú huì tài mǎn",
-      "tr": "İki akşamı çalışmasız bıraktım; böylece programım çok dolu olmaz."
+      "zh": "姐姐还留了两晚不学习，这样应该不会太满。",
+      "pinyin": "jiě jiě hái liú le liǎng wǎn bù xué xí zhè yàng yīng gāi bú huì tài mǎn",
+      "tr": "Ablam çalışmadığı iki akşamı da boş bırakmış; böylece programı fazla dolu olmaz."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_065",
@@ -464,9 +464,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_066",
       "speaker": "张雨桐",
-      "zh": "她试一周后，我们就根据实际情况再谈。",
-      "pinyin": "Tā shì yī zhōu hòu wǒ men jiù gēn jù shí jì qíng kuàng zài tán",
-      "tr": "Bir hafta denedikten sonra gerçek duruma göre yeniden konuşuruz."
+      "zh": "我试一周后，我们根据实际情况再谈。",
+      "pinyin": "wǒ shì yī zhōu hòu wǒ men gēn jù shí jì qíng kuàng zài tán",
+      "tr": "Bir hafta denedikten sonra gerçek duruma göre tekrar konuşuruz."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_067",
@@ -492,9 +492,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_070",
       "speaker": "张雨桐",
-      "zh": "她会先问老师补考安排，再决定每周怎么复习。",
-      "pinyin": "Tā huì xiān wèn lǎo shī bǔ kǎo ān pái zài jué dìng měi zhōu zěn me fù xí",
-      "tr": "Önce öğretmene telafi sınavı düzenini sorup haftalık tekrarını sonra planlayacak."
+      "zh": "我会先问老师补考安排，再决定每周怎么复习。",
+      "pinyin": "wǒ huì xiān wèn lǎo shī bǔ kǎo ān pái zài jué dìng měi zhōu zěn me fù xí",
+      "tr": "Önce öğretmene telafi sınavı düzenini sorup sonra haftalık çalışmamı planlayacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_071",
@@ -506,9 +506,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_072",
       "speaker": "张乐乐",
-      "zh": "我会先听理由，再决定哪些建议适合我。",
-      "pinyin": "Wǒ huì xiān tīng lǐ yóu zài jué dìng nǎ xiē jiàn yì shì hé wǒ",
-      "tr": "Önce gerekçesini dinleyip hangi önerilerin bana uyduğuna karar veririm."
+      "zh": "她可以先听听理由，再决定哪些建议适合自己。",
+      "pinyin": "tā kě yǐ xiān tīng tīng lǐ yóu zài jué dìng nǎ xiē jiàn yì shì hé zì jǐ",
+      "tr": "Önce gerekçeleri dinleyip hangi önerilerin kendisine uyduğuna ablam karar verebilir."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_073",
@@ -520,9 +520,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_074",
       "speaker": "张雨桐",
-      "zh": "她以前担心，不同意建议会让我们失望。",
-      "pinyin": "Tā yǐ qián dān xīn bù tóng yì jiàn yì huì ràng wǒ men shī wàng",
-      "tr": "Eskiden önerilere katılmazsa bizi hayal kırıklığına uğratacağından korkuyordu."
+      "zh": "我以前担心不同意建议会让你们失望。",
+      "pinyin": "wǒ yǐ qián dān xīn bù tóng yì jiàn yì huì ràng nǐ men shī wàng",
+      "tr": "Önerilere katılmazsam sizi hayal kırıklığına uğratmaktan korkuyordum."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_075",
@@ -548,9 +548,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_078",
       "speaker": "张雨桐",
-      "zh": "她想先自己检查计划，今晚我们就聊到这里吧。",
-      "pinyin": "Tā xiǎng xiān zì jǐ jiǎn chá jì huà jīn wǎn wǒ men jiù liáo dào zhè lǐ ba",
-      "tr": "Önce planını kendi başına kontrol etmek istiyor; bu akşam burada bırakalım."
+      "zh": "我想先自己检查计划，今晚我们就聊到这里吧。",
+      "pinyin": "wǒ xiǎng xiān zì jǐ jiǎn chá jì huà jīn wǎn wǒ men jiù liáo dào zhè lǐ ba",
+      "tr": "Önce planımı kendim kontrol etmek istiyorum; bu akşam burada bırakalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_079",
@@ -562,9 +562,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_080",
       "speaker": "张乐乐",
-      "zh": "我会去收拾桌子，不问你写了几项。",
-      "pinyin": "Wǒ huì qù shōu shí zhuō zi bù wèn nǐ xiě le jǐ xiàng",
-      "tr": "Masayı toplamaya gidiyorum; kaç madde yazdığını sormayacağım."
+      "zh": "我去收拾桌子，也不追问姐姐写了几项。",
+      "pinyin": "wǒ qù shōu shí zhuō zi yě bù zhuī wèn jiě jiě xiě le jǐ xiàng",
+      "tr": "Masayı toplamaya gidiyorum; ablama kaç madde yazdığını da sormayacağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_081",
@@ -576,23 +576,23 @@
     {
       "id": "DLG_ZH_HSK5_SC002_082",
       "speaker": "张雨桐",
-      "zh": "她明天下课后会自己去问补考报名和复习范围。",
-      "pinyin": "Tā míng tiān xià kè hòu huì zì jǐ qù wèn bǔ kǎo bào míng hé fù xí fàn wéi",
-      "tr": "Yarın dersten sonra telafi sınavı kaydını ve çalışma kapsamını kendisi soracak."
+      "zh": "我明天下课后自己去问补考报名和复习范围。",
+      "pinyin": "wǒ míng tiān xià kè hòu zì jǐ qù wèn bǔ kǎo bào míng hé fù xí fàn wéi",
+      "tr": "Yarın dersten sonra telafi sınavı kaydını ve çalışma kapsamını kendim soracağım."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_083",
       "speaker": "刘梅",
-      "zh": "你需要我陪你去吗？",
-      "pinyin": "Nǐ xū yào wǒ péi nǐ qù ma",
-      "tr": "Yanında gelmemi ister misin?"
+      "zh": "乐乐，你想陪姐姐一起去问吗？",
+      "pinyin": "lè lè nǐ xiǎng péi jiě jiě yì qǐ qù wèn ma",
+      "tr": "Lele, ablanla birlikte gidip sormak ister misin?"
     },
     {
       "id": "DLG_ZH_HSK5_SC002_084",
       "speaker": "张乐乐",
-      "zh": "谢谢，不用了；如果听不明白，我回来再问你。",
-      "pinyin": "Xiè xiè bù yòng le rú guǒ tīng bù míng bái wǒ huí lái zài wèn nǐ",
-      "tr": "Sağ ol, gerek yok; anlamazsam dönüp sana sorarım."
+      "zh": "谢谢，不用；姐姐想自己去，听不明白再回来问我们。",
+      "pinyin": "xiè xiè bù yòng jiě jiě xiǎng zì jǐ qù tīng bù míng bái zài huí lái wèn wǒ men",
+      "tr": "Teşekkürler, gerek yok. Ablam kendi gitmek istiyor; anlamazsa gelip bize sorar."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_085",
@@ -604,9 +604,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_086",
       "speaker": "张雨桐",
-      "zh": "她会主动告诉我们问到了什么。",
-      "pinyin": "Tā huì zhǔ dòng gào sù wǒ men wèn dào le shén me",
-      "tr": "Öğrendiklerini bize kendisi anlatacak."
+      "zh": "我会主动告诉你们问到了什么。",
+      "pinyin": "wǒ huì zhǔ dòng gào sù nǐ men wèn dào le shén me",
+      "tr": "Neler öğrendiğimi size kendim anlatırım."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_087",
@@ -618,23 +618,23 @@
     {
       "id": "DLG_ZH_HSK5_SC002_088",
       "speaker": "张乐乐",
-      "zh": "这样刚刚好，我知道你们支持我，也能自己负责。",
-      "pinyin": "Zhè yàng gāng gāng hǎo wǒ zhī dào nǐ men zhī chí wǒ yě néng zì jǐ fù zé",
-      "tr": "Böylesi tam iyi; desteğinizi hissederken sorumluluğu kendim alabilirim."
+      "zh": "这样刚刚好，姐姐知道你们支持她，也能自己负责。",
+      "pinyin": "zhè yàng gāng gāng hǎo jiě jiě zhī dào nǐ men zhī chí tā yě néng zì jǐ fù zé",
+      "tr": "Bu tam iyi oldu; ablam desteklendiğini biliyor ve kendi sorumluluğunu alabiliyor."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_089",
       "speaker": "张伟",
-      "zh": "乐乐，你也听懂姐姐希望我们怎么做了吗？",
-      "pinyin": "Lè lè nǐ yě tīng dǒng jiě jiě xī wàng wǒ men zěn me zuò le ma",
-      "tr": "Lele, ablanın bizden ne istediğini sen de anladın mı?"
+      "zh": "雨桐，你希望大家怎么做？",
+      "pinyin": "yǔ tóng nǐ xī wàng dà jiā zěn me zuò",
+      "tr": "Yutong, herkesin nasıl davranmasını istersin?"
     },
     {
       "id": "DLG_ZH_HSK5_SC002_090",
       "speaker": "张雨桐",
-      "zh": "先问她要不要帮忙，不要替她说，也别替她决定。",
-      "pinyin": "Xiān wèn tā yào bù yào bāng máng bú yào tì tā shuō yě bié tì tā jué dìng",
-      "tr": "Önce yardım isteyip istemediğini sor; onun yerine konuşma ya da karar verme."
+      "zh": "先问我要不要帮忙，不要替我说，也别替我决定。",
+      "pinyin": "xiān wèn wǒ yào bù yào bāng máng bú yào tì wǒ shuō yě bié tì wǒ jué dìng",
+      "tr": "Önce yardıma ihtiyacım var mı diye sorun; benim adıma konuşmayın ve benim yerime karar vermeyin."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_091",
@@ -660,9 +660,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_094",
       "speaker": "张雨桐",
-      "zh": "她会自己安排学习，需要帮助时再告诉我们。",
-      "pinyin": "Tā huì zì jǐ ān pái xué xí xū yào bāng zhù shí zài gào sù wǒ men",
-      "tr": "Derslerini kendisi düzenleyecek, yardıma ihtiyacı olursa bize söyleyecek."
+      "zh": "我会自己安排学习，需要帮助时再告诉你们。",
+      "pinyin": "wǒ huì zì jǐ ān pái xué xí xū yào bāng zhù shí zài gào sù nǐ men",
+      "tr": "Derslerimi kendim planlar, yardıma ihtiyacım olursa size söylerim."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_095",
@@ -688,9 +688,9 @@
     {
       "id": "DLG_ZH_HSK5_SC002_098",
       "speaker": "张雨桐",
-      "zh": "她先把明天要问的问题写下来，免得到时忘记。",
-      "pinyin": "Tā xiān bǎ míng tiān yào wèn de wèn tí xiě xià lái miǎn de dào shí wàng jì",
-      "tr": "Yarın sorması gerekenleri şimdiden yazsın ki sonra unutmasın."
+      "zh": "我先把明天要问的问题写下来，免得到时忘记。",
+      "pinyin": "wǒ xiān bǎ míng tiān yào wèn de wèn tí xiě xià lái miǎn de dào shí wàng jì",
+      "tr": "Unutmamak için yarın soracağım soruları önce yazayım."
     },
     {
       "id": "DLG_ZH_HSK5_SC002_099",
@@ -704,7 +704,7 @@
       "speaker": "张乐乐",
       "zh": "好，我写完会告诉你；谢谢你们支持我，不替我决定。",
       "pinyin": "Hǎo wǒ xiě wán huì gào sù nǐ xiè xiè nǐ men zhī chí wǒ bù tì wǒ jué dìng",
-      "tr": "Peki, bitirince haber veririm; beni destekleyip yerime karar vermediğiniz için sağ olun。"
+      "tr": "Peki, bitirince haber veririm; beni destekleyip yerime karar vermediğiniz için sağ olun"
     }
   ]
 }

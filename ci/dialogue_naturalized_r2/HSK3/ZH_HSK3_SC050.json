@@ -155,7 +155,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC050_022",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "我舍不得菜地，每天都能看看它们长大。",
       "pinyin": "Wǒ shě bù dé cài dì, měi tiān dōu néng kàn kàn tā men zhǎng dà.",
       "tr": "Sebze bahçesini özleyeceğim; her gün büyümelerini izliyorum."
@@ -211,7 +211,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC050_030",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "早上散散步，下午看看书，偶尔去市场。",
       "pinyin": "Zǎo shàng sàn sàn bù, xià wǔ kàn kàn shū, ǒu ěr qù shì chǎng.",
       "tr": "Sabah yürüyüş yapar, öğleden sonra kitap okur, ara sıra pazara gideriz."
@@ -267,7 +267,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC050_038",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "会想念他们，不过我们可以常常打电话。",
       "pinyin": "Huì xiǎng niàn tā men, bù guò wǒ men kě yǐ cháng cháng dǎ diàn huà.",
       "tr": "Özlerim ama sık sık telefon edebiliriz."
@@ -330,10 +330,10 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC050_047",
-      "speaker": "爷爷",
-      "zh": "我可以周末陪爷爷去跟邻居商量。",
-      "pinyin": "Wǒ kě yǐ zhōu mò péi yé yé qù gēn lín jū shāng liáng.",
-      "tr": "Hafta sonu büyükbabaya komşuyla konuşurken eşlik ederim."
+      "speaker": "张伟",
+      "zh": "我可以陪爷爷去跟邻居商量。",
+      "pinyin": "Wǒkěyǐpéiyéyéqùgēnlínjūshāngliàng.",
+      "tr": "Hafta sonu büyükbabaya komşuyla konuşurken eşlik edebilirim。"
     },
     {
       "id": "DLG_ZH_HSK3_SC050_048",
@@ -415,9 +415,9 @@
     {
       "id": "DLG_ZH_HSK3_SC050_059",
       "speaker": "爷爷",
-      "zh": "爷爷可以带一些自己种的菜去和邻居分享。",
-      "pinyin": "Yé yé kě yǐ dài yī xiē zì jǐ zhǒng de cài qù hé lín jū fēn xiǎng.",
-      "tr": "Büyükbaba kendi sebzelerinden komşularla paylaşabilir."
+      "zh": "我可以带一些自己种的菜去和邻居分享。",
+      "pinyin": "Wǒkěyǐdàiyīxiēzìjǐzhǒngdecàiqùhélínjūfēnxiǎng.",
+      "tr": "Kendi yetiştirdiğim sebzelerden komşularla paylaşmak için götürebilirim。"
     },
     {
       "id": "DLG_ZH_HSK3_SC050_060",
@@ -491,7 +491,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC050_070",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "当然，重要的回忆都可以带过去。",
       "pinyin": "Dāng rán, zhòng yào de huí yì dōu kě yǐ dài guò qù.",
       "tr": "Elbette; önemli anılarımızı yanımızda götürürüz."
@@ -519,7 +519,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC050_074",
-      "speaker": "刘梅",
+      "speaker": "奶奶",
       "zh": "只要你们常来看我们，再认识几个邻居就好了。",
       "pinyin": "Zhǐ yào nǐ men cháng lái kàn wǒ men, zài rèn shí jǐ gè lín jū jiù hǎo le.",
       "tr": "Siz sık gelir, biz de komşularla tanışırsak yeter."

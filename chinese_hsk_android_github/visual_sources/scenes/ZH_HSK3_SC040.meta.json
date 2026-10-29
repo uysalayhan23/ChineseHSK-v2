@@ -5,7 +5,7 @@
   "manifestVersion": "LOCKED_V2",
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC040.json",
-  "dialogueSha256": "cff40d8d626378da1fa5e73030a773eef657a5e2ae65c36f5d3e0796cb8086a1",
+  "dialogueSha256": "dca5f108df6550372db7c85c21476e8d5b70008f162d3e280d001fc0762ce370",
   "titleTr": "Liu Mei’nin Kafe Defteri",
   "locationId": "LOC_ZH_FAMILY_CAFE_001",
   "scenePurposeTr": "Liu Mei ilk kez aylık gelir ve giderleri ayrıntılı olarak düzenler.",
@@ -74,12 +74,8 @@
   "binaryIntegrityChecked": true,
   "qaNoteTr": "2026-09-28: Kafe gelir-gider hesabı ve aylık bütçe değerlendirmesi görünür. Kullanıcı, manifesto uygunsa ilerleme onayı verdi; HSK3 SC031-SC040 continuity seti final olarak entegre edildi.",
   "dialogueTextQA": {
-    "status": "PASS",
+    "status": "PENDING_LOCAL_REVIEW",
     "turns": 100,
-    "coherenceScore": 93.0,
-    "activeVocabularyCoverage": 1.0,
-    "topicWindowCoverage": 0.8,
-    "duplicateUtterances": 0,
     "speakerOrderPreserved": true,
     "pinyinTurkishChecked": true
   },

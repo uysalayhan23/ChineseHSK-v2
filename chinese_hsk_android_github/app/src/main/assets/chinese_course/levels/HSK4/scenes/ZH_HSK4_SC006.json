@@ -123,9 +123,9 @@
     {
       "id": "DLG_ZH_HSK4_SC006_017",
       "speaker": "张伟",
-      "zh": "除了土和种子，还需要什么资源？",
-      "pinyin": "Chú le tǔ hé zhǒng zi, hái xū yào shén me zī yuán?",
-      "tr": "Toprak ve tohum dışında hangi kaynaklara ihtiyacımız var?"
+      "zh": "除了土和种子，我们手头还有哪些东西可以用？",
+      "pinyin": "Chúle tǔ hé zhǒngzi, wǒmen shǒutóu háiyǒu nǎxiē dōngxī kěyǐ yòng?",
+      "tr": "Toprak ve tohum dışında elimizde kullanabileceğimiz neler var?"
     },
     {
       "id": "DLG_ZH_HSK4_SC006_018",
@@ -730,9 +730,9 @@
         "zh": "菜园",
         "pinyin": "càiyuán",
         "tr": "sebze bahçesi",
-        "exampleZh": "我们得先看看菜园是否真的合适。",
-        "examplePinyin": "Wǒmen děi xiān kànkan càiyuán shìfǒu zhēn de héshì.",
-        "exampleTr": "Önce sebze bahçesi gerçekten uygun mu bakmalıyız.",
+        "exampleZh": "我把菜园计划贴在冰箱上了。",
+        "examplePinyin": "Wǒ bǎ cài yuán jì huà tiē zài bīng xiāng shàng le.",
+        "exampleTr": "Bahçe planını buzdolabına astım.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "种子",
         "pinyin": "zhǒngzi",
         "tr": "tohum",
-        "exampleZh": "我们把种子也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ zhǒngzi yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Tohum konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "种子什么时候买比较好？",
+        "examplePinyin": "Zhǒng zi shén me shí hòu mǎi bǐ jiào hǎo?",
+        "exampleTr": "Tohumları ne zaman alsak iyi olur?",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "土壤",
         "pinyin": "tǔrǎng",
         "tr": "toprak",
-        "exampleZh": "如果土壤发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ tǔrǎng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Toprak değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "说明种子和土壤都还不错。",
+        "examplePinyin": "Shuō míng zhǒng zi hé tǔ rǎng dōu hái bú cuò.",
+        "exampleTr": "Tohumla toprağın iyi olduğunu gösteriyor.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "资源",
         "pinyin": "zīyuán",
         "tr": "kaynak",
-        "exampleZh": "关于资源，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zīyuán, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Kaynak konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "我也学会了看土壤和安排资源。",
+        "examplePinyin": "Wǒ yě xué huì le kàn tǔ rǎng hé ān pái zī yuán.",
+        "exampleTr": "Toprağı gözlemlemeyi ve kaynakları düzenlemeyi de öğrendim.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "计划",
         "pinyin": "jìhuà",
         "tr": "plan",
-        "exampleZh": "计划是我们不能忽略的一点。",
-        "examplePinyin": "Jìhuà shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Plan göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我把菜园计划贴在冰箱上了。",
+        "examplePinyin": "Wǒ bǎ cài yuán jì huà tiē zài bīng xiāng shàng le.",
+        "exampleTr": "Bahçe planını buzdolabına astım.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "农场",
         "pinyin": "nóngchǎng",
         "tr": "çiftlik",
-        "exampleZh": "这个农场有优点，也有需要考虑的地方。",
-        "examplePinyin": "Zhège nóngchǎng yǒu yōudiǎn, yě yǒu xūyào kǎolǜ de dìfang.",
-        "exampleTr": "Bu çiftlik avantajlara sahip ama düşünülmesi gereken yönleri de var.",
+        "exampleZh": "这个小菜园让我想起以前在农场的日子。",
+        "examplePinyin": "Zhè ge xiǎo cài yuán ràng wǒ xiǎng qǐ yǐ qián zài nóng chǎng de rì zi.",
+        "exampleTr": "Bu küçük bahçe bana çiftlikteki günleri hatırlatıyor.",
         "kind": "active"
       },
       {

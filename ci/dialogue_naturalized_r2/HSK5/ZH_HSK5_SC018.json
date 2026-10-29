@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC018",
   "level": "HSK5",
   "sourceTitleZh": "咖啡馆少用塑料",
@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC018_001",
       "speaker": "刘梅",
-      "zh": "最近我一直在想塑料用品这件事。",
-      "pinyin": "Zuìjìn wǒ yìzhí zài xiǎng sùliào yòngpǐn zhèjiàn shì.",
-      "tr": "Son zamanlarda plastik ürünler meselesini düşünüyorum."
+      "zh": "最近我一直在想塑料用品这件事，想减少一次性用品，也看看顾客是否愿意配合。",
+      "pinyin": "zuì jìn wǒ yì zhí zài xiǎng sù liào yòng pǐn zhè jiàn shì ， xiǎng jiǎn shǎo yí cì xìng yòng pǐn ， yě kàn kàn gù kè shì fǒu yuàn yì pèi hé 。",
+      "tr": "Son zamanlarda plastik ürünleri düşünüyorum; tek kullanımlık ürünleri azaltıp müşterilerin katılmaya istekli olup olmadığını görmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC018_002",
@@ -149,9 +149,9 @@
     {
       "id": "DLG_ZH_HSK5_SC018_021",
       "speaker": "刘梅",
-      "zh": "如果试行影响出杯速度，我们就先暂停扩大范围。",
-      "pinyin": "Rú guǒ shì xíng yǐng xiǎng chū bēi sù dù wǒ men jiù xiān zàn tíng kuò dà fàn wéi",
-      "tr": "Deneme içecek hazırlama hızını etkilerse kapsamı genişletmeyi durdururuz."
+      "zh": "为了可持续发展，我们想减少塑料；如果试行影响出杯速度，就先暂停扩大范围。",
+      "pinyin": "wèi le kě chí xù fā zhǎn ， wǒ men xiǎng jiǎn shǎo sù liào ； rú guǒ shì xíng yǐng xiǎng chū bēi sù dù ， jiù xiān zàn tíng kuò dà fàn wéi 。",
+      "tr": "Sürdürülebilirlik için plastik kullanımını azaltmak istiyoruz; deneme servis hızını etkilerse kapsamı büyütmeyi durdururuz."
     },
     {
       "id": "DLG_ZH_HSK5_SC018_022",
@@ -289,9 +289,9 @@
     {
       "id": "DLG_ZH_HSK5_SC018_041",
       "speaker": "刘梅",
-      "zh": "其实，可以先小范围试一试，再根据顾客反应调整。",
-      "pinyin": "Qíshí, kěyǐ xiānxiǎo fànwéi shìyīshì, zài gēnjù gùkè fǎnyìng tiáozhěng.",
-      "tr": "Aslında, önce küçük ölçekte deneyip müşteri tepkisine göre ayarlayabiliriz."
+      "zh": "与一下子取消所有一次性用品相比，先试一周自带杯制度，再根据顾客反应调整更稳妥。",
+      "pinyin": "yǔ yī xià zi qǔ xiāo suǒ yǒu yí cì xìng yòng pǐn xiāng bǐ ， xiān shì yī zhōu zì dài bēi zhì dù ， zài gēn jù gù kè fǎn yìng tiáo zhěng gèng wěn tuǒ 。",
+      "tr": "Tüm tek kullanımlık ürünleri bir anda kaldırmak yerine, bir hafta kendi bardağını getirme kuralını deneyip müşteri tepkisine göre ayarlamak daha sağlıklı."
     },
     {
       "id": "DLG_ZH_HSK5_SC018_042",

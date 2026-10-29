@@ -8,10 +8,10 @@
   "dialogues": [
     {
       "id": "DLG_ZH_HSK3_SC048_001",
-      "speaker": "刘梅",
-      "zh": "明天就是咖啡馆一周年了，我还有点不敢相信。",
-      "pinyin": "Míng tiān jiù shì kā fēi guǎn yī zhōu nián le, wǒ hái yǒu diǎn bù gǎn xiāng xìn.",
-      "tr": "Kafenin yarın birinci yıldönümü; hâlâ inanamıyorum."
+      "speaker": "张伟",
+      "zh": "今天就是咖啡馆一周年了，我还有点不敢相信。",
+      "pinyin": "Jīntiān jiùshì kāfēiguǎn yīzhōunián le, wǒ hái yǒudiǎn bùgǎnxiāngxìn.",
+      "tr": "Bugün kafenin birinci yıldönümü; hâlâ inanamıyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC048_002",
@@ -36,10 +36,10 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_005",
-      "speaker": "刘梅",
-      "zh": "我想给常来的朋友准备一个小惊喜。",
-      "pinyin": "Wǒ xiǎng gěi cháng lái de péng yǒu zhǔn bèi yí gè xiǎo jīng xǐ.",
-      "tr": "Düzenli gelen arkadaşlarımıza küçük bir sürpriz istiyorum."
+      "speaker": "张伟",
+      "zh": "我想给刘梅准备一个小惊喜，谢谢她这一年的辛苦。",
+      "pinyin": "Wǒ xiǎng gěi liúméi zhǔnbèi yígè xiǎo jīngxǐ, xièxiè tā zhè yīnián de xīnkǔ.",
+      "tr": "Bu yılki emeği için Liu Mei’ye küçük bir sürpriz hazırlamak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC048_006",
@@ -64,7 +64,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_009",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "那张照片里，门口还挂着我们自己写的牌子。",
       "pinyin": "Nà zhāng zhào piān lǐ, mén kǒu hái guà zhe wǒ men zì jǐ xiě de pái zi.",
       "tr": "O fotoğrafta kapıda kendi yaptığımız tabela hâlâ asılı."
@@ -92,7 +92,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_013",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "今天我想把那张照片放在门口。",
       "pinyin": "Jīn tiān wǒ xiǎng bǎ nà zhāng zhào piān fàng zài mén kǒu.",
       "tr": "Bugün o fotoğrafı girişe koymak istiyorum."
@@ -120,7 +120,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_017",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "蛋糕已经订好了，下午三点送到。",
       "pinyin": "Dàn gāo yǐ jīng dìng hǎo le, xià wǔ sān diǎn sòng dào.",
       "tr": "Pastayı sipariş ettim; saat üçte gelecek."
@@ -148,10 +148,10 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_021",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "朋友们也答应来了，不过先别告诉刘梅。",
-      "pinyin": "Péng yǒu men yě dā yìng lái le, bù guò xiān bié gào sù liú méi.",
-      "tr": "Arkadaşlarımız da gelecek ama Liu Mei’ye şimdilik söyleme."
+      "pinyin": "Péngyǒu men yě dāyìng lái le, bùguò xiān bié gàosù liúméi.",
+      "tr": "Arkadaşlarımız da gelecek ama Liu Mei’ye şimdilik söylemeyelim."
     },
     {
       "id": "DLG_ZH_HSK3_SC048_022",
@@ -176,7 +176,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_025",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "我怕她一进门就看见蛋糕。",
       "pinyin": "Wǒ pà tā yī jìn mén jiù kàn jiàn dàn gāo.",
       "tr": "İçeri girer girmez pastayı görmesinden korkuyorum."
@@ -204,7 +204,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_029",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "听起来像在计划一场很大的活动。",
       "pinyin": "Tīng qǐ lái xiàng zài jì huà yī cháng hěn dà de huó dòng.",
       "tr": "Kulağa büyük bir etkinlik planlıyormuşuz gibi geliyor."
@@ -232,7 +232,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_033",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我已经把菜单上的小卡片写好了。",
       "pinyin": "Wǒ yǐ jīng bǎ cài dān shàng de xiǎo kǎ piàn xiě hǎo le.",
       "tr": "Menüdeki küçük kartları yazdım."
@@ -260,7 +260,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_037",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我还想在卡片背面写上大家的名字。",
       "pinyin": "Wǒ hái xiǎng zài kǎ piàn bèi miàn xiě shàng dà jiā de míng zì.",
       "tr": "Kartların arkasına herkesin adını da yazmak istiyorum."
@@ -288,7 +288,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_041",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "我看了开店第一周的照片，桌子几乎都是空的。",
       "pinyin": "Wǒ kàn le kāi diàn dì yī zhōu de zhào piān, zhuō zi jī hū dōu shì kōng de.",
       "tr": "Açılışın ilk haftasındaki fotoğraflara baktım; masalar boşmuş."
@@ -316,7 +316,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_045",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "周年不只是庆祝开店，也是在感谢一路支持我们的人。",
       "pinyin": "Zhōu nián bù zhǐ shì qìng zhù kāi diàn, yě shì zài gǎn xiè yī lù zhī chí wǒ men de rén.",
       "tr": "Yıldönümü yalnızca açılışı kutlamak değil, bizi destekleyenlere teşekkür etmek."
@@ -344,7 +344,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_049",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "说到咖啡馆的想法，我想先在菜单上加几种不太甜的点心。",
       "pinyin": "Shuō dào kā fēi guǎn de xiǎng fǎ, wǒ xiǎng xiān zài cài dān shàng jiā jǐ zhǒng bù tài tián de diǎn xīn.",
       "tr": "Kafe için düşündüğüm bir şey var: menüye az şekerli birkaç tatlı eklemek istiyorum."
@@ -372,7 +372,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_053",
-      "speaker": "刘梅",
+      "speaker": "张雨桐",
       "zh": "我还希望周末能有一张长桌，让朋友们一起坐。",
       "pinyin": "Wǒ hái xī wàng zhōu mò néng yǒu yī zhāng zhǎng zhuō, ràng péng yǒu men yì qǐ zuò.",
       "tr": "Hafta sonları arkadaşların birlikte oturabileceği uzun bir masa istiyorum."
@@ -400,7 +400,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_057",
-      "speaker": "刘梅",
+      "speaker": "张伟",
       "zh": "我刚才听见外面有声音，朋友们是不是到了？",
       "pinyin": "Wǒ gāng cái tīng jiàn wài miàn yǒu shēng yīn, péng yǒu men shì bú shì dào le?",
       "tr": "Az önce dışarıdan ses duydum; arkadaşlarımız geldi mi?"
@@ -428,9 +428,9 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_061",
-      "speaker": "刘梅",
-      "zh": "大家都来了，可是刘梅还在楼上。",
-      "pinyin": "Dà jiā dōu lái le, kě shì liú méi hái zài lóu shàng.",
+      "speaker": "张伟",
+      "zh": "大家都到了，刘梅还在楼上。",
+      "pinyin": "Dàjiā dōu dào le, liúméi hái zài lóushàng.",
       "tr": "Herkes geldi ama Liu Mei hâlâ üst katta."
     },
     {
@@ -456,10 +456,10 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_065",
-      "speaker": "刘梅",
-      "zh": "她下来了，灯可以关了吗？",
-      "pinyin": "Tā xià lái le, dēng kě yǐ guān le ma?",
-      "tr": "Aşağı indi; ışıkları kapatabilir miyiz?"
+      "speaker": "张伟",
+      "zh": "她下来了，等她走到桌边再关灯。",
+      "pinyin": "Tā xiàlái le, děng tā zǒu dào zhuōbiān zài guāndēng.",
+      "tr": "Aşağı indi; masaya gelmesini bekleyip sonra ışıkları kapatalım."
     },
     {
       "id": "DLG_ZH_HSK3_SC048_066",
@@ -505,7 +505,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC048_072",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "我没想到你们还记得，真的太谢谢大家了。",
       "pinyin": "Wǒ méi xiǎng dào nǐ men hái jì de, zhēn de tài xiè xiè dà jiā le.",
       "tr": "Hepinizin hatırlayacağını düşünmemiştim; çok teşekkür ederim."
@@ -520,9 +520,9 @@
     {
       "id": "DLG_ZH_HSK3_SC048_074",
       "speaker": "张伟",
-      "zh": "每次看到大家坐在店里聊天，我就觉得很值得。",
-      "pinyin": "Měi cì kàn dào dà jiā zuò zài diàn lǐ liáo tiān, wǒ jiù jué de hěn zhí de.",
-      "tr": "Hepinizi burada sohbet ederken görünce buna değdiğini hissediyorum."
+      "zh": "我一边看大家聊天，一边想起咖啡馆刚开门的时候。",
+      "pinyin": "Wǒ yībiān kàn dàjiā liáotiān, yībiān xiǎngqǐ kāfēiguǎn gāng kāimén de shíhòu.",
+      "tr": "Hepiniz sohbet ederken bir yandan da kafenin ilk açıldığı günleri hatırlıyorum."
     },
     {
       "id": "DLG_ZH_HSK3_SC048_075",

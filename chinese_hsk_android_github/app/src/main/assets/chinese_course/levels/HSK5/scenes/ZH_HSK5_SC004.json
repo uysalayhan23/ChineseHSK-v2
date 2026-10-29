@@ -144,9 +144,9 @@
     {
       "id": "DLG_ZH_HSK5_SC004_020",
       "speaker": "张伟",
-      "zh": "这很好，培训不只是示范，还要确认对方能独立完成。",
-      "pinyin": "Zhè hěn hǎo péi xùn bù zhǐ shì shì fàn hái yào què rèn duì fāng néng dú lì wán chéng",
-      "tr": "Güzel; eğitim yalnızca göstermek değil, kişinin işi tek başına yapabildiğini de doğrulamaktır."
+      "zh": "培训不仅要示范，还要确认对方能独立完成。",
+      "pinyin": "péi xùn bù jǐn yào shì fàn hái yào què rèn duì fāng néng dú lì wán chéng",
+      "tr": "Eğitim yalnızca gösterimden ibaret değil; kişinin işi bağımsız yapabildiğini de doğrulamak gerekir."
     },
     {
       "id": "DLG_ZH_HSK5_SC004_021",
@@ -277,9 +277,9 @@
     {
       "id": "DLG_ZH_HSK5_SC004_039",
       "speaker": "员工",
-      "zh": "员工理解以后，更愿意主动承担责任感。",
-      "pinyin": "Yuán gōng lǐ jiě yǐ hòu gèng yuàn yì zhǔ dòng chéng dān zé rèn gǎn",
-      "tr": "Çalışanlar anlayınca sorumluluk üstlenmeye daha istekli olur."
+      "zh": "员工有责任感以后，更愿意主动承担责任。",
+      "pinyin": "yuán gōng yǒu zé rèn gǎn yǐ hòu gèng yuàn yì zhǔ dòng chéng dān zé rèn",
+      "tr": "Çalışanlar sorumluluk sahibi olduğunda görev üstlenmeye daha istekli olur."
     },
     {
       "id": "DLG_ZH_HSK5_SC004_040",
@@ -730,9 +730,9 @@
         "zh": "授权",
         "pinyin": "shòuquán",
         "tr": "yetki devretmek",
-        "exampleZh": "在决定以前，我们最好先授权。",
-        "examplePinyin": "Zài juédìng yǐqián, wǒmen zuìhǎo xiān shòuquán.",
-        "exampleTr": "Karar vermeden önce yetki devretmek daha iyi olur.",
+        "exampleZh": "经理的授权范围我已经记下了。",
+        "examplePinyin": "Jīng lǐ de shòu quán fàn wéi wǒ yǐ jīng jì xià le",
+        "exampleTr": "Müdürün yetki sınırlarını not ettim.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "工作期待",
         "pinyin": "gōngzuò qīdài",
         "tr": "iş beklentisi",
-        "exampleZh": "我们把工作期待也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ gōngzuò qīdài yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Iş beklentisi konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "谢谢你的信任。我先想了解你对这个岗位的工作期待。",
+        "examplePinyin": "Xiè xiè nǐ de xìn rèn wǒ xiān xiǎng liǎo jiě nǐ duì zhè ge gǎng wèi de gōng zuò qī dài",
+        "exampleTr": "Güvenin için sağ ol. Önce bu görevde benden beklentilerini öğrenmek isterim.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "管理",
         "pinyin": "guǎnlǐ",
         "tr": "yönetim",
-        "exampleZh": "如果管理发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ guǎnlǐ fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Yönetim değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "这样管理更公平，也不会一开始就责怪谁。",
+        "examplePinyin": "Zhè yàng guǎn lǐ gèng gōng píng yě bú huì yī kāi shǐ jiù zé guài shuí",
+        "exampleTr": "Bu, yönetimi daha adil kılar; kimseyi hemen suçlamamış oluruz.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "责任感",
         "pinyin": "zérèngǎn",
         "tr": "sorumluluk duygusu",
-        "exampleZh": "关于责任感，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú zérèngǎn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Sorumluluk duygusu konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "员工有责任感以后，更愿意主动承担责任。",
+        "examplePinyin": "yuán gōng yǒu zé rèn gǎn yǐ hòu gèng yuàn yì zhǔ dòng chéng dān zé rèn",
+        "exampleTr": "Çalışanlar sorumluluk sahibi olduğunda görev üstlenmeye daha istekli olur.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "培训",
         "pinyin": "péixùn",
         "tr": "eğitim",
-        "exampleZh": "在决定以前，我们最好先培训。",
-        "examplePinyin": "Zài juédìng yǐqián, wǒmen zuìhǎo xiān péixùn.",
-        "exampleTr": "Karar vermeden önce eğitim daha iyi olur.",
+        "exampleZh": "培训时也要说明服务标准吗？",
+        "examplePinyin": "Péi xùn shí yě yào shuō míng fú wù biāo zhǔn ma",
+        "exampleTr": "Eğitimde hizmet standardını da açıklamam gerekir mi?",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "服务",
         "pinyin": "fúwù",
         "tr": "hizmet",
-        "exampleZh": "我们把服务也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ fúwù yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Hizmet konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "培训时也要说明服务标准吗？",
+        "examplePinyin": "Péi xùn shí yě yào shuō míng fú wù biāo zhǔn ma",
+        "exampleTr": "Eğitimde hizmet standardını da açıklamam gerekir mi?",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "duì",
         "tr": "takım",
         "exampleZh": "如果队发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ duì fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ duì fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Takım değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
         "exampleZh": "这件事需要大家一起沟通。",
-        "examplePinyin": "Zhè jiàn shì xūyào dàjiā yìqǐ gōutōng.",
+        "examplePinyin": "Zhè jiàn shì xūyào dàjiā yìqǐ gōutōng",
         "exampleTr": "Bu konuda herkesin birlikte iletişim kurmak gerekiyor.",
         "kind": "review"
       }

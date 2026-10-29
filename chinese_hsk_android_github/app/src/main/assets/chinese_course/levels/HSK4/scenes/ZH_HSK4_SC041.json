@@ -39,9 +39,9 @@
     {
       "id": "DLG_ZH_HSK4_SC041_005",
       "speaker": "刘梅",
-      "zh": "那我们多准备五份，遇到临时来的居民也够分。",
-      "pinyin": "Nà wǒ men duō zhǔn bèi wǔ fèn yù dào lín shí lái de jū mín yě gòu fēn",
-      "tr": "O halde beş porsiyon fazla hazırlayalım; sonradan gelenlere de yeter."
+      "zh": "与其等人来了再临时准备，不如现在多备五份。",
+      "pinyin": "yǔ qí děng rén lái le zài lín shí zhǔn bèi bù rú xiàn zài duō bèi wǔ fèn",
+      "tr": "Gelenleri bekleyip son anda hazırlık yapmaktansa şimdiden beş porsiyon fazla hazırlayalım."
     },
     {
       "id": "DLG_ZH_HSK4_SC041_006",
@@ -730,9 +730,9 @@
         "zh": "爱心厨房",
         "pinyin": "àixīn chúfáng",
         "tr": "sosyal yardım mutfağı",
-        "exampleZh": "爱心厨房是我们不能忽略的一点。",
-        "examplePinyin": "Àixīn chúfáng shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Sosyal yardım mutfağı göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "太好了。爱心厨房靠大家一起组织，也靠每个人持续付出。",
+        "examplePinyin": "Tài hǎo le ài xīn chú fáng kào dà jiā yì qǐ zǔ zhī yě kào měi gè rén chí xù fù chū",
+        "exampleTr": "Harika. Bu mutfak hepimizin birlikte çalışmasına ve herkesin düzenli katkısına dayanıyor.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "志愿者",
         "pinyin": "zhìyuànzhě",
         "tr": "gönüllü",
-        "exampleZh": "我会跟志愿者再确认一次。",
-        "examplePinyin": "Wǒ huì gēn zhìyuànzhě zài quèrèn yí cì.",
-        "exampleTr": "Gönüllü ile bir kez daha teyit edeceğim.",
+        "exampleZh": "我会把这个提醒告诉送餐的志愿者。",
+        "examplePinyin": "Wǒ huì bǎ zhè ge tí xǐng gào sù sòng cān de zhì yuàn zhě",
+        "exampleTr": "Bu hatırlatmayı yemek götürecek gönüllüye iletirim.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "社区",
         "pinyin": "shèqū",
         "tr": "mahalle / topluluk",
-        "exampleZh": "如果社区发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ shèqū fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Mahalle / topluluk değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "社区中心下周可以提前告诉我们预计人数。",
+        "examplePinyin": "Shè qū zhōng xīn xià zhōu kě yǐ tí qián gào sù wǒ men yù jì rén shù",
+        "exampleTr": "Toplum merkezi gelecek hafta tahmini kişi sayısını önceden bildirebilir.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "帮忙",
         "pinyin": "bāngmáng",
         "tr": "yardım etmek",
-        "exampleZh": "关于帮忙，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú bāngmáng, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Yardım etmek konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "今天大家互相帮忙，厨房忙归忙，却没有乱起来。",
+        "examplePinyin": "Jīn tiān dà jiā hù xiāng bāng máng chú fáng máng guī máng què méi yǒu luàn qǐ lái",
+        "exampleTr": "Bugün birbirimize yardım ettik; mutfak yoğun olsa da düzen bozulmadı.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "组织",
         "pinyin": "zǔzhī",
         "tr": "organize etmek",
-        "exampleZh": "在决定以前，我们最好先组织。",
-        "examplePinyin": "Zài juédìng yǐqián, wǒmen zuìhǎo xiān zǔzhī.",
-        "exampleTr": "Karar vermeden önce organize etmek daha iyi olur.",
+        "exampleZh": "太好了。爱心厨房靠大家一起组织，也靠每个人持续付出。",
+        "examplePinyin": "Tài hǎo le ài xīn chú fáng kào dà jiā yì qǐ zǔ zhī yě kào měi gè rén chí xù fù chū",
+        "exampleTr": "Harika. Bu mutfak hepimizin birlikte çalışmasına ve herkesin düzenli katkısına dayanıyor.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "食物",
         "pinyin": "shíwù",
         "tr": "yiyecek",
-        "exampleZh": "我们把食物也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ shíwù yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Yiyecek konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "还好我们多准备了几份食物，现在数量够用。",
+        "examplePinyin": "Hái hǎo wǒ men duō zhǔn bèi le jǐ fèn shí wù xiàn zài shù liàng gòu yòng",
+        "exampleTr": "Neyse ki birkaç porsiyon fazla hazırlamıştık; şimdi herkese yetecek.",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "zérèngǎn",
         "tr": "sorumluluk duygusu",
         "exampleZh": "如果责任感发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ zérèngǎn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ zérèngǎn fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Sorumluluk duygusu değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "yìqǐ",
         "tr": "birlikte",
         "exampleZh": "关于一起，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú yìqǐ, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú yìqǐ wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Birlikte konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

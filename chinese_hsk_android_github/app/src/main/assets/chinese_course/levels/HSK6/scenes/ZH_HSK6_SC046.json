@@ -31,10 +31,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_004",
-      "speaker": "孙辈",
-      "zh": "那时候车还没买，我们带着几只箱子就上了车。",
-      "pinyin": "Nà shí hòu chē hái méi mǎi, wǒ men dài zhe jǐ zhī xiāng zi jiù shàng le chē.",
-      "tr": "O sırada arabamız yoktu; birkaç valiz alıp trene binmiştik."
+      "speaker": "张伟",
+      "zh": "那时候我们还没买车，带着几只箱子就上了火车。",
+      "pinyin": "nà shí hòu wǒ men hái méi mǎi chē ， dài zhe jǐ zhī xiāng zi jiù shàng le huǒ chē 。",
+      "tr": "O zaman daha araba almamıştık; birkaç valizle trene bindik."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_005",
@@ -213,10 +213,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_030",
-      "speaker": "刘梅",
-      "zh": "有一点，东西不多，前面的路却完全陌生。",
-      "pinyin": "Yǒu yì diǎn, dōng xī bù duō, qián miàn de lù què wán quán mò shēng.",
-      "tr": "Biraz korkuyordum; eşyamız azdı ama önümüzdeki yol tamamen yabancıydı."
+      "speaker": "张伟",
+      "zh": "有一点。带的东西不多，可前面的路完全陌生。",
+      "pinyin": "yǒu yì diǎn 。 dài de dōng xī bù duō ， kě qián miàn de lù wán quán mò shēng 。",
+      "tr": "Biraz. Eşyamız azdı ama önümüzdeki yol tamamen yabancıydı."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_031",
@@ -227,10 +227,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_032",
-      "speaker": "孙辈",
-      "zh": "我看着你奶奶，她也紧张，我们就约好遇到问题先一起商量。",
-      "pinyin": "Wǒ kàn zhe nǐ nǎi nǎi, tā yě jǐn zhāng, wǒ men jiù yuē hǎo yù dào wèn tí xiān yì qǐ shāng liáng.",
-      "tr": "Büyükannene baktım; o da heyecanlıydı. Bir sorun çıkarsa önce birlikte konuşmaya karar verdik."
+      "speaker": "刘梅",
+      "zh": "我看着你爷爷，他也紧张。我们就约好，遇到问题先一起商量。",
+      "pinyin": "wǒ kàn zhe nǐ yé yé ， tā yě jǐn zhāng 。 wǒ men jiù yuē hǎo ， yù dào wèn tí xiān yì qǐ shāng liáng 。",
+      "tr": "Dedenize baktım, o da gergindi. Bir sorun çıkarsa önce birlikte konuşmaya karar verdik."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_033",
@@ -241,10 +241,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_034",
-      "speaker": "刘梅",
-      "zh": "当然有，只是现在记得的更多是怎么和好的。",
-      "pinyin": "Dāng rán yǒu, zhǐ shì xiàn zài jì de de gèng duō shì zěn me hé hǎo de.",
-      "tr": "Elbette tartıştık; şimdi daha çok nasıl barıştığımızı hatırlıyorum."
+      "speaker": "张伟",
+      "zh": "怎么可能没吵过？只是现在想起来，记得更多的是后来怎么和好的。",
+      "pinyin": "zěn me kě néng méi chǎo guò ？ zhǐ shì xiàn zài xiǎng qǐ lái ， jì de gèng duō de shì hòu lái zěn me hé hǎo de 。",
+      "tr": "Hiç tartışmamış olabilir miyiz? Şimdi düşününce, daha çok sonradan nasıl barıştığımızı hatırlıyorum."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_035",
@@ -255,17 +255,17 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_036",
-      "speaker": "孙辈",
-      "zh": "我记得是你发现的，看来这段记忆也得再核对。",
-      "pinyin": "Wǒ jì de shì nǐ fā xiàn de, kàn lái zhè duàn jì yì yě dé zài hé duì.",
-      "tr": "Ben senin fark ettiğini sanıyordum; demek bu anıyı da doğrulamamız gerek."
+      "speaker": "张伟",
+      "zh": "我想起来了，是你先看见的。刚才我把先后顺序记反了。",
+      "pinyin": "wǒ xiǎng qǐ lái le ， shì nǐ xiān kàn jiàn de 。 gāng cái wǒ bǎ xiān hòu shùn xù jì fǎn le 。",
+      "tr": "Şimdi hatırladım, önce sen görmüştün. Az önce sırayı karıştırdım."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_037",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "日记里写着“到站后先找住处”，那天是不是很累？",
-      "pinyin": "Rì jì lǐ xiě zhe “dào zhàn hòu xiān zhǎo zhù chù ”, nà tiān shì bú shì hěn lèi?",
-      "tr": "Günlükte “varınca önce kalacak yer bul” yazıyor; o gün çok yorulmuş muydunuz?"
+      "pinyin": "rì jì lǐ xiě zhe “ dào zhàn hòu xiān zhǎo zhù chù ” ， nà tiān shì bú shì hěn lèi ？",
+      "tr": "Günlükte “istasyona varınca önce kalacak yer bul” yazıyor; o gün çok yorulmuş muydunuz?"
     },
     {
       "id": "DLG_ZH_HSK6_SC046_038",
@@ -283,10 +283,10 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_040",
-      "speaker": "孙辈",
-      "zh": "我管车票和证件，你奶奶看行李，我们分工以后就顺多了。",
-      "pinyin": "Wǒ guǎn chē piào hé zhèng jiàn, nǐ nǎi nǎi kàn xíng lǐ, wǒ men fēn gōng yǐ hòu jiù shùn duō le.",
-      "tr": "Biletleri ve belgeleri ben tuttum, büyükannen valizlere baktı; iş bölümü yapınca kolaylaştı."
+      "speaker": "张伟",
+      "zh": "我管车票和证件，你奶奶看行李。分工以后，事情就顺多了。",
+      "pinyin": "wǒ guǎn chē piào hé zhèng jiàn ， nǐ nǎi nǎi kàn xíng lǐ 。 fēn gōng yǐ hòu ， shì qíng jiù shùn duō le 。",
+      "tr": "Biletleri ve belgeleri ben tuttum, babaanneniz de valizlere baktı. İş bölümü yapınca işler kolaylaştı."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_041",
@@ -521,17 +521,17 @@
     },
     {
       "id": "DLG_ZH_HSK6_SC046_074",
-      "speaker": "刘梅",
+      "speaker": "孙辈",
       "zh": "我没想到你们第一次搬家时也会害怕，还会忘东西。",
-      "pinyin": "Wǒ méi xiǎng dào nǐ men dì yī cì bān jiā shí yě huì hài pà, hái huì wàng dōng xī.",
-      "tr": "İlk taşındığınızda sizin de korktuğunuzu ve eşya unutabildiğinizi düşünmemiştim."
+      "pinyin": "wǒ méi xiǎng dào nǐ men dì yī cì bān jiā shí yě huì hài pà ， hái huì wàng dōng xī 。",
+      "tr": "İlk taşınmanızda sizin de korktuğunuzu, hatta eşya unuttuğunuzu bilmiyordum."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_075",
       "speaker": "张乐乐",
-      "zh": "大人也会紧张，只是会边担心边想下一步怎么办。",
-      "pinyin": "Dà rén yě huì jǐn zhāng, zhǐ shì huì biān dān xīn biān xiǎng xià yī bù zěn me bàn.",
-      "tr": "Büyükler de heyecanlanır; kaygılanırken bir sonraki adımı düşünürler."
+      "zh": "原来大人也会紧张，只是一边担心，一边想着下一步怎么办。",
+      "pinyin": "yuán lái dà rén yě huì jǐn zhāng ， zhǐ shì yī biān dān xīn ， yī biān xiǎng zhe xià yī bù zěn me bàn 。",
+      "tr": "Demek yetişkinler de geriliyor; kaygılanırken bir yandan sonraki adımı düşünüyorlar."
     },
     {
       "id": "DLG_ZH_HSK6_SC046_076",
@@ -728,82 +728,82 @@
       {
         "id": "VOC_ZH_HSK6_SC046_001",
         "zh": "旧车票",
-        "pinyin": "jiù chēpiào",
+        "pinyin": "jiù chē piào",
         "tr": "eski tren bileti",
-        "exampleZh": "旧车票之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Jiù chēpiào zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Eski tren bileti önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "exampleZh": "这两张旧车票怎么会夹在相册里？",
+        "examplePinyin": "Zhè liǎng zhāng jiù chē piào zěn me huì jiā zài xiàng cè lǐ?",
+        "exampleTr": "Bu iki eski tren bileti albümün arasına nasıl girmiş?",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC046_002",
-        "zh": "记忆触发",
-        "pinyin": "jìyì chùfā",
-        "tr": "anı tetikleyicisi",
-        "exampleZh": "如果忽略记忆触发，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè jìyì chùfā, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Anı tetikleyicisi göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "搬家",
+        "pinyin": "bān jiā",
+        "tr": "taşınmak",
+        "exampleZh": "刚才整理木箱时找到的，日期正好是我们第一次搬家的那天。",
+        "examplePinyin": "Gāng cái zhěng lǐ mù xiāng shí zhǎo dào de, rì qī zhèng hǎo shì wǒ men dì yī cì bān jiā de nà tiān.",
+        "exampleTr": "Az önce sandığı düzenlerken buldum; tarih ilk taşındığımız güne denk geliyor.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC046_003",
-        "zh": "收藏",
-        "pinyin": "shōucáng",
-        "tr": "koleksiyon / saklamak",
-        "exampleZh": "我想把收藏放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ shōucáng fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Koleksiyon / saklamak konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
+        "zh": "日记",
+        "pinyin": "rì jì",
+        "tr": "günlük",
+        "exampleZh": "我记得站名，但不敢肯定，最好对照一下那本旧日记。",
+        "examplePinyin": "Wǒ jì de zhàn míng, dàn bù gǎn kěn dìng, zuì hǎo duì zhào yī xià nà běn jiù rì jì.",
+        "exampleTr": "İstasyon adını hatırlıyorum ama emin değilim; eski günlüğe bakmak iyi olur.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC046_004",
-        "zh": "时间痕迹",
-        "pinyin": "shíjiān hénjì",
-        "tr": "zamanın izi",
-        "exampleZh": "谈到时间痕迹，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào shíjiān hénjì, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Zamanın izi konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
+        "zh": "记忆触发点",
+        "pinyin": "jì yì chù fā diǎn",
+        "tr": "anı tetikleyicisi",
+        "exampleZh": "这些东西成了记忆触发点，一看见就把当时的感受带回来了。",
+        "examplePinyin": "Zhè xiē dōng xī chéng le jì yì chù fā diǎn, yī kàn jiàn jiù bǎ dāng shí de gǎn shòu dài huí lái le.",
+        "exampleTr": "Bu eşyalar anıları tetikliyor; görünce o zamanki hisler de geri geliyor.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC046_005",
-        "zh": "语境",
-        "pinyin": "yǔjìng",
-        "tr": "bağlam",
-        "exampleZh": "语境之所以重要，是因为它会影响我们接下来怎么理解这件事。",
-        "examplePinyin": "Yǔjìng zhī suǒyǐ zhòngyào, shì yīnwèi tā huì yǐngxiǎng wǒmen jiēxiàlái zěnme lǐjiě zhè jiàn shì.",
-        "exampleTr": "Bağlam önemli; çünkü bundan sonra bu meseleyi nasıl anlayacağımızı etkiliyor.",
+        "zh": "收藏",
+        "pinyin": "shōu cáng",
+        "tr": "koleksiyon yapmak / saklamak",
+        "exampleZh": "这两张票要不要收藏起来，还是扫描后就够了？",
+        "examplePinyin": "Zhè liǎng zhāng piào yào bú yào shōu cáng qǐ lái, hái shì sǎo miáo hòu jiù gòu le?",
+        "exampleTr": "Bu iki bileti saklayalım mı, yoksa taramamız yeter mi?",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC046_006",
-        "zh": "立场",
-        "pinyin": "lìchǎng",
-        "tr": "tutum / bakış açısı",
-        "exampleZh": "如果忽略立场，很多看似合理的判断其实会失去依据。",
-        "examplePinyin": "Rúguǒ hūlüè lìchǎng, hěn duō kànshì hélǐ de pànduàn qíshí huì shīqù yījù.",
-        "exampleTr": "Tutum / bakış açısı göz ardı edilirse makul görünen birçok değerlendirme aslında dayanağını kaybedebilir.",
+        "zh": "无酸纸",
+        "pinyin": "wú suān zhǐ",
+        "tr": "asitsiz kâğıt",
+        "exampleZh": "纸张已经很脆，最好先扫描，再用无酸纸夹好。",
+        "examplePinyin": "Zhǐ zhāng yǐ jīng hěn cuì, zuì hǎo xiān sǎo miáo, zài yòng wú suān zhǐ jiā hǎo.",
+        "exampleTr": "Kâğıt çok kırılgan; önce tarayıp sonra asitsiz kâğıtla korumak iyi olur.",
         "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC046_007",
-        "zh": "权衡",
-        "pinyin": "quánhéng",
-        "tr": "dengeleyerek değerlendirmek",
-        "exampleZh": "我想把权衡放回具体语境里看，这样更容易理解彼此的选择。",
-        "examplePinyin": "Wǒ xiǎng bǎ quánhéng fàng huí jùtǐ yǔjìng lǐ kàn, zhèyàng gèng róngyì lǐjiě bǐcǐ de xuǎnzé.",
-        "exampleTr": "Dengeleyerek değerlendirmek konusunu somut bağlamına yerleştirirsek birbirimizin seçimlerini anlamak daha kolay olur.",
-        "kind": "review"
+        "zh": "语境",
+        "pinyin": "yǔ jìng",
+        "tr": "bağlam",
+        "exampleZh": "对，理解一个选择，要放回它发生时的语境里。",
+        "examplePinyin": "Duì, lǐ jiě yí gè xuǎn zé, yào fàng huí tā fā shēng shí de yǔ jìng lǐ.",
+        "exampleTr": "Evet, bir seçimi anlamak için gerçekleştiği dönemin koşullarını düşünmek gerekir.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK6_SC046_008",
-        "zh": "长期影响",
-        "pinyin": "chángqī yǐngxiǎng",
-        "tr": "uzun vadeli etki",
-        "exampleZh": "谈到长期影响，我更关心的是它背后的意义，而不只是表面的结果。",
-        "examplePinyin": "Tándào chángqī yǐngxiǎng, wǒ gèng guānxīn de shì tā bèihòu de yìyì, ér bù zhǐshì biǎomiàn de jiéguǒ.",
-        "exampleTr": "Uzun vadeli etki konuşulurken benim daha çok önemsediğim, yüzeydeki sonuçtan çok arkasındaki anlam.",
-        "kind": "review"
+        "zh": "备份",
+        "pinyin": "bèi fèn",
+        "tr": "yedek",
+        "exampleZh": "我负责把电子备份存好，万一纸张继续变脆也不怕。",
+        "examplePinyin": "Wǒ fù zé bǎ diàn zi bèi fèn cún hǎo, wàn yī zhǐ zhāng jì xù biàn cuì yě bù pà.",
+        "exampleTr": "Dijital kopyayı ben saklarım; kâğıt daha da yıpranırsa elimizde kalır.",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [

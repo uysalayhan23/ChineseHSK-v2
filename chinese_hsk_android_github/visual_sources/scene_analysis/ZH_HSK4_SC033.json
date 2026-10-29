@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK4_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK4_SC033",
   "status": "INTEGRATED_QA_PASS",
-  "dialogueSource": "chinese_hsk_android_github/app/src/main/assets/chinese_course/levels/HSK4/scenes/ZH_HSK4_SC033.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK4/ZH_HSK4_SC033.json",
   "titleTr": "Üniversite Seçenekleri",
   "locationId": "LOC_ZH_NEW_HOME_001",
   "scenePurposeTr": "Farklı üniversitelerin avantajları ayrıntılı biçimde karşılaştırılır.",

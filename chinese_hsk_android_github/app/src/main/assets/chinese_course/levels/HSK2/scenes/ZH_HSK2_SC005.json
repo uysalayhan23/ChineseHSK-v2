@@ -25,9 +25,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_003",
       "speaker": "老师",
-      "zh": "对，我都喜欢，不知道选哪一个。",
-      "pinyin": "duì, wǒ dōu xǐ huān, bù zhī dào xuǎn nǎ yí gè.",
-      "tr": "Evet, ikisini de seviyorum, hangisini seçeceğimi bilmiyorum."
+      "zh": "两个社团都不错，雨桐，你更喜欢哪一个？",
+      "pinyin": "Liǎnggè shètuán dōu bùcuò， yǔtóng， nǐ gèng xǐhuān nǎ yígè？",
+      "tr": "İki kulüp de güzel; Yutong, sen hangisini daha çok seviyorsun?"
     },
     {
       "id": "DLG_ZH_HSK2_SC005_004",
@@ -67,9 +67,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_009",
       "speaker": "老师",
-      "zh": "那两天我都有时间。",
-      "pinyin": "nà liǎng tiān wǒ dōu yǒu shí jiān.",
-      "tr": "O iki gün vaktim var."
+      "zh": "你周二和周四都有时间吗？",
+      "pinyin": "Nǐ zhōuèr hé zhōusì dōu yǒu shíjiān ma？",
+      "tr": "Salı ve perşembe günleri vaktin var mı?"
     },
     {
       "id": "DLG_ZH_HSK2_SC005_010",
@@ -88,9 +88,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_012",
       "speaker": "老师",
-      "zh": "周末我有时候要跟家人出去。",
-      "pinyin": "zhōu mò wǒ yǒu shí hòu yào gēn jiā rén chū qù.",
-      "tr": "Hafta sonları bazen ailemle dışarı çıkarım."
+      "zh": "你周末有时候要跟家人出去，对吗？",
+      "pinyin": "Nǐ zhōumò yǒushíhòu yào gēn jiārén chūqù， duì ma？",
+      "tr": "Hafta sonları bazen ailenle dışarı çıkıyorsun, değil mi?"
     },
     {
       "id": "DLG_ZH_HSK2_SC005_013",
@@ -109,9 +109,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_015",
       "speaker": "老师",
-      "zh": "我一直想学吉他。",
-      "pinyin": "wǒ yì zhí xiǎng xué jí tā.",
-      "tr": "Uzun zamandır gitar öğrenmek istiyorum."
+      "zh": "吉他也很有意思，你以后想试试吗？",
+      "pinyin": "Jítā yě hěn yǒuyìsi， nǐ yǐhòu xiǎng shìshì ma？",
+      "tr": "Gitar da çok eğlenceli; ileride denemek ister misin?"
     },
     {
       "id": "DLG_ZH_HSK2_SC005_016",
@@ -151,23 +151,23 @@
     {
       "id": "DLG_ZH_HSK2_SC005_021",
       "speaker": "老师",
-      "zh": "听起来挺有意思，我也想试试。",
-      "pinyin": "tīng qǐ lái tǐng yǒu yì si, wǒ yě xiǎng shì shì.",
-      "tr": "Kulağa eğlenceli geliyor, denemek isterim."
+      "zh": "听起来不错，锻炼身体也很有意思。",
+      "pinyin": "Tīng qǐlái bùcuò， duànliànshēntǐ yě hěn yǒuyìsi。",
+      "tr": "Güzelmiş; spor yapmak da eğlenceli."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_022",
       "speaker": "张雨桐",
-      "zh": "你可以问问老师两个社团的区别。",
-      "pinyin": "nǐ kě yǐ wèn wèn lǎo shī liǎng gè shè tuán de qū bié.",
-      "tr": "Öğretmene iki kulübün farkını sorabilirsin."
+      "zh": "我还不清楚两个社团有什么不同。",
+      "pinyin": "Wǒ hái bù qīngchǔ liǎnggè shètuán yǒu shénme bùtóng。",
+      "tr": "İki kulübün farkını henüz bilmiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_023",
       "speaker": "同学",
-      "zh": "老师，您觉得我适合参加哪个社团？",
-      "pinyin": "lǎo shī, nín jué de wǒ shì hé cān jiā nǎ ge shè tuán?",
-      "tr": "Öğretmenim, sizce hangi kulübe katılmam uygun olur?"
+      "zh": "老师，您觉得雨桐适合参加哪个社团？",
+      "pinyin": "Lǎoshī， nín juéde yǔtóng shìhé cānjiā nǎge shètuán？",
+      "tr": "Öğretmenim, sizce Yutong hangi kulübe daha uygun?"
     },
     {
       "id": "DLG_ZH_HSK2_SC005_024",
@@ -193,9 +193,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_027",
       "speaker": "老师",
-      "zh": "那我还要想想自己更喜欢什么活动。",
-      "pinyin": "nà wǒ hái yào xiǎng xiǎng zì jǐ gèng xǐ huān shén me huó dòng.",
-      "tr": "O zaman hangi etkinliği daha çok sevdiğimi düşünmeliyim."
+      "zh": "这两个选择都不错，你可以再想想最喜欢什么活动。",
+      "pinyin": "Zhè liǎnggè xuǎnzé dōu bùcuò， nǐ kěyǐ zài xiǎngxiǎng zuì xǐhuān shénme huódòng。",
+      "tr": "İki seçenek de güzel; en çok hangi etkinliği sevdiğini biraz daha düşünebilirsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_028",
@@ -207,9 +207,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_029",
       "speaker": "同学",
-      "zh": "音乐社团练习的时候我去听过一次。",
-      "pinyin": "yīn yuè shè tuán liàn xí de shí hòu wǒ qù tīng guò yī cì.",
-      "tr": "Müzik kulübünün provasını bir kez dinledim."
+      "zh": "我也去听过一次音乐社团的练习。",
+      "pinyin": "Wǒ yě qù tīng guò yīcì yīnyuè shètuán de liànxí。",
+      "tr": "Ben de müzik kulübünün provasını bir kez dinlemeye gittim."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_030",
@@ -256,9 +256,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_036",
       "speaker": "老师",
-      "zh": "可以吗？我还没有报名。",
-      "pinyin": "kě yǐ ma? wǒ hái méi yǒu bào míng.",
-      "tr": "Olur mu? Henüz kayıt olmadım."
+      "zh": "可以，这周有体验活动，不用先报名。",
+      "pinyin": "Kěyǐ， zhèzhōu yǒu tǐyàn huódòng， bùyòng xiān bàomíng。",
+      "tr": "Olur, bu hafta tanıtım etkinliği var; önceden kaydolman gerekmiyor."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_037",
@@ -270,23 +270,23 @@
     {
       "id": "DLG_ZH_HSK2_SC005_038",
       "speaker": "同学",
-      "zh": "那我先去体育社团试一次。",
-      "pinyin": "nà wǒ xiān qù tǐ yù shè tuán shì yī cì.",
-      "tr": "O zaman önce spor kulübünü bir kez deneyeyim."
+      "zh": "那我陪你先去体育社团试一次。",
+      "pinyin": "Nà wǒ péi nǐ xiān qù tǐyù shètuán shì yīcì。",
+      "tr": "O zaman önce spor kulübünü denemeye seninle geleyim."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_039",
       "speaker": "老师",
-      "zh": "之后再去听音乐社团练习。",
-      "pinyin": "zhī hòu zài qù tīng yīn yuè shè tuán liàn xí.",
-      "tr": "Sonra müzik kulübünün provasını dinlerim."
+      "zh": "之后你们还可以去听音乐社团练习。",
+      "pinyin": "Zhīhòu nǐmen hái kěyǐ qù tīng yīnyuè shètuán liànxí。",
+      "tr": "Sonra müzik kulübünün provasını da dinleyebilirsiniz."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_040",
       "speaker": "张雨桐",
-      "zh": "你先选一个社团，之后还能换吗？",
-      "pinyin": "nǐ xiān xuǎn yí gè shè tuán, zhī hòu hái néng huàn ma?",
-      "tr": "Önce bir kulüp seçip sonra değiştirebilir miyim?"
+      "zh": "我先选一个社团，之后还可以换吗？",
+      "pinyin": "Wǒ xiānxuǎn yígè shètuán， zhīhòu hái kěyǐ huàn ma？",
+      "tr": "Önce bir kulüp seçsem, sonra değiştirebilir miyim?"
     },
     {
       "id": "DLG_ZH_HSK2_SC005_041",
@@ -298,9 +298,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_042",
       "speaker": "老师",
-      "zh": "那我不用今天就决定一整年。",
-      "pinyin": "nà wǒ bù yòng jīn tiān jiù jué dìng yī zhěng nián.",
-      "tr": "O zaman bugün bütün yıl için karar vermem gerekmiyor."
+      "zh": "对，你不用今天就决定一整年。",
+      "pinyin": "Duì， nǐ bùyòng jīntiān jiù juédìng yī zhěngnián。",
+      "tr": "Evet, bugün bir yıllık karar vermek zorunda değilsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_043",
@@ -348,22 +348,22 @@
       "id": "DLG_ZH_HSK2_SC005_049",
       "speaker": "张雨桐",
       "zh": "我喜欢大家一起打球，气氛很好。",
-      "pinyin": "wǒ xǐ huān dà jiā yì qǐ dǎ qiú, qì fēn hěn hǎo.",
-      "tr": "Hep birlikte top oynamayı seviyorum, ortam çok güzel."
+      "pinyin": "Wǒ xǐhuān dàjiā yìqǐ dǎqiú， qìfēn hěn hǎo。",
+      "tr": "Herkesle birlikte top oynamayı seviyorum; ortamı çok güzel."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_050",
       "speaker": "同学",
-      "zh": "运动以后会不会很累？",
-      "pinyin": "yùn dòng yǐ hòu huì bú huì hěn lèi?",
-      "tr": "Spor yaptıktan sonra çok yoruluyor musun?"
+      "zh": "运动以后记得休息，别太累。",
+      "pinyin": "Yùn dòng yǐ hòu jì de xiū xī, bié tài lèi.",
+      "tr": "Spor yaptıktan sonra dinlenmeyi unutma, kendini çok yorma."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_051",
       "speaker": "老师",
-      "zh": "有一点儿，不过晚上睡得更好。",
-      "pinyin": "yǒu yì diǎn ér, bù guò wǎn shàng shuì dé gèng hǎo.",
-      "tr": "Biraz ama geceleri daha iyi uyuyorum."
+      "zh": "运动后会有一点儿累，不过睡得也更好。",
+      "pinyin": "Yùndòng hòuhuì yǒu yìdiǎnér lèi， bùguò shuìdé yě gènghǎo。",
+      "tr": "Spor yaptıktan sonra biraz yorulursun ama uykun da daha iyi olur."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_052",
@@ -382,9 +382,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_054",
       "speaker": "老师",
-      "zh": "太好了，我一个人去有点儿不好意思。",
-      "pinyin": "tài hǎo le, wǒ yí gè rén qù yǒu diǎn ér bù hǎo yì sī.",
-      "tr": "Harika, tek başıma gitmeye biraz çekiniyordum."
+      "zh": "有同学陪你去，就不用不好意思了。",
+      "pinyin": "Yǒu tóngxué péinǐqù， jiù bùyòng bùhǎoyìsī le。",
+      "tr": "Bir arkadaşın seninle gelirse çekinmene gerek kalmaz."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_055",
@@ -424,9 +424,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_060",
       "speaker": "老师",
-      "zh": "这样你就更容易决定了。",
-      "pinyin": "zhè yàng nǐ jiù gèng róng yì jué dìng le.",
-      "tr": "Böylece karar vermen daha kolay olur."
+      "zh": "知道音乐社团的情况，也能帮你做决定。",
+      "pinyin": "Zhīdào yīnyuè shètuán de qíngkuàng， yě néng bāng nǐ zuò juédìng。",
+      "tr": "Müzik kulübünü tanımak da karar vermene yardımcı olur."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_061",
@@ -445,9 +445,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_063",
       "speaker": "老师",
-      "zh": "我周四去运动，周三听他们练习。",
-      "pinyin": "wǒ zhōu sì qù yùn dòng, zhōu sān tīng tā men liàn xí.",
-      "tr": "Perşembe spor yaparım, çarşamba provalarını dinlerim."
+      "zh": "周四可以去体育社团，周三可以听音乐社团练习。",
+      "pinyin": "Zhōusì kěyǐ qù tǐyù shètuán， zhōusān kěyǐ tīng yīnyuè shètuán liànxí。",
+      "tr": "Perşembe spor kulübüne, çarşamba müzik kulübünün provasına gidebilirsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_064",
@@ -459,9 +459,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_065",
       "speaker": "同学",
-      "zh": "我想这周体验以后再报名。",
-      "pinyin": "wǒ xiǎng zhè zhōu tǐ yàn yǐ hòu zài bào míng.",
-      "tr": "Bu hafta deneyip sonra kaydolmak istiyorum."
+      "zh": "你体验以后再报名比较好。",
+      "pinyin": "Nǐ tǐyàn yǐhòu zài bàomíng bǐjiào hǎo。",
+      "tr": "Deneyip gördükten sonra kaydolman daha iyi."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_066",
@@ -487,9 +487,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_069",
       "speaker": "老师",
-      "zh": "谢谢老师，我会认真考虑。",
-      "pinyin": "xiè xiè lǎo shī, wǒ huì rèn zhēn kǎo lǜ.",
-      "tr": "Teşekkürler öğretmenim, iyice düşüneceğim."
+      "zh": "体验以后再告诉我，我帮你一起看看。",
+      "pinyin": "Tǐyàn yǐhòu zài gàosù wǒ， wǒ bāng nǐ yìqǐ kànkàn。",
+      "tr": "Deneyimledikten sonra bana anlat, birlikte değerlendiririz."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_070",
@@ -508,9 +508,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_072",
       "speaker": "老师",
-      "zh": "我回家就把鞋准备好。",
-      "pinyin": "wǒ huí jiā jiù bǎ xié zhǔn bèi hǎo.",
-      "tr": "Eve gidince ayakkabılarımı hazırlarım."
+      "zh": "带一双舒服的鞋就行，不用特意买新的。",
+      "pinyin": "Dài yīshuāng shūfú de xié jiù xíng， bùyòng tèyì mǎi xīn de。",
+      "tr": "Rahat bir ayakkabı getirmen yeter, özellikle yenisini almana gerek yok."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_073",
@@ -529,23 +529,23 @@
     {
       "id": "DLG_ZH_HSK2_SC005_075",
       "speaker": "老师",
-      "zh": "那我先试试吉他。",
-      "pinyin": "nà wǒ xiān shì shì jí tā.",
-      "tr": "O zaman önce gitarı denerim."
+      "zh": "吉他可以先试一试，再决定要不要参加。",
+      "pinyin": "Jítā kěyǐ xiān shìyīshì， zài juédìng yào búyào cānjiā。",
+      "tr": "Önce gitarı deneyip sonra katılıp katılmamaya karar verebilirsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_076",
       "speaker": "张雨桐",
-      "zh": "你觉得自己更想参加哪个？",
-      "pinyin": "nǐ jué de zì jǐ gèng xiǎng cān jiā nǎ ge?",
-      "tr": "Sence hangisine daha çok katılmak istiyorsun?"
+      "zh": "你觉得我更适合参加哪个社团？",
+      "pinyin": "Nǐ jué de wǒ gèng shì hé cān jiā nǎ ge shè tuán?",
+      "tr": "Sence ben hangi kulübe daha uygun olurum?"
     },
     {
       "id": "DLG_ZH_HSK2_SC005_077",
       "speaker": "同学",
-      "zh": "现在我有一点儿偏向体育社团。",
-      "pinyin": "xiàn zài wǒ yǒu yì diǎn ér piān xiàng tǐ yù shè tuán.",
-      "tr": "Şu an spor kulübüne biraz daha yakınım."
+      "zh": "我觉得你可以先试试体育社团。",
+      "pinyin": "Wǒ jué de nǐ kě yǐ xiān shì shì tǐ yù shè tuán.",
+      "tr": "Bence önce spor kulübünü deneyebilirsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_078",
@@ -558,8 +558,8 @@
       "id": "DLG_ZH_HSK2_SC005_079",
       "speaker": "张雨桐",
       "zh": "因为我想多运动，也想认识新朋友。",
-      "pinyin": "yīn wèi wǒ xiǎng duō yùn dòng, yě xiǎng rèn shí xīn péng yǒu.",
-      "tr": "Daha çok spor yapmak ve yeni arkadaşlar edinmek istiyorum."
+      "pinyin": "Yīn wèi wǒ xiǎng duō yùn dòng, yě xiǎng rèn shí xīn péng yǒu.",
+      "tr": "Çünkü daha çok spor yapmak ve yeni arkadaşlar edinmek istiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_080",
@@ -571,9 +571,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_081",
       "speaker": "老师",
-      "zh": "对，我先去参加体验活动。",
-      "pinyin": "duì, wǒ xiān qù cān jiā tǐ yàn huó dòng.",
-      "tr": "Evet, önce deneme etkinliğine katılacağım."
+      "zh": "那就先去参加体验活动，回来再决定。",
+      "pinyin": "Nà jiù xiān qù cānjiā tǐyàn huódòng， huílái zài juédìng。",
+      "tr": "O zaman önce tanıtım etkinliğine katıl, dönünce karar ver."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_082",
@@ -592,9 +592,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_084",
       "speaker": "老师",
-      "zh": "我不想因为社团影响学习。",
-      "pinyin": "wǒ bù xiǎng yīn wèi shè tuán yǐng xiǎng xué xí.",
-      "tr": "Kulüp yüzünden derslerimin etkilenmesini istemiyorum."
+      "zh": "别让社团活动影响学习。",
+      "pinyin": "Bié ràng shè tuán huó dòng yǐng xiǎng xué xí.",
+      "tr": "Kulüp etkinliklerinin derslerini etkilemesine izin verme."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_085",
@@ -613,9 +613,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_087",
       "speaker": "老师",
-      "zh": "我会先试体育社团。",
-      "pinyin": "wǒ huì xiān shì tǐ yù shè tuán.",
-      "tr": "Önce spor kulübünü deneyeceğim."
+      "zh": "好，周四先去体育社团看看。",
+      "pinyin": "Hǎo， zhōusì xiān qù tǐyù shètuán kànkàn。",
+      "tr": "Peki, perşembe önce spor kulübüne bir bakalım."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_088",
@@ -655,9 +655,9 @@
     {
       "id": "DLG_ZH_HSK2_SC005_093",
       "speaker": "老师",
-      "zh": "对，我现在不那么担心了。",
-      "pinyin": "duì, wǒ xiàn zài bù nà me dān xīn le.",
-      "tr": "Evet, artık o kadar endişeli değilim."
+      "zh": "想清楚以后就不用担心了。",
+      "pinyin": "Xiǎng qīngchǔ yǐhòu jiù bùyòng dānxīn le。",
+      "tr": "Biraz düşünüp karar verince endişelenmene gerek kalmaz."
     },
     {
       "id": "DLG_ZH_HSK2_SC005_094",
@@ -705,8 +705,8 @@
       "id": "DLG_ZH_HSK2_SC005_100",
       "speaker": "张雨桐",
       "zh": "好，我体验以后再报名。",
-      "pinyin": "hǎo, wǒ tǐ yàn yǐ hòu zài bào míng.",
-      "tr": "Tamam, deneme etkinliğinden sonra kaydolacağım."
+      "pinyin": "Hǎo, wǒ tǐ yàn yǐ hòu zài bào míng.",
+      "tr": "Peki, denedikten sonra kaydolacağım."
     }
   ],
   "productionStatus": "complete",

@@ -91,9 +91,9 @@
     {
       "id": "DLG_ZH_HSK3_SC023_013",
       "speaker": "刘梅",
-      "zh": "我已经准备好修好了。",
-      "pinyin": "Wǒ yǐjīng zhǔnbèi hǎo xiūhǎo le.",
-      "tr": "Tamir etmek için hazırım."
+      "zh": "维修需要的工具我已经准备好了。",
+      "pinyin": "Wéixiū xūyào de gōngjù wǒ yǐjīng zhǔnbèi hǎo le.",
+      "tr": "Tamir için gereken aletleri hazırladım."
     },
     {
       "id": "DLG_ZH_HSK3_SC023_014",
@@ -300,7 +300,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_043",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "那我负责这一部分。",
       "pinyin": "Nà wǒ fùzé zhè yībùfèn.",
       "tr": "O zaman bu kısmı ben üstleneyim."
@@ -328,7 +328,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_047",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "事情越来越清楚了。",
       "pinyin": "Shìqíng yuèláiyuè qīngchǔ le.",
       "tr": "Durum giderek netleşiyor."
@@ -356,7 +356,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_051",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "这个问题其实不难。",
       "pinyin": "Zhège wèntí qíshí bùnán.",
       "tr": "Bu sorun aslında zor değil."
@@ -384,7 +384,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_055",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "中间还是出了一个小问题。",
       "pinyin": "Zhōngjiān háishì chū le yígè xiǎo wèntí.",
       "tr": "Arada yine küçük bir sorun çıktı."
@@ -412,7 +412,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_059",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "我们可以一边做，一边检查。",
       "pinyin": "Wǒmen kěyǐ yībiān zuò, yībiān jiǎnchá.",
       "tr": "Yaparken aynı anda kontrol edebiliriz."
@@ -440,7 +440,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_063",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "确实，比刚才顺利。",
       "pinyin": "Quèshí, bǐ gāngcái shùnlì.",
       "tr": "Gerçekten, az öncekinden daha iyi gidiyor."
@@ -461,14 +461,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_066",
-      "speaker": "张伟",
+      "speaker": "刘梅",
       "zh": "好的，我来检查第一部分。",
       "pinyin": "Hǎo de, wǒlái jiǎnchá dìyī bùfèn.",
       "tr": "Tamam, ilk kısmı ben kontrol edeyim."
     },
     {
       "id": "DLG_ZH_HSK3_SC023_067",
-      "speaker": "顾客",
+      "speaker": "张伟",
       "zh": "我负责后面的部分。",
       "pinyin": "Wǒ fùzé hòumiàn de bùfèn.",
       "tr": "Ben sonraki kısmı kontrol ederim."
@@ -496,7 +496,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_071",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "下次处理起来会更快。",
       "pinyin": "Xiàcì chǔlǐ qǐlái huì gèng kuài.",
       "tr": "Bir dahaki sefere daha hızlı hallederiz."
@@ -524,7 +524,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC023_075",
-      "speaker": "顾客",
+      "speaker": "刘梅",
       "zh": "好，接下来按计划继续。",
       "pinyin": "Hǎo, jiēxiàlái ànjìhuà jìxù.",
       "tr": "Tamam, bundan sonra plana göre devam edelim."

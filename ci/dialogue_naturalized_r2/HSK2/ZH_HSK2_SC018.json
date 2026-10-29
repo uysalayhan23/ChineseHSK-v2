@@ -35,23 +35,23 @@
     {
       "id": "DLG_ZH_HSK2_SC018_005",
       "speaker": "刘梅",
-      "zh": "你还记得坐的是几路车吗？",
-      "pinyin": "nǐ hái jì de zuò de shì jǐ lù chē ma ？",
-      "tr": "Hangi numaralı otobüse bindiğini hatırlıyor musun?"
+      "zh": "你还记得上车和下车的地点吗？",
+      "pinyin": "Nǐ hái jì de shàng chē hé xià chē de dì diǎn ma?",
+      "tr": "Nereden binip nerede indiğini hatırlıyor musun?"
     },
     {
       "id": "DLG_ZH_HSK2_SC018_006",
       "speaker": "工作人员",
-      "zh": "是十八路，从学校门口上的车。",
-      "pinyin": "shì shí bā lù ， cóng xué xiào mén kǒu shàng de chē 。",
-      "tr": "On sekiz numara; okulun önünden bindim."
+      "zh": "我先帮你查一下，请告诉我车号和上车地点。",
+      "pinyin": "Wǒ xiān bāng nǐ chá yī xià, qǐng gào sù wǒ chē hào hé shàng chē dì diǎn.",
+      "tr": "Önce kontrol edeyim; otobüs numarasını ve bindiğin yeri söyler misin?"
     },
     {
       "id": "DLG_ZH_HSK2_SC018_007",
       "speaker": "张雨桐",
-      "zh": "那你大概几点上车？",
-      "pinyin": "nà nǐ dà gài jǐ diǎn shàng chē ？",
-      "tr": "Yaklaşık kaçta bindin?"
+      "zh": "我坐十八路，从学校门口上的车。",
+      "pinyin": "Wǒ zuò shí bā lù, cóng xué xiào mén kǒu shàng de chē.",
+      "tr": "18 numaralı otobüse bindim, okulun önünden."
     },
     {
       "id": "DLG_ZH_HSK2_SC018_008",
@@ -189,16 +189,16 @@
     {
       "id": "DLG_ZH_HSK2_SC018_027",
       "speaker": "工作人员",
-      "zh": "肩带是灰色的，包上有白色名字牌。",
-      "pinyin": "jiān dài shì huī sè de ， bāo shàng yǒu bái sè míng zì pái 。",
-      "tr": "Askısı gri, üzerinde beyaz bir isim etiketi var."
+      "zh": "请再说一下肩带和名字牌是什么样的。",
+      "pinyin": "Qǐng zài shuō yī xià jiān dài hé míng zì pái shì shén me yàng de.",
+      "tr": "Askısının ve isim etiketinin nasıl göründüğünü de söyler misin?"
     },
     {
       "id": "DLG_ZH_HSK2_SC018_028",
       "speaker": "张雨桐",
-      "zh": "名字牌上写着什么？",
-      "pinyin": "míng zì pái shàng xiě zhe shén me ？",
-      "tr": "İsim etiketinde ne yazıyor?"
+      "zh": "肩带是灰色的，包上有白色名字牌。",
+      "pinyin": "Jiān dài shì huī sè de, bāo shàng yǒu bái sè míng zì pái.",
+      "tr": "Askısı gri, çantanın üzerinde beyaz bir isim etiketi var."
     },
     {
       "id": "DLG_ZH_HSK2_SC018_029",

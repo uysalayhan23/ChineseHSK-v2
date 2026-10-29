@@ -18,9 +18,9 @@
     {
       "id": "DLG_ZH_HSK5_SC009_002",
       "speaker": "客户",
-      "zh": "我们最担心日期一再往后推，也想知道拿到版本后能不能尽快试用。",
-      "pinyin": "wǒ men zuì dān xīn rì qī yī zài wǎng hòu tuī ， yě xiǎng zhī dào ná dào bǎn běn hòu néng bù néng jǐn kuài shì yòng 。",
-      "tr": "Tarihin sürekli ertelenmesinden endişeliyiz; sürümü alınca kısa sürede deneyip deneyemeyeceğimizi de bilmek istiyoruz。"
+      "zh": "我们理解，客户期待的是可靠的日期和能尽快试用的版本。",
+      "pinyin": "wǒ men lǐ jiě ， kè hù qī dài de shì kě kào de rì qī hé néng jǐn kuài shì yòng de bǎn běn 。",
+      "tr": "Müşterinin güvenilir bir tarih ve mümkün olan en kısa sürede deneyebileceği bir sürüm beklediğini anlıyoruz."
     },
     {
       "id": "DLG_ZH_HSK5_SC009_003",
@@ -39,9 +39,9 @@
     {
       "id": "DLG_ZH_HSK5_SC009_005",
       "speaker": "张伟",
-      "zh": "之前给出的日期比实际进度乐观，这是我们沟通不够谨慎，我向您道歉。",
-      "pinyin": "zhī qián gěi chū de rì qī bǐ shí jì jìn dù lè guān ， zhè shì wǒ men gōu tōng bù gòu jǐn shèn ， wǒ xiàng nín dào qiàn 。",
-      "tr": "Daha önce verdiğimiz tarih gerçek ilerlemeye göre fazla iyimserdi; iletişimde yeterince temkinli davranmadık, özür dilerim。"
+      "zh": "之前给出的日期过于乐观；这次项目延期，是我们沟通不够谨慎，我向您道歉。",
+      "pinyin": "zhī qián gěi chū de rì qī guò yú lè guān ； zhè cì xiàng mù yán qī ， shì wǒ men gōu tōng bù gòu jǐn shèn ， wǒ xiàng nín dào qiàn 。",
+      "tr": "Önceden verdiğimiz tarih fazla iyimserdi; projenin gecikmesi temkinli iletişim kurmamamızdan kaynaklandı. Özür dilerim."
     },
     {
       "id": "DLG_ZH_HSK5_SC009_006",
@@ -109,9 +109,9 @@
     {
       "id": "DLG_ZH_HSK5_SC009_015",
       "speaker": "经理",
-      "zh": "如果周三完成核心测试，周四可以复核，周五交付就有一天缓冲。",
-      "pinyin": "rú guǒ zhōu sān wán chéng hé xīn cè shì ， zhōu sì kě yǐ fù hé ， zhōu wǔ jiāo fù jiù yǒu yī tiān huǎn chōng 。",
-      "tr": "Temel testleri çarşamba bitirirsek perşembe son kontrolü yapabilir, cuma teslimi için bir günlük pay bırakabiliriz。"
+      "zh": "如果周三完成核心测试，周四可以复核，周五的截止日期就留有一天缓冲。",
+      "pinyin": "rú guǒ zhōu sān wán chéng hé xīn cè shì ， zhōu sì kě yǐ fù hé ， zhōu wǔ de jié zhǐ rì qī jiù liú yǒu yī tiān huǎn chōng 。",
+      "tr": "Temel testler çarşamba biterse perşembe yeniden kontrol eder, cuma son tarihi için bir gün pay bırakırız."
     },
     {
       "id": "DLG_ZH_HSK5_SC009_016",
@@ -228,9 +228,9 @@
     {
       "id": "DLG_ZH_HSK5_SC009_032",
       "speaker": "同事",
-      "zh": "已知问题清单会标注影响范围、临时处理办法以及计划修复的日期。",
-      "pinyin": "yǐ zhī wèn tí qīng dān huì biāo zhù yǐng xiǎng fàn wéi 、 lín shí chǔ lǐ bàn fǎ yǐ jí jì huà xiū fù de rì qī 。",
-      "tr": "Bilinen sorunlar listesinde etki alanını, geçici çözümü ve planlanan düzeltme tarihini belirteceğim。"
+      "zh": "已知问题清单会标注影响范围、临时解决办法以及计划修复的日期。",
+      "pinyin": "yǐ zhī wèn tí qīng dān huì biāo zhù yǐng xiǎng fàn wéi 、 lín shí jiě jué bàn fǎ yǐ jí jì huà xiū fù de rì qī 。",
+      "tr": "Bilinen sorunlar listesinde etki alanı, geçici çözüm ve planlanan düzeltme tarihi yer alacak."
     },
     {
       "id": "DLG_ZH_HSK5_SC009_033",
@@ -403,9 +403,9 @@
     {
       "id": "DLG_ZH_HSK5_SC009_057",
       "speaker": "张伟",
-      "zh": "这样双方都有明确任务，时间风险也更容易提前看见。",
-      "pinyin": "zhè yàng shuāng fāng dōu yǒu míng què rèn wù ， shí jiān fēng xiǎn yě gèng róng yì tí qián kàn jiàn 。",
-      "tr": "Böylece iki tarafın da görevi belli olur ve zaman riskini önceden görmek kolaylaşır。"
+      "zh": "我们不是要说服贵方接受不确定的日期，而是先把证据和可选方案说明白。",
+      "pinyin": "wǒ men bú shì yào shuō fú guì fāng jiē shòu bù què dìng de rì qī ， ér shì xiān bǎ zhèng jù hé kě xuǎn fāng àn shuō míng bái 。",
+      "tr": "Amacımız sizi belirsiz bir tarihi kabul etmeye ikna etmek değil; önce kanıtları ve seçenekleri açıkça anlatmak."
     },
     {
       "id": "DLG_ZH_HSK5_SC009_058",
@@ -459,9 +459,9 @@
     {
       "id": "DLG_ZH_HSK5_SC009_065",
       "speaker": "张伟",
-      "zh": "我们不会隐瞒这个风险，也不会因为一个测试项就放弃其他准备工作。",
-      "pinyin": "wǒ men bú huì yǐn mán zhè ge fēng xiǎn ， yě bú huì yīn wèi yí gè cè shì xiàng jiù fàng qì qí tā zhǔn bèi gōng zuò 。",
-      "tr": "Bu riski gizlemeyeceğiz; tek bir test maddesi yüzünden diğer hazırlıkları da bırakmayacağız。"
+      "zh": "无论今晚复测结果如何，我们都先把试用限制和反馈渠道写清楚。",
+      "pinyin": "wú lùn jīn wǎn fù cè jié guǒ rú hé ， wǒ men dōu xiān bǎ shì yòng xiàn zhì hé fǎn kuì qú dào xiě qīng chǔ 。",
+      "tr": "Bu akşamki tekrar testinin sonucu ne olursa olsun deneme sınırlarını ve geri bildirim kanalını açıkça yazalım."
     },
     {
       "id": "DLG_ZH_HSK5_SC009_066",
@@ -730,9 +730,9 @@
         "zh": "客户期待",
         "pinyin": "kèhù qīdài",
         "tr": "müşteri beklentisi",
-        "exampleZh": "客户期待是我们不能忽略的一点。",
-        "examplePinyin": "Kèhù qīdài shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Müşteri beklentisi göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "我们理解，客户期待的是可靠的日期和能尽快试用的版本。",
+        "examplePinyin": "Wǒ men lǐ jiě ， kè hù qī dài de shì kě kào de rì qī hé néng jǐn kuài shì yòng de bǎn běn 。",
+        "exampleTr": "Müşterinin güvenilir bir tarih ve mümkün olan en kısa sürede deneyebileceği bir sürüm beklediğini anlıyoruz.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "承诺",
         "pinyin": "chéngnuò",
         "tr": "taahhüt / söz",
-        "exampleZh": "我们把承诺也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ chéngnuò yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Taahhüt / söz konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "之前邮件里写的是本周五交付全部功能，这个承诺现在怎么处理？",
+        "examplePinyin": "Zhī qián yóu jiàn lǐ xiě de shì běn zhōu wǔ jiāo fù quán bù gōng néng ， zhè ge chéng nuò xiàn zài zěn me chǔ lǐ ？",
+        "exampleTr": "Önceki e-postada tüm işlevlerin bu cuma teslim edileceği yazıyordu; şimdi bu sözü nasıl ele alacağız?",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "项目延期",
         "pinyin": "xiàngmù yánqī",
         "tr": "proje gecikmesi",
-        "exampleZh": "如果项目延期发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ xiàngmù yánqī fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Proje gecikmesi değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "之前给出的日期过于乐观；这次项目延期，是我们沟通不够谨慎，我向您道歉。",
+        "examplePinyin": "Zhī qián gěi chū de rì qī guò yú lè guān ； zhè cì xiàng mù yán qī ， shì wǒ men gōu tōng bù gòu jǐn shèn ， wǒ xiàng nín dào qiàn 。",
+        "exampleTr": "Önceden verdiğimiz tarih fazla iyimserdi; projenin gecikmesi temkinli iletişim kurmamamızdan kaynaklandı. Özür dilerim.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "沟通",
         "pinyin": "gōutōng",
         "tr": "iletişim kurmak",
-        "exampleZh": "这件事需要大家一起沟通。",
-        "examplePinyin": "Zhè jiàn shì xūyào dàjiā yìqǐ gōutōng.",
-        "exampleTr": "Bu konuda herkesin birlikte iletişim kurmak gerekiyor.",
+        "exampleZh": "这样的沟通方式可以，我们需要提前知道变化，好调整内部安排。",
+        "examplePinyin": "Zhè yàng de gōu tōng fāng shì kě yǐ ， wǒ men xū yào tí qián zhī dào biàn huà ， hǎo tiáo zhěng nèi bù ān pái 。",
+        "exampleTr": "Bu iletişim biçimi uygun; iç planımızı değiştirebilmek için değişiklikleri önceden bilmemiz gerekiyor。",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "说服",
         "pinyin": "shuōfú",
         "tr": "ikna etmek",
-        "exampleZh": "在决定以前，我们最好先说服。",
-        "examplePinyin": "Zài juédìng yǐqián, wǒmen zuìhǎo xiān shuōfú.",
-        "exampleTr": "Karar vermeden önce ikna etmek daha iyi olur.",
+        "exampleZh": "我们不是要说服贵方接受不确定的日期，而是先把证据和可选方案说明白。",
+        "examplePinyin": "Wǒ men bú shì yào shuō fú guì fāng jiē shòu bù què dìng de rì qī ， ér shì xiān bǎ zhèng jù hé kě xuǎn fāng àn shuō míng bái 。",
+        "exampleTr": "Amacımız sizi belirsiz bir tarihi kabul etmeye ikna etmek değil; önce kanıtları ve seçenekleri açıkça anlatmak.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "截止日期",
         "pinyin": "jiézhǐ rìqī",
         "tr": "son tarih",
-        "exampleZh": "我们把截止日期也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ jiézhǐ rìqī yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Son tarih konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "如果周三完成核心测试，周四可以复核，周五的截止日期就留有一天缓冲。",
+        "examplePinyin": "Rú guǒ zhōu sān wán chéng hé xīn cè shì ， zhōu sì kě yǐ fù hé ， zhōu wǔ de jié zhǐ rì qī jiù liú yǒu yī tiān huǎn chōng 。",
+        "exampleTr": "Temel testler çarşamba biterse perşembe yeniden kontrol eder, cuma son tarihi için bir gün pay bırakırız.",
         "kind": "active"
       },
       {
@@ -790,20 +790,20 @@
         "zh": "解决办法",
         "pinyin": "jiějué bànfǎ",
         "tr": "çözüm yolu",
-        "exampleZh": "如果解决办法发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ jiějué bànfǎ fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Çözüm yolu değişirse planı da ayarlamak gerekir.",
-        "kind": "review"
+        "exampleZh": "已知问题清单会标注影响范围、临时解决办法以及计划修复的日期。",
+        "examplePinyin": "Yǐ zhī wèn tí qīng dān huì biāo zhù yǐng xiǎng fàn wéi 、 lín shí jiě jué bàn fǎ yǐ jí jì huà xiū fù de rì qī 。",
+        "exampleTr": "Bilinen sorunlar listesinde etki alanı, geçici çözüm ve planlanan düzeltme tarihi yer alacak.",
+        "kind": "active"
       },
       {
         "id": "VOC_ZH_HSK5_SC009_008",
         "zh": "风险",
         "pinyin": "fēngxiǎn",
         "tr": "risk",
-        "exampleZh": "关于风险，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú fēngxiǎn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Risk konusunda herkesin fikrini bir kez daha duymak istiyorum.",
-        "kind": "review"
+        "exampleZh": "目前核心流程已经完成，主要风险在最后的稳定性和安全检查。",
+        "examplePinyin": "Mù qián hé xīn liú chéng yǐ jīng wán chéng ， zhǔ yào fēng xiǎn zài zuì hòu de wěn dìng xìng hé ān quán jiǎn chá 。",
+        "exampleTr": "Temel akış şu an tamamlandı; asıl risk son kararlılık ve güvenlik kontrollerinde。",
+        "kind": "active"
       }
     ],
     "sentenceExercises": [
@@ -1224,6 +1224,14 @@
     },
     "continuityNoteTr": "Müşteri Toplantısı olayı HSK5 yaşam çizgisinde sahne 9 olarak kaydedilir; kariyer, yetişkin çocuklar, toplumsal sorumluluk ve yaşlanan aile büyükleriyle ilgili sonuçlar sonraki sahnelere aktarılır."
   },
-  "editorialStatus": "generated_full_v1_requires_native_review",
-  "dialogueCount": 100
+  "editorialStatus": "contextual_mandarin_r2_applied",
+  "dialogueCount": 100,
+  "dialogueRevision": {
+    "version": 15,
+    "source": "ci/dialogue_naturalized_r2/HSK5/ZH_HSK5_SC009.json",
+    "preservedDialogueIds": true,
+    "preservedSpeakerSequence": true,
+    "preserved100Turns": true,
+    "preservedLearningTargets": true
+  }
 }

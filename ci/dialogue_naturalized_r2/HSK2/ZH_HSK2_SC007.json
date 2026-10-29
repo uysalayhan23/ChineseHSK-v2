@@ -385,9 +385,9 @@
     {
       "id": "DLG_ZH_HSK2_SC007_055",
       "speaker": "张乐乐",
-      "zh": "我付好了，收据不用拿。",
-      "pinyin": "wǒ fù hǎo le, shōu jù bù yòng ná.",
-      "tr": "Ödedim, fişe gerek yok."
+      "zh": "我来把小票收好，回家还能核对。",
+      "pinyin": "Wǒlái bǎ xiǎopiào shōu hǎo， huíjiā hái néng héduì。",
+      "tr": "Fişi ben saklayayım; eve gidince yine kontrol edebiliriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC007_056",
@@ -700,9 +700,9 @@
     {
       "id": "DLG_ZH_HSK2_SC007_100",
       "speaker": "店员",
-      "zh": "那就先休息，明天再去送礼物。",
-      "pinyin": "nà jiù xiān xiū xī, míng tiān zài qù sòng lǐ wù.",
-      "tr": "O zaman dinlenelim, hediyeyi yarın veririz."
+      "zh": "祝奶奶生日快乐，也祝你们明天过得开心。",
+      "pinyin": "Zhù nǎi nǎi shēng rì kuài lè, yě zhù nǐ men míng tiān guò dé kāi xīn.",
+      "tr": "Büyükannenizin doğum günü kutlu olsun; yarın güzel vakit geçirmenizi dilerim."
     }
   ],
   "dialogueCount": 100

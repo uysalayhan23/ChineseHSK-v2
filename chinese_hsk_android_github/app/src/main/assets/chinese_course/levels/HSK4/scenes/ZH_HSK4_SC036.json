@@ -730,9 +730,9 @@
         "zh": "依据",
         "pinyin": "yījù",
         "tr": "dayanak / kanıt",
-        "exampleZh": "依据是我们不能忽略的一点。",
-        "examplePinyin": "Yījù shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Dayanak / kanıt göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "这些依据都记下来，别急着只归因于价格。",
+        "examplePinyin": "zhè xiē yī jù dōu jì xià lái bié jí zhe zhǐ guī yīn yú jià gé",
+        "exampleTr": "Bu verileri not edelim; hemen yalnızca fiyata bağlamayalım.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "营业额",
         "pinyin": "yíngyè’é",
         "tr": "ciro",
-        "exampleZh": "我们把营业额也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ yíngyè’é yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Ciro konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "营业额也要按饮料和食品分开吗？",
+        "examplePinyin": "yíng yè é yě yào àn yǐn liào hé shí pǐn fēn kāi ma",
+        "exampleTr": "Ciroyu içecek ve yiyeceklere göre de ayırmalı mıyız?",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "成本",
         "pinyin": "chéngběn",
         "tr": "maliyet",
-        "exampleZh": "如果成本发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ chéngběn fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
-        "exampleTr": "Maliyet değişirse planı da ayarlamak gerekir.",
+        "exampleZh": "材料成本最近涨了一点，尤其是咖啡豆和牛奶。",
+        "examplePinyin": "cái liào chéng běn zuì jìn zhǎng le yì diǎn yóu qí shì kā fēi dòu hé niú nǎi",
+        "exampleTr": "Son zamanlarda malzeme maliyeti biraz arttı; özellikle kahve çekirdeği ve süt.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "预算",
         "pinyin": "yùsuàn",
         "tr": "bütçe",
-        "exampleZh": "关于预算，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú yùsuàn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
-        "exampleTr": "Bütçe konusunda herkesin fikrini bir kez daha duymak istiyorum.",
+        "exampleZh": "现在每个月的预算是怎么定的？我想确认有没有漏项。",
+        "examplePinyin": "xiàn zài měi gè yuè de yù suàn shì zěn me dìng de wǒ xiǎng què rèn yǒu méi yǒu lòu xiàng",
+        "exampleTr": "Aylık bütçeyi şu anda nasıl hazırlıyoruz? Eksik kalem var mı kontrol etmek istiyorum.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "生意",
         "pinyin": "shēngyi",
         "tr": "iş / ticaret",
-        "exampleZh": "生意是我们不能忽略的一点。",
-        "examplePinyin": "Shēngyi shì wǒmen bù néng hūlüè de yìdiǎn.",
-        "exampleTr": "Iş / ticaret göz ardı edemeyeceğimiz bir nokta.",
+        "exampleZh": "店里的账算完，还要看看家里的支出，不能只顾生意。",
+        "examplePinyin": "diàn lǐ de zhàng suàn wán hái yào kàn kàn jiā lǐ de zhī chū bù néng zhǐ gù shēng yì",
+        "exampleTr": "Dükkân hesaplarını bitirdik; yalnızca işi düşünmeyip ev masraflarına da bakmalıyız.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "比较",
         "pinyin": "bǐjiào",
         "tr": "karşılaştırmak",
-        "exampleZh": "我们把比较也列进考虑范围吧。",
-        "examplePinyin": "Wǒmen bǎ bǐjiào yě liè jìn kǎolǜ fànwéi ba.",
-        "exampleTr": "Karşılaştırmak konusunu da değerlendirme kapsamına alalım.",
+        "exampleZh": "我也会把比较表做好，标出还需要确认的数字。",
+        "examplePinyin": "wǒ yě huì bǎ bǐ jiào biǎo zuò hǎo biāo chū hái xū yào què rèn de shù zì",
+        "exampleTr": "Karşılaştırma tablosunu hazırlayıp doğrulanması gereken sayıları işaretlerim.",
         "kind": "active"
       },
       {
@@ -791,7 +791,7 @@
         "pinyin": "juédìng",
         "tr": "karar vermek",
         "exampleZh": "如果决定发生变化，计划也得调整。",
-        "examplePinyin": "Rúguǒ juédìng fāshēng biànhuà, jìhuà yě děi tiáozhěng.",
+        "examplePinyin": "Rúguǒ juédìng fāshēng biànhuà jìhuà yě děi tiáozhěng",
         "exampleTr": "Karar vermek değişirse planı da ayarlamak gerekir.",
         "kind": "review"
       },
@@ -801,7 +801,7 @@
         "pinyin": "fēngxiǎn",
         "tr": "risk",
         "exampleZh": "关于风险，我想再听听大家的看法。",
-        "examplePinyin": "Guānyú fēngxiǎn, wǒ xiǎng zài tīngting dàjiā de kànfa.",
+        "examplePinyin": "Guānyú fēngxiǎn wǒ xiǎng zài tīngting dàjiā de kànfa",
         "exampleTr": "Risk konusunda herkesin fikrini bir kez daha duymak istiyorum.",
         "kind": "review"
       }

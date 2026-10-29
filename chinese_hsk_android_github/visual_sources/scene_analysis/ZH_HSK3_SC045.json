@@ -4,7 +4,7 @@
   "maturityManifest": "docs/visuals/HSK3_CHARACTER_MATURITY_LOCK_TR.md",
   "sceneId": "ZH_HSK3_SC045",
   "status": "FINAL_IMAGE_INTEGRATED",
-  "dialogueSource": "ci/dialogue_final_v5/HSK3/ZH_HSK3_SC045.json",
+  "dialogueSource": "ci/dialogue_naturalized_r2/HSK3/ZH_HSK3_SC045.json",
   "titleTr": "Lele Bilim Fuarında",
   "locationId": "LOC_ZH_SCHOOL_HALL_001",
   "scenePurposeTr": "Lele’nin bilim projesi gösteri başlamadan hemen önce çalışmaz.",

@@ -20,7 +20,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_003",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "欢迎您！我有点紧张，不过也很期待。",
       "pinyin": "huān yíng nín ！ wǒ yǒu diǎn jǐn zhāng ， bù guò yě hěn qī dài 。",
       "tr": "Hoş geldiniz! Biraz heyecanlıyım ama merakla bekliyorum."
@@ -48,14 +48,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_007",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "课程表会贴在教室里吗？",
       "pinyin": "kè chéng biǎo huì tiē zài jiào shì lǐ ma ？",
       "tr": "Ders programı sınıfa asılacak mı?"
     },
     {
       "id": "DLG_ZH_HSK3_SC005_008",
-      "speaker": "刘梅",
+      "speaker": "老师",
       "zh": "会，今天下课前我就贴出来。",
       "pinyin": "huì ， jīn tiān xià kè qián wǒ jiù tiē chū lái 。",
       "tr": "Evet, bugün ders bitmeden asarım."
@@ -76,7 +76,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_011",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我以前怕打断老师，所以常常不敢问。",
       "pinyin": "wǒ yǐ qián pà dǎ duàn lǎo shī ， suǒ yǐ cháng cháng bù gǎn wèn 。",
       "tr": "Eskiden öğretmenin sözünü kesmekten çekindiğim için çoğu zaman soramazdım."
@@ -111,7 +111,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_016",
-      "speaker": "刘梅",
+      "speaker": "老师",
       "zh": "可以，也可以先和同学讨论。",
       "pinyin": "kě yǐ ， yě kě yǐ xiān hé tóng xué tǎo lùn 。",
       "tr": "Olur, önce arkadaşlarınla da konuşabilirsin."
@@ -132,7 +132,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_019",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我以前写得慢，常常漏掉后面的内容。",
       "pinyin": "wǒ yǐ qián xiě dé màn ， cháng cháng lòu diào hòu miàn de nèi róng 。",
       "tr": "Eskiden yavaş yazardım, sonraki kısımları kaçırırdım."
@@ -167,7 +167,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_024",
-      "speaker": "刘梅",
+      "speaker": "老师",
       "zh": "好，我先听听大家的需要，再调整座位。",
       "pinyin": "hǎo ， wǒ xiān tīng tīng dà jiā de xū yào ， zài tiáo zhěng zuò wèi 。",
       "tr": "Peki, önce herkesin ihtiyacını dinleyip sonra yerleri değiştireyim."
@@ -188,14 +188,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_027",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "她刚来可能不认识大家，我们可以主动打招呼。",
       "pinyin": "tā gāng lái kě néng bù rèn shí dà jiā ， wǒ men kě yǐ zhǔ dòng dǎ zhāo hū 。",
       "tr": "Yeni geldiğinde kimseyi tanımayabilir; gidip selam verebiliriz."
     },
     {
       "id": "DLG_ZH_HSK3_SC005_028",
-      "speaker": "刘梅",
+      "speaker": "老师",
       "zh": "谢谢你们，我也会向她介绍班里的规定。",
       "pinyin": "xiè xiè nǐ men ， wǒ yě huì xiàng tā jiè shào bān lǐ de guī dìng 。",
       "tr": "Teşekkürler, sınıf kurallarını ben de ona anlatırım."
@@ -216,14 +216,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_031",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "如果下雨，我们就在教室里休息，对吗？",
       "pinyin": "rú guǒ xià yǔ ， wǒ men jiù zài jiào shì lǐ xiū xī ， duì ma ？",
       "tr": "Yağmur yağarsa sınıfta dinleneceğiz, değil mi?"
     },
     {
       "id": "DLG_ZH_HSK3_SC005_032",
-      "speaker": "刘梅",
+      "speaker": "老师",
       "zh": "对，别在走廊追跑，注意安全。",
       "pinyin": "duì ， bié zài zǒu láng zhuī pǎo ， zhù yì ān quán 。",
       "tr": "Evet; koridorda koşmayın, güvenliğinize dikkat edin."
@@ -244,14 +244,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_035",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我爸爸有时会联系我，紧急情况怎么办？",
       "pinyin": "wǒ bà bà yǒu shí huì lián xì wǒ ， jǐn jí qíng kuàng zěn me bàn ？",
       "tr": "Babam bazen bana ulaşır; acil durumda ne yapmalıyım?"
     },
     {
       "id": "DLG_ZH_HSK3_SC005_036",
-      "speaker": "刘梅",
+      "speaker": "老师",
       "zh": "先告诉我，我会帮你联系家里。",
       "pinyin": "xiān gào sù wǒ ， wǒ huì bāng nǐ lián xì jiā lǐ 。",
       "tr": "Önce bana haber ver; ailenle iletişim kurmana yardım ederim."
@@ -272,7 +272,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_039",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我最近读得快了，也能说出大概内容。",
       "pinyin": "wǒ zuì jìn dú dé kuài le ， yě néng shuō chū dà gài nèi róng 。",
       "tr": "Son zamanlarda daha hızlı okuyorum ve ana fikri anlatabiliyorum."
@@ -300,7 +300,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_043",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我愿意记录，也想试试做介绍。",
       "pinyin": "wǒ yuàn yì jì lù ， yě xiǎng shì shì zuò jiè shào 。",
       "tr": "Not alabilirim ama sunum yapmayı da denemek istiyorum."
@@ -328,7 +328,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_047",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "这样就不会一着急就争起来了。",
       "pinyin": "zhè yàng jiù bú huì yī zháo jí jiù zhēng qǐ lái le 。",
       "tr": "Böylece hemen sinirlenip tartışmaya başlamayız."
@@ -356,7 +356,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_051",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我以前吃得快，现在想慢慢吃。",
       "pinyin": "wǒ yǐ qián chī dé kuài ， xiàn zài xiǎng màn màn chī 。",
       "tr": "Eskiden hızlı yerdim; şimdi daha yavaş yemek istiyorum."
@@ -412,7 +412,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_059",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我以前只看分数，现在知道要找原因了。",
       "pinyin": "wǒ yǐ qián zhǐ kàn fēn shù ， xiàn zài zhī dào yào zhǎo yuán yīn le 。",
       "tr": "Eskiden yalnızca puana bakardım; şimdi nedenini bulmam gerektiğini biliyorum."
@@ -440,7 +440,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_063",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我妈妈五点来接我，我会在教室等她。",
       "pinyin": "wǒ mā mā wǔ diǎn lái jiē wǒ ， wǒ huì zài jiào shì děng tā 。",
       "tr": "Annem beni beşte almaya geliyor; sınıfta beklerim."
@@ -468,7 +468,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_067",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "如果早上突然不舒服，妈妈能直接打电话吗？",
       "pinyin": "rú guǒ zǎo shàng tū rán bù shū fú ， mā mā néng zhí jiē dǎ diàn huà ma ？",
       "tr": "Sabah aniden rahatsızlanırsam annem doğrudan arayabilir mi?"
@@ -496,7 +496,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_071",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我把重要的几条写下来，回家再看一遍。",
       "pinyin": "wǒ bǎ zhòng yào de jǐ tiáo xiě xià lái ， huí jiā zài kàn yī biàn 。",
       "tr": "Önemli olanları yazıp eve gidince tekrar okuyacağım."
@@ -524,14 +524,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_075",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我改完以后，还能再给您看一次吗？",
       "pinyin": "wǒ gǎi wán yǐ hòu ， hái néng zài gěi nín kàn yī cì ma ？",
       "tr": "Düzelttikten sonra tekrar size gösterebilir miyim?"
     },
     {
       "id": "DLG_ZH_HSK3_SC005_076",
-      "speaker": "刘梅",
+      "speaker": "老师",
       "zh": "当然，愿意修改说明你很认真。",
       "pinyin": "dāng rán ， yuàn yì xiū gǎi shuō míng nǐ hěn rèn zhēn 。",
       "tr": "Elbette; düzeltmek istemen ne kadar özenli olduğunu gösterir."
@@ -559,7 +559,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_080",
-      "speaker": "刘梅",
+      "speaker": "老师",
       "zh": "这个主意不错，先和同学商量，再告诉我计划。",
       "pinyin": "zhè ge zhǔ yì bù cuò ， xiān hé tóng xué shāng liáng ， zài gào sù wǒ jì huà 。",
       "tr": "Güzel fikir; önce arkadaşlarınla konuşup planınızı bana anlatın."
@@ -580,7 +580,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_083",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "她有不明白的地方，我陪她来问老师。",
       "pinyin": "tā yǒu bù míng bái de dì fāng ， wǒ péi tā lái wèn lǎo shī 。",
       "tr": "Anlamadığı bir şey olursa öğretmene birlikte sorarız."
@@ -608,7 +608,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_087",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "不懂的时候问一问，其实没什么可怕的。",
       "pinyin": "bù dǒng de shí hòu wèn yī wèn ， qí shí méi shén me kě pà de 。",
       "tr": "Anlamadığımda soru sormanın korkulacak bir şey olmadığını gördüm."
@@ -636,7 +636,7 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_091",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "作业按时做，有困难就及时请教。",
       "pinyin": "zuò yè àn shí zuò ， yǒu kùn nán jiù jí shí qǐng jiào 。",
       "tr": "Ödevleri zamanında yapıp zorlanınca yardım isteyeceğiz."
@@ -664,14 +664,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_095",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "谢谢老师，我会把新规定告诉爸爸妈妈。",
       "pinyin": "xiè xiè lǎo shī ， wǒ huì bǎ xīn guī dìng gào sù bà bà mā mā 。",
       "tr": "Teşekkürler öğretmenim; yeni kuralları anne babama anlatacağım."
     },
     {
       "id": "DLG_ZH_HSK3_SC005_096",
-      "speaker": "刘梅",
+      "speaker": "老师",
       "zh": "欢迎你们随时沟通，我们一起帮助乐乐进步。",
       "pinyin": "huān yíng nǐ men suí shí gōu tōng ， wǒ men yì qǐ bāng zhù lè lè jìn bù 。",
       "tr": "İstediğiniz zaman iletişim kurabilirsiniz; Lele’nin gelişimi için birlikte çalışalım."
@@ -692,14 +692,14 @@
     },
     {
       "id": "DLG_ZH_HSK3_SC005_099",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我会继续努力，也会帮助新同学。",
       "pinyin": "wǒ huì jì xù nǔ lì ， yě huì bāng zhù xīn tóng xué 。",
       "tr": "Çalışmaya devam edeceğim ve yeni öğrenciye de yardım edeceğim."
     },
     {
       "id": "DLG_ZH_HSK3_SC005_100",
-      "speaker": "刘梅",
+      "speaker": "老师",
       "zh": "太好了。明天见，记得带好课本。",
       "pinyin": "tài hǎo le 。 míng tiān jiàn ， jì de dài hǎo kè běn 。",
       "tr": "Harika. Yarın görüşürüz; ders kitaplarını almayı unutma."

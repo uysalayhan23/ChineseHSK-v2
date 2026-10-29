@@ -97,14 +97,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC035_014",
-      "speaker": "邻居",
+      "speaker": "张伟",
       "zh": "左边的是水果味，右边的加了奶油，你可以先尝一小块。",
       "pinyin": "Zuǒ biān de shì shuǐ guǒ wèi ， yòu biān de jiā le nǎi yóu ， nǐ kě yǐ xiān cháng yī xiǎo kuài 。",
       "tr": "Soldakiler meyveli, sağdakiler kremalı; önce küçük bir parça tadabilirsin."
     },
     {
       "id": "DLG_ZH_HSK2_SC035_015",
-      "speaker": "张伟",
+      "speaker": "邻居",
       "zh": "我先尝水果味的，味道不错，那就买两块。",
       "pinyin": "Wǒ xiān cháng shuǐ guǒ wèi de ， wèi dào bù cuò ， nà jiù mǎi liǎng kuài 。",
       "tr": "Önce meyveliyi deneyeyim. Güzelmiş, iki tane alayım."
@@ -132,14 +132,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC035_019",
-      "speaker": "刘梅",
+      "speaker": "邻居",
       "zh": "那我先选两个面包，再看看有没有别的口味。",
       "pinyin": "Nà wǒ xiān xuǎn liǎng gè miàn bāo ， zài kàn kàn yǒu méi yǒu bié de kǒu wèi 。",
       "tr": "O zaman önce iki ekmek seçeyim, sonra başka çeşide bakarım."
     },
     {
       "id": "DLG_ZH_HSK2_SC035_020",
-      "speaker": "邻居",
+      "speaker": "刘梅",
       "zh": "我来帮你把选好的东西记下来，等蛋糕切好再一起结算。",
       "pinyin": "Wǒ lái bāng nǐ bǎ xuǎn hǎo de dōng xī jì xià lái ， děng dàn gāo qiè hǎo zài yì qǐ jié suàn 。",
       "tr": "Seçtiklerini listeye yazayım; pasta kesilince hepsini birlikte ödersin."
@@ -153,21 +153,21 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC035_022",
-      "speaker": "刘梅",
+      "speaker": "邻居",
       "zh": "我想给家里人带几块，也给楼上的邻居留一点。",
       "pinyin": "Wǒ xiǎng gěi jiā lǐ rén dài jǐ kuài ， yě gěi lóu shàng de lín jū liú yì diǎn 。",
       "tr": "Aileme birkaç tane götürmek, üst kattaki komşuya da biraz ayırmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK2_SC035_023",
-      "speaker": "邻居",
+      "speaker": "刘梅",
       "zh": "那我把家里人和楼上邻居的数量分开写，比较不容易拿错。",
       "pinyin": "Nà wǒ bǎ jiā lǐ rén hé lóu shàng lín jū de shù liàng fēn kāi xiě ， bǐ jiào bù róng yì ná cuò 。",
       "tr": "Aileniz ve üst kattaki komşu için olanları ayrı yazayım; böylece karışmaz."
     },
     {
       "id": "DLG_ZH_HSK2_SC035_024",
-      "speaker": "张伟",
+      "speaker": "邻居",
       "zh": "我再订四个水果味的小点心，家里人都喜欢水果。",
       "pinyin": "Wǒ zài dìng sì gè shuǐ guǒ wèi de xiǎo diǎn xīn ， jiā lǐ rén dōu xǐ huān shuǐ guǒ 。",
       "tr": "Dört meyveli küçük hamur işi daha alayım; ailem meyveli olanları seviyor."
@@ -195,21 +195,21 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC035_028",
-      "speaker": "刘梅",
+      "speaker": "邻居",
       "zh": "这个看起来不错，我先买一个尝尝，再决定要不要多买。",
       "pinyin": "Zhè ge kàn qǐ lái bù cuò ， wǒ xiān mǎi yí gè cháng cháng ， zài jué dìng yào bù yào duō mǎi 。",
       "tr": "Bu güzel görünüyor. Önce bir tane alıp tadayım, sonra daha fazlasına karar veririm."
     },
     {
       "id": "DLG_ZH_HSK2_SC035_029",
-      "speaker": "邻居",
+      "speaker": "刘梅",
       "zh": "没问题。味道合适的话，订单上再加数量也来得及。",
       "pinyin": "Méi wèn tí 。 wèi dào hé shì de huà ， dìng dān shàng zài jiā shù liàng yě lái de jí 。",
       "tr": "Olur. Tadını beğenirsen siparişe daha sonra ekleyebiliriz."
     },
     {
       "id": "DLG_ZH_HSK2_SC035_030",
-      "speaker": "张伟",
+      "speaker": "邻居",
       "zh": "那先别加，我尝过以后再告诉你。",
       "pinyin": "Nà xiān bié jiā ， wǒ cháng guò yǐ hòu zài gào sù nǐ 。",
       "tr": "Şimdilik eklemeyelim; tattıktan sonra haber veririm."
@@ -230,7 +230,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC035_033",
-      "speaker": "张伟",
+      "speaker": "邻居",
       "zh": "那我想要一块完整的，带回去和家里人一起吃。",
       "pinyin": "Nà wǒ xiǎng yào yī kuài wán zhěng de ， dài huí qù hé jiā lǐ rén yì qǐ chī 。",
       "tr": "O zaman bir bütün dilim alayım, evde ailemle paylaşırım."
@@ -286,14 +286,14 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC035_041",
-      "speaker": "邻居",
+      "speaker": "刘梅",
       "zh": "你家今天有几个人一起吃？我好帮你把份量准备合适。",
       "pinyin": "Nǐ jiā jīn tiān yǒu jǐ gè rén yì qǐ chī ？ wǒ hǎo bāng nǐ bǎ fèn liàng zhǔn bèi hé shì 。",
       "tr": "Bugün evinizde kaç kişi birlikte yiyecek? Porsiyonu ona göre hazırlayayım."
     },
     {
       "id": "DLG_ZH_HSK2_SC035_042",
-      "speaker": "张伟",
+      "speaker": "邻居",
       "zh": "大概五个人，大家都想尝尝你的点心。",
       "pinyin": "Dà gài wǔ gè rén ， dà jiā dōu xiǎng cháng cháng nǐ de diǎn xīn 。",
       "tr": "Yaklaşık beş kişi; herkes senin hamur işlerini tatmak istiyor."
@@ -335,7 +335,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC035_048",
-      "speaker": "张伟",
+      "speaker": "邻居",
       "zh": "那我等一会儿再来拿，不想让蛋糕在外面放太久。",
       "pinyin": "Nà wǒ děng yī huì er zài lái ná ， bù xiǎng ràng dàn gāo zài wài miàn fàng tài jiǔ 。",
       "tr": "Biraz sonra almaya geleyim; pastanın uzun süre dışarıda kalmasını istemiyorum."
@@ -371,9 +371,9 @@
     {
       "id": "DLG_ZH_HSK2_SC035_053",
       "speaker": "邻居",
-      "zh": "今天傍晚六点，邻居会来拿点心和蛋糕。",
-      "pinyin": "Jīn tiān bàng wǎn liù diǎn ， lín jū huì lái ná diǎn xīn hé dàn gāo 。",
-      "tr": "Bugün akşam altıda komşumuz pasta ve hamur işlerini almaya gelecek."
+      "zh": "今天傍晚六点，我下班后过来拿。",
+      "pinyin": "jīntiān bàngwǎn liù diǎn, wǒ xiàbān hòu guòlái ná.",
+      "tr": "Bu akşam saat altıda, işten sonra gelip alacağım."
     },
     {
       "id": "DLG_ZH_HSK2_SC035_054",
@@ -391,7 +391,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC035_056",
-      "speaker": "邻居",
+      "speaker": "刘梅",
       "zh": "好，我把已做好的点心放在一边，没完成的先留在厨房。",
       "pinyin": "Hǎo ， wǒ bǎ yǐ zuò hǎo de diǎn xīn fàng zài yī biān ， méi wán chéng de xiān liú zài chú fáng 。",
       "tr": "Tamam, hazır olanları bir kenara, henüz bitmeyenleri mutfakta bırakırım."
@@ -496,7 +496,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC035_071",
-      "speaker": "邻居",
+      "speaker": "刘梅",
       "zh": "我把确定的订单写在这页，暂时还没答应的写在另一页。",
       "pinyin": "Wǒ bǎ què dìng de dìng dān xiě zài zhè yè ， zàn shí hái méi dā yìng de xiě zài lìng yī yè 。",
       "tr": "Kesinleşenleri bu sayfaya, henüz söz vermediklerimizi başka sayfaya yazayım."
@@ -609,9 +609,9 @@
     {
       "id": "DLG_ZH_HSK2_SC035_087",
       "speaker": "张伟",
-      "zh": "我的名字写在这盒上，邻居的名字在另一盒上。",
-      "pinyin": "Wǒ de míng zì xiě zài zhè hé shàng ， lín jū de míng zì zài lìng yī hé shàng 。",
-      "tr": "Bu kutuda benim adım, öbüründe komşunun adı yazıyor."
+      "zh": "我把邻居和家里人的名字分开写在盒子上了。",
+      "pinyin": "wǒ bǎ línjū hé jiālǐ rén de míngzi fēnkāi xiě zài hézi shàng le.",
+      "tr": "Komşuların ve ailemin adlarını kutulara ayrı ayrı yazdım."
     },
     {
       "id": "DLG_ZH_HSK2_SC035_088",
@@ -629,10 +629,10 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC035_090",
-      "speaker": "张伟",
+      "speaker": "邻居",
       "zh": "谢谢你们帮我把名字写清楚，我回去就能分给家里人。",
-      "pinyin": "Xiè xiè nǐ men bāng wǒ bǎ míng zì xiě qīng chǔ ， wǒ huí qù jiù néng fēn gěi jiā lǐ rén 。",
-      "tr": "İsimleri açıkça yazmanıza yardım ettiğiniz için sağ olun; evde aileme dağıtırım."
+      "pinyin": "xièxie nǐmen bāng wǒ bǎ míngzi xiě qīngchu, wǒ huíqù jiù néng fēn gěi jiālǐ rén.",
+      "tr": "Adları açıkça yazdığınız için sağ olun; eve gidince aileme dağıtabilirim."
     },
     {
       "id": "DLG_ZH_HSK2_SC035_091",
@@ -657,7 +657,7 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC035_094",
-      "speaker": "刘梅",
+      "speaker": "邻居",
       "zh": "这样很好，我不想临时下单让你太忙。",
       "pinyin": "Zhè yàng hěn hǎo ， wǒ bù xiǎng lín shí xià dān ràng nǐ tài máng 。",
       "tr": "Bu iyi olur; son anda sipariş verip seni telaşlandırmak istemiyorum."
@@ -678,21 +678,21 @@
     },
     {
       "id": "DLG_ZH_HSK2_SC035_097",
-      "speaker": "刘梅",
+      "speaker": "邻居",
       "zh": "辛苦你们了，我现在把这盒点心带回家。",
       "pinyin": "Xīn kǔ nǐ men le ， wǒ xiàn zài bǎ zhè hé diǎn xīn dài huí jiā 。",
       "tr": "Emeğinize sağlık, bu kutuyu şimdi eve götüreyim."
     },
     {
       "id": "DLG_ZH_HSK2_SC035_098",
-      "speaker": "邻居",
+      "speaker": "刘梅",
       "zh": "慢慢拿，蛋糕盒放平一点，别让它倒过来。",
       "pinyin": "Màn màn ná ， dàn gāo hé fàng píng yì diǎn ， bié ràng tā dào guò lái 。",
       "tr": "Ağır ağır taşı; pasta kutusunu düz tut, devrilmesin."
     },
     {
       "id": "DLG_ZH_HSK2_SC035_099",
-      "speaker": "张伟",
+      "speaker": "邻居",
       "zh": "记住了。下次我还会先问清楚，再写进订单。",
       "pinyin": "Jì zhù le 。 xià cì wǒ hái huì xiān wèn qīng chǔ ， zài xiě jìn dìng dān 。",
       "tr": "Anladım. Bir dahaki sefere önce ne istediğimi netleştirip siparişe yazarım."

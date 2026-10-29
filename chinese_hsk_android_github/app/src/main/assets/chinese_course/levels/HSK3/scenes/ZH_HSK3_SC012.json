@@ -109,9 +109,9 @@
     {
       "id": "DLG_ZH_HSK3_SC012_015",
       "speaker": "顾客",
-      "zh": "客人可以在这里喝一杯，再和朋友聊聊天。",
-      "pinyin": "kè rén kě yǐ zài zhè lǐ hē yī bēi ， zài hé péng yǒu liáo liáo tiān 。",
-      "tr": "Müşteriler burada bir fincan içip arkadaşlarıyla sohbet edebilir."
+      "zh": "客人可以一边喝咖啡，一边和朋友聊聊天。",
+      "pinyin": "Kè rén kě yǐ yī biān hē kā fēi ， yī biān hé péng yǒu liáo liáo tiān 。",
+      "tr": "Müşteriler burada kahve içerken arkadaşlarıyla sohbet edebilir."
     },
     {
       "id": "DLG_ZH_HSK3_SC012_016",
@@ -730,9 +730,9 @@
         "zh": "店名",
         "pinyin": "diànmíng",
         "tr": "kafe adı",
-        "exampleZh": "我已经把店名记下来了。",
-        "examplePinyin": "Wǒ yǐjīng bǎ diànmíng jì xiàlái le.",
-        "exampleTr": "Kafe adı notunu aldım.",
+        "exampleZh": "我希望店名好记，也能让人想到咖啡。",
+        "examplePinyin": "wǒ xī wàng diàn míng hǎo jì ， yě néng ràng rén xiǎng dào kā fēi 。",
+        "exampleTr": "İsmin akılda kalıcı ve kahveyi çağrıştırmasını istiyorum.",
         "kind": "active"
       },
       {
@@ -740,9 +740,9 @@
         "zh": "好记",
         "pinyin": "hǎojì",
         "tr": "akılda kalıcı",
-        "exampleZh": "跟刚才比，现在没那么好记了。",
-        "examplePinyin": "Gēn gāngcái bǐ, xiànzài méi nàme hǎojì le.",
-        "exampleTr": "Az öncesine göre artık o kadar akılda kalıcı değil.",
+        "exampleZh": "我希望店名好记，也能让人想到咖啡。",
+        "examplePinyin": "wǒ xī wàng diàn míng hǎo jì ， yě néng ràng rén xiǎng dào kā fēi 。",
+        "exampleTr": "İsmin akılda kalıcı ve kahveyi çağrıştırmasını istiyorum.",
         "kind": "active"
       },
       {
@@ -750,9 +750,9 @@
         "zh": "选择",
         "pinyin": "xuǎnzé",
         "tr": "seçmek",
-        "exampleZh": "我已经准备好选择了。",
-        "examplePinyin": "Wǒ yǐjīng zhǔnbèi hǎo xuǎnzé le.",
-        "exampleTr": "Seçmek için hazırım.",
+        "exampleZh": "我们先把这个选择写下来，再听听别的建议。",
+        "examplePinyin": "wǒ men xiān bǎ zhè ge xuǎn zé xiě xià lái ， zài tīng tīng bié de jiàn yì 。",
+        "exampleTr": "Önce bu seçeneği yazalım, sonra başka önerileri dinleyelim.",
         "kind": "active"
       },
       {
@@ -760,9 +760,9 @@
         "zh": "意思",
         "pinyin": "yìsi",
         "tr": "anlam / niyet",
-        "exampleZh": "如果意思没有问题，我们就继续。",
-        "examplePinyin": "Rúguǒ yìsi méiyǒu wèntí, wǒmen jiù jìxù.",
-        "exampleTr": "Anlam / niyet konusunda sorun yoksa devam ederiz.",
+        "exampleZh": "这个名字有意思，也符合老街的样子。",
+        "examplePinyin": "zhè ge míng zì yǒu yì si ， yě fú hé lǎo jiē de yàng zi 。",
+        "exampleTr": "İsmin anlamı güzel ve eski sokağa uyuyor.",
         "kind": "active"
       },
       {
@@ -770,9 +770,9 @@
         "zh": "计划",
         "pinyin": "jìhuà",
         "tr": "plan",
-        "exampleZh": "关于计划，我们还要再讨论一下。",
-        "examplePinyin": "Guānyú jìhuà, wǒmen hái yào zài tǎolùn yíxià.",
-        "exampleTr": "Plan konusunda biraz daha konuşmalıyız.",
+        "exampleZh": "好，我今天先把名字写进开店计划。",
+        "examplePinyin": "hǎo ， wǒ jīn tiān xiān bǎ míng zì xiě jìn kāi diàn jì huà 。",
+        "exampleTr": "Peki, bugün ismi açılış planına ekleyeyim.",
         "kind": "active"
       },
       {
@@ -780,9 +780,9 @@
         "zh": "决定",
         "pinyin": "juédìng",
         "tr": "karar vermek",
-        "exampleZh": "这个时候最好先决定。",
-        "examplePinyin": "Zhège shíhou zuìhǎo xiān juédìng.",
-        "exampleTr": "Bu durumda önce karar vermek en iyisi.",
+        "exampleZh": "先量一下墙的尺寸，再决定招牌的大小。",
+        "examplePinyin": "xiān liàng yī xià qiáng de chǐ cùn ， zài jué dìng zhāo pái de dà xiǎo 。",
+        "exampleTr": "Önce duvarın ölçüsünü alıp tabelanın boyutuna karar verelim.",
         "kind": "active"
       },
       {

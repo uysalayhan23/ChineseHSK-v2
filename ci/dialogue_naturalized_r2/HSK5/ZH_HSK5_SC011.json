@@ -1,5 +1,5 @@
 {
-  "naturalizationVersion": 7,
+  "naturalizationVersion": 8,
   "sceneId": "ZH_HSK5_SC011",
   "level": "HSK5",
   "sourceTitleZh": "雨桐找实习",
@@ -9,9 +9,9 @@
     {
       "id": "DLG_ZH_HSK5_SC011_001",
       "speaker": "张雨桐",
-      "zh": "我想开始找实习了，可是简历上的经历不少，不知道该把哪几项放在前面。",
-      "pinyin": "wǒ xiǎng kāi shǐ zhǎo shí xí le ， kě shì jiǎn lì shàng de jīng lì bù shǎo ， bù zhī dào gāi bǎ nǎ jǐ xiàng fàng zài qián miàn 。",
-      "tr": "Staj aramaya başlamak istiyorum ama özgeçmişimde çok deneyim var; hangilerini öne çıkaracağımı bilmiyorum."
+      "zh": "我想开始找实习，也在考虑未来的职业发展，可简历上的经历不少，不知道先突出哪几项。",
+      "pinyin": "wǒ xiǎng kāi shǐ zhǎo shí xí ， yě zài kǎo lǜ wèi lái de zhí yè fā zhǎn ， kě jiǎn lì shàng de jīng lì bù shǎo ， bù zhī dào xiān tū chū nǎ jǐ xiàng 。",
+      "tr": "Staj aramaya başlamak ve gelecekteki kariyerimi düşünmek istiyorum; özgeçmişimde çok deneyim var, hangilerini öne çıkaracağımı bilemiyorum."
     },
     {
       "id": "DLG_ZH_HSK5_SC011_002",
@@ -289,9 +289,9 @@
     {
       "id": "DLG_ZH_HSK5_SC011_041",
       "speaker": "张雨桐",
-      "zh": "我把简历初稿写好了，不过看起来像任务清单，没有突出我做出的结果。",
-      "pinyin": "wǒ bǎ jiǎn lì chū gǎo xiě hǎo le ， bù guò kàn qǐ lái xiàng rèn wù qīng dān ， méi yǒu tū chū wǒ zuò chū de jié guǒ 。",
-      "tr": "Özgeçmiş taslağım hazır ama görev listesine benziyor; ortaya koyduğum sonucu öne çıkarmıyor."
+      "zh": "从岗位要求来看，我的优势是做过用户访谈，应该把这段经历放在简历前面。",
+      "pinyin": "cóng gǎng wèi yāo qiú lái kàn ， wǒ de yōu shì shì zuò guò yòng hù fǎng tán ， yīng gāi bǎ zhè duàn jīng lì fàng zài jiǎn lì qián miàn 。",
+      "tr": "Pozisyonun gerekliliklerine bakınca güçlü yanım kullanıcı görüşmeleri yapmış olmam; bu deneyimi özgeçmişte öne çıkarmalıyım."
     },
     {
       "id": "DLG_ZH_HSK5_SC011_042",
@@ -429,9 +429,9 @@
     {
       "id": "DLG_ZH_HSK5_SC011_061",
       "speaker": "张雨桐",
-      "zh": "我按用户研究岗位改好了简历，申请表还要回答为什么对这个实习感兴趣。",
-      "pinyin": "wǒ àn yòng hù yán jiū gǎng wèi gǎi hǎo le jiǎn lì ， shēn qǐng biǎo hái yào huí dá wèi shén me duì zhè ge shí xí gǎn xìng qù 。",
-      "tr": "Kullanıcı araştırması pozisyonuna göre özgeçmişimi düzenledim; başvuru formunda bu stajla neden ilgilendiğimi de açıklamam gerekiyor."
+      "zh": "我按用户研究岗位改好了简历，申请表还要说明兴趣和未来计划。",
+      "pinyin": "wǒ àn yòng hù yán jiū gǎng wèi gǎi hǎo le jiǎn lì ， shēn qǐng biǎo hái yào shuō míng xìng qù hé wèi lái jì huà 。",
+      "tr": "Kullanıcı araştırması pozisyonuna göre özgeçmişimi düzenledim; başvuruda ilgimi ve gelecek planlarımı da anlatmalıyım."
     },
     {
       "id": "DLG_ZH_HSK5_SC011_062",
@@ -499,9 +499,9 @@
     {
       "id": "DLG_ZH_HSK5_SC011_071",
       "speaker": "同学",
-      "zh": "你要不要请别人读一遍？有时自己反复看会漏掉小错误。",
-      "pinyin": "nǐ yào bù yào qǐng bié rén dú yī biàn ？ yǒu shí zì jǐ fǎn fù kàn huì lòu diào xiǎo cuò wù 。",
-      "tr": "Bir başkasından okumasını ister misin? İnsan aynı metne tekrar tekrar bakınca küçük hataları kaçırabiliyor."
+      "zh": "你要不要请别人评价一下？有时自己反复看会漏掉小错误。",
+      "pinyin": "nǐ yào bù yào qǐng bié rén píng jià yī xià ？ yǒu shí zì jǐ fǎn fù kàn huì lòu diào xiǎo cuò wù 。",
+      "tr": "Bir başkasından değerlendirmesini ister misin? İnsan kendi metnine tekrar tekrar bakarken küçük hataları kaçırabiliyor."
     },
     {
       "id": "DLG_ZH_HSK5_SC011_072",

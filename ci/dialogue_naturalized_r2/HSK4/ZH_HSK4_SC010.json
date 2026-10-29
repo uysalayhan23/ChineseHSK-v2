@@ -29,21 +29,21 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_004",
-      "speaker": "张雨桐",
+      "speaker": "张乐乐",
       "zh": "我知道昨天超时了，但也不能每次都把手机收走吧？",
       "pinyin": "Wǒ zhī dào zuó tiān chāo shí le dàn yě bù néng měi cì dōu bǎ shǒu jī shōu zǒu ba",
       "tr": "Dün süreyi aştığımı biliyorum ama her seferinde telefonumu almak da doğru değil."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_005",
-      "speaker": "张乐乐",
+      "speaker": "刘梅",
       "zh": "你说得对，我们应该先一起谈规则，不该只顾着下命令。",
       "pinyin": "Nǐ shuō dé duì wǒ men yīng gāi xiān yì qǐ tán guī zé bù gāi zhǐ gù zhe xià mìng lìng",
       "tr": "Haklısın; yalnızca emir vermek yerine kuralları birlikte konuşmalıyız."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_006",
-      "speaker": "刘梅",
+      "speaker": "张乐乐",
       "zh": "那我想先说说我为什么需要手机，不只是为了玩游戏。",
       "pinyin": "Nà wǒ xiǎng xiān shuō shuō wǒ wèi shén me xū yào shǒu jī bù zhǐ shì wèi le wán yóu xì",
       "tr": "Telefonu neden istediğimi anlatayım; yalnızca oyun oynamak için değil."
@@ -57,21 +57,21 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_008",
-      "speaker": "张雨桐",
+      "speaker": "张乐乐",
       "zh": "我有时要和同学讨论作业，班级通知也发在群里。",
       "pinyin": "Wǒ yǒu shí yào hé tóng xué tǎo lùn zuò yè bān jí tōng zhī yě fā zài qún lǐ",
       "tr": "Bazen ödev için arkadaşlarımla konuşmam gerekiyor; sınıf duyuruları da gruptan geliyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_009",
-      "speaker": "张乐乐",
+      "speaker": "刘梅",
       "zh": "这部分我理解。问题是聊天和看视频常常越看越久。",
       "pinyin": "Zhè bù fèn wǒ lǐ jiě wèn tí shì liáo tiān hé kàn shì pín cháng cháng yuè kàn yuè jiǔ",
       "tr": "Bunu anlıyorum. Sorun, sohbetin ve videoların uzayıp gitmesi."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_010",
-      "speaker": "刘梅",
+      "speaker": "张乐乐",
       "zh": "我可以先做完作业，再用手机和同学联系。",
       "pinyin": "Wǒ kě yǐ xiān zuò wán zuò yè zài yòng shǒu jī hé tóng xué lián xì",
       "tr": "Ödevimi bitirince telefonla arkadaşlarıma ulaşabilirim."
@@ -85,7 +85,7 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_012",
-      "speaker": "张雨桐",
+      "speaker": "张乐乐",
       "zh": "“一会儿”太不清楚了，我想知道具体能用多久。",
       "pinyin": "Yī huì er tài bù qīng chǔ le wǒ xiǎng zhī dào jù tǐ néng yòng duō jiǔ",
       "tr": "“Bir süre” çok belirsiz; tam olarak ne kadar kullanabileceğimi bilmek istiyorum."
@@ -148,14 +148,14 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_021",
-      "speaker": "张乐乐",
+      "speaker": "刘梅",
       "zh": "我最担心的是你一拿到手机就忘了时间，第二天起不来。",
       "pinyin": "Wǒ zuì dān xīn de shì nǐ yī ná dào shǒu jī jiù wàng le shí jiān dì èr tiān qǐ bù lái",
       "tr": "En çok, telefonu eline alınca zamanı unutup ertesi gün kalkamaman beni kaygılandırıyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_022",
-      "speaker": "刘梅",
+      "speaker": "张乐乐",
       "zh": "我可以设闹钟，时间到了就放下，不用你们一直提醒。",
       "pinyin": "Wǒ kě yǐ shè nào zhōng shí jiān dào le jiù fàng xià bù yòng nǐ men yì zhí tí xǐng",
       "tr": "Alarm kurarım; süre dolunca bırakırım, sürekli hatırlatmanız gerekmez."
@@ -169,21 +169,21 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_024",
-      "speaker": "张雨桐",
+      "speaker": "张乐乐",
       "zh": "我愿意试试，但别在时间还没到时就催我。",
       "pinyin": "Wǒ yuàn yì shì shì dàn bié zài shí jiān hái méi dào shí jiù cuī wǒ",
       "tr": "Denemeye hazırım ama süre dolmadan beni sıkıştırmayın."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_025",
-      "speaker": "张乐乐",
+      "speaker": "刘梅",
       "zh": "好，我们约定时间到之前不催，闹钟响了你自己收手机。",
       "pinyin": "Hǎo wǒ men yuē dìng shí jiān dào zhī qián bù cuī nào zhōng xiǎng le nǐ zì jǐ shōu shǒu jī",
       "tr": "Tamam, süre dolmadan hatırlatmayız; alarm çalınca telefonu kendin bırakırsın."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_026",
-      "speaker": "刘梅",
+      "speaker": "张乐乐",
       "zh": "如果我正在和同学讨论重要的作业，可以多几分钟吗？",
       "pinyin": "Rú guǒ wǒ zhèng zài hé tóng xué tǎo lùn zhòng yào de zuò yè kě yǐ duō jǐ fēn zhōng ma",
       "tr": "Arkadaşımla önemli bir ödev hakkında konuşuyorsam birkaç dakika daha kullanabilir miyim?"
@@ -197,21 +197,21 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_028",
-      "speaker": "张雨桐",
+      "speaker": "张乐乐",
       "zh": "我不想每次多用几分钟都要解释半天。",
       "pinyin": "Wǒ bù xiǎng měi cì duō yòng jǐ fēn zhōng dōu yào jiě shì bàn tiān",
       "tr": "Her birkaç dakika uzattığımda uzun uzun açıklama yapmak istemiyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_029",
-      "speaker": "张乐乐",
+      "speaker": "刘梅",
       "zh": "那我们把作业讨论列为例外，但不能用它当借口看视频。",
       "pinyin": "Nà wǒ men bǎ zuò yè tǎo lùn liè wèi lì wài dàn bù néng yòng tā dāng jiè kǒu kàn shì pín",
       "tr": "Ödev konuşmasını istisna sayalım ama bunu video izlemek için bahane edemezsin."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_030",
-      "speaker": "刘梅",
+      "speaker": "张乐乐",
       "zh": "我会把群聊和视频分开，做完正事就退出。",
       "pinyin": "Wǒ huì bǎ qún liáo hé shì pín fēn kāi zuò wán zhèng shì jiù tuì chū",
       "tr": "Sınıf grubuyla videoları ayırırım; işim bitince gruptan çıkarım."
@@ -225,49 +225,49 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_032",
-      "speaker": "张雨桐",
+      "speaker": "张乐乐",
       "zh": "那样我就听不到同学的消息，万一有作业通知怎么办？",
       "pinyin": "Nà yàng wǒ jiù tīng bú dào tóng xué de xiāo xī wàn yī yǒu zuò yè tōng zhī zěn me bàn",
       "tr": "O zaman arkadaşlarımın mesajını duymam; ödev duyurusu gelirse ne olacak?"
     },
     {
       "id": "DLG_ZH_HSK4_SC010_033",
-      "speaker": "张乐乐",
+      "speaker": "刘梅",
       "zh": "你可以先检查一次班级群，再把手机放到客厅。",
       "pinyin": "Nǐ kě yǐ xiān jiǎn chá yī cì bān jí qún zài bǎ shǒu jī fàng dào kè tīng",
       "tr": "Önce sınıf grubunu kontrol eder, sonra telefonu salona bırakırsın."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_034",
-      "speaker": "刘梅",
+      "speaker": "张乐乐",
       "zh": "这样我既能看到通知，也不会一边写一边刷。",
       "pinyin": "Zhè yàng wǒ jì néng kàn dào tōng zhī yě bú huì yī biān xiě yī biān shuā",
       "tr": "Böylece duyuruları görür, ders çalışırken de başka şeylere bakmam."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_035",
-      "speaker": "张伟",
+      "speaker": "张雨桐",
       "zh": "我也可以在客厅陪你做一部分作业，手机就放旁边。",
       "pinyin": "Wǒ yě kě yǐ zài kè tīng péi nǐ zuò yī bù fèn zuò yè shǒu jī jiù fàng páng biān",
       "tr": "Ben de salonda yanında ödev yaparım; telefon orada durur."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_036",
-      "speaker": "张雨桐",
+      "speaker": "张乐乐",
       "zh": "谢谢姐姐，不过我想自己安排，不需要一直有人看着。",
       "pinyin": "Xiè xiè jiě jiě bù guò wǒ xiǎng zì jǐ ān pái bù xū yào yì zhí yǒu rén kàn zhe",
       "tr": "Sağ ol abla ama kendi düzenimi kurmak istiyorum; başımda beklemene gerek yok."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_037",
-      "speaker": "张乐乐",
+      "speaker": "刘梅",
       "zh": "我不是要监督你，只是可以一起做作业，有问题时互相帮忙。",
       "pinyin": "Wǒ bú shì yào jiān dū nǐ zhǐ shì kě yǐ yì qǐ zuò zuò yè yǒu wèn tí shí hù xiāng bāng máng",
       "tr": "Seni denetlemeye çalışmıyorum. Birlikte çalışır, takıldığımızda birbirimize yardım ederiz."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_038",
-      "speaker": "刘梅",
+      "speaker": "张乐乐",
       "zh": "这样我可以接受。我们各做各的，不一直看对方的屏幕。",
       "pinyin": "Zhè yàng wǒ kě yǐ jiē shòu wǒ men gè zuò gè de bù yī zhí kàn duì fāng de píng mù",
       "tr": "Bu olur. Herkes kendi işini yapsın, sürekli birbirimizin ekranına bakmayalım."
@@ -281,7 +281,7 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_040",
-      "speaker": "张雨桐",
+      "speaker": "张乐乐",
       "zh": "听起来不错。那我先按这个方法试一个星期。",
       "pinyin": "Tīng qǐ lái bù cuò nà wǒ xiān àn zhè ge fāng fǎ shì yí gè xīng qī",
       "tr": "Kulağa iyi geliyor. Bir hafta bu şekilde deneyeyim."
@@ -302,14 +302,14 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_043",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "一小时差不多，不过周五晚上有时要和同学一起完成小组作业。",
       "pinyin": "Yī xiǎo shí chà bù duō bù guò zhōu wǔ wǎn shàng yǒu shí yào hé tóng xué yì qǐ wán chéng xiǎo zǔ zuò yè",
       "tr": "Bir saat yeterli, ama cuma akşamları grup ödevi için arkadaşlarımla çalışmam gerekebiliyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_044",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "那就加一条例外：有小组任务时先告诉我们，做完就结束。",
       "pinyin": "Nà jiù jiā yī tiáo lì wài yǒu xiǎo zǔ rèn wù shí xiān gào sù wǒ men zuò wán jiù jié shù",
       "tr": "O halde bir istisna ekleyelim: grup ödevi varsa önce haber ver, iş bitince bırak."
@@ -330,14 +330,14 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_047",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "周六上午我有球赛，下午做完作业后想和朋友聊天。",
       "pinyin": "Zhōu liù shàng wǔ wǒ yǒu qiú sài xià wǔ zuò wán zuò yè hòu xiǎng hé péng yǒu liáo tiān",
       "tr": "Cumartesi sabahı maçım var; ödevimi bitirince öğleden sonra arkadaşlarımla konuşmak istiyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_048",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "那周六可以比平时多半小时，周日还是按工作日的时间。",
       "pinyin": "Nà zhōu liù kě yǐ bǐ píng shí duō bàn xiǎo shí zhōu rì hái shì àn gōng zuò rì de shí jiān",
       "tr": "Cumartesi normalden yarım saat fazla kullanabilirsin; pazar günüyse hafta içi süresi olsun."
@@ -365,7 +365,7 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_052",
-      "speaker": "张雨桐",
+      "speaker": "张乐乐",
       "zh": "这个条件合理。你们觉得周日加二十分钟怎么样？",
       "pinyin": "Zhè ge tiáo jiàn hé lǐ nǐ men jué de zhōu rì jiā èr shí fēn zhōng zěn me yàng",
       "tr": "Bu koşul makul. Pazar gününe yirmi dakika eklesek nasıl olur?"
@@ -414,14 +414,14 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_059",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "如果我做到约定，希望你们也能相信我自己会管理时间。",
       "pinyin": "Rú guǒ wǒ zuò dào yuē dìng xī wàng nǐ men yě néng xiāng xìn wǒ zì jǐ huì guǎn lǐ shí jiān",
       "tr": "Anlaşmaya uyarsam zamanı kendim yönetebileceğime güvenmenizi isterim."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_060",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "说得好。守规则是你的责任，我们也会遵守不提前催你的约定。",
       "pinyin": "Shuō dé hǎo shǒu guī zé shì nǐ de zé rèn wǒ men yě huì zūn shǒu bù tí qián cuī nǐ de yuē dìng",
       "tr": "Güzel söyledin. Kurallara uymak senin sorumluluğun; biz de erken hatırlatmama sözümüzü tutacağız."
@@ -470,28 +470,28 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_067",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我发现得比较晚，就主动告诉妈妈，还把第二天的使用时间缩短了。",
       "pinyin": "Wǒ fā xiàn dé bǐ jiào wǎn jiù zhǔ dòng gào sù mā mā hái bǎ dì èr tiān de shǐ yòng shí jiān suō duǎn le",
       "tr": "Geç fark ettim; anneme kendim söyledim ve ertesi gün telefon süremi kısalttım."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_068",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "你没有等我们发现才承认，这说明你在承担责任。",
       "pinyin": "Nǐ méi yǒu děng wǒ men fā xiàn cái chéng rèn zhè shuō míng nǐ zài chéng dān zé rèn",
       "tr": "Biz fark etmeden önce kendin söylemen sorumluluk aldığını gösteriyor."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_069",
-      "speaker": "张乐乐",
+      "speaker": "刘梅",
       "zh": "我不希望你只因为怕被批评才遵守规则。",
       "pinyin": "Wǒ bù xī wàng nǐ zhǐ yīn wèi pà bèi pī píng cái zūn shǒu guī zé",
       "tr": "Kurallara yalnızca eleştirilmekten korktuğun için uymanı istemiyorum."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_070",
-      "speaker": "刘梅",
+      "speaker": "张乐乐",
       "zh": "我现在明白时间限制是为了让我休息和学习，不是要控制我。",
       "pinyin": "Wǒ xiàn zài míng bái shí jiān xiàn zhì shì wèi le ràng wǒ xiū xī hé xué xí bú shì yào kòng zhì wǒ",
       "tr": "Şimdi süre sınırının beni kontrol etmek için değil, dinlenip ders çalışmam için olduğunu anlıyorum."
@@ -506,9 +506,9 @@
     {
       "id": "DLG_ZH_HSK4_SC010_072",
       "speaker": "张雨桐",
-      "zh": "可以小幅调整，但要先看哪部分已经稳定，哪部分还需要练习。",
-      "pinyin": "Kě yǐ xiǎo fú tiáo zhěng dàn yào xiān kàn nǎ bù fèn yǐ jīng wěn dìng nǎ bù fèn hái xū yào liàn xí",
-      "tr": "Biraz değiştirebiliriz ama önce hangi konularda düzenin oturduğuna bakalım."
+      "zh": "我们一方面要肯定已经稳定的部分，另一方面也得看看哪里还需要练习。",
+      "pinyin": "Wǒmen yìfāngmiàn yào kěndìng yǐjīng wěndìng de bùfèn, lìngyìfāngmiàn yě dé kànkàn nǎlǐ hái xūyào liànxí.",
+      "tr": "Bir yandan artık oturan alışkanlıkları takdir etmeli, öte yandan hâlâ hangi noktaları çalışmamız gerektiğine bakmalıyız."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_073",
@@ -526,14 +526,14 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_075",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "周末的二十分钟对我挺有帮助，我愿意继续按作业完成情况来定。",
       "pinyin": "Zhōu mò de èr shí fēn zhōng duì wǒ tǐng yǒu bāng zhù wǒ yuàn yì jì xù àn zuò yè wán chéng qíng kuàng lái dìng",
       "tr": "Hafta sonu eklenen yirmi dakika bana iyi geldi; ödevimi bitirmeme göre ayarlamayı sürdürebiliriz."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_076",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "这个办法不错。你完成作业和家务后，就按说好的时间使用。",
       "pinyin": "Zhè ge bàn fǎ bù cuò nǐ wán chéng zuò yè hé jiā wù hòu jiù àn shuō hǎo de shí jiān shǐ yòng",
       "tr": "Bu iyi bir yöntem. Ödev ve ev işlerin bitince kararlaştırdığımız saatte kullanırsın."
@@ -554,14 +554,14 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_079",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我觉得这次协商比直接规定好，因为我们都说清楚了理由。",
       "pinyin": "Wǒ jué de zhè cì xié shāng bǐ zhí jiē guī dìng hǎo yīn wèi wǒ men dōu shuō qīng chǔ le lǐ yóu",
       "tr": "Bu görüşmenin doğrudan kural koymaktan daha iyi olduğunu düşünüyorum; herkes nedenini anlattı."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_080",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "规则就先这样执行一个月，到时候再一起讨论要不要调整。",
       "pinyin": "Guī zé jiù xiān zhè yàng zhí xíng yí gè yuè dào shí hòu zài yì qǐ tǎo lùn yào bù yào tiáo zhěng",
       "tr": "Bir ay bu şekilde uygulayalım, sonra değişiklik gerekip gerekmediğini birlikte konuşuruz."
@@ -582,7 +582,7 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_083",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "我发现最有用的是把手机放远一点，开始做作业就不去拿。",
       "pinyin": "Wǒ fā xiàn zuì yǒu yòng de shì bǎ shǒu jī fàng yuǎn yì diǎn kāi shǐ zuò zuò yè jiù bù qù ná",
       "tr": "En işe yarayan şey telefonu uzağa koymak oldu; ödeve başlayınca elime almıyorum."
@@ -610,14 +610,14 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_087",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "那如果你们觉得我的理由不合适，也告诉我原因，不要只说“不行”。",
       "pinyin": "Nà rú guǒ nǐ men jué de wǒ de lǐ yóu bù hé shì yě gào sù wǒ yuán yīn bú yào zhǐ shuō bù xíng",
       "tr": "Nedenim size uygun gelmezse yalnızca “olmaz” demeyin, gerekçenizi de anlatın."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_088",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "可以，我们会先听你解释，再一起找一个大家都能接受的办法。",
       "pinyin": "Kě yǐ wǒ men huì xiān tīng nǐ jiě shì zài yì qǐ zhǎo yí gè dà jiā dōu néng jiē shòu de bàn fǎ",
       "tr": "Olur; önce seni dinler, sonra hepimizin kabul edebileceği bir yol buluruz."
@@ -631,7 +631,7 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_090",
-      "speaker": "刘梅",
+      "speaker": "张乐乐",
       "zh": "我会继续注意自己的责任感，不把手机使用影响到家里的安排。",
       "pinyin": "Wǒ huì jì xù zhù yì zì jǐ de zé rèn gǎn bù bǎ shǒu jī shǐ yòng yǐng xiǎng dào jiā lǐ de ān pái",
       "tr": "Telefon kullanımının evdeki düzeni etkilememesine dikkat edip sorumluluk alacağım."
@@ -645,7 +645,7 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_092",
-      "speaker": "张雨桐",
+      "speaker": "张乐乐",
       "zh": "是的。我不再觉得你们只是想限制我，也知道自己要守约。",
       "pinyin": "Shì de wǒ bù zài jué de nǐ men zhǐ shì xiǎng xiàn zhì wǒ yě zhī dào zì jǐ yào shǒu yuē",
       "tr": "Evet. Artık yalnızca kısıtlanıyormuşum gibi hissetmiyorum; verdiğim sözü tutmam gerektiğini de biliyorum."
@@ -673,14 +673,14 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_096",
-      "speaker": "张雨桐",
+      "speaker": "张乐乐",
       "zh": "我来写：完成作业、按时休息，手机依约使用；有特殊情况先商量。",
       "pinyin": "Wǒ lái xiě wán chéng zuò yè àn shí xiū xī shǒu jī yī yuē shǐ yòng yǒu tè shū qíng kuàng xiān shāng liáng",
       "tr": "Şöyle yazıyorum: ödevler tamamlanır, zamanında dinlenilir, telefon kararlaştırılan sürede kullanılır; özel durumlar önceden konuşulur."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_097",
-      "speaker": "张乐乐",
+      "speaker": "刘梅",
       "zh": "再加上我们不提前催你，也不临时改规则，除非有必要。",
       "pinyin": "Zài jiā shàng wǒ men bù tí qián cuī nǐ yě bù lín shí gǎi guī zé chú fēi yǒu bì yào",
       "tr": "Bir de biz erkenden hatırlatmayacağız ve gerekmedikçe kuralı son dakikada değiştirmeyeceğiz."
@@ -694,14 +694,14 @@
     },
     {
       "id": "DLG_ZH_HSK4_SC010_099",
-      "speaker": "张伟",
+      "speaker": "张乐乐",
       "zh": "谢谢你们愿意和我一起商量，而不是直接替我决定。",
       "pinyin": "Xiè xiè nǐ men yuàn yì hé wǒ yì qǐ shāng liáng ér bú shì zhí jiē tì wǒ jué dìng",
       "tr": "Benim yerime doğrudan karar vermek yerine benimle konuştuğunuz için teşekkürler."
     },
     {
       "id": "DLG_ZH_HSK4_SC010_100",
-      "speaker": "张雨桐",
+      "speaker": "刘梅",
       "zh": "谢谢你愿意认真听，也愿意承担自己的责任。",
       "pinyin": "Xiè xiè nǐ yuàn yì rèn zhēn tīng yě yuàn yì chéng dān zì jǐ de zé rèn",
       "tr": "Sen de bizi dinleyip sorumluluk almaya istekli olduğun için sağ ol."
