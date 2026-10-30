@@ -119,7 +119,7 @@ fun SystemCheckScreen(
                     Column(Modifier.fillMaxWidth().padding(16.dp)) {
                         Text("İsteğe bağlı telefon sesleri", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, fontSize = 18.sp)
                         Text(
-                            Telefonunun Mandarin seslerini Android ayarlarından yönetebilirsin. Uygulama, seçtiğin telefon sesini kullanır.,
+                            "Telefonunun Mandarin seslerini Android ayarlarından yönetebilirsin. Uygulama, seçtiğin telefon sesini kullanır.",
                             color = Color.Gray,
                             fontSize = 13.sp,
                             modifier = Modifier.padding(top = 5.dp, bottom = 10.dp)
@@ -227,12 +227,12 @@ private fun NativeVoiceSetupCard(
         Column(Modifier.fillMaxWidth().padding(16.dp), verticalArrangement = Arrangement.spacedBy(10.dp)) {
             Text("Karakter seslerini eşleştir", color = MaterialTheme.colorScheme.primary, fontWeight = FontWeight.Bold, fontSize = 18.sp)
             Text(
-                Bu listede telefonunda yüklü olan Mandarin sesleri görünür. İstersen sesleri dinleyip karakter türlerine atayabilirsin; otomatik seçim de kullanılabilir.,
+                "Bu listede telefonunda yüklü olan Mandarin sesleri görünür. İstersen sesleri dinleyip karakter türlerine atayabilirsin; otomatik seçim de kullanılabilir.",
                 color = Color.Gray,
                 fontSize = 13.sp
             )
             if (options.isEmpty()) {
-                Text(Telefonunda seçilebilir Mandarin sesi görünmüyor. Android Ayarlar içindeki Metin Okuma / TTS bölümünden Mandarin sesi kurup yeniden kontrol et., color = CheckWarn, fontSize = 13.sp)
+                Text("Telefonunda seçilebilir Mandarin sesi görünmüyor. Android Ayarlar içindeki Metin Okuma / TTS bölümünden Mandarin sesi kurup yeniden kontrol et.", color = CheckWarn, fontSize = 13.sp)
             }
             NATIVE_VOICE_SLOTS.forEach { (archetype, title) ->
                 var expanded by remember(archetype) { mutableStateOf(false) }
